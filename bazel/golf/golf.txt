@@ -2813,7 +2813,7 @@ gormless
 glottalite
 gloiopeltis
 gentiobiose
-guardianess
+guardianess 1
 gait
 gentlemanlikeness
 gossan
