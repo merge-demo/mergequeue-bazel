@@ -56,7 +56,6 @@ jobs:
         with:
           trunk-token: ${{ steps.get-trunk-token.outputs.token }}
           bazel-workspace-path: bazel
-          bazel-diff-generate-hashes-extra-args: --no-excludeExternalTargets
           verbose: 1
         env:
           API_URL: ${{ steps.get-trunk-token.outputs.api_url }}
