@@ -4289,7 +4289,7 @@ archcount
 adrenochrome
 adrenocortical
 adrenosterone
-adrenocorticotrophic
+adrenocorticotrophic 1
 ammonolysis
 afterstain
 albuminosis
