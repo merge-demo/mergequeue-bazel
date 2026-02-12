@@ -3679,7 +3679,7 @@ degradement
 dozing
 depsid
 disrupt
-decimalisation
+decimalisation 1
 discalced
 denigrate
 dropworts
