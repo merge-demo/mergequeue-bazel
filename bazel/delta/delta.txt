@@ -6576,7 +6576,7 @@ disinvest
 desecrated
 dilemmatical
 dipole
-dockize
+dockize 1
 disematism
 deavely
 dendrologic
