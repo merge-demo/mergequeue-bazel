@@ -50,7 +50,7 @@ jobs:
       - name: run mq
         id: edits
         run:
-          ./mq generate --gh-token=${{ secrets.ELI_MERGEDEMO }} --trunk-token=${{
+          ./mq generate --gh-token=${{ secrets.ROBERT_MERGEDEMO }}  --gh-token=${{ secrets.PAT_MERGEDEMO }} --gh-token=${{ secrets.ELI_MERGEDEMO }} --gh-token=${{ secrets.PHIL_MERGEDEMO }} --gh-token=${{ secrets.BEN_MERGEDEMO }} --trunk-token=${{
           steps.get-trunk-token.outputs.token }}
         env:
           TRUNK_TOKEN: ${{ steps.get-trunk-token.outputs.token }}
