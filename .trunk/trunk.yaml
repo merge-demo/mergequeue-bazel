@@ -1,0 +1,35 @@
+version: 0.1
+cli:
+  version: 1.25.0
+plugins:
+  sources:
+    - id: trunk
+      ref: v1.7.0
+      uri: https://github.com/trunk-io/plugins
+    - id: configs
+      uri: https://github.com/trunk-io/configs
+      ref: v1.1.0
+runtimes:
+  enabled:
+    - node@22.16.0
+    - python@3.10.8
+    - rust@1.82.0
+
+actions:
+  enabled:
+    - trunk-announce
+    - trunk-check-pre-push
+    - trunk-fmt-pre-commit
+    - trunk-upgrade-available
+
+tools:
+  enabled:
+    - bazel@8.2.1
+    - jq@jq-1.7.1
+lint:
+  enabled:
+    - actionlint@1.7.10
+  disabled:
+    - bandit
+    - eslint
+    - semgrep

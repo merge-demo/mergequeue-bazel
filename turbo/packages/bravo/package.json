@@ -1,0 +1,8 @@
+{
+  "name": "@mergequeue/bravo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Building bravo package'"
+  }
+}

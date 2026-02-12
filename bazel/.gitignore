@@ -1,0 +1,7 @@
+
+# Bazel output folders
+bazel-bin/
+bazel-out/
+bazel-testlogs/
+bazel-bazel/
+.bazel/

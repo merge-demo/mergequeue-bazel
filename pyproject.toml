@@ -1,0 +1,9 @@
+[project]
+name = "mergequeue-uv-example"
+version = "0.1.0"
+description = "Merge queue uv demonstration repository"
+requires-python = ">=3.8"
+dependencies = ["requests>=2.31.0"]
+
+[tool.uv.workspace]
+members = ["uv/lib/common", "uv/lib/*", "uv/apps/*"]

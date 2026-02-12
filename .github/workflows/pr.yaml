@@ -1,0 +1,81 @@
+name: PR Testing
+run-name: PR Checks for ${{ github.ref_name }}
+on:
+  pull_request: {}
+  push:
+    branches:
+      - trunk-merge/**
+
+# Concurrency group so we can detect duplicate runs (pull_request + push for same branch).
+# We do not cancel in progress - the duplicate run will skip so MQ doesn't see a failure.
+concurrency:
+  group: pr-test-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    name: run tests (${{ github.event_name == 'pull_request' && 'PR' || 'push' }})
+    runs-on: ubuntu-slim
+    env:
+      BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # On push: if this branch has an open PR, skip so the pull_request trigger handles it (avoid duplicate work).
+      # On pull_request: always run (we are the PR run).
+      - name: Check for duplicate run
+        id: duplicate
+        uses: actions/github-script@v7
+        with:
+          script: |
+            if (context.eventName === 'pull_request') {
+              core.setOutput('skip_duplicate', 'false');
+              return;
+            }
+            const branch = process.env.BRANCH_NAME;
+            const { data: pulls } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              head: `${context.repo.owner}:${branch}`,
+              state: 'open'
+            });
+            core.setOutput('skip_duplicate', pulls.length > 0 ? 'true' : 'false');
+        env:
+          BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+
+      - uses: robinraju/release-downloader@v1.9
+        if: steps.duplicate.outputs.skip_duplicate != 'true'
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: false
+          extract: true
+
+      - name: Make mq executable
+        if: steps.duplicate.outputs.skip_duplicate != 'true'
+        run: chmod +x ./mq
+
+      - name: Determine is_merge
+        id: check_is_merge
+        if: steps.duplicate.outputs.skip_duplicate != 'true'
+        run: |
+          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then            
+            echo "on_merge=true" >> $GITHUB_OUTPUT
+          else
+          echo "on_merge=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: run tests
+        id: test
+        # only actually run the test if we're on the merge branch
+        # so we can simulate delay and flakiness
+        if:
+          steps.duplicate.outputs.skip_duplicate != 'true' && steps.check_is_merge.outputs.on_merge
+          == 'true'
+        run: |
+          ./mq test-sim
+        env:
+          IS_MERGE: ${{ steps.check_is_merge.outputs.on_merge }}

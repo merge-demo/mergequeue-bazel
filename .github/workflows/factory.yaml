@@ -1,0 +1,65 @@
+name: PR Factory
+
+on:
+  workflow_dispatch: {}
+  # Comment the following cron schedule to stop running this workflow every 30 minutes
+  schedule:
+    - cron: 0/30 * * * *
+
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  create-pr:
+    # needs: merge-pr
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@v1
+        with:
+          tools: gh
+
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: true
+          extract: true
+
+      - name: Make mq executable
+        run: chmod +x ./mq
+
+      - name: Get trunk API config
+        id: get-trunk-token
+        run: |
+          trunk_api=$(./mq config trunk.api)
+          echo "api_url=https://${trunk_api}:443/v1/setImpactedTargets" >> $GITHUB_OUTPUT
+          if [ "$trunk_api" = "api.trunk.io" ]; then
+            echo "token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}" >> $GITHUB_OUTPUT
+          else
+            echo "token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: run mq
+        id: edits
+        run:
+          ./mq generate --gh-token=${{ secrets.ELI_MERGEDEMO }} --trunk-token=${{
+          steps.get-trunk-token.outputs.token }}
+        env:
+          TRUNK_TOKEN: ${{ steps.get-trunk-token.outputs.token }}
+
+      - name: run mq
+        if: always()
+        id: clean
+        run:
+          ./mq housekeeping --gh-token=${{ secrets.ELI_MERGEDEMO }} --trunk-token=${{
+          steps.get-trunk-token.outputs.token }}
+        env:
+          TRUNK_TOKEN: ${{ steps.get-trunk-token.outputs.token }}

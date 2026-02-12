@@ -1,0 +1,13 @@
+{
+  "name": "mergequeue-nx",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Merge queue Nx demonstration workspace",
+  "scripts": {
+    "nx": "nx",
+    "wordcounter": "node apps/wordcounter/wordcounter.js"
+  },
+  "devDependencies": {
+    "nx": "^21.0.0"
+  }
+}

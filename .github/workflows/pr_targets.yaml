@@ -1,0 +1,110 @@
+name: Upload Impacted Targets
+run-name: pr targets for ${{ github.ref_name }}
+on: pull_request
+
+jobs:
+  compute_pr_targets:
+    name: compute_pr_targets
+    runs-on: ubuntu-slim
+    if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@v1
+        with:
+          tools: jq
+
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: true
+          extract: true
+
+      - name: Make mq executable
+        run: chmod +x ./mq
+
+      - name: Get trunk token
+        id: get-trunk-token
+        run: |
+          trunk_api=$(./mq config trunk.api)
+          echo "api_url=https://${trunk_api}:443/v1/setImpactedTargets" >> $GITHUB_OUTPUT
+          if [ "$trunk_api" = "api.trunk.io" ]; then
+            echo "token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}" >> $GITHUB_OUTPUT
+          else
+            echo "token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: get demo config
+        id: get-demo-config
+        run: |
+          output=$(./mq config)
+          echo "$output" | jq -r '.mode'
+          echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_OUTPUT
+          echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_OUTPUT
+
+      - name: bazel pr targets
+        uses: trunk-io/merge-action@752cadfa168ce011c0fa396f4cbc6159ea445c02
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'bazel'
+        with:
+          trunk-token: ${{ steps.get-trunk-token.outputs.token }}
+          bazel-workspace-path: bazel
+          bazel-diff-generate-hashes-extra-args: --no-excludeExternalTargets
+          verbose: 1
+        env:
+          API_URL: ${{ steps.get-trunk-token.outputs.api_url }}
+
+      - name: nx pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'nx'
+        uses: ./.github/actions/nx-pr-targets
+        with:
+          trunk-token: ${{ steps.get-trunk-token.outputs.token }}
+          api-url: ${{ steps.get-trunk-token.outputs.api_url }}
+          base-sha: ${{ github.event.pull_request.base.sha }}
+          head-sha: ${{ github.event.pull_request.head.sha }}
+
+      - name: turbo pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'turbo'
+        uses: ./.github/actions/turbo-pr-targets
+        with:
+          trunk-token: ${{ steps.get-trunk-token.outputs.token }}
+          api-url: ${{ steps.get-trunk-token.outputs.api_url }}
+          base-sha: ${{ github.event.pull_request.base.sha }}
+          head-sha: ${{ github.event.pull_request.head.sha }}
+
+      - name: uv pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'uv'
+        uses: ./.github/actions/uv-pr-targets
+        with:
+          trunk-token: ${{ steps.get-trunk-token.outputs.token }}
+          api-url: ${{ steps.get-trunk-token.outputs.api_url }}
+          base-sha: ${{ github.event.pull_request.base.sha }}
+          head-sha: ${{ github.event.pull_request.head.sha }}
+
+      - name: named pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'folders'
+        run: |
+          # uncomment if you want to see full github json
+          # echo "::group::GitHub Json"
+          TEMP_FILE=$(mktemp)
+          echo '${{ toJSON(github) }}' > $TEMP_FILE
+          echo "::endgroup::"
+          ./mq upload-targets --github-json=$TEMP_FILE --trunk-token=${{ steps.get-trunk-token.outputs.token }}
+        env:
+          TRUNK_TOKEN: ${{ steps.get-trunk-token.outputs.token }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

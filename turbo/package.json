@@ -1,0 +1,17 @@
+{
+  "name": "mergequeue-turbo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Merge queue Turbo demonstration workspace",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "wordcounter": "node apps/wordcounter/wordcounter.js"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  }
+}

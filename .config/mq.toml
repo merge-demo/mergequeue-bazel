@@ -1,0 +1,41 @@
+mode = "parallelqueue"
+build = "uv"
+
+[trunk]
+api = "api.trunk.io"
+
+[git]
+name = "trunk bot"
+email = "bot@trunk.io"
+
+[test]
+flake_rate = 0.01
+# how long test should spin for (can be described as 10s, 7m, 1hr)
+sleep_for = "10m"
+
+[pullrequest]
+labels = ""                     # label to apply to pull request on creation (comma separated list)
+comment = ""
+requests_per_hour = 10          # target number of pull requests per hour
+run_generate_for = "30 minutes"
+change_code_path = "uv/lib"
+
+# how to distribute changes of impacted deps
+# 75% - 1 dep change
+# 15% - 2 dep change
+# 9%  - 3 deps
+# 1% - ALL will be specified
+deps_distribution = "0.75x1,0.15x2,0.09x3,0.01xALL"
+
+# rate at which PRs should simulate a logical merge conflict and need to be rejected
+logical_conflict_every = 100
+logical_conflict_file = "logical-conflict.txt"
+
+close_stale_after = "48 hours"
+
+[merge]
+# trigger = "api"
+# label to apply to pull request to queue
+labels = ""
+# comment to post to queue
+comment = "/trunk merge"

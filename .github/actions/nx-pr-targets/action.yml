@@ -1,0 +1,66 @@
+name: Nx PR Targets
+description: Detect and upload impacted Nx targets for a pull request
+
+inputs:
+  trunk-token:
+    description: Trunk API token
+    required: true
+  api-url:
+    description: Trunk API URL
+    required: true
+  base-sha:
+    description: Base SHA for comparison
+    required: true
+  head-sha:
+    description: Head SHA for comparison
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r tools/requirements.txt
+      shell: bash
+
+    - name: Setup Node.js for Nx
+      uses: actions/setup-node@v4
+      with:
+        node-version: 24
+
+    - name: Install Nx dependencies
+      run: |
+        cd nx
+        npm install
+      shell: bash
+
+    - name: Fetch commits for comparison
+      run: |
+        git fetch --no-tags origin "${{ inputs.base-sha }}"
+        git fetch --no-tags origin "${{ inputs.head-sha }}"
+      shell: bash
+
+    - name: Generate impacted Nx targets
+      run: |
+        # Generate impacted targets using the detection script
+        python3 tools/detect_impacted_nx_targets.py --base="${{ inputs.base-sha }}" --head="${{ inputs.head-sha }}" -o impacted_targets_json_tmp
+      shell: bash
+
+    - name: Upload targets to Trunk API
+      env:
+        TRUNK_TOKEN: ${{ inputs.trunk-token }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        PR_NUMBER: ${{ github.event.pull_request.number }}
+        PR_SHA: ${{ github.event.pull_request.head.sha }}
+        TARGET_BRANCH: ${{ github.event.pull_request.base.ref }}
+      run: |
+        python3 tools/upload_targets.py \
+          --targets-file=impacted_targets_json_tmp \
+          --api-url=${{ inputs.api-url }}
+      shell: bash
