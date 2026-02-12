@@ -14,8 +14,8 @@ concurrency:
 
 jobs:
   test:
-    name: run tests (${{ github.event_name == 'pull_request' && 'PR' || 'push' }})
-    runs-on: ubuntu-slim
+    name: run tests on ${{ github.event_name == 'pull_request' && 'PR' || 'push' }}
+    runs-on: ubuntu-latest
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
