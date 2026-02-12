@@ -13524,7 +13524,7 @@ diocletian
 duchesses
 dissuadable
 disseason
-disseat
+disseat 1
 disgood
 diphyodont
 donnism
