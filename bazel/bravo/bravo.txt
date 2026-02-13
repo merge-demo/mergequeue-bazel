@@ -3737,7 +3737,7 @@ bemist
 battologise
 bastile
 batlan
-bukshi
+bukshi 1
 battologising
 battologize
 bronchiocele
