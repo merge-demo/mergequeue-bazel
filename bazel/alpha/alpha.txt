@@ -21109,7 +21109,7 @@ aerobiont
 aclydes
 arkoses
 ascothoracica
-acritude
+acritude 1
 aerographer
 ascribable
 ahum
