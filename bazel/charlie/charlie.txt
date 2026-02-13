@@ -20529,7 +20529,7 @@ chromatophorous
 compellable
 cheirognomy
 compelled
-carpogenic
+carpogenic 1
 crumpling
 clarkia
 cipherable
