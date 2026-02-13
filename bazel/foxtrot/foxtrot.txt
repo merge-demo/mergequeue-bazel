@@ -4373,7 +4373,7 @@ furosemide
 fisetin
 focuser
 forfeitable
-frate
+frate 1
 fibroplastic
 flyte
 figureheads
