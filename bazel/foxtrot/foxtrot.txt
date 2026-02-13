@@ -1183,7 +1183,7 @@ funaria
 fifths
 fume
 forepass
-frighter
+frighter 1
 foochowese
 fovea
 fascist
