@@ -28501,7 +28501,7 @@ carapo
 creatureship
 conversibility
 creaturize
-churchanity
+churchanity 1
 creaze
 crebricostate
 crebrisulcate
