@@ -5872,7 +5872,7 @@ geolatry
 grandesque
 glycogenous
 gravimetric
-goliards
+goliards 1
 gallinaceous
 graphometrist
 ganglionary
