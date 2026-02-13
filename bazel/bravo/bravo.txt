@@ -494,7 +494,7 @@ buffo
 backstaff
 bridely
 backstitch
-bahoo
+bahoo 1
 blumed
 biserial
 billhead
