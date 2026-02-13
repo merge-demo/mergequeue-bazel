@@ -9074,7 +9074,7 @@ glasser
 grimalkin
 genitive
 gentianwort
-ghast
+ghast 1
 grimme
 gipsyhood
 grillroom
