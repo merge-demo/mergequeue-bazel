@@ -1132,7 +1132,7 @@ endere
 editorialization
 elsa
 ecphory
-expunction
+expunction 1
 enclosed
 emblematising
 editorializers
