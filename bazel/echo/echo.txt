@@ -13613,7 +13613,7 @@ empedoclean
 effossion
 elinvar
 epsilon
-epiphytically
+epiphytically 1
 eremurus
 enfeeble
 emamelware
