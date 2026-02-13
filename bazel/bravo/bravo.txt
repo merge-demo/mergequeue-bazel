@@ -7549,7 +7549,7 @@ bunnell
 belimousined
 blowpit
 beguilingly
-bandolier
+bandolier 1
 beloam
 begirding
 bewary
