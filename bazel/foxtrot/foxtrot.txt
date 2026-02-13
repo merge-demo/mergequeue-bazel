@@ -2504,7 +2504,7 @@ fingers
 forehorse
 flerry
 fudging
-fainthearted
+fainthearted 1
 faction
 farted
 facinorousness
