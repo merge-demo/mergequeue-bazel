@@ -4081,7 +4081,7 @@ gravelliness
 gentleman
 gratifications
 gim
-gambolling
+gambolling 1
 gerundively
 groining
 gletscher
