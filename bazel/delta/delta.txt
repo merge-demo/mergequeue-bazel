@@ -13785,7 +13785,7 @@ dalteen
 debunk
 dissuades
 dissuading
-determinations
+determinations 1
 docoglossa
 defections
 disturbedly
