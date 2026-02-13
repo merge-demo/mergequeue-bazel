@@ -12981,7 +12981,7 @@ appearance
 adulterator
 astrer
 aquilinity
-assimilable
+assimilable 1
 athelings
 alkalisable
 angareeb
