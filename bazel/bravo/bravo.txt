@@ -5094,7 +5094,7 @@ bowellike
 bejuco
 blazoning
 befittingness
-behoof
+behoof 1
 boundedness
 beflag
 bamboo
