@@ -3686,7 +3686,7 @@ enwheel
 everse
 everywheres
 enchytrae
-entrancer
+entrancer 1
 envenom
 eternised
 exergues
