@@ -14346,7 +14346,7 @@ drawly
 diureide
 deteriorations
 diureses
-diuresis
+diuresis 1
 difficile
 demogorgon
 democratical
