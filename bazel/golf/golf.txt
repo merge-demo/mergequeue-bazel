@@ -6201,7 +6201,7 @@ geadephaga
 goaltender
 goanna
 grandmontine
-gushiness
+gushiness 1
 graddan
 gamboler
 genecologist
