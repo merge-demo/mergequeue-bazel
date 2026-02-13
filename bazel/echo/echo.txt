@@ -14003,7 +14003,7 @@ equinity
 eustacy
 extraregarding
 endogen
-extraregularly
+extraregularly 1
 expirers
 exiling
 exsertile
