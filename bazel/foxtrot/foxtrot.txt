@@ -4912,7 +4912,7 @@ fireworkless
 fulgural
 flourescent
 fino
-fourscore
+fourscore 1
 flakiest
 forged
 frequentable
