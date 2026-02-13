@@ -2479,7 +2479,7 @@ decisional
 decisions
 decisis
 dribbled
-delays
+delays 1
 dixy
 decisively
 darkened
