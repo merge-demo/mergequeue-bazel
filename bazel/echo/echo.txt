@@ -11913,7 +11913,7 @@ epiphytes
 emissivity
 exceptless
 emends
-eightfoil
+eightfoil 1
 engore
 euploeinae
 ectoderms
