@@ -3143,7 +3143,7 @@ egohood
 externalizing
 eloigned
 eleometer
-euphonetic
+euphonetic 1
 emissive
 empanelled
 endoscopy

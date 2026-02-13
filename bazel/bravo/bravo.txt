@@ -3498,7 +3498,7 @@ blubberous
 bumbass
 bissext
 birdcall
-batched
+batched 1
 batcher
 bargemen
 bogging
