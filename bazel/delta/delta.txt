@@ -1440,7 +1440,7 @@ diploidy
 digresses
 demiurgical
 dawning
-desocialize
+desocialize 1
 dawnlike
 demimetope
 disoccident
