@@ -1215,7 +1215,7 @@ balloting
 bakra
 bruchus
 backslid
-beds
+beds 1
 bittersweetness
 buxbaumia
 becreep
