@@ -1523,7 +1523,7 @@ fattenable
 fauntleroy
 frankability
 flagellaria
-freely
+freely 1
 faurd
 foreseat
 feedbox
