@@ -7653,7 +7653,7 @@ bezan
 biplace
 bezanty
 brassiness
-bargain
+bargain 1
 bezants
 bezazzes
 bilk
