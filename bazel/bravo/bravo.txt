@@ -4794,7 +4794,7 @@ backpedaled
 burriest
 bougee
 bedroll
-bedrooms
+bedrooms 1
 bruckle
 bandicoots
 bedrugged
