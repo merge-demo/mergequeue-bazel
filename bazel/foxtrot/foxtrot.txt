@@ -6060,7 +6060,7 @@ fertilize
 frizz
 flunkeyize
 farting
-flavorfulness
+flavorfulness 1
 fungiform
 firmarius
 freebooted
