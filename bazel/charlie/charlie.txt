@@ -28998,7 +28998,7 @@ chemokinesis
 choletherapy
 coachbuilding
 choledography
-cries
+cries 1
 crig
 crying
 crile
