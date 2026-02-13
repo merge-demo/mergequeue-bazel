@@ -1525,7 +1525,7 @@ bouton
 backsword
 ballastic
 ballata
-brisked
+brisked 1
 batikulin
 ballatoon
 broiden
