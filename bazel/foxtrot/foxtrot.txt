@@ -6215,7 +6215,7 @@ frumpishness
 fudder
 fluctuating
 frugalist
-fluctuational
+fluctuational 1
 factioneer
 fluegelhorn
 foalfoot
