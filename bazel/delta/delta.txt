@@ -799,7 +799,7 @@ delusters
 dovecote
 diuretical
 danegelds
-dungeon
+dungeon 1
 deckhead
 daneweed
 daneweeds
