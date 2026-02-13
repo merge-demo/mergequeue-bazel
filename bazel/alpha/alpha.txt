@@ -9929,7 +9929,7 @@ adminiculate
 abducens
 anticlastic
 auricled
-amativeness
+amativeness 1
 arcing
 adagial
 artificious
