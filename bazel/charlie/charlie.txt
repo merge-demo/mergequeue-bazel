@@ -20395,7 +20395,7 @@ compactors
 compacts
 comites
 compacture
-crumbliness
+crumbliness 1
 compadre
 curstfully
 conjurison
