@@ -11391,7 +11391,7 @@ chloroplatinous
 chloroprene
 creature
 chloroquine
-coronas
+coronas 1
 camagon
 cyclamates
 cloudlessly
