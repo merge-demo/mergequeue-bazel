@@ -1602,7 +1602,7 @@ doorjambs
 dummered
 dawe
 dicyanid
-destruct
+destruct 1
 dunkirker
 deafly
 deafmuteness
