@@ -49,7 +49,7 @@ jobs:
           echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_OUTPUT
 
       - name: bazel pr targets
-        uses: trunk-io/merge-action@de931d190564239daab6ec6e694ca61f7a43f870
+        uses: trunk-io/merge-action@d17d5dcbc490a3113b1d184d15d725fa338c0e79
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build == 'bazel'
