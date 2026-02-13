@@ -24506,7 +24506,7 @@ copartiment
 circles
 commandrie
 copartnership
-chronodeik
+chronodeik 1
 counterquarterly
 copassionate
 countermotion
