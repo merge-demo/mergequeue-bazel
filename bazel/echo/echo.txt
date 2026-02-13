@@ -6538,7 +6538,7 @@ eleventhly
 erythrocytometer
 entamoebic
 endostosis
-ephyra
+ephyra 1
 exactly
 extratension
 entail
