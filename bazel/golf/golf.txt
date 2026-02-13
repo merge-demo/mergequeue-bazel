@@ -3463,7 +3463,7 @@ gerrhosauridae
 gila
 gestalt
 gestaltist
-gallicisms
+gallicisms 1
 gynecology
 grum
 gubernance
