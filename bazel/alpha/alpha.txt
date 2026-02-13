@@ -11865,7 +11865,7 @@ alconde
 analogousness
 analogue
 analphabet
-analphabete
+analphabete 1
 amphibium 1
 angelus
 acyanopsia
