@@ -6005,7 +6005,7 @@ fez
 floorwise
 featishness
 fusty
-foolscaps
+foolscaps 1
 felspars
 flacon
 fumattoria
