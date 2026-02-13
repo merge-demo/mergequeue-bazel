@@ -830,7 +830,7 @@ fannia
 forbecause
 fanon
 fronted
-fantailed
+fantailed 1
 fingermark
 fermi
 fashioner
