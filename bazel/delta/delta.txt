@@ -18678,7 +18678,7 @@ dwarfs
 diaulos
 dwindled
 dwindlement
-deports
+deports 1
 dwindles
 dehisced
 dwindling
