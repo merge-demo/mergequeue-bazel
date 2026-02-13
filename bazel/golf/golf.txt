@@ -915,7 +915,7 @@ garnishable
 grittiness
 gosport
 gemeinschaften
-galt
+galt 1
 gametophoric
 gorbet
 gated
