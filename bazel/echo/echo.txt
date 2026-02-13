@@ -13561,7 +13561,7 @@ embowment
 ergusia
 exsolving
 epochs
-exposedness
+exposedness 1
 energies
 ebeneous
 exsudate
