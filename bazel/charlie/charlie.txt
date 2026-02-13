@@ -29219,7 +29219,7 @@ cogboat
 characid
 crippleness
 crippler
-cripples
+cripples 1
 creaser
 capillarity
 cystomatous
