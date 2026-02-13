@@ -3335,7 +3335,7 @@ dartrous
 definish
 decolored
 decapitalization
-definite
+definite 1
 definitely
 distrait
 definiteness
