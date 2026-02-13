@@ -6401,7 +6401,7 @@ ethmoids
 elaboration
 enrobed
 encrinitical
-epist
+epist 1
 enunciator
 eluvivia
 elapid
