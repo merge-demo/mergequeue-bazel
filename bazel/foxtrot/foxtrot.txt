@@ -8038,7 +8038,7 @@ footstools
 felsites
 ferroalloy
 faunally
-fanfoot
+fanfoot 1
 fieldie
 favoured
 folksay
