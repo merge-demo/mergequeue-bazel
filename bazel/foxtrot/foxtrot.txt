@@ -3717,7 +3717,7 @@ frownless
 fiercen
 flavorlessness
 featherers
-frail
+frail 1
 feodal
 frousiest
 facebread
