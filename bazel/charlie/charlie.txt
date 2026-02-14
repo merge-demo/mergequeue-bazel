@@ -14729,7 +14729,7 @@ canamary
 closen
 culler
 coursy
-cowering
+cowering 1
 cityfied
 citifying
 cityfolk
