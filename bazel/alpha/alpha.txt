@@ -852,7 +852,7 @@ absconder
 agonizes
 archegoniate
 agha
-accurse
+accurse 1
 absconsa
 abscound
 aphakia
