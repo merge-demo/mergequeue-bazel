@@ -3971,7 +3971,7 @@ foreshown
 funneled
 farcical
 follyproof
-fossil
+fossil 1
 footsteps
 founders
 focalise
