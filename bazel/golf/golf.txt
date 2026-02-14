@@ -7949,7 +7949,7 @@ glycerol
 glaziery
 goodyish
 gymnurinae
-guesdist
+guesdist 1
 gymnospermy
 glumness
 getmjlkost
