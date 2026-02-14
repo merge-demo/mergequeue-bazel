@@ -4286,7 +4286,7 @@ emulsions
 equidistantial
 emacerated
 effluxes
-emphasise
+emphasise 1
 extoller
 emulsoids
 enteropathogenic
