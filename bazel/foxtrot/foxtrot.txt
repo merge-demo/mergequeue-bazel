@@ -6250,7 +6250,7 @@ fluidic
 flapdragon
 friendlike
 frankeniaceous
-fecit
+fecit 1
 fluidified
 fluoarsenate
 ferromagnet

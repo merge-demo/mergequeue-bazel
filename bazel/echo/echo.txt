@@ -11473,7 +11473,7 @@ eleocharis
 evictor
 evidence
 edeagra
-earned
+earned 1
 evidences
 ethereous
 ethonomic
