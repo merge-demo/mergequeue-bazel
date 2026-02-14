@@ -7031,7 +7031,7 @@ folkloristic
 ferrum
 forgiveness
 fontal
-freakout
+freakout 1
 fulmining
 fougasse
 fontful
