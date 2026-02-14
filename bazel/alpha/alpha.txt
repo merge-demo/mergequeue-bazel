@@ -9218,7 +9218,7 @@ antiknock
 almury
 alnage
 alnaschar
-aposiopestic
+aposiopestic 1
 astracism
 awest
 alethic

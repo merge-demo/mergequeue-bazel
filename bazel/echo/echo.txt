@@ -9628,7 +9628,7 @@ enlarging
 espadon
 effervescible
 ewer
-endoblast
+endoblast 1
 encense
 entangleable
 equipper
