@@ -2944,7 +2944,7 @@ filialness
 facier
 fooleries
 flukiness
-freezed
+freezed 1
 foxberries
 fac
 flaked
