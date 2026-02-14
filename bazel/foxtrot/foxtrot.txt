@@ -10131,7 +10131,7 @@ fumarium
 frivolling
 feasibility
 falchions
-finalize
+finalize 1
 fricatives
 frivolousness
 foray
