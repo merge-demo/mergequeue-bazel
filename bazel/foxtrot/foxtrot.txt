@@ -9297,7 +9297,7 @@ flagons
 fordull
 foregoers
 foremost
-fabrikoid
+fabrikoid 1
 fruticeta
 flukey
 forsado
