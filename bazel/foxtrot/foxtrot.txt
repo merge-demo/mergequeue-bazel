@@ -6682,7 +6682,7 @@ flyblow
 flores
 fogdogs
 frippery
-fairways
+fairways 1
 fogdom
 fogfruit
 fibrins
