@@ -738,7 +738,7 @@ gonoplasm
 galvanoglyph
 gerbillinae
 gar
-goniometric
+goniometric 1
 gnawer
 greenshank
 gasted
