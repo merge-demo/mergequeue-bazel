@@ -21960,7 +21960,7 @@ confidingness
 configural
 canteens
 coinsurable
-coexclusive
+coexclusive 1
 clinohedrite
 configurating
 configuration
