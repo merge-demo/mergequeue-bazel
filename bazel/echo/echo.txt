@@ -12711,7 +12711,7 @@ eudiometer
 elmer
 everbearer
 exonym
-era
+era 1
 earcockle
 energizing
 exophasic
