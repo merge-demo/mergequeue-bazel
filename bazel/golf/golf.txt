@@ -3466,7 +3466,7 @@ gestaltist
 gallicisms 1
 gynecology
 grum 1
-gubernance
+gubernance 1
 gove
 gaveler
 geometers
