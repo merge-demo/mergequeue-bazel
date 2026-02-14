@@ -2160,7 +2160,7 @@ cymba
 corduroy
 campho
 camphocarboxylic
-camphoid
+camphoid 1
 choryos
 camphol
 campholic
