@@ -2915,7 +2915,7 @@ elevons
 eurydice
 elf
 elfenfolk
-endogeny
+endogeny 1
 elfinwood
 exfoliating
 extremity
