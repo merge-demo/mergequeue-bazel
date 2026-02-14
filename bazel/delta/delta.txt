@@ -2552,7 +2552,7 @@ dwined
 declasses
 dorn
 disjudication
-declass
+declass 1
 dimorphs
 dweller
 declassification
