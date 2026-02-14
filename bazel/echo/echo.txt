@@ -8697,7 +8697,7 @@ equiproportionality
 egocentrism
 eluate
 escopet
-eked
+eked 1
 equisetaceous
 epicondylar
 endothelia
