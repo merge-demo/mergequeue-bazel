@@ -9324,7 +9324,7 @@ amputations
 alpenstock
 alpenstocks
 alpestrine
-aircraft
+aircraft 1
 atomiferous
 alphabetarian
 acclimatizable
