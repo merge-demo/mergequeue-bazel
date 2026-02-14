@@ -17653,7 +17653,7 @@ amphipleura
 appetitious
 anopsia
 adultness
-allworthy
+allworthy 1
 alphabetizes
 alisos
 armariolum
