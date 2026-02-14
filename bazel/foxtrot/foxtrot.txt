@@ -6546,7 +6546,7 @@ fluotantalate
 flutteriness
 flagrate
 fluttering
-forswears
+forswears 1
 feedboard
 flensing
 flutterment
