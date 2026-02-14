@@ -10032,7 +10032,7 @@ genetoid
 geomancies
 gangliac
 gastronomes
-gleans
+gleans 1
 gazebos
 glaistig
 gammation
