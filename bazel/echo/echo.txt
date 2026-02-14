@@ -8242,7 +8242,7 @@ electromagnetist
 elephantiasic
 epipharyngeal
 exonerates
-epistatic
+epistatic 1
 empyrosis
 episodial
 epistaxis
