@@ -2360,7 +2360,7 @@ funerary
 favel
 femineity
 frightener
-fanhouse
+fanhouse 1
 feres
 floatstone
 flytings
