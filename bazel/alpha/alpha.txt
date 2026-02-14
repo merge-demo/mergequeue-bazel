@@ -7587,7 +7587,7 @@ anastomos
 astragal
 alcazaba
 apophonic
-adamance
+adamance 1
 agrostographer
 asymptotical
 alce
