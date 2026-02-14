@@ -16556,7 +16556,7 @@ draggers
 draggier
 diacritics
 destinies
-disendows
+disendows 1
 dyscrased
 delomorphous
 dodecarchy
