@@ -5217,7 +5217,7 @@ beggarhood
 bergamots
 befurbelowed
 befurred
-begabled
+begabled 1
 bowla
 begad
 bedders
