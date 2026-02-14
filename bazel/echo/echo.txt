@@ -9633,7 +9633,7 @@ encense
 entangleable
 equipper
 entia
-epenthesize
+epenthesize 1
 epacris
 espagnole
 elaeagnus
