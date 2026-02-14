@@ -6376,7 +6376,7 @@ bollen
 benzofuran
 benzofuryl
 bracted
-biozone
+biozone 1
 belgium
 benzoglycolic
 benzoglyoxaline
