@@ -7711,7 +7711,7 @@ fossa
 fidessa
 flinchingly
 foreignly
-flory
+flory 1
 fishy
 foreignness
 foreimpressed
