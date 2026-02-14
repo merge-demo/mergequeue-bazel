@@ -10900,7 +10900,7 @@ blooded
 blindfish
 blindfishes
 bluelegs
-blindfolded
+blindfolded 1
 bismuth
 bassus
 butterbush
