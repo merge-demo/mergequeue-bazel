@@ -5266,7 +5266,7 @@ embarcadero
 ensphere
 edginesses
 edificative
-euchroic
+euchroic 1
 exsected
 enantiomeride
 extrascriptural
