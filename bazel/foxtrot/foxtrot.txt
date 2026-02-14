@@ -3624,7 +3624,7 @@ factories
 fogus
 fanwort
 fenagler
-figurize
+figurize 1
 filibusterers
 faecula
 fourble
