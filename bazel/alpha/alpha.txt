@@ -21103,7 +21103,7 @@ ascones
 asconoid
 abaff
 air
-ascophore
+ascophore 1
 alfas
 aerobiont
 aclydes
