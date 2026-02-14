@@ -10690,7 +10690,7 @@ extirpatory
 eva 1
 euglenaceae
 extrasyllabic
-enswathe
+enswathe 1
 ensigning
 embraced
 endopleural
