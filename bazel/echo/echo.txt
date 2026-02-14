@@ -8893,7 +8893,7 @@ ergatomorphic
 ergo
 extrameridian
 ergodic
-euphoria
+euphoria 1
 estaminets
 expectorators
 entoderms
