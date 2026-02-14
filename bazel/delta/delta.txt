@@ -12658,7 +12658,7 @@ dextroses
 didy
 dyskeratosis
 diskette
-discernibleness
+discernibleness 1
 diskindness
 diskography
 dvandva
