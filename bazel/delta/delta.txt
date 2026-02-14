@@ -9358,7 +9358,7 @@ differentiator
 defalcates
 deneb
 dewax
-diplopia
+diplopia 1
 differently
 dinarchies
 differer

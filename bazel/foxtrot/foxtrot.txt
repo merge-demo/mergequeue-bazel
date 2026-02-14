@@ -2950,7 +2950,7 @@ fac
 flaked
 furloughs
 fungological
-froths
+froths 1
 fevered
 flitchen
 furnacing
