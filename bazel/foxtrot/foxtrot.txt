@@ -9182,7 +9182,7 @@ fenagles
 fusses
 fracturing
 filicide
-frenchiness
+frenchiness 1
 foolify
 formicaria
 fraena
