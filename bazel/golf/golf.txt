@@ -2798,7 +2798,7 @@ gimmor
 gascoigny
 greatcoat
 gyro
-gyne
+gyne 1
 garni
 gershon
 guzzledom
