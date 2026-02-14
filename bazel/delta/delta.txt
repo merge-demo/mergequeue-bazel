@@ -15235,7 +15235,7 @@ downing
 defamers
 dolisie
 dolite
-dolium
+dolium 1
 darogha
 dureful
 distinguishability
