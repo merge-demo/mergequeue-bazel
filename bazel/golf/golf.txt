@@ -8540,7 +8540,7 @@ gaufrette
 goniatitidae
 gallwort
 gith
-gourmand
+gourmand 1
 grabbling
 generates
 geranomorph
