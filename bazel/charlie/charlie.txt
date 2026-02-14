@@ -13264,7 +13264,7 @@ cataloguer
 chemiatry
 cycloid
 coalternation
-cycloidean
+cycloidean 1
 coalshed
 cogswellia
 culmicolous
