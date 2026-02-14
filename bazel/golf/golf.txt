@@ -7506,7 +7506,7 @@ gamogenesis
 gaen
 glycolytic
 gortonian
-glaucophanize
+glaucophanize 1
 gangs
 glitzy
 glabellous

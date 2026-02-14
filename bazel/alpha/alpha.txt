@@ -6132,7 +6132,7 @@ aglypha
 analogal
 articular
 asymtotically
-aglyphodont
+aglyphodont 1
 algodonite
 awaken
 alcyones
