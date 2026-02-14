@@ -7371,7 +7371,7 @@ epauleted
 eyries
 epee
 epeeist
-embue
+embue 1
 exstipulate
 epeiric
 exciseman
