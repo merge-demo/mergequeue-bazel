@@ -8132,7 +8132,7 @@ exhumator
 episclera
 ell
 episcopacy
-expensilation
+expensilation 1
 ensanguined
 enaction
 enkolpia
