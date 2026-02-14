@@ -18567,7 +18567,7 @@ defortify
 decentration
 dush
 dusked
-ditchdigger
+ditchdigger 1
 dissimilitude
 dusky
 dessil
