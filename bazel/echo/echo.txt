@@ -12455,7 +12455,7 @@ enlimn
 effectuate
 exhumatory
 emancipations
-explorate
+explorate 1
 exfiltrate
 equilibrial
 electrolysing
