@@ -8123,7 +8123,7 @@ gooky
 granulary
 guidebooks
 glyoxalin
-gobs
+gobs 1
 genically
 gorsedd
 galactic
