@@ -3060,7 +3060,7 @@ canvasbacks
 canvasers
 coralroot
 cumaldehyde
-coperiodic
+coperiodic 1
 capriola
 cyclopterous
 canvasing
