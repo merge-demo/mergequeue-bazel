@@ -11235,7 +11235,7 @@ filter
 functional
 fylfot
 fornent
-factable
+factable 1
 forementioned
 fatherkin
 funkiness
