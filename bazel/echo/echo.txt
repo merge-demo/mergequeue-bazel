@@ -2614,7 +2614,7 @@ ebulus
 exportability
 etherical
 ecphova
-expurgative
+expurgative 1
 electrophoretically
 eudiaphoresis
 excerpted
