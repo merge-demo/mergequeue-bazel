@@ -24855,7 +24855,7 @@ atmosphere
 anaptyxis
 alands
 animates
-artisanal
+artisanal 1
 aberrations
 aggrandizements
 avouchers
