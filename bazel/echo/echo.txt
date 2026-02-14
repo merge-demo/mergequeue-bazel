@@ -7770,7 +7770,7 @@ exchanger
 epidymides
 eosine
 extractiform
-encephalogram
+encephalogram 1
 equispatial
 exotisms
 easternmost
