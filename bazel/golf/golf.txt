@@ -1815,7 +1815,7 @@ gastrotomic
 gulsach
 glycine
 gastrocolostomy
-geodesia
+geodesia 1
 gastrovascular
 geryoniidae
 gthite
