@@ -8186,7 +8186,7 @@ feverberries
 formicinae
 faddle
 fraught
-flourishable
+flourishable 1
 furores
 flockbed
 foghorn
