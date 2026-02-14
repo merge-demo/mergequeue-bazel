@@ -6634,7 +6634,7 @@ deperming
 dreamwhile
 desert
 darkroom
-deescalated
+deescalated 1
 deacidification
 denotational
 dissentism
