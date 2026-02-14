@@ -2271,7 +2271,7 @@ decemfoliate
 dogmas
 decempedal
 demotion
-dominiums
+dominiums 1
 decemplex
 dissocialize
 decempunctate
