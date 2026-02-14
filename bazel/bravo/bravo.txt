@@ -12611,7 +12611,7 @@ bagels
 baguets
 beleaguerment
 bodeful
-bulged
+bulged 1
 brasero
 basinlike
 bellware
