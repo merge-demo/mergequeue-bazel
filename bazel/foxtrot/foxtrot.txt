@@ -2547,7 +2547,7 @@ ferryboat
 fatties
 fitchews
 faithbreach
-fishpot
+fishpot 1
 fretter
 forewarningly
 forequarter
