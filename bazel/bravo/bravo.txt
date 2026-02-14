@@ -1827,7 +1827,7 @@ betula
 bancus
 backstabber
 bandelette
-banderma
+banderma 1
 banderol
 banderole
 bindings
