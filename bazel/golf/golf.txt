@@ -7019,7 +7019,7 @@ gladdener
 gasthauses
 goondie
 goons
-gamostely
+gamostely 1
 gavel
 gummer
 goofily
