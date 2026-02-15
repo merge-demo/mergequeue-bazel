@@ -23686,7 +23686,7 @@ amioidei
 auriculocranial
 apios
 amphisile
-auriculoparietal
+auriculoparietal 1
 auriculotemporal
 auriferous
 appreciational
