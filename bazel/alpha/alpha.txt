@@ -15109,7 +15109,7 @@ anemotropic
 applied
 archcheater
 analcimes
-abaci
+abaci 1
 adjectivitis
 axofugal
 atrocious
