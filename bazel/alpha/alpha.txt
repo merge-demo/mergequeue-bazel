@@ -8793,7 +8793,7 @@ announceable
 acescence
 atwind
 alcidae
-alliterates
+alliterates 1
 await
 actious
 apodixis
