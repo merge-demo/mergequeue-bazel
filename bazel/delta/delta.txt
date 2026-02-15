@@ -15289,7 +15289,7 @@ desubstantiate
 dolomedes
 discovery
 dolomite
-derries
+derries 1
 dose
 dolomitic
 descriptives
