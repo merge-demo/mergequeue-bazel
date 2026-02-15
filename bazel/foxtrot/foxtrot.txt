@@ -4372,7 +4372,7 @@ forb
 furosemide
 fisetin
 focuser
-forfeitable
+forfeitable 1
 frate 1
 fibroplastic
 flyte
