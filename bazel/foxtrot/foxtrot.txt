@@ -10254,7 +10254,7 @@ froise
 frokin
 filum
 felons
-frolic
+frolic 1
 felstone
 fluidglycerate
 franklinism
