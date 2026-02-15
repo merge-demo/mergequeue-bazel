@@ -2230,7 +2230,7 @@ bourage
 barricos
 buddler
 bassoons 1
-barbarise
+barbarise 1
 barbarised
 benzazimide
 barbarising
