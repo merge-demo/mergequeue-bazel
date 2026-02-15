@@ -6532,7 +6532,7 @@ finecomb
 fluting
 freakishly
 flasque
-foetid
+foetid 1
 floccose
 frailish
 flutist
