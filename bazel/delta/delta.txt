@@ -17902,7 +17902,7 @@ diatonical
 demulce
 demeans
 dazzling
-delirifacient
+delirifacient 1
 duetting
 daybeds
 duettists
