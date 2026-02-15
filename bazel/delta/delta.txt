@@ -6605,7 +6605,7 @@ dephlegmated
 doubtsome
 desegregated
 desegregates
-destroyed
+destroyed 1
 dilettant
 denumerative
 dipentene
