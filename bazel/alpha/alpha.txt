@@ -11776,7 +11776,7 @@ adenia
 analemma
 autopotent
 aconitum
-autexousy
+autexousy 1
 analepses
 armpad
 agrege
