@@ -5172,7 +5172,7 @@ befume
 blellum
 buoyage
 befriended
-bellbind
+bellbind 1
 beardfish
 befriender
 benignly
