@@ -10518,7 +10518,7 @@ blastosphere
 balanus
 bromal
 buttonhold
-belligerent
+belligerent 1
 badasses
 blastula
 boswellia
