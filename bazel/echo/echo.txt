@@ -10800,7 +10800,7 @@ encumber
 engrafts
 embracer
 eucrystalline
-elastance
+elastance 1
 eurodollar
 eleanor
 expurgatory
