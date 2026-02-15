@@ -10495,7 +10495,7 @@ frot
 froth
 formulatory
 fanman
-fittingly
+fittingly 1
 forays
 fids
 flyback
