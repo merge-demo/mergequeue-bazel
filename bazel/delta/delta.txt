@@ -6810,7 +6810,7 @@ drily
 dented
 dropsonde
 dedicates
-diaconate
+diaconate 1
 desize
 decompositional
 devilmonger
