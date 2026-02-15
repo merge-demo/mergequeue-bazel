@@ -11943,7 +11943,7 @@ boggle
 babakoto
 blastemas
 boggler
-bannerol
+bannerol 1
 bogglers
 boggling
 bessarabian
