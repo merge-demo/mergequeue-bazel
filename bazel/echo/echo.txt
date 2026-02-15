@@ -3002,7 +3002,7 @@ elymus
 ergotamine
 epitomes
 enallage
-elinguate
+elinguate 1
 enfield
 eleatic
 eleoblast
