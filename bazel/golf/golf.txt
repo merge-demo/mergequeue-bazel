@@ -4212,7 +4212,7 @@ gleesome
 ganef
 gulflike
 geniculum
-gossy
+gossy 1
 gymnotus
 gutling
 geomagnetic
