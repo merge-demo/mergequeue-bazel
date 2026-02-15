@@ -4437,7 +4437,7 @@ damoetas
 drones
 despairfulness
 desultory
-doubtingness
+doubtingness 1
 demesgne
 dudleyite
 dithioic
