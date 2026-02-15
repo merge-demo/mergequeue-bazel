@@ -5821,7 +5821,7 @@ guanidin
 grasshopperish
 gastrodisk
 gurjara
-glowering
+glowering 1
 glowingly
 glows
 grinny
