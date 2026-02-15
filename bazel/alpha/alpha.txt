@@ -24024,7 +24024,7 @@ allemands
 autoclaving
 aspheric
 autocollimators
-autocombustion
+autocombustion 1
 autoconduction
 archive
 anantherate
