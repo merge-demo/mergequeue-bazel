@@ -13084,7 +13084,7 @@ bicorporal
 beryls
 bobbling
 bassarisk
-basifixed
+basifixed 1
 batteling
 backfurrow
 baalath
