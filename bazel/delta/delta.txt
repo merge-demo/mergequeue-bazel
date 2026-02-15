@@ -14960,7 +14960,7 @@ displodes
 dialoger
 defrauders
 doesn
-desiccatory
+desiccatory 1
 doffing
 demiracle
 diaphanometry
