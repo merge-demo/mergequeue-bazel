@@ -10871,7 +10871,7 @@ euphemisation
 euphemise
 elected
 euphemising
-enshroud
+enshroud 1
 euphemistically
 euphemize
 eyebeam
