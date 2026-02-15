@@ -3067,7 +3067,7 @@ fractionalization
 fibril
 fuzing
 filtratable
-fairily
+fairily 1
 fluorin
 fusils
 filmizing
