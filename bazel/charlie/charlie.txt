@@ -14279,7 +14279,7 @@ cardioids
 copplecrown
 canalside 1
 circumnutated
-circumnutation
+circumnutation 1
 cooperatively
 circumorbital
 circumpacific
