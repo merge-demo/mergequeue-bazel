@@ -15733,7 +15733,7 @@ diphosphid
 denunciation
 dismarch
 deescalation
-disintegrates
+disintegrates 1
 dewools
 disbuds
 doris
