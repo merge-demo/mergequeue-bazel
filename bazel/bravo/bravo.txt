@@ -6493,7 +6493,7 @@ bolshie 1
 boca
 bumbled
 blowiness
-bepart
+bepart 1
 beacher
 bepimpling
 bepraiser
