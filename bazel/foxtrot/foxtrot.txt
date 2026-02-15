@@ -5472,7 +5472,7 @@ flora 1
 funniness
 frequentness
 flemishes
-flensed
+flensed 1
 frillers
 flensers
 fallation
