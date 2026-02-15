@@ -2796,7 +2796,7 @@ elementaloid
 emperil
 essang
 encoronate
-eluded
+eluded 1
 embelic
 evasive
 exclamations
