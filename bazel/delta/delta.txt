@@ -14690,7 +14690,7 @@ dkg
 dkl
 deadener
 decasemic
-deviative
+deviative 1
 dks
 dlvy
 diademed
