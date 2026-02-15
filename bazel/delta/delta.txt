@@ -7397,7 +7397,7 @@ detonize
 detour
 duncifying
 detectability
-detouring
+detouring 1
 deliriums
 dermacentor
 diadoche
