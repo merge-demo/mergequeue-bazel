@@ -11942,7 +11942,7 @@ choreutic
 crevassing
 chorial
 cilician
-choriamb
+choriamb 1
 choriambic
 chorometry 1
 coaggregated
