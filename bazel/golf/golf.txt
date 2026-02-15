@@ -1748,7 +1748,7 @@ glibber
 gave
 gloeal
 glessite
-goric
+goric 1
 glass
 guesses
 gamesman
