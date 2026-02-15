@@ -2336,7 +2336,7 @@ adc
 archduxe
 alluding
 athetoid
-absorbed
+absorbed 1
 acieration
 apiary
 acies
