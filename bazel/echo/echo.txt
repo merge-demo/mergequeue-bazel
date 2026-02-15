@@ -11368,7 +11368,7 @@ exotropic
 electrodesiccation
 evenforth
 eryopid
-edificator
+edificator 1
 eruciform
 emanatively
 eathly
