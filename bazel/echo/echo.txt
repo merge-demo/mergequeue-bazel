@@ -8654,7 +8654,7 @@ emergently
 equinate
 enameller
 emerging
-excretions
+excretions 1
 equinumerally
 equinus
 ethrogs
