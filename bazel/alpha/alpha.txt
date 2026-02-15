@@ -10063,7 +10063,7 @@ aiger
 ambiversion
 ambivert
 arrect
-amble
+amble 1
 apanteles
 ambleocarpus
 anthropomorphitical
