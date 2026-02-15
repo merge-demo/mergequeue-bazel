@@ -9808,7 +9808,7 @@ geognosies
 graybearded
 guacacoa
 grimacer
-gorce
+gorce 1
 grantor
 gue
 globulinuria
