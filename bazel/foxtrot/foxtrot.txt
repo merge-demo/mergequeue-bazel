@@ -6198,7 +6198,7 @@ feudum
 foreread
 fairgoing
 flaxes
-fulgurate
+fulgurate 1
 foretops
 feebling
 frequency
