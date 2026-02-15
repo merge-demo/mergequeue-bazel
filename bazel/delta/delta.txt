@@ -10546,7 +10546,7 @@ dialyzate
 demipagan
 disserviceableness
 ddname
-derate
+derate 1
 doorsills
 diceratidae
 diazotate
