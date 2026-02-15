@@ -6514,7 +6514,7 @@ euphratean
 exstruct
 euphonicalness
 entocyst
-enlivens
+enlivens 1
 erubescence
 excludable
 englerophoenix
