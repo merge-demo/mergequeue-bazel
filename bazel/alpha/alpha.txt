@@ -3062,7 +3062,7 @@ arsonate
 abdominoanterior
 arvicole
 alligatoring
-averish
+averish 1
 aught
 apickpack
 aphanophyre
