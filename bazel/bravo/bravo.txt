@@ -7423,7 +7423,7 @@ ballonnes
 bact
 betso
 betted
-befreeze
+befreeze 1
 better
 besmirched
 batrachia
