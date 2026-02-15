@@ -16217,7 +16217,7 @@ dermatotherapy
 dowsets
 densitometer
 dowitchers
-determinedness
+determinedness 1
 dares
 demagogs
 decanters
