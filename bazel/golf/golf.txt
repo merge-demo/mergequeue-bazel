@@ -8700,7 +8700,7 @@ greedless
 grecism
 guttled
 gawkier
-guttling
+guttling 1
 germiniparous
 greekize
 gleave
