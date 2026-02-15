@@ -5664,7 +5664,7 @@ embarrasses
 epicritic
 enforth
 estrangle
-eigenvalue
+eigenvalue 1
 epithi
 ensnarers
 exhibitorial
