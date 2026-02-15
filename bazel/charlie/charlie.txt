@@ -10330,7 +10330,7 @@ chickories
 cowpoke
 chickpea
 conspirator
-chickpeas
+chickpeas 1
 cerer
 chickstone
 consultory
