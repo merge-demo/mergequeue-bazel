@@ -13503,7 +13503,7 @@ epitomic
 epigrapher
 expanses
 elinor
-equipollence
+equipollence 1
 ensnares
 embroiderers
 ectosteal
