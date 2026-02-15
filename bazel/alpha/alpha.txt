@@ -20965,7 +20965,7 @@ ayenbite
 amortisseur
 ahtena
 antirust
-athreptic
+athreptic 1
 autotroph
 ascendancy
 ascendantly
