@@ -6917,7 +6917,7 @@ coenocyte
 cementation
 chymosins
 coaugment
-calorimetric
+calorimetric 1
 cementatory
 chlorobromomethane
 curvirostres
