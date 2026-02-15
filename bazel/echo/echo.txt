@@ -9961,7 +9961,7 @@ estrif
 estrin
 elk
 estrums
-extrospection
+extrospection 1
 englishize
 estuarial
 epagogic
