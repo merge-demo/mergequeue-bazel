@@ -1966,7 +1966,7 @@ curbless
 cameral
 citizenship
 cameralism
-condominium
+condominium 1
 cameralistics
 cameraman
 cameras
