@@ -8453,7 +8453,7 @@ glossograph
 grenatite
 guaguanche
 globulariaceous
-gnathopodous
+gnathopodous 1
 guinea
 galinsoga
 glottises
