@@ -18471,7 +18471,7 @@ dyable
 distinctive
 decals
 dermatophony
-devastavit
+devastavit 1
 dipterous
 diose
 dislocation
