@@ -2719,7 +2719,7 @@ electiveness
 enchodontid
 exogastritis
 electrotype
-entosphenoid
+entosphenoid 1
 electrotypy
 enolase
 earwigged
