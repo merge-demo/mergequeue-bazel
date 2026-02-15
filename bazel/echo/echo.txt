@@ -745,7 +745,7 @@ enstyle
 erythristic
 ecospecific
 emblematised
-extoled
+extoled 1
 effaces
 endermatic
 effascinate
