@@ -8139,7 +8139,7 @@ flatcaps
 faithful
 featurette
 fuchsias
-fellable
+fellable 1
 fanegadas
 fundmonger
 forcepses
