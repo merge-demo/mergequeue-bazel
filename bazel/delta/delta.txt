@@ -2497,7 +2497,7 @@ duckwing
 deckle
 dulls
 diatropism
-deferral
+deferral 1
 duds
 dishonourary
 declaim
