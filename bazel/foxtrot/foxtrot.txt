@@ -1877,7 +1877,7 @@ frohlich
 fecundator
 fuligula
 feedwater
-fallow
+fallow 1
 fewer
 fecundize
 flintier
