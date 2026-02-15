@@ -1123,7 +1123,7 @@ fractional
 fibrillary
 filiates
 farthings
-forlornness
+forlornness 1
 fubs
 footprints
 fitted
