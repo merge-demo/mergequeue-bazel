@@ -870,7 +870,7 @@ endophyte
 entailed
 ectomorph
 ectoparasite
-exemptionist
+exemptionist 1
 euxanthic
 ectoparasitica
 exhumating
