@@ -771,7 +771,7 @@ guntub
 globulolysis
 gaulter
 glossolalist
-gutter
+gutter 1
 gluck
 gutturize
 galvanothermometer
