@@ -1037,7 +1037,7 @@ farmeress
 fireling
 flerrying
 farmerly
-forrel
+forrel 1
 ferash
 fletcherize
 folates
