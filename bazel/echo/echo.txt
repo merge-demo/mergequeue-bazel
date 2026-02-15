@@ -12874,7 +12874,7 @@ exsert
 endamoeba
 expandedly
 engrace
-endsheet
+endsheet 1
 excommunicating
 elvish
 eserines
