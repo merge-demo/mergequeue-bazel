@@ -13511,7 +13511,7 @@ bijouterie
 briquette
 bouch
 blacksmith
-boucharde
+boucharde 1
 belime
 baccae
 barometrography
