@@ -17284,7 +17284,7 @@ coannexes
 coannihilate
 cobol
 clarions
-corresol
+corresol 1
 churrigueresque
 coapparition
 coappear
