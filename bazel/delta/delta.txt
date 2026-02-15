@@ -4495,7 +4495,7 @@ dulnesses
 deception
 diaspora
 divulse
-dividingly
+dividingly 1
 demicircular
 divulsor
 drowningly
