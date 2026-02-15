@@ -5214,7 +5214,7 @@ expedition
 endogenous 1
 enlistment
 electo
-embroider
+embroider 1
 endoglobular
 eleme
 existibility
