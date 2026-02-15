@@ -17601,7 +17601,7 @@ appendorontgenography
 antheximeter
 appendotome
 activist
-astroid
+astroid 1
 adjoining
 appentice
 agrobiological
