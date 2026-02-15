@@ -15761,7 +15761,7 @@ dormitive
 dormitories
 dissenting
 dimwits
-dormouse
+dormouse 1
 digallic
 dornic
 deletive
