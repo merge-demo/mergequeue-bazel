@@ -9715,7 +9715,7 @@ dilatative
 demimentoniere
 dodecahedron
 distillations
-durometer
+durometer 1
 duffles
 depositee
 decenary
