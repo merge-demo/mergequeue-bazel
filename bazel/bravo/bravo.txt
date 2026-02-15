@@ -15397,7 +15397,7 @@ bannerlike
 brighten
 becket
 brainwork
-brightish
+brightish 1
 bebelted
 bescoundrel
 banged
