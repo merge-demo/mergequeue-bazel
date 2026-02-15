@@ -894,7 +894,7 @@ alachah
 akroterion
 anabong
 audiometric
-apogeotropic
+apogeotropic 1
 archband
 aures
 absyrtus
