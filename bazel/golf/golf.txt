@@ -5609,7 +5609,7 @@ grossular
 grabman
 groundwall
 goldseed
-grisping
+grisping 1
 guayroto
 glochid
 geranial
