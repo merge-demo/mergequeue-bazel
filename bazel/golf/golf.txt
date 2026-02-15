@@ -3482,7 +3482,7 @@ gallophobia
 graptomancy
 gourdlike
 gallous
-gentling
+gentling 1
 griefful
 glathsheim
 gimper
