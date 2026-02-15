@@ -2876,7 +2876,7 @@ disgenius
 deepest
 denticles
 dictyopteris
-decumbent
+decumbent 1
 disfurnishment
 deistically
 dugdug
