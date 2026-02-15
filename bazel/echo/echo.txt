@@ -5211,7 +5211,7 @@ euchres
 echeloning
 enchanter
 expedition
-endogenous
+endogenous 1
 enlistment
 electo
 embroider
