@@ -18285,7 +18285,7 @@ detrains
 dioptrics
 dialyzability
 demijohn
-demiourgoi
+demiourgoi 1
 dingledangle
 disintegration
 dunner
