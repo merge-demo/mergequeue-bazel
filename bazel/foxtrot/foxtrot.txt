@@ -8471,7 +8471,7 @@ formelt
 ferritic
 filmsetter
 fortin
-frondesce
+frondesce 1
 factorized
 formatter
 father
