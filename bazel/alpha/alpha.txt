@@ -16733,7 +16733,7 @@ averse
 amylometer
 anterointerior
 accur
-ametaboly
+ametaboly 1
 anthophagy
 aciculums
 aphemia
