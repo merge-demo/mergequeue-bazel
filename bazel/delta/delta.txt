@@ -9573,7 +9573,7 @@ desterilize
 drachm
 departisanize
 deglazes
-dignitary
+dignitary 1
 dignitarian
 demophoon
 doubloons
