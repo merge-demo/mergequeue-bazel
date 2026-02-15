@@ -2420,7 +2420,7 @@ disaffects
 decima
 decimalism
 dueling
-decimalization
+decimalization 1
 displeases
 decimalizes
 dehiscent
