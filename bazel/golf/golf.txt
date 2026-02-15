@@ -5444,7 +5444,7 @@ greenness
 glauconiidae
 garottes
 glyptodon
-glyptodontoid
+glyptodontoid 1
 glebae
 ghostwrites
 galactophlebitis
