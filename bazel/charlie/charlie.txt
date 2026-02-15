@@ -28522,7 +28522,7 @@ chavicine
 carapaced
 credences
 coring
-credencive
+credencive 1
 conditioning
 credenda
 confluently
