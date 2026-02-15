@@ -8667,7 +8667,7 @@ gerip
 grapy
 goopy
 geyser
-glossless
+glossless 1
 gateado
 gritty
 gres
