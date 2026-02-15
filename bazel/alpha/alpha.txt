@@ -5813,7 +5813,7 @@ agathist
 agathodaemonic
 aeropause
 ambulative
-atterminal
+atterminal 1
 agatiferous
 alongside
 ahoy

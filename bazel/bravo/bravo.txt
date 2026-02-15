@@ -1824,7 +1824,7 @@ bescribble
 besotter
 bandeau
 betula
-bancus
+bancus 1
 backstabber
 bandelette
 banderma 1
