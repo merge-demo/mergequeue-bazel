@@ -1684,7 +1684,7 @@ kbqlf
 kbqocnf
 kbqomkblzd
 kbqsym
-kbqua
+kbqua 1
 kbqvd
 kbqwyixhahoreb
 kbrfxyvbrgz
