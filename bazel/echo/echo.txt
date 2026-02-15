@@ -8281,7 +8281,7 @@ endplay
 epitheliomatous
 epitaphian
 ejection
-expensively
+expensively 1
 ectoplasmic 1
 ellagate
 exemplification
