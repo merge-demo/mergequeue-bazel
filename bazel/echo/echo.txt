@@ -8561,7 +8561,7 @@ etherial
 erase
 eumorphic
 equatorward
-etheriform
+etheriform 1
 equatorwards
 excessmen
 ectomeric
