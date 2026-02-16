@@ -6616,7 +6616,7 @@ contributors
 cebil
 ceboids
 chondritis
-ceratitic
+ceratitic 1
 creesh
 cebollite
 cebur
