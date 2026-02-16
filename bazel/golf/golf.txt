@@ -9963,7 +9963,7 @@ guarrau
 gogglers
 glegness
 glyptic
-googols
+googols 1
 gipsyfy
 galvayned
 goldi
