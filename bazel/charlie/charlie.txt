@@ -9720,7 +9720,7 @@ cankeredly
 cimex
 chromotype
 cheiranthus
-cheirogaleus
+cheirogaleus 1
 cheirography
 cheirolin
 cymbal
