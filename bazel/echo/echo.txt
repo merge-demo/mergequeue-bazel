@@ -5547,7 +5547,7 @@ evertors
 exoterics
 espiritual
 enfeebles
-enfeebling
+enfeebling 1
 eucarida
 epigrammatised
 edessan
