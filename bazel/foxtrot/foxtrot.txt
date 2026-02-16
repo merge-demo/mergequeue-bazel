@@ -10540,7 +10540,7 @@ franking
 fluky
 flatus
 festivous
-fossilised
+fossilised 1
 fauchard
 featherier
 fieldpiece

@@ -6889,7 +6889,7 @@ gelatinoid
 graticulate
 glis
 gannet
-glibly
+glibly 1
 goodenia
 gestated
 gatling
