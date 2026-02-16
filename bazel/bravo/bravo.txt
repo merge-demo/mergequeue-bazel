@@ -6381,7 +6381,7 @@ belgium
 benzoglycolic
 benzoglyoxaline
 bastioned
-benzohydrol
+benzohydrol 1
 benzoylated
 becuna
 benzene
