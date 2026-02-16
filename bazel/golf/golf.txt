@@ -1263,7 +1263,7 @@ grognard
 geneki
 griffes
 gapper
-glutinosity
+glutinosity 1
 guib
 grimaces
 galvanologist
