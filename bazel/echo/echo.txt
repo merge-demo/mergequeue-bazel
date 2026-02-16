@@ -769,7 +769,7 @@ ecoute
 exscinding
 ecphonema
 emotes
-echinal
+echinal 1
 euomphalid
 egger
 ecrase
