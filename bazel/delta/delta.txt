@@ -11932,7 +11932,7 @@ diseases
 diseconomy
 diastemata
 dolerites
-diselenid
+diselenid 1
 dicetyl
 diplostemonous
 depthing
