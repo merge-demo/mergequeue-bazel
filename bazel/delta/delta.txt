@@ -8177,7 +8177,7 @@ deprecate
 diacipiperazine
 disload
 drapeability
-druidism
+druidism 1
 didodecahedral
 digitalism
 desertful
