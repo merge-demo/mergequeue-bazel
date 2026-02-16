@@ -10309,7 +10309,7 @@ dames
 dionysia
 dionysiac
 dionysiacally
-dionysus
+dionysus 1
 dirigibles
 diastrophy
 dionize
