@@ -2045,7 +2045,7 @@ decahedron
 disclassify
 drearier
 degamis
-dentatocrenate
+dentatocrenate 1
 dayward
 decahedrons
 dominical
