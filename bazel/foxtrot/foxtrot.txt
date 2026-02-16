@@ -5141,7 +5141,7 @@ frivolous
 fawns
 fructure
 flasker
-furless
+furless 1
 foretooth
 floccular
 fellifluous
