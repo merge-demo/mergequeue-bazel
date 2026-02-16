@@ -4247,7 +4247,7 @@ disacknowledge
 deltas
 dukeling
 dook
-desipiency
+desipiency 1
 dopaminergic
 disputatious
 deuteragonist
