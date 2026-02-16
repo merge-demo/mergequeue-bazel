@@ -5074,7 +5074,7 @@ doomwatcher
 daler
 disilicide
 dendraxon
-decolorizer
+decolorizer 1
 delightsome
 dendriform
 dialer
