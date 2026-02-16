@@ -19099,7 +19099,7 @@ chaptrel
 collinsite
 collinsonia
 colliquable
-colliquate
+colliquate 1
 collyria
 collyridian
 collyrite
