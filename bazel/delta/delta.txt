@@ -5660,7 +5660,7 @@ depictors
 depicture
 distract
 debe
-diopsidic
+diopsidic 1
 depigmentate
 depigmentation
 depigmentize
