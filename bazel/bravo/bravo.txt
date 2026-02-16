@@ -13126,7 +13126,7 @@ bornites
 bornitic
 berob
 borofluohydric 1
-boroglycerine
+boroglycerine 1
 bilgy
 branchiopulmonata
 blebby
