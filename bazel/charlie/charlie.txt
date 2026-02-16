@@ -31699,7 +31699,7 @@ cusped
 clomped
 cuspid
 cuspidal
-cuspidate
+cuspidate 1
 chophouse
 cuspides
 chondromyxoma
