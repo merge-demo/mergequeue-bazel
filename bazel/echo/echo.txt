@@ -12087,7 +12087,7 @@ excresence
 excreta
 escheator
 endued
-engulfs
+engulfs 1
 edentates
 expressor
 easels
