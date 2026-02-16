@@ -1730,7 +1730,7 @@ foreordainment
 filiality
 featherbird
 feoffors
-forfare
+forfare 1
 foreshore
 floriferous
 freedman
