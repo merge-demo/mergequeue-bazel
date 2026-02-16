@@ -5342,7 +5342,7 @@ demurrage
 despotize
 diatomacean
 decimalized
-demibombard
+demibombard 1
 disguising
 dysteleology
 displant
