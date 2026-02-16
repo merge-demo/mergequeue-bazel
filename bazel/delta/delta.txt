@@ -6313,7 +6313,7 @@ dermatozoonosis
 deutzias
 dryophyllum
 dermatozzoa
-dermatrophia
+dermatrophia 1
 disgrade
 dephlegmatory
 dermenchysis
