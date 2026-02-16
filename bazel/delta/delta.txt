@@ -18206,7 +18206,7 @@ depersonalize
 delights
 ditetragonal
 dentatocostate
-diamagnetometer
+diamagnetometer 1
 disfellowship 1
 detonatability
 deadlocks
