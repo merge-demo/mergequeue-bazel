@@ -9900,7 +9900,7 @@ dimerization
 dipropargyl
 duscle
 duka
-deformational
+deformational 1
 dimes
 dimetallic
 dimeter
