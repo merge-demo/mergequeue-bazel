@@ -6008,7 +6008,7 @@ centraliser
 collatress
 contratempo
 catholic
-courtesans
+courtesans 1
 cardinalated
 cryptostomata
 catholicalness
