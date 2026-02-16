@@ -1283,7 +1283,7 @@ fastnesses
 fhrer
 fancywork
 florinda
-frigs
+frigs 1
 factitiously
 foins
 footlocker
