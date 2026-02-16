@@ -4069,7 +4069,7 @@ epitheca
 enamelers
 ecstasize
 exterminated
-empiricalness
+empiricalness 1
 epibolism
 engorgement
 esquimau
