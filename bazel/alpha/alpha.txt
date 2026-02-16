@@ -16455,7 +16455,7 @@ accentus
 antsigne
 alkargen
 antum
-ambulatio
+ambulatio 1
 apionol
 antwise
 anunder
