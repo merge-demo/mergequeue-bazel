@@ -5655,7 +5655,7 @@ endocentric
 encouraging
 eirene
 epilogation
-enforest
+enforest 1
 epacme
 enform
 ergometric
