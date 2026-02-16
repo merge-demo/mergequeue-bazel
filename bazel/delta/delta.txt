@@ -2075,7 +2075,7 @@ defaced
 devolution
 disproportionally
 decal
-dodecylic
+dodecylic 1
 dilatory
 decalage
 dinghy
