@@ -4797,7 +4797,7 @@ feuillants
 fortunetelling
 flocculable
 feltmonger
-flaunching
+flaunching 1
 freshened
 fooling
 flaggy
