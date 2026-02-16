@@ -7877,7 +7877,7 @@ grammarless 1
 grammaticaster
 goff
 garlandlike
-gabbais
+gabbais 1
 gurdle
 ghostlikeness
 grammatics
