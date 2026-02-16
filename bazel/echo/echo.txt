@@ -12024,7 +12024,7 @@ ectromelian
 exclusive
 enaunter
 escutellate
-exclusiveness
+exclusiveness 1
 effectuality
 enforceability
 enamelled
