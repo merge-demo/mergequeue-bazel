@@ -5300,7 +5300,7 @@ glyoxilin
 glacialism
 granitical
 graveling
-geometries
+geometries 1
 glycerin
 gamelan
 gromil
