@@ -10448,7 +10448,7 @@ etiology
 europeanism
 enlacing
 etiologist
-entocoelic
+entocoelic 1
 emetology
 ettling
 euripi
