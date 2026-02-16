@@ -16180,7 +16180,7 @@ degas
 droplet
 desalinized
 deweylite
-dowdy
+dowdy 1
 distent
 downsliding
 doughnuts
