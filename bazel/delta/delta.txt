@@ -10969,7 +10969,7 @@ dilutor
 disaffiliated
 duodrama
 disaffinity
-disaffirmance
+disaffirmance 1
 dheri
 dictyosiphon
 disaffirmation
