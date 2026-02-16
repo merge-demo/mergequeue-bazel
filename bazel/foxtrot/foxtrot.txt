@@ -11006,7 +11006,7 @@ freshly
 fortilage
 fordable
 feuillemorte
-famelessness
+famelessness 1
 funkia
 fabliaux
 fusuma
