@@ -3859,7 +3859,7 @@ deionizations
 dichroiscope
 diatropic
 dyspnoea
-deionize
+deionize 1
 degraduation
 dopatta
 decastyle
