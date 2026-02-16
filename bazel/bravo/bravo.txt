@@ -12860,7 +12860,7 @@ banishers
 boonfellow
 betrayers
 bondslave
-behorror
+behorror 1
 bifoil
 birthplace
 bg
