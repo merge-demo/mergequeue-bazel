@@ -6697,7 +6697,7 @@ goniatites
 garterless
 gainsayer
 guttler
-grint
+grint 1
 gibbet
 gulae
 gobmouthed
