@@ -2342,7 +2342,7 @@ emplacements
 ethnologically
 escoted
 epicenity
-epically
+epically 1
 effulge
 enchants
 epistroma
