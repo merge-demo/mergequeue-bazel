@@ -11484,7 +11484,7 @@ appetites
 algoristic 1
 alderman
 astely
-amusement
+amusement 1
 artificership
 anagennesis
 alodiality
