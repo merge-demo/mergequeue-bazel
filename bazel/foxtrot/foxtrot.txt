@@ -10255,7 +10255,7 @@ frokin
 filum
 felons
 frolic 1
-felstone
+felstone 1
 fluidglycerate
 franklinism
 forensics

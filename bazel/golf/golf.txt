@@ -10337,7 +10337,7 @@ gnattiest
 grasslike
 guland
 grubstaking
-gules
+gules 1
 gown
 gonoph
 grot
