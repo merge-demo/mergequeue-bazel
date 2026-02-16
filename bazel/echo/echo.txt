@@ -12464,7 +12464,7 @@ epifaunal
 enthronization
 elegiac
 enclosure
-exchequer
+exchequer 1
 entreaty
 emotionalism
 ependyme
