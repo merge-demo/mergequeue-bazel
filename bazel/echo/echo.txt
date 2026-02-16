@@ -12653,7 +12653,7 @@ ephete
 enuretic
 empyemas
 emissarium
-exogen
+exogen 1
 exercent
 earldom
 exogenae
