@@ -9992,7 +9992,7 @@ biverb
 beblear
 bedfast
 breeched
-bivocal
+bivocal 1
 bossism
 bivocalized
 bombings
