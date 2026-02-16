@@ -5928,7 +5928,7 @@ enfief
 enhancing
 enharbour
 electrometallurgy
-exocytosis
+exocytosis 1
 endsweep
 enharden
 especially
