@@ -8700,7 +8700,7 @@ feteless
 fame
 forgive
 flotage
-fizzing
+fizzing 1
 filii
 fourness
 frightsome
