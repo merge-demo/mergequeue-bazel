@@ -17783,7 +17783,7 @@ burrheaded
 bedcovers
 burrheadedness
 baroneted
-blinkered
+blinkered 1
 backing
 boosters
 bounce
