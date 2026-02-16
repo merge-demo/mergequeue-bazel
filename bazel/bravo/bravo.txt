@@ -1291,7 +1291,7 @@ biogasses
 bacao
 brochantite
 bury
-bedbug
+bedbug 1
 bedust
 boleite
 bacterioprecipitin
