@@ -6375,7 +6375,7 @@ formulized
 foetal
 fudgy
 fluorenes
-fluctuability
+fluctuability 1
 ferriage
 foveolar
 fixup
