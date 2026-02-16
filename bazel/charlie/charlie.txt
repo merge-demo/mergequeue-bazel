@@ -12569,7 +12569,7 @@ chronocyclegraph
 chronocrator
 chronogeneous
 combinedness
-chronogram
+chronogram 1
 celestially
 chronogrammatic
 chronogrammatically
