@@ -5957,7 +5957,7 @@ governante
 germlike
 gastrohydrorrhea
 grangerize
-glanduligerous
+glanduligerous 1
 gensengs
 graylag
 geodesics
