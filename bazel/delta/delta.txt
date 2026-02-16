@@ -1363,7 +1363,7 @@ dauphines
 drooping
 drawboard
 drapable
-dauri
+dauri 1
 dorter
 dreyfusism
 demobilised
