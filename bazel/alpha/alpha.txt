@@ -6867,7 +6867,7 @@ aphorises
 apanages
 antiagglutinative
 albacora
-awry
+awry 1
 airn
 anthropomorphical
 auripuncture
