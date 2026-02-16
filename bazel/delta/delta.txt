@@ -2827,7 +2827,7 @@ duplicative
 defi
 deferred
 dossers
-declarator
+declarator 1
 decried
 desistive
 deerflys
