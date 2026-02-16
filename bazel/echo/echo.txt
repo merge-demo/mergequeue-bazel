@@ -4822,7 +4822,7 @@ equilibrator
 entypies
 enduro
 epidosite
-eccoproticophoric
+eccoproticophoric 1
 escape
 erugate
 estrogenicity
