@@ -8830,7 +8830,7 @@ generalize
 griddler
 galleys
 gentianaceous
-gallus
+gallus 1
 globate
 griege
 gm
