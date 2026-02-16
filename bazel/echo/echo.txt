@@ -10217,7 +10217,7 @@ epanodos
 exantlate
 ensporia
 externalisation
-exoticity
+exoticity 1
 eavesdropped
 equisized
 eclair
