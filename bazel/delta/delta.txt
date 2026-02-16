@@ -9388,7 +9388,7 @@ defense
 diffractively
 deruralize
 doubleted
-diffractiveness
+diffractiveness 1
 dist
 diffranchise
 dely
