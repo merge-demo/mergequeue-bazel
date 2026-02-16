@@ -6106,7 +6106,7 @@ catskill
 catso
 catsos
 carloadings
-catspaw
+catspaw 1
 catstane
 catstep
 catstick
