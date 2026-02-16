@@ -3997,7 +3997,7 @@ duplex
 devitalise
 deputized
 distune
-delectating
+delectating 1
 damnously
 distritbutes
 delectus
