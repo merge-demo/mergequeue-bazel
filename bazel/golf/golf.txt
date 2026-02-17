@@ -9076,7 +9076,7 @@ genitive
 gentianwort
 ghast 1
 grimme
-gipsyhood
+gipsyhood 1
 grillroom
 gleet 1
 gerent
