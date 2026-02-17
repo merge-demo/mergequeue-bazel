@@ -1658,7 +1658,7 @@ epilemmal
 eidograph
 eclogues
 esthiomenus
-eases
+eases 1
 eligent
 elboic
 evectional
