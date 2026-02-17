@@ -217,7 +217,7 @@ eyesores
 earthwall
 entte
 exoticalness
-edaphodont
+edaphodont 1
 empetrous
 eluvium
 echogram
