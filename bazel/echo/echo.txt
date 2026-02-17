@@ -150,7 +150,7 @@ expurgations
 etymons 1
 examining
 enchylema
-enzygotic
+enzygotic 1
 earthkin
 emargination
 envoys
