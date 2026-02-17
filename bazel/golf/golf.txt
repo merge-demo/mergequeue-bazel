@@ -46,7 +46,7 @@ genotypically
 gableboard
 groats 1
 graperies
-gangue
+gangue 1
 glaucolite
 guemal
 geometrine
