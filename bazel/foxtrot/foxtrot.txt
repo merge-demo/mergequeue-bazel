@@ -2366,7 +2366,7 @@ floatstone
 flytings
 fegs
 frolicky
-favoritism
+favoritism 1
 ferforth
 frapped
 falconiformes
