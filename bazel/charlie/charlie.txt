@@ -10220,7 +10220,7 @@ chiasms
 chiasmus
 coeline
 curacao
-chiastoneural
+chiastoneural 1
 chiastoneury
 chalone
 cubanize
