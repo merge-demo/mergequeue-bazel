@@ -17046,7 +17046,7 @@ alcid
 angulus
 addy
 arthrotropic
-apocopes
+apocopes 1
 apocrenic
 agatha
 apocryph
