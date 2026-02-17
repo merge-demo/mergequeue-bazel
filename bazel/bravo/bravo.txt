@@ -1509,7 +1509,7 @@ bezel
 basted
 batterdock
 ballads
-balete
+balete 1
 baralipton
 bloodmonger
 blackware
