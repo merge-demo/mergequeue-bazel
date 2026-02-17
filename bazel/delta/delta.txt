@@ -3023,7 +3023,7 @@ destructiveness
 deemphasized
 deemster
 denaturizing
-dhai
+dhai 1
 dolomitizing
 dochmius
 dermapteran
