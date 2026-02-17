@@ -6625,7 +6625,7 @@ expulsatory
 enterocoela
 eructed
 execrate
-epaleaceous
+epaleaceous 1
 easterliness
 enteroepiplocele
 eudemonistical
