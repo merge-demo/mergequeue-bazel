@@ -7198,7 +7198,7 @@ emulate 1
 ethal
 electrons
 ecumenic
-elvishly
+elvishly 1
 enneasyllabic
 epoxying
 etheostoma
