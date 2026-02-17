@@ -5380,7 +5380,7 @@ bot
 baileys
 brachycardia
 biweekly
-berglet
+berglet 1
 begrown
 begrudge
 boggishness
