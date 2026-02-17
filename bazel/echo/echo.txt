@@ -771,7 +771,7 @@ ecphonema
 emotes
 echinal 1
 euomphalid
-egger
+egger 1
 ecrase
 enclitic
 escort
