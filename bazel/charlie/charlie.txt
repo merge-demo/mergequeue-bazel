@@ -9884,7 +9884,7 @@ contrabassoon
 chemoresistance
 chemoserotherapy
 chemosynthesis
-chemosynthetic
+chemosynthetic 1
 chemosmoses
 chemosmotic
 consumptible
