@@ -3044,7 +3044,7 @@ burlesks
 balsaming
 brigantine
 baruch
-bitten
+bitten 1
 briery
 bellows
 biobibliographical
