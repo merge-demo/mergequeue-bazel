@@ -10610,7 +10610,7 @@ farceurs
 flative
 forseen
 fractile
-ferity
+ferity 1
 franc
 forswearing
 flumped
