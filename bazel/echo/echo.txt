@@ -4444,7 +4444,7 @@ espacement
 ejaculation
 encaptive
 entomion
-exhilarative
+exhilarative 1
 encarnalised
 encarnalize
 enteropneust
