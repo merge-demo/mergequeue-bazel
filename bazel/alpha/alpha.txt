@@ -9459,7 +9459,7 @@ alterers
 antiplague
 antiabsolutist
 argiopoidea
-acupunctuate
+acupunctuate 1
 agrologic
 apses
 altern
