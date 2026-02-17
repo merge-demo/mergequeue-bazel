@@ -6927,7 +6927,7 @@ finely
 foll
 facia
 fedarie
-fulgurite
+fulgurite 1
 formalisation
 forbode
 fastball
