@@ -11624,7 +11624,7 @@ downweed
 diapnoe
 defectionist
 discontinuities
-dicatalexis
+dicatalexis 1
 discontinuously
 drop
 discontinuousness
