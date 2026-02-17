@@ -8460,7 +8460,7 @@ glottises 1
 gastaldite
 gadzooks
 gushet
-gomphosis
+gomphosis 1
 garancine
 goatishness
 gerontophilia
