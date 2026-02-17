@@ -7164,7 +7164,7 @@ effectuation
 envolume
 embarment
 enwall
-epistemonic
+epistemonic 1
 eucaryote
 extraequilibrium
 enwallow
