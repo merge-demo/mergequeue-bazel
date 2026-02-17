@@ -5318,7 +5318,7 @@ gothicness 1
 gangmaster
 gasify
 glycyrrhizin
-gimps
+gimps 1
 glycogenolytic
 gangsters
 gammaroid
