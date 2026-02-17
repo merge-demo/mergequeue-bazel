@@ -5850,7 +5850,7 @@ fulcrums
 flidge
 fitz
 farine
-fertilisable
+fertilisable 1
 fowling
 factorially
 floristic
