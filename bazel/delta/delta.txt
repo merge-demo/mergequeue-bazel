@@ -9751,7 +9751,7 @@ dilates
 disapprovable
 descender
 decolourization
-dilatometer
+dilatometer 1
 dilatometrically
 dynamometers
 dcbname
