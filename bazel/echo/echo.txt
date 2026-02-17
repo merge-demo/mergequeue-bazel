@@ -9617,7 +9617,7 @@ exceptionary
 ensearch
 esoterize
 esotropia
-esp
+esp 1
 eparchial
 eventless
 eternalise
