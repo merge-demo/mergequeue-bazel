@@ -608,7 +608,7 @@ broomsticks 1
 bostangi
 bastiment
 bacteriodiagnosis
-bromates
+bromates 1
 benomyls
 behearse
 bacterid
