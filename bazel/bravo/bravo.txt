@@ -12474,7 +12474,7 @@ bondsmen
 bonify
 bdls
 betaines
-brawniness
+brawniness 1
 bondstone
 burntness
 bather
