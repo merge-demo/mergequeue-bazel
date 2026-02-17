@@ -6779,7 +6779,7 @@ eole
 engagedly
 electrocutions
 estatesman
-enemied
+enemied 1
 ergon
 educator
 extramural
