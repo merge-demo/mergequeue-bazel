@@ -27019,7 +27019,7 @@ conjure
 contoid
 chimneypot
 counterpoints
-cataleptiform
+cataleptiform 1
 contestable
 chronical
 counterpoison
