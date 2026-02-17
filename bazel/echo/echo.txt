@@ -8879,7 +8879,7 @@ embowel
 elfdom
 exp
 epergnes
-evonymus
+evonymus 1
 estrangement
 ergative
 elmier
