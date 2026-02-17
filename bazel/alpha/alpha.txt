@@ -23144,7 +23144,7 @@ annunciable
 allometric
 analytic
 airdropped
-allelocatalytic
+allelocatalytic 1
 aflatoxin
 aurochs
 alstroemeria
