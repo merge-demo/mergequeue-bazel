@@ -7471,7 +7471,7 @@ detrusion
 detumescence
 dynasticism
 deposal
-detune
+detune 1
 detuning
 diastrophic
 dragooned
