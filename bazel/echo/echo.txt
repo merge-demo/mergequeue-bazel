@@ -6478,7 +6478,7 @@ earfuls
 encheck
 exercisable
 ensorcellment
-ensorrow
+ensorrow 1
 encumberment
 ectodactylism
 endometriosis
