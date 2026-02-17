@@ -13431,7 +13431,7 @@ annalists
 authotype
 annalize
 ajatasatru
-arctician
+arctician 1
 annamite
 arvicolous
 adverseness 1
