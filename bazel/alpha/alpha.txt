@@ -24303,7 +24303,7 @@ ablepsy
 anthrasilicosis
 autophotoelectric
 autopilot
-autoincrement
+autoincrement 1
 autoplagiarism
 afterworking
 autoplast
