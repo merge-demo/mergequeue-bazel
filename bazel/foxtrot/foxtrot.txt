@@ -7366,7 +7366,7 @@ famelessly
 foreparent
 forebodingly
 footplate
-flakiness
+flakiness 1
 fortunous
 feedlots
 flyness 1
