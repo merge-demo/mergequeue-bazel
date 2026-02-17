@@ -2637,7 +2637,7 @@ barlafumble
 blurred
 basilinna
 buckstall
-bescour
+bescour 1
 befriend
 backstretches
 bogyisms
