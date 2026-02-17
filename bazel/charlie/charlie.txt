@@ -10076,7 +10076,7 @@ chessdom
 chesser
 cabinda
 chesses
-chessylite
+chessylite 1
 chessist
 chirimen
 chessner
