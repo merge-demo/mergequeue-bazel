@@ -3245,7 +3245,7 @@ enfollow
 eluents
 elul
 epidemic
-erects
+erects 1
 enclitical
 encephalotomy
 eyesore
