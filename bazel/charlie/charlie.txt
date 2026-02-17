@@ -872,7 +872,7 @@ caissons
 caite
 colligance
 caitif
-charque
+charque 1
 caitiffs
 crams
 cayubaba
