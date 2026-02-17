@@ -5565,7 +5565,7 @@ exhaustedly
 ethions
 enfettering
 enophthalmos
-expandability
+expandability 1
 episcopality
 ecphrasis
 endoergic
