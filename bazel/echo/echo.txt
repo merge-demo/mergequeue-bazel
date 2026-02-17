@@ -10194,7 +10194,7 @@ ethernet
 extrahazardous
 emancipation
 escrowed
-emmarbled
+emmarbled 1
 electrotelegraphic
 escargotieres
 esperantic
