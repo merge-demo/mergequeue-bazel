@@ -6287,7 +6287,7 @@ grundyist
 galop
 governessy
 gid
-gobbles
+gobbles 1
 glaucescent
 ginzoes
 grege
