@@ -10426,7 +10426,7 @@ diphasic
 diphenhydramine
 diacidic
 diphenylamine
-diphenylaminechlorarsine
+diphenylaminechlorarsine 1
 diervilla
 diphenylchloroarsine
 diphenylene
