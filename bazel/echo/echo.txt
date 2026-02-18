@@ -11815,7 +11815,7 @@ enrolment
 elaphrium
 euryon
 exaudi
-ethenoidal
+ethenoidal 1
 exaun
 earthrise
 ectomorphy
