@@ -18542,7 +18542,7 @@ diphthonged
 dekalitre
 durmast
 dirging
-durndest
+durndest 1
 deraignment
 disharmonizing
 deviltries
