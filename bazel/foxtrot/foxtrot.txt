@@ -2354,7 +2354,7 @@ filmable
 flanneled
 fencelike
 floaters
-flunked
+flunked 1
 friarly
 funerary 1
 favel
