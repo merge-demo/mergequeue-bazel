@@ -12193,7 +12193,7 @@ exec
 epiphonemas
 eudemonist
 exacervation
-enserfs
+enserfs 1
 excogitation
 enflame
 entrechats
