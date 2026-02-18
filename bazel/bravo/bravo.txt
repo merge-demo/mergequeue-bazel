@@ -2630,7 +2630,7 @@ begirdle
 barkless
 battening 1
 bandusia
-bescorch
+bescorch 1
 batrachite
 beeth
 barlafumble
