@@ -13564,7 +13564,7 @@ epochs
 exposedness
 energies
 ebeneous
-exsudate
+exsudate 1
 extumescence
 ectadenia
 egeria 1
