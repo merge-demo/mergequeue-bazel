@@ -5667,7 +5667,7 @@ estrangle
 eigenvalue 1
 epithi 1
 ensnarers
-exhibitorial
+exhibitorial 1
 exquisitism
 enframed
 elaphebolion
