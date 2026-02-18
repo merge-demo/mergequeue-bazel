@@ -4231,7 +4231,7 @@ gunned
 grovel
 goloka
 gois
-gaetuli
+gaetuli 1
 gyromagnetic
 galvanomagnetism
 gynaecological
