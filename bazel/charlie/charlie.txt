@@ -19763,7 +19763,7 @@ combustibleness
 combusting
 combustion
 combustious
-combustive
+combustive 1
 combusts
 captained
 combwise
