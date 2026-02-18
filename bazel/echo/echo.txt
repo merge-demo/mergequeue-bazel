@@ -4896,7 +4896,7 @@ elemental
 effeminateness
 excludible
 explete
-enjamb
+enjamb 1
 encroachments
 epitaxic
 encrustation
