@@ -2942,7 +2942,7 @@ dedicators
 deaconry
 dewar
 ducatus
-divagation
+divagation 1
 dechlorination
 dansk
 diacope
