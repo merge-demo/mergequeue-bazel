@@ -8125,7 +8125,7 @@ arrowheads
 algerian
 algerienne
 alizarins
-algerines
+algerines 1
 algerite
 aciduric
 algernon
