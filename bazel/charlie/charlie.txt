@@ -6822,7 +6822,7 @@ cellist
 cellite
 currs
 continua
-cellmates
+cellmates 1
 cello
 chambermaid
 celloid
