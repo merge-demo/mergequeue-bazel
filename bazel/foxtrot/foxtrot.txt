@@ -11526,7 +11526,7 @@ foreremembered
 fab
 furtiveness
 frena
-foxfeet
+foxfeet 1
 fuselages
 fuselike
 forecaddie
