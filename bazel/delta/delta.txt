@@ -1663,7 +1663,7 @@ dentimeter
 deamidation
 deaminase
 digitize
-daws
+daws 1
 daw
 dextraural
 deamination
