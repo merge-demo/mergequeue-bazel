@@ -3685,7 +3685,7 @@ gnomoniaceae
 gametes
 gutturotetany
 gory
-ghost
+ghost 1
 gnathonism
 gasoliner
 glyceral
