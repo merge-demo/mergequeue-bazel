@@ -3593,7 +3593,7 @@ foreskirt
 fixates
 fenceful
 florigraphy
-forspoken
+forspoken 1
 feddan
 flapjacks
 fussle
