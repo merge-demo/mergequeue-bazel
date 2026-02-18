@@ -2151,7 +2151,7 @@ diosmosis
 decantist
 decaffeinated 1
 decapitates
-decapitation
+decapitation 1
 deterrable
 decapitations
 disassemble
