@@ -8020,7 +8020,7 @@ chacmas
 chaco
 calfs
 chacona
-csects
+csects 1
 chaconnes
 caudatolenticular
 countermovement
