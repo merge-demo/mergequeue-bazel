@@ -355,7 +355,7 @@ famulative
 flaggelate
 fivish 1
 factions
-forfeiture
+forfeiture 1
 flyingly
 fellers
 flattering
