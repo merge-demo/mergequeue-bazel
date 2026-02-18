@@ -13030,7 +13030,7 @@ kval
 kvanvs
 kvapw
 kvar
-kvarff
+kvarff 1
 kvasduo
 kvatcc
 kvawculevyqk
