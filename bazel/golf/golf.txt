@@ -2184,7 +2184,7 @@ goosegirl
 guacos
 galvanocauterization
 galea
-goniostat
+goniostat 1
 goldfinches
 glistening
 gebbie
