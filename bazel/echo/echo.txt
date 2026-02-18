@@ -7868,7 +7868,7 @@ epigamic
 ecca
 ephod
 enterolith
-elbowed
+elbowed 1
 elbower
 epigrammatizing
 endaortitis
