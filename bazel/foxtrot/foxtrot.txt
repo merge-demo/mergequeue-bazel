@@ -6518,7 +6518,7 @@ fip
 failsoft
 frotted
 forspread
-furcular
+furcular 1
 fluther
 foldskirt
 fortifying
