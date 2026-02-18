@@ -9074,7 +9074,7 @@ embryogony
 ectasia
 epistropheus
 equivocations
-educe
+educe 1
 erythrolein
 enteromorpha
 electrothermostatic
