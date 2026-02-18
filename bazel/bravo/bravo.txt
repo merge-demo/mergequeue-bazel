@@ -3231,7 +3231,7 @@ bowker
 balak
 basilect
 bloodwit
-begunk
+begunk 1
 beautifying
 bisalt
 bote
