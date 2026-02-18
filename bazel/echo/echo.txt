@@ -3394,7 +3394,7 @@ enteropneustal
 estimator
 equivocally
 epinephelus
-ebullate
+ebullate 1
 exurbanite
 exacters
 emphase
