@@ -20511,7 +20511,7 @@ autotoxemia
 aerophilatelic
 arteriometer
 arteriomotor
-antiasthmatic
+antiasthmatic 1
 arterioplasty
 arteriorenal
 accentless
