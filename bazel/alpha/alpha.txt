@@ -3348,7 +3348,7 @@ antipolyneuritic
 adamantinoma
 adamantness
 actinochemical
-aphthongia
+aphthongia 1
 adamantoblast
 archery
 amblystoma
