@@ -6883,7 +6883,7 @@ dispositor
 desoeuvre
 dewlight
 drailed
-destriers
+destriers 1
 dsp
 desolate
 dobroes
