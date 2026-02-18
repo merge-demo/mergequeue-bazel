@@ -4178,7 +4178,7 @@ emanant
 encallow
 euterpe
 extraessentially
-exchangeable
+exchangeable 1
 ephedra
 emphasizing
 emporeutic
