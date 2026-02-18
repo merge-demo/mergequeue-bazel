@@ -11457,7 +11457,7 @@ furrowy
 facecloth
 flap
 furrowing
-forletting
+forletting 1
 furrowlike
 forewish 2
 furcately
