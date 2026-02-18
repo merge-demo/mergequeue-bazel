@@ -2902,7 +2902,7 @@ fistulate
 fruitlet 1
 froglike
 farsightedly
-flows
+flows 1
 fouettes
 floorcloth
 find
