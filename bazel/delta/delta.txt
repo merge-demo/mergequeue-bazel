@@ -12017,7 +12017,7 @@ diammine
 decimus
 domicella
 distichous
-disendow
+disendow 1
 dagoes
 demideity
 desmodus
