@@ -4252,7 +4252,7 @@ fatting
 fireplug
 firepot
 foreflank
-fructoside
+fructoside 1
 forebooms
 flots
 frangipanni
