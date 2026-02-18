@@ -1346,7 +1346,7 @@ garlandless
 ganocephalan 1
 guillotiner
 greenalite
-galvanist
+galvanist 1
 geoside
 glomerulus
 galloner
