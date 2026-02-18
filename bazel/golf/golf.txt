@@ -792,7 +792,7 @@ graf
 gimlet
 gambade
 gravata
-garrotting
+garrotting 1
 gastroenteritic
 gambang
 gastrular
