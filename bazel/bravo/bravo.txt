@@ -3708,7 +3708,7 @@ beild
 battier
 brightest
 batting
-battings
+battings 1
 battledores
 bywork
 baldly
