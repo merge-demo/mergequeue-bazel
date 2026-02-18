@@ -4129,7 +4129,7 @@ ecardinal
 endosarc
 electrorefine
 emplecton
-exuberancy
+exuberancy 1
 employability
 evenly
 electrovalence
