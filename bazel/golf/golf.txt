@@ -4856,7 +4856,7 @@ generalidad
 gritter
 gunnel
 gnomonics
-gleg
+gleg 1
 gigantize
 greenings
 goiterogenic
