@@ -4069,7 +4069,7 @@ flindersia
 freefd
 finitism
 frankest
-finitive
+finitive 1
 felapton
 formants
 foppishness
