@@ -8065,7 +8065,7 @@ granitiform
 geomancer
 gastrostomus
 granitite
-geomagnetism
+geomagnetism 1
 ghain
 genteelish
 gesning
