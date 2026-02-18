@@ -4804,7 +4804,7 @@ encode
 exitance
 ensnarements
 encoding
-effectivity
+effectivity 1
 embrocate
 ergasterion
 enbusshe
