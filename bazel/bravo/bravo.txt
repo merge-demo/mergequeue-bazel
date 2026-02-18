@@ -11936,7 +11936,7 @@ betweens
 bolivianos
 begirdling
 boggard
-blindfoldly
+blindfoldly 1
 boggier
 bayou
 boggle
