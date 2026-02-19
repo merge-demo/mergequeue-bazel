@@ -10832,7 +10832,7 @@ jrtoi
 jrtokyjpd
 jrtox
 jrts
-jrtsqalqu
+jrtsqalqu 1
 jrttads
 jrtucylqlx
 jrtxoacq
