@@ -9807,7 +9807,7 @@ amanitine
 aerifying
 albedometer
 acolyctine
-adry
+adry 1
 agglomerator
 amanitopsis
 antireforming
