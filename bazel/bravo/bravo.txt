@@ -2016,7 +2016,7 @@ bankalachi
 beshivers
 bidactyl
 bloodstones
-bankcard
+bankcard 1
 bethought
 banky
 banknote
