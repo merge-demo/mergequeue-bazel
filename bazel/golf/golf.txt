@@ -2420,7 +2420,7 @@ glariest
 ganton
 gyrolith
 glaury
-gazel
+gazel 1
 goaled
 guiac
 gummose
