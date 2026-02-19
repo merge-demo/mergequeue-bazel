@@ -8284,7 +8284,7 @@ ejection
 expensively 1
 ectoplasmic 1
 ellagate
-exemplification
+exemplification 1
 epitaxies
 epitaxis
 ebonizes
