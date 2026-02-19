@@ -4431,7 +4431,7 @@ demeore
 deincrustant
 decap
 dependant
-demerit
+demerit 1
 demiluster
 damoetas
 drones
