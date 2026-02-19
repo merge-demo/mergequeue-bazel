@@ -6580,7 +6580,7 @@ epipolism
 enteradenological
 enteral
 ensuant
-enterectomy
+enterectomy 1
 enterer
 eulogious
 excusive
