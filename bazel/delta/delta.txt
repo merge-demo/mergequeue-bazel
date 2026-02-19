@@ -7844,7 +7844,7 @@ dependently
 doers
 daylighting
 danziger
-devouringly
+devouringly 1
 devouringness
 dignification
 divesting
