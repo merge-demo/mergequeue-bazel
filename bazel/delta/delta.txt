@@ -14423,7 +14423,7 @@ dhoul
 deindividuate
 doctus
 datedness
-depreciatory
+depreciatory 1
 demeter
 diversory
 disfiguringly
