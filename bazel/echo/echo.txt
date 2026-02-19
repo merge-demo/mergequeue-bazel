@@ -4007,7 +4007,7 @@ empearl
 electroretinography
 each
 exultancy
-esothyropexy
+esothyropexy 1
 estus
 effloresce
 etherealized
