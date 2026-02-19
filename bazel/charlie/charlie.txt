@@ -11593,7 +11593,7 @@ cholecystotomy
 choledochal
 culpability
 choledochoduodenostomy
-colpeurysis
+colpeurysis 1
 conformate
 collectorship
 choledochorrhaphy
