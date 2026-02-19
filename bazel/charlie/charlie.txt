@@ -22655,7 +22655,7 @@ chyloid
 calorized
 continualness
 chebule
-crossgrainedness
+crossgrainedness 1
 counterdecision
 ciderlike
 caseworms
