@@ -9110,7 +9110,7 @@ electrograving
 entwist
 etruscan
 erythropsin
-eltrot
+eltrot 1
 experientialist
 exploding
 erythrosiderite
