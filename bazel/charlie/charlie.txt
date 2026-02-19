@@ -16301,7 +16301,7 @@ conspicuous
 caraco
 clypeated
 clypeiform
-clypeola
+clypeola 1
 clypeolar
 clypeus
 cyanomethaemoglobin
