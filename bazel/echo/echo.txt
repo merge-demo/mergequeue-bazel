@@ -6620,7 +6620,7 @@ echinorhynchus
 esperantidist
 embryous
 enseam
-egyptianism
+egyptianism 1
 expulsatory
 enterocoela
 eructed
