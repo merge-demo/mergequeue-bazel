@@ -8752,7 +8752,7 @@ faintise
 frankfort
 freddo
 forbiddable
-flogged
+flogged 1
 followership
 fortuuned
 forester
