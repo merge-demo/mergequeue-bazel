@@ -1300,7 +1300,7 @@ grump
 gerendum
 government
 gulliver
-geodiatropism
+geodiatropism 1
 gingilis
 garganey
 gastropancreatitis
