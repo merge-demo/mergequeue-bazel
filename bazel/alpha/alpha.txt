@@ -18421,7 +18421,7 @@ arawak
 ankh
 arawakian
 anatomized
-anteriority
+anteriority 1
 antlion
 amboceptor
 actinistia
