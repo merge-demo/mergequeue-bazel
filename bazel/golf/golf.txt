@@ -2786,7 +2786,7 @@ governably
 glassie
 gelee
 gantlope
-goblets
+goblets 1
 gluttonised
 graduals
 gurr
