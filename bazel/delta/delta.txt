@@ -12275,7 +12275,7 @@ dataflow
 dispatriated
 discrepancy
 disgorged
-disendowed
+disendowed 1
 drawing
 distrusting
 degreasing
