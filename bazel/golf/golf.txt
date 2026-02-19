@@ -7523,7 +7523,7 @@ guessable
 glottalized
 gat
 governed
-gotten
+gotten 1
 graecizing
 governesses
 galvanotonic
