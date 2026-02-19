@@ -133,7 +133,7 @@ cabinetworking
 cabinlike
 crafter
 cabio
-chemisorptive
+chemisorptive 1
 costotransverse
 cabiria
 cabirian
