@@ -4570,7 +4570,7 @@ buglewort
 bicellular
 backjaw
 bedarkening
-bedaub
+bedaub 1
 ballplayer
 benzoylglycine
 barks
