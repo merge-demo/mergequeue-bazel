@@ -4938,7 +4938,7 @@ biers
 beefwoods
 beegerite
 bootlick
-bairnliness
+bairnliness 1
 badchan
 bouncing
 bitriseptate
