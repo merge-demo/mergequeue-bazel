@@ -5885,7 +5885,7 @@ engysseismology
 ethiops
 episyntheton
 estamp
-endophytous
+endophytous 1
 erasures
 erg
 engreaten
