@@ -2149,7 +2149,7 @@ egged
 elated
 etherealise
 epitria
-exoneration
+exoneration 1
 electrosurgical
 endleaf
 enfoil
