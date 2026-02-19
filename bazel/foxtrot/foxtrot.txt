@@ -6801,7 +6801,7 @@ fleshhook
 farinulent
 fervescent
 flyers
-forseeable
+forseeable 1
 fluidics
 foreshadowing
 ferme
