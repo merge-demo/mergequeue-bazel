@@ -4954,7 +4954,7 @@ flamencos
 funtumia
 fevertwitch
 fraunch
-flameout
+flameout 1
 foreappoint
 fourflushers
 flameouts
