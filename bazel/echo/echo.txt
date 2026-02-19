@@ -2874,7 +2874,7 @@ enterotoxin
 ectosteally
 ecbasis
 expt
-endomorphic
+endomorphic 1
 elder
 epitympa
 effable
