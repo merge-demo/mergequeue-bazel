@@ -5208,7 +5208,7 @@ devoid
 diazoamino
 denitrifier
 denizenation
-diquats
+diquats 1
 deflectionization
 drumbler
 denizenship
