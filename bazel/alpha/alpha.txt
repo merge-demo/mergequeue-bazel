@@ -5814,7 +5814,7 @@ agathodaemonic
 aeropause
 ambulative
 atterminal
-agatiferous
+agatiferous 1
 alongside
 ahoy
 auxetics
