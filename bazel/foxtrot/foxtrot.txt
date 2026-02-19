@@ -10393,7 +10393,7 @@ fusoid
 flags
 fitche
 footer
-fraggings
+fraggings 1
 filigree
 flow
 fictility
