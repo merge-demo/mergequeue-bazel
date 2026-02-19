@@ -5108,7 +5108,7 @@ gunman
 garboards
 guilelessly
 guernseyed
-glareproof
+glareproof 1
 griskin
 grainsmen
 grenadine
