@@ -4505,7 +4505,7 @@ ferrovanadium
 flour
 fisnoga
 flouncing
-flogging
+flogging 1
 felinae
 flattop
 forblow
