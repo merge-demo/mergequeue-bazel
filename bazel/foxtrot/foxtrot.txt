@@ -10016,7 +10016,7 @@ flans
 fringehead
 fringelet
 fruitier
-fringent
+fringent 1
 feminacy
 fringetail
 foreplot
