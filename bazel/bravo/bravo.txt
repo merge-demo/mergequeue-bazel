@@ -9226,7 +9226,7 @@ bastnasite
 biordinal
 batussi
 bladebone
-balanoid
+balanoid 1
 bipinnarias
 bipinnated
 bipinnatipartite
