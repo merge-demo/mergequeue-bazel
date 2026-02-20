@@ -12419,7 +12419,7 @@ deforms
 declivate
 dishevelled
 dishevelling
-delomorphic
+delomorphic 1
 dismissingly
 doeskins
 diakineses
