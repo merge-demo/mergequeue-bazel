@@ -10342,7 +10342,7 @@ acupressure
 abscam
 apivorous
 attains
-anaphorically
+anaphorically 1
 affination
 athetized
 ataxic
