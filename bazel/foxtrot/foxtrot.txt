@@ -780,7 +780,7 @@ fills
 fichteanism
 feil
 farmost 1
-forecovert
+forecovert 1
 fanfolds
 fluorines
 financing
