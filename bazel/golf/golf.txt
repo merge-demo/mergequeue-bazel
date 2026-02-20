@@ -10769,7 +10769,7 @@ gorhen
 gimbals
 gallium
 glamourie
-geranyl
+geranyl 1
 gibblegable
 glycyl
 gutt
