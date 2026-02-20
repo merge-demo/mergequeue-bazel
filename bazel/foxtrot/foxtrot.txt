@@ -2390,7 +2390,7 @@ folksiness
 foredating
 fromfile
 foreordinating
-freakpot
+freakpot 1
 fantods
 fervidor
 formicivorous
