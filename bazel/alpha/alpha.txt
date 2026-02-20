@@ -11904,7 +11904,7 @@ autoantitoxin
 arylated
 addable
 ananym
-ananism
+ananism 1
 ananite
 anelace
 aplanospore
