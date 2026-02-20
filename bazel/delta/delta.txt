@@ -4853,7 +4853,7 @@ decadal
 deathcups
 dimmedness
 diestrum
-dognapers
+dognapers 1
 durableness
 demonise
 dactyliotheca
