@@ -13600,7 +13600,7 @@ chickens
 cimicifuga
 compressure
 cimicoid
-conformableness
+conformableness 1
 calcaneonavicular
 cymiferous
 cymlin
