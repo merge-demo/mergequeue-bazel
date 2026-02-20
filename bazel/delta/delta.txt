@@ -711,7 +711,7 @@ domination
 dancalite
 duro
 dopester
-diatom
+diatom 1
 deadmelt
 danceability
 danceable
