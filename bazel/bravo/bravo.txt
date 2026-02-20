@@ -17043,7 +17043,7 @@ boldfaces
 burt
 bulkhead
 bulkheading
-bulky
+bulky 1
 bulkier
 bulkily
 bitterweed
