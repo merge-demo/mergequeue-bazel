@@ -6854,7 +6854,7 @@ buicks
 bioluminescent
 bescourge
 baboos
-buckeroos
+buckeroos 1
 bust
 bescramble
 bescreen
