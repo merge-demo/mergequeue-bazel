@@ -4016,7 +4016,7 @@ etymologise
 evangelian
 estrapade
 enage
-extirpated
+extirpated 1
 epionychia
 empexa
 emphasize
