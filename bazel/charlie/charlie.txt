@@ -29250,7 +29250,7 @@ cryptoagnostic
 coextended
 cynogenealogist
 cryptoanalysis
-cryptoanalytically
+cryptoanalytically 1
 cryptobranch
 cryptobranchia
 cryptobranchiata
