@@ -3543,7 +3543,7 @@ caption
 captioned
 convenably
 captioning
-captiousness
+captiousness 1
 captivance
 cucurbitine
 chaired
