@@ -3679,7 +3679,7 @@ acephalite
 accumulative
 adenopodous
 adenosarcomata
-adiaphoristic
+adiaphoristic 1
 artist
 acuating
 anureses
