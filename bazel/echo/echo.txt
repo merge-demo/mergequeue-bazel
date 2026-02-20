@@ -6918,7 +6918,7 @@ elasticize
 escudos
 embonpoint
 ephoric
-eighteenths
+eighteenths 1
 exuviable
 ebullitive
 engendered
