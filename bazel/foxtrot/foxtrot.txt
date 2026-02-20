@@ -9280,7 +9280,7 @@ forename
 footmenfootpad
 fungologist
 fumarine
-foldwards
+foldwards 1
 fogrum
 foldboats
 fistulization
