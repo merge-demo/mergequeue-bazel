@@ -1879,7 +1879,7 @@ containers
 cologne
 cotwin
 calandria
-calicoed
+calicoed 1
 cordwains
 chickling
 cyanophil
