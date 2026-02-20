@@ -7607,7 +7607,7 @@ declinable
 devaluates
 droppingly
 durandarte
-devalues
+devalues 1
 devas
 duole
 dird
