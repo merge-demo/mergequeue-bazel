@@ -1073,7 +1073,7 @@ gasserian
 glossic
 gangplows
 geomalic
-gist
+gist 1
 glaucoma
 glor
 gonimous
