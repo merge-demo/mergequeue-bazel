@@ -960,7 +960,7 @@ expulser
 embalming
 entailments
 emanator
-euchrone
+euchrone 1
 effronteries
 epencephalic
 erythroblastotic
