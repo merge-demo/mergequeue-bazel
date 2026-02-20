@@ -7257,7 +7257,7 @@ enterally
 eolian
 eolopiles
 enraptures
-emulsification
+emulsification 1
 exsector 1
 echoless
 electrocatalytic
