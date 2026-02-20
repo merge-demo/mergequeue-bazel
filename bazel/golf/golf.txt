@@ -2474,7 +2474,7 @@ greasy
 gimble
 gonopodial
 gemmology
-globality
+globality 1
 gnathidium
 glabrate
 girt
