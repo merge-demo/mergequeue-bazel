@@ -1035,7 +1035,7 @@ galvanoscopy
 geodist
 gleemen
 golp
-glanced
+glanced 1
 gymnonoti
 gayness
 groan
