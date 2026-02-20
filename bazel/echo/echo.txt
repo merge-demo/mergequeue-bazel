@@ -8516,7 +8516,7 @@ eosinlike
 equalises
 erectness
 executorial
-enwrapping
+enwrapping 1
 enclave
 ecuadoran
 exopterygote
