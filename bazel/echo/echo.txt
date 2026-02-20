@@ -12781,7 +12781,7 @@ engold
 exotism
 earlike
 elsewise
-exortion
+exortion 1
 endodontia
 exosmose
 exosmotic
