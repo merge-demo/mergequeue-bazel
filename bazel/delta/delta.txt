@@ -2317,7 +2317,7 @@ daphne
 defensory
 dishwash
 dismounted
-diagraphs
+diagraphs 1
 dekaparsec
 dermatropic
 dactylioglyphic
