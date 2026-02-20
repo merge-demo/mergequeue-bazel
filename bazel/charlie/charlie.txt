@@ -6820,7 +6820,7 @@ concaveness
 celliform
 cellist
 cellite
-currs
+currs 1
 continua
 cellmates 1
 cello
