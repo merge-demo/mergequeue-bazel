@@ -24902,7 +24902,7 @@ charac
 caoutchouc
 corallium
 carminatives
-caterans
+caterans 1
 craniacromial
 cordately
 cephadia
