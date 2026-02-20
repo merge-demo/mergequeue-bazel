@@ -11877,7 +11877,7 @@ adventurer
 anamnestic
 arracacha
 anserinae
-anamniata
+anamniata 1
 antimonarchy
 apishly
 amuguis
