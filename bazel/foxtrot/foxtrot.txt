@@ -10769,7 +10769,7 @@ footglove
 fustic
 fervent
 fatalism
-feretrum
+feretrum 1
 fashious
 fascisticize
 finials
