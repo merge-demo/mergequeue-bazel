@@ -302,7 +302,7 @@ day
 distributed
 dayabhaga
 dreed
-demisheath
+demisheath 1
 depolarized
 dayanim
 daybeacon
