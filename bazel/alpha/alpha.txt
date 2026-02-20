@@ -12229,7 +12229,7 @@ anchorages
 anchorlike
 archradical
 actinodermatitis
-anchoret
+anchoret 1
 aminish
 anchorets
 altruism
