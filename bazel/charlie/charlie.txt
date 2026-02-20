@@ -17106,7 +17106,7 @@ copiable
 coadjudicator
 coadjutant
 campement
-covotary
+covotary 1
 commonweal
 coemptional
 champ
