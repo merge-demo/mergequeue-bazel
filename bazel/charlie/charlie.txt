@@ -12989,7 +12989,7 @@ cyano
 crystallogenesis
 cyanoacetate
 cobenignity
-currencies
+currencies 1
 cyanoaurate
 characeous
 cyanoauric
