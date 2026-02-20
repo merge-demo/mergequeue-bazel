@@ -16655,7 +16655,7 @@ apertness
 acetomorphine
 abnormalism
 actionable
-apertometer
+apertometer 1
 aurally
 apocarpies
 arcking
