@@ -23160,7 +23160,7 @@ attendment
 aposoro
 attendress
 aciurgy
-asteriscus
+asteriscus 1
 attends
 acquittance
 almshouses
