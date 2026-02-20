@@ -14294,7 +14294,7 @@ ditriglyphic
 delating
 dragropes
 duotones
-desireable
+desireable 1
 dict
 decolorized
 disbelievingly
