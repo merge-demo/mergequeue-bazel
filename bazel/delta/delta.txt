@@ -9034,7 +9034,7 @@ deaconhood
 dermatoplast
 dicoumarol
 dicranaceous
-dextrinous
+dextrinous 1
 diverter
 dicrotal
 dicrotous
