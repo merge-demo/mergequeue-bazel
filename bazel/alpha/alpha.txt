@@ -12233,7 +12233,7 @@ anchoret
 aminish
 anchorets
 altruism
-almach
+almach 1
 anchorite
 arraignable
 archinfamy
