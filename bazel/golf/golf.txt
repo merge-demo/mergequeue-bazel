@@ -2951,7 +2951,7 @@ goldurnedest
 grazable
 gulph
 gosh
-gastroscopic
+gastroscopic 1
 gooseflower
 grotty
 gunks
