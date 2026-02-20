@@ -11556,7 +11556,7 @@ extraburghal
 elenchus
 encodement
 embrittled
-errantness
+errantness 1
 ennoy
 evocator
 evoe
