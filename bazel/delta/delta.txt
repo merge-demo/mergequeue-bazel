@@ -8910,7 +8910,7 @@ deriving
 dioptidae
 disconnect
 dissolvability
-desex
+desex 1
 dichas
 dichasia 1
 decolonizing
