@@ -5870,7 +5870,7 @@ griddled
 gasfiring
 geolatry
 grandesque
-glycogenous
+glycogenous 1
 gravimetric
 goliards
 gallinaceous
