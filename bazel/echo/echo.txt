@@ -2211,7 +2211,7 @@ ensorcels
 eggwhisk
 electrics
 electrographic
-exedrae
+exedrae 1
 esthesia
 epistome
 expanded
