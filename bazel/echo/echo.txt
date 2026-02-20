@@ -3420,7 +3420,7 @@ elementoid
 ethnarchy
 enosises
 emetophobia
-ephoral
+ephoral 1
 erinize
 embassadress
 exumbral
