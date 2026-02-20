@@ -2552,7 +2552,7 @@ fretter
 forewarningly
 forequarter
 finlandization
-fluvicoline
+fluvicoline 1
 fleerer
 flimp
 ferricyanide
