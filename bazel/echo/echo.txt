@@ -5180,7 +5180,7 @@ exundancy
 enoch
 electroosmotic
 euphorbiaceae
-extrapolate
+extrapolate 1
 electromedical
 endoenzyme
 epitrochoid
