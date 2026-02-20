@@ -1879,7 +1879,7 @@ fuligula
 feedwater
 fallow 1
 fewer
-fecundize
+fecundize 1
 flintier
 footingly
 foredoom
