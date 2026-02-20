@@ -17341,7 +17341,7 @@ coassist
 coassistant
 culpas
 cupola
-coassume
+coassume 1
 crystallic
 coassuming
 chrysolite
