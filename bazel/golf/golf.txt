@@ -6886,7 +6886,7 @@ garrotes
 garfish
 gregarina
 gelatinoid
-graticulate
+graticulate 1
 glis
 gannet
 glibly 1
