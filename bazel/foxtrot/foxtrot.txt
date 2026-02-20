@@ -7585,7 +7585,7 @@ ferrules
 foredefeated
 frankheartedness
 flightworthy
-fatuity
+fatuity 1
 footslogs
 forestaller
 flacherie
