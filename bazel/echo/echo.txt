@@ -8992,7 +8992,7 @@ elicitable
 elfin
 eristically
 employer
-exophthalmos
+exophthalmos 1
 erythema
 evene
 erythemal
