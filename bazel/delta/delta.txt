@@ -9844,7 +9844,7 @@ deviancies
 dissected
 diamicton
 deadlines
-defacers
+defacers 1
 darnings
 dactylosternal
 dissertation
