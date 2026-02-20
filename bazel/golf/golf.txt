@@ -2082,7 +2082,7 @@ gamblers
 glancing
 gyrocompasses
 gringos
-guilefully
+guilefully 1
 gawgaw
 goldenseal
 gillian
