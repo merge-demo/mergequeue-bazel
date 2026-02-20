@@ -10657,7 +10657,7 @@ gasolines
 gametogony
 gladius
 gyric
-goatsbane
+goatsbane 1
 galp
 gurgoyle
 glaiketness
