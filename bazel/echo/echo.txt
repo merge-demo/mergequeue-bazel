@@ -14051,7 +14051,7 @@ excitonic
 enterochromaffin
 extravagance
 extravagantly
-enchantingly
+enchantingly 1
 euemerism
 emulsibility
 extravaganza
