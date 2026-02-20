@@ -717,7 +717,7 @@ germanistic
 gawn
 gladdest
 grissen
-gersdorffite
+gersdorffite 1
 gentianic
 gor
 gentlepeople
