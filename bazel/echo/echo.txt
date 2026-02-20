@@ -4961,7 +4961,7 @@ ephemerally
 endearedness
 enterocele
 endearingness
-exactive
+exactive 1
 eglestonite
 ecliptics
 estrada
