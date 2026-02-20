@@ -9720,7 +9720,7 @@ forestick
 flycaster
 fanworts
 fuchsins
-fevery
+fevery 1
 ficoideae
 fretworks
 flexile
