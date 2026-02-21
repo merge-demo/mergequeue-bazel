@@ -3348,7 +3348,7 @@ forsung
 flench
 furuncle
 fidge
-frogfoot
+frogfoot 1
 fractionally
 fidgeted
 fractals
