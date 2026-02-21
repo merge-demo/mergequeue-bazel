@@ -12121,7 +12121,7 @@ ency
 excruciating
 enascent
 excruciator
-ennomic
+ennomic 1
 excubitoria
 eradicator
 entwisting
