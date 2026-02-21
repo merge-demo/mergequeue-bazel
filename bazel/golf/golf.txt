@@ -8696,7 +8696,7 @@ glyphograph
 greedyguts
 guaconize
 gibier
-greedless
+greedless 1
 grecism
 guttled
 gawkier
