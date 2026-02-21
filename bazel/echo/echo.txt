@@ -12777,7 +12777,7 @@ enmask
 exorcizer
 epiceratodus
 exordium
-engold
+engold 1
 exotism
 earlike
 elsewise
