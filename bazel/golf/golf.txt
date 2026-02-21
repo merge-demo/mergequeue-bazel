@@ -8862,7 +8862,7 @@ guardfully
 guanos
 greylag
 groundout
-gyte
+gyte 1
 girouettism
 gowkit
 gynaecomastia
