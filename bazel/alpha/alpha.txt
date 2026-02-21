@@ -17605,7 +17605,7 @@ astroid 1
 adjoining
 appentice
 agrobiological
-adjudges
+adjudges 1
 adjudgeable
 antimask
 antiphonical
