@@ -4344,7 +4344,7 @@ descrier
 disburden
 defatigable
 demandingly
-demands
+demands 1
 denay
 desyl
 dendrodic
