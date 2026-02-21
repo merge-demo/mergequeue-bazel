@@ -5930,7 +5930,7 @@ dowy
 draggily
 disincrust
 depressomotor
-defalcator
+defalcator 1
 dunniewassel
 diversifications
 densifier
