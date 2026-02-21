@@ -17555,7 +17555,7 @@ diatomous
 dactyls
 drumlins
 dorsiferous
-diciest
+diciest 1
 drumloidal
 drummer
 duckhearted
