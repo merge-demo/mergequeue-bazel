@@ -4705,7 +4705,7 @@ fistlike
 fizgig
 fizgigs
 figaro
-fairyish
+fairyish 1
 forsake
 fjord
 fancify
