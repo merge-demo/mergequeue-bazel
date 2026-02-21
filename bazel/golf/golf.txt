@@ -2578,7 +2578,7 @@ graywall
 guv
 gauchely
 gabbards
-gristy
+gristy 1
 gangliasthenia
 goosefish
 granodiorite
