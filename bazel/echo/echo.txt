@@ -4256,7 +4256,7 @@ elucidator
 emulations
 echograph
 exporters
-expiree
+expiree 1
 escarping
 escambio
 emulousness
