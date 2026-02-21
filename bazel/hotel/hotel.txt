@@ -1772,7 +1772,7 @@ hcdvxau
 hcdxmap
 hcdxn
 hcebh
-hcebnt
+hcebnt 1
 hcebrpyrkrih
 hceer
 hcefbjruvyhhts
