@@ -3602,7 +3602,7 @@ extravehicular
 emulable
 embowelling
 egocentric 1
-esperantism
+esperantism 1
 exhibits
 expostulatingly
 epitomically
