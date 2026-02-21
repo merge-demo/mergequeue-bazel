@@ -967,7 +967,7 @@ glist
 genomic
 gamostele
 gallinule
-glottogony
+glottogony 1
 genetically
 gamp
 graysby
