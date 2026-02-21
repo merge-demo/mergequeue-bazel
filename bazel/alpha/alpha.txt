@@ -19100,7 +19100,7 @@ archpriestship
 archprimate
 acroataxia
 archregent
-archrogue
+archrogue 1
 archruler
 apparentness
 antimediaevalism
