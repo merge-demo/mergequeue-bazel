@@ -7767,7 +7767,7 @@ flavour
 foremen
 fanbearer
 ferroprussic
-fruitwise
+fruitwise 1
 fractionize
 flyflower
 fabliau
