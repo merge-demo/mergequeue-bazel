@@ -4475,7 +4475,7 @@ carlishness
 cogwheels
 counterparole
 coxswaining
-clairaudient
+clairaudient 1
 carlo
 courages
 carloading
