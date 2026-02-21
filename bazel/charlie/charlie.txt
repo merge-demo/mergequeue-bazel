@@ -26868,7 +26868,7 @@ counterguard
 counterguerilla
 courtless
 coraciiformes
-counterhaft
+counterhaft 1
 commensurableness
 counterhypothesis
 corflambo
