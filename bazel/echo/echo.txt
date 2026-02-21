@@ -6592,7 +6592,7 @@ electricity
 emigrates
 erysimum
 enhuile
-enwind
+enwind 1
 exolemma
 emove
 eligenda
