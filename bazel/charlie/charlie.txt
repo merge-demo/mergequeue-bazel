@@ -18552,7 +18552,7 @@ coiffeur
 coiffeurs
 coiffeuses
 coiffured
-ceroxylon
+ceroxylon 1
 coiffures
 coiffuring
 coifing
