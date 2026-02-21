@@ -15283,7 +15283,7 @@ clamorousness
 corallite
 clamorsome
 corgis
-clamour
+clamour 1
 concuss
 contune
 cordant
