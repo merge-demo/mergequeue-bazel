@@ -5452,7 +5452,7 @@ deodoriser
 deodorization
 darsonvalism
 displumes
-deodorize
+deodorize 1
 duplexes
 deodorized
 duoviri
