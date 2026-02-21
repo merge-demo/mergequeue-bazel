@@ -6328,7 +6328,7 @@ frags
 fluidity
 fuzzy
 flack
-futural
+futural 1
 fullback
 floyd
 finessed
