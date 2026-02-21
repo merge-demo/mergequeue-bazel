@@ -1765,7 +1765,7 @@ forsterite 1
 farfet 1
 farsalah
 frize
-forlorn
+forlorn 1
 foundery
 frivolously
 fetid
