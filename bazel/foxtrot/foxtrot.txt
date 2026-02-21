@@ -6257,7 +6257,7 @@ ferromagnet
 flummeries
 fld
 fedoras
-flatfooting
+flatfooting 1
 fearing
 febronianism
 fanteague
