@@ -3862,7 +3862,7 @@ dyspnoea
 deionize
 degraduation
 dopatta
-decastyle
+decastyle 1
 dephlegm
 diomedeidae
 deselects
