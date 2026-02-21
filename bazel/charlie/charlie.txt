@@ -15233,7 +15233,7 @@ clam
 cabriolet
 clamant
 circumnavigatory
-clamantly
+clamantly 1
 clamaroo
 ceraunophone
 cywydd
