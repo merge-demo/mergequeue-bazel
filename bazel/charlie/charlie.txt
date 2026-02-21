@@ -4848,7 +4848,7 @@ carretera
 carreton
 carri
 cetaceous
-carry
+carry 1
 carriageable
 carriageful
 clachans
