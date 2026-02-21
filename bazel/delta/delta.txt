@@ -16140,7 +16140,7 @@ dourest
 douroucouli
 dousing
 dout
-desorbing
+desorbing 1
 decrypted
 dualist
 douziemes
