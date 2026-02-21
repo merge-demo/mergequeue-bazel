@@ -10874,7 +10874,7 @@ foreskins
 forehinting
 freestone
 flayer
-furore
+furore 1
 fullish
 foeman
 frigorifico
