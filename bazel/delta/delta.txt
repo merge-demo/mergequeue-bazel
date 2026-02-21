@@ -6675,7 +6675,7 @@ decadianome
 drawarm
 dipneedle
 danders
-deregulates
+deregulates 1
 deserving
 diabetics
 diorite 1
