@@ -3966,7 +3966,7 @@ fish
 fermentor
 fruitcakey
 frenziedly
-frightfulness
+frightfulness 1
 foreshown
 funneled
 farcical
