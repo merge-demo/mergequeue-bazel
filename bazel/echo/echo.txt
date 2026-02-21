@@ -9702,7 +9702,7 @@ eversible
 extima
 easing
 eventuated
-entoptoscopic
+entoptoscopic 1
 essay
 epistomata
 embargo
