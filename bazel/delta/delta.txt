@@ -8413,7 +8413,7 @@ diallagic
 dogmaticalness
 diallagite
 deadwort
-dt
+dt 1
 dishonorably
 diallelus
 deflower 1
