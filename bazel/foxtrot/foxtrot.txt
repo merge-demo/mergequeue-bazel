@@ -5228,7 +5228,7 @@ flytrap
 filius
 flavescent
 funguses
-flews
+flews 1
 farse
 fulfil
 fourling
