@@ -11565,7 +11565,7 @@ couchee
 cholecystectasia
 cholecystectomy
 cingulum
-clammier
+clammier 1
 chimachima
 countermeasure
 cholecystenterorrhaphy
