@@ -3034,7 +3034,7 @@ elytroposis
 elytrorhagia
 euglandina
 elytrostenosis
-elytrotomy
+elytrotomy 1
 emeer
 eggfish
 epistolatory
