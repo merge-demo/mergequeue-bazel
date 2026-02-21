@@ -8966,7 +8966,7 @@ feldspath
 feverwort
 favositoid
 formally
-fourier
+fourier 1
 fanglet
 fourierism
 fourneau
