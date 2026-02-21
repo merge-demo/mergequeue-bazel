@@ -4576,7 +4576,7 @@ faithfulness
 flattest
 frictionize
 frutices
-flaunted
+flaunted 1
 fossilized
 fool
 feigned
