@@ -11499,7 +11499,7 @@ emulgens
 enlistees
 eidolic
 electrophotometer
-evigilation
+evigilation 1
 emenders
 endocrinous
 exsecant
