@@ -2953,7 +2953,7 @@ fungological
 froths 1
 fevered
 flitchen
-furnacing
+furnacing 1
 franklinian
 feveret
 forefending
