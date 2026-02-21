@@ -2306,7 +2306,7 @@ fenestrato
 fifteenfold
 featherheaded 2
 febrility
-fast
+fast 1
 fixities
 fixatifs
 flagitious
