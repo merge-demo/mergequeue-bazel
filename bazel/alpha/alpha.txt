@@ -23635,7 +23635,7 @@ alleviates
 allogeneous
 articulable
 aurate
-aureate
+aureate 1
 attendant
 allosaur
 aurelia
