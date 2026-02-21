@@ -17635,7 +17635,7 @@ cocculus
 convertend
 corrivals
 coccus
-chalazogamy
+chalazogamy 1
 cushite
 cochairing
 chlorothiazide
