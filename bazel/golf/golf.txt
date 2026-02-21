@@ -1091,7 +1091,7 @@ guarding
 gainfully
 graphicness
 gowdy
-goularo
+goularo 1
 gormandizers
 genitives 1
 ganister
