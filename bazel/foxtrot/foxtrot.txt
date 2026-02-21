@@ -5562,7 +5562,7 @@ fluorite
 fascicle
 fibbing
 felon
-foliaceous
+foliaceous 1
 fungic
 familiary
 flacourtiaceae
