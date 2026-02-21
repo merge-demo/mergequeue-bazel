@@ -2496,7 +2496,7 @@ dovekies
 duckwing
 deckle
 dulls
-diatropism
+diatropism 1
 deferral 1
 duds
 dishonourary
