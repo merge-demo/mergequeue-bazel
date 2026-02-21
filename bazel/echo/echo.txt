@@ -13229,7 +13229,7 @@ exheredate
 excluders
 exoarteritis
 exanthalose
-enlightenedness
+enlightenedness 1
 explanted
 explanting
 explat
