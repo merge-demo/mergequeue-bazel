@@ -5538,7 +5538,7 @@ gump
 grassfinch
 griefs
 gauffers
-guttiferous
+guttiferous 1
 germinally
 gangplanks
 glycidol
