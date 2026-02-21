@@ -2986,7 +2986,7 @@ canthuthi
 coyest
 canticle
 carne
-campesino
+campesino 1
 canticles
 conquerableness
 conceptualistically
