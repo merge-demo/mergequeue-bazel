@@ -3307,7 +3307,7 @@ exegetically
 eridanid
 enraged 1
 envisions
-enclose
+enclose 1
 euplastic
 emanational
 enrichingly
