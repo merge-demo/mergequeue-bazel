@@ -3263,7 +3263,7 @@ effuso
 epirotulian
 epigon
 encamping
-eugranitic
+eugranitic 1
 eunice 1
 ecumenicize
 eluvies
