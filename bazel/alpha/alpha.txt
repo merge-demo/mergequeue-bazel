@@ -24408,7 +24408,7 @@ autosomal
 arbalo
 autosomes
 appalls
-astoundable
+astoundable 1
 aani
 abietite
 amy
