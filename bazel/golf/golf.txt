@@ -6876,7 +6876,7 @@ glucoprotein
 geaster
 galeas
 genitival
-geed
+geed 1
 gaposises
 goniatitic
 grainman
