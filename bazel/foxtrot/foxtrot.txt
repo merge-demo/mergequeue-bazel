@@ -331,7 +331,7 @@ feods
 forces
 fail
 fireplough
-faineancy
+faineancy 1
 fayles
 fimbricated
 furcal
