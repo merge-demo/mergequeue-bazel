@@ -12188,7 +12188,7 @@ eucolite
 enlistee
 empory
 exeat
-epigraphs
+epigraphs 1
 exec
 epiphonemas
 eudemonist
