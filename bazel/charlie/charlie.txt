@@ -6043,7 +6043,7 @@ cathouses
 crownling
 cathrin
 cathryn
-coversine
+coversine 1
 cathud
 catydid
 continuos
