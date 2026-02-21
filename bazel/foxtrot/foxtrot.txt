@@ -7449,7 +7449,7 @@ freemen
 flagginess
 forcipation
 flutelike
-forcipressure
+forcipressure 1
 frigidoreceptor
 foy 1
 fossick
