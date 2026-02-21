@@ -9908,7 +9908,7 @@ exhaustively
 emmensite
 earthnuts
 elaterium
-enterritoriality
+enterritoriality 1
 ephedrin
 executes
 eduskunta
