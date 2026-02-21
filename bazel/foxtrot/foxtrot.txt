@@ -5527,7 +5527,7 @@ fisc
 faked
 filionymic
 forbearingness
-frowzy
+frowzy 1
 furbelowing
 fankle
 feticides
