@@ -2508,7 +2508,7 @@ candidnesses
 chrismatine
 crawlie
 cantorial
-countermands
+countermands 1
 coasters
 candies
 candying
