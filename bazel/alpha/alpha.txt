@@ -18982,7 +18982,7 @@ ageratum
 archival
 atopic
 archiver
-archjockey
+archjockey 1
 amoroso
 archknave
 ageless
