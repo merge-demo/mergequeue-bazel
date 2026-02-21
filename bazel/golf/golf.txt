@@ -4068,7 +4068,7 @@ guanines
 gear
 galbulus
 gileno
-gaddingly
+gaddingly 1
 groomsman
 gladliest
 gigaton
