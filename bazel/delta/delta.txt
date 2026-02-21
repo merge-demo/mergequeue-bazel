@@ -16344,7 +16344,7 @@ defensible
 discontinuable
 dichord
 dovetails
-daylight
+daylight 1
 downslide
 describent
 downslip
