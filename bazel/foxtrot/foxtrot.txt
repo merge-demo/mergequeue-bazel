@@ -6379,7 +6379,7 @@ fluctuability 1
 ferriage
 foveolar
 fixup
-fluvio
+fluvio 1
 fluoresceine
 factionism
 fragrantness
