@@ -2740,7 +2740,7 @@ ebons
 equipotent
 electees
 edentate
-envoi
+envoi 1
 eleemosynary
 etymology
 emetic
