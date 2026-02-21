@@ -5175,7 +5175,7 @@ befriended
 bellbind 1
 beardfish
 befriender
-benignly
+benignly 1
 blasphemously
 balanoblennorrhea
 befriending
