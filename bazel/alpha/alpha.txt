@@ -23985,7 +23985,7 @@ autobuses
 autobusses
 ariettes
 autocall
-antilogarithms
+antilogarithms 1
 apostatised
 alumnal
 aryanization
