@@ -10449,7 +10449,7 @@ ferocity
 flaxtail
 frontwards 1
 fragrant
-fermatian
+fermatian 1
 fungitoxic
 factionalist
 fribblers
