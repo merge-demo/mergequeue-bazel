@@ -11392,7 +11392,7 @@ chloroprene
 creature
 chloroquine
 coronas 1
-camagon
+camagon 1
 cyclamates
 cloudlessly
 counterpillar
