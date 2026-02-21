@@ -622,7 +622,7 @@ frame
 facesaving
 falconelle
 falsifier
-foveolet
+foveolet 1
 floaty
 falsifying
 falunian
