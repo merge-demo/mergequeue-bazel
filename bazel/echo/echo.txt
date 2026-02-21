@@ -1507,7 +1507,7 @@ efl
 efoliose
 efph
 enantiomorphism
-erringly
+erringly 1
 entocondylar
 experimentarian
 estantion
