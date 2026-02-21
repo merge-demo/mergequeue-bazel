@@ -456,7 +456,7 @@ copying
 civilisable 1
 chancered
 cactuslike
-cassavas
+cassavas 1
 cartages
 catheretic
 cancelable
