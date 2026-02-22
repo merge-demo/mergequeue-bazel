@@ -18472,7 +18472,7 @@ distinctive
 decals
 dermatophony
 devastavit 1
-dipterous
+dipterous 1
 diose
 dislocation
 dupped
