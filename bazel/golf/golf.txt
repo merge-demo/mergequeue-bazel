@@ -1633,7 +1633,7 @@ glassteel
 gravitational
 grimly
 grimines 1
-glibness
+glibness 1
 gastricism
 glycolipid
 gaskin
