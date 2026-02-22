@@ -17860,7 +17860,7 @@ appreciatory
 angiophorous
 aegopodium
 allegorically
-aerify
+aerify 1
 appreciators
 aerologies
 anaclisis
