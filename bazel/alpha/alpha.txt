@@ -18625,7 +18625,7 @@ archaeologer
 adding
 adiathermal
 artemisic
-adoral
+adoral 1
 archaeologic
 archaeological
 anilinophile
