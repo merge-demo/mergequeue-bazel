@@ -3174,7 +3174,7 @@ geoscopic
 geosphere
 gapless
 guerilla
-geochronologist
+geochronologist 1
 growthful
 guardiancy
 germina
