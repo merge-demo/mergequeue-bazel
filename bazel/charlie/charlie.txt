@@ -21282,7 +21282,7 @@ concession
 concessionaire
 concessional
 chausseemeile
-concessions
+concessions 1
 concessit
 craniate
 concessiveness 1

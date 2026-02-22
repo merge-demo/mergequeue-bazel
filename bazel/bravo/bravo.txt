@@ -3451,7 +3451,7 @@ baguios 1
 bucklandite
 bibliolatrous
 bathylite
-bovine
+bovine 1
 basts
 banuyo
 basural
