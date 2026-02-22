@@ -5427,7 +5427,7 @@ afoul
 afray
 athrocytosis
 antisymmetrical
-anticensoriousness
+anticensoriousness 1
 arcosolia
 aspirator
 anguine
