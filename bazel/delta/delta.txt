@@ -11161,7 +11161,7 @@ dogmatist
 defectibility
 devvel
 dyeline
-djins
+djins 1
 disavower
 derringers
 depletes
