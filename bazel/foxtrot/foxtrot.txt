@@ -9835,7 +9835,7 @@ fissileness
 frib
 fruitage 1
 faden 1
-fribbler
+fribbler 1
 friskle
 foreappointment
 fricace
