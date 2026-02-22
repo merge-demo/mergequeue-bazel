@@ -11522,7 +11522,7 @@ dismounts
 derivationist
 deuteropathic
 discomfortingly
-discomforts
+discomforts 1
 discomycete 1
 discomycetous
 druggy
