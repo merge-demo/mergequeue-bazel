@@ -815,7 +815,7 @@ emmers
 epispadias
 edaphically
 euglenidae
-earthquave
+earthquave 1
 ectypal
 ectype
 enwrite
