@@ -8010,7 +8010,7 @@ diagenetic
 dezymotize
 dezincify
 dotations
-detonability
+detonability 1
 dezincifying
 doughboys
 discifloral
