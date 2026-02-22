@@ -9755,7 +9755,7 @@ functionalities
 frapp
 fallacies
 falchion
-fessways
+fessways 1
 foolhardiest
 fascet
 fatigability
