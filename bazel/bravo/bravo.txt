@@ -9746,7 +9746,7 @@ basifugal
 buffered
 bistipulate
 bistort
-bedarkened
+bedarkened 1
 bistorts
 beetlehead
 bistred
