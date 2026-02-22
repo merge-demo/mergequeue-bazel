@@ -4543,7 +4543,7 @@ discriminant
 dottled
 dukhobor
 dynastically
-demilawyer
+demilawyer 1
 diwans
 demilitarisation
 demilitarised
