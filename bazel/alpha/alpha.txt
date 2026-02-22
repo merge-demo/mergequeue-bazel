@@ -25213,7 +25213,7 @@ acoupe
 aalii
 atrocha
 abscisse
-amoralize
+amoralize 1
 axwise
 aurivorous
 aeon 1
