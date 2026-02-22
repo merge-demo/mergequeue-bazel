@@ -22864,7 +22864,7 @@ antidyscratic
 axometry
 asrama
 alkalemia
-algefacient
+algefacient 1
 atomician
 assimilative
 asterioid

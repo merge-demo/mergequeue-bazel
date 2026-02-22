@@ -3527,7 +3527,7 @@ captacula
 captain
 captaincy
 captaincies
-caprioled
+caprioled 1
 captainry
 captainship
 counterpetition
