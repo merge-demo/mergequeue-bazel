@@ -13726,7 +13726,7 @@ elfhood
 euphemised
 emblazoning
 extersive
-exerting
+exerting 1
 epitrochoidal
 ectosphere
 extincted
