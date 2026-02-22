@@ -3346,7 +3346,7 @@ boller
 binarium
 burgoos
 bronchobuster
-basoid
+basoid 1
 baraithas
 beltine
 banus
