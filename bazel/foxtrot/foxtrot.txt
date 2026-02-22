@@ -2488,7 +2488,7 @@ fernyear
 furison 1
 funs
 fernshaw
-fordo
+fordo 1
 forehatch
 flavic
 freightage
