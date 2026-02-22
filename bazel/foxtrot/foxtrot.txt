@@ -9952,7 +9952,7 @@ fishworks
 frumentum
 flatlanders
 flanche
-frantic
+frantic 1
 frigiddaria
 favor
 frigidly
