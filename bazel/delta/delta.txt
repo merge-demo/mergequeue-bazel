@@ -1699,7 +1699,7 @@ dupability
 disadvantage
 dignity
 disentrain
-dispond
+dispond 1
 duckstone
 distringas
 dobl
