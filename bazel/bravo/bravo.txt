@@ -13420,7 +13420,7 @@ botryotherapy
 balloon
 basilar
 benes
-believeth
+believeth 1
 bassoonist
 biofeedback
 backfields
