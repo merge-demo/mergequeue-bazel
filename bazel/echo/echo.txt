@@ -3313,7 +3313,7 @@ emanational
 enrichingly
 extrapelvic
 emanations
-enosist
+enosist 1
 extrapyramidal
 enthraller
 emanatism
