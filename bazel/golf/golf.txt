@@ -3061,7 +3061,7 @@ gametogenous
 garnetz
 gossipper
 giant
-gnash
+gnash 1
 glaciologists
 grands
 graphiter
