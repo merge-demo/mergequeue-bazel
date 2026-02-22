@@ -8002,7 +8002,7 @@ fowent
 fixgig
 feminises
 fumeless
-forespeaking
+forespeaking 1
 flavorer
 feuter
 farfugium
