@@ -1597,7 +1597,7 @@ deaerated
 dorsum
 deaf
 dynamogenous
-deafened
+deafened 1
 doorjambs
 dummered
 dawe
