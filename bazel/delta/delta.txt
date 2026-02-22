@@ -2538,7 +2538,7 @@ drain
 dotted
 divulgater
 disregarder
-declare
+declare 1
 dimers
 dudgen
 drailing
