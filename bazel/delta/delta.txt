@@ -10778,7 +10778,7 @@ dipterocarpaceous
 deportee
 dipterocarpous
 dipterocarpus
-delay
+delay 1
 divas
 dependent
 dipterus
