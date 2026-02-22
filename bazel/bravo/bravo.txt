@@ -2508,7 +2508,7 @@ beslash
 bassetite
 bottonhook
 barguest
-barguests
+barguests 1
 buzylene
 baria
 bedouse
