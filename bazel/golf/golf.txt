@@ -353,7 +353,7 @@ grade
 gilet
 gantlets 1
 gley
-graphed
+graphed 1
 gasogenic
 gorefish
 gangrenous
