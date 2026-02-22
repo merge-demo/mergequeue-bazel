@@ -17377,7 +17377,7 @@ dipleurula
 droppers
 diurnalness
 dropping
-disframe
+disframe 1
 declaims
 departmentalisation
 droppings
