@@ -1040,7 +1040,7 @@ basanite
 bersil
 boroughmaster
 bailiwick
-bridler
+bridler 1
 benzothiopyran
 blockhead
 brachycephalization
