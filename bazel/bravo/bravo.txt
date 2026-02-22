@@ -9112,7 +9112,7 @@ biospeleology
 biosphere
 breakdown
 bionomical
-biostatic
+biostatic 1
 biostatical
 buffleheaded
 bletting
