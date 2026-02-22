@@ -5192,7 +5192,7 @@ encyclic
 eurystheus
 erava
 essonite
-exceedingness
+exceedingness 1
 endothermically
 epimeride
 enounced
