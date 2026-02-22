@@ -10852,7 +10852,7 @@ eisteddfodau 1
 euphotic
 entailable
 equitability
-eructation
+eructation 1
 ereption
 euphemian
 electrolyzed
