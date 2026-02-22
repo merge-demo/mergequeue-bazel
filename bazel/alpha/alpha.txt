@@ -4544,7 +4544,7 @@ adversities
 abranchial
 aliptes
 axotomous
-advertence
+advertence 1
 advertently
 adverting
 appertise
