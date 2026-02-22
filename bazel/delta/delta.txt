@@ -11579,7 +11579,7 @@ disconjure
 drinkless
 disconnectedness
 diphtheroidal
-diphead
+diphead 1
 disconnecting
 disconnection
 diplococcic
