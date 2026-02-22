@@ -2307,7 +2307,7 @@ fifteenfold
 featherheaded 2
 febrility
 fast
-fixities
+fixities 1
 fixatifs
 flagitious
 felis
