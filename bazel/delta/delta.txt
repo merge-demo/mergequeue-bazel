@@ -7041,7 +7041,7 @@ destress
 dorje
 degrees
 disjointed
-despumation
+despumation 1
 dealing
 desquamating
 desquamatory
