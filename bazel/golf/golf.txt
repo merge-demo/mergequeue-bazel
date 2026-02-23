@@ -1571,7 +1571,7 @@ gentlemens
 gasser
 glutelin
 gripe
-glassless
+glassless 1
 ghegish
 gregarinoidea
 gluelikeness
