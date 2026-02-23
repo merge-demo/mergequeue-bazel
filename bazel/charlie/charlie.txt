@@ -5525,7 +5525,7 @@ cpm
 catacombs
 cyanamide
 catacorner
-catacorolla
+catacorolla 1
 ceaselessly
 clacked
 catacoustics
