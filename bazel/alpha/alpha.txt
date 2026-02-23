@@ -11961,7 +11961,7 @@ ampelite
 admixes
 azeotropy
 aleukemic
-anaphroditic
+anaphroditic 1
 anlaces
 aeolotropy
 ajee
