@@ -12016,7 +12016,7 @@ aboriginals
 alpha
 amphithalmi
 amara
-antigravitation
+antigravitation 1
 apostrophize
 anaretical
 arc
