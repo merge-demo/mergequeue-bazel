@@ -10535,7 +10535,7 @@ feelies
 forehanded
 falltime
 forcipiform
-frowze
+frowze 1
 franking
 fluky
 flatus
