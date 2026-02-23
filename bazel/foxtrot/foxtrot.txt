@@ -11164,7 +11164,7 @@ flyblowing
 fungian
 felspar
 fungibility
-fadeout
+fadeout 1
 fideists
 fungicidal
 fungicidally
