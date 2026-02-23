@@ -10985,7 +10985,7 @@ excludes
 electrizing
 eurhythmic
 epichirema
-echeloot
+echeloot 1
 eoside
 eigenfrequency
 escobita
