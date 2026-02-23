@@ -8567,7 +8567,7 @@ deflex
 diaphony
 diaphysial
 diaphonic
-divertedly
+divertedly 1
 denegation
 diaphonies
 diaphoreses
