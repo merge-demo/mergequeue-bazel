@@ -6004,7 +6004,7 @@ feldsher
 fez
 floorwise
 featishness
-fusty
+fusty 1
 foolscaps 1
 felspars
 flacon
