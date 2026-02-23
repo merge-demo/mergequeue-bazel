@@ -14232,7 +14232,7 @@ daggerbush
 deme
 dene
 drygoodsman
-dumbly
+dumbly 1
 disburses
 disembargo
 ditchers
