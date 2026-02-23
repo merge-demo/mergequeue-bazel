@@ -8631,7 +8631,7 @@ disimprove
 diarist
 dibbuk
 denatured
-diarrhea
+diarrhea 1
 dows
 decarchy
 diarrhoeal 1
