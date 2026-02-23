@@ -25099,7 +25099,7 @@ anthropos
 armorplated
 axiate
 atmos
-archeress
+archeress 1
 amphicondyla
 axiferous
 antimonarchists

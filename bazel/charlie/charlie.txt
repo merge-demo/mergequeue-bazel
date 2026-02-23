@@ -7302,7 +7302,7 @@ crisis
 cepaceous
 cepe
 crossroads
-cepes
+cepes 1
 civ
 conchitis
 clincher
