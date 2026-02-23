@@ -4320,7 +4320,7 @@ fease
 florescence
 forequarters 1
 fluyt
-factive
+factive 1
 fet
 flamethrower
 funditor
