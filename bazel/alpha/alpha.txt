@@ -9755,7 +9755,7 @@ amahuaca
 assoil
 antigen
 amanori
-aeroscope
+aeroscope 1
 accoutrements
 amain
 amidocaffeine
