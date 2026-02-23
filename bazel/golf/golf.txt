@@ -4498,7 +4498,7 @@ grammontine 1
 gastrostaxis
 ginning
 garvance
-giraffe
+giraffe 1
 gynocardic
 gypsyism
 gowk
