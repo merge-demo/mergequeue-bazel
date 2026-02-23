@@ -6956,7 +6956,7 @@ flusherman
 fee
 follily
 feeblemindedness
-fumigants
+fumigants 1
 fungivorous
 fadeless 1
 fendy
