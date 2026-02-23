@@ -6335,7 +6335,7 @@ finessed
 fixtureless
 fourb
 flunkyish
-flunkyize
+flunkyize 1
 fuzziness
 fidepromission
 forefingers
