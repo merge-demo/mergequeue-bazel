@@ -295,7 +295,7 @@ appunctuation
 asphyxiates
 abdominogenital
 aurata
-axiomatic
+axiomatic 1
 affiant
 addleplot
 abnormals
