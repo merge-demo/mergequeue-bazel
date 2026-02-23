@@ -2835,7 +2835,7 @@ glace 1
 gentler
 guenon
 gutnish
-gingelly
+gingelly 1
 gilgulim
 glassite
 gifture
