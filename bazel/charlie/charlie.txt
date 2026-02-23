@@ -11831,7 +11831,7 @@ choplogical
 choregi
 cryptomonad
 candider
-chopper
+chopper 1
 choppers
 choppier
 cados
