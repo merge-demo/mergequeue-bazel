@@ -6735,7 +6735,7 @@ gyrostats
 glomerate
 globulimeter
 geyseral
-gurdfish
+gurdfish 1
 gruine
 glenoid
 guiltlessness
