@@ -7929,7 +7929,7 @@ enclavement
 excoriable
 enneastylar
 engender
-enframes
+enframes 1
 ecclesiography
 ensiferi
 entreater
