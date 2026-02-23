@@ -5468,7 +5468,7 @@ casuarina
 cantraips
 casuarius
 chamaecyparis
-crunode
+crunode 1
 casuistess
 cormorants
 conchobor
