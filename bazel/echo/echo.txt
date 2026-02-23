@@ -5210,7 +5210,7 @@ efference
 euchres 1
 echeloning
 enchanter
-expedition
+expedition 1
 endogenous 1
 enlistment
 electo
