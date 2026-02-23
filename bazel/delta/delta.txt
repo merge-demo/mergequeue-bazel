@@ -2741,7 +2741,7 @@ dassy
 deductibility
 decoration
 diogenic
-decorator
+decorator 1
 deliberated
 disaffiliate
 devonshire
