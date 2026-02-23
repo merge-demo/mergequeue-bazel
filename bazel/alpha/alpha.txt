@@ -24856,7 +24856,7 @@ anaptyxis
 alands
 animates
 artisanal 1
-aberrations
+aberrations 1
 aggrandizements
 avouchers
 abetment
