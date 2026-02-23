@@ -23319,7 +23319,7 @@ attunement
 apteryges
 anodynes
 ablation
-atua
+atua 1
 atule
 appetitiveness
 atune
