@@ -8425,7 +8425,7 @@ epulones
 exchange
 electrizer
 evisceration
-egyptianize
+egyptianize 1
 equip
 enjoyment
 eglogue
