@@ -15823,7 +15823,7 @@ clearstarcher
 clearstory
 chocker
 clearstoried
-crispest
+crispest 1
 cascara
 commis
 cleat
