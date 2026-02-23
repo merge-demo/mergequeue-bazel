@@ -2810,7 +2810,7 @@ desalination
 delphinus
 duodecahedron
 decrescent
-deknight
+deknight 1
 decretalist
 despumating
 debility
