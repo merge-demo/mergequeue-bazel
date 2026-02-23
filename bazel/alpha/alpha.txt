@@ -3189,7 +3189,7 @@ ancylose
 ahs
 ahems
 antipathogen
-allocability
+allocability 1
 aminic
 arachide
 anagrammatising
