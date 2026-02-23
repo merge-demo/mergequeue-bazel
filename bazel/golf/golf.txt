@@ -10761,7 +10761,7 @@ glycerins
 giber
 generation
 gutbucket
-gonfalonierate
+gonfalonierate 1
 ganoin
 gloam
 graminin
