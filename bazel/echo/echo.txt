@@ -6290,7 +6290,7 @@ epicyte
 eyre
 epigaster
 ethanes
-enrich
+enrich 1
 enrichener
 ectopias 1
 edaphic
