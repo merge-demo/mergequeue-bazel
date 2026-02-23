@@ -7346,7 +7346,7 @@ doctrinist
 doyen
 deterrence
 disprejudice
-deterrent
+deterrent 1
 dodunk
 detersiveness
 disunions
