@@ -1843,7 +1843,7 @@ grassy
 glummer
 gabbier
 gatekeepers
-glos
+glos 1
 gentile
 groupage
 garlands
