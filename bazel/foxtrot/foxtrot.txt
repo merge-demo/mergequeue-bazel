@@ -9152,7 +9152,7 @@ feoffees
 flamineous
 frolicked
 fabrications
-fungosity
+fungosity 1
 freights
 fondue
 formidolous
