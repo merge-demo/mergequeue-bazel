@@ -18168,7 +18168,7 @@ discreetest
 depositaries
 dynamicity
 dumpoke
-deltohedra
+deltohedra 1
 dumps
 dissective
 dumsola
