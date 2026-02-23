@@ -5255,7 +5255,7 @@ faugh
 flavorsome
 falda
 fossilage
-fstore
+fstore 1
 flot
 fissiped
 figgery
