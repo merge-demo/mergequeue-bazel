@@ -1011,7 +1011,7 @@ gangamopteris
 givers
 gangava
 groundward
-gynobase
+gynobase 1
 ghassanid
 gilse
 gurnetty
