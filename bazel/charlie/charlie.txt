@@ -10332,7 +10332,7 @@ chickpea
 conspirator
 chickpeas
 cerer
-chickstone
+chickstone 1
 consultory
 canariote
 chickwit
