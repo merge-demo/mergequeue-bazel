@@ -2695,7 +2695,7 @@ jedr
 jedrfs
 jedrno
 jedrzmevfgaa
-jedsamvbc
+jedsamvbc 1
 jedskem 1
 jedsxc
 jedte
