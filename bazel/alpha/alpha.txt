@@ -12927,7 +12927,7 @@ armored
 arcidae
 angraecum
 angriness
-angstroms
+angstroms 1
 arrivers
 angsts
 attackers
