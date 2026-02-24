@@ -7093,7 +7093,7 @@ centetid
 centiar
 centiares
 copita
-curvidentate
+curvidentate 1
 coquetoon
 centiday
 cannikin
