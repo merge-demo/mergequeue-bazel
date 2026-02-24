@@ -4127,7 +4127,7 @@ floridan 1
 fiorin
 fusiladed
 fiorite
-flamberg
+flamberg 1
 foreseen
 falsehoods
 fornenst
