@@ -9579,7 +9579,7 @@ demophoon
 doubloons
 dignities
 drunks
-dignotion
+dignotion 1
 dependants
 desmitis
 deuterons
