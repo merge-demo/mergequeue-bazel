@@ -11422,7 +11422,7 @@ choak 1
 choana
 consultations
 choanate
-choanephora
+choanephora 1
 cystopyelography
 choanocyte
 choanoflagellate
