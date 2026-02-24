@@ -8631,7 +8631,7 @@ goldfielder
 gaslight
 gasteralgia
 greened
-govern
+govern 1
 gladiators
 gradal
 greyish
