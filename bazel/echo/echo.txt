@@ -675,7 +675,7 @@ epilogate
 eubasidii
 elmiest
 enhance
-envier
+envier 1
 excide
 eclogic
 extraocular
