@@ -7376,7 +7376,7 @@ glisky
 gardenful
 gossipped
 glochidial
-gossips
+gossips 1
 gestor
 glomerule
 gilthead
