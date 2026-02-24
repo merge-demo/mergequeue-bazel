@@ -7951,7 +7951,7 @@ dextrad
 dextral
 directed
 dextran
-dextranase
+dextranase 1
 doublelunged
 disallowable
 demicylinder
