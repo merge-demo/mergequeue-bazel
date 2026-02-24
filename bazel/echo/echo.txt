@@ -13824,7 +13824,7 @@ entomolite
 extracivic
 energeticist
 engenderer
-enscale
+enscale 1
 euchroite
 effacing
 erepsins
