@@ -7008,7 +7008,7 @@ entrec
 escalin
 exiting
 effecting 1
-excisor
+excisor 1
 encauma
 entrelac
 emetically
