@@ -7356,7 +7356,7 @@ detestations
 dethronement
 diminute
 dethronements
-dethrones
+dethrones 1
 discommodes
 dwight
 dianil
