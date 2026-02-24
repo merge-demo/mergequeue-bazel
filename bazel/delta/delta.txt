@@ -3601,7 +3601,7 @@ disappears
 dodecant
 destituting
 diatonous
-degener
+degener 1
 declaredness
 depredations
 dripping
