@@ -873,7 +873,7 @@ falconets
 forzando
 fourchette
 fireworks
-folliculose
+folliculose 1
 footworks
 florivorous
 feverfews
