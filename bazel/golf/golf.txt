@@ -8774,7 +8774,7 @@ grogram
 glaserite
 gatherable
 gentilism
-glyceryls
+glyceryls 1
 goosish
 gravel
 gazpachos
