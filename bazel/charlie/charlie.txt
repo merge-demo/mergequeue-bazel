@@ -9972,7 +9972,7 @@ cherem
 calcimine
 cherenkov
 cherimoyer
-cump
+cump 1
 cherish
 chordeiles
 crawfishes
