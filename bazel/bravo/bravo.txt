@@ -11820,7 +11820,7 @@ barfly
 bodybending
 bodybuilder
 betrinket
-birthing
+birthing 1
 bard
 briareus
 browbeater
