@@ -10571,7 +10571,7 @@ affectate
 amygdala
 antirobin
 amygdalaceous
-animated
+animated 1
 amygdalase
 amygdalate
 assisted
