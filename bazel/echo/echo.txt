@@ -7919,7 +7919,7 @@ extensible
 exotospore
 entomeric
 exuccous
-exarchic
+exarchic 1
 eidola
 enlargement
 ethonone
