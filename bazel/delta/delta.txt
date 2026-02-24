@@ -3086,7 +3086,7 @@ doohickus
 dentaria
 defacer
 dentiscalp
-desole
+desole 1
 delible
 designated
 degradand
