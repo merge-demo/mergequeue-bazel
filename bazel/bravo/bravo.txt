@@ -5208,7 +5208,7 @@ boxberries
 beleaguers
 befuddling
 beautyship
-ballistophobia
+ballistophobia 1
 bumpkinet
 berating
 bardish
