@@ -14195,7 +14195,7 @@ ectosome
 esthetics
 epulation
 endlong
-equidistance
+equidistance 1
 exurge
 exuscitate
 enlists
