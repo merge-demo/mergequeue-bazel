@@ -2351,7 +2351,7 @@ charmers
 canalla
 compulsivity
 colorcasted
-canalled
+canalled 1
 canallers
 canals
 cylindrocellular
