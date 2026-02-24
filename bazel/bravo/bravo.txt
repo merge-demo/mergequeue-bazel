@@ -1922,7 +1922,7 @@ bandsman
 bandstand
 beacon
 beseechment
-broadly
+broadly 1
 bisection
 bagnio
 balances
