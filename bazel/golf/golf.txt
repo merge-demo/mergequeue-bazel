@@ -896,7 +896,7 @@ gametogenic
 gooseflesh
 gueparde
 glutathione
-geognost
+geognost 1
 grassfire
 gobioid
 gusseted
