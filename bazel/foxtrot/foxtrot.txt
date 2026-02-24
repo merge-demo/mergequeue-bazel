@@ -3024,7 +3024,7 @@ fiars
 fiascos
 ferricyanogen
 ferrotype
-fulgurantly
+fulgurantly 1
 fortepiano
 flukily
 forasmuch
