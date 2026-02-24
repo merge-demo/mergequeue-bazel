@@ -22249,7 +22249,7 @@ cucujidae
 cosmoscope
 congestible
 congesting
-congestion
+congestion 1
 calk
 congestive
 conceitedly
