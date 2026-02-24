@@ -1011,7 +1011,7 @@ capuche
 caca
 calanque
 calantas
-chromocenter
+chromocenter 1
 chondroid
 calapite
 caprelline
