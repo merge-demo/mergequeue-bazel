@@ -7396,7 +7396,7 @@ encloses
 exonship
 epithetical
 extollment
-everywhither
+everywhither 1
 earthmoving
 epembryonic
 equipollency
