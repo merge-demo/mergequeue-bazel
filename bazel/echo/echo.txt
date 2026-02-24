@@ -11643,7 +11643,7 @@ enddamaged
 exactable
 extemporising
 exactas
-ergastoplasm
+ergastoplasm 1
 elaterite
 epileptogenic
 elephanticide
