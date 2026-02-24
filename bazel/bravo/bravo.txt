@@ -2662,7 +2662,7 @@ bertholletia
 barghest
 breechloader
 brugh
-basiliscus
+basiliscus 1
 backlins
 berrugate
 barm
