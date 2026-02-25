@@ -566,7 +566,7 @@ disbursable
 disfranchiser
 damaskeen
 dod
-damaskine
+damaskine 1
 dynamoneure
 denounces
 diethylmalonylurea
