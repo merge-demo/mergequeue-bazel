@@ -22638,7 +22638,7 @@ counterextend
 connote
 crymotherapy
 connoted
-connoting
+connoting 1
 connubial
 connubiality
 craniol
