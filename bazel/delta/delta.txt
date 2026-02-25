@@ -2553,7 +2553,7 @@ declasses
 dorn
 disjudication
 declass 1
-dimorphs
+dimorphs 1
 dweller
 declassification
 derringer
