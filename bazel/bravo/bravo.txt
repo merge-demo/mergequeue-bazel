@@ -9078,7 +9078,7 @@ blankminded
 buzzwigs
 boylikeness
 bioscopy
-bioscopic
+bioscopic 1
 bioastronautical
 bedecorate
 ballistocardiograph
