@@ -9331,7 +9331,7 @@ disorders
 dif
 dodos 1
 divekeeper
-dactylography
+dactylography 1
 diffame
 dietted
 detracts
