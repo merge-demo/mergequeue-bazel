@@ -29495,7 +29495,7 @@ crystalloid
 concretism
 choragium
 crystalloidal
-crystallomagnetic
+crystallomagnetic 1
 cravers
 cunye
 crystallomancy
