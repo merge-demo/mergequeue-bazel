@@ -7870,7 +7870,7 @@ ephod
 enterolith
 elbowed 1
 elbower
-epigrammatizing
+epigrammatizing 1
 endaortitis
 endonuclease
 epilimnia
