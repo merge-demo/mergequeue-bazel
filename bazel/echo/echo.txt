@@ -10949,7 +10949,7 @@ eggnogs
 eggbeater
 epipelagic
 ends
-ecbolic
+ecbolic 1
 eupnoea
 extenuatory
 excreting
