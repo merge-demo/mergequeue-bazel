@@ -4951,7 +4951,7 @@ astrogator
 aerolites
 avulsions
 admonitioner 1
-antepalatal
+antepalatal 1
 aerolithology
 aerolitic
 aerological
