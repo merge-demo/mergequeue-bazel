@@ -186,7 +186,7 @@ hadtarfnmdrnv
 hadulum
 haduq
 hadvb
-hadvtrtloc
+hadvtrtloc 1
 hadw
 hadwfaocq
 hadwsshqfgs
