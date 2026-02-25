@@ -10909,7 +10909,7 @@ eudemian
 easternize
 enterokinase
 enfin
-encephalocoele
+encephalocoele 1
 epibaterium
 euktolite
 euphory
