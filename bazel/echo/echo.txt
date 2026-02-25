@@ -9791,7 +9791,7 @@ engrave
 efficiencies
 encouragements
 euphrates
-expenthesis
+expenthesis 1
 electroplate
 estable
 enchalice
