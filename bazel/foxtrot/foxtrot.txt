@@ -8475,7 +8475,7 @@ frondesce 1
 factorized
 formatter
 father
-floridans
+floridans 1
 flunkeyite
 fuzztail
 formularizing
