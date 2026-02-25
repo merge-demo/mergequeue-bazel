@@ -1888,7 +1888,7 @@ besieger
 bodiced
 bareheaded
 bubonalgia
-bandanas
+bandanas 1
 bergama
 bandogs
 bediademed
