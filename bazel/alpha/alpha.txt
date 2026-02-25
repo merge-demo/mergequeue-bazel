@@ -18206,7 +18206,7 @@ aspersor
 aquifuge
 aquilaria
 acream
-adverse
+adverse 1
 aquilid
 anoetic
 aerosol
