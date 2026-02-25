@@ -14090,7 +14090,7 @@ almemar
 antehypophysis
 antheming
 antidynamic
-amentia
+amentia 1
 antejudiciary
 antelocation
 aulostomidae
