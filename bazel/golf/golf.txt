@@ -766,7 +766,7 @@ geometrically
 graywether
 galvanotherapy
 geomorphic
-galvanotropism
+galvanotropism 1
 guntub
 globulolysis
 gaulter
