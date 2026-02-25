@@ -17750,7 +17750,7 @@ cocobolo
 condemnate
 cockalan
 cc
-cocreate
+cocreate 1
 cocreated
 cocreating
 corojo
