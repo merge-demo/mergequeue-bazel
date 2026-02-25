@@ -15194,7 +15194,7 @@ dolefully
 detainment
 deeryards
 drawlier
-deathfulness
+deathfulness 1
 dolefuls
 dotate
 drunkly
