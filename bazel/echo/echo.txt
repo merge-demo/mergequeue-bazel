@@ -7580,7 +7580,7 @@ endovenous 1
 electrocapillarity
 equivalently
 equalling
-electrocoating
+electrocoating 1
 extemporal
 epichondrosis
 epichordal
