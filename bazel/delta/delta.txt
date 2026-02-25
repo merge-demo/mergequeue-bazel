@@ -1594,7 +1594,7 @@ daikering
 disinfector
 deadwork
 deaerated
-dorsum
+dorsum 1
 deaf
 dynamogenous
 deafened 1
