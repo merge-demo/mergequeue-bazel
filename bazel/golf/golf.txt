@@ -4896,7 +4896,7 @@ gladiola
 granatite
 goldurns
 goatly
-gastroenteric
+gastroenteric 1
 gladship
 galleylike
 gastrosplenic
