@@ -10234,7 +10234,7 @@ fruticant
 fleshly
 fadedness
 fibrillations
-flakers
+flakers 1
 frond
 fluxmeter
 finickingness
