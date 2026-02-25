@@ -13105,7 +13105,7 @@ ecoclimate
 experientialism
 eschevin
 encarpuspi
-entosarc
+entosarc 1
 extensionality
 ergology
 euphonizing
