@@ -11624,7 +11624,7 @@ boasts
 bryologist
 bosket
 boatage
-bacterioscopical
+bacterioscopical 1
 barspoon
 boatbuilding
 boathook
