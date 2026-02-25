@@ -772,7 +772,7 @@ fragrance
 fallows
 fandangos
 fandoms
-frivolized
+frivolized 1
 fellowlike
 fermacy
 fleaworts
