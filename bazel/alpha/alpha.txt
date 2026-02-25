@@ -5364,7 +5364,7 @@ affret
 acanthous
 aptotic
 agnosticism
-agglutinable
+agglutinable 1
 affriended
 applying
 aggrandizable
