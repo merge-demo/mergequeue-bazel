@@ -5624,7 +5624,7 @@ enhedge
 enfolders
 epimacus
 emigratory
-enfoldings
+enfoldings 1
 elevators
 enfolds
 eneuch
