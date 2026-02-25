@@ -24910,7 +24910,7 @@ awaitlala
 awakable
 acoelomate
 awake
-awakened
+awakened 1
 apeak
 amminolysis
 algometer
