@@ -4200,7 +4200,7 @@ decocted
 dibbers
 deloused
 dribs
-decimal
+decimal 1
 deodorisation
 doorjamb
 delphacidae
