@@ -5797,7 +5797,7 @@ goniometer
 globoid
 geobotanically
 garblers
-gosling
+gosling 1
 gratters
 gigamaree
 gauchos
