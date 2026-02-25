@@ -22566,7 +22566,7 @@ connaturalize
 chg
 cosech
 connaturalness
-connature
+connature 1
 calumniatory
 connaught
 connectable
