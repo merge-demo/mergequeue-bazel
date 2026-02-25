@@ -1661,7 +1661,7 @@ fealty
 fumigates 1
 forebrace
 flacourtiaceous
-folksong
+folksong 1
 flemer
 forgrow
 fearedly
