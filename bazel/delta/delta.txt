@@ -12888,7 +12888,7 @@ dysmnesia
 dysmorphophobia
 disquisiting
 dhikrs
-det
+det 1
 deceptible
 discepting
 dissatisfies
