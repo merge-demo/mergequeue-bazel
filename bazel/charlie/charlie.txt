@@ -21565,7 +21565,7 @@ concurs
 christologist
 concursion
 copesmate
-compulsorily
+compulsorily 1
 computable
 concurso
 cosmographer
