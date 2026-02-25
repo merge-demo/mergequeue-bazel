@@ -16021,7 +16021,7 @@ disturn
 diapedesis
 diaphototropic
 decorrugative
-doublespeak
+doublespeak 1
 deamidization
 digitiform
 dumped
