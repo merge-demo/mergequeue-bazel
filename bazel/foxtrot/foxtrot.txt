@@ -4708,7 +4708,7 @@ figaro
 fairyish
 forsake
 fjord
-fancify
+fancify 1
 fizziest
 friand
 fluidram
