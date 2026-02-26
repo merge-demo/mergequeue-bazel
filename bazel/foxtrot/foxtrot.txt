@@ -5941,7 +5941,7 @@ flooder
 fowlpoxes
 freakiness
 fichtean
-foggers
+foggers 1
 falstaffian
 flatwash
 foreworld

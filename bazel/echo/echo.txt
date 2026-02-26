@@ -1739,7 +1739,7 @@ exert
 ecdemic
 eyelet
 empaled
-ecstatic
+ecstatic 1
 expwy
 exaggerates
 engining
