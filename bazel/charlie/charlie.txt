@@ -20406,7 +20406,7 @@ compagnies
 cresols
 condonative
 concamerate
-companable
+companable 1
 companage
 circumfluent
 counterword
