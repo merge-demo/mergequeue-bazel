@@ -4561,7 +4561,7 @@ girder
 gil 1
 generalate
 goosebill
-geometrid
+geometrid 1
 grating
 goupen
 grasscutter
