@@ -10340,7 +10340,7 @@ agglutinator
 amerced
 acupressure
 abscam
-apivorous
+apivorous 1
 attains
 anaphorically
 affination
