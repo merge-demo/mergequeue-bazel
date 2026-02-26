@@ -5440,7 +5440,7 @@ elsewhither
 electronvolt
 endowment
 ectene
-excantation
+excantation 1
 earthtongue
 endpoints
 endrudge
