@@ -10877,7 +10877,7 @@ desilicate
 drawbored
 dwayne
 disthene
-disguisable
+disguisable 1
 dicaryophyte
 damns
 drudging
