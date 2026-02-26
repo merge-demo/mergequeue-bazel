@@ -8321,7 +8321,7 @@ chalkline
 columnated
 chalkone
 chalkos
-chalkotheke
+chalkotheke 1
 chalkpit
 chalkrail
 circumflect
