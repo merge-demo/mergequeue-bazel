@@ -7158,7 +7158,7 @@ depictor
 deambulate
 desulfurs
 daphnetin
-desulphur
+desulphur 1
 desulphurate
 delatorian
 desulphurised
