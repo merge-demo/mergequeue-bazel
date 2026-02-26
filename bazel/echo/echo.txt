@@ -12638,7 +12638,7 @@ elephantidae
 equiaxial
 epexegeses 1
 exodic
-equipped
+equipped 1
 encincturing
 emeralds
 essancia
