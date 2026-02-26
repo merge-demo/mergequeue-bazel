@@ -5937,7 +5937,7 @@ densifier
 drew
 depressurize
 disentraced
-dere
+dere 1
 defeatee
 depreter
 depriment
