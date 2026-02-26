@@ -5305,7 +5305,7 @@ efik
 enchest
 emulsionize
 engrafting
-ecmnesia
+ecmnesia 1
 endorsable
 entopterygoid
 excerpt
