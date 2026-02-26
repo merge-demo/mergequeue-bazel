@@ -1815,7 +1815,7 @@ exhorters
 engraulis
 erodium
 effetely
-enamors
+enamors 1
 eroding
 encroached
 egotheism
