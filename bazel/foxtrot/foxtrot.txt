@@ -8413,7 +8413,7 @@ futhark
 form
 fluoroscopes
 fullerboard
-folksy
+folksy 1
 formalesque
 foistiness
 flatfootedly
