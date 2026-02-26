@@ -19770,7 +19770,7 @@ combwise
 catapulting
 centurion
 castlewards
-ceraunics
+ceraunics 1
 creatines
 curfewing
 come
