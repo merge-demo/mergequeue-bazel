@@ -5750,7 +5750,7 @@ gaultherase
 gobos
 glossolalia
 gabbroid
-glossolysis
+glossolysis 1
 goldweed
 grecizes
 geometrical
