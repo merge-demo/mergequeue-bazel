@@ -5686,7 +5686,7 @@ gnomonia
 gastrophrenic
 glossal
 glycerize
-gumboil
+gumboil 1
 gilbertianism
 glossalgy
 glossarize
