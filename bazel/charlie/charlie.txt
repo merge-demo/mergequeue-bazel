@@ -19768,7 +19768,7 @@ combusts
 captained
 combwise
 catapulting
-centurion
+centurion 1
 castlewards
 ceraunics
 creatines
