@@ -23108,7 +23108,7 @@ constantinopolitan
 catechumenate
 canvassed
 constantly
-constantness
+constantness 1
 camorrista
 constat
 caretaken
