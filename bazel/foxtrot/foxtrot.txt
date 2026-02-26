@@ -2550,7 +2550,7 @@ faithbreach
 fishpot 1
 fretter
 forewarningly
-forequarter
+forequarter 1
 finlandization
 fluvicoline
 fleerer
