@@ -2084,7 +2084,7 @@ blindish
 bardiest
 banqueting
 beseem
-buddhistic
+buddhistic 1
 besteer
 bladeless
 boguing
