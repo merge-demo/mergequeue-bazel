@@ -13997,7 +13997,7 @@ distorts
 dolomitising
 dentoid
 diphosphide
-donary
+donary 1
 dependably
 distracter
 deaurate
