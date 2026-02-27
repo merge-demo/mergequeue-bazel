@@ -3725,7 +3725,7 @@ echelette 2
 exhaustivity
 egoistry
 embrittle
-enfranchised
+enfranchised 1
 echinochrome
 escobilla
 enravishingly
