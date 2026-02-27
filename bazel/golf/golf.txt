@@ -5483,7 +5483,7 @@ galet
 gemellus
 guipure
 groundskeep
-glisk
+glisk 1
 gapperi 1
 gastruran
 grangerising
