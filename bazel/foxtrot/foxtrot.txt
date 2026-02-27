@@ -7367,7 +7367,7 @@ foreparent
 forebodingly
 footplate
 flakiness 1
-fortunous
+fortunous 1
 feedlots
 flyness 1
 findy
