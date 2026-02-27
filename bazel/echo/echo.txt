@@ -4532,7 +4532,7 @@ epirrheme
 encephalomyelitis
 entalent
 eery
-enrange
+enrange 1
 entrepreneurial
 ectotheca
 erucin
