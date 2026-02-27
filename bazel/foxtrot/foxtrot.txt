@@ -4788,7 +4788,7 @@ fauve
 filigrain 1
 flageolets
 flagfishes
-fubsy
+fubsy 1
 forbiddenness
 figurately
 fasciculus
