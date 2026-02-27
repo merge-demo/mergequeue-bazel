@@ -24567,7 +24567,7 @@ anachorism
 auxotonic
 annihilator 2
 auxotox
-auxotroph
+auxotroph 1
 auxotrophy
 avadana
 absinthiate
