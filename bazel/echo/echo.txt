@@ -5295,7 +5295,7 @@ editors
 ecumenicity
 endopodite
 exagitation
-eskimoid
+eskimoid 1
 elapsoidea
 earthshakingly
 expeditating
