@@ -10664,7 +10664,7 @@ epimyth
 embryotrophe
 eunuchs
 expediment
-easeless
+easeless 1
 echolocation
 enarbor
 excrements 1
