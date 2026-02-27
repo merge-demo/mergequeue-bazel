@@ -12954,7 +12954,7 @@ entotic
 epitonion
 empurple
 enchafe
-enhardy
+enhardy 1
 examines
 erythrol
 expectantly
