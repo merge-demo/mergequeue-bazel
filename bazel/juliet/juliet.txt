@@ -10831,7 +10831,7 @@ jrtobgambmn
 jrtoi
 jrtokyjpd
 jrtox
-jrts
+jrts 1
 jrtsqalqu
 jrttads
 jrtucylqlx
