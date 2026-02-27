@@ -5236,7 +5236,7 @@ fleas
 fluxroot
 fratcheous
 flavid
-fluctuosity
+fluctuosity 1
 foetiferous
 forecastingly
 farley
