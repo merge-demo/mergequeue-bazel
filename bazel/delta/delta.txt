@@ -2329,7 +2329,7 @@ denizens
 didna
 disseizin
 dilapidate
-determinists
+determinists 1
 decke
 diethylstilbestrol
 demidolmen
