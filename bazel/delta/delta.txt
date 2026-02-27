@@ -7966,7 +7966,7 @@ drupiferous
 dartos
 dithyrambically
 durenol
-dextrocularity
+dextrocularity 1
 daphnes
 dedicature
 disincorporation
