@@ -1716,7 +1716,7 @@ floats
 filicin
 fomites
 fortravail
-frippet
+frippet 1
 fibrocyte
 flashflood
 feastfully
