@@ -9205,7 +9205,7 @@ backhauling
 bourbonesque
 bipedality
 bipeds
-bipeltate
+bipeltate 1
 bipennate
 bedlamize
 brunches
