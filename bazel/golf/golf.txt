@@ -3542,7 +3542,7 @@ gapo
 glucogene
 gilt
 grogginess
-gantangs
+gantangs 1
 gigtree
 griffe
 gents
