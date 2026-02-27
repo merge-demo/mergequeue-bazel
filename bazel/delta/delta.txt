@@ -7758,7 +7758,7 @@ deoxygenate
 disastimeter
 decoded
 dogmatization
-deadweight
+deadweight 1
 deviser
 devising
 direption
