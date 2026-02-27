@@ -26935,7 +26935,7 @@ calibres
 countermanding
 countermaneuver
 countermanifestoes
-countfish
+countfish 1
 columbotitanate
 colorable
 chevaux
