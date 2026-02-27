@@ -14239,7 +14239,7 @@ creoles
 canhoop
 circumintestinal
 circumitineration
-circumjacence
+circumjacence 1
 circumjacency
 circumjovial
 circumlitio
