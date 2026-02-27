@@ -10707,7 +10707,7 @@ flavedo
 frutescence
 fetter
 forbare
-forecount
+forecount 1
 forbore
 frumpishly
 fanciness
