@@ -3548,7 +3548,7 @@ fitweed
 forehearth
 featherhead
 formant
-frightful
+frightful 1
 foulsome
 filamentary
 filament
