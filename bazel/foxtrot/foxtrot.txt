@@ -9563,7 +9563,7 @@ freightyard
 forwalk
 foolmonger
 fluorid
-fogginess
+fogginess 1
 fetoplacental
 flatette
 figureless
