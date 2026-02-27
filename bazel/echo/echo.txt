@@ -7652,7 +7652,7 @@ electrophoridae
 epicoracoid
 exocrine
 ellachick
-exhumations
+exhumations 1
 eccentricities 1
 elapse
 eoliths
