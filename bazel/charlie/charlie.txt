@@ -555,7 +555,7 @@ chozar
 cadism
 cashmirian
 camlets
-cadlock
+cadlock 1
 colourlessly
 cadmia
 cadmic
