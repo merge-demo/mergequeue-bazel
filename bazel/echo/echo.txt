@@ -2955,7 +2955,7 @@ enricher
 exploiters
 epagomenal
 endoplast
-etrogim
+etrogim 1
 encamped
 eliminant
 ennoblers 1
