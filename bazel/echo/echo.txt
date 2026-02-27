@@ -2559,7 +2559,7 @@ escadrilles
 electrobiological
 exorcist
 endocritic
-eminency
+eminency 1
 eatable 1
 ezra
 emptiable
