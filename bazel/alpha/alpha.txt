@@ -10391,7 +10391,7 @@ americanum
 amphicarpa
 avocados
 aliment
-americophobe
+americophobe 1
 amerimnon
 analysing
 amerind
