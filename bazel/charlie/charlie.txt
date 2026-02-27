@@ -13799,7 +13799,7 @@ cinene
 cinenegative 1
 cineol
 creeky
-counterflow
+counterflow 1
 cineole
 cahiers
 cineoles
