@@ -627,7 +627,7 @@ gunslingers 1
 gillie
 geophysicist
 gigartina
-glide
+glide 1
 gradatory
 guenepe
 guideline
