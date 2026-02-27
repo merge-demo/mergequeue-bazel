@@ -6724,7 +6724,7 @@ darnex
 diatribes
 desiderta
 diptycas
-desidiose
+desidiose 1
 duckmole
 designable
 doughfoot
