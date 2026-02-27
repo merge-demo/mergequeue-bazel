@@ -5773,7 +5773,7 @@ galera
 galactolysis
 garbel
 gade 1
-graphites
+graphites 1
 glycogenolysis
 goorals
 guzzler
