@@ -14185,7 +14185,7 @@ dysuria
 dysurias
 deals
 disusage
-dynamoscope
+dynamoscope 1
 dibbles
 defeater
 deathful
