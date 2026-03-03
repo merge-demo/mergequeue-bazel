@@ -483,7 +483,7 @@ gridirons
 gipsies
 glozingly
 garroting
-galericulate
+galericulate 1
 gynandromorphy
 germing
 gess
