@@ -21167,7 +21167,7 @@ autospore
 arkansan
 ambroids
 accommodates
-assimilativeness
+assimilativeness 1
 aerily
 ascertainableness
 asem
