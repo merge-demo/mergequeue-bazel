@@ -950,7 +950,7 @@ entada
 ecttypal
 equates
 emanatory
-exeresis
+exeresis 1
 ecuadorian
 ecumenacy
 engraffing
