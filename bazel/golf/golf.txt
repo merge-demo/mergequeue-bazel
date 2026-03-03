@@ -5305,7 +5305,7 @@ glycerin
 gamelan
 gromil
 glycerite
-gigmanism
+gigmanism 1
 glycerolate
 gymnadeniopsis
 glyceroxide
