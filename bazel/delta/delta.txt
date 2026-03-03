@@ -5503,7 +5503,7 @@ dilatation
 deoxyribonucleotide
 disportive
 diaphragm
-dogtrot
+dogtrot 1
 dudishness
 dolichos
 digging
