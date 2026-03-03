@@ -15356,7 +15356,7 @@ buggiest 1
 briered
 brandless
 brainwasher
-bagatelles
+bagatelles 1
 brierroot
 bonnetless
 brieve
