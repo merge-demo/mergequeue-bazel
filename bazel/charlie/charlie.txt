@@ -13952,7 +13952,7 @@ commemoratory
 cinquefoil
 corporature 1
 crackle
-cinquefoiled
+cinquefoiled 1
 cinquefoils
 cacographer
 cinquepace
