@@ -7548,7 +7548,7 @@ fuzils 1
 foretake
 fructokinase
 funebrial
-formers
+formers 1
 falconries
 fragor
 fernseed
