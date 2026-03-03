@@ -5485,7 +5485,7 @@ guipure
 groundskeep
 glisk
 gapperi 2
-gastruran
+gastruran 1
 grangerising
 gemmier
 gluttery
