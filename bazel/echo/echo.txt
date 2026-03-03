@@ -11317,7 +11317,7 @@ enrank
 entirety
 eightfold
 eagles
-exalbuminous
+exalbuminous 1
 evaporimeter
 electrocute
 ecdysons
