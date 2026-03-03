@@ -5773,7 +5773,7 @@ adawn
 awl
 agaricaceous
 agaricoid
-agarics
+agarics 1
 apluda
 aleurodidae
 acephalia
