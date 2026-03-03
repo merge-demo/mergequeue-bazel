@@ -3920,7 +3920,7 @@ disherits
 dekameters
 decumani
 dekapode
-duo
+duo 1
 dermopathic
 dahlsten
 decan
