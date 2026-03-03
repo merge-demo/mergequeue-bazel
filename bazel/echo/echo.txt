@@ -1589,7 +1589,7 @@ eglomerate
 eaglets
 eglomise
 errite
-entires
+entires 1
 enumerator
 eucaines
 eff
