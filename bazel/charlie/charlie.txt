@@ -26393,7 +26393,7 @@ ciminite
 concavities
 centipoise
 clergess
-cliffier
+cliffier 1
 coterminousness
 cotes
 cycloidian
