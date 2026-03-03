@@ -1448,7 +1448,7 @@ floorwalkers
 fringing
 fetched
 fatuoid
-fatuus
+fatuus 1
 frankly
 fairtime
 fantasie 1
