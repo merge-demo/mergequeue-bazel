@@ -13037,7 +13037,7 @@ bucking
 bordering 1
 bemantle
 balangay
-bolster
+bolster 1
 blousing
 borders
 borderland
