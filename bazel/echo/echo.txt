@@ -12625,7 +12625,7 @@ effray 1
 encirclement
 excoriate
 exoculate
-expostulates
+expostulates 1
 ecclesiasticalness 1
 exoculation
 exoderm
