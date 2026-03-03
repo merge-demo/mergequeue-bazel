@@ -6447,7 +6447,7 @@ geneses 1
 gallivanted
 gouger
 guineapig
-golden
+golden 1
 gordian
 grandmaternal 1
 galleine
