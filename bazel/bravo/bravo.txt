@@ -6403,7 +6403,7 @@ benedight 1
 bewake
 benzophthalazine
 breakup
-benzil
+benzil 1
 banewort
 bibliothecaire
 benzopyrazolone
