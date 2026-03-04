@@ -11552,7 +11552,7 @@ cubism
 caschielawis
 conveniens
 cholate
-chamberer
+chamberer 1
 cholates
 crafting
 calciphile
