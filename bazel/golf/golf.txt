@@ -4620,7 +4620,7 @@ gluttonism
 gnathobase 1
 grecianize
 giro
-glossae
+glossae 1
 gastronomist
 gillhooter
 germanyl
