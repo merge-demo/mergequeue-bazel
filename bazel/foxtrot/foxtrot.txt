@@ -4324,7 +4324,7 @@ factive
 fet
 flamethrower
 funditor
-fructiferousness
+fructiferousness 1
 fretworked
 foddering
 fauces
