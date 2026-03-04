@@ -5218,7 +5218,7 @@ fisherman
 foulmouthedness
 focoids
 flautist
-fuse
+fuse 1
 flav
 flavanilin
 fiscals
