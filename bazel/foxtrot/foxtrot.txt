@@ -11320,7 +11320,7 @@ formful
 furfures
 fusulina
 foldless
-fps
+fps 1
 furfurine
 funebrious
 faujasite
