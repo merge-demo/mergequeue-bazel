@@ -2521,7 +2521,7 @@ baggy
 bariatrician
 banderilla
 baric
-barycenter
+barycenter 1
 bemused
 burmite
 brillolette
