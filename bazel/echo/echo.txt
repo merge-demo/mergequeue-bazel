@@ -12959,7 +12959,7 @@ examines
 erythrol
 expectantly
 expectation
-emictory
+emictory 1
 exodoi
 exclusion
 equipartile
