@@ -7719,7 +7719,7 @@ bathyscaphe
 bravoite
 buxerry
 bhikshu
-bullan
+bullan 1
 breakover
 brocard
 bhindi
