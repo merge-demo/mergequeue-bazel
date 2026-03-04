@@ -9543,7 +9543,7 @@ evacuees
 eyesalve
 exannulate
 endosmotic
-ergastoplasmic
+ergastoplasmic 1
 enchytraeidae
 emigree
 euchromatic 1
