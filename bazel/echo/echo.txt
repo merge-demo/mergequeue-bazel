@@ -7382,7 +7382,7 @@ ephesian
 ersatzes
 execrableness 1
 euclases
-eucyclic
+eucyclic 1
 epeirogenesis
 epiphanic
 ennobler
