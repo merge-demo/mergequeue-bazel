@@ -1762,7 +1762,7 @@ extg
 embattle
 emule
 exhbn
-epigraphic
+epigraphic 1
 eutony
 eyes
 ewhow
