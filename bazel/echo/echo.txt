@@ -1526,7 +1526,7 @@ everywhere
 etch
 extracalendar
 ettarre
-emmetropism
+emmetropism 1
 egesta
 eggberries
 enfranchising
