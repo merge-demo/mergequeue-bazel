@@ -8374,7 +8374,7 @@ foundations
 foliage
 fossilological
 forlain
-fatten
+fatten 1
 fetted
 flanning
 fruitcakes
