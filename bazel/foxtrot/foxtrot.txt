@@ -4829,7 +4829,7 @@ fumish
 flume
 fracticipita
 faunus
-fishberries
+fishberries 1
 firepower
 flinthead
 fleay
