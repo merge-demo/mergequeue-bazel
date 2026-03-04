@@ -26554,7 +26554,7 @@ cutter
 conjugata
 crenelated
 cantillate
-counterbewitch
+counterbewitch 1
 comparsa
 cube
 casaun
