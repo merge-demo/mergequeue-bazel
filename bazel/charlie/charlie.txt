@@ -9123,7 +9123,7 @@ chartermaster
 charters
 cryptograms
 cindered
-chartist
+chartist 1
 chartless
 caricatured
 chartography
