@@ -12604,7 +12604,7 @@ beaproned
 buttresses
 bonspiel
 bookbind
-boruca
+boruca 1
 bronchocele
 beatniks
 bagels
