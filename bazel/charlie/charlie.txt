@@ -4606,7 +4606,7 @@ carob
 caroba
 caroch
 caroche
-closings
+closings 1
 cyclarthrsis
 carolan
 caroled
