@@ -14485,7 +14485,7 @@ anthropobiology
 apneumatosis
 automaton
 anthropocentric
-absvolt
+absvolt 1
 acetaldehydase
 almoign
 anthropodeoxycholic
