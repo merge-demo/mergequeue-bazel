@@ -1045,7 +1045,7 @@ calcanean
 calcaneoastragaloid
 calcaneoplantar
 countersale
-calcaneoscaphoid
+calcaneoscaphoid 1
 calcaneum
 calcannea
 calcannei
