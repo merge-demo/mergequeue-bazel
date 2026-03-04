@@ -1752,7 +1752,7 @@ goric 1
 glass
 guesses
 gamesman
-guernseys
+guernseys 1
 gaullism
 gastropexy
 gutte
