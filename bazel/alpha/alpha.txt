@@ -673,7 +673,7 @@ abord
 aboriginality
 anhydrosis
 aborigines
-abort
+abort 1
 alderfly
 aborted
 abortient
