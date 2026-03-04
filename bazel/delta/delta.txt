@@ -14140,7 +14140,7 @@ diapason
 disulfiram
 doyst
 disulfonic
-dispread
+dispread 1
 disulfoxid
 dhobi
 defective
