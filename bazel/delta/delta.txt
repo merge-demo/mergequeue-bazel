@@ -7100,7 +7100,7 @@ desto
 disvalues 1
 darted
 damselfish
-destour
+destour 1
 demonial
 destrer
 destressed
