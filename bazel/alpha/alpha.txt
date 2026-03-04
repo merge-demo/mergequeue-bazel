@@ -10913,7 +10913,7 @@ acclamation
 absolution
 amosite
 anhydric
-availably
+availably 1
 airtight
 amnions
 assurors
