@@ -12350,7 +12350,7 @@ asphyxiant
 assisi 1
 andian
 automatable
-andine
+andine 1
 angakut
 anding
 angiosarcoma
