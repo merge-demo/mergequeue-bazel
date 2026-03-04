@@ -7724,7 +7724,7 @@ breakover
 brocard
 bhindi
 bowstave
-bhishti
+bhishti 1
 bhistie
 bhisties
 berake
