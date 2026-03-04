@@ -5876,7 +5876,7 @@ contiguous
 cubistically
 caterbrawl
 catercap
-catercorner
+catercorner 1
 camsteary
 caller
 catercornered
