@@ -2641,7 +2641,7 @@ forcipulata
 farmyardy 1
 fabric
 falanaka
-freshes
+freshes 1
 fluocerite
 frumpling
 ferrumination
