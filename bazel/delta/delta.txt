@@ -4540,7 +4540,7 @@ demihagbut
 demihaque
 demijambe
 discriminant
-dottled
+dottled 1
 dukhobor
 dynastically
 demilawyer 1
