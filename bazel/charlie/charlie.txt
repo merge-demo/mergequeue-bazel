@@ -4563,7 +4563,7 @@ carnied
 carniferrin
 colorcast
 carnifex
-carnifexes
+carnifexes 1
 cationic
 carnification
 carnificial
