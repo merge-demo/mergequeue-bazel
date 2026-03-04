@@ -13279,7 +13279,7 @@ exploded
 englifier
 empierce
 endophragm
-estranger
+estranger 1
 englishable
 evict
 eponymize
