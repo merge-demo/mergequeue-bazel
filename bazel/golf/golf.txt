@@ -8494,7 +8494,7 @@ garum
 glisteningly
 glossotype
 gurgle
-gelatinization
+gelatinization 1
 gravely
 galops
 groupers
