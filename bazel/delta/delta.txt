@@ -10343,7 +10343,7 @@ delightsomeness
 discophore
 dioptra
 depurative
-demove
+demove 1
 dioptric
 dioptrical
 duhr
