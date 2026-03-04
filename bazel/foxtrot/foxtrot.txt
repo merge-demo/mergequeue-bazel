@@ -3206,7 +3206,7 @@ freeholds
 fairyland
 frosh
 fickle
-fixage
+fixage 1
 fruits
 fiches
 findjan
