@@ -1745,7 +1745,7 @@ fantasmagoric
 frailero
 famatinite
 flattener
-featheredged
+featheredged 1
 fanzines
 forejudgment
 feldspathoidal
