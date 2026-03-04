@@ -25254,7 +25254,7 @@ adjudicate
 azygote
 armfuls
 antimonopolization
-actuaries
+actuaries 1
 amenity
 auriform
 adulatress
