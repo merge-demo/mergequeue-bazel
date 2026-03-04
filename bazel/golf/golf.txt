@@ -2061,7 +2061,7 @@ grapheme
 gaynesses
 grippit
 girsh
-gamey
+gamey 1
 gleeked
 guideboard
 gibbously
