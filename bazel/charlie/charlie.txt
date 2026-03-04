@@ -24690,7 +24690,7 @@ copperskin
 ciderist
 coppersmith
 coppersmithing
-copperware
+copperware 1
 copperwing
 cladodes
 cruelest
