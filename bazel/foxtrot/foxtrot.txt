@@ -2822,7 +2822,7 @@ fretted
 faunae
 faveolate
 facie
-ficus
+ficus 1
 fluidly
 floorman
 fishhouse
