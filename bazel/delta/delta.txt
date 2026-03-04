@@ -14949,7 +14949,7 @@ dodoma
 demonised
 drugman
 dendrocalamus
-depr
+depr 1
 deoperculate
 dodonaeaceae
 duali
