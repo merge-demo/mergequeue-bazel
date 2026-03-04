@@ -9639,7 +9639,7 @@ freers
 farthest
 foresign
 fecklessly
-feliform
+feliform 1
 fulcrumage
 flabrum
 freewheelingness
