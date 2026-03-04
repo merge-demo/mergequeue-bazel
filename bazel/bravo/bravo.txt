@@ -13166,7 +13166,7 @@ bridgemaker
 bovines
 bilobated
 besneer
-bullhorns
+bullhorns 1
 baronize
 bangtail
 brachycephalize
