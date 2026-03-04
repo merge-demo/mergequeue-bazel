@@ -27883,7 +27883,7 @@ crabman
 crabs
 crabstick
 comeatable
-calotin
+calotin 1
 conquians
 crabut
 crabweed
