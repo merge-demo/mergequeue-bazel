@@ -6760,7 +6760,7 @@ foresworn
 felonweed
 foiter
 fraxin
-felloe
+felloe 1
 frayed
 fried
 formative 1
