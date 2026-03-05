@@ -2519,7 +2519,7 @@ functionize
 fastballs
 frush
 flunky
-favaginous
+favaginous 1
 foulmouth
 formaldehyde
 feverlike
