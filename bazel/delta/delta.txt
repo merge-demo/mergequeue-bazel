@@ -4513,7 +4513,7 @@ divulsed
 demidistance
 diaphane
 diabetogenic
-downtrend
+downtrend 1
 deputies
 discircumspection 1
 demies
