@@ -15788,7 +15788,7 @@ corruptibly
 colonized
 clearable
 clearance
-clearances
+clearances 1
 commensurately
 counterfeitness
 clearcole
