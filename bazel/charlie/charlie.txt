@@ -31724,7 +31724,7 @@ cusses
 comrades
 castilian
 crooken
-cusswords
+cusswords 1
 calorizer
 capernoitie
 carian
