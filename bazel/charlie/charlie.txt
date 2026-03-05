@@ -15487,7 +15487,7 @@ confraternization
 claro
 claroes
 collegian
-claromontane
+claromontane 1
 claros
 chemotaxis
 contraposition
