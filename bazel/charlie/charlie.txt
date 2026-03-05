@@ -4243,7 +4243,7 @@ careful
 ceilidh
 carefull
 carefuller
-carefullest
+carefullest 1
 chemosensitivities
 characteristic
 coauthored
