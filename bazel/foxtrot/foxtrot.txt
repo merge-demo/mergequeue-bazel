@@ -10486,7 +10486,7 @@ finises
 fervencies
 floggable
 felsosphaerite
-frostroot
+frostroot 1
 floe
 freshment
 frillery
