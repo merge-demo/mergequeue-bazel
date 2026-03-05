@@ -2939,7 +2939,7 @@ aesthetician
 acrux
 acta
 acediamin
-affrighted
+affrighted 1
 ankus
 actaea
 aphanes
