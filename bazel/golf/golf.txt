@@ -2692,7 +2692,7 @@ genioglossal
 gastroenterologists
 globoids
 geoteuthis
-genioglossus
+genioglossus 1
 gelling
 genitocrural
 grout
