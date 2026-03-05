@@ -5902,7 +5902,7 @@ ewest
 extrazodiacal 1
 epigramme
 exacerbescence
-epidendral
+epidendral 1
 exsiccate
 engrossedly
 engrosser

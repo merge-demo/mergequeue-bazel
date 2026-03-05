@@ -6225,7 +6225,7 @@ concise
 calanthe 1
 caudle
 caudles
-caudocephalad
+caudocephalad 1
 ceile
 clappering
 covertness
