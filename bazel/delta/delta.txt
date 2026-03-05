@@ -18419,7 +18419,7 @@ dupe
 dupedom
 dupery
 destroyer
-diphthongise
+diphthongise 1
 duping
 diabolic
 dipsticks
