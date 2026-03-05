@@ -11284,7 +11284,7 @@ aloofly
 amphisarca
 aqua
 aperitifs
-actuated
+actuated 1
 administratorship
 apiose
 acropodium
