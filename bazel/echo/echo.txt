@@ -6669,7 +6669,7 @@ enterology
 epactal
 enterologic
 epanastrophe
-exhaled
+exhaled 1
 enteromegalia
 enteroneuritis
 effectuates
