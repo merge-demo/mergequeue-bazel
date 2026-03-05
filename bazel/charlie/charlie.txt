@@ -28929,7 +28929,7 @@ cacodaemon
 cellager
 colloquialism
 cribbed
-cribbing
+cribbing 1
 compensating
 cribbings
 cribbiting
