@@ -9077,7 +9077,7 @@ equivocations
 educe
 erythrolein
 enteromorpha
-electrothermostatic
+electrothermostatic 1
 ennobled 1
 eschalots
 engnessang
