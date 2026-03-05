@@ -1761,7 +1761,7 @@ everard
 extg
 embattle
 emule
-exhbn
+exhbn 1
 epigraphic 1
 eutony
 eyes
