@@ -27846,7 +27846,7 @@ contractus
 cpd
 chemurgic
 cpo
-cpus
+cpus 1
 contractional
 centriffed
 chinotti
