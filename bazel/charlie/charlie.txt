@@ -17952,7 +17952,7 @@ cubicle
 cookshack
 colics
 cattlehide
-coelenterate
+coelenterate 1
 catharses
 crotin
 coelenterates
