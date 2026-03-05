@@ -9059,7 +9059,7 @@ ancylostome
 allowableness
 alkalises
 ammonoid
-allowed
+allowed 1
 attorned
 assertiveness
 acquiescing
