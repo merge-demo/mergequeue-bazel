@@ -12873,7 +12873,7 @@ churchwardenship 1
 climb
 churchwoman
 churchwomen
-churel
+churel 1
 churidars
 cyclized
 cupidity
