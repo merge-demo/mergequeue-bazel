@@ -9052,7 +9052,7 @@ flotsan
 flashbacks
 faineantism
 fix 1
-fractionalize
+fractionalize 1
 foreparents
 fleetwing
 frap
