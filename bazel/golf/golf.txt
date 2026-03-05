@@ -9317,7 +9317,7 @@ gerland
 groins
 grolieresque 1
 gruffness
-granulative
+granulative 1
 glycerole
 guessing
 goldenback
