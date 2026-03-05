@@ -1930,7 +1930,7 @@ bandstring
 bathymetric
 brandishes
 bigeye
-believes
+believes 1
 bosquets
 baahling
 beeway
