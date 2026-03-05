@@ -6238,7 +6238,7 @@ enophthalmus 1
 enorm
 explorement
 exhalations
-endopericarditis
+endopericarditis 1
 exhortator
 enorn
 eumeromorph
