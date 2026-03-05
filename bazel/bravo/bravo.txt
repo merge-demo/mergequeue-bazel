@@ -2351,7 +2351,7 @@ barbula
 bardiness
 barbulate
 barbulyie
-barbwire
+barbwire 1
 barbwires
 bullpout
 bothsidedness
