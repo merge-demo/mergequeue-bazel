@@ -10608,7 +10608,7 @@ gowned
 goldenmouth
 glossologist
 greenockite
-gallow
+gallow 1
 glumose
 gallinules
 gotraja
