@@ -1439,7 +1439,7 @@ garsil
 gymnasiums
 governless
 glumpiest
-gnosticity
+gnosticity 1
 gadget
 germinate
 guild
