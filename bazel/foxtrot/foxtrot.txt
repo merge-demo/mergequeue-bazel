@@ -6360,7 +6360,7 @@ flagpole
 fluocerine
 fren
 flang
-fullterm
+fullterm 1
 fluoran
 fennish
 fluorane
