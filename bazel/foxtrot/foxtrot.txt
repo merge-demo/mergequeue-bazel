@@ -4579,7 +4579,7 @@ frutices
 flaunted
 fossilized
 fool
-feigned
+feigned 1
 frenchily
 fingery
 flippance
