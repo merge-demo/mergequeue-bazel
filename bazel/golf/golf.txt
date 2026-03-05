@@ -7537,7 +7537,7 @@ gymnast
 governmental 2
 garageman
 gangman
-goldsmithing
+goldsmithing 1
 gunyah
 geodesies
 greenths
