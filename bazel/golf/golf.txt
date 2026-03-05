@@ -6974,7 +6974,7 @@ grasseye
 grapevine
 goodwives
 germander
-garrigue
+garrigue 1
 garhwali
 groundsman
 gastroepiploic
