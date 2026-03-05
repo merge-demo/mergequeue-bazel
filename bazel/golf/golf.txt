@@ -2797,7 +2797,7 @@ growling
 gimmor
 gascoigny
 greatcoat
-gyro
+gyro 1
 gyne 1
 garni
 gershon
