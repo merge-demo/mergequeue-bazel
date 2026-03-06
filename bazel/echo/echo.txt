@@ -817,7 +817,7 @@ edaphically
 euglenidae 1
 earthquave 1
 ectypal
-ectype
+ectype 1
 enwrite
 epizoa
 erythrinidae
