@@ -6728,7 +6728,7 @@ epicenters
 equines
 espaliers
 epithecal
-evaginable
+evaginable 1
 emunge
 enuresis
 entertake
