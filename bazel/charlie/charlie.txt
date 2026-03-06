@@ -31163,7 +31163,7 @@ cupidon
 corta
 cupiuba
 cupless
-cupman
+cupman 1
 cupolaed
 crushable
 cupolaing
