@@ -10932,7 +10932,7 @@ echinops
 euphuize
 eupyrion
 eupittone
-enteritis
+enteritis 1
 exams
 elephantry
 eventognathi
