@@ -15200,7 +15200,7 @@ dotate
 drunkly 1
 disimitate
 dolerophanite
-disproperty
+disproperty 1
 durr
 decants
 dungbird
