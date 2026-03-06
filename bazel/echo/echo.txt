@@ -3012,7 +3012,7 @@ efflorescence
 evocative
 extern
 encorpore
-externa
+externa 1
 eliot
 eliphalet
 elbowroom
