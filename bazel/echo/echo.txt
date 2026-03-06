@@ -12713,7 +12713,7 @@ everbearer
 exonym
 era 1
 earcockle
-energizing
+energizing 1
 exophasic
 exalted
 exophthalmia
