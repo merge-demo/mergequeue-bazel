@@ -3575,7 +3575,7 @@ garnishes
 guacho
 gewgaws
 ghan
-glowerer
+glowerer 1
 groper
 ghanaian
 glimpsing
