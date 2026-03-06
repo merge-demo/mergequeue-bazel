@@ -2281,7 +2281,7 @@ dowsers
 disceptator
 dithioglycol
 decemuiri
-downcut
+downcut 1
 derby
 decemviral
 deepish
