@@ -1910,7 +1910,7 @@ biotechs
 brevipen
 bandore
 baselard
-balsa
+balsa 1
 bandrol
 beatific
 befuddles
