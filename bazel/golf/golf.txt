@@ -3705,7 +3705,7 @@ gyrencephalic
 ghostier 1
 galah
 geodetically
-glumelike
+glumelike 1
 ghostish
 gelatigenous
 gracilescent
