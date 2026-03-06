@@ -16544,7 +16544,7 @@ detergent
 denar
 drivebolt
 deteriorationist
-duos
+duos 1
 daza
 disingenuity
 draft
