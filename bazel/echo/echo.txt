@@ -3559,7 +3559,7 @@ eschewance
 extortionary
 eponyms
 extreme
-epigonus
+epigonus 1
 entrefer
 embolize
 eupeptic
