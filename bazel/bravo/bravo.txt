@@ -5441,7 +5441,7 @@ beachward
 bulletmaking 1
 blubbery
 boardmanship
-boatable
+boatable 1
 becudgelling
 beetling
 behemoths
