@@ -9898,7 +9898,7 @@ chronobiology
 chemosorption
 chemosphere
 collateral
-cancers
+cancers 1
 chemosurgery
 chemotactic
 cresylene
