@@ -13099,7 +13099,7 @@ expergefaction
 embedding
 epistolographic 1
 eyeshine
-effeminatize
+effeminatize 1
 expediency 1
 ecoclimate
 experientialism
