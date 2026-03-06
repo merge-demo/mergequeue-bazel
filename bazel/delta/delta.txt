@@ -2121,7 +2121,7 @@ decamethonium
 decametric 1
 decanal
 decancellate
-dominator
+dominator 1
 decancellated
 disciplinarian
 debaser
