@@ -7273,7 +7273,7 @@ gormandize
 glomi
 gormandizes
 gundeck
-gangsa
+gangsa 1
 gleaming
 gwerziou
 gavelman
