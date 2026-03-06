@@ -4577,7 +4577,7 @@ flattest
 frictionize
 frutices
 flaunted
-fossilized
+fossilized 1
 fool
 feigned 1
 frenchily
