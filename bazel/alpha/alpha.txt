@@ -6522,7 +6522,7 @@ ascomata
 anacrustic
 airward
 acerbities
-amicableness
+amicableness 1
 ahunt
 azocyclic
 ahuula
