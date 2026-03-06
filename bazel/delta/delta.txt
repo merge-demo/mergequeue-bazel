@@ -10275,7 +10275,7 @@ dowed
 doggonedest
 dusts
 deconcentrating
-disaccustom
+disaccustom 1
 doornail
 deifiers
 dioctahedral
