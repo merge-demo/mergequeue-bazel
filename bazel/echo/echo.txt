@@ -12001,7 +12001,7 @@ enamouring
 exclaiming
 exclaims
 epitenon
-exclamative
+exclamative 1
 endolymphic
 epithermally
 excreation
