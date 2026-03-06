@@ -27599,7 +27599,7 @@ clinquant
 censes
 cymatium
 coving
-carapus
+carapus 1
 covinous
 charioteership
 covisitor
