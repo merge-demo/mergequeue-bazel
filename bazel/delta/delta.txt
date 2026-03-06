@@ -4256,7 +4256,7 @@ duncan
 destructible
 dineros
 danseuses
-deltohedron
+deltohedron 1
 dogvanes
 delubra
 deluce
