@@ -6668,7 +6668,7 @@ exhedrae
 enterology
 epactal
 enterologic
-epanastrophe
+epanastrophe 1
 exhaled 1
 enteromegalia
 enteroneuritis
