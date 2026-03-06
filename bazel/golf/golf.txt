@@ -4137,7 +4137,7 @@ gendering
 gangrenate
 guiltful
 gymnasic
-galeidae
+galeidae 1
 genitivally
 grapsidae
 gentilities
