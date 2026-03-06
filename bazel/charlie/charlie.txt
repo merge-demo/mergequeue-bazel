@@ -16941,7 +16941,7 @@ clupea
 chartism
 clupeid
 cosignitary
-clupeids
+clupeids 1
 creatureliness
 classis
 cachalot
