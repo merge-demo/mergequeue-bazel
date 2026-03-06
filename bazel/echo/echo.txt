@@ -4288,7 +4288,7 @@ emacerated
 effluxes
 emphasise 1
 extoller
-emulsoids
+emulsoids 1
 enteropathogenic
 elohim
 enlay
