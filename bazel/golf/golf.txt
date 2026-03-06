@@ -4722,7 +4722,7 @@ generis
 gastraeas 1
 guzmania
 guanacos
-gallinula
+gallinula 1
 gynodioecism
 gymnasiast
 gumshoe
