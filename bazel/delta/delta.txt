@@ -12187,7 +12187,7 @@ dejections 1
 disfigure
 draughter
 defencelessness
-disfigurer
+disfigurer 1
 demarcated
 didactician
 diasper
