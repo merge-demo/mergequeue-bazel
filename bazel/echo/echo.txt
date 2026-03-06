@@ -1951,7 +1951,7 @@ enthelmintha
 endict
 exarchateship
 elementalist
-ejaculatory
+ejaculatory 1
 erdvark
 elishah
 ejectively
