@@ -2653,7 +2653,7 @@ dinglebird
 decreers
 decolours
 decommission
-decommissioned
+decommissioned 1
 discriminably
 decian
 dozers
