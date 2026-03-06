@@ -865,7 +865,7 @@ couverte
 cairngorm
 convictable
 cairngorum
-cairny
+cairny 1
 cays 1
 caisse
 caissons
