@@ -18158,7 +18158,7 @@ astint
 anacusia
 adequately
 aquascope
-alltud
+alltud 1
 ashberry
 aquate
 aquatic
