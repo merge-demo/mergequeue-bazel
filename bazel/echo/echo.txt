@@ -6104,7 +6104,7 @@ encomienda
 electionary
 eugenic
 eulachon
-elasmosaur
+elasmosaur 1
 ebullience
 evanesce
 epifauna
