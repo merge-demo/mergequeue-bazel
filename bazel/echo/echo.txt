@@ -3972,7 +3972,7 @@ emolument
 elevator
 emotivity
 epileptology
-exorability
+exorability 1
 epitases
 empaistic
 exilarch
