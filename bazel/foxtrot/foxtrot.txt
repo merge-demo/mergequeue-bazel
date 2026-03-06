@@ -7744,7 +7744,7 @@ foreknowingly
 frere
 foreshaft
 forelook
-fauvist
+fauvist 1
 facer
 fanfaronade
 flower
