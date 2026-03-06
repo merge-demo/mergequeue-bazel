@@ -7952,7 +7952,7 @@ gymnurinae
 guesdist 1
 gymnospermy
 glumness
-getmjlkost
+getmjlkost 1
 gametogonium
 glimmerite
 gregaloid
