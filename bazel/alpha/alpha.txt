@@ -17081,7 +17081,7 @@ adiabolist
 asperated
 antistes
 administrant
-atomic
+atomic 1
 apodemas
 autogamy
 asportation
