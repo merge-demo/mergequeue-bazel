@@ -4497,7 +4497,7 @@ diaspora
 divulse
 dividingly
 demicircular
-divulsor
+divulsor 1
 drowningly
 defence
 deceptions
