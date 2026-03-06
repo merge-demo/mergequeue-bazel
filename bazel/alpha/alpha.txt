@@ -14935,7 +14935,7 @@ alkenes
 anticlockwise
 asphaltum
 anticlogging
-averroism
+averroism 1
 anticoagulant
 anticoagulation
 anticoagulative
