@@ -11387,7 +11387,7 @@ furnish
 fluorindine
 furnishable 1
 fluoroformol
-frontirostria
+frontirostria 1
 forgiveably
 footballer
 flushness
