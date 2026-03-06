@@ -12865,7 +12865,7 @@ ensynopticity
 expansum
 eburneoid
 evacuators
-embarked
+embarked 1
 expandable
 escropulo
 erotopathic
