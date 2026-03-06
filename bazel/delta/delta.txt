@@ -9672,7 +9672,7 @@ definitive
 devisee
 dika
 dotage
-dampened
+dampened 1
 disheart
 dieter
 dispersedelement
