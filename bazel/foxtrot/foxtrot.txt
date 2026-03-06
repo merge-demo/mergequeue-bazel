@@ -8690,7 +8690,7 @@ ferreling
 footcandle
 foxings
 furlong
-febrifuge
+febrifuge 1
 fissility
 frankhearted
 favoress
