@@ -8983,7 +8983,7 @@ biologics
 busybodyish
 bedstands
 bioluminescence
-bewhite
+bewhite 1
 brender
 bremsstrahlung
 bacterioagglutinin
