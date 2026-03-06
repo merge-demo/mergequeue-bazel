@@ -8786,7 +8786,7 @@ faradization
 fiberglass
 floret
 forechurch
-flunking
+flunking 1
 fjerding
 formula
 falcopern
