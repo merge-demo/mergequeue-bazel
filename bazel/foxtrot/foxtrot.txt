@@ -6533,7 +6533,7 @@ fluting
 freakishly
 flasque
 foetid
-floccose
+floccose 1
 frailish
 flutist
 frenchman
