@@ -17346,7 +17346,7 @@ crystallic
 coassuming
 chrysolite
 coast
-coastal
+coastal 1
 coastally
 cohabitant
 coastguardman
