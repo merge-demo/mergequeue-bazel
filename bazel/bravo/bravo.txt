@@ -12303,7 +12303,7 @@ bungfull
 bacteriophagic
 bathycurrent
 bullwhacker
-betrayer
+betrayer 1
 bombardments
 bombline
 bowdrill
