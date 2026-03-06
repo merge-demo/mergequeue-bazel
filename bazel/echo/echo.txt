@@ -7738,7 +7738,7 @@ everyness
 erythraea 1
 epirogeny
 epidermic
-epidermical
+epidermical 1
 enteroplasty
 erechtheus
 electropolish
