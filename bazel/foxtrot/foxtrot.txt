@@ -7688,7 +7688,7 @@ furriness
 forspeak
 favourers
 forehoofs
-forehooves
+forehooves 1
 forpit
 foreboding
 fissidentaceae
