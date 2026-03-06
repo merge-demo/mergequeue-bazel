@@ -5669,7 +5669,7 @@ fibrine
 freckles
 funeration
 forbearant
-finite
+finite 1
 flancards
 friended
 fuzz
