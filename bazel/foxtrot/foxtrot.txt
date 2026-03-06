@@ -1842,7 +1842,7 @@ frictions
 fore
 feastless
 febrific
-flaccid
+flaccid 1
 feloid
 febrile
 forrue
