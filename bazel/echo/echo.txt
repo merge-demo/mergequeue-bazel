@@ -12644,7 +12644,7 @@ emeralds
 essancia
 ergotize
 elateroid
-egurgitating
+egurgitating 1
 excussio
 exoenzyme
 enterobacterial
