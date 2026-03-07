@@ -4073,7 +4073,7 @@ finitive
 felapton
 formants
 foppishness
-finitude
+finitude 1
 flushable
 fluking
 frijoles
