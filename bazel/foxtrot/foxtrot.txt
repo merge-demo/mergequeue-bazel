@@ -3674,7 +3674,7 @@ flawier
 forelooper
 floorings
 fuzzing
-followeth
+followeth 1
 funnelling
 friskers
 fertilised
