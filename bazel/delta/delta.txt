@@ -6774,7 +6774,7 @@ depraving
 dodecatyl
 disally
 dirtboard
-datatype
+datatype 1
 demoralizer
 detestably
 diathermic
