@@ -10966,7 +10966,7 @@ equivocalness
 echiurid
 erythematous
 embrittlement
-echinus
+echinus 1
 embosk
 eperva
 euproctis
