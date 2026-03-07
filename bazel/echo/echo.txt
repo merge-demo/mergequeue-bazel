@@ -11621,7 +11621,7 @@ ewte
 exacerbated
 effet
 excided
-enfrenzy
+enfrenzy 1
 ersatz
 ethnocentricity
 empoison
