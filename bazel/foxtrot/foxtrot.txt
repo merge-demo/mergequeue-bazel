@@ -638,7 +638,7 @@ flugelmen
 faltere
 flavored
 frequenter
-frithsoken
+frithsoken 1
 falx
 further
 fallbacks 1
