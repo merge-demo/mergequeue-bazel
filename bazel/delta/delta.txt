@@ -16440,7 +16440,7 @@ delirate
 diachyma
 drabbler
 datum
-difflugia
+difflugia 1
 downtimes
 dunnesses
 dacoities
