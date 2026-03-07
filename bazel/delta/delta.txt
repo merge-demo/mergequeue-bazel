@@ -6141,7 +6141,7 @@ dissector
 derbend
 debauch 1
 deploringly
-deft
+deft 1
 discostomatous
 derecho
 dereferenced
