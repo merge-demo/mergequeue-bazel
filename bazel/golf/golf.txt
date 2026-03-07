@@ -6830,7 +6830,7 @@ gt
 gonof 1
 gudesire
 gonophs
-galloflavine
+galloflavine 1
 gallowsness
 gladiolus 1
 gatewright
