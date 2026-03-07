@@ -4101,7 +4101,7 @@ daalder
 disconnecter 1
 discomplexion
 dihybrid
-disreason
+disreason 1
 delimitating
 delimitation 1
 deviational
