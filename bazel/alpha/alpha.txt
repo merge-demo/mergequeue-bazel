@@ -11914,7 +11914,7 @@ allergen
 ananta
 astraea
 antimasquerade
-anticriticalness
+anticriticalness 1
 altarist
 anammonide
 achterveld
