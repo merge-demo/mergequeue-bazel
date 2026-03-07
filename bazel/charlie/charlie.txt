@@ -23914,7 +23914,7 @@ conns 1
 cicadellidae
 conf
 chaffing
-clysmic
+clysmic 1
 conubium
 comminuate
 conularia
