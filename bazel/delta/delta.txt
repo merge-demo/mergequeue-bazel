@@ -5587,7 +5587,7 @@ dependingly
 drouthiness
 depends
 dallack
-dispersed
+dispersed 1
 dramatizable
 dukeship
 dothideaceous
