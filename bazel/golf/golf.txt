@@ -2072,7 +2072,7 @@ gherkins
 gavots
 glycerophosphoric
 gomari
-giftless
+giftless 1
 glossers
 gingkoes
 glorious
