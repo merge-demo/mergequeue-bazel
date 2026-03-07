@@ -7058,7 +7058,7 @@ fribby
 fatalities
 foreknow
 flowk
-fosie
+fosie 1
 frase
 flacked
 felones
