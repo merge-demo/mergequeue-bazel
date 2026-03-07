@@ -8046,7 +8046,7 @@ expilate
 ejections
 eggar
 ease
-entoconid
+entoconid 1
 enstatitic
 easements
 escapingly
