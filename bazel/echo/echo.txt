@@ -10292,7 +10292,7 @@ emulsifiability
 ethylamine
 extralite
 elevatedly
-elapses
+elapses 1
 eemis
 epidemial
 expecters
