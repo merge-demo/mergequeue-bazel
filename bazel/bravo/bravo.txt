@@ -8033,7 +8033,7 @@ bourrelet
 blanque
 boatman
 buckbeans
-busked
+busked 1
 bluntness
 bicornate
 bowery
