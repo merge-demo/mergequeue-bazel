@@ -5879,7 +5879,7 @@ depreciable
 dysspermatism
 depreciate
 deponents
-despots
+despots 1
 drago
 depreciation
 deoxygenization
