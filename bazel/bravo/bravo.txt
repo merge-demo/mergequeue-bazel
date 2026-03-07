@@ -9049,7 +9049,7 @@ basking
 bipectinated
 biopotential
 biopsy
-biopsic
+biopsic 1
 bailliage
 byssaceous
 bespice
