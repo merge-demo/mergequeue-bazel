@@ -13928,7 +13928,7 @@ bishopful
 barwing
 billete
 bostonese
-bowsie
+bowsie 1
 byerlite
 bacteriuria
 boxful
