@@ -24318,7 +24318,7 @@ creatable
 classist
 corncutting
 coarrange
-cookeite
+cookeite 1
 cooker 1
 cookeries
 cookhouse
