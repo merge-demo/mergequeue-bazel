@@ -10614,7 +10614,7 @@ gallinules
 gotraja
 goy
 guildite
-gunpoints
+gunpoints 1
 gloomiest
 ghoul
 gunpower
