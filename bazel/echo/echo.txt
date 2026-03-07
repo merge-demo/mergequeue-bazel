@@ -4263,7 +4263,7 @@ emulousness
 eaux
 eumeristic
 expolish
-expendible
+expendible 1
 expressways
 equidiagonal
 epityphlon
