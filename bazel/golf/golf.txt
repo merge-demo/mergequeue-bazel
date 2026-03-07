@@ -909,7 +909,7 @@ genteeler
 gaverick
 geld 1
 guna
-gelatinate
+gelatinate 1
 gambia
 garnishable
 grittiness
