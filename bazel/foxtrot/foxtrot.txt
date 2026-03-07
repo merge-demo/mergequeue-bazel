@@ -10641,7 +10641,7 @@ facultate
 fegatella
 flatulent
 fickly
-forcibly
+forcibly 1
 fitzroy
 feltlike
 forblack

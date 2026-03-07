@@ -2997,7 +2997,7 @@ gasifier
 geologically
 gondite
 gavialis
-gelly
+gelly 1
 galvanocauteries
 gentlefolk
 gambusia
