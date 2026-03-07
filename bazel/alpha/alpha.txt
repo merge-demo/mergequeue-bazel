@@ -21942,7 +21942,7 @@ anatripsis
 austerus
 associativeness
 amplify
-armoring
+armoring 1
 associativity
 adicity
 autochthones
