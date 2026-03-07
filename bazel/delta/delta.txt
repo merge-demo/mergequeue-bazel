@@ -1637,7 +1637,7 @@ difficulty
 daylong
 dimetrodon
 deodate
-datolitic
+datolitic 1
 domify
 devertebrated
 daydrudge
