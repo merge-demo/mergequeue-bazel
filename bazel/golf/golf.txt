@@ -2476,7 +2476,7 @@ gonopodial
 gemmology
 globality
 gnathidium
-glabrate
+glabrate 1
 girt
 gillflirt
 geoisotherm
