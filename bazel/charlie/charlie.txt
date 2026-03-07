@@ -3014,7 +3014,7 @@ colander
 cantonal
 cantonalism
 crapelike
-cantoner
+cantoner 1
 cowleeching
 cellocut
 cantoning
