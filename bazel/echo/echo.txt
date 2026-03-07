@@ -8299,7 +8299,7 @@ embosoms
 epithalamize
 efractory
 equivalve
-ennobles
+ennobles 1
 exactions
 epithalline
 elastase
