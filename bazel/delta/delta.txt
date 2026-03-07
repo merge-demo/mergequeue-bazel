@@ -10538,7 +10538,7 @@ dipleural
 docetically
 defected
 dionysian
-dimeric
+dimeric 1
 decalcomaniac
 dipleurulas
 disbowels
