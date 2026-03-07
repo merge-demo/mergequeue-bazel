@@ -9959,7 +9959,7 @@ ennew
 ecclesiae
 estrif
 estrin
-elk
+elk 1
 estrums
 extrospection 1
 englishize 1
