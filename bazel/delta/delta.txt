@@ -2813,7 +2813,7 @@ decrescent
 deknight 1
 decretalist
 despumating
-debility
+debility 1
 desalinization
 deedbote
 donatory
