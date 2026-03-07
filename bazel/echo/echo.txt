@@ -4963,7 +4963,7 @@ enterocele
 endearingness
 exactive
 eglestonite
-ecliptics
+ecliptics 1
 estrada 1
 emulatress
 endeavour
