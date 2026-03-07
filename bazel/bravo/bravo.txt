@@ -11293,7 +11293,7 @@ blowoff
 blowouts
 bedels
 blowproof
-blows
+blows 1
 bleachability
 barograms
 boneyard
