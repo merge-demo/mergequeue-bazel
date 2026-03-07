@@ -5072,7 +5072,7 @@ gret
 glassful
 gonotocont
 grapplers
-gloxinia
+gloxinia 1
 glasshouses
 gateaux
 gasts
