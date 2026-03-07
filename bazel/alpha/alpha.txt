@@ -3965,7 +3965,7 @@ adjutator
 adjute
 aqueity
 apologer
-adjutrice
+adjutrice 1
 ambassage
 ameba
 affirm
