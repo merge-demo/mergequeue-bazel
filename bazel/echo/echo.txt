@@ -408,7 +408,7 @@ enfolden
 epact
 eutrophic
 embayed
-excelsitude
+excelsitude 1
 evangelist
 ebriose
 elumbated 1
