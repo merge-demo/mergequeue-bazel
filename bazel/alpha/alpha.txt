@@ -6624,7 +6624,7 @@ astatizer
 assembles
 anodynous
 apterous 1
-antivermicular
+antivermicular 1
 augustal
 anathematize
 aquinas
