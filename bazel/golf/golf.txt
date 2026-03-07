@@ -9166,7 +9166,7 @@ grouchily
 gora
 gridding 1
 geographically
-granulates
+granulates 1
 glared
 goosed
 garon
