@@ -13559,7 +13559,7 @@ elucidate
 exsiccating
 embowment
 ergusia
-exsolving
+exsolving 1
 epochs
 exposedness
 energies
