@@ -12807,7 +12807,7 @@ anglish
 angioparalytic
 angioparesis
 ambassadorship
-awarder
+awarder 1
 angiopathy
 agnosis
 aeneolithic
