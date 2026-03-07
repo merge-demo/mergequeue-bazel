@@ -13469,7 +13469,7 @@ dunnites 1
 debi
 disrobes
 decrassify
-destroys
+destroys 1
 disrobing
 disroost
 demiurgism
