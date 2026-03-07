@@ -10916,7 +10916,7 @@ anhydric
 availably 1
 airtight
 amnions
-assurors
+assurors 1
 amnios
 anvilling
 amniotes
