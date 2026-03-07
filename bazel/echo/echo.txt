@@ -14006,7 +14006,7 @@ endogen
 extraregularly 1
 expirers
 exiling
-exsertile
+exsertile 1
 elderbrotherly
 extrasocial
 ectophyte
