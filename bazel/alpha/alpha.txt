@@ -12608,7 +12608,7 @@ archrascal 1
 asarh
 angwantibo
 anesthetization
-anesthetized
+anesthetized 1
 achromotrichia
 anesthetizes 1
 anestrous
