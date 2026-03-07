@@ -2537,7 +2537,7 @@ deaminate
 drain
 dotted
 divulgater
-disregarder
+disregarder 1
 declare
 dimers
 dudgen
