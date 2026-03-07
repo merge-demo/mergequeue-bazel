@@ -9946,7 +9946,7 @@ airlocks
 akroterial
 autotrophy
 addict
-amplitudes
+amplitudes 1
 anatomicopathological
 altoun
 amazer
