@@ -9423,7 +9423,7 @@ dejunkerize
 diffusions
 diffusive
 diffusors
-diabolus
+diabolus 1
 diner
 destructors
 diether

@@ -6957,7 +6957,7 @@ fee
 follily
 feeblemindedness
 fumigants
-fungivorous
+fungivorous 1
 fadeless 1
 fendy
 foisting
