@@ -1625,7 +1625,7 @@ extraphysiological
 expounded
 egret
 exsanguine
-egromancy
+egromancy 1
 egurgitate
 egurgitated
 euphonon
