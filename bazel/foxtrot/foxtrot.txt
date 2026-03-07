@@ -10479,7 +10479,7 @@ fordid
 flegm
 fluitant
 fatness
-frutescent
+frutescent 1
 frostings
 fanzine
 finises
