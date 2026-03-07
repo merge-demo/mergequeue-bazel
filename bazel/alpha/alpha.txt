@@ -19138,7 +19138,7 @@ adherences
 azoch
 anisidin
 anaerobes
-accompany
+accompany 1
 anthropogony
 antiars
 antisepticize
