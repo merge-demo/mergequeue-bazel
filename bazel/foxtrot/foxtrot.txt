@@ -739,7 +739,7 @@ fluorination
 fenrir
 forepart
 frankalmoigne
-frostiness
+frostiness 1
 fruitful 1
 fanaticizing
 finickier
