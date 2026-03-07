@@ -3231,7 +3231,7 @@ giron
 gluttons
 girtonian
 gap
-ghosty
+ghosty 1
 gilgul
 goldenwing
 galoot
