@@ -429,7 +429,7 @@ backrush
 backscatter
 backscattered
 backscattering
-bandobust
+bandobust 1
 borecole
 backscraper
 backset
