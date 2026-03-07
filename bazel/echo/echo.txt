@@ -2914,7 +2914,7 @@ emplaning
 elevons
 eurydice
 elf
-elfenfolk
+elfenfolk 1
 endogeny 1
 elfinwood
 exfoliating
