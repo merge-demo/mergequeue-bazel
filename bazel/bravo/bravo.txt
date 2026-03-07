@@ -15107,7 +15107,7 @@ balter
 bulging
 berlina
 breviconic
-bunkered
+bunkered 1
 brevilingual
 bestirring
 besmearer
