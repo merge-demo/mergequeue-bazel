@@ -1847,7 +1847,7 @@ glos 1
 gentile
 groupage
 garlands
-grasses
+grasses 1
 glutenous
 goundou
 geopolitically
