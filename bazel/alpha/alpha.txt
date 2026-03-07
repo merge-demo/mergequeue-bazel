@@ -15118,7 +15118,7 @@ antispeculation
 aggrandisement
 athena
 admonish
-antieducation
+antieducation 1
 antieducational
 abstr
 antieducationalist
