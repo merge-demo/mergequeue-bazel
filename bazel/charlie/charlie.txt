@@ -6595,7 +6595,7 @@ cdr
 cesspool
 cosmonaut
 celibates
-cearin
+cearin 1
 chatoyancy
 ceaselessness
 cryogenically
