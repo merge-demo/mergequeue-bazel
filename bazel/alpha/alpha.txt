@@ -19983,7 +19983,7 @@ aals
 amasta
 armure
 armures
-arn
+arn 1
 antirachitic
 arf
 achromatinic
