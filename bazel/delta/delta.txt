@@ -2503,7 +2503,7 @@ dishonourary
 declaim
 dichorisandra
 dresser
-declaimer
+declaimer 1
 dilaters
 declamatory
 dateable
