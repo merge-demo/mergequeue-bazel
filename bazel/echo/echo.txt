@@ -4439,7 +4439,7 @@ excentrical 1
 endenizen
 extispices
 enthymeme 2
-e
+e 1
 espacement
 ejaculation
 encaptive
