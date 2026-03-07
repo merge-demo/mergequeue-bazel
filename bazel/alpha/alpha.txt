@@ -14245,7 +14245,7 @@ afflatuses
 acerathere
 asepticize
 argilliferous
-acephal
+acephal 1
 aptitudinal
 anterosuperior
 antesternal
