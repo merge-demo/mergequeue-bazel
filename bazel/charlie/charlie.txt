@@ -4118,7 +4118,7 @@ cardinal
 cardinalfish
 croslet
 cancans
-cardinalfishes
+cardinalfishes 1
 casuist
 capitate
 chughole
