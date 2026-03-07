@@ -9809,7 +9809,7 @@ fattens
 foredooming
 fleck
 faddist
-foamy
+foamy 1
 fretum
 fidget
 fluors
