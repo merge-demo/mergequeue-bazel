@@ -11503,7 +11503,7 @@ evigilation
 emenders
 endocrinous
 exsecant
-exoergic
+exoergic 1
 echinopanax
 exhibited 1
 expended
