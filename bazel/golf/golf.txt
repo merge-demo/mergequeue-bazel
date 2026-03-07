@@ -7542,7 +7542,7 @@ gunyah
 geodesies
 greenths
 garbled
-goldarns
+goldarns 1
 gravimeter
 gallycrow
 ganocephalous
