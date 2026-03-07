@@ -1089,7 +1089,7 @@ exfigure
 earock
 equipoised
 evaluates
-envined
+envined 1
 edificatory
 epimerize
 elliptic
