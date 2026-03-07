@@ -8306,7 +8306,7 @@ faultiness
 freestyler
 fusspots
 forenames
-forepole
+forepole 1
 foregame
 fraternising
 fountaining
