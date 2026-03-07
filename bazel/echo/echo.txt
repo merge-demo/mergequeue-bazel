@@ -5131,7 +5131,7 @@ eupanorthidae 1
 ectozoan
 epitomical
 emuls
-embracingness
+embracingness 1
 encysted
 electrosensitive
 emanatistic
