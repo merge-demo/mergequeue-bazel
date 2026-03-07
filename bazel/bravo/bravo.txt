@@ -10170,7 +10170,7 @@ blackfishing 1
 bufferrers
 beroida
 begrime
-badgering
+badgering 1
 binghi
 broomy
 bassing
