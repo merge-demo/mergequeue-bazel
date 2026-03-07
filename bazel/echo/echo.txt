@@ -1817,7 +1817,7 @@ erodium
 effetely
 enamors 1
 eroding
-encroached
+encroached 1
 egotheism
 epithalamy
 ergatogyny
