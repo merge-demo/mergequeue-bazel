@@ -993,7 +993,7 @@ ganderess
 gamester
 grimace
 geanticline
-gubernia
+gubernia 1
 grece
 gandertmeeth
 gandharva
