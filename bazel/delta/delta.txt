@@ -11839,7 +11839,7 @@ discerningly
 disculpatory
 deashes
 deathwatch
-decrement
+decrement 1
 dustbin
 discure
 discriminates
