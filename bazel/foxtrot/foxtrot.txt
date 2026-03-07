@@ -6844,7 +6844,7 @@ format
 favoringly 1
 foliate
 favourableness
-facemaking
+facemaking 1
 fistiness
 floridities
 fnese
