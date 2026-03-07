@@ -15662,7 +15662,7 @@ broadeners
 bribee
 bacteriosis
 bisulcated
-bosoming
+bosoming 1
 bauxitite
 bundlet 1
 bluster
