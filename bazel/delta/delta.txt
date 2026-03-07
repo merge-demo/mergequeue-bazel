@@ -6223,7 +6223,7 @@ digametic
 dermabrasion
 dithyramb
 degrades
-drabness
+drabness 1
 dipsades
 disbenchment
 dactylopodite
