@@ -5258,7 +5258,7 @@ fossilage
 fstore
 flot
 fissiped
-figgery
+figgery 1
 flavoured
 flavourful
 fieldy 1
