@@ -3306,7 +3306,7 @@ gelotoscopy
 glent
 grabbable
 glosseme
-gula
+gula 1
 gabback
 geneticists
 germanized
