@@ -3571,7 +3571,7 @@ exceeder
 equoid
 epicureanism
 erysipelatoid
-exothermally
+exothermally 1
 epidesmine
 emboscata
 exclusionary
