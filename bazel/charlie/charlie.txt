@@ -14265,7 +14265,7 @@ circumnavigate
 champers
 circumnavigates
 corollike 1
-circumnavigating
+circumnavigating 1
 circumnavigation
 clefted
 chickaree
