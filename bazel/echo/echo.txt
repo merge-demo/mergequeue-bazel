@@ -3229,7 +3229,7 @@ elaters
 engendure
 eluating
 ernesse
-enambush
+enambush 1
 esotery
 extraschool
 eluctate
