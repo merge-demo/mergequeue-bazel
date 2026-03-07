@@ -6247,7 +6247,7 @@ eradiating
 egophony
 epitapher
 eradiation
-enostosis
+enostosis 1
 elisions 1
 erugatory
 espresso
