@@ -12502,7 +12502,7 @@ dipsosaurus
 dualization
 disimpark
 disimpassioned
-disempower
+disempower 1
 dispersoidological
 disimprison
 dentinitis
