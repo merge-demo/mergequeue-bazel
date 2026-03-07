@@ -8294,7 +8294,7 @@ desonation
 digitation
 doombook
 dialyzer
-diagrams
+diagrams 1
 dentin
 db
 dracontian
