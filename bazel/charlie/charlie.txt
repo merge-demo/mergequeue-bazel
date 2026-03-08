@@ -19108,7 +19108,7 @@ collyrium
 cedes
 cystocyte 1
 collisive
-curtseying
+curtseying 1
 cunningest
 caracoler
 collyweston
