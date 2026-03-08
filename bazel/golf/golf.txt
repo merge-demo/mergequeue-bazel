@@ -10199,7 +10199,7 @@ grammaticize
 gayeties 1
 gooneys
 graze
-gtd
+gtd 1
 giustamente
 gingko
 gargles
