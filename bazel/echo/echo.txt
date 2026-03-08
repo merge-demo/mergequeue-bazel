@@ -10084,7 +10084,7 @@ epinglette
 escharine
 echidnidae
 ethenes
-ethenoid
+ethenoid 1
 ethenol
 eyecups
 ensorcelize
