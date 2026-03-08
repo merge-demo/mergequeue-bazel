@@ -1160,7 +1160,7 @@ footfeed 1
 fascinator
 ferous
 flowerless
-flouters
+flouters 1
 fantasied
 fistulize
 fibularia
