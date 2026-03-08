@@ -17929,7 +17929,7 @@ amphirhine
 amblypod
 aliesterase
 alcoholist
-accubitus
+accubitus 1
 approaching
 anemometer
 approbated
