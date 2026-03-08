@@ -13026,7 +13026,7 @@ entastic
 existentially
 esophagectomy
 entocornea
-ergotic
+ergotic 1
 estafette
 electrocauteries
 ethos
