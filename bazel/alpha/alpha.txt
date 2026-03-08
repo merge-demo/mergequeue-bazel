@@ -9078,7 +9078,7 @@ alloxantin
 anthracoid
 alloxuraemia
 alloxuremia
-apnoeas
+apnoeas 1
 anadicrotic
 alphyl
 amidoacetal
