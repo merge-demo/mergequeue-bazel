@@ -5506,7 +5506,7 @@ diaphragm
 dogtrot 1
 dudishness
 dolichos
-digging
+digging 1
 darlingly
 davening 1
 dermamyiasis
