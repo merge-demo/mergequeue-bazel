@@ -5524,7 +5524,7 @@ fletchers 1
 furrower
 furnit
 fisc
-faked
+faked 1
 filionymic
 forbearingness
 frowzy
