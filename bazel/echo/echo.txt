@@ -10485,7 +10485,7 @@ etoile
 etrenne
 exsurgent
 event
-etrog
+etrog 1
 equatoreal
 etruscology
 etta
