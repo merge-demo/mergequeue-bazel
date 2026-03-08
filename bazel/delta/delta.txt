@@ -7328,7 +7328,7 @@ douceurs
 determined
 dextropedal
 diphenylenimide
-detorsion
+detorsion 1
 deashed
 disagreed
 disvulnerability
