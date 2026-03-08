@@ -12006,7 +12006,7 @@ chorizont
 chorizontal
 comprehensible
 chorizos
-cribrately
+cribrately 1
 cariyo
 cutes
 chorograph
