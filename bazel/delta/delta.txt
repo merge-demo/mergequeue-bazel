@@ -3368,7 +3368,7 @@ dogmouth
 dentils
 doles
 dagos
-deturn
+deturn 1
 dictative
 defis
 deflagrable
