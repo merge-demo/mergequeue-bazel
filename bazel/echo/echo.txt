@@ -8905,7 +8905,7 @@ ergomaniac
 eragrostis
 electrophori
 eyers
-ergostat
+ergostat 1
 eddie
 entelam
 experimentally
