@@ -2721,7 +2721,7 @@ decontrolled
 deconvolution
 deconvolve
 desmon
-decor
+decor 1
 diplopic
 dappledness
 decurves
