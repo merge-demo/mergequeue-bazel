@@ -12557,7 +12557,7 @@ encrypted
 exsects
 exite
 eranist
-extinction
+extinction 1
 envied
 enherit
 entryman

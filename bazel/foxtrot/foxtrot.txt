@@ -5713,7 +5713,7 @@ flush
 flavins
 flirt
 fixatif
-footed
+footed 1
 flirtatiously 1
 flosculariidae
 flirtatiousness
