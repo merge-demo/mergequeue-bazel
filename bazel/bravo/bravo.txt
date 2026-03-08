@@ -11315,7 +11315,7 @@ bedrug
 backbearing
 blaugas
 berouged
-blowziness
+blowziness 1
 blowzing 1
 bls
 blub
