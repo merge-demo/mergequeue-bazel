@@ -2827,7 +2827,7 @@ encephalon
 eleoplast
 epipolic
 equivalencing
-externalness
+externalness 1
 eater
 epiclesis
 eleoptene
