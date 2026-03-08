@@ -1913,7 +1913,7 @@ baselard
 balsa 1
 bandrol
 beatific
-befuddles
+befuddles 1
 bonniest
 bework
 boreus
