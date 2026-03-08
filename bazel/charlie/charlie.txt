@@ -3456,7 +3456,7 @@ capris
 convoking
 caprizant
 caldron
-caproin
+caproin 1
 camptodrome
 causeuse
 comprehends
