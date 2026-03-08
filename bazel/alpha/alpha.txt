@@ -2408,7 +2408,7 @@ asmile
 adfix
 anthrapyridine 1
 antilipase
-aphrite
+aphrite 1
 apantesis
 accus
 ackees
