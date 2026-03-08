@@ -6012,7 +6012,7 @@ fumattoria 1
 foo
 fidiculae
 ferroelectrically
-fellowman
+fellowman 1
 fibrinoplastin
 forthrightness
 fiducinales
