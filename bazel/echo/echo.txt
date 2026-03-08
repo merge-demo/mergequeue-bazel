@@ -1399,7 +1399,7 @@ epitympanic 1
 eugubium
 embellishes
 emissions
-encycl
+encycl 1
 expungeable
 extraterrestrial
 engrailment
