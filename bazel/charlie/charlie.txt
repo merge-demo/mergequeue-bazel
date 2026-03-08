@@ -7328,7 +7328,7 @@ condurrite
 cephalate
 cephalhematoma
 coracovertebral
-cephalic
+cephalic 1
 chequering
 cephalina 1
 cephaline
