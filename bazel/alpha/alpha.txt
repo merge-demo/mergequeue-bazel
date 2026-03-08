@@ -18019,7 +18019,7 @@ association
 aprickle
 apricot
 ablesse
-adjoin
+adjoin 1
 aesculaceae
 antithetical
 ascaridia
