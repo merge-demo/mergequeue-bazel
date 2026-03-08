@@ -4718,7 +4718,7 @@ everybody
 epilog
 ecstrophy
 esthematology
-epanaphora
+epanaphora 1
 electroencephalographs
 enmuffle
 entrammel
