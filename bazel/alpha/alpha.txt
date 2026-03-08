@@ -3224,7 +3224,7 @@ alpist
 activation
 azaserine
 actuation
-acturience
+acturience 1
 acuaesthesia
 achingly
 acuclosure
