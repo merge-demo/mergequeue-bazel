@@ -10550,7 +10550,7 @@ derate
 doorsills
 diceratidae
 diazotate
-deipotent
+deipotent 1
 dimpling
 demiking
 dauw
