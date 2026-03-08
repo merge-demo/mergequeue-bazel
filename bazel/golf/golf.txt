@@ -919,7 +919,7 @@ galt
 gametophoric
 gorbet
 gated
-gnashes
+gnashes 1
 glycaemia
 grumousness
 glucosemia
