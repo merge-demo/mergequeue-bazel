@@ -10741,7 +10741,7 @@ fomentation
 footrope 1
 fleeing
 flagstaves
-flirter
+flirter 1
 fletches
 forgotten
 frustum
