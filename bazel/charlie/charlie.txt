@@ -7801,7 +7801,7 @@ ceratophrys
 cerulific 1
 cerulignol
 cerumen
-cerumens
+cerumens 1
 ceruminal
 costean
 chemoautotrophy
