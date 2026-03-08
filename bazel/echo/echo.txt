@@ -4727,7 +4727,7 @@ englishism
 enciphering
 enrapture
 eulogism 1
-engerminate
+engerminate 1
 executonis
 epigean 1
 estre
