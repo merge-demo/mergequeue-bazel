@@ -1934,7 +1934,7 @@ daedalian
 debruises
 discriminated
 doodles
-debs
+debs 1
 dissilience
 defenceless
 demireps
