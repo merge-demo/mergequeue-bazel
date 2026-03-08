@@ -17264,7 +17264,7 @@ attempts
 ampersand
 apoplectoid
 apoplex
-adamantoid
+adamantoid 1
 anemometrographic 1
 aporhyolite
 allanites
