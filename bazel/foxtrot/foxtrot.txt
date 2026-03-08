@@ -6889,7 +6889,7 @@ forebackwardly
 farmout
 farris
 febriferous
-flammeous
+flammeous 1
 fitly
 folklike
 feasible
