@@ -2524,7 +2524,7 @@ artisan
 abeyant
 aconelline
 assentatory
-aconine
+aconine 1
 afdecho
 aconital
 aconite
