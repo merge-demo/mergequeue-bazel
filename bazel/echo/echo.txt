@@ -5969,7 +5969,7 @@ elains
 effate
 enhunger
 emissary
-eruc
+eruc 1
 erythrose
 euflavine
 epicondylitis
