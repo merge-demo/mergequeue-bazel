@@ -25860,7 +25860,7 @@ corruptress
 corrupts
 corsac
 corsacs
-connarus
+connarus 1
 corsages
 corsairs
 chalcid
