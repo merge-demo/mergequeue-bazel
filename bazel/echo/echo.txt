@@ -11714,7 +11714,7 @@ erenow
 explanator
 enterocoele
 endocarditis
-elevated
+elevated 1
 enforcive
 extendlessness
 exalting
