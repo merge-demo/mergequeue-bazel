@@ -4356,7 +4356,7 @@ exceeders
 exothermous
 enterodynia
 emulative
-enamour
+enamour 1
 enamouredness
 expostulator
 eulogistical
