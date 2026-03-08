@@ -5204,7 +5204,7 @@ antitangent
 autopoint
 aloeswood
 aratinga
-affection 1
+affection 2
 apostasies
 arbutinase
 atoneness
