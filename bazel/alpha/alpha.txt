@@ -2394,7 +2394,7 @@ acinic
 aciniform
 anatomicophysiological
 aggrate 1
-acinus
+acinus 1
 actinozoon
 aedes
 academicianship
