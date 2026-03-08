@@ -2707,7 +2707,7 @@ feigher
 flaggella
 factorization
 fouette
-fervor
+fervor 1
 flamenco
 frondous
 fashions
