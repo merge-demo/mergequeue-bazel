@@ -1544,7 +1544,7 @@ festival
 fauvette
 flowcontrol
 fishbowl
-fauvism
+fauvism 1
 funk
 fause
 fauvisms
