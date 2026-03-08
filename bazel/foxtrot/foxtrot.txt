@@ -7091,7 +7091,7 @@ factious
 fusional
 fingerstall
 forgeability
-fungicide
+fungicide 1
 foolproof
 foolproofness
 ferret
