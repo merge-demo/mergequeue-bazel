@@ -2528,7 +2528,7 @@ gradatim 1
 gastroenterocolitis 1
 gladite
 guttifer
-grattoir
+grattoir 1
 genecology
 guanidopropionic
 gothically
