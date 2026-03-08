@@ -11437,7 +11437,7 @@ disclusion
 deadnesses
 dispauper
 designlessness
-dollar
+dollar 1
 deoccidentalize
 discoactine
 documentation
