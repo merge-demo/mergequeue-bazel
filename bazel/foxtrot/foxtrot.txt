@@ -3471,7 +3471,7 @@ fortunation
 forebowline
 frag
 franklinist
-forswearer
+forswearer 1
 flaccidly
 firmisternial
 figgiest
