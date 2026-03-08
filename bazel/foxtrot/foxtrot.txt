@@ -8117,7 +8117,7 @@ favouredness
 foretaster 1
 forefin
 foretasting
-fretsaw
+fretsaw 1
 falisci
 forewrought
 fractionate
