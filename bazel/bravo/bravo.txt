@@ -15453,7 +15453,7 @@ bigothero
 banns 1
 brimfullness
 brongniardite
-blazon
+blazon 1
 brodeglass
 braggishly
 boundary
