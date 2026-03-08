@@ -15928,7 +15928,7 @@ cleped
 clepsydra
 contorniate
 clepsine
-condemnatory
+condemnatory 1
 cleptobioses
 conics
 coadministration
