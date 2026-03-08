@@ -6888,7 +6888,7 @@ gregarina
 gelatinoid
 graticulate
 glis
-gannet
+gannet 1
 glibly 1
 goodenia
 gestated
