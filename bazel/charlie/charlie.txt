@@ -2206,7 +2206,7 @@ cordyline
 cornamute
 campo
 creedbound
-campodeoid
+campodeoid 1
 campong 1
 campongs
 convincing
