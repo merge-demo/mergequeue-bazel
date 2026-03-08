@@ -10520,7 +10520,7 @@ foldstool
 floristry
 firemen
 frowl
-fierily
+fierily 1
 frowners
 faciend
 freq
