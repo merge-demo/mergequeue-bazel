@@ -2790,7 +2790,7 @@ empalement
 elementalistic
 extrathoracic
 estrangements
-elementalize
+elementalize 1
 ephori
 elementaloid
 emperil
