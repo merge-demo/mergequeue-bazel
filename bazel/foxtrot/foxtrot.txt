@@ -11621,7 +11621,7 @@ farci
 fibrous
 fylgja
 fosite
-funestal
+funestal 1
 finestiller
 forehew
 fustigatory
