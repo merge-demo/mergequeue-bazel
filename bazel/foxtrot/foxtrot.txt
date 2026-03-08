@@ -4875,7 +4875,7 @@ followable
 fulgora
 flails
 feuilletonism
-furoic
+furoic 1
 fourteen
 fraughtage
 fady
