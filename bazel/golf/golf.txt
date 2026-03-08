@@ -3400,7 +3400,7 @@ generalships
 gondolier
 gnatling
 gorkun
-galbe
+galbe 1
 glaciable
 gyroscopic 1
 gainor
