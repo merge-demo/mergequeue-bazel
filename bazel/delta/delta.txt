@@ -18066,7 +18066,7 @@ dialectologies
 dulness
 dysphemism
 diabetics
-dogskin
+dogskin 1
 dongs
 dungol
 dulocracy
