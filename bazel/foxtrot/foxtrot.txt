@@ -2578,7 +2578,7 @@ flongs
 ferrocyanate
 ferroelectric
 fingerbreadth
-fattier
+fattier 1
 fouty
 franchiser
 fibrocytic
