@@ -5088,7 +5088,7 @@ glassines
 galloping
 glassiness
 glasslikeness
-goosefoots
+goosefoots 1
 garrya
 gilled
 gypper
