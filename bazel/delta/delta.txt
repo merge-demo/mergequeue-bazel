@@ -3415,7 +3415,7 @@ disadorn
 donet
 deflector
 dichlorvos
-devitrifying
+devitrifying 1
 deflesh
 deflexibility
 dysgenics
