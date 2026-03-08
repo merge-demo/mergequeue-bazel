@@ -10011,7 +10011,7 @@ deforests
 dimorphotheca
 devitalize 1
 dogwood
-dactylioglyphtic
+dactylioglyphtic 1
 declaiming
 dreaming
 deinos
