@@ -1863,7 +1863,7 @@ daubries
 deblateration
 deblock
 disedification
-disappointer
+disappointer 1
 dijudicate
 distensibilities
 dispunge
