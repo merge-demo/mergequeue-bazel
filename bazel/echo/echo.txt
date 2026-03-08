@@ -14194,7 +14194,7 @@ enterococci
 ectosome
 esthetics
 epulation
-endlong
+endlong 1
 equidistance 1
 exurge
 exuscitate
