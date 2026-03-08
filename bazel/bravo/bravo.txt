@@ -6374,7 +6374,7 @@ burdener
 benzofulvene
 bollen
 benzofuran 1
-benzofuryl
+benzofuryl 1
 bracted
 biozone 1
 belgium
