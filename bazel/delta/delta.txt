@@ -5186,7 +5186,7 @@ decarburation
 denierer
 denigrates
 dipolarize
-denigrator
+denigrator 1
 dietine
 desulphurizing
 dumbfounded
