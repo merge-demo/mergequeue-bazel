@@ -1882,7 +1882,7 @@ gambles
 gazehound
 growlery
 guffaw
-gilgai
+gilgai 1
 goofy
 geodic
 galacturia
