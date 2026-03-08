@@ -834,7 +834,7 @@ brecciation
 baga
 benzenoid
 biniodide
-biochron
+biochron 1
 bromodeoxyuridine
 burnishers
 billikin
