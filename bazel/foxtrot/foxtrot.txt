@@ -2692,7 +2692,7 @@ fawner
 frizziness
 fervence
 fortnightlies
-futilize
+futilize 1
 ferventness
 frighteningness
 floodwall
