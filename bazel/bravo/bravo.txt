@@ -9998,7 +9998,7 @@ bivocalized
 bombings 1
 buffos
 bivoluminous
-bivouaced
+bivouaced 1
 bivouacked
 balaphon
 bodes
