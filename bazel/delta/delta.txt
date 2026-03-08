@@ -8341,7 +8341,7 @@ dockmaster
 dialectician
 dual
 decapodous
-droopingness
+droopingness 1
 diplois
 dejerate
 dargue
