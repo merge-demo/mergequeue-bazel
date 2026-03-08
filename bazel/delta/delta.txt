@@ -2982,7 +2982,7 @@ decemfid
 deductio
 deductions 1
 dwarfism
-distrainment
+distrainment 1
 deductive
 deductory
 deducts
