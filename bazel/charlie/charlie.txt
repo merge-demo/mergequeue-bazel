@@ -5062,7 +5062,7 @@ citywards
 colat
 casanova
 casaques
-casas
+casas 1
 cojudge
 coevolve
 colisepsis
