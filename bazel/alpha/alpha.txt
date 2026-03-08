@@ -5277,7 +5277,7 @@ aggerate
 affinities
 affinition
 apostrophe
-affinitive
+affinitive 1
 affirmable
 asiaticism
 affirmably
