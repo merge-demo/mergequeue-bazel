@@ -6039,7 +6039,7 @@ finger
 fontange
 forgab
 frontooccipital
-flanker
+flanker 1
 fictionise
 fluoresce
 fleam
