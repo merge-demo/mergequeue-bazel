@@ -10932,7 +10932,7 @@ amoebaea
 avowable
 alipata
 artlike
-affrontiveness
+affrontiveness 1
 aquilian
 anapest
 aillt
