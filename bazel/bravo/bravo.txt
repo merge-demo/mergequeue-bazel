@@ -18117,7 +18117,7 @@ benzal
 bealtared
 bloodlettings
 buskin
-butcherer
+butcherer 1
 blobbier
 bureaucrats
 boll
