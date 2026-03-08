@@ -679,7 +679,7 @@ envier 1
 excide
 eclogic
 extraocular
-eclogite
+eclogite 1
 eclosion
 emasculative
 eclosions
