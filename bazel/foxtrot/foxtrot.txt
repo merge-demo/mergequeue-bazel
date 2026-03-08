@@ -3291,7 +3291,7 @@ ferrites
 faunology
 fluidrams
 ferrimagnetically
-foreknowable
+foreknowable 1
 fieldpieces
 feudovassalism
 forefeet
