@@ -523,7 +523,7 @@ falco 1
 fermentive
 forgivableness
 forepaled
-fetterless
+fetterless 1
 fustigating
 falcon
 falconinae
