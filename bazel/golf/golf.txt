@@ -6544,7 +6544,7 @@ graceless
 galls
 goma
 glossoplegia
-granduncles
+granduncles 1
 grasp
 gromwell 1
 gamelans
