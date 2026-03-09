@@ -7148,7 +7148,7 @@ echar
 elan
 estanciero
 eudaemonism
-everyday
+everyday 1
 endocolitis
 engrossed
 established
