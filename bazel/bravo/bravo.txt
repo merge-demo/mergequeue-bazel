@@ -12790,7 +12790,7 @@ bookwright
 booleans
 booleys
 bardy
-booly
+booly 1
 backhanding 1
 betatters 1
 book
