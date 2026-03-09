@@ -2691,7 +2691,7 @@ dcollet
 deconcentrate
 dhurnas
 dishonourer
-digynous
+digynous 1
 dudeens
 deconcentration
 decondition
