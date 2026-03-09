@@ -3344,7 +3344,7 @@ assistor
 amylenes
 anisodactylous
 anthranil
-antipolyneuritic
+antipolyneuritic 1
 adamantinoma
 adamantness 1
 actinochemical
