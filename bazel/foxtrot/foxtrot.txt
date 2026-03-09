@@ -6989,7 +6989,7 @@ fonding
 fondle 1
 frayings 2
 fondled
-fondles
+fondles 1
 fainter
 formalazine
 fumant
