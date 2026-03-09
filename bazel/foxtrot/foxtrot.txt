@@ -9201,7 +9201,7 @@ fascinations
 foveoles 1
 footled
 fries 1
-fragileness
+fragileness 1
 foreknown
 faceplate
 fucus
