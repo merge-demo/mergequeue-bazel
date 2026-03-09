@@ -9763,7 +9763,7 @@ bistres
 boeotarch
 brights 1
 borg
-bewitching
+bewitching 1
 barleymow
 beja 1
 bistriate
