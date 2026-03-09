@@ -9622,7 +9622,7 @@ atonalist
 abridges
 aluminate
 alumines
-archicontinent
+archicontinent 1
 absfarad
 abacaxi
 aluminide
