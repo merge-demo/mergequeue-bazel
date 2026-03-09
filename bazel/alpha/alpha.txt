@@ -16029,7 +16029,7 @@ anaeroplasty
 astor
 antireducer
 acetones
-authoritative
+authoritative 1
 autotrophically 1
 antireflexive
 antireligion
