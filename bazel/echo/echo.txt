@@ -2117,7 +2117,7 @@ elastica
 extrapolator
 elastically
 eurycephalous
-edenite
+edenite 1
 exudes
 emberiza
 effete
