@@ -11545,7 +11545,7 @@ famulary
 fledgy
 folio
 fretfully
-ferociousness
+ferociousness 1
 footlessly
 fetting
 fusiform
