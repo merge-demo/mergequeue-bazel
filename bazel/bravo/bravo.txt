@@ -13042,7 +13042,7 @@ blousing
 borders
 borderland
 bagpipe
-beriber
+beriber 1
 borderline 1
 bowgrace
 balneae
