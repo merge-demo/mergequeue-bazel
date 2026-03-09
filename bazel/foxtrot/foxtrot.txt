@@ -1531,7 +1531,7 @@ flippant
 foodless
 fanfaron
 foulish
-foreshift
+foreshift 1
 foetuses
 fauterer
 fauteuil
