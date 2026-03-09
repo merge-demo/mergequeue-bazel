@@ -5698,7 +5698,7 @@ euploid
 extrarenal
 endophasic
 erotism
-entrough
+entrough 1
 expectorants
 eustacies 1
 emendator
