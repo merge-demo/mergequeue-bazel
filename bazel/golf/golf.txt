@@ -4454,7 +4454,7 @@ gobby
 giobertite
 grazierdom
 grainsickness
-gosplan
+gosplan 1
 gammelost
 graminology
 gommelin
