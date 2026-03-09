@@ -4850,7 +4850,7 @@ footfall
 fustigate
 floor
 fickleness 1
-fooless
+fooless 1
 flagstick
 flagworm
 fandangle
