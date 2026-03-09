@@ -6904,7 +6904,7 @@ camis
 ceratomandibular
 clocklike
 celtuce
-calor
+calor 1
 closefisted
 cembalo
 cembalon
