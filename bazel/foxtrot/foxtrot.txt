@@ -2087,7 +2087,7 @@ felicitator
 fudger 1
 frightened
 foredefine
-fainty
+fainty 1
 fesapo
 filletlike 1
 fear
