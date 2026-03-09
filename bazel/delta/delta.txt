@@ -12426,7 +12426,7 @@ diakineses
 dishley
 diamond
 deterrability
-defers
+defers 1
 dimerlie
 dialectical
 diastereoisomer
