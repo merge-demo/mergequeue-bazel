@@ -2820,7 +2820,7 @@ eath
 endamask
 effeminately
 epipubic
-exampleless
+exampleless 1
 ecodeme
 eleomargaric 1
 encephalon
