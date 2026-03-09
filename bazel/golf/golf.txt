@@ -8069,7 +8069,7 @@ geomagnetism 1
 ghain
 genteelish
 gesning
-gentlewoman
+gentlewoman 1
 granivore 1
 gasconader
 grannam 1
