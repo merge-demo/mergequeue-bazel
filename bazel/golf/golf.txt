@@ -6952,7 +6952,7 @@ geromorphism
 grayfly
 geometrised
 gradients
-geostatics
+geostatics 1
 goodwife
 grecians
 guasa 1
