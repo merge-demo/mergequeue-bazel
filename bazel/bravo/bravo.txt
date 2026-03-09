@@ -4805,7 +4805,7 @@ befancy
 bits
 bedside
 bedsonia 1
-bedsore
+bedsore 1
 bakers
 bemirrorment
 belvederes
