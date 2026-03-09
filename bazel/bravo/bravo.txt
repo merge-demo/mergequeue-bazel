@@ -295,7 +295,7 @@ backbar 1
 bedright
 birkenhead
 biolith
-booter
+booter 1
 bakeware 1
 benzacridine
 backslided
