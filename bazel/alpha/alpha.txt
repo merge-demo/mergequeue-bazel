@@ -24525,7 +24525,7 @@ adoptability
 aghorapanthi
 anywhereness
 armsize
-abhor
+abhor 1
 aerophile
 abstrude
 aglaos
