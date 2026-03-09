@@ -16,7 +16,7 @@ sleep_for = "10m"
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 30          # target number of pull requests per hour
+requests_per_hour = 60          # target number of pull requests per hour
 run_generate_for = "50 minutes"
 change_code_path = "bazel"
 
