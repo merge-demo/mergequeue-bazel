@@ -19517,7 +19517,7 @@ colposcopy
 crocodiles
 cornstook
 colstaff
-cnidogenous
+cnidogenous 1
 congresswoman 1
 chasid
 coltishly
