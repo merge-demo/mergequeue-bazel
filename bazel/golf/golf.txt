@@ -737,7 +737,7 @@ gollywog
 gonoplasm
 galvanoglyph
 gerbillinae
-gar
+gar 1
 goniometric
 gnawer
 greenshank
