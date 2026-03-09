@@ -12552,7 +12552,7 @@ bakemeat
 bonitary
 bistroic
 bonitarian
-bonity
+bonity 1
 balsam
 boroughlet
 bragi
