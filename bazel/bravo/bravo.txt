@@ -17456,7 +17456,7 @@ babeldom
 browny 1
 bunny
 bunnia
-bicoloured
+bicoloured 1
 bunnies
 bunodont
 brickleness
