@@ -12219,7 +12219,7 @@ dodoisms
 drapes
 disfranchises
 drosophilae
-depel
+depel 1
 deride
 discoursiveness
 deliquesce
