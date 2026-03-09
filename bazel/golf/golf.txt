@@ -3401,7 +3401,7 @@ gondolier
 gnatling
 gorkun
 galbe 1
-glaciable
+glaciable 1
 gyroscopic 1
 gainor
 guttulate
