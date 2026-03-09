@@ -1750,7 +1750,7 @@ fanzines
 forejudgment
 feldspathoidal
 forehent
-fashioning
+fashioning 1
 fusels 1
 fusobacterium
 fireworms
