@@ -10907,7 +10907,7 @@ amniocentesis
 amniochorial
 arado
 aboardage
-amniomancy
+amniomancy 1
 amnionata
 acclamation
 absolution
