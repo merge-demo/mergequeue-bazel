@@ -12,7 +12,7 @@ erigeron
 evaporometer
 euchologion
 emigate
-erosivity
+erosivity 1
 emblazon
 erythrophobia 1
 eadios
