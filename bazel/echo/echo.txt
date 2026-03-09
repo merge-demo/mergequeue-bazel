@@ -9823,7 +9823,7 @@ eatables
 entrance
 enanthema
 estats
-eternise
+eternise 1
 ethnolinguistic
 enamelware
 elenchtical
