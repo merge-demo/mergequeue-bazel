@@ -24817,7 +24817,7 @@ contumax
 coquille
 corrade
 crosiers
-conductivity
+conductivity 1
 coquitlam
 cor
 corabecan
