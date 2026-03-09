@@ -5195,7 +5195,7 @@ denim
 demoness
 danceress
 doctrinalist
-dartoic
+dartoic 1
 debone
 dyings
 daemon
