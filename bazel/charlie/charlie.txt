@@ -20932,7 +20932,7 @@ compressors
 comprest
 collating
 chambering
-comprisal
+comprisal 1
 controllability
 conceives
 casseroles
