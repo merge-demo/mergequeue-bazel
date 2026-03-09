@@ -1722,7 +1722,7 @@ accusatives
 avidly
 auricomous
 anglicanum
-archtraitor
+archtraitor 1
 antediluvian
 aporia
 abases
