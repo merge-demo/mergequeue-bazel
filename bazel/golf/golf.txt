@@ -6247,7 +6247,7 @@ gonne
 greaves
 gopura
 goatstone
-gaum
+gaum 1
 goatweed
 guerrillaism
 genitures
