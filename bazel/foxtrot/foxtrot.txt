@@ -5587,7 +5587,7 @@ flicflac
 flintiness
 flicker
 fixity
-flocculently
+flocculently 1
 fiords
 flickermouse
 flannelmouthed
