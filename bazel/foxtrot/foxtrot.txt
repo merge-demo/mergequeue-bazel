@@ -8282,7 +8282,7 @@ fluidism
 fortunate
 flirting
 farmings
-fractious
+fractious 1
 feists
 flump
 forehoof
