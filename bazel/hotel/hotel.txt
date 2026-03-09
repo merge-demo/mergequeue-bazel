@@ -2007,7 +2007,7 @@ hctb 1
 hctd
 hctetpg
 hctf
-hctg
+hctg 1
 hctgitvltxzy
 hcthsx
 hctjl
