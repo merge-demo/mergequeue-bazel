@@ -1591,7 +1591,7 @@ chronographs
 callose 1
 crafts
 calloses
-callosities
+callosities 1
 conductimetric
 calloused
 callouses
