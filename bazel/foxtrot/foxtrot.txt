@@ -8698,7 +8698,7 @@ flob
 flattens
 feteless
 fame
-forgive
+forgive 1
 flotage
 fizzing
 filii
