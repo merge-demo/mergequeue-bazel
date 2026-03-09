@@ -1013,7 +1013,7 @@ deformeter
 digest
 daffling
 dypnone
-dolorimetric
+dolorimetric 1
 distichously
 darkie
 definement
