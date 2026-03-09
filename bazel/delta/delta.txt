@@ -16201,7 +16201,7 @@ deerskins
 dizens
 deallocates
 defats
-doweress
+doweress 1
 dingeys
 dunches
 dent
