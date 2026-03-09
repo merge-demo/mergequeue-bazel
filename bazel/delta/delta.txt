@@ -10870,7 +10870,7 @@ deindustrialize
 daekon
 disedge
 dirity
-daised
+daised 1
 dirked
 dhabb
 desilicate
