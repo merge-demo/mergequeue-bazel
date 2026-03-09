@@ -2996,7 +2996,7 @@ ghetti
 gasifier
 geologically
 gondite
-gavialis
+gavialis 1
 gelly 1
 galvanocauteries
 gentlefolk
