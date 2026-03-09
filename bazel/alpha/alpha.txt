@@ -11468,7 +11468,7 @@ amula
 amulas
 archexorcist
 acone
-armaments
+armaments 1
 aloemodin
 afterturn
 accoutring
