@@ -4168,7 +4168,7 @@ exporter
 elaeosia
 engraphy
 eyeroot
-escaloped
+escaloped 1
 echiurida 1
 enacted 1
 etuve
