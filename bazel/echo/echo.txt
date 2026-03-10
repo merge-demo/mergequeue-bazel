@@ -11806,7 +11806,7 @@ ewerer 3
 experimented
 empocket
 enteradenography
-erraticness
+erraticness 1
 exasperatingly
 exauctorate
 empoisoned
