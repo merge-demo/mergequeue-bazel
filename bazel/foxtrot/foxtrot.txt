@@ -11410,7 +11410,7 @@ filminess 1
 flushboard
 feasor
 flocculose
-furniture
+furniture 1
 flummoxing
 frustrable
 footlicking
