@@ -2551,7 +2551,7 @@ declaring
 dwined
 declasses
 dorn
-disjudication
+disjudication 1
 declass 1
 dimorphs 1
 dweller
