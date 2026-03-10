@@ -7077,7 +7077,7 @@ footful
 foolhardiness 1
 fabulousness
 foolhardiship
-foredeck
+foredeck 1
 flapperdom
 fraken 1
 fledge
