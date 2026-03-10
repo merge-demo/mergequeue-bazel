@@ -2248,7 +2248,7 @@ amounts
 anvil
 agraffes
 auride 1
-armigeri
+armigeri 1
 antiager
 avatara
 axel
