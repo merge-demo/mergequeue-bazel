@@ -13393,7 +13393,7 @@ exemplify
 exposture
 epanaphoral
 exter
-expounder
+expounder 1
 eulogised
 ems
 enthrong
