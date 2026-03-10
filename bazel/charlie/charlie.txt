@@ -6682,7 +6682,7 @@ coracomorphic
 chard
 cursorial
 ceibo
-counterthrust
+counterthrust 1
 ceil
 clamoring
 celestine
