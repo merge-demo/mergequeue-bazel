@@ -3102,7 +3102,7 @@ executiveness
 esemplastic
 ellipticity
 extemporize
-elliptograph
+elliptograph 1
 elliptoid
 extraparietal
 eke
