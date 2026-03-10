@@ -7865,7 +7865,7 @@ dogbodies 1
 dew
 degentilize
 diatoric
-dewani
+dewani 1
 depress
 defrayals
 diverseness
