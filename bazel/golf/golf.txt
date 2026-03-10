@@ -6435,7 +6435,7 @@ geostrophic
 gymnocladus
 grows 2
 gentlemanliness
-gocart
+gocart 1
 giddypate
 girnie
 goburra
