@@ -13935,7 +13935,7 @@ antaeus
 agriotypidae 1
 alvelos
 advantaging
-antagony
+antagony 1
 auscultator
 antiprestidigitation
 anamniota
