@@ -12531,7 +12531,7 @@ enhalos
 eugeny
 enneacontahedron
 exoskeleton
-exist
+exist 1
 existed
 elucidating
 esne
