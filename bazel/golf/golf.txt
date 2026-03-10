@@ -2882,7 +2882,7 @@ galvvanoscopy
 gummosity
 gibbing
 genuflex
-glyptal
+glyptal 1
 gemsbucks
 golkakra
 gynaeceum
