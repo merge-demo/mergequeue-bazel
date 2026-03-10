@@ -20655,7 +20655,7 @@ arthrostomy
 arthrotyphoid
 amputative
 azimide
-arthrotome
+arthrotome 1
 ansi
 accinged
 arthrous
