@@ -4787,7 +4787,7 @@ emeried
 epencephalon
 extrarhythmical
 emboite
-erosiveness
+erosiveness 1
 enscrolling
 elucubration
 elator
