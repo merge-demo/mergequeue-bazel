@@ -8629,7 +8629,7 @@ diary
 diaglyph
 disimprove
 diarist
-dibbuk
+dibbuk 1
 denatured
 diarrhea
 dows 1
