@@ -8499,7 +8499,7 @@ gravely
 galops
 groupers
 gayal
-galleon
+galleon 1
 geomorphological
 geotectonically
 gravelish
