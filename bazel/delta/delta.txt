@@ -16843,7 +16843,7 @@ determinativeness
 discharity
 dozes
 depreciations
-dissyllabise
+dissyllabise 1
 diffidence
 demargarinate
 disturnpike
