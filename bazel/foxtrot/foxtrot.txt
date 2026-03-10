@@ -10507,7 +10507,7 @@ featherback
 frotton
 fum
 fascicularly
-fumelike
+fumelike 1
 firetail
 farandman
 frousty
