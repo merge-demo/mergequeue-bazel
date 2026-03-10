@@ -5368,7 +5368,7 @@ agglutinable 1
 affriended
 applying
 aggrandizable
-affrightful
+affrightful 1
 affydavy
 acid
 affrightment
