@@ -12643,7 +12643,7 @@ duplicidentate
 dechemicalization
 disjunctive
 disjunctively 1
-deseed
+deseed 1
 dibble
 disembodying
 diskelion
