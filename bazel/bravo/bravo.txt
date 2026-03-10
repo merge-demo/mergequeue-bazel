@@ -10412,7 +10412,7 @@ boneless
 bagmen
 baidya
 bullfinch
-blankness
+blankness 1
 banks
 blanks 1
 byrewoman 1
