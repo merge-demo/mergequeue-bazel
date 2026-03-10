@@ -3132,7 +3132,7 @@ action
 albiflorous
 antagonizer
 allotrophic
-antispirochetic
+antispirochetic 1
 antisupernaturalist
 actionably 1
 assoc
