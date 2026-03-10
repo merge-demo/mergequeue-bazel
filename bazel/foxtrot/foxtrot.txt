@@ -2702,7 +2702,7 @@ frenzies 2
 flambe
 faithing
 fungused
-firebird
+firebird 1
 feigher
 flaggella
 factorization
