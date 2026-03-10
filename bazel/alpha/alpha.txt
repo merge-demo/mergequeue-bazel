@@ -22813,7 +22813,7 @@ adsorbates
 atma
 atman
 acotyledon
-amazon
+amazon 1
 aggregately
 ahousaht
 atmo
