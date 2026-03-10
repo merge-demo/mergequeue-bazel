@@ -610,7 +610,7 @@ glockenspiels
 glossopalatine
 grieben
 guineas
-gorgoniacea
+gorgoniacea 1
 ghostweed
 graveside
 gloryless
