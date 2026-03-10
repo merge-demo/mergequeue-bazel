@@ -4624,7 +4624,7 @@ echevin 1
 exeunt
 elucubrate
 excellent 1
-exarchs
+exarchs 1
 egotists
 equinities
 enchyma
