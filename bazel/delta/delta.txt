@@ -15976,7 +15976,7 @@ dottiest
 dotlet
 derrickman
 doto
-devocalize
+devocalize 1
 divinail
 distressedly 1
 danios
