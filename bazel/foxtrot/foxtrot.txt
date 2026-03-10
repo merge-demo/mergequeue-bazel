@@ -7838,7 +7838,7 @@ feedstuffs
 figulated
 forepaws
 flingdust
-foveolets
+foveolets 1
 furcellate
 fractionisation
 fungify
