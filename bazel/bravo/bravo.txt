@@ -2198,7 +2198,7 @@ bontebok
 baghla
 bodword
 blockade 1
-bostonite
+bostonite 1
 bedrivelled
 barauna
 barba
