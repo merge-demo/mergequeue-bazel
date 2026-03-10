@@ -12523,7 +12523,7 @@ arteriorrhagia
 azoturia
 aerography
 anticreator
-avidities
+avidities 1
 anemony
 anaspida
 anguillidae
