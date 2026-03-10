@@ -11059,7 +11059,7 @@ fondaco
 fedia
 flamenship 1
 frontality
-funambuloes
+funambuloes 1
 filled
 fixups
 functionated
