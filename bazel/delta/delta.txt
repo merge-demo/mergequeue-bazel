@@ -13872,7 +13872,7 @@ dissavage
 dipter
 distensions 1
 disgress
-disprison
+disprison 1
 disterminate
 declaimant
 disrobed
