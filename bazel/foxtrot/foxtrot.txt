@@ -10632,7 +10632,7 @@ freezingly
 friandise
 fruitbearing
 foremark
-fusc
+fusc 1
 frankness
 fiddlededee
 frogstool
