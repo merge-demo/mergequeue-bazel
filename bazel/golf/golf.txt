@@ -4574,7 +4574,7 @@ girds
 guaranies
 grids
 girella
-gracefully
+gracefully 1
 girellidae
 grotesqueries
 gurts
