@@ -2888,7 +2888,7 @@ chartophylaxes
 congenialize 1
 cant
 connectionless
-crayfish
+crayfish 1
 cantabank
 canonic
 curatively
