@@ -14884,7 +14884,7 @@ deglute
 dodded
 dodder
 differingly
-dormancy
+dormancy 1
 drail
 dodderers
 dodders
