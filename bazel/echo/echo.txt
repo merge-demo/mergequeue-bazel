@@ -8911,7 +8911,7 @@ entelam
 experimentally
 eleutheromaniac
 ergoted
-explosible
+explosible 1
 encephalomalaxis
 ergotism
 ergotizing
