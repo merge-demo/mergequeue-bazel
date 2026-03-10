@@ -10918,7 +10918,7 @@ disabuse
 disbursement
 diapir
 disabuses
-dispondaic
+dispondaic 1
 dazzlement
 disacceptance
 dannock
