@@ -10140,7 +10140,7 @@ felled
 forgives
 filisters
 fliting
-fenite
+fenite 1
 fissile
 frontlet
 fitter
