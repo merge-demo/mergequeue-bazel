@@ -4375,7 +4375,7 @@ focuser
 forfeitable 1
 frate 1
 fibroplastic
-flyte
+flyte 1
 figureheads
 flavo
 furied
