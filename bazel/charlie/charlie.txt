@@ -30978,7 +30978,7 @@ cuvage
 collocal
 chromoplastid
 cumber
-consumptiveness
+consumptiveness 1
 congeries
 cumberer
 cumbering
