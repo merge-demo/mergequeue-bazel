@@ -2866,7 +2866,7 @@ dynatron
 decumanus
 daphnin
 dolomitised
-diskos
+diskos 1
 discretively
 disposure
 dangle
