@@ -9746,7 +9746,7 @@ fabrics
 figurability
 factored 1
 fridges
-frequenters
+frequenters 1
 ferijee 2
 frequentest
 foraminifer 1
