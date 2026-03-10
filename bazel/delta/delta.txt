@@ -7953,7 +7953,7 @@ directed
 dextran
 dextranase 1
 doublelunged
-disallowable
+disallowable 1
 demicylinder
 defunctive
 downsteepy
