@@ -15788,7 +15788,7 @@ anvilled
 aviolite
 amidic
 antiphylloxeric
-amphibiotica
+amphibiotica 1
 acarpellous
 arist
 avows
