@@ -5809,7 +5809,7 @@ flittermouse
 fellowship
 fathmur
 flitters
-frequents
+frequents 1
 flankwise
 froggiest
 frivolize
