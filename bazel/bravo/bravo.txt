@@ -5881,7 +5881,7 @@ butterbur
 bellwether
 bradmaker
 bellwort
-belock
+belock 1
 basimesostasis
 belomancy
 belonephobia
