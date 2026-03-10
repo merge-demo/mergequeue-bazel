@@ -10073,7 +10073,7 @@ counterfugue
 collab
 chipchap
 chessdom
-chesser
+chesser 1
 cabinda
 chesses
 chessylite 1
