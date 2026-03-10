@@ -1531,7 +1531,7 @@ gripers
 growed
 geez
 gilpy
-gravaminous
+gravaminous 1
 galileo
 giraffesque
 gracilariid

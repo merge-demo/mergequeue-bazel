@@ -17708,7 +17708,7 @@ dubber
 drabnesses
 dampener
 dubbin
-disused
+disused 1
 demipauldron
 discriminable
 durables
