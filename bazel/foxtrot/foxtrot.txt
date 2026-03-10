@@ -5733,7 +5733,7 @@ ferule
 fleuronnee
 fungous
 fuzzball
-frontlessly
+frontlessly 1
 favorers 1
 fathoms
 furnage
