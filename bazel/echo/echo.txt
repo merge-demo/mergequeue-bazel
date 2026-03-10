@@ -4781,7 +4781,7 @@ establishments
 exploratory
 extracardial
 encloister
-extend
+extend 1
 endosporously
 emeried
 epencephalon
