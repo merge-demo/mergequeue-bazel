@@ -1471,7 +1471,7 @@ damages
 disbarred
 doublehanded
 daze
-discerptibility
+discerptibility 1
 disinherison
 dipropellant
 deuteroplasm
