@@ -13586,7 +13586,7 @@ excern
 enteroceptor
 endosteomas
 extance
-extemporally
+extemporally 1
 electropotential 1
 elkanah
 eisegesis
