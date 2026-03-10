@@ -5903,7 +5903,7 @@ faultfinding 1
 fdname 1
 flockings
 fudged
-fulsamic
+fulsamic 1
 folgerite
 fencepost
 foetalism
