@@ -4778,7 +4778,7 @@ excircle
 epistler
 entomophytous
 establishments
-exploratory
+exploratory 1
 extracardial
 encloister
 extend 1
