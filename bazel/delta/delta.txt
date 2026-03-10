@@ -17119,7 +17119,7 @@ drifters
 driftpins
 depositary
 damara
-deacidified
+deacidified 1
 disconcertedly
 dislocated
 defiladed
