@@ -31227,7 +31227,7 @@ cupules
 curvatures
 convulsible 1
 chickenhood
-covetousness
+covetousness 1
 commonplace
 coque
 cupuliferous
