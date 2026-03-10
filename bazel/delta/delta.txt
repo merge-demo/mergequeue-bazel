@@ -17481,7 +17481,7 @@ doubleheaders
 deficiently
 destructed
 disorientation
-devoices
+devoices 1
 densities
 drubbers
 disbody
