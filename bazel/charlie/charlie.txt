@@ -14243,7 +14243,7 @@ circumjacence 1
 circumjacency
 circumjovial
 circumlitio
-circumlittoral
+circumlittoral 1
 circumlocute
 circumlocution
 cypripedin
