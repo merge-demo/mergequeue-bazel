@@ -1639,7 +1639,7 @@ dimetrodon
 deodate
 datolitic 1
 domify
-devertebrated
+devertebrated 1
 daydrudge
 dealkylate
 daundered
