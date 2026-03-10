@@ -11823,7 +11823,7 @@ betrinket
 birthing 1
 bard
 briareus
-browbeater
+browbeater 1
 bootlegging
 banking
 bodybuilding
