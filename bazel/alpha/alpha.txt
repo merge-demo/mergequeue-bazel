@@ -19845,7 +19845,7 @@ agnomen 1
 allotropes
 acapsular
 adeptest
-acquereur
+acquereur 1
 armida
 armies
 abthainry
