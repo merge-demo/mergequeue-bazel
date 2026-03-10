@@ -7211,7 +7211,7 @@ enchesoun
 ensample
 enzootically
 evenlight
-exposed
+exposed 1
 endodontium
 ejidos
 enderon
