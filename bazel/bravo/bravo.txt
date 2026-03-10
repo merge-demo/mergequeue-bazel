@@ -3519,7 +3519,7 @@ balotade
 blue
 batfishes
 biri
-batfowl
+batfowl 1
 batfowled
 bassists 1
 batfowls
