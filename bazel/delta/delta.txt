@@ -14641,7 +14641,7 @@ diallel
 dixain
 decentre
 diplococcocci
-decameter
+decameter 1
 draftees
 dora
 degradability
