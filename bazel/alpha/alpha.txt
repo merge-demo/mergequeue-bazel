@@ -24815,7 +24815,7 @@ avisos
 avital
 avitaminosis
 acariform
-anoxic
+anoxic 1
 adaption
 aloof
 avocadoes
