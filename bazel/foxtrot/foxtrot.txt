@@ -8639,7 +8639,7 @@ fontinalis
 findon
 flamberge
 freightless
-filterability
+filterability 1
 fourposters
 futharks
 feet
