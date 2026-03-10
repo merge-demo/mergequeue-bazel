@@ -8486,7 +8486,7 @@ figment
 forked
 formica
 foolishly
-fasciculate
+fasciculate 1
 fitty
 formicate
 filix
