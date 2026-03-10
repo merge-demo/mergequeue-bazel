@@ -5363,7 +5363,7 @@ casteless
 chifforobes
 chimerical
 citator
-chuckie
+chuckie 1
 castellany
 crizzling
 castellanies
