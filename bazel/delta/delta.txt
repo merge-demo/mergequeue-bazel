@@ -2559,7 +2559,7 @@ declassification
 derringer
 diachrony
 declassifies
-diplophonic
+diplophonic 1
 disequality
 dematerialize
 discus
