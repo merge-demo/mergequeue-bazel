@@ -10883,7 +10883,7 @@ chipping
 chippings
 castaneous
 clerk
-chipproof
+chipproof 1
 crucifying
 clocher
 chypre
