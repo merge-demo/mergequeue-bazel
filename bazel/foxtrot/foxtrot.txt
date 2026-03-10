@@ -3950,7 +3950,7 @@ fluoresces
 flemish 1
 fluoranthene 1
 foresummon
-fendered
+fendered 1
 fullest
 foeniculum
 flitted
