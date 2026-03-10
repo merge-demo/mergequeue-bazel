@@ -18830,7 +18830,7 @@ aroma
 archflamen
 archfoe
 ancestresses 2
-aedoeagus
+aedoeagus 1
 angloid
 acervose
 ancientism
