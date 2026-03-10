@@ -9808,7 +9808,7 @@ flowoff
 fattens
 foredooming
 fleck
-faddist
+faddist 1
 foamy 1
 fretum
 fidget
