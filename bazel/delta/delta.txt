@@ -10322,7 +10322,7 @@ diphthongic
 dunkling
 diosmin 1
 diabological
-decisive
+decisive 1
 diseuses 1
 demurrers
 diagrammers
