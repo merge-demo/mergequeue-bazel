@@ -3273,7 +3273,7 @@ acutance
 amyloids
 acutances
 anisoptera
-adornos
+adornos 1
 acute
 acutely
 ascomycetal
