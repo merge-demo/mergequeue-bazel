@@ -9082,7 +9082,7 @@ bioscopic 1
 bioastronautical
 bedecorate
 ballistocardiograph
-biosensor
+biosensor 1
 bearishness
 binominated
 biosynthesize
