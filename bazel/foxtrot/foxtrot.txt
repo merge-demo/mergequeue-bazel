@@ -5224,7 +5224,7 @@ flavanilin
 fiscals
 flavescence
 fingall
-flytrap
+flytrap 1
 filius
 flavescent
 funguses
