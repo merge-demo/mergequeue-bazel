@@ -1118,7 +1118,7 @@ dash
 designado
 doctorization
 dashed
-dicentra
+dicentra 1
 dipnoid
 dermopathy
 dumpfile
