@@ -18363,7 +18363,7 @@ cogmen
 claypan
 chenevixite
 conterminant
-cognac
+cognac 1
 curdier
 crookeries
 centime
