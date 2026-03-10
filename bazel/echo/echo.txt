@@ -6687,7 +6687,7 @@ excusers
 enarthrodial
 enterorrhagia
 enterorrhaphy
-enhalo
+enhalo 1
 eutychianism
 enkindler
 electromotiv
