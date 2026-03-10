@@ -8514,7 +8514,7 @@ dianite
 dianoetically
 decanormal
 dianoia
-dwarflike
+dwarflike 1
 doings 1
 duvetines 1
 dealkylation
