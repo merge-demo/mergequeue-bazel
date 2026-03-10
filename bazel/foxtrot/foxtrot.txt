@@ -2189,7 +2189,7 @@ fats
 fratercula
 farmhouse 1
 fumulus 1
-fluster
+fluster 1
 felts
 forthtell
 fishworker 1
