@@ -5275,7 +5275,7 @@ grouted 1
 garnets 1
 guitarfish
 gliadine
-galvanism
+galvanism 1
 geomedicine
 gymnogenous
 gurish
