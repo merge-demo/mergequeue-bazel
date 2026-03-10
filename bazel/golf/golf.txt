@@ -2468,7 +2468,7 @@ gemote
 genouillere
 glassing
 gourinae
-gemsbuck
+gemsbuck 1
 guardful
 greasy
 gimble
