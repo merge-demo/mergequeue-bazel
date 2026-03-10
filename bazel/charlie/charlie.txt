@@ -10851,7 +10851,7 @@ chipchop
 chipewyan
 chiplet
 culvert
-chipmunk
+chipmunk 1
 claviharp
 chipmunks
 chrysochrous
