@@ -15571,7 +15571,7 @@ donum
 donzel
 discovering
 doubt
-divelled
+divelled 1
 diathermize
 donzels
 doob
