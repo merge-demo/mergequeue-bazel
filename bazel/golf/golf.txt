@@ -9339,7 +9339,7 @@ gradines
 geronomite
 glossas
 goldurn
-glycuronid
+glycuronid 1
 governability 1
 griffs
 gruf
