@@ -5633,7 +5633,7 @@ anticorrosion
 afwillite
 afzelia
 apsychia
-adjustable
+adjustable 1
 amidstream
 aga
 auspiciously
