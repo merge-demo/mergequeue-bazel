@@ -11685,7 +11685,7 @@ feminines 1
 felids
 fusarial
 forelands
-finikin
+finikin 1
 flare
 flyleaves
 fagaceous
