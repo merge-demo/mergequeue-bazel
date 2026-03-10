@@ -5728,7 +5728,7 @@ dysthymia
 drepanid 1
 demit
 deplorabilia
-dextrane
+dextrane 1
 deplorability
 duals
 deplorableness
