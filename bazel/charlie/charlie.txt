@@ -1573,7 +1573,7 @@ cystitome
 callitris
 crenitic
 chaplanry
-cartographer
+cartographer 1
 callo 1
 crawlway
 cyders
