@@ -5661,7 +5661,7 @@ enform
 ergometric
 enfort
 embarrasses
-epicritic
+epicritic 1
 enforth
 estrangle
 eigenvalue 1
