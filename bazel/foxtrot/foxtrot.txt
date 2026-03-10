@@ -5050,7 +5050,7 @@ fissures
 forecourse
 fatteners
 flaperon
-flippantly
+flippantly 1
 flappable
 frankalmoin
 flappet
