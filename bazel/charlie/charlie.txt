@@ -31676,7 +31676,7 @@ casked
 coth
 cushiness
 cushing
-cushion
+cushion 1
 cushioned
 cushionet
 cushionflower
