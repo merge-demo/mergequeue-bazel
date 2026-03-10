@@ -9371,7 +9371,7 @@ gurly 1
 germanhood 1
 germigenous
 grannyknot
-garnishry
+garnishry 1
 gloved
 galenobismutite
 gobelin
