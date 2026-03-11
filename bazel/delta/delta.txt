@@ -12657,7 +12657,7 @@ dumplings
 dextroses 1
 didy
 dyskeratosis
-diskette
+diskette 1
 discernibleness 1
 diskindness
 diskography
