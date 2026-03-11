@@ -2851,7 +2851,7 @@ eosins
 europhium
 eagre
 escars
-elephantoid
+elephantoid 1
 elephantoidal
 enantiopathy
 estrays
