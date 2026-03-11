@@ -1935,7 +1935,7 @@ guideship 1
 galactosuria
 goalkeepers
 greaseless
-gushy
+gushy 1
 greeve
 guttiness
 galopades
