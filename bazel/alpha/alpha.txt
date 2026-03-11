@@ -21940,7 +21940,7 @@ aquiver
 aeriest
 anatripsis
 austerus
-associativeness
+associativeness 1
 amplify
 armoring 1
 associativity
