@@ -3366,7 +3366,7 @@ embadomonas 1
 eats
 embain
 egglike
-epanthous
+epanthous 1
 embays
 ethylenediamine
 extranormal 1
