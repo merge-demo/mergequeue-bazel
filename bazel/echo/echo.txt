@@ -10725,7 +10725,7 @@ euhyostylic
 eukairite
 enfavor
 eaver
-enwraps
+enwraps 1
 exedra
 elicitory
 equiformal
