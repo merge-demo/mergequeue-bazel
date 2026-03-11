@@ -5071,7 +5071,7 @@ ganged
 gret
 glassful
 gonotocont
-grapplers
+grapplers 1
 gloxinia 1
 glasshouses
 gateaux 1
