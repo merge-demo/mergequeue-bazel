@@ -1093,7 +1093,7 @@ graphicness
 gowdy
 goularo
 gormandizers
-genitives 1
+genitives 2
 ganister
 goriest
 giroflore
