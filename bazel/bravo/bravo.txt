@@ -7044,7 +7044,7 @@ bombidae
 bola
 byre
 beknots
-biodegrade
+biodegrade 1
 barbute
 billiardist
 besouth
