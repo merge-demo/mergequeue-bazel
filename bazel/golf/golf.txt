@@ -8157,7 +8157,7 @@ gleek
 gallicization 1
 gauntly
 graftages
-gloomless
+gloomless 1
 gooey
 granuloblastic 1
 granulocyte
