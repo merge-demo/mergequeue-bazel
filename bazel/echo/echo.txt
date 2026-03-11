@@ -5869,7 +5869,7 @@ esox
 engrandize
 ebrillade
 ectogeneous
-ecesis
+ecesis 1
 engrandizement
 epidermatous
 enodate
