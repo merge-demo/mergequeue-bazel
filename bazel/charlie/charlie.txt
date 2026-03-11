@@ -14834,7 +14834,7 @@ citole
 citoles
 calker
 curassow
-counterglow
+counterglow 1
 cytolist
 cytolytic
 chian
