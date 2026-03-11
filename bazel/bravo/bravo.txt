@@ -5145,7 +5145,7 @@ before
 biotic
 boomorah
 broadside
-beggarer
+beggarer 1
 buccinatory
 bagpod
 beforeness
