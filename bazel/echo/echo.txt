@@ -10766,7 +10766,7 @@ eigenvector
 emer
 endogalvanism
 eucnemidae
-excursions
+excursions 1
 exercitant
 extemporaneity
 elasticate
