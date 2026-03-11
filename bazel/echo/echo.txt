@@ -3831,7 +3831,7 @@ ecu
 emending
 escribano
 emerald
-elasticities
+elasticities 1
 emerge
 ecart
 escapology
