@@ -2450,7 +2450,7 @@ electroencephalographical
 essentialize
 evoker
 electroendosmosis
-encipher
+encipher 1
 epoist
 enslavements
 exquisiteness
