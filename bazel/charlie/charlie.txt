@@ -27273,7 +27273,7 @@ chlorophane
 countrifiedness
 countryfiedness
 countryfolk
-closewing
+closewing 1
 congeable
 crullers
 coadjust
