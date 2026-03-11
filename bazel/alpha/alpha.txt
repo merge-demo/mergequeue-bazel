@@ -18723,7 +18723,7 @@ ascigerous 1
 ambidextrous
 abreuvoir
 archdefender
-agenesia
+agenesia 1
 archdetective
 amputee
 alkalisation
