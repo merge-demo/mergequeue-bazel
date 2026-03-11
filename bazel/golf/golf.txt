@@ -1207,7 +1207,7 @@ guttate 1
 garfishes
 grappler
 glaux
-gimcrackery
+gimcrackery 1
 gimmicking
 glanders
 garrisonian
