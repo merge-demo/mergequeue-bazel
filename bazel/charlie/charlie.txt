@@ -13235,7 +13235,7 @@ constableship
 cholecystopexy
 carapacial
 cyclocephaly
-cyclocoelic
+cyclocoelic 1
 cyclode
 catastrophe
 cyclodiene
