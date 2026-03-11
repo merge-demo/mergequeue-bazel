@@ -1596,7 +1596,7 @@ accounts
 anybody
 accouter
 apotype
-astrologistic
+astrologistic 1
 agrostologist
 aneling
 accouterment
