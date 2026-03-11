@@ -1974,7 +1974,7 @@ flchette
 flannelette
 fireball
 flushed
-fravashi
+fravashi 1
 frden
 feeds
 fern 1
