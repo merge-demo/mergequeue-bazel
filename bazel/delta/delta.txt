@@ -14545,7 +14545,7 @@ divisibilities
 divisible
 division 1
 dollop
-degomme
+degomme 1
 distill
 divisional
 diachronicness
