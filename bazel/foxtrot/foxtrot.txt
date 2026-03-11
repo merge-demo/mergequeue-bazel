@@ -3128,7 +3128,7 @@ frottages
 filoplume 1
 fibroelastic
 fountaineer
-finnick
+finnick 1
 fibroenchondroma
 faring
 fulminancy
