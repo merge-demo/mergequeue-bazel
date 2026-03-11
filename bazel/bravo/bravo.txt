@@ -18072,7 +18072,7 @@ bloom
 banzais
 busts
 busulfans
-bughouse
+bughouse 1
 buroo 1
 burbliest
 bibliophily
