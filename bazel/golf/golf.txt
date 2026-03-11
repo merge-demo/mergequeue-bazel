@@ -10520,7 +10520,7 @@ goblinry
 gundie
 graspingness
 galipots
-goladar
+goladar 1
 girl
 geometrina
 geodesical
