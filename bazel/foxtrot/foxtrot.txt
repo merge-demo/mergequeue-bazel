@@ -3144,7 +3144,7 @@ fences
 fibroins
 founderous
 fairlead 1
-fantastic
+fantastic 1
 foretokened
 functionals
 felsophyric
