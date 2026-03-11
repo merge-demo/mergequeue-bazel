@@ -7398,7 +7398,7 @@ detour
 duncifying
 detectability
 detouring
-deliriums
+deliriums 1
 dermacentor
 diadoche
 daric 1
