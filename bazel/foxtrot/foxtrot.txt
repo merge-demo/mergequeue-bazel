@@ -1396,7 +1396,7 @@ fermatas
 frith
 figitidae
 freezer
-fatnesses
+fatnesses 1
 furaciousness
 fatshedera
 foodlessness
