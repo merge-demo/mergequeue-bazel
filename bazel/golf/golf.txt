@@ -6337,7 +6337,7 @@ gobstopper
 goosenecked
 gemots
 gametal
-gearings
+gearings 1
 giglio
 genarchaship 1
 graptoloidea
