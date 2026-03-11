@@ -966,7 +966,7 @@ hatfofelldxn
 hatfs
 hatfvsny
 hatgc
-hatgl
+hatgl 1
 hatgre
 hath 1
 hathkzxols
