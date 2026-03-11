@@ -2783,7 +2783,7 @@ accise
 abalienation
 acrodontism
 acrodrome
-acrodromous
+acrodromous 1
 amyxorrhoea
 acetum
 adequateness
