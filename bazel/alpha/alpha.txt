@@ -930,7 +930,7 @@ atomistics
 absolvitor
 aldolize
 alloxy
-animous
+animous 1
 appeasably
 absonous
 absorb
