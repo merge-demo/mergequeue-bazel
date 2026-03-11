@@ -9511,7 +9511,7 @@ groupwise
 garvey
 glenn
 generalizer
-gloving
+gloving 1
 ganoidean
 grouser
 gunmetals
