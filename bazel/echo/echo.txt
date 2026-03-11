@@ -6054,7 +6054,7 @@ estoque 1
 expromissor
 endosarcs
 expire
-ere
+ere 1
 epiglottises
 enkindles
 edginess
