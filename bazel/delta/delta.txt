@@ -12441,7 +12441,7 @@ dishonoring
 detestability
 discontentful
 dishonors
-decerned
+decerned 1
 desulfurate
 dishorn
 discontinue
