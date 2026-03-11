@@ -2631,7 +2631,7 @@ geomorphist
 gypsyweed
 gramma
 gonocalyx
-gynecia
+gynecia 1
 galores
 grayware
 graal
