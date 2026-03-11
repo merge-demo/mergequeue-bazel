@@ -1645,7 +1645,7 @@ eschaufe
 eichhornia
 eichwaldite
 eide 1
-excommunications
+excommunications 1
 enactors
 eyewashes
 eider
