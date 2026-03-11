@@ -9297,7 +9297,7 @@ gurge
 gangliate
 galactophagous
 gunj
-gi
+gi 1
 geodynamicist
 grapeline
 girnel
