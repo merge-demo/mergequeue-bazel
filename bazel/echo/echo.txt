@@ -5663,7 +5663,7 @@ enfort
 embarrasses
 epicritic 1
 enforth
-estrangle
+estrangle 1
 eigenvalue 1
 epithi 1
 ensnarers

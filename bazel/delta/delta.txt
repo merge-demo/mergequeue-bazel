@@ -12755,7 +12755,7 @@ dodrans
 dupondii
 dakoits
 domesticize
-deer
+deer 1
 dysneuria
 dislodgement
 desertress
