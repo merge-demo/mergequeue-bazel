@@ -9890,7 +9890,7 @@ chemosmotic
 consumptible
 calpacks
 caleches
-clays
+clays 1
 calic
 cameograph
 catalogic 1
