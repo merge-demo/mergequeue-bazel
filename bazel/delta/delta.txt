@@ -16764,7 +16764,7 @@ drave
 demiflouncing 1
 dictynid
 dextrocular
-diplasic
+diplasic 1
 dangersome 1
 diatomaceous
 dravidian
