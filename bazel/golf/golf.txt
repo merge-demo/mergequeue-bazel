@@ -7973,7 +7973,7 @@ grandiosity
 gudok
 gothonic
 ganglionectomy
-globing
+globing 1
 glottologies
 gnomonologically
 goldenmouthed
