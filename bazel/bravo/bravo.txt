@@ -4646,7 +4646,7 @@ bescarf
 brustling
 bioplasmic
 betsileos
-bedewed
+bedewed 1
 bulrushlike
 ballistically
 bedews
