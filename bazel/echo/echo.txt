@@ -5437,7 +5437,7 @@ emigrants
 eightsman
 example
 elsewhither
-electronvolt
+electronvolt 1
 endowment
 ectene
 excantation 1
