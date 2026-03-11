@@ -17567,7 +17567,7 @@ bascule
 broadacre
 bothrops
 burgality
-beaufort
+beaufort 1
 bouses
 blackpoll
 burgall
