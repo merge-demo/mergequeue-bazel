@@ -4851,7 +4851,7 @@ garlicwort
 glades
 graupels
 grush
-geoffroyin
+geoffroyin 1
 generalidad
 gritter
 gunnel
