@@ -10650,7 +10650,7 @@ dustcoat
 degeneration
 diploplaculate
 degarnish
-dolomize
+dolomize 1
 doon
 discoveries
 diplopod
