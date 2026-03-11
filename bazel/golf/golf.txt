@@ -777,7 +777,7 @@ gutturize
 galvanothermometer
 ggr
 galliformes
-ginneries
+ginneries 1
 goose
 gracefullest
 ghrush 1
