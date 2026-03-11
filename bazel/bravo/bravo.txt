@@ -3166,7 +3166,7 @@ bilabial
 baptisin
 bataleur
 bashmuric
-biperforate
+biperforate 1
 branchiomerism
 barbecue
 busine
