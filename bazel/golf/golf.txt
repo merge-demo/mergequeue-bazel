@@ -1574,7 +1574,7 @@ gripe
 glassless 1
 ghegish
 gregarinoidea
-gluelikeness
+gluelikeness 1
 gout
 gassing
 gismos
