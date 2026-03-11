@@ -4689,7 +4689,7 @@ gena
 gossoon
 glassin
 guisard
-glycuronic
+glycuronic 1
 glary
 gradely
 graecism
