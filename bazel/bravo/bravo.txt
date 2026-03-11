@@ -13471,7 +13471,7 @@ blemishes
 borstall 1
 baronethood
 bottomers
-bottoming
+bottoming 1
 betweenness
 balderdash
 benefic
