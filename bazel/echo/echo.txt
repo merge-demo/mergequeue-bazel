@@ -13595,7 +13595,7 @@ exarteritis
 electropyrometer
 expulsory
 ectad
-exiledom
+exiledom 1
 eyeblink
 extemporary
 extemporisation
