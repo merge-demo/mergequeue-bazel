@@ -8111,7 +8111,7 @@ besieging
 bloodhound
 bidiagonal
 balsamodendron
-bidimensional
+bidimensional 1
 binucleate
 barble
 befouls
