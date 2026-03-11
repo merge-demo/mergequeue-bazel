@@ -8739,7 +8739,7 @@ domelike
 disproportionateness
 discriminate
 diatomales
-dedicated
+dedicated 1
 diatomeae
 diatomicity
 duetted
