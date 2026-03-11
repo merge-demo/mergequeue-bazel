@@ -20714,7 +20714,7 @@ affrap
 anamnesis 1
 articulations
 articulative
-anteroventrally
+anteroventrally 1
 alody
 agrostographic
 alwise 1
