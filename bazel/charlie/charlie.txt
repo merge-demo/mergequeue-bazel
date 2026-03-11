@@ -3175,7 +3175,7 @@ cenesthesia
 carapace
 clusters
 capersome
-capersomeness
+capersomeness 1
 cranches
 calista
 cobb
