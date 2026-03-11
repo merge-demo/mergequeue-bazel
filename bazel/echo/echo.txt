@@ -5072,7 +5072,7 @@ enrage
 enamellar
 exemplum
 eyelid
-editorialized
+editorialized 1
 endoaortitis
 endoappendicitis
 entoolitic
