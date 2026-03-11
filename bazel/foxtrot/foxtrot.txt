@@ -11678,7 +11678,7 @@ flibustier
 furcates
 frailties
 festoons
-flocculate
+flocculate 1
 frigorific
 feru
 feminines 1
