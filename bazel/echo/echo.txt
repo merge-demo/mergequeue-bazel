@@ -9085,7 +9085,7 @@ euros
 erythrolytic
 eyrer
 equitangential
-expulse
+expulse 1
 endoscopic
 exponential
 equipollent
