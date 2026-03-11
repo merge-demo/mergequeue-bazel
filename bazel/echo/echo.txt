@@ -7330,7 +7330,7 @@ enolize
 exemplariness
 eelshop
 ephah
-enact
+enact 1
 electrooptics
 escaping
 epanisognathism
