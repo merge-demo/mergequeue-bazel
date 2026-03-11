@@ -17722,7 +17722,7 @@ cocobolos
 cocoyam
 centralize
 cocomat
-coconnection
+coconnection 1
 coconscious
 coconsciously
 coconsciousness
