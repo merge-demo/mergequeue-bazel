@@ -7789,7 +7789,7 @@ forgathering
 finning
 fluorescein
 ferrotyped
-frostbite
+frostbite 1
 fluoridated
 fatelike
 footrail
