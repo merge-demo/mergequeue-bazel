@@ -8563,7 +8563,7 @@ diaphone
 diaphones
 dexterously
 drys
-deflex
+deflex 1
 diaphony
 diaphysial
 diaphonic
