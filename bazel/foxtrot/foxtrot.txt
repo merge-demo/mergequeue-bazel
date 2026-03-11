@@ -5696,7 +5696,7 @@ flyovers
 flype
 feodaries 1
 funiculi
-forkmen
+forkmen 1
 federalizing 1
 fleckiest
 forfeitures
