@@ -2536,7 +2536,7 @@ frangibility
 freebee
 fados
 freeboot
-fem
+fem 1
 functionalistic
 foresightful
 falerno 1
