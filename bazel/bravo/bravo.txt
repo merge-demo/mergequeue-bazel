@@ -11818,7 +11818,7 @@ buttonless
 bodhisattwa
 barfly
 bodybending 1
-bodybuilder
+bodybuilder 1
 betrinket
 birthing 1
 bard
