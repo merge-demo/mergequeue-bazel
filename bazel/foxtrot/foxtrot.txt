@@ -11711,7 +11711,7 @@ frameless
 flaw
 fanfish
 fiancailles 1
-frowns
+frowns 1
 furriered
 forebitter 1
 ferruled
