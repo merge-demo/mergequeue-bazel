@@ -482,7 +482,7 @@ actinide 1
 airstream
 abyssus
 abit
-abstriction
+abstriction 1
 agriculture
 abbreviate
 antiscriptural
