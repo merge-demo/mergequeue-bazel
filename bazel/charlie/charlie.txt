@@ -13028,7 +13028,7 @@ curies
 cyanophile
 cyanophoric
 cyanopia
-colloquize
+colloquize 1
 chresard
 cyanoplastid
 cyanoplatinite
