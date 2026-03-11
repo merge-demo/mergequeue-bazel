@@ -8845,7 +8845,7 @@ allocator
 agynary
 amidrazone
 acadia
-asyntrophy
+asyntrophy 1
 anglicist
 allocatur
 acanthocephalan
