@@ -7649,7 +7649,7 @@ floruits
 faeculence 1
 foreimagination
 flashlike
-foregift
+foregift 1
 forgiveless
 feyness
 foregleam
