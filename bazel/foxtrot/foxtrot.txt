@@ -7686,7 +7686,7 @@ foreturn
 flotter
 furriness
 forspeak
-favourers
+favourers 1
 forehoofs
 forehooves 1
 forpit
