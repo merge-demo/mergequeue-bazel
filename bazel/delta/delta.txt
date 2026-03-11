@@ -14465,7 +14465,7 @@ divertingness
 dissolveability
 demoralization 1
 drabbet
-dawdler
+dawdler 1
 daemones
 disproof
 divertisement
