@@ -15124,7 +15124,7 @@ degustate
 dubitatively
 dipolarization
 dogstones
-dogtie
+dogtie 1
 degenerated
 dogtooth
 diabetogenous
