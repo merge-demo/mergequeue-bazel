@@ -4189,7 +4189,7 @@ floodtime
 firebrick
 foulmouthed
 foretokening 1
-firebug
+firebug 1
 flagstones
 fado
 flickertail
