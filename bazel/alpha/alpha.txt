@@ -17749,7 +17749,7 @@ autocab
 aversation
 ameiurus
 adumbration
-antispasis
+antispasis 1
 applique
 appliques
 antinarcotics
