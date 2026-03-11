@@ -2497,7 +2497,7 @@ beet
 bargellos
 beswinge
 begroans
-barger
+barger 1
 bardash
 bractea
 borscht
