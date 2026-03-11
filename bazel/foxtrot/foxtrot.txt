@@ -595,7 +595,7 @@ foreknows
 forpet 1
 fossilisation
 forints
-feasted
+feasted 1
 fade 1
 featherdom
 finders
