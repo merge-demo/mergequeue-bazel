@@ -7021,7 +7021,7 @@ centals
 coolies 1
 chock
 centaur
-centaurdom
+centaurdom 1
 cuvette
 centaurea
 carretta
