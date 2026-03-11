@@ -8709,7 +8709,7 @@ diastral
 davits
 decors
 delicioso
-demagnetise
+demagnetise 1
 diastrophically
 distort
 dichrooscopic
