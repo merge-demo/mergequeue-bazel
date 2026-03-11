@@ -4260,7 +4260,7 @@ deltohedron 1
 dogvanes
 delubra
 deluce
-delude
+delude 1
 didunculus
 dishonored
 dipperful
