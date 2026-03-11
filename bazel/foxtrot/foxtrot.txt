@@ -6795,7 +6795,7 @@ farfal
 forethink
 foldcourse
 fiberless
-folkmoots
+folkmoots 1
 foredoomed
 fleshhook 1
 farinulent
