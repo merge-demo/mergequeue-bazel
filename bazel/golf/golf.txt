@@ -10846,7 +10846,7 @@ genotypical
 gasworker
 grailer
 geason
-gymnasiarch
+gymnasiarch 1
 genesiurgic
 galianes
 gunneress
