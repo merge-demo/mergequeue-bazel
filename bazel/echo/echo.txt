@@ -12868,7 +12868,7 @@ evacuators
 embarked 2
 expandable
 escropulo
-erotopathic
+erotopathic 1
 erethisms
 exsert
 endamoeba
