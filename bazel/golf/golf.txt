@@ -6436,7 +6436,7 @@ gymnocladus
 grows 2
 gentlemanliness
 gocart 1
-giddypate
+giddypate 1
 girnie 1
 goburra
 glucidic
