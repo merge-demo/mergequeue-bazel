@@ -5251,7 +5251,7 @@ erythrogen 1
 encinder
 endoparasitica
 etiotropically
-endopathic
+endopathic 1
 endopelvic
 encyclopaedist
 endoperidium
