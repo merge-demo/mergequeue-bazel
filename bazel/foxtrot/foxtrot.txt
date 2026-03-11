@@ -5480,7 +5480,7 @@ fidelities
 feignedness
 feus
 farouk
-foolscap
+foolscap 1
 furunculoid
 flesh
 forbids
