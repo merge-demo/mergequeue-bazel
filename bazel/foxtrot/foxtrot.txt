@@ -385,7 +385,7 @@ fearer
 filicauline
 forbid
 fairfieldite
-facets
+facets 1
 faceoff 1
 fancifully
 fairground
