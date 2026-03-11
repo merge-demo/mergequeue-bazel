@@ -18370,7 +18370,7 @@ buzane
 blawort
 bortsch
 bepaint
-buzz
+buzz 1
 buzzard
 beylical
 beasts
