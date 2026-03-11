@@ -2873,7 +2873,7 @@ flouter
 flatlets
 forestair
 fibrillose
-faeries
+faeries 1
 forepreparation
 ferlies
 fetterlock
