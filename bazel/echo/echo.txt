@@ -5143,7 +5143,7 @@ endocoele
 enaliosaurian
 exploiter
 effaced
-expositoriness
+expositoriness 1
 evanishment
 endoconidia 1
 edificate
