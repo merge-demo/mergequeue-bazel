@@ -11724,7 +11724,7 @@ cirrhotic
 chondrioma
 churlhood
 chondriomere
-chondriosphere
+chondriosphere 1
 connaturally
 cacophony
 chondrites
