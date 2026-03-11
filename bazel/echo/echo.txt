@@ -9833,7 +9833,7 @@ etagre
 expurgator
 eikon
 egocentricity
-enthronising
+enthronising 1
 endoceras
 equiomnipotent
 engin
