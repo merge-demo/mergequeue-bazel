@@ -2907,7 +2907,7 @@ fouettes
 floorcloth
 find
 febricide
-fibrose
+fibrose 1
 fimbricate
 featuring 1
 feudalists
