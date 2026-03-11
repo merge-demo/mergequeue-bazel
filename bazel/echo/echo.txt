@@ -2384,7 +2384,7 @@ empoisonment
 engorged
 exocone
 egoistic
-exergonic
+exergonic 1
 eurytomidae
 electrocutional
 enfleurage
