@@ -8935,7 +8935,7 @@ fragged 1
 fossicker
 flueman
 filosus
-faultfinder
+faultfinder 1
 funambulist
 fuddling
 flaggiest
