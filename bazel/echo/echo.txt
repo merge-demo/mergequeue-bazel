@@ -8536,7 +8536,7 @@ eupnea
 exsufflicate 1
 esophagotome
 enteromere
-equatable
+equatable 1
 eudaemons
 ecclesiasticize
 essentializing
