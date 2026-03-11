@@ -8280,7 +8280,7 @@ endolaryngeal 1
 endplay
 epitheliomatous
 epitaphian
-ejection
+ejection 1
 expensively 1
 ectoplasmic 1
 ellagate
