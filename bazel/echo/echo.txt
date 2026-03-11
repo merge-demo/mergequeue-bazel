@@ -7973,7 +7973,7 @@ encyclopaedia
 epileptiform 1
 equilobed
 epimysia
-esthesias
+esthesias 1
 expunger
 enflesh
 eteocreton
