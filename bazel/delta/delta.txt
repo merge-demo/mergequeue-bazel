@@ -10601,7 +10601,7 @@ dominus
 diploidize
 doorman
 diploma
-decasyllabon
+decasyllabon 1
 dolorogenic
 domitable
 dolven
