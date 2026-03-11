@@ -6804,7 +6804,7 @@ flyers 1
 forseeable
 fluidics
 foreshadowing
-ferme
+ferme 1
 fiendliness
 frontal
 flaccidity
