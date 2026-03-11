@@ -1844,7 +1844,7 @@ feastless
 febrific
 flaccid 1
 feloid
-febrile
+febrile 1
 forrue
 fcs
 fibrinogenically
