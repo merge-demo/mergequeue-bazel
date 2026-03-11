@@ -4561,7 +4561,7 @@ embarkation
 encephalotome 1
 edomite
 ethics
-epionynychia
+epionynychia 1
 euphony
 epagoge
 echinodermal
