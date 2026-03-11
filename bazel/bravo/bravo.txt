@@ -9980,7 +9980,7 @@ biventer
 backseat
 bayonetting
 blackwashing
-bulkin
+bulkin 1
 bizarrerie
 bield
 broody 1
