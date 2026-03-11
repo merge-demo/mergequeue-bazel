@@ -1467,7 +1467,7 @@ epanorthotic
 emunct
 exenteritis
 epipleural
-envelop
+envelop 1
 enfarce
 euxanthate
 euhemerism
