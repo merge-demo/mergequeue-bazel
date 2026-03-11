@@ -18367,7 +18367,7 @@ cognac 1
 curdier
 crookeries
 centime
-cognacs
+cognacs 1
 cognate
 contrarevolutionary
 chamsin
