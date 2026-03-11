@@ -8869,7 +8869,7 @@ erethisia
 excursively
 embossers
 eelworms
-enteron
+enteron 1
 erewhile
 erewhiles 1
 ergane
