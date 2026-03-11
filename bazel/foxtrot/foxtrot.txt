@@ -4139,7 +4139,7 @@ fratriage
 fipples
 floscule
 firca
-foisted
+foisted 1
 ferrosilicon
 fluorometry
 freeheartedly
