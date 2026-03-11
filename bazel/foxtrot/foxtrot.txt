@@ -7135,7 +7135,7 @@ footboys 1
 floodgate
 fairling
 failed
-frostlike
+frostlike 1
 figwort
 fundamentalistic 1
 foleye 1
