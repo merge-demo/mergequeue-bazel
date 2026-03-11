@@ -11384,7 +11384,7 @@ furnariides
 flect
 facies
 furnish
-fluorindine
+fluorindine 1
 furnishable 1
 fluoroformol
 frontirostria 1
