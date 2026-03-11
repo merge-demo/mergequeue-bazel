@@ -12425,7 +12425,7 @@ doeskins
 diakineses
 dishley
 diamond
-deterrability
+deterrability 1
 defers 1
 dimerlie
 dialectical
