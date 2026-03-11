@@ -8668,7 +8668,7 @@ featherbrained
 fields
 fortaxed
 foederati
-fanlike
+fanlike 1
 freelance
 funariaceous
 flexuous
