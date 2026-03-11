@@ -5673,7 +5673,7 @@ againstand
 antilens
 amphidromia
 amphistomatic
-againward
+againward 1
 aggrace
 ardeid
 agal
