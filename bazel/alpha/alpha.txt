@@ -893,7 +893,7 @@ aeronomy
 alachah
 akroterion
 anabong
-audiometric
+audiometric 1
 apogeotropic 1
 archband 1
 aures
