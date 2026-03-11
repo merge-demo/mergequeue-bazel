@@ -9310,7 +9310,7 @@ erubescent
 entelechy
 ecus
 electroori
-erucivorous
+erucivorous 1
 eructance
 empoverish 1
 extendability
