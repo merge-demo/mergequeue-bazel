@@ -31211,7 +31211,7 @@ chromaticity
 cuprose
 cuprums
 czechoslovaks
-cupsful
+cupsful 1
 cupstone
 cupula
 cupulae
