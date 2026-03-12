@@ -26389,7 +26389,7 @@ cotenure
 concaved 1
 cinderlike
 coterie
-ciminite
+ciminite 1
 concavities
 centipoise
 clergess
