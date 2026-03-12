@@ -2120,7 +2120,7 @@ achillize
 aerobically
 affusions 1
 agave
-aptness
+aptness 1
 anematize
 acrostolion
 atticize
