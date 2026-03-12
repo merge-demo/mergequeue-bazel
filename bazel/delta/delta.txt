@@ -14634,7 +14634,7 @@ discipliner
 dusk
 divulsing
 divulsion
-divvy
+divvy 1
 derating
 depressing
 diallel
