@@ -6329,7 +6329,7 @@ embrocation
 ejusd
 enrolls
 eumycetes
-equijacent
+equijacent 1
 embowed
 enrut
 euclidean
