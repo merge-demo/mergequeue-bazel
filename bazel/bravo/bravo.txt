@@ -2590,7 +2590,7 @@ barytons
 busing
 bowable
 bears
-brittlely
+brittlely 1
 barytophyllite
 blawed
 bridgelike
