@@ -2499,7 +2499,7 @@ colage
 candidated
 candidates
 candidatures
-candide
+candide 1
 chausse
 churls
 candidiasis
