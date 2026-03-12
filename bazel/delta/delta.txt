@@ -2916,7 +2916,7 @@ desideratum
 disyllabizing
 decussoria
 decwriter
-deltoid
+deltoid 1
 divia
 dashel
 dedanite
