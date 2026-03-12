@@ -15150,7 +15150,7 @@ deerherd
 dislustre
 disallows
 dullpate
-decayable
+decayable 1
 doing
 discopodous
 dotish
