@@ -6793,7 +6793,7 @@ evading 1
 echoized
 entiris
 extinguishing
-exasperate
+exasperate 1
 embryoniform
 entitatively 1
 entitle 1
