@@ -2302,7 +2302,7 @@ discomfortableness
 daidled
 drips 1
 dirtplate 1
-decenters
+decenters 1
 disaggregation
 digestors
 dynamical
