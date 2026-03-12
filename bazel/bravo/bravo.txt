@@ -12152,7 +12152,7 @@ bedflower
 bolled
 bemuzzle
 bisognio
-boarishness
+boarishness 1
 bureaucracies
 barbitos 1
 biclinium
