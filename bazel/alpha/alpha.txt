@@ -7605,7 +7605,7 @@ antileft
 auxographic
 alcestis
 asop
-antisteapsin
+antisteapsin 1
 atrocity 1
 arabite
 agau
