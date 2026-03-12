@@ -10739,7 +10739,7 @@ gypsyisms 1
 gnomonological
 galloot
 garnish
-gournard
+gournard 1
 gagers 1
 groggy
 gustiest
