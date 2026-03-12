@@ -3583,7 +3583,7 @@ degage
 degames
 deganglionate
 dystome
-degasify
+degasify 1
 duco
 deadlatch
 doubletree
