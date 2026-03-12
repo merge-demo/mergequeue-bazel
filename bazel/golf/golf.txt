@@ -841,7 +841,7 @@ gamboling 1
 goalage
 glareolidae
 geonim
-gwine
+gwine 1
 geezers
 gernitz
 gratulated
