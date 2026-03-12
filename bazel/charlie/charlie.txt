@@ -2629,7 +2629,7 @@ coign
 camelopardel
 canes
 caprellidae 1
-canescence
+canescence 1
 chaetetes
 conversationalist
 composes
