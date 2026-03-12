@@ -7145,7 +7145,7 @@ epicyesis
 eild
 exclusions
 echar
-elan
+elan 1
 estanciero
 eudaemonism
 everyday 1
