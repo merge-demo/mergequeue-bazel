@@ -16240,7 +16240,7 @@ distilled
 defease
 downcastness
 delenda
-disabling
+disabling 1
 doubter
 downcome
 dogtail
