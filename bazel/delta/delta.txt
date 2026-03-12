@@ -14796,7 +14796,7 @@ doublehandedly
 docklands
 dominica
 dialogue
-dolors
+dolors 1
 desmectasia
 dennet
 docks
