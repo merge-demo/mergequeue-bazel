@@ -1053,7 +1053,7 @@ endoskeleton
 eqpt
 edgar
 expatiatory
-edgeboned
+edgeboned 1
 eringos
 eagerly
 exsheath
