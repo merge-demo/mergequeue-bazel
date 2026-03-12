@@ -18485,7 +18485,7 @@ denat
 dirca 1
 draggingly
 dendroica
-durably
+durably 1
 dissentiently
 discussants
 dementi
