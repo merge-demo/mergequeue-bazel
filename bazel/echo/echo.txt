@@ -7819,7 +7819,7 @@ empest
 ectodynamomorphic
 extenuation
 echolalia
-exodermis
+exodermis 1
 empirical
 endopoditic
 equivocators

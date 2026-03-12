@@ -8145,7 +8145,7 @@ fundmonger
 forcepses
 forevers
 flectionless
-foregate
+foregate 1
 forthwith
 fretless
 ferberite
