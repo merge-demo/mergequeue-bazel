@@ -9994,7 +9994,7 @@ bedfast
 breeched
 bivocal 2
 bossism
-bivocalized
+bivocalized 1
 bombings 1
 buffos
 bivoluminous
