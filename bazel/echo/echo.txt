@@ -2978,7 +2978,7 @@ entomology 1
 elidible
 etagere
 epistasy
-eligibles
+eligibles 1
 entrecotes
 equipede
 elbowchair
