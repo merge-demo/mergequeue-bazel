@@ -5992,7 +5992,7 @@ flashness 1
 floorcloths
 fumid
 fluidizing
-folkways
+folkways 1
 foreplays
 fawny
 fluidrachm
