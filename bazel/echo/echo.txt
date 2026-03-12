@@ -3186,7 +3186,7 @@ emmarble
 elaborate
 evinced
 egghead
-entertainingness
+entertainingness 1
 envisagement
 eichbergite
 eureka
