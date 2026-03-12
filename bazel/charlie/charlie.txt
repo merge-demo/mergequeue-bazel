@@ -5799,7 +5799,7 @@ catechumenal 1
 catechumenism
 cutthroats
 concourses
-catechumens
+catechumens 1
 catechumenship
 codo
 catechutannic
