@@ -9943,7 +9943,7 @@ bx
 bituminous
 bisecting
 beryllate
-bilinguality
+bilinguality 1
 bridleman
 burbles
 biases
