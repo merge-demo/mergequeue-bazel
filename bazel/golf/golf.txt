@@ -2559,7 +2559,7 @@ grue
 generations 1
 gastrula
 gobangs
-ganch
+ganch 1
 generalities
 grig
 grubbies
