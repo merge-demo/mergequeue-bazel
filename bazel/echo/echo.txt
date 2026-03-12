@@ -6564,7 +6564,7 @@ entasis
 extreat 1
 emiction
 endothelioma
-eclectic
+eclectic 1
 engroove
 entelechies
 entomologic
