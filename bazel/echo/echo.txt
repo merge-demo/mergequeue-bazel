@@ -8796,7 +8796,7 @@ el
 ectoskeleton
 ekename
 erasers
-effectuate
+effectuate 1
 eventuations
 eldmother
 equestrial
