@@ -10740,7 +10740,7 @@ gnomonological
 galloot
 garnish
 gournard
-gagers
+gagers 1
 groggy
 gustiest
 geocentrically
