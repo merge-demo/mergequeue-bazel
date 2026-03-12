@@ -5740,7 +5740,7 @@ furnage
 fungistatic
 frequentation
 fractuosity
-fels
+fels 1
 figureheadless
 fisher
 foredeserved
