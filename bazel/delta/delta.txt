@@ -1244,7 +1244,7 @@ disobligation
 dateless
 datelessness
 denizate
-disserve
+disserve 1
 datelining
 datemark
 disenter
