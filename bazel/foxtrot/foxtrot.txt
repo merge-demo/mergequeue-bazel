@@ -6756,7 +6756,7 @@ fingerspin
 frized
 fleece
 feering
-foresworn
+foresworn 1
 felonweed
 foiter
 fraxin
