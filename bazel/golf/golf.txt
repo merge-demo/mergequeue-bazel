@@ -6059,7 +6059,7 @@ geyerite
 grungy
 grislier
 glovemen
-glycemia
+glycemia 1
 griddle
 gownsman
 gullishly
