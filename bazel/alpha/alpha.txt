@@ -18419,7 +18419,7 @@ arointing 1
 amaryllid
 arawak
 ankh
-arawakian
+arawakian 1
 anatomized
 anteriority
 antlion
