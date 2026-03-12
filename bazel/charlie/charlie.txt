@@ -15994,7 +15994,7 @@ cramper
 compromises
 covado
 cleromancy
-canniness
+canniness 1
 clerstory
 clansmen
 cyamelid
