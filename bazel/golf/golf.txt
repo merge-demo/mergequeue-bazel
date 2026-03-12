@@ -8031,7 +8031,7 @@ gumless
 gettering
 gustable
 greekess
-gentilize
+gentilize 1
 gabby
 grayer
 goatbeard 2
