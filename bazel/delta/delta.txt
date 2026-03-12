@@ -3983,7 +3983,7 @@ drugless
 dustman
 decontaminator
 disquixote
-delatinize
+delatinize 1
 delation
 dichocarpous
 delators
