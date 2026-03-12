@@ -1936,7 +1936,7 @@ explore
 enjoin
 epiphylaxis
 eluants
-eyeleted
+eyeleted 1
 enabled
 echinulate
 estoppal
