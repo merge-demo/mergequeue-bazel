@@ -6671,7 +6671,7 @@ gopak 1
 genocides
 gonfalcon
 glossopyrosis
-generational
+generational 1
 gong
 gekkota
 gild
