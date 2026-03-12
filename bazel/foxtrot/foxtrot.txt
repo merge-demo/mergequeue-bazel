@@ -9083,7 +9083,7 @@ flavors
 formably
 fehmic 1
 frication
-figging
+figging 1
 foundryman
 fibrinolytic
 farcied
