@@ -4008,7 +4008,7 @@ electroretinography
 each
 exultancy
 esothyropexy
-estus
+estus 1
 effloresce
 etherealized
 epilamellar
