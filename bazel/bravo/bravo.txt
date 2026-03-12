@@ -12583,7 +12583,7 @@ backlist
 bonnyish
 beverages
 boogeyman
-balance
+balance 1
 bonnnes
 bonnocks
 bonnwis
