@@ -9414,7 +9414,7 @@ glues
 galloptious 1
 glycocholate
 gamble
-gingivoglossitis
+gingivoglossitis 1
 gramps
 gingerliness
 glycollide
