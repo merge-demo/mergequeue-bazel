@@ -14090,7 +14090,7 @@ conservancies
 corticoid
 circlets
 circulated
-cochleas
+cochleas 1
 circocele
 colloquialisms
 codecree
