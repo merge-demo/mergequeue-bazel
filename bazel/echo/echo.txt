@@ -3582,7 +3582,7 @@ euchlaena
 encraal
 embossage
 embossed
-enbibe
+enbibe 1
 embossing
 emulsifications
 embossman
