@@ -9503,7 +9503,7 @@ desiliconize
 discussable
 digestor
 digestory
-decide
+decide 1
 digesture 1
 dinarzade
 disapproval
