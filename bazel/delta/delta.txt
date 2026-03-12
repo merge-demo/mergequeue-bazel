@@ -1036,7 +1036,7 @@ distains
 drabbed
 darkmans
 dineutron
-daggly
+daggly 1
 darkskin
 disseises
 dispensers
