@@ -11504,7 +11504,7 @@ blumes
 benighting
 blunderbuss 1
 borasqueborate
-blunderbusses
+blunderbusses 1
 boundure
 bestare
 blunderhead 1
