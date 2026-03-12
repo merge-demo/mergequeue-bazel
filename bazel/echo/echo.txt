@@ -8932,7 +8932,7 @@ eteoclus
 endosmotically
 ericales
 epicanthi 1
-exteroceptive
+exteroceptive 1
 erythematic
 ericas
 eastwardly
