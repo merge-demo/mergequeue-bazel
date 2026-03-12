@@ -910,7 +910,7 @@ faddier
 fadaise
 fleabug
 fallouts
-ferrate
+ferrate 1
 faquir
 farad
 faradaic

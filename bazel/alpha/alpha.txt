@@ -8072,7 +8072,7 @@ armoires 1
 actinopraxis 1
 attriutively
 alrune
-airworthy
+airworthy 1
 acidotic
 antihistamines
 arithmetically
