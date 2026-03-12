@@ -7370,7 +7370,7 @@ hlln
 hllpq
 hllqem
 hllrma
-hllu
+hllu 1
 hllumvrrokba 1
 hllvy
 hllwgdkclgjp
