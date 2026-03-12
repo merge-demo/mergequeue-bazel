@@ -5622,7 +5622,7 @@ flightier
 foster
 facund
 foetor
-fernery
+fernery 1
 forepassed
 fireboot
 fuci
