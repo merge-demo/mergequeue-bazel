@@ -10118,7 +10118,7 @@ fare
 foreknee
 fe
 feckly
-fulciform
+fulciform 1
 fortuitus
 fissiparously
 frittering
