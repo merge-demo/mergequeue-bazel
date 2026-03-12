@@ -8496,7 +8496,7 @@ backboned
 bafaro
 baronne
 birch
-butyryl
+butyryl 1
 bearhound
 bisections
 biliteral
