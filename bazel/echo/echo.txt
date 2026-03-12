@@ -7070,7 +7070,7 @@ epinikian
 enzymolytic
 excitomuscular
 encompassed
-enumerability
+enumerability 1
 entry
 epris 1
 expansionary
