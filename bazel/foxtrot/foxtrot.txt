@@ -11600,7 +11600,7 @@ forced
 fraternal
 febrifugal
 forlornly
-for
+for 1
 fetch 1
 forcarve
 frough
