@@ -7771,7 +7771,7 @@ epidymides
 eosine 1
 extractiform
 encephalogram 1
-equispatial
+equispatial 1
 exotisms
 easternmost
 embolite
