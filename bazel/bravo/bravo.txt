@@ -11620,7 +11620,7 @@ boaster
 boastfully
 boastfulness
 bacchus
-boasts
+boasts 1
 bryologist
 bosket
 boatage
