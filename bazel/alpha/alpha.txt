@@ -14828,7 +14828,7 @@ activations
 antichreses
 antichrist
 antichristianism
-aforetime
+aforetime 1
 anglicisms
 ascomycetes
 antepagmenta
