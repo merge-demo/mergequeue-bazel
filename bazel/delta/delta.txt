@@ -4005,7 +4005,7 @@ degradingly
 delegacy
 domiculture
 dysrhythmia 1
-delegate
+delegate 1
 doorsill
 delegates
 delegateship
