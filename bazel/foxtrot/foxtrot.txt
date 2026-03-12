@@ -9873,7 +9873,7 @@ fosh
 fibroneuroma
 felinophobe
 frickle
-ferrel
+ferrel 1
 frontager
 furilic
 frozenly
