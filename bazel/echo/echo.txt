@@ -1899,7 +1899,7 @@ entrepeneur
 eyrant 1
 erasability
 equiseta
-extrovert
+extrovert 1
 errata
 eximiousness
 encashes
