@@ -992,7 +992,7 @@ goldhammer
 ganderess
 gamester
 grimace
-geanticline
+geanticline 1
 gubernia 1
 grece
 gandertmeeth
