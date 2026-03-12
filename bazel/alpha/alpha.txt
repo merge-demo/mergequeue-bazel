@@ -22347,7 +22347,7 @@ aplanat
 autoreduction
 amplect
 atmologist
-astrocompass
+astrocompass 1
 astrodiagnosis
 astrodynamic
 androphyll
