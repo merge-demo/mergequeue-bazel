@@ -10262,7 +10262,7 @@ guanases
 globulitic
 goers
 galeproof
-gregarious
+gregarious 1
 guinness
 greyback
 gumbos
