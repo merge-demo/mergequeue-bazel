@@ -7440,7 +7440,7 @@ forcibleness
 filosa
 furnacite
 francophone
-freckliest
+freckliest 1
 ferredoxin
 foreguidance
 firecrest
