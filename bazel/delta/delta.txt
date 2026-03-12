@@ -2579,7 +2579,7 @@ dynasty
 declinatory
 disentwined
 declines 1
-declining
+declining 1
 directrices
 declivent
 derive
