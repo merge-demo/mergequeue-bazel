@@ -13228,7 +13228,7 @@ demothball
 dispoint 1
 dapedium
 derrieres 1
-dispondee
+dispondee 1
 demythologise
 dahms
 disponent
