@@ -19648,7 +19648,7 @@ coman
 comanche
 comanchean
 cohesion
-chlordan
+chlordan 1
 comanches
 comandantes
 comandanti
