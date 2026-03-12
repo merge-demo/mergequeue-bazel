@@ -10377,7 +10377,7 @@ fonctionnaire
 forgivers
 fecundities
 fertilizable 1
-frontignan
+frontignan 1
 fucate
 fronting
 fizzle
