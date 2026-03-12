@@ -2289,7 +2289,7 @@ eudiometry
 enchantments
 exormia
 enbloc
-endolymph
+endolymph 1
 excretal
 eger
 encased 1
