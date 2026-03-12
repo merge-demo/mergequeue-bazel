@@ -9904,7 +9904,7 @@ elongative
 earmarks
 estimations
 eprosy
-exhaustively
+exhaustively 1
 emmensite
 earthnuts
 elaterium
