@@ -768,7 +768,7 @@ easternizing
 ecoute
 exscinding 1
 ecphonema
-emotes
+emotes 1
 echinal 2
 euomphalid
 egger 1
