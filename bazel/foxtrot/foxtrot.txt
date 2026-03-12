@@ -2643,7 +2643,7 @@ fabric
 falanaka
 freshes 1
 fluocerite
-frumpling
+frumpling 1
 ferrumination
 fluviatic
 fraters
