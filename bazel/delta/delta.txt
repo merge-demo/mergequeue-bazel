@@ -2941,7 +2941,7 @@ doggoner
 dedicators
 deaconry
 dewar
-ducatus
+ducatus 1
 divagation
 dechlorination
 dansk
