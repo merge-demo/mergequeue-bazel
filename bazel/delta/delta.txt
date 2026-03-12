@@ -9311,7 +9311,7 @@ detersive
 depletable 1
 diluvions
 depilation
-dietrichite
+dietrichite 1
 duvetine
 dyeware
 delisted
