@@ -10477,7 +10477,7 @@ borolanite 1
 blastings
 blastocele
 boomers
-batodendron
+batodendron 1
 berrichon
 brickfielder
 beeflower
