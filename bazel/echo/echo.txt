@@ -5649,7 +5649,7 @@ elevational
 excesses
 egling
 exiguities
-enforces
+enforces 1
 endent 1
 endocentric
 encouraging
