@@ -14119,7 +14119,7 @@ extrorse
 extrospect
 endarch
 evokes
-equivorous
+equivorous 1
 existentialize
 eutrophy
 epithamia
