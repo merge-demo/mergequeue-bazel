@@ -3079,7 +3079,7 @@ basale
 berascaling
 bathetic
 basalts
-brecciating
+brecciating 1
 basaltware
 bombiccite
 basaree
