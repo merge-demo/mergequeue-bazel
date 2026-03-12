@@ -10299,7 +10299,7 @@ expecters
 effacer 1
 ethmopalatal
 ectases
-epiphyllous
+epiphyllous 1
 ensignment
 ethnicist
 endymal
