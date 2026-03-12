@@ -6796,7 +6796,7 @@ forethink
 foldcourse
 fiberless
 folkmoots 1
-foredoomed
+foredoomed 1
 fleshhook 1
 farinulent
 fervescent 1
