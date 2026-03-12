@@ -8213,7 +8213,7 @@ epiphany
 enkraal
 electrothermometer
 extinctive
-exsection
+exsection 1
 empiecement
 etwas
 encydlopaedic
