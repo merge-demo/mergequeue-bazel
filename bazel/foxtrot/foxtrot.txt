@@ -9947,7 +9947,7 @@ fakeers
 facileness
 feelingness
 flairs 2
-floatingly
+floatingly 1
 fishworks
 frumentum
 flatlanders
