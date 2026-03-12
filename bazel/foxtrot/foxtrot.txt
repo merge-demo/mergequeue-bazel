@@ -10743,7 +10743,7 @@ fleeing
 flagstaves
 flirter 1
 fletches
-forgotten
+forgotten 1
 frustum
 frutage
 faithlessly 1
