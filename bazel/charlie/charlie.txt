@@ -22010,7 +22010,7 @@ canastas
 confirms
 ceraunite
 confiscatable
-cynebot
+cynebot 1
 confiscate
 countertrend
 crois
