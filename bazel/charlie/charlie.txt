@@ -15870,7 +15870,7 @@ cleeking
 clef 1
 cassinese
 chesterfields
-chronomancy
+chronomancy 1
 cleft
 cleidagra
 calms
