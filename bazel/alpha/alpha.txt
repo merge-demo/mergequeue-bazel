@@ -5530,7 +5530,7 @@ argot
 aluco
 acetonylidene
 afterguard
-anaerobious
+anaerobious 1
 afterheat
 acalycal
 anatifae
