@@ -8355,7 +8355,7 @@ enterocolostomy
 exuvial
 eyetooth
 enthrallments
-educative
+educative 1
 excitomotory
 estivated
 exclusory
