@@ -10266,7 +10266,7 @@ fasher
 frolicker
 frolicking
 frillies
-flagitiousness
+flagitiousness 1
 ferricyanhydric 1
 frolicsome
 fishful
