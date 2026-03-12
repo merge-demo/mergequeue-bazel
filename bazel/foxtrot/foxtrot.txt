@@ -9204,7 +9204,7 @@ fries 1
 fragileness 1
 foreknown
 faceplate
-fucus
+fucus 1
 fledged
 fumously
 firebugs
