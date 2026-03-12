@@ -9622,7 +9622,7 @@ fortalice
 finalities
 flukier
 foamer
-frons
+frons 1
 freeloaded
 florate 1
 freemasonic
