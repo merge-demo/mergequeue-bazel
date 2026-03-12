@@ -28297,7 +28297,7 @@ comatik
 craterkin
 chromites
 craterless
-craterlet
+craterlet 1
 craterlike
 covariance
 cheepily
