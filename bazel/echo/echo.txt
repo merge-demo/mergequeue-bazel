@@ -7181,7 +7181,7 @@ enwinding
 elemis
 entomoid
 emboltement
-enwing
+enwing 1
 ecclesiasticus
 enamines
 eyedness
