@@ -6696,7 +6696,7 @@ dinitrophenol
 diplohedron
 downcurved
 desyatin
-deaconries
+deaconries 1
 desicate
 dubonnets
 desman
