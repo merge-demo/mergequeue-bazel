@@ -9973,7 +9973,7 @@ futureless
 fed
 feracity
 firelike
-frigotherapy
+frigotherapy 1
 facial
 fibrosities
 fencings 1
