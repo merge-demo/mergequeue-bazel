@@ -29651,7 +29651,7 @@ convulsiveness
 cotingid
 crocodylus
 chronol 1
-counteraffirm
+counteraffirm 1
 croconic
 convincedness
 conoidal
