@@ -1893,7 +1893,7 @@ flybrush
 fishable
 fingerflower
 fontanelle
-fumbling
+fumbling 1
 fustilarian
 foism
 fruitless
