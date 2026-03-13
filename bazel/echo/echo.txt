@@ -4252,7 +4252,7 @@ euascomycetes
 estradiot 1
 emulant
 earwiggy
-elucidator
+elucidator 1
 emulations
 echograph
 exporters
