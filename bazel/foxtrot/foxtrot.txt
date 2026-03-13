@@ -7362,7 +7362,7 @@ forbborne
 freshen
 feudalism
 forby
-famelessly
+famelessly 1
 foreparent
 forebodingly
 footplate
