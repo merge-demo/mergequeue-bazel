@@ -3096,7 +3096,7 @@ disennoble 1
 defacing
 defacto
 defade
-dichlamydeous
+dichlamydeous 1
 defaillance
 defaitiste
 defalcated
