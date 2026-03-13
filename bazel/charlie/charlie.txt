@@ -26628,7 +26628,7 @@ coronobasilar
 counseled 2
 champagned
 counselee
-counsellable
+counsellable 1
 curer
 counsellor
 chilopodan
