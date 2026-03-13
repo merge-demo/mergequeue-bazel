@@ -5340,7 +5340,7 @@ diethylacetal
 dribber
 demurrage
 despotize
-diatomacean
+diatomacean 1
 decimalized
 demibombard 1
 disguising
