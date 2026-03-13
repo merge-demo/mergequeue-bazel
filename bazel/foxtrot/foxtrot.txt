@@ -11001,7 +11001,7 @@ fumblingness
 fumed
 fluidiser
 frigging
-freeport
+freeport 1
 freshly
 fortilage
 fordable
