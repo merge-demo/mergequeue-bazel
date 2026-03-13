@@ -24561,7 +24561,7 @@ chelidon
 cantate
 cophosis
 copia
-clapped
+clapped 1
 copiapite
 copyboy 1
 copyboys
