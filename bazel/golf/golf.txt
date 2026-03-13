@@ -7969,7 +7969,7 @@ gynecologic 1
 getups
 grippy
 glandiform
-grandiosity
+grandiosity 1
 gudok
 gothonic
 ganglionectomy
