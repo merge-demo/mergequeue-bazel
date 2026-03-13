@@ -29848,7 +29848,7 @@ capsumin
 cross
 circummeridian
 cablets
-coronillo
+coronillo 1
 chronos
 cryptopin
 calculate
