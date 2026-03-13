@@ -15292,7 +15292,7 @@ dolomite
 derries 1
 dose
 dolomitic
-descriptives
+descriptives 1
 dorididae
 dryfarmer
 dumpty
