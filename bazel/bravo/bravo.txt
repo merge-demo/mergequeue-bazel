@@ -3929,7 +3929,7 @@ bdelliums
 brownist
 bdelloid
 bdellometer
-boarts
+boarts 1
 booksellerish
 bombardier
 bocstaff
