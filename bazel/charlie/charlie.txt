@@ -14878,7 +14878,7 @@ chasmy
 cytophagic
 cytophagous
 cytopharynx
-coldturkey
+coldturkey 1
 countergabble 1
 coprozoic
 cytophil
