@@ -6709,7 +6709,7 @@ grattage
 gewgawed
 growse
 grittle
-gardenize
+gardenize 1
 goosey 1
 goup
 gypsine
