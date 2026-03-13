@@ -2020,7 +2020,7 @@ bankcard
 bethought
 banky
 banknote
-bristly
+bristly 1
 biophysicist
 banknotes
 brasserie
