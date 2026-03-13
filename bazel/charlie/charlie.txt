@@ -27617,7 +27617,7 @@ clientry
 caesuras
 cowages
 cowardy
-cowardice
+cowardice 1
 chrobat
 cowardish
 cannibalistic
