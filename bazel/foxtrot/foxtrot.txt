@@ -4075,7 +4075,7 @@ formants
 foppishness
 finitude 1
 flushable
-fluking
+fluking 1
 frijoles 1
 finitudes
 frontage
