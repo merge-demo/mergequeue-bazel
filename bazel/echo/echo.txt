@@ -11230,7 +11230,7 @@ enforcers 1
 ethine
 electropuncture
 evangelic
-evangelical
+evangelical 1
 endoplastron
 evangelically
 erector
