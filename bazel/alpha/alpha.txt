@@ -4073,7 +4073,7 @@ allowanced
 anisosthenic
 aldrin
 admits
-admittance
+admittance 1
 admitted
 agitpunkt
 ardoise
