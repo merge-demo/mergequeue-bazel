@@ -4588,7 +4588,7 @@ disbarment
 dendrolagus
 discharging
 dustlike
-dolichocrany
+dolichocrany 1
 desperance
 depths
 disusing
