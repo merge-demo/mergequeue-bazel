@@ -5256,7 +5256,7 @@ endopelvic
 encyclopaedist
 endoperidium
 epoptes
-endophagous
+endophagous 1
 ephebeion
 episiocele 1
 expungers
