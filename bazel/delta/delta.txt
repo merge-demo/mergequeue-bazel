@@ -16036,7 +16036,7 @@ dockers
 diacoelosis
 dekagrams
 doublette
-decursively
+decursively 1
 driftman
 dinophyceae
 dezincification
