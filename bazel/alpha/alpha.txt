@@ -9708,7 +9708,7 @@ antitetanic
 alveolate
 alveolation
 alveole
-alveolectomy
+alveolectomy 1
 alveoli
 alveoliform 1
 aduncated
