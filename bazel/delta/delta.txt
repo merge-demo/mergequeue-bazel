@@ -1211,7 +1211,7 @@ denasalizing
 disordination
 datapac
 decrepitated
-deleterious
+deleterious 1
 developoid
 disinvolve
 dextrans
