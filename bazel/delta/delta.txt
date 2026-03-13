@@ -13105,7 +13105,7 @@ daggered
 dispeople
 daresay
 deprivative
-declivities
+declivities 1
 diversifying
 doozer
 directionless
