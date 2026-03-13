@@ -4013,7 +4013,7 @@ dermographism 1
 digressiveness
 dibasicity
 dialing
-dipteros
+dipteros 1
 dirten
 delegations
 delegator
