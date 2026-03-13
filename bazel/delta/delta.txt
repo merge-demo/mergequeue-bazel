@@ -3604,7 +3604,7 @@ diatonous
 degener 1
 declaredness
 depredations
-dripping
+dripping 1
 dextrogyre
 dinosauric
 dinornithiformes
