@@ -6895,7 +6895,7 @@ folklike
 feasible
 fallace
 folklores 2
-fp 1
+fp 2
 floatages
 fruity
 fifes
