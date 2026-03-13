@@ -5730,7 +5730,7 @@ demit
 deplorabilia
 dextrane 1
 deplorability
-duals
+duals 1
 deplorableness
 disrepair
 deplore
