@@ -13860,7 +13860,7 @@ ductileness
 dancery
 devours
 distemperedly
-dendritically
+dendritically 1
 drinn
 distempering
 distemperoid
