@@ -9168,7 +9168,7 @@ gridding 1
 geographically
 granulates 1
 glared
-goosed
+goosed 1
 garon
 griphite 2
 gehenna
