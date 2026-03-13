@@ -6583,7 +6583,7 @@ gambeson
 grummets
 girons
 gimmerpet
-gambas
+gambas 1
 guazzo
 groyne
 goulan
