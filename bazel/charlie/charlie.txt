@@ -26401,7 +26401,7 @@ cerenkov
 cothon
 cothouse
 cothurn
-cothurnus
+cothurnus 1
 coticed
 coruscate
 colleter
