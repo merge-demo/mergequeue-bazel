@@ -5647,7 +5647,7 @@ germanics
 gubernacular
 geyserine
 gingalls
-gastralgic
+gastralgic 1
 gobbling 1
 growsome 1
 grubbiest
