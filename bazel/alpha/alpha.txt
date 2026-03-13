@@ -9700,7 +9700,7 @@ anecdotist
 asmack
 anaemic
 alveary
-alvearies
+alvearies 1
 advent
 alvearium
 alveolariform
