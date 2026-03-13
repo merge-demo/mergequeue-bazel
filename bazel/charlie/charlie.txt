@@ -12513,7 +12513,7 @@ cassino 1
 chrysorin
 corimelaenidae
 chromopsia
-chromoptometer
+chromoptometer 1
 colourationally
 ceasmic
 chromoptometrical
