@@ -5875,7 +5875,7 @@ bluer
 blackman
 begaudy
 bellweed
-beggardom
+beggardom 1
 bretons 1
 butterbur
 bellwether
