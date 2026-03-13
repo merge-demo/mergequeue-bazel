@@ -7154,7 +7154,7 @@ gores
 goldenness 1
 guango
 gingerbready
-giggler
+giggler 1
 gastrotaxis
 gabbros
 glistering
