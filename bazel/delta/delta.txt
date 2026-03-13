@@ -1501,7 +1501,7 @@ donmeh
 dcb
 depressure
 deaccessioning
-drawbolt
+drawbolt 1
 dingbats
 draughts
 definiendum
