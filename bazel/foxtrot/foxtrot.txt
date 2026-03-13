@@ -4364,7 +4364,7 @@ foresleeve
 finagle
 feebler
 foraramina
-foreacquaint
+foreacquaint 1
 fencer
 fuliginously
 fise
