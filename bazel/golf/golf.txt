@@ -4406,7 +4406,7 @@ gloss
 gynogenetic
 gemmated
 grides 2
-gumdigger
+gumdigger 1
 ghoulishness 1
 gurdwara
 ganggang 1
