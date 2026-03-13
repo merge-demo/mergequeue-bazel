@@ -4055,7 +4055,7 @@ genesic
 ginorite
 giantish
 glum
-gastritic
+gastritic 1
 grisettes
 gelatines
 gilliflower
