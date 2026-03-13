@@ -2467,7 +2467,7 @@ arabizes
 airily
 antiperthite
 apprehendingly
-acoasm
+acoasm 1
 acetin
 almogavar
 agregation
