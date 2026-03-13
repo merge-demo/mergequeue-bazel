@@ -6526,7 +6526,7 @@ donor
 descent
 despert
 dekameter
-diffracting
+diffracting 1
 deschool
 dirtbird
 dreggily
