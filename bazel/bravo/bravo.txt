@@ -16876,7 +16876,7 @@ burhead
 bichromatic 2
 bathysophic 1
 buffoonish
-bungle
+bungle 1
 baret
 betorn
 birostrated
