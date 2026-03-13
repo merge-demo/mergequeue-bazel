@@ -6933,7 +6933,7 @@ elling 1
 evocations
 entoplasm
 euxenites
-extravaganzas
+extravaganzas 1
 estreats
 exiled
 eudora
