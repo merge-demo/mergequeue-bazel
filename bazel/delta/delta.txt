@@ -6741,7 +6741,7 @@ designatum
 designedly
 designedness
 detachability
-delibate
+delibate 1
 designment
 destitutely
 djelab
