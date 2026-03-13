@@ -10018,7 +10018,7 @@ fringelet
 fruitier
 fringent
 feminacy
-fringetail
+fringetail 1
 foreplot
 fimbles
 farmerlike
