@@ -8668,7 +8668,7 @@ drumbling
 discoast
 diaspidine
 diaspirin
-dots
+dots 1
 dwt
 droumy
 downweigh
