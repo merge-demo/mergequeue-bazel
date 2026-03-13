@@ -6396,7 +6396,7 @@ gettings
 gohila
 gasproof
 glassworks
-gonotyl
+gonotyl 1
 granulitis
 gracer
 geoponic
