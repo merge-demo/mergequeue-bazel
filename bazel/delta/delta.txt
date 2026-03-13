@@ -8474,7 +8474,7 @@ dumfounderment
 deciares
 demioctagonal
 dispatchers
-diametral
+diametral 1
 diametric
 diamide
 diamides
