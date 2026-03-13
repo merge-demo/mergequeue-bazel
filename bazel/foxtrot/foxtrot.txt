@@ -1225,7 +1225,7 @@ fenders
 flexural
 flinched
 fatuities
-feodatory
+feodatory 1
 freieslebenite
 funkias
 formene
