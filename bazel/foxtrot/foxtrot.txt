@@ -8047,7 +8047,7 @@ fourteenthly
 forestation
 faceup
 fructiculture
-foresteep
+foresteep 1
 flockmaster 1
 feyest
 flowerist
