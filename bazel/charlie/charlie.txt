@@ -15778,7 +15778,7 @@ crocoite
 cleansers
 codescendant
 cleanses
-cynosura
+cynosura 1
 cleanskin
 cleanskins 1
 cleanup
