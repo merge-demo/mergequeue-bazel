@@ -10595,7 +10595,7 @@ amygdule
 affirmative
 amigos
 amiidae
-amyl
+amyl 1
 ainu
 amylan
 aphorismatic
