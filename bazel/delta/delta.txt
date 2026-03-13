@@ -10785,7 +10785,7 @@ dipterus
 dotterel
 diptychs 1
 differencing
-dipware
+dipware 1
 diver
 disposal
 disadvantageous
