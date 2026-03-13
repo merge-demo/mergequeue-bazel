@@ -6325,7 +6325,7 @@ geophysics
 gruneritization
 grubstaker
 goblins
-goldenpert
+goldenpert 1
 gallivanters
 gebang
 gobo
