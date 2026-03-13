@@ -13642,7 +13642,7 @@ dissyllabizing
 dissyllable
 dialecticism
 dashboard
-dignitarial
+dignitarial 1
 distractedness
 dolce
 def
