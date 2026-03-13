@@ -1052,7 +1052,7 @@ eyeless
 endoskeleton
 eqpt
 edgar
-expatiatory
+expatiatory 1
 edgeboned 1
 eringos
 eagerly
