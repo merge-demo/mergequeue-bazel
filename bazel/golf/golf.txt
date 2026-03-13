@@ -2562,7 +2562,7 @@ gobangs
 ganch 1
 generalities
 grig
-grubbies
+grubbies 1
 gain
 guilder
 gynecium
