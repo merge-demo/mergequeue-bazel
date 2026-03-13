@@ -13611,7 +13611,7 @@ englishwomen
 expurgates
 empedoclean
 effossion
-elinvar
+elinvar 1
 epsilon
 epiphytically
 eremurus
