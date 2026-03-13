@@ -6791,7 +6791,7 @@ ganglioside
 gossiping
 geront
 gymnogyps
-gentilitial
+gentilitial 1
 gyrostatics
 genal
 genros
