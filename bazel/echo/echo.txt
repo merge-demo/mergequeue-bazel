@@ -2968,7 +2968,7 @@ elicits
 engagee
 equaeval
 epihydrinic
-emaciate
+emaciate 1
 elides
 electrotropism
 europiums
