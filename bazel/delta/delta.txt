@@ -15821,7 +15821,7 @@ dorsicornu
 dorsiflex
 does
 dorsiflexion
-deuteron
+deuteron 1
 detects
 diacetic
 deluge
