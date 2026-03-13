@@ -12517,7 +12517,7 @@ chromoptometer 1
 colourationally
 ceasmic
 chromoptometrical
-coadjacency
+coadjacency 1
 chromoscopy
 capacitances
 coobah
