@@ -2487,7 +2487,7 @@ cabalists 1
 candid
 canadianization
 curchef
-copperish
+copperish 1
 conject
 conversive
 candidacy
