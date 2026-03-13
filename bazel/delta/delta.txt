@@ -4230,7 +4230,7 @@ defeasibleness
 delphiniums
 dossal
 delphinoidine
-distaffs
+distaffs 1
 delphocurarine
 dermatopsy
 decoherer
