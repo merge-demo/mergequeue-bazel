@@ -4249,7 +4249,7 @@ frogmouths 1
 fracases
 freakishness 1
 fatting
-fireplug
+fireplug 1
 firepot
 foreflank
 fructoside 2
