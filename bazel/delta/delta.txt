@@ -15967,7 +15967,7 @@ desponding
 dune
 dea 1
 dissocial
-dialogize
+dialogize 1
 dasein
 dukhn
 dotkin
