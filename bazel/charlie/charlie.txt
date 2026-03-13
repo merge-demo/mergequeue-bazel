@@ -23858,7 +23858,7 @@ contrives
 control
 controling
 controllable
-controllably
+controllably 1
 controller
 churner
 costophrenic
