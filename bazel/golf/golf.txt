@@ -6862,7 +6862,7 @@ gypsied
 glauconite
 granulomas
 gaffsman
-gonosphere
+gonosphere 1
 grisettish 1
 graphics
 gorbal
