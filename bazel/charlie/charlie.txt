@@ -2220,7 +2220,7 @@ circumfusile
 capotes
 campshed
 campsheeting 1
-campsite 1
+campsite 2
 compasser
 campsites
 coronofacial
