@@ -859,7 +859,7 @@ fantasms 1
 forsloth
 fractable
 finked
-fustigation
+fustigation 1
 flowage
 flakes
 flavicant
