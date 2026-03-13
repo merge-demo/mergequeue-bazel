@@ -5518,7 +5518,7 @@ granadillo
 glutinously 1
 grudgeons 1
 greencoat
-glob
+glob 1
 gestured
 gnetum
 graduand 1
