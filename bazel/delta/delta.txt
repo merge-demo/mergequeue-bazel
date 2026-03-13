@@ -3908,7 +3908,7 @@ derivation
 dejects
 drake 1
 dejeration
-dejeuner
+dejeuner 1
 dekadrachm
 dekagramme
 doggerelize 1
