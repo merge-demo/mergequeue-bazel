@@ -2967,7 +2967,7 @@ droil
 dolt
 deducibility
 drawstop
-deducted
+deducted 1
 devolatilized
 disseisoress
 doxycycline
