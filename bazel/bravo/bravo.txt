@@ -2113,7 +2113,7 @@ bantayan
 buckshots
 bidstand
 bantam
-bantamize
+bantamize 1
 bismar
 burette
 banteng
