@@ -17978,7 +17978,7 @@ deseasonalize
 dukkeripen
 dehydrase
 dukuma
-dulat
+dulat 1
 dulcamara
 diverticulum
 dispersedly
