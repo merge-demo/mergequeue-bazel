@@ -10134,7 +10134,7 @@ falchions
 finalize 1
 fricatives
 frivolousness
-foray
+foray 1
 faunula
 felled
 forgives
