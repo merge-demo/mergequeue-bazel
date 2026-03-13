@@ -12715,7 +12715,7 @@ era 1
 earcockle
 energizing 1
 exophasic
-exalted
+exalted 1
 exophthalmia
 embloom
 exenterating
