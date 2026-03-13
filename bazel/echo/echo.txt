@@ -14199,7 +14199,7 @@ equidistance 1
 exurge
 exuscitate
 enlists
-effecters
+effecters 1
 enow
 equiradiate
 exerciser
