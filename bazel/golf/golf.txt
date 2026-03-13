@@ -10242,7 +10242,7 @@ gossypin
 graminivore
 glycogenase
 guiltsick
-genesee
+genesee 1
 generating
 guimbard
 gorsehatch
