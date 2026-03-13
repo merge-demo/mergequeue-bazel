@@ -22840,7 +22840,7 @@ agamic
 apanaging
 aedilitian
 atmospherically
-atmospherics
+atmospherics 1
 alkalizing
 abscessroot
 atmospherology
