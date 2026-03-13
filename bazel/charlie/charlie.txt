@@ -16623,7 +16623,7 @@ clewed
 clos
 clodknocker
 curiologic
-closable
+closable 1
 closeable
 closecross
 closed
