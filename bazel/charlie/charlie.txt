@@ -21968,7 +21968,7 @@ configurationally
 configurations
 configurative
 configure
-configures
+configures 1
 coxcombry
 confinable
 confine
