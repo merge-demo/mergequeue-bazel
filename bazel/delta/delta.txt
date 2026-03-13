@@ -1077,7 +1077,7 @@ darshan
 dampening
 dorsomesal
 darsonval
-deontology
+deontology 1
 disbanding
 dartagnan
 darters
