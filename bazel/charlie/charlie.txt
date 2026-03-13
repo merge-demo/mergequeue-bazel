@@ -2548,7 +2548,7 @@ candlepins
 chemist
 cerevis 1
 candler
-candlerent
+candlerent 1
 concealed
 candlers
 casework
