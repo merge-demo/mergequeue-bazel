@@ -4398,7 +4398,7 @@ abrogative
 agalinis
 achieve
 artistess
-adulteresses
+adulteresses 1
 adultery 1
 autohypnotic
 antifebrile
