@@ -2310,7 +2310,7 @@ fast
 fixities
 fixatifs
 flagitious
-felis
+felis 1
 franchises
 feminizes
 friday
