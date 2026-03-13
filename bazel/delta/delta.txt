@@ -11454,7 +11454,7 @@ distorted
 desertless
 diverted
 discobolos
-dewiest
+dewiest 1
 disbelieving
 degassing
 downcomes
