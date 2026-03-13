@@ -10950,7 +10950,7 @@ dorsoradial 1
 digressions
 disadvance
 dreamingful
-disadvancing
+disadvancing 1
 disbursals
 disadvantageousness
 deminude
