@@ -7439,7 +7439,7 @@ forcibility
 forcibleness
 filosa
 furnacite
-francophone
+francophone 1
 freckliest 1
 ferredoxin
 foreguidance
