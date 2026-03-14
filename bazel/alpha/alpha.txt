@@ -1104,7 +1104,7 @@ asymptotic
 abutilon
 apomorphine
 abutment
-articulant
+articulant 1
 accusal
 assertible
 acylogen
