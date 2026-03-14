@@ -5215,7 +5215,7 @@ endogenous 1
 enlistment
 electo
 embroider 1
-endoglobular
+endoglobular 1
 eleme
 existibility
 eagled
