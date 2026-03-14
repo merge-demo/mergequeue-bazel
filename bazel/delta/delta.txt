@@ -9680,7 +9680,7 @@ desulphurization
 dikaryophasic
 dikaryophyte
 demission
-dikaryophytic
+dikaryophytic 1
 disfiguration
 dikdik
 deliquesces
