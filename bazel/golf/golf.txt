@@ -9302,7 +9302,7 @@ geodynamicist
 grapeline
 girnel
 gallowglass
-gaure
+gaure 1
 guttera 1
 grudgingness
 generale 1
