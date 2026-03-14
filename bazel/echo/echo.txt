@@ -6512,7 +6512,7 @@ epistropheal
 erythrochroism
 euphratean
 exstruct
-euphonicalness
+euphonicalness 1
 entocyst
 enlivens
 erubescence
