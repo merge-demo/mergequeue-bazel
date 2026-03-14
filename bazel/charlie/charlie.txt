@@ -31513,7 +31513,7 @@ coservant
 cursa
 curse
 cursedly
-cursedness
+cursedness 1
 calciferous
 cutaneous
 cursen
