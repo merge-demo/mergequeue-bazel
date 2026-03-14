@@ -7633,7 +7633,7 @@ achoke
 archership
 alchemizing
 alchimy
-amphicarpic
+amphicarpic 1
 antisepticist
 alcidine
 abstracter
