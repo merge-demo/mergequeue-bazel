@@ -6690,7 +6690,7 @@ aimak
 abolitionize
 allotypic 1
 azotin
-autocamp
+autocamp 1
 artocarpad
 armisonous
 autogiros
