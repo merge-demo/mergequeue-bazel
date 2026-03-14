@@ -7761,7 +7761,7 @@ eggshells
 executable
 epidiascope
 engraff
-ecce
+ecce 1
 epichilia
 egoism
 embrocating
