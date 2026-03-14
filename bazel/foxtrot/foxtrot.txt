@@ -1623,7 +1623,7 @@ facet 1
 faxed
 futilities
 farandole
-formicoidea
+formicoidea 1
 framework
 frothiest
 feltmaking
