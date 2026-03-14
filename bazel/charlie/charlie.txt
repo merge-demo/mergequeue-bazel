@@ -24097,7 +24097,7 @@ converters
 convertibility 1
 chorioretinal
 converting
-compromisable
+compromisable 1
 cackling
 chude
 computerizable
