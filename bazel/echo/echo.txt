@@ -9811,7 +9811,7 @@ exergue
 emunctories
 exprobrate
 estampage
-empiric
+empiric 1
 enucleating 1
 evolving
 estampede
