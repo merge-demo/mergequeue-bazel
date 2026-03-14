@@ -12376,7 +12376,7 @@ chromatopathy 1
 celebe
 chromatophil
 chromatophile
-chromatophilic
+chromatophilic 1
 changemaker
 chromatophilous
 chromatophobia
