@@ -10243,7 +10243,7 @@ fgrid
 fjarding
 firiness
 fishweed
-fennecs
+fennecs 1
 flamingoes
 foundationed
 ferronickel
