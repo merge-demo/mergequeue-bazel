@@ -6515,7 +6515,7 @@ exstruct
 euphonicalness 1
 entocyst
 enlivens
-erubescence
+erubescence 1
 excludable
 englerophoenix
 estimative
