@@ -20429,7 +20429,7 @@ artar
 ampery
 arrojadite
 artcraft
-antitypes
+antitypes 1
 acceptableness
 appeared
 adaptively
