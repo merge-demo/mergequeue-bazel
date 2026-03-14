@@ -2326,7 +2326,7 @@ errorful
 escalate
 encrypting
 eyras
-electroacoustic
+electroacoustic 1
 electroacoustical
 elfkin
 exradius
