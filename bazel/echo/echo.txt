@@ -13221,7 +13221,7 @@ enrheum
 enzooty
 explainable
 expropriated
-explainableness
+explainableness 1
 eductor
 epiphytism
 eldred
