@@ -1302,7 +1302,7 @@ creatural
 calgary
 caliban
 cunea
-calaverite
+calaverite 1
 caliber
 compulsatory
 calibers
