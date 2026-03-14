@@ -9549,7 +9549,7 @@ bothridium
 barque
 burucha
 boeotia
-bogue
+bogue 1
 bluejack
 battlements
 ballhawk
