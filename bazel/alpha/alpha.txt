@@ -14213,7 +14213,7 @@ asylums 1
 adulterous
 aedeagal
 actiniarian
-anteroexternal
+anteroexternal 1
 anterofixation
 autobahns
 anastaltic
