@@ -8109,7 +8109,7 @@ codiniac
 coracosteon
 continent
 carcer
-chaffron
+chaffron 1
 clavicornia
 chaffs
 chaffseed
