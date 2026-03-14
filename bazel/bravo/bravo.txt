@@ -6902,7 +6902,7 @@ beshade
 begrudges 1
 beslaver
 balmony
-beshadowed
+beshadowed 1
 beauxite
 briolette
 biplosive
