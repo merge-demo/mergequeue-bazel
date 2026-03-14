@@ -4663,7 +4663,7 @@ demivolt
 disprobative
 demissory
 demystify
-deus
+deus 1
 demystification
 demurring
 dismantle
