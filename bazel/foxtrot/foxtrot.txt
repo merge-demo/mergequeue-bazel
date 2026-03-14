@@ -8582,7 +8582,7 @@ fossilize
 fornicatrix
 fieldman
 frameshift
-fullfil
+fullfil 1
 fissionable 1
 fungating
 farmsteading
