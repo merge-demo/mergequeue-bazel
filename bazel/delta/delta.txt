@@ -15740,7 +15740,7 @@ doris
 dorsomedial
 diaxonic 1
 disyntheme
-dater
+dater 1
 dicht
 drubbly
 dicyanine
