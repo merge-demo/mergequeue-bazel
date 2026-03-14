@@ -14544,7 +14544,7 @@ divisibility
 divisibilities
 divisible
 division 1
-dollop
+dollop 1
 degomme 1
 distill
 divisional
