@@ -9962,7 +9962,7 @@ gritless
 guarrau
 gogglers
 glegness
-glyptic
+glyptic 1
 googols
 gipsyfy
 galvayned
