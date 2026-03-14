@@ -4708,7 +4708,7 @@ gettered
 gynomonecious 1
 gise
 granges
-gooder
+gooder 1
 gibbsite
 gauping
 geisothermal
