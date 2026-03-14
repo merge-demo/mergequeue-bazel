@@ -8048,7 +8048,7 @@ forestation
 faceup
 fructiculture
 foresteep 1
-flockmaster 1
+flockmaster 2
 feyest
 flowerist
 frontward
