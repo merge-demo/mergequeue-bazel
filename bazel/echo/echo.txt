@@ -7596,7 +7596,7 @@ ebbet
 extricate 1
 epichorion
 epicycle
-epicyemate
+epicyemate 1
 eeyuch
 experiments
 esogastritis
