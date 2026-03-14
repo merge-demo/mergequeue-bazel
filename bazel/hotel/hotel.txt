@@ -9772,7 +9772,7 @@ hozsacf
 hozsorecie
 hozsst
 hozt
-hoztafyriq
+hoztafyriq 1
 hoztvafs
 hozu
 hozun
