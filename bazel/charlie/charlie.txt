@@ -2446,7 +2446,7 @@ canch
 centgener
 cancha
 canchalagua
-cropsickness 1
+cropsickness 2
 cherubically
 cancion
 cancionero
