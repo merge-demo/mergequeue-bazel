@@ -7963,7 +7963,7 @@ bilineate
 biceps 1
 bibliopolism
 bedlight
-berhyming
+berhyming 1
 bichloride
 borazons
 bioxalate
