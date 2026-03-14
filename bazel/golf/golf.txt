@@ -3911,7 +3911,7 @@ gateworks 1
 glaciological
 graders
 gorgonize
-gonotome
+gonotome 1
 grippier
 glarily
 galeoid
