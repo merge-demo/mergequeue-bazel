@@ -4911,7 +4911,7 @@ carsick
 carsickness
 caviteno 1
 carrottop
-carstone
+carstone 1
 cart
 counterpoising
 cartable
