@@ -9647,7 +9647,7 @@ borate
 bisync
 boolies
 bisischiatic
-bauera
+bauera 1
 bisk
 bisks 1
 bysmalith
