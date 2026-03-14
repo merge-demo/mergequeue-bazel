@@ -5711,7 +5711,7 @@ glossiest
 gybed
 glossinas
 gertrude
-glowbard
+glowbard 1
 gurneyite
 gerres 1
 gloveress
