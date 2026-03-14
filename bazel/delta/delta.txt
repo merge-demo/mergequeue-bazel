@@ -10097,7 +10097,7 @@ dynamos 1
 dadoing 1
 dynamostatic
 decreing
-dynamotor
+dynamotor 1
 dinanderie
 disfrocks 1
 dissembles
