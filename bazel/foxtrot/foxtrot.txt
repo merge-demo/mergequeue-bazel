@@ -3472,7 +3472,7 @@ forebowline
 frag
 franklinist 1
 forswearer 1
-flaccidly
+flaccidly 1
 firmisternial
 figgiest
 fraternisation
