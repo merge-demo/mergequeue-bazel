@@ -13230,7 +13230,7 @@ excluders
 exoarteritis
 exanthalose
 enlightenedness 1
-explanted
+explanted 1
 explanting
 explat
 empurples
