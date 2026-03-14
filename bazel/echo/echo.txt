@@ -11788,7 +11788,7 @@ epithelioid
 extracorpuscular 1
 euripidean
 ekphore
-epimerise
+epimerise 1
 extrospective 1
 exorcises
 epirot
