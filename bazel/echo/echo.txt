@@ -3563,7 +3563,7 @@ epigonus 1
 entrefer
 embolize
 eupeptic
-epididymal
+epididymal 1
 entocone
 embolomalerism
 enervator
