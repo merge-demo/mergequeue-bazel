@@ -3216,7 +3216,7 @@ foredetermination
 flutterers
 flavourer
 flotages
-fringiness
+fringiness 1
 foods
 fogman
 feloness
