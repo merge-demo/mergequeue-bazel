@@ -1047,7 +1047,7 @@ elberta
 expeditions
 exadversum
 etchareottine
-excisable
+excisable 1
 eyeless
 endoskeleton
 eqpt
