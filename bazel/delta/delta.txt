@@ -5994,7 +5994,7 @@ disciplinability
 dilettantist
 discommoded
 dept
-diaschistic
+diaschistic 1
 depth
 dispraise
 droopy
