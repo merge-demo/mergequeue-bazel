@@ -9376,7 +9376,7 @@ gloved 1
 galenobismutite 1
 gobelin
 glaymore
-gelatinized
+gelatinized 1
 geneserin
 graciosity 2
 galtonia 1
