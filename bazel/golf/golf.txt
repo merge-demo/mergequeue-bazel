@@ -3158,7 +3158,7 @@ geoscientists 1
 geochronologically
 gellant
 gavotte
-glowered
+glowered 1
 ginnings
 goat
 graduating
