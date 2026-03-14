@@ -207,7 +207,7 @@ greyest
 gaius
 glug
 gambiers
-gentleness
+gentleness 1
 graphing
 gliadines 1
 gallish 1
