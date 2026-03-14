@@ -6358,7 +6358,7 @@ gymnolaemata
 gloriosa
 gippo
 gollywobbler
-gambelli
+gambelli 1
 ganoblast
 garnitures
 gustables
