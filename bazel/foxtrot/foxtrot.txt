@@ -11745,7 +11745,7 @@ flneur
 foresin
 fremdly
 florimanist
-flanking
+flanking 1
 followings 1
 factorage
 fumados
