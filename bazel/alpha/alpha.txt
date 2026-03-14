@@ -8478,7 +8478,7 @@ alkanets
 antinomy
 amebocyte
 autophyllogeny
-acanthosis
+acanthosis 1
 alkapton
 alkaptone
 ascent
