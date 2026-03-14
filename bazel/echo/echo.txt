@@ -9616,7 +9616,7 @@ eventlessness
 exceptionary
 ensearch
 esoterize
-esotropia
+esotropia 1
 esp
 eparchial
 eventless
