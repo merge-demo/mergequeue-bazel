@@ -17234,7 +17234,7 @@ batardeau 1
 bulten 1
 bandores
 borsch
-biltongs
+biltongs 1
 bulwarked
 blanketers
 basongo
