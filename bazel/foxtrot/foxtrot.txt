@@ -1423,7 +1423,7 @@ fallibly 1
 firewood
 futchell
 forbar
-ferreted
+ferreted 1
 fattest
 finickin
 floorer
