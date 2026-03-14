@@ -2017,7 +2017,7 @@ desugars
 decaedron
 decaffeinate
 depicted
-disformity
+disformity 1
 decaffeinize
 disregardable
 dasypodidae 1
