@@ -22090,7 +22090,7 @@ conformations
 canoe
 cedrium
 conformator
-conformed
+conformed 1
 conformer
 coercibleness
 cumbered
