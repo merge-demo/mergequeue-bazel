@@ -2787,7 +2787,7 @@ floppier
 fiction
 fraze
 festivity 1
-forker
+forker 1
 feston
 flatly 1
 fluorimeter
