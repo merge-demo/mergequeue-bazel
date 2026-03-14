@@ -3375,7 +3375,7 @@ fattener
 furriners
 fibromatous
 fossores 1
-foveolate
+foveolate 1
 fascili 1
 foulnesses
 fieldleft
