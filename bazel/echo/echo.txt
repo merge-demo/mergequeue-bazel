@@ -7821,7 +7821,7 @@ extenuation
 echolalia
 exodermis 1
 empirical
-endopoditic
+endopoditic 1
 equivocators
 extrudes
 exorcization
