@@ -4562,7 +4562,7 @@ advertizes
 atypicality
 advice
 advices 1
-atomatic
+atomatic 1
 antas
 advisableness
 amidon
