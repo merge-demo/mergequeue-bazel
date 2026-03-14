@@ -10691,7 +10691,7 @@ chastisement
 chimneyman
 chimneypiece
 chimopelagic
-chymotrypsinogen
+chymotrypsinogen 1
 creedalism
 coilsmith
 canthari
