@@ -14293,7 +14293,7 @@ ditrichotomous
 ditriglyphic
 delating
 dragropes
-duotones
+duotones 1
 desireable
 dict
 decolorized
