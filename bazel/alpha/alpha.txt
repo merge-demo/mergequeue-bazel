@@ -2609,7 +2609,7 @@ abacli
 amygdalotomy
 accrescent
 atheist
-agapeic
+agapeic 1
 allocated
 auxoflore
 abutters
