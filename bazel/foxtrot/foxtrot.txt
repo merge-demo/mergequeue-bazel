@@ -4188,7 +4188,7 @@ fingent
 floodtime
 firebrick
 foulmouthed 1
-foretokening 1
+foretokening 2
 firebug 1
 flagstones
 fado
