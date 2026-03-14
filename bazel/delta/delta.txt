@@ -1480,7 +1480,7 @@ dispulp
 dazement
 deckhouses
 dazes
-dazzle
+dazzle 1
 dawnstreak
 discriminative
 diffusor
