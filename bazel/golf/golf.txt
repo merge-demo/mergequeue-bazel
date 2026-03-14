@@ -2471,7 +2471,7 @@ gourinae
 gemsbuck 1
 guardful
 greasy
-gimble
+gimble 1
 gonopodial
 gemmology
 globality
