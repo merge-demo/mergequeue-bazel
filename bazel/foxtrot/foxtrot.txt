@@ -4848,7 +4848,7 @@ foliums 1
 froebelism
 footfall
 fustigate
-floor
+floor 1
 fickleness 1
 fooless 1
 flagstick
