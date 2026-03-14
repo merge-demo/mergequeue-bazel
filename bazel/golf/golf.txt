@@ -9372,7 +9372,7 @@ germanhood 1
 germigenous
 grannyknot
 garnishry 1
-gloved
+gloved 1
 galenobismutite 1
 gobelin
 glaymore
