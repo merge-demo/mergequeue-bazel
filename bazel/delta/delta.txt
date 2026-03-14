@@ -10161,7 +10161,7 @@ dues
 diverticulate 1
 diploblastic
 defogging
-distraint
+distraint 1
 downy
 deuteranomal 2
 dasypaedes
