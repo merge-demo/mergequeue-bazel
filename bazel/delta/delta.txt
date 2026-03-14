@@ -16420,7 +16420,7 @@ dodecahedrons
 dozens
 dishpan
 dimorphous
-deviousness
+deviousness 1
 dozzle
 dozzled
 dr
