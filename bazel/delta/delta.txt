@@ -1408,7 +1408,7 @@ deleted
 demilitarize
 dispel
 downdale
-dismain
+dismain 1
 demonomanie
 dorsiflexor 1
 digitals
