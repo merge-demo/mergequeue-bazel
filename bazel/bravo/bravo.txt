@@ -5885,7 +5885,7 @@ belock 1
 basimesostasis
 belomancy
 belonephobia
-belonger
+belonger 1
 bagonet
 biased
 bronchophonic
