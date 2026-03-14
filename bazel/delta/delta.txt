@@ -15779,7 +15779,7 @@ dorp
 diphthongalize 1
 dorpers
 dorr
-doomage
+doomage 1
 deflorations
 dorsa
 dentiparous
