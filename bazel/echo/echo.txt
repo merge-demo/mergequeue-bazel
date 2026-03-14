@@ -11789,7 +11789,7 @@ extracorpuscular 1
 euripidean
 ekphore
 epimerise
-extrospective
+extrospective 1
 exorcises
 epirot
 elusion
