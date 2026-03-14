@@ -407,7 +407,7 @@ bailor 1
 brigadier
 backlogged
 bearcat
-babbled
+babbled 1
 backouts
 bheesties
 backpack
