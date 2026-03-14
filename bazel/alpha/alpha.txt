@@ -20757,7 +20757,7 @@ austenitic
 artilleryship 1
 autotherapy
 artillerist
-aetosaur
+aetosaur 1
 aguishness
 anthologizes
 autopsychic
