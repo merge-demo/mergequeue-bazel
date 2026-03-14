@@ -15297,7 +15297,7 @@ dorididae
 dryfarmer
 dumpty
 diabolical
-delusory
+delusory 1
 dwamish 1
 dolores
 dispenditure
