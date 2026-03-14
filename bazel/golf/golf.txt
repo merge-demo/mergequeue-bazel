@@ -7902,7 +7902,7 @@ gusty
 generic
 gramophonic
 gruelling
-gametangium
+gametangium 1
 goi
 gounau
 gentleheartedness
