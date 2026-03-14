@@ -14823,7 +14823,7 @@ doctorhood 1
 diethylenediamine
 doctorial
 disadjust
-demidog
+demidog 1
 doctorially
 doctoring
 doctorize
