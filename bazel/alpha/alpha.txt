@@ -11976,7 +11976,7 @@ adnexa
 axoneme
 aesthesia
 aeschynomene
-adosculation
+adosculation 1
 autobahnen
 anapnoic
 anapodeictic
