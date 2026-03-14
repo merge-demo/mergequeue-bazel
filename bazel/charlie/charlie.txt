@@ -7830,7 +7830,7 @@ chippable
 cervicobasilar
 cervicobregmatic
 cobitis
-cervicobuccal
+cervicobuccal 1
 cervicodynia
 cervicolabial
 cooeyed
