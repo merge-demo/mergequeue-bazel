@@ -2309,7 +2309,7 @@ edana
 expert 1
 essene
 entheal
-euphuism
+euphuism 1
 endosteum
 eval
 escalatory
