@@ -3364,7 +3364,7 @@ gessamine
 gonfanons
 gluside
 gibbar
-guttiferal
+guttiferal 1
 gundelet
 germinations
 gigglingly
