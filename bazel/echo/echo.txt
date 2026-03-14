@@ -438,7 +438,7 @@ ecardines
 extravagate
 ernest
 ecballium
-expugnable
+expugnable 1
 ecbole
 explained 1
 ellipsone
