@@ -9168,7 +9168,7 @@ fractostratus
 fiaschi 1
 florification
 feat
-foveole
+foveole 1
 folded
 federations
 formalizable
