@@ -8155,7 +8155,7 @@ eclectically
 erudit
 echeveria
 episcopate
-expulsions
+expulsions 1
 entosphere
 elaidinic
 estacade
