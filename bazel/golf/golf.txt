@@ -5121,7 +5121,7 @@ gourmander
 glycocholic 1
 gasless
 gascon
-glinting
+glinting 1
 glaucidium
 gainyield
 generalissima
