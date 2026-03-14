@@ -21632,7 +21632,7 @@ assayable
 afterpotential 1
 argyroneta
 assayed
-aphonous 1
+aphonous 2
 amorist
 assayers
 aphorists
