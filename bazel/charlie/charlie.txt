@@ -28764,7 +28764,7 @@ cres
 cresc
 comparativeness
 cordelier 1
-crescendo
+crescendo 1
 crescendoing
 crescendos
 crescentade
