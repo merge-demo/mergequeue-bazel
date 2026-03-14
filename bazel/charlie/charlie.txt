@@ -18591,7 +18591,7 @@ connex
 clanless
 coimplore 1
 coyn
-cosmometry
+cosmometry 1
 coinable
 coinage
 coinages
