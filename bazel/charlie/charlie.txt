@@ -2870,7 +2870,7 @@ canalised
 canopies
 clarigate
 corticated
-canopying
+canopying 1
 cours
 cyeses
 canopus
