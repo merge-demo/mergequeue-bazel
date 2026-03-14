@@ -4063,7 +4063,7 @@ epipodial
 ex 1
 enringing
 evangelised
-encyclopaedism
+encyclopaedism 1
 embroils
 epitheca
 enamelers
