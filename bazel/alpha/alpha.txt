@@ -10062,7 +10062,7 @@ ambivalence
 aiger
 ambiversion
 ambivert
-arrect
+arrect 1
 amble 1
 apanteles
 ambleocarpus
