@@ -6731,7 +6731,7 @@ gastronephritis
 gonidic
 genes
 gauges
-gyrostats
+gyrostats 1
 glomerate
 globulimeter
 geyseral

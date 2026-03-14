@@ -528,7 +528,7 @@ cadetship
 counterstamp
 cadettes
 colorists
-coprecipitating
+coprecipitating 1
 competence
 clogmaker
 carbuilder
