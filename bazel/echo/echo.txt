@@ -3248,7 +3248,7 @@ epidemic
 erects 1
 enclitical
 encephalotomy
-eyesore
+eyesore 1
 entrench
 episcleral
 emancipates
