@@ -7603,7 +7603,7 @@ devadasi
 deval
 devaloka
 drenched
-declinable
+declinable 1
 devaluates
 droppingly
 durandarte
