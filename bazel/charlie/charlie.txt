@@ -19516,7 +19516,7 @@ colporteurs
 colposcopy
 crocodiles
 cornstook
-colstaff
+colstaff 1
 cnidogenous 1
 congresswoman 1
 chasid
