@@ -1053,7 +1053,7 @@ darn
 darndest
 darnels
 destandardize
-diplohedral
+diplohedral 1
 dishes
 diacodium
 deas
