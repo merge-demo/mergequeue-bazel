@@ -6101,7 +6101,7 @@ gullibly
 gryphosaurus
 gigahertz
 gnessic 3
-gastromancy
+gastromancy 1
 golcondas
 grogging
 gnetales
