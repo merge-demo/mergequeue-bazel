@@ -14730,7 +14730,7 @@ doc
 dekametre
 declinedness
 darnation
-dioptrically
+dioptrically 1
 dedolomitize 1
 docetae
 dobbies
