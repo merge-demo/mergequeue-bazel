@@ -4479,7 +4479,7 @@ generaliter
 greffier
 graveyard
 gipsydom
-giddyhead 1
+giddyhead 2
 gepoun
 gugu
 galtonian
