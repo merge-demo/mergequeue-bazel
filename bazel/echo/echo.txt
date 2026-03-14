@@ -3181,7 +3181,7 @@ edict
 extortionists 1
 epiplastral
 exhaustiveness
-eom
+eom 1
 emmarble
 elaborate
 evinced
