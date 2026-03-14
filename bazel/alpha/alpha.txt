@@ -18540,7 +18540,7 @@ apostrophise
 androseme
 arborous
 arborvitaes
-arcticwards
+arcticwards 1
 amidine
 arrises
 attitudes
