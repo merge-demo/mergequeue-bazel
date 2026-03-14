@@ -9114,7 +9114,7 @@ curialities
 chartable
 charter
 charterer
-charterers
+charterers 1
 charterhouse
 chartering
 charterism
