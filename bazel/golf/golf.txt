@@ -6155,7 +6155,7 @@ gallification 1
 grammar
 gowiddie
 generalizing
-gyre
+gyre 1
 grommet
 garters
 gadfly
