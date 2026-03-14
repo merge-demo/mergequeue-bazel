@@ -2878,7 +2878,7 @@ forepreparation
 ferlies
 fetterlock
 flatfish
-forewing
+forewing 1
 foxship 1
 frisettes 1
 fantasize 1
