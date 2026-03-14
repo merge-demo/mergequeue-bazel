@@ -5551,7 +5551,7 @@ enfeebling
 eucarida
 epigrammatised
 edessan
-enfeeblish
+enfeeblish 1
 effectful
 epilimnetic
 euhemerizing
