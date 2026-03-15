@@ -4014,7 +4014,7 @@ digressiveness
 dibasicity
 dialing
 dipteros 1
-dirten
+dirten 1
 delegations
 delegator
 discomposedly
@@ -13596,7 +13596,7 @@ depuration
 daffodowndilly
 dieffenbachia
 dissertate
-discerping
+discerping 1
 dreariest
 dendritic
 doodia
