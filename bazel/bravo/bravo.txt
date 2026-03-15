@@ -12891,7 +12891,7 @@ bromizes
 bruin
 biblicolegal
 babassus
-burdenable
+burdenable 1
 birle
 bungmaker
 babka
