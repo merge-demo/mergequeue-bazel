@@ -17255,7 +17255,7 @@ debt
 disseizee
 droghlin
 discrepant
-diathermance
+diathermance 1
 didactic
 discountenancing
 discombobulating
