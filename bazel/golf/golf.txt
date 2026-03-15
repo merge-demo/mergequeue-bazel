@@ -4580,7 +4580,7 @@ grotesqueries
 gurts
 greenhorns
 gluelike
-gyrencephala
+gyrencephala 1
 gravicembalo 1
 gutturalized
 gilim
