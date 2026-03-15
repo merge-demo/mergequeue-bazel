@@ -6705,7 +6705,7 @@ berme
 bossiest
 bathe
 bologna
-bermensch
+bermensch 1
 brith
 bermes 1
 bourgeoisify
