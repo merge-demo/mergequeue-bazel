@@ -2024,7 +2024,7 @@ galactia
 grithman
 gauzy
 galatae
-goitrogenicity
+goitrogenicity 1
 groof
 gainsayers
 glacon
