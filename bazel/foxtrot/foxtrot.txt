@@ -1132,7 +1132,7 @@ flog
 falseheartedness
 fennels
 flexures
-flippers
+flippers 1
 filberts
 forefends
 flockling
