@@ -14045,7 +14045,7 @@ dishorner
 dragging 1
 dunlap
 depravation
-dextrotropous
+dextrotropous 1
 decommissioning
 dyspepsies 1
 dichlorohydrin
