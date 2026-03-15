@@ -12729,7 +12729,7 @@ domicilement
 durns
 dyslysin
 distrustfully
-disoxidate
+disoxidate 1
 diazotizing
 dislive
 defectoscope
