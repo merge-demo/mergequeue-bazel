@@ -2349,7 +2349,7 @@ gadinic
 glassy
 greengrocer
 gutturalisation
-grubbiness
+grubbiness 1
 gainturn
 guavaberry
 ghazal
