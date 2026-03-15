@@ -5269,7 +5269,7 @@ grenade
 goatish
 gullet 2
 gelsemiums
-glenohumeral
+glenohumeral 1
 genomes
 grouted 1
 garnets 1
