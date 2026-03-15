@@ -17566,7 +17566,7 @@ bobble
 bascule
 broadacre
 bothrops
-burgality
+burgality 1
 beaufort 1
 bouses
 blackpoll
