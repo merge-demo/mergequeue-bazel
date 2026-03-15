@@ -3489,7 +3489,7 @@ athenians 1
 additive
 acrogynous
 additivity
-apesthesia
+apesthesia 1
 aloysia
 additory
 augustin
