@@ -9783,7 +9783,7 @@ caudate
 cheliform
 crajuru
 curua
-chelingas
+chelingas 1
 cheliped
 chelys
 cydon
