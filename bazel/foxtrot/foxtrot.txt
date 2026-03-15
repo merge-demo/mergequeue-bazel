@@ -10925,7 +10925,7 @@ flavone
 factorizing
 ferreiro
 fub
-foehn
+foehn 1
 flexure
 field
 fulminatory
