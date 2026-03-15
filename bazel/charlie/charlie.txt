@@ -14697,7 +14697,7 @@ calixtus
 citatory
 canvassers
 cookery
-cite
+cite 1
 cenanthy
 citer
 citers
