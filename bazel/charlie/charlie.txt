@@ -1942,7 +1942,7 @@ constant
 camelopardus
 cloghad
 counterflashing 1
-camelry
+camelry 1
 camelus
 castalia
 camembert
