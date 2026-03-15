@@ -6292,7 +6292,7 @@ dehydrators
 dermatoplasm
 diapositive
 deluminize
-deozonizer
+deozonizer 1
 decolonization
 debatter
 dermatorrhagia
