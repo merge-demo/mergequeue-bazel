@@ -10339,7 +10339,7 @@ archivers
 agglutinator
 amerced
 acupressure
-abscam
+abscam 1
 apivorous 1
 attains
 anaphorically
