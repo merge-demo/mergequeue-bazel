@@ -4585,7 +4585,7 @@ gravicembalo 1
 gutturalized
 gilim
 graphometry
-glim
+glim 1
 galloper
 goobers
 gagger 1
