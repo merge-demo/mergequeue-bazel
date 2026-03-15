@@ -8824,7 +8824,7 @@ ammonolyses
 adolescency
 anthophore
 allobrogical
-abidance
+abidance 1
 absorption
 atturn
 allocate
