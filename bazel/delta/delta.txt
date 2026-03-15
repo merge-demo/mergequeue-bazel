@@ -2199,7 +2199,7 @@ directorship
 dissympathy 1
 decarburized
 disgraceful
-decarnated
+decarnated 1
 dongolese
 disinfective 1
 decartelization
@@ -4144,7 +4144,7 @@ documentary
 deadworks 1
 decimator
 dipodidae
-discomfited
+discomfited 1
 dolling
 datelined
 darnedest
@@ -16470,7 +16470,7 @@ diagramming
 dazed
 datiscin
 deodorizing
-dracone
+dracone 1
 decelerator
 draconian
 disagreeance
