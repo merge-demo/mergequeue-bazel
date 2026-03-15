@@ -5066,7 +5066,7 @@ duplicand
 denaturise
 disfigures
 dextrogyrate
-denaturization
+denaturization 1
 disparaging
 desensitizers
 dendraspis
