@@ -8419,7 +8419,7 @@ equals
 epizoon
 edemic
 emblossom
-exulceration
+exulceration 1
 epinasties
 epulones
 exchange
