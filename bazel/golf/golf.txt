@@ -3234,7 +3234,7 @@ gap
 ghosty
 gilgul
 goldenwing
-galoot
+galoot 1
 greatish
 getatability
 gally
