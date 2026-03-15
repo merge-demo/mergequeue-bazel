@@ -3746,7 +3746,7 @@ delegated
 disprove
 dehkan
 durmasts
-decimate
+decimate 1
 dehonestation
 disoccupied
 dehorn 1
