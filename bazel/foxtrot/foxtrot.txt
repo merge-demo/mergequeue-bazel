@@ -9830,7 +9830,7 @@ frogs
 fouler
 fortescue
 fordicidia
-flaggers
+flaggers 1
 fissileness
 frib
 fruitage 1
