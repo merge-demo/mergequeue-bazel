@@ -7527,7 +7527,7 @@ bonspell
 bashaws 1
 bedote
 breezeless
-banes
+banes 1
 boehmite
 bevilled
 butterbill
