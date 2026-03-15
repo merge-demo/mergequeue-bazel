@@ -5245,7 +5245,7 @@ factum 1
 fortemente
 fratcher
 flavoriness
-falangist
+falangist 1
 faveoli
 fitful
 fierceness
