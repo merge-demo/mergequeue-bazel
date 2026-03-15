@@ -4890,7 +4890,7 @@ guaranteeing
 gleam
 glozes
 gyrotheca
-gimme
+gimme 1
 grandstanding
 gladiola
 granatite
