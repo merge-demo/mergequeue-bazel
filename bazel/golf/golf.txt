@@ -2744,7 +2744,7 @@ gliadins 2
 guillotine
 gader
 gunboats
-gaedelian
+gaedelian 1
 grooms
 genoise
 gentiopicrin
