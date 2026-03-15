@@ -9191,7 +9191,7 @@ grippiest 1
 grill
 granulating
 grippiness
-gratulatory
+gratulatory 1
 glycolytically
 guanajuatite
 galvanometer
