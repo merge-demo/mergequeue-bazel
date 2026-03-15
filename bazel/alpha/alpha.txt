@@ -18071,7 +18071,7 @@ almsgiver
 arace
 apterygota
 arcanist
-abstricts
+abstricts 1
 apteryla
 alternance
 agentship
