@@ -11432,7 +11432,7 @@ diplomaed
 duplicitous 1
 discloud
 didache
-dingus
+dingus 1
 disclusion
 deadnesses
 dispauper
