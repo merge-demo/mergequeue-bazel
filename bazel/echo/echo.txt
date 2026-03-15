@@ -2628,7 +2628,7 @@ expansure
 exturb
 estimated
 eave
-eu
+eu 1
 ecthetically
 etherizing 1
 execrations
