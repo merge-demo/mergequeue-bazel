@@ -6785,7 +6785,7 @@ berserks
 barnumize 1
 berskin
 balize
-berhyme 2
+berhyme 3
 banjore
 bert
 blowhole
