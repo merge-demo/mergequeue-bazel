@@ -12611,7 +12611,7 @@ dankness
 daud
 dysyntribite
 driftfish
-deadhearted
+deadhearted 1
 deodorise
 definitise
 dephase
