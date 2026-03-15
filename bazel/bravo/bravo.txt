@@ -9741,7 +9741,7 @@ bisters
 baidak
 bruce
 bossies
-burdocks
+burdocks 1
 basifugal
 buffered
 bistipulate
