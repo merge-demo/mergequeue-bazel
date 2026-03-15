@@ -7402,7 +7402,7 @@ epembryonic
 equipollency
 eyres
 epencephala
-embittering
+embittering 1
 emprise
 ethidene
 enantiomorphously
