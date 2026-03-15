@@ -7710,7 +7710,7 @@ gunpowderous 1
 globus
 geomyid
 grizzliest
-goldworker
+goldworker 1
 gamins 1
 grouf
 glueing
