@@ -4417,7 +4417,7 @@ grammatist
 gloriam
 gleeted 1
 gazer
-gorget
+gorget 1
 grandezza 1
 gearcases
 gongs 1
