@@ -15922,7 +15922,7 @@ chimbs
 clep
 cakemaker
 comitant
-countertrippant
+countertrippant 1
 cleanly
 cleped
 clepsydra
