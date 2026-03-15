@@ -8662,7 +8662,7 @@ bimanal
 binoxalate
 bimanous
 bradsot
-bodysurf
+bodysurf 1
 bournless
 bimanually
 breechloading 1
