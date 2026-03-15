@@ -6193,7 +6193,7 @@ fog
 flrie
 frothier
 fluavile
-flubbed
+flubbed 1
 feudum
 foreread
 fairgoing
