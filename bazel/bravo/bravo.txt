@@ -12948,7 +12948,7 @@ berthold
 boardinghouses
 bootman 1
 boots
-bottoms
+bottoms 1
 blouson
 bittersweet
 brontograph
