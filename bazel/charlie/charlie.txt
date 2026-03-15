@@ -3495,7 +3495,7 @@ cons
 capsular
 conceitedness
 capsulation
-collegatary
+collegatary 1
 chainomatic
 chawbone
 capsulectomy
