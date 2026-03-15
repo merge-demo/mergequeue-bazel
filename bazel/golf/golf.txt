@@ -2219,7 +2219,7 @@ geoidal
 garmented 1
 gestational
 gooseskin
-goaves
+goaves 1
 gemwork
 gastrolith 1
 gymnosperms
