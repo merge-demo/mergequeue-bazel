@@ -8278,7 +8278,7 @@ graphophone 1
 grossulariaceae
 graphophonic
 gasteria
-graphoscope
+graphoscope 1
 glycoprotein
 grinderies
 gamestress
