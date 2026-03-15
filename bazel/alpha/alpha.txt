@@ -3504,7 +3504,7 @@ acyloxymethane
 agamobia
 addlebrained
 allegation
-addlehead
+addlehead 1
 arisaema
 addleheadedness
 addleness 1
