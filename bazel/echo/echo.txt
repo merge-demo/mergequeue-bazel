@@ -9357,7 +9357,7 @@ enveigle 1
 epilimnionia
 educable
 escalades
-escalating
+escalating 1
 escalations
 enkindle
 expectedly
