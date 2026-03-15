@@ -6545,7 +6545,7 @@ ballader
 birdshot
 besprizorni
 brustled
-becolor
+becolor 1
 berated
 bushful
 berates
