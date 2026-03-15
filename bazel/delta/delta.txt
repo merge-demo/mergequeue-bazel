@@ -8872,7 +8872,7 @@ degustation
 doziness
 depthwise
 diffeomorphism
-debituminize
+debituminize 1
 deflexure
 domiciliating
 dicacity
