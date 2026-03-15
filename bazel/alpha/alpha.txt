@@ -8788,7 +8788,7 @@ allyou
 aluminography
 allis
 aristocrat
-alliterate
+alliterate 1
 announceable
 acescence
 atwind
