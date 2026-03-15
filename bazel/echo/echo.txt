@@ -3677,7 +3677,7 @@ embryogenesis
 eunomy 1
 extravert
 encolpion
-exomion
+exomion 1
 excogitates
 engarment
 emaciated
