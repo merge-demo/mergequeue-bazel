@@ -1609,7 +1609,7 @@ floriage 2
 frijol 1
 fervescence
 flannel
-fawkener
+fawkener 1
 fraischeur
 funfair
 favoredly
