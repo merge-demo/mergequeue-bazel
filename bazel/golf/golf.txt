@@ -1973,7 +1973,7 @@ gypsite
 genealogically
 greywacke
 glairs
-garnishments
+garnishments 1
 glamor
 gallamine
 gnomonical
