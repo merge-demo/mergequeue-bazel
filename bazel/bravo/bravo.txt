@@ -11625,7 +11625,7 @@ bryologist
 bosket
 boatage
 bacterioscopical 1
-barspoon
+barspoon 1
 boatbuilding
 boathook
 boathouse
