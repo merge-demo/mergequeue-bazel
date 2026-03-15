@@ -14483,7 +14483,7 @@ delly
 deckhouse
 degauss
 diphyzooid
-decapitating
+decapitating 1
 devitaminize
 drouk
 decemviri
