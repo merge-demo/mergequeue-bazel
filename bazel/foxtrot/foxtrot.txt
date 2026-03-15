@@ -8102,7 +8102,7 @@ feeble
 flasklet
 factorist
 fumacious
-farceur
+farceur 1
 floodplain
 foret 1
 fragilaria
