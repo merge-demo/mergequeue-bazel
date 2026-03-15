@@ -5484,7 +5484,7 @@ brouze
 bey
 bindi
 boxed
-bardic
+bardic 1
 byliny
 bootyless
 beelines
