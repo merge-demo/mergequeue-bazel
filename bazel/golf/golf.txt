@@ -3602,7 +3602,7 @@ gyrochrome
 gynostegigia
 gnathobdellae
 gargil
-gaelicize
+gaelicize 1
 galany 1
 guttiform
 gnathic
