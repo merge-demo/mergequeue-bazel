@@ -576,7 +576,7 @@ flamier
 fdubs
 frequentative
 frappe
-feeblish
+feeblish 1
 funerate
 fenugreek 1
 flagstaff
