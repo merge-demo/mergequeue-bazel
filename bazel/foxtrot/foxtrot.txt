@@ -5008,7 +5008,7 @@ factordom
 fribourg
 freelage 1
 flankers
-foists
+foists 1
 folksier 1
 fathered
 flashtester
