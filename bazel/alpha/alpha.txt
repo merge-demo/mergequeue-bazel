@@ -16482,7 +16482,7 @@ armoire 1
 aeron
 anvils
 anvilsmith
-archeal
+archeal 1
 aladfar
 acronal
 anviltops
