@@ -4259,7 +4259,7 @@ exporters
 expiree
 escarping
 escambio
-emulousness
+emulousness 1
 eaux
 eumeristic
 expolish
