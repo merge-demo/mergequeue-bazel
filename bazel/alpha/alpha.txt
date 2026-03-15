@@ -2594,7 +2594,7 @@ adffrozen
 adjacent
 acquest
 armenite
-actutate
+actutate 1
 applies
 arriswise
 acquiesce
