@@ -9226,7 +9226,7 @@ fishbed
 foraneous
 facts 1
 frayedness
-fabulize
+fabulize 1
 fidging 1
 flagmaking
 flashier
