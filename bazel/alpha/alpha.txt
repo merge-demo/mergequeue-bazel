@@ -8925,7 +8925,7 @@ alloisomerism
 axisymmetric
 archaically
 agallochum
-apospory
+apospory 1
 anematizing
 aerobiologic
 allomorphism
