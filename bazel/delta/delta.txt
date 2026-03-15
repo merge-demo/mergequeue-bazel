@@ -11843,7 +11843,7 @@ decrement 1
 dustbin
 discure
 discriminates
-disponee
+disponee 1
 disgorger 1
 dawing 1
 deuteroprism
