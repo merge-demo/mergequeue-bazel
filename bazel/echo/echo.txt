@@ -3118,7 +3118,7 @@ eastermost
 elmwood
 exudations
 eyewash
-empennage
+empennage 1
 equiangularity
 epicalyces
 even
