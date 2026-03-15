@@ -3832,7 +3832,7 @@ daffs
 dallan
 decharm
 dizzied
-deindividualize
+deindividualize 1
 diplocephaly
 darryl
 dodecatheon
