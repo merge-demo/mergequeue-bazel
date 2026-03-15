@@ -22880,7 +22880,7 @@ conservatorship
 carpings
 coordinator
 conserve
-costae
+costae 1
 conserver
 cassaba
 ceratoid 1
