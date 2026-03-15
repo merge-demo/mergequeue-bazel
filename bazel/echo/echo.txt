@@ -4219,7 +4219,7 @@ exocardiac
 enghle
 emeutes
 egoize
-enwound
+enwound 1
 extratheistic
 emptiers
 emptiness 1
