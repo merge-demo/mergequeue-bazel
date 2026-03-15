@@ -1306,7 +1306,7 @@ dumpings
 diastaltic
 decoloured
 daubreite
-degaussing
+degaussing 1
 dobsons
 dinitro
 densified
