@@ -1569,7 +1569,7 @@ biradial 1
 britches 2
 binate
 ballista
-basketlike
+basketlike 1
 beatinest
 ballistician
 brachioganoidei 1
