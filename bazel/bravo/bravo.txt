@@ -5128,7 +5128,7 @@ bombshells 1
 beflour
 beflowered
 biotas
-batta
+batta 1
 bogbean
 beguile 1
 bankers
