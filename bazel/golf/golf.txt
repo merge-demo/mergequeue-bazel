@@ -2563,7 +2563,7 @@ ganch 1
 generalities
 grig
 grubbies 1
-gain
+gain 1
 guilder
 gynecium
 gurle
