@@ -4823,7 +4823,7 @@ bikh
 beshrouded 1
 bolometer
 bedstraw
-bedstraws
+bedstraws 1
 bedstring
 boundedly
 beautiless
