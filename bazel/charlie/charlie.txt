@@ -16533,7 +16533,7 @@ compensations
 cloysome
 cleistothecia
 chondrolipoma
-cloisonless
+cloisonless 1
 chancering
 cloisonn
 cloisonne
