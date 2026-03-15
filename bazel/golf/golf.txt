@@ -7532,7 +7532,7 @@ guideless
 gatelike
 goliardery
 greenbone 1
-gorbellies
+gorbellies 1
 gymnast
 governmental 2
 garageman
