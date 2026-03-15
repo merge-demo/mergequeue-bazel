@@ -31342,7 +31342,7 @@ cawk
 consolitorily
 cruziero
 curfew
-curfewed
+curfewed 1
 clerete
 curfews
 concordats
