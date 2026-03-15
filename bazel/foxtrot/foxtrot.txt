@@ -3478,7 +3478,7 @@ figgiest
 fraternisation
 fecundity 1
 fleeches
-fanfares
+fanfares 1
 fingerable
 frostfishes
 foreseason
