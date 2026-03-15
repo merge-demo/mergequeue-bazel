@@ -1240,7 +1240,7 @@ fluorography
 folds
 fassalite
 fastbacks
-frigor
+frigor 1
 flatdom
 faradism
 fastening
