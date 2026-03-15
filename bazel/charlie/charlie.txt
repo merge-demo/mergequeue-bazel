@@ -25857,7 +25857,7 @@ corruptor 1
 conglutinative
 chapper
 corruptress
-corrupts
+corrupts 1
 corsac 1
 corsacs
 connarus 1
