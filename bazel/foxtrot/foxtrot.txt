@@ -4447,7 +4447,7 @@ fumishly
 fledgier
 floppiest 1
 fishman
-float
+float 1
 frowzly
 feelable
 flossy
