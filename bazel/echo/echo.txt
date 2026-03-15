@@ -9671,7 +9671,7 @@ enhancements
 elkhounds
 exsec
 explicability
-extortionist
+extortionist 1
 encounterers
 evangelicalism
 eclipsable
