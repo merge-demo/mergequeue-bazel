@@ -4212,7 +4212,7 @@ fetus
 fructose 1
 fadding
 fibrospongiae
-fruitlessness
+fruitlessness 1
 finialed 1
 fragmentally
 flagrant
