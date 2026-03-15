@@ -17717,7 +17717,7 @@ birling
 bookways
 bombshell
 burned
-burner
+burner 1
 benempt
 billian
 blastophaga
