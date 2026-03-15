@@ -1490,7 +1490,7 @@ embarrased
 empathic
 etui
 epizootically
-effused
+effused 1
 extemporaneously
 elasmobranchii 1
 explanatorily
@@ -4140,7 +4140,7 @@ epigene 1
 epicanthus
 ejacula
 enrooting
-eslabon
+eslabon 1
 entangler
 envisaged 1
 endives 1

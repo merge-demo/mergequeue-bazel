@@ -4014,7 +4014,7 @@ digressiveness
 dibasicity
 dialing
 dipteros 1
-dirten
+dirten 1
 delegations
 delegator
 discomposedly
@@ -16470,7 +16470,7 @@ diagramming
 dazed
 datiscin
 deodorizing
-dracone
+dracone 1
 decelerator
 draconian
 disagreeance
