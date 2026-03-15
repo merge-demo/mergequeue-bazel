@@ -17192,7 +17192,7 @@ coagulometer
 coagulose
 coahuiltecan
 cantic
-coaid
+coaid 1
 coaita 1
 coak
 coakum
