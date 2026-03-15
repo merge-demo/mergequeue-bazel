@@ -8824,7 +8824,7 @@ ammonolyses
 adolescency
 anthophore
 allobrogical
-abidance
+abidance 1
 absorption
 atturn
 allocate
@@ -17759,7 +17759,7 @@ apinae
 antidora
 acylated
 archipallial 1
-archiepiscopally
+archiepiscopally 1
 albuminaturia
 alluringly
 applosion
