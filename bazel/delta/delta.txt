@@ -4404,7 +4404,7 @@ disallowableness
 disembark
 demeanored
 dissidents
-diphtheritis
+diphtheritis 1
 douper
 delegable
 dualizing
