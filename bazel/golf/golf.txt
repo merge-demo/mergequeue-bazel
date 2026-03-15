@@ -1979,7 +1979,7 @@ gallamine
 gnomonical
 gimbal
 geology
-geranic
+geranic 1
 goring
 grubroot
 glut 1
