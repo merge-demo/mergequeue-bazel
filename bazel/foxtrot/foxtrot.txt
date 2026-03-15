@@ -5551,7 +5551,7 @@ flexion
 foreclosable 1
 ferdiad
 fleecer 2
-fatal
+fatal 1
 foraminiferous
 flirtish
 flexuously
