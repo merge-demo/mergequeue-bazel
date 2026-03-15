@@ -1760,7 +1760,7 @@ fluoridates 1
 fn 1
 featheriness 1
 frogface
-foreslack
+foreslack 1
 forsterite 1
 farfet 1
 farsalah
