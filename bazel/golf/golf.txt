@@ -47,7 +47,7 @@ gableboard
 groats 2
 graperies
 gangue 1
-glaucolite
+glaucolite 1
 guemal
 geometrine
 gelatinousness
