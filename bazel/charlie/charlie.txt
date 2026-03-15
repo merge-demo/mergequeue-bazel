@@ -19679,7 +19679,7 @@ comatosity
 comatula
 combaron
 combasou
-combat
+combat 1
 criminal
 combatable
 chroma
