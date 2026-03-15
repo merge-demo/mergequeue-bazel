@@ -4702,7 +4702,7 @@ declaration
 demiurgos 1
 dewaxed
 drifting
-disheveling
+disheveling 1
 ducklar
 demivambrace 1
 dorsicollar
