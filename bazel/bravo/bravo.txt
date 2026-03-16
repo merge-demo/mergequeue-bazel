@@ -15572,7 +15572,7 @@ brisking
 briss
 backwoodsman
 bolsterer
-brist
+brist 1
 bombproof
 bristled
 bakhtiari
