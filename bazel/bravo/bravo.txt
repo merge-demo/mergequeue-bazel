@@ -6856,7 +6856,7 @@ bescourge
 baboos
 buckeroos
 bust
-bescramble
+bescramble 1
 bescreen
 barit
 brutalize
