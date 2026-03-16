@@ -9018,7 +9018,7 @@ enfeeblement
 echappee
 exponent
 espionage
-erythritol
+erythritol 1
 equivalue
 expurgating
 erythroblast
