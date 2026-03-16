@@ -15453,7 +15453,7 @@ aircrew
 antimechanization
 antimediaevalist
 antimediaevally
-antimedical
+antimedical 1
 aslantwise
 antimedicine
 anaptomorphidae
