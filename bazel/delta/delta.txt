@@ -13624,7 +13624,7 @@ dissheathed 1
 daddums
 dosimetrist
 deliverance
-disciplinative
+disciplinative 1
 disship
 disshiver 1
 deletory
