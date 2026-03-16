@@ -10765,7 +10765,7 @@ gonfalonierate 1
 ganoin
 gloam
 graminin
-gorhen
+gorhen 1
 gimbals
 gallium
 glamourie

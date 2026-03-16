@@ -22982,7 +22982,7 @@ consolations
 consolato
 consolator
 consolatory
-consolatorily
+consolatorily 1
 chartophylax
 consolatrix
 console
