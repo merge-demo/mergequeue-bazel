@@ -27950,7 +27950,7 @@ cradlechild
 cradled
 corvee
 cradleland
-captivatrix
+captivatrix 1
 counterselection
 cognosce
 cradlemaker
