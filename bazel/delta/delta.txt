@@ -3792,7 +3792,7 @@ distrain
 deice
 donning
 disseizoress
-defibrillation
+defibrillation 1
 deicers
 defacingly
 deicides
