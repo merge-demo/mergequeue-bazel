@@ -29154,7 +29154,7 @@ cacodorous
 crioceras 1
 crioceratite
 cinefaction
-crioceratitic
+crioceratitic 1
 companionably
 chirruping
 cheque
