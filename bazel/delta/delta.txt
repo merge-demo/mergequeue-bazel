@@ -1308,7 +1308,7 @@ decoloured
 daubreite
 degaussing 1
 dobsons
-dinitro
+dinitro 1
 densified
 dryermen
 declinate
