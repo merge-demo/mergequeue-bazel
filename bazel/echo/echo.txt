@@ -4005,7 +4005,7 @@ eyestalks
 evenhand
 empearl 1
 electroretinography
-each
+each 1
 exultancy
 esothyropexy
 estus 1
