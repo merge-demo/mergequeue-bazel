@@ -3481,7 +3481,7 @@ biosis
 batarde
 bullaces
 batatas
-batavi
+batavi 1
 ballan 1
 buzzsaw
 bidar
