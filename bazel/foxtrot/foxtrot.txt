@@ -701,7 +701,7 @@ ferromagnetic 1
 futilitarianism
 fascioloid
 forehard
-fragrancy
+fragrancy 1
 feminity
 farcial
 flapperhood
