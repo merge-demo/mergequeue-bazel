@@ -12803,7 +12803,7 @@ exostosis
 exarchist
 exostra
 ebullition
-engraves
+engraves 1
 elementary
 exostrae
 exoteric
