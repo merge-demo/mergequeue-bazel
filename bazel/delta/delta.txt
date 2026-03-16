@@ -10846,7 +10846,7 @@ desmidiaceous
 digit
 dynameter 1
 darkest
-distant
+distant 1
 dipleurobranchiate
 dauntingly
 dimerized
