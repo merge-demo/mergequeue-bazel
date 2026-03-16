@@ -10709,7 +10709,7 @@ agrobiologic 1
 angulometer
 armitas
 arachne
-alcayde
+alcayde 1
 adulterants
 aphronitre
 anorthography
