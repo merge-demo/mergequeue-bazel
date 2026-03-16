@@ -8431,7 +8431,7 @@ formalist
 fallibilist 1
 flurr
 foreboded
-floweriness
+floweriness 1
 foppish
 forpine
 fictitiously
