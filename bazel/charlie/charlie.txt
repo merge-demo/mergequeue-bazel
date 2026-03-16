@@ -7168,7 +7168,7 @@ caracas
 centranth
 centrarchid 1
 centrarchoid 1
-clar
+clar 1
 compare
 centraxonial
 centre
