@@ -6226,7 +6226,7 @@ fatlings
 fargoing
 floccules
 focusable
-fascinative
+fascinative 1
 formwork 1
 fermentitious
 foundationary
