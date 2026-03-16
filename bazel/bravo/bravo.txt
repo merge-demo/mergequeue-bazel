@@ -15690,7 +15690,7 @@ broadlooms
 bourrides 1
 barbarously
 binuclear
-batful
+batful 1
 blennogenic 2
 butyric
 broadsider
