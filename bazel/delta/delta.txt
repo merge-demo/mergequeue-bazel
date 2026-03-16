@@ -5794,7 +5794,7 @@ dovekeys 1
 decaliter
 deportability
 deportations
-decriminalized
+decriminalized 1
 dissipatedly
 dewer
 disoxygenate
