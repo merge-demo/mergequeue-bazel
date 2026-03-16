@@ -15857,7 +15857,7 @@ antipleion 1
 advocation
 antiplurality
 antipodal
-antipode
+antipode 1
 antipodic
 autocoprophagous
 argufied
