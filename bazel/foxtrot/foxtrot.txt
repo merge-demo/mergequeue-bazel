@@ -642,7 +642,7 @@ frithsoken 1
 falx
 further
 fallbacks 1
-fluocarbonate
+fluocarbonate 1
 fireclays 2
 fortitudinous
 fictionalization
