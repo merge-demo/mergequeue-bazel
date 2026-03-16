@@ -10710,7 +10710,7 @@ angulometer
 armitas
 arachne
 alcayde 1
-adulterants
+adulterants 1
 aphronitre
 anorthography
 aminoquin
