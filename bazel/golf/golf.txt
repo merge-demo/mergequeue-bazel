@@ -10719,7 +10719,7 @@ grate
 gearwheel
 glyoxim
 grumping
-gubernatorial
+gubernatorial 1
 gunnung
 graphometric
 gox
