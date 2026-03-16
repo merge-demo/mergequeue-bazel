@@ -7347,7 +7347,7 @@ doyen
 deterrence 1
 disprejudice
 deterrent
-dodunk
+dodunk 1
 detersiveness
 disunions
 detestation
