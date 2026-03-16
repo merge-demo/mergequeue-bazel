@@ -16856,7 +16856,7 @@ clubhouses
 clubionidae
 clubland
 clubman
-cloveroot
+cloveroot 1
 clubmate
 chiccory
 coexists
