@@ -202,7 +202,7 @@ foreignism 1
 florin
 folletage
 footstock
-freedwoman
+freedwoman 1
 ferns 1
 formicating
 fazenda
