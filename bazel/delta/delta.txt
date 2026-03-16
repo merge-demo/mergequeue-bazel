@@ -14290,7 +14290,7 @@ diffusiveness
 despectant
 downsitting
 ditrichotomous
-ditriglyphic
+ditriglyphic 1
 delating
 dragropes
 duotones 1
