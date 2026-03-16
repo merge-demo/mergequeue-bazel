@@ -14072,7 +14072,7 @@ bombycidae
 boffin
 brachydont 1
 brachydontism
-brachyfacial
+brachyfacial 1
 brachyglossal
 blase 1
 burgul
