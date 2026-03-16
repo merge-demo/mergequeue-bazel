@@ -451,7 +451,7 @@ garliclike
 gloating
 graphologic
 gaping
-galeid
+galeid 1
 genny
 gyms
 gemmation
