@@ -2486,7 +2486,7 @@ geodynamic
 glandules
 goading
 grassing
-grewia
+grewia 1
 grots
 guttersnipes
 gibbetwise
