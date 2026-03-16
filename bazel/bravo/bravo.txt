@@ -14577,7 +14577,7 @@ buri
 buggyman
 brandisite 2
 boyar
-brandling
+brandling 1
 bayardly
 bority
 binomy
