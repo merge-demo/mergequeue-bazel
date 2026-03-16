@@ -10771,7 +10771,7 @@ gallium
 glamourie
 geranyl
 gibblegable
-glycyl
+glycyl 1
 gutt
 gunny
 gerenuk
