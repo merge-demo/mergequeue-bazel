@@ -1279,7 +1279,7 @@ denari
 demitasses 1
 datives
 deplane
-desmids
+desmids 1
 dossil
 dermoptera
 deti
