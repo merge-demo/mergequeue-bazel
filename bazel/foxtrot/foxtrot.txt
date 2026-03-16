@@ -10358,7 +10358,7 @@ frontbencher 1
 footlining
 frontcourt
 fructus
-folkmote
+folkmote 1
 foreschooling
 fragrances
 foreboard
