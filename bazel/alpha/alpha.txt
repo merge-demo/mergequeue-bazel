@@ -2117,7 +2117,7 @@ aragonite
 alfin
 auspicial
 achillize
-aerobically
+aerobically 1
 affusions 1
 agave
 aptness 1
