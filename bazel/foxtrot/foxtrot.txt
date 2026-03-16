@@ -802,7 +802,7 @@ frisk
 fowl 1
 fermate
 frizado
-flatulently
+flatulently 1
 frowsy 1
 flypast
 forgedly
