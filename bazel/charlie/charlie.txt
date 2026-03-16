@@ -18795,7 +18795,7 @@ coleopter
 coleoptera
 chalcedonic 1
 cardiotoxic
-coleopterist
+coleopterist 1
 coleopterology
 catteries
 comediettas
