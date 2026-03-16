@@ -5119,7 +5119,7 @@ casebearer
 collectivity
 circumrenal
 casebox
-cased
+cased 1
 cisatlantic 1
 convulsionism
 casefy
