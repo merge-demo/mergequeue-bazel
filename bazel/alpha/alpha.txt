@@ -10471,7 +10471,7 @@ antiadiaphorist
 appredicate
 amicably
 amphipodous
-amical
+amical 1
 amarettos
 attachments
 answerableness
