@@ -11127,7 +11127,7 @@ feverbush 1
 fetometry
 fishtail
 farle 1
-footmarks
+footmarks 1
 furuncular
 flaggery
 formylated
