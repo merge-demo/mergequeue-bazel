@@ -11716,7 +11716,7 @@ enterocoele
 endocarditis
 elevated 1
 enforcive
-extendlessness
+extendlessness 1
 exalting
 elands
 exaltment
