@@ -2395,7 +2395,7 @@ correlatively
 canc
 coffined
 canceled
-canceleer
+canceleer 1
 canceler
 cancellable
 contrasters 1
