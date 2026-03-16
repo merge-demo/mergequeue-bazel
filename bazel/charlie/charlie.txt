@@ -4566,7 +4566,7 @@ carnifex
 carnifexes 1
 cationic
 carnification
-carnificial
+carnificial 1
 carnifies
 colonel
 cnidocell
