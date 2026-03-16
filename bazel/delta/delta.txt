@@ -9371,7 +9371,7 @@ difficilitate
 dignosle 1
 dewinesses
 doucely
-drooling
+drooling 1
 dockages
 demonstrance
 dunlin
