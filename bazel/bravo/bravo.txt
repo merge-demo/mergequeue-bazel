@@ -1463,7 +1463,7 @@ byronize
 balkiness
 balking
 budgy 2
-backbiter
+backbiter 1
 boyarisms
 blighter
 balkish
