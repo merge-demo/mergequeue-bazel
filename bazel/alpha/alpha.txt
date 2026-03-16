@@ -25215,7 +25215,7 @@ atrocha
 abscisse
 amoralize
 axwise
-aurivorous
+aurivorous 1
 aeon 2
 antecessor
 axwort
