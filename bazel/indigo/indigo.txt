@@ -10920,7 +10920,7 @@ isfomrt 1
 isfphitvl 1
 isfsbs
 isftht
-isfxocxjit
+isfxocxjit 1
 isfy
 isfzuhusakq
 isfzuvxxv
