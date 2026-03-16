@@ -7255,7 +7255,7 @@ decussorium
 desulfurize
 detenues
 dephlegmator
-deter
+deter 1
 deterged
 desertlike
 dilettantship
