@@ -2274,7 +2274,7 @@ adjectitious
 attempers
 acidaspis
 acider
-anaphoric
+anaphoric 1
 azimech
 acidy
 acetamid
