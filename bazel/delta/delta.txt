@@ -7882,7 +7882,7 @@ dihydrogen
 dewberries
 dewcap
 disbudder
-devocalised
+devocalised 1
 driveways
 dewclaws
 diaphonia
