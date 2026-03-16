@@ -7915,7 +7915,7 @@ exquisitive
 experimentation
 epileny
 endopeptidase
-extensible
+extensible 1
 exotospore
 entomeric
 exuccous
