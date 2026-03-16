@@ -9258,7 +9258,7 @@ dochmii
 dieresis
 dihydrazone
 disemic
-debite
+debite 1
 digitalic
 dateableness
 dyes
