@@ -6494,7 +6494,7 @@ enlister 1
 enstar 1
 enrapturing
 espanoles
-elocation
+elocation 1
 entr
 embrocated
 electrolyzing
