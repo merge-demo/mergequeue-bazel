@@ -4162,7 +4162,7 @@ energids
 expungement
 erythrodermia
 externum
-encl
+encl 1
 encaustes
 exporter
 elaeosia
