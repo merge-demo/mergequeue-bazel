@@ -10032,7 +10032,7 @@ cherub
 cyanites 1
 chanoyu
 cherubfish
-cherubfishes
+cherubfishes 1
 chauffeuring
 cherubic
 chowder
