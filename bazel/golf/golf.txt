@@ -1404,7 +1404,7 @@ gasified
 gausterer
 gearshift
 gcd
-gangplow
+gangplow 1
 grundyite
 galvanopsychic
 gipsying
