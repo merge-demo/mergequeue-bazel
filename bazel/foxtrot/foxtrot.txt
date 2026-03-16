@@ -4710,7 +4710,7 @@ forsake
 fjord
 fancify 1
 fizziest
-friand
+friand 1
 fluidram
 forefeels
 forlese
