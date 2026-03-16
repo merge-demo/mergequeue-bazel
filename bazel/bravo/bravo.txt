@@ -3992,7 +3992,7 @@ beacons 2
 buoyancy
 beadeye
 beader
-bellmaker
+bellmaker 1
 barnhardtite
 beerothite
 beadings
