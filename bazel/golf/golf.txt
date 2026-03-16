@@ -7484,7 +7484,7 @@ gladiatory 1
 goura
 glyphography
 gonad
-gamesmanship
+gamesmanship 1
 gymnotidae 1
 gordon
 gerful
