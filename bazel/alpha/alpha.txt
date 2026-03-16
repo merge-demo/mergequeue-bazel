@@ -9129,7 +9129,7 @@ anemometric
 antacid
 alluvious
 assortative
-ametropic
+ametropic 1
 accipitres
 ambulates
 acarodermatitis
