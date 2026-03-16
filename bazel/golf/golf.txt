@@ -7471,7 +7471,7 @@ grabbier
 grunerite
 gourmandizer
 grapplement
-gomerals
+gomerals 1
 gasconaded
 gists
 geodesy
