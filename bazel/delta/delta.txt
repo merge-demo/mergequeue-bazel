@@ -1144,7 +1144,7 @@ depotentiate
 defilers
 decadarchy
 desertic
-dashplate
+dashplate 1
 dropflower
 depaint
 duracine
