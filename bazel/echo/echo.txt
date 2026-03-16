@@ -326,7 +326,7 @@ essede
 entoperipheral 1
 enticer
 enameling
-elfship
+elfship 1
 euboic
 eastling
 escapee
