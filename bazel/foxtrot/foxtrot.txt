@@ -1091,7 +1091,7 @@ fishling
 fastback
 farrisite
 fleerish
-firehalls
+firehalls 1
 figulate
 forthcame
 flyings
