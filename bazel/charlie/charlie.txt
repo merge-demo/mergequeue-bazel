@@ -4082,7 +4082,7 @@ cirrostome
 calla
 cardiameter
 carnationed
-chlorotic
+chlorotic 1
 cunners
 colibri
 cardianesthesia
