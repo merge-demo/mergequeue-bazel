@@ -3494,7 +3494,7 @@ gemul
 gewgawry 1
 gyrfalcon 2
 gigantological 1
-gestatory
+gestatory 1
 geriatric
 grivoise
 gastropore
