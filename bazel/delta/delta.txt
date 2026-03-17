@@ -9066,7 +9066,7 @@ dictyogen
 diction
 disparage 1
 defang
-diss
+diss 1
 dermatophobia
 defigure
 dictionarian
