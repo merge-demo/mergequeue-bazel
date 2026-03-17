@@ -13955,7 +13955,7 @@ distomatosis
 doryphorus
 diactin
 daubreelite
-dichroism
+dichroism 1
 deys
 distomatous
 daubed
