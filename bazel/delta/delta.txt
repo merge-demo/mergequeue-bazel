@@ -15067,7 +15067,7 @@ distinguisher
 dehors
 determinable
 doggonest
-doggoning
+doggoning 1
 detant
 dislady
 difunctional
