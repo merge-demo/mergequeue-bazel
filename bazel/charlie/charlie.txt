@@ -14548,7 +14548,7 @@ cystic
 cabuja
 conchoidal
 cysticercerci
-cysticerci
+cysticerci 1
 chondrule
 chackling
 cylindrite
