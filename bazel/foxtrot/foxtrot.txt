@@ -7659,7 +7659,7 @@ feudatory
 fables
 factualism
 foreguess
-flammant
+flammant 1
 foretopsail
 fittywise
 fiefdom
