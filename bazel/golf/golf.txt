@@ -2215,7 +2215,7 @@ gravific
 granth
 genarchship
 giraffoid
-geoidal
+geoidal 1
 garmented 1
 gestational
 gooseskin
