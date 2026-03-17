@@ -5884,7 +5884,7 @@ genteelest
 gadder 1
 guadalcazarite
 goldfinch
-glycosidase
+glycosidase 1
 gawney
 gipsyweed
 glucoses
