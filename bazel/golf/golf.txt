@@ -4108,7 +4108,7 @@ gamekeeper
 gaufer 1
 gudget
 glorification
-goneoclinic
+goneoclinic 1
 gipsywort
 gulgul
 gratifiedly
