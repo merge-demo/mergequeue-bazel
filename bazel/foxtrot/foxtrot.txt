@@ -4897,7 +4897,7 @@ fellage 1
 forbears
 freedmen
 forwent
-fraternalism
+fraternalism 1
 fulvidness
 farina 1
 federationist
