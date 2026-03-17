@@ -5114,7 +5114,7 @@ enslavers
 eremitic
 endochorion
 endochorionic
-engrains
+engrains 1
 elatha
 endocyst
 epodic
