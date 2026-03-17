@@ -4255,7 +4255,7 @@ gynantherous
 gonadectomized
 goliath
 gammoned
-gynarchic
+gynarchic 1
 gazella
 geumatophobia
 gradometer
