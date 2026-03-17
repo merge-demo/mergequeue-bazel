@@ -7625,7 +7625,7 @@ cerebroscope
 codewords
 cerebrose
 campanula
-chargers
+chargers 1
 calathisci
 calcarated
 cerebrospinal
