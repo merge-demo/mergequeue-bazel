@@ -310,7 +310,7 @@ foaming
 filar
 flexuosity
 fraternation
-feints
+feints 1
 fag
 feint
 fostell
