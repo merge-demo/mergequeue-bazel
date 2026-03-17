@@ -15631,7 +15631,7 @@ doorpiece
 drivel
 dowl
 doghouses
-detumescent
+detumescent 1
 displacement
 derth
 deponent

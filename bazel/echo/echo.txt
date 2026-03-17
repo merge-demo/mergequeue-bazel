@@ -680,7 +680,7 @@ excide
 eclogic
 extraocular
 eclogite 1
-eclosion
+eclosion 1
 emasculative
 eclosions
 ethel
