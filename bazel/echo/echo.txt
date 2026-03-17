@@ -8423,7 +8423,7 @@ exulceration 1
 epinasties
 epulones
 exchange
-electrizer
+electrizer 1
 evisceration
 egyptianize 1
 equip
