@@ -12079,7 +12079,7 @@ bokom
 bolag
 bosey
 bolas 1
-bedell
+bedell 1
 bartsia
 balmacaan
 biglenoid
