@@ -2832,7 +2832,7 @@ eater
 epiclesis
 eleoptene
 embden
-endomastoiditis
+endomastoiditis 1
 erratuta
 exostracize
 eucharistized
