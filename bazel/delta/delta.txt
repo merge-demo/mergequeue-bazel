@@ -12939,7 +12939,7 @@ dermostosis
 degreeing
 docilities
 dognaping
-discolor
+discolor 1
 disaffectedness 1
 differed
 disoperculate
