@@ -12726,7 +12726,7 @@ engramma
 exopod
 epigraphist
 embus
-exopterygotism
+exopterygotism 1
 eurypygae
 epha
 extol
