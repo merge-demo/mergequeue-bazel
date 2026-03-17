@@ -5475,7 +5475,7 @@ behoved
 basting
 behoves
 behoving
-battements
+battements 1
 basseted
 babbitts
 behowled
