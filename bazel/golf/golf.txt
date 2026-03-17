@@ -936,7 +936,7 @@ gingeli
 gammerel
 graeculus
 gammerstang
-gastropneumatic
+gastropneumatic 1
 gannets 1
 gammock 1
 grouched
