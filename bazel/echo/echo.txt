@@ -11153,7 +11153,7 @@ evacuants
 earthdrake
 exophagous
 epaulet
-entity
+entity 1
 eadi
 evacuated
 epitomatory 1
