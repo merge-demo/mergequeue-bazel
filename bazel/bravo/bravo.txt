@@ -1524,7 +1524,7 @@ bdl
 bouton
 backsword
 ballastic
-ballata
+ballata 1
 brisked
 batikulin
 ballatoon
