@@ -10764,7 +10764,7 @@ eternalness
 extramoralist 1
 eigenvector
 emer
-endogalvanism
+endogalvanism 1
 eucnemidae 1
 excursions 1
 exercitant 1
