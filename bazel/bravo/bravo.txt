@@ -1896,7 +1896,7 @@ barken
 bandoleer
 burlesquely
 backhoes 1
-bandoleers
+bandoleers 1
 bivalent
 birny
 bandolerismo
