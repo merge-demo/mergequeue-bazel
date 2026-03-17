@@ -10050,7 +10050,7 @@ deflate
 defailance
 diselectrify
 dozier
-dishonour
+dishonour 1
 deled
 damply
 dedal
