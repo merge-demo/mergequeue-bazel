@@ -9964,7 +9964,7 @@ brevirostral
 bawdy
 ballottine
 blairmorite
-bivalents
+bivalents 1
 bivalvia
 bivalvian
 bivariant
