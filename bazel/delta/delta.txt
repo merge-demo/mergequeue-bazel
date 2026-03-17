@@ -4725,7 +4725,7 @@ datatypes
 dunt
 desperateness
 disnaturalize
-dolente
+dolente 1
 diamondwise 1
 diffareation
 disrelish
