@@ -18251,7 +18251,7 @@ coffeeroom
 coffees 1
 counterview
 continuant
-coffeetime
+coffeetime 1
 coffer
 corridor
 cofferdam
