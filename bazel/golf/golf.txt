@@ -3211,7 +3211,7 @@ getup
 golilla 1
 grievants 1
 greatheartedness
-gloater
+gloater 1
 globosely
 gepidae
 gremlin
