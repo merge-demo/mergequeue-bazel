@@ -5751,7 +5751,7 @@ gobos
 glossolalia
 gabbroid
 glossolysis 1
-goldweed
+goldweed 1
 grecizes 1
 geometrical
 gunfighter
