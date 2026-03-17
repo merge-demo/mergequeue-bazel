@@ -4870,7 +4870,7 @@ forearm
 froglet
 flagellatory
 ferocities
-formalness
+formalness 1
 followable
 fulgora 1
 flails
