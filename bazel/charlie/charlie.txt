@@ -11221,7 +11221,7 @@ chuffier
 curtail
 christiania
 chlorenchyma
-coassistance
+coassistance 1
 chlorguanide
 chlorhexidine
 coemperor
