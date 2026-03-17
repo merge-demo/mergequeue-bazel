@@ -12093,7 +12093,7 @@ archaeologian
 arquerite
 aspis
 angiosclerosis
-acidity
+acidity 1
 avenalin
 anastomosing
 anastrophy
