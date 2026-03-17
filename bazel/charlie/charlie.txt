@@ -15331,7 +15331,7 @@ cakewalks
 campings
 clangours
 clangs
-conquests
+conquests 1
 critter
 calluses
 chronographical
