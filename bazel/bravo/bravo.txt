@@ -10920,7 +10920,7 @@ blindworm 1
 backscratcher
 blackamoor
 beshiver
-bumps
+bumps 1
 biloquist
 biclinia
 barth
