@@ -26540,7 +26540,7 @@ capeskin
 culicids
 cymbaled
 chemosis
-clingers
+clingers 1
 conjecturable
 cheverons 1
 coucal
