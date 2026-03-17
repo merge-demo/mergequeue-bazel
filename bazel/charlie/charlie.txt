@@ -13496,7 +13496,7 @@ cylindric
 cylindrically
 cylindricity
 cylindricule 1
-cylindriform
+cylindriform 1
 calpack
 cylindrocylindric
 curiatii 1
