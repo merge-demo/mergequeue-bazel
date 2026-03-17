@@ -11325,7 +11325,7 @@ epupillate
 enwrap
 evaporitic
 enforcively
-evapotranspiration
+evapotranspiration 1
 ecaudata
 esiphonal
 eluviated
