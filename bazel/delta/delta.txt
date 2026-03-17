@@ -10289,7 +10289,7 @@ dislodged
 desiderium 1
 dioecia
 dioecian
-dioeciopolygamous
+dioeciopolygamous 1
 disclout
 duodenal 1
 dustpans
