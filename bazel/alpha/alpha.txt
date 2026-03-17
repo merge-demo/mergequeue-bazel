@@ -5852,7 +5852,7 @@ anisocarpic
 ampyx
 agendas
 aponeurosis
-ankylosaur
+ankylosaur 1
 agendum
 amovability
 agene
