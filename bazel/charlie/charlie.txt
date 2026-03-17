@@ -30582,7 +30582,7 @@ cubododecahedral
 concarnation
 cuboid
 conopholis
-cuboidal
+cuboidal 1
 cuneocuboid
 caldera
 cellarette

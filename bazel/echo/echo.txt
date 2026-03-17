@@ -3835,7 +3835,7 @@ elasticities 1
 emerge
 ecart
 escapology
-emerged
+emerged 1
 edulcorated
 echinostomiasis
 emergentness
