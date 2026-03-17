@@ -6912,7 +6912,7 @@ deadliest
 deficit
 desorption
 drollist
-discomposes
+discomposes 1
 desoxalic
 dichromasy
 decanter
