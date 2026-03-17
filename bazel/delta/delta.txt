@@ -1051,7 +1051,7 @@ divorcer
 darlingness 1
 darn
 darndest
-darnels
+darnels 1
 destandardize
 diplohedral 1
 dishes
