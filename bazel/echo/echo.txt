@@ -8081,7 +8081,7 @@ emerize
 epiphytic
 extensum
 eaglehawk
-expositor
+expositor 1
 epiglottidean
 epiphloeum
 etherize
