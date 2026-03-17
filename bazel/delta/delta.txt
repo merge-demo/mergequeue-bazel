@@ -2761,7 +2761,7 @@ dacryelcosis
 daemonurgy
 darbies 1
 decortication
-dematerialization
+dematerialization 1
 decorticator
 determinants
 decorticosis
