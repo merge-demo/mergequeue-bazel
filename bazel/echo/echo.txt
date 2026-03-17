@@ -10323,7 +10323,7 @@ epifocal
 electuaries
 exosmic
 extemporise
-exaggerative
+exaggerative 1
 ethonomics
 ethnocentric
 epeirogenic
