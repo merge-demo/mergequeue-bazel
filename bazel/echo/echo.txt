@@ -1826,7 +1826,7 @@ elbow
 exopodite 1
 eigenvalues 1
 eudemony 1
-evaginated
+evaginated 1
 effervescive
 ensouling
 encipherer
