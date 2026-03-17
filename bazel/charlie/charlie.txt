@@ -27757,7 +27757,7 @@ cowshut
 cowskin
 countercommand
 cowson
-criticsm
+criticsm 1
 cowtown
 cox
 cohog
