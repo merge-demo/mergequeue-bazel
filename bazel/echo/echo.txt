@@ -1171,7 +1171,7 @@ epaulette
 expectancies
 edriophthalmatous
 extramental
-educand
+educand 1
 emulsive
 evanished
 educatability 1
