@@ -11166,7 +11166,7 @@ bushgoat
 bugfish 1
 biquadratic
 bloodworthy
-belched
+belched 1
 blearily
 blooey
 bloomed 1
