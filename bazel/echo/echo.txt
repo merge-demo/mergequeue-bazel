@@ -1498,7 +1498,7 @@ exonarthex
 epics
 endosiphonate
 equippers
-estivate
+estivate 1
 eclegme
 effusively
 entasias 1
