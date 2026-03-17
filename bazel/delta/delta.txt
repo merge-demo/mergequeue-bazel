@@ -5782,7 +5782,7 @@ depones
 deponing
 distributee
 doodler 2
-depopulation
+depopulation 1
 denitrize
 debeak
 depopulative
