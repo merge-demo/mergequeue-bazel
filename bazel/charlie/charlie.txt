@@ -2636,7 +2636,7 @@ composes
 cobbers
 chimp
 canework
-chuckling
+chuckling 1
 compliably
 chalet
 crabier
