@@ -6833,7 +6833,7 @@ forger
 foliaged
 firetower
 fustigator
-fussify
+fussify 1
 flipjack
 fourhanded 1
 fabled
