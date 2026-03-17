@@ -6436,7 +6436,7 @@ backcloth
 barangay
 biternate
 benzothiofuran
-burs 1
+burs 2
 benzothiophene
 benzotrichloride
 bolection
