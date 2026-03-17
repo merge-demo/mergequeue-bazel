@@ -16732,7 +16732,7 @@ anabaptized
 averse
 amylometer
 anterointerior 1
-accur
+accur 1
 ametaboly 1
 anthophagy
 aciculums
