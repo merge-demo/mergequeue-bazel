@@ -18834,7 +18834,7 @@ codeins
 colichemarde
 colicines
 cultigen
-celiac
+celiac 1
 colicins
 corvisor
 cytogene
