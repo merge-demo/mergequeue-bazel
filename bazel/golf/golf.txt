@@ -2241,7 +2241,7 @@ grisled
 genette
 gekkonid
 gristle
-gossipmongering
+gossipmongering 1
 galactase
 gastrotome 1
 grifts
