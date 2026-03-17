@@ -9328,7 +9328,7 @@ eurythmic
 endosiphon
 erugo
 encrusted
-erugos
+erugos 1
 escapage
 eruptible
 eruption
