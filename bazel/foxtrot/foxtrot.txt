@@ -9517,7 +9517,7 @@ finiteness 1
 fringier
 finiglacial
 fiador
-felicify
+felicify 1
 flavonol
 furcilia
 flitches
