@@ -929,7 +929,7 @@ cakewalking
 caressant
 carnotite
 caky
-clientelage
+clientelage 1
 conformant
 consecration
 cols
