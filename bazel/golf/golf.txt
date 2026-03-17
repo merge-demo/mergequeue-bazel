@@ -435,7 +435,7 @@ gair
 guests
 glucic
 gamosepalous 1
-gardenable
+gardenable 1
 gammexane
 grapefruits
 garrote
