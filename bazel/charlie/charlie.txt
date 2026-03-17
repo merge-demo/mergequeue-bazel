@@ -20605,7 +20605,7 @@ compilations 1
 compilator
 compiled
 compilement
-cogitatingly
+cogitatingly 1
 collineate
 comping
 collectarium
