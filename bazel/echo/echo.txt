@@ -11012,7 +11012,7 @@ encreel
 exceptiveness 1
 enquire
 encyclopaedic
-eternalist
+eternalist 1
 euryprosopic
 excipuliform
 eroses
