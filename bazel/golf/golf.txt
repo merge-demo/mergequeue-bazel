@@ -2714,7 +2714,7 @@ genip
 gilbertese
 genyplasty
 glashan 1
-globularness
+globularness 1
 glandule
 grainering
 germanomania 1
