@@ -17832,7 +17832,7 @@ ductwork
 drosky
 duculinae
 dictyosome
-decurve
+decurve 1
 dermoblast
 definable
 dictatorship 1
