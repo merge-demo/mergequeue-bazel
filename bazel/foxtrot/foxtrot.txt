@@ -478,7 +478,7 @@ fumble
 fanciers
 foreclosures
 fleetful
-fuseau
+fuseau 1
 fakeer
 fissiparism
 fretting
