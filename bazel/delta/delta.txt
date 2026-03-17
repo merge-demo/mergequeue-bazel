@@ -587,7 +587,7 @@ damfool
 div
 digenea
 dodecaheddra
-diwata
+diwata 1
 decopperization
 downweight
 desmopathologist
