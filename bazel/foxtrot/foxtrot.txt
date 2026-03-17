@@ -11484,7 +11484,7 @@ facilities
 figural
 finnmarks
 furthest
-flittering
+flittering 1
 firmity
 fiercened
 furtively
