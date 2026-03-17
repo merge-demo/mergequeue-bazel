@@ -9877,7 +9877,7 @@ elementarily
 endothermous 1
 excludingly
 eden
-enstatite
+enstatite 1
 equivalency
 encodes
 epidemical
