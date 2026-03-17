@@ -16552,7 +16552,7 @@ chirm
 cloisterly
 cloisterlike
 carburization
-cantish
+cantish 1
 capsules
 cloisterwise
 cloistral
