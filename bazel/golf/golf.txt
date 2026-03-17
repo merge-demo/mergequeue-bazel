@@ -4171,7 +4171,7 @@ gratewise 3
 gilding
 gypsum 1
 gouda
-guarapo
+guarapo 1
 globuloid
 gelinotte
 graphemic
