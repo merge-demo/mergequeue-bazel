@@ -6127,7 +6127,7 @@ genep
 geitonogamous
 gnomologist
 gyroma
-greit
+greit 1
 greatly
 gnathostomous 1
 gustoes 1
