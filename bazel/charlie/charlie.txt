@@ -11585,7 +11585,7 @@ cognisability
 colonialization
 cholecystogastrostomy 1
 cholecystogram
-cholecystography
+cholecystography 1
 cholecystokinin
 cholecystolithiasis
 cholecystostomy
