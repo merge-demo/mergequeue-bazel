@@ -14141,7 +14141,7 @@ choriambs
 circularly
 circularness
 circulars
-circulatable
+circulatable 1
 cabbalize
 chaetosomatidae
 cyanhydrate
