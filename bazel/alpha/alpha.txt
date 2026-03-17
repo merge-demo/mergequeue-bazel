@@ -7088,7 +7088,7 @@ annectant
 aperture 1
 abnerval
 acajous
-abantes
+abantes 1
 akia
 acetylene
 antiplethoric
