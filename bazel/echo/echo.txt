@@ -11349,7 +11349,7 @@ eolienne 1
 eveless
 estrildine
 eth
-eveline
+eveline 1
 equidifferent
 epitrochlear
 equiparate
