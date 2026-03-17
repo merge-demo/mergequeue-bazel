@@ -25980,7 +25980,7 @@ colonization
 corviser
 corvo
 chamade
-corvoid
+corvoid 1
 corvorant
 cantiga
 corvus
