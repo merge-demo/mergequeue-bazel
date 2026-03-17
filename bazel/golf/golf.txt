@@ -4103,7 +4103,7 @@ gogglebox
 genus 1
 gelechiid
 goosemouth
-gaulic
+gaulic 1
 gamekeeper
 gaufer 1
 gudget
