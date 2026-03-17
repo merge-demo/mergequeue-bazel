@@ -16434,7 +16434,7 @@ cowichan
 citrange 1
 costumist
 chaunt
-cloakmaker 1
+cloakmaker 2
 constrainer
 cloakmaking
 cymbaline
