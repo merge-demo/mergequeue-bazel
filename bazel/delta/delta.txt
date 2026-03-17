@@ -5786,7 +5786,7 @@ depopulation 1
 denitrize
 debeak
 depopulative
-dowve
+dowve 1
 disimitation
 demipuppet
 dicyanodiamide
