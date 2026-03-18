@@ -16483,7 +16483,7 @@ dandies
 disnumber
 depside 1
 dracontic
-dwellings
+dwellings 1
 dairywoman
 detached
 disagreeables
