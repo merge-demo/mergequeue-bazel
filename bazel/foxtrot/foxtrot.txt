@@ -8650,7 +8650,7 @@ fytte
 farstepped
 furthering
 frigidness
-frictionproof
+frictionproof 1
 faintest
 footing 1
 forspoke 1
