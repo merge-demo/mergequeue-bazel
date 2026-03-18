@@ -6698,7 +6698,7 @@ ceilometer
 couac
 ceylonite
 ceils
-compound
+compound 1
 counterquestion
 coathangers
 colligation
