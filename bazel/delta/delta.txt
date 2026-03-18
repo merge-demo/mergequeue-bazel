@@ -13539,7 +13539,7 @@ defterdar
 disaccharose
 dungeoner
 disperse
-disquisitive
+disquisitive 1
 disrelishable 1
 dissentment
 dissemination
