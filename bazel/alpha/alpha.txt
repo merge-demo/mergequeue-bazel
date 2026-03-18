@@ -14140,7 +14140,7 @@ aplasias
 anteoccupation
 anteocular
 anteorbital
-augustinian
+augustinian 1
 animalize
 antibodies
 amphivorous
