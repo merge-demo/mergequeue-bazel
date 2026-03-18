@@ -11549,7 +11549,7 @@ ferociousness 1
 footlessly
 fetting
 fusiform
-fusil
+fusil 1
 frictionized
 fowage
 figurations
