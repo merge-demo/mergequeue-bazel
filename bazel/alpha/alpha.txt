@@ -2742,7 +2742,7 @@ ammonation 1
 acroasphyxia
 acroatic
 acrobacy
-askr
+askr 1
 attent 1
 alfurese
 arrestant
