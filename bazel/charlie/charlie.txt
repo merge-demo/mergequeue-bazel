@@ -4961,7 +4961,7 @@ carting
 coulometry
 cartist
 cartloads 1
-clicket
+clicket 1
 cartmaking
 cartobibliography
 columbia
