@@ -3890,7 +3890,7 @@ choirmaster
 canister
 carbonitride 1
 cincinatti
-countertranslation
+countertranslation 1
 charmfulness
 carbonization
 carbonize
