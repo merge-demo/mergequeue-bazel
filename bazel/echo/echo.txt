@@ -6392,7 +6392,7 @@ endovaccination
 electrotyper
 ephebe
 expenseful
-earthward
+earthward 1
 emulsor
 euskarian
 egested
