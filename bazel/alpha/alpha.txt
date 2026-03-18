@@ -8593,7 +8593,7 @@ allassotonic
 alleviations
 allatrate
 abaction
-autosuggestibility
+autosuggestibility 1
 admitty
 alineation 1
 alkoxid
