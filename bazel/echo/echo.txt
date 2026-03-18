@@ -3220,7 +3220,7 @@ esteeming
 evacuee
 electioneers
 epaule
-elseways
+elseways 1
 extuberance 2
 ecliptical
 elaiosome
