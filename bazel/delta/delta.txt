@@ -18422,7 +18422,7 @@ destroyer
 diphthongise 1
 duping
 diabolic
-dipsticks
+dipsticks 1
 dupion
 disendowing
 duplation
