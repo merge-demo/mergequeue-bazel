@@ -3031,7 +3031,7 @@ deeper
 dealings
 dies
 dismantling
-deepfreeze
+deepfreeze 1
 dilettantish
 deepgoing
 dawsoniaceous
