@@ -2048,7 +2048,7 @@ forwander
 flatlander
 faunlike
 fogbows 1
-fascicule
+fascicule 1
 flaunting
 forfouchten
 feisty
