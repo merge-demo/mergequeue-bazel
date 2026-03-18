@@ -10417,7 +10417,7 @@ dipartition 1
 dominicks 1
 dekkos
 demersion
-dictyostelic
+dictyostelic 1
 dipcoat
 disreputable
 dipetto
