@@ -23860,7 +23860,7 @@ controling
 controllable
 controllably 1
 controller
-churner
+churner 1
 costophrenic
 controlless
 conin
