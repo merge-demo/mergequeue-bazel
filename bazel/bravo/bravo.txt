@@ -2591,7 +2591,7 @@ busing
 bowable
 bears
 brittlely 1
-barytophyllite
+barytophyllite 1
 blawed
 bridgelike
 barkary
