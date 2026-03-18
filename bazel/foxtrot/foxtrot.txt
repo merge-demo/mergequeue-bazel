@@ -11610,7 +11610,7 @@ fulgour
 formulizer
 fragilely
 fermata 1
-fustics
+fustics 1
 fussbudget
 fixable
 forint 1
