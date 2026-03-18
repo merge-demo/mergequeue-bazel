@@ -4004,7 +4004,7 @@ formability
 flukewort
 forechoose
 furcula
-forestalled
+forestalled 1
 friese
 flattish
 forfeited
