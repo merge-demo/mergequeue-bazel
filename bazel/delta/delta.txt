@@ -7833,7 +7833,7 @@ dinoceras
 dogsleds
 deckhands 1
 diadochokinesis
-dyothelism
+dyothelism 1
 dwelling 1
 dil
 devour
