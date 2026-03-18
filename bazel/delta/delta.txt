@@ -14375,7 +14375,7 @@ doled
 diva 1
 divagated
 divagates
-diphthongal
+diphthongal 1
 drillmaster
 divagationally
 divan
