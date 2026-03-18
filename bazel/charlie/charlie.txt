@@ -7435,7 +7435,7 @@ choliambic
 caback
 cerambycid 1
 coruscations
-cerambycidae
+cerambycidae 1
 cyclonist 1
 ceramicite
 catdom
