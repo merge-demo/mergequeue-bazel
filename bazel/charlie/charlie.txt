@@ -3558,7 +3558,7 @@ captive
 caucus
 calvarias
 captives
-comatulae
+comatulae 1
 captor
 capturable
 catechized
