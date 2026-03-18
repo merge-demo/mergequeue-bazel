@@ -1506,7 +1506,7 @@ foresend
 faulx
 flaunter
 focusers
-factionary
+factionary 1
 ferruminating 1
 florigen 1
 filmmaking 1
