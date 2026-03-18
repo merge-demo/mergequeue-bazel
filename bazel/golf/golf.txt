@@ -4543,7 +4543,7 @@ graminiform
 gerbille
 gigantomachia
 gawp
-gmelinite
+gmelinite 1
 gingering
 gyrate
 garigue
