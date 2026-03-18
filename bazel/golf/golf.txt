@@ -5631,7 +5631,7 @@ gunstick 1
 glueman 1
 granma
 granadilla
-gallinago
+gallinago 1
 gowkedness
 gasps
 geisenheimer
