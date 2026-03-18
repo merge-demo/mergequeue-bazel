@@ -23506,7 +23506,7 @@ cartographies
 calelectric
 churled
 consolidator
-cric
+cric 1
 contestee
 chace
 contestingly
