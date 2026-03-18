@@ -8949,7 +8949,7 @@ folktales 1
 fermental
 faroeish
 foldout
-flimsily
+flimsily 1
 fountainous 1
 formularism
 factorize
