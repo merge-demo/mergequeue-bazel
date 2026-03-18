@@ -4247,7 +4247,7 @@ empuzzle
 eosinophilous 1
 eerie
 empirically
-epicurism
+epicurism 1
 euascomycetes 1
 estradiot 1
 emulant
