@@ -1449,7 +1449,7 @@ grosgrained
 gainward
 glossarial
 gidjee
-germiparity
+germiparity 1
 garnishee
 glovemaker
 guidebookish
