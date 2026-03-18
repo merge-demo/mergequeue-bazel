@@ -2179,7 +2179,7 @@ eructate
 endocyclic 1
 evanescently
 elbowy
-elbowpiece
+elbowpiece 1
 elbows
 explores 1
 everywoman
