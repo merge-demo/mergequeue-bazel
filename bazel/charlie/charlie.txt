@@ -16851,7 +16851,7 @@ conred
 caravanned 1
 cahokia
 clubhauled
-clubhauls
+clubhauls 1
 clubhouses
 clubionidae
 clubland
