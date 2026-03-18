@@ -9841,7 +9841,7 @@ foreappointment
 fricace
 fricandeaux
 foozlers
-footcloths
+footcloths 1
 fluellen
 foredestine
 foxily
