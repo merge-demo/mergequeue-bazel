@@ -24236,7 +24236,7 @@ aeciotelia
 anthelices 1
 aluminoferric
 automatous
-automechanical
+automechanical 1
 almoner
 actinically
 automechanism
