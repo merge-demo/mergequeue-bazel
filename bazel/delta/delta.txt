@@ -10603,7 +10603,7 @@ doorman
 diploma
 decasyllabon 1
 dolorogenic
-domitable
+domitable 1
 dolven
 diplomaing
 datapunch
