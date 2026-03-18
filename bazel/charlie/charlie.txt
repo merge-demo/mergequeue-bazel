@@ -25375,7 +25375,7 @@ corneule
 comprising
 champs
 cornfields
-cheroots
+cheroots 1
 cornflag
 countersiege
 cornflower
