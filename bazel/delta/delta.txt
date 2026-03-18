@@ -1951,7 +1951,7 @@ dreader
 depressant
 dobla
 deckload
-doze
+doze 1
 dungy
 dicrotism
 debunkers
