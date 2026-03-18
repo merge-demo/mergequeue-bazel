@@ -17119,7 +17119,7 @@ coadjutrix
 coadjuvate
 crasser
 coadminister
-civic
+civic 1
 coadministratrix
 catalyzers
 coadmiration
