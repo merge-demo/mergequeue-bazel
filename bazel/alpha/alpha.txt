@@ -10546,7 +10546,7 @@ anagrammatize
 amids
 apolarity
 aphids
-ascaris
+ascaris 1
 anotia
 amidulin 1
 abnegating
