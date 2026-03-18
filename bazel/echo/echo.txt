@@ -4798,7 +4798,7 @@ erethic
 eguttulate
 enterotomy
 epiopticon
-excusatory
+excusatory 1
 endocarpic
 encode
 exitance
