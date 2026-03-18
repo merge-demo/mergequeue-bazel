@@ -12483,7 +12483,7 @@ buphthalmos
 bone
 bejaundice
 bumpily
-bonebreaker
+bonebreaker 1
 boned 1
 bonedry
 bonefish 1
