@@ -2943,7 +2943,7 @@ flyoff
 filialness
 facier 1
 fooleries
-flukiness
+flukiness 1
 freezed 1
 foxberries 1
 fac 1
