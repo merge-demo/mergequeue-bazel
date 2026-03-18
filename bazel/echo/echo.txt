@@ -2611,7 +2611,7 @@ electrophysiological
 eunectes
 electrocutioner
 ebulus
-exportability 1
+exportability 2
 etherical
 ecphova
 expurgative 1
