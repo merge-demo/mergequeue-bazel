@@ -1362,7 +1362,7 @@ baldcrown
 bardily
 balded
 balder
-baldfaced
+baldfaced 1
 bolloxing
 balzarine
 bruisewort
