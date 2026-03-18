@@ -24376,7 +24376,7 @@ antialexin
 ankylomele
 arksutite
 apothec
-autoscope
+autoscope 1
 autoscopic
 antivivisection
 apparentation
