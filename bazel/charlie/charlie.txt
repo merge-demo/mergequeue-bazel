@@ -13749,7 +13749,7 @@ cynegild
 cubbyholes
 cinema
 cinemactic
-cinemagoer
+cinemagoer 1
 circumlocutionary
 cinemagoers
 cinemas
