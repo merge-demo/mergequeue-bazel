@@ -12239,7 +12239,7 @@ arraignable
 archinfamy
 arbalests
 acetoveratrone
-alignment
+alignment 1
 anchorman
 auriculae
 avars
