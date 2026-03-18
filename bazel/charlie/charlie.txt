@@ -24488,7 +24488,7 @@ courtliness
 circovarian
 clavis
 copaivic
-copaliferous
+copaliferous 1
 copalite
 copalm
 coparcenar
