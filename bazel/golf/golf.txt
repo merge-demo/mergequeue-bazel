@@ -1041,7 +1041,7 @@ gayness
 groan
 glassfuls
 gabardine
-gnarl
+gnarl 1
 geriatrics
 gentles
 gastrectomy
