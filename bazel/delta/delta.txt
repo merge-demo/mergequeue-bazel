@@ -12051,7 +12051,7 @@ dyehouse
 dibrom
 donut
 deacon
-disensanity
+disensanity 1
 dismayedness
 dunderheaded
 discous
