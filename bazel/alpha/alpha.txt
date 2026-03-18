@@ -3360,7 +3360,7 @@ allosyndesis
 argestes
 antihierarchic
 arborescence
-adamite
+adamite 1
 anselmian
 acanthocereus
 acetonation
