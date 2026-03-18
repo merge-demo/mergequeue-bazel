@@ -10074,7 +10074,7 @@ axmen
 antiformant
 amblycephalus
 atmology
-amblydactyla
+amblydactyla 1
 asymptomatically
 ammoniemia
 agarita
