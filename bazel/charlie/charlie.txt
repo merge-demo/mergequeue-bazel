@@ -17458,7 +17458,7 @@ cobblers
 cobblership
 cobbles
 cobblestone
-clepsydras
+clepsydras 1
 cobblestoned
 corollated
 chokeweed
