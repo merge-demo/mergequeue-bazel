@@ -10785,7 +10785,7 @@ footsoldiers
 fudge
 fanned
 freinage
-factualistic
+factualistic 1
 flue
 fubbery
 filamentoid
