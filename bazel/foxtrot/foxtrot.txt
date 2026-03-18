@@ -8895,7 +8895,7 @@ feazed
 firmer
 forepast
 falsificator
-fretfulness
+fretfulness 1
 flown 1
 funambulic
 foulest
