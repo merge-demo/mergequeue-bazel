@@ -8107,7 +8107,7 @@ floodplain
 foret 1
 fragilaria
 formalized
-feasances
+feasances 1
 fractiousness 2
 foretackle
 freemasonism
