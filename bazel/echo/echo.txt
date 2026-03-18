@@ -6724,7 +6724,7 @@ electrophysics
 entertainment
 endosepsis
 echimys
-epicenters
+epicenters 1
 equines
 espaliers
 epithecal
