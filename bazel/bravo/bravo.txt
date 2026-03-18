@@ -859,7 +859,7 @@ bauxites
 bicolour 1
 bagful
 baggagemaster
-bedamning
+bedamning 1
 brachydome
 baggager
 benzidin
