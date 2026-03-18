@@ -2629,7 +2629,7 @@ exturb
 estimated
 eave
 eu 1
-ecthetically
+ecthetically 1
 etherizing 1
 execrations
 etymologisable
