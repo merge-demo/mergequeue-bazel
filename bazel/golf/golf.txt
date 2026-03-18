@@ -3881,7 +3881,7 @@ guls 1
 groszy
 gels
 gaelicization
-glumpy
+glumpy 1
 glazed
 gloweringly
 gigahertzes
