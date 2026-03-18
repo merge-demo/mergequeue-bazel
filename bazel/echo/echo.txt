@@ -5204,7 +5204,7 @@ ergotist
 enterovirus
 eastings
 electroballistician
-epilithic
+epilithic 1
 endogenae
 efference
 euchres 1
