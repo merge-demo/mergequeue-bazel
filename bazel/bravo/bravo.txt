@@ -3244,7 +3244,7 @@ bedouin
 basilica
 belverdian 1
 basilical
-brookable
+brookable 1
 backoff
 blushfulness
 basilicate
