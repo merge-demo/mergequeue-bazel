@@ -1361,7 +1361,7 @@ accentual
 accension
 agapanthus
 accept
-approximating
+approximating 1
 acceptability
 antistimulant
 amintor
