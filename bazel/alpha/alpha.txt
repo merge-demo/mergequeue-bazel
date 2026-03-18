@@ -16743,7 +16743,7 @@ aphemic
 aphengoscope
 apheresis
 apheses
-asclepius
+asclepius 1
 antiphoner
 aggresses
 admirer 3
