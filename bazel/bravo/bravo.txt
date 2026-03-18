@@ -1500,7 +1500,7 @@ brakemaking 1
 balladist
 batrachophagous
 balladize
-bedaubed
+bedaubed 1
 balladizing
 biophore
 brutalization
