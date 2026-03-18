@@ -1988,7 +1988,7 @@ elastics
 exothermal
 eagle
 economizing 1
-eker
+eker 1
 epigastriocele
 epitritic
 equiparable
