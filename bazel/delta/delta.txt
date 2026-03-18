@@ -8137,7 +8137,7 @@ disambiguate
 disventure
 delineate
 domesticized
-deepener
+deepener 1
 diacaustic
 diamminonitrate
 diapasons 1
