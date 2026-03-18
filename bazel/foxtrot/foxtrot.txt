@@ -9229,7 +9229,7 @@ frayedness
 fabulize 1
 fidging 2
 flagmaking
-flashier
+flashier 1
 finnac
 forpining
 frivolism
