@@ -17090,7 +17090,7 @@ decennials
 deconcentrated 1
 dryfoot
 drift
-driftage
+driftage 1
 deficient
 decatyl
 diaboleptic
