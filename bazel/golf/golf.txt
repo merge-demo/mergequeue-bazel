@@ -5375,7 +5375,7 @@ gunplays
 glazework
 gutting
 geckoid
-gravitating
+gravitating 1
 gruelings
 gingal
 graph 1
