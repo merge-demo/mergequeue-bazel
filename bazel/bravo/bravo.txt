@@ -1872,7 +1872,7 @@ bishoplike
 backy
 biostatics
 bougeron
-bandit
+bandit 1
 beshrew
 bretwaldadom
 balant
