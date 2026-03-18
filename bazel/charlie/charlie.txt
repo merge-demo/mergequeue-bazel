@@ -16646,7 +16646,7 @@ closer 1
 chlorophyllose
 chrysler
 checkerwise
-closers
+closers 1
 closes 1
 closeting
 crampit
