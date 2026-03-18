@@ -6189,7 +6189,7 @@ forcement
 firebreak
 funguslike
 falange
-fog
+fog 1
 flrie
 frothier
 fluavile
