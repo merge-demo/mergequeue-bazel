@@ -1619,7 +1619,7 @@ calluna
 calamarioid
 coenzyme
 creasy 1
-calmant
+calmant 1
 cytopathology 1
 conveyor
 calmecac
