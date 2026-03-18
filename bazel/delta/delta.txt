@@ -14973,7 +14973,7 @@ deflocculator
 dogana
 dizziness
 disillusionizing 1
-desperation
+desperation 1
 disjection
 dogaressa
 diaspinae
