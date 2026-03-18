@@ -8815,7 +8815,7 @@ banalities
 battery
 bedrivels
 bummalos
-bakelize
+bakelize 1
 barfed
 benzol
 balsamiferous
