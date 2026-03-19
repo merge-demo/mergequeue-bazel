@@ -7696,7 +7696,7 @@ anemogram 1
 alcoholmetric
 acroter
 abaissed
-alcoholometer
+alcoholometer 1
 acidic
 apterygial
 averroistic
