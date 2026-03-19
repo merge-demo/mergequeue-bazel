@@ -5469,7 +5469,7 @@ cantraips
 casuarius
 chamaecyparis
 crunode 1
-casuistess
+casuistess 1
 cormorants
 conchobor
 chains
