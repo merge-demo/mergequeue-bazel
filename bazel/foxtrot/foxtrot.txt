@@ -72,7 +72,7 @@ faceharden
 flagships
 flecken
 facellite
-felonious
+felonious 1
 furthers 1
 flysch
 fordeal
