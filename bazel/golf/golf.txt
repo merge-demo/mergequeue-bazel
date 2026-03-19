@@ -3363,7 +3363,7 @@ gadbush
 gessamine
 gonfanons
 gluside
-gibbar
+gibbar 1
 guttiferal 1
 gundelet
 germinations
