@@ -14363,7 +14363,7 @@ diurna
 diurnal
 deuterogenic 1
 diurnally
-drug
+drug 1
 dragonize 1
 diurnals 1
 diurnule
