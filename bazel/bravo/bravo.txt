@@ -1210,7 +1210,7 @@ bakli
 baymen
 boches
 biscot
-bearhide
+bearhide 1
 balloting
 bakra
 bruchus
