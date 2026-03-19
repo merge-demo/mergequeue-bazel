@@ -13946,7 +13946,7 @@ employments
 extraoral
 extraordinary 1
 enduement
-exterioration
+exterioration 1
 eschews
 elaborateness 1
 eudeve

@@ -3693,7 +3693,7 @@ batteners
 bankrupted 1
 bucketmaker
 bedesmen
-beltis
+beltis 1
 batterie
 breck
 batterman
