@@ -11244,7 +11244,7 @@ detoxifies 1
 deltidium
 disannulment
 deckers
-devitrifiable
+devitrifiable 1
 dysbulic
 duodecimo
 damnatory
