@@ -24304,7 +24304,7 @@ anthrasilicosis
 autophotoelectric
 autopilot
 autoincrement 1
-autoplagiarism
+autoplagiarism 1
 afterworking
 autoplast
 affianced
