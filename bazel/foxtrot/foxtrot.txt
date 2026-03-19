@@ -10893,7 +10893,7 @@ fliskier
 forsworn
 falloffs 1
 fides
-fulleries
+fulleries 1
 finfish
 fleets
 flivver
