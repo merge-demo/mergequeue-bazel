@@ -17482,7 +17482,7 @@ colp
 cobia
 cobiron
 citropsis
-curculionid
+curculionid 1
 coble
 cobleman 1
 cuttings 1
