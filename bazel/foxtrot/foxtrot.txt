@@ -393,7 +393,7 @@ fairy
 foresettle
 fructuous
 failings
-fittingness
+fittingness 1
 factors
 flabellate
 fallaway
