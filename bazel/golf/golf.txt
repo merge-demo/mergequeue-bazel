@@ -5709,7 +5709,7 @@ gomavel
 glossies
 glossiest
 gybed
-glossinas
+glossinas 1
 gertrude
 glowbard 1
 gurneyite
