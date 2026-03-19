@@ -1080,7 +1080,7 @@ fernleaf 1
 federates
 farrel
 figuresome
-flameproofer
+flameproofer 1
 faculae 1
 fontinalaceous
 fam
