@@ -23936,7 +23936,7 @@ convalesced
 convalescence
 convalescently
 convalescents
-convalesces
+convalesces 1
 convalescing
 convallaria
 chalazion 1
