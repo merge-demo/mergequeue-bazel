@@ -12034,7 +12034,7 @@ exclusivity
 effluents
 excogitated
 emigrator
-excogitator
+excogitator 1
 extraembryonic
 enquere 1
 excommunication
