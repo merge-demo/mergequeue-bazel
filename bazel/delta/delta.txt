@@ -11484,7 +11484,7 @@ debriding
 devisings
 decencies 1
 dionysiacal
-discoloration
+discoloration 1
 discolorations
 discolored
 dar
