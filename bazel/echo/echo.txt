@@ -8617,7 +8617,7 @@ equigranular
 equilateral
 eriogonum
 equilibrant
-extractively
+extractively 1
 enframe 1
 electrodynamometer
 elinguating
