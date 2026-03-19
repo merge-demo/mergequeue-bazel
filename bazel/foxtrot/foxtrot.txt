@@ -2050,7 +2050,7 @@ faunlike
 fogbows 1
 fascicule 1
 flaunting
-forfouchten
+forfouchten 1
 feisty
 fairyisms
 farl
