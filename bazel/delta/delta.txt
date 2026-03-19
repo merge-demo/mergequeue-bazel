@@ -3750,7 +3750,7 @@ decimate 1
 dehonestation
 disoccupied
 dehorn 1
-dolcan
+dolcan 1
 desmose
 demain
 dreadful 1
