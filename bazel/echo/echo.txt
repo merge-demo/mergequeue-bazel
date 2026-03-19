@@ -10291,7 +10291,7 @@ escorial
 emulsifiability
 ethylamine
 extralite
-elevatedly
+elevatedly 1
 elapses 1
 eemis
 epidemial
