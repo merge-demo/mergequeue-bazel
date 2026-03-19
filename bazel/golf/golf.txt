@@ -366,7 +366,7 @@ grimsire 1
 gastrodynia
 gauric
 glovelike
-galactotrophy
+galactotrophy 1
 goodhumoredness
 grandeeism
 gynobasic
