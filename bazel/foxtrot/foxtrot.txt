@@ -10591,7 +10591,7 @@ fatefulness
 fuzzes
 fulgent
 foiling
-foilsman
+foilsman 1
 filaceous
 fusht
 furtive
