@@ -16079,7 +16079,7 @@ aquatint
 aortectasia
 amphichromy
 adminiculum
-antiscale
+antiscale 1
 arteritis
 autocoenobium
 apocrita
