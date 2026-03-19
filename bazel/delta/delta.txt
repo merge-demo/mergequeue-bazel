@@ -7574,7 +7574,7 @@ depoliticize 1
 dilute
 djellaba
 deuton
-deutonymph
+deutonymph 1
 danli
 distingu
 dancy
