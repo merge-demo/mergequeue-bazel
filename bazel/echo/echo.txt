@@ -11639,7 +11639,7 @@ ew
 exacerbatingly
 etoiles 1
 expulses 1
-enddamaged
+enddamaged 1
 exactable
 extemporising 1
 exactas
