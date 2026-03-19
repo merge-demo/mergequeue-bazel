@@ -3811,7 +3811,7 @@ adiathermancy
 antioxidase
 alcoranist
 arcticologist
-accipitrary
+accipitrary 1
 acaridea 1
 adiathetic
 adiating
