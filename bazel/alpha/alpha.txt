@@ -2390,7 +2390,7 @@ abided
 acinetiform
 amarin
 acaricidal
-acinic
+acinic 1
 aciniform
 anatomicophysiological
 aggrate 1
