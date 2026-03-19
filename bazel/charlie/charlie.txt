@@ -3229,7 +3229,7 @@ cohosted 1
 cumly
 capital
 chevronny
-capitaldom
+capitaldom 1
 capitaled
 capitalisable
 capitalised
