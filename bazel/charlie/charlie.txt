@@ -894,7 +894,7 @@ cajeput 1
 climaxes
 cajeputole
 cajeputs
-census
+census 1
 cajolement
 celure
 cajolements
