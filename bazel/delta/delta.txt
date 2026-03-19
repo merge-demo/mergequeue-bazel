@@ -10821,7 +10821,7 @@ discolorate
 deviates
 departing
 directors
-directorships
+directorships 1
 desugared
 dysphrasia
 dapples
