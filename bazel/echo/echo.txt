@@ -6230,7 +6230,7 @@ explicableness
 etiologic
 enological
 enterclose
-execs
+execs 1
 ellipsoid
 erasure
 exodist
