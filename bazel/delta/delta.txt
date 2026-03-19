@@ -16382,7 +16382,7 @@ domy
 downway
 disdain 1
 drunkery
-downwardly
+downwardly 1
 devourment
 delocalized
 dispellable
