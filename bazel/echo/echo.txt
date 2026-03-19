@@ -13508,7 +13508,7 @@ ensnares
 embroiderers
 ectosteal
 examine
-elephantous
+elephantous 1
 erotology
 exteriorization
 electrocauterization
