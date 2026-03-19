@@ -9660,7 +9660,7 @@ enters
 epilogize
 excitable
 ensearcher
-espingole
+espingole 1
 execrative
 equaling
 editchar
