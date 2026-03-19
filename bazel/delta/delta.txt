@@ -12770,7 +12770,7 @@ disloyal
 disencourage
 dotardly
 drawfiling
-donative
+donative 1
 disloyalist 1
 disloyally
 disloyalty
