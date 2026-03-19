@@ -7605,7 +7605,7 @@ freezable
 fervors
 forril 1
 festino
-fatalize
+fatalize 1
 farrier
 fossula
 felty
