@@ -3501,7 +3501,7 @@ depressors
 deforces
 dimittis
 deforciant
-detention
+detention 1
 dislikers 1
 demasculinizing
 deforested
