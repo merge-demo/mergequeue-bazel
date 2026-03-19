@@ -14680,7 +14680,7 @@ describe
 dowers
 doxies
 dieselize
-disagrees
+disagrees 1
 debauchee
 dolent
 djuka
