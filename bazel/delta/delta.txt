@@ -3901,7 +3901,7 @@ decreases
 diduce 1
 daphnite
 desilicated
-deja
+deja 1
 dejection
 devested
 derivation 1
