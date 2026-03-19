@@ -2753,7 +2753,7 @@ festered 1
 faliscan
 frizer
 friedelite
-foreparts
+foreparts 1
 fights
 festerment
 footway
