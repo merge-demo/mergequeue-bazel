@@ -3208,7 +3208,7 @@ frosh
 fickle
 fixage 1
 fruits
-fiches
+fiches 1
 findjan 1
 feracious
 fusilade
