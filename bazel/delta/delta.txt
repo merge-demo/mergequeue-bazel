@@ -2724,7 +2724,7 @@ desmon
 decor 1
 diplopic
 dappledness
-decurves 1
+decurves 2
 decorable
 deist
 delectable
