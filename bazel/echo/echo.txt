@@ -13857,7 +13857,7 @@ extractibility
 eggcups
 earliness
 engagingness
-euphenic
+euphenic 1
 emandibulate
 equitably
 extraparental
