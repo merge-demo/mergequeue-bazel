@@ -5174,7 +5174,7 @@ glb
 gastratrophia
 geckotian
 gossipred
-gesticulator
+gesticulator 1
 glossocomon 1
 guavas 1
 genipap
