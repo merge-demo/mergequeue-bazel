@@ -4468,7 +4468,7 @@ fishplate
 feste
 fate 1
 fishpole
-fishpoles
+fishpoles 1
 flueless
 flameproof
 fazed
