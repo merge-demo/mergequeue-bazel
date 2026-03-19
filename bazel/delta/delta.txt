@@ -2563,7 +2563,7 @@ diplophonic 1
 disequality
 dematerialize
 discus
-dorsocephalic
+dorsocephalic 1
 distiller 1
 declensionally
 declensions 1
