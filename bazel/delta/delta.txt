@@ -2268,7 +2268,7 @@ decemcostate 1
 durax
 dyewoods
 decemfoliate 1
-dogmas
+dogmas 1
 decempedal
 demotion
 dominiums 1
