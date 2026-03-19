@@ -17530,7 +17530,7 @@ apteroid
 apophthegmatist
 amalings
 appeasements
-arrogantness
+arrogantness 1
 aroints
 advantages 1
 adelomorphous
