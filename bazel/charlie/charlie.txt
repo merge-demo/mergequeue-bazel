@@ -20381,7 +20381,7 @@ compacter
 chirked
 colibertus
 compactible
-crampedness
+crampedness 1
 categorizations
 cincinnus
 compactly
