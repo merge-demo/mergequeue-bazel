@@ -5354,7 +5354,7 @@ autophotometry
 anticogitative
 afformative
 abuseful
-affrayers
+affrayers 1
 affraying
 affrays
 admeasured
