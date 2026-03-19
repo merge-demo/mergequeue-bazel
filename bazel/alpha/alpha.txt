@@ -4065,7 +4065,7 @@ automan
 astrophotometrical
 amaracus
 acromion
-agamoid
+agamoid 1
 asarotum
 areometric
 admit
