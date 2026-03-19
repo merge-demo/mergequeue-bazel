@@ -2452,7 +2452,7 @@ fermentescible
 filiform 1
 fielding
 falla
-fornax
+fornax 1
 ferruginated 1
 flowable
 fungal
