@@ -3116,7 +3116,7 @@ basecourt 1
 betokener
 boosting
 boneset
-baselevel
+baselevel 1
 biradiate 1
 bismarck
 bustards
