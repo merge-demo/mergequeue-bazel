@@ -2328,7 +2328,7 @@ encrypting
 eyras
 electroacoustic 1
 electroacoustical
-elfkin
+elfkin 1
 exradius
 electroacoustics
 enthetic
