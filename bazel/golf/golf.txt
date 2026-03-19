@@ -851,7 +851,7 @@ gamdeboo
 girtline
 gliadin
 gonolobus
-gyratory
+gyratory 1
 garewaite
 gloriousness
 gemologies
