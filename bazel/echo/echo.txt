@@ -13883,7 +13883,7 @@ ectobronchium
 eucalyptus
 enviers
 extraessential
-extrafine
+extrafine 1
 espied
 eeyuck
 extragalactic
