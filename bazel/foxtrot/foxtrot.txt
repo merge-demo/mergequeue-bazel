@@ -10068,7 +10068,7 @@ flammability
 fellowed 1
 friskin
 friskiness 1
-frisking
+frisking 1
 frisch
 friskingly
 frisks
