@@ -5285,7 +5285,7 @@ aplysia
 achaetous
 anchor
 arnica
-assisan
+assisan 1
 agency 1
 acrosome
 axis
