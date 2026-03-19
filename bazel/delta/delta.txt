@@ -17757,7 +17757,7 @@ ducdame
 diplocoria
 defector
 duchan
-diagraph
+diagraph 1
 demythologize 1
 dorsigrade
 dwining
