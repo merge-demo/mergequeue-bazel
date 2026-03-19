@@ -9669,7 +9669,7 @@ cheesemaker
 cheesemaking
 cheesemongering
 cheeseparer
-canaster
+canaster 1
 cerebrasthenic
 caravaning
 counseling
