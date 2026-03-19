@@ -5075,7 +5075,7 @@ flumps
 flamelet 1
 fun
 fuligo
-fundless
+fundless 1
 fumettes
 frsikets
 flagboat 1
