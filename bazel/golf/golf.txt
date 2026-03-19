@@ -3462,7 +3462,7 @@ gessoes 1
 gerrhosauridae
 gila
 gestalt
-gestaltist
+gestaltist 1
 gallicisms 1
 gynecology
 grum 1
