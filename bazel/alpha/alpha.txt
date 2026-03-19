@@ -14808,7 +14808,7 @@ antiscii
 abbreviations
 arricciatos
 ascribes
-antichance
+antichance 1
 animatograph
 amperes
 antichlorine
