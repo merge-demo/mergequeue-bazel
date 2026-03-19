@@ -25569,7 +25569,7 @@ clericum
 corp
 corpn
 corpora
-corporacy 1
+corporacy 2
 corporacies
 calcic
 corporalcy
