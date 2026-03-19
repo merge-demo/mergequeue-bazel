@@ -9548,7 +9548,7 @@ fullers 2
 forche 1
 foliated
 fyrd
-fishwives
+fishwives 1
 felicitate
 fotched
 fursemide 1
