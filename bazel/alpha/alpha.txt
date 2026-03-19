@@ -8476,7 +8476,7 @@ alkanethiol
 antherine
 alkanets
 antinomy
-amebocyte
+amebocyte 1
 autophyllogeny
 acanthosis 1
 alkapton
