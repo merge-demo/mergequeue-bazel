@@ -11777,7 +11777,7 @@ analemma
 autopotent
 aconitum
 autexousy 1
-analepses
+analepses 1
 armpad
 agrege
 acacine
