@@ -11743,7 +11743,7 @@ fathom
 foliiform
 flneur
 foresin
-fremdly
+fremdly 1
 florimanist
 flanking 1
 followings 1
