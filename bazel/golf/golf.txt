@@ -8571,7 +8571,7 @@ grat
 growths 1
 gastrocnemius
 glabriety
-griqua
+griqua 1
 gravity
 gnathostomi
 germinal
