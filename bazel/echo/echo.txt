@@ -2396,7 +2396,7 @@ epidotization 1
 exognathion
 etherealisation
 exauthorize
-excentricity
+excentricity 1
 electroscopes
 ethnotechnics 1
 epicaridan
