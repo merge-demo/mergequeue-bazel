@@ -6809,7 +6809,7 @@ fiendliness
 frontal
 flaccidity
 footbeat
-forfalt
+forfalt 1
 faithfuls 1
 finmark
 forams 1
