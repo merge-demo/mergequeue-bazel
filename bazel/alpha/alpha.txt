@@ -4861,7 +4861,7 @@ aerocraft
 arbutes
 aspheterize
 amas
-amoebous
+amoebous 1
 arkwright
 aerodermectasia
 aerodynamical
