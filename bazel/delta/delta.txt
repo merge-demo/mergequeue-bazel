@@ -8619,7 +8619,7 @@ dehydrant
 drainless
 duckhouse
 dyarchies 1
-disjunctor
+disjunctor 1
 davis
 dinge
 debugging
