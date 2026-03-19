@@ -10088,7 +10088,7 @@ abrupt
 adrenal
 arles
 alchymies
-astral
+astral 1
 antasthmatic
 amblystegite
 autodialer
