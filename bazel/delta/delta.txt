@@ -4186,7 +4186,7 @@ deinsularize
 depopulations
 decylenic
 delocalised
-delocalize 1
+delocalize 2
 dermoreaction
 decrustation
 dretch
