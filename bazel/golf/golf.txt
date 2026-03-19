@@ -72,7 +72,7 @@ graftproof
 galliums
 grayish 1
 giddap
-glowing
+glowing 1
 graticule
 geotical
 gay

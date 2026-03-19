@@ -6188,7 +6188,7 @@ diffuseness
 demonstrability
 did
 dimerizes
-derisively
+derisively 1
 derisiveness
 dejeuners
 deferable
