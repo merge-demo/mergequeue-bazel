@@ -6237,7 +6237,7 @@ exodist
 enophthalmus 1
 enorm
 explorement
-exhalations
+exhalations 1
 endopericarditis 1
 exhortator
 enorn
