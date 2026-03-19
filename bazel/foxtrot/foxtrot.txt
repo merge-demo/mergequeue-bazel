@@ -4944,7 +4944,7 @@ foppishly
 fourteens 1
 flamen
 flamandization
-firefanged
+firefanged 1
 funneling
 firepan
 firmware
