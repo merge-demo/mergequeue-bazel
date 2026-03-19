@@ -7197,7 +7197,7 @@ exuviability 1
 emulate 1
 ethal
 electrons
-ecumenic
+ecumenic 1
 elvishly 1
 enneasyllabic
 epoxying
