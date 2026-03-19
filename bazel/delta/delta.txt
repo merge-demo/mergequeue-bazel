@@ -16994,7 +16994,7 @@ defrication
 dampeners
 disemplaned
 dreidels
-dreikanter
+dreikanter 1
 dreynt
 distendedly
 duplicature
