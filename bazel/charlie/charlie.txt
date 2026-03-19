@@ -26954,7 +26954,7 @@ castellated
 cotonier
 countermined
 countermission
-coinfeftment
+coinfeftment 1
 chromophor
 circumsciss
 carburizing
