@@ -10468,7 +10468,7 @@ dister
 droits 1
 denaturate
 diphtheria
-diphtherian
+diphtherian 1
 dogberrydom
 deda 1
 dotty 1
