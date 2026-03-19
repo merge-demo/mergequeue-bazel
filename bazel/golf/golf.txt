@@ -769,7 +769,7 @@ geomorphic
 galvanotropism 1
 guntub
 globulolysis
-gaulter
+gaulter 1
 glossolalist
 gutter
 gluck
