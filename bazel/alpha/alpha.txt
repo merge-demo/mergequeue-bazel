@@ -6824,7 +6824,7 @@ aglipayan
 airfoil
 airfoils
 airglows
-airgraphics
+airgraphics 1
 anisometropia
 androcyte
 airhead
