@@ -9778,7 +9778,7 @@ dclass
 dilettanti
 decriminalizing
 dilettantism
-diligence
+diligence 1
 diligences
 diligent
 dilis
