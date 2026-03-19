@@ -80,7 +80,7 @@ dobbin
 disfavorer
 damning
 direcly
-deescalating
+deescalating 1
 dumb
 deploying
 disqualifiable
