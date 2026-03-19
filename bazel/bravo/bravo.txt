@@ -5324,7 +5324,7 @@ becurry 1
 blueheads 1
 bethesdas 1
 burrer 1
-bivariate
+bivariate 1
 beglide 1
 burkers
 bor
