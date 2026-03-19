@@ -1657,7 +1657,7 @@ betokens
 balmonies
 bloodroot 1
 balmoral
-benefits
+benefits 1
 besoms
 balmorals
 bedticks 1
