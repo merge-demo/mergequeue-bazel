@@ -2636,7 +2636,7 @@ galores
 grayware
 graal
 glims
-gymnosophist
+gymnosophist 1
 genethlic 1
 glossopetra
 goatee
