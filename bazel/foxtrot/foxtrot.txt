@@ -10596,7 +10596,7 @@ filaceous
 fusht
 furtive
 famular
-finched
+finched 1
 fructuate
 flucan
 fishifying
