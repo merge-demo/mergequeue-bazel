@@ -1260,7 +1260,7 @@ enmanche
 eelfare
 encrinite
 emperors
-enrobe
+enrobe 1
 ecclesiarch 2
 eversive
 eking
