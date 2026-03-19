@@ -5825,7 +5825,7 @@ ferr
 freakdom 1
 ferox
 forestallment
-fenestration
+fenestration 1
 flywinch
 fulfils
 flouncey 1
