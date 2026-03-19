@@ -7709,7 +7709,7 @@ firm
 fleawort
 fossa 1
 fidessa
-flinchingly
+flinchingly 1
 foreignly
 flory 1
 fishy
