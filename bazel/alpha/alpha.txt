@@ -15340,7 +15340,7 @@ autodecrements 1
 antispermotoxin
 amphicyon 1
 antihistaminic
-angiospermatous
+angiospermatous 1
 antidogmatism
 antipragmaticism
 attorning
