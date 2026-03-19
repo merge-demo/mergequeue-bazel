@@ -4435,7 +4435,7 @@ beclogs 1
 bretonian
 bilabials
 beclothe
-banting
+banting 1
 bonasus
 breathtakingly
 bhili 1
