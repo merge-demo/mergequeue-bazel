@@ -12477,7 +12477,7 @@ dertrum
 damageableness
 dancette
 dexterity
-defy 1
+defy 2
 deboise
 demesne
 dislimb
