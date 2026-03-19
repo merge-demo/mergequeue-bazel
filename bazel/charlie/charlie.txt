@@ -13751,7 +13751,7 @@ cinema
 cinemactic
 cinemagoer 1
 circumlocutionary
-cinemagoers
+cinemagoers 1
 cinemas
 cinematheque
 carsmith
