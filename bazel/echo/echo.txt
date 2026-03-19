@@ -2946,7 +2946,7 @@ embank
 evaporatively
 erythrasma
 elliptical
-embarrassments
+embarrassments 1
 eyewinks
 elicitation
 elicitor
