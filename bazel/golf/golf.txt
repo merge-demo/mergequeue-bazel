@@ -6334,7 +6334,7 @@ gobony
 gaily
 grail
 gobstopper
-goosenecked
+goosenecked 1
 gemots
 gametal
 gearings 1
