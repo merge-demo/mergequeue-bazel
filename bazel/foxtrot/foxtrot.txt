@@ -692,7 +692,7 @@ fanatico
 fleshlike 1
 forzandos
 fobs
-familism
+familism 1
 firebolted
 farmstead
 forenotion
