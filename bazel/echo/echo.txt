@@ -8700,7 +8700,7 @@ escopet
 eked 1
 equisetaceous
 epicondylar
-endothelia
+endothelia 1
 edgemaking
 enchain
 erupting 1
