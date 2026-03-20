@@ -10740,7 +10740,7 @@ dragonlike
 dips
 dipsacaceous
 deipnosophist
-disavow
+disavow 1
 depriver
 drad
 dun
