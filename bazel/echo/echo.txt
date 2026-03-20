@@ -5141,7 +5141,7 @@ estray
 exsanguinous
 endocoele
 enaliosaurian
-exploiter
+exploiter 1
 effaced
 expositoriness 1
 evanishment
