@@ -18464,7 +18464,7 @@ duplifying 1
 duplone
 disruptiveness
 dendrochronologically
-delator
+delator 1
 dispersant 1
 diapers 1
 dyable
