@@ -8942,7 +8942,7 @@ chemisms
 chargable
 combmaker
 charge
-chargeable
+chargeable 1
 ciphertext 2
 collective
 clements
