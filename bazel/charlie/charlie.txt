@@ -1290,7 +1290,7 @@ cteniform
 cupressinoxylon
 conviciate
 calf
-calfish
+calfish 1
 chromophotograph
 calfkill
 cherished
