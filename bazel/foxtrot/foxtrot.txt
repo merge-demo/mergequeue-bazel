@@ -7783,7 +7783,7 @@ foremother 1
 frithbot
 flyblew 1
 flickery
-faint
+faint 1
 fraenum
 forgathering
 finning
