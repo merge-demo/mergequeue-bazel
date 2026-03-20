@@ -20264,7 +20264,7 @@ chitin
 cliona 1
 communalise
 communalism
-communalistic
+communalistic 1
 confederacies
 communalization 1
 congressional
