@@ -10864,7 +10864,7 @@ arapaho
 acholias
 arctiidae
 ammonion
-ammonitess
+ammonitess 1
 ammonitic
 ammonitoidea
 affording
