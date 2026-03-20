@@ -22385,7 +22385,7 @@ conidae
 champlainic
 conidioid
 conidiophorous
-conidiospore
+conidiospore 1
 copy
 conidium
 conifer
