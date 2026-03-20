@@ -5482,7 +5482,7 @@ feus
 farouk
 foolscap 1
 furunculoid
-flesh
+flesh 1
 forbids
 formes
 filchers
