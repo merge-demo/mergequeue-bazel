@@ -1437,7 +1437,7 @@ adeuism
 amplitude
 accite
 acclaimable
-amblyope
+amblyope 1
 atocha
 anagignoskomena
 acclaimer
