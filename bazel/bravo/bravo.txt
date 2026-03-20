@@ -18262,7 +18262,7 @@ bice
 bagworm
 bronzier
 butternuts 2
-barstool
+barstool 1
 batea
 bunuelo 1
 baggage
