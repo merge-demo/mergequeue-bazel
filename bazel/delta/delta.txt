@@ -520,7 +520,7 @@ dallier 1
 dup
 denuclearizes
 dextromanual
-diminishingturns
+diminishingturns 1
 discustom
 dromotropic
 douse
