@@ -2890,7 +2890,7 @@ cant
 connectionless
 crayfish 1
 cantabank
-canonic
+canonic 1
 curatively
 cacaos
 cantabile
