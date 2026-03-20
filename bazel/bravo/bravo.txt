@@ -16905,7 +16905,7 @@ bugbane
 beaume
 bimetallists
 bugbearish
-burdened
+burdened 1
 barretry
 brassbound
 beneficiate
