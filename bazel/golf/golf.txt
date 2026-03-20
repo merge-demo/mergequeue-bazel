@@ -2725,7 +2725,7 @@ grith 1
 gemmoid
 genit
 gnatho
-groundmass
+groundmass 1
 glozing
 gryllidae
 grather
