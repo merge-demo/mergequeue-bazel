@@ -2480,7 +2480,7 @@ decisions
 decisis
 dribbled
 delays 1
-dixy
+dixy 1
 decisively 1
 darkened
 decitizenize
