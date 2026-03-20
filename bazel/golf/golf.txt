@@ -7502,7 +7502,7 @@ glossodynia
 generalization
 glial 1
 goals 1
-gamogenesis
+gamogenesis 1
 gaen
 glycolytic
 gortonian
