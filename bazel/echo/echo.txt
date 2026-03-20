@@ -13612,7 +13612,7 @@ expurgates
 empedoclean
 effossion
 elinvar 1
-epsilon
+epsilon 1
 epiphytically
 eremurus
 enfeeble
