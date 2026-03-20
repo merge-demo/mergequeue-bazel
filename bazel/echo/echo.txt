@@ -8490,7 +8490,7 @@ expansions 1
 externally
 endball
 exculpation
-eleemosynariness
+eleemosynariness 1
 evolutive
 eupyrene 1
 empties 1
