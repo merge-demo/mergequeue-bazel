@@ -5477,7 +5477,7 @@ alepine
 absorbs 1
 actinophone
 afterbirth 1
-antiutilitarian
+antiutilitarian 1
 atmospheres
 afterblow
 aerarium
