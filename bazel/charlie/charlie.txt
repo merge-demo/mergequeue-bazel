@@ -13210,7 +13210,7 @@ cyclical
 cyclizing
 cyclically
 cyclicalness
-cyclide
+cyclide 1
 cubeb
 cyclindroid
 characterized
