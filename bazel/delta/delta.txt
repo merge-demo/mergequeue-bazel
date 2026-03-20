@@ -9068,7 +9068,7 @@ disparage 1
 defang
 diss 1
 dermatophobia
-defigure
+defigure 1
 dictionarian
 dorsoabdominal
 dollying
