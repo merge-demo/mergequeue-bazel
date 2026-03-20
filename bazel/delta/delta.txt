@@ -3489,7 +3489,7 @@ defoliate 1
 defoliations
 descending
 disjunct 1
-debilitant
+debilitant 1
 dichroscope
 decelerating
 dehydrochlorination
