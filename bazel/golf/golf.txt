@@ -7335,7 +7335,7 @@ grainless 1
 gossamered
 galega
 gossamers
-galloglass
+galloglass 1
 geochronometric
 gibby
 glareole
