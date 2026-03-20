@@ -14519,7 +14519,7 @@ defiles
 diviner
 divinesse 3
 decarburised
-disjointly
+disjointly 1
 demotic
 dyadic
 divinister
