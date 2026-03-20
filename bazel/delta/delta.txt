@@ -12026,7 +12026,7 @@ devanagari 1
 demonkind
 disenfranchises
 disintertwine
-divinest
+divinest 1
 diapsid
 driest
 duckfoot
