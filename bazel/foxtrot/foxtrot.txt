@@ -9665,7 +9665,7 @@ fulgorous
 fruit
 fowled
 flipflop
-foretoken
+foretoken 1
 faldstool
 fringe
 fouquieria
