@@ -7931,7 +7931,7 @@ goggling
 gnomically
 gentilization
 gladded
-gallantly
+gallantly 1
 grandads
 goracco
 gerbil
