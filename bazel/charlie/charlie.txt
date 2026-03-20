@@ -15604,7 +15604,7 @@ countering
 clatterer
 crucifier
 clattery
-captainly
+captainly 1
 clattering
 chicaner
 capryl
