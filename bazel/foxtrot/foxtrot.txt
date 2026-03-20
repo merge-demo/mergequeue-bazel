@@ -6249,7 +6249,7 @@ farmtown
 fluidic 1
 flapdragon
 friendlike
-frankeniaceous
+frankeniaceous 1
 fecit 1
 fluidified
 fluoarsenate
