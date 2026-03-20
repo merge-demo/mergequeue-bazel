@@ -13002,7 +13002,7 @@ distater
 dispand
 descaling
 diphthongized
-deallocated
+deallocated 1
 doweries
 dispar
 disparageable
