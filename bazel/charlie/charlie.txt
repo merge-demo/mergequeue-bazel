@@ -12808,7 +12808,7 @@ crumpy
 center 1
 cuartino
 comburimetry
-chunkiness
+chunkiness 1
 chunks
 chunner
 chuntered
