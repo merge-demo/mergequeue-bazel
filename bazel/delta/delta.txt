@@ -15749,7 +15749,7 @@ dorm
 donec
 downlie
 doggoneder
-dormancies
+dormancies 1
 dizygotic
 dormers
 dormette
