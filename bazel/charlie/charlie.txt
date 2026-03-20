@@ -2563,7 +2563,7 @@ chinol
 castellanship
 candlesticks
 cogniser
-candlewaster
+candlewaster 1
 choledocholithotripsy 1
 cambial
 crocoisite
