@@ -15935,7 +15935,7 @@ drybeard
 dotation 1
 dictate
 digammic
-discoid
+discoid 1
 dotchin
 dote
 dynamitic
