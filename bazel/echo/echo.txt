@@ -4518,7 +4518,7 @@ elsewhat
 enforcing
 exterminator 1
 encephalomas
-escudo
+escudo 1
 encephalomeningocele 1
 evenglome
 endoerythrocytic
