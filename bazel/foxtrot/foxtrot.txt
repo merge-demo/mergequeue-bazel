@@ -6303,7 +6303,7 @@ flumes
 fluminous
 freak
 fluxibility
-flummer
+flummer 1
 flickerproof
 flintlocks
 fistnote
