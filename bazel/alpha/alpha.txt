@@ -17308,7 +17308,7 @@ amrelle
 audiometer
 auguste
 actors
-apeirophobia
+apeirophobia 1
 autocollimator 1
 algaecide
 antiforeign
