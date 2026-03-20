@@ -9944,7 +9944,7 @@ androeccia
 amaze
 airlocks
 akroterial
-autotrophy
+autotrophy 1
 addict
 amplitudes 1
 anatomicopathological
