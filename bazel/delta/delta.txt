@@ -8090,7 +8090,7 @@ desugar
 durzi
 dhourras
 dispersedye
-dhritarashtra
+dhritarashtra 1
 disables
 disembowelled
 drawable 1
