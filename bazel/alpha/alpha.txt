@@ -12918,7 +12918,7 @@ adoptees
 aire
 ango 1
 angoise
-angolese
+angolese 1
 arbitral
 assertoric
 ascitb
