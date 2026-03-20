@@ -2345,7 +2345,7 @@ epicenity
 epically 1
 effulge
 enchants
-epistroma
+epistroma 1
 electrocardiogram 1
 enclear
 ever
