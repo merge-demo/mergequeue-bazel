@@ -12357,7 +12357,7 @@ expects
 exhibitors
 endorsers
 excrescencies
-exflect
+exflect 1
 endower
 enteromyiasis 1
 epicleidium
