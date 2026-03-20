@@ -12576,7 +12576,7 @@ exobasidiales
 etc 1
 exclaim
 ergonovine 1
-exobasidium
+exobasidium 1
 eupathy 1
 enlure
 echuca
