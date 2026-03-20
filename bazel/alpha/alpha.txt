@@ -22804,7 +22804,7 @@ atlantosaurus
 atlases
 annulling
 apropos
-amplificator
+amplificator 1
 atloid
 atloidean
 arousals
