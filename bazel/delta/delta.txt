@@ -3418,7 +3418,7 @@ dichlorvos
 devitrifying 2
 deflesh
 deflexibility
-dysgenics
+dysgenics 1
 diversely
 deflocculant
 dragsman
