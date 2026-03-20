@@ -2832,7 +2832,7 @@ areometer
 arianrhod
 acromiohumeral
 accrete
-actuals
+actuals 1
 adinida
 acromphalus
 acronic
