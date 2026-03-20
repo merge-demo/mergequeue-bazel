@@ -2591,7 +2591,7 @@ gargling
 gametogeny
 generant
 generate 1
-guitars
+guitars 1
 gypsiferous
 generated
 gazetteerage
