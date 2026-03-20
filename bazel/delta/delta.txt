@@ -12741,7 +12741,7 @@ dosimetry
 dustcloth
 dehydratase
 doggrels
-dispensability
+dispensability 1
 dorsilateral
 dislocating
 drawbars
