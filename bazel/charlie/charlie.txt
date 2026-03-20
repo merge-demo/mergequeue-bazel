@@ -8316,7 +8316,7 @@ concussation
 canapes
 chalkiness
 chalking
-chalklike
+chalklike 1
 chalkline
 columnated
 chalkone
