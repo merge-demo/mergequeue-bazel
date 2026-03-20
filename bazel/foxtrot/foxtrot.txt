@@ -192,7 +192,7 @@ factorable
 flimsies 1
 forcut
 finitary
-factoryship
+factoryship 1
 floatiness
 fraudulence
 fusinite
