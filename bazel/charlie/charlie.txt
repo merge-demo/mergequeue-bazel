@@ -22528,7 +22528,7 @@ conjured
 conjurement
 canel
 championlike
-conjures
+conjures 1
 conjuring
 cricetine
 conk
