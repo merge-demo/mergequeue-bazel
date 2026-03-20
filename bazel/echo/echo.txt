@@ -13998,7 +13998,7 @@ entemple
 extraposition
 electrolytic
 extraprofessional
-extrapunitive
+extrapunitive 1
 equinity
 eustacy 1
 extraregarding
