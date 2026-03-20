@@ -6735,7 +6735,7 @@ fomalhaut
 folliculin
 fanny
 fuchsinophil
-featherbed
+featherbed 1
 fluorescent 1
 forspeaking
 flamming
