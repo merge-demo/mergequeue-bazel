@@ -2801,7 +2801,7 @@ decremeter
 dicyemida
 demarches
 deftnesses
-duodecahedral
+duodecahedral 1
 dint
 drypoints
 dari
