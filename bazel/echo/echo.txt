@@ -2064,7 +2064,7 @@ elaic
 enteroplegia
 elaioplast
 elamite 1
-elamitish
+elamitish 1
 episcope
 electrophorese
 evilly
