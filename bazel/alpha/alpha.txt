@@ -7809,7 +7809,7 @@ aldolized
 aldolizing 1
 aldols
 aldose
-aldoside
+aldoside 1
 aldosterone
 antonia
 aldosteronism
