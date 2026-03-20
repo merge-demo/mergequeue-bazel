@@ -6932,7 +6932,7 @@ beshow 1
 birdeen
 batching
 brubru
-brachinus
+brachinus 1
 bleacherman
 beastbane
 bewildering
