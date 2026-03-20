@@ -9396,7 +9396,7 @@ diadumenus
 decrete
 durabilities
 decadic
-discontentive
+discontentive 1
 dissoluble
 diffusate
 dipnoous
