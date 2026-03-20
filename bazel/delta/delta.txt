@@ -15446,7 +15446,7 @@ dominions
 delocalising
 doorway
 dominique
-despairingly
+despairingly 1
 dewanship
 deboners
 dominule 1
