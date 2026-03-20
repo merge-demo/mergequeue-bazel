@@ -1044,7 +1044,7 @@ folates 1
 farmership 1
 flypaper
 formicarian
-frieda
+frieda 1
 focalization
 flopper
 felspathose
