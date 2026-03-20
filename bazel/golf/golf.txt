@@ -4225,7 +4225,7 @@ gliosa
 greenovite
 gigantosaurus
 gonidiose
-ghibelline
+ghibelline 1
 gynaecium
 gunned
 grovel
