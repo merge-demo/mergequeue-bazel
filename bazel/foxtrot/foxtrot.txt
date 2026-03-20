@@ -2443,7 +2443,7 @@ foh
 fingu
 frontwise
 foreproduct
-fermentable
+fermentable 1
 fermentativeness 1
 faradize 1
 falus
