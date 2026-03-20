@@ -12546,7 +12546,7 @@ exculpative
 extoolitic
 enactable
 esonarthex
-enameler
+enameler 1
 electrofusion 1
 extant
 existlessness
