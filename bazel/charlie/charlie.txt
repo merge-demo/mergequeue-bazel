@@ -17678,7 +17678,7 @@ cocircular
 cultrirostres
 catodont
 cocitizen
-cocitizenship
+cocitizenship 1
 cockade
 colour
 colonisation
