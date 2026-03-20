@@ -15630,7 +15630,7 @@ antinihilist
 attacked
 allegorister
 arcus
-awfulness
+awfulness 1
 anandrous 1
 archangels
 antinome
