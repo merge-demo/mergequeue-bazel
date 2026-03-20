@@ -5249,7 +5249,7 @@ gleys 1
 gynecopathic
 grindery
 grissons
-gloamings
+gloamings 1
 gaited
 gemmipara 1
 golgi 1
