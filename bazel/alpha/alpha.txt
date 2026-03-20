@@ -18624,7 +18624,7 @@ archaeolith
 archaeologer 1
 adding
 adiathermal
-artemisic
+artemisic 1
 adoral
 archaeologic
 archaeological
