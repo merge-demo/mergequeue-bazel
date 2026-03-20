@@ -6430,7 +6430,7 @@ garbing
 glossopteris 1
 golaseccan
 glassman
-gobiesocid
+gobiesocid 1
 geostrophic
 gymnocladus
 grows 2
