@@ -4423,7 +4423,7 @@ gearcases
 gongs 1
 grifter
 gorgoneum
-guestling 1
+guestling 2
 gutted
 ghaut
 gluer
