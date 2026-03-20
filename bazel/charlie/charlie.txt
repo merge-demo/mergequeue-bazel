@@ -19274,7 +19274,7 @@ colongitude
 colony
 crabbier
 cabezones
-coresidence
+coresidence 1
 chelem
 colonialists
 cyclospondyli
