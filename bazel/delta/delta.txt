@@ -4648,7 +4648,7 @@ denticulate
 demise
 demisecond
 demised
-depas
+depas 1
 didynamia
 diploglossate
 delineable
