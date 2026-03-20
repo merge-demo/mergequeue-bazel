@@ -14588,7 +14588,7 @@ deoxyribonucleoprotein
 dismemberment
 dwells
 demureness
-denotive
+denotive 1
 demiurgically
 disastrousness
 dysfunction
