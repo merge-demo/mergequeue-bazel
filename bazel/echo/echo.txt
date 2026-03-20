@@ -13104,7 +13104,7 @@ expediency 1
 ecoclimate
 experientialism
 eschevin
-encarpuspi
+encarpuspi 1
 entosarc 1
 extensionality
 ergology
