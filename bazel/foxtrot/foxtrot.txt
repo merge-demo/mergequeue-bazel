@@ -5845,7 +5845,7 @@ fodders
 flounders 1
 flotas
 floatier
-flustrum
+flustrum 1
 fulcrums 1
 flidge
 fitz
