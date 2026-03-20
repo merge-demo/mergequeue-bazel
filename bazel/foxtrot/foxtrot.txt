@@ -6036,7 +6036,7 @@ fresco 1
 fermorite
 flightiness
 finger
-fontange
+fontange 1
 forgab
 frontooccipital
 flanker 1
