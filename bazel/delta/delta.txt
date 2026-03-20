@@ -5943,7 +5943,7 @@ depreter
 depriment
 deprint
 depriorize
-disorderedness
+disorderedness 1
 deprivable
 degrader
 departements
