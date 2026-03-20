@@ -4562,7 +4562,7 @@ gil 2
 generalate
 goosebill 1
 geometrid 1
-grating
+grating 1
 goupen
 grasscutter
 giojoso
