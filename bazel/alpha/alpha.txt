@@ -3520,7 +3520,7 @@ antierysipelas
 addn
 acknowledgements 1
 addr 1
-allotheistic
+allotheistic 1
 actinography
 azores
 addressable
