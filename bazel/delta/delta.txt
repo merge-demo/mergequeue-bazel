@@ -9446,7 +9446,7 @@ dibatag
 drunkelew
 doomfulness
 delaw
-demode
+demode 1
 doppelganger
 davidsonite 1
 dozener
