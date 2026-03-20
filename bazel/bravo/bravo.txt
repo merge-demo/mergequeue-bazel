@@ -6595,7 +6595,7 @@ beetlers
 bacharach
 bukh
 bodyplate 1
-beant
+beant 1
 bereaves
 boninesses 1
 basioccipital
