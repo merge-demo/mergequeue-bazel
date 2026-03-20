@@ -1262,7 +1262,7 @@ galliardly
 grognard
 geneki
 griffes
-gapper
+gapper 1
 glutinosity
 guib
 grimaces
