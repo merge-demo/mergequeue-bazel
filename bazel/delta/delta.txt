@@ -12235,7 +12235,7 @@ durous
 detector
 dampers
 deviators
-dysfunctions
+dysfunctions 1
 disfurnish
 deport
 disfurnished
