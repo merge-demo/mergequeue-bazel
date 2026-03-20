@@ -6372,7 +6372,7 @@ bibulous
 benzodiazole
 burdener
 benzofulvene
-bollen
+bollen 1
 benzofuran 1
 benzofuryl 2
 bracted
