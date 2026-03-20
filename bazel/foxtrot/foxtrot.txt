@@ -4216,7 +4216,7 @@ fruitlessness 1
 finialed 1
 fragmentally
 flagrant
-fibrilliform
+fibrilliform 1
 finnish 1
 firefighting
 flute
