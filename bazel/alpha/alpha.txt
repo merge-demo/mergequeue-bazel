@@ -18521,7 +18521,7 @@ addresses
 acceptees
 austrophile 1
 arboricoline
-arboricolous
+arboricolous 1
 arboriculture
 abject
 ateknia 1
