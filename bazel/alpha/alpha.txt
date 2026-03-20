@@ -8867,7 +8867,7 @@ adaptionism
 alcoves
 allochlorophyll 1
 antigropelos
-allochroic
+allochroic 1
 anticosmetic 1
 aeolodicon
 allochthon
