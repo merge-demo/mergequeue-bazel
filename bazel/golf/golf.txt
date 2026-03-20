@@ -9235,7 +9235,7 @@ grandees
 genethlialogic
 goliard
 grisly
-glagolitic
+glagolitic 1
 gravigrade
 grahamite
 grist
