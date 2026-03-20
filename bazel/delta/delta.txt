@@ -315,7 +315,7 @@ dissuasiveness
 dollfaced
 daybill
 downcomer
-disinteress
+disinteress 1
 dourine
 dalasi
 daybooks
