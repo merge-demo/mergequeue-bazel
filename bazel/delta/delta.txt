@@ -13127,7 +13127,7 @@ deflourish
 decurved
 didactive
 dispersedness
-detonates
+detonates 1
 desynonymization
 dispersers
 dreigh
