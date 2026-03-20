@@ -7275,7 +7275,7 @@ deteriorating
 deterioration
 deuce
 data
-dear
+dear 1
 dicyan
 diamondlike
 dreamily
