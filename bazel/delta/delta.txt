@@ -2216,7 +2216,7 @@ diatomaceae
 desultoriness
 deliliria
 divvying
-deacidify
+deacidify 1
 decreative
 dendrophile
 dissipativity
