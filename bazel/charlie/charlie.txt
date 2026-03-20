@@ -11049,7 +11049,7 @@ coevolvedcoevolves
 collectable
 chiselmouth
 chisels 1
-chisled
+chisled 1
 clarkeites
 conichalcite
 chistka
