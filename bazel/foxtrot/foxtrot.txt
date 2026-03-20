@@ -3560,7 +3560,7 @@ fath
 flaggelating
 filaments
 fistule
-flexibility
+flexibility 1
 formularise
 filarian
 fattily
