@@ -3005,7 +3005,7 @@ enallage
 elinguate 1
 enfield
 eleatic
-eleoblast
+eleoblast 1
 evaluate
 extine
 efflorescence
