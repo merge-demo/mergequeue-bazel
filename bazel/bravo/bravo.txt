@@ -2735,7 +2735,7 @@ batholitic
 baroko
 bubastite
 backward 1
-beltline 1
+beltline 2
 bullbat
 bismutoplagionite
 barolo
