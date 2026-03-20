@@ -3403,7 +3403,7 @@ gorkun
 galbe 1
 glaciable 1
 gyroscopic 2
-gainor
+gainor 1
 guttulate
 gymnoceratous
 geosid
