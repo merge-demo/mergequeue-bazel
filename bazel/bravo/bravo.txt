@@ -15125,7 +15125,7 @@ bretwalda 1
 byeworker
 buccinae
 baronduki
-beqwete
+beqwete 1
 boar
 bogier
 baw
