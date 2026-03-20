@@ -11462,7 +11462,7 @@ dissuasive
 discodactylous
 damasse
 dispositive
-deskbound
+deskbound 1
 dyotheletic 1
 dividuous
 dilatingly
