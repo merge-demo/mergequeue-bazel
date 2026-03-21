@@ -3602,7 +3602,7 @@ fourniture 1
 flank
 filers
 fructification 1
-felinity
+felinity 1
 floorway
 files
 fiddle
