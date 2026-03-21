@@ -2394,7 +2394,7 @@ crambly
 correlatively
 canc
 coffined 1
-canceled
+canceled 1
 canceleer 1
 canceler
 cancellable
