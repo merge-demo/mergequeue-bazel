@@ -2285,7 +2285,7 @@ downcut 1
 derby
 decemviral
 deepish
-decemvirship
+decemvirship 1
 decayer
 decene 1
 depurator
