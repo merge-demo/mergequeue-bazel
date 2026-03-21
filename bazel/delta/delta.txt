@@ -10252,7 +10252,7 @@ dins
 defenestrate
 dinted
 dintless
-ducal
+ducal 1
 degradedly
 dinus
 dermoskeleton
