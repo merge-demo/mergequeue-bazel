@@ -3060,7 +3060,7 @@ fenestra
 fasciolidae
 foursquare
 fishier
-fibreless
+fibreless 1
 flatcar 1
 foregone 1
 fractionalization
