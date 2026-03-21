@@ -2217,7 +2217,7 @@ achromatocyte 1
 agarum
 arctalian 1
 awestruck
-aerosolizing
+aerosolizing 1
 anent
 achromatope
 autodecrement
