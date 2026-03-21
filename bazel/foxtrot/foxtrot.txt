@@ -2340,7 +2340,7 @@ falsetto
 feoffs
 fasciole
 fra
-fiftyfold
+fiftyfold 1
 footstalk
 formalizing
 fer
