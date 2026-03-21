@@ -12891,7 +12891,7 @@ dhikrs
 det 1
 deceptible
 discepting
-dissatisfies
+dissatisfies 1
 dismortgaging
 divisionism
 drawls
