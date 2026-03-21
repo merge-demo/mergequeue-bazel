@@ -30578,7 +30578,7 @@ cubocube
 cashboy
 crepidula
 cubocuneiform 1
-cubododecahedral
+cubododecahedral 1
 concarnation
 cuboid
 conopholis
