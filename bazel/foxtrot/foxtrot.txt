@@ -11753,7 +11753,7 @@ fuzees
 faultfinders
 fuzzier
 fuzziest 1
-forstraught
+forstraught 1
 fertilitate
 fianna
 forloin
