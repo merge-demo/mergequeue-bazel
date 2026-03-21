@@ -3013,7 +3013,7 @@ cortege
 colander 1
 cantonal
 cantonalism
-crapelike
+crapelike 1
 cantoner 1
 cowleeching
 cellocut
