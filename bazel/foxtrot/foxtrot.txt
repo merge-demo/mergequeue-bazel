@@ -6737,7 +6737,7 @@ fanny
 fuchsinophil
 featherbed
 fluorescent 1
-forspeaking
+forspeaking 1
 flamming
 fittest
 foiningly
