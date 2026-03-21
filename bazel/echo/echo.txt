@@ -865,7 +865,7 @@ epistolizer 1
 eigenfunction
 erythrocytolysin
 electrocution
-encomiastical
+encomiastical 1
 endophyte
 entailed
 ectomorph
