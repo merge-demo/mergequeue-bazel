@@ -5570,7 +5570,7 @@ felsitic
 flyby 1
 fratch
 flybys
-forfault
+forfault 1
 fallaciously
 filamentar
 fiendlike
