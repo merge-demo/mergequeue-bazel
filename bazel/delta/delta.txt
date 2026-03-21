@@ -13650,7 +13650,7 @@ dissimilars 2
 dorize
 dequantitate
 diedral
-dissimilate
+dissimilate 1
 depletion 1
 disacquaintance
 dissimilative
