@@ -27563,7 +27563,7 @@ consumation
 coverlids
 clairce
 coverslip
-covertly
+covertly 1
 colloquialist
 cadency
 cupmaker
