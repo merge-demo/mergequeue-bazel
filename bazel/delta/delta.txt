@@ -15288,7 +15288,7 @@ dolmen
 desubstantiate 1
 dolomedes
 discovery
-dolomite
+dolomite 1
 derries 1
 dose
 dolomitic
