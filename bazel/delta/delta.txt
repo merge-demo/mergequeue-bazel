@@ -370,7 +370,7 @@ detruss
 daymares
 disseizes
 diarists
-discoloured
+discoloured 1
 dasher
 daymark
 doupion
