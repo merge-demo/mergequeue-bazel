@@ -2319,7 +2319,7 @@ dishwash
 dismounted
 diagraphs
 dekaparsec
-dermatropic
+dermatropic 1
 dactylioglyphic
 danglement
 drat
