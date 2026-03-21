@@ -17594,7 +17594,7 @@ ancillaries
 appendicularia
 aboulias
 azygosperm
-appendiculate
+appendiculate 1
 alectoris
 autovalve
 appendorontgenography
