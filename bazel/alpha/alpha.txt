@@ -1552,7 +1552,7 @@ accordaturas
 acrocarpous
 accordingly
 accordionist
-ascan
+ascan 1
 angelim
 adamical
 appended
