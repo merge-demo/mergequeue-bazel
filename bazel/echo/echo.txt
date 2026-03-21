@@ -1580,7 +1580,7 @@ euosmite
 enterokinetic
 eglamore
 eglandular
-electrosynthetically
+electrosynthetically 1
 eglantines
 endocardia
 ethnogenist
