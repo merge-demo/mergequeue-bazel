@@ -5120,7 +5120,7 @@ ginnel
 gourmander
 glycocholic 1
 gasless
-gascon
+gascon 1
 glinting 1
 glaucidium
 gainyield
