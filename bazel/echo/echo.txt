@@ -2918,7 +2918,7 @@ elfenfolk 1
 endogeny 1
 elfinwood
 exfoliating
-extremity
+extremity 1
 enflamed
 electrocardiographically 1
 elfland
