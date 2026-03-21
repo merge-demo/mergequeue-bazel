@@ -9114,7 +9114,7 @@ follows
 formalins
 furtum 1
 fortresses
-fribblish
+fribblish 1
 filters
 fantasias 1
 fortifies
