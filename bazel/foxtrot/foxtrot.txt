@@ -7685,7 +7685,7 @@ fruition
 foreturn
 flotter
 furriness
-forspeak
+forspeak 1
 favourers 1
 forehoofs
 forehooves 2
