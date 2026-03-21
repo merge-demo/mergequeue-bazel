@@ -9597,7 +9597,7 @@ doctordom 1
 dollie
 digressional
 digressive
-digressory
+digressory 1
 dastard
 disencumbers
 dartsman
