@@ -5381,7 +5381,7 @@ forthset 1
 flutists
 fleche
 forelady
-folliculate
+folliculate 1
 flechettes
 flecked
 forkhead
