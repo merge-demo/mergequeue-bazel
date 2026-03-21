@@ -17485,7 +17485,7 @@ antigonus
 apparats
 apparatus
 appareling 1
-apparency
+apparency 1
 apparentements
 airify
 anoxyscope
