@@ -6632,7 +6632,7 @@ demembration
 demerol
 deperming
 dreamwhile 1
-desert
+desert 1
 darkroom
 deescalated 1
 deacidification
