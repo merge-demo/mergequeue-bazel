@@ -15805,7 +15805,7 @@ caddice
 clearinghouse 1
 congratulating
 chauffeur
-clearinghouses
+clearinghouses 1
 clearings
 clearish
 condescendence
