@@ -4121,7 +4121,7 @@ glutamine
 gastroduodenostomies
 gimleting 2
 gesnerad
-geotaxes
+geotaxes 1
 gettysburg
 gargoyle
 glosts
