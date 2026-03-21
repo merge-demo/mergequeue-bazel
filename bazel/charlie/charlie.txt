@@ -29236,7 +29236,7 @@ cryptanalyze
 cothamore
 capybara
 cryptanalyzing
-cryptarch
+cryptarch 1
 cryptarchy
 caracols
 crypteroniaceae
