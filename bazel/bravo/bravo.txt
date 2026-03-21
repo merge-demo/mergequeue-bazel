@@ -10468,7 +10468,7 @@ blunderingly
 bemaster
 brelaw
 blastemic
-bopyrid
+bopyrid 1
 blaster
 blastid
 blart
