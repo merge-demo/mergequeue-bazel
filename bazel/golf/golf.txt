@@ -2475,7 +2475,7 @@ gimble 1
 gonopodial
 gemmology
 globality
-gnathidium
+gnathidium 1
 glabrate 1
 girt
 gillflirt
