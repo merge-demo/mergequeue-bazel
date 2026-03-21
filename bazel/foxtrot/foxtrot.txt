@@ -1789,7 +1789,7 @@ frogmen 1
 flabra
 flutina
 flaunts
-foredoes
+foredoes 1
 flannelet
 featherwing
 featherwise
