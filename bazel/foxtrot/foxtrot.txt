@@ -8584,7 +8584,7 @@ fieldman
 frameshift
 fullfil 1
 fissionable 1
-fungating
+fungating 1
 farmsteading
 forninst
 fricative
