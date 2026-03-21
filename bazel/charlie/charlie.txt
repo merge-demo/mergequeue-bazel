@@ -2170,7 +2170,7 @@ camphols
 contemnor
 camphorated
 camphorates
-camphory
+camphory 1
 camphoryl
 corgi
 camphoroyl
