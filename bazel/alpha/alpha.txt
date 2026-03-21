@@ -11601,7 +11601,7 @@ aubin
 anachronismatical
 achamoth
 agars
-afright
+afright 1
 anachronize
 animalish
 albuminuria
