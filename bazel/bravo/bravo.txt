@@ -1399,7 +1399,7 @@ battable
 balefires
 bewreak 1
 barmbrack
-branned
+branned 1
 baleys
 baleise
 bougainvillaea
