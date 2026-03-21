@@ -5226,7 +5226,7 @@ flavescence
 fingall
 flytrap 1
 filius
-flavescent
+flavescent 1
 funguses
 flews 1
 farse
