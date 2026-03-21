@@ -5666,7 +5666,7 @@ enforth
 estrangle 2
 eigenvalue 1
 epithi 1
-ensnarers
+ensnarers 1
 exhibitorial 1
 exquisitism
 enframed
