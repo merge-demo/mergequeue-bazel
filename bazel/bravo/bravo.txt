@@ -9415,7 +9415,7 @@ birectangular
 burh
 bireme
 bedlids
-begeck
+begeck 1
 bacteriostat
 babishly
 betassel
