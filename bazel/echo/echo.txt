@@ -3187,7 +3187,7 @@ elaborate
 evinced
 egghead
 entertainingness 1
-envisagement
+envisagement 1
 eichbergite
 eureka
 embosomed 1
