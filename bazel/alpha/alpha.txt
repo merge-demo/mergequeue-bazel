@@ -11079,7 +11079,7 @@ amove
 achakzai
 amylolytic
 ampangabeite
-archsin
+archsin 1
 accessor
 alliances
 ampasimenite 1
