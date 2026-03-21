@@ -22528,7 +22528,7 @@ atavi
 anansi
 atavic
 atmoclastic
-auxesis
+auxesis 1
 annihilation 1
 acquiescently
 anarchosyndicalism
