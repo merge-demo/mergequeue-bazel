@@ -16964,7 +16964,7 @@ bedewoman
 buildups 1
 bordure
 bespeakable
-bedwarmer
+bedwarmer 1
 backland
 briolettes 1
 beclowned
