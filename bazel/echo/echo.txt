@@ -3932,7 +3932,7 @@ electrogalvanize
 emmetropy 1
 equationally
 endplates
-enanthem
+enanthem 1
 emmett
 existentialism
 ethnic
