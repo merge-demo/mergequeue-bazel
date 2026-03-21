@@ -10869,7 +10869,7 @@ disyoke
 deindustrialize
 daekon
 disedge
-dirity
+dirity 1
 daised 1
 dirked
 dhabb
