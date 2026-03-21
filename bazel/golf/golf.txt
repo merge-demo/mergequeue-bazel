@@ -1923,7 +1923,7 @@ globulet
 gunboat
 gaudless
 ganglia
-gulped
+gulped 1
 gastromycosis
 geal
 garnetwork
