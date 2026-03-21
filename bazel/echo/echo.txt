@@ -5555,7 +5555,7 @@ enfeeblish 1
 effectful
 epilimnetic
 euhemerizing
-encourage
+encourage 1
 etherlike
 enfeoffing
 episcopant
