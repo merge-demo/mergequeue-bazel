@@ -5221,7 +5221,7 @@ affectivity
 affector
 accoast
 affeerer
-aum
+aum 1
 ankerite
 almendron
 ampulated
