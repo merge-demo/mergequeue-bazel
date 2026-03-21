@@ -9426,7 +9426,7 @@ geminally
 gitksan
 goldtit
 garbline
-glorify
+glorify 1
 gobia
 galliot
 gouramis
