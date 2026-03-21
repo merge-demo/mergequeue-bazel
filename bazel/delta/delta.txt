@@ -2002,7 +2002,7 @@ dynapolis
 dolichocephal 1
 documentalist
 denehole
-dentello
+dentello 1
 dimble 1
 defaecate
 dysphasia
