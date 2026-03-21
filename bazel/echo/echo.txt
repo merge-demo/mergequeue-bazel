@@ -5639,7 +5639,7 @@ enteroscopy 1
 elysium
 esophoria
 enforceable
-ectocarpous
+ectocarpous 1
 encitadel
 enlisters
 egalitarianism
