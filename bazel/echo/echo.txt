@@ -12824,7 +12824,7 @@ extraretinal
 evangelicity
 ensepulchered
 ecanda
-edgeways
+edgeways 1
 excavation
 empacket
 elinguated
