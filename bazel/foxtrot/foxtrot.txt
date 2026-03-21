@@ -10365,7 +10365,7 @@ foreboard
 feldspathization
 francium
 flashcube
-fletcherite
+fletcherite 1
 formatting 1
 frontierless
 fireproofness
