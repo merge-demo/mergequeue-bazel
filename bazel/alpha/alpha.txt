@@ -5642,7 +5642,7 @@ acrocoracoid
 agacante
 accrue
 axbreaker
-agacerie
+agacerie 1
 austromancy
 alloiometry
 acoelomatous
