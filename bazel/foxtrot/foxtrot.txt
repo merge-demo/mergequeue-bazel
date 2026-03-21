@@ -10317,7 +10317,7 @@ foredoing
 fluoridized 1
 faceman
 fortiori
-flexible
+flexible 1
 frondless
 feezing
 ferrado
