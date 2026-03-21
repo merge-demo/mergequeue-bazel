@@ -14094,7 +14094,7 @@ entour
 extremuma 1
 ectozoa
 extrasacerdotal
-extricable
+extricable 1
 extricably
 egbo
 enjoyer
