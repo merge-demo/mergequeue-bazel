@@ -2150,7 +2150,7 @@ foliature
 fitch
 fawnier
 fezzy 1
-fallenness
+fallenness 1
 flypapers
 fraudulently
 fellowships
