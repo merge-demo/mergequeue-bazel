@@ -10351,7 +10351,7 @@ diorama 1
 daroo
 diophantine
 driftpiece
-dowsing
+dowsing 1
 dentata
 derelictly
 degeneracy
