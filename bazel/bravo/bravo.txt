@@ -12990,7 +12990,7 @@ bedquilts
 barmaid
 boppist
 brideless
-bloomers
+bloomers 1
 bombazine
 balanid
 boracite
