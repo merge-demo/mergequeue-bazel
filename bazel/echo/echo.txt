@@ -13619,7 +13619,7 @@ enfeeble
 emamelware
 epitaph
 extending
-endoblastic
+endoblastic 1
 experienced
 ears 1
 ethnomusicologically
