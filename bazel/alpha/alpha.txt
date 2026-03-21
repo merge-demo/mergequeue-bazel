@@ -20439,7 +20439,7 @@ autosymnoia
 alme
 artemision
 artemisium
-autoptical
+autoptical 1
 antiskidding 1
 assistances
 amatito
