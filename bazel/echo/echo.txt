@@ -4546,7 +4546,7 @@ encephalophyma
 ethynylation
 entoptoscope
 emigrationist
-encephalos
+encephalos 1
 encapsulated
 empales
 encephalospinal
