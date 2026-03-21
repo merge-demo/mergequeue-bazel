@@ -6690,7 +6690,7 @@ ceilers
 ceilidhe 1
 connexivum
 ceiling
-ceilings
+ceilings 1
 ceilingwards
 copiability
 celtophobia

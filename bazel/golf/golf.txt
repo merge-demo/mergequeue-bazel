@@ -6380,7 +6380,7 @@ gugal
 gospelwards
 germanophile
 greenwort
-guesstimate
+guesstimate 1
 glossophaga
 gulmohar
 galloped
