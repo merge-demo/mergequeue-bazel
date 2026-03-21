@@ -16766,7 +16766,7 @@ astronauts
 albatros 1
 amphigonia
 adultoid
-aphydrotropic
+aphydrotropic 1
 adepts
 aphydrotropism 1
 aphilanthropy
