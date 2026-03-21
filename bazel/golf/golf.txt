@@ -2083,7 +2083,7 @@ glancing 1
 gyrocompasses
 gringos
 guilefully
-gawgaw
+gawgaw 1
 goldenseal
 gillian
 governments
