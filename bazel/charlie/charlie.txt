@@ -4178,7 +4178,7 @@ cardiomyomalacia
 cardiomyopathy
 camshaft
 cardionecrosis
-cannibal
+cannibal 1
 cardioneurosis
 cardiopath
 cardiopathic
