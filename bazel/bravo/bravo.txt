@@ -5590,7 +5590,7 @@ basinasal
 boulanger
 bela
 beluchi
-burgonets
+burgonets 1
 bruscus
 belash
 blobbed
