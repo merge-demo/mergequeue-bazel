@@ -1749,7 +1749,7 @@ accustomation
 armouring
 adelaster
 armpit
-accustomedly
+accustomedly 1
 accustomizing
 anisyl
 adiamorphism 1
