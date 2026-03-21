@@ -7639,7 +7639,7 @@ extrafascicular 1
 extratelluric
 epicondylic
 erected
-epoptist
+epoptist 1
 equichangeable
 enviousness
 encephalous
