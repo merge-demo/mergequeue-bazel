@@ -9085,7 +9085,7 @@ drinkability
 dailiness
 devow
 drubbed
-devance
+devance 1
 discernable
 devotedly
 depickle
