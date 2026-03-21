@@ -28787,7 +28787,7 @@ chuckfull
 cines 1
 crescentlike
 crescentoid
-crescents
+crescents 1
 crescively 1
 clarinettist
 confederatio
