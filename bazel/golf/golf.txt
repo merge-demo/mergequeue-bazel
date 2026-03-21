@@ -8984,7 +8984,7 @@ gumbolike
 glaucopis
 grievable
 grievance
-gantlines
+gantlines 1
 grievances
 grievous
 gearbox
