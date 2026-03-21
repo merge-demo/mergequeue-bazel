@@ -5421,7 +5421,7 @@ brainteasers
 brakes 1
 bathylimnetic
 boshvarks
-behaviored
+behaviored 1
 betravel 1
 behaviorists
 behavioural 1
