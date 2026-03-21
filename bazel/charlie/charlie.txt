@@ -1078,7 +1078,7 @@ calceolate 1
 cowhide
 calceus
 challengable
-costoclavicular
+costoclavicular 1
 calchas
 calche
 cordials
