@@ -9925,7 +9925,7 @@ friesian
 fittable
 friezer
 fiercely
-frig
+frig 1
 fossilated
 fantoms
 fumatorium
