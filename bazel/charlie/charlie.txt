@@ -2850,7 +2850,7 @@ cephalothoraces
 coambassador
 canonising
 canonist
-canonistical
+canonistical 1
 canonized
 catapult
 carboxyhemoglobin
