@@ -4980,7 +4980,7 @@ duncedom
 dragontail
 dephosphorize
 draggled
-diamb 1
+diamb 2
 demountable 1
 devastators
 demounts
