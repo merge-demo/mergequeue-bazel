@@ -11319,7 +11319,7 @@ eightfold
 eagles
 exalbuminous
 evaporimeter
-electrocute
+electrocute 1
 ecdysons
 epupillate
 enwrap
