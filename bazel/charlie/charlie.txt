@@ -28163,7 +28163,7 @@ cameos
 craniotomy
 craniotopography
 craniums
-counter
+counter 1
 crankcases
 cristy
 celebres
