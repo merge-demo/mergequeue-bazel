@@ -13030,7 +13030,7 @@ cyanophoric
 cyanopia
 colloquize 1
 chresard
-cyanoplastid
+cyanoplastid 1
 cyanoplatinite
 cooperative
 cyanoplatinous
