@@ -3576,7 +3576,7 @@ drawbeam 1
 dissheathe
 dehwar
 defuze
-dolman
+dolman 1
 dakoities
 dissociative
 degage
