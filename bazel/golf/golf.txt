@@ -7312,7 +7312,7 @@ ganglion
 gyrostatic
 genet
 gutturally 1
-guze
+guze 1
 gravelling
 gangly
 goar
