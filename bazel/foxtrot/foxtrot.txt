@@ -8587,7 +8587,7 @@ fissionable 1
 fungating 1
 farmsteading
 forninst
-fricative
+fricative 1
 flexor 1
 firedragon
 fornix 1
