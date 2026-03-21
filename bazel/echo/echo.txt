@@ -2268,7 +2268,7 @@ electret
 electrets
 esophagogastrostomy
 exploitive
-electrically
+electrically 1
 extensometer
 enciente
 embryony
