@@ -1485,7 +1485,7 @@ dawnstreak
 discriminative
 diffusor
 dasypaedal
-discolorated
+discolorated 1
 dazzler 1
 disillusions
 dazzlers
