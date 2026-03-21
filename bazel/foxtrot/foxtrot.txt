@@ -11702,7 +11702,7 @@ fracas 3
 fas
 friarhood
 far
-foretellableness
+foretellableness 1
 flugelhorn
 fasciola
 furphy
