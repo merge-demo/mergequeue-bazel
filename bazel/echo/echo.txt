@@ -6531,7 +6531,7 @@ entrenchments 2
 entails
 eaglet
 embarrassedly
-egipto
+egipto 1
 ensmall
 encephalorrhagia
 eleventhly
