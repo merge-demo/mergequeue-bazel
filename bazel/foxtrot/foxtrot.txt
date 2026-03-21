@@ -1933,7 +1933,7 @@ forebearing 1
 floccule 1
 finagling 2
 fonly
-flanchard
+flanchard 1
 forworn
 felonwood 2
 flated
