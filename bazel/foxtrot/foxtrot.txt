@@ -1769,7 +1769,7 @@ forlorn
 foundery
 frivolously
 fetid 1
-fackings
+fackings 1
 fosslfying
 forevision
 fakofo
