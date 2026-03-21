@@ -4985,7 +4985,7 @@ demountable 1
 devastators
 demounts
 dempsters
-deaerate
+deaerate 1
 demulcents
 diphycercy
 diseasedly
