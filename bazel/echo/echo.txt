@@ -4796,7 +4796,7 @@ emprent
 emmenia
 erethic
 eguttulate
-enterotomy
+enterotomy 1
 epiopticon
 excusatory 1
 endocarpic
