@@ -8399,7 +8399,7 @@ dialists 1
 deacetylated
 dragboat
 dispreader
-disunite
+disunite 1
 dialyze 1
 deflation
 draparnaldia
