@@ -12523,7 +12523,7 @@ capacitances
 coobah
 chromosomally
 celoscope
-cornercap
+cornercap 1
 collophore
 chromospheric
 colytic
