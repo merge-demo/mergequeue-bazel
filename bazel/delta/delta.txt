@@ -11796,7 +11796,7 @@ dandification
 demirep
 diplococcoid
 dollarleaf
-delabialize
+delabialize 1
 demot
 duny
 dosserets
