@@ -9953,7 +9953,7 @@ gumptions
 grilladed
 guarico
 gonidial
-graphostatic
+graphostatic 1
 getaways
 grievousness
 gigadoid
