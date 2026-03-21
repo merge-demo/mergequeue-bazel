@@ -15670,7 +15670,7 @@ demonstrator
 discased
 distemperance
 dopey
-decrements
+decrements 1
 doper
 disbarring
 doorposts
