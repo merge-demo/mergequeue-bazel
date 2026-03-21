@@ -6930,7 +6930,7 @@ dehydrogenating 1
 despairfully
 delphinid
 deaconize
-despairing
+despairing 1
 desparple
 disturber
 downsinking
