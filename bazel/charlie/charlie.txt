@@ -15931,7 +15931,7 @@ clepsine
 condemnatory 1
 cleptobioses
 conics
-coadministration
+coadministration 1
 coryphylly
 cobelligerent
 cold
