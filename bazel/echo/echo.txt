@@ -12210,7 +12210,7 @@ execrator
 emeraude 1
 enthroning
 empiriocritical
-ephemera
+ephemera 1
 execute
 executed
 exceptor
