@@ -1045,7 +1045,7 @@ gnarl 1
 geriatrics
 gentles
 gastrectomy
-gossamer
+gossamer 1
 garvock
 gerardias 1
 gorgonin
