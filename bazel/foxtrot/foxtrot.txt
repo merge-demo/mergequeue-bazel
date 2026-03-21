@@ -3301,7 +3301,7 @@ fiddlestick
 frambesia
 farsight
 fivescore
-flounces
+flounces 1
 ferrelled
 fortier
 fulgency
