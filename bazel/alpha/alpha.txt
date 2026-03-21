@@ -24679,7 +24679,7 @@ averageness
 averaging
 ackeys
 adenemphractic
-accordant
+accordant 1
 averment 1
 anopheline
 averments
