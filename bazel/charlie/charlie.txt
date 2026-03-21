@@ -692,7 +692,7 @@ compensable
 caffeinic
 caffeins
 coctoantigen
-carries
+carries 1
 caffeism
 cud
 colometry
