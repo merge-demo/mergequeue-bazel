@@ -11357,7 +11357,7 @@ evenfall
 ennerve
 electroscission
 eupnoeic
-enervative
+enervative 1
 exhaustibility
 evaluating
 emergers
