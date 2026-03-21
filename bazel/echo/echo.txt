@@ -3620,7 +3620,7 @@ embracement
 enquiry
 epicauta
 erythraean
-earspool
+earspool 1
 embraceries 1
 evangelized 2
 embracingly
