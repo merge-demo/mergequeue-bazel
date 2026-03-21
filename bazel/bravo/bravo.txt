@@ -15898,7 +15898,7 @@ behest
 buzzbomb
 berylate 1
 bendell
-brominize
+brominize 1
 breezing
 beice
 bodysurfing
