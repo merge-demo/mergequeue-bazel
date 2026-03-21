@@ -15874,7 +15874,7 @@ chronomancy 1
 cleft
 cleidagra
 calms
-chamal
+chamal 1
 cadaverize
 cleidocostal
 cleidoic
