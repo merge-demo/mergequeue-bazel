@@ -1821,7 +1821,7 @@ fluidify
 featureful
 featurelessness
 featureliness
-furrows 1
+furrows 2
 figureheadship
 fellahin
 firebreaks
