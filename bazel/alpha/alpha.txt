@@ -3968,7 +3968,7 @@ apologer
 adjutrice 2
 ambassage
 ameba
-affirm
+affirm 1
 amelification
 anecdotical
 adlumidin
