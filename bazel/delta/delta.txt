@@ -4669,7 +4669,7 @@ demurring
 dismantle
 demisuit
 dumminess
-dithyrambos
+dithyrambos 1
 diphthongous
 dimissory 1
 disproved
