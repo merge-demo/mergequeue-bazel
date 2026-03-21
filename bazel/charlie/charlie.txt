@@ -12003,7 +12003,7 @@ chorizo
 corelation
 catalanist
 chorizont
-chorizontal
+chorizontal 1
 comprehensible
 chorizos
 cribrately 1
