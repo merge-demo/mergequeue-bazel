@@ -10301,7 +10301,7 @@ diomate
 discoglossoid
 dearly
 darks 1
-draftmanship
+draftmanship 1
 dighting
 deans
 draughting
