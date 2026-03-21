@@ -8477,7 +8477,7 @@ formatter
 father 1
 floridans 1
 flunkeyite 1
-fuzztail
+fuzztail 1
 formularizing
 frontierman 1
 fumado
