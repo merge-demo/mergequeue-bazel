@@ -25817,7 +25817,7 @@ corrugant
 corrugate
 corrugated
 cataphoric
-corrugator
+corrugator 1
 cadelle
 coir
 corrugent
