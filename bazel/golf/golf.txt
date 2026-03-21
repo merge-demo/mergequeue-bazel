@@ -5606,7 +5606,7 @@ grithbreach 1
 grime
 girdlecake
 grossular
-grabman
+grabman 1
 groundwall
 goldseed
 grisping
