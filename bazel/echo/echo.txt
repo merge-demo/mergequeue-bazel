@@ -6820,7 +6820,7 @@ entitative
 exostema
 elaphine
 enrooted
-entoil
+entoil 1
 eggler
 entoils
 entom
