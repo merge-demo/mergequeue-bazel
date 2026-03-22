@@ -9880,7 +9880,7 @@ eden
 enstatite 1
 equivalency
 encodes
-epidemical
+epidemical 1
 enodally
 encave
 electrotelethermometer
