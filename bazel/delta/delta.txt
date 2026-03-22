@@ -3361,7 +3361,7 @@ dicot
 dayment
 distressfulness
 denims
-dullery
+dullery 1
 definitor
 desulphurized 1
 dogmouth 1
