@@ -11586,7 +11586,7 @@ fusions
 freity
 floscular 1
 fissional
-foregallery
+foregallery 1
 fussbudgety
 fevers
 filtrates
