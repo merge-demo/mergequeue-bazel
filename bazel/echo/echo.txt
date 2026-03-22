@@ -3314,7 +3314,7 @@ enrichingly 1
 extrapelvic
 emanations
 enosist
-extrapyramidal
+extrapyramidal 1
 enthraller
 emanatism
 euphorias
