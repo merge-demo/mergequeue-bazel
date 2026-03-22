@@ -11453,7 +11453,7 @@ draconis
 distorted
 desertless
 diverted
-discobolos
+discobolos 1
 dewiest 1
 disbelieving
 degassing
