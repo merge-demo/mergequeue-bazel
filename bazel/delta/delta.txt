@@ -11406,7 +11406,7 @@ datchas
 disciples 1
 discipling
 disciplining
-depopulator
+depopulator 1
 diphosphothiamine
 discipular
 desktop
