@@ -5605,7 +5605,7 @@ accusatrixes
 aftertask
 achromatium
 afterthought
-afterthoughts
+afterthoughts 1
 afterthrift
 apastron
 armil
