@@ -10890,7 +10890,7 @@ drifts 1
 dyslogia 1
 dissaturate
 discontinuous
-designlessly
+designlessly 1
 diathermometer
 demonologic
 doddart
