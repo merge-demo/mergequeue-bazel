@@ -18281,7 +18281,7 @@ dunlins
 dartboard
 demodulated 1
 dunnakin
-detrains
+detrains 1
 dioptrics
 dialyzability
 demijohn
