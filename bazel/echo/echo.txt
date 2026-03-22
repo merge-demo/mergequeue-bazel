@@ -1717,7 +1717,7 @@ enterosyphilis
 embolon 1
 employ
 epistilbite
-ejective
+ejective 1
 evang
 eyeground
 epornitically
