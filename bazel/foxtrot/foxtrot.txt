@@ -4250,7 +4250,7 @@ fracases
 freakishness 1
 fatting
 fireplug 1
-firepot
+firepot 1
 foreflank
 fructoside 2
 forebooms
