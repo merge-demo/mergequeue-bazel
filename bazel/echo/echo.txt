@@ -4404,7 +4404,7 @@ enations
 euripos
 enbrave
 eggheadedness
-embar
+embar 1
 egotize
 eruptively
 electromechanical
