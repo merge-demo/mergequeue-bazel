@@ -5972,7 +5972,7 @@ deprograms 1
 dropforged
 deprome
 demisphere
-drawling
+drawling 1
 disaffectedly
 deprostrate
 draughtiest
