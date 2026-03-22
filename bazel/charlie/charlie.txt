@@ -8998,7 +8998,7 @@ charisms
 cancrophagous
 charisticary 1
 charitative
-coquettish
+coquettish 1
 colloq
 charities
 circumrotated

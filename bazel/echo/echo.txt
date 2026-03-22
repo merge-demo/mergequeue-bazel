@@ -7042,7 +7042,7 @@ eundem
 emote
 entrapping
 entrustment
-eurygaea
+eurygaea 1
 exchequers
 exocoetus
 eyeglass
