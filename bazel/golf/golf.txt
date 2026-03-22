@@ -1348,7 +1348,7 @@ guillotiner
 greenalite
 galvanist
 geoside
-glomerulus
+glomerulus 1
 galloner
 gangrenes
 garnisheement 1
