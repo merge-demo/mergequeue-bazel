@@ -14183,7 +14183,7 @@ delegation
 disuniting
 dysuria
 dysurias
-deals
+deals 1
 disusage
 dynamoscope 1
 dibbles
