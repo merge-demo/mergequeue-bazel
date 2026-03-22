@@ -15827,7 +15827,7 @@ alismataceae
 abiogenist
 alloisomeric
 antiphrases 1
-antiphthisic
+antiphthisic 1
 amberiferous
 antiepileptic
 amphisbaenian
