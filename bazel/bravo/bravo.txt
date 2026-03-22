@@ -16459,7 +16459,7 @@ barbouillage
 bluenoser
 bloodshotten
 bendys 1
-beggable
+beggable 1
 bejazz
 besmell
 brevetting
