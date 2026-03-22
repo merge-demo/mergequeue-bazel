@@ -4041,7 +4041,7 @@ bedrock
 beamers
 beamfilling
 beeware
-bivalvous
+bivalvous 1
 beamhouse
 bibliophobe
 backbreaker
