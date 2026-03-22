@@ -13438,7 +13438,7 @@ expressway
 existentialists
 exencephalous 1
 epoch
-endocranial
+endocranial 1
 euprepia
 embolomerous
 echinosphaeritidae
