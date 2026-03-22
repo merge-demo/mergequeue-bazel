@@ -1579,7 +1579,7 @@ gout
 gassing 1
 gismos
 gondoliere
-globicephala
+globicephala 1
 gymnura 1
 gauntlet
 gutteral
