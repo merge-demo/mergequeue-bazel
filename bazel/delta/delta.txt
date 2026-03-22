@@ -14895,7 +14895,7 @@ disengagement 1
 dodecade
 dodecafid
 dodecahedral
-doctorate
+doctorate 1
 dieselization
 dodecahydrate
 duodenojejunostomy
