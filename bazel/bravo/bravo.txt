@@ -1920,7 +1920,7 @@ boreus
 bandsawn
 bandsman
 bandstand
-beacon
+beacon 1
 beseechment
 broadly 1
 bisection
