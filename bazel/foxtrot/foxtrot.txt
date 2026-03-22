@@ -10523,7 +10523,7 @@ frowl
 fierily
 frowners 1
 faciend
-freq
+freq 1
 forstand
 frowsily
 footslogging
