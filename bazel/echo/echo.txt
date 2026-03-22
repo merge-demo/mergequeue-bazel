@@ -1075,7 +1075,7 @@ edhs
 esculic 1
 envergure 1
 exostotic 1
-edible
+edible 1
 expeditive
 embase
 endothelial
