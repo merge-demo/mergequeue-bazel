@@ -9743,7 +9743,7 @@ gambir
 gordiidae
 gagroot
 gablewise
-gambes
+gambes 1
 gorged
 glutens
 glendover
