@@ -4265,7 +4265,7 @@ eumeristic
 expolish
 expendible 1
 expressways
-equidiagonal
+equidiagonal 1
 epityphlon
 escutcheons
 experiment
