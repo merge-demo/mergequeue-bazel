@@ -11645,7 +11645,7 @@ cleidohyoid 1
 charoset
 chowdered
 clethra
-cholesterinic
+cholesterinic 1
 cholesterol
 clepsydrae
 cholesterolemia
