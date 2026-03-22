@@ -10965,7 +10965,7 @@ esparcet 1
 equivocalness
 echiurid
 erythematous
-embrittlement
+embrittlement 1
 echinus
 embosk
 eperva
