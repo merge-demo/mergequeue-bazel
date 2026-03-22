@@ -5109,7 +5109,7 @@ garboards
 guilelessly
 guernseyed
 glareproof
-griskin
+griskin 1
 grainsmen
 grenadine
 goldeneye
