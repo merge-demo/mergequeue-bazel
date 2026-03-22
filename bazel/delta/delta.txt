@@ -17572,7 +17572,7 @@ drumrolls
 drums
 decalcifier 1
 drumstick
-drumwood 1
+drumwood 2
 drunk
 drunkards
 desuperheater
