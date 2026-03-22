@@ -5844,7 +5844,7 @@ desistance
 depots
 dasyure
 deprave
-disanagrammatize
+disanagrammatize 1
 doxologizing
 dreidel
 dimagnesic 1
