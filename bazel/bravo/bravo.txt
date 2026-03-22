@@ -9722,7 +9722,7 @@ bankbook
 backslapped
 buildingless
 bioenergetics
-boatie
+boatie 1
 byssoid
 buckskin
 bedragglement 1
