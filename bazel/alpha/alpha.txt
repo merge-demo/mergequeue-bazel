@@ -5402,7 +5402,7 @@ avail
 afire
 aflagellar
 acapnias
-aflat
+aflat 1
 agons 1
 argans
 anacreon
