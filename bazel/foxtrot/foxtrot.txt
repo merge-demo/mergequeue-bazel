@@ -8027,7 +8027,7 @@ flashbulb
 fungaceous
 forestal
 forestalling
-forestalls
+forestalls 1
 funerals 1
 flutterer
 fundraise
