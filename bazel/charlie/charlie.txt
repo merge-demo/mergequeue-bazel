@@ -30088,7 +30088,7 @@ culminating
 crocodilus
 comptrol
 cephalophorous
-chordoid
+chordoid 1
 crowder
 cmdg
 crowdy
