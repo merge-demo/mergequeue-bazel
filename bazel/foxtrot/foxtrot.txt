@@ -3268,7 +3268,7 @@ fuzed
 foreknowledge
 freestanding
 fibrosity
-forthrightly
+forthrightly 1
 faradizer
 foppery
 flaught
