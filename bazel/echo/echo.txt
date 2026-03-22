@@ -6839,7 +6839,7 @@ exoticism 1
 entombs 1
 excremental
 eviscerator
-entomere
+entomere 1
 entomic
 emptins
 entrepreneuse
