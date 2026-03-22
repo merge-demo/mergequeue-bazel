@@ -9188,7 +9188,7 @@ enterprising
 engines
 enfork
 enchodus
-elates
+elates 1
 embryophyte
 electrographite
 empiricism
