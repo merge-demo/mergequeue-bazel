@@ -2330,7 +2330,7 @@ electroacoustic 1
 electroacoustical
 elfkin 1
 exradius
-electroacoustics
+electroacoustics 1
 enthetic
 exundation
 electroanesthesia
