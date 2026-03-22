@@ -9922,7 +9922,7 @@ forsythias
 ferromagnetism
 furze
 friesian
-fittable
+fittable 1
 friezer
 fiercely
 frig 1
