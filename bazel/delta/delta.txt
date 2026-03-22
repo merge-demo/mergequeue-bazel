@@ -7957,7 +7957,7 @@ disallowable 1
 demicylinder
 defunctive
 downsteepy
-diathermal
+diathermal 1
 decimeters
 dextroaural
 diacanthous
