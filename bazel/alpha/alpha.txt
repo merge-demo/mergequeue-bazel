@@ -16081,7 +16081,7 @@ amphichromy
 adminiculum
 antiscale 1
 arteritis
-autocoenobium
+autocoenobium 1
 apocrita
 antischolasticism
 audibleness
