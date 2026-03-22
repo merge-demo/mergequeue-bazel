@@ -6273,7 +6273,7 @@ gulpin
 gynandrarchic 1
 galoch 1
 gospelly 1
-gainable
+gainable 1
 gobble
 gowpen
 gierfalcon
