@@ -15526,7 +15526,7 @@ dongola
 drams
 decrew
 doni
-diopsides
+diopsides 1
 deliquesced
 disaffection
 disintegrationist
