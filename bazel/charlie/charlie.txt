@@ -19682,7 +19682,7 @@ combasou
 combat 1
 criminal
 combatable
-chroma
+chroma 1
 chrismale
 combatant
 cimbalom
