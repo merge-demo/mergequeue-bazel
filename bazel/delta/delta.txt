@@ -17688,7 +17688,7 @@ duarch
 decarburizing 1
 discommons
 detacwable
-delsarte
+delsarte 1
 deputization
 duarchy
 duarchies
