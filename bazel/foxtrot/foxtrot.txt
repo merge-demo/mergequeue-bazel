@@ -2055,7 +2055,7 @@ feisty
 fairyisms
 farl
 fops
-frothiness
+frothiness 1
 foggiest
 felahin 1
 fissipes
