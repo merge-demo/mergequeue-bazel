@@ -9947,7 +9947,7 @@ akroterial
 autotrophy 1
 addict
 amplitudes 1
-anatomicopathological
+anatomicopathological 1
 altoun
 amazer
 accented
