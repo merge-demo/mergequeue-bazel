@@ -3323,7 +3323,7 @@ equipaga
 embassade
 emanatist
 epical
-emanativ
+emanativ 1
 erupt
 enwreath
 emasculates
