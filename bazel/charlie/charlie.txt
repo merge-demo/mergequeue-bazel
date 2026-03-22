@@ -6431,7 +6431,7 @@ cautiously 2
 cannoneers 1
 cloister
 cav
-corah
+corah 1
 curvinervate
 cavayard
 cavalcaded
