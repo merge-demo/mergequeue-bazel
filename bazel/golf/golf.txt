@@ -2589,7 +2589,7 @@ gyrogonite
 guigne
 gargling
 gametogeny
-generant
+generant 1
 generate 1
 guitars 1
 gypsiferous
