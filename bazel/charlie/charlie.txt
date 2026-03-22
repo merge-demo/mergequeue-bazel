@@ -3838,7 +3838,7 @@ carbomethene 1
 carbomethoxy
 carbomethoxyl 1
 carbon
-carbonaceous
+carbonaceous 1
 cuter
 cleavability
 ceratite
