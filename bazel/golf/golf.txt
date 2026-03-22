@@ -9357,7 +9357,7 @@ gonocoel 1
 gravestones 1
 groop
 gallerygoer
-glamorize
+glamorize 1
 goggliest
 gwen
 glareola
