@@ -13123,7 +13123,7 @@ bornite
 baksheesh
 bestirs 1
 bornites
-bornitic
+bornitic 1
 berob
 borofluohydric 1
 boroglycerine 1
