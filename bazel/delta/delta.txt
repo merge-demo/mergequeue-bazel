@@ -13644,7 +13644,7 @@ dialecticism
 dashboard
 dignitarial 1
 distractedness
-dolce
+dolce 1
 def
 dissimilars 2
 dorize
