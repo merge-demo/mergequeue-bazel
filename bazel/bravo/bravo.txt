@@ -5313,7 +5313,7 @@ beefed
 begirt
 bogies
 beglerbeglic
-blatant
+blatant 1
 bakalai
 burka
 behew

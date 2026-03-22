@@ -15977,7 +15977,7 @@ dotlet
 derrickman
 doto
 devocalize 1
-divinail
+divinail 1
 distressedly 1
 danios
 dumfounds
