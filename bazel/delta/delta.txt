@@ -3372,7 +3372,7 @@ deturn 2
 dictative
 defis
 deflagrable
-desophistication
+desophistication 1
 dialling
 decolor
 disrestore
