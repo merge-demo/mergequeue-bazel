@@ -6812,7 +6812,7 @@ dropsonde
 dedicates
 diaconate 1
 desize
-decompositional
+decompositional 1
 devilmonger
 desklike
 diphrelatic
