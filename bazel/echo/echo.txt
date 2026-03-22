@@ -7869,7 +7869,7 @@ ecca
 ephod 2
 enterolith
 elbowed 1
-elbower
+elbower 1
 epigrammatizing 1
 endaortitis 1
 endonuclease
