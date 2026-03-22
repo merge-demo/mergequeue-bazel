@@ -564,7 +564,7 @@ delivers
 dromon
 disbursable
 disfranchiser
-damaskeen
+damaskeen 1
 dod
 damaskine 1
 dynamoneure
