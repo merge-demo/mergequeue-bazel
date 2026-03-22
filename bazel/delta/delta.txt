@@ -12526,7 +12526,7 @@ disinfectants 1
 drafter
 dreg 1
 disinfected
-deceivers
+deceivers 1
 denaturizer
 desponsories
 dispractice 1
