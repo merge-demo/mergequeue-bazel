@@ -17511,7 +17511,7 @@ bystanders 1
 blockout
 backspeir
 burbolt
-blight
+blight 1
 beauseant
 biognosis
 burbot
