@@ -4058,7 +4058,7 @@ anality
 antislip 1
 agentival
 admissibility 1
-asci
+asci 1
 anestri
 admissive
 automan
