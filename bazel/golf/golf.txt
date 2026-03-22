@@ -2745,7 +2745,7 @@ guillotine
 gader
 gunboats
 gaedelian 1
-grooms
+grooms 1
 genoise 1
 gentiopicrin
 girths
