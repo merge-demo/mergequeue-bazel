@@ -12664,7 +12664,7 @@ examplar 1
 exogyra 1
 enterogram
 effusion
-exognathite
+exognathite 1
 expunges
 exogenetic
 enkolpion
