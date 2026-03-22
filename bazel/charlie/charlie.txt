@@ -16460,7 +16460,7 @@ cuon
 clockmaking
 crewer
 clockwatcher 1
-clockwise 1
+clockwise 2
 clockworked
 clavigerous
 carthamin
