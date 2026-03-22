@@ -4563,7 +4563,7 @@ generalate
 goosebill 1
 geometrid 1
 grating 1
-goupen
+goupen 1
 grasscutter
 giojoso
 greegree
