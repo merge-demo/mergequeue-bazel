@@ -21996,7 +21996,7 @@ confirmatory
 craniosacral
 colicin
 confirmed
-confirmedness
+confirmedness 1
 corticostriate
 confirmer
 cibarious
