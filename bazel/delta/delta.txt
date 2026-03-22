@@ -4501,7 +4501,7 @@ divulsor 1
 drowningly
 defence
 deceptions
-demicuirass
+demicuirass 1
 doxologies
 danubian
 defused
