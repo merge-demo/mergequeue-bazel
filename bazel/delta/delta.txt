@@ -4556,7 +4556,7 @@ dentaliidae
 disselboom 1
 drossiest
 demilitarizes
-demiliterate
+demiliterate 1
 deflectional
 despotical
 demilustre
