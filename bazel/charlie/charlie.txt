@@ -2534,7 +2534,7 @@ candlelighter
 chaloth
 confraternities
 candlelighting
-cohusband
+cohusband 1
 carvels
 circumcinct
 candlemaker
