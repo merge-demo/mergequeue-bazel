@@ -10243,7 +10243,7 @@ beavering
 blennorrhoea
 bilobiate
 boolean
-bellweather
+bellweather 1
 bulldogs
 beheads 1
 biborate
