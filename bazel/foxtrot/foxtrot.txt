@@ -5454,7 +5454,7 @@ fanatic
 fretsome
 fleeter
 fermentatively
-flex
+flex 1
 fusionless
 firefighter
 forevow
