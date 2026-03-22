@@ -6455,7 +6455,7 @@ forweary 1
 flummery
 filth
 folkcraft
-frenchize
+frenchize 1
 fordy
 fellatrix
 forsar
