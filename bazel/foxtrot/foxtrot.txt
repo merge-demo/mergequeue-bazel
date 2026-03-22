@@ -9461,7 +9461,7 @@ furculum 1
 fastwalk
 fidele
 fraternities
-fumarates
+fumarates 1
 figboy
 fantasm
 featish
