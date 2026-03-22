@@ -7656,7 +7656,7 @@ exhumations 1
 eccentricities 1
 elapse
 eoliths 1
-enterohelcosis
+enterohelcosis 1
 epiparodos 1
 epicortical
 enterostomy
