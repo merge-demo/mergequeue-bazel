@@ -13053,7 +13053,7 @@ deicidal
 decanol
 drakestone
 dispatch 1
-deprecators
+deprecators 1
 deccennia
 dispatched
 devaster
