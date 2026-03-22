@@ -7520,7 +7520,7 @@ ensignhood
 enviously
 estoil
 externate
-encyc
+encyc 1
 elevato
 epiblasts 1
 englishhood
