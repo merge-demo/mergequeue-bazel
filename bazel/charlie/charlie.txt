@@ -12390,7 +12390,7 @@ culebra
 chromatopsia
 chromatoptometer
 chromatoptometry
-couch
+couch 1
 cobalticyanic
 chromatoscopy
 circumduct
