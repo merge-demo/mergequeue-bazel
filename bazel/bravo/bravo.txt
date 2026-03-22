@@ -1773,7 +1773,7 @@ balanops
 balloonet 1
 bedsprings
 bambute
-blackheart
+blackheart 1
 becombed
 baserunning 1
 belonid
