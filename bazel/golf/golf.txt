@@ -9167,7 +9167,7 @@ gora
 gridding 1
 geographically
 granulates 1
-glared
+glared 1
 goosed 1
 garon
 griphite 3
