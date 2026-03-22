@@ -1140,7 +1140,7 @@ chromatosphere
 calcite
 carollers
 cuppers
-cloddiness
+cloddiness 1
 calcitic
 calcitrant
 calcitrate
