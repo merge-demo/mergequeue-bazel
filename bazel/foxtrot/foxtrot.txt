@@ -9258,7 +9258,7 @@ fretwise 1
 fascinery
 faradomuscular
 frontispieced
-fraktur
+fraktur 1
 fasciolet
 fresnel
 foresentence
