@@ -3508,7 +3508,7 @@ coldcock
 cheloniid
 capsuliform
 coverup
-capsuling
+capsuling 1
 clamer
 capsulitis
 capsulizing
