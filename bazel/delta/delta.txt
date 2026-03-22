@@ -5462,7 +5462,7 @@ drawees
 detesters
 dibutyrate 1
 deoppilant
-deceives
+deceives 1
 detectably
 deoppilate
 dep
