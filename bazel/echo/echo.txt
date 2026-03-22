@@ -8804,7 +8804,7 @@ elide 1
 ensellure
 eight
 etruscans
-egritude
+egritude 1
 esteems 1
 enskyed 1
 embelin
