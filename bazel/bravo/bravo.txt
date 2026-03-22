@@ -6443,7 +6443,7 @@ bolection
 benzoxyacetic 1
 blanchers
 ballast
-bisulcate
+bisulcate 1
 bulldogged
 biostratigraphy
 borderings
