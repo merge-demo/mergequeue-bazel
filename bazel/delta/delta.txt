@@ -5563,7 +5563,7 @@ demicolumn
 diffusionism
 depascent
 debilitation
-disrepute
+disrepute 1
 depasture
 depatriate
 dispergation
