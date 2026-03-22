@@ -9608,7 +9608,7 @@ gr 1
 ghostwriting
 guzerat
 glaucophanization 1
-gallize
+gallize 1
 ginep
 goniodorididae
 gobinist
