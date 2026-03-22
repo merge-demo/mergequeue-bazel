@@ -5792,7 +5792,7 @@ demipuppet
 dicyanodiamide
 dovekeys 1
 decaliter
-deportability
+deportability 1
 deportations
 decriminalized 1
 dissipatedly
