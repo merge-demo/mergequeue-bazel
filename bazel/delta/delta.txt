@@ -8368,7 +8368,7 @@ divinify 1
 dialypetalous
 diplumbic
 dichotomization
-dialysability
+dialysability 1
 diastolic
 dimerizing
 dermamycosis
