@@ -5430,7 +5430,7 @@ ecclesial
 east 1
 engirdles 1
 ebonige
-enfester
+enfester 1
 ed
 equid
 emigrants
