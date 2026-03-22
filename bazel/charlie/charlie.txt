@@ -25038,7 +25038,7 @@ chere
 cordons
 cords
 craftmanship
-courteously
+courteously 1
 crosscourt
 costiferous
 celotex
