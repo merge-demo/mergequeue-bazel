@@ -8349,7 +8349,7 @@ daemonies
 disruptable
 dioestrum
 disincline
-duchies
+duchies 1
 dialed
 depredation
 disvouch
