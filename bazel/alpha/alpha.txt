@@ -310,7 +310,7 @@ abduces 1
 articulate
 ampullulae
 abducted
-abductions
+abductions 1
 allegro
 abductor
 abducts
