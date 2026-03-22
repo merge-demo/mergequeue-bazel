@@ -5302,7 +5302,7 @@ axon
 affixal
 astipulate
 astrid
-americanoid
+americanoid 1
 affixation
 amortization
 affixed
