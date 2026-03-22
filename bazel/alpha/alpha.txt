@@ -5200,7 +5200,7 @@ affectibility 1
 affecting
 aerophore
 archinformer
-antitangent
+antitangent 1
 autopoint
 aloeswood
 aratinga
