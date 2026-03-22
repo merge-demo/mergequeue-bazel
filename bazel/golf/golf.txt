@@ -8671,7 +8671,7 @@ glossless 1
 gateado
 gritty
 gres
-gymnosoph
+gymnosoph 1
 galerum
 gawkishly
 geotactic
