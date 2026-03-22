@@ -42,7 +42,7 @@ aethogen
 aerometeorograph
 abaciscus
 amphoriskoi
-aquanaut
+aquanaut 1
 autopsist
 accessorily
 absorbancy
