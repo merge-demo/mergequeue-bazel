@@ -1421,7 +1421,7 @@ fountainlet
 focometry
 fallibly 1
 firewood
-futchell
+futchell 1
 forbar
 ferreted 1
 fattest
