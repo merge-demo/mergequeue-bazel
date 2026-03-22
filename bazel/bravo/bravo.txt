@@ -12556,7 +12556,7 @@ bonity 1
 balsam
 boroughlet
 bragi
-bemocks
+bemocks 1
 bardane
 bonk
 begrudging 1
