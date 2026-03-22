@@ -1495,7 +1495,7 @@ extemporaneously
 elasmobranchii 1
 explanatorily
 exonarthex
-epics
+epics 1
 endosiphonate
 equippers
 estivate 1
