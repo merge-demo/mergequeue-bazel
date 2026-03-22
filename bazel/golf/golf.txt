@@ -9236,7 +9236,7 @@ genethlialogic
 goliard
 grisly
 glagolitic 1
-gravigrade
+gravigrade 1
 grahamite
 grist
 guanase
