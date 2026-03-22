@@ -12259,7 +12259,7 @@ boltcutter
 bookmark
 behold
 boltheading
-boltin
+boltin 1
 beslimed
 boltlike
 blindling
