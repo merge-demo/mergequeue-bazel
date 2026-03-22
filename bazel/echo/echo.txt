@@ -2450,7 +2450,7 @@ electroencephalographical
 essentialize
 evoker
 electroendosmosis
-encipher 1
+encipher 2
 epoist
 enslavements
 exquisiteness
@@ -4870,7 +4870,7 @@ eucatropine 1
 escapable
 exorciser
 epidermatoid
-encoder
+encoder 1
 episcopable
 embryogenetic
 enshrining
@@ -12816,7 +12816,7 @@ equine
 emajagua
 exoterical
 espials
-exotericism
+exotericism 1
 extenuated
 emboldener
 embossmen

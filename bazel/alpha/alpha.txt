@@ -3359,7 +3359,7 @@ andean
 allosyndesis
 argestes
 antihierarchic
-arborescence
+arborescence 1
 adamite 1
 anselmian
 acanthocereus
@@ -22745,7 +22745,7 @@ avoidment 1
 acetic 1
 ascidiozoa
 arrondissement
-arthrodira
+arthrodira 1
 aeronef
 athwartship
 athwartships
