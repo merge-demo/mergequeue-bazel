@@ -2584,7 +2584,7 @@ franchiser
 fibrocytic
 ferrogoslarite
 forcet
-franked
+franked 1
 foud
 fossicked
 footrests 1
