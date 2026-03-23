@@ -7583,7 +7583,7 @@ factual
 fleshquake
 ferrules 1
 foredefeated
-frankheartedness
+frankheartedness 1
 flightworthy
 fatuity
 footslogs 2
