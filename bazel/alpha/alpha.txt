@@ -10045,7 +10045,7 @@ antagonizes
 ambisinister 1
 amblypodous
 ambit
-apriority
+apriority 1
 ambital
 anisole
 anomaly
