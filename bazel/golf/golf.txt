@@ -1208,7 +1208,7 @@ garfishes
 grappler
 glaux
 gimcrackery 1
-gimmicking
+gimmicking 1
 glanders
 garrisonian
 glossectomies
