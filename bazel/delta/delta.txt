@@ -6607,7 +6607,7 @@ desegregated 1
 desegregates 1
 destroyed
 dilettant
-denumerative
+denumerative 1
 dipentene
 decipherable
 digested
