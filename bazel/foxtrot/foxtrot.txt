@@ -2577,7 +2577,7 @@ fogramity
 flongs
 ferrocyanate 1
 ferroelectric
-fingerbreadth
+fingerbreadth 1
 fattier 1
 fouty
 franchiser
