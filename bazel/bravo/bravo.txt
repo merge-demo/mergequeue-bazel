@@ -12794,7 +12794,7 @@ booly 1
 backhanding 1
 betatters 2
 book
-borocarbide
+borocarbide 1
 brasses
 burstone
 boolya
