@@ -10824,7 +10824,7 @@ directors
 directorships 1
 desugared
 dysphrasia
-dapples
+dapples 1
 deposable
 devex
 deificatory
