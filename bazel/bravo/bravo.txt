@@ -9685,7 +9685,7 @@ beringed
 bismutosphaerite
 bisnaga
 bispinose 1
-bispinous
+bispinous 1
 bramah 1
 bathybian
 beadrolls
