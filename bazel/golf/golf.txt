@@ -1398,7 +1398,7 @@ glycosemia
 germanize
 grecize
 gaits 1
-ganyie
+ganyie 1
 gallotannin
 gasified
 gausterer
