@@ -1850,7 +1850,7 @@ eightling
 edematose
 euler
 epidiorite
-encystments
+encystments 1
 errabund 1
 elaterin
 equitemporal
