@@ -2378,7 +2378,7 @@ egba
 episteme
 electrocolloidal
 edulcoration
-exhaustable
+exhaustable 1
 electroconvulsive 1
 empoisonment
 engorged 1
