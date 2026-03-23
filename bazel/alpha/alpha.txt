@@ -15186,7 +15186,7 @@ amphimictical
 aberrometer
 amil
 arctocephalus
-aerostat
+aerostat 1
 aseptically
 antifatigue
 antifebrin
