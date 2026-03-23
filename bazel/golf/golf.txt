@@ -5674,7 +5674,7 @@ gatemen 1
 gant
 gothites
 grizzler
-grenat
+grenat 1
 gaucie
 gaultheria
 galvanographic
