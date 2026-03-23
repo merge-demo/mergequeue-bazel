@@ -1652,7 +1652,7 @@ eider
 ectomorphism
 exsecting 1
 enshielding
-exanthine
+exanthine 1
 eiders
 epilemmal
 eidograph 2
