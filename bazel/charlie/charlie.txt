@@ -4055,7 +4055,7 @@ cardamum
 cardanol
 chymist
 cardboard
-crissum
+crissum 1
 cardel
 crucianella
 ceroid
