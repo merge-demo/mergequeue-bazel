@@ -6962,7 +6962,7 @@ glaziness
 gruppetto
 gamut
 goodwillie
-gilgie
+gilgie 1
 gelatinize 1
 galoshed
 gorgonise
