@@ -582,7 +582,7 @@ birdie 1
 bibliolatry
 baconize
 baconweed
-bierkeller
+bierkeller 1
 bonjour
 barniest
 bricoles
