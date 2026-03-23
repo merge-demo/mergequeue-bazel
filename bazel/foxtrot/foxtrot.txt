@@ -9185,7 +9185,7 @@ filicide 2
 frenchiness 1
 foolify
 formicaria
-fraena
+fraena 1
 faroff
 frostproofing
 fulfulde
