@@ -9203,7 +9203,7 @@ beggared
 bogo
 backhauling
 bourbonesque
-bipedality
+bipedality 1
 bipeds
 bipeltate 1
 bipennate 1
