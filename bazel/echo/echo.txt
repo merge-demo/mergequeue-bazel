@@ -8836,7 +8836,7 @@ estrones
 erectopatent 1
 entophytic
 equiprobabilist
-eternities
+eternities 1
 egyptologic
 enjeopardy
 encrypt
