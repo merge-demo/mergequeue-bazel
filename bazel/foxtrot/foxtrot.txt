@@ -2308,7 +2308,7 @@ featherheaded 2
 febrility
 fast
 fixities 1
-fixatifs
+fixatifs 1
 flagitious
 felis 1
 franchises
