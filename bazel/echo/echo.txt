@@ -3684,7 +3684,7 @@ emaciated
 erythrons
 enwheel
 everse
-everywheres
+everywheres 1
 enchytrae
 entrancer 1
 envenom
