@@ -18883,7 +18883,7 @@ colossus
 cestoid
 colistin
 coypou
-colitic
+colitic 1
 colitises
 colyum
 climbs 1
