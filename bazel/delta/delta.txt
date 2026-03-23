@@ -10902,7 +10902,7 @@ diruption
 dereference
 deployed 1
 disable
-deputationize
+deputationize 1
 delusions
 denazify 1
 disabled
