@@ -2254,7 +2254,7 @@ exocolitis
 effluve
 endoplasma
 elector
-exhume
+exhume 1
 elks
 encyclopedian
 encell
