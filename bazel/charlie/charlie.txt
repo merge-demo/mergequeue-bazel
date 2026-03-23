@@ -2970,7 +2970,7 @@ capsulae
 cuthbert 1
 contradistinction 1
 cantholysis
-commonable
+commonable 1
 chaffers
 capriole
 colliquation
