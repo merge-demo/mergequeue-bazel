@@ -24487,7 +24487,7 @@ clr
 courtliness
 circovarian
 clavis
-copaivic
+copaivic 1
 copaliferous 1
 copalite
 copalm
