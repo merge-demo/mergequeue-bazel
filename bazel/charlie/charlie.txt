@@ -15877,7 +15877,7 @@ calms
 chamal 1
 cadaverize
 cleidocostal
-cleidoic
+cleidoic 1
 chiromance
 cherts
 cleidomancy
