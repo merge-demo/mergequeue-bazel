@@ -1940,7 +1940,7 @@ greeve
 guttiness
 galopades
 glorifiers
-galliards
+galliards 1
 gauffered
 grayfishes
 groundwave
