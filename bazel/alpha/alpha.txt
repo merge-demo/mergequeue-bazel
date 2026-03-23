@@ -2726,7 +2726,7 @@ arak
 anabasin
 acritan
 acrite
-asthenobiosis
+asthenobiosis 1
 astringent
 arriba
 antidysenteric
