@@ -22387,7 +22387,7 @@ agenda
 asteriskless
 ans
 armourers
-anteriorness
+anteriorness 1
 astrogony
 aspartyl
 abohm
