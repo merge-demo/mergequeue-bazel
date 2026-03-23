@@ -6397,7 +6397,7 @@ forefoot
 fronture
 furry
 formalization 1
-frogspawn
+frogspawn 1
 fafnir
 fecundatory 1
 formularization
