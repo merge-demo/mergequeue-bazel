@@ -4960,7 +4960,7 @@ fourflushers
 flameouts
 fictileness
 forbiddingness
-frets
+frets 1
 farmhold
 flamers
 fictionist
