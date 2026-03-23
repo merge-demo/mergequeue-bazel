@@ -15284,7 +15284,7 @@ diurnation
 diamylose
 diluviums
 dolmas
-dolmen
+dolmen 1
 desubstantiate 1
 dolomedes
 discovery
