@@ -589,7 +589,7 @@ fallowist
 fardh 1
 forerunners
 fivefold
-floorless
+floorless 1
 fellon
 foreknows
 forpet 1
