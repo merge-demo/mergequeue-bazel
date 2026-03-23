@@ -2901,7 +2901,7 @@ beclatter
 bestride
 badinage
 barrater
-barratries
+barratries 1
 blabbermouth
 becrawls
 barratrously
