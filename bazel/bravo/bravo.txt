@@ -15679,7 +15679,7 @@ badgemen
 broadling
 bulbilis
 blowzy
-bands
+bands 1
 bonbonniere
 bogglebo
 barycentric
