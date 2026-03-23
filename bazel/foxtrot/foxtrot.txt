@@ -2691,7 +2691,7 @@ filaze
 fawner 1
 frizziness
 fervence
-fortnightlies
+fortnightlies 1
 futilize 1
 ferventness
 frighteningness
