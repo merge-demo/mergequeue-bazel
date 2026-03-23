@@ -3657,7 +3657,7 @@ filigrained
 fiftieths 2
 fibrillar 1
 freshed
-foretype
+foretype 1
 feverberry
 filigrane
 furlana
