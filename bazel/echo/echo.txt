@@ -10863,7 +10863,7 @@ ergot
 esodic 1
 enologist
 excised
-exanthematic
+exanthematic 1
 encalendar
 emblazonment
 examinationism
