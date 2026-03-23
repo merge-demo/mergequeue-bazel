@@ -9628,7 +9628,7 @@ curtals
 cragginess
 coexistent
 cheerlead
-crystallinity
+crystallinity 1
 cheerleader
 caesareanize
 cheerleaders
