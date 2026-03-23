@@ -8285,7 +8285,7 @@ farmings
 fractious 1
 feists
 flump
-forehoof
+forehoof 1
 frontlets
 forgiving
 flintify
