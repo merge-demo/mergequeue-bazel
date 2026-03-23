@@ -13083,7 +13083,7 @@ eleuin
 ejectable
 expenditrix
 ecclesiophobia
-enfonced
+enfonced 1
 euclid
 epimyocardium 1
 equanimousness
