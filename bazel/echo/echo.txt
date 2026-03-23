@@ -9162,7 +9162,7 @@ erode
 eosinophilic
 erodent
 extradite
-eirenic
+eirenic 1
 essenic 1
 erodes
 edgeless
