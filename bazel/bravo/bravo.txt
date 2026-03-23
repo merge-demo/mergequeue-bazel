@@ -10250,7 +10250,7 @@ biborate
 broadmindedly
 belly 1
 boracic 1
-blacksmithing
+blacksmithing 1
 biochemy
 beastdom
 botargo
