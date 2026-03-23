@@ -5329,7 +5329,7 @@ gingals
 glaived
 gourds
 gonidia
-glomerulate
+glomerulate 1
 galactosemic
 galactoma
 gabionade
