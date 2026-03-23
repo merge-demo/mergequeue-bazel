@@ -10248,7 +10248,7 @@ bulldogs
 beheads 1
 biborate
 broadmindedly
-belly
+belly 1
 boracic 1
 blacksmithing
 biochemy
