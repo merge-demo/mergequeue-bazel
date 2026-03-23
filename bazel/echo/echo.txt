@@ -14140,7 +14140,7 @@ entocuneiform
 excussion
 endearment
 entrails 1
-epitaphic
+epitaphic 1
 evensongs
 extrachromosomal
 encomium 1
