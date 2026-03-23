@@ -8640,7 +8640,7 @@ findon
 flamberge
 freightless
 filterability 1
-fourposters
+fourposters 1
 futharks
 feet
 fuzes
