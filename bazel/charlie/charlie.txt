@@ -2178,7 +2178,7 @@ clerkliest
 camporee
 camphorone
 camphorweed
-camphorwood
+camphorwood 1
 cotan 1
 campi 1
 campy
