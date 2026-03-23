@@ -3698,7 +3698,7 @@ entify 1
 embryonic 1
 encyrtidae 2
 erythromycin 1
-expectant
+expectant 1
 elec
 eluates
 effluvium
