@@ -237,7 +237,7 @@ functionaries
 fulimart
 frostbound
 fritterer
-facultize
+facultize 1
 fulgur 1
 finify
 fetials
