@@ -2076,7 +2076,7 @@ extravenate
 encampments
 enthusiasm 2
 embalm
-enterocinesia
+enterocinesia 1
 elaphurus
 enology
 expedites
