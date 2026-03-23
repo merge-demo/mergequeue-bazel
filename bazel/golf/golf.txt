@@ -10802,7 +10802,7 @@ glyptography
 gewgawy
 granolite 1
 gestonie
-gibberella
+gibberella 1
 gabbroitic
 gibli 1
 guttlers
