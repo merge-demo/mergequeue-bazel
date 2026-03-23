@@ -11602,7 +11602,7 @@ expatiate
 enmeshing
 evolver
 equiponderating
-ectolecithal
+ectolecithal 1
 evonymuses 1
 electroencephalographically 1
 end
