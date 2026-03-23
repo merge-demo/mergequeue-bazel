@@ -3053,7 +3053,7 @@ dragonfish
 disestablishment 1
 deerhound
 diphthongs
-deucedly
+deucedly 1
 dowress
 decarbonized
 desegregation
