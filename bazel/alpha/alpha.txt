@@ -24445,7 +24445,7 @@ autotetraploid
 assistanted
 autotetraploidy
 aah
-antivenefic
+antivenefic 1
 autothaumaturgist 1
 appellatively
 adhibiting
