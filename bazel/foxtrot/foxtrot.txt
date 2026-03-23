@@ -5380,7 +5380,7 @@ flunkyistic
 forthset 1
 flutists
 fleche
-forelady
+forelady 1
 folliculate 1
 flechettes
 flecked
