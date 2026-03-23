@@ -12198,7 +12198,7 @@ demander
 depurates
 duply
 disambiguates
-demideify
+demideify 1
 dichocarpism
 dribblement
 dysphonic
