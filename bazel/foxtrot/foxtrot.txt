@@ -2293,7 +2293,7 @@ formulable
 flotation
 foreface
 fistulizing
-flagelliferous
+flagelliferous 1
 fenestrae
 foreword
 fenestrated 1
