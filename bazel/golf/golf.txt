@@ -5986,7 +5986,7 @@ granuloadipose 1
 giftedness
 gaur
 glutose
-gainspeaking
+gainspeaking 1
 gluttonish 1
 grainsman
 granulous
