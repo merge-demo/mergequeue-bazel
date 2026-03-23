@@ -998,7 +998,7 @@ abstractest
 adequacy 1
 abstraction
 apostoless
-abstractional
+abstractional 1
 abstractionist
 adviso
 azogreen
