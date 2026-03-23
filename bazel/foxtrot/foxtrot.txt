@@ -67,7 +67,7 @@ fabulously
 facebar 1
 facebow
 fenchone
-feudalization
+feudalization 1
 faceharden
 flagships
 flecken
