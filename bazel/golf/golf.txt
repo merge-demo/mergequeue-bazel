@@ -32,7 +32,7 @@ goatroot
 gaelicism
 geoselenic
 gliderport
-globose
+globose 1
 gouty
 goodlike
 gabioned
