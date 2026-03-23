@@ -17206,7 +17206,7 @@ acropetal
 agonist
 aphodus
 adeptship
-assistantship
+assistantship 1
 automatization
 aspired
 androphagous
