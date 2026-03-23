@@ -2822,7 +2822,7 @@ dictionary
 discind
 deuteroglobulose
 decretorian
-dithymol
+dithymol 1
 duplicative
 defi
 deferred
