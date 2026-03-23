@@ -1847,7 +1847,7 @@ debellator
 darapti
 drugmaker
 decriminalize
-degeneratively
+degeneratively 1
 defeudalize
 debilitates
 debilitative
