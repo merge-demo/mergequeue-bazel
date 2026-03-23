@@ -19374,7 +19374,7 @@ cere
 crossarms 1
 compunctiously
 coloraturas
-carnivoracity
+carnivoracity 1
 colorature
 celesta
 colorblind
