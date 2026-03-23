@@ -4091,7 +4091,7 @@ bobbed
 beansetter
 beanshooter 1
 beanstalk
-bestiaries
+bestiaries 1
 bearbaiter
 bedmaking 1
 blearedness
