@@ -16696,7 +16696,7 @@ catchingness 1
 cosuitor
 culla
 chocolaty
-cora
+cora 1
 clothespins
 centroplasm
 clothespresses
