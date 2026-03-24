@@ -3180,7 +3180,7 @@ elongation
 edict
 extortionists 1
 epiplastral
-exhaustiveness
+exhaustiveness 1
 eom 1
 emmarble
 elaborate
