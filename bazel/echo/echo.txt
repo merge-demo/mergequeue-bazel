@@ -9101,7 +9101,7 @@ emigrate
 erythropia
 enveil
 escrowee 1
-ephors
+ephors 1
 equinoxes
 evasion
 embordered
