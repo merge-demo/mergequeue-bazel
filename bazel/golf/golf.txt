@@ -8209,7 +8209,7 @@ gravid
 gladlier
 gigabit
 glycerolyses
-gelatinise
+gelatinise 1
 geometricize 1
 grandfatherless
 gestative
