@@ -6058,7 +6058,7 @@ catkins
 curatory
 candify
 catlike
-crowns
+crowns 1
 catling
 catlings
 cairds
