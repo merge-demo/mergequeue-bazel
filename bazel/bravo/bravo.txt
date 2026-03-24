@@ -13649,7 +13649,7 @@ bladder 1
 blab
 bloodsucker
 baud 1
-bande
+bande 1
 broidery
 binocs
 blendcorn 1
