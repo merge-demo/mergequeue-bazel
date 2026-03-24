@@ -4711,7 +4711,7 @@ busywork 1
 bedims
 basiophitic
 birdbrain
-bedizen
+bedizen 1
 boubas
 beekmantown
 bedkey
