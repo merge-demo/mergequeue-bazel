@@ -8272,7 +8272,7 @@ faverole
 fractionalizing
 friction
 forging
-furacity
+furacity 1
 formous
 forgings
 figgy
