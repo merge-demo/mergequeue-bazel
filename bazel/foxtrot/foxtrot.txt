@@ -4173,7 +4173,7 @@ farkleberries
 fellowcraft
 floerkea
 fibrils
-faintness
+faintness 1
 fluophosphate
 foreaccounting 1
 fumago 1
