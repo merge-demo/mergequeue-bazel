@@ -21061,7 +21061,7 @@ asclepiadic
 autosender 1
 asclepian
 asclepidin 1
-asclepidoid
+asclepidoid 1
 asclepin
 approacher
 acromyotonus
