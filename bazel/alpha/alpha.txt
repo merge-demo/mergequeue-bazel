@@ -16726,7 +16726,7 @@ atees
 arrestee
 aphasiacs
 aphasics
-affrayer
+affrayer 1
 ambience
 anabaptized
 averse
