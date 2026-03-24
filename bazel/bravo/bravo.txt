@@ -9198,7 +9198,7 @@ bumbee
 bipaschal
 buffin
 biped
-bipedal
+bipedal 1
 beggared
 bogo
 backhauling
