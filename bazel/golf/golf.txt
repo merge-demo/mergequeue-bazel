@@ -4333,7 +4333,7 @@ geodesist
 galeopsis
 gingered
 gaugeable 1
-guss
+guss 1
 guilds
 garrulity
 gingerline
