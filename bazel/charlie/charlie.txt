@@ -10371,7 +10371,7 @@ cyatholith
 chiefest
 cervalet
 conveyorizer
-chiefish
+chiefish 1
 chieftain
 chieftaincy
 chieftainess
