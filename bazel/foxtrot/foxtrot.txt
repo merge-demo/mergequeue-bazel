@@ -10295,7 +10295,7 @@ ferrates
 farnesses
 factor
 frenziedness
-forleaving
+forleaving 1
 foundationless
 finfoot
 fervorlessness
