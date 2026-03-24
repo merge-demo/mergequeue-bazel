@@ -12546,7 +12546,7 @@ brashness
 boniness 1
 bellwind 1
 brant 2
-brooklike
+brooklike 1
 boning
 bakemeat
 bonitary
