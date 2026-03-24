@@ -10655,7 +10655,7 @@ florican 2
 fundamental
 fidicinal
 foodstuffs
-fruitiness
+fruitiness 1
 fieldworker 2
 flagless
 fist
