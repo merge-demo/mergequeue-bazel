@@ -8620,7 +8620,7 @@ fir
 fittings 1
 ferretto 1
 flamefishes
-fuzzed
+fuzzed 1
 finnochio
 flukeless
 functionate
