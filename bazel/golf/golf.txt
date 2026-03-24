@@ -7937,7 +7937,7 @@ goracco
 gerbil 1
 grandaunt
 gheg
-gadolinic
+gadolinic 1
 glairy
 gainless
 greenhorn
