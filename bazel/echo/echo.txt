@@ -1130,7 +1130,7 @@ environage
 edition 1
 endere
 editorialization 1
-elsa
+elsa 1
 ecphory
 expunction 1
 enclosed
