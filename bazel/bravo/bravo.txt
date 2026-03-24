@@ -17608,7 +17608,7 @@ beguine
 bigonial
 bottomlessly 1
 burghers
-burgraves
+burgraves 1
 bureaucratized
 bowdlerized
 burring
