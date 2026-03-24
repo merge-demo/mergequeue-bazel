@@ -1204,7 +1204,7 @@ gradations
 globular
 guestive
 guttate 1
-garfishes
+garfishes 1
 grappler
 glaux
 gimcrackery 1
