@@ -6593,7 +6593,7 @@ butterbox 1
 brotula
 beetlers
 bacharach
-bukh
+bukh 1
 bodyplate 1
 beant 1
 bereaves
