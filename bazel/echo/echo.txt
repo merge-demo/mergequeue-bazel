@@ -10113,7 +10113,7 @@ epiboly
 etherealization
 earthlike
 extrusible
-endorses
+endorses 1
 ethereally 1
 entwined
 emprosthotonos
