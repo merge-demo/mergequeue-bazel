@@ -5496,7 +5496,7 @@ grande
 ganoids 1
 gimmer
 goods 1
-gentlemen
+gentlemen 1
 goodyera 1
 goldilocks
 glisten
