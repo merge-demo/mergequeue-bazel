@@ -14413,7 +14413,7 @@ cirrate
 compounds 1
 cirratulidae
 cortian
-costmary
+costmary 1
 cirrhose
 cipolins
 cirri 1
