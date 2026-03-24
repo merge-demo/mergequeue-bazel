@@ -8899,7 +8899,7 @@ expectorators
 entoderms
 ergograph
 epistrophic
-embitter
+embitter 1
 emeroids
 ergomaniac
 eragrostis
