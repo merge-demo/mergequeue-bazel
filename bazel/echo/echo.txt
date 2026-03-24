@@ -12157,7 +12157,7 @@ energise 2
 elasticin
 exuviating
 electroshock
-exploits
+exploits 1
 ethnogeography
 etageres
 egally
