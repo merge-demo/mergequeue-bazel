@@ -19078,7 +19078,7 @@ cardiasthma
 chloridizing 1
 collimated
 collimates
-collimation
+collimation 1
 collimator
 considered
 colline
