@@ -5818,7 +5818,7 @@ enterons 1
 encrinal
 episode
 encloser
-enray
+enray 1
 ephoi
 effluvia
 environing
