@@ -8178,7 +8178,7 @@ byronically
 beatable
 boone
 battailous
-bluebuck
+bluebuck 1
 biethnic 1
 binds
 baryes
