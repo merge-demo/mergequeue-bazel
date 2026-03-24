@@ -14095,7 +14095,7 @@ baldy
 beltene
 bistipular 1
 blot
-babbage
+babbage 1
 blasters
 bugged
 butsudan
