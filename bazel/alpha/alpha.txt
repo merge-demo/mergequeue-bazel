@@ -19243,7 +19243,7 @@ attractions
 antitarnish 2
 amaranthus
 autotypes
-areal
+areal 1
 albified
 areasoner
 areca
