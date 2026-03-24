@@ -15106,7 +15106,7 @@ dispensator
 discotheques
 darkeners 1
 dowdiness
-doctorship
+doctorship 1
 dadaist
 dogmatize
 dogplate
