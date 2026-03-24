@@ -5226,7 +5226,7 @@ declination
 declaimers
 denunciations
 deputy
-denominations
+denominations 1
 desired
 dicty
 dine
