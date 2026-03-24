@@ -1293,7 +1293,7 @@ gestation
 garefowl
 gyrene 1
 garetta
-gnawingly
+gnawingly 1
 gargalize
 guttles
 grump
