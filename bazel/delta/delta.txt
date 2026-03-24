@@ -3450,7 +3450,7 @@ deflowered
 deflowerer
 dumpcart
 dipleurogenetic
-dormient
+dormient 1
 duelists 1
 dehumidifier
 damp
