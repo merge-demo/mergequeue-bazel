@@ -4302,7 +4302,7 @@ fenland
 fungology
 firmarii
 furmeties
-flunkeys
+flunkeys 1
 forrader 1
 filthier
 farhand 2
