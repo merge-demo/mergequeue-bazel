@@ -10842,7 +10842,7 @@ flamefish 1
 furoin
 fishpool
 forficate
-flaminian
+flaminian 1
 fortified
 fumblingly
 fallout
