@@ -10186,7 +10186,7 @@ deripia
 declarable
 dehonestate
 demirevetment
-disallowing
+disallowing 1
 distillation
 dinging
 dingleberry
