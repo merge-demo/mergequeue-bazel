@@ -9606,7 +9606,7 @@ capernaite
 casklike
 cheepers
 cheepier
-cheepiest
+cheepiest 1
 cheepiness
 ceramidium
 cyathozooid
