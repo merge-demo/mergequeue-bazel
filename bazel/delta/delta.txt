@@ -4677,7 +4677,7 @@ dapple 1
 dreamsiness 1
 disintoxicate 1
 demythologization
-diplomatize
+diplomatize 1
 demythologizer
 duodecimal 1
 discretionally
