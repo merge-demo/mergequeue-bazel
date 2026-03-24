@@ -3981,7 +3981,7 @@ empale
 empalers
 eyepit
 empall
-excurvation
+excurvation 1
 empanelling
 empanels
 enfamish
