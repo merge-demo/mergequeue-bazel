@@ -17116,7 +17116,7 @@ divulging
 disclose
 degenerative
 drifters
-driftpins
+driftpins 1
 depositary 1
 damara
 deacidified 1
