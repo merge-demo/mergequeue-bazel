@@ -6541,7 +6541,7 @@ deraign
 describability 1
 dobra
 dulciloquy
-degradedness
+degradedness 1
 dichlorhydrin
 described 2
 dolous
