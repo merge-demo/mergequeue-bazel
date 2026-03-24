@@ -615,7 +615,7 @@ ghostweed
 graveside 1
 gloryless
 galliots
-goulashes
+goulashes 1
 gurnets
 gramaries
 gazophylacium
