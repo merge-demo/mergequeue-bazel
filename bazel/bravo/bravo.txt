@@ -6786,7 +6786,7 @@ barnumize 1
 berskin
 balize
 berhyme 3
-banjore
+banjore 1
 bert
 blowhole
 berteroa
