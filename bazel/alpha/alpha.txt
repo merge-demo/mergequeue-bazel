@@ -4529,7 +4529,7 @@ ambushed
 amylin
 asserve
 adversing
-aphoristical
+aphoristical 1
 ami
 amniota
 annotativeness
