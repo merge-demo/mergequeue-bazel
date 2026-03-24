@@ -25894,7 +25894,7 @@ corsetiere
 conicalness
 corseting
 ciliferous
-corsetry
+corsetry 1
 conversation
 continuative 1
 corsets
