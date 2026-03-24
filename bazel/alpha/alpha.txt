@@ -12556,7 +12556,7 @@ anthribid
 anencephalic
 angka
 alulae
-archpatriarch
+archpatriarch 1
 arithmocracy
 arvo 1
 anencephalus
