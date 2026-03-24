@@ -3815,7 +3815,7 @@ fillingly
 fingerboard
 flyflap 1
 freon 1
-ferritization
+ferritization 1
 frizzliest
 frocklike
 frijolillo
