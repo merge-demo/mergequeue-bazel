@@ -17634,7 +17634,7 @@ apostlehood 1
 appestats
 appetence
 automobilist
-aquotize
+aquotize 1
 appetibleness
 alula
 acinaces
