@@ -9589,7 +9589,7 @@ friableness 1
 fusteric
 frizzing
 fraternality
-fortifications
+fortifications 1
 fishpound 1
 fivestones
 ferrotyper
