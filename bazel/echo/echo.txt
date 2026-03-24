@@ -100,7 +100,7 @@ earpick
 elastician 3
 earpiece
 enchisel 1
-enmarble
+enmarble 1
 earreach
 engineership
 extraught
