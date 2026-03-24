@@ -13610,7 +13610,7 @@ esopgi
 englishwomen
 expurgates
 empedoclean
-effossion
+effossion 1
 elinvar 1
 epsilon 1
 epiphytically
