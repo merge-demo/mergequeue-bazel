@@ -10087,7 +10087,7 @@ functions
 fondant
 fritz
 furnisher
-foozling
+foozling 1
 farmhands 1
 fordam 1
 faki
