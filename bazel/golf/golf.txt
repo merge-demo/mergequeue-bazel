@@ -61,7 +61,7 @@ gluemaking
 gablewindowed
 gogga 1
 gonidiophore
-galeenies
+galeenies 1
 garoo
 gentlemanize
 greffe
