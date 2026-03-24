@@ -4968,7 +4968,7 @@ demotions
 deferent 2
 dysmeromorph
 daystar
-discreated
+discreated 1
 demarking 2
 dihdroxycholecalciferol 1
 dimethyltryptamine
