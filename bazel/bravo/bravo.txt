@@ -16443,7 +16443,7 @@ bortz 1
 butt
 bladesmith
 buttonholder
-bestick
+bestick 1
 betrace 2
 botas
 bouffage
