@@ -2272,7 +2272,7 @@ electrically 1
 extensometer
 enciente
 embryony
-embraceable
+embraceable 1
 encoach
 ethnarchies
 endothys
