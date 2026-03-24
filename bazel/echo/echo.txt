@@ -8731,7 +8731,7 @@ euphemisms
 ethysulphuric
 embrowd
 explodable
-equities
+equities 1
 equivalenced
 equivalent
 ensiles
