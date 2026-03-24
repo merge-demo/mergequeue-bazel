@@ -2739,7 +2739,7 @@ beltline 2
 bullbat
 bismutoplagionite
 barolo
-bm
+bm 1
 bicolored 1
 benab
 bonneting
