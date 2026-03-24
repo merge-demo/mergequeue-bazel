@@ -12774,7 +12774,7 @@ exorcizement
 encodings
 elasmobranchiate 1
 enmask
-exorcizer
+exorcizer 1
 epiceratodus
 exordium
 engold
