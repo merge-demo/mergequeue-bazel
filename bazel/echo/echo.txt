@@ -947,7 +947,7 @@ efform
 endocardium
 epoxied 2
 entada
-ecttypal
+ecttypal 1
 equates 2
 emanatory
 exeresis
