@@ -947,7 +947,7 @@ absorptiometer
 allegeable
 alive 1
 analcites
-absorptional
+absorptional 1
 aggregate
 arethusa
 actinopoda
