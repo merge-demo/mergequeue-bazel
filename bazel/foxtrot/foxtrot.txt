@@ -4539,7 +4539,7 @@ fusser
 fissura
 frugal
 forwardsearch 1
-fractionized
+fractionized 1
 felinophile 1
 fissured
 fiscalify
