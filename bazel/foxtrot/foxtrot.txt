@@ -11740,7 +11740,7 @@ fete
 floramor 1
 frights
 fathom
-foliiform
+foliiform 1
 flneur
 foresin
 fremdly 1
