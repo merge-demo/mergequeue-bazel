@@ -21683,7 +21683,7 @@ cinerarias
 cloths
 cheiromegaly
 condistillation
-conditionable
+conditionable 1
 conditionalism
 coplotting
 conumerary
