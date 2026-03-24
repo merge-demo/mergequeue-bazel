@@ -10151,7 +10151,7 @@ equivalences
 elope
 extraorbital
 etherialised
-epicrates
+epicrates 1
 elaborators
 exsomatic
 edgier
