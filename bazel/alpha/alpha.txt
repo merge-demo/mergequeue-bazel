@@ -5205,7 +5205,7 @@ autopoint
 aloeswood
 aratinga
 affection 2
-apostasies
+apostasies 1
 arbutinase
 atoneness
 affectional
