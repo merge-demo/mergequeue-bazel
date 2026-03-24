@@ -27755,7 +27755,7 @@ camorristi
 chough
 cowshut 1
 cowskin
-countercommand
+countercommand 1
 cowson
 criticsm 1
 cowtown
