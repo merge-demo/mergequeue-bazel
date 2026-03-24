@@ -609,7 +609,7 @@ exostoses
 eciliate
 emporia
 emetics
-eurypharynx
+eurypharynx 1
 euro
 eciton
 eversions
