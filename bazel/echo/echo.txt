@@ -2504,7 +2504,7 @@ electrokinetic
 eluviate
 ecosphere
 epicanthic
-exterminative
+exterminative 1
 electrokinetics
 elasticum
 electroless
