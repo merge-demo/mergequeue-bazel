@@ -8943,7 +8943,7 @@ grieko
 gecked
 glossopalatinus
 gatsby 1
-gyration
+gyration 1
 greund
 gurgulation
 gentianin
