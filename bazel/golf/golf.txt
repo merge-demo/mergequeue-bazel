@@ -10618,7 +10618,7 @@ gunpoints 1
 gloomiest
 ghoul
 gunpower
-gasping 1
+gasping 2
 gentled 1
 gourmandise
 gimmickry 1
