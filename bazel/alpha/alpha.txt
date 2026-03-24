@@ -4060,7 +4060,7 @@ agentival
 admissibility 1
 asci 1
 anestri
-admissive
+admissive 1
 automan
 astrophotometrical
 amaracus
