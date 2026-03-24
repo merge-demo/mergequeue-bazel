@@ -3066,7 +3066,7 @@ averish 1
 aught
 apickpack
 aphanophyre
-alienable
+alienable 1
 antiamusement 1
 actinon
 antimaterialistic
