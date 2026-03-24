@@ -10746,7 +10746,7 @@ fletches
 forgotten 1
 frustum 1
 frutage
-faithlessly 1
+faithlessly 2
 footraces
 frutex
 fruticetum
