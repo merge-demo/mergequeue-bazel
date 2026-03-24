@@ -19630,7 +19630,7 @@ annotate
 ark
 arillate
 affricative
-abwatts
+abwatts 1
 appending
 arillus
 ampere
