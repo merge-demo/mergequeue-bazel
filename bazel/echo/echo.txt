@@ -6540,7 +6540,7 @@ entamoebic
 endostosis
 ephyra 2
 exactly
-extratension
+extratension 1
 entail
 entomophthora
 elaphodus
