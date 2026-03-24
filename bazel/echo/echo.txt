@@ -6145,7 +6145,7 @@ enfacement 1
 enlodge
 episkotister
 estuary 1
-endocystitis
+endocystitis 1
 enlodgement
 enlumine
 entheos
