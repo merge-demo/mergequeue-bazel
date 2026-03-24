@@ -2725,7 +2725,7 @@ asteriae
 arak
 anabasin
 acritan
-acrite
+acrite 1
 asthenobiosis 1
 astringent
 arriba
