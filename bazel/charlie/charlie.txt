@@ -12413,7 +12413,7 @@ chromy 1
 cystostomy
 chromidae
 chromide
-chiffchaff
+chiffchaff 1
 chromides 1
 chromidiosome
 circuses
