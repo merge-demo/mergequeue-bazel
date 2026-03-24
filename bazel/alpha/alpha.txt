@@ -16510,7 +16510,7 @@ anglicanize
 arecaceous
 athyridae
 alodially
-auriscope
+auriscope 1
 aortal
 aortarctia
 aortas
