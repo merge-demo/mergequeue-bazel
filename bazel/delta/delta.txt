@@ -7867,7 +7867,7 @@ degentilize
 diatoric
 dewani 1
 depress
-defrayals
+defrayals 1
 diverseness 1
 dewatered 1
 diffluence
