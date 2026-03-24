@@ -9906,7 +9906,7 @@ estimations
 eprosy
 exhaustively 1
 emmensite
-earthnuts
+earthnuts 1
 elaterium
 enterritoriality
 ephedrin
