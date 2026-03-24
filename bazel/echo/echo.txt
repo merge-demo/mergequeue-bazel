@@ -5355,7 +5355,7 @@ emim
 everglades
 exsertion
 endospore
-evidentness
+evidentness 1
 encharm
 epiphyte
 epituberculous
