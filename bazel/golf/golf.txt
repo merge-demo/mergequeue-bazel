@@ -3913,7 +3913,7 @@ graders
 gorgonize
 gonotome 1
 grippier
-glarily
+glarily 1
 galeoid
 gravidae
 goral
