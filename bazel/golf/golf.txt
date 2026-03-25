@@ -922,7 +922,7 @@ gated
 gnashes 1
 glycaemia 1
 grumousness
-glucosemia
+glucosemia 1
 gawkishness
 gatewise
 gashed
