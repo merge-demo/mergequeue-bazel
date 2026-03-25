@@ -16368,7 +16368,7 @@ dewret
 downthrown
 denaturation
 douppioni 1
-delayage
+delayage 1
 downtown
 debar
 downtrampling
