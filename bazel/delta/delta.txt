@@ -12003,7 +12003,7 @@ decoic
 disenabled
 duplicates
 differen
-disenchant
+disenchant 1
 dowd
 disenchantments
 disenchantress
