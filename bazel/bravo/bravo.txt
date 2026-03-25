@@ -13877,7 +13877,7 @@ bauno 1
 bitbrace
 boloball
 bowleg
-bowleggedness
+bowleggedness 1
 beedi
 bowles
 balwarra
