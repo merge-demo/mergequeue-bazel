@@ -15554,7 +15554,7 @@ donnas 1
 defeasible
 dereligionize
 dittander
-donnerd
+donnerd 1
 donnick
 donnock
 diazoles
