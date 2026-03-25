@@ -361,7 +361,7 @@ bottegas
 backgame
 backgammon 1
 board
-barbarical
+barbarical 1
 barwares
 breaststroke
 background
