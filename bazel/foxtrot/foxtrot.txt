@@ -10791,7 +10791,7 @@ fubbery
 filamentoid 1
 fullering
 footpads 1
-fuchsian
+fuchsian 1
 floundered
 faintful
 fuchsine
