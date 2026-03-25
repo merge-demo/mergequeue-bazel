@@ -1122,7 +1122,7 @@ feverishness
 fractional
 fibrillary
 filiates
-farthings
+farthings 1
 forlornness 1
 fubs
 footprints
