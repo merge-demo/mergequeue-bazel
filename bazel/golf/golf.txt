@@ -6433,7 +6433,7 @@ glassman
 gobiesocid 1
 geostrophic
 gymnocladus
-grows 2
+grows 3
 gentlemanliness 1
 gocart 2
 giddypate 1
