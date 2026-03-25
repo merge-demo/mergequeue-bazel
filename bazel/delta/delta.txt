@@ -10489,7 +10489,7 @@ dilutedness
 dendrodra
 disordeine
 diphthonging 1
-diphthongisation
+diphthongisation 1
 deisticalness
 dozent
 dalar 1
