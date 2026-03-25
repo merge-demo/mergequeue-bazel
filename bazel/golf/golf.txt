@@ -2952,7 +2952,7 @@ grazable 1
 gulph
 gosh 1
 gastroscopic
-gooseflower
+gooseflower 1
 grotty
 gunks
 guardingly
