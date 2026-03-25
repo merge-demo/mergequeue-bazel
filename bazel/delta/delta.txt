@@ -10817,7 +10817,7 @@ deviscerate
 dispartment
 dixies
 dissave
-discolorate
+discolorate 1
 deviates
 departing
 directors
