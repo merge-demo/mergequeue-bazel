@@ -2498,7 +2498,7 @@ deckle
 dulls
 diatropism
 deferral 2
-duds
+duds 1
 dishonourary
 declaim
 dichorisandra
