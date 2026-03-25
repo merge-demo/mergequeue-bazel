@@ -4215,7 +4215,7 @@ cardophagus
 clearwing
 carbamido
 carnet
-chiron
+chiron 1
 coloboma 1
 carabideous
 cardsharp
