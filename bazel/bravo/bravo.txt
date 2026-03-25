@@ -13950,7 +13950,7 @@ becluster
 boxing
 boxmaker 1
 boxman
-boxroom
+boxroom 1
 bromatium
 barwise
 bacteriofluorescin
