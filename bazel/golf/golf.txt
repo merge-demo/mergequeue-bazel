@@ -8547,7 +8547,7 @@ geranomorph
 geodetical
 gusla
 gilo
-germaneness
+germaneness 1
 gasolene
 gemuti
 geonoma
