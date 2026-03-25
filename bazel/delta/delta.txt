@@ -5742,7 +5742,7 @@ dolls
 deplumes 1
 dentation
 dewanee
-doliolum
+doliolum 1
 deoxidiser
 demonland 1
 depoetize
