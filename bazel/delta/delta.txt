@@ -5490,7 +5490,7 @@ durion 1
 deoxidative
 declamation 1
 deoxidisation
-dissolubility
+dissolubility 1
 deadest 1
 devoiced
 dorsiventrality
