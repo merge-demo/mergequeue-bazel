@@ -21174,7 +21174,7 @@ concolor
 chemicobiological
 concentrated 1
 concentrates
-clamatores
+clamatores 1
 commensalist
 concentrations
 concentrative
