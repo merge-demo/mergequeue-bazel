@@ -10370,7 +10370,7 @@ gingerwort
 grike
 gapingstock
 gullets
-generators
+generators 1
 giddied
 gargoyled
 gallflower
