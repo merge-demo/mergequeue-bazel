@@ -13954,7 +13954,7 @@ entoire
 extraparliamentary
 ectotrophic
 expressless
-epimer
+epimer 1
 endokaryogamy
 enface
 electropoion
