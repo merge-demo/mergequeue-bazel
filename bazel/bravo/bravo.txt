@@ -1871,7 +1871,7 @@ batukite
 bishoplike 1
 backy 1
 biostatics
-bougeron
+bougeron 1
 bandit 1
 beshrew
 bretwaldadom
