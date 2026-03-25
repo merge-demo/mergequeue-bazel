@@ -6863,7 +6863,7 @@ chartaceous
 cellulosic
 contented
 cellulosing
-cellulosity
+cellulosity 1
 correllated
 cellulosities
 caphtor
