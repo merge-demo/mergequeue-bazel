@@ -11701,7 +11701,7 @@ filets 1
 fracas 3
 fas
 friarhood
-far
+far 1
 foretellableness 1
 flugelhorn
 fasciola
