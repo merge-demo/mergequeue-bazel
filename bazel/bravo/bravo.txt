@@ -7578,7 +7578,7 @@ bewhiten
 bifocals 1
 bedrivel
 breed
-bewhore 2
+bewhore 3
 bewidow
 bulldozers
 boke 1
