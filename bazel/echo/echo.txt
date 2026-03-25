@@ -8418,7 +8418,7 @@ ensigncy
 equals
 epizoon
 edemic
-emblossom
+emblossom 1
 exulceration 1
 epinasties
 epulones
