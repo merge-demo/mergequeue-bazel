@@ -6850,7 +6850,7 @@ entomical
 empoisoning
 electroimpulse
 entomol
-eyepopper
+eyepopper 1
 exocentric
 eupolyzoan 1
 ensky 1
