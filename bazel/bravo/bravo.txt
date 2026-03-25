@@ -6644,7 +6644,7 @@ bodegon 1
 beribanded
 birdy
 bargeboard 1
-barbarious
+barbarious 1
 beriberis
 bevesseled
 beerier
