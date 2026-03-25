@@ -11914,7 +11914,7 @@ emissivity
 exceptless
 emends
 eightfoil
-engore
+engore 1
 euploeinae
 ectoderms
 emotionalist
