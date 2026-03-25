@@ -1674,7 +1674,7 @@ gamuts
 gamelion
 gorkiesque
 gif 1
-gastrodermal 1
+gastrodermal 2
 gastrodermis 1
 gulfweed
 guayabo
