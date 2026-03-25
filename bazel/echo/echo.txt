@@ -13506,7 +13506,7 @@ elinor
 equipollence 1
 ensnares
 embroiderers
-ectosteal
+ectosteal 1
 examine
 elephantous 1
 erotology
