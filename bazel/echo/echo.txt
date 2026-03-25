@@ -4675,7 +4675,7 @@ echinoderm 2
 exdelicto
 evolve 1
 eremiteship
-enchoric
+enchoric 1
 encyclopedias
 ekoi
 entanglers
