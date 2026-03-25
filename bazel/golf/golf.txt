@@ -4715,7 +4715,7 @@ geisothermal
 glycerate
 gigged
 galchic 1
-gifting
+gifting 1
 gelatia 1
 giraffes 1
 generis
