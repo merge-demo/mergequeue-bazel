@@ -16464,7 +16464,7 @@ clockwise 2
 clockworked
 clavigerous
 carthamin
-chaldron
+chaldron 1
 cloddier
 crumster
 crowbell
