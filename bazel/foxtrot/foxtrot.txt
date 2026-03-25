@@ -8820,7 +8820,7 @@ flotillas
 fossage 1
 fanlight
 female 1
-fidel
+fidel 1
 fearable 2
 flexured
 friss 2
