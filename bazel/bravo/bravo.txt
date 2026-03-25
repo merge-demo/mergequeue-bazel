@@ -5337,7 +5337,7 @@ breviers 1
 beglue
 beerage
 barbola
-begnaw
+begnaw 1
 biharmonic
 borderlines
 balmy
