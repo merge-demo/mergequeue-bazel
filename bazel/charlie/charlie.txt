@@ -17232,7 +17232,7 @@ caixinha
 commoderate
 communicativeness
 chambrel
-curseder
+curseder 1
 coalier
 coaliest
 coenzymatically
