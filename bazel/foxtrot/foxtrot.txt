@@ -5802,7 +5802,7 @@ fumeroot
 fallage 1
 fastigium
 fellowess
-foreswearing
+foreswearing 1
 filmer 1
 flamingly
 flittermouse
