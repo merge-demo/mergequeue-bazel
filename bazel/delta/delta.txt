@@ -4040,7 +4040,7 @@ domineeringness 1
 directitude
 desuetudes
 dislikeful
-dysepulotic
+dysepulotic 1
 deliberalization
 duiker
 deliberately
