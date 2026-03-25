@@ -9927,7 +9927,7 @@ girderless
 glebes
 greylags 1
 geoparallelotropic 1
-gateway
+gateway 1
 grisailles
 granddaddies
 guaranties
