@@ -2819,7 +2819,7 @@ flattops 1
 fumigatories
 fcomp
 fretted
-faunae 2
+faunae 3
 faveolate
 facie
 ficus 1
