@@ -15228,7 +15228,7 @@ brickle
 bulbospinal
 bricklike 1
 beclose
-blennoid
+blennoid 1
 backstrip
 bucketing
 balneal
