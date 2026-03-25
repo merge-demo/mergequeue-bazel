@@ -6643,7 +6643,7 @@ boneshave
 bodegon 1
 beribanded
 birdy
-bargeboard
+bargeboard 1
 barbarious
 beriberis
 bevesseled
