@@ -3300,7 +3300,7 @@ gadso
 gorgonian
 grimmia
 gregaritic
-glancer
+glancer 1
 glycosin
 gelotoscopy
 glent 1
