@@ -16509,7 +16509,7 @@ despatcher 1
 darii
 dishevel
 dilucidate
-disdainable
+disdainable 1
 diomedes 1
 disjuncts
 dictated
