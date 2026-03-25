@@ -5069,7 +5069,7 @@ gularis
 garland
 ganged
 gret
-glassful
+glassful 1
 gonotocont
 grapplers 1
 gloxinia 1
