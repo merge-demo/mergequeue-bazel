@@ -20025,7 +20025,7 @@ asparaginic
 agar
 antproof 1
 aroynting
-aminothiophen
+aminothiophen 1
 antitype
 autographing
 antiamboceptor
