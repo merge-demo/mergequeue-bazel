@@ -6082,7 +6082,7 @@ gnathostomata
 gastrocnemial
 gypsography 1
 gph
-gnats
+gnats 1
 glutaeous
 gorbit
 guttie
