@@ -10895,7 +10895,7 @@ falloffs 1
 fides
 fulleries 2
 finfish
-fleets
+fleets 1
 flivver
 fletched
 fullmouthed 1
