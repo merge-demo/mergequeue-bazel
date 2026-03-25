@@ -18369,7 +18369,7 @@ buz
 buzane
 blawort
 bortsch
-bepaint
+bepaint 1
 buzz 1
 buzzard
 beylical
