@@ -8449,7 +8449,7 @@ goldbricks
 glaciarium
 goonch
 gratuitant 1
-glossograph
+glossograph 1
 grenatite
 guaguanche
 globulariaceous
