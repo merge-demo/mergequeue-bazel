@@ -5238,7 +5238,7 @@ eretrian 1
 equipluve
 equilibrate
 endomitosis
-endomorphy
+endomorphy 1
 exta
 ekebergite
 either
