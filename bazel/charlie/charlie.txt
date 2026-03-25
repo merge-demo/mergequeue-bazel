@@ -21722,7 +21722,7 @@ condo
 condoled
 condolence 1
 calyptro
-condolent
+condolent 1
 cruiserweight
 cuna
 condoler
