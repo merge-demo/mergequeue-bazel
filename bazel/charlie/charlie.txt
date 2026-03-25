@@ -22251,7 +22251,7 @@ congestible 1
 congesting
 congestion 1
 calk
-congestive 1
+congestive 2
 conceitedly
 conglaciate
 cornered
