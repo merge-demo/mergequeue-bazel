@@ -7346,7 +7346,7 @@ france
 farset 2
 foraneen 2
 ferrateen
-ferocious
+ferocious 1
 fluoridising
 formaldehydesulphoxylic
 fairyfloss
