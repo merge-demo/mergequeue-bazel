@@ -3674,7 +3674,7 @@ armeriaceae
 autodigestion 1
 abnegation
 adenophorous
-abyssinian
+abyssinian 1
 acephalite
 accumulative
 adenopodous
