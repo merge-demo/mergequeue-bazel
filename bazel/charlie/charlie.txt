@@ -8741,7 +8741,7 @@ coccolithophorid
 chapellany
 chapelled
 cimnel
-carditic
+carditic 1
 cobnut
 capitaliser
 chapelling
