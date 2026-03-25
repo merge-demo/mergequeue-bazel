@@ -8522,7 +8522,7 @@ chanca
 chance
 clow
 chemosterilants
-chanced
+chanced 1
 categorical
 chanceful
 cadrans
