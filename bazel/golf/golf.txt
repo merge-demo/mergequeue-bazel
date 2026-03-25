@@ -9887,7 +9887,7 @@ ghoom
 glycerose 1
 guanize
 gamasid
-graticulation
+graticulation 1
 genders 1
 guaracha
 grenadilla
