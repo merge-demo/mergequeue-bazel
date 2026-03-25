@@ -15409,7 +15409,7 @@ claptraps
 clapwort
 culbuter
 claque
-candescently
+candescently 1
 calipering 1
 canneries 1
 claques
