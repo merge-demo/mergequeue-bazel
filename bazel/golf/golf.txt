@@ -4949,7 +4949,7 @@ gapingly
 gladdened
 grouter
 greenbottle
-gestural
+gestural 1
 glaives 2
 get
 gent
