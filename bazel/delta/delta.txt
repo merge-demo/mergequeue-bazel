@@ -17548,7 +17548,7 @@ desisting
 drumline
 depolarised
 disappeared
-drumlinoid
+drumlinoid 1
 decelerated 1
 dactylate
 diatomous
