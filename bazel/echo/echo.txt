@@ -2308,7 +2308,7 @@ endocrania
 edana
 expert 1
 essene
-entheal
+entheal 1
 euphuism 1
 endosteum
 eval 1
