@@ -6381,7 +6381,7 @@ gospelwards
 germanophile
 greenwort
 guesstimate 1
-glossophaga
+glossophaga 1
 gulmohar
 galloped
 gamesomeness
