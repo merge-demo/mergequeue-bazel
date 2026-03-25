@@ -1286,7 +1286,7 @@ eleonorite
 eoghanacht
 epinephrin
 eq
-eeriness
+eeriness 1
 ecostate
 epithalamion
 encircler
