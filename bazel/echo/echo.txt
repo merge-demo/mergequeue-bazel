@@ -3182,7 +3182,7 @@ extortionists 1
 epiplastral
 exhaustiveness 1
 eom 1
-emmarble
+emmarble 1
 elaborate
 evinced
 egghead
