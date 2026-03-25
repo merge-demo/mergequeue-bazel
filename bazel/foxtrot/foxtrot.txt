@@ -1351,7 +1351,7 @@ florentine
 fearfuller
 fatigable
 favorable
-fatigableness
+fatigableness 1
 forfars
 frock
 fidac
