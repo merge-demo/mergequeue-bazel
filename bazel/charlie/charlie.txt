@@ -29876,7 +29876,7 @@ crossbite
 capiatur
 curriculums
 crossbow
-crossbows
+crossbows 1
 culgee
 cladoselache
 crossbreds
