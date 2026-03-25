@@ -4406,7 +4406,7 @@ enbrave
 eggheadedness
 embar 1
 egotize
-eruptively
+eruptively 1
 electromechanical
 experiential
 encadre
