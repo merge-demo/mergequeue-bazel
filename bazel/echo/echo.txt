@@ -9835,7 +9835,7 @@ eikon
 egocentricity
 enthronising 1
 endoceras
-equiomnipotent
+equiomnipotent 1
 engin
 enslumber 1
 envyingly
