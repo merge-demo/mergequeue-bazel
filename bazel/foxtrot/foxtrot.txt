@@ -7784,7 +7784,7 @@ frithbot
 flyblew 1
 flickery 1
 faint 1
-fraenum
+fraenum 1
 forgathering
 finning
 fluorescein
