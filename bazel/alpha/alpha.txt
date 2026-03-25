@@ -5499,7 +5499,7 @@ acrostichic
 aftercooler
 autocollimate
 ack
-apological
+apological 1
 almoning
 acentric
 aftercrop
