@@ -7149,7 +7149,7 @@ gore
 gorebill 2
 gordioid
 gearboxes
-gored
+gored 1
 gores
 goldenness 1
 guango
