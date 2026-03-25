@@ -12433,7 +12433,7 @@ chromitite
 conacre
 courtroom 1
 chromium
-chromiums
+chromiums 1
 chromize
 crocard
 congoese
