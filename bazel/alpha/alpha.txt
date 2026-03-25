@@ -663,7 +663,7 @@ abominators
 abomine
 abondance
 alluvials
-aimara
+aimara 1
 apostrophation
 abonnement
 artesian 1
@@ -18500,7 +18500,7 @@ akroasis
 antimusical
 azoturias 1
 assassinating
-arborer
+arborer 1
 adventitious
 adulteress
 arbores

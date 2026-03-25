@@ -2449,7 +2449,7 @@ faradize 1
 falus
 footbridges
 fermentescible
-filiform 1
+filiform 2
 fielding
 falla
 fornax 1
@@ -6493,7 +6493,7 @@ fakes
 flustery
 filiciform 1
 fondnesses 1
-fario
+fario 1
 factionist 1
 fluxes
 floody
@@ -7597,7 +7597,7 @@ fructuarius
 funiculus
 flintworker 1
 flays
-forespeak
+forespeak 1
 fecundative
 faradising
 foredune
@@ -10225,7 +10225,7 @@ flowerful 1
 flossier
 frighted
 franconian
-finespun 2
+finespun 3
 formolit 1
 frabous
 frankeniaceae 1
