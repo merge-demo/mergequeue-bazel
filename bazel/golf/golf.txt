@@ -2553,7 +2553,7 @@ gweduc
 generalistic 1
 gaudier 1
 glen
-gumption
+gumption 1
 gingle
 grue
 generations 1
