@@ -3548,7 +3548,7 @@ blonds
 bathylithic
 bipinnaria
 bathymetry
-bathymetrical
+bathymetrical 1
 biggonet
 bathing
 bastinadoes
