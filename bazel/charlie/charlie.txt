@@ -9818,7 +9818,7 @@ chemicodynamic
 caliches
 chemicoluminescent
 cyclostome
-chemicomineralogical
+chemicomineralogical 1
 carcinogenicity
 chemicophysical
 carbonized
