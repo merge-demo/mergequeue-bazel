@@ -4449,7 +4449,7 @@ billard
 bromizer
 bebopper
 blackrag
-batteler
+batteler 1
 behinds
 bailment
 beached
