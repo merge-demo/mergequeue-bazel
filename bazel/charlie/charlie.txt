@@ -20537,7 +20537,7 @@ costerdom
 colorability
 clayware
 copepodan
-compelling
+compelling 1
 cornerways
 compellingly
 curblike
