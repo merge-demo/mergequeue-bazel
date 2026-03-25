@@ -12339,7 +12339,7 @@ axes
 anders
 autoirrigation
 adipocerite
-americanism
+americanism 1
 alkenna
 apolytikion
 assiduous 2
