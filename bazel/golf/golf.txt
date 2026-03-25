@@ -1722,7 +1722,7 @@ gussie
 goblinish
 governmentally 1
 gnarlier
-gallicize
+gallicize 1
 gulf
 guardrails
 gremmies
