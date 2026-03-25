@@ -10896,7 +10896,7 @@ fides
 fulleries 2
 finfish
 fleets
-flivver
+flivver 1
 fletched
 fullmouthed 1
 firesafeness
