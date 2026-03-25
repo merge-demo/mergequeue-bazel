@@ -8878,7 +8878,7 @@ flambage
 froghopper 1
 faulter
 foujdarry
-fibrousness
+fibrousness 1
 foul
 fogger
 finesse 1
