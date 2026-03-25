@@ -17311,7 +17311,7 @@ dilatability
 drony
 droningly
 degelatinize
-deadlocked
+deadlocked 1
 dronish
 duellistic
 dronishness
