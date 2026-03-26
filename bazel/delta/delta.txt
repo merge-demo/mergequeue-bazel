@@ -1879,7 +1879,7 @@ decoy
 daleswoman
 debonair 1
 dextrorotary
-debonairness
+debonairness 1
 deboned
 debones
 deafening
