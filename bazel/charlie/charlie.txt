@@ -2503,7 +2503,7 @@ candide 1
 chausse 1
 churls
 candidiasis
-candidness
+candidness 1
 candidnesses
 chrismatine
 crawlie
