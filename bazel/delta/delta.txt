@@ -8507,7 +8507,7 @@ divider
 didactically
 dianilid
 deathworm
-dilate
+dilate 1
 dianilide
 disheritor 1
 dianite
