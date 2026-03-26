@@ -10306,7 +10306,7 @@ gault
 granulations
 getsul
 gullygut
-gonorrheal
+gonorrheal 1
 gilling
 gildsman
 goralog
