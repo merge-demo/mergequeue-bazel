@@ -1975,7 +1975,7 @@ amphidisk
 acetometer
 acetometry
 accroachment
-affidavits
+affidavits 1
 aleurites
 acetonaemic
 acetonemic 1
