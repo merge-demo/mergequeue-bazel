@@ -1556,7 +1556,7 @@ deactivators
 distressedness
 doublure
 deadlier 1
-deaden
+deaden 1
 droops
 docked
 drippings
