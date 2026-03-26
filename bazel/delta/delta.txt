@@ -12575,7 +12575,7 @@ djagatay
 dorsoventral 1
 disinsure
 dotonidae
-diamonding
+diamonding 1
 daffed
 disintegrated
 dipterological
