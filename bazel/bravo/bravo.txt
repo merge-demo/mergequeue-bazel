@@ -611,7 +611,7 @@ bacteriodiagnosis
 bromates 1
 benomyls 1
 behearse
-bacterid
+bacterid 1
 birdcages
 baraka
 barracked
