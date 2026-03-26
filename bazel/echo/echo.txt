@@ -7945,7 +7945,7 @@ endosmosis
 exudates
 exptl
 exordia
-epimandibular
+epimandibular 1
 enthrone
 epimanikia
 eolopile
