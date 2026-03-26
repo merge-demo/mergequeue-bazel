@@ -12799,7 +12799,7 @@ eurycerotidae
 epomophorus
 exines
 extensional
-exostosis
+exostosis 1
 exarchist
 exostra
 ebullition
