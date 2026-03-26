@@ -26505,7 +26505,7 @@ cottise
 chunkhead
 cephalically
 colorations
-cotton
+cotton 1
 cottonbush 1
 chumpishness
 cogitantly
