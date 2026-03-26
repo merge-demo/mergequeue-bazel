@@ -7257,7 +7257,7 @@ glassmaker
 generosity 1
 gribble 1
 gleby 1
-gingernut
+gingernut 1
 gemination 1
 gammas 1
 gromyl
