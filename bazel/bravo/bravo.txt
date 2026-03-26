@@ -7989,7 +7989,7 @@ bewilderedness
 borsht
 beslipper
 bespatterer
-bicircular
+bicircular 1
 bitemporal
 beedged
 byname 1
