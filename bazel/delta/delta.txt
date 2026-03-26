@@ -6933,7 +6933,7 @@ deaconize
 despairing 1
 desparple
 disturber
-downsinking
+downsinking 1
 decadation
 despatches
 deoxidise
