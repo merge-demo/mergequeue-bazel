@@ -20643,7 +20643,7 @@ counteranswer 1
 complaintiveness
 complaints
 cabinetmake
-complaisant
+complaisant 1
 cankerworms
 complaisantly
 coenenchyma
