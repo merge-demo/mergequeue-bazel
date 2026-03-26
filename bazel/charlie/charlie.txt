@@ -14092,7 +14092,7 @@ circlets
 circulated
 cochleas 1
 circocele
-colloquialisms
+colloquialisms 1
 codecree
 circue
 circuit
