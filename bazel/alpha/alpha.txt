@@ -22844,7 +22844,7 @@ atmospherics 1
 alkalizing
 abscessroot
 atmospherology
-atmosteal
+atmosteal 1
 antependiums
 anticonceptionist
 assessorship
