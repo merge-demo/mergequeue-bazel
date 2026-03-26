@@ -12056,7 +12056,7 @@ excoriation
 enwwove
 excoriations
 epiclike 1
-electrostenolytic
+electrostenolytic 1
 enforcible
 elflike
 exotoxins
