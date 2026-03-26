@@ -137,7 +137,7 @@ drawbench
 deviascope
 dekko
 dinar
-dyophone
+dyophone 1
 daddles
 dowdyism
 daffodillies
