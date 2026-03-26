@@ -2963,7 +2963,7 @@ ethid
 externalising 1
 elicitors 1
 eloined
-endonuclear
+endonuclear 1
 elicits
 engagee
 equaeval 1
