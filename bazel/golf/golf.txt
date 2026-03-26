@@ -9577,7 +9577,7 @@ gazed
 gynecologist
 galactoscope
 grind
-gnus
+gnus 1
 gingersnap
 grovellingly
 geishas
