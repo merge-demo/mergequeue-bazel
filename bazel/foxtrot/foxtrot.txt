@@ -9530,7 +9530,7 @@ forfear
 founts 1
 flask
 fibrovasal
-foveate
+foveate 1
 fermenter
 freckle
 furnace
