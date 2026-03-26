@@ -10237,7 +10237,7 @@ glutaraldehyde
 ginzo
 gonophorous 1
 gastroptosis
-grape
+grape 1
 gossypin 1
 graminivore
 glycogenase
