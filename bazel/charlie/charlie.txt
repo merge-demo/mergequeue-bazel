@@ -14951,7 +14951,7 @@ citramontane
 cothurns
 citrangeade
 carronade
-capsize
+capsize 1
 clouring
 contorsion
 chlorpropamide
