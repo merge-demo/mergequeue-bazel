@@ -2929,7 +2929,7 @@ flock 1
 frizzen
 factoring
 fumier
-flagonless
+flagonless 1
 flyboy
 fingian
 farinha 2
