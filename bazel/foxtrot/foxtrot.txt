@@ -4989,7 +4989,7 @@ fictionalized
 foraminate 1
 fact 1
 forestcraft
-fadeaway
+fadeaway 1
 fringiest
 focused
 frappeed 1
