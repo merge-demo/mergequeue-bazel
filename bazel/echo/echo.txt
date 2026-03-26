@@ -9611,7 +9611,7 @@ enchiridions 1
 euphuistically
 esoterist
 evildoers
-expertism
+expertism 1
 eventlessness
 exceptionary
 ensearch
