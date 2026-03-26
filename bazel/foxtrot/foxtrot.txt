@@ -210,7 +210,7 @@ factotum
 ferrihemoglobin 1
 frasier
 factrix
-footmanship
+footmanship 1
 factorials
 fanons
 fatiscence
