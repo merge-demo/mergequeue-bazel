@@ -11077,7 +11077,7 @@ flense
 footrace 1
 flew
 falconet 1
-flangeless 1
+flangeless 2
 fracturs
 forbidder
 foreknowableness
