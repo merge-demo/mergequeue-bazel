@@ -2383,7 +2383,7 @@ fortunetellers 1
 frondage
 feriation
 falsedad
-flinting
+flinting 1
 flexors
 fricandeau
 folksiness
