@@ -4788,7 +4788,7 @@ epencephalon
 extrarhythmical
 emboite
 erosiveness 1
-enscrolling
+enscrolling 1
 elucubration
 elator
 enclosures
