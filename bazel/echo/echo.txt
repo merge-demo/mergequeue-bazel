@@ -4175,7 +4175,7 @@ etuve
 editorializes
 epitheliolysin
 emanant
-encallow
+encallow 1
 euterpe
 extraessentially 1
 exchangeable 1
