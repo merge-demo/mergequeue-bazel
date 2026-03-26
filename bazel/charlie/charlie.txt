@@ -21725,7 +21725,7 @@ calyptro
 condolent 1
 cruiserweight
 cuna
-condoler
+condoler 1
 coaxers
 coleuses
 clumproot
