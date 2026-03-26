@@ -1257,7 +1257,7 @@ dates
 datil 1
 devotement
 dating 2
-disaffirmative
+disaffirmative 1
 dothienenteritis
 devitalizing
 diarrheal
