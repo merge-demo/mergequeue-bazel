@@ -3746,7 +3746,7 @@ caraway
 caraways
 carbachol
 chirata
-carbacidometer
+carbacidometer 1
 chromized
 croceines
 cryoprotective
