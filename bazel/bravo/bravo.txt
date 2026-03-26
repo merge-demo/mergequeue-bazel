@@ -10293,7 +10293,7 @@ blade
 beleaguerer
 besmircher
 basiglandular
-bosporian
+bosporian 1
 bladewise
 bladygrass
 baluchithere
