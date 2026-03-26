@@ -1537,7 +1537,7 @@ fauterer
 fauteuil
 fussy 1
 foreteach
-farrow
+farrow 1
 forepayment
 frundel
 festival
