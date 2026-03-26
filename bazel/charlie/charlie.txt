@@ -4218,7 +4218,7 @@ carnet
 chiron 1
 coloboma 1
 carabideous
-cardsharp
+cardsharp 1
 chlorites
 cavaliered
 chinatown
