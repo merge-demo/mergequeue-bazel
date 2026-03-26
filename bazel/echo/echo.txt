@@ -5070,7 +5070,7 @@ ectoproct
 endmost 1
 enrage
 enamellar
-exemplum
+exemplum 1
 eyelid
 editorialized 1
 endoaortitis
