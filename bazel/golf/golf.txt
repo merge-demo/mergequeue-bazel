@@ -3104,7 +3104,7 @@ gleanable
 gali
 gubat
 gibbol
-glossarist
+glossarist 1
 garo
 geophilid
 galvanoscopic
