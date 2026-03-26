@@ -596,7 +596,7 @@ dehydroretinol
 develin 1
 drawboy 1
 demifusion
-dextrose
+dextrose 1
 dups
 damine
 disbeliever
