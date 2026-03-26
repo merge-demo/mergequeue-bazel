@@ -7544,7 +7544,7 @@ eulamellibranch
 epicardia
 eyebrow
 employs 1
-exstemporaneous
+exstemporaneous 1
 epauliere
 ectoprocta
 electroforming
