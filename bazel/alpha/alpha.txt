@@ -19747,7 +19747,7 @@ azulejos
 aggressiveness
 arithmomancy
 arivaipa
-amphoral
+amphoral 1
 anhistous
 amortized
 achigan
