@@ -4329,7 +4329,7 @@ endothelioid
 entrenches 1
 esture
 elytroclasia
-expulsive
+expulsive 1
 expansibleness
 enactor 2
 epigrammatize
