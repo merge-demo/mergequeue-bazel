@@ -6228,7 +6228,7 @@ floccules
 focusable
 fascinative 1
 formwork 1
-fermentitious
+fermentitious 1
 foundationary
 ferrimagnetic
 fractionating
