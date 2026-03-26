@@ -21498,7 +21498,7 @@ cluster 1
 concorporate
 culverts 1
 concorporated
-compartimento
+compartimento 1
 concourse 1
 cliqueless
 confessions
