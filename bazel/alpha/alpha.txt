@@ -24478,7 +24478,7 @@ advise
 autotropic
 asclepias
 ayless
-argalis
+argalis 1
 araliad
 appeased
 acceptingness
