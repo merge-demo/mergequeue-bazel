@@ -19718,7 +19718,7 @@ combinative
 counterrotating
 combinator
 combinatory
-combinatorial
+combinatorial 1
 combinatorially 1
 combinators
 copaiva
