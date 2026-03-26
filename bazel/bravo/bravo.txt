@@ -15628,7 +15628,7 @@ bailage 1
 bezette
 buskle
 butat
-brittleness
+brittleness 1
 batrachotoxin
 belder
 britzska 1
