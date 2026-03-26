@@ -21591,7 +21591,7 @@ condemners 1
 condemning
 callot
 condensary
-counteroffensives
+counteroffensives 1
 crustless
 condensaries
 condensates
