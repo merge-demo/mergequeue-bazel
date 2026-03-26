@@ -149,7 +149,7 @@ flayers
 fifthly 1
 folden
 fellaheen
-facks
+facks 1
 forefront
 fumitories
 foremostly
