@@ -18359,7 +18359,7 @@ cogman
 coralloid
 counterbuilding 1
 conformers
-cogmen
+cogmen 1
 claypan
 chenevixite
 conterminant
