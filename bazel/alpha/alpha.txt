@@ -5496,7 +5496,7 @@ afterclause
 aftercome
 australasian
 acrostichic
-aftercooler
+aftercooler 1
 autocollimate
 ack
 apological 1
