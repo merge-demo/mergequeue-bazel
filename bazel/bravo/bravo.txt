@@ -3117,7 +3117,7 @@ betokener
 boosting
 boneset
 baselevel 1
-biradiate 1
+biradiate 2
 bismarck
 bustards
 boswellize
