@@ -2824,7 +2824,7 @@ antimeres
 aspersers
 athonite
 acromiocoracoid
-amateurishly
+amateurishly 1
 alite
 abominability
 antenniform
