@@ -6306,7 +6306,7 @@ caunos
 caunter
 cooperator
 chucks
-caup
+caup 1
 colletidae
 caupo
 candelas
