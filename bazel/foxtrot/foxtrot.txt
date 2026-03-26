@@ -10139,7 +10139,7 @@ faunula
 felled
 forgives
 filisters
-fliting
+fliting 1
 fenite 1
 fissile
 frontlet
