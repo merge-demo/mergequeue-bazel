@@ -6090,7 +6090,7 @@ gibbled
 grisset
 gadroons
 grume
-gonococcoid
+gonococcoid 1
 gnaws
 gramineous
 gneiss
