@@ -10183,7 +10183,7 @@ diachaenium
 drillability 1
 dispassioned
 deripia
-declarable
+declarable 1
 dehonestate
 demirevetment
 disallowing 1
