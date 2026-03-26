@@ -1706,7 +1706,7 @@ accuracies
 ada 1
 accursed
 amerikani
-accursedness
+accursedness 1
 aborter 1
 accurst
 authorisable
