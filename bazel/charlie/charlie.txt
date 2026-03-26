@@ -29413,7 +29413,7 @@ cris
 cinemese
 chairperson
 crisic
-crispated
+crispated 1
 crispbread 1
 circassian
 crispens
