@@ -5908,7 +5908,7 @@ folgerite
 fencepost
 foetalism
 furlers
-frangent
+frangent 1
 formlessness
 flockwise
 ferruginate
