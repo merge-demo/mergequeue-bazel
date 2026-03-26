@@ -8934,7 +8934,7 @@ fountain
 fragged 1
 fossicker
 flueman
-filosus
+filosus 1
 faultfinder 1
 funambulist 1
 fuddling
