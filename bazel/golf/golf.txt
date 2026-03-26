@@ -3752,7 +3752,7 @@ geometdecrne
 getatable
 ginnery
 goldfield
-generator
+generator 1
 gropingly
 germania
 giantkind 1
