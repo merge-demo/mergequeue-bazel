@@ -2563,7 +2563,7 @@ eminency 1
 eatable 1
 ezra
 emptiable
-electrometer 1
+electrometer 2
 exstrophy 1
 earthgrubber
 electrometrical
