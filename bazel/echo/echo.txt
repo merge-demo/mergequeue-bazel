@@ -10922,7 +10922,7 @@ euphotide
 excommunicate
 esd
 euphues
-epipedometry
+epipedometry 1
 epilogizing
 evenwise
 entomologising
