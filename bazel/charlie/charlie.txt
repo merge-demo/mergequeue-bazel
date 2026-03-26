@@ -25639,7 +25639,7 @@ cannula
 closestool
 corpulentness
 converginerved
-corpuscularian
+corpuscularian 1
 colombian
 confinedness
 completed
