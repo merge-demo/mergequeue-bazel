@@ -3983,7 +3983,7 @@ eyepit
 empall
 excurvation 1
 empanelling
-empanels
+empanels 1
 enfamish
 ecumene
 emparchment
