@@ -2949,7 +2949,7 @@ elliptical
 embarrassments 1
 eyewinks
 elicitation
-elicitor
+elicitor 1
 equivalvular
 enricher 1
 exploiters
