@@ -2105,7 +2105,7 @@ doses
 dynasts 1
 dromedary
 dissyllabism
-defenseman
+defenseman 1
 decameral
 daintify
 doline
