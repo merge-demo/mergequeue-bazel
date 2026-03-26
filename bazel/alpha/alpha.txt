@@ -16654,7 +16654,7 @@ araby
 apertness
 acetomorphine
 abnormalism
-actionable
+actionable 1
 apertometer
 aurally
 apocarpies
