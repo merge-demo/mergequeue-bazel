@@ -4299,7 +4299,7 @@ gumlike
 gabfests
 granulate
 glyptotherium 1
-goboes
+goboes 1
 glabellum
 gynecophorous 1
 gynecratic
