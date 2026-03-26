@@ -5064,7 +5064,7 @@ dueller 1
 denaturing
 duplicand
 denaturise
-disfigures
+disfigures 1
 dextrogyrate
 denaturization 1
 disparaging
