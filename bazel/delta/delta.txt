@@ -11958,7 +11958,7 @@ dentifrices 1
 degum
 decrease
 deutovum
-disembitter
+disembitter 1
 diplanetic
 disembocation
 domicils
