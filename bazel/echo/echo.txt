@@ -5293,7 +5293,7 @@ entreatable 1
 evened
 editors 1
 ecumenicity
-endopodite
+endopodite 1
 exagitation
 eskimoid 2
 elapsoidea
