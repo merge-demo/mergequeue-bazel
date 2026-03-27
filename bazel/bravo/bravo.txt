@@ -16488,7 +16488,7 @@ birdfarms
 bulk
 buckra
 bricker
-bishoplet
+bishoplet 1
 borasque 1
 bruskly 1
 bimillennium 1
