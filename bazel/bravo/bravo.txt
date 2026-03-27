@@ -3445,7 +3445,7 @@ boughpot
 bef 1
 bastite
 brushfire
-brigade
+brigade 1
 basto 1
 baguios 1
 bucklandite
