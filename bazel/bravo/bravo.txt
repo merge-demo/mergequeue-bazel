@@ -6382,7 +6382,7 @@ benzoglycolic
 benzoglyoxaline
 bastioned
 benzohydrol 1
-benzoylated
+benzoylated 1
 becuna
 benzene
 benzoylation
