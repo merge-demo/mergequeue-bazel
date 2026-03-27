@@ -11740,7 +11740,7 @@ chondroblastoma
 chondrocyte
 coniomycetes 1
 caliphates
-chondrocoracoid
+chondrocoracoid 1
 consonantalizing
 chondrocostal
 chondrocranial
