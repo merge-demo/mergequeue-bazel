@@ -6874,7 +6874,7 @@ deheathenize
 dreamer
 dentary
 desmorrhexis
-deifies
+deifies 1
 desmoscolecidae
 drossless
 desmosite
