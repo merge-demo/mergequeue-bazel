@@ -3506,7 +3506,7 @@ chappow
 capsuliferous
 coldcock
 cheloniid
-capsuliform
+capsuliform 1
 coverup
 capsuling 1
 clamer
