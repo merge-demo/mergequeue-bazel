@@ -12472,7 +12472,7 @@ bromgelatin
 bulbose
 bondsmen
 bonify
-bdls
+bdls 1
 betaines
 brawniness
 bondstone
