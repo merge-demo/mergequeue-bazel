@@ -754,7 +754,7 @@ ecotype
 ecotipically
 ecotypically
 ecotonal
-enclaved
+enclaved 1
 ecaudate 1
 echinocaris
 emblematise 1
