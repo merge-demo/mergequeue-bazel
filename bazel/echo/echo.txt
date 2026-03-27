@@ -13756,7 +13756,7 @@ evokers 1
 enki
 extispex 1
 epithalamial 1
-effusely
+effusely 1
 exodontist 1
 ethnize
 encloak
