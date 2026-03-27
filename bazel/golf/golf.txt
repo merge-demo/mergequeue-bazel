@@ -1104,7 +1104,7 @@ gonangium
 gregorianize
 ganja
 generatively
-gashouses
+gashouses 1
 graphiola
 grammatication 1
 gearshifts
