@@ -16661,7 +16661,7 @@ apocarpies
 arcking
 adventures
 autoelevation
-apertural
+apertural 1
 affrighter
 antichorus
 adiaphorous
