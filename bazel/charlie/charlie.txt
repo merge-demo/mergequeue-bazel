@@ -5800,7 +5800,7 @@ catechumenism
 cutthroats
 concourses
 catechumens 1
-catechumenship
+catechumenship 1
 codo
 catechutannic
 conquest
