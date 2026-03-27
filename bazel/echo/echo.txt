@@ -5588,7 +5588,7 @@ essentiality 1
 endostome
 evocators 1
 eugenists 1
-enfants
+enfants 1
 evulsion
 enfiled
 expediences
