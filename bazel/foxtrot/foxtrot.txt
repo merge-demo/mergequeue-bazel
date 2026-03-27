@@ -865,7 +865,7 @@ flakes
 flavicant
 forkman 2
 fluorogenic 1
-fulicine
+fulicine 1
 formatively
 freshet
 faltboats 1
