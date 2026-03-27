@@ -16995,7 +16995,7 @@ boulle 1
 becks
 bulblike
 biacetyl
-biochore
+biochore 1
 beliing
 bimotor
 beleaguered
