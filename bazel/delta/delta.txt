@@ -6225,7 +6225,7 @@ dithyramb
 degrades
 drabness 1
 dipsades 1
-disbenchment
+disbenchment 1
 dactylopodite
 dermanaplasty
 dermapterous
