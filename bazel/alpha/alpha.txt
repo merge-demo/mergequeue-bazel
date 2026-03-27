@@ -11725,7 +11725,7 @@ anagyrine
 anagyris
 anaglyph
 annulism
-anisopleural
+anisopleural 1
 anaglyphs 1
 anaglypta
 aldim
