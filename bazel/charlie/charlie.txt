@@ -15413,7 +15413,7 @@ candescently 1
 calipering 1
 canneries 1
 claques
-claqueur
+claqueur 1
 conducement
 clarain
 camelidae 1
