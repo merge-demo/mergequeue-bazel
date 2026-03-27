@@ -11627,7 +11627,7 @@ forehew
 fustigatory
 fumy
 friendship
-forwake
+forwake 1
 fetlow
 fineness
 fructoses
