@@ -3428,7 +3428,7 @@ caprifig
 constructionally
 caprifole
 caprifoliaceae
-caprifolium
+caprifolium 1
 cincinnatia 1
 capriform
 caprigenous
