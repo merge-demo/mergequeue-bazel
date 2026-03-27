@@ -9332,7 +9332,7 @@ grinder
 geomagnetically 1
 grond 1
 gront
-gamodeme
+gamodeme 1
 genuflect
 gangtide 1
 gradines
