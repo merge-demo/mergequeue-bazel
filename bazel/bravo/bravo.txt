@@ -2897,7 +2897,7 @@ bottleful
 broadcasts
 broadthroat
 biverbal
-beclatter
+beclatter 1
 bestride
 badinage
 barrater
