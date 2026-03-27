@@ -13585,7 +13585,7 @@ bouldered
 bevatrons 1
 byssi
 boulderhead
-bandanna
+bandanna 1
 bilskirnir
 brairo
 bahaism 1
