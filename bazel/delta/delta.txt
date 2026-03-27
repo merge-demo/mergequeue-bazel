@@ -4429,7 +4429,7 @@ dementing
 decayers
 demeore
 deincrustant
-decap
+decap 1
 dependant
 demerit
 demiluster 1
