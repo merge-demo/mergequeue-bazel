@@ -9385,7 +9385,7 @@ franklins 1
 flector
 frenchmen
 faffy
-footgears
+footgears 1
 firkins
 flatways 1
 fecal
