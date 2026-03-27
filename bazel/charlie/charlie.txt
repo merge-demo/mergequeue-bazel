@@ -7807,7 +7807,7 @@ costean
 chemoautotrophy
 charabancer
 clorinator
-cerussite
+cerussite 1
 centaurid
 cervantic
 chaffiest
