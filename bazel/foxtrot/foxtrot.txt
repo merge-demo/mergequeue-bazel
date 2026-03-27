@@ -3339,7 +3339,7 @@ forebreast
 featheredge 1
 forchase
 fameworthy
-fruggan
+fruggan 1
 fullmouthedly
 fandom
 fulcra 1
