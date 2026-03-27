@@ -5444,7 +5444,7 @@ boardmanship
 boatable 1
 becudgelling 1
 beetling
-behemoths
+behemoths 1
 behenate
 behenic
 bemixed
