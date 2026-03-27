@@ -17826,7 +17826,7 @@ apposition 1
 aphrodision 1
 alpujarra 1
 appositive
-accusatory
+accusatory 1
 annexed
 amobarbital
 apppetible
