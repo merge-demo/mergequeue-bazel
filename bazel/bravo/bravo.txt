@@ -6442,7 +6442,7 @@ benzotrichloride
 bolection
 benzoxyacetic 1
 blanchers
-ballast
+ballast 1
 bisulcate 1
 bulldogged
 biostratigraphy
