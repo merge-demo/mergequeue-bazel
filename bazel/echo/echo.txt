@@ -5414,7 +5414,7 @@ esquiline
 empyreum
 eophyte
 eccentrometer
-endothermal
+endothermal 1
 endothermy
 ectopatagia 1
 erthling 1
