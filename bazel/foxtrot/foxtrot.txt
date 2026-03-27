@@ -2795,7 +2795,7 @@ forgift
 fistulized
 forbearer 1
 ftncmd
-foxtailed
+foxtailed 1
 fotch 1
 filao
 fimbriation
