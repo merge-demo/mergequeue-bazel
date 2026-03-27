@@ -17593,7 +17593,7 @@ amenities
 ancillaries
 appendicularia
 aboulias
-azygosperm
+azygosperm 1
 appendiculate 1
 alectoris
 autovalve
