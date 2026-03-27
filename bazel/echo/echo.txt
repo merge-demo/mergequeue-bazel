@@ -5595,7 +5595,7 @@ expediences
 evangel
 extratympanic
 empathetically 1
-enduringness
+enduringness 1
 estimably
 enrichment
 endogens
