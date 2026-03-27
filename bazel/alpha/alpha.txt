@@ -15330,7 +15330,7 @@ achromatically 1
 arietation
 acroterion
 apperceptionist
-antihypochondriac
+antihypochondriac 1
 annal
 anticoincidence
 agomphosis
