@@ -11431,7 +11431,7 @@ disclosure
 diplomaed
 duplicitous 1
 discloud
-didache
+didache 1
 dingus 1
 disclusion
 deadnesses
