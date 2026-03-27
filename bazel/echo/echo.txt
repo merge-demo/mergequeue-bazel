@@ -1188,7 +1188,7 @@ education
 edulcorating
 enscroll
 ensweep
-educational
+educational 1
 extratracheal
 estipulate
 estimation
