@@ -1590,7 +1590,7 @@ banneret 1
 brairding 1
 bestar
 brahms
-beauties
+beauties 1
 balloen
 bewray
 ballone
