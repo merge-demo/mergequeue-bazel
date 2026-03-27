@@ -4821,7 +4821,7 @@ encolpia
 equilibrator 1
 entypies
 enduro
-epidosite
+epidosite 1
 eccoproticophoric 1
 escape 1
 erugate
