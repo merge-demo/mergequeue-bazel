@@ -4965,7 +4965,7 @@ clicket 1
 cartmaking
 cartobibliography
 columbia
-cartogram
+cartogram 1
 comminate 1
 cartography
 cypseli
