@@ -1719,7 +1719,7 @@ fortravail
 frippet 1
 fibrocyte
 flashflood
-feastfully
+feastfully 1
 forayers
 foist
 felonies
