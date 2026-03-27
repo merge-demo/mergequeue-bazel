@@ -26398,7 +26398,7 @@ coterminousness 1
 cotes
 cycloidian
 cerenkov
-cothon
+cothon 1
 cothouse
 cothurn
 cothurnus 1
