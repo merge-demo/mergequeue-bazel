@@ -15938,7 +15938,7 @@ digammic
 discoid 1
 dotchin
 dote
-dynamitic
+dynamitic 1
 distasting
 deprivers
 doted
