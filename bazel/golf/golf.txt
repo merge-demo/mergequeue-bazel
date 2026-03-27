@@ -5534,7 +5534,7 @@ gisants
 groggeries
 gyrovagi
 gently
-gump
+gump 1
 grassfinch 1
 griefs 2
 gauffers
