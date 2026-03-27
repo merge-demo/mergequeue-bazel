@@ -2063,7 +2063,7 @@ dreidls
 delictum
 dermatotomy
 daikered 1
-devotion
+devotion 1
 dimedon
 downgate
 debilities
