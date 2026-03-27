@@ -5852,7 +5852,7 @@ fitz
 farine
 fertilisable
 fowling
-factorially
+factorially 1
 floristic
 floatsmen
 fluff
