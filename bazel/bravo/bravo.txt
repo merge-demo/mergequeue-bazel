@@ -2466,7 +2466,7 @@ baphomet
 bereason
 bibliophilism
 binotic 2
-bigram
+bigram 1
 baresthesia
 bottom
 busies
