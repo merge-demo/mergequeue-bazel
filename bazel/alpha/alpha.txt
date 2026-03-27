@@ -1734,7 +1734,7 @@ archiereus
 aments 1
 attalid
 accuse
-animalivore
+animalivore 1
 accused
 alightment
 accusers
