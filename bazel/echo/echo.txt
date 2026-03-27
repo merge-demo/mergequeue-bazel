@@ -9809,7 +9809,7 @@ estaminet
 emittance
 exergue
 emunctories
-exprobrate
+exprobrate 1
 estampage
 empiric 1
 enucleating 1
