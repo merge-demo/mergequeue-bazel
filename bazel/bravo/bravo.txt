@@ -1702,7 +1702,7 @@ ballyhoos
 buskers
 brokerage
 botan
-borealis
+borealis 1
 brachypyramid
 broon
 byline
