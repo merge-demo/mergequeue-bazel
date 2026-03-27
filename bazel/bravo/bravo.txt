@@ -5291,7 +5291,7 @@ beggingly
 birsy 1
 backstab
 beneficiaire
-buddy
+buddy 1
 brachytic
 barretries
 boltonia
