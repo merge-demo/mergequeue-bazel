@@ -7647,7 +7647,7 @@ alcyonic
 astutely
 argentinitrate
 astrohatch
-absorbencies
+absorbencies 1
 alcyonium
 abreaction
 amplidyne
