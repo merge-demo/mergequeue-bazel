@@ -23857,7 +23857,7 @@ caimitillo
 contrives
 control
 controling
-controllable
+controllable 1
 controllably 1
 controller
 churner 1
