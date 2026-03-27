@@ -14538,7 +14538,7 @@ detribalization
 divisa 1
 dimethylketol
 diphaser
-directrixes
+directrixes 1
 downpouring
 divisibility
 divisibilities
