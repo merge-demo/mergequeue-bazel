@@ -9794,7 +9794,7 @@ euphrates
 expenthesis 1
 electroplate
 estable
-enchalice
+enchalice 1
 ervils 2
 establishable
 eddyroot 1
