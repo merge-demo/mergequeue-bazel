@@ -7712,7 +7712,7 @@ devily
 detail
 deviling
 deeded
-devilishness
+devilishness 1
 darshana
 displaceable 1
 devility
