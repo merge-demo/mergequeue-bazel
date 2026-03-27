@@ -17595,7 +17595,7 @@ coccinellidae
 coccyodynia 2
 coccionella
 cephalothoracopagus
-coccyx
+coccyx 1
 coccyxes 1
 coccyzus
 cocco
