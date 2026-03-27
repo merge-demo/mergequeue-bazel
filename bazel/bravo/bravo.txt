@@ -2586,7 +2586,7 @@ bulletined
 bedevils
 barytocelestite 1
 barytone
-barytons
+barytons 1
 busing
 bowable
 bears
