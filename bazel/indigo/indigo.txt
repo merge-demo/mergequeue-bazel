@@ -5791,7 +5791,7 @@ iiopkb
 iioptsyb
 iioqi 1
 iior 1
-iiosmy
+iiosmy 1
 iiou 1
 iiovcs
 iiovoq
