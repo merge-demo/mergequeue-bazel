@@ -22573,7 +22573,7 @@ connectable 1
 connected
 connectedly
 connecter
-confabbed
+confabbed 1
 connectibly
 chamferer
 connecticut
