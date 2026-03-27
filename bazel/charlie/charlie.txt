@@ -19265,7 +19265,7 @@ colon
 colonate
 colonelcies
 colonelships 1
-conductorless
+conductorless 1
 coloner
 cupuliferae
 colones
