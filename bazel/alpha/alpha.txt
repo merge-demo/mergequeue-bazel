@@ -8479,7 +8479,7 @@ antinomy
 amebocyte 1
 autophyllogeny
 acanthosis 1
-alkapton
+alkapton 1
 alkaptone
 ascent
 alkaptonuric
