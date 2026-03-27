@@ -396,7 +396,7 @@ failings
 fittingness 1
 factors
 flabellate
-fallaway
+fallaway 1
 floozie 1
 farfara
 fairishly
