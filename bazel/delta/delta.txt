@@ -15248,7 +15248,7 @@ departmentalizing
 dehull
 dollia
 deuteranopic
-dissociate
+dissociate 1
 dingmaul
 disbursal
 demipriest
