@@ -8068,7 +8068,7 @@ emgalla
 eteocles
 epigones
 ectodermal
-exteriorly
+exteriorly 1
 ego
 ektodynamorphic
 endamebic
