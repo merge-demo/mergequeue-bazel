@@ -4694,7 +4694,7 @@ fixidity
 fixing
 flannelleaf
 fixt
-furca
+furca 1
 flopwing
 fangs
 fummel 1
