@@ -11189,7 +11189,7 @@ dodecagon
 deprecatoriness
 dammaret
 disbelievers
-diascordium
+diascordium 1
 droich
 devocalise 1
 dazingly
