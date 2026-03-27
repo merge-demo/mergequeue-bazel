@@ -3545,7 +3545,7 @@ astricts
 adduced
 aragonese
 adducer
-adduces
+adduces 1
 auricles
 adducible
 ampelideous 1
