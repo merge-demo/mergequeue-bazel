@@ -5682,7 +5682,7 @@ funded
 fiddlestring
 flings 1
 freestyle
-fishwife
+fishwife 1
 flinkite
 flint
 fluffer
