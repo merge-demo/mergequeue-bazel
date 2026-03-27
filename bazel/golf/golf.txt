@@ -1201,7 +1201,7 @@ gappier
 genesiacal
 griot
 gradations
-globular
+globular 1
 guestive
 guttate 1
 garfishes 1
