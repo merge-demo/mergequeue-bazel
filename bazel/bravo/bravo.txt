@@ -4036,7 +4036,7 @@ burglarproofing
 buchu 1
 bom
 butled
-beamed
+beamed 1
 bedrock
 beamers
 beamfilling
