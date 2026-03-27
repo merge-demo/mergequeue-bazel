@@ -3722,7 +3722,7 @@ eeten
 exculpated
 ephemerons 1
 echelette 2
-exhaustivity
+exhaustivity 1
 egoistry
 embrittle
 enfranchised 1
