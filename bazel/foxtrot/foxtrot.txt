@@ -1184,7 +1184,7 @@ fifths
 fume
 forepass 1
 frighter
-foochowese
+foochowese 1
 fovea
 fascist
 forgo
