@@ -6668,7 +6668,7 @@ chalcidiform
 cedrin
 crenellation
 countervailed
-cedriret
+cedriret 1
 cetologies
 cedrol
 corticiform
