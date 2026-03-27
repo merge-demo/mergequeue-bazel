@@ -3789,7 +3789,7 @@ disgracia
 drillable
 dynamites
 distrain
-deice
+deice 1
 donning
 disseizoress
 defibrillation 1
