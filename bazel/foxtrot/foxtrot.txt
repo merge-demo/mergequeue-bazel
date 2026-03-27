@@ -10665,7 +10665,7 @@ frightable
 facultied
 fibular
 fruitlets
-fainting 1
+fainting 2
 foxy
 felsophyre 2
 forescent
