@@ -4651,7 +4651,7 @@ aedicule
 attraction
 autem
 aedile
-adject
+adject 1
 aediles 1
 aknee
 airbursts
