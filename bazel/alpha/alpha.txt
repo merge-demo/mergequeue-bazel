@@ -8699,7 +8699,7 @@ allentato
 agaty
 alsine
 acalephan
-asterospondylic
+asterospondylic 1
 aerocurve 1
 anapterygote
 aller
