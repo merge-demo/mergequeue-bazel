@@ -8571,7 +8571,7 @@ bibliothecas 1
 bimillenial
 billiard 1
 bellyfull
-bioactivity
+bioactivity 1
 bronchial 2
 bailout
 belatedly
