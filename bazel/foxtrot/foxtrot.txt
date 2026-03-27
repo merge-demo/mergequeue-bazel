@@ -9402,7 +9402,7 @@ fondu
 frenum 1
 ficaria 1
 forequoted
-finickiness
+finickiness 1
 fractionised
 flamboyer 1
 franticly
