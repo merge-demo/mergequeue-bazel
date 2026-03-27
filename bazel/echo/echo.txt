@@ -7314,7 +7314,7 @@ enterpillar
 eat
 enigmatize
 etchers
-encushion
+encushion 1
 epagomenae
 equerryship
 epagomenous
