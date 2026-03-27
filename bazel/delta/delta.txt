@@ -5044,7 +5044,7 @@ devotes
 doand
 dextrocardia
 darci
-deemphasis
+deemphasis 1
 denationalise
 denationalize
 dedicator
