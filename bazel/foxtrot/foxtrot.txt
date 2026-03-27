@@ -8812,7 +8812,7 @@ flashtube
 frustula 1
 feoffing 2
 flunks
-favorably
+favorably 1
 falcinellus
 frailes 2
 fetchers 1
