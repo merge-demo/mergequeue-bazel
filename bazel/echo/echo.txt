@@ -9239,7 +9239,7 @@ extrapleural
 extrapolative
 element
 embryoid
-eyestrain
+eyestrain 1
 erotogenesis 1
 effranchise
 errable
