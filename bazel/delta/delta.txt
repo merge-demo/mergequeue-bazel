@@ -8980,7 +8980,7 @@ dispeller 1
 dahoon
 discophora
 deficience
-disconanthous
+disconanthous 1
 duodenotomy
 depopulators
 digastric
