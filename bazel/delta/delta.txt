@@ -10048,7 +10048,7 @@ devisals
 debarkations
 deflate
 defailance
-diselectrify
+diselectrify 1
 dozier
 dishonour 1
 deled
