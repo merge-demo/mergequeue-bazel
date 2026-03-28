@@ -7364,7 +7364,7 @@ demasculinize
 datsun
 diplopias
 debatement
-deticker
+deticker 1
 dogtoothing
 drumheads 1
 desertedness
