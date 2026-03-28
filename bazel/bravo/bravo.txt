@@ -3925,7 +3925,7 @@ boracium
 buttonholes
 butternose
 bdellium
-bdelliums
+bdelliums 1
 brownist
 bdelloid
 bdellometer 1
