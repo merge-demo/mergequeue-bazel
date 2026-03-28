@@ -1070,7 +1070,7 @@ gipsology
 gomphiasis
 gradus
 gasserian
-glossic
+glossic 1
 gangplows
 geomalic
 gist
