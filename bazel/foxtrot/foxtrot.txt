@@ -1833,7 +1833,7 @@ feedbags
 flexographic 4
 frostnipped
 farcicality
-funambulate
+funambulate 1
 foreign
 febricant
 frilly 1
