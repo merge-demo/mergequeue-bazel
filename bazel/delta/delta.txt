@@ -3546,7 +3546,7 @@ drapery
 drowsiest
 defrauds
 defreeze
-defrocked
+defrocked 1
 dubbed
 derogately
 dillis
