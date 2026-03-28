@@ -11947,7 +11947,7 @@ attatches
 amalgamize
 anaphylactically 1
 araliaceae
-anaemias
+anaemias 1
 apostrophal
 anaphylactin
 anaphylactogenic
