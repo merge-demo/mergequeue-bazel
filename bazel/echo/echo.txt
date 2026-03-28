@@ -5026,7 +5026,7 @@ escalop
 encapsule
 enfoncee
 encamp
-erogeneity
+erogeneity 1
 eggplants
 epithelioblastoma
 endogastric
