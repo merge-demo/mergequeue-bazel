@@ -8375,7 +8375,7 @@ glides
 glutael
 gladsomeness
 ganoid 1
-granites
+granites 1
 genro
 guisards
 gerundival
