@@ -11151,7 +11151,7 @@ episome
 executing
 evacuants
 earthdrake
-exophagous
+exophagous 1
 epaulet
 entity 1
 eadi
