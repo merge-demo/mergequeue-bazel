@@ -2580,7 +2580,7 @@ assist
 acoustoelectric
 acpt
 acridinic
-acquaint
+acquaint 1
 acquaintanceship
 acidophilus
 acquisible
