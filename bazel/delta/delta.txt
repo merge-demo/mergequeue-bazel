@@ -3033,7 +3033,7 @@ dies
 dismantling 1
 deepfreeze 1
 dilettantish
-deepgoing
+deepgoing 1
 dawsoniaceous
 debaucheries
 dolomitize
