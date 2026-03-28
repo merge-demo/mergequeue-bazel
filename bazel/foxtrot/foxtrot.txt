@@ -8761,7 +8761,7 @@ fiddlers
 forwardal 1
 fermentability
 fadable
-forethought
+forethought 1
 frenzic
 fleshiness
 familia
