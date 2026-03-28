@@ -8753,7 +8753,7 @@ frankfort 1
 freddo 1
 forbiddable
 flogged 1
-followership
+followership 1
 fortuuned
 forester
 fossule
