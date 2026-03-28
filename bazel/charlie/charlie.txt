@@ -19769,7 +19769,7 @@ captained
 combwise
 catapulting
 centurion 1
-castlewards
+castlewards 1
 ceraunics 1
 creatines
 curfewing
