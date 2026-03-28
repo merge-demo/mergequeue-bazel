@@ -10313,7 +10313,7 @@ goralog
 gleaner
 guichet
 gnathions
-gujarati
+gujarati 1
 gametic
 girondin
 gamodesmic
