@@ -16197,7 +16197,7 @@ dominic
 drupetum
 draconic 1
 dialector
-deerskins
+deerskins 1
 dizens
 deallocates
 defats
