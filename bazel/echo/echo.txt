@@ -3103,7 +3103,7 @@ esemplastic
 ellipticity
 extemporize
 elliptograph
-elliptoid
+elliptoid 1
 extraparietal
 eke
 elm
