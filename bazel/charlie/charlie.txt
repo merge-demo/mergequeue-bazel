@@ -5144,7 +5144,7 @@ canvaser
 chaprassi
 caseinogen
 caseload
-caseloads
+caseloads 1
 casemaker 1
 caprylene
 cackle
