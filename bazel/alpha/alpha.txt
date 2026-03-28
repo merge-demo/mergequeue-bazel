@@ -20756,7 +20756,7 @@ amphicrania
 austenitic
 artilleryship 1
 autotherapy
-artillerist
+artillerist 1
 aetosaur 1
 aguishness
 anthologizes
