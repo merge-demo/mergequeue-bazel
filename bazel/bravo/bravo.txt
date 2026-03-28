@@ -4775,7 +4775,7 @@ baldling
 blast
 bed
 bedribble
-bhalu
+bhalu 1
 burglarizes
 bibracteate
 billfold
