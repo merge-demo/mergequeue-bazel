@@ -1371,7 +1371,7 @@ dobule
 dauties
 dauting
 delta
-diminishableness
+diminishableness 1
 decurionate
 duodecillion
 denierage
