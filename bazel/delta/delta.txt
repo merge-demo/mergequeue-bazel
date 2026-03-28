@@ -11013,7 +11013,7 @@ defiers
 deboistness
 diasystem
 disaligned
-disalliege
+disalliege 1
 deoxidization
 dodona
 downbend 1
