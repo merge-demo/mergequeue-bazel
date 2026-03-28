@@ -692,7 +692,7 @@ ariot
 aspern
 absorbency
 abortive
-afebrile
+afebrile 1
 abortiveness
 allegorising 1
 american
