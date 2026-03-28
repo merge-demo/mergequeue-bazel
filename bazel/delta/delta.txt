@@ -25,7 +25,7 @@ deltiology 1
 dodkin 1
 dependance
 dabs
-dabsters
+dabsters 1
 desalinates
 deediest
 disgeneric
