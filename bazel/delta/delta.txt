@@ -10892,7 +10892,7 @@ dissaturate
 discontinuous
 designlessly 2
 diathermometer
-demonologic
+demonologic 1
 doddart
 debaters
 desalting
