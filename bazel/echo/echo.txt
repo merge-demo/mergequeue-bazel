@@ -7882,7 +7882,7 @@ enablement
 eireannach
 extincts 1
 executioner
-epihyal
+epihyal 1
 exogonium
 exanthema
 entogastric 1
