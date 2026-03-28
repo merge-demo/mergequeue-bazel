@@ -2037,7 +2037,7 @@ duplicitas
 dichloramin 1
 decagram
 dourness
-decagrams
+decagrams 1
 declasse 1
 despised
 diverberate 2
