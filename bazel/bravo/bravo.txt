@@ -6553,7 +6553,7 @@ blastospheric 1
 balnibarbi
 berattle
 bakehead
-boatside
+boatside 1
 borickite
 brekky
 benzothiazole
