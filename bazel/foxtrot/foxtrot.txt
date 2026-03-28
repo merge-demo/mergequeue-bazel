@@ -3587,7 +3587,7 @@ filemaker 1
 flymen
 flenches
 freedstool 1
-forgetable
+forgetable 1
 fractabling
 foreskirt
 fixates 1
