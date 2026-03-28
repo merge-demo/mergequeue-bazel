@@ -2171,7 +2171,7 @@ gerontine 1
 gdinfo
 gnomide
 golfings
-gds
+gds 1
 gaycat 1
 gastrotomy
 grainer 1
