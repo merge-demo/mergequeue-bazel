@@ -5572,7 +5572,7 @@ deposer
 depauperize
 dorsal
 dyscrase
-depeinct
+depeinct 1
 dwarfing
 dependabilities
 donatistic
