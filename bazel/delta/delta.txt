@@ -4733,7 +4733,7 @@ demiwolf
 deprivals
 demob 1
 devi 1
-disremember
+disremember 1
 demobilising
 democracy
 diploneural
