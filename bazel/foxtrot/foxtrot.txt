@@ -8998,7 +8998,7 @@ feature
 foursquareness
 faustian
 fourteener
-frangibleness
+frangibleness 1
 fourteenths
 froren
 flatirons
