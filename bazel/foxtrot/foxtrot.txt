@@ -2494,7 +2494,7 @@ flavic
 freightage
 fawningness
 fortunize
-fluters
+fluters 1
 fatales
 ferociously 1
 flashforward
