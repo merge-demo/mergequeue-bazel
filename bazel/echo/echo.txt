@@ -10325,7 +10325,7 @@ exosmic
 extemporise
 exaggerative 1
 ethonomics
-ethnocentric
+ethnocentric 1
 epeirogenic
 encyclopaedical
 epipastic 1
