@@ -10521,7 +10521,7 @@ buttonhold
 belligerent 1
 badasses
 blastula
-boswellia
+boswellia 1
 blastulation
 blachong
 briton
