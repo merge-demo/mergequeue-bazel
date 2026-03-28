@@ -6164,7 +6164,7 @@ fabella 1
 flowcharted
 fungibles 1
 festivals
-fragmentized
+fragmentized 1
 finality 2
 flowerage 1
 fluxation
