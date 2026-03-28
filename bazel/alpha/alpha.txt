@@ -5859,7 +5859,7 @@ agene
 anticonscription
 aerogram 1
 ageneses
-ancestorial
+ancestorial 1
 anthropomorphise
 agenesis 1
 agenetic
