@@ -18088,7 +18088,7 @@ aptitude
 aptnesses
 autohypnotization
 anises
-amuletic
+amuletic 1
 arteriophlebotomy
 acherontic
 abettal 1
