@@ -5420,7 +5420,7 @@ groundflower 1
 gumchewer
 grandmotherliness
 gender
-groovy
+groovy 1
 glutenin
 granomerite 1
 groceress
