@@ -18156,7 +18156,7 @@ crowdweed
 coercers
 coercible
 coercionary
-coercitive
+coercitive 1
 coercive
 coerciveness
 coercivity
