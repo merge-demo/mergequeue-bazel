@@ -3202,7 +3202,7 @@ arty
 anamnia
 admonished
 acropathy
-actualistic
+actualistic 1
 annamese
 alphabeted
 attributer
