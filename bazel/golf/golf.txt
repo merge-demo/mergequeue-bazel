@@ -741,7 +741,7 @@ gar 1
 goniometric
 gnawer
 greenshank
-gasted
+gasted 1
 galvanology
 geomechanics
 gombeen
