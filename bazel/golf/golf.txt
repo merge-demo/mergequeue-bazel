@@ -10616,7 +10616,7 @@ goy
 guildite 1
 gunpoints 1
 gloomiest
-ghoul
+ghoul 1
 gunpower
 gasping 2
 gentled 1
