@@ -3259,7 +3259,7 @@ elute
 elution
 esthesiometric 1
 enzymatically 1
-effuso
+effuso 1
 epirotulian
 epigon 2
 encamping
