@@ -22302,7 +22302,7 @@ congratulations
 congratulatory
 congree
 commandant
-congregable
+congregable 1
 congreganist
 crooks
 congregant
