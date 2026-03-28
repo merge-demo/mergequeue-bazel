@@ -14721,7 +14721,7 @@ arribadas
 antibilious
 antibiont
 antibiosis
-anaglyphic
+anaglyphic 1
 antibiotic
 antimonopolism
 acousmatic
