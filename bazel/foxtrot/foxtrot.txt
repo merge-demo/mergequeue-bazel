@@ -7749,7 +7749,7 @@ facer
 fanfaronade 1
 flower
 flanes
-firearms
+firearms 1
 foremast
 fritters
 fidicula
