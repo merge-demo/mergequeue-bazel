@@ -6445,7 +6445,7 @@ desaccharification
 defalcation 1
 decarburisation
 dozened
-desacralization
+desacralization 1
 drizzled
 dictatorially
 degenerating
