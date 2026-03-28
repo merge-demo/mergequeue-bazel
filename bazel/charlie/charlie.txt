@@ -28331,7 +28331,7 @@ coheretic
 charminger
 cravened
 cravening
-cravenly
+cravenly 1
 cravens
 clod
 cloop
