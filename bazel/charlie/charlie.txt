@@ -24239,7 +24239,7 @@ constraining
 curval
 comr
 convolvulus
-coercively
+coercively 1
 conventionist
 calcarea 1
 chuffest 1
