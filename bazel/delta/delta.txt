@@ -2586,7 +2586,7 @@ derive
 dreamlike 1
 declivity
 ducklingship
-deanthropomorphize
+deanthropomorphize 1
 dangled
 detoured
 dermobranchia

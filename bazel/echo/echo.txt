@@ -11722,7 +11722,7 @@ elands
 exaltment
 essayism
 epinard
-expunge
+expunge 1
 enclasped 1
 epicrises
 examen 1
