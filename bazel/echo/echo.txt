@@ -5762,7 +5762,7 @@ engirds
 electroblasting 1
 eyeglance 1
 extraverted
-extemporised
+extemporised 1
 endofaradism
 enolases 1
 exition
