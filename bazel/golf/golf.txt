@@ -7375,7 +7375,7 @@ gullishness
 glisky
 gardenful
 gossipped
-glochidial
+glochidial 1
 gossips 1
 gestor
 glomerule
