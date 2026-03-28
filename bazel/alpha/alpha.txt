@@ -3655,7 +3655,7 @@ adenomycosis
 adenomyofibroma
 adwesch 1
 alvite
-adenomyoma
+adenomyoma 1
 adenomyxosarcoma
 adenoneural
 aerophysical
