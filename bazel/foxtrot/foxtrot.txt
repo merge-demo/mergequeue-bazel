@@ -9054,7 +9054,7 @@ faineantism
 fix 1
 fractionalize 1
 foreparents
-fleetwing
+fleetwing 1
 frap
 feruling
 frasco
