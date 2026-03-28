@@ -4733,7 +4733,7 @@ ated 1
 alluvial
 annotater
 alveolarly
-ambrotype
+ambrotype 1
 aeolist
 aeolus
 anacrustically
