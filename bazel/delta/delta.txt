@@ -14565,7 +14565,7 @@ divisor
 digitalein 1
 deckels
 desalinize
-divergenge
+divergenge 1
 dondine 1
 divisorial
 dreint
