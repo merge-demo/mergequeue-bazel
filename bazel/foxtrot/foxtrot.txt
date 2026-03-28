@@ -2928,7 +2928,7 @@ frontogenesis
 flock 1
 frizzen
 factoring
-fumier
+fumier 1
 flagonless 1
 flyboy
 fingian
