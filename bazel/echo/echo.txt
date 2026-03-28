@@ -12101,7 +12101,7 @@ enflames
 exploit 1
 editress 1
 echinologist
-eartag
+eartag 1
 electromagnet
 emasculation
 embroche
