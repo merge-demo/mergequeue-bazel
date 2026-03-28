@@ -4255,7 +4255,7 @@ earwiggy
 elucidator 1
 emulations
 echograph
-exporters
+exporters 1
 expiree
 escarping
 escambio
