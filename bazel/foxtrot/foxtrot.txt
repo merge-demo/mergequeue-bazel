@@ -5469,7 +5469,7 @@ fluozirconic
 fernbrake 1
 ferreter 1
 flora 1
-funniness
+funniness 1
 frequentness
 flemishes
 flensed
