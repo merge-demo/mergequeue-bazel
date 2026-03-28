@@ -7689,7 +7689,7 @@ gastropodan 1
 guardhouses
 gradiometric
 gaup
-gnawed
+gnawed 1
 granzita 1
 gypsyesque
 gynostemium
