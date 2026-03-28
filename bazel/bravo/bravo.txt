@@ -3403,7 +3403,7 @@ broider 1
 bewall
 bittor
 boehmenism
-berascaled
+berascaled 1
 bryophytic
 burghership
 byrrus 1
