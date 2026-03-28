@@ -6936,7 +6936,7 @@ disturber
 downsinking 1
 decadation
 despatches
-deoxidise
+deoxidise 1
 despatching
 despecialization
 disembarrassed
