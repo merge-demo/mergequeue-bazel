@@ -14773,7 +14773,7 @@ bedimplies
 braxy 1
 braxies 1
 brunt
-brazenfacedness
+brazenfacedness 1
 bicaudal
 bargh
 brazens 1
