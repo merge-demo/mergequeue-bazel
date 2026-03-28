@@ -163,7 +163,7 @@ cablet 1
 cabling
 contentiousness
 campmaster
-copellidine
+copellidine 1
 carbonizable
 cabob
 countervails
