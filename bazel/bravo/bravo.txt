@@ -13027,7 +13027,7 @@ bacteriolysis
 bagataway
 bonded
 berger
-bordeaux
+bordeaux 1
 bz 1
 blancard 2
 biennials
