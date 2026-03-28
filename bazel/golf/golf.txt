@@ -6245,7 +6245,7 @@ glue
 glucosidase
 gonne
 greaves
-gopura
+gopura 1
 goatstone
 gaum 2
 goatweed 2
