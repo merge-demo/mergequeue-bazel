@@ -3415,7 +3415,7 @@ foretalk 2
 fiendly
 featurely
 fc
-fetishlike
+fetishlike 1
 firmed
 filarial
 frillier
