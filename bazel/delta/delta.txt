@@ -8217,7 +8217,7 @@ diadic
 disabusing
 demurrer
 decouples
-dyadics
+dyadics 1
 diadkokinesia
 diadochi
 ductible
