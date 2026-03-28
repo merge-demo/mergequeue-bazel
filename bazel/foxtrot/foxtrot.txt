@@ -8632,7 +8632,7 @@ fearfully
 fibromucous
 fulup
 fringilloid
-forsakenness
+forsakenness 1
 fermentarian
 forsythia
 fontinalis
