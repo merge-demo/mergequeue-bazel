@@ -7514,7 +7514,7 @@ dumfounding
 dehgan
 deuteranomaly
 deuteranope
-deuterate
+deuterate 1
 deuteration
 denucleate
 demarcator
