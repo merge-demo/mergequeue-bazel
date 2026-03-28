@@ -7933,7 +7933,7 @@ gentilization
 gladded
 gallantly 1
 grandads
-goracco
+goracco 1
 gerbil 1
 grandaunt
 gheg
