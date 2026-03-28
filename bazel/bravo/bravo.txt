@@ -18258,7 +18258,7 @@ bootblacks 1
 buttermilk 1
 bastardy
 buttermonger
-bice
+bice 1
 bagworm 1
 bronzier
 butternuts 2
