@@ -6385,7 +6385,7 @@ ebbed
 episcopize
 eprouvette 1
 enshrined
-enshrinement
+enshrinement 1
 embars
 enshrinements
 endovaccination
