@@ -1148,7 +1148,7 @@ dashplate
 dropflower
 depaint
 duracine
-dasyatis
+dasyatis 1
 daylit
 dire
 distractingly
