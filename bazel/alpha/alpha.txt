@@ -23114,7 +23114,7 @@ atte 1
 archocele
 avodires
 anthecology
-ammonolyze
+ammonolyze 1
 antheriform 1
 attemperament 1
 aizle
