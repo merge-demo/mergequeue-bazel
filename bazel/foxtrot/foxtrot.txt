@@ -1100,7 +1100,7 @@ farseer 1
 frenchwoman
 frondescence 1
 foughten
-farsighted
+farsighted 1
 fleabites 1
 flatiron
 foretime
