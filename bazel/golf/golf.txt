@@ -10838,7 +10838,7 @@ grayhead
 generality
 gyrofrequency
 genethlialogical 1
-gyrograph
+gyrograph 1
 guttar
 guaiacum
 guzul
