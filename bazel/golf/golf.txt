@@ -7529,7 +7529,7 @@ governesses
 galvanotonic
 greathead
 guideless
-gatelike
+gatelike 1
 goliardery
 greenbone 1
 gorbellies 1
