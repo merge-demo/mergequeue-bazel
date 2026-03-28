@@ -1396,7 +1396,7 @@ garniture
 gaulsh
 glycosemia
 germanize
-grecize
+grecize 1
 gaits 1
 ganyie 1
 gallotannin
