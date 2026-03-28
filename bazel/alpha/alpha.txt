@@ -847,7 +847,7 @@ abscission 1
 absconce
 abscond
 absconded
-apperceptive
+apperceptive 1
 absconder 1
 agonizes
 archegoniate
