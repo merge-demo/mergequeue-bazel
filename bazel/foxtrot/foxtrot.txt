@@ -3910,7 +3910,7 @@ fecundating
 fluidness 1
 ferocactus
 financer
-fripperies
+fripperies 1
 followers
 fevertrap 1
 footslogged
