@@ -12560,7 +12560,7 @@ archpatriarch 1
 arithmocracy
 arvo 1
 anencephalus
-anorexigenic
+anorexigenic 1
 anenst
 antifame
 agaric
