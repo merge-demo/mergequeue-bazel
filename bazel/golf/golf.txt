@@ -7417,7 +7417,7 @@ galvanometers
 giga
 granduncle
 gnatproof 1
-geylies
+geylies 1
 gotra 1
 germarium
 gravecloth
