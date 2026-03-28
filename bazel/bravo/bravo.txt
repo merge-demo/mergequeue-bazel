@@ -2638,7 +2638,7 @@ blurred
 basilinna 1
 buckstall 1
 bescour
-befriend
+befriend 1
 backstretches
 bogyisms
 barbitals
