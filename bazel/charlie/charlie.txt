@@ -28793,7 +28793,7 @@ clarinettist
 confederatio
 cantino
 cresegol
-cargo
+cargo 1
 cresyl
 cresylate
 cresylic
