@@ -11440,7 +11440,7 @@ echovirus
 ennedra
 emblic
 edibility 1
-eligibility
+eligibility 1
 esthacyte
 evese
 entomostraca 1
