@@ -3508,7 +3508,7 @@ deforested
 downheartedness 1
 draftswoman
 downside
-deform
+deform 1
 diasters
 doughmaker
 deformability 1
