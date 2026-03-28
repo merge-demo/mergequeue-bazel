@@ -9679,7 +9679,7 @@ dispersedelement
 desulphurization
 dikaryophasic
 dikaryophyte
-demission
+demission 1
 dikaryophytic 1
 disfiguration
 dikdik
