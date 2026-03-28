@@ -16636,7 +16636,7 @@ drone 1
 designation
 dilettantes
 dragsters 3
-demisovereign
+demisovereign 1
 doctoress
 drayage
 drayhorse
