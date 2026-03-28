@@ -2431,7 +2431,7 @@ fingered
 frisco 1
 farandola
 foils
-flutterable
+flutterable 1
 frazer
 fulgourous
 feasters 3
