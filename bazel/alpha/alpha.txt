@@ -904,7 +904,7 @@ absit
 absoil 1
 acorn
 absterging
-antient
+antient 1
 absolent
 aliases
 appenzell 1
