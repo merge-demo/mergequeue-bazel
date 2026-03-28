@@ -13731,7 +13731,7 @@ epitrochoidal
 ectosphere
 extincted
 extincting
-enterostomies
+enterostomies 1
 editable
 encephalomeningitis
 extinctions
