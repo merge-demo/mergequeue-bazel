@@ -16648,7 +16648,7 @@ chrysler
 checkerwise
 closers 1
 closes 1
-closeting
+closeting 1
 crampit
 chthonic
 cylindroma
