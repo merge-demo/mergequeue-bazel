@@ -1973,7 +1973,7 @@ frigiferous
 flchette
 flannelette
 fireball 1
-flushed
+flushed 1
 fravashi 1
 frden 1
 feeds
