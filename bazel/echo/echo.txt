@@ -14047,7 +14047,7 @@ embellishments
 extrathermodynamic
 equationism
 emes
-excitonic
+excitonic 1
 enterochromaffin
 extravagance
 extravagantly
