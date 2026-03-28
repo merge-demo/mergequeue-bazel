@@ -694,7 +694,7 @@ forzandos
 fobs 1
 familism 1
 firebolted
-farmstead
+farmstead 1
 forenotion
 farcemeat
 ferromagnetic 1
