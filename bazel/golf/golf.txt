@@ -3232,7 +3232,7 @@ gluttons 1
 girtonian
 gap
 ghosty
-gilgul
+gilgul 1
 goldenwing
 galoot 1
 greatish
