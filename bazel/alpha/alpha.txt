@@ -5374,7 +5374,7 @@ acid
 affrightment
 affronted
 affrontedness
-anidiomatic
+anidiomatic 1
 adenose
 affronts
 affuse
