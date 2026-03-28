@@ -7977,7 +7977,7 @@ drawpoint 1
 drunkometer
 dextroglucose
 distensive
-dextrolactic
+dextrolactic 1
 despotes
 diphenylthiourea
 dorosternal
