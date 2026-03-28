@@ -7647,7 +7647,7 @@ ensconce 1
 elixirs
 enhungered
 euphemious
-extrabold
+extrabold 1
 electrophoridae
 epicoracoid
 exocrine 1
