@@ -3293,7 +3293,7 @@ goxes
 german
 geckos 2
 gunstocks
-germanify
+germanify 1
 graminiferous
 germanification
 gadso
