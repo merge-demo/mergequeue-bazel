@@ -10406,7 +10406,7 @@ cryptometer
 chiffonnieres
 conchinin
 chiffons
-continuable
+continuable 1
 chifforobe
 chlorinity
 cozenage
