@@ -7080,7 +7080,7 @@ disallowed
 destines 1
 dz
 dollhood
-diplacanthus
+diplacanthus 1
 democratically
 dermophyte 1
 disincentive
