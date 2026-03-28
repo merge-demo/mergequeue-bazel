@@ -27567,7 +27567,7 @@ covertly 1
 colloquialist
 cadency
 cupmaker
-coves
+coves 1
 censured
 covet
 cerealin
