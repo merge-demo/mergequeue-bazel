@@ -59,7 +59,7 @@ commends
 coup
 chlorophyll
 cabbagehead
-cabbageheaded
+cabbageheaded 1
 chalinine
 cytoplasmically
 cosmocrat
