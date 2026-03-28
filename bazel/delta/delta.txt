@@ -12807,7 +12807,7 @@ dismayable
 dismayfully
 declension 1
 datagrams
-diathermancy
+diathermancy 1
 doubty
 dismail
 democratising
