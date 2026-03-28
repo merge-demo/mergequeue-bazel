@@ -11528,7 +11528,7 @@ eserin
 extractable 1
 elegantly
 evincing
-entoblast
+entoblast 1
 esophagus
 evincive
 excavationist 1
