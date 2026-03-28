@@ -12418,7 +12418,7 @@ disheriting 1
 deforms
 declivate 1
 dishevelled
-dishevelling
+dishevelling 1
 delomorphic
 dismissingly
 doeskins
