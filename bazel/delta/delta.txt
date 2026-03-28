@@ -10201,7 +10201,7 @@ despises
 dzeron 1
 depopularize
 dismortgage
-dining
+dining 1
 discoplacental
 dulcely
 dinitrate
