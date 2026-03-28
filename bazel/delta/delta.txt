@@ -16462,7 +16462,7 @@ dollhouse
 darken
 degradations
 detinuit
-doubtance
+doubtance 1
 disjointness
 dasyprocta 1
 domesticities 1
