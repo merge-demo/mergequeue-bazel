@@ -6903,7 +6903,7 @@ consol
 camis
 ceratomandibular
 clocklike
-celtuce
+celtuce 1
 calor 1
 closefisted
 cembalo
