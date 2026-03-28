@@ -11159,7 +11159,7 @@ danite
 dismask
 dogmatist
 defectibility
-devvel
+devvel 1
 dyeline
 djins
 disavower
