@@ -11499,7 +11499,7 @@ blufter
 bluggy 1
 bispore
 bethwack
-bombload
+bombload 1
 blumes
 benighting
 blunderbuss 1
