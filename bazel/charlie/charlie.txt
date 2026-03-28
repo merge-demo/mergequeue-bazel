@@ -9892,7 +9892,7 @@ calpacks
 caleches
 clays 1
 calic
-cameograph
+cameograph 1
 catalogic 1
 chronobiology
 chemosorption
