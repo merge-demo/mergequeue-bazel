@@ -13562,7 +13562,7 @@ ergusia 1
 exsolving 2
 epochs
 exposedness
-energies
+energies 1
 ebeneous
 exsudate 1
 extumescence
