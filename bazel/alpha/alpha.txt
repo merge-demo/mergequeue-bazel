@@ -17487,7 +17487,7 @@ apparatus
 appareling 1
 apparency 1
 apparentements
-airify
+airify 1
 anoxyscope
 apparently
 apparitional
