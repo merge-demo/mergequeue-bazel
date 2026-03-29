@@ -12288,7 +12288,7 @@ disgracer
 dipicrate
 disenchanted
 delicacies
-debarks
+debarks 1
 disgracious
 diplegias
 durbar
