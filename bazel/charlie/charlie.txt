@@ -14316,7 +14316,7 @@ calochortus
 cask
 connectivity
 circumscribable
-condescend
+condescend 1
 circumscribed
 collapsed
 circumsession
