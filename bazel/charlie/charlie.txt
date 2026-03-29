@@ -16009,7 +16009,7 @@ cardroom
 clerum
 counterindentation
 caraculs
-clerus
+clerus 1
 chremzel
 clethraceous
 crinoid
