@@ -9309,7 +9309,7 @@ generale 1
 ghosted 1
 grogshop
 gigmaness 2
-geosyncline
+geosyncline 1
 gnathalgia
 guignol
 glopnen
