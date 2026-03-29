@@ -8418,7 +8418,7 @@ allopath
 advertency 1
 assoin
 apologised
-aortoptosis
+aortoptosis 1
 aspidosperma
 alkahestica 1
 arabana
