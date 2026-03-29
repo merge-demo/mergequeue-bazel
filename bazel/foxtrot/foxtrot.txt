@@ -10296,7 +10296,7 @@ farnesses
 factor
 frenziedness
 forleaving 1
-foundationless
+foundationless 1
 finfoot
 fervorlessness
 fustilugs
