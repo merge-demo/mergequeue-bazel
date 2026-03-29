@@ -16894,7 +16894,7 @@ dreamy
 dipladenia
 discriminations
 decilitre
-doubletone
+doubletone 1
 distortable
 desilvered
 dichromate 1
