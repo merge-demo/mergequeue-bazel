@@ -12099,7 +12099,7 @@ erepsin
 escuage 1
 enflames
 exploit 1
-editress 1
+editress 2
 echinologist
 eartag 1
 electromagnet
