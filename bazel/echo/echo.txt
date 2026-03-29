@@ -1941,7 +1941,7 @@ enabled
 echinulate 1
 estoppal
 eurypterid
-elaphe
+elaphe 1
 essenical 1
 ejected
 eupatorine
