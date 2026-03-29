@@ -6272,7 +6272,7 @@ excipule
 epistapedial
 eelcatcher
 elimination
-evasively
+evasively 1
 electrofishing 1
 extraepiphyseal
 ecstatica
