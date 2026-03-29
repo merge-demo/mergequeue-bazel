@@ -5129,7 +5129,7 @@ beflour 1
 beflowered
 biotas
 batta 1
-bogbean
+bogbean 1
 beguile 1
 bankers
 batoid
