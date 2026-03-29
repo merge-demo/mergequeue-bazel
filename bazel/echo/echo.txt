@@ -11105,7 +11105,7 @@ electros 1
 espies
 esquiredom
 encage
-entune
+entune 1
 emulated
 emblemish
 eutaenia
