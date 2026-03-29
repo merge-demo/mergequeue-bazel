@@ -5342,7 +5342,7 @@ featherweight
 flayflint
 fleabag
 fusillade 1
-faintheart
+faintheart 1
 furciform
 fleabags
 federalization 1
