@@ -7900,7 +7900,7 @@ fictionalizing
 foresail 1
 feuilletonistic
 fasten 1
-fork
+fork 1
 floes
 fetticus
 forewarned
