@@ -6067,7 +6067,7 @@ doughbelly
 diopsis
 deputing
 diaconicon
-digitalization
+digitalization 1
 dorps
 delicacy
 dilli
@@ -9761,7 +9761,7 @@ denaturiser
 dreamingly
 decence
 duct
-discapacitate
+discapacitate 1
 demiram
 decider 2
 danewort
@@ -13965,7 +13965,7 @@ dubby
 deturb
 derrid
 dystonic
-dacha
+dacha 1
 dystopian
 dystopias
 dolichosaur
@@ -17548,7 +17548,7 @@ desisting
 drumline
 depolarised
 disappeared
-drumlinoid
+drumlinoid 1
 decelerated 1
 dactylate
 diatomous
@@ -17895,7 +17895,7 @@ dissonous
 duennaship
 droyl
 duer
-duessa
+duessa 1
 delayingly
 duets
 diatonical

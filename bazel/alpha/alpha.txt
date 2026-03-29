@@ -365,7 +365,7 @@ arrival
 aberration
 aberrational 1
 aberrative
-acinose 1
+acinose 2
 avoyer
 abetments
 ambulant
@@ -8719,7 +8719,7 @@ assurable 1
 alliaceae
 annuities 1
 alleve
-alleviate
+alleviate 1
 anthobian
 arachnological
 accessed
