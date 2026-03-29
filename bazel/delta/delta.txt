@@ -18227,7 +18227,7 @@ dunelike
 doeglic
 darzee 2
 deftest
-deputative
+deputative 1
 dasycladaceae
 disfavoring
 dhoolies
