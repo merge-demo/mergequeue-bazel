@@ -21355,7 +21355,7 @@ amyloses
 analectic
 amphoras
 azobacter
-asyndeton
+asyndeton 1
 abditive
 asyndetons
 artesonado
