@@ -18725,7 +18725,7 @@ abreuvoir
 archdefender
 agenesia 2
 archdetective
-amputee
+amputee 1
 alkalisation
 apurpose
 ammonobasic
