@@ -2791,7 +2791,7 @@ bowlers 1
 behaviourally
 baronries
 briggs
-baroque
+baroque 1
 baconer
 bowsprits
 bureaus
