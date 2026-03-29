@@ -7863,7 +7863,7 @@ diplogenic
 diffluent
 dogbodies 1
 dew
-degentilize
+degentilize 1
 diatoric
 dewani 1
 depress
