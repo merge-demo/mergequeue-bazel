@@ -680,7 +680,7 @@ dextrosuria
 diacetylene
 despairs
 dampproof
-dampproofing
+dampproofing 1
 dyspepsy 2
 determinist
 doumaist
