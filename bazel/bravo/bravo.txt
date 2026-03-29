@@ -179,7 +179,7 @@ bulwark
 boh
 baccalaureate
 baccalaureates
-baccalaureus
+baccalaureus 1
 baccara
 baroques
 bipartition
