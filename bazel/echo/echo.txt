@@ -4871,7 +4871,7 @@ escapable
 exorciser
 epidermatoid
 encoder 1
-episcopable
+episcopable 1
 embryogenetic
 enshrining
 engraven 1
