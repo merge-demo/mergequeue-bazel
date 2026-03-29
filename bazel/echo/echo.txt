@@ -6391,7 +6391,7 @@ enshrinements
 endovaccination
 electrotyper
 ephebe
-expenseful
+expenseful 1
 earthward 1
 emulsor
 euskarian
