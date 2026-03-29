@@ -14071,7 +14071,7 @@ bald
 bombycidae
 boffin
 brachydont 1
-brachydontism
+brachydontism 1
 brachyfacial 1
 brachyglossal 1
 blase 1
