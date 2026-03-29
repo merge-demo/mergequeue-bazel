@@ -9971,7 +9971,7 @@ frigoric
 foun
 futureless
 fed
-feracity
+feracity 1
 firelike
 frigotherapy 1
 facial
