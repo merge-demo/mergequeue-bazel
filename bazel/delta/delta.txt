@@ -4237,7 +4237,7 @@ decoherer
 dels
 djelfa
 dumpy
-delsartian
+delsartian 1
 downplayed
 dislocate
 dismaler
