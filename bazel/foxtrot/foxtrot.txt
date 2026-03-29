@@ -11703,7 +11703,7 @@ fas
 friarhood
 far 1
 foretellableness 1
-flugelhorn
+flugelhorn 1
 fasciola
 furphy
 fernsick
