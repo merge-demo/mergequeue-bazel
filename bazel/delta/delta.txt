@@ -3767,7 +3767,7 @@ dehorns
 decaudate
 dioptometry
 doughlike
-dehorted
+dehorted 1
 defatigate
 dehorting
 digitoxin 1
