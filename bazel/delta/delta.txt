@@ -1946,7 +1946,7 @@ desilverized
 dwines
 downby
 dominoes
-disobeys
+disobeys 1
 dreader
 depressant
 dobla
