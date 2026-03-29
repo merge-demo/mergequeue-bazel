@@ -5172,7 +5172,7 @@ glycan
 glyceride
 glb
 gastratrophia
-geckotian
+geckotian 1
 gossipred
 gesticulator 1
 glossocomon 1
