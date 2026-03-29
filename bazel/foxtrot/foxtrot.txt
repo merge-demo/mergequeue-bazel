@@ -4583,7 +4583,7 @@ feigned 1
 frenchily 2
 fingery
 flippance
-forestwards
+forestwards 1
 fibrinokinase
 fooldom 1
 flirtishness
