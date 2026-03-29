@@ -10013,7 +10013,7 @@ flor
 fryer
 foollike 1
 flans 1
-fringehead
+fringehead 1
 fringelet
 fruitier
 fringent
