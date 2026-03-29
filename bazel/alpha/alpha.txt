@@ -2052,7 +2052,7 @@ achatinidae 1
 ache
 alkalinising
 artemisin
-affiliation
+affiliation 1
 amylohydrolytic
 antiputrefactive
 anammonid
