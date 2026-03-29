@@ -3331,7 +3331,7 @@ gobio 1
 gullion
 genethliacism
 gutterlike
-gang
+gang 1
 grooverhead
 glossologies 1
 gerundial
