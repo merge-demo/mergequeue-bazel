@@ -27127,7 +27127,7 @@ crimsons
 calfbound
 cupful 2
 countersigning
-countersigns
+countersigns 1
 countersympathy
 carburet
 countersink
