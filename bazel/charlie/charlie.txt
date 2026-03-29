@@ -23307,7 +23307,7 @@ consumated 1
 consumating
 consumedly
 consumeless
-corkiness
+corkiness 1
 consumer
 consumerist
 consumes
