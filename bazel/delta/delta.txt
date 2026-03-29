@@ -1695,7 +1695,7 @@ debonnaire
 dismissive
 dears 1
 dottard
-dupability
+dupability 1
 disadvantage
 dignity
 disentrain
