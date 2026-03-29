@@ -1125,7 +1125,7 @@ enarm
 endopterygotic
 epacts
 elhi 1
-eikons
+eikons 1
 environage
 edition 1
 endere
