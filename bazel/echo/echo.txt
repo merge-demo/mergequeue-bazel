@@ -9465,7 +9465,7 @@ evulgate
 ethylsulphuric
 embanks
 estudy
-entocoel
+entocoel 1
 electives
 eliquation
 exsculp
