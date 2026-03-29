@@ -1110,7 +1110,7 @@ barkstone 1
 bromines
 bedimmed
 boatload
-brindled
+brindled 1
 bluethroat
 boyg
 bargestone
