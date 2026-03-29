@@ -20847,7 +20847,7 @@ composite
 composited 1
 compositely 1
 composites
-compositing
+compositing 1
 compositional
 cacoepist
 conspirational
