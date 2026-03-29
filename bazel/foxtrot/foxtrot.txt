@@ -9015,7 +9015,7 @@ fasc
 foremistress
 fizelyite 1
 feeling
-freakery
+freakery 1
 flimflammer 1
 fistle
 foxier
