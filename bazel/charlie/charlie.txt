@@ -18914,7 +18914,7 @@ collagenase
 collagenous
 cardholder
 collapsability
-collapses
+collapses 1
 contam
 collapsing
 collarbird
