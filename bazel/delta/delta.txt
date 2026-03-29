@@ -5822,7 +5822,7 @@ depositor
 daytime
 deleatur
 dichronous
-dishful
+dishful 1
 dysraphia
 dujan
 disambiguation
@@ -6267,7 +6267,7 @@ defenser
 dermatomere 1
 dermatomyces
 deploredness
-diplokaryon
+diplokaryon 1
 dweeble
 debat 1
 doldrums
