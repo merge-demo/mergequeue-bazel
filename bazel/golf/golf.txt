@@ -1890,7 +1890,7 @@ gardenwise
 grabber
 gatherers
 galumph 1
-gooma
+gooma 1
 gamenesses
 grecale
 grubstake
