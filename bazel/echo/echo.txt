@@ -6480,7 +6480,7 @@ exercisable
 ensorcellment
 ensorrow 1
 encumberment
-ectodactylism
+ectodactylism 1
 endometriosis
 embolismus
 eurypteroidea
