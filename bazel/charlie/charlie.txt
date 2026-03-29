@@ -23913,7 +23913,7 @@ contusive
 conns 1
 cicadellidae
 conf
-chaffing
+chaffing 1
 clysmic 1
 conubium
 comminuate
