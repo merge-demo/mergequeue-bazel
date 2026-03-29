@@ -7900,7 +7900,7 @@ distantly
 doxographer
 doh 1
 dewing
-degrease
+degrease 1
 discommon
 disrump
 decongested
