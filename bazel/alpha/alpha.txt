@@ -22791,7 +22791,7 @@ antitemperance 2
 atlantid
 asaphid
 atlantides
-audibility
+audibility 1
 atlantite
 arthrodic
 arrowheaded 1
