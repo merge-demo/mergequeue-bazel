@@ -7521,7 +7521,7 @@ bestower 1
 bogwood
 betaine
 businessman
-bevillain
+bevillain 1
 befell
 bonspell
 bashaws 1
