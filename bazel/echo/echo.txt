@@ -8735,7 +8735,7 @@ equities 1
 equivalenced
 equivalent
 ensiles
-equivaluer
+equivaluer 1
 exposited
 evulgation
 extempore
