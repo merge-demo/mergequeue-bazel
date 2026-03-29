@@ -10787,7 +10787,7 @@ emblema 1
 encrinus
 electrogilding
 exflagellate
-endosporic
+endosporic 1
 eumycete
 eulogiums
 elaborating 1
