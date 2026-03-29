@@ -6773,7 +6773,7 @@ foibles
 finder 1
 farls
 flukiest
-falciform
+falciform 1
 fass 1
 founding 1
 fitcher
