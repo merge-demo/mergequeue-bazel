@@ -18819,7 +18819,7 @@ arabian
 archetypes 1
 attributive
 asymmetrically
-archettos
+archettos 1
 auroauric
 assever
 assumptiveness
