@@ -7500,7 +7500,7 @@ devalue
 deurwaarder
 dipsadinae
 doorwise
-degger
+degger 1
 dibase
 dioxin
 disentwine
