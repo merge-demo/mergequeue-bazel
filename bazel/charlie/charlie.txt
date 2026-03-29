@@ -28503,7 +28503,7 @@ conversibility
 creaturize
 churchanity
 creaze
-crebricostate
+crebricostate 1
 crebrisulcate
 cooeys
 coteau
