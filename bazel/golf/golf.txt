@@ -1741,7 +1741,7 @@ genotypes
 glike
 gunsmiths 1
 geogonical
-gastronosus
+gastronosus 1
 gnarrs
 gammon
 glibber 1
@@ -2524,7 +2524,7 @@ gamogeny 1
 graven 1
 glomeroporphyritic
 gumshield
-gradatim 1
+gradatim 2
 gastroenterocolitis 1
 gladite
 guttifer
@@ -9086,7 +9086,7 @@ girthline
 glutination 1
 goadster 1
 gyres
-gease
+gease 1
 graveyards
 glaucomys 1
 glumal
