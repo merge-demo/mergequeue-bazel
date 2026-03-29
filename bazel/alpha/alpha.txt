@@ -10272,7 +10272,7 @@ alchemister 1
 amelet
 ameliorableness
 amylocellulose
-anhydrated
+anhydrated 1
 acidific
 ars 1
 ameliorates
