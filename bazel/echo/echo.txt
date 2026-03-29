@@ -931,7 +931,7 @@ efreet 2
 ensisternal
 equipping
 endowments
-endorsements
+endorsements 1
 electrophoretic 3
 ectropion
 epilogues
