@@ -11382,7 +11382,7 @@ eccyesis 1
 exaristate 1
 embolism
 evennesses
-eventful
+eventful 1
 extraction
 epsom 1
 ethnomusicologist
