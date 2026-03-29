@@ -10407,7 +10407,7 @@ bhoot
 blobbiness
 brisement
 blankish 1
-blankly
+blankly 1
 boneless
 bagmen
 baidya
