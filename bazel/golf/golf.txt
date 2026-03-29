@@ -3823,7 +3823,7 @@ greyhound
 gratefulness 1
 greyling
 greenbugs
-gabbard
+gabbard 1
 greenland 1
 gavialoid
 gulancha 2
