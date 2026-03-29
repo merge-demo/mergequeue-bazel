@@ -10398,7 +10398,7 @@ biosynthesis 1
 bravado 1
 bragged
 buonamano
-botong 1
+botong 2
 breaker
 blanketlike
 brimborion
@@ -14999,7 +14999,7 @@ billitonite
 brechtian
 bunchberries
 bennettites
-burnut
+burnut 1
 bredbergite
 baumhauerite 1
 bredes

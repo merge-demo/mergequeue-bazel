@@ -2846,7 +2846,7 @@ adelocodonic 1
 antisepalous
 apicoectomy
 amylopsase
-annona
+annona 1
 acronym
 acrotreta
 arteriolith
@@ -7273,7 +7273,7 @@ audivise
 alarmingly
 aftercure
 aurantiaceae
-assn
+assn 1
 alarmingness
 algovite 2
 alarmist
@@ -7369,7 +7369,7 @@ alberghi 1
 albergo
 albert
 albertin
-albertine
+albertine 1
 albertist
 adnomination 1
 azolitmin
@@ -7711,7 +7711,7 @@ alcohols
 ambitionlessly
 alcor
 apostolicism 1
-algolagnist
+algolagnist 1
 antifungin
 artsy
 apposiopestic
@@ -19718,7 +19718,7 @@ aristotelianism
 acicula
 aristotype
 aristotle
-arytenoepiglottic
+arytenoepiglottic 1
 amphiblestritis
 alfuro
 ambatch
