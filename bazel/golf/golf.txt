@@ -8231,7 +8231,7 @@ getic
 gansel 1
 gerontotherapies 1
 grisard
-graphitize
+graphitize 1
 gastrotubotomy
 glacioaqueous
 goldbug
