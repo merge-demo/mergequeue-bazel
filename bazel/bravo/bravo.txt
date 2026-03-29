@@ -9843,7 +9843,7 @@ botcher
 burnsian
 banderols
 baldpated
-bitmap
+bitmap 1
 buccaneering
 bimbos 1
 bitmapped
