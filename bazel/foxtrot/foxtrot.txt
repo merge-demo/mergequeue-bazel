@@ -2183,7 +2183,7 @@ formulae 1
 fadme
 foute
 flashet
-feltmaker
+feltmaker 1
 fiducia 1
 fats
 fratercula
