@@ -1599,7 +1599,7 @@ deaf 2
 dynamogenous
 deafened 1
 doorjambs
-dummered
+dummered 1
 dawe
 dicyanid
 destruct
