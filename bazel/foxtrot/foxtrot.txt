@@ -6651,7 +6651,7 @@ fillip
 forevouched 1
 foehnlike 1
 foeless 1
-faulted
+faulted 1
 fulgurating
 flossing
 forenotice
