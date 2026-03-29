@@ -4006,7 +4006,7 @@ evenhand
 empearl 1
 electroretinography
 each 1
-exultancy
+exultancy 1
 esothyropexy
 estus 1
 effloresce
