@@ -22878,7 +22878,7 @@ crystograph
 conservators
 conservatorship
 carpings 1
-coordinator
+coordinator 1
 conserve
 costae 1
 conserver
