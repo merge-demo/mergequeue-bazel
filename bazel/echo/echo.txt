@@ -10948,7 +10948,7 @@ equability
 eggnogs 1
 eggbeater
 epipelagic
-ends
+ends 1
 ecbolic 1
 eupnoea
 extenuatory
