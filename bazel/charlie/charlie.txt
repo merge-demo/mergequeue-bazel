@@ -12806,7 +12806,7 @@ crucifers
 chunkiest
 crumpy
 center 1
-cuartino
+cuartino 1
 comburimetry
 chunkiness 1
 chunks
