@@ -9344,7 +9344,7 @@ bushi
 blirt
 biopoiesis
 bonniness
-beau
+beau 1
 backwood 2
 bluebush
 bottommost 1
