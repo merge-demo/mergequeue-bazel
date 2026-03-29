@@ -24361,7 +24361,7 @@ ariocarpus 1
 atopen
 amylene
 autoroute
-anuses
+anuses 1
 autorrhaphy
 anisocoria
 ammoresinol
