@@ -4094,7 +4094,7 @@ beanstalk
 bestiaries 1
 bearbaiter
 bedmaking 1
-blearedness
+blearedness 1
 beriberi
 betoil
 boyishness
