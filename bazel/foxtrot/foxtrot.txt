@@ -9127,7 +9127,7 @@ flintlike 1
 furdle
 funambulated
 faulkner
-frizzers
+frizzers 1
 forepoint
 foldboating
 frusta
