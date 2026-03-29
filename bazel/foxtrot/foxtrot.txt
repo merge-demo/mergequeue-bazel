@@ -7822,7 +7822,7 @@ forenote 1
 fastness
 feltyflier
 fleamy
-fashionableness
+fashionableness 1
 fowlerite
 fleshen
 fritterers
