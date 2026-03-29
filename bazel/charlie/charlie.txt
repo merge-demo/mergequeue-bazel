@@ -25248,7 +25248,7 @@ corium
 chiasmal
 chirurgic
 contradistinctively
-canonicate
+canonicate 1
 coryza
 cork
 corkage 1
