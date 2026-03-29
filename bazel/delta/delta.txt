@@ -1669,7 +1669,7 @@ dextraural
 deamination
 deaminize
 deammonation
-deashing
+deashing 1
 dichastic
 dandle
 deanships
