@@ -1957,7 +1957,7 @@ gruft
 gustoso
 gastrilegous
 gamasidae
-gobans
+gobans 1
 gauleiter 1
 gastrohepatic
 grated 1
@@ -2544,7 +2544,7 @@ gynandrous
 graciously 3
 glorifying
 gallfly
-gael
+gael 1
 geothermal
 gilliver
 glusid
@@ -8500,7 +8500,7 @@ galops
 groupers 1
 gayal
 galleon 1
-geomorphological
+geomorphological 1
 geotectonically 1
 gravelish
 guardian
@@ -9274,7 +9274,7 @@ greenhearted
 grobian
 gesithcund
 gravies
-gigabyte 1
+gigabyte 2
 gigglesome
 groceryman 1
 goitre
@@ -9507,7 +9507,7 @@ gaes
 gins
 gyving 1
 gyroscope 1
-groupwise
+groupwise 1
 garvey 1
 glenn
 generalizer
@@ -10221,7 +10221,7 @@ guile 1
 gyrectomies
 galluses
 groundsel
-gonk
+gonk 1
 geotonus 1
 glamourously
 galusha 1

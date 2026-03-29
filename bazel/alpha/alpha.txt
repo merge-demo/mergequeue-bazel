@@ -2846,7 +2846,7 @@ adelocodonic 1
 antisepalous
 apicoectomy
 amylopsase
-annona
+annona 1
 acronym
 acrotreta
 arteriolith
@@ -7711,7 +7711,7 @@ alcohols
 ambitionlessly
 alcor
 apostolicism 1
-algolagnist
+algolagnist 1
 antifungin
 artsy
 apposiopestic
@@ -19718,7 +19718,7 @@ aristotelianism
 acicula
 aristotype
 aristotle
-arytenoepiglottic
+arytenoepiglottic 1
 amphiblestritis
 alfuro
 ambatch
