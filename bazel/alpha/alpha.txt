@@ -12451,7 +12451,7 @@ androsphinx
 androsporangium
 arteriology
 androsterone
-androtomy
+androtomy 1
 acoemeti 1
 ayens
 aurantium
