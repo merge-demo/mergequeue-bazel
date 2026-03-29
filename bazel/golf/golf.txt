@@ -4172,7 +4172,7 @@ gilding
 gypsum 1
 gouda
 guarapo 1
-globuloid
+globuloid 1
 gelinotte
 graphemic
 glycoproteid
