@@ -21692,7 +21692,7 @@ asseal
 arad
 assecuration
 anagua
-assecure
+assecure 1
 apician
 assecution
 amend
