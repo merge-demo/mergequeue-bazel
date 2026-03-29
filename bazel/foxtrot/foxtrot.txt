@@ -10304,7 +10304,7 @@ futurely
 farriers
 fingerleaf
 fingering
-frondeurs
+frondeurs 1
 forecourt
 feaze
 foss 1
