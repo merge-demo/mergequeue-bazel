@@ -11434,7 +11434,7 @@ fortunetell
 fallibleness
 formfeed
 frizers 2
-frigidarium
+frigidarium 1
 firebase
 fiducially 1
 fluviose 1
