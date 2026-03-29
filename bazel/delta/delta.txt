@@ -17222,7 +17222,7 @@ drives
 dredgings
 disulfate 1
 driveway
-decrepitation
+decrepitation 1
 dingoes
 deferrizing
 distanced
