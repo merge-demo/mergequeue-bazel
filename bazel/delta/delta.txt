@@ -9424,7 +9424,7 @@ diffusions
 diffusive
 diffusors
 diabolus 1
-diner
+diner 1
 destructors
 diether
 disenroll
