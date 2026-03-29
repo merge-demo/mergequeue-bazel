@@ -11828,7 +11828,7 @@ exceptio
 epileptics
 eplot
 externization
-enviably
+enviably 1
 electromagnetically
 equibalance
 epirrhematic
