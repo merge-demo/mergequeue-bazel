@@ -9575,7 +9575,7 @@ geophones
 granted
 gazed
 gynecologist
-galactoscope
+galactoscope 1
 grind
 gnus 1
 gingersnap
