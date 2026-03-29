@@ -7207,7 +7207,7 @@ enwove
 entender
 epistasis
 euphonym
-enchesoun
+enchesoun 1
 ensample 1
 enzootically
 evenlight
