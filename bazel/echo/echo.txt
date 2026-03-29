@@ -11614,7 +11614,7 @@ ewes
 engraphia
 eucalypt
 envenomous
-everywhereness
+everywhereness 1
 expatiation
 encephalitis
 ewte
