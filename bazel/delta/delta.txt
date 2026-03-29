@@ -2269,7 +2269,7 @@ durax
 dyewoods 1
 decemfoliate 1
 dogmas 1
-decempedal
+decempedal 1
 demotion
 dominiums 1
 decemplex
