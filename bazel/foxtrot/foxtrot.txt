@@ -7302,7 +7302,7 @@ fourteenfold
 furled 1
 forelock
 fopperies
-fopperly
+fopperly 1
 fraternized
 formaldoxime
 foujdar
