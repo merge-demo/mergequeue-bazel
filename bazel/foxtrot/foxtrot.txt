@@ -3728,7 +3728,7 @@ foalfoot
 flaccidities
 fillings
 furfuryl
-fricti
+fricti 1
 found
 fierasferid
 fistulas
