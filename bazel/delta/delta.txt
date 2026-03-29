@@ -16238,7 +16238,7 @@ dindymus
 downbeard
 distilled
 defease
-downcastness
+downcastness 1
 delenda
 disabling 1
 doubter
