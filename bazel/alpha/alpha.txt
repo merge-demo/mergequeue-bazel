@@ -12532,7 +12532,7 @@ astroscope
 antisudorific
 anemoscope
 albifying
-aurorian
+aurorian 1
 automorphism
 axolysis
 abhors
