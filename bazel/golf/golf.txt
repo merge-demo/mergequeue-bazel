@@ -1261,7 +1261,7 @@ greasers
 galliardly
 grognard
 geneki
-griffes
+griffes 1
 gapper 1
 glutinosity
 guib
