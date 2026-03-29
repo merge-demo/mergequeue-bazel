@@ -9438,7 +9438,7 @@ displume
 destructively
 digamma
 demilegato
-downfeed
+downfeed 1
 digammated 1
 dodgier
 disworkmanship
