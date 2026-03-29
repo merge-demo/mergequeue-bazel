@@ -12967,7 +12967,7 @@ epicyclical
 excommunicated
 expected
 eucharises
-embathe
+embathe 1
 expectedness
 explode
 etherous
