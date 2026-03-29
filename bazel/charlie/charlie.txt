@@ -7201,7 +7201,7 @@ catawba
 clamors
 centrifugaller
 cladoceran
-centrifugate
+centrifugate 1
 centrifuge 1
 centrifugence 1
 centrifuging
