@@ -3026,7 +3026,7 @@ cantoria
 cardsharps
 calabooses
 crystallographic
-cantoris
+cantoris 1
 cantors
 cerebrational
 centauri
