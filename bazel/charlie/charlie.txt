@@ -3738,7 +3738,7 @@ caravanserai
 chromoxylography
 caravanserial
 companeros 1
-caravel
+caravel 1
 confuse
 caravels
 cosen
@@ -6331,7 +6331,7 @@ causality 1
 causalities
 causally
 causans
-cyphellate
+cyphellate 1
 causate
 causationism 1
 crapefish
@@ -18530,7 +18530,7 @@ chilinidae
 chronosemic
 cutler
 cohosts
-cohow
+cohow 1
 cohune
 callianassa 1
 choloidic
