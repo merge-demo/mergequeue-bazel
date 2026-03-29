@@ -12056,7 +12056,7 @@ cathedralic
 chorussing
 creatively
 coll 1
-cymbalo
+cymbalo 1
 cerfoil
 clansman
 casula
