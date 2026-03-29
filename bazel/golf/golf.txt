@@ -10093,7 +10093,7 @@ gypsies
 grub
 guyot
 gresil 1
-galahs
+galahs 1
 gastropods
 garrulus
 ghostwrote
