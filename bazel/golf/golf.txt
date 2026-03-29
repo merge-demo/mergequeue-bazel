@@ -4781,7 +4781,7 @@ gaullist 1
 gotta
 gomeril
 galleta
-genarch
+genarch 1
 glossematics
 glar
 gypsy
