@@ -4260,7 +4260,7 @@ abaka
 anencephaly 2
 atavism
 adreamed
-adenalgia
+adenalgia 1
 appoint
 azophosphore
 aromatophore 1
