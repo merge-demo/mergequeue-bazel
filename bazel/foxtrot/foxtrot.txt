@@ -11207,7 +11207,7 @@ firer 1
 failles 1
 flamethrowers
 fieldsman
-fungosities
+fungosities 1
 funic
 footlers
 faradise
