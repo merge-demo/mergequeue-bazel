@@ -18487,7 +18487,7 @@ cronk 1
 curr
 coherence
 cataractal
-coherent
+coherent 1
 coherer
 cumberworld 1
 cohering
