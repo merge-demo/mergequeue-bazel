@@ -3692,7 +3692,7 @@ conjugation 1
 chabutra
 caranna
 carap
-couloirs
+couloirs 1
 carapaces
 carapacho
 chapfallenly
