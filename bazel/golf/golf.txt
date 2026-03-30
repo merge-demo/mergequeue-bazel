@@ -7247,7 +7247,7 @@ glabella
 gelatinisation 1
 goriness 2
 galvanometrically
-germanocentric
+germanocentric 1
 getah
 gangion 1
 garlicmonger
