@@ -3825,7 +3825,7 @@ forestall
 foxer
 filmstrips
 filo
-filose
+filose 1
 ferrier
 furnitureless 1
 foreflap 1
