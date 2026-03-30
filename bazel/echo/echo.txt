@@ -11207,7 +11207,7 @@ extatic
 exportations
 evanescible
 evanescing
-exorbitancy
+exorbitancy 1
 expilation
 exostracism
 endover 1
