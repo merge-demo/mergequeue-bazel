@@ -1828,7 +1828,7 @@ bancus
 backstabber
 bandelette
 banderma 1
-banderol 1
+banderol 2
 banderole
 bindings
 brigading
