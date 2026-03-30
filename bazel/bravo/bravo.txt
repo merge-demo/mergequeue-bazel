@@ -10586,7 +10586,7 @@ brined
 bransle
 blatting 1
 blattodea 1
-blattoid
+blattoid 1
 brinny
 boresomely
 besayle
