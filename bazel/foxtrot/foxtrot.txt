@@ -9632,7 +9632,7 @@ finitesimal
 flatfootedness 1
 freen
 featherfoil
-flowerer
+flowerer 1
 forwardly
 flotations 1
 freers 2
