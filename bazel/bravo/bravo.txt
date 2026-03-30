@@ -8055,7 +8055,7 @@ bacteriohemolysin
 bicostate 1
 billows
 bicrenate
-bicrofarad
+bicrofarad 1
 bicrural
 broodiness
 biometrics
