@@ -5058,7 +5058,7 @@ gisarmes 1
 gassy
 gapped 1
 groused
-goalkeeper
+goalkeeper 1
 golconda
 gecarcinus
 gastrogenital
