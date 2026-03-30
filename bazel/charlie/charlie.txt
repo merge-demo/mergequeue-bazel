@@ -27336,7 +27336,7 @@ centralizers
 courap
 couratari
 courbaril
-courbe
+courbe 1
 chemistries
 courbette
 courbettes
