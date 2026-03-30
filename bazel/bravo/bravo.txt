@@ -2911,7 +2911,7 @@ barreleyes
 barrelet
 bookend 1
 batuque
-botanical
+botanical 1
 bundies
 beachheads
 beartongue
