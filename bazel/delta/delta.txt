@@ -2166,7 +2166,7 @@ ditheistic
 dehydration
 drowsing 1
 dinguses
-decarbonated
+decarbonated 1
 decarbonation
 declaratively
 disintegrations
