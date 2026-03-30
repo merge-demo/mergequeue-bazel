@@ -14880,7 +14880,7 @@ dowitcher
 dolorifuge
 dependencies
 depurging
-deglute
+deglute 1
 dodded
 dodder
 differingly 1
