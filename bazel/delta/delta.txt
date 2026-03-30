@@ -4511,7 +4511,7 @@ demiculverin
 dodgiest 1
 divulsed
 demidistance
-diaphane
+diaphane 1
 diabetogenic 1
 downtrend 1
 deputies
