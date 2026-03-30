@@ -4579,7 +4579,7 @@ bundeli
 borborus
 bedaubing
 beltlines
-bloodstone
+bloodstone 1
 belial 1
 biddelian
 beats
