@@ -4445,7 +4445,7 @@ campshedding
 conelrads
 caritative
 carity
-caritive
+caritive 1
 circumfusion
 colubridae
 chanty
