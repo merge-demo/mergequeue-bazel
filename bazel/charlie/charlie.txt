@@ -6941,7 +6941,7 @@ cementoma
 cements
 cementwork
 cemetaries
-cemetery
+cemetery 1
 copesettic
 cemeterial 1
 catchpenny
