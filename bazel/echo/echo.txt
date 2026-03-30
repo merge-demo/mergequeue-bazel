@@ -11323,7 +11323,7 @@ electrocute 1
 ecdysons
 epupillate
 enwrap
-evaporitic
+evaporitic 1
 enforcively
 evapotranspiration 2
 ecaudata

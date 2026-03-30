@@ -13383,7 +13383,7 @@ deevey
 disquieter 1
 disquietingness
 dipicrylamine
-disquietly
+disquietly 1
 disquietness
 disquietude
 doolees
