@@ -3766,7 +3766,7 @@ disour
 dehorns
 decaudate
 dioptometry
-doughlike
+doughlike 1
 dehorted 1
 defatigate
 dehorting 1
