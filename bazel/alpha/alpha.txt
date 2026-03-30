@@ -625,7 +625,7 @@ aves
 acacetin
 amatols
 atelomitic
-abolishers
+abolishers 1
 astigmatism
 alastrim
 astrologic
