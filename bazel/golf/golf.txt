@@ -1475,7 +1475,7 @@ golet 1
 gastrophilus
 gastric 1
 gisarme
-growly
+growly 1
 greta 1
 gasolier
 ghostology
