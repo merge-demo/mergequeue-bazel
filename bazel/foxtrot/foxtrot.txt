@@ -10338,7 +10338,7 @@ freshwoman
 flaps 1
 fuzil 1
 foreordainments 1
-frontages
+frontages 1
 floorshow 1
 filicoid
 fezziwig
