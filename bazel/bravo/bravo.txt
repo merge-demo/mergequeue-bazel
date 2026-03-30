@@ -17514,7 +17514,7 @@ burbolt
 blight 1
 beauseant
 biognosis
-burbot
+burbot 1
 bleak
 beata
 bromopicrin
