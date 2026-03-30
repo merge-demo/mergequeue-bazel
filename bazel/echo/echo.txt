@@ -930,7 +930,7 @@ ectromelus
 efreet 2
 ensisternal
 equipping
-endowments
+endowments 1
 endorsements 1
 electrophoretic 3
 ectropion
