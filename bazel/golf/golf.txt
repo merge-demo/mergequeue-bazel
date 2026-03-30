@@ -2242,7 +2242,7 @@ genette
 gekkonid
 gristle
 gossipmongering 1
-galactase
+galactase 1
 gastrotome 1
 grifts
 glottology
