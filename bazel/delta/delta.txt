@@ -10318,7 +10318,7 @@ dependability
 diophysite
 dealates
 darwinite
-diphthongic
+diphthongic 1
 dunkling
 diosmin 1
 diabological
