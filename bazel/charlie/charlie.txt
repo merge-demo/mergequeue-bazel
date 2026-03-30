@@ -31530,7 +31530,7 @@ creirgist
 coadjute
 cursive
 conveyal
-cursives
+cursives 1
 chorused
 chromosomes
 cursorary
