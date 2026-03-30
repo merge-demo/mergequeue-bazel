@@ -15825,7 +15825,7 @@ agiotage
 assistants
 alismataceae
 abiogenist
-alloisomeric
+alloisomeric 1
 antiphrases 1
 antiphthisic 1
 amberiferous
