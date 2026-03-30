@@ -14203,7 +14203,7 @@ effecters 1
 enow
 equiradiate
 exerciser
-exust
+exust 1
 encaging 1
 excitron 1
 exxon
