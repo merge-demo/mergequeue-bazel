@@ -10565,7 +10565,7 @@ dbrn
 diplococcemia
 disleaf
 davach
-dermatomycosis
+dermatomycosis 1
 digammate
 dashiki 2
 denote
