@@ -19374,7 +19374,7 @@ accusations
 adjuror 2
 accidentalness
 argel 3
-admissable
+admissable 1
 admaxillary
 agio
 argent
