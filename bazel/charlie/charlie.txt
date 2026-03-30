@@ -26492,7 +26492,7 @@ chuckstone
 coopt
 cottager
 cottagers 1
-cottars
+cottars 1
 cahuy
 cottas 1
 cotte 1
