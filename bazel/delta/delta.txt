@@ -10854,7 +10854,7 @@ displays
 dirged
 dirgelike
 dirgeman
-debts
+debts 1
 dirgy
 doggedly
 dhooley
