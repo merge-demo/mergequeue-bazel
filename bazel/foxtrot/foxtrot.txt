@@ -10362,7 +10362,7 @@ folkmote 1
 foreschooling
 fragrances
 foreboard
-feldspathization
+feldspathization 1
 francium
 flashcube
 fletcherite 1
