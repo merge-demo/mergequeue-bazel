@@ -5608,7 +5608,7 @@ enflower
 essexite
 evaporate
 ectognatha 2
-equalization
+equalization 1
 epidendrum 1
 elutions
 enfold
