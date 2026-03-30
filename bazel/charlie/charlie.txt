@@ -28354,7 +28354,7 @@ colaphize
 clanned 1
 crawberry
 crawdad
-crawdads
+crawdads 1
 collector
 crawfishing
 crawfoots
