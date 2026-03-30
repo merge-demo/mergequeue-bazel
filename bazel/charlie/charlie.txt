@@ -4070,7 +4070,7 @@ cardiacle 1
 cardiagra
 celiolymph 1
 cardiagram
-cardiagraph
+cardiagraph 1
 cardiagraphy
 cardial
 cardialgy
