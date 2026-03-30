@@ -10616,7 +10616,7 @@ forswearing 1
 flumped
 forwaste
 fleeting
-flatnesses
+flatnesses 1
 frugalities
 farrandly
 frugalness
