@@ -13050,7 +13050,7 @@ daughterhood
 dialogical
 djinns
 deicidal
-decanol
+decanol 1
 drakestone
 dispatch 1
 deprecators 1
