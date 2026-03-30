@@ -2107,7 +2107,7 @@ enent
 emma
 emblematist 1
 enclosable
-enterolysis
+enterolysis 1
 elasmothere
 euphoniously
 ebullioscope
