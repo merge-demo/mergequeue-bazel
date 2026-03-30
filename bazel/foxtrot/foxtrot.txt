@@ -5604,7 +5604,7 @@ forfar 1
 fingerwise 1
 federal
 frontonasal
-flageolet
+flageolet 1
 fascicled 1
 formerness
 fourgons
