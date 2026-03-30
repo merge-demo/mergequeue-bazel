@@ -3683,7 +3683,7 @@ engarment
 emaciated
 erythrons
 enwheel
-everse
+everse 1
 everywheres 1
 enchytrae
 entrancer 1
