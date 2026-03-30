@@ -8839,7 +8839,7 @@ equiprobabilist
 eternities 1
 egyptologic
 enjeopardy
-encrypt
+encrypt 1
 emptive
 euonymin 1
 eremic
