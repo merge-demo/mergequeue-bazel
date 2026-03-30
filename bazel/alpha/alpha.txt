@@ -13020,7 +13020,7 @@ abbreviating
 aluniferous
 aeroballistics
 arrowy
-agglomeratic
+agglomeratic 1
 anhedral
 anhelation
 anhelose 1
