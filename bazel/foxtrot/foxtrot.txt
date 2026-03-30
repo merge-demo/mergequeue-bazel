@@ -5375,7 +5375,7 @@ floccillation
 ferrocyanide
 faverel 1
 fluoridise
-foredetermine
+foredetermine 1
 flunkyistic
 forthset 1
 flutists
