@@ -2001,7 +2001,7 @@ demagnify
 dynapolis
 dolichocephal 1
 documentalist
-denehole
+denehole 1
 dentello 1
 dimble 1
 defaecate
