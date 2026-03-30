@@ -7361,7 +7361,7 @@ eccoprotic 1
 eleut
 eparchies
 eternization
-equinoctial
+equinoctial 1
 eparterial 1
 emasculations
 experiencible
