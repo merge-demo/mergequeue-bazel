@@ -12065,7 +12065,7 @@ disensure 1
 disentail
 deprecatively
 disentangle
-dissensious
+dissensious 1
 dentine
 disentanglement
 daymare
