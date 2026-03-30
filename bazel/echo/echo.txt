@@ -11628,7 +11628,7 @@ empoison
 exclosure
 emollition
 eyedroppers
-exacerbates
+exacerbates 1
 empaneled
 enhances
 enforcibility
