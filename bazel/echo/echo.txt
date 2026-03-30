@@ -8738,7 +8738,7 @@ ensiles
 equivaluer 1
 exposited 1
 evulgation
-extempore
+extempore 1
 effs
 ektexines
 emmergoose
