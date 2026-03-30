@@ -7358,7 +7358,7 @@ gossiped
 gossipee
 goodyship
 griffon
-glyoxime
+glyoxime 1
 generalizers
 glomus
 gomarite
