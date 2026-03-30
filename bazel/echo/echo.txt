@@ -5480,7 +5480,7 @@ excrescential 1
 enemata 1
 enemyship
 energeia
-emblematicalness
+emblematicalness 1
 energesis
 energetic
 electrochronographic
