@@ -16960,7 +16960,7 @@ blunder
 bloodstained 2
 begirded 1
 bondelswarts
-bedewoman
+bedewoman 1
 buildups 1
 bordure
 bespeakable

@@ -19721,7 +19721,7 @@ aristotle
 arytenoepiglottic
 amphiblestritis
 alfuro
-ambatch
+ambatch 1
 antinihilistic
 arithmancy
 arenose
