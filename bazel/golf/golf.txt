@@ -3139,7 +3139,7 @@ geopotential
 gelosin
 grassplot
 georgemas
-germanite 1
+germanite 2
 gurgles 1
 georgics
 glycosyl
