@@ -15454,7 +15454,7 @@ banns 1
 brimfullness
 brongniardite
 blazon 1
-brodeglass
+brodeglass 1
 braggishly
 boundary
 bilboes
