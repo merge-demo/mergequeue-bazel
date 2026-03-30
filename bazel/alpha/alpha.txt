@@ -2910,7 +2910,7 @@ assaultive 1
 autotuberculin 2
 acrostic
 accidentiality
-anacromyodian
+anacromyodian 1
 armamentary
 advisive
 aerobatics
