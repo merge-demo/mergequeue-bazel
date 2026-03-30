@@ -455,7 +455,7 @@ deprevation
 daysmen
 dayspring
 direst
-disthrall
+disthrall 1
 daswen
 daytimes
 disburthen
