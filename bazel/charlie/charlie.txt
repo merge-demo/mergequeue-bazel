@@ -15686,7 +15686,7 @@ clavered
 clavi
 cerithioid
 chirres
-clavy
+clavy 1
 clavicembalist
 clavicembalo
 claviceps
