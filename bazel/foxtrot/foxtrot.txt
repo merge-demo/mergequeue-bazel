@@ -10357,7 +10357,7 @@ foliation
 frontbencher 1
 footlining 1
 frontcourt
-fructus
+fructus 1
 folkmote 1
 foreschooling
 fragrances
