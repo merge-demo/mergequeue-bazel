@@ -2256,7 +2256,7 @@ endoplasma
 elector
 exhume 1
 elks
-encyclopedian
+encyclopedian 1
 encell
 epauletted
 electragy
