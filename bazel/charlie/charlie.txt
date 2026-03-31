@@ -15531,7 +15531,7 @@ cinevariety
 clasper
 claspers 1
 claspt
-classable
+classable 1
 coplanarity
 classbook
 classed
