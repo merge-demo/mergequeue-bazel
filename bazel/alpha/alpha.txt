@@ -12327,7 +12327,7 @@ argentum
 ambay
 amiranha
 andamenta
-allopatric
+allopatric 1
 andantino
 annunciate 1
 almicore
