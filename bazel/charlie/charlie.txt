@@ -24804,7 +24804,7 @@ clausum
 costers
 chromic 1
 coquetry
-coquets
+coquets 1
 chloragogen
 coquette
 cleome
