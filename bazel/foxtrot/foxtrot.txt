@@ -9667,7 +9667,7 @@ fowled
 flipflop
 foretoken 2
 faldstool
-fringe
+fringe 1
 fouquieria
 foldouts
 fourfiusher
