@@ -15689,7 +15689,7 @@ detractiveness
 disaffect
 dopper
 dopperbird
-disespouse
+disespouse 1
 deflorescence
 dopping
 doppio
