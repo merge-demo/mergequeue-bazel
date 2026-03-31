@@ -1525,7 +1525,7 @@ frankability
 flagellaria 1
 freely
 faurd
-foreseat
+foreseat 1
 feedbox
 flippant
 foodless
