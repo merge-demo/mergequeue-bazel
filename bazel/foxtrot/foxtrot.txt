@@ -858,7 +858,7 @@ fundus
 fantasms 1
 forsloth 1
 fractable
-finked
+finked 1
 fustigation 1
 flowage
 flakes
