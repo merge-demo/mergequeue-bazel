@@ -4632,7 +4632,7 @@ demirilievo 1
 deflea
 demonastery
 donn
-depose 1
+depose 2
 dinic
 demisang
 dulcite
