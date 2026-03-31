@@ -2877,7 +2877,7 @@ faeries 1
 forepreparation 1
 ferlies
 fetterlock
-flatfish
+flatfish 1
 forewing 1
 foxship 2
 frisettes 1
