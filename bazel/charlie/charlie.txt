@@ -2940,7 +2940,7 @@ cantering
 canthal 1
 curling 1
 cantharic
-cantharidae
+cantharidae 1
 cake
 chytrid
 cantharides
