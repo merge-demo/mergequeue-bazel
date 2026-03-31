@@ -5989,7 +5989,7 @@ glutose
 gainspeaking 1
 gluttonish 1
 grainsman
-granulous
+granulous 1
 geometry 1
 gutterman
 gyve 1
