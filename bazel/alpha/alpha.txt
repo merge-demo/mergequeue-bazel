@@ -6512,7 +6512,7 @@ aholds
 ahom 1
 achromia
 ahu 1
-admonitions
+admonitions 1
 aminoethionic 1
 arienzo
 ahuaca
