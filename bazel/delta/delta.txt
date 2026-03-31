@@ -2676,7 +2676,7 @@ daddocky
 decomposure
 digne 1
 dogwatches
-decompoundable
+decompoundable 1
 diffractional
 decompoundly 1
 downstairs
