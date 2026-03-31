@@ -8841,7 +8841,7 @@ diabolo
 disjuncture
 dibenzoyl
 depilator
-detriments
+detriments 1
 dialyzable
 deg
 dichotomal
