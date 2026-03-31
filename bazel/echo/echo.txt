@@ -2613,7 +2613,7 @@ electrocutioner 1
 ebulus
 exportability 2
 etherical
-ecphova
+ecphova 1
 expurgative 1
 electrophoretically
 eudiaphoresis
