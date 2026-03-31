@@ -12674,7 +12674,7 @@ disfavour
 duplicability
 dinitrobenzene 1
 dissolute
-disleafed
+disleafed 1
 dermatophone 1
 diffrangibility
 disleaved
