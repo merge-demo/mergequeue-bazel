@@ -28931,7 +28931,7 @@ colloquialism
 cribbed 1
 cribbing 1
 compensating
-cribbings
+cribbings 1
 cribbiting
 cholericly
 criticist
