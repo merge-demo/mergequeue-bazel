@@ -22564,7 +22564,7 @@ connectibility
 cryptanalysis
 connaturalize
 chg
-cosech
+cosech 1
 connaturalness
 connature 1
 calumniatory
