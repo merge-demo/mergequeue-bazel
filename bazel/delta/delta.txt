@@ -9187,7 +9187,7 @@ delobranchiata 1
 dyeability 1
 denazification
 demilance
-devilman
+devilman 1
 ditriglyph
 dieb
 dusterman
