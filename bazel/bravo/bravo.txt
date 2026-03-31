@@ -7137,7 +7137,7 @@ bonduc
 barret
 backless
 besprinkles
-bachelorism
+bachelorism 1
 bloodied 1
 barefoot
 bogglingly
