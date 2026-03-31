@@ -9880,7 +9880,7 @@ dimensionally
 dimensioning
 dimensum
 disangularize 1
-diphenyl 1
+diphenyl 2
 dimer
 decadency
 deludable
