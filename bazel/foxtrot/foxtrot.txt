@@ -7326,7 +7326,7 @@ fearnaught
 frampold
 fulcrum
 feathered
-focimeter
+focimeter 1
 federally
 fiddleheaded
 forechamber
