@@ -3350,7 +3350,7 @@ furuncle
 fidge
 frogfoot
 fractionally
-fidgeted
+fidgeted 1
 fractals
 faultage
 foilsmen
