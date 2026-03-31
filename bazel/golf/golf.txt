@@ -7557,7 +7557,7 @@ guidances 1
 gymnospermae 1
 gemini
 gillotype
-gedeckt
+gedeckt 1
 gelatiniferous
 grounded 1
 generability
