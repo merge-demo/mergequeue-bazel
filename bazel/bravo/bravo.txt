@@ -18091,7 +18091,7 @@ butadiyne
 beshout 1
 berthierite
 butane
-butanoic
+butanoic 1
 bismuthite
 burgage
 butanol
