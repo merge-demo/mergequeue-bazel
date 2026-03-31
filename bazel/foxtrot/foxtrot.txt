@@ -1644,7 +1644,7 @@ four
 fdnames
 forthcut
 fluible
-flamboyantly
+flamboyantly 1
 furbelowed 1
 focally
 fice
