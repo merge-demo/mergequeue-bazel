@@ -6950,7 +6950,7 @@ fumarase 1
 fibromatosis 2
 fauconnier
 ferrocyanic 1
-fisherpeople
+fisherpeople 1
 flaky
 flusherman
 fee
