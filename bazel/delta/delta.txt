@@ -9436,7 +9436,7 @@ digamies
 disfranchise
 displume
 destructively
-digamma
+digamma 1
 demilegato
 downfeed 1
 digammated 1
