@@ -18306,7 +18306,7 @@ cofreighter
 cofunction
 cretification
 cogencies
-cogener
+cogener 1
 contratulations
 cogent
 centena
