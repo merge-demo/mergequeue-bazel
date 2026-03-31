@@ -2984,7 +2984,7 @@ deductions 1
 dwarfism
 distrainment 1
 deductive
-deductory
+deductory 1
 deducts
 deduplication
 despoliations
