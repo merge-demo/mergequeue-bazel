@@ -611,7 +611,7 @@ fluctiferous 1
 flavorless
 fragaria
 floodways
-fleshes
+fleshes 1
 forehand
 folly
 farrantly
