@@ -24168,7 +24168,7 @@ artificers
 autoinfusion 1
 autoinoculable
 antiritualism 1
-aldermanries
+aldermanries 1
 abrus
 anquera
 acy
