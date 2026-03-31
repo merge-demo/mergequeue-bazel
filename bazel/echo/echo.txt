@@ -11272,7 +11272,7 @@ ergometrine 1
 expirable 1
 evanishes 1
 enterostenosis
-exsolved
+exsolved 1
 extrapoetical
 estrogens
 eyeleteer
