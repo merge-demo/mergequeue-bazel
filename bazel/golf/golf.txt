@@ -1844,7 +1844,7 @@ glummer
 gabbier
 gatekeepers
 glos 1
-gentile
+gentile 1
 groupage
 garlands
 grasses 2
