@@ -20645,7 +20645,7 @@ complaints
 cabinetmake
 complaisant 1
 cankerworms
-complaisantly
+complaisantly 1
 coenenchyma
 complant
 chiromancer 1
