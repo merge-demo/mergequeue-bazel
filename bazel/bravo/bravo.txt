@@ -8022,7 +8022,7 @@ boildown
 bayberry 1
 butcherous
 bastonite
-biconsonantal
+biconsonantal 1
 barnburner
 biconvexity 1
 brawned
