@@ -17407,7 +17407,7 @@ applot 1
 airship
 adiate
 antiarchi
-apothegmatically
+apothegmatically 1
 apothegmatist
 atriensis
 antiattrition
