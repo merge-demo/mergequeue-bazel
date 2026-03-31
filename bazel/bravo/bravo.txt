@@ -15644,7 +15644,7 @@ batterable
 buffone
 barrenest
 bulkheads
-burred
+burred 1
 belemnid
 benzoazurine
 broadcast
