@@ -5513,7 +5513,7 @@ faceteness
 fw
 flacker
 fleshmonger
-fcy
+fcy 1
 flagfall
 fletcherism 1
 frontignac
