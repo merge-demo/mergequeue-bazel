@@ -5591,7 +5591,7 @@ gripless
 geochemist 1
 geophysical 1
 gefilte 1
-gownlet
+gownlet 1
 glottogonist
 gervais
 gurges
