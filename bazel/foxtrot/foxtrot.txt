@@ -8683,7 +8683,7 @@ fryers
 funiculate
 furicane
 flapless
-fathomable
+fathomable 1
 forthgaze
 forthgo
 ferreling
