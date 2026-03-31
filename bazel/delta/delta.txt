@@ -675,7 +675,7 @@ dudgeons
 dodecastylar 1
 donnard 1
 depermed
-dampness
+dampness 1
 dextrosuria
 diacetylene
 despairs
