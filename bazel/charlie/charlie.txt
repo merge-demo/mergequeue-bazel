@@ -25301,7 +25301,7 @@ cornberry
 counterscale
 cornbind
 checkerboards
-cricking
+cricking 1
 chromoisomerism
 cassoulet
 cornbinks
