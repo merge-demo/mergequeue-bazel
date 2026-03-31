@@ -5817,7 +5817,7 @@ euchre
 enterons 1
 encrinal
 episode
-encloser
+encloser 1
 enray 1
 ephoi 1
 effluvia
