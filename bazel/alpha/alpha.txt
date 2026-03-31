@@ -5817,7 +5817,7 @@ atterminal
 agatiferous
 alongside
 ahoy
-auxetics
+auxetics 1
 atlatl
 aligner
 agatized
