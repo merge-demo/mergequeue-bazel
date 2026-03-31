@@ -22095,7 +22095,7 @@ conformer
 coercibleness
 cumbered
 curvate
-cotraitor
+cotraitor 1
 conformingly 1
 conformist
 confusably 1
