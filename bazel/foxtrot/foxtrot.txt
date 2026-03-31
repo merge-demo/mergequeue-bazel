@@ -9319,7 +9319,7 @@ fatback
 formicicide
 fromages 1
 fluxility
-francolite
+francolite 1
 faller 2
 fro 2
 fanneling 1
