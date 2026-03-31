@@ -8657,7 +8657,7 @@ delfs
 diascope
 domed
 distracted
-didactyl
+didactyl 1
 dissection
 dyassic
 delousing
