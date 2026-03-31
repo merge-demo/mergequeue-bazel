@@ -11836,7 +11836,7 @@ devonport
 detoxicate
 doylies
 discerningly
-disculpatory
+disculpatory 1
 deashes 1
 deathwatch
 decrement 1
