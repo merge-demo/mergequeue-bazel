@@ -13672,7 +13672,7 @@ bourg 2
 beckoned
 befoolable
 bespawl
-bourgade
+bourgade 1
 beeped
 bonailie
 bourgeoisie
