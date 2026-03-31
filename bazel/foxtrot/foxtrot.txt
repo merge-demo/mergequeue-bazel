@@ -10652,7 +10652,7 @@ fivepence
 fitments
 forenamed 1
 florican 2
-fundamental
+fundamental 1
 fidicinal
 foodstuffs
 fruitiness 1
