@@ -8454,7 +8454,7 @@ dredging
 diamant
 ditrochee
 deflexed
-dooxidize
+dooxidize 1
 dextro
 decrowns
 daimonology
