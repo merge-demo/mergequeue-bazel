@@ -1024,7 +1024,7 @@ basqued
 blizzards 1
 bad
 bailers
-brees
+brees 1
 bunglings
 bailiaries
 bargainwise
