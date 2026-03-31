@@ -12790,7 +12790,7 @@ erotize
 edaphosaurid
 ensembles 1
 encounterable
-emancipative
+emancipative 1
 exospore
 endrumpf
 epeiridae
