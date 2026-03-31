@@ -6607,7 +6607,7 @@ galeass
 grenadiers 1
 gigolos
 graphalloy
-good
+good 1
 gurglets
 galipidine
 ghats
