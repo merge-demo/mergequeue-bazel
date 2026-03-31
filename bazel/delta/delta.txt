@@ -6425,7 +6425,7 @@ decree
 drung
 decenter
 disencumbered
-denizening
+denizening 1
 dismemberments
 debellation 1
 derrises
