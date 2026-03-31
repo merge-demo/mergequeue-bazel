@@ -6033,7 +6033,7 @@ catholicon
 clinkers
 catholicos
 curarize
-coraciiform
+coraciiform 1
 cleg
 cyanide
 catholyte
