@@ -11338,7 +11338,7 @@ forecastors
 fermage
 furlan
 foreglimpsed
-forswat
+forswat 1
 foldure
 fellic
 footsores 1
