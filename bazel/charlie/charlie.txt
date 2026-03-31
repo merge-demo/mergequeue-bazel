@@ -5247,7 +5247,7 @@ champacs
 cassan
 cyans
 chefdom
-consecute
+consecute 1
 calemes 1
 cassandra
 conc
