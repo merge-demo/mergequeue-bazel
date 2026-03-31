@@ -20700,7 +20700,7 @@ complexedness 1
 complexer
 cuinfo
 complexes
-cercis
+cercis 1
 convolvuli 1
 consonantise
 complexest
