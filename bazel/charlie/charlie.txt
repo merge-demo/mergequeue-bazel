@@ -1732,7 +1732,7 @@ caltraps
 cervicolingual
 contrafocal
 caltrop
-coenosite
+coenosite 1
 caltrops
 cornification
 conceptualised
