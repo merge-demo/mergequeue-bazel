@@ -9161,7 +9161,7 @@ chaseable
 chased
 corbeilles
 chases
-chashitsu
+chashitsu 1
 chasm 1
 castigation
 carbureting
