@@ -4080,7 +4080,7 @@ centaurian 1
 cardialgia
 cirrostome
 calla
-cardiameter
+cardiameter 1
 carnationed
 chlorotic 1
 cunners
