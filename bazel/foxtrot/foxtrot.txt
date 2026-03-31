@@ -5521,7 +5521,7 @@ fieri
 fervours
 finnan
 fletchers 1
-furrower
+furrower 1
 furnit
 fisc
 faked 2
