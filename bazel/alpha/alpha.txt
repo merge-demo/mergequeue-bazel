@@ -15668,7 +15668,7 @@ anet
 attrahent
 astronomically
 acridines
-approvableness
+approvableness 1
 afrite 1
 alcedininae
 albify

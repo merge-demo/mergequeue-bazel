@@ -3302,7 +3302,7 @@ frambesia
 farsight
 fivescore
 flounces 1
-ferrelled
+ferrelled 1
 fortier
 fulgency
 finity
