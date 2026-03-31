@@ -5837,7 +5837,7 @@ entification
 evade
 emulatory
 efficace
-electrovalency
+electrovalency 1
 exfoliation
 erlkings
 epicele 1
