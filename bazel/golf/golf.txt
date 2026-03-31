@@ -7540,7 +7540,7 @@ gangman
 goldsmithing 3
 gunyah
 geodesies
-greenths
+greenths 1
 garbled
 goldarns 2
 gravimeter
