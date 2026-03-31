@@ -19091,7 +19091,7 @@ allocute 1
 absorbant
 alkylamino 1
 alphanumeric
-agritos
+agritos 1
 actu
 amendable 1
 anthocyanidin
