@@ -11880,7 +11880,7 @@ disdainer
 dongon
 distrouble
 dihelium
-diallagoid
+diallagoid 1
 disdainfulness
 delations
 deflagrating
