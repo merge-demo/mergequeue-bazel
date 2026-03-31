@@ -10607,7 +10607,7 @@ feudalizable
 flaxwoman
 forerunner
 farceurs
-flative
+flative 1
 forseen
 fractile 1
 ferity
