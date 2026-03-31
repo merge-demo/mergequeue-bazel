@@ -9342,7 +9342,7 @@ felinities 1
 frothy
 fleawood
 fortypenny
-fecaloid
+fecaloid 1
 fatuitousness
 frankalmoign
 filibustrous
