@@ -18452,7 +18452,7 @@ distrusts
 diddler
 duplicious
 danner
-duality
+duality 1
 duplicitously
 disprizing 1
 duplify
