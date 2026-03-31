@@ -4535,7 +4535,7 @@ fortread
 finickiest
 fictive
 fissirostrate
-fusser
+fusser 1
 fissura
 frugal
 forwardsearch 2
