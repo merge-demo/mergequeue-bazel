@@ -7347,7 +7347,7 @@ epapophysis
 easeled
 evangeliser
 exosphere
-expulsing
+expulsing 1
 exile 1
 erinaceus
 eunomian
