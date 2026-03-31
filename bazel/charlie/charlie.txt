@@ -2604,7 +2604,7 @@ columnar
 cyamelide
 castile
 caned
-canela
+canela 1
 canelas
 canellaceous
 cuttlefish
