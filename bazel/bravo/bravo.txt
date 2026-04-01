@@ -16639,7 +16639,7 @@ buccogingival
 boother 1
 brember
 balza
-buccolabial
+buccolabial 1
 bucconinae 1
 buccopharyngeal
 bucculae 2
