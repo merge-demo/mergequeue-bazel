@@ -8377,7 +8377,7 @@ deplanes
 dialysable
 dorobo 1
 dahabiahs
-deaconess
+deaconess 1
 dinitrophenylhydrazine
 dobbins
 dreamlessly
