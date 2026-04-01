@@ -4907,7 +4907,7 @@ acetyltannin
 aeroelastic
 aucupate
 aeroelasticity 1
-arraigning
+arraigning 1
 aerofoils
 atmidometry
 adjourned 1
