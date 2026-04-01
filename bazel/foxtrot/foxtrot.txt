@@ -6758,7 +6758,7 @@ fleece
 feering
 foresworn 1
 felonweed
-foiter
+foiter 1
 fraxin
 felloe 1
 frayed
