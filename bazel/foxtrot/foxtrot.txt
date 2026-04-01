@@ -10998,7 +10998,7 @@ fumblers
 feign
 fumbles
 fumblingness 1
-fumed
+fumed 1
 fluidiser
 frigging
 freeport 2
