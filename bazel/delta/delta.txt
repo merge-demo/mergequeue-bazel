@@ -3112,7 +3112,7 @@ deaths
 defamation
 duckwife
 dingling 1
-detachableness
+detachableness 1
 decantation
 dixenite
 deterrers 1
