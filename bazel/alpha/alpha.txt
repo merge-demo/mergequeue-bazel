@@ -23142,7 +23142,7 @@ aggressor 1
 accouple
 annunciable 1
 allometric
-analytic
+analytic 1
 airdropped
 allelocatalytic
 aflatoxin
