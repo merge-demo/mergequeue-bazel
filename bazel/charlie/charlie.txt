@@ -7610,7 +7610,7 @@ cerebroganglionic
 cerebroid
 cirrhosed
 cerebromeningitis
-celiopyosis
+celiopyosis 1
 carduaceous
 cerebron
 cerebronic
