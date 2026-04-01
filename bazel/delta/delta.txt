@@ -12004,7 +12004,7 @@ disenabled
 duplicates
 differen
 disenchant 1
-dowd
+dowd 1
 disenchantments
 disenchantress
 depluming 1
