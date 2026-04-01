@@ -3775,7 +3775,7 @@ carbaryls
 captress
 ciconia
 chloroethylene
-carbazic
+carbazic 1
 carbazylic
 chlorpikrin
 cheerios
