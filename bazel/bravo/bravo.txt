@@ -17772,7 +17772,7 @@ bedrolls
 balaenoid 1
 burrers
 blepharoconjunctivitis
-buccinal
+buccinal 1
 buzzle
 burrgrailer
 basementless
