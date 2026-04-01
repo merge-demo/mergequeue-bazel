@@ -10637,7 +10637,7 @@ gossipries 1
 gaylies 2
 gyascutus
 gerontologies
-giganticness
+giganticness 1
 gargets 1
 gorrel
 genera 1
