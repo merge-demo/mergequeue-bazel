@@ -6002,7 +6002,7 @@ enjail
 escaped
 emetomorphine
 ectomere
-encumbrancer
+encumbrancer 1
 eudromias
 equivaliant
 eudemon
