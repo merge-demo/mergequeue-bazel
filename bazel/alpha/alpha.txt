@@ -9809,7 +9809,7 @@ albedometer
 acolyctine
 adry
 agglomerator
-amanitopsis
+amanitopsis 1
 antireforming
 aspergillums
 arteriectomy
