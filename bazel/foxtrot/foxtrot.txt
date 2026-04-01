@@ -6064,7 +6064,7 @@ flavorfulness 2
 fungiform
 firmarius
 freebooted
-fraternate
+fraternate 1
 flocculating
 frayn 1
 floridity 1
