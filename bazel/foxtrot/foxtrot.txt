@@ -952,7 +952,7 @@ forceable 1
 fibrinogenetic
 fent
 fabrile
-frondation
+frondation 1
 fruitling
 farceuses
 flenched
