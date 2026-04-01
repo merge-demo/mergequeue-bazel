@@ -31870,7 +31870,7 @@ caccabis
 crowfooted 1
 cuttail
 cirrhosis
-cursement
+cursement 1
 cutterhead
 chemicals
 cutthroat
