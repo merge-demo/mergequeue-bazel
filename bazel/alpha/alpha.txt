@@ -5495,7 +5495,7 @@ aloe
 afterclause
 aftercome
 australasian
-acrostichic
+acrostichic 1
 aftercooler 1
 autocollimate
 ack
