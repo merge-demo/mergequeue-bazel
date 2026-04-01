@@ -2989,7 +2989,7 @@ deducts
 deduplication
 despoliations
 deecodder
-demobilise
+demobilise 1
 deedfully
 decannulation
 dyadically
