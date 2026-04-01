@@ -12686,7 +12686,7 @@ boondoggled
 bloatedness 2
 bowedness
 blipping
-boohooing
+boohooing 1
 biaswise
 bear
 bungarus 1
