@@ -2958,7 +2958,7 @@ gunks
 guardingly
 ganymede
 gusts
-gaddang
+gaddang 1
 guilt
 gurkha
 gollop
