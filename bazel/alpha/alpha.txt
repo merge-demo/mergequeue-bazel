@@ -18797,7 +18797,7 @@ afflict
 anabia 1
 arylation
 allheals
-assurgent
+assurgent 1
 abumbrellar
 artfully
 antideflation
