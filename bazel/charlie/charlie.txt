@@ -30735,7 +30735,7 @@ contorno
 conspue
 cuiejo
 cuif
-cuifs
+cuifs 1
 cuinage
 cuing
 cuirassed 1
