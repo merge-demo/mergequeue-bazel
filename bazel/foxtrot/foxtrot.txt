@@ -39,7 +39,7 @@ flintless
 furies
 farmscape
 flick
-fervently
+fervently 1
 finically
 fabricators
 fabricature
