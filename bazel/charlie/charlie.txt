@@ -12471,7 +12471,7 @@ colent
 chromolithic
 concanavalin
 chromolithography
-chromolithographic
+chromolithographic 1
 chromomere
 chondrosarcoma
 chromone
