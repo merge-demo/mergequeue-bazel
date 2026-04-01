@@ -388,7 +388,7 @@ fairfieldite
 facets 1
 faceoff 1
 fancifully 1
-fairground
+fairground 1
 fairy
 foresettle
 fructuous
