@@ -18535,7 +18535,7 @@ darbs
 disrates
 durians
 differ
-duricrust
+duricrust 1
 duridine
 durity
 diphthonged
