@@ -5474,7 +5474,7 @@ deorganize 1
 deregister 1
 disenablement
 deorsum 1
-deossification
+deossification 1
 deuterostomatous
 dissipates 1
 dyakisdodecahedron
