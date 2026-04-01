@@ -22384,7 +22384,7 @@ actify 1
 arcturia
 ananas
 agenda
-asteriskless
+asteriskless 1
 ans
 armourers
 anteriorness 1
