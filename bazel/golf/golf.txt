@@ -6277,7 +6277,7 @@ gainable 2
 gobble
 gowpen
 gierfalcon 2
-gobbled 1
+gobbled 2
 gothicizer
 gobbledygook
 gelatinised
