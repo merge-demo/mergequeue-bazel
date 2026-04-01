@@ -15287,7 +15287,7 @@ dolmas
 dolmen 1
 desubstantiate 1
 dolomedes
-discovery
+discovery 1
 dolomite 1
 derries 1
 dose
