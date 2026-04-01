@@ -27545,7 +27545,7 @@ coverall
 coveralled
 coveralls
 coils
-coverchief
+coverchief 1
 cannulated
 cerberean
 covercle
