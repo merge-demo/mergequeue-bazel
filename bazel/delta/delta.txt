@@ -10439,7 +10439,7 @@ dogmatic
 diodon
 delace 1
 disglorify
-disinterring
+disinterring 1
 diphenyls
 dispowder
 doglegging
