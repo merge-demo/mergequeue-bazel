@@ -4939,7 +4939,7 @@ gradual
 growliness 1
 glaired
 geomaly 1
-gangway
+gangway 1
 guvacoline
 gallimatia
 gradational
