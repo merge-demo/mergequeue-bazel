@@ -12299,7 +12299,7 @@ bumblebomb
 bombardman
 burrfishes
 bootee
-bungfull
+bungfull 1
 bacteriophagic 1
 bathycurrent 1
 bullwhacker
