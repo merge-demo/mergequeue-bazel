@@ -9638,7 +9638,7 @@ flotations 2
 freers 2
 farthest 1
 foresign 1
-fecklessly
+fecklessly 1
 feliform 2
 fulcrumage
 flabrum
