@@ -26741,7 +26741,7 @@ counterbranch
 curbstones
 counterbrand
 confutable 1
-countercathexis
+countercathexis 1
 counterchanged
 countercharm
 counterclaim
