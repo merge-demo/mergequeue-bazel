@@ -10661,7 +10661,7 @@ flagless
 fist
 footler
 famish
-frightable
+frightable 1
 facultied
 fibular 1
 fruitlets
