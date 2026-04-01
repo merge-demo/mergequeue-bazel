@@ -12355,7 +12355,7 @@ edgeling
 evase 2
 expects 1
 exhibitors 1
-endorsers
+endorsers 1
 excrescencies
 exflect 1
 endower
