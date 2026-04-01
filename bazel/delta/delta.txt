@@ -1360,7 +1360,7 @@ duelli
 definer
 dauphine
 dauphines
-drooping
+drooping 1
 drawboard
 drapable
 dauri 1
