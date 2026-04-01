@@ -25480,7 +25480,7 @@ contaggia
 circumclusion
 congenialness
 cephaelis
-coroll
+coroll 1
 cartooning
 corollary
 centrosymmetric
