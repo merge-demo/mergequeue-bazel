@@ -2310,7 +2310,7 @@ expert 1
 essene
 entheal 1
 euphuism 1
-endosteum
+endosteum 1
 eval 1
 escalatory
 epidemiologist
