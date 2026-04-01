@@ -6554,7 +6554,7 @@ gomer
 gesten 2
 grew
 gpss 1
-glutting
+glutting 1
 greyskin
 guiders
 gentianales
