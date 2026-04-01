@@ -5209,7 +5209,7 @@ beleaguers
 befuddling
 beautyship
 ballistophobia 1
-bumpkinet
+bumpkinet 1
 berating
 bardish
 bacteriostatic
