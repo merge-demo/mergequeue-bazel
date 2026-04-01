@@ -20569,7 +20569,7 @@ compensator 1
 compensatory 1
 cotillions
 compensators
-compenser
+compenser 1
 countree
 compere
 compered
