@@ -14734,7 +14734,7 @@ brauronian 1
 bravade
 bocaccio
 bronchophthisis
-blastostyle
+blastostyle 1
 bennet 1
 betelnut 1
 brazened
