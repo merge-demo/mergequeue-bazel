@@ -3598,7 +3598,7 @@ exhibitable
 euclea 1
 egocerus
 exemplifies
-extravehicular
+extravehicular 1
 emulable
 embowelling
 egocentric 1
