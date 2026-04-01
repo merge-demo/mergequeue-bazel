@@ -9575,7 +9575,7 @@ bahut
 blastomata
 biscutate
 bisdiapason 1
-binary
+binary 1
 bicapsular
 bandlimits
 bisectors
