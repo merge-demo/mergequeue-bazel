@@ -10009,7 +10009,7 @@ flee
 flatwork 1
 fantod 1
 flavoury
-flor
+flor 1
 fryer
 foollike 1
 flans 1
