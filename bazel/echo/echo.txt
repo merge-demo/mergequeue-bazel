@@ -12219,7 +12219,7 @@ eras 1
 epitrichium
 elachistaceae 1
 epigraph
-epilachna
+epilachna 1
 executioneering
 enneahedrons 2
 engarb
