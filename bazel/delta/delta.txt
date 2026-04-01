@@ -8298,7 +8298,7 @@ diagrams 1
 dentin
 db
 dracontian
-demivolts
+demivolts 1
 dispossess
 droob
 dissimile 1
