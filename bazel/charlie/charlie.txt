@@ -27477,7 +27477,7 @@ couxia
 citrous 1
 chronicity
 covalences
-covalency
+covalency 1
 carpoptosis
 coriander
 corallike
