@@ -944,7 +944,7 @@ dauts 1
 detachers 1
 directives
 dewed
-dures
+dures 1
 darb
 deserters
 darby 1
