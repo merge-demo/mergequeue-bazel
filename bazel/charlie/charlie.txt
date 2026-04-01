@@ -25925,7 +25925,7 @@ corticium
 corticoafferent
 corticoline
 calories
-corticolous
+corticolous 1
 corticose
 corticosteroids
 clandestinity
