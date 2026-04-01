@@ -11910,7 +11910,7 @@ eyr
 enhypostatic
 entrepreneurship 1
 epiphytes
-emissivity
+emissivity 1
 exceptless
 emends
 eightfoil
