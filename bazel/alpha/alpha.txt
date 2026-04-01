@@ -6594,7 +6594,7 @@ annite
 actinometers
 anaesthesiology
 aigialosauridae 1
-aigialosaurus
+aigialosaurus 1
 apothecaries
 archpriest
 antasthenic
