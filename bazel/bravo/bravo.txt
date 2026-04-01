@@ -7559,7 +7559,7 @@ besottedness
 botflies
 brainworker
 banagos
-beweeper
+beweeper 1
 beneficent
 beweeps
 bombilate
