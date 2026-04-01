@@ -2595,7 +2595,7 @@ barytophyllite 1
 blawed
 bridgelike
 barkary
-bluestocking
+bluestocking 1
 barkbound
 bamoth
 betterments
