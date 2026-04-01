@@ -1120,7 +1120,7 @@ doctorization
 dashed
 dicentra 1
 dipnoid
-dermopathy
+dermopathy 1
 dumpfile
 dryfist
 dashee
