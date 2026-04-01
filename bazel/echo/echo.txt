@@ -5835,7 +5835,7 @@ engouement
 engoument
 entification
 evade
-emulatory
+emulatory 1
 efficace
 electrovalency 1
 exfoliation
