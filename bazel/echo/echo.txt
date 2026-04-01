@@ -6457,7 +6457,7 @@ electromyography
 espave 1
 espousal
 expandibility
-ensnared
+ensnared 1
 ensnarer
 echinostoma
 eobionts 1
