@@ -3396,7 +3396,7 @@ dicotyledons
 damnum
 ditremidae
 defleas 2
-downlinks
+downlinks 1
 deflect 1
 dichotomic
 disinhuming
