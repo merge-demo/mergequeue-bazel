@@ -5053,7 +5053,7 @@ densification 1
 dayal 1
 drivingly
 denaturalised
-denaturalising
+denaturalising 1
 denaturalized
 dandriff
 drovy
