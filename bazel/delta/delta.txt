@@ -17475,7 +17475,7 @@ dimwitted
 drowsihead
 drowte
 dreads
-discrete
+discrete 1
 daffle
 doubleheaders
 deficiently
