@@ -1505,7 +1505,7 @@ entasias 1
 effuviate
 efl
 efoliose
-efph
+efph 1
 enantiomorphism
 erringly
 entocondylar
