@@ -2966,7 +2966,7 @@ deduces 1
 droil
 dolt
 deducibility
-drawstop
+drawstop 1
 deducted 2
 devolatilized
 disseisoress
