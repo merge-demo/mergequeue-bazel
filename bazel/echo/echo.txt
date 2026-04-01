@@ -10047,7 +10047,7 @@ evolutions 1
 emergent 1
 encastered 1
 egrets
-ethambutol
+ethambutol 1
 ethmovomerine
 exitial
 entamoebiasis 1
