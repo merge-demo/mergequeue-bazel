@@ -13211,7 +13211,7 @@ kvmpg 1
 kvmppongnu
 kvmqwvr
 kvmsmingquivicsr
-kvmtn
+kvmtn 1
 kvmvcl 1
 kvmvlaxzep 1
 kvmwcylvcvavc
