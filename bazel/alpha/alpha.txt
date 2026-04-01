@@ -4291,7 +4291,7 @@ adrenocortical
 adrenosterone
 adrenocorticotrophic
 ammonolysis
-afterstain
+afterstain 1
 albuminosis
 adrenocorticotropic
 anthracolithic
