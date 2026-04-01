@@ -10455,7 +10455,7 @@ disinflame
 dow
 douzainier
 diplomatism
-duenna
+duenna 1
 dashikis
 demibath
 diphonia 1
