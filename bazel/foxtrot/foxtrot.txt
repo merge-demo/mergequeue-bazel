@@ -5343,7 +5343,7 @@ flayflint
 fleabag
 fusillade 1
 faintheart 1
-furciform
+furciform 1
 fleabags
 federalization 1
 fireclay
