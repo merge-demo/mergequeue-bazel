@@ -6831,7 +6831,7 @@ foretold
 fructifier 1
 forger
 foliaged
-firetower
+firetower 1
 fustigator
 fussify 2
 flipjack
