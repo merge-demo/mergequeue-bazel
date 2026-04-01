@@ -5880,7 +5880,7 @@ festine 1
 fecund
 fistfight
 fates
-flexity
+flexity 1
 feague
 fangas
 flinted
