@@ -7220,7 +7220,7 @@ detainee
 detaining
 disinfecter
 detar 1
-detassel
+detassel 1
 detat
 defoliating
 dimethylamino
