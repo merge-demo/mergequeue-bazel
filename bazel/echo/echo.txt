@@ -4782,7 +4782,7 @@ exploratory 1
 extracardial
 encloister 1
 extend 1
-endosporously
+endosporously 1
 emeried
 epencephalon
 extrarhythmical
