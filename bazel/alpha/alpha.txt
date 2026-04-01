@@ -593,7 +593,7 @@ ampleness
 abnormalcies
 adrenalectomies 1
 adjure
-abnormalized
+abnormalized 1
 anatomical
 amynodont
 abococket
