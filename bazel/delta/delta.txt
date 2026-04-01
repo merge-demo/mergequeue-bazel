@@ -599,7 +599,7 @@ demifusion
 dextrose 1
 dups
 damine
-disbeliever
+disbeliever 1
 drek 1
 dedolomitized
 ditheistical
