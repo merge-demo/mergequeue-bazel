@@ -15025,7 +15025,7 @@ borderies
 bendlet
 breeder
 breakneck
-barhops
+barhops 1
 breeders 1
 breedy
 byzantian
