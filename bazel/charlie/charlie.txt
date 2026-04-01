@@ -27070,7 +27070,7 @@ counterpush
 counterquartered
 caneva
 celibatarian
-counterraid
+counterraid 1
 counterreckoning
 counterrefer
 congoni
