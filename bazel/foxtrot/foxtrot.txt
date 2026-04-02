@@ -11000,7 +11000,7 @@ fumbles
 fumblingness 1
 fumed 1
 fluidiser
-frigging
+frigging 1
 freeport 2
 freshly
 fortilage
