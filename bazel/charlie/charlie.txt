@@ -28815,7 +28815,7 @@ cleanable
 cassena
 countertail
 cresselle
-cringingness
+cringingness 1
 cresset
 colima
 cressets
