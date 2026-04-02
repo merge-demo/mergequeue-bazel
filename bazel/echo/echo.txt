@@ -5558,7 +5558,7 @@ euhemerizing
 encourage 1
 etherlike
 enfeoffing
-episcopant
+episcopant 1
 enfeoffment
 exestuate
 exhaustedly
