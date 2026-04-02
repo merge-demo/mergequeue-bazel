@@ -8346,7 +8346,7 @@ eucarpic
 enslaved 1
 endocyemate
 epithetic
-effortlessness
+effortlessness 1
 encumberingly
 epithetically
 entifical
