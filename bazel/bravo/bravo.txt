@@ -12749,7 +12749,7 @@ baronry 1
 begut
 bookseller
 bepreach 1
-burdalone
+burdalone 1
 bucorvinae
 becloaked 1
 bioelectric
