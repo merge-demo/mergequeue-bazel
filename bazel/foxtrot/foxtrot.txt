@@ -1467,7 +1467,7 @@ felicitators 1
 font
 flavorings
 fruiter
-favourable
+favourable 1
 friedman 1
 fiqh
 flamer 1
