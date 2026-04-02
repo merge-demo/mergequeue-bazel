@@ -12842,7 +12842,7 @@ ern 1
 ecphorization
 echoic
 emendated
-extinctor
+extinctor 1
 eisteddfods
 enumerations
 evangelistship
