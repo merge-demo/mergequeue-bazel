@@ -7010,7 +7010,7 @@ branchiostomidae 1
 ballpoints
 bowlegged
 boardly
-bowingly
+bowingly 1
 balnea 2
 brothel
 balor
