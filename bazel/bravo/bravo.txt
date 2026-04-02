@@ -11344,7 +11344,7 @@ besoothe 1
 bambusa
 bescatter
 bewitchedness
-benmost
+benmost 1
 bakeapple
 bendingly 1
 beguiled
