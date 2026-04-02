@@ -4862,7 +4862,7 @@ estrous
 excellences
 epigne
 ephydriad
-expertise
+expertise 1
 emblematizing
 encourages
 embusy
