@@ -2874,7 +2874,7 @@ disjointedness
 doveling
 disgenius
 deepest
-denticles
+denticles 1
 dictyopteris
 decumbent
 disfurnishment
