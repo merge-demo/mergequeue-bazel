@@ -11082,7 +11082,7 @@ fracturs
 forbidder
 foreknowableness
 functionation
-fane
+fane 1
 factfinder
 flagellated
 flockless
