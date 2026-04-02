@@ -25098,7 +25098,7 @@ axiality 1
 anthropos
 armorplated
 axiate
-atmos
+atmos 1
 archeress
 amphicondyla
 axiferous
