@@ -8965,7 +8965,7 @@ europeanly 1
 essex 1
 enhort
 eon 1
-extraspherical
+extraspherical 1
 evenings
 encephalin
 eleaticism
