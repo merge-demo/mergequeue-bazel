@@ -18591,7 +18591,7 @@ delphian
 dustbins
 dustcart
 devocalisation
-distance
+distance 1
 dustcover 1
 diatonicism
 dustee
