@@ -12587,7 +12587,7 @@ eatableness
 embezzlement 1
 exochorion
 enterocolitis
-eaglestone
+eaglestone 1
 escheat
 earthpeas
 embrawn
