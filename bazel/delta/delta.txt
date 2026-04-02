@@ -3745,7 +3745,7 @@ domitic
 delegated
 disprove
 dehkan
-durmasts
+durmasts 1
 decimate 1
 dehonestation
 disoccupied 1
