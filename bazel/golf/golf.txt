@@ -3877,7 +3877,7 @@ gatekeep 1
 grant 1
 girrock 1
 graining
-guls 1
+guls 2
 groszy
 gels
 gaelicization
