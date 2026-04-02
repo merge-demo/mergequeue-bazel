@@ -17622,7 +17622,7 @@ dsects
 desmodium
 disillusionize 1
 disannulled
-dinners
+dinners 1
 dsname
 dsri
 defeminization 1
