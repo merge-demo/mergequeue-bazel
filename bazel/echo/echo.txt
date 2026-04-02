@@ -5010,7 +5010,7 @@ exomphalous
 endemicity
 electrofused
 endemism
-eco
+eco 1
 eightscore 1
 endenization
 excusator
