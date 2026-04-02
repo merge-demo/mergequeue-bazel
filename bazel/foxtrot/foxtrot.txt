@@ -917,7 +917,7 @@ faradaic
 filleted
 fluorometer 1
 flamed 1
-feel
+feel 1
 fluoroborate
 faradisation
 fluosilicic
