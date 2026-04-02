@@ -6475,7 +6475,7 @@ bepen
 beleaguer
 backdown
 bepepper 1
-ballat
+ballat 1
 booting
 bephilter 2
 booley
