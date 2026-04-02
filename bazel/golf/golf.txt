@@ -1321,7 +1321,7 @@ gargler
 goolde 1
 greeting 3
 gargoyley
-grimier
+grimier 1
 gested
 gheleem
 genies
