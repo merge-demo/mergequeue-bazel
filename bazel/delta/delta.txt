@@ -14918,7 +14918,7 @@ destructive
 dodecarch
 dodecasemic 1
 decadi 1
-dodecasyllable
+dodecasyllable 1
 discretionarily
 demonising
 dichromat
