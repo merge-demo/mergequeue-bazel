@@ -8046,7 +8046,7 @@ booklift
 bartend
 bagroom
 bicornuate
-bicornute
+bicornute 1
 beshadow 1
 bicorporate 1
 banyai 1
