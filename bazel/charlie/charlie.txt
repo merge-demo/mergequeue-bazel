@@ -9706,7 +9706,7 @@ cheyennes
 crosscut
 confirmee 1
 calculations
-channelizes
+channelizes 1
 chiloncus
 cribwork
 cheilodipteridae
