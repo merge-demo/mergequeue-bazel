@@ -5470,7 +5470,7 @@ fernbrake 1
 ferreter 1
 flora 1
 funniness 1
-frequentness
+frequentness 1
 flemishes
 flensed
 frillers
