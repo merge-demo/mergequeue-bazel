@@ -1050,7 +1050,7 @@ garvock
 gerardias 2
 gorgonin
 gompholobium
-ganglioid
+ganglioid 1
 ganglioma
 gangliomas
 ganglionate
