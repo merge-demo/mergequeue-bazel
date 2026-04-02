@@ -14763,7 +14763,7 @@ citizenish
 coneen
 citizenism
 countercarte
-citizenize
+citizenize 1
 citizenized
 citizenly
 citizenry
