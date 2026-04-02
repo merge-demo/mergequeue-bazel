@@ -3108,7 +3108,7 @@ agrionia
 antifeudal
 actinost
 auctioned 1
-actinostereoscopy
+actinostereoscopy 1
 azthionium
 avowableness 1
 arthrodia
