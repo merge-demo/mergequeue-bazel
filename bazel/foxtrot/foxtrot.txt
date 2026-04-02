@@ -4782,7 +4782,7 @@ forceps
 flagelliform
 fever 1
 folie
-flagellula
+flagellula 1
 flickeringly
 fauve
 filigrain 1
