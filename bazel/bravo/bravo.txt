@@ -15498,7 +15498,7 @@ banal 1
 bringers
 bodega
 bringeth
-brushiness
+brushiness 1
 botanophilist
 brynhild
 blist
