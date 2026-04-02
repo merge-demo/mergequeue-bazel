@@ -1880,7 +1880,7 @@ atheromas
 afifi
 acetabulums
 acetacetic
-autopsic
+autopsic 1
 acetalize 1
 amphioxididae
 arrector
