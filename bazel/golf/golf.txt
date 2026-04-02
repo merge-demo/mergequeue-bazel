@@ -6738,7 +6738,7 @@ geyseral
 gurdfish 1
 gruine
 glenoid
-guiltlessness
+guiltlessness 1
 goniocraniometry
 grouters 1
 gaveller
