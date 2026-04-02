@@ -12311,7 +12311,7 @@ bombast 1
 buglers
 bicker 1
 bezzi
-beldame
+beldame 1
 baillie
 boterol 1
 bonds
