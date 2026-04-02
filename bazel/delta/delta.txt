@@ -15037,7 +15037,7 @@ deformer
 doggerelling
 deposals
 disbutton
-decnet
+decnet 1
 drysalteries
 doggers
 dyspnoeas
