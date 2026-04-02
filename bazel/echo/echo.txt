@@ -11356,7 +11356,7 @@ equiparate
 evenfall
 ennerve
 electroscission
-eupnoeic
+eupnoeic 1
 enervative 1
 exhaustibility
 evaluating
