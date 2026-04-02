@@ -10305,7 +10305,7 @@ farriers
 fingerleaf
 fingering
 frondeurs 1
-forecourt
+forecourt 1
 feaze
 foss 1
 footcandles
