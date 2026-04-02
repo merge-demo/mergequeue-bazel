@@ -1470,7 +1470,7 @@ acquaintancy
 agreeableness
 anticness 2
 acclinal
-adhesivemeter
+adhesivemeter 1
 arhythmical
 autopolyploidy
 acclinate
