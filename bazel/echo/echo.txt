@@ -5494,7 +5494,7 @@ energeticness
 epacrid
 estimatingly
 extrasystole
-exospheres
+exospheres 1
 eigenstate 1
 entitledness
 edematous
