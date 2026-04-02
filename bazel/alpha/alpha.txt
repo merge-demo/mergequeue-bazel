@@ -8349,7 +8349,7 @@ amini 1
 archdapifer
 ayield
 agricultor 1
-amacrine
+amacrine 1
 autoelectronic
 anaxial
 anaerophyte
