@@ -2345,7 +2345,7 @@ deafnesses
 dextrotropic
 decerebrate
 drinkably
-disfavourable
+disfavourable 1
 dustup
 dynode
 demeriting
