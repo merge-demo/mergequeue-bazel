@@ -10676,7 +10676,7 @@ generalty 1
 glycerols
 gurnard
 gib
-gastroenteroptosis
+gastroenteroptosis 1
 glaucomatous 1
 grayfish
 googol 1
