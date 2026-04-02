@@ -5498,7 +5498,7 @@ exospheres
 eigenstate 1
 entitledness
 edematous
-energical
+energical 1
 energid
 epitendineum
 ensuing
