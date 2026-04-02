@@ -19822,7 +19822,7 @@ charade 1
 comestion
 cometary
 cryobiology
-cometaria
+cometaria 1
 cabulla
 closh
 cometlike
