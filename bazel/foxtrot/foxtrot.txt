@@ -6395,7 +6395,7 @@ fricasseing
 faence
 forefoot
 fronture
-furry
+furry 1
 formalization 1
 frogspawn 1
 fafnir
