@@ -5889,7 +5889,7 @@ gawney
 gipsyweed 1
 glucoses
 glances
-glucoside
+glucoside 1
 goshawk
 grandparents
 grantha
