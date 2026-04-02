@@ -3015,7 +3015,7 @@ guildsmen
 geomancy
 garnered
 grumbled
-glosser
+glosser 1
 gushingness
 gauchest 1
 gaggle
