@@ -9087,7 +9087,7 @@ allround
 alls
 adolesce 1
 artabe
-appeasive
+appeasive 1
 allspice
 angulosity
 anticatalase
