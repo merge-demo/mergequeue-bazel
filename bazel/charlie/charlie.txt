@@ -29198,7 +29198,7 @@ constipate
 cryosel
 cryospheric
 criosphinx
-chromatospheric
+chromatospheric 1
 criosphinxes
 catrigged
 cryostat
