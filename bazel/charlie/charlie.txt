@@ -5122,7 +5122,7 @@ casebox 1
 cased 1
 cisatlantic 1
 convulsionism
-casefy
+casefy 1
 corneter
 counterenamel
 compeller
