@@ -1950,7 +1950,7 @@ aporetic
 acetylperoxide
 acetylphenylhydrazine
 aslope
-affinite
+affinite 1
 acetylphenol
 agogic
 acetyls
