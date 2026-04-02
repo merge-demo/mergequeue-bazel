@@ -2104,7 +2104,7 @@ birthrights 1
 braccae
 bosomer
 booms
-blanca
+blanca 1
 bosch
 brouillon
 barring
