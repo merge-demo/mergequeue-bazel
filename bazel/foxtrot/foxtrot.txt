@@ -9963,7 +9963,7 @@ fragment
 formularizer 1
 forcers
 frigolabile
-fumigate
+fumigate 1
 fadlike
 friendships 1
 feloniousness 1
