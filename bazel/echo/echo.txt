@@ -3904,7 +3904,7 @@ electrotonus
 extraboldface
 eminencies
 evendown
-exterminating
+exterminating 1
 eminent
 easternized
 esperance 1
