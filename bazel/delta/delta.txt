@@ -2143,7 +2143,7 @@ dynamitish
 decanting
 digitized
 demonianism
-detectors
+detectors 1
 diabolology 1
 downtime
 disturbs
