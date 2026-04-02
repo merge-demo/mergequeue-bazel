@@ -30042,7 +30042,7 @@ cabochons
 crouperbush
 compulsions
 cuggermugger
-clearstarch
+clearstarch 1
 chromo
 capriciously
 challengeable
