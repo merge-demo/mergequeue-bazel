@@ -11667,7 +11667,7 @@ byeworkman
 blazoners 2
 bosks
 boatward 1
-boatwright
+boatwright 1
 bob 1
 biennales 1
 burglarize
