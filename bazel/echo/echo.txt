@@ -12910,7 +12910,7 @@ erythropenia
 engr
 eosaurus
 enticingly
-expeditiousness
+expeditiousness 1
 ecchymose
 epithymetic
 evangeliary
