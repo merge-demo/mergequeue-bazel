@@ -13206,7 +13206,7 @@ desaurine 1
 dendrobe
 displosion 1
 dronte
-deportable
+deportable 1
 deuterofibrinose 1
 dinnerless
 dyspnea
