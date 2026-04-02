@@ -23758,7 +23758,7 @@ ausforming
 arrent
 auslaute
 auspex
-approvability
+approvability 1
 associational
 anisopodous
 acetifier 1
