@@ -21987,7 +21987,7 @@ croak
 confirmable 1
 cionocranial 1
 confirmation
-confirmational
+confirmational 1
 confirmations
 curvant
 circumflexion
