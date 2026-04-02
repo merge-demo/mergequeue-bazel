@@ -10216,7 +10216,7 @@ counterformula 1
 clockings 1
 chiasmic
 cleruchic
-chiasms
+chiasms 1
 chiasmus
 coeline
 curacao
