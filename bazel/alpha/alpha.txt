@@ -11644,7 +11644,7 @@ anacrogynae
 amba
 anacrogynous
 accents
-anacrotic
+anacrotic 1
 altricial
 anacruses
 anaculture
