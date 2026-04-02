@@ -3073,7 +3073,7 @@ blastplate 1
 bating
 badminton
 barware
-boneblack
+boneblack 1
 barksome 1
 basale
 berascaling
