@@ -3107,7 +3107,7 @@ cresamine 1
 capacitative
 chorine
 capacitativly
-coldness
+coldness 1
 can
 capacitive
 cenotaphies
