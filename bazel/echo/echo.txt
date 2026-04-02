@@ -5185,7 +5185,7 @@ electromedical 1
 endoenzyme
 epitrochoid
 entresol
-elytrorrhaphy
+elytrorrhaphy 1
 earbob 1
 epicarp
 encyclic
