@@ -2521,7 +2521,7 @@ ensate
 eparcuale
 epitomisation
 eulytite
-equitriangular
+equitriangular 1
 excerebrate
 eviration
 emesidae
