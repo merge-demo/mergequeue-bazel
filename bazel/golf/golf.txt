@@ -731,7 +731,7 @@ gujar
 gripple 3
 galvanizing
 gemmiferousness
-gunner
+gunner 1
 giantlikeness
 gollywog
 gonoplasm
