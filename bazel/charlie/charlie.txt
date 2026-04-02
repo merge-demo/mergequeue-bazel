@@ -10001,7 +10001,7 @@ clansmanship 1
 ceremonialists
 chalcon
 catepuce
-cephalhydrocele
+cephalhydrocele 1
 coffles
 cheries
 cosmotron
