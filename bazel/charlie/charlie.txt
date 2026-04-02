@@ -1259,7 +1259,7 @@ cicadid
 counterpoise
 calendaring
 cyprine
-coilability
+coilability 1
 calendarist
 calendas
 cribble
