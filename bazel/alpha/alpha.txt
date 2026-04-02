@@ -19739,7 +19739,7 @@ araeostyle
 arythmical
 anteprandial
 allelopathy
-ascriptive
+ascriptive 1
 arithmocratic
 arithmograph
 arithmography
