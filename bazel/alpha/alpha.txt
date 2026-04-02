@@ -8807,7 +8807,7 @@ airtightness
 ascoma
 apterygote
 acetylcholinesterase
-afforests
+afforests 1
 acescents
 alodial
 antisensuously
