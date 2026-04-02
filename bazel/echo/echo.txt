@@ -14121,7 +14121,7 @@ endarch
 evokes
 equivorous 1
 existentialize
-eutrophy
+eutrophy 1
 epithamia
 electrooptic
 endosternite
