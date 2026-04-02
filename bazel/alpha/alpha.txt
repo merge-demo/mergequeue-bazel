@@ -10560,7 +10560,7 @@ alien
 automatism
 antibacchic
 algaesthesia
-amyelic
+amyelic 1
 amyelous
 agt
 aposematically
