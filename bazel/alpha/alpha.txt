@@ -20658,7 +20658,7 @@ azimide 1
 arthrotome 1
 ansi
 accinged
-arthrous
+arthrous 1
 acrylaldehyde
 alencons
 accursedly
