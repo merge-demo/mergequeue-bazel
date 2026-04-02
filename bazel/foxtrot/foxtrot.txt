@@ -5886,7 +5886,7 @@ fangas
 flinted
 forehear
 ferrichloride 1
-furnishings
+furnishings 1
 flocculent
 flushes
 flaxier 1
