@@ -30071,7 +30071,7 @@ cotice
 commandress 1
 crouth
 cellule
-conversational
+conversational 1
 chattanoogan
 crowbait
 centuriate
