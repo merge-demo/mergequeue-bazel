@@ -353,7 +353,7 @@ eighty
 electrodynamic 1
 enchantment 1
 empeirema
-epacridaceous
+epacridaceous 1
 espying
 emulsifier
 epitaphless
