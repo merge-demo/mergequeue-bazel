@@ -4997,7 +4997,7 @@ babbools
 bibation
 bindweb
 ballonette
-bilinguist
+bilinguist 1
 boodling
 buda
 barukhzy
