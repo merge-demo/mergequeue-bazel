@@ -12634,7 +12634,7 @@ duntle
 daredevils
 drate 1
 delegant 1
-dertrotheca
+dertrotheca 1
 defaultant 1
 descendentalist
 descrial
