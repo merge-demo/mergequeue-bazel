@@ -7807,7 +7807,7 @@ epigee
 escapism
 endaze
 excyst
-electromagnetize
+electromagnetize 1
 extrudable 1
 envisage
 ethnobotany
