@@ -8329,7 +8329,7 @@ forelouper 1
 furnished 1
 fautorship
 flytraps
-fusate
+fusate 1
 facade
 forisfamiliation
 fontlet
