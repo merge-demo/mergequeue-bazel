@@ -7818,7 +7818,7 @@ coruscation
 choledochitis 1
 coronatorial
 cervicapra
-cervicectomy
+cervicectomy 1
 cyanided
 caenogenesis
 cichloid
