@@ -1095,7 +1095,7 @@ epimerize
 elliptic
 edificed
 enlightens
-essayish
+essayish 1
 edifying
 ectoblastic 2
 egolatrous 1
