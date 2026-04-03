@@ -4800,7 +4800,7 @@ enterotomy 1
 epiopticon
 excusatory 1
 endocarpic
-encode
+encode 1
 exitance
 ensnarements
 encoding
