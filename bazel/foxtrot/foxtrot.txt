@@ -5518,7 +5518,7 @@ flagfall
 fletcherism 1
 frontignac
 fieri
-fervours
+fervours 1
 finnan
 fletchers 1
 furrower 1
