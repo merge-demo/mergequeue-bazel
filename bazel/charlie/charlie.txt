@@ -6801,7 +6801,7 @@ capless
 celioscope
 cella
 cellarage
-cellared
+cellared 1
 chamoix
 cellaress
 chanceable
