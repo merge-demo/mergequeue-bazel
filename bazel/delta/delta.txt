@@ -3342,7 +3342,7 @@ definiteness
 dahlin
 deergrass
 definitiones 1
-disregards
+disregards 1
 definitions
 dormant
 dilatant
