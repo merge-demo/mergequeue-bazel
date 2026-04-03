@@ -2277,7 +2277,7 @@ filamentiferous
 fantails 1
 folktale
 fulmineous
-fragging
+fragging 1
 fluorocarbons
 fibrochondrosteal
 floored
