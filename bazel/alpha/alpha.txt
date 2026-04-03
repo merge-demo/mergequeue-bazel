@@ -3945,7 +3945,7 @@ acanthine
 absinthes
 adjust
 animalculum
-abdal
+abdal 1
 astre
 armozeen
 adjusting
