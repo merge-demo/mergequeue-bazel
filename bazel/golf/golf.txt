@@ -4565,7 +4565,7 @@ geometrid 1
 grating 1
 goupen 1
 grasscutter
-giojoso
+giojoso 1
 greegree
 gressible
 girdles
