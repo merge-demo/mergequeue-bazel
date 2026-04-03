@@ -4722,7 +4722,7 @@ epanaphora 2
 electroencephalographs
 enmuffle
 entrammel
-ensuance
+ensuance 1
 englishism
 enciphering
 enrapture
