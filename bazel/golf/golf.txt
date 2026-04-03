@@ -4712,7 +4712,7 @@ gooder 1
 gibbsite
 gauping
 geisothermal
-glycerate
+glycerate 1
 gigged
 galchic 2
 gifting 2
