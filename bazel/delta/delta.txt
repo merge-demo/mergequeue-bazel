@@ -7889,7 +7889,7 @@ diaphonia
 dites
 dewdamp
 dapson
-dioestrus
+dioestrus 1
 dewdrop
 dewdropper
 dogteeth
