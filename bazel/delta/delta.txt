@@ -3289,7 +3289,7 @@ deteriority
 deterging
 dragoons
 drostden
-defibrillatory
+defibrillatory 1
 dropax 1
 dissatisfactory
 defier
