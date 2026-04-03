@@ -12294,7 +12294,7 @@ essenhout 1
 entremess
 errorless
 exemptions
-ephemerist
+ephemerist 1
 eviternal
 excerp
 exemptive
