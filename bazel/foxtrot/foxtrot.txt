@@ -10147,7 +10147,7 @@ fitter
 fashed 1
 fabricant
 falcidian
-foresing
+foresing 1
 fief 1
 freycinetia
 flaxen
