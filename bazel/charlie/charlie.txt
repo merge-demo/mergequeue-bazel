@@ -31412,7 +31412,7 @@ curl
 circumambulation
 cheiceral
 chiropodist
-curledly
+curledly 1
 centranthus
 curledness
 chondrules
