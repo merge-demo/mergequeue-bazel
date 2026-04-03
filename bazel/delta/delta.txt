@@ -17048,7 +17048,7 @@ decompensates
 dressmakery
 dressmakers 1
 dressmaking
-dressoir
+dressoir 1
 disagreeableness 1
 dryable 1
 dashedly
