@@ -4977,7 +4977,7 @@ fomenters 1
 flowcharting
 fintadores
 frenulum
-flyway
+flyway 1
 feebleheartedly 1
 flammule
 fatidic
