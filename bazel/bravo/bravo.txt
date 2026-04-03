@@ -12033,7 +12033,7 @@ boyer 1
 beking 1
 barbascos
 boyhoods
-bebloom
+bebloom 1
 balisaurs
 boilable 1
 bromocresol
