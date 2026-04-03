@@ -14139,7 +14139,7 @@ conversably
 circularizes
 choriambs
 circularly
-circularness
+circularness 1
 circulars
 circulatable 1
 cabbalize
