@@ -2054,7 +2054,7 @@ alkalinising
 artemisin
 affiliation 1
 amylohydrolytic
-antiputrefactive
+antiputrefactive 1
 anammonid
 altitudinal 1
 acheiria
