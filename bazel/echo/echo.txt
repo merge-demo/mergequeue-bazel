@@ -7806,7 +7806,7 @@ epigastrocele
 epigee
 escapism
 endaze
-excyst
+excyst 1
 electromagnetize 1
 extrudable 1
 envisage
