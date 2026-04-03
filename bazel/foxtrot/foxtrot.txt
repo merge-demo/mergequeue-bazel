@@ -4597,7 +4597,7 @@ fissidens
 fossilify 1
 fisheye
 fieldstone
-fistuca
+fistuca 1
 freezing
 freest
 filmist 1
