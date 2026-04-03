@@ -16628,7 +16628,7 @@ closeable
 closecross
 closed
 closefistedly
-closefistedness
+closefistedness 1
 concussant
 clubbiest
 colleagueship 1
