@@ -17633,7 +17633,7 @@ cocculiferous 1
 cost
 cocculus
 convertend
-corrivals
+corrivals 1
 coccus
 chalazogamy 1
 cushite
