@@ -69,7 +69,7 @@ facebow
 fenchone
 feudalization 2
 faceharden
-flagships
+flagships 1
 flecken
 facellite 1
 felonious 1
