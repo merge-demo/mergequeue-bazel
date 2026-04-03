@@ -3793,7 +3793,7 @@ explored
 emceeing
 escalader
 enquirer
-emcumbering
+emcumbering 1
 eyewater
 electroneutral 1
 eclaircise
