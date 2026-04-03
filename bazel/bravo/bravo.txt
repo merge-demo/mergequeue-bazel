@@ -4909,7 +4909,7 @@ battled
 beefalo
 beefaloes
 basketweaving
-birefringence
+birefringence 1
 bilimbis
 blackheartedly 1
 brig
