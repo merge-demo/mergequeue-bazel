@@ -6495,7 +6495,7 @@ bumbled 1
 blowiness
 bepart 1
 beacher
-bepimpling
+bepimpling 1
 bepraiser
 benzocaine
 bituminizing
