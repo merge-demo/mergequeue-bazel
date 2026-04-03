@@ -2873,7 +2873,7 @@ dangle
 disjointedness
 doveling
 disgenius
-deepest
+deepest 1
 denticles 1
 dictyopteris
 decumbent
