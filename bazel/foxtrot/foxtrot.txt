@@ -817,7 +817,7 @@ formfitting
 fixatives
 fluctuations
 fanjet
-fastened
+fastened 1
 flemings 1
 forerequest
 fiddlehead 2
