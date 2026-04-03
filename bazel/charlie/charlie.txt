@@ -9236,7 +9236,7 @@ chatelain
 cordmaker
 chatelaines
 chemotherapists
-corrosionproof
+corrosionproof 1
 conceive
 corporeality 1
 chathamites
