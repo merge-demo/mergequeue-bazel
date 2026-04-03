@@ -6619,7 +6619,7 @@ excluding
 echinorhynchus
 esperantidist
 embryous
-enseam
+enseam 1
 egyptianism
 expulsatory
 enterocoela
