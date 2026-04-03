@@ -3498,7 +3498,7 @@ decompressed
 deflator
 deforced
 depressors
-deforces
+deforces 1
 dimittis
 deforciant
 detention 1
