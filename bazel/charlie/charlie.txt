@@ -2921,7 +2921,7 @@ cantatas
 cantation
 cantatrice
 coverts
-chestily
+chestily 1
 chorioids
 condylos
 crappy
