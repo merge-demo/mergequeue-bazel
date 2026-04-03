@@ -6262,7 +6262,7 @@ enplane 2
 electromotor
 ecorticate
 enplaned
-embryonary
+embryonary 1
 enamine
 ethnogeographical
 entered
