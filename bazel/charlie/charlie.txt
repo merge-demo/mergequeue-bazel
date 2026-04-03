@@ -6534,7 +6534,7 @@ cavitary
 closeup
 cystophthisis
 choleric 1
-cauliculi
+cauliculi 1
 cavitated
 consulter
 changefulness
