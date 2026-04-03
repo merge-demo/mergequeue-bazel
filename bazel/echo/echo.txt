@@ -2697,7 +2697,7 @@ electrotherapeutical
 estampie
 escrol
 expectorating
-excitors
+excitors 1
 enmesh
 enduros
 electrotherapy
