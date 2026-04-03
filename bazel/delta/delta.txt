@@ -1697,7 +1697,7 @@ dears 1
 dottard
 dupability 1
 disadvantage
-dignity
+dignity 1
 disentrain
 dispond 1
 duckstone 1
