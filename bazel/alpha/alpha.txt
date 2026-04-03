@@ -8406,7 +8406,7 @@ anchovy
 afterloss
 anthrathiophene
 antilipoid
-adjusted
+adjusted 1
 aljamia
 attirail
 atfalati
