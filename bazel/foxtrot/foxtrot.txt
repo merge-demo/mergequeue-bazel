@@ -9490,7 +9490,7 @@ frauleins
 formaliter 1
 fissiparousness
 flatbottom
-forbreak
+forbreak 1
 floatman
 florets 1
 fibdom
