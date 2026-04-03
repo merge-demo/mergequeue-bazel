@@ -5026,7 +5026,7 @@ faceable 1
 frowsier
 feathers
 faineantise
-falsificate
+falsificate 1
 formalisms
 firman
 flammation
