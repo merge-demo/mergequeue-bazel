@@ -7532,7 +7532,7 @@ equiradial 1
 epiboulangerite
 episomes
 efficacity
-entelechial
+entelechial 1
 epidermically
 extinguised
 echiuroid
