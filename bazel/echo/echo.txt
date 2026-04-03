@@ -4772,7 +4772,7 @@ eyren
 executions
 existent
 exodos
-endosmosic
+endosmosic 1
 ebulliometry 1
 excircle
 epistler

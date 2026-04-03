@@ -8615,7 +8615,7 @@ admonitor
 apodeipna
 apoharmine
 aqueduct 1
-abandoners
+abandoners 1
 arboricultural
 allegorisation
 allegorise
