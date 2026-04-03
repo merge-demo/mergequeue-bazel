@@ -12811,7 +12811,7 @@ awarder 1
 angiopathy
 agnosis
 aeneolithic
-angioplasty
+angioplasty 1
 androgyn
 asseize
 angiopressure
