@@ -17552,7 +17552,7 @@ coccal
 conducible
 coccerin
 corr
-coccic
+coccic 1
 coccidae
 cookies 1
 coagency
