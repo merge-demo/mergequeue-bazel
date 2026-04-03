@@ -15375,7 +15375,7 @@ caenolestes
 clapboarding 1
 cleidomastoid
 clapboards
-clapcake
+clapcake 1
 chortled
 coran
 caulkings
