@@ -4967,7 +4967,7 @@ ecliptics 1
 estrada 1
 emulatress
 endeavour
-endamaging 1
+endamaging 2
 estreated
 ericeticolous
 exilable
