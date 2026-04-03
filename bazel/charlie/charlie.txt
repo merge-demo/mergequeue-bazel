@@ -667,7 +667,7 @@ cinemize
 crownal 1
 caestus
 creatins
-caestuses
+caestuses 1
 caesura 1
 cybernated
 caesurae
