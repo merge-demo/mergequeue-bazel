@@ -4968,7 +4968,7 @@ foxing 1
 flamy
 fan 2
 facepiece 1
-floorages
+floorages 1
 flamingant
 flong
 foremarch
