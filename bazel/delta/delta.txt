@@ -9939,7 +9939,7 @@ downcourt 1
 dodecatoic
 dipneustal 1
 dogmata
-diminisher
+diminisher 1
 dezinc
 diminishingly
 diminishment
