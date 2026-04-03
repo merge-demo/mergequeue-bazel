@@ -5833,7 +5833,7 @@ disauthentic
 dextrocerebral 1
 depositors 1
 dowel
-divestible
+divestible 1
 dislimns
 dulcitol
 dichotomously
