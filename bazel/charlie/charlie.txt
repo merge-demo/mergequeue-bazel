@@ -10106,7 +10106,7 @@ consanguinities
 chetvert 1
 centrifugalise 1
 crazies
-cyrtosis
+cyrtosis 1
 coauthorship
 chevachee
 chevage
