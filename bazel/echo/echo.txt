@@ -10524,7 +10524,7 @@ evulge
 explosions 1
 entohyal
 everymen 1
-endogastritis
+endogastritis 1
 extraplacental
 epilachnides 1
 estop
