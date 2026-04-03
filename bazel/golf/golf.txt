@@ -1390,7 +1390,7 @@ gamily
 governs
 ganodonta
 glossanthrax
-garnison
+garnison 1
 greetingless
 garniture
 gaulsh
