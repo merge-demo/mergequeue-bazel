@@ -5436,7 +5436,7 @@ candlesticked
 confront
 casaque
 castlewise
-castock
+castock 1
 clepes
 castoffs
 coldly
