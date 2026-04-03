@@ -11059,7 +11059,7 @@ descriptive 1
 disappear 2
 divorcees
 disbowelling
-distended
+distended 1
 decrepitly
 dullsville
 deadpan
