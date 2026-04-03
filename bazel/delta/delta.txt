@@ -5098,7 +5098,7 @@ discomfit 1
 dedimus
 dispone
 dissipated
-dissimulates
+dissimulates 1
 disterr
 destitute
 deperition 1
