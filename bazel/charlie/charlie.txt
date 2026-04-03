@@ -13467,7 +13467,7 @@ chassis 1
 cartesianism
 cilery
 corsetless
-cloying
+cloying 1
 cilia
 cloakedly
 ciliate
