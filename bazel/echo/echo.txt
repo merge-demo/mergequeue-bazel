@@ -10192,7 +10192,7 @@ encoders
 executives
 ethernet 2
 extrahazardous
-emancipation
+emancipation 1
 escrowed
 emmarbled 1
 electrotelegraphic
