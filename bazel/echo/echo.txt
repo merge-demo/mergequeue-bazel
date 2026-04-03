@@ -6159,7 +6159,7 @@ earlywood 1
 ervipiame
 enmeshment
 enrols
-enmity
+enmity 1
 eparchean
 entracte
 embattles
