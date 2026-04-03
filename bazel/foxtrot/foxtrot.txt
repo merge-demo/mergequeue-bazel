@@ -9031,7 +9031,7 @@ fustian
 fractus 1
 forwork
 fiendship
-feudaries
+feudaries 1
 flirtational 1
 flintified
 flux 2
