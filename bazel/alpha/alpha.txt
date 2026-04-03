@@ -6637,7 +6637,7 @@ anthropoids
 aquiline 1
 antinuke 2
 agorae
-aikane
+aikane 1
 automatictacessing 1
 aikido
 amatories
