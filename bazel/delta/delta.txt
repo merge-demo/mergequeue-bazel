@@ -17515,7 +17515,7 @@ drawability 1
 ditrocha
 degassers
 dadupanthi
-deltahedra
+deltahedra 1
 differencingly
 drugs
 druidess 1
