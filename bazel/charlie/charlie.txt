@@ -25838,7 +25838,7 @@ clawback
 corrupting
 chuser
 coolant 1
-corruptingly
+corruptingly 1
 cimicid
 cocooning
 circumflexes
