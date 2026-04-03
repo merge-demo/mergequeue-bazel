@@ -7065,7 +7065,7 @@ evidencive
 endotropic
 environment 1
 embolic 1
-entwines
+entwines 1
 epinikian
 enzymolytic
 excitomuscular
