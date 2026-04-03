@@ -7158,7 +7158,7 @@ assistantships 2
 autoregulation
 antibiotics 1
 argovian
-antiodontalgic
+antiodontalgic 1
 aweigh
 alabamide
 alabamine
