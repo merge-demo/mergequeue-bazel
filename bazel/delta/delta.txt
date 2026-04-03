@@ -3407,7 +3407,7 @@ dampnesses
 daphnaceae
 diamante
 diacetyl 1
-disassociable
+disassociable 1
 dyscrasia 1
 decarboxylase
 decolorisation 1
