@@ -10680,7 +10680,7 @@ declinometer
 downstreet 1
 dogman
 digoxin
-derationalize
+derationalize 1
 dreadlessness
 denunciating
 demorage
