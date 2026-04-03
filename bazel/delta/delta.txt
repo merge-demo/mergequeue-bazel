@@ -14607,7 +14607,7 @@ deconsecration 1
 dietarily
 desulfovibrio
 disillusionary
-diarrheas
+diarrheas 1
 duodenectomy
 drevel
 dibucaine
