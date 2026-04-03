@@ -17904,7 +17904,7 @@ boopis
 busher 1
 bernoo
 bushfighting
-bushfires
+bushfires 1
 backslider 1
 blamed
 blackfellow
