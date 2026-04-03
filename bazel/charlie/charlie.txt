@@ -30803,7 +30803,7 @@ charonian
 contineu
 columbite
 chiffon
-carcerate
+carcerate 1
 culicoides
 culinarian
 condenser
