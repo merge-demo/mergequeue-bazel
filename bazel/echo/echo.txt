@@ -2327,7 +2327,7 @@ escalate
 encrypting
 eyras
 electroacoustic 1
-electroacoustical
+electroacoustical 1
 elfkin 1
 exradius
 electroacoustics 1
