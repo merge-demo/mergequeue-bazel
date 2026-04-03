@@ -18366,7 +18366,7 @@ bobbins
 bordrage
 bimesters
 buz
-buzane
+buzane 1
 blawort
 bortsch
 bepaint 1
