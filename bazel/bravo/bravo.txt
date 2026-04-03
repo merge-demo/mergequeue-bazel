@@ -6751,7 +6751,7 @@ berossos
 beround
 bendability 1
 berreaves
-berret
+berret 1
 berrettas
 bloodred
 barongs 1
