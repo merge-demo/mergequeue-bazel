@@ -13528,7 +13528,7 @@ elopements
 exscissor
 eyass
 extrafloral
-exscriptural
+exscriptural 1
 execrating
 extemporarily
 exscutellate
