@@ -4115,7 +4115,7 @@ ethological
 ecdysis
 energetistic
 epinicial
-excitant
+excitant 1
 exogenous 1
 enfoulder 1
 eellike
