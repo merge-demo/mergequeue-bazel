@@ -9747,7 +9747,7 @@ buffered
 bistipulate
 bistort
 bedarkened
-bistorts
+bistorts 1
 beetlehead
 bistred
 beknights
