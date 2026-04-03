@@ -8090,7 +8090,7 @@ chaff
 chaffer
 cymballike
 chafferer
-cursively
+cursively 1
 campylospermous
 chafferers
 coexert
