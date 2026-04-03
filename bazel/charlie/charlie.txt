@@ -14012,7 +14012,7 @@ crimp
 comtes
 cypraeidae
 cypraeiform 1
-confinement
+confinement 1
 cypraeoid 1
 cypre 1
 cypress
