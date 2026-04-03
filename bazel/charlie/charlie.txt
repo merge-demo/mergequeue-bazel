@@ -25626,7 +25626,7 @@ corpse
 corpses
 creeshy
 cecity
-corpsy
+corpsy 1
 cleverness
 corpsman
 corpulences
