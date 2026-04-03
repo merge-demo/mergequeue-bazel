@@ -6040,7 +6040,7 @@ catholyte
 cathouse
 carryable 1
 cathouses
-crownling
+crownling 1
 cathrin
 cathryn
 coversine
