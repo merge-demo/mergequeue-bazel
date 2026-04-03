@@ -12261,7 +12261,7 @@ exegetics
 exing 2
 ecphorias
 ensheaths
-electroaffinity
+electroaffinity 1
 ensued
 eds 1
 emarginating
