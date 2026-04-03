@@ -12272,7 +12272,7 @@ efflorescency
 enteromegaly
 els
 elegises
-everduring
+everduring 1
 exemplarism 2
 exempli
 endotoxin
