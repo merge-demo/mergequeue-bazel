@@ -2749,7 +2749,7 @@ grooms 1
 genoise 2
 gentiopicrin
 girths
-gorgers
+gorgers 1
 gunfire 1
 greenflies 1
 germanism
