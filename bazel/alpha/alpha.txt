@@ -16141,7 +16141,7 @@ annealing
 acidulous 1
 antisexist
 antiship
-antishipping
+antishipping 1
 amphitryon
 antisideric
 antisymmetry
