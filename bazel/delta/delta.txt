@@ -11599,7 +11599,7 @@ demophobe
 digester
 dunkle 1
 dysoxidizable
-divulgator
+divulgator 1
 disposable
 discontentedness
 discriminantal
