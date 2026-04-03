@@ -10003,7 +10003,7 @@ falderal
 felid
 frilliness 2
 fen
-florid
+florid 1
 frilling 1
 flee
 flatwork 1
