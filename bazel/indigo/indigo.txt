@@ -11217,7 +11217,7 @@ iszmbx
 isznvysk
 iszpd
 iszqeeg
-iszqgvs
+iszqgvs 1
 iszrfzmoowk
 iszrquzogfu
 isztrivkiy
