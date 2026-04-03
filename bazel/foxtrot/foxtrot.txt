@@ -1887,7 +1887,7 @@ footstep 1
 fourdrinier
 flamboyantize
 faradizing
-frs
+frs 1
 fraidycat
 flybrush
 fishable
