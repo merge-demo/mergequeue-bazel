@@ -24172,7 +24172,7 @@ aldermanries 1
 abrus
 anquera
 acy
-afterlifetime
+afterlifetime 1
 autojigger
 autojuggernaut
 ancylocladus
