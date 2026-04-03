@@ -4181,7 +4181,7 @@ benches
 beatee
 bleery
 botling
-beaters
+beaters 1
 beatifical
 benchlet
 beatifically
