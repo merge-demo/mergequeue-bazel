@@ -2363,7 +2363,7 @@ frightener
 fanhouse 1
 feres
 floatstone
-flytings
+flytings 1
 fegs
 frolicky
 favoritism
