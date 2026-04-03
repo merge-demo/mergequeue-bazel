@@ -14561,7 +14561,7 @@ divisively
 diners
 develope
 decomposition
-divisor
+divisor 1
 digitalein 1
 deckels
 desalinize
