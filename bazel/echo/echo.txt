@@ -2657,7 +2657,7 @@ estadel 1
 eiry 1
 entad
 exemplarity
-ethnocentrism
+ethnocentrism 1
 electrosmosis
 excelling
 exegetist 1
