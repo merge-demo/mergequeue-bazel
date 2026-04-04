@@ -3299,7 +3299,7 @@ germanification
 gadso
 gorgonian
 grimmia
-gregaritic
+gregaritic 1
 glancer 1
 glycosin
 gelotoscopy 1
