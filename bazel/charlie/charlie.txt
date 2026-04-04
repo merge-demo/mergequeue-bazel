@@ -9448,7 +9448,7 @@ cullises
 cheare
 cheat
 comprehensor
-cheatableness
+cheatableness 1
 cheated
 cubits 1
 characterisation
