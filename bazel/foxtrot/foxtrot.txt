@@ -8430,7 +8430,7 @@ fades 1
 formalist 1
 fallibilist 1
 flurr
-foreboded
+foreboded 1
 floweriness 3
 foppish
 forpine
