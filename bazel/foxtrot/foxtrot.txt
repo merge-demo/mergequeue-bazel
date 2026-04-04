@@ -7966,7 +7966,7 @@ freestones
 foreshow
 flatfoot 1
 fistulous
-flajolotite
+flajolotite 1
 flagrantly 2
 femic 1
 felicitousness
