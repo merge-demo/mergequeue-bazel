@@ -11967,7 +11967,7 @@ bolts
 bogmire
 borine
 baggit
-bedwarf
+bedwarf 1
 bogomilian
 bipack
 bogong
