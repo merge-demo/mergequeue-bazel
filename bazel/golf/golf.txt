@@ -3664,7 +3664,7 @@ gobline
 ghiblis 2
 guided 2
 geebung
-goths
+goths 1
 groinery 2
 glottides
 grisaille
