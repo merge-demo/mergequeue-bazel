@@ -8148,7 +8148,7 @@ flectionless
 foregate 1
 forthwith 1
 fretless
-ferberite
+ferberite 1
 fructuosity
 fossilology
 foretrace 1
