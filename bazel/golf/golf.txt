@@ -5780,7 +5780,7 @@ guzzler
 guyandot
 goldbird
 gestio
-goosecap
+goosecap 1
 groovers 1
 galacaceae
 gangways
