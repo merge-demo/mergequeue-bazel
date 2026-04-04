@@ -5775,7 +5775,7 @@ garbel
 gade 2
 graphites 2
 glycogenolysis
-goorals
+goorals 1
 guzzler
 guyandot
 goldbird
