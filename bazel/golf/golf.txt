@@ -1226,7 +1226,7 @@ gadded
 grocerymen 1
 gleetier 2
 gripiest
-gatewards
+gatewards 1
 grannybush 1
 goodeniaceae
 galavants
