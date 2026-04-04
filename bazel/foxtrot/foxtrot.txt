@@ -4846,7 +4846,7 @@ furnishing
 fodder
 foliums 1
 froebelism 1
-footfall
+footfall 1
 fustigate
 floor 2
 fickleness 1
