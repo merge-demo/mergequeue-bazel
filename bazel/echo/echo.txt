@@ -3719,7 +3719,7 @@ eweries 1
 embryotome
 exhalatory
 eeten
-exculpated
+exculpated 1
 ephemerons 1
 echelette 2
 exhaustivity 1
