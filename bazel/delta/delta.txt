@@ -9106,7 +9106,7 @@ defile
 doundake
 dryish 1
 didal
-didascalic
+didascalic 1
 dogface
 dobbing
 dormins
