@@ -2480,7 +2480,7 @@ certitude 1
 clang
 cacodemonic
 cassidony
-colloidally
+colloidally 1
 circumnatant
 candescence
 cabalists 1
