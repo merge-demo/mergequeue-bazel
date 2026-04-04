@@ -12106,7 +12106,7 @@ electromagnet
 emasculation
 embroche
 effervescing
-excruciable
+excruciable 1
 excruciated
 eudesmol
 enframement
