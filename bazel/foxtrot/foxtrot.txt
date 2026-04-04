@@ -1016,7 +1016,7 @@ fascicles
 filmgoing
 flexuose
 flatlong
-fumosity
+fumosity 1
 feverweed
 fretful
 federalese
