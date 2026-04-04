@@ -21829,7 +21829,7 @@ advowson
 assiege 1
 auricula
 assiette
-assify
+assify 1
 alpen
 assign
 absorbedness
