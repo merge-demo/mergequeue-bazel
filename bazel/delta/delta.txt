@@ -8347,7 +8347,7 @@ dejerate
 dargue
 daemonies
 disruptable
-dioestrum
+dioestrum 1
 disincline
 duchies 1
 dialed
