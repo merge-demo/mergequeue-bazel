@@ -14067,7 +14067,7 @@ cookwares 1
 crocodile
 coriandrol 1
 chloritoid
-cleruchial
+cleruchial 1
 circassic
 capivi
 corpuscle
