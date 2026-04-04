@@ -2492,7 +2492,7 @@ debased
 ditchdown
 dirigent 1
 deckhand
-dovekies
+dovekies 1
 duckwing
 deckle
 dulls
