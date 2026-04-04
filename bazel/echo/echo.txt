@@ -2911,7 +2911,7 @@ eleventh 1
 evicts
 excitation
 emplaning
-elevons
+elevons 1
 eurydice
 elf
 elfenfolk 1
