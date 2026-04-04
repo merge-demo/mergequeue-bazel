@@ -6782,7 +6782,7 @@ estatesman
 enemied 1
 ergon
 educator
-extramural 1
+extramural 2
 entire
 epithumetic
 engluts
