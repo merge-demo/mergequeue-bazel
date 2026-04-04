@@ -11117,7 +11117,7 @@ achromatized
 arca
 amperian
 amphistomum
-attenuation
+attenuation 1
 allotypically
 awakings
 antiorthodoxly 1
