@@ -15862,7 +15862,7 @@ dorsoscapular 2
 dozen
 dorsothoracic
 diablotin
-discoursed
+discoursed 1
 dialdehyde 1
 dismalize 1
 devilship
