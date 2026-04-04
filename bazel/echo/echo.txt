@@ -2637,7 +2637,7 @@ exempla
 electrophrenic
 electroplater
 electropower
-electropsychrometer
+electropsychrometer 1
 embodying 1
 evolvers
 excitably
