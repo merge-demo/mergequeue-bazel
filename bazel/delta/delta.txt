@@ -16159,7 +16159,7 @@ diminishments
 doo
 desecrate
 dovened
-deoxygenize
+deoxygenize 1
 drewite
 devisal 2
 dovening 1
