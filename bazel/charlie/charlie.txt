@@ -30842,7 +30842,7 @@ casco
 causus
 committable
 culmiferous
-culminal
+culminal 1
 culminate
 compounders
 cliqueiest 1
