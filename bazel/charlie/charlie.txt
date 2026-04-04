@@ -23017,7 +23017,7 @@ camels
 consomme
 consommes 1
 consonance
-consonancy 1
+consonancy 2
 consonant
 consonantal
 consonantalize
