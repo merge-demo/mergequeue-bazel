@@ -8963,7 +8963,7 @@ flywort
 fiacre
 footle
 feldspath
-feverwort
+feverwort 1
 favositoid 1
 formally
 fourier
