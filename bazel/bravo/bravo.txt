@@ -14127,7 +14127,7 @@ brachistocephalic 2
 boloed
 brass
 brachistochrone
-brachistochronous
+brachistochronous 1
 brachystomatous
 brachystomous
 bumblings 1
