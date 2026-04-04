@@ -6740,7 +6740,7 @@ date
 designatum
 designedly
 designedness
-detachability
+detachability 1
 delibate 1
 designment 1
 destitutely
