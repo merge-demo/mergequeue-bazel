@@ -5510,7 +5510,7 @@ fiddlies
 faroelite
 fleshliness 1
 faceteness
-fw
+fw 1
 flacker
 fleshmonger
 fcy 2
