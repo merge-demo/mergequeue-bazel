@@ -12846,7 +12846,7 @@ disme
 decast 1
 dipteran
 dismembrator
-doughfoots 1
+doughfoots 2
 deafish
 dualistically
 dysmenorrheal
