@@ -2314,7 +2314,7 @@ endosteum 1
 eval 1
 escalatory
 epidemiologist
-exterminations
+exterminations 1
 ensepulchre 2
 evangelicalness
 electrizable
