@@ -7581,7 +7581,7 @@ electrocapillarity
 equivalently
 equalling
 electrocoating 2
-extemporal
+extemporal 1
 epichondrosis 1
 epichordal
 etiologically
