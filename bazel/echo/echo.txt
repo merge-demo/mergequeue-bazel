@@ -6743,7 +6743,7 @@ etherate
 enthelminthic
 exungulate
 effume 1
-ectosomal
+ectosomal 1
 extratarsal
 esthesioneurosis
 exsuperate 1
