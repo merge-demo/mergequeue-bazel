@@ -10469,7 +10469,7 @@ bemaster
 brelaw
 blastemic 1
 bopyrid 1
-blaster
+blaster 1
 blastid
 blart
 blasting
