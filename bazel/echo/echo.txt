@@ -13741,7 +13741,7 @@ ententophil
 ectoenzym
 enzyme 1
 extinguished
-extinguisher
+extinguisher 1
 extinguishers
 entoptically
 ectoplasm 1
