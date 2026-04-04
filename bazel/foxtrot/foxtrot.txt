@@ -574,7 +574,7 @@ forjudger
 falloff
 flamier
 fdubs
-frequentative
+frequentative 1
 frappe 1
 feeblish 2
 funerate
