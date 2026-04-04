@@ -171,7 +171,7 @@ gag 1
 garoted
 glamour 2
 greyhen
-gorgoneion
+gorgoneion 1
 groggily
 goliathize
 goniometry 1
