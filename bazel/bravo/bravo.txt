@@ -10070,7 +10070,7 @@ bkg
 backsey 1
 bks
 bkt
-beflum
+beflum 1
 baboosh
 blaasop 1
 bedawee
