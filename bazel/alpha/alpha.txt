@@ -2213,7 +2213,7 @@ acrestaff
 archangel
 achromatization
 achromatize
-achromatocyte 2
+achromatocyte 3
 agarum
 arctalian 1
 awestruck 1
