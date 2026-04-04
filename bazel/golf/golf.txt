@@ -6367,7 +6367,7 @@ given
 getspace
 goldspink
 glimmered
-glucosone
+glucosone 1
 granolithic
 grouty
 geotectology
