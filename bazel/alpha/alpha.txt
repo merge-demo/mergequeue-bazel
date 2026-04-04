@@ -12924,7 +12924,7 @@ assertoric
 ascitb
 angouleme
 armored
-arcidae
+arcidae 1
 angraecum
 angriness
 angstroms 1
