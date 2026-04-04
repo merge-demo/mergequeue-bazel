@@ -4413,7 +4413,7 @@ encadre
 ender 1
 emphasised
 electrobioscopy
-endoparasite
+endoparasite 1
 environmentally 1
 encanthis 2
 expectorations 2
