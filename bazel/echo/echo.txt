@@ -1594,7 +1594,7 @@ enumerator
 eucaines
 eff
 estopped
-erogenetic
+erogenetic 1
 embay
 euphonetics 1
 enablers
