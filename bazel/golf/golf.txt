@@ -2694,7 +2694,7 @@ globoids
 geoteuthis
 genioglossus 1
 gelling
-genitocrural 1
+genitocrural 2
 grout 1
 gallooned
 gripingly
