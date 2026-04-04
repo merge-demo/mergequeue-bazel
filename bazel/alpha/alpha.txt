@@ -18940,7 +18940,7 @@ autocatheterism
 alibi
 adown
 anaerobies
-autoactive
+autoactive 1
 androginous
 archipin
 aguada 1
