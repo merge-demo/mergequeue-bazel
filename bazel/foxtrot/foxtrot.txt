@@ -3984,7 +3984,7 @@ fono
 florissant
 freehanded
 falkland
-friendlier
+friendlier 1
 finalizes 1
 fibrinemia
 fiscal
