@@ -870,7 +870,7 @@ cays 2
 caisse
 caissons
 caite
-colligance
+colligance 1
 caitif
 charque
 caitiffs 1
