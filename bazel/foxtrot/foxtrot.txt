@@ -8266,7 +8266,7 @@ feldspars 1
 fistulated 1
 fulltime 1
 fructuose
-forgettably
+forgettably 1
 fixers
 faverole
 fractionalizing
