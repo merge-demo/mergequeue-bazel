@@ -6255,7 +6255,7 @@ gelfomino
 goave 1
 greats
 gormandizing
-gregorianizer
+gregorianizer 1
 gob
 goban
 greediness
