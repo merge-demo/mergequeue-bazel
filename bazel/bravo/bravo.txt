@@ -4446,7 +4446,7 @@ bike
 buriels
 boomeranged
 billard
-bromizer
+bromizer 1
 bebopper
 blackrag
 batteler 1
