@@ -9607,7 +9607,7 @@ casklike
 cheepers
 cheepier
 cheepiest 1
-cheepiness
+cheepiness 1
 ceramidium
 cyathozooid
 cubiculary
