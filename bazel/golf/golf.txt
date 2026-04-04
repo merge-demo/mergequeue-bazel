@@ -789,7 +789,7 @@ goombay
 gastrospasm 1
 guamuchil
 graf
-gimlet
+gimlet 1
 gambade 1
 gravata
 garrotting
