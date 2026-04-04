@@ -14233,7 +14233,7 @@ deme
 dene
 drygoodsman
 dumbly
-disburses
+disburses 1
 disembargo
 ditchers
 deathwards
