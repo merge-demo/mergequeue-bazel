@@ -9003,7 +9003,7 @@ babelike 1
 besmuts
 biometries
 bion
-byon
+byon 1
 brasqued
 bionditional
 bionics
