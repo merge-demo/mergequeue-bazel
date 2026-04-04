@@ -1242,7 +1242,7 @@ generalizations
 groups 1
 goodship 1
 galligaskin 1
-groff
+groff 1
 gonorrhea
 gravures
 grogged
