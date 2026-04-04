@@ -6387,7 +6387,7 @@ eprouvette 1
 enshrined
 enshrinement 1
 embars
-enshrinements
+enshrinements 1
 endovaccination
 electrotyper
 ephebe
