@@ -1240,7 +1240,7 @@ gaufre
 glittered
 generalizations
 groups 1
-goodship
+goodship 1
 galligaskin 1
 groff
 gonorrhea
