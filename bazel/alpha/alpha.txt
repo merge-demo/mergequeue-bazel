@@ -19481,7 +19481,7 @@ astir
 abjure 1
 arglebargle
 arglebargled
-allie
+allie 1
 arglebargling
 argled
 arcubalister 1
