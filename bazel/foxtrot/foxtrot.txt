@@ -4262,7 +4262,7 @@ flaxbird
 fax
 foreignize
 feverish
-fungose
+fungose 1
 flatterers
 frenzying
 fission
