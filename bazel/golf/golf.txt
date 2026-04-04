@@ -3880,7 +3880,7 @@ graining
 guls 2
 groszy
 gels
-gaelicization
+gaelicization 1
 glumpy 1
 glazed 1
 gloweringly 1
