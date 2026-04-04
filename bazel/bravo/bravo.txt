@@ -9952,7 +9952,7 @@ blethering 1
 byelaw
 biland
 betrap
-bergerette
+bergerette 1
 basommatophora
 bultong
 bryum
