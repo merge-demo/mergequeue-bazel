@@ -8608,7 +8608,7 @@ eelpouts
 executor 1
 eleutheromania
 equidivision
-epigrammatising
+epigrammatising 1
 embouchures
 electrovital
 espavel
