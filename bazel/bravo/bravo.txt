@@ -5835,7 +5835,7 @@ baigneuse
 bengaline
 bellyful
 bestrews
-boor
+boor 1
 beadier
 barbermonger 1
 blacklisted
