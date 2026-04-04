@@ -9392,7 +9392,7 @@ fecal
 fileted
 facing
 fettler
-foxholes
+foxholes 1
 foreweigh
 flubbing
 fidgeter
