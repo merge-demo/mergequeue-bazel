@@ -4539,7 +4539,7 @@ antimythic
 arrogance
 amania
 arbutin
-accumulable
+accumulable 1
 adversities
 abranchial
 aliptes
