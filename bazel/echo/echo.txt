@@ -13552,7 +13552,7 @@ empanoply
 embroidery
 eateries
 exsibilation
-evadable
+evadable 1
 exsiccant
 exsiccatae
 elucidate
