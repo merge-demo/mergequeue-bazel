@@ -18045,7 +18045,7 @@ bifistular 1
 bradypod
 bustics
 barbeque
-banjoist
+banjoist 1
 bluely
 bugled 1
 busting
