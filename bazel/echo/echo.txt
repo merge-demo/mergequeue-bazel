@@ -12086,7 +12086,7 @@ endemisms 1
 excresence
 excreta
 escheator
-endued
+endued 1
 engulfs 1
 edentates
 expressor
