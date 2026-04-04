@@ -7708,7 +7708,7 @@ defuse
 darwinism
 devilfish
 decelerators
-devily
+devily 1
 detail
 deviling
 deeded
