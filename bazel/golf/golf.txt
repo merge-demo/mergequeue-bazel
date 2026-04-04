@@ -7217,7 +7217,7 @@ gorillalike
 gamesters 1
 grimliness 1
 gloze
-grater
+grater 1
 gonial
 gratin
 globosite
