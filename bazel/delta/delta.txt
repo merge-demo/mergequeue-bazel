@@ -1618,7 +1618,7 @@ drupelet
 daks
 doe
 dinginess
-doweled
+doweled 1
 diadrome
 derision
 disenrol 1
