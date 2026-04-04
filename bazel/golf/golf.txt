@@ -5299,7 +5299,7 @@ gossoons
 glyoxilin 1
 glacialism
 granitical
-graveling
+graveling 1
 geometries 1
 glycerin 1
 gamelan
