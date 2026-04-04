@@ -4962,7 +4962,7 @@ drabbletail
 deradenitis 1
 demote
 demoted
-demotes
+demotes 1
 disomus
 demotions
 deferent 2

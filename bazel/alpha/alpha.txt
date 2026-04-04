@@ -21108,7 +21108,7 @@ alfas
 aerobiont
 aclydes
 arkoses
-ascothoracica
+ascothoracica 1
 acritude 1
 aerographer
 ascribable
