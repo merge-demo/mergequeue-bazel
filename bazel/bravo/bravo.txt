@@ -3464,7 +3464,7 @@ barkpeeler
 boobook
 bugling
 bolloxed 2
-batable
+batable 1
 bespatter
 bernicia
 bracket
