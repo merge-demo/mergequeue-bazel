@@ -13649,7 +13649,7 @@ annuler 1
 anodontia
 allocable
 abys
-alliciency
+alliciency 1
 anodos 1
 annalia 2
 apprenticed 1
