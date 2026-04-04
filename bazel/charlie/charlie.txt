@@ -2205,7 +2205,7 @@ campimetry
 cordyline 1
 cornamute
 campo 2
-creedbound
+creedbound 1
 campodeoid 1
 campong 1
 campongs
