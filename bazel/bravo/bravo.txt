@@ -1104,7 +1104,7 @@ bordermark
 bioscience 3
 brownback
 bairnish
-bairnly
+bairnly 1
 branky
 barkstone 1
 bromines
