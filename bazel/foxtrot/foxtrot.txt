@@ -4921,7 +4921,7 @@ foamier 1
 fixate
 fossilist
 finisher
-floreat
+floreat 1
 forbearers
 fustianish
 frontosquamosal
