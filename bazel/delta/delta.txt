@@ -6717,7 +6717,7 @@ demikindred 1
 diacoustics
 desideration
 deoxidant
-desiderative
+desiderative 1
 drunkard
 disorderliness 1
 darnex
