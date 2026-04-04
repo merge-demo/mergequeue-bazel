@@ -6086,7 +6086,7 @@ gnats 1
 glutaeous
 gorbit
 guttie
-gibbled
+gibbled 1
 grisset
 gadroons
 grume
