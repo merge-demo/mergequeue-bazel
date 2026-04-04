@@ -12383,7 +12383,7 @@ beswarmed
 bombus 1
 bombardelle
 bomi
-bomos
+bomos 1
 beloveds
 bon
 backrope
