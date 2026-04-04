@@ -10820,7 +10820,7 @@ entrepots 1
 euonymy
 exochorda
 exsibilate
-echinid
+echinid 1
 extrusive
 enthralling
 extracultural
