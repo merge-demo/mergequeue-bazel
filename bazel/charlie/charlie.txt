@@ -1176,7 +1176,7 @@ compeer
 correlate
 calculational
 concaves
-calculator
+calculator 1
 calculatory 2
 calculators
 chorically
