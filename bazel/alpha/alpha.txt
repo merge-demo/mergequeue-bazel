@@ -17632,7 +17632,7 @@ antediluvial
 agouta
 apostlehood 1
 appestats 1
-appetence
+appetence 1
 automobilist
 aquotize 1
 appetibleness
