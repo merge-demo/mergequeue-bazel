@@ -10514,7 +10514,7 @@ depthless 2
 danging
 discorder
 derangeable
-delaminate
+delaminate 1
 divinize
 dihydrocupreine
 dipyrenous
