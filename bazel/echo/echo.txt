@@ -4608,7 +4608,7 @@ encheason 1
 enchequer
 ethnopsychic
 euphemism
-endosarcode
+endosarcode 1
 ethnolinguistics
 embryophagous
 eeriest
