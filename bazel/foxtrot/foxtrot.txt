@@ -35,7 +35,7 @@ fibrocyst
 fabricates 1
 fabricator
 formularize
-flintless
+flintless 1
 furies
 farmscape
 flick
