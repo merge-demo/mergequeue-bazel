@@ -4074,7 +4074,7 @@ felapton
 formants 1
 foppishness
 finitude 1
-flushable
+flushable 1
 fluking 1
 frijoles 1
 finitudes
