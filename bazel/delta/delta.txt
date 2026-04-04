@@ -1986,7 +1986,7 @@ dopant
 discostate
 debuted 1
 debuting 1
-desirable
+desirable 1
 diced
 dermatoma
 drover
