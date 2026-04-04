@@ -9757,7 +9757,7 @@ chelator
 chelerythrine
 collisions
 conjunctiva
-chelicer
+chelicer 1
 cysts
 chelide
 csardas
