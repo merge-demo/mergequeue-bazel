@@ -10994,7 +10994,7 @@ foreproffer
 foreweep 2
 fatlike
 furfurol
-fumblers
+fumblers 1
 feign
 fumbles
 fumblingness 1
