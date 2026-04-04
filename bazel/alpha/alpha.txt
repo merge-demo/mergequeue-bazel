@@ -8789,7 +8789,7 @@ aluminography
 allis
 aristocrat
 alliterate 2
-announceable
+announceable 1
 acescence
 atwind
 alcidae
