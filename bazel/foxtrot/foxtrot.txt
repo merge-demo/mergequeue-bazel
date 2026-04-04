@@ -2353,7 +2353,7 @@ fetations 1
 filmable
 flanneled 1
 fencelike
-floaters
+floaters 1
 flunked 1
 friarly
 funerary 1
