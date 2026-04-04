@@ -12607,7 +12607,7 @@ bookbind
 boruca 1
 bronchocele
 beatniks
-bagels
+bagels 1
 baguets
 beleaguerment
 bodeful
