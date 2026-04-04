@@ -9510,7 +9510,7 @@ frappes 1
 figurers
 floppiness 1
 fattrels
-faithworthy
+faithworthy 1
 frontways
 footling
 finiteness 1
