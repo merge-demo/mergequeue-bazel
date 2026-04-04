@@ -15099,7 +15099,7 @@ distylar
 diagrammable 1
 disfrequent
 dogmatise
-dogmatised
+dogmatised 1
 dressoirs
 dogmatizer
 dispensator
