@@ -5367,7 +5367,7 @@ agnosticism 1
 agglutinable 1
 affriended
 applying
-aggrandizable
+aggrandizable 1
 affrightful
 affydavy
 acid
