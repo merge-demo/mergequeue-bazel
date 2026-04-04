@@ -8664,7 +8664,7 @@ bimanous
 bradsot
 bodysurf 1
 bournless
-bimanually
+bimanually 1
 breechloading 1
 basaltes
 buttermouth
