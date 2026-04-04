@@ -12505,7 +12505,7 @@ colonists 1
 creakiest
 cattycorner
 chromoplast
-congelation
+congelation 1
 countergauger
 charmer
 coachmaking

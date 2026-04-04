@@ -638,7 +638,7 @@ bendable
 barfing
 bellwethers 1
 butchering
-boozed
+boozed 1
 bullnecks 2
 biramous
 bacterioscopy
