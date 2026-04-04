@@ -10231,7 +10231,7 @@ glaucous
 gowpin
 gweduck
 gobbet 1
-gunless
+gunless 1
 guillotinist 1
 glutaraldehyde 1
 ginzo
