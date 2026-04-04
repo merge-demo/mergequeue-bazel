@@ -6088,7 +6088,7 @@ bulbel 1
 bhd 1
 barricader
 bend
-bub
+bub 1
 bendee
 bullwhips
 beamier
