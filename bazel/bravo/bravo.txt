@@ -8574,7 +8574,7 @@ bellyfull 1
 bioactivity 1
 bronchial 2
 bailout
-belatedly
+belatedly 1
 beeswinged
 becowards
 billiards
