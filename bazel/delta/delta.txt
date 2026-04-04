@@ -9506,7 +9506,7 @@ digestory
 decide 1
 digesture 1
 dinarzade
-disapproval
+disapproval 1
 diggable
 digged
 deuterostome
