@@ -1707,7 +1707,7 @@ glyptodont
 gentries
 gastrophilite 1
 grandly
-gastrograph
+gastrograph 1
 gamebag
 gazetteerish
 gordioidea 1
