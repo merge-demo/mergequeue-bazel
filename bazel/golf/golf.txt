@@ -4782,7 +4782,7 @@ gotta 1
 gomeril
 galleta
 genarch 1
-glossematics
+glossematics 1
 glar
 gypsy 1
 givingness
