@@ -8631,7 +8631,7 @@ basins
 bilobe
 besiegingly
 bilobed 1
-bilocular
+bilocular 1
 biloculina 1
 braches
 bilophodont
