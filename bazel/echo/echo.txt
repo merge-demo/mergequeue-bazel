@@ -3922,7 +3922,7 @@ epiglottis
 endexine
 emissory
 emitting
-entamebas
+entamebas 1
 electropathic 1
 endocrinologies
 echocardiogram
