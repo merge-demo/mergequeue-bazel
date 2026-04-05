@@ -3748,7 +3748,7 @@ agones 1
 adhaka
 atticized
 advisership
-adhere
+adhere 1
 atticists
 adhered 1
 adherency
