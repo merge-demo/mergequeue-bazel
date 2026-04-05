@@ -9953,7 +9953,7 @@ frumentum
 flatlanders
 flanche
 frantic
-frigiddaria
+frigiddaria 1
 favor
 frigidly
 foundation 1
