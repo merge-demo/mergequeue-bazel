@@ -6616,7 +6616,7 @@ gentleship 1
 girlfriend
 glossary
 gangsterism
-glamourless 1
+glamourless 2
 grumphies
 glummy
 garous
