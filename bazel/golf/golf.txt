@@ -7657,7 +7657,7 @@ gunsmithery 2
 graded
 gorgonlike
 gool
-gnathometer
+gnathometer 1
 guachamaca
 germane
 geira
