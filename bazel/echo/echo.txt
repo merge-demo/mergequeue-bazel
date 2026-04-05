@@ -12611,7 +12611,7 @@ epistylis
 eustathian 1
 eyeserver 1
 exocrines
-emanative
+emanative 1
 estancieros
 epitonium 1
 ectethmoid
