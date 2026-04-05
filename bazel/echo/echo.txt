@@ -12191,7 +12191,7 @@ exeat
 epigraphs
 exec 1
 epiphonemas
-eudemonist
+eudemonist 1
 exacervation
 enserfs 1
 excogitation
