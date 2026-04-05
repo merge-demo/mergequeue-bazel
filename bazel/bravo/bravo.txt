@@ -2898,7 +2898,7 @@ broadcasts
 broadthroat
 biverbal
 beclatter 1
-bestride
+bestride 1
 badinage
 barrater
 barratries 1
