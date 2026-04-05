@@ -9641,7 +9641,7 @@ destructs
 derogatorily
 diplexer
 dissight
-dipoles
+dipoles 1
 dexterous 1
 dihydrostreptomycin
 dihydrotachysterol
