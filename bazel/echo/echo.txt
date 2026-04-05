@@ -1063,7 +1063,7 @@ edger
 edgeshot 1
 edgeway
 embalmment
-exterritorial
+exterritorial 1
 enshrouded
 embryonically 1
 edgrow
