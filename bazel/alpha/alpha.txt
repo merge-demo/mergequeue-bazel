@@ -21392,7 +21392,7 @@ anemochorous
 amitroles
 askip
 actiniohematin
-askos
+askos 1
 aslant
 aglethead
 aevum
