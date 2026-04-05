@@ -2665,7 +2665,7 @@ fittyways
 flamb 1
 fertile 1
 farcers
-falsely
+falsely 1
 fittonia
 fluoridating
 fertilise 1
