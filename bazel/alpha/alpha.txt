@@ -11689,7 +11689,7 @@ acrocentric
 anaerobion
 apocrisiary
 anaerobiont 1
-anaerobiosis
+anaerobiosis 1
 anaerobiotic
 anaerobium
 avanti
