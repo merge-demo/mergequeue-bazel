@@ -15953,7 +15953,7 @@ doth
 disorganize 1
 dipterist
 deglutination 1
-dl
+dl 1
 debacles
 dauntlessness
 dothideales
