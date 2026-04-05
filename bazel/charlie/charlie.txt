@@ -21973,7 +21973,7 @@ coxcombry 1
 confinable
 confine
 comports
-confined
+confined 1
 cadging
 confinedly
 confiners 1
