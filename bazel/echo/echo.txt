@@ -11374,7 +11374,7 @@ emanatively
 eathly 1
 epicureans
 equiparation
-evenness
+evenness 1
 endocrin
 exalters
 expensefulness 1
