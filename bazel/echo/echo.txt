@@ -7110,7 +7110,7 @@ epiplankton 1
 evadible 1
 extemporizing
 envaye
-explainability
+explainability 1
 episcenia
 excerpting
 envelope
