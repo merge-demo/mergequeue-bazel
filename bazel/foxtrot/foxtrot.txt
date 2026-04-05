@@ -3829,7 +3829,7 @@ filose 1
 ferrier
 furnitureless 1
 foreflap 1
-filterableness
+filterableness 1
 facette
 fairyism
 fluoridisation
