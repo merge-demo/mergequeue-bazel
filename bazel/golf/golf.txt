@@ -10835,7 +10835,7 @@ galga
 greengrocery 1
 greenbackism 1
 grayhead
-generality
+generality 1
 gyrofrequency
 genethlialogical 1
 gyrograph
