@@ -5474,7 +5474,7 @@ beatless
 behoved
 basting
 behoves
-behoving
+behoving 1
 battements 1
 basseted
 babbitts
