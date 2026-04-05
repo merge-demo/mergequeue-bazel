@@ -28805,7 +28805,7 @@ carline
 cresorcinol
 cryogenies
 ctg
-cresoxy
+cresoxy 1
 cresoxid 1
 carcinosarcomas
 cloyed
