@@ -1516,7 +1516,7 @@ genapping 1
 geratology 2
 gasman 1
 gillnet
-gasbags
+gasbags 1
 gasmen
 galenian 1
 germiest
