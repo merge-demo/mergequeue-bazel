@@ -1178,7 +1178,7 @@ educatability 1
 eident
 educatable
 educatedness
-electrolyzable
+electrolyzable 1
 eudiometric
 educates 1
 engrainedly 1
