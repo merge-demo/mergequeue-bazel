@@ -11698,7 +11698,7 @@ disjunction 1
 dyotheletian
 dele
 discouraged
-displeasureably
+displeasureably 1
 discouragingly
 daydreamlike
 dangerful
