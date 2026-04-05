@@ -1515,7 +1515,7 @@ grote
 genapping 1
 geratology 2
 gasman 1
-gillnet 1
+gillnet 2
 gasbags 1
 gasmen
 galenian 1
