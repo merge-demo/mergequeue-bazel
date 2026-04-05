@@ -6157,7 +6157,7 @@ gowiddie 1
 generalizing
 gyre 1
 grommet 1
-garters
+garters 1
 gadfly
 geelbec
 goa 1
