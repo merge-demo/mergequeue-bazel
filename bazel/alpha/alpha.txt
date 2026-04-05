@@ -1711,7 +1711,7 @@ aborter 1
 accurst
 authorisable
 actinotherapy
-aeroelastics
+aeroelastics 1
 animadvert 1
 aristocracies
 accusants
