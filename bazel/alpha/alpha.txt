@@ -22388,7 +22388,7 @@ asteriskless 1
 ans
 armourers
 anteriorness 1
-astrogony
+astrogony 1
 aspartyl
 abohm
 autoaspiration
