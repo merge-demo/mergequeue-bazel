@@ -8702,7 +8702,7 @@ equisetaceous
 epicondylar
 endothelia 2
 edgemaking
-enchain
+enchain 1
 erupting 1
 enamorate 2
 eradications
