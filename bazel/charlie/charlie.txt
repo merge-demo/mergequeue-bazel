@@ -2879,7 +2879,7 @@ canossa
 canotier
 canreply
 cubi
-cansful
+cansful 1
 coddled
 canso
 coetaneity
