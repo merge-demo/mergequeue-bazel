@@ -11636,7 +11636,7 @@ embordering
 epulosis 2
 economics 1
 ew
-exacerbatingly
+exacerbatingly 1
 etoiles 1
 expulses 1
 enddamaged 1
