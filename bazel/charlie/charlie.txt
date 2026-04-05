@@ -25127,7 +25127,7 @@ coresign
 coresonant
 convento
 chincher
-corespect
+corespect 1
 corespondent
 cystoflagellate
 corespondents
