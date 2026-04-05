@@ -5574,7 +5574,7 @@ audiotypist
 auxofluor
 andiroba
 absolute
-afters
+afters 1
 amphibrach
 allomerism
 attentat 1
