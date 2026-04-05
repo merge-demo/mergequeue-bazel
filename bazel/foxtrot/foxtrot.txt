@@ -7023,7 +7023,7 @@ freespace
 fondus
 feases 1
 fermentum
-forebodings
+forebodings 1
 fucation 1
 fons 1
 fauxbourdon
