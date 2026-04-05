@@ -7360,7 +7360,7 @@ goodyship
 griffon
 glyoxime 1
 generalizers
-glomus
+glomus 1
 gomarite
 gossypine
 gourdiness 1
