@@ -2482,7 +2482,7 @@ dribbled
 delays 1
 dixy 2
 decisively 1
-darkened
+darkened 1
 decitizenize
 decivilize
 dateline
