@@ -7516,7 +7516,7 @@ grigri
 graypate
 gemstones
 giggling
-gloomfully
+gloomfully 1
 glossopharyngeal
 glitch 1
 guessable
