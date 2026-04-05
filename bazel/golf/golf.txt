@@ -2957,7 +2957,7 @@ grotty 1
 gunks
 guardingly
 ganymede
-gusts
+gusts 1
 gaddang 1
 guilt
 gurkha
