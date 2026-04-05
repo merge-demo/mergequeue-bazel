@@ -6106,7 +6106,7 @@ diatheses 1
 decompound
 dizened
 deraigning
-divest
+divest 1
 dispirits 1
 derailing
 demiworld 1
