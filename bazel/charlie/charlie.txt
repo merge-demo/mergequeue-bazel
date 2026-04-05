@@ -11786,7 +11786,7 @@ colpohysterotomy
 chondrosin
 conopid
 chondrosis
-chondrostean
+chondrostean 1
 chondrostei 1
 cytosine
 coexecutrices
