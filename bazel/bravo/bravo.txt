@@ -15552,7 +15552,7 @@ brisances
 bination
 barometer
 beavers
-brewsterite
+brewsterite 1
 barbacan
 brises
 brisker
