@@ -18407,7 +18407,7 @@ bagwash 1
 buttonweed 1
 bwanas
 bombardmen
-banned
+banned 1
 bloodwort 1
 bxs
 bached 1
