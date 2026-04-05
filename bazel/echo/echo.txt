@@ -12141,7 +12141,7 @@ excellencies 1
 ejam 1
 eloper
 ebonite
-ensorcerize
+ensorcerize 1
 erpetologist
 eg 1
 eyelike
