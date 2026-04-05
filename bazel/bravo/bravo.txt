@@ -606,7 +606,7 @@ bacteriochlorophyll 1
 bacteriocin
 broomsticks 1
 bostangi
-bastiment
+bastiment 1
 bacteriodiagnosis
 bromates 1
 benomyls 1
