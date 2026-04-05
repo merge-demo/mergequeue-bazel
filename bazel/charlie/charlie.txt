@@ -20842,7 +20842,7 @@ cacocholia
 canst
 composer
 composita
-chromous
+chromous 1
 composite
 composited 1
 compositely 1
