@@ -8193,7 +8193,7 @@ gem
 grapes
 grapeskin
 goldurned
-galenical
+galenical 1
 grapestalk
 groomling 1
 galeodidae
