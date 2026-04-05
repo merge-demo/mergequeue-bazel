@@ -13371,7 +13371,7 @@ esthesiometry
 exsanguinity
 everydeal 1
 elytral
-expository
+expository 1
 enteropexia
 expositorial
 ephererist
