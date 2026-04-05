@@ -1792,7 +1792,7 @@ buzzy 1
 brimming 2
 beaconed
 beglads 1
-blancmanger
+blancmanger 1
 bemuse 1
 botanizer
 bananaland
