@@ -6609,7 +6609,7 @@ epodes 1
 episcopalians
 enterocyst
 ebonised
-etcher
+etcher 1
 entreating
 enterocleisis 1
 electrician
