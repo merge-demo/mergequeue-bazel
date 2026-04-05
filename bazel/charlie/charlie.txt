@@ -21964,7 +21964,7 @@ coexclusive 1
 clinohedrite
 configurating
 configuration
-configurationally
+configurationally 1
 configurations
 configurative
 configure
