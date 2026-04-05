@@ -8992,7 +8992,7 @@ discriminators
 diolefin
 disobeyers
 dicyclies
-disqualifies
+disqualifies 1
 dicyemata
 diarchies
 disconcerting
