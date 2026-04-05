@@ -17392,7 +17392,7 @@ decollimate
 dividual 1
 destool
 droppage 1
-diffraction 1
+diffraction 2
 decennia 1
 didascaly
 direction
