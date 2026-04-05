@@ -4524,7 +4524,7 @@ disinflated
 downdraught
 detroiter
 demigauntlet
-doting
+doting 1
 disclosing
 decussis
 dendrite
