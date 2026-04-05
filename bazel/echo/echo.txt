@@ -2420,7 +2420,7 @@ excusively
 epipetalous 1
 episcopalianize
 ensorcell
-events
+events 1
 entrail
 ecraseur
 emplection
