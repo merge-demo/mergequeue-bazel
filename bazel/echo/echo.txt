@@ -4801,7 +4801,7 @@ epiopticon
 excusatory 1
 endocarpic
 encode 1
-exitance
+exitance 1
 ensnarements
 encoding
 effectivity
