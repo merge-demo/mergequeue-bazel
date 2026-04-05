@@ -23172,7 +23172,7 @@ constitutiveness 1
 constitutor
 cassiri
 constr
-crucifixion
+crucifixion 1
 commence 1
 cellaring
 corticipetally
