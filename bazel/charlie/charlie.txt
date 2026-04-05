@@ -6803,7 +6803,7 @@ cella
 cellarage
 cellared 1
 chamoix
-cellaress
+cellaress 1
 chanceable
 caudal
 cellarmen 1
