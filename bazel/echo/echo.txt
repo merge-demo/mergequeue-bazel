@@ -674,7 +674,7 @@ entoparasitic 1
 epilogate
 eubasidii
 elmiest
-enhance
+enhance 1
 envier 1
 excide 1
 eclogic
