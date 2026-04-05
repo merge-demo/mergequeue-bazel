@@ -2610,7 +2610,7 @@ gunpapers
 gyrohorizon
 glaucine
 glamourization
-gesticular
+gesticular 1
 grisette
 gowf 1
 glossolabial
