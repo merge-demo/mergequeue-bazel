@@ -12997,7 +12997,7 @@ cyanobenzene
 crepitating
 clothify
 clough
-curpel
+curpel 1
 cyanochroia 1
 cyanocobalamin 1
 cyanocobalamine
