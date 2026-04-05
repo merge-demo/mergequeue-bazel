@@ -5477,7 +5477,7 @@ behoves
 behoving 1
 battements 1
 basseted
-babbitts
+babbitts 1
 behowled
 broken
 brouze
