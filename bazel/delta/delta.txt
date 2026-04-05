@@ -17845,7 +17845,7 @@ devoutless
 dismark
 denervate
 dabb
-desubstantialize
+desubstantialize 1
 dunst
 dezincing
 dudism
