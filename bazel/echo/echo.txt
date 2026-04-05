@@ -11,7 +11,7 @@ epidermoid 2
 erigeron
 evaporometer
 euchologion
-emigate
+emigate 1
 erosivity 1
 emblazon 1
 erythrophobia 1
