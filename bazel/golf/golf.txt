@@ -6621,7 +6621,7 @@ grumphies
 glummy
 garous
 granivorous
-glegnesses
+glegnesses 1
 gonaduct 2
 guiling
 gonalgia
