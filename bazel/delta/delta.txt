@@ -5820,7 +5820,7 @@ deformism 1
 deposito
 depositor
 daytime
-deleatur
+deleatur 1
 dichronous
 dishful 1
 dysraphia
