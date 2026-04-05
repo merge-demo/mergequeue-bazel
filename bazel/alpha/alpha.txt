@@ -3282,7 +3282,7 @@ authorcraft
 anticipator 1
 aedine
 arpanet
-additament
+additament 1
 acutilingual
 axal
 acutilobate
