@@ -6733,7 +6733,7 @@ emunge
 enuresis
 entertake
 exstimulate
-exhumed
+exhumed 1
 eonism
 exstill 1
 entete
