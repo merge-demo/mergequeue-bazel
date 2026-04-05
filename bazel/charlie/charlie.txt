@@ -5157,7 +5157,7 @@ caseolysis
 caseose
 caseous
 caserios
-cyphering
+cyphering 1
 caserne
 casernes
 costumery
