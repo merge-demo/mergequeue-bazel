@@ -14487,7 +14487,7 @@ comprisable
 checkrail
 cephaloplegic
 ciseaux
-courante
+courante 1
 cising
 cisium
 cisjurane
