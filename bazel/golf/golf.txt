@@ -8786,7 +8786,7 @@ gimballing 1
 gange 1
 golems
 greenswarded
-greenware 1
+greenware 2
 giveth
 greenwoods 1
 gospodar
