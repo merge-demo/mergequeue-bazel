@@ -15339,7 +15339,7 @@ acetopiperone
 autodecrements 1
 antispermotoxin
 amphicyon 1
-antihistaminic
+antihistaminic 1
 angiospermatous 1
 antidogmatism
 antipragmaticism
