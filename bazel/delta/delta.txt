@@ -1617,7 +1617,7 @@ dealate
 drupelet
 daks
 doe
-dinginess
+dinginess 1
 doweled 1
 diadrome
 derision
