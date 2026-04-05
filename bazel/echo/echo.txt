@@ -6557,7 +6557,7 @@ epaenetic
 entanglements 1
 extraplanetary
 egophonic
-entangles
+entangles 1
 empanel
 eatings
 entasis
