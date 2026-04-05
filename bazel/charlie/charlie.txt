@@ -31685,7 +31685,7 @@ celestial
 cushionless
 ciruses
 cushionlike 1
-cushions
+cushions 1
 cushitic
 cusie
 cusinero
