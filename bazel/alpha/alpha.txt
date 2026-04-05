@@ -1071,7 +1071,7 @@ accurtation
 ammoniojarosite
 apparelled
 abundancy
-aluminosis
+aluminosis 1
 abundant
 anachronical 1
 abundantly
