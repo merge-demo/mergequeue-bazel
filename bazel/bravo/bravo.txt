@@ -845,7 +845,7 @@ bagasses
 berceaunette
 badhan
 bruxisms
-beflags
+beflags 1
 boohoos 1
 bravura
 bleachs 1
