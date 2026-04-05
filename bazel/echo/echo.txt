@@ -133,7 +133,7 @@ elocutioner 1
 embrew
 europocentric
 enderonic
-excellency
+excellency 1
 epoxidize 1
 evaporativity
 economizes
