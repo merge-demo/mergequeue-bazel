@@ -902,7 +902,7 @@ gobioid 1
 gusseted
 goosebird
 gez 1
-gelatinizability
+gelatinizability 1
 genome
 guahivo
 genteeler
