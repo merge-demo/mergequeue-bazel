@@ -7880,7 +7880,7 @@ desmocyte
 dispenser 1
 dihydrogen
 dewberries
-dewcap
+dewcap 1
 disbudder
 devocalised 1
 driveways
