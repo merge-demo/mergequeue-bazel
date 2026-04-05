@@ -7640,7 +7640,7 @@ dealer
 deflocculation 2
 digamous
 didinium
-developer
+developer 1
 developes
 diswarn
 developing
