@@ -3353,7 +3353,7 @@ desisted
 duddery
 destiny
 domesticable
-dynamometry
+dynamometry 1
 datiscoside
 delaying
 distemperer
