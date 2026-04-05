@@ -19857,7 +19857,7 @@ attributives
 abhenries 1
 armiger
 aweto
-armigeros
+armigeros 1
 armigerous
 autotomized
 aimful
