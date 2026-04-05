@@ -5096,7 +5096,7 @@ griffins
 granza
 gastroptosia 2
 guilders 1
-gravery
+gravery 1
 glassmaking
 guerite 1
 glyc
