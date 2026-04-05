@@ -1020,7 +1020,7 @@ gnomons
 geophilous 1
 gymnure 1
 guttle 1
-glanduliferous
+glanduliferous 1
 gully
 geognostic
 geodetician
