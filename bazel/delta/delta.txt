@@ -8513,7 +8513,7 @@ disheritor 1
 dianite
 dianoetically
 decanormal
-dianoia
+dianoia 1
 dwarflike 3
 doings 1
 duvetines 1
