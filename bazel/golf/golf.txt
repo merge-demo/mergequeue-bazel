@@ -10775,7 +10775,7 @@ glycyl 1
 gutt
 gunny
 gerenuk
-ghole
+ghole 1
 genialness 1
 gonadectomy
 gammadia
