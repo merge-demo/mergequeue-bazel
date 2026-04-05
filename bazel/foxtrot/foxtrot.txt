@@ -11487,7 +11487,7 @@ furthest
 flittering 1
 firmity 1
 fiercened
-furtively
+furtively 1
 furud
 flamboyant
 flotant
