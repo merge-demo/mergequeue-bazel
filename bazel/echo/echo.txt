@@ -8143,7 +8143,7 @@ elvet
 engineered 1
 elaeosaccharum
 enclosers
-elutriation
+elutriation 1
 ebenales 1
 embowelment
 excursed
