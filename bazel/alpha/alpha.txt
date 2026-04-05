@@ -5607,7 +5607,7 @@ achromatium
 afterthought
 afterthoughts 1
 afterthrift
-apastron
+apastron 1
 armil
 anchoritically
 absorptivity
