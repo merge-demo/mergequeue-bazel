@@ -7956,7 +7956,7 @@ expounds 1
 epimanikion
 epimeres
 electrostenolysis
-epimerism
+epimerism 1
 enterolithiasis
 evangels
 epitomate
