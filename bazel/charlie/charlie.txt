@@ -15703,7 +15703,7 @@ cytologies
 clavicythetheria
 clavicittern
 contraction
-clavicle
+clavicle 1
 clavicles
 cannas
 clavicorn
