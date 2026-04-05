@@ -9984,7 +9984,7 @@ bulkin 1
 bizarrerie
 bield
 broody 2
-barbell
+barbell 1
 bn
 baroscopical 1
 bargainor
