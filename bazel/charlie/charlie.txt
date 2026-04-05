@@ -1708,7 +1708,7 @@ calotype
 cyclodiolefine
 calotypic
 calotypist
-crossbolt
+crossbolt 1
 congratulated
 cryptovalency
 cuddlier
