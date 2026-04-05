@@ -9625,7 +9625,7 @@ foamer
 frons 2
 freeloaded 1
 florate 1
-freemasonic
+freemasonic 1
 floriform
 freemasonical
 finitesimal
