@@ -2439,7 +2439,7 @@ equirotal 1
 electroencephalogram
 empeople
 entophytal
-espinel
+espinel 1
 euphausid
 epitaxial
 earthnut
