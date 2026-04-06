@@ -6718,7 +6718,7 @@ frounced
 fogo
 frescoists
 fighters 3
-feast
+feast 1
 forelegs
 fogon 1
 fogproof
