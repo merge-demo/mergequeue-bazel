@@ -2906,7 +2906,7 @@ flows 1
 fouettes
 floorcloth
 find
-febricide
+febricide 1
 fibrose 1
 fimbricate
 featuring 1
