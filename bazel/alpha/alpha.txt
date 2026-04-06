@@ -14076,7 +14076,7 @@ anaptychus
 antiroyalist
 araneids
 antedates
-antedating
+antedating 1
 angrier 1
 astur
 amphisbaenic
