@@ -8692,7 +8692,7 @@ endostyle
 epicoeliac
 epulotic 1
 equiprobably 1
-equiproportional 2
+equiproportional 3
 equiproportionality
 egocentrism
 eluate
