@@ -7171,7 +7171,7 @@ drawboring
 deerkill 1
 desulphurize
 depauperate
-depullulation
+depullulation 1
 diplospondylism
 doves
 dubbeltje
