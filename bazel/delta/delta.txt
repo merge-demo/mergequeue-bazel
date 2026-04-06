@@ -12406,7 +12406,7 @@ diplophyte 1
 dominate
 dishelms
 disher
-durability
+durability 1
 disherited
 divet
 defibrillator 1
