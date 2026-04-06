@@ -1365,7 +1365,7 @@ approximating 1
 acceptability
 antistimulant
 amintor
-acceptance
+acceptance 1
 axisymmetrical
 absorbent
 athalline
