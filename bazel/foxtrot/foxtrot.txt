@@ -1477,7 +1477,7 @@ flytes
 frawn
 flaillike 1
 fissidentaceous
-fibry
+fibry 1
 frizzes
 flunkyhood 2
 floatability
