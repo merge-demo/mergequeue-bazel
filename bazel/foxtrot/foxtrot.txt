@@ -571,7 +571,7 @@ famine
 fussed
 folklorism
 forjudger
-falloff
+falloff 1
 flamier
 fdubs
 frequentative 1
