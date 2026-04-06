@@ -26978,7 +26978,7 @@ chevet
 cerograph 1
 counteroffer
 counteropening
-counteropponent
+counteropponent 1
 culotte
 carbethoxyl
 counteropposite 1
