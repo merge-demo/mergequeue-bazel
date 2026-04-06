@@ -8782,7 +8782,7 @@ dialoguer
 deuterodome
 diazins 2
 dulcifying
-declarators
+declarators 1
 defeat
 defrocking
 dictaphone
