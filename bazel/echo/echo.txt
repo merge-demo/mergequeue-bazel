@@ -13510,7 +13510,7 @@ ectosteal 1
 examine
 elephantous 1
 erotology
-exteriorization
+exteriorization 1
 electrocauterization
 elbert 1
 earcap
