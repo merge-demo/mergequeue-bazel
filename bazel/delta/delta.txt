@@ -15841,7 +15841,7 @@ dayglow
 disfrancnise 2
 disaccredit
 distillers
-disprovable
+disprovable 1
 dhurry 1
 dorsolumbar
 deliberators
