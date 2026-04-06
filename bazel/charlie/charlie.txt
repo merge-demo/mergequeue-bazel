@@ -15077,7 +15077,7 @@ cumbent
 clabularium
 clach
 chlorogenine
-clack
+clack 1
 clackama
 circumtropical
 chinsed
