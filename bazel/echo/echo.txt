@@ -12176,7 +12176,7 @@ embergoose 1
 excuser
 elytron
 endpoint
-exposure
+exposure 1
 ellipse
 econometrical
 ethmoturbinate 1
