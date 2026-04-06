@@ -4475,7 +4475,7 @@ fazed 1
 fishponds 1
 fishtailed 1
 fibrilled 1
-fishpotter
+fishpotter 1
 finicism
 forerigging
 footstool
