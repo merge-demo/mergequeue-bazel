@@ -4642,7 +4642,7 @@ fanging
 frigidities 1
 formulations
 fireboard
-fluctuate
+fluctuate 1
 fossane
 fitzroya
 federatively
