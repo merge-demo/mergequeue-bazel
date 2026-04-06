@@ -11700,7 +11700,7 @@ dele
 discouraged
 displeasureably 1
 discouragingly
-daydreamlike
+daydreamlike 1
 dangerful
 diastasis 1
 discourses
