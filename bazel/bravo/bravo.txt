@@ -9052,7 +9052,7 @@ biopsy 1
 biopsic 2
 bailliage
 byssaceous
-bespice
+bespice 1
 benightmare
 biopsychological
 breunnerite
