@@ -7477,7 +7477,7 @@ gists
 geodesy 1
 gades 1
 gonorrhoea 1
-groundwater
+groundwater 1
 gazing
 gulpy
 gladiatory 1
