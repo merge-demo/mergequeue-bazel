@@ -21080,7 +21080,7 @@ amblygon
 ascogone
 abstinency 2
 antipleuritic
-adjournment
+adjournment 1
 anesthetizer 1
 alabama
 arvos
