@@ -10198,7 +10198,7 @@ blackies
 bottomlessness 1
 bemuslined 1
 benty
-bachelorwise
+bachelorwise 1
 blackjack
 bryaceous 2
 besague
