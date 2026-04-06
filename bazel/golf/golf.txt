@@ -71,7 +71,7 @@ gandum
 graftproof
 galliums
 grayish 1
-giddap
+giddap 1
 glowing 1
 graticule 1
 geotical
