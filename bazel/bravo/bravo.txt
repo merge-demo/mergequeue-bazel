@@ -3050,7 +3050,7 @@ bellows
 biobibliographical
 bdellostomatidae
 baruria 1
-barvel
+barvel 1
 baleful
 beduin
 brainwashing
