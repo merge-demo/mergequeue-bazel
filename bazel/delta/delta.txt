@@ -5160,7 +5160,7 @@ defer
 daughterlike
 deading
 dismastment
-densitometric
+densitometric 1
 deniably
 denial
 dentinoid 1
