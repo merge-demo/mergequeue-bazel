@@ -7830,7 +7830,7 @@ endlessness
 embolismic
 ebulliency 2
 eccentrate
-enterography
+enterography 1
 epiglottitis
 exsiccator
 elegiambic
