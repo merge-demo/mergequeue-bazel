@@ -9089,7 +9089,7 @@ gyres
 gease
 graveyards
 glaucomys 1
-glumal
+glumal 1
 glires
 gladiatorism 1
 goatherds
