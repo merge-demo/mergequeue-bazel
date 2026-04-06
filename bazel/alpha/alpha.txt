@@ -4214,7 +4214,7 @@ aphididae
 awakenings
 autogenous 1
 adoration
-adoratory
+adoratory 1
 agatelike
 adorer
 andhra 1
