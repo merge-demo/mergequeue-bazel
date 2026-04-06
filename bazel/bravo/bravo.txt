@@ -17625,7 +17625,7 @@ basote
 breath
 blay
 bunchflower
-burgoyne
+burgoyne 1
 burgomasters
 bullfighting
 burgomastership
