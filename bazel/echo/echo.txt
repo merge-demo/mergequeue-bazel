@@ -979,7 +979,7 @@ eastwards
 esoterics
 exhumes
 entera 2
-expanse
+expanse 1
 excavatory
 emasculating
 enthymematic
