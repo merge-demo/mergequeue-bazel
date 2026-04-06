@@ -17549,7 +17549,7 @@ cohoshes
 colloid
 coccaceous
 coccal
-conducible
+conducible 1
 coccerin
 corr
 coccic 1
