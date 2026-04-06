@@ -3357,7 +3357,7 @@ foilsmen
 floorers 1
 frowsiest 1
 flotsam
-fluorescer
+fluorescer 1
 fulmined
 foreheaded
 forjaskit
