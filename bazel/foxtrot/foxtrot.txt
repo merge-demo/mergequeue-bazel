@@ -3557,7 +3557,7 @@ fishfall
 flagrancy
 frowziness 1
 fath
-flaggelating
+flaggelating 1
 filaments
 fistule
 flexibility
