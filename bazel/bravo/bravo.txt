@@ -9076,7 +9076,7 @@ bestrows
 befits
 blankminded 2
 buzzwigs
-boylikeness
+boylikeness 1
 bioscopy 1
 bioscopic 1
 bioastronautical
