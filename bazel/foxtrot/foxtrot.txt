@@ -9845,7 +9845,7 @@ footcloths 1
 fluellen 2
 foredestine
 foxily
-funnelform
+funnelform 1
 fibrosarcoma
 flexanimous 1
 flexibleness
