@@ -1743,7 +1743,7 @@ deathless
 decad
 decumaria
 deathlessness
-deathlikeness
+deathlikeness 1
 dundees 1
 deathliness
 deathrates
