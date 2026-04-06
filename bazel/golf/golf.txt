@@ -7321,7 +7321,7 @@ genys
 gaseity
 grizzles
 gymnasisiums
-gospels
+gospels 1
 greatcoats
 gustative
 gossard 1
