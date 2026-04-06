@@ -16402,7 +16402,7 @@ conditivia
 cochleare
 cliv 2
 cliver
-clivers
+clivers 1
 clivis
 clivus
 clk
