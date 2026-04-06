@@ -6489,7 +6489,7 @@ cavey
 chromoscope
 cavekeeper
 cavelet 1
-confiner
+confiner 1
 cambodia
 cavelike
 cavemen
