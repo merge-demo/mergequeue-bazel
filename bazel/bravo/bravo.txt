@@ -5110,7 +5110,7 @@ biquadrantal 1
 balanites
 beflannel
 bureaucrat
-beflap
+beflap 1
 beflea
 brainier 1
 belching
