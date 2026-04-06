@@ -11080,7 +11080,7 @@ falconet 1
 flangeless 2
 fracturs
 forbidder
-foreknowableness
+foreknowableness 1
 functionation
 fane 1
 factfinder
