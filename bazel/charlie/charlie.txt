@@ -27483,7 +27483,7 @@ coriander
 corallike
 covalent
 campephilus
-covalently
+covalently 1
 conquedle
 columbella
 carnaubic 1
