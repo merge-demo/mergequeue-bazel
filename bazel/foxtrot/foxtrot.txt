@@ -7750,7 +7750,7 @@ fanfaronade 1
 flower
 flanes
 firearms 1
-foremast
+foremast 1
 fritters
 fidicula
 franciscanism
