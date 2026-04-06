@@ -9628,7 +9628,7 @@ disfunctions
 dupers 1
 dihydrochloride
 draconin
-duplicable
+duplicable 1
 devastations
 decolourizer 2
 dishonestly
