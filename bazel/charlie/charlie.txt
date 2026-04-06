@@ -1563,7 +1563,7 @@ cenotaphic
 communising 1
 chemostat
 callisto
-callithrix
+callithrix 1
 collegiant
 corruptibilities
 callithumpian
