@@ -8557,7 +8557,7 @@ glutton
 gravida 2
 gynecomasty
 garcons
-ganoidal
+ganoidal 1
 gitana
 grandada
 glasslike
