@@ -17921,7 +17921,7 @@ coef 1
 chromosphere
 contractibility
 coeff
-coefficients
+coefficients 1
 coelacanth
 coelacanthidae
 coelacanthous
