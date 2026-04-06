@@ -25029,7 +25029,7 @@ cordobas
 cordon
 cordonazos
 consarn
-chlorargyrite
+chlorargyrite 1
 circumstantiates
 cordoned
 cordoning
