@@ -3962,7 +3962,7 @@ androgyny
 adjutant
 anesthetic
 adjutator
-adjute
+adjute 1
 aqueity
 apologer
 adjutrice 2
