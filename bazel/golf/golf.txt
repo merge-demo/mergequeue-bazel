@@ -6728,7 +6728,7 @@ gride
 graphitic
 gigs 1
 gastronephritis
-gonidic
+gonidic 1
 genes
 gauges
 gyrostats 1
