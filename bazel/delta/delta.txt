@@ -5498,7 +5498,7 @@ deoxidize
 doryphoros
 deoxygenated
 depaints
-divestitures
+divestitures 1
 dilatation
 deoxyribonucleotide
 disportive
