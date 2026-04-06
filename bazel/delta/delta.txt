@@ -7388,7 +7388,7 @@ demiadult
 detonating 1
 decenyl
 detonation
-disowned
+disowned 1
 detonations
 dusking
 demean
