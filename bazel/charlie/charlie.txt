@@ -20592,7 +20592,7 @@ congreve 3
 competitive
 competitiveness
 competitor
-competitory
+competitory 1
 conjugal
 cascol
 competitors
