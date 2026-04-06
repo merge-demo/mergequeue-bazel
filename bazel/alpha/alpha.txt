@@ -5264,7 +5264,7 @@ anapophysial
 ammonifier
 affine
 anteporch
-amidist
+amidist 1
 antiatheistically
 affined
 affinely
