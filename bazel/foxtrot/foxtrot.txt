@@ -10725,7 +10725,7 @@ frumps
 foldboat 1
 forcedly
 fimbria
-fuder
+fuder 1
 frustrating 1
 fairing
 fingerless
