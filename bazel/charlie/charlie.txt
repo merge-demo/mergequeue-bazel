@@ -9721,7 +9721,7 @@ cimex
 chromotype
 cheiranthus
 cheirogaleus
-cheirography
+cheirography 1
 cheirolin
 cymbal
 cheirology
