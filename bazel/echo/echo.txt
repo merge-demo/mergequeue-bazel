@@ -2831,7 +2831,7 @@ externalness 1
 eater
 epiclesis
 eleoptene
-embden
+embden 1
 endomastoiditis 1
 erratuta
 exostracize
