@@ -3607,7 +3607,7 @@ floorway
 files
 fiddle
 filesniff
-freijo
+freijo 1
 fazing
 foreroom
 floatboard 1
