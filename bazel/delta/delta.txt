@@ -15310,7 +15310,7 @@ diffuse
 diasporas
 dolphin
 dirling
-diospyros
+diospyros 1
 dolphinfish
 dolphinlike
 decadescent
