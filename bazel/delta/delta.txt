@@ -1289,7 +1289,7 @@ disking
 datsuns 1
 disband
 demigardebras
-dissyllabize
+dissyllabize 1
 dentition
 dysodyle
 doitrified
