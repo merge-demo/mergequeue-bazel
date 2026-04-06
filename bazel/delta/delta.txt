@@ -4882,7 +4882,7 @@ demonizes
 demandative
 demonizing
 drame
-dailies
+dailies 1
 detecting
 demonography
 demonographies 2
