@@ -18172,7 +18172,7 @@ cutset
 coesites
 coessential 1
 conversional 1
-convivialist
+convivialist 1
 carburize
 coglorious
 commencements

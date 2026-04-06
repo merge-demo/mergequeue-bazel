@@ -9810,7 +9810,7 @@ disenfranchise
 diggings
 dills
 delusiveness
-dillseed
+dillseed 1
 deputations
 dimetria
 decarbonised
