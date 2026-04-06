@@ -14446,7 +14446,7 @@ anthramine
 aphesis
 anthranyl
 afterswarming 1
-adrue
+adrue 1
 anthranilic
 anthranol
 atechny
