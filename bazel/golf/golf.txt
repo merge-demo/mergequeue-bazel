@@ -8294,7 +8294,7 @@ gruff 1
 gentians
 grapples
 grappling
-germanish
+germanish 1
 graptolitha
 gheraoed 1
 gibers 1
