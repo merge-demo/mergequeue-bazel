@@ -2881,7 +2881,7 @@ canreply
 cubi
 cansful 1
 coddled
-canso
+canso 1
 coetaneity
 cansos
 chartophylaxes
