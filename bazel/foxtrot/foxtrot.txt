@@ -4969,7 +4969,7 @@ flamy
 fan 2
 facepiece 1
 floorages 1
-flamingant
+flamingant 1
 flong
 foremarch
 flaminical 2
