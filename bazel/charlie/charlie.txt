@@ -16555,7 +16555,7 @@ carburization
 cantish 1
 capsules
 cloisterwise
-cloistral
+cloistral 1
 concoagulation
 cloit
 chamisos
