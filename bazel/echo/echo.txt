@@ -12801,7 +12801,7 @@ exines
 extensional
 exostosis 1
 exarchist
-exostra
+exostra 1
 ebullition
 engraves 1
 elementary
