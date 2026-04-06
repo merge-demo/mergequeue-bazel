@@ -19062,7 +19062,7 @@ callable
 camb
 colliflower
 cruset
-colligate
+colligate 1
 colligating
 cookbook
 cecropia
