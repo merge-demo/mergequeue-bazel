@@ -4401,7 +4401,7 @@ drawk
 demeanor
 doit 2
 disallowableness
-disembark
+disembark 1
 demeanored
 dissidents
 diphtheritis 1
