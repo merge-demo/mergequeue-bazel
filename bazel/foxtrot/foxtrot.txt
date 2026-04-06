@@ -3518,7 +3518,7 @@ fleches
 falcones
 fastigiate
 futtock
-fulgorid
+fulgorid 1
 fusicladium
 figurer
 fute
