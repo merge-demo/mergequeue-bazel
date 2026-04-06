@@ -5452,7 +5452,7 @@ elfishly
 egretta 1
 easterly
 enfirm
-eaglelike
+eaglelike 1
 esthetology
 endure
 endurer 1
