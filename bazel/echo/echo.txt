@@ -8706,7 +8706,7 @@ enchain 1
 erupting 1
 enamorate 2
 eradications
-enjoyed
+enjoyed 1
 esthesiogenic
 elastometry
 enhallow
