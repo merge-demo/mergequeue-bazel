@@ -18441,7 +18441,7 @@ arbalists
 adventry 1
 abrenunciation
 arbela
-adeline
+adeline 1
 aliyas
 antipendium
 antitussive
