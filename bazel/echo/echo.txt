@@ -1172,7 +1172,7 @@ expectancies
 edriophthalmatous
 extramental 1
 educand 1
-emulsive
+emulsive 1
 evanished
 educatability 1
 eident
