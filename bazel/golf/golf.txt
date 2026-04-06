@@ -447,7 +447,7 @@ gloominess 1
 galei
 gynecotelic
 glandlike
-garliclike
+garliclike 1
 gloating
 graphologic
 gaping
