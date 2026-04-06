@@ -7824,7 +7824,7 @@ empirical
 endopoditic 1
 equivocators 1
 extrudes
-exorcization
+exorcization 1
 examinership
 endlessness
 embolismic
