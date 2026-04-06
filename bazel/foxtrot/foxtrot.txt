@@ -8651,7 +8651,7 @@ farstepped
 furthering
 frigidness
 frictionproof 1
-faintest 1
+faintest 2
 footing 1
 forspoke 1
 fellatory
