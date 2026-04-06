@@ -5664,7 +5664,7 @@ diopsidic
 depigmentate
 depigmentation
 depigmentize
-dissidence
+dissidence 1
 devilized
 dynamite 1
 distracts 1
