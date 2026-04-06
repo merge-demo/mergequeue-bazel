@@ -2974,7 +2974,7 @@ graben
 glutinousness 1
 geyseric
 gastrotheca
-glitterance
+glitterance 1
 geogeny
 gerara 1
 gullability
