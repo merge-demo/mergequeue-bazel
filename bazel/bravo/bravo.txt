@@ -8807,7 +8807,7 @@ battel
 backstrap
 bepill
 binocularly
-binoculars
+binoculars 1
 binodose
 buckbean
 bari
