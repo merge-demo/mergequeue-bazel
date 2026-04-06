@@ -6158,7 +6158,7 @@ ferrums
 fuses 1
 fewness
 fcp
-fewneses
+fewneses 1
 farrieries
 fabella 1
 flowcharted 1
