@@ -15033,7 +15033,7 @@ diphthongising
 disrout
 durnedest 1
 decided 1
-deformer
+deformer 1
 doggerelling 1
 deposals
 disbutton
