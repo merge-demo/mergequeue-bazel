@@ -14037,7 +14037,7 @@ damonico
 distressed 1
 denominable 2
 distressing
-deglamorization
+deglamorization 1
 distressingly
 devast
 dockyardman
