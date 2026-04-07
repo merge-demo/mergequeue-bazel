@@ -6421,7 +6421,7 @@ guam
 gamboges 1
 galuth
 gaine 2
-glucocorticord
+glucocorticord 1
 grotto
 grasswidowhood
 goitrogenic 2
