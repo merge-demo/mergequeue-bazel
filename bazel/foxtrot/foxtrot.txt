@@ -8068,7 +8068,7 @@ facetting 2
 folial 1
 forestful 1
 freezes
-frigger
+frigger 1
 forestial 1
 forepost
 fessing
