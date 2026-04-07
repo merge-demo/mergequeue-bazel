@@ -890,7 +890,7 @@ elusiveness 1
 enucleation 1
 endore
 evilspeaker
-encourager
+encourager 1
 ectoproctous
 enteroptosis
 engineery
