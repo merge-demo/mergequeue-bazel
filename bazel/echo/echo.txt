@@ -2349,7 +2349,7 @@ epistroma 1
 electrocardiogram 1
 enclear
 ever
-electrocardiographic
+electrocardiographic 1
 euphuistic
 explorational
 entocele
