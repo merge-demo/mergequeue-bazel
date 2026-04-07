@@ -1866,7 +1866,7 @@ gunfighting 2
 gulinulae
 gateposts 3
 gatewaying 1
-gatetender
+gatetender 1
 gawain 1
 ghibellinism 1
 gallonage
