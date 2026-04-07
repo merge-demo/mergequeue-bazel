@@ -6257,7 +6257,7 @@ enforcedly 1
 egrid
 eardrops
 endamaged
-eidology
+eidology 1
 enplane 3
 electromotor
 ecorticate
