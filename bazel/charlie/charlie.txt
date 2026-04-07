@@ -11067,7 +11067,7 @@ cyclicly
 coalize
 chitimacha
 chitimachan
-checksums
+checksums 1
 coappears
 chitinoid
 chitinous
