@@ -15394,7 +15394,7 @@ benzylidene
 brighid 1
 boisseau 2
 bannerlike 1
-brighten
+brighten 1
 becket 1
 brainwork
 brightish 1
