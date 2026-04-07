@@ -10607,7 +10607,7 @@ bursts
 blazes
 blazy
 borzois
-bridgeheads
+bridgeheads 1
 brahmanhood
 bicepses 2
 blusterous
