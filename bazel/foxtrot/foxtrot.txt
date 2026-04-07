@@ -5577,7 +5577,7 @@ fiendlike
 flaxlike
 folkvangr
 flockowner 1
-fossicking 1
+fossicking 2
 firefight
 forgette
 fader 1
