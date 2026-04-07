@@ -3036,7 +3036,7 @@ cantraps 1
 chares
 curlyheads
 capitonidae
-centrales
+centrales 1
 cantrip
 cantus
 cantuta
