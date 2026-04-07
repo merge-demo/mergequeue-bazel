@@ -8030,7 +8030,7 @@ forestalling
 forestalls 1
 funerals 2
 flutterer
-fundraise
+fundraise 1
 fitment
 fimble
 faroese
