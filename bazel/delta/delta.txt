@@ -6125,7 +6125,7 @@ dimission
 durgen
 deckedout
 derated
-diphtheroid 1
+diphtheroid 2
 derater
 dijudicant
 disilane
