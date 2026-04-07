@@ -10678,7 +10678,7 @@ draws
 derivable
 declinometer
 downstreet 1
-dogman
+dogman 1
 digoxin
 derationalize 1
 dreadlessness
