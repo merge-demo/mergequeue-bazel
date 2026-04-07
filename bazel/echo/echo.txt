@@ -6826,7 +6826,7 @@ entoils
 entom
 extender
 episternalia
-evocativeness
+evocativeness 1
 eumenes
 ectosarcs
 elix
