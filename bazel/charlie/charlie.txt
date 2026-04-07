@@ -11581,7 +11581,7 @@ christophany
 cholecystnephrostomy
 cupellation
 cholecystocolostomy
-cognisability
+cognisability 1
 colonialization 1
 cholecystogastrostomy 1
 cholecystogram
