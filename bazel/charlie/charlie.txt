@@ -3505,7 +3505,7 @@ countershaft 1
 chappow
 capsuliferous
 coldcock
-cheloniid
+cheloniid 1
 capsuliform 1
 coverup
 capsuling 1
