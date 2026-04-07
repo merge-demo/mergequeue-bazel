@@ -16345,7 +16345,7 @@ discontinuable
 dichord
 dovetails
 daylight
-downslide 1
+downslide 2
 describent
 downslip
 decibel
