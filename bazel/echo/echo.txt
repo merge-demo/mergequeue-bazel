@@ -9708,7 +9708,7 @@ epistomata
 embargo 1
 erethism
 empyrical 2
-envapor
+envapor 1
 essayed
 extraorganismal
 exceptional
