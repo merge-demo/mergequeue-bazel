@@ -11504,7 +11504,7 @@ emenders
 endocrinous 1
 exsecant 1
 exoergic 1
-echinopanax
+echinopanax 1
 exhibited 1
 expended
 electromyogram
