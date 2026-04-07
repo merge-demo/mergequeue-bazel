@@ -18038,7 +18038,7 @@ dolerite
 dilemmatically 1
 downhills
 decreed
-delves
+delves 1
 dullbrained 2
 donna
 dauted 1
