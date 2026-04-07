@@ -18396,7 +18396,7 @@ automen
 apostrophizes
 arleng
 advises
-actinism
+actinism 1
 almonds
 arase
 amylosis
