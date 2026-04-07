@@ -3982,7 +3982,7 @@ fingerers
 feed
 fono
 florissant
-freehanded
+freehanded 1
 falkland
 friendlier 1
 finalizes 1
