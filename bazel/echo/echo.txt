@@ -1759,7 +1759,7 @@ eyepiece 2
 enrapturer
 everard
 extg
-embattle
+embattle 1
 emule 1
 exhbn 1
 epigraphic 2
