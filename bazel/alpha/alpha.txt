@@ -10362,7 +10362,7 @@ antihemoglobin 2
 academician
 aethers
 americanisms
-americanistic
+americanistic 1
 alhagi
 aftertax 1
 astigmatizer
