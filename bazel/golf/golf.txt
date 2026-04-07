@@ -2483,7 +2483,7 @@ geoisotherm
 greekish 1
 grief 1
 geodynamic
-glandules
+glandules 1
 goading
 grassing
 grewia 1
