@@ -3071,7 +3071,7 @@ antiamusement 1
 actinon
 antimaterialistic
 actinonema
-autacoid
+autacoid 1
 amphibolia
 aswing
 allantoinuria
