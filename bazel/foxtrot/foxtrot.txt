@@ -4115,7 +4115,7 @@ frostation
 fergusonite
 featherbrain
 fattable
-fanterie
+fanterie 1
 formal 1
 fatalness
 fissipedal
