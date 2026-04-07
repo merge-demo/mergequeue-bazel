@@ -3212,7 +3212,7 @@ fiches 1
 findjan 1
 feracious
 fusilade
-foredetermination
+foredetermination 1
 flutterers 1
 flavourer
 flotages
