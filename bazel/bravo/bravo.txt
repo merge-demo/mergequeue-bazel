@@ -3906,7 +3906,7 @@ bint
 brockage
 bazooka
 blunge
-buckishly
+buckishly 1
 bamboos
 bbs
 bassly
