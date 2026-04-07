@@ -3517,7 +3517,7 @@ batete
 brabbling
 balotade
 blue
-batfishes
+batfishes 1
 biri
 batfowl 2
 batfowled 1
