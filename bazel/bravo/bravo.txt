@@ -4032,7 +4032,7 @@ barms
 beakless
 beaks
 beala 1
-burglarproofing
+burglarproofing 1
 buchu 1
 bom
 butled
