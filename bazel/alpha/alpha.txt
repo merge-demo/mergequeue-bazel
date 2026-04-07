@@ -25086,7 +25086,7 @@ annual
 antisolar 1
 ausforms
 advanceable
-antiastronomical
+antiastronomical 1
 atwirl
 accusativeness
 autochronograph 2
