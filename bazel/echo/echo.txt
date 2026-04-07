@@ -1765,7 +1765,7 @@ exhbn 1
 epigraphic 2
 eutony
 eyes
-ewhow
+ewhow 1
 encasing
 eyeseed
 entophytically
