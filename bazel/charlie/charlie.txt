@@ -6772,7 +6772,7 @@ celestitude 1
 clivias
 celiadelphus
 celibacy
-costard
+costard 1
 celibatic
 conducent
 coroun 1
