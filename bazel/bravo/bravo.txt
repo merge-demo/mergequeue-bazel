@@ -17948,7 +17948,7 @@ belga
 bushwack
 bonewood
 bathybic
-bostrychid
+bostrychid 1
 baryta
 bushwahs
 basemen
