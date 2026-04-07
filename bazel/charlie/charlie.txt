@@ -7254,7 +7254,7 @@ centrosymmetrical 1
 centrosoyus 1
 centrosphere
 crevassed
-cylinderer
+cylinderer 1
 cancrizans 1
 centum 1
 colorcaster
