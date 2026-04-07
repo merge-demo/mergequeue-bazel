@@ -9993,7 +9993,7 @@ beblear
 bedfast
 breeched
 bivocal 2
-bossism
+bossism 1
 bivocalized 1
 bombings 1
 buffos
