@@ -16142,7 +16142,7 @@ dousing
 dout
 desorbing
 decrypted
-dualist
+dualist 1
 douziemes 1
 dysmeromorphic 1
 dovecot
