@@ -6160,7 +6160,7 @@ grommet 1
 garters 1
 gadfly
 geelbec
-goa 1
+goa 2
 gadsbud
 gauche
 goadsman
