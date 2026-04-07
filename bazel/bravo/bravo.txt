@@ -664,7 +664,7 @@ briars
 barren 1
 brioche
 bicorne
-bombo
+bombo 1
 bungey
 biannual
 begall
