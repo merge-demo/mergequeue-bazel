@@ -703,7 +703,7 @@ ecraseurs 1
 esocyclic 1
 ened
 ecology 2
-eromania
+eromania 1
 encephalolith 2
 employing
 enspell
