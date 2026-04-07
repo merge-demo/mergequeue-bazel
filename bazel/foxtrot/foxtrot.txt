@@ -3719,7 +3719,7 @@ flavorlessness
 featherers
 frail 1
 feodal 1
-frousiest
+frousiest 1
 facebread
 fillies 1
 feetless
