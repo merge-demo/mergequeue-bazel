@@ -1890,7 +1890,7 @@ faradizing
 frs 1
 fraidycat
 flybrush
-fishable
+fishable 1
 fingerflower
 fontanelle
 fumbling 1
