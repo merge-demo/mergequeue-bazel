@@ -157,7 +157,7 @@ envoys 1
 exorcise 1
 expired 1
 effervescent
-erotopath
+erotopath 1
 enunciations
 earthly
 enriched
