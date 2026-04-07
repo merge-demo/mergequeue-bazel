@@ -8654,7 +8654,7 @@ frictionproof 1
 faintest 2
 footing 1
 forspoke 1
-fellatory
+fellatory 1
 flaunt
 flawed 2
 fillebeg 1
