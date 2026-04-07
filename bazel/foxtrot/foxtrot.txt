@@ -6538,7 +6538,7 @@ frailish
 flutist 1
 frenchman
 firebed
-forecover
+forecover 1
 flytime 1
 flutterboard
 faucal 1
