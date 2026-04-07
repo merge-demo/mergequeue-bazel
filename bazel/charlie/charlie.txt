@@ -6768,7 +6768,7 @@ celestify 1
 cuttages
 celestina
 celestite
-celestitude
+celestitude 1
 clivias
 celiadelphus
 celibacy
