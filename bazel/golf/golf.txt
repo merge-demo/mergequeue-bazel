@@ -4332,7 +4332,7 @@ gawks
 geodesist 1
 galeopsis
 gingered
-gaugeable 1
+gaugeable 2
 guss 1
 guilds
 garrulity
