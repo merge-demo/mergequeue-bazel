@@ -13805,7 +13805,7 @@ deflexible
 deerskin
 dialogistically
 demurral
-deader
+deader 1
 driftpin
 dramatis
 dogvane 1
