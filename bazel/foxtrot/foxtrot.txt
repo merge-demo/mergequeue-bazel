@@ -1202,7 +1202,7 @@ fascistization
 foxproof
 fountainlike 1
 fleckled
-fleckiness
+fleckiness 1
 figury
 feinted 1
 fash
