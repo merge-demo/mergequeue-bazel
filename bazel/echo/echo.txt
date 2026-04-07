@@ -5119,7 +5119,7 @@ elatha
 endocyst
 epodic
 enucleate
-experted
+experted 1
 extraditions
 eclogites 1
 eardrums
