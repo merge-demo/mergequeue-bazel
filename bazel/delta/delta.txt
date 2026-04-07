@@ -1235,7 +1235,7 @@ daystars
 datebook 2
 dilacerated
 doucine
-dibstones
+dibstones 1
 drivehead 1
 disembarkation
 defecating
