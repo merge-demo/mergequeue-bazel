@@ -2222,7 +2222,7 @@ gooseskin
 goaves 1
 gemwork 1
 gastrolith 1
-gymnosperms
+gymnosperms 1
 galas 2
 gaster
 gastrocatarrhal
