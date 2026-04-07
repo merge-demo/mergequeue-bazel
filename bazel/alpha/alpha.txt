@@ -6818,7 +6818,7 @@ avowant 1
 augment
 airfare
 amyctic
-airflow
+airflow 1
 antimoralist
 aglipayan
 airfoil
