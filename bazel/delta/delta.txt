@@ -6718,7 +6718,7 @@ diacoustics
 desideration
 deoxidant
 desiderative 1
-drunkard
+drunkard 1
 disorderliness 1
 darnex
 diatribes
