@@ -3526,7 +3526,7 @@ gluier
 girding 1
 gaspar 1
 getling
-goldenest
+goldenest 1
 getpenny
 gibberish
 greaselessness
