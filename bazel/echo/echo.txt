@@ -2707,7 +2707,7 @@ elaeopten 1
 electrothermal
 ephippial 1
 emulsoidal 1
-exteriorise
+exteriorise 1
 essed 1
 ericolin
 elderwort
