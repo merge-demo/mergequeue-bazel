@@ -663,7 +663,7 @@ basos
 briars
 barren 1
 brioche
-bicorne
+bicorne 1
 bombo 1
 bungey
 biannual
