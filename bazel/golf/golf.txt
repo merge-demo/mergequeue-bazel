@@ -2054,7 +2054,7 @@ gantry
 gazzetta
 gutterize
 gavels
-gavia
+gavia 1
 geminiform
 gio
 grapheme
