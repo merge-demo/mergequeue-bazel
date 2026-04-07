@@ -1047,7 +1047,7 @@ brachycephalization 1
 brasswork 2
 bailiwicks
 bolete
-babyhouse
+babyhouse 1
 becost
 blousier
 buzzards
