@@ -7053,7 +7053,7 @@ bedazzlement
 bespangle 1
 bespangling
 bespate
-brickbatted
+brickbatted 1
 basset
 bezzant
 bennetweed 1
