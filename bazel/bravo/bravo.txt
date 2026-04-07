@@ -11503,7 +11503,7 @@ bombload 1
 blumes
 benighting
 blunderbuss 1
-borasqueborate
+borasqueborate 1
 blunderbusses 2
 boundure
 bestare
