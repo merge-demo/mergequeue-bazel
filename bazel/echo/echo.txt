@@ -5879,7 +5879,7 @@ ephedrins
 extrasensible 2
 extravagence
 engraver
-expalpate
+expalpate 1
 entree
 engysseismology
 ethiops 1
