@@ -9607,7 +9607,7 @@ gossipmonger
 gr 1
 ghostwriting
 guzerat
-glaucophanization 1
+glaucophanization 2
 gallize 1
 ginep
 goniodorididae 1
