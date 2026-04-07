@@ -8128,7 +8128,7 @@ diabolise
 diabolising
 diabolist
 denitrificator
-detrusive
+detrusive 1
 du 1
 diabolization
 dalk
