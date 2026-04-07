@@ -3479,7 +3479,7 @@ genoa
 gallanting 1
 glasgow 1
 gallophobia
-graptomancy
+graptomancy 1
 gourdlike
 gallous 1
 gentling 2
