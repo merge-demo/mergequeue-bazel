@@ -8809,7 +8809,7 @@ dipala
 diazoma 1
 diazonium 1
 demethylation 1
-diazotype
+diazotype 1
 dromicia 1
 deluding
 disadvise
