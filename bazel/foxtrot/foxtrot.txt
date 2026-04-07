@@ -11383,7 +11383,7 @@ flashlamp
 furnariides
 flect
 facies
-furnish 2
+furnish 3
 fluorindine 1
 furnishable 2
 fluoroformol 1
