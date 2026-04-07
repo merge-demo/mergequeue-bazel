@@ -7642,7 +7642,7 @@ digamous
 didinium
 developer 1
 developes
-diswarn
+diswarn 1
 developing
 didelphis
 development
