@@ -13095,7 +13095,7 @@ epidermomycosis
 erasement
 expensiveness 1
 expergefacient 1
-expergefaction
+expergefaction 1
 embedding
 epistolographic 1
 eyeshine
