@@ -2395,7 +2395,7 @@ fantods
 fervidor
 formicivorous
 filtrable 1
-fingernail 1
+fingernail 2
 flanged
 ferigee
 fondlers
