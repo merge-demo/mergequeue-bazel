@@ -5242,7 +5242,7 @@ endomorphy 1
 exta
 ekebergite
 either
-endoneurium
+endoneurium 1
 edify
 equestrianism 1
 equinely
