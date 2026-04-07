@@ -9240,7 +9240,7 @@ ficin
 feminate
 fissioning
 flopped 1
-flagellum
+flagellum 1
 furzetop
 fenagling
 femality
