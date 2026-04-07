@@ -20285,7 +20285,7 @@ communicability
 communicable
 chansons
 communicant
-communicate
+communicate 1
 czarinian
 convertibles
 cousinly
