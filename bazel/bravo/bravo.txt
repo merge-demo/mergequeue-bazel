@@ -12795,7 +12795,7 @@ backhanding 2
 betatters 2
 book
 borocarbide 1
-brasses
+brasses 1
 burstone
 boolya
 blebs
