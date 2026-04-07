@@ -3809,7 +3809,7 @@ befleck
 bronchoplegia
 bauhinias
 baul
-barrington
+barrington 1
 boreas
 burgeoning
 baulked
