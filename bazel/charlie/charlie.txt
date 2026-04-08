@@ -8814,7 +8814,7 @@ canonries
 chapteral
 chapterhouse
 cardinalates
-chapwoman
+chapwoman 1
 circumradii
 chaqueta
 commanders
