@@ -10072,7 +10072,7 @@ chessboards
 counterfugue
 collab
 chipchap
-chessdom
+chessdom 1
 chesser 1
 cabinda
 chesses
