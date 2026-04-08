@@ -1051,7 +1051,7 @@ excisable 1
 eyeless
 endoskeleton
 eqpt
-edgar
+edgar 1
 expatiatory 1
 edgeboned 2
 eringos
