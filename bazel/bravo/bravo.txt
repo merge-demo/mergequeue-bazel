@@ -4599,7 +4599,7 @@ bedazzlingly
 bibliopolery
 beckon
 baptise
-bedbugs
+bedbugs 1
 boden
 bedtick
 bedchair 1
