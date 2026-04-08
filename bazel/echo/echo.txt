@@ -11329,7 +11329,7 @@ evapotranspiration 2
 ecaudata
 esiphonal
 eluviated
-ergatoid
+ergatoid 1
 evenglow 1
 erenach
 eneid 1
