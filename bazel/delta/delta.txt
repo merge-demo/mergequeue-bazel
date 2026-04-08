@@ -18158,7 +18158,7 @@ digress
 dump
 disreputably
 dyaster
-duplexing
+duplexing 1
 dineuric
 dotriacontane
 dorsolateral 1
