@@ -7592,7 +7592,7 @@ flacherie
 forjudgment
 fatimid
 foredoomer
-fgn
+fgn 1
 fructuarius
 funiculus
 flintworker 1
