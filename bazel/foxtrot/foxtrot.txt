@@ -11613,7 +11613,7 @@ fermata 1
 fustics 2
 fussbudget
 fixable
-forint 1
+forint 2
 facsimile
 frolicsomely
 fortissimi 2
