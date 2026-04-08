@@ -16377,7 +16377,7 @@ dicynodont 1
 disserviceable
 detray
 downturn
-downturns
+downturns 1
 domy 1
 downway
 disdain 1
