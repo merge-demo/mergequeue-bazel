@@ -12026,7 +12026,7 @@ enaunter 1
 escutellate
 exclusiveness 1
 effectuality
-enforceability
+enforceability 1
 enamelled
 epidialogue
 exclusivistic
