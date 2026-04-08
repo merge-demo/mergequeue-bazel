@@ -14009,7 +14009,7 @@ dumpling
 disproportion 1
 disorb
 deterge
-database
+database 1
 distractively 1
 dibromide 1
 druxiness
