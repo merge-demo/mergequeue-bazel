@@ -10781,7 +10781,7 @@ freehandedness
 flagstaffs 1
 fth 1
 feuars
-footsoldiers
+footsoldiers 1
 fudge
 fanned
 freinage
