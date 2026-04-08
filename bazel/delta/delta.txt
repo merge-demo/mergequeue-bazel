@@ -14514,7 +14514,7 @@ damaging
 dyeing
 detruncated
 disintegratory
-divinability
+divinability 1
 defiles
 diviner
 divinesse 3
