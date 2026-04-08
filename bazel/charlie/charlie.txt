@@ -27128,7 +27128,7 @@ calfbound
 cupful 2
 countersigning
 countersigns 1
-countersympathy
+countersympathy 1
 carburet
 countersink
 colical
