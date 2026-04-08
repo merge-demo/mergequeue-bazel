@@ -11707,7 +11707,7 @@ flugelhorn 1
 fasciola
 furphy
 fernsick
-frameless
+frameless 1
 flaw
 fanfish 1
 fiancailles 1
