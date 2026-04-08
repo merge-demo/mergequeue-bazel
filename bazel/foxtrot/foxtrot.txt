@@ -10394,7 +10394,7 @@ flags
 fitche 1
 footer
 fraggings 1
-filigree
+filigree 1
 flow
 fictility
 flyspecked
