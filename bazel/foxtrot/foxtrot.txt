@@ -6794,7 +6794,7 @@ ferryman 1
 farfal
 forethink
 foldcourse
-fiberless
+fiberless 1
 folkmoots 1
 foredoomed 2
 fleshhook 1
