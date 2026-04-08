@@ -2051,7 +2051,7 @@ entamebic
 eligibleness
 earthstar
 encephalometric 2
-electrograph
+electrograph 1
 embroilments
 eldin
 electrolyzation 1
