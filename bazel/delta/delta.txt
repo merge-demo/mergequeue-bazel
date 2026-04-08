@@ -12783,7 +12783,7 @@ delimiters
 desirously
 decompressive 1
 deblocking
-dunk
+dunk 1
 debouch
 dissensions
 diathesic 1
