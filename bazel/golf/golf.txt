@@ -8986,7 +8986,7 @@ grievable
 grievance
 gantlines 1
 grievances
-grievous
+grievous 1
 gearbox
 germinating
 galingale 1
