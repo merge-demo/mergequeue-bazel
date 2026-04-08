@@ -11416,7 +11416,7 @@ doctrinize 2
 disclass
 deuterogenesis
 dermorhynchous
-disclimax
+disclimax 1
 dialogite
 drossing 1
 dastardy
