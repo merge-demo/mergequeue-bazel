@@ -3923,7 +3923,7 @@ ballotage
 bd
 boracium
 buttonholes
-butternose
+butternose 1
 bdellium
 bdelliums 1
 brownist
