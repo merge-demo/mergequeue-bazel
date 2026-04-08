@@ -1500,7 +1500,7 @@ endosiphonate
 equippers
 estivate 1
 eclegme
-effusively
+effusively 1
 entasias 1
 effuviate
 efl 2
