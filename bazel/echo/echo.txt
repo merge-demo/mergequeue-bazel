@@ -4941,7 +4941,7 @@ extradictable
 endamoebas
 endamoebidae
 equations 1
-endangitis
+endangitis 1
 expertised 2
 endarteteria
 endaspidean 1
