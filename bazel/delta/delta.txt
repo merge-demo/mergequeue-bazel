@@ -3530,7 +3530,7 @@ deuterostomata
 deforse
 diplomatic
 dinitrotoluene 1
-disapproving
+disapproving 1
 defrayable
 disembarrassment 1
 dismissable
