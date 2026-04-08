@@ -8665,7 +8665,7 @@ demagogies 1
 divulgate
 decoymen
 drumbling
-discoast
+discoast 1
 diaspidine
 diaspirin
 dots 2
