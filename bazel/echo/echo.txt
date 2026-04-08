@@ -1378,7 +1378,7 @@ efficacies
 endochylous
 exhortation
 eleutherodactyli
-epithecium
+epithecium 1
 embolden 1
 emphrensy
 expirator 1
