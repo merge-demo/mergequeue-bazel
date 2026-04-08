@@ -5822,7 +5822,7 @@ atlatl
 aligner
 agatized
 agatizes 1
-agatizing
+agatizing 1
 agatoid
 alarbus
 agaze
