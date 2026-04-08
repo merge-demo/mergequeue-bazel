@@ -2673,7 +2673,7 @@ decomposer 1
 debrief 1
 decomposers
 daddocky
-decomposure
+decomposure 1
 digne 1
 dogwatches
 decompoundable 1
