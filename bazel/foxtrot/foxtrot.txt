@@ -10467,7 +10467,7 @@ forewarns 1
 fluffs
 fidged 1
 frostfish
-forcite
+forcite 1
 frostbitten
 frosty 1
 feuillet 1
