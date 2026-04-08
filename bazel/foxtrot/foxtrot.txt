@@ -7598,7 +7598,7 @@ funiculus
 flintworker 1
 flays
 forespeak 1
-fecundative
+fecundative 1
 faradising
 foredune
 freezable
