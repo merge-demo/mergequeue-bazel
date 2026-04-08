@@ -6471,7 +6471,7 @@ decadenza
 dactylioglyph
 disbark
 desamidase
-desands
+desands 1
 desc
 descale 1
 downrightly
