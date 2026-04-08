@@ -987,7 +987,7 @@ ensaffron 2
 ensealing 1
 endomitotic
 excrementary
-edaphology
+edaphology 1
 etymological 1
 edaphon
 ecchymotic
