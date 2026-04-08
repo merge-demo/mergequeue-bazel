@@ -1888,7 +1888,7 @@ disablement
 deborah
 daktylos
 deicate
-deboss
+deboss 1
 detractive
 debouche
 disbench
