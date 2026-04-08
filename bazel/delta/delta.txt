@@ -12602,7 +12602,7 @@ disinters
 deditician
 deodorants
 defoamers
-diapiric
+diapiric 1
 downmost
 dragoness
 dechenite
