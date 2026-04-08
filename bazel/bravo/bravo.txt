@@ -6295,7 +6295,7 @@ benumbingly
 benumbs 1
 besodden
 brigalow
-battens
+battens 1
 balourdise
 baltic
 benzalacetophenone
