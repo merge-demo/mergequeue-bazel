@@ -6807,7 +6807,7 @@ cellaress 1
 chanceable
 caudal
 cellarmen 1
-cellars 1
+cellars 2
 chirologies
 cellarwoman
 cellblock 1
