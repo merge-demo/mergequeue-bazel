@@ -10384,7 +10384,7 @@ eternize
 epiphenomenalist
 edmund
 enjambed 2
-exactment
+exactment 1
 endeavoured
 exophagy
 ecclesiastical
