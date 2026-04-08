@@ -4368,7 +4368,7 @@ episperm 2
 euphrasia
 ectropionized
 escadrille
-equimolar
+equimolar 1
 epotation
 eggars
 excrescence
