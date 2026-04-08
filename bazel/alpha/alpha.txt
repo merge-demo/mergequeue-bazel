@@ -2881,7 +2881,7 @@ astrol
 aubrite
 antiendowment
 acropoleis
-acuminated
+acuminated 1
 acropolitan 1
 asthenope
 archpontiff 1
