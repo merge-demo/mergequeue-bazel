@@ -17077,7 +17077,7 @@ ambrica
 apodeipnon 1
 apodema
 austenitizing
-adiabolist
+adiabolist 1
 asperated
 antistes 1
 administrant
