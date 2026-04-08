@@ -2043,7 +2043,7 @@ fundi
 facedown
 faucalize
 fireboat
-flindosa
+flindosa 1
 forwander 1
 flatlander
 faunlike
