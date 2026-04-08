@@ -27741,7 +27741,7 @@ consortium
 chuprassi
 champagnizing
 cowry
-cowrie
+cowrie 1
 cowries
 calina
 crescentic
