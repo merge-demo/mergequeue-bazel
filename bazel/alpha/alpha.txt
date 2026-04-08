@@ -21105,7 +21105,7 @@ abaff
 air 1
 ascophore 1
 alfas
-aerobiont
+aerobiont 1
 aclydes
 arkoses
 ascothoracica 1
