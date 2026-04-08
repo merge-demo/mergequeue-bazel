@@ -9053,7 +9053,7 @@ flashbacks
 faineantism
 fix 1
 fractionalize 1
-foreparents
+foreparents 1
 fleetwing 1
 frap
 feruling
