@@ -14067,7 +14067,7 @@ becharms
 brandify
 bavary
 bitts
-bald
+bald 1
 bombycidae
 boffin
 brachydont 1
