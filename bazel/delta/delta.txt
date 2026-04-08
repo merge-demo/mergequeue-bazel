@@ -3094,7 +3094,7 @@ delightfully
 defaces
 disennoble 1
 defacing
-defacto
+defacto 1
 defade
 dichlamydeous 1
 defaillance
