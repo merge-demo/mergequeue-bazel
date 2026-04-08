@@ -4490,7 +4490,7 @@ furthermost 1
 foreloop
 fishspear
 fluffier
-fountainwise
+fountainwise 1
 faldage
 frangulin 1
 fluctuant 1
