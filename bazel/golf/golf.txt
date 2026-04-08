@@ -916,7 +916,7 @@ grittiness
 gosport
 gemeinschaften
 galt
-gametophoric
+gametophoric 1
 gorbet
 gated
 gnashes 1
