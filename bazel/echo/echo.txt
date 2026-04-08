@@ -4079,7 +4079,7 @@ enforcement
 erratical
 encrusting 1
 eremian
-engross
+engross 1
 earle
 elve
 eucrasy
