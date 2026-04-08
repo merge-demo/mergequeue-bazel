@@ -5208,7 +5208,7 @@ epilithic
 endogenae
 efference
 euchres 1
-echeloning
+echeloning 1
 enchanter
 expedition 2
 endogenous 1
