@@ -1633,7 +1633,7 @@ didymia
 deisin 1
 disfranchising
 deliverable
-difficulty
+difficulty 1
 daylong
 dimetrodon
 deodate
