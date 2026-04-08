@@ -5853,7 +5853,7 @@ grundel
 gadger
 gladify 1
 gate
-gymnosporangium
+gymnosporangium 1
 gynoecium
 glucate
 gorevan
