@@ -3376,7 +3376,7 @@ desophistication 1
 dialling 1
 decolor
 disrestore
-dynagraph 1
+dynagraph 2
 dithionate
 deflagrator 1
 deflating
