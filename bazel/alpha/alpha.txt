@@ -16097,7 +16097,7 @@ atomises
 antiscientific
 ande
 auto
-antiscolic
+antiscolic 1
 antiscorbutical 1
 acrosphacelus
 antiscrofulous
