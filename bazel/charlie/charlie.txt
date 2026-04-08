@@ -13788,7 +13788,7 @@ culpably
 chkfil
 cinematographies
 cinematographist
-chords
+chords 1
 contortive
 carpophore
 cysticercoid 1
