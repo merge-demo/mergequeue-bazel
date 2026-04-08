@@ -12553,7 +12553,7 @@ dortour
 droitural 1
 doping
 dropsically
-depend
+depend 1
 defies
 divertible
 disingenuousness
