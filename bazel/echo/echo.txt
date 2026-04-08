@@ -753,7 +753,7 @@ exuvium 1
 ecotype
 ecotipically
 ecotypically
-ecotonal
+ecotonal 1
 enclaved 2
 ecaudate 2
 echinocaris
