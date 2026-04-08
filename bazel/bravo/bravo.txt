@@ -14711,7 +14711,7 @@ bratticing 1
 beggarweed 1
 bescorching
 brelan
-brattie
+brattie 1
 betrothal
 biobibliographic
 bowpots
