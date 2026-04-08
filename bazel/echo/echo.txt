@@ -14125,7 +14125,7 @@ eutrophy 1
 epithamia
 electrooptic
 endosternite
-embusqu
+embusqu 1
 exegetical
 endosiphonal
 extensory
