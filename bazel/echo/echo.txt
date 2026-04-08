@@ -8574,7 +8574,7 @@ extraparenchymal 1
 equiaxed 1
 edificable
 equate 1
-eburnification 1
+eburnification 2
 enharmonic
 earnings
 equibalanced
