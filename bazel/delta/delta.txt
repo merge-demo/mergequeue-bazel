@@ -16960,7 +16960,7 @@ dermatherm 1
 demihorse
 dullness
 downcurve
-dredgeful 1
+dredgeful 2
 disintegrate
 discerp
 dithery
