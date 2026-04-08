@@ -6331,7 +6331,7 @@ benzanthrone 1
 bifarious 1
 bipolarize
 begalling
-begrace
+begrace 1
 buffalofishes
 benzein
 bellyfish
