@@ -11624,7 +11624,7 @@ fosite
 funestal 1
 finestiller
 forehew
-fustigatory
+fustigatory 1
 fumy
 friendship
 forwake 1
