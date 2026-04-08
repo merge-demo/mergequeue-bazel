@@ -7473,7 +7473,7 @@ featless
 floodproof
 fawning
 flashpan
-fleyedness
+fleyedness 1
 featherwood
 fordoes
 faecal 1
