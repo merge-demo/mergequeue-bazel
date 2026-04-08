@@ -13771,7 +13771,7 @@ edestosaurus
 epiphysary
 enserfing 3
 ecorch 1
-extolling
+extolling 1
 enouncement 1
 elephas
 extolls
