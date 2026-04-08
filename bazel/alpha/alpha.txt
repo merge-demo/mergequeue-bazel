@@ -15120,7 +15120,7 @@ athena
 admonish
 antieducation 1
 antieducational
-abstr
+abstr 1
 antieducationalist
 arkansas
 almemor
