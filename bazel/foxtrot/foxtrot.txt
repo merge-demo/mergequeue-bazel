@@ -9418,7 +9418,7 @@ faciendum
 franz
 felidae 1
 foliiferous
-flamines
+flamines 1
 fliers
 foodstuff
 foreteeth
