@@ -5871,7 +5871,7 @@ gasfiring 1
 geolatry
 grandesque 1
 glycogenous
-gravimetric
+gravimetric 1
 goliards
 gallinaceous
 graphometrist 1
