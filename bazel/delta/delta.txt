@@ -3468,7 +3468,7 @@ defoamed
 diacetylmorphine 2
 damozels 2
 defoamer
-dryer
+dryer 1
 despotisms 2
 dishlike
 duodecimally
