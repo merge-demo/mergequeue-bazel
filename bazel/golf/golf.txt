@@ -757,7 +757,7 @@ gerim
 gunbearer 1
 gerkin
 galvanopuncture
-gummaker
+gummaker 1
 goutwort 2
 groupings
 gladsomer
