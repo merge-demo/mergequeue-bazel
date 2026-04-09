@@ -3511,7 +3511,7 @@ downside
 deform 1
 diasters
 doughmaker
-deformability 1
+deformability 2
 droughermen
 disknow 2
 distomum
