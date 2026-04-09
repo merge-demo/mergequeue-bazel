@@ -1091,7 +1091,7 @@ equipoised
 evaluates 1
 envined 2
 edificatory
-epimerize
+epimerize 1
 elliptic
 edificed
 enlightens
