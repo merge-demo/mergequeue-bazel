@@ -1819,7 +1819,7 @@ forgets
 featured 1
 fluidify
 featureful
-featurelessness
+featurelessness 1
 featureliness
 furrows 2
 figureheadship
