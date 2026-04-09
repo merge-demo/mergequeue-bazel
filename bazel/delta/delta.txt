@@ -6320,7 +6320,7 @@ dermenchysis
 delacrimation 1
 dermestid
 dermatoneural
-dextrogyration
+dextrogyration 1
 deject
 debit
 disseminating
