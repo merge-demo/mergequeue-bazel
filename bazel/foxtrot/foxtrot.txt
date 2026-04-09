@@ -3568,7 +3568,7 @@ fluoryl 1
 filaricidal
 filariids
 forechoice 1
-flagellative
+flagellative 1
 foody 1
 funding
 forboding
