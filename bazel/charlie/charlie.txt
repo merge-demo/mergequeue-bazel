@@ -15837,7 +15837,7 @@ cleavage
 cleavages
 cleaveful 1
 cleavelandite
-contentness
+contentness 1
 cleaver
 cleavers
 crusilee
