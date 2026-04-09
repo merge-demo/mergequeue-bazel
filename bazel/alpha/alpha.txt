@@ -18746,7 +18746,7 @@ archdukes
 andesic 1
 axioms
 alkanes
-arche
+arche 1
 airships 1
 annulose
 archean
