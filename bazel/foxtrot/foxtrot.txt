@@ -5769,7 +5769,7 @@ finebent
 finings 1
 fulth
 ferrochrome
-flitfold 1
+flitfold 2
 flytiers 1
 fulhams
 fpsps
