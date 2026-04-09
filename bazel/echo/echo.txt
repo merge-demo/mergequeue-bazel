@@ -9697,7 +9697,7 @@ exurbs
 evacue 1
 euselachii 1
 esquisse
-exship
+exship 1
 eversible
 extima
 easing
