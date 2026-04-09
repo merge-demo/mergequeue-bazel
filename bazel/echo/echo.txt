@@ -9329,7 +9329,7 @@ endosiphon
 erugo
 encrusted
 erugos 2
-escapage
+escapage 1
 eruptible
 eruption
 eruptional
