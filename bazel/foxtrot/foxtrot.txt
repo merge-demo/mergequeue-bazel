@@ -8638,7 +8638,7 @@ forsythia
 fontinalis
 findon
 flamberge
-freightless
+freightless 1
 filterability 1
 fourposters 1
 futharks
