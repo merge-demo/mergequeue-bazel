@@ -6006,7 +6006,7 @@ floorwise
 featishness
 fusty 1
 foolscaps 1
-felspars
+felspars 1
 flacon 1
 fumattoria 2
 foo
