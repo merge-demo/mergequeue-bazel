@@ -2910,7 +2910,7 @@ barreled
 barreleyes
 barrelet
 bookend 1
-batuque
+batuque 1
 botanical
 bundies
 beachheads
