@@ -5601,7 +5601,7 @@ blisters 1
 brough 1
 bulletheaded
 battlement
-blepharal
+blepharal 1
 bewigs
 barbitone
 businessmen
