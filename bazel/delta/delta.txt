@@ -1893,7 +1893,7 @@ detractive
 debouche
 disbench
 disconcertingness 2
-digladiator
+digladiator 1
 discourse
 debouchment
 diarial
