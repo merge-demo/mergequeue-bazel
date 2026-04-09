@@ -7575,7 +7575,7 @@ explanitory
 epicheiremata
 executer
 ependyma
-endomysium
+endomysium 1
 endovenous 2
 electrocapillarity
 equivalently
