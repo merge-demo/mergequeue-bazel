@@ -662,7 +662,7 @@ forerib
 frissons 1
 formism 2
 flan 1
-folklorish
+folklorish 1
 fellow 1
 feijoa
 fishwood 1
