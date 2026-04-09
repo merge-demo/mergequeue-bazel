@@ -12797,7 +12797,7 @@ camassia
 chunga
 calomel
 computes 1
-confronted
+confronted 1
 crooknecks
 chunk
 chunked
