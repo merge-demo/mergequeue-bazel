@@ -7466,7 +7466,7 @@ gospelist
 granuliferous
 gabbler 1
 guereza
-glossist
+glossist 1
 grabbier
 grunerite
 gourmandizer
