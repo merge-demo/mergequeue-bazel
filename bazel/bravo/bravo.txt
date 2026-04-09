@@ -2667,7 +2667,7 @@ backlins
 berrugate
 barm
 bollixes
-begrimming
+begrimming 1
 bututs 1
 barmaster
 bergalith
