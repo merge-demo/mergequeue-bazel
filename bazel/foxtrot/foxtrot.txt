@@ -9232,7 +9232,7 @@ flagmaking
 flashier 1
 finnac
 forpining
-frivolism
+frivolism 1
 frillback
 fetuses 1
 floccus
