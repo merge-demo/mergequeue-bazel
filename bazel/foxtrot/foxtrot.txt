@@ -8643,7 +8643,7 @@ filterability 1
 fourposters 1
 futharks
 feet
-fuzes
+fuzes 1
 finites
 forborn
 fytte
