@@ -15284,7 +15284,7 @@ corallite
 clamorsome
 corgis
 clamour
-concuss
+concuss 1
 contune
 cordant
 copalchi
