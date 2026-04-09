@@ -6530,7 +6530,7 @@ essayists 1
 entrenchments 2
 entails
 eaglet
-embarrassedly
+embarrassedly 1
 egipto 1
 ensmall 1
 encephalorrhagia
