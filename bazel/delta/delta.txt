@@ -17633,7 +17633,7 @@ dtd 1
 dielectrical
 dicranterian
 discourteously
-dtente
+dtente 1
 diplococci
 disapprobation
 dreamed
