@@ -12438,7 +12438,7 @@ bankera
 boii
 bogum
 bowyang
-bedriddenness
+bedriddenness 1
 bonfire
 biphenyl 4
 buller
