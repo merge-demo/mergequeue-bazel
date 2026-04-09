@@ -6515,7 +6515,7 @@ blooping 1
 biokinetics
 bootlegged
 boson
-bartramiaceae
+bartramiaceae 1
 bactericidin 1
 buckeyes
 bequests
