@@ -2812,7 +2812,7 @@ egyptological 1
 excalate
 ensnarling
 elenchi
-elenchic
+elenchic 1
 elves
 elenchize
 ecthlipsis
