@@ -8883,7 +8883,7 @@ contraposaune
 characters 1
 chasmogamy
 companiable
-cycads
+cycads 1
 charadrii
 compendiousness
 charadriiformes
