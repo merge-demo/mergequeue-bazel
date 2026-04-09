@@ -3171,7 +3171,7 @@ ahungered
 apostrophized
 actives 1
 activin
-activism
+activism 1
 aetiologically
 activities
 amoristic
