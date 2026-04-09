@@ -12825,7 +12825,7 @@ demiparadise 1
 dismals 1
 dithalous
 disman
-dismantles
+dismantles 1
 darksome
 dishevelment
 dyarchic
