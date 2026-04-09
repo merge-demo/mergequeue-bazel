@@ -17358,7 +17358,7 @@ cruder
 coastland 1
 constipated
 couscouses
-coastlines
+coastlines 1
 cutleress
 channeled
 condensible
