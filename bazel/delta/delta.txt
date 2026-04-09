@@ -6201,7 +6201,7 @@ discanonized 1
 disnosed
 disconnects
 derivations
-degrading
+degrading 1
 describably 1
 demising
 daredevil
