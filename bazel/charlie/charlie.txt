@@ -2606,7 +2606,7 @@ castile
 caned
 canela 1
 canelas
-canellaceous
+canellaceous 1
 cuttlefish
 canellas
 codified
