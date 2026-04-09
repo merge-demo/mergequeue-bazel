@@ -16019,7 +16019,7 @@ cephaletron 1
 caleche
 comprizal
 cleve
-cleveite
+cleveite 1
 confiscatory 2
 clever
 cowberries
