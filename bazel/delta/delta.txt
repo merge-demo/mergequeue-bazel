@@ -15025,7 +15025,7 @@ distrains
 distinctify 2
 determ
 doggerel 2
-doggerelism
+doggerelism 1
 doggerelist
 desperate
 doggerelizing
