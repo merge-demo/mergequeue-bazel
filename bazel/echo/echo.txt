@@ -3392,7 +3392,7 @@ embarge
 espier
 enteropneustal
 estimator
-equivocally
+equivocally 1
 epinephelus
 ebullate
 exurbanite
