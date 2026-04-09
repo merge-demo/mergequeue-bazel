@@ -12349,7 +12349,7 @@ chromatin
 caucasoids
 chromatype 1
 chromatist
-chemotic
+chemotic 1
 coracohyoid
 cholent
 crack
