@@ -23492,7 +23492,7 @@ augmentive
 augrim
 aggravator
 aphorizer
-ambidexterous
+ambidexterous 1
 ansel
 arguendo
 atrabiliarious
