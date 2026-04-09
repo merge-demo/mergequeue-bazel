@@ -7512,7 +7512,7 @@ fergus
 fellatah
 fullface
 forebode 2
-frictionlessness
+frictionlessness 1
 fest 1
 forebodes
 forebody
