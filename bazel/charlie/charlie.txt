@@ -2706,7 +2706,7 @@ catostomus
 cankerfret
 compiles
 calcemia
-cankery
+cankery 1
 cannoneering
 cankerroot
 cauponize
