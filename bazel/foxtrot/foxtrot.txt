@@ -5039,7 +5039,7 @@ forepaw
 ferries 1
 fizz
 forekeel
-faithbreaker
+faithbreaker 1
 faconne
 fulmarus 1
 flapdock
