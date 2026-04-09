@@ -8042,7 +8042,7 @@ encoop
 electrodentistry
 epibasal 2
 ergs
-expilate
+expilate 1
 ejections 2
 eggar
 ease 1
