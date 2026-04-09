@@ -9841,7 +9841,7 @@ bromals
 bityite
 botcher
 burnsian
-banderols
+banderols 1
 baldpated
 bitmap 1
 buccaneering
