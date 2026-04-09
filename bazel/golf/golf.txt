@@ -58,7 +58,7 @@ gibbon
 glauconia
 griller 1
 gluemaking
-gablewindowed
+gablewindowed 1
 gogga 1
 gonidiophore
 galeenies 1
