@@ -352,7 +352,7 @@ gingerin 1
 grade
 gilet
 gantlets 2
-gley
+gley 1
 graphed
 gasogenic
 gorefish 1
