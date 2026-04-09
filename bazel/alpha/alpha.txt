@@ -16937,7 +16937,7 @@ agamis
 alfa
 anemometrical
 akuammine
-affectable
+affectable 1
 anhima
 approachment
 arrive
