@@ -3127,7 +3127,7 @@ formulas 1
 frottages 1
 filoplume 2
 fibroelastic 1
-fountaineer
+fountaineer 1
 finnick 2
 fibroenchondroma 2
 faring 1
