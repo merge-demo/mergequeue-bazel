@@ -2903,7 +2903,7 @@ fruitlet 1
 froglike
 farsightedly
 flows 1
-fouettes
+fouettes 1
 floorcloth
 find
 febricide 1
