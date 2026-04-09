@@ -4681,7 +4681,7 @@ diplomatize 1
 demythologizer
 duodecimal 1
 discretionally
-dees
+dees 1
 delectableness
 denationalizing
 demitint
