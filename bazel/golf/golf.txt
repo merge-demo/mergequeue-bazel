@@ -3895,7 +3895,7 @@ grossen
 guelph 1
 gyroplane 2
 goodness
-gatherings
+gatherings 1
 geomorphogenic 1
 globeholder
 garnetiferous 1
