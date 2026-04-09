@@ -2366,7 +2366,7 @@ electrocataphoresis 1
 equison 2
 ephedrine
 electrochronometric
-enfroward
+enfroward 1
 estafetted
 entendres
 electroplating
