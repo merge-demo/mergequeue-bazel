@@ -2482,7 +2482,7 @@ gillflirt
 geoisotherm
 greekish 1
 grief 1
-geodynamic
+geodynamic 1
 glandules 1
 goading
 grassing
