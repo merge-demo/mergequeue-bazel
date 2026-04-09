@@ -1356,7 +1356,7 @@ damagement
 dart
 dauntingness 1
 discerners
-duelli
+duelli 1
 definer
 dauphine
 dauphines
