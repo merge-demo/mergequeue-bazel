@@ -18206,7 +18206,7 @@ coexisting
 coexpand
 coexpanded
 coexperiencer 1
-coextend
+coextend 1
 catchment
 clubbiness 1
 coextends
