@@ -7838,7 +7838,7 @@ dwelling 1
 dil
 devour 1
 dorsad
-devourers
+devourers 1
 discourseless
 dependently
 doers 1
