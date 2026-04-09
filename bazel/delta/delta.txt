@@ -1344,7 +1344,7 @@ didappers
 daunt 1
 daunted
 dhobies
-daunters
+daunters 1
 decertified
 daffy
 dipentine
