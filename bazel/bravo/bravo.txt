@@ -5415,7 +5415,7 @@ bigarreau
 behaved
 bronchium
 behaver
-bicollateral
+bicollateral 1
 behaving
 brainteasers
 brakes 1
