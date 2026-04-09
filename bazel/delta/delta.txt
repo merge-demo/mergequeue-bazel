@@ -15673,7 +15673,7 @@ dopey
 decrements 1
 doper
 disbarring
-doorposts
+doorposts 1
 dopier
 dogstone
 desi
