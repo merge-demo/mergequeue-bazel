@@ -16268,7 +16268,7 @@ desiderant
 dowels
 decrown
 demiowl
-duchery
+duchery 1
 ductilimeter
 diaheliotropism
 dramalogue
