@@ -5294,7 +5294,7 @@ degasifier
 dispositioned
 diatomaceoid
 denouncers
-detestable
+detestable 1
 detinue 1
 dentale
 dissimulate
