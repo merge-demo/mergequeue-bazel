@@ -2863,7 +2863,7 @@ genuflecting 1
 gaberdine
 guildship
 gratifier
-guser
+guser 1
 gullish 2
 genuflects 1
 glanduliform

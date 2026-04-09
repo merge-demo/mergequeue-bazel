@@ -2217,7 +2217,7 @@ epistome
 expanded 2
 eldermen 1
 entailing
-expeditionist
+expeditionist 1
 elders
 enumerating
 endognathion
