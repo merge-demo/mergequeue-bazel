@@ -13823,7 +13823,7 @@ equiarticulate
 entomolite
 extracivic 1
 energeticist
-engenderer
+engenderer 1
 enscale 2
 euchroite
 effacing
