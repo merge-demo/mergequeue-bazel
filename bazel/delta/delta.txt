@@ -5493,7 +5493,7 @@ deoxidisation
 dissolubility 1
 deadest 1
 devoiced
-dorsiventrality
+dorsiventrality 1
 deoxidize
 doryphoros
 deoxygenated
