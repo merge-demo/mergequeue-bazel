@@ -11232,7 +11232,7 @@ forbearable
 feuilleton
 funky 2
 filter
-functional
+functional 1
 fylfot
 fornent
 factable
