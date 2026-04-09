@@ -556,7 +556,7 @@ gudgeoning
 gup 1
 ghetto
 galleryite
-gravidness
+gravidness 1
 garde 1
 goolah 1
 gazometer
