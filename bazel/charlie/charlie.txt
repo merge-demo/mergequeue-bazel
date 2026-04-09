@@ -15391,7 +15391,7 @@ conidiiferous
 clapper
 clapperclaw
 cloragen 1
-clappered
+clappered 1
 chitchatting 1
 clappers
 cutinization 1
