@@ -10156,7 +10156,7 @@ foreannouncement
 forbit 1
 forepredicament
 feued
-frizing
+frizing 1
 frizzante
 fishyback
 finch
