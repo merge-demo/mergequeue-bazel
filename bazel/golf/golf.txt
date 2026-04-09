@@ -8709,7 +8709,7 @@ gavelling 1
 grammars
 gearing 1
 gastraeal 2
-gates 2
+gates 3
 gnathonical
 grassflat 1
 gastrodisc 1
