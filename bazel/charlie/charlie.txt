@@ -2777,7 +2777,7 @@ cableman
 cannie 1
 cagui
 cannier
-canning
+canning 1
 cannings
 chiccories
 cannister
