@@ -6271,7 +6271,7 @@ gconv 1
 gentle 1
 gulpin
 gynandrarchic 1
-galoch 1
+galoch 2
 gospelly 1
 gainable 2
 gobble
