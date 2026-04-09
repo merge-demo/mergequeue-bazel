@@ -9073,7 +9073,7 @@ bargander
 biosciences
 bulrushes
 bestrows
-befits
+befits 1
 blankminded 2
 buzzwigs
 boylikeness 1
