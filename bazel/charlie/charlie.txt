@@ -15822,7 +15822,7 @@ clearsightedness
 clearstarcher 1
 clearstory 1
 chocker
-clearstoried
+clearstoried 1
 crispest
 cascara
 commis
