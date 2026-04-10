@@ -16418,7 +16418,7 @@ deadishness
 dozed
 dodecahedrons
 dozens
-dishpan
+dishpan 1
 dimorphous
 deviousness 1
 dozzle
