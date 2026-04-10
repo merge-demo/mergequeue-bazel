@@ -13369,7 +13369,7 @@ blasted
 backshift 1
 bothrenchyma
 bluenoses
-billsticker
+billsticker 1
 bandage
 benjamite 1
 bothriocephalus 1
