@@ -7752,7 +7752,7 @@ flanes
 firearms 1
 foremast 1
 fritters
-fidicula
+fidicula 1
 franciscanism
 fisticuffery
 favillous
