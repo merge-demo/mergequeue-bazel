@@ -357,7 +357,7 @@ alphin
 aerophone
 abdicate
 aberrancy
-aberrantly
+aberrantly 1
 aberrants
 aberrating
 astrogonic
