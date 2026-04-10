@@ -3666,7 +3666,7 @@ dioestrous
 depreciators
 dunt
 deglutition
-deglutitious
+deglutitious 1
 degold 1
 decathlon
 disinhibition
