@@ -6203,7 +6203,7 @@ disconnects
 derivations
 degrading 1
 describably 1
-demising
+demising 1
 daredevil
 ditted
 decemvir
