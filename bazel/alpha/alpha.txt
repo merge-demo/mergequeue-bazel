@@ -19134,7 +19134,7 @@ archoptosis
 asexualise 1
 antialien
 arcite
-adherences
+adherences 1
 azoch
 anisidin 1
 anaerobes
