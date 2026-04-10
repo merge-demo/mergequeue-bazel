@@ -29134,7 +29134,7 @@ cuadrillero
 corundums 1
 crinolette
 chickenweed
-crinoline
+crinoline 1
 crinolines
 crinosity
 crinula
