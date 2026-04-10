@@ -11176,7 +11176,7 @@ decanted
 deglaciation 1
 depopulate
 disbars
-disbase
+disbase 1
 dani
 disbeliefs
 diarchic
