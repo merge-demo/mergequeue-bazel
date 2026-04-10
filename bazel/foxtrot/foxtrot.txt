@@ -390,7 +390,7 @@ faceoff 1
 fancifully 1
 fairground 1
 fairy
-foresettle
+foresettle 1
 fructuous
 failings
 fittingness 1
