@@ -6227,7 +6227,7 @@ beveling 1
 bungalow
 bennets
 bootlace
-bookism
+bookism 1
 bissextus
 battalions
 barndoor 1
