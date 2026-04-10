@@ -12213,7 +12213,7 @@ empiriocritical 1
 ephemera 1
 execute
 executed
-exceptor
+exceptor 1
 extravagancies
 eras 1
 epitrichium
