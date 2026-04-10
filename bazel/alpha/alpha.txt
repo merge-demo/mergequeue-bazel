@@ -11691,7 +11691,7 @@ apocrisiary
 anaerobiont 1
 anaerobiosis 1
 anaerobiotic
-anaerobium
+anaerobium 1
 avanti
 anaphylactic
 angulating
