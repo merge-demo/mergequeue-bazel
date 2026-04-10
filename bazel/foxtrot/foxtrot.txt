@@ -1870,7 +1870,7 @@ fecundate
 fianchetti
 flapcake
 fanback
-frisson
+frisson 1
 fallacious
 flexional
 frohlich
