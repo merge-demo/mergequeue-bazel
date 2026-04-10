@@ -34,7 +34,7 @@ fibrolitic
 fibrocyst
 fabricates 1
 fabricator
-formularize
+formularize 1
 flintless 1
 furies
 farmscape
