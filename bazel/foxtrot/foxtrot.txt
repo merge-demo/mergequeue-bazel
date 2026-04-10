@@ -2947,7 +2947,7 @@ flukiness 1
 freezed 1
 foxberries 2
 fac 2
-flaked
+flaked 1
 furloughs
 fungological 2
 froths 1
