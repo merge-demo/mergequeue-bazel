@@ -6382,7 +6382,7 @@ fixup
 fluvio 2
 fluoresceine
 factionism
-fragrantness
+fragrantness 1
 floreal
 funiliform 2
 finick 1
