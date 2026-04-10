@@ -8819,7 +8819,7 @@ circumradii
 chaqueta
 commanders
 char
-conveyability
+conveyability 1
 crouchingly 1
 chara
 charabanc
