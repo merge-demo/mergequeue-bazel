@@ -6906,7 +6906,7 @@ abound
 airscrews 1
 airsheds 1
 afterwisdom
-asarta
+asarta 1
 antiptosis
 antinationalists
 airohydrogen
