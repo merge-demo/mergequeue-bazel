@@ -7646,7 +7646,7 @@ encephalous
 ensconce 1
 elixirs
 enhungered
-euphemious
+euphemious 1
 extrabold 1
 electrophoridae
 epicoracoid
