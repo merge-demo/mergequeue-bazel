@@ -2118,7 +2118,7 @@ extrapolator
 elastically
 eurycephalous
 edenite 1
-exudes
+exudes 1
 emberiza
 effete
 eberthella
