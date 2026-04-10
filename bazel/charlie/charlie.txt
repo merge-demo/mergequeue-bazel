@@ -15927,7 +15927,7 @@ cleanly
 cleped
 clepsydra
 contorniate
-clepsine
+clepsine 1
 condemnatory 1
 cleptobioses
 conics
