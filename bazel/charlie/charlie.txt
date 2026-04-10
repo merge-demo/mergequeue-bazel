@@ -9716,7 +9716,7 @@ cheilostomata
 cheilostomatous
 censer
 cheyneys
-cankeredly
+cankeredly 1
 cimex
 chromotype
 cheiranthus
