@@ -9648,7 +9648,7 @@ dihydrotachysterol
 dhaks 1
 dihydroxyacetone
 defaceable 1
-dihydroxysuccinic
+dihydroxysuccinic 1
 dulse
 digitise
 dalasis
