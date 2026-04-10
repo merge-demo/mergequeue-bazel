@@ -2820,7 +2820,7 @@ biquadrate 1
 baroswitch
 bld 1
 bitis
-ballgowns
+ballgowns 1
 begalled
 bulkiest 1
 baudery 1
