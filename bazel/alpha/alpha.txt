@@ -24012,7 +24012,7 @@ atmometer
 autocide
 acetylbiuret
 alumnus
-afterproof
+afterproof 1
 addlins 1
 accerse
 antapocha
