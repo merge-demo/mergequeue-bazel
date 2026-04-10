@@ -9925,7 +9925,7 @@ carcinomas
 crackjaw
 cephalotaceous
 chemotrophic
-chemotropically
+chemotropically 1
 chempaduk 2
 chemurgical
 chemurgically
