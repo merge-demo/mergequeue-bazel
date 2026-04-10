@@ -8945,7 +8945,7 @@ glossopalatinus
 gatsby 2
 gyration 1
 greund 1
-gurgulation
+gurgulation 1
 gentianin
 gemmiform 1
 golfed
