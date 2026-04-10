@@ -10495,7 +10495,7 @@ dozent
 dalar 1
 daglock
 disembodies
-diphthongize
+diphthongize 1
 diazoalkane
 diphthongizing
 daubentoniidae 1
