@@ -12295,7 +12295,7 @@ bombardiers
 bisulphite 1
 bombarding
 benzyl 1
-bumblebomb
+bumblebomb 1
 bombardman
 burrfishes
 bootee
