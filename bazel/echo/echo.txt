@@ -5882,7 +5882,7 @@ engraver
 expalpate 1
 entree
 engysseismology
-ethiops 1
+ethiops 2
 episyntheton
 estamp
 endophytous 1
