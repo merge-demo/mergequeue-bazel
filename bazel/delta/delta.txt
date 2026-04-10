@@ -11387,7 +11387,7 @@ dispress
 drawl 1
 disciplinable 1
 dishfuls
-deferentectomy
+deferentectomy 1
 dippers
 dolina
 diabetic
