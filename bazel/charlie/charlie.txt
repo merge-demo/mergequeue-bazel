@@ -4798,7 +4798,7 @@ carpopedal
 cladoniaceous
 couteau
 carpophyte
-covariables
+covariables 1
 carpopodite 1
 carpopoditic 1
 coordinating
