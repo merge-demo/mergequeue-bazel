@@ -5058,7 +5058,7 @@ advancements
 androgyneity
 aerosteam
 aerotaxis 1
-agacant
+agacant 1
 autoecous
 argo
 ablush
