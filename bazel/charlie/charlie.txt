@@ -4133,7 +4133,7 @@ chancellor
 cardinalities 1
 cardinally
 cardinalship
-cardings
+cardings 1
 cardioarterial
 cardiocarpum 1
 cardiocele
