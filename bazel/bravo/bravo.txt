@@ -12747,7 +12747,7 @@ bookracks
 blacklegging 1
 baronry 1
 begut
-bookseller
+bookseller 1
 bepreach 1
 burdalone 1
 bucorvinae
