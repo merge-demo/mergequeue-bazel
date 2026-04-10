@@ -6360,7 +6360,7 @@ gippo
 gollywobbler
 gambelli 2
 ganoblast
-garnitures
+garnitures 1
 gustables 1
 gofer
 given 1
