@@ -2708,7 +2708,7 @@ electrothermal
 ephippial 1
 emulsoidal 1
 exteriorise 1
-essed 1
+essed 2
 ericolin
 elderwort
 electrophoresing
