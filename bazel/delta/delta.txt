@@ -3443,7 +3443,7 @@ doddy
 draconid 2
 deflore 1
 dubash
-disgarland
+disgarland 1
 damnosa
 dentagra
 deflowered
