@@ -3405,7 +3405,7 @@ enc
 eavedropper 1
 embark
 epichorial
-embarkations
+embarkations 1
 epitomize
 embarkment
 embarks
