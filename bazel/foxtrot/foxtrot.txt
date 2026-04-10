@@ -6190,7 +6190,7 @@ firebreak
 funguslike
 falange
 fog 2
-flrie
+flrie 1
 frothier
 fluavile
 flubbed 1
