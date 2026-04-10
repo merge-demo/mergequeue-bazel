@@ -5169,7 +5169,7 @@ flatness
 fadged
 faceting
 flatted
-flatteringness
+flatteringness 1
 flustered 1
 fetalization
 federarie
