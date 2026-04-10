@@ -6335,7 +6335,7 @@ enrut 1
 euclidean
 ens
 emmenagogue
-elenchtic
+elenchtic 1
 ensanguine
 eloquent
 enlargingly
