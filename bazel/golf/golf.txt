@@ -5086,7 +5086,7 @@ grasni
 guddler
 glassines
 galloping
-glassiness
+glassiness 1
 glasslikeness
 goosefoots 2
 garrya
