@@ -42,7 +42,7 @@ flick
 fervently 1
 finically
 fabricators
-fabricature
+fabricature 1
 figurette
 flatuosity
 fabroniaceae
