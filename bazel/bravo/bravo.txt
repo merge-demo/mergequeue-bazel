@@ -9460,7 +9460,7 @@ banya
 bipunctal
 bores
 barbarian
-birn
+birn 1
 byrnie
 biotope
 battlefront
