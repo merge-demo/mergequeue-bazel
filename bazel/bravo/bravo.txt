@@ -17278,7 +17278,7 @@ brite 1
 bumfuzzle
 baubles
 blotched
-bumkin
+bumkin 1
 beating
 burseed
 berretta
