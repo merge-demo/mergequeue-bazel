@@ -1367,7 +1367,7 @@ antistimulant
 amintor
 acceptance 1
 axisymmetrical
-absorbent
+absorbent 1
 athalline
 achylia
 aguish
