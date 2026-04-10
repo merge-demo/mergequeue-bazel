@@ -13804,7 +13804,7 @@ dissunder
 deflexible
 deerskin
 dialogistically
-demurral
+demurral 1
 deader 1
 driftpin
 dramatis
