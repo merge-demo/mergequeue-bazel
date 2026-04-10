@@ -2028,7 +2028,7 @@ bedeguar
 buffoonesque
 bicollaterality 1
 bankrolled
-bankrolling
+bankrolling 1
 bankrupt
 bosporan
 burl
