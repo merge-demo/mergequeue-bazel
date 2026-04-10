@@ -12371,7 +12371,7 @@ erodibility 1
 exhalents
 etude 2
 entermise
-exhales
+exhales 1
 elihu
 elfins
 erythrocatalysis 2
