@@ -2110,7 +2110,7 @@ brouillon
 barring
 borofluoride
 bantayan
-buckshots
+buckshots 1
 bidstand
 bantam
 bantamize 1
