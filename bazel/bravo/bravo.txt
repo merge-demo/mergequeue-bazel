@@ -5406,7 +5406,7 @@ barbacoa 1
 behallow 1
 bowldering
 bedin
-betwit
+betwit 1
 behammer
 bacula
 beshine
