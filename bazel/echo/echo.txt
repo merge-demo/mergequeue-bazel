@@ -7043,7 +7043,7 @@ emote
 entrapping
 entrustment 1
 eurygaea 1
-exchequers
+exchequers 1
 exocoetus
 eyeglass
 enpia
