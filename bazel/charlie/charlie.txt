@@ -3134,7 +3134,7 @@ capeadores
 capelan
 capelans
 chromid
-capelin
+capelin 1
 cornette
 capeline
 chondrocele
