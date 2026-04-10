@@ -5047,7 +5047,7 @@ equerry
 endings 2
 elapsing 2
 emplace
-elaeomargaric 1
+elaeomargaric 2
 enrolled
 eclairs
 econometer 1
