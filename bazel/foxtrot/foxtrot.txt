@@ -3126,7 +3126,7 @@ fieulamort 1
 formulas 1
 frottages 1
 filoplume 2
-fibroelastic 1
+fibroelastic 2
 fountaineer 1
 finnick 2
 fibroenchondroma 2
