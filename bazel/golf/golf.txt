@@ -5747,7 +5747,7 @@ glockenspiel
 gallopade
 glossohyal
 gaultherase 1
-gobos
+gobos 1
 glossolalia 1
 gabbroid 1
 glossolysis 2
