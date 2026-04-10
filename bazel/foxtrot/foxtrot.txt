@@ -10793,7 +10793,7 @@ fullering
 footpads 1
 fuchsian 1
 floundered
-faintful
+faintful 1
 fuchsine
 flustra
 foveation
