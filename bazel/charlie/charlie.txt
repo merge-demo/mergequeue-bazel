@@ -7848,7 +7848,7 @@ cervixes
 cervoid
 cervuline
 cervus
-cesare
+cesare 1
 cesareans
 cesarevitch
 caramelizing
