@@ -2669,7 +2669,7 @@ antiarcha
 antitheft
 angiograph 1
 abrasiometer
-africa
+africa 1
 anticyclonic
 anax
 apex
