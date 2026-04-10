@@ -8682,7 +8682,7 @@ flaunters
 fryers
 funiculate
 furicane
-flapless
+flapless 1
 fathomable 1
 forthgaze
 forthgo
