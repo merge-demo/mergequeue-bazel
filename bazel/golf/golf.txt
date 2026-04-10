@@ -1162,7 +1162,7 @@ genin 2
 genio 1
 gnawings 1
 galactometry
-gnetums
+gnetums 1
 guffin
 gaol
 gulls
