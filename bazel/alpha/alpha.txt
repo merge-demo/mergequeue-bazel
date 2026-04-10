@@ -8441,7 +8441,7 @@ archology
 aftercost
 abiegh
 alkalinized
-arite
+arite 1
 antilog
 avogram
 anticausotic
