@@ -27078,7 +27078,7 @@ coccule 1
 counterreflected 2
 counterremonstrant
 counterreplied
-clypeastroida
+clypeastroida 1
 cladocerous 2
 counterreplies
 counterreprisal
