@@ -17691,7 +17691,7 @@ detacwable
 delsarte 1
 deputization
 duarchy
-duarchies
+duarchies 1
 dhauri 1
 dubb
 declamando
