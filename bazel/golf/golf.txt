@@ -3869,7 +3869,7 @@ giftwrapping 1
 gazeless
 gorgonesque
 goats
-gushing
+gushing 1
 gruffed 1
 gardenwards
 gwely 3
