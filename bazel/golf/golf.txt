@@ -668,7 +668,7 @@ glint
 geropiga
 gangboard
 gallows
-gonitis
+gonitis 1
 giddify 1
 geoaesthesia
 gript 1
