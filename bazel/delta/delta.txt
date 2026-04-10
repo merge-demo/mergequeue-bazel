@@ -12555,7 +12555,7 @@ doping
 dropsically
 depend 1
 defies
-divertible
+divertible 1
 disingenuousness
 dicaryophase
 detonator
