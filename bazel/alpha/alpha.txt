@@ -11960,7 +11960,7 @@ abodement
 ampelite
 admixes
 azeotropy
-aleukemic
+aleukemic 1
 anaphroditic 1
 anlaces
 aeolotropy 1
