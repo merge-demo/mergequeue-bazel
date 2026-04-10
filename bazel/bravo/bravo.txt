@@ -1260,7 +1260,7 @@ balanceable
 burion
 bafflements
 bilocellate
-buckskinned
+buckskinned 1
 baryonic 1
 bluejays 1
 bahai
