@@ -15971,7 +15971,7 @@ dialogize 1
 dasein
 dukhn
 dotkin
-dudish
+dudish 1
 dottiest
 dotlet
 derrickman
