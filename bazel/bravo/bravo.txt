@@ -10945,7 +10945,7 @@ blustered
 blinkers 1
 bael
 bellhop
-batement
+batement 1
 benchmar
 blinkingly
 blinter
