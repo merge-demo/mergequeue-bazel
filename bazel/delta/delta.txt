@@ -712,7 +712,7 @@ dancalite
 duro 1
 dopester
 diatom
-deadmelt
+deadmelt 1
 danceability
 danceable
 demoniacs
