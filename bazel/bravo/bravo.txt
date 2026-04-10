@@ -12102,7 +12102,7 @@ bagpudding
 barristress
 boldfaced 2
 boldfacedness
-boldfacing
+boldfacing 1
 bewitchments
 bleb
 boldhearted 1
