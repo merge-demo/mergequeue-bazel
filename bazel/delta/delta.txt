@@ -18529,7 +18529,7 @@ detrudes
 diumvirate
 duressor
 drivage
-diagraphic
+diagraphic 1
 desulfurization
 darbs
 disrates
