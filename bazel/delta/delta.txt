@@ -17843,7 +17843,7 @@ dyophysitical
 diverb
 devoutless
 dismark
-denervate
+denervate 1
 dabb
 desubstantialize 1
 dunst
