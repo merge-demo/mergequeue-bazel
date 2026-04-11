@@ -5652,7 +5652,7 @@ boraciferous 1
 benjoin
 besped
 beldams
-bacchar
+bacchar 1
 bilify
 belderroot 1
 bodgie
