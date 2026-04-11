@@ -11409,7 +11409,7 @@ disciplining 1
 depopulator 1
 diphosphothiamine
 discipular
-desktop
+desktop 1
 discontentedly
 deadbeats
 doctrinize 2
