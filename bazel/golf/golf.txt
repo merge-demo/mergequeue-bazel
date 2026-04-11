@@ -6361,7 +6361,7 @@ gollywobbler
 gambelli 2
 ganoblast
 garnitures 1
-gustables 1
+gustables 2
 gofer
 given 1
 getspace
