@@ -18593,7 +18593,7 @@ dustcart
 devocalisation
 distance 1
 dustcover 1
-diatonicism
+diatonicism 1
 dustee
 dusters 1
 desperadoism
