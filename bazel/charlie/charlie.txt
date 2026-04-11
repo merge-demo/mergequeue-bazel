@@ -14992,7 +14992,7 @@ colormaking
 ciudad
 cosmesis
 carpetless 1
-carbonado
+carbonado 1
 civet
 coadjutrice
 carcasing
