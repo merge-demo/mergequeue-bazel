@@ -10076,7 +10076,7 @@ frondiform
 feudatary 1
 firster
 foredecree
-formalise
+formalise 1
 fearfulness
 flightshot 2
 fittyfied 1
