@@ -8770,7 +8770,7 @@ exhedra 1
 enfeebler 1
 euphyllite
 eradicable
-enticement
+enticement 1
 eradicant
 epineolithic
 equilibrity
