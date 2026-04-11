@@ -11153,7 +11153,7 @@ artifices
 aquatinting
 avolation
 amphibole
-alkide
+alkide 1
 addictive
 analgesis
 aromatizer
