@@ -3382,7 +3382,7 @@ ghostcraft
 germs
 glaucescence
 griseous 1
-garment
+garment 1
 gigartinaceae 1
 gypseous 1
 gaertnerian 1
