@@ -4252,7 +4252,7 @@ cursillo
 careless 1
 carelessly
 carelessness
-careme
+careme 1
 carene
 carer
 chyometer
