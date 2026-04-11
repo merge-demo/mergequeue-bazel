@@ -9029,7 +9029,7 @@ galvanothermy 1
 gaminess
 guiles
 geohydrologic
-groomer
+groomer 1
 grillee
 gatehouse 1
 golem 2
