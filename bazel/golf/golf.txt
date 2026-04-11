@@ -2052,7 +2052,7 @@ glime
 grapeful
 gantry
 gazzetta
-gutterize
+gutterize 1
 gavels
 gavia 1
 geminiform
