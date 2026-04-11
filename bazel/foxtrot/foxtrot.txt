@@ -1298,7 +1298,7 @@ fop
 fleeced
 former
 foxtails
-fructivorous
+fructivorous 1
 fatbird 1
 fatefully
 fanaticise
