@@ -8274,7 +8274,7 @@ friction
 forging
 furacity 2
 formous 1
-forgings
+forgings 1
 figgy 1
 freelances
 forgivable
