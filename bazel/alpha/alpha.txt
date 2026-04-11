@@ -15102,7 +15102,7 @@ amphitokal 1
 artotypy
 aspherical
 anoplanthus
-antidromically
+antidromically 1
 apparance
 antidrug
 anemotropic
