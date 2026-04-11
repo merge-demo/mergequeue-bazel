@@ -2392,7 +2392,7 @@ fromfile
 foreordinating
 freakpot 1
 fantods
-fervidor
+fervidor 1
 formicivorous
 filtrable 1
 fingernail 2
