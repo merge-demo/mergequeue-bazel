@@ -17600,7 +17600,7 @@ autovalve
 appendorontgenography
 antheximeter
 appendotome
-activist
+activist 1
 astroid 1
 adjoining 1
 appentice
