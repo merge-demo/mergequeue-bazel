@@ -2493,7 +2493,7 @@ gibbetwise
 genitalic
 grandity 2
 glossier
-girdlelike
+girdlelike 1
 gaucher 2
 golds
 gradienter
