@@ -10410,7 +10410,7 @@ firsts 3
 fusileers
 flandan
 forewarm 1
-fluorinated
+fluorinated 1
 frontlash 1
 flatmen
 fallowing 1
