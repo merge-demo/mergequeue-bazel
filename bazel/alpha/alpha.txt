@@ -2418,7 +2418,7 @@ antismut
 apeptic
 azygos
 argemone 1
-afterfeed
+afterfeed 1
 aftertime
 ackmen
 acanthocephali
