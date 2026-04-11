@@ -5051,7 +5051,7 @@ forecourse
 fatteners 1
 flaperon 1
 flippantly 1
-flappable
+flappable 1
 frankalmoin
 flappet
 fermions
