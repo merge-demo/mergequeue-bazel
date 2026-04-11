@@ -12742,7 +12742,7 @@ esprove 2
 enthelminthes
 embryography 1
 exceeds
-exorbitation
+exorbitation 1
 eloah
 epidemiologically
 epispinal
