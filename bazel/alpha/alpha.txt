@@ -8484,7 +8484,7 @@ alkaptone
 ascent 1
 alkaptonuric
 alkarsin
-ancipital
+ancipital 1
 annuisance
 alkatively
 accismus
