@@ -913,7 +913,7 @@ gelatinate 1
 gambia
 garnishable
 grittiness
-gosport
+gosport 1
 gemeinschaften
 galt
 gametophoric 1
