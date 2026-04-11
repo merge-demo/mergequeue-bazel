@@ -2713,7 +2713,7 @@ diatessaron
 dortiness 1
 dejectly
 decontaminators
-depressionary
+depressionary 1
 dvornik
 duci
 derails
