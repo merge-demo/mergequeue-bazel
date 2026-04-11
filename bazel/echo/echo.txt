@@ -9666,7 +9666,7 @@ equaling
 editchar
 espino 1
 erythroplastid 1
-esplanade
+esplanade 1
 enhancements
 elkhounds 1
 exsec
