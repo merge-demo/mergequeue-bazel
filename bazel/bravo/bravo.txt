@@ -11412,7 +11412,7 @@ bekko
 bestrut
 boxthorn
 bagplant 1
-bluejacket
+bluejacket 1
 bluejacks
 blueline
 blennophthalmia
