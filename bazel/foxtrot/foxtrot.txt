@@ -10485,7 +10485,7 @@ fanzine
 finises 2
 fervencies 1
 floggable 1
-felsosphaerite
+felsosphaerite 1
 frostroot 1
 floe
 freshment
