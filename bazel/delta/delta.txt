@@ -6330,7 +6330,7 @@ delint
 diagonial 1
 daltonism
 dermis
-drawbores
+drawbores 1
 dendrologist
 diaplasis
 dejectory 1
