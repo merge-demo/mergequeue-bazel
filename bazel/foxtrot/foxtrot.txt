@@ -6722,7 +6722,7 @@ feast 1
 forelegs
 fogon 1
 fogproof
-frugally
+frugally 1
 flaughter 1
 fellator 1
 frangulaceae
