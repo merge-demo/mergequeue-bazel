@@ -11923,7 +11923,7 @@ earthenware
 expurgation 1
 ephidrosis 1
 excerebration
-extraphysical
+extraphysical 1
 endemiology
 eudaemonistically
 excursory
