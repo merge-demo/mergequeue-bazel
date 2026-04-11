@@ -5601,7 +5601,7 @@ gipsyry
 gravestone
 governance
 goller
-giantesque
+giantesque 1
 grithbreach 1
 grime 1
 girdlecake 1
