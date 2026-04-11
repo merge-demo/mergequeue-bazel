@@ -15203,7 +15203,7 @@ dolerophanite
 disproperty 1
 durr
 decants
-dungbird
+dungbird 1
 defrayment
 denticete
 dolichocephalize
