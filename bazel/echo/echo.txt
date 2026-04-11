@@ -4736,7 +4736,7 @@ exponentiating 1
 encircle
 embrowned
 emittent
-elocutive
+elocutive 1
 entryway
 euripides 1
 electrowin
