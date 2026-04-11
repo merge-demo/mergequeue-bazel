@@ -12172,7 +12172,7 @@ dilker
 disproven
 declinations
 dehusk 1
-depthometer
+depthometer 1
 diacetine
 dha
 deadlily
