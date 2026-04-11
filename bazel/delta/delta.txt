@@ -10154,7 +10154,7 @@ dislip
 devulgarize
 diluvian
 duckbills
-deadly
+deadly 1
 dingdonged 1
 deltidia 1
 dues
