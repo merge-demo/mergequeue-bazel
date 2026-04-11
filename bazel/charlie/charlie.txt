@@ -6827,7 +6827,7 @@ cello
 chambermaid
 celloid
 chairmaker
-cathodofluorescence
+cathodofluorescence 1
 celloidin
 constative 1
 counterbalance
