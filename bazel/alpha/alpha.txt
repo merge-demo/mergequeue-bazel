@@ -18731,7 +18731,7 @@ apurpose
 ammonobasic
 anubin
 archdiplomatist 1
-archdivine
+archdivine 1
 azymous
 alginuresis
 appliqued
