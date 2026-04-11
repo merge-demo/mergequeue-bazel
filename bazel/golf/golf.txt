@@ -9524,7 +9524,7 @@ granting
 guiltiness 1
 gentilitious
 graals
-glutinize
+glutinize 1
 guanaco
 gemellion 1
 garden
