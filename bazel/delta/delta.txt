@@ -6162,7 +6162,7 @@ dowsabels
 destructivism 1
 dereistic
 derelicts
-demast
+demast 1
 droshkies
 dolours
 decrepitness
