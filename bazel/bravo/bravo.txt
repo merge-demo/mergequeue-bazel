@@ -13752,7 +13752,7 @@ bloat
 bescurf
 burga 2
 bufflehorn 1
-bovaristic
+bovaristic 1
 burgout
 bovate
 besmirching
