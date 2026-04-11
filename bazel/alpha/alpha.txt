@@ -14247,7 +14247,7 @@ asepticize
 argilliferous
 acephal 2
 aptitudinal 1
-anterosuperior
+anterosuperior 1
 antesternal
 antesuperior
 arboretums
