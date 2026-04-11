@@ -1281,7 +1281,7 @@ galium
 glyphographer
 gumpus
 grallina 1
-gnatsnapper
+gnatsnapper 1
 ganges
 granch
 giddying
