@@ -3564,7 +3564,7 @@ capturable
 catechized
 capture 1
 captured
-captures
+captures 1
 capturing
 curricular
 capuan
