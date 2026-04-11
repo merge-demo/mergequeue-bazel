@@ -8956,7 +8956,7 @@ erikite
 erinaceidae
 ephebes
 eclairissement
-ectotherm
+ectotherm 1
 expropriation
 eryngos 1
 elasmotherium
