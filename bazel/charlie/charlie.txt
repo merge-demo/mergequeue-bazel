@@ -2924,7 +2924,7 @@ coverts
 chestily 1
 chorioids 1
 condylos
-crappy
+crappy 1
 cantdog
 compensatively
 cantefable
