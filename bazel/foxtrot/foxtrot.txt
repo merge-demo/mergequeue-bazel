@@ -386,7 +386,7 @@ filicauline
 forbid
 fairfieldite
 facets 1
-faceoff 1
+faceoff 2
 fancifully 1
 fairground 1
 fairy
