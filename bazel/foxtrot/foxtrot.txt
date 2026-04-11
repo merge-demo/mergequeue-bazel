@@ -506,7 +506,7 @@ funbre
 friz 1
 fertilizing
 frenne
-filicite
+filicite 1
 faking 1
 fumify
 figgle
