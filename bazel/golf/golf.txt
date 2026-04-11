@@ -6112,7 +6112,7 @@ geogen
 guessworker
 gravities
 goodby
-gordiacean
+gordiacean 1
 girja
 gigliato
 gardinol 1
