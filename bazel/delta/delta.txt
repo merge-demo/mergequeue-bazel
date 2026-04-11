@@ -3542,7 +3542,7 @@ desiccated
 dagobas 2
 desmomyaria
 dufoil
-drapery
+drapery 1
 drowsiest
 defrauds
 defreeze
