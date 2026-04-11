@@ -8810,7 +8810,7 @@ binocularly
 binoculars 1
 binodose
 buckbean
-bari
+bari 1
 banalities
 battery
 bedrivels
