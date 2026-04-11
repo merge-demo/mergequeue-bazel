@@ -11979,7 +11979,7 @@ evaporation 1
 epiploon
 excitations
 escapes 2
-eastbound
+eastbound 1
 eulogists
 enveloped
 eurylaimidae
