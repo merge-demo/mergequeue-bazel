@@ -4525,7 +4525,7 @@ favissa
 farmlands 1
 feer
 forheed
-foreigner
+foreigner 1
 forslake
 flooded
 fountainhead
