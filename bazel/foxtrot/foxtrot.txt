@@ -1010,7 +1010,7 @@ flashes
 fluorapatite
 fluoborid
 feeblest
-farinas
+farinas 1
 foglietto 1
 fascicles
 filmgoing
