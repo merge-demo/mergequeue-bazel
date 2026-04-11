@@ -6395,7 +6395,7 @@ dixie
 derogating
 derogative
 derogator
-derogatory
+derogatory 1
 dooja
 dermovaccine
 dischurch
