@@ -2271,7 +2271,7 @@ flatulence
 firebombed 1
 fumaria
 forshape
-full
+full 1
 flavones
 filamentiferous
 fantails 1
