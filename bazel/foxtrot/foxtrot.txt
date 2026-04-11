@@ -2955,7 +2955,7 @@ fevered
 flitchen
 furnacing
 franklinian
-feveret
+feveret 1
 forefending
 forefault
 forworden 1
