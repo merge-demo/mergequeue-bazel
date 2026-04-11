@@ -13909,7 +13909,7 @@ billback 2
 brushoffs
 bowstring 1
 burial
-bacteriotropic
+bacteriotropic 1
 binoculate
 birdlike
 bowstrung
