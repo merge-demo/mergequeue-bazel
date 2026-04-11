@@ -4011,7 +4011,7 @@ delegates
 delegateship
 dermographism 1
 digressiveness
-dibasicity
+dibasicity 1
 dialing
 dipteros 1
 dirten 1
