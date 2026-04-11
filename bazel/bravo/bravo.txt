@@ -12858,7 +12858,7 @@ blipped
 boondoggling
 banishers
 boonfellow
-betrayers
+betrayers 1
 bondslave
 behorror 1
 bifoil
