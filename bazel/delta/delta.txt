@@ -8587,7 +8587,7 @@ dimercury
 diaphtherin
 dulcifies
 durative
-demihake
+demihake 1
 digressionary 2
 devourer 2
 daphnioid
