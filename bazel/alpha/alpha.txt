@@ -24333,7 +24333,7 @@ archprophet
 abaters
 autoptically 1
 aeromancy 1
-attractionally
+attractionally 1
 alpinists
 adjurors
 aquaducts
