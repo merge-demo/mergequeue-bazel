@@ -2819,7 +2819,7 @@ gentlemanlikeness
 gossan 1
 gybing
 grenadines 2
-goosehouse
+goosehouse 1
 gnathoplasty
 genuflection
 gallates
