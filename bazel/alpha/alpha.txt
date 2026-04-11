@@ -11312,7 +11312,7 @@ aguador 1
 amphitene
 amphitheatre
 arrivance
-aglycons
+aglycons 1
 anilin 1
 aniliid
 amphithecia
