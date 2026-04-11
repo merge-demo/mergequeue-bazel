@@ -9253,7 +9253,7 @@ dimnesses
 docibleness 1
 dier 1
 dyer
-dementis
+dementis 1
 dochmii
 dieresis
 dihydrazone
