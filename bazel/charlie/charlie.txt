@@ -6186,7 +6186,7 @@ coky
 compoundable
 cauboge
 caucasian
-caucasians
+caucasians 1
 carcan
 caucasic
 colombo
