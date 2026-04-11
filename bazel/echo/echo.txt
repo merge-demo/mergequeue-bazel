@@ -11680,7 +11680,7 @@ exogenism
 eadish
 exaggerate
 electrize
-etiotropic
+etiotropic 1
 epitra 2
 exaggerated
 eccentricity 1
