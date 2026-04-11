@@ -5352,7 +5352,7 @@ endosmoses
 explicit 1
 enjewel
 emim
-everglades
+everglades 1
 exsertion
 endospore
 evidentness 1
