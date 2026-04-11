@@ -2554,7 +2554,7 @@ forequarter 1
 finlandization
 fluvicoline 2
 fleerer 2
-flimp
+flimp 1
 ferricyanide
 ferrihydrocyanic
 fervency
