@@ -9354,7 +9354,7 @@ emane
 enrobement
 effecter
 enveigle 1
-epilimnionia
+epilimnionia 1
 educable
 escalades
 escalating 1
