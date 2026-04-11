@@ -6553,7 +6553,7 @@ ehlite
 exhauster
 enwrapt
 earsore
-epaenetic
+epaenetic 1
 entanglements 1
 extraplanetary
 egophonic
