@@ -17774,7 +17774,7 @@ dorsosternal
 desoxycorticosterone
 depa
 desoxyanisoin
-duckbill
+duckbill 1
 dossing 1
 duckblind 2
 dismaw 2
