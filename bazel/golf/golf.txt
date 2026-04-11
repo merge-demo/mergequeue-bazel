@@ -5885,7 +5885,7 @@ gadder 1
 guadalcazarite
 goldfinch
 glycosidase 2
-gawney
+gawney 1
 gipsyweed 2
 glucoses
 glances
