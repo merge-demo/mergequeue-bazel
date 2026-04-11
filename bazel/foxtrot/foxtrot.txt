@@ -1708,7 +1708,7 @@ flourless
 foodservices 1
 fuselage
 faviform 1
-feasibly
+feasibly 1
 fashionmonger
 flighted
 fascio
