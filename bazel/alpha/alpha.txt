@@ -5779,7 +5779,7 @@ aleurodidae
 acephalia 1
 acculturative
 agaroid
-alloeosis
+alloeosis 1
 agaroses 1
 agarwal
 angiomatosis
