@@ -7296,7 +7296,7 @@ gamostelic
 garcon
 gassendist 1
 gortonite
-gauffer
+gauffer 1
 graphiologist 2
 glutaric
 glitches 1
