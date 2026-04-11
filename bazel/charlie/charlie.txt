@@ -3295,7 +3295,7 @@ capitulate
 capitulates
 capitulator 1
 capituliform
-cystolithic
+cystolithic 1
 crotchwood
 celebratory
 coilers
