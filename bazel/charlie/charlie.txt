@@ -7335,7 +7335,7 @@ cephaline
 cephalins 1
 cephalism
 caprine
-cephalitis
+cephalitis 1
 cephalization
 cephaloauricular
 cephalobranchiata
