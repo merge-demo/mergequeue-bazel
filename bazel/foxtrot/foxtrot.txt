@@ -9974,7 +9974,7 @@ fed
 feracity 1
 firelike
 frigotherapy 1
-facial
+facial 1
 fibrosities
 fencings 1
 fliest 1
