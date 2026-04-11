@@ -3741,7 +3741,7 @@ dasymeter
 dichromism
 deglutinate 1
 depot
-domitic
+domitic 1
 delegated
 disprove
 dehkan
