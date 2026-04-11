@@ -1718,7 +1718,7 @@ balsaminaceae
 balsamine
 become 1
 balsamitic
-balsamiticness 2
+balsamiticness 3
 benzoylating
 boldheartedly 1
 balsamorrhiza 1
