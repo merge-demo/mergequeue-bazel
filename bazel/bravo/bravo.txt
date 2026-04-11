@@ -2082,7 +2082,7 @@ banovina
 banquet
 blindish
 bardiest
-banqueting
+banqueting 1
 beseem
 buddhistic 1
 besteer
