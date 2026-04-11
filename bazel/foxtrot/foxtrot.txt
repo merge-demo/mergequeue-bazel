@@ -7564,7 +7564,7 @@ foggier
 fractionise
 forecourts
 freeholding 1
-fulmen
+fulmen 1
 frau
 furuncles 2
 faille 3
