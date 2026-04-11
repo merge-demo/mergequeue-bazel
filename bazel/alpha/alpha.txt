@@ -5326,7 +5326,7 @@ accra 2
 afflicter
 afflicting
 afflictingly
-afflictionless
+afflictionless 1
 abranchian
 ambulante
 archoplasm
