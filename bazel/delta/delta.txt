@@ -5419,7 +5419,7 @@ delicatesse
 daffodil
 denudant
 dendra
-decontrol
+decontrol 1
 delim
 deschampsia
 denudating 1
