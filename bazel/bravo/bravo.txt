@@ -13154,7 +13154,7 @@ borreria 1
 blephariglottis
 bandoliered
 bonanzas
-borrowable
+borrowable 1
 barocyclonometer
 borrower
 borrowers
