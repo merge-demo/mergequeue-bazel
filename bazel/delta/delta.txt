@@ -563,7 +563,7 @@ doesnt
 delivers
 dromon 1
 disbursable
-disfranchiser
+disfranchiser 1
 damaskeen 1
 dod
 damaskine 1
