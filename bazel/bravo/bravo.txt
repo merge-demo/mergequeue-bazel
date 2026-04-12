@@ -13913,7 +13913,7 @@ bacteriotropic 1
 binoculate
 birdlike
 bowstrung
-behavior
+behavior 1
 bowtell
 barographic 1
 backpointer 1
