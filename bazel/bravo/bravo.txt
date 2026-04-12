@@ -11386,7 +11386,7 @@ badinaged 1
 bouncily
 bitterworm 1
 babi 1
-build
+build 1
 beside
 bibbed
 bibio 1
