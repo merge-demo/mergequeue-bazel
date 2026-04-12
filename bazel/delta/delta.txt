@@ -7167,7 +7167,7 @@ dollyman 1
 decompose
 dispersement
 diductor
-drawboring
+drawboring 1
 deerkill 1
 desulphurize
 depauperate
