@@ -22857,7 +22857,7 @@ alphenic
 anyhow 1
 assonate 1
 aquo
-atmosphereless
+atmosphereless 1
 announces
 almendro
 antidyscratic
