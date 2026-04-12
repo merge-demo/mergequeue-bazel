@@ -5231,7 +5231,7 @@ castings
 casparian 1
 caspian
 coriariaceous
-casque
+casque 1
 casqued
 cushat
 casquetel
