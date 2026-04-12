@@ -7960,7 +7960,7 @@ downsteepy
 diathermal 1
 decimeters
 dextroaural
-diacanthous
+diacanthous 1
 dismes
 drupiferous
 dartos
