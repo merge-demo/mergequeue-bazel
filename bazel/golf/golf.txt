@@ -3060,7 +3060,7 @@ glyptotheca
 gametogenous
 garnetz
 gossipper
-giant
+giant 1
 gnash
 glaciologists 2
 grands 1
