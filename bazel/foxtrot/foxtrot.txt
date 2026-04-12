@@ -10119,7 +10119,7 @@ foreknee
 fe 1
 feckly
 fulciform 2
-fortuitus
+fortuitus 1
 fissiparously
 frittering 1
 fuchi
