@@ -3429,7 +3429,7 @@ embassy
 eustomatous
 eriometer
 episyllogism 1
-edeotomy
+edeotomy 1
 eucirripedia
 embogue
 electrophobia
