@@ -9274,7 +9274,7 @@ empathies
 electrotellurograph 1
 externalist 1
 exogamous
-expositional
+expositional 1
 ebricty
 entertains
 euchologia
