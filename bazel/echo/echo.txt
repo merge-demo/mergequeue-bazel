@@ -6857,7 +6857,7 @@ ensky 1
 etherification
 exceptionless
 epitome
-exterior
+exterior 1
 embarque 1
 enameloma 1
 extractive
