@@ -23614,7 +23614,7 @@ cyril 1
 capitular
 cubomancy
 comforts
-contortions
+contortions 1
 contorts
 commos
 contour
