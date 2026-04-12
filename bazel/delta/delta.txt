@@ -2320,7 +2320,7 @@ dismounted
 diagraphs 2
 dekaparsec
 dermatropic 1
-dactylioglyphic
+dactylioglyphic 1
 danglement
 drat
 diacetyls
