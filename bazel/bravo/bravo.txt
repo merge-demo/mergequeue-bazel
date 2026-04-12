@@ -13763,7 +13763,7 @@ bezil
 bestrowed 1
 bovinities
 begazes
-buffet
+buffet 1
 blesseder 2
 bedlam
 bogs
