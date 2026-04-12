@@ -1086,7 +1086,7 @@ elective 1
 edification
 evaluators
 exfigure
-earock
+earock 1
 equipoised
 evaluates 1
 envined 2
