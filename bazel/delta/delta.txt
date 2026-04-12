@@ -11945,7 +11945,7 @@ domes 1
 digestion 1
 derailleur
 disembarked 1
-demephitize
+demephitize 1
 duskish
 dietetical 1
 disacidified
