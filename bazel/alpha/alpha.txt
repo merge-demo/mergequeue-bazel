@@ -9707,7 +9707,7 @@ alveolariform
 antitetanic
 alveolate
 alveolation
-alveole
+alveole 1
 alveolectomy 2
 alveoli
 alveoliform 1
