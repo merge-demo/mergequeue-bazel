@@ -20835,7 +20835,7 @@ arupa 1
 armoried
 aruspicy
 axilla
-arteriography
+arteriography 1
 arval
 arvejon
 auturgy
