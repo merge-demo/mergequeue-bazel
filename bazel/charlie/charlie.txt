@@ -18791,7 +18791,7 @@ caravaned
 cabochon
 concentrical 1
 coleophoridae
-coleopter
+coleopter 1
 coleoptera
 chalcedonic 2
 cardiotoxic 1
