@@ -13039,7 +13039,7 @@ bemantle 1
 balangay
 bolster 1
 blousing
-borders 1
+borders 2
 borderland
 bagpipe 1
 beriber 1
