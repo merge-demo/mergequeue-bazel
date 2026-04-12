@@ -7707,7 +7707,7 @@ eriocaulaceous 1
 effluxion
 estrus
 esprise
-extruder
+extruder 1
 ellipticalness 1
 epidemically
 exalt
