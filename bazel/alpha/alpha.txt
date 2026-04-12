@@ -24314,7 +24314,7 @@ acclimatize
 autopolar
 autopolyploid 1
 autopolo
-anomalous
+anomalous 1
 autopoloist
 animalculae
 ambles
