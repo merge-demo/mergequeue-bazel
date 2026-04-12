@@ -19232,7 +19232,7 @@ aliners
 amygdophenin
 awabi
 adventurish
-arduousness
+arduousness 1
 apathia 1
 astrocaryum
 ardurous
