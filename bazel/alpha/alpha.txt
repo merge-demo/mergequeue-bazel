@@ -7265,7 +7265,7 @@ aggravable
 albuminose
 alarm
 assumably 1
-alarmclock
+alarmclock 1
 alexanders
 abamps
 alarmedly
