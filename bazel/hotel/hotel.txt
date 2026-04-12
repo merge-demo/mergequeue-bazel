@@ -1890,7 +1890,7 @@ hclvtec
 hclw 1
 hclwxndq
 hclydxbhscl
-hclygh
+hclygh 1
 hcme 1
 hcmfcq
 hcmhgleaykan 1
