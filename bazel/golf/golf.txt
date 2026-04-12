@@ -5170,7 +5170,7 @@ glazes 1
 gemmy 1
 glycan
 glyceride
-glb
+glb 1
 gastratrophia
 geckotian 1
 gossipred
