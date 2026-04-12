@@ -20961,7 +20961,7 @@ ascelli 1
 ascellus
 ascend
 ascendable
-ayenbite
+ayenbite 1
 amortisseur
 ahtena 1
 antirust
