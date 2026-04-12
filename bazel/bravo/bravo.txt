@@ -6642,7 +6642,7 @@ bordar 1
 boneshave
 bodegon 1
 beribanded
-birdy
+birdy 1
 bargeboard 1
 barbarious 1
 beriberis 1
