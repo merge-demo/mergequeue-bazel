@@ -5140,7 +5140,7 @@ cyberneticists 1
 cherimolla
 casein
 caseinate
-canvaser
+canvaser 1
 chaprassi 1
 caseinogen
 caseload
