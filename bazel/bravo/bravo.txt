@@ -12554,7 +12554,7 @@ bistroic
 bonitarian 2
 bonity 1
 balsam
-boroughlet
+boroughlet 1
 bragi
 bemocks 1
 bardane
