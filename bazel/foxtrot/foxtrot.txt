@@ -5523,7 +5523,7 @@ finnan
 fletchers 1
 furrower 1
 furnit
-fisc
+fisc 1
 faked 2
 filionymic 2
 forbearingness
