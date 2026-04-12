@@ -3072,7 +3072,7 @@ breather
 blastplate 1
 bating
 badminton
-barware
+barware 1
 boneblack 2
 barksome 1
 basale 1
