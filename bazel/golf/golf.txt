@@ -774,7 +774,7 @@ glossolalist 1
 gutter
 gluck 2
 gutturize
-galvanothermometer
+galvanothermometer 1
 ggr
 galliformes 2
 ginneries 2
