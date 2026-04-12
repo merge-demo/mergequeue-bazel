@@ -15763,7 +15763,7 @@ algebra
 atlantica
 angeleno
 astute
-accostable
+accostable 1
 antiperistalsis
 antiperistatic
 antiperspirant
