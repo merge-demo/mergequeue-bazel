@@ -3926,7 +3926,7 @@ fumigators
 fusinist 2
 fullage
 frostproof
-fustianize
+fustianize 1
 foggage
 fang
 formalised
