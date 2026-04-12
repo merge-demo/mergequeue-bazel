@@ -14480,7 +14480,7 @@ ackey
 antiuating
 anthrophore
 anthropical
-acquisition
+acquisition 1
 anthropobiology 1
 apneumatosis 1
 automaton
