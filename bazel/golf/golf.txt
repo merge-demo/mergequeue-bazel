@@ -2615,7 +2615,7 @@ grisette
 gowf 1
 glossolabial
 geiger 1
-goutte
+goutte 1
 garabato
 galluot 1
 glisters
