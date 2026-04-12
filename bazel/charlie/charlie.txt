@@ -2155,7 +2155,7 @@ cufflinks
 conturbation
 channelizing
 coalbin 1
-conterminate
+conterminate 1
 cymba 1
 corduroy
 campho
