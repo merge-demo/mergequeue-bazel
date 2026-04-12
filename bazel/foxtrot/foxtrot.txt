@@ -5498,7 +5498,7 @@ fretwork 2
 forbarred
 fratching 1
 foraged
-fleshy
+fleshy 1
 fillet
 ferally 1
 fleshing
