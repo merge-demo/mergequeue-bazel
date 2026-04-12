@@ -11579,7 +11579,7 @@ fundatrix
 fanleaf 1
 fluence
 fruitlike 1
-foretalking
+foretalking 1
 fthm
 fusionist
 fusions
