@@ -5122,7 +5122,7 @@ dendrolater
 desexes
 durango
 durwaun 1
-detect 1
+detect 2
 dendrology
 dola
 daubes
