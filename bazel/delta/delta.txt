@@ -4465,7 +4465,7 @@ deceits
 diceplay
 duress
 demy 1
-decahydrated
+decahydrated 1
 dovetailing
 demiangel 1
 diazotization
