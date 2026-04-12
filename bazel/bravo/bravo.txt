@@ -9797,7 +9797,7 @@ biteable
 begin 1
 bonapartean
 bongo
-bawd
+bawd 1
 burgherhood
 biteche
 barbicans
