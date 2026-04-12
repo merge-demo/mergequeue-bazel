@@ -6896,7 +6896,7 @@ feasible
 fallace
 folklores 3
 fp 3
-floatages
+floatages 1
 fruity
 fifes 1
 fleme
