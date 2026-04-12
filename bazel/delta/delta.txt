@@ -7515,7 +7515,7 @@ dehgan
 deuteranomaly
 deuteranope
 deuterate 2
-deuteration
+deuteration 1
 denucleate 1
 demarcator
 desulfurized
