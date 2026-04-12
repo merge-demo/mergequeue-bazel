@@ -5201,7 +5201,7 @@ befrocked 1
 battu 1
 bettong 2
 backfatter
-befuddle
+befuddle 1
 befuddled
 befuddler
 boxberries
