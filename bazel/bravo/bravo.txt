@@ -2927,7 +2927,7 @@ blind
 benefactor 1
 begorra
 bushers
-bureaucratize 1
+bureaucratize 2
 barreling
 bibaciousness
 backbiting 1
