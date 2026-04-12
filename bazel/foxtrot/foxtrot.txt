@@ -6687,7 +6687,7 @@ fogdom
 fogfruit
 fibrins
 fruiteress
-flatterable 2
+flatterable 3
 flintlock
 flexura
 flouts
