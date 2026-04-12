@@ -23735,7 +23735,7 @@ contraplex 1
 contrapolarization
 cytopenia
 chuffy
-contrapose
+contrapose 1
 contraposed
 clinospore
 chalcograph
