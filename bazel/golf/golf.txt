@@ -5443,7 +5443,7 @@ germanly 2
 greenness 1
 glauconiidae 3
 garottes
-glyptodon
+glyptodon 1
 glyptodontoid 2
 glebae 1
 ghostwrites
