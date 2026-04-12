@@ -1301,7 +1301,7 @@ foxtails
 fructivorous 1
 fatbird 1
 fatefully
-fanaticise
+fanaticise 1
 findability 1
 fernambuck
 fibromata
