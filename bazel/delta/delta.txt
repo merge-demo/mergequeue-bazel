@@ -2472,7 +2472,7 @@ decipium
 diphase 1
 diplodocus
 dipyre
-decision
+decision 1
 defeatists
 distinctly
 decisional
