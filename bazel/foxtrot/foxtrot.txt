@@ -1970,7 +1970,7 @@ fernticle
 fibratus 1
 functionalize
 frigiferous
-flchette
+flchette 1
 flannelette
 fireball 1
 flushed 2
