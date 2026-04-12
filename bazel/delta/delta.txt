@@ -9796,7 +9796,7 @@ daimones
 denumerable
 deicer
 digesters
-dillydally
+dillydally 1
 dejectile
 diapaused
 discanonize
