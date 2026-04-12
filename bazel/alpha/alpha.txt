@@ -19487,7 +19487,7 @@ argled
 arcubalister 1
 antimedication
 accusant
-arith
+arith 1
 argling
 allspices
 absolvers
