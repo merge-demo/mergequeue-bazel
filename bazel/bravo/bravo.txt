@@ -13305,7 +13305,7 @@ benzanalgen
 brachioradialis 2
 botanizes
 bulbless
-balsamed
+balsamed 1
 bacterially
 bemat 1
 bradburya
