@@ -1569,7 +1569,7 @@ ensconces
 enervates 2
 erosible
 extraversion
-encampment
+encampment 1
 epinasty
 envigor
 exogeny 1
