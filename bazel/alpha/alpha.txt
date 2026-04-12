@@ -24015,7 +24015,7 @@ alumnus
 afterproof 1
 addlins 1
 accerse
-antapocha
+antapocha 1
 antiproton
 align 1
 acetobacter 2
