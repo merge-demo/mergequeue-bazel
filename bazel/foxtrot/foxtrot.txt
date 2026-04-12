@@ -8307,7 +8307,7 @@ freestyler
 fusspots 1
 forenames 1
 forepole 2
-foregame 1
+foregame 2
 fraternising
 fountaining 2
 foursome 1
