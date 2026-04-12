@@ -3428,7 +3428,7 @@ dudgeon
 dissatisfy
 debasement
 deflocculate
-deflocculating
+deflocculating 1
 dermatoptera
 decreasing
 doubting 1
