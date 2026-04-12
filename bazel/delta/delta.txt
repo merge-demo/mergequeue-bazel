@@ -12480,7 +12480,7 @@ dexterity
 defy 3
 deboise
 demesne
-dislimb 1
+dislimb 2
 disyllabized
 dumky
 discontinuations
