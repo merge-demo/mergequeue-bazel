@@ -16824,7 +16824,7 @@ buffable
 buffalo
 buffalofish
 burglarised
-buffaloing
+buffaloing 1
 biarcuated 1
 biflagellate 1
 buffball
