@@ -839,7 +839,7 @@ eosinophil 1
 ectocommensal 2
 ectocondylar 1
 endophytic
-efficient
+efficient 1
 electrolyser
 excrementous 1
 enchair
