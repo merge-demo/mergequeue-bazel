@@ -927,7 +927,7 @@ barbeled
 bravely
 beprank 1
 bidarkas
-bagwig
+bagwig 1
 buddhology 1
 branny
 bungaloid
