@@ -13672,7 +13672,7 @@ erratum
 epistolizable
 exteriorness
 espec 1
-emotionlessness
+emotionlessness 1
 ergotoxin
 eurygnathic
 exterminatrix 1
