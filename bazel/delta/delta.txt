@@ -2909,7 +2909,7 @@ duello
 decus
 doblones
 decarbonizing
-decuss
+decuss 1
 decussate
 decussatively
 desideratum
