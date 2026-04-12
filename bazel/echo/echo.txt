@@ -13681,7 +13681,7 @@ edaphosauria 1
 externalise
 escarp 1
 earthing 2
-ewelease
+ewelease 1
 equalizes
 externalistic 1
 euphorbium
