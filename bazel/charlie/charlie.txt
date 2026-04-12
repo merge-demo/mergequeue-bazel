@@ -8738,7 +8738,7 @@ cockpits
 chapelize
 chirpier
 coccolithophorid
-chapellany
+chapellany 1
 chapelled
 cimnel
 carditic 1
