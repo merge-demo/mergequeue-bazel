@@ -15951,7 +15951,7 @@ clergywoman
 clementine
 culverfoot
 clerical
-clericalists
+clericalists 1
 crumbum
 clericality
 clericals
