@@ -793,7 +793,7 @@ gimlet 1
 gambade 2
 gravata
 garrotting
-gastroenteritic
+gastroenteritic 1
 gambang 2
 gastrular
 grazer 1
