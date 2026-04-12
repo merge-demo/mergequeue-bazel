@@ -3749,7 +3749,7 @@ batts
 blowpipe
 befouler
 boing 1
-brahmanic
+brahmanic 1
 broideress 1
 biologese 1
 biologists
