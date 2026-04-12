@@ -16637,7 +16637,7 @@ aperients
 albronze
 aperiodically
 ambulanced
-average
+average 1
 aperiodicity
 antiradiation
 acaroid
