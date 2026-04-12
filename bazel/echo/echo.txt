@@ -8070,7 +8070,7 @@ epigones
 ectodermal
 exteriorly 1
 ego
-ektodynamorphic
+ektodynamorphic 1
 endamebic
 earthworks
 epineural
