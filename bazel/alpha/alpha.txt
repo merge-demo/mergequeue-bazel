@@ -15034,7 +15034,7 @@ anlage
 anosphresia 2
 archworker
 achyrodes
-anticrisis
+anticrisis 1
 anticritic
 anaglyptics
 anticritical
