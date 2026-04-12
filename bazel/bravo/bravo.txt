@@ -3119,7 +3119,7 @@ boneset
 baselevel 1
 biradiate 2
 bismarck
-bustards
+bustards 1
 boswellize
 basella 1
 basellaceae
