@@ -11420,7 +11420,7 @@ disclimax 1
 dialogite
 drossing 1
 dastardy
-dockyard
+dockyard 1
 dissuader 2
 demivotary
 determinoid
