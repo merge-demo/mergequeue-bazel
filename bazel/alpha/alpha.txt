@@ -16561,7 +16561,7 @@ abioses
 antitrochanter
 allochetia
 apalit
-apanaged
+apanaged 1
 alouatta
 arabize
 apandry
