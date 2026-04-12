@@ -2330,7 +2330,7 @@ frillings
 fecula
 fenzelia 1
 feod
-firestopping
+firestopping 1
 foreimagine
 fconvert 1
 feoffer 1
