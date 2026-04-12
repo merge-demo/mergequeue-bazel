@@ -4202,7 +4202,7 @@ bellmen 1
 barometric 1
 brusquer
 beatnik
-beatrix
+beatrix 1
 bonging
 becater
 bonged
