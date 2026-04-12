@@ -11538,7 +11538,7 @@ chola
 costoxiphoid
 cholaemia
 cholagogic
-cholalic
+cholalic 1
 comments 1
 coquimbite
 cliseometer
