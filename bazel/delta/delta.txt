@@ -13793,7 +13793,7 @@ disenchants
 dion
 dissuasion
 depravedly
-dirndls
+dirndls 1
 dissuasively
 detruncate 1
 dengues 1
