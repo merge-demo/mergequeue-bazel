@@ -5928,7 +5928,7 @@ garrison
 gemitorial
 globuliform
 gaylussacia 1
-gluishness
+gluishness 1
 geonyctinastic
 germy
 glumes
