@@ -10339,7 +10339,7 @@ guland
 grubstaking
 gules 2
 gown
-gonoph
+gonoph 1
 grot
 glebal 2
 guarana
