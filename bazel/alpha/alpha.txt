@@ -12186,7 +12186,7 @@ amphibali
 aegyptilla 1
 antiflash
 anaunters
-aggressive
+aggressive 1
 ablaut
 aerocyst 1
 andira
