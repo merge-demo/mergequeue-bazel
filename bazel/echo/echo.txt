@@ -6949,7 +6949,7 @@ expense
 embargoed
 evangelicality 1
 enjoyableness 1
-entosternal
+entosternal 1
 erick
 eleganter
 extrapolations 1
