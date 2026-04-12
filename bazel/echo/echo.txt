@@ -4917,7 +4917,7 @@ ensured
 es 1
 entablements
 excisions
-ef
+ef 1
 encumbrance
 extrabureau
 english
