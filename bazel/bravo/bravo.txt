@@ -12535,7 +12535,7 @@ barnage
 balsamroot
 bourgeoning
 brails
-bridehead
+bridehead 1
 boniface
 battle 1
 bonification
