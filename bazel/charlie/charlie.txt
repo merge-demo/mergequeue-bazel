@@ -6893,7 +6893,7 @@ celtish
 celtism
 celtium
 cotyla
-clockroom
+clockroom 1
 contingencies
 compaction
 caffein 1
