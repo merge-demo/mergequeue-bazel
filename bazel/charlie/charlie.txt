@@ -27139,7 +27139,7 @@ countersleight
 countersnarl
 cataclysmatic
 counterspy
-counterspies
+counterspies 1
 coverage
 counterstand
 counterstep
