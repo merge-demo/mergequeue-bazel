@@ -3223,7 +3223,7 @@ actuating
 alpist
 activation
 azaserine
-actuation
+actuation 1
 acturience 1
 acuaesthesia
 achingly
