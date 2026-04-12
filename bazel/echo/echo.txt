@@ -13730,7 +13730,7 @@ exerting
 epitrochoidal
 ectosphere
 extincted
-extincting
+extincting 1
 enterostomies 1
 editable
 encephalomeningitis

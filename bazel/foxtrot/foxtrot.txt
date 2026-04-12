@@ -11606,7 +11606,7 @@ forcarve
 frough
 frack 1
 forewinning
-fulgour
+fulgour 1
 formulizer
 fragilely
 fermata 1
