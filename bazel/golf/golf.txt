@@ -1804,7 +1804,7 @@ gutterblood 2
 gelatinotype 1
 grippelike
 ghyll
-glutinate
+glutinate 1
 gestalten
 granodioritic
 gangwaymen
