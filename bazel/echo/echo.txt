@@ -1757,7 +1757,7 @@ epanorthoses 1
 eer 2
 eyepiece 2
 enrapturer
-everard
+everard 1
 extg
 embattle 1
 emule 1
