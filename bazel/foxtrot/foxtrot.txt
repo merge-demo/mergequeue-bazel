@@ -3964,7 +3964,7 @@ finest
 finew
 fish 1
 fermentor 1
-fruitcakey
+fruitcakey 1
 frenziedly
 frightfulness
 foreshown
