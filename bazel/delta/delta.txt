@@ -13948,7 +13948,7 @@ discrepance 1
 drawtubes
 dacryadenalgia
 dorsispinal
-defoam
+defoam 1
 dunking
 discohexaster
 distomatosis
