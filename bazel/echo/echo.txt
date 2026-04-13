@@ -12463,7 +12463,7 @@ exhuming
 epifaunal
 enthronization 1
 elegiac
-enclosure
+enclosure 1
 exchequer 2
 entreaty
 emotionalism
