@@ -3296,7 +3296,7 @@ gunstocks 1
 germanify 1
 graminiferous
 germanification
-gadso
+gadso 1
 gorgonian
 grimmia
 gregaritic 1
