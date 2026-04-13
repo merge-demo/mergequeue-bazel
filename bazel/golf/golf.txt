@@ -7253,7 +7253,7 @@ gangion 1
 garlicmonger
 governorate
 gourmands 1
-glassmaker
+glassmaker 1
 generosity 1
 gribble 1
 gleby 1
