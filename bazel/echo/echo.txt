@@ -3193,7 +3193,7 @@ eureka
 embosomed 1
 expounders
 emblemize
-eidetic
+eidetic 1
 endocone
 ejaculum
 extraserous
