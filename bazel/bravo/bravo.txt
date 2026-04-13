@@ -1193,7 +1193,7 @@ bloop 1
 bakeoven 1
 blennostatic
 bakeress 1
-besigh
+besigh 1
 bootloader 1
 bakeries
 budling
