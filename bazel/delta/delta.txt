@@ -12904,7 +12904,7 @@ drachmae 1
 drawspan
 delving
 deorientalize 1
-disobeying
+disobeying 1
 delineative
 dustiness
 desulphuration
