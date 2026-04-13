@@ -9218,7 +9218,7 @@ cheering
 corf 1
 chastity
 chastities
-chockstone
+chockstone 1
 chasubled
 cooper
 categorize
