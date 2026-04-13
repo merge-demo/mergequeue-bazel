@@ -5162,7 +5162,7 @@ deading
 dismastment
 densitometric 2
 deniably
-denial
+denial 1
 dentinoid 1
 disminister
 decentralizes
