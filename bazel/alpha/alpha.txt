@@ -1580,7 +1580,7 @@ accouche
 accoucheur 1
 accoucheuses
 arclength
-accountable
+accountable 1
 accusals 1
 accountably 1
 acrisy
