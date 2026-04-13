@@ -2077,7 +2077,7 @@ encampments
 enthusiasm 2
 embalm 1
 enterocinesia 1
-elaphurus
+elaphurus 1
 enology
 expedites
 enjoyers
