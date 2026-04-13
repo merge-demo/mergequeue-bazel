@@ -1578,7 +1578,7 @@ gluelikeness 1
 gout
 gassing 1
 gismos 1
-gondoliere
+gondoliere 1
 globicephala 2
 gymnura 2
 gauntlet
