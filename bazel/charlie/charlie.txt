@@ -15909,7 +15909,7 @@ clemently
 clementness
 caballine
 clemming
-clench
+clench 1
 carbamino
 clenched
 clencher 1
