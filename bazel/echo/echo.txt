@@ -5193,7 +5193,7 @@ eurystheus
 erava 1
 essonite
 exceedingness
-endothermically
+endothermically 1
 epimeride 1
 enounced
 elephants
