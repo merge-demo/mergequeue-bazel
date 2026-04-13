@@ -3472,7 +3472,7 @@ gaveler
 geometers 1
 gudgeons 2
 gowl
-gelatinated
+gelatinated 1
 gastrologer
 glazing
 genoa
