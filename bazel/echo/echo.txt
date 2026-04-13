@@ -1623,7 +1623,7 @@ egressed 1
 egresses
 extraphysiological 1
 expounded 1
-egret
+egret 1
 exsanguine
 egromancy 2
 egurgitate
