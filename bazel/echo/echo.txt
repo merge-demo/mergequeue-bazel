@@ -8809,7 +8809,7 @@ esteems 2
 enskyed 1
 embelin
 entempest
-epistolize
+epistolize 1
 entomostracous
 erat
 ethoxy
