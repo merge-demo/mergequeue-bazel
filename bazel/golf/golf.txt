@@ -9455,7 +9455,7 @@ glassophone
 groundskeeping 2
 greenhood
 garfield 2
-gastrulate
+gastrulate 1
 grocerly
 garad
 grapple
