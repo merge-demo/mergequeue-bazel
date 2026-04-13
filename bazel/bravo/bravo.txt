@@ -9197,7 +9197,7 @@ belitter
 bumbee
 bipaschal
 buffin
-biped
+biped 1
 bipedal 1
 beggared
 bogo
