@@ -8896,7 +8896,7 @@ ergodic
 euphoria 1
 estaminets
 expectorators
-entoderms
+entoderms 1
 ergograph
 epistrophic
 embitter 1
