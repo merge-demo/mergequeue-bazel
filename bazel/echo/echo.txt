@@ -11818,7 +11818,7 @@ exaudi
 ethenoidal 1
 exaun
 earthrise
-ectomorphy
+ectomorphy 1
 euglenida
 ectothermic 1
 exists
