@@ -9657,7 +9657,7 @@ foredivine
 fletcher
 fregata
 faunist
-freyalite
+freyalite 1
 frondent
 forfairn
 freibergite
