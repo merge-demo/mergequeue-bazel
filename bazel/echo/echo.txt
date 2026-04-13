@@ -10757,7 +10757,7 @@ euphonic
 enid 1
 ephemerae
 enclaret
-endorsee
+endorsee 1
 extort 1
 ephemeran 1
 eternalness
