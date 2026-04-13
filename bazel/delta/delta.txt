@@ -8896,7 +8896,7 @@ dermatitis 1
 decaisnea 1
 dice
 diceboard
-dazzles
+dazzles 1
 dilemi 1
 daunomycin
 disbud
