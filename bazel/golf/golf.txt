@@ -6820,7 +6820,7 @@ garle 2
 glutimate 1
 gonococci
 glossopharyngeus
-gratuitous
+gratuitous 1
 gregarinida
 gonococcocci
 gonopore
