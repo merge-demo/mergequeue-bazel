@@ -17687,7 +17687,7 @@ duodenojejunal 1
 duarch
 decarburizing 1
 discommons
-detacwable
+detacwable 1
 delsarte 1
 deputization
 duarchy
