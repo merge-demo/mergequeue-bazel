@@ -17472,7 +17472,7 @@ bridles
 blacklight
 buscarle 1
 biltongue
-bowermay
+bowermay 1
 betulites
 buntine 1
 brawlie
