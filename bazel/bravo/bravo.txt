@@ -8030,7 +8030,7 @@ ballerine
 browband
 bicorn
 bourrelet
-blanque
+blanque 1
 boatman 1
 buckbeans
 busked 1
