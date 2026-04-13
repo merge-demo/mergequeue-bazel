@@ -5944,7 +5944,7 @@ bedroom 1
 bangalay 1
 bude
 benumbing
-battiness
+battiness 1
 beltless
 benchmarks
 biauriculate
