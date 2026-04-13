@@ -2518,7 +2518,7 @@ feudal 1
 functionize
 fastballs
 frush
-flunky
+flunky 1
 favaginous 2
 foulmouth
 formaldehyde 2
