@@ -4719,7 +4719,7 @@ epilog 1
 ecstrophy
 esthematology
 epanaphora 2
-electroencephalographs
+electroencephalographs 1
 enmuffle
 entrammel
 ensuance 1
