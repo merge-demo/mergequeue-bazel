@@ -1186,7 +1186,7 @@ genitory
 gig
 gothic 1
 gonorrheic
-glabrescent
+glabrescent 1
 grinned
 gezerah
 guejarite 2
