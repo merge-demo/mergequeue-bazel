@@ -14679,7 +14679,7 @@ apastra
 anthropomorphism
 alchemical
 antiarins
-actuate
+actuate 1
 aggressively
 aerothermodynamics 1
 antiaristocracies
