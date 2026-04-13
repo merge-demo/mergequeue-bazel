@@ -8144,7 +8144,7 @@ fanegadas
 fundmonger 2
 forcepses
 forevers
-flectionless
+flectionless 1
 foregate 2
 forthwith 2
 fretless
