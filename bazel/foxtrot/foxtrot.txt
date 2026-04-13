@@ -10580,7 +10580,7 @@ fragmental
 forks
 furfurals
 filiation
-francophobe
+francophobe 1
 feeblebrained 1
 fanteeg
 forwarn
