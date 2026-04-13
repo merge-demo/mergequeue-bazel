@@ -2157,7 +2157,7 @@ decapitations
 disassemble
 downfall
 dicecup
-decalcomanias
+decalcomanias 1
 decapodal
 dawn 1
 draggletailedly
