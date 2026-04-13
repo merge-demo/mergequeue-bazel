@@ -23999,7 +23999,7 @@ acenaphthenyl
 autocatalyses
 acclamations 1
 apsinthion
-autocatalyze
+autocatalyze 1
 aeolipile
 aquiferous
 autocholecystectomy
