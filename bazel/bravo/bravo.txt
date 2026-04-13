@@ -7426,7 +7426,7 @@ betted
 befreeze 1
 better
 besmirched
-batrachia
+batrachia 1
 buboes
 bashalick
 betterment
