@@ -14971,7 +14971,7 @@ desoxyephedrine 1
 dogal 3
 deflocculator
 dogana
-dizziness
+dizziness 1
 disillusionizing 1
 desperation 1
 disjection
