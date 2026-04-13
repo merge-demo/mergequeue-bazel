@@ -3931,7 +3931,7 @@ bdelloid
 bdellometer 1
 boarts 1
 booksellerish
-bombardier
+bombardier 1
 bocstaff
 brickbats
 bdelloura
