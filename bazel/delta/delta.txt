@@ -12007,7 +12007,7 @@ disenchant 1
 dowd 1
 disenchantments
 disenchantress
-depluming 1
+depluming 2
 difforme
 disencharm
 doctrix
