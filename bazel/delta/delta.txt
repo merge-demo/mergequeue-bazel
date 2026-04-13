@@ -8034,7 +8034,7 @@ duomi
 dispersion 1
 dumbhead 1
 dhal 1
-dimension
+dimension 1
 dorsointestinal
 dhamnoo 1
 distinctional 1
