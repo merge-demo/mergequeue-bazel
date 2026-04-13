@@ -10512,7 +10512,7 @@ delapsion
 digonoporous
 depthless 2
 danging
-discorder
+discorder 1
 derangeable
 delaminate 1
 divinize
