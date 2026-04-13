@@ -4938,7 +4938,7 @@ equiv
 eveck 2
 eudemons
 extradictable
-endamoebas
+endamoebas 1
 endamoebidae
 equations 1
 endangitis 1
