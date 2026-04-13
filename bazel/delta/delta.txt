@@ -5883,7 +5883,7 @@ despots 1
 drago
 depreciation 2
 deoxygenization
-dryopians
+dryopians 1
 deforceor
 depredate
 depersonalised
