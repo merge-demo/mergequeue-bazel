@@ -5683,7 +5683,7 @@ extraterrestrially
 eucalypts
 enfree
 exordiums
-exposable
+exposable 1
 eligibly
 erysiphaceae
 ectocelic
