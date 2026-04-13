@@ -4873,7 +4873,7 @@ epidermatoid 1
 encoder 1
 episcopable 2
 embryogenetic
-enshrining
+enshrining 1
 engraven 1
 eria 1
 eupepticism
