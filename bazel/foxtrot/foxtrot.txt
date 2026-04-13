@@ -2695,7 +2695,7 @@ fortnightlies 1
 futilize 1
 ferventness
 frighteningness
-floodwall
+floodwall 1
 fishify 2
 flamant 2
 frenzies 2
