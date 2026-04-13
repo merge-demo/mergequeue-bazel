@@ -3056,7 +3056,7 @@ gangshag 1
 geometriform 2
 graminicolous
 gemmipares
-glyptotheca
+glyptotheca 1
 gametogenous
 garnetz
 gossipper
