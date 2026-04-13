@@ -2645,7 +2645,7 @@ geniality 1
 genetics
 gastrolysis
 gudgeoned 1
-glow
+glow 1
 garg
 germantown 1
 globulicidal
