@@ -1361,7 +1361,7 @@ blithen 1
 baldcrown
 bardily 1
 balded
-balder
+balder 1
 baldfaced 2
 bolloxing
 balzarine
