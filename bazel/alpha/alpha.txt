@@ -3085,7 +3085,7 @@ affiliations 1
 amberous
 adonize
 ardri
-adjudications
+adjudications 1
 apocryphalist
 actinophrys
 aspics
