@@ -637,7 +637,7 @@ faltboat
 flugelmen
 faltere
 flavored
-frequenter
+frequenter 1
 frithsoken 1
 falx 1
 further 1
