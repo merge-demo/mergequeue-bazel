@@ -6544,7 +6544,7 @@ extratension
 entail
 entomophthora
 elaphodus
-endurant
+endurant 1
 ended
 entangled
 entangledness 1
