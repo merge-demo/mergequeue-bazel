@@ -8997,7 +8997,7 @@ foelike 3
 feature
 foursquareness
 faustian
-fourteener
+fourteener 1
 frangibleness 1
 fourteenths
 froren 1
