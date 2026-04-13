@@ -11212,7 +11212,7 @@ expilation
 exostracism
 endover 1
 electrotonicity
-experimentalist
+experimentalist 1
 epibolies
 evangeliaries
 endocycle
