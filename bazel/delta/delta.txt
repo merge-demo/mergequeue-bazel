@@ -16343,7 +16343,7 @@ downsizing 3
 defensible
 discontinuable
 dichord
-dovetails
+dovetails 1
 daylight
 downslide 2
 describent
