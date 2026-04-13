@@ -9366,7 +9366,7 @@ differs
 dextrorsely
 duncify 1
 deprive
-difficileness
+difficileness 1
 difficilitate
 dignosle 1
 dewinesses

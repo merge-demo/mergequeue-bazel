@@ -4376,7 +4376,7 @@ gharries 1
 gumbotil
 ginglymostoma
 gnathion
-graphicalness
+graphicalness 1
 grylli
 gunky 1
 guz
