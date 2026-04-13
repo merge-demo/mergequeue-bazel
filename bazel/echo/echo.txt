@@ -977,7 +977,7 @@ edits
 enterococcus 1
 eastwards
 esoterics
-exhumes
+exhumes 1
 entera 2
 expanse 1
 excavatory
