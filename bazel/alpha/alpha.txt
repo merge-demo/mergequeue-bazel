@@ -19016,7 +19016,7 @@ agricolist
 anastomosed
 auctionary
 autochthonic
-authorial
+authorial 1
 algol
 amaryllis
 archmonarch
