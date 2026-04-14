@@ -12429,7 +12429,7 @@ deterrability 1
 defers 1
 dimerlie 1
 dialectical
-diastereoisomer
+diastereoisomer 1
 dampne
 dishome
 dishonor
