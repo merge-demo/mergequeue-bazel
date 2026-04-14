@@ -1082,7 +1082,7 @@ bifacial
 blksize
 blepharelcosis
 bayong
-babongo
+babongo 1
 bairagi
 bismarckianism
 bairdi 1
