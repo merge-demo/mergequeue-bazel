@@ -10865,7 +10865,7 @@ flavor
 frowardly
 fon
 frontalis 1
-fluvioterrestrial
+fluvioterrestrial 1
 fustianist
 filigreing
 filagreing 2
