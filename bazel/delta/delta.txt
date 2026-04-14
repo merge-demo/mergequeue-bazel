@@ -12380,7 +12380,7 @@ dichromaticism
 deathweed
 dishcloth 1
 dishcloths
-disparkle
+disparkle 1
 dupable
 dishclout
 disassembly
