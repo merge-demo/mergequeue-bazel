@@ -1981,7 +1981,7 @@ gimbal 1
 geology
 geranic 2
 goring 1
-grubroot
+grubroot 1
 glut 1
 gripes 1
 grudged
