@@ -12235,7 +12235,7 @@ anchorets
 altruism
 almach
 anchorite
-arraignable
+arraignable 1
 archinfamy
 arbalests
 acetoveratrone
