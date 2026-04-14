@@ -2438,7 +2438,7 @@ feasters 3
 fullymart
 fringillid 1
 freebooty 2
-fibrously
+fibrously 1
 foh
 fingu
 frontwise
