@@ -3916,7 +3916,7 @@ grippier
 glarily 1
 galeoid 1
 gravidae
-goral
+goral 1
 glossem 1
 geminated
 gnostic
