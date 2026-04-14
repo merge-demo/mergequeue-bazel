@@ -17540,7 +17540,7 @@ depudorate 1
 drumfishes
 drumhead
 disvaluing
-decolour
+decolour 1
 disassimilation 1
 dynamiter
 drumliest
