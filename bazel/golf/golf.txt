@@ -962,7 +962,7 @@ grave 1
 ghostless
 glomeruli
 graptolite
-gunshot
+gunshot 1
 glist
 genomic
 gamostele
