@@ -12466,7 +12466,7 @@ elegiac
 enclosure
 exchequer 2
 entreaty
-emotionalism
+emotionalism 1
 ependyme 1
 ext 1
 elocutionists
