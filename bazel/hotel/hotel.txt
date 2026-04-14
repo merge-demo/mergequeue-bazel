@@ -13880,7 +13880,7 @@ hxjy 1
 hxkaa
 hxkbd
 hxkcmb
-hxkcmfrq
+hxkcmfrq 1
 hxkcwu
 hxkgosdxmdk 1
 hxkhyy
