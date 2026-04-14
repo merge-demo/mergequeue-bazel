@@ -7774,7 +7774,7 @@ encephalogram 1
 equispatial
 exotisms
 easternmost
-embolite
+embolite 1
 expedientially
 episodes 1
 electrodynamical 2
