@@ -254,7 +254,7 @@ abbreviation
 abc 1
 angiohypotonia
 abcoulomb
-abietineous
+abietineous 1
 automative
 aba
 apodictic
