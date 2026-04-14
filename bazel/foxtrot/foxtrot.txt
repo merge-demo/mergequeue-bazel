@@ -5416,7 +5416,7 @@ fragmentize
 forbled
 foremade
 frisado
-factorial
+factorial 1
 fledgiest
 floatless
 foisonless
