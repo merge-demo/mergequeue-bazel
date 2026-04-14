@@ -6621,7 +6621,7 @@ esperantidist
 embryous
 enseam 1
 egyptianism
-expulsatory
+expulsatory 1
 enterocoela 1
 eructed 1
 execrate
