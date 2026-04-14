@@ -5511,7 +5511,7 @@ faroelite
 fleshliness 1
 faceteness
 fw 1
-flacker
+flacker 1
 fleshmonger
 fcy 2
 flagfall
