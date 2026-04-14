@@ -26539,7 +26539,7 @@ concreteness
 capeskin
 culicids
 cymbaled 1
-chemosis
+chemosis 1
 clingers 1
 conjecturable
 cheverons 1
