@@ -9411,7 +9411,7 @@ dechlore
 demilitarizing
 diamin
 diffusible
-demagoguism
+demagoguism 1
 diffusibleness 2
 diffusing
 deuteranomalous
