@@ -8957,7 +8957,7 @@ erinaceidae
 ephebes
 eclairissement
 ectotherm 2
-expropriation
+expropriation 1
 eryngos 1
 elasmotherium
 edgers 1
