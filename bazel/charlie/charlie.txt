@@ -20526,7 +20526,7 @@ compeering
 corinthianesque
 checkerspot
 chromatophorous
-compellable
+compellable 1
 cheirognomy
 compelled
 carpogenic
