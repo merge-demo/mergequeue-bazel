@@ -4048,7 +4048,7 @@ flatling
 fletchings 1
 fungoid
 finishable 2
-firker
+firker 1
 fabrication
 femininely
 foredo
