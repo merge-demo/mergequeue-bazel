@@ -18641,7 +18641,7 @@ dummyism 2
 dutymonger
 deactivations
 deodorizer
-disalignment
+disalignment 1
 decasyllable
 denunciatively
 decury
