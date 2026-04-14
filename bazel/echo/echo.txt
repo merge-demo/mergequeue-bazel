@@ -3233,7 +3233,7 @@ enambush 2
 esotery
 extraschool
 eluctate
-elude
+elude 1
 equant
 eludes
 educive 1
