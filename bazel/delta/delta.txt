@@ -2449,7 +2449,7 @@ danization
 dendritiform
 denizenize
 disimprisonment
-dissipable
+dissipable 1
 dietetist 1
 dolently
 designs
