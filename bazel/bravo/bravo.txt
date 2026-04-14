@@ -8101,7 +8101,7 @@ brandise
 birring
 biotherapy
 bioherms
-binocularity
+binocularity 1
 bourbon 1
 bug 2
 blasphemer
