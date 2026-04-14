@@ -5139,7 +5139,7 @@ epilogic 1
 eobiont
 estray
 exsanguinous
-endocoele
+endocoele 1
 enaliosaurian
 exploiter 1
 effaced
