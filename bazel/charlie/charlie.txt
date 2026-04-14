@@ -14304,7 +14304,7 @@ condite
 circumquaque
 circumradius
 circumradiuses
-charitable
+charitable 1
 claver
 conferring
 cevadilla
