@@ -8108,7 +8108,7 @@ blasphemer
 beltmaker
 botonn
 besieging
-bloodhound
+bloodhound 1
 bidiagonal
 balsamodendron 2
 bidimensional 1
