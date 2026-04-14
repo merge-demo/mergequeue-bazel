@@ -10033,7 +10033,7 @@ fonted
 foreleader
 fustiest
 forearms 1
-flauntily
+flauntily 1
 feasibleness
 feedman 1
 fantee
