@@ -3179,7 +3179,7 @@ euphenics
 elongation 1
 edict
 extortionists 1
-epiplastral
+epiplastral 1
 exhaustiveness 1
 eom 2
 emmarble 1
