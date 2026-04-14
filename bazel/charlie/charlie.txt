@@ -3053,7 +3053,7 @@ canun
 canvas 1
 chaffinches
 chiasmodon
-croppa
+croppa 1
 cycadeous
 canvasado
 canvasbacks 1
