@@ -3559,7 +3559,7 @@ barricade
 byronish 1
 brushy
 battleground 1
-berkeleyite 1
+berkeleyite 2
 bien
 bathysophical
 bathysphere
