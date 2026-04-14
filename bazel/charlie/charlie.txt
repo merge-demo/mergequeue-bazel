@@ -3884,7 +3884,7 @@ criminalness
 centrosymmetry 1
 crankles
 carbonisable
-carbonise
+carbonise 1
 clarets
 choirmaster
 canister
