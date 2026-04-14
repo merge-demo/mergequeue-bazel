@@ -4478,7 +4478,7 @@ graves
 generaliter
 greffier
 graveyard 1
-gipsydom
+gipsydom 1
 giddyhead 3
 gepoun
 gugu
