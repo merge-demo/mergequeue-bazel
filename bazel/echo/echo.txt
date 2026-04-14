@@ -6906,7 +6906,7 @@ endamageable
 epispore
 ectocardia 1
 endometria 1
-evaporable
+evaporable 1
 equipments
 embelif 1
 eucalyn
