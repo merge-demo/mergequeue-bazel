@@ -15529,7 +15529,7 @@ doni
 diopsides 1
 deliquesced
 disaffection
-disintegrationist
+disintegrationist 1
 disvalued
 derobe
 dispassionateness
