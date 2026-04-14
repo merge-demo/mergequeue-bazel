@@ -12444,7 +12444,7 @@ dishonors
 decerned 1
 desulfurate
 dishorn
-discontinue
+discontinue 1
 douching
 dislocable
 diastematic
