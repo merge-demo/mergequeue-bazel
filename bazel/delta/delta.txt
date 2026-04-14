@@ -8529,7 +8529,7 @@ disaccharides 1
 diapause
 diapauses
 donaries
-decarburize
+decarburize 1
 dodecastylos
 divinations
 decongesting
