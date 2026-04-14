@@ -5998,7 +5998,7 @@ fawny
 fluidrachm 1
 fidia 2
 fireproof
-foliole
+foliole 1
 fictioneering 3
 feldsher
 fez
