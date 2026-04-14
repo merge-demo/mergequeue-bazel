@@ -5206,7 +5206,7 @@ diaheliotropic 1
 detruncating 1
 devoid 1
 diazoamino
-denitrifier
+denitrifier 1
 denizenation
 diquats
 deflectionization
