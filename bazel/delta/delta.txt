@@ -8791,7 +8791,7 @@ dragsmen
 depeter
 dragonkind
 diestruses
-deftness
+deftness 1
 dj
 diazohydroxide 1
 dinettes
