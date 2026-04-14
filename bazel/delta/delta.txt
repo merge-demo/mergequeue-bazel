@@ -9877,7 +9877,7 @@ doek
 desilicification
 dace
 dimensionally
-dimensioning
+dimensioning 1
 dimensum
 disangularize 1
 diphenyl 2
