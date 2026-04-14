@@ -9280,7 +9280,7 @@ disambiguations 1
 daikering
 diurne
 daguerreotyper
-dietaries
+dietaries 1
 deosculate
 disploding 1
 declinal
