@@ -9157,7 +9157,7 @@ boubou
 biotypology 1
 balneotherapeutics 2
 biotites 1
-bolometric
+bolometric 1
 basil
 blowback
 borohydride
