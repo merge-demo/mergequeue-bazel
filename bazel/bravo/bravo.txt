@@ -8159,7 +8159,7 @@ banishes
 buffalos
 baldpate
 byeman
-ballote
+ballote 1
 bienly
 browpost 1
 boyism
