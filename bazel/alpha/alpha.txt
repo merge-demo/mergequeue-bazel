@@ -10286,7 +10286,7 @@ animality
 abessive
 amellus
 anthozooid
-amelus
+amelus 1
 alumine
 amen
 agathosma
