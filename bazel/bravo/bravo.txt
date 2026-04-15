@@ -1081,7 +1081,7 @@ benefactors
 bifacial
 blksize
 blepharelcosis
-bayong
+bayong 1
 babongo 1
 bairagi
 bismarckianism
