@@ -31,7 +31,7 @@ gieaways 1
 goatroot
 gaelicism
 geoselenic
-gliderport
+gliderport 1
 globose 3
 gouty
 goodlike
