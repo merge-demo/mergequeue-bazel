@@ -11711,7 +11711,7 @@ enfolding
 eventualities
 exaltation
 erenow
-explanator
+explanator 1
 enterocoele
 endocarditis
 elevated 1
