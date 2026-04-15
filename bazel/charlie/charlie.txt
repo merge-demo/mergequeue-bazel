@@ -12586,7 +12586,7 @@ circumventable
 chronoisothermal 1
 cellucotton
 chronologer
-circularize
+circularize 1
 chronological
 chronologies
 coalternative 1
