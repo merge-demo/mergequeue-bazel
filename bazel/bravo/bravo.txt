@@ -10526,7 +10526,7 @@ blastulation
 blachong
 briton
 blepharoatheroma 2
-break
+break 1
 bipectinate
 bacterize
 bonks 1
