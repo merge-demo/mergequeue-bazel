@@ -3464,7 +3464,7 @@ doigte 1
 defluvium
 demimark
 dang
-defoamed
+defoamed 1
 diacetylmorphine 2
 damozels 2
 defoamer
