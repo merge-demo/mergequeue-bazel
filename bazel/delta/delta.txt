@@ -6380,7 +6380,7 @@ destoolment
 dustmen
 diplotene
 disassociation
-dorsiventral
+dorsiventral 1
 dielec
 derodidymus
 derog
