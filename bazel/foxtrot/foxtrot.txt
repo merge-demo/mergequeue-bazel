@@ -8961,7 +8961,7 @@ fluminose 1
 floit
 flywort
 fiacre
-footle
+footle 1
 feldspath
 feverwort 1
 favositoid 1
