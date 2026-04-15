@@ -6404,7 +6404,7 @@ bewake 1
 benzophthalazine
 breakup
 benzil 2
-banewort
+banewort 1
 bibliothecaire 2
 benzopyrazolone
 barquentine
