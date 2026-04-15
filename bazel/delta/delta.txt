@@ -11087,7 +11087,7 @@ drakonite
 determinateness
 disapprovals 1
 demagog
-disapproves
+disapproves 1
 disillusioned
 doppelkummel
 demonetisation
