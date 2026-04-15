@@ -11827,7 +11827,7 @@ exauthorizeexc
 exceptio
 epileptics
 eplot
-externization
+externization 1
 enviably 1
 electromagnetically 1
 equibalance
