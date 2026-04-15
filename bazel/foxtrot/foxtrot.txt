@@ -6721,7 +6721,7 @@ fighters 3
 feast 1
 forelegs
 fogon 1
-fogproof
+fogproof 1
 frugally 1
 flaughter 1
 fellator 1
