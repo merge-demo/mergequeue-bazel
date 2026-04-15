@@ -13263,7 +13263,7 @@ communicants
 cataloguer
 chemiatry 1
 cycloid
-coalternation
+coalternation 1
 cycloidean 2
 coalshed
 cogswellia
