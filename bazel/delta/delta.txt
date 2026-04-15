@@ -11999,7 +11999,7 @@ disroots
 dooket
 disulfuret 1
 disemployment
-decoic
+decoic 1
 disenabled
 duplicates
 differen
