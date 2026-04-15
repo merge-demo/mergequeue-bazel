@@ -5706,7 +5706,7 @@ decapodan 1
 ducape
 dichroite 2
 daftlike
-depletions
+depletions 1
 danton
 depletive
 denutrition
