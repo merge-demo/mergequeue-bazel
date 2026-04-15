@@ -7975,7 +7975,7 @@ cevitamic 1
 cismontane 1
 contes
 cf
-cfd
+cfd 1
 ch
 cha
 colloquized
