@@ -2027,7 +2027,7 @@ elabrate 1
 endocrinotherapy
 epigaea
 erythrosine
-epitrophy
+epitrophy 1
 encurl
 exophasia
 elytrigerous
