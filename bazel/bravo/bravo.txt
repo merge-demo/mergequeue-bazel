@@ -1648,7 +1648,7 @@ ballweed
 botony
 balmarcodes
 balmawhapple
-bimodality
+bimodality 1
 birdwatch
 burton
 butyrinase
