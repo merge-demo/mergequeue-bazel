@@ -13513,7 +13513,7 @@ bouch
 blacksmith
 boucharde 1
 belime
-baccae
+baccae 1
 barometrography
 blundered
 bielid 1
