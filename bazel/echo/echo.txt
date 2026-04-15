@@ -8416,7 +8416,7 @@ epizoic
 eudaemonia
 ensigncy
 equals
-epizoon
+epizoon 1
 edemic 1
 emblossom 1
 exulceration 2
