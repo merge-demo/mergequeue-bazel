@@ -8818,7 +8818,7 @@ chapwoman 1
 circumradii
 chaqueta
 commanders
-char
+char 1
 conveyability 1
 crouchingly 1
 chara
