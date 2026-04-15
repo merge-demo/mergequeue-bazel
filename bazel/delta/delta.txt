@@ -4788,7 +4788,7 @@ dishware
 deaconing
 demihag 1
 dodecatylic
-deair
+deair 1
 disseizor
 deanimalize
 diemaker
