@@ -7553,7 +7553,7 @@ bandolier 1
 beloam
 begirding
 bewary
-bewaste
+bewaste 1
 beweary
 besottedness 1
 botflies
