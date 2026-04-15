@@ -3365,7 +3365,7 @@ expressible
 embadomonas 1
 eats
 embain
-egglike
+egglike 1
 epanthous 2
 embays 1
 ethylenediamine
