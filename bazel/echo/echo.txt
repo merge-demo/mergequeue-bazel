@@ -8101,7 +8101,7 @@ extraordinaries 1
 expressable
 epiplasmic
 epiplectic
-exhausting
+exhausting 1
 epiploce
 exacum
 epiplocele
