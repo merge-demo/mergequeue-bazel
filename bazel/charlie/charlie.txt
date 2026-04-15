@@ -31701,7 +31701,7 @@ cuspid 1
 cuspidal
 cuspidate 1
 chophouse
-cuspides
+cuspides 1
 chondromyxoma
 cesuras
 carbuncled
