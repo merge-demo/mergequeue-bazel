@@ -5313,7 +5313,7 @@ affixers 1
 affixes
 afterpiece
 affixial
-aspatia
+aspatia 1
 authorism
 armageddon 1
 agnathostomata 1
