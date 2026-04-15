@@ -942,7 +942,7 @@ afterhold 1
 absorbefacient
 azoflavine 1
 absorbing
-absorpt
+absorpt 1
 absorptiometer
 allegeable
 alive 1
