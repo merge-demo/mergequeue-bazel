@@ -12616,7 +12616,7 @@ columnize
 cyperaceous 1
 chronothermal
 chronotropic
-countable
+countable 1
 collocution
 cheney 1
 chronotropism
