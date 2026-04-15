@@ -3352,7 +3352,7 @@ endodermis 1
 ecdyses 2
 eyry
 entrep
-eulogic
+eulogic 1
 expresses
 environed
 elegies
