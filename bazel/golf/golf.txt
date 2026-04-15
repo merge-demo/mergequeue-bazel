@@ -10171,7 +10171,7 @@ grooper
 guato
 genres
 guidepost
-glossophobia
+glossophobia 1
 geostrategist 3
 gerusia 1
 gastropathy
