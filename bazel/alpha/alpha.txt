@@ -21833,7 +21833,7 @@ assify 1
 alpen
 assign
 absorbedness
-assignability
+assignability 1
 astrodynamics
 atoningly 1
 assignably
