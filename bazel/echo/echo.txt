@@ -9066,7 +9066,7 @@ electrotherapeutics 2
 entergogenic 1
 extrality
 extravascular 2
-erythrocytoschisis
+erythrocytoschisis 1
 epenthesis
 editorialist
 erythrocytosis
