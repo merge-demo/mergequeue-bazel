@@ -6279,7 +6279,7 @@ doggier
 devolve 1
 deprecates
 diradiation
-didymolite
+didymolite 1
 daughters
 dermatopathic
 davoch
