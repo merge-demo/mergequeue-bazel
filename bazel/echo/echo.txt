@@ -7027,7 +7027,7 @@ extractors 2
 embladder 1
 electrotitration
 enamourment
-explorable
+explorable 1
 effigiating 1
 estated 1
 emetines 1
