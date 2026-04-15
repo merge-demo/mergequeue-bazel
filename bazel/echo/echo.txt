@@ -4858,7 +4858,7 @@ ecize
 exhalate
 equitable
 encouraged
-estrous
+estrous 1
 excellences
 epigne
 ephydriad
