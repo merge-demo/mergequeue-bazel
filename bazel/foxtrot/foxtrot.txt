@@ -2487,7 +2487,7 @@ fry 1
 fernyear
 furison 2
 funs
-fernshaw
+fernshaw 1
 fordo 1
 forehatch
 flavic
