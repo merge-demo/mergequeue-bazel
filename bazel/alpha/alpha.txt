@@ -13914,7 +13914,7 @@ antigenes
 alymphopotent
 arquifoux
 apprehends
-asservilize
+asservilize 1
 ansulate
 anglice
 answerability
