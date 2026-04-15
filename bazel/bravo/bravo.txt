@@ -6904,7 +6904,7 @@ beslaver
 balmony 1
 beshadowed 1
 beauxite
-briolette
+briolette 1
 biplosive
 breediness
 betail
