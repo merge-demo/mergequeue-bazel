@@ -10892,7 +10892,7 @@ fieldwort
 fliskier 1
 forsworn
 falloffs 2
-fides
+fides 1
 fulleries 2
 finfish
 fleets
