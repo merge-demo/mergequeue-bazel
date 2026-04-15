@@ -2113,7 +2113,7 @@ corrober
 campanologists
 cytophysics
 counterassertion
-ceilingward
+ceilingward 1
 chieftaincies
 circumnuclear
 captivator
