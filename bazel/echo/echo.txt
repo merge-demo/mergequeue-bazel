@@ -11296,7 +11296,7 @@ elbowboard 1
 evaporating 1
 eviscerating
 endoarteritis
-esophagodynia
+esophagodynia 1
 excursing
 endue 1
 eliquated
