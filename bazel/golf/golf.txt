@@ -10352,7 +10352,7 @@ gigabytes
 gangbuster 1
 geum
 goadlike
-gallivorous
+gallivorous 1
 glaur 1
 grouseberry
 gelate 3
