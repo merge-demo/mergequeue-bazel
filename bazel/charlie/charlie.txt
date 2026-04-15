@@ -20508,7 +20508,7 @@ compatible
 clouts
 compatibleness
 chlorider
-compatriotic
+compatriotic 1
 chilicote
 chays
 compatriots
