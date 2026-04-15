@@ -7383,7 +7383,7 @@ gilthead
 glyptograph 2
 gallach
 gynostemia
-groupable
+groupable 1
 gastromalacia
 gamelike 1
 gasolineless
