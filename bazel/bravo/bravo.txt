@@ -5802,7 +5802,7 @@ buckstone 1
 bellyache 1
 biremes 2
 butlerism
-bandstop 1
+bandstop 2
 bellyached
 bismethyl
 bellyacher
