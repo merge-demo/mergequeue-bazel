@@ -4117,7 +4117,7 @@ bonita
 balminess
 beslimer
 beards
-barbers
+barbers 1
 birthroot
 bombazette
 bedrenched
