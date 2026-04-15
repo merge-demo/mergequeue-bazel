@@ -3604,7 +3604,7 @@ gnathobdellae
 gargil
 gaelicize 1
 galany 1
-guttiform
+guttiform 1
 gnathic
 gananciales
 gantries
