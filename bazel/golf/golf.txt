@@ -145,7 +145,7 @@ guy
 gratelike
 garrot
 geryon
-galipot
+galipot 1
 graniteware
 gasthauser 2
 ghettoized
