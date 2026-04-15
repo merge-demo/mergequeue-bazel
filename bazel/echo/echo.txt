@@ -1059,7 +1059,7 @@ eagerly
 exsheath
 edged
 eidolon
-edger
+edger 1
 edgeshot 1
 edgeway
 embalmment
