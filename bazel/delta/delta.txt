@@ -10600,7 +10600,7 @@ dunderbolt
 dominus
 diploidize
 doorman
-diploma
+diploma 1
 decasyllabon 2
 dolorogenic
 domitable 2
