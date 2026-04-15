@@ -890,7 +890,7 @@ grillwork
 gotha
 gametocyst
 glycoluril 1
-gametocyte
+gametocyte 1
 grayout 2
 gametogenic
 gooseflesh 2
