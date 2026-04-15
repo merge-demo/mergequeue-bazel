@@ -12094,7 +12094,7 @@ arquerite
 aspis
 angiosclerosis
 acidity 1
-avenalin
+avenalin 1
 anastomosing
 anastrophy
 advocator 1
