@@ -10675,7 +10675,7 @@ fairstead 1
 fruitstalk
 fg
 foreset
-foresheets
+foresheets 1
 fleuretty
 fortuneless 1
 fringilla
