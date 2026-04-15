@@ -2154,7 +2154,7 @@ decapitates
 decapitation 1
 deterrable
 decapitations
-disassemble
+disassemble 1
 downfall
 dicecup
 decalcomanias
