@@ -18616,7 +18616,7 @@ decentring
 decimalising
 dustups 2
 digitus
-debugger
+debugger 1
 dysgnosia
 damselhood
 dollarwise 1
