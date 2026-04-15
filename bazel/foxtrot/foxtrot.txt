@@ -10251,7 +10251,7 @@ forebow 1
 flavedos 1
 froideur
 froise
-frokin
+frokin 1
 filum
 felons
 frolic 1
