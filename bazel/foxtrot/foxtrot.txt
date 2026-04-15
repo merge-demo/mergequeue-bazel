@@ -4187,7 +4187,7 @@ fanos
 fingent 1
 floodtime
 firebrick 1
-foulmouthed 1
+foulmouthed 2
 foretokening 2
 firebug 1
 flagstones
