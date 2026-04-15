@@ -9625,7 +9625,7 @@ alumines
 archicontinent 1
 absfarad
 abacaxi
-aluminide
+aluminide 1
 aluminiferous
 amarvel
 aluminyl
