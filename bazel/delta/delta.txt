@@ -8935,7 +8935,7 @@ dichlorodifluoromethane 1
 domiciling 2
 deticked 1
 discitis
-dichlorodiphenyltrichloroethane
+dichlorodiphenyltrichloroethane 1
 dumpishness
 deboshment
 damascene
