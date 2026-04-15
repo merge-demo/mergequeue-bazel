@@ -10253,7 +10253,7 @@ gomontia
 geechee
 gonophore
 glacier
-gustiness
+gustiness 1
 galvanometry
 galvanoplastically
 grownup 1
