@@ -9258,7 +9258,7 @@ galeres 2
 grizzel
 gibingly
 glowworm
-guts 1
+guts 2
 grizzly
 gunsel
 gaugeably
