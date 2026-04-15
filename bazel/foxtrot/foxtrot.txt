@@ -9832,7 +9832,7 @@ fortescue
 fordicidia
 flaggers 1
 fissileness
-frib
+frib 1
 fruitage 1
 faden 2
 fribbler 1
