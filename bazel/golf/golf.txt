@@ -1471,7 +1471,7 @@ guydom
 gasboat 1
 giddiness
 gaselier
-golet 1
+golet 2
 gastrophilus
 gastric 1
 gisarme 1
