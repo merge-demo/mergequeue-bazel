@@ -13466,7 +13466,7 @@ elizabethanize
 expurgate 1
 equivocate
 ethionine
-equivocated
+equivocated 1
 embraceorr 2
 enallachrome
 eyeservice
