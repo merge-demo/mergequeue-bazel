@@ -16151,7 +16151,7 @@ climates 1
 corporatively
 climatic
 climatius
-climatize
+climatize 1
 climatographical 1
 climatology 1
 climatological
