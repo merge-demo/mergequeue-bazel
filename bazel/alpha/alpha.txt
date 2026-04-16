@@ -5821,7 +5821,7 @@ auxetics 1
 atlatl
 aligner
 agatized
-agatizes 1
+agatizes 2
 agatizing 1
 agatoid
 alarbus
