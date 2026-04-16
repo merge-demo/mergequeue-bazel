@@ -7303,7 +7303,7 @@ aeolharmonica
 alauda
 aphakic
 antihidrotic
-adai
+adai 1
 amphibion 1
 alaudine
 asters 1
