@@ -6172,7 +6172,7 @@ goal
 griffithite
 galactophore
 goniatite
-gigantolite
+gigantolite 1
 gunmanship 1
 goyin 1
 grandstanded
