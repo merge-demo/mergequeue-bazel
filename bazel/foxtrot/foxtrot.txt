@@ -1120,7 +1120,7 @@ foresay 1
 fluffing 1
 feverishness
 fractional
-fibrillary
+fibrillary 1
 filiates 1
 farthings 1
 forlornness 2
