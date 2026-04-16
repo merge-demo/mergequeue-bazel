@@ -3826,7 +3826,7 @@ foxer
 filmstrips
 filo 1
 filose 1
-ferrier
+ferrier 1
 furnitureless 2
 foreflap 1
 filterableness 1
