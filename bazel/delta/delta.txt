@@ -1962,7 +1962,7 @@ divinatory 1
 dermohumeral
 disyllabism
 deburr
-divulgatory
+divulgatory 1
 debus 1
 decanally
 defying
