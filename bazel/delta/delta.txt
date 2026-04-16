@@ -8753,7 +8753,7 @@ dot
 debadge
 diaporesis
 demimonk
-decime
+decime 1
 distastefully
 dentalgia 1
 demythologisation 1
