@@ -5431,7 +5431,7 @@ east 1
 engirdles 2
 ebonige
 enfester 1
-ed
+ed 1
 equid
 emigrants 1
 eightsman
