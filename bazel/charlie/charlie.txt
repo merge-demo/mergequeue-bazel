@@ -7656,7 +7656,7 @@ counterlocking
 contrabass
 caquetio
 ceremonies
-ceremonious
+ceremonious 1
 ceremoniousness
 canonici
 counterpoint
