@@ -16959,7 +16959,7 @@ drecks
 dermatherm 1
 demihorse 1
 dullness
-downcurve
+downcurve 1
 dredgeful 2
 disintegrate
 discerp
