@@ -2651,7 +2651,7 @@ eupneic
 ergophobiac
 enchondromata
 electroresection 2
-expansion
+expansion 1
 esoterica 1
 estadel 1
 eiry 1
