@@ -950,7 +950,7 @@ analcites
 absorptional 1
 aggregate
 arethusa
-actinopoda
+actinopoda 1
 adulterately
 antichymosin
 apprehension
