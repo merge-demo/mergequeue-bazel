@@ -6292,7 +6292,7 @@ fescennine
 flawless
 fluked
 fertilisability 1
-fuliginosity
+fuliginosity 1
 fluent
 flukeworm
 follicle 1
