@@ -11615,7 +11615,7 @@ fussbudget
 fixable
 forint 2
 facsimile
-frolicsomely
+frolicsomely 1
 fortissimi 2
 farci
 fibrous
