@@ -6394,7 +6394,7 @@ diglyceride
 dixie
 derogating
 derogative
-derogator
+derogator 1
 derogatory 1
 dooja
 dermovaccine
