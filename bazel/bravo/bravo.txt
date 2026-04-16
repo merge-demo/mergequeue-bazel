@@ -9884,7 +9884,7 @@ blockers
 bewhisper
 bassinets
 biffin
-bitterer
+bitterer 1
 broth
 baygall
 birred
