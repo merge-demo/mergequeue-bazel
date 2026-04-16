@@ -5501,7 +5501,7 @@ depaints
 divestitures 1
 dilatation
 deoxyribonucleotide
-disportive
+disportive 1
 diaphragm
 dogtrot 1
 dudishness
