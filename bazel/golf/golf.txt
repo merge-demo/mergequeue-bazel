@@ -9282,7 +9282,7 @@ gardnap
 giltcup
 grockle
 goidel
-gamely
+gamely 1
 gemauve 1
 granitoid 2
 groenendael 1
