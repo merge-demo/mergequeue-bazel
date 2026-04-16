@@ -27498,7 +27498,7 @@ cheongsam
 coal
 chimers
 covariant
-colorism
+colorism 1
 cathisma
 chadri
 clitellar 1
