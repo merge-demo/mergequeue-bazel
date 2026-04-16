@@ -1106,7 +1106,7 @@ calcimining
 choppin
 crossbarred
 calcinate
-calcinator
+calcinator 1
 calcine 1
 coherently
 candareen 1
