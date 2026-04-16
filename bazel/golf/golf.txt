@@ -7535,7 +7535,7 @@ greenbone 1
 gorbellies 1
 gymnast
 governmental 3
-garageman
+garageman 1
 gangman
 goldsmithing 4
 gunyah
