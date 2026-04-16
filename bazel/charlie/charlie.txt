@@ -11719,7 +11719,7 @@ chondrification 1
 cygnine
 chondrilla
 chondrinous
-crotalism
+crotalism 1
 cirrhotic
 chondrioma
 churlhood
