@@ -6991,7 +6991,7 @@ besmouch
 bloodying 1
 bacteritic
 besmudge
-beamless
+beamless 1
 bronzite
 baalist
 bespouses
