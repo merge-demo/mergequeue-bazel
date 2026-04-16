@@ -7653,7 +7653,7 @@ foregift 2
 forgiveless
 feyness
 foregleam
-forst
+forst 1
 forego 1
 feudatory
 fables
