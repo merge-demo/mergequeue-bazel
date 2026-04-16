@@ -7343,7 +7343,7 @@ epanorthidae
 electrojet 1
 ephorates 1
 enravishment
-epapophysis
+epapophysis 1
 easeled
 evangeliser
 exosphere
