@@ -23642,7 +23642,7 @@ aurelia
 alleles 1
 arables
 amylodextrin 1
-aureole
+aureole 1
 autosomatognostic
 aureoled 1
 anemograph
