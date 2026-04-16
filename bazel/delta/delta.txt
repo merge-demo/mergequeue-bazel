@@ -2260,7 +2260,7 @@ domineerer
 distractibility 1
 dustbox 1
 determinative
-decelerates
+decelerates 1
 dentolabial
 decembrist
 demnition
