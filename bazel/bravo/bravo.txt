@@ -2118,7 +2118,7 @@ bismar
 burette
 banteng
 beglerbegship 2
-barriers
+barriers 1
 banter
 banterers 2
 bloodlessness 1
