@@ -5605,7 +5605,7 @@ epiklesis
 equuleus
 embryulcus
 enflower
-essexite
+essexite 1
 evaporate
 ectognatha 2
 equalization 2
