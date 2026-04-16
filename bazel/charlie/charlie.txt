@@ -18378,7 +18378,7 @@ churchless
 cardinalic
 cognatic
 calorize
-cognatus
+cognatus 1
 cementum
 cognisable
 chiragrical
