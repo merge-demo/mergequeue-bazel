@@ -10076,7 +10076,7 @@ amblycephalus
 atmology
 amblydactyla 1
 asymptomatically
-ammoniemia
+ammoniemia 1
 agarita 1
 amblygonal
 allergology
