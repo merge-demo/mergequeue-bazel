@@ -5400,7 +5400,7 @@ figuration
 fruittime
 forthbringer 1
 formable
-flecking
+flecking 1
 firehouses
 fusarole
 fennel
