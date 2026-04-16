@@ -5920,7 +5920,7 @@ epiplastron
 emphases
 explees
 ecarinate
-execrators
+execrators 1
 exaggerativeness
 epitomise
 edeitis
