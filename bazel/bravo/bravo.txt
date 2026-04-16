@@ -10162,7 +10162,7 @@ bosker
 blackfigured
 biochemical 1
 breechcloth
-bas
+bas 1
 banak
 bloodfins 1
 bignoniaceae 1
