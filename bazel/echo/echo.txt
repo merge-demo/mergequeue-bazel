@@ -12556,7 +12556,7 @@ exit
 encrypted 1
 exsects 1
 exite 1
-eranist
+eranist 1
 extinction 1
 envied 1
 enherit
