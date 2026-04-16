@@ -807,7 +807,7 @@ detections
 disingenious 1
 dangerously 1
 dactyliomancy
-diabrotic
+diabrotic 1
 deduced
 dangerousness
 distention
