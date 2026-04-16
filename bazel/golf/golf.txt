@@ -10368,7 +10368,7 @@ gullery
 grasshook
 gingerwort
 grike
-gapingstock
+gapingstock 1
 gullets 1
 generators
 giddied
