@@ -27150,7 +27150,7 @@ chittered 1
 counterstimulate
 counterstimulation
 counterstimulus
-counterstock
+counterstock 1
 counterstroke
 cyclopoid
 clientless
