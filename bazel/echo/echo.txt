@@ -5696,7 +5696,7 @@ evangelicals
 exomorphism
 euploid
 extrarenal
-endophasic
+endophasic 1
 erotism
 entrough 1
 expectorants
