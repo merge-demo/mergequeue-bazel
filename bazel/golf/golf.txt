@@ -1399,7 +1399,7 @@ germanize
 grecize 1
 gaits 2
 ganyie 3
-gallotannin
+gallotannin 1
 gasified 1
 gausterer
 gearshift
