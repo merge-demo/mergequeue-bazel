@@ -17880,7 +17880,7 @@ diplomata
 debromination
 disgrace
 disburser
-deterministically
+deterministically 1
 durance 1
 dejectedly
 donate
