@@ -12029,7 +12029,7 @@ disintertwine 1
 divinest 1
 diapsid
 driest
-duckfoot
+duckfoot 1
 dromaeus
 daverdy
 deliveries
