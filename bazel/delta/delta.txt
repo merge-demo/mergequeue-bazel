@@ -16145,7 +16145,7 @@ decrypted
 dualist 1
 douziemes 1
 dysmeromorphic 1
-dovecot
+dovecot 1
 dhows
 dynamist
 dislustred
