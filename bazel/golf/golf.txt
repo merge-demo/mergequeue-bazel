@@ -9997,7 +9997,7 @@ glazer
 gubernatrix 1
 goodsome
 geophysically
-graveness
+graveness 1
 gargled
 gelatinify 1
 galago
