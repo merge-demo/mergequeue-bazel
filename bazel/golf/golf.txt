@@ -10810,7 +10810,7 @@ gainly 1
 goblinism
 gonenesses
 glasshouse
-glibbery
+glibbery 1
 gossipping
 geniolatry
 goldtail 1
