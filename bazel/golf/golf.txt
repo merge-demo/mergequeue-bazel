@@ -1381,7 +1381,7 @@ grabbles 1
 gaulin
 gorb 2
 gastrostegal
-gravitometer
+gravitometer 1
 garnetter
 glyconeogenetic 1
 guttular
