@@ -7646,7 +7646,7 @@ diswarn 1
 developing
 didelphis
 development
-developmental
+developmental 1
 developmentally
 decompressions
 decolouring
