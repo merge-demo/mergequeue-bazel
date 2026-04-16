@@ -2442,7 +2442,7 @@ fibrously
 foh
 fingu
 frontwise
-foreproduct
+foreproduct 1
 fermentable 1
 fermentativeness 1
 faradize 2
