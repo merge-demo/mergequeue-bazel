@@ -2719,7 +2719,7 @@ duci
 derails
 decontrolled
 deconvolution
-deconvolve
+deconvolve 1
 desmon 1
 decor 1
 diplopic
