@@ -9260,7 +9260,7 @@ gibingly
 glowworm
 guts 2
 grizzly
-gunsel
+gunsel 1
 gaugeably
 grizzling
 groaned
