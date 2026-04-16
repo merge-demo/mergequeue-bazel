@@ -9514,7 +9514,7 @@ generalizer
 gloving 1
 ganoidean
 grouser
-gunmetals
+gunmetals 1
 gorgeted 1
 gyred 1
 grimp 1
