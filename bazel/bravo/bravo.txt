@@ -14880,7 +14880,7 @@ baja
 breakers
 breakfast
 buffetings 1
-bastard
+bastard 1
 breakfronts 1
 butlerage 1
 breaking
