@@ -16866,7 +16866,7 @@ bufflehead
 breekums
 bounders
 buffont
-bactericidally
+bactericidally 1
 buffooneries
 benzoxycamphor 1
 balancelle
