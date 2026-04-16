@@ -7332,7 +7332,7 @@ glumpiness 1
 guildhall 1
 gosports 1
 grainless 1
-gossamered
+gossamered 1
 galega 1
 gossamers
 galloglass 2
