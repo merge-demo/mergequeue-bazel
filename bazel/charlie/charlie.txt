@@ -30098,7 +30098,7 @@ crowding 1
 crowdle
 chromatrope
 cingulated
-crowed
+crowed 1
 crower
 crowers
 conductors
