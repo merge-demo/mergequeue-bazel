@@ -9539,7 +9539,7 @@ advehent
 academia
 arenig
 altimeters
-aspidomancy
+aspidomancy 1
 anthema
 alchemistry
 ammocetes
