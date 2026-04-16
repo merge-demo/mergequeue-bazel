@@ -4425,7 +4425,7 @@ footgear 1
 fetters
 fl
 frenches
-folkmotes
+folkmotes 1
 feulamort
 farand 1
 forfeit
