@@ -3682,7 +3682,7 @@ excogitates 1
 engarment
 emaciated
 erythrons
-enwheel
+enwheel 1
 everse 1
 everywheres 1
 enchytrae
