@@ -16697,7 +16697,7 @@ cosuitor
 culla
 chocolaty
 cora 1
-clothespins
+clothespins 1
 centroplasm 1
 clothespresses 1
 cire
