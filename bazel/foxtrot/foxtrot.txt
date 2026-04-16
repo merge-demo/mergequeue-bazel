@@ -4100,7 +4100,7 @@ federation 2
 fakers
 foreprovided 1
 finny 2
-fabulosity 1
+fabulosity 2
 fylgjur
 foolship 1
 finnicize 2
