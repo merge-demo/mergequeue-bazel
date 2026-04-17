@@ -28356,7 +28356,7 @@ crawberry
 crawdad
 crawdads 1
 collector
-crawfishing
+crawfishing 1
 crawfoots
 corviform
 crawl
