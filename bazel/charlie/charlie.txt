@@ -9354,7 +9354,7 @@ collocations
 chaute
 carrotage
 chauve
-charmful
+charmful 1
 consulating
 cartograph
 chauvin
