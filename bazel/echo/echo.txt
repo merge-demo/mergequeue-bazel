@@ -3373,7 +3373,7 @@ extranormal 1
 emballonuridae
 eulachons
 essentialities
-equus
+equus 1
 energeticalness
 eternising
 esquirearchy
