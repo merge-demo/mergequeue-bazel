@@ -2918,7 +2918,7 @@ decussoria
 decwriter
 deltoid 1
 divia
-dashel
+dashel 1
 dedanite
 dedecorous
 divide
