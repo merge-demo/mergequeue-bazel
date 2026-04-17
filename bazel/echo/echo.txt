@@ -6296,7 +6296,7 @@ ectopias 3
 edaphic
 enows
 electrotechnology
-euryscope
+euryscope 1
 ecclesiastry
 enduring
 exspoliation
