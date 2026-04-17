@@ -13179,7 +13179,7 @@ dilly
 display
 displayable
 dumaist 2
-depositive
+depositive 1
 dhava 1
 dongolas
 diazole
