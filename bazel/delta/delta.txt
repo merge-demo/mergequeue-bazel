@@ -2964,7 +2964,7 @@ diegesis
 diplasiasmus 3
 deduces 1
 droil
-dolt
+dolt 1
 deducibility 1
 drawstop
 deducted 2
