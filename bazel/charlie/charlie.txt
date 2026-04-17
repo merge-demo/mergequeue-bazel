@@ -14541,7 +14541,7 @@ choppy
 cistercianism
 cisternae 1
 cariocas
-cisternal
+cisternal 1
 cornier
 compotier
 cystic
