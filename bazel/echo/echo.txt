@@ -5118,7 +5118,7 @@ engrains 1
 elatha
 endocyst
 epodic
-enucleate
+enucleate 1
 experted 1
 extraditions
 eclogites 1
