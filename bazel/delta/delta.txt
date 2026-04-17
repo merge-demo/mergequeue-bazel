@@ -303,7 +303,7 @@ distributed
 dayabhaga
 dreed
 demisheath
-depolarized
+depolarized 1
 dayanim
 daybeacon
 dealbate
