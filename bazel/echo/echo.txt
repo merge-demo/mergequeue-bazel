@@ -14134,7 +14134,7 @@ ebonizing 1
 ephemerality 2
 enseraph
 enplanement
-emulates
+emulates 1
 enlard
 entocuneiform
 excussion
