@@ -4913,7 +4913,7 @@ essenis 1
 electrodialyzer 1
 englishly
 eggers 2
-ensured
+ensured 1
 es 1
 entablements
 excisions
