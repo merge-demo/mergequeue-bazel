@@ -2965,7 +2965,7 @@ diplasiasmus 3
 deduces 1
 droil
 dolt
-deducibility
+deducibility 1
 drawstop
 deducted 2
 devolatilized
