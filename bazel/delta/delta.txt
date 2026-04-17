@@ -15030,7 +15030,7 @@ doggerelist
 desperate
 doggerelizing
 diphthongising
-disrout
+disrout 1
 durnedest 1
 decided 1
 deformer 1
