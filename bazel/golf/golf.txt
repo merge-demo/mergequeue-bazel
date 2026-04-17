@@ -1817,7 +1817,7 @@ glycine
 gastrocolostomy 1
 geodesia 1
 gastrovascular 2
-geryoniidae
+geryoniidae 1
 gthite 2
 goala 1
 gulleries 1
