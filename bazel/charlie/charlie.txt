@@ -20361,7 +20361,7 @@ comolecule
 carbonite
 crassness
 cuirass
-comose
+comose 1
 comourn 1
 chaffcutter
 corycavamine
