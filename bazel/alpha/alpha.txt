@@ -239,7 +239,7 @@ alchemistical
 adipolytic
 ajourise
 aeroliths
-absorptiometric
+absorptiometric 1
 abbott
 adenomyxoma
 actable
