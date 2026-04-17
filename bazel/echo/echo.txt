@@ -776,7 +776,7 @@ ecrase 1
 enclitic
 escort
 extense
-eremophilous
+eremophilous 1
 experimental 1
 epitheliliums
 ecroulement 1
