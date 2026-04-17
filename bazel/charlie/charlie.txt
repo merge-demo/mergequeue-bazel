@@ -30217,7 +30217,7 @@ concentrators 1
 cains
 cursed
 crudity
-crudities
+crudities 1
 companions
 countryfied
 crudle
