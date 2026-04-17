@@ -8663,7 +8663,7 @@ gliders
 growthless
 glycohaemia
 gladys 1
-gerip 1
+gerip 2
 grapy
 goopy
 geyser
