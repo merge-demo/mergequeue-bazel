@@ -9580,7 +9580,7 @@ grind
 gnus 1
 gingersnap 1
 grovellingly
-geishas
+geishas 1
 gneissoid
 guester 1
 grovellings
