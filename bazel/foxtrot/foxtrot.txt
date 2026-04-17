@@ -11718,7 +11718,7 @@ ferruled
 foredesign
 friars
 fosslology
-flighty
+flighty 1
 fawnskin 1
 flagellator
 folkland 1
