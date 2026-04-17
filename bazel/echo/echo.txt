@@ -13801,7 +13801,7 @@ ecteron
 esparto 1
 eukaryote
 endebt 2
-expurgated
+expurgated 1
 expressionism
 elative
 epithelialize

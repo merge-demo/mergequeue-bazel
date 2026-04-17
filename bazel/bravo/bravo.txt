@@ -2984,7 +2984,7 @@ boulevard
 barrister 1
 bootless
 banda
-botts
+botts 1
 buat 1
 burrel 2
 barroom
