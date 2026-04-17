@@ -530,7 +530,7 @@ beech 1
 bayok 1
 blasthole
 bafflingness
-barometrical
+barometrical 1
 backvelder
 blastodermic
 baufrey
