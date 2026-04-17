@@ -6802,7 +6802,7 @@ celioscope
 cella
 cellarage
 cellared 1
-chamoix
+chamoix 1
 cellaress 1
 chanceable
 caudal
