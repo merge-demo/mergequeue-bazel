@@ -8448,7 +8448,7 @@ ds
 duopsony
 degreed 1
 diamagnet
-diamagnetic
+diamagnetic 1
 diamagnetism 1
 dredging
 diamant 1
