@@ -6777,7 +6777,7 @@ ganocephala 2
 gonionia
 gnosticize
 genericness 4
-gamelang
+gamelang 1
 ganam 1
 gamgee
 gratias
