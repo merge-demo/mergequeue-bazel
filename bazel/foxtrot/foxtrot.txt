@@ -6550,7 +6550,7 @@ forswears 1
 feedboard 1
 flensing 1
 flutterment
-flimflammed
+flimflammed 1
 fluviolacustrine 1
 fleetly 1
 funereal
