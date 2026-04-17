@@ -4826,7 +4826,7 @@ coffea
 carr
 carrack
 cymulose 1
-cycling
+cycling 1
 corallita
 carracks 1
 chronobarometer
