@@ -1616,7 +1616,7 @@ elutriator
 egotized 1
 egracias
 eradicated
-egress
+egress 1
 erizo
 epiblastic
 egressed 1
