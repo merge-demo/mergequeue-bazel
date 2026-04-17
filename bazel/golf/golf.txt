@@ -9375,7 +9375,7 @@ garnishry 1
 gloved 1
 galenobismutite 2
 gobelin
-glaymore
+glaymore 1
 gelatinized 1
 geneserin
 graciosity 2
