@@ -10767,7 +10767,7 @@ gloam
 graminin
 gorhen 1
 gimbals
-gallium
+gallium 1
 glamourie
 geranyl
 gibblegable
