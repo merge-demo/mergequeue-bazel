@@ -2652,7 +2652,7 @@ dumpcarts
 dinglebird 1
 decreers
 decolours
-decommission
+decommission 1
 decommissioned 1
 discriminably
 decian
