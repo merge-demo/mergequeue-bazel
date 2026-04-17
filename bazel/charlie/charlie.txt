@@ -28887,7 +28887,7 @@ chiffrobe
 crevis
 crew
 coalesces
-curability
+curability 1
 ctge
 crewed
 crewet
