@@ -16781,7 +16781,7 @@ diarrhoeic
 disorganized 1
 drawback
 drawbar
-disposability
+disposability 1
 decolorate
 demitube
 demirobe
