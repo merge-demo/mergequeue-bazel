@@ -6469,7 +6469,7 @@ departmentalising 1
 diploes
 decadenza
 dactylioglyph
-disbark
+disbark 1
 desamidase
 desands 1
 desc
