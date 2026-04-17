@@ -7606,7 +7606,7 @@ fervors
 forril 1
 festino 1
 fatalize 1
-farrier
+farrier 1
 fossula 1
 felty
 ferroglass
