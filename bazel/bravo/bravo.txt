@@ -5762,7 +5762,7 @@ bellboy
 bulbochaete 2
 bursula 1
 bood
-biarticular
+biarticular 1
 bylining
 bellboys
 belay
