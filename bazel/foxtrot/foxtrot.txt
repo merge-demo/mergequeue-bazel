@@ -6807,7 +6807,7 @@ foreshadowing 1
 ferme 1
 fiendliness
 frontal 1
-flaccidity
+flaccidity 1
 footbeat
 forfalt 1
 faithfuls 1
