@@ -2488,7 +2488,7 @@ decivilize
 dateline 1
 deckel
 deporte
-debased
+debased 1
 ditchdown
 dirigent 1
 deckhand
