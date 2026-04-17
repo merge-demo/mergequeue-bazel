@@ -13207,7 +13207,7 @@ cannonproof 1
 caryota
 cyclic
 cyclical
-cyclizing
+cyclizing 1
 cyclically
 cyclicalness
 cyclide 1
