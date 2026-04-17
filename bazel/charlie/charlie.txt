@@ -12030,7 +12030,7 @@ chevreuil
 chorook
 cyclops
 choroti
-chorous
+chorous 1
 chort
 chortle
 chondrodite
