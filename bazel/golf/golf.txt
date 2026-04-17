@@ -4891,7 +4891,7 @@ gleam
 glozes
 gyrotheca
 gimme 1
-grandstanding
+grandstanding 1
 gladiola
 granatite 1
 goldurns 2
