@@ -4389,7 +4389,7 @@ fishboats
 fonduk
 fishbolts
 flechette
-funt
+funt 1
 floorshifts
 flagged
 forbearances
