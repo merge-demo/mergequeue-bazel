@@ -13371,7 +13371,7 @@ diasyrm 1
 doublehorned
 disquieted
 dehydrogenised
-digitalized
+digitalized 1
 disunited
 disbandments
 doability
