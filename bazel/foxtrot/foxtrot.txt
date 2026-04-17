@@ -3381,7 +3381,7 @@ foulnesses 1
 fieldleft
 ferrean
 freewomen 2
-fanioned
+fanioned 1
 folily
 feeless
 familistic
