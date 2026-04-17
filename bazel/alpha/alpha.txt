@@ -3756,7 +3756,7 @@ addiment
 aquashow
 adherent 1
 adherents
-archetypally
+archetypally 1
 adherers 1
 antiphonon
 abbozzo 1
