@@ -2617,7 +2617,7 @@ formalistic 2
 fountainless 1
 frivol 3
 filigreed
-flutework
+flutework 1
 ferio
 farandmen
 foraminated 1
