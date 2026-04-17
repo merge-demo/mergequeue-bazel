@@ -11814,7 +11814,7 @@ epiphytous
 enrolment
 elaphrium
 euryon 1
-exaudi
+exaudi 1
 ethenoidal 1
 exaun
 earthrise
