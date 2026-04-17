@@ -8029,7 +8029,7 @@ gusted
 gallocyanine 1
 gumless
 gettering
-gustable
+gustable 1
 greekess
 gentilize 2
 gabby
