@@ -277,7 +277,7 @@ boltuprightness
 bespangled
 belar 2
 back
-brachiocubital
+brachiocubital 1
 backache
 burrknot 1
 bocardo 1
