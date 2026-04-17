@@ -2496,7 +2496,7 @@ glossier
 girdlelike 1
 gaucher 2
 golds
-gradienter
+gradienter 1
 gotch 1
 glunches 2
 geyan 1
