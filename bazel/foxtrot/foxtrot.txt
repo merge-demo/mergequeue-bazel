@@ -8138,7 +8138,7 @@ flexo
 flatcaps
 faithful
 featurette
-fuchsias
+fuchsias 1
 fellable 3
 fanegadas
 fundmonger 2
