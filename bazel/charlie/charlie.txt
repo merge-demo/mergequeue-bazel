@@ -12764,7 +12764,7 @@ congelifract
 chummery
 chummier
 chummies
-chumminess
+chumminess 1
 chump
 chumpa
 conglobing
