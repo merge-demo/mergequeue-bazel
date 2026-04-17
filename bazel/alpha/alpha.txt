@@ -5217,7 +5217,7 @@ affections
 affectious
 affective
 advocacies
-affectivity
+affectivity 1
 affector
 accoast 1
 affeerer
