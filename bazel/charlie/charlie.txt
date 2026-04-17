@@ -12475,7 +12475,7 @@ chromolithographic 1
 chromomere
 chondrosarcoma
 chromone
-carboxide
+carboxide 1
 creamers
 cantonments
 crinated
