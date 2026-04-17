@@ -13244,7 +13244,7 @@ bosselation 1
 bolti 1
 barysphere 1
 buffbar
-bedevil
+bedevil 1
 broadest
 bogomil 1
 bosset
