@@ -5584,7 +5584,7 @@ fader 1
 fibrinocellular
 flycatchers 1
 flicflac
-flintiness
+flintiness 1
 flicker 2
 fixity 1
 flocculently 1
