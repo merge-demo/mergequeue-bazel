@@ -23219,7 +23219,7 @@ attests
 aleuromancy 1
 alkermes
 androphonomania
-amphinesian
+amphinesian 1
 atrabilarious
 apomecometry
 auriphrygiate
