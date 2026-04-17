@@ -8432,7 +8432,7 @@ fallibilist 1
 flurr
 foreboded 1
 floweriness 3
-foppish
+foppish 1
 forpine
 fictitiously
 facsimilize
