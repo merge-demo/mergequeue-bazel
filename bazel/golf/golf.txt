@@ -6797,7 +6797,7 @@ genal 1
 genros
 gondola
 goniums
-glanis
+glanis 1
 garbleable 1
 gradate
 guffawing
