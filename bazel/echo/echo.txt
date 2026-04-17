@@ -8672,7 +8672,7 @@ epithalamiumia
 enchondromas 2
 exfoliate
 encharging
-encharge
+encharge 1
 episcleritis
 earth
 epiglottides 1
