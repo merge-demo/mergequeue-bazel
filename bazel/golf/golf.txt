@@ -10189,7 +10189,7 @@ gearwheels
 glade 1
 glaucium 1
 goalies
-gladiolar
+gladiolar 1
 guids 1
 guidwife 1
 groundly 1
