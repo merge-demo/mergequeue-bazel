@@ -1576,7 +1576,7 @@ brachioganoidei 1
 ballflower 1
 bifurcate
 ballywack
-basalt
+basalt 1
 brooder
 benzanilide
 beclart
