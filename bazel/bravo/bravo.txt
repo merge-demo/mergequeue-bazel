@@ -9244,7 +9244,7 @@ broadsides
 bacterioidal 2
 bedouinism 1
 bothersomeness 2
-balewort
+balewort 1
 bracteiform
 byplay 1
 bullfrogs
