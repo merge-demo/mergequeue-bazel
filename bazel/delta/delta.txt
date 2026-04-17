@@ -15783,7 +15783,7 @@ doomage 1
 deflorations 1
 dorsa
 dentiparous
-demountability 1
+demountability 2
 dramatizer
 diallela
 dorsabdominal 1
