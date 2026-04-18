@@ -6823,7 +6823,7 @@ dragade 1
 destined
 deslime
 dissoconch
-desmachyme
+desmachyme 1
 daubery
 dockworker
 decidingly
