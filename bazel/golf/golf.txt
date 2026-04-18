@@ -1271,7 +1271,7 @@ garran 1
 gaia 1
 glenwood 2
 granage
-ged
+ged 1
 gavall 1
 goethites
 gratten 1
