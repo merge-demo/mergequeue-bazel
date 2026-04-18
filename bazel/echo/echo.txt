@@ -3432,7 +3432,7 @@ episyllogism 1
 edeotomy 1
 eucirripedia
 embogue
-electrophobia
+electrophobia 1
 ennuyant 1
 ecalcavate
 errand
