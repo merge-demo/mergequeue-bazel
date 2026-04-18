@@ -1565,7 +1565,7 @@ ballyrags
 bioelectrogenetic
 belat
 ballised
-biradial 1
+biradial 2
 britches 2
 binate
 ballista
