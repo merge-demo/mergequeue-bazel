@@ -9153,7 +9153,7 @@ biotypes
 browbeats 2
 brickred 1
 biotypic
-boubou
+boubou 1
 biotypology 1
 balneotherapeutics 2
 biotites 1
