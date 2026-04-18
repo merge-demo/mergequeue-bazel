@@ -9062,7 +9062,7 @@ ammonoid
 allowed 1
 attorned
 assertiveness
-acquiescing
+acquiescing 1
 assagais
 aftermarriage
 alochia
