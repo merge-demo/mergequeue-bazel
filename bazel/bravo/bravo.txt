@@ -12687,7 +12687,7 @@ bloatedness 2
 bowedness
 blipping
 boohooing 1
-biaswise
+biaswise 1
 bear
 bungarus 1
 boroughmongering
