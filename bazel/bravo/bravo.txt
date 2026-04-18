@@ -1809,7 +1809,7 @@ bancha
 bivial
 beslime
 bullose
-bialystoker
+bialystoker 1
 bandaged
 bandaging
 berylloid 1
