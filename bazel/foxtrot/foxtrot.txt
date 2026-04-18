@@ -7193,7 +7193,7 @@ flites
 forthteller 1
 footless 1
 footlights
-fratries
+fratries 1
 ficoides
 forearming
 farer
