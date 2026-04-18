@@ -12778,7 +12778,7 @@ bookstand 1
 blemisher 1
 bookstores
 biforked
-bigaroon
+bigaroon 1
 bucolic
 bullfice
 baskerville 1
