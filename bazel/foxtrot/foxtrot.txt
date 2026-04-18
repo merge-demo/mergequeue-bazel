@@ -4469,7 +4469,7 @@ feste 1
 fate 3
 fishpole
 fishpoles 1
-flueless 1
+flueless 2
 flameproof 1
 fazed 1
 fishponds 1
