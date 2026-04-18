@@ -20513,7 +20513,7 @@ arteriometer
 arteriomotor
 antiasthmatic
 arterioplasty 1
-arteriorenal
+arteriorenal 1
 accentless
 amnesty
 airfreight 1
