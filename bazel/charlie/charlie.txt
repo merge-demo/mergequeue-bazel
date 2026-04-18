@@ -9216,7 +9216,7 @@ consulships
 clapperboard
 cheering
 corf 1
-chastity
+chastity 1
 chastities
 chockstone
 chasubled
