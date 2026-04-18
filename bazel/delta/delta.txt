@@ -7237,7 +7237,7 @@ damnified
 detectible 3
 detection
 diamantiferous
-deadlight
+deadlight 1
 disparatum
 daguilla 2
 darklings
