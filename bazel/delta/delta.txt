@@ -3937,7 +3937,7 @@ drisheen
 douser
 duopoly 2
 disleal
-diaphemetric
+diaphemetric 1
 deyship
 demagnification
 deliberation
