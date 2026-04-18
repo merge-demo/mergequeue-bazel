@@ -6595,7 +6595,7 @@ enhuile
 enwind 1
 exolemma
 emove
-eligenda
+eligenda 1
 ergothioneine
 exodontia
 eruditional
