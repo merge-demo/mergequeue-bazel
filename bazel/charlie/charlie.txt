@@ -3302,7 +3302,7 @@ coilers
 caplin
 caplins 1
 coherald
-capmaking
+capmaking 1
 combatter
 capnodium
 capnoides
