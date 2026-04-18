@@ -24603,7 +24603,7 @@ associateship
 avalanches
 acrologic
 actless
-assortive
+assortive 1
 aquaplaner
 absolve
 avalent
