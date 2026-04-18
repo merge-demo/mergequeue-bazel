@@ -480,7 +480,7 @@ abyss
 abyssopelagic 1
 actinide 1
 airstream
-abyssus
+abyssus 1
 abit
 abstriction 1
 agriculture
