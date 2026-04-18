@@ -2891,7 +2891,7 @@ connectionless
 crayfish 1
 cantabank 1
 canonic 1
-curatively
+curatively 1
 cacaos
 cantabile
 clothesmonger
