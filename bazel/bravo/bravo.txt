@@ -13454,7 +13454,7 @@ bitterbrush 1
 bawdship 1
 bottlemaker 1
 begotten 1
-burgs 1
+burgs 2
 broilery
 beer
 bleeding
