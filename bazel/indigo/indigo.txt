@@ -11709,7 +11709,7 @@ iucds
 iucdwkfb 1
 iucdx
 iucdxfn
-iucf
+iucf 1
 iucfklsjij
 iucfnnyprpk
 iucfoxc 1
