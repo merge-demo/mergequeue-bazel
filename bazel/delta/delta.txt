@@ -14007,7 +14007,7 @@ distractive
 defending
 dumpling
 disproportion 1
-disorb
+disorb 1
 deterge
 database 1
 distractively 1
