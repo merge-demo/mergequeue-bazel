@@ -4120,7 +4120,7 @@ beards
 barbers
 birthroot
 bombazette
-bedrenched
+bedrenched 1
 bras 1
 brachycera 2
 bearfoots
