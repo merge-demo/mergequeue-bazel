@@ -13117,7 +13117,7 @@ abiders
 anim 1
 anima 1
 animable
-agistor
+agistor 1
 anthrapurpurin
 archaeopteris
 antiromance
