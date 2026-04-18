@@ -7050,7 +7050,7 @@ actinia
 abjudicator
 adoniram
 adductive
-avick
+avick 1
 aphyllous
 autoist
 aquench
