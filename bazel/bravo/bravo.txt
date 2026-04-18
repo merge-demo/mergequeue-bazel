@@ -11718,7 +11718,7 @@ befop
 bolsterwork
 bosselated
 bobfloat
-bobierrite
+bobierrite 1
 balaenid
 bobjerom
 bioelectricity 1
