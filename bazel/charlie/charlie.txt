@@ -30430,7 +30430,7 @@ crux
 cruxes
 chorizontes 1
 cruzado
-chelicere
+chelicere 1
 cruzieros 1
 crwd
 crystallogenic
