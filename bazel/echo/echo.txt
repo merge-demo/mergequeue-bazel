@@ -7942,7 +7942,7 @@ emitter
 eatery
 extrastapedial
 endosmosis
-exudates
+exudates 1
 exptl
 exordia
 epimandibular 1
