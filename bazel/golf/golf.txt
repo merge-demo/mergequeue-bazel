@@ -9101,7 +9101,7 @@ giraffa
 glairiness
 garishness 1
 gherkin
-gentlehood
+gentlehood 1
 grinch 1
 goldwork
 geoid
