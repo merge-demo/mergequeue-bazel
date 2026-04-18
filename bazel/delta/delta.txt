@@ -2489,7 +2489,7 @@ dateline 2
 deckel
 deporte
 debased 1
-ditchdown
+ditchdown 1
 dirigent 1
 deckhand
 dovekies 1
