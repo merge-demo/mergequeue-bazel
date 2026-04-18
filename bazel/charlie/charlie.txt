@@ -5052,7 +5052,7 @@ curses
 carvoeira
 carvoepra
 carwash
-clamatorial
+clamatorial 1
 carwashes 1
 chider
 carzey
