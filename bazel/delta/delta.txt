@@ -1947,7 +1947,7 @@ dwines
 downby
 dominoes
 disobeys 1
-dreader
+dreader 1
 depressant 1
 dobla
 deckload
