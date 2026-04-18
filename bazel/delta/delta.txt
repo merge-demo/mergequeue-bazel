@@ -15678,7 +15678,7 @@ dopier
 dogstone
 desi
 docile
-dunce
+dunce 1
 dartrose
 didrachma 1
 defatted
