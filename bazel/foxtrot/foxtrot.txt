@@ -3673,7 +3673,7 @@ foredate
 flawier
 forelooper 1
 floorings
-fuzzing 1
+fuzzing 2
 followeth 2
 funnelling
 friskers 1
