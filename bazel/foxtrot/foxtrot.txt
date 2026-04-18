@@ -2124,7 +2124,7 @@ fireplow 1
 feldsparphyre 1
 foreprize
 fulsome
-favours
+favours 1
 foddered
 fellatrice
 fluoresage
