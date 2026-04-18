@@ -15959,7 +15959,7 @@ chordaceous
 carpometacarpus
 clericature
 cointension
-colloquialize
+colloquialize 1
 clericism
 conglomerator
 centares
