@@ -16821,7 +16821,7 @@ drawgate 1
 dividers
 deuteride
 dishonorary 2
-drawings
+drawings 1
 duplicando 1
 deliquescent
 dissociable
