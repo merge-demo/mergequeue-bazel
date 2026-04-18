@@ -3887,7 +3887,7 @@ carbonisable
 carbonise 1
 clarets
 choirmaster
-canister
+canister 1
 carbonitride 1
 cincinatti
 countertranslation 1
