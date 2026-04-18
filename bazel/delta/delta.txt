@@ -3245,7 +3245,7 @@ dayside
 derricking
 defenseless 1
 defenselessness
-devitalising
+devitalising 1
 dolichostylous
 dogrib
 dapicho
