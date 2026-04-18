@@ -13282,7 +13282,7 @@ endophragm
 estranger 2
 englishable
 evict
-eponymize
+eponymize 1
 epignathous
 egregious
 enflagellation
