@@ -2000,7 +2000,7 @@ depaysee 1
 demagnify
 dynapolis
 dolichocephal 2
-documentalist
+documentalist 1
 denehole 1
 dentello 1
 dimble 1
