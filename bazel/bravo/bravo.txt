@@ -18062,7 +18062,7 @@ beefwood 2
 boast
 bislings
 bog
-bustler
+bustler 1
 bustlers 2
 bustles
 biologize
