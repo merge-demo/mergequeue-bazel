@@ -7229,7 +7229,7 @@ disenchantingly 1
 detecter
 detecters
 decemvirate
-duffels
+duffels 1
 digitate
 decertify 1
 dolorous
