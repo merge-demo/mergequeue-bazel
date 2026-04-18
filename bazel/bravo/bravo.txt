@@ -6246,7 +6246,7 @@ backspread
 benightedness 1
 benorth
 benefact
-beme
+beme 1
 bensall
 behaviorist
 barbigerous
