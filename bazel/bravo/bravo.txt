@@ -10660,7 +10660,7 @@ begarnish
 blearing 1
 blearness
 balarao
-bleated
+bleated 1
 butcherdom 2
 bleaty
 bleating
