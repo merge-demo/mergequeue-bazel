@@ -1836,7 +1836,7 @@ gouts
 gemmiparity
 guinean
 gullah
-gingiva
+gingiva 1
 gatekeeper
 grizel
 grassy 1
