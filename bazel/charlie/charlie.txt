@@ -24343,7 +24343,7 @@ caverning
 caritas 1
 cookshop
 cookshops
-chiliasms
+chiliasms 1
 cards
 cookstove
 colligible
