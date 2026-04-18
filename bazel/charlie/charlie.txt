@@ -5752,7 +5752,7 @@ catchpoll
 catchpolling
 copperheads
 contribute
-catchweight
+catchweight 1
 catchword
 catchwork
 cabasset
