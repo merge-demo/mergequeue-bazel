@@ -6744,7 +6744,7 @@ grouters 1
 gaveller
 goniodoridae
 gnotobiote
-granitized
+granitized 1
 gametophore 2
 gagging
 grannie
