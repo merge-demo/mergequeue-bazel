@@ -3486,7 +3486,7 @@ defoil 1
 dorsobranchiata 1
 defoliants 1
 defoliate 2
-defoliations
+defoliations 1
 descending
 disjunct 1
 debilitant
