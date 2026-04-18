@@ -24747,7 +24747,7 @@ aniline
 appleberry
 approximated
 axonost
-auscult
+auscult 1
 aviations
 aviatoriality
 aviatress
