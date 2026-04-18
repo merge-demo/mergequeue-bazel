@@ -2230,7 +2230,7 @@ eldest
 effigiated
 eventuate
 engulfment
-eldrich
+eldrich 1
 eldritch 1
 enchased
 eulogy
