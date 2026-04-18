@@ -16767,7 +16767,7 @@ albatros 1
 amphigonia
 adultoid
 aphydrotropic 1
-adepts
+adepts 1
 aphydrotropism 1
 aphilanthropy
 aphylly
