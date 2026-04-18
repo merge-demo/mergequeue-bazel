@@ -5305,7 +5305,7 @@ astrid
 americanoid 1
 affixation
 amortization
-affixed
+affixed 1
 apophantic
 andantinos 1
 androsin
