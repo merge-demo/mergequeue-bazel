@@ -6365,7 +6365,7 @@ dermotropic
 dastardliness 1
 derms
 diacatholicon
-defined
+defined 1
 dioc 1
 ducula 1
 demurrable 1
