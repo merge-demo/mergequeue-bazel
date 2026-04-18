@@ -1982,7 +1982,7 @@ geology
 geranic 2
 goring 1
 grubroot 1
-glut 1
+glut 2
 gripes 1
 grudged
 ghastlier
