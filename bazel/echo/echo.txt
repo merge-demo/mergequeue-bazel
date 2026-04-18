@@ -907,7 +907,7 @@ emperies
 extrastate
 electrostrictive
 episedia
-encomiastic
+encomiastic 1
 excommunicators
 endosporous
 eriodictyon 1
