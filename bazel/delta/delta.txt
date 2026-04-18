@@ -4348,7 +4348,7 @@ demands 1
 denay
 desyl
 dendrodic
-dysphagic
+dysphagic 1
 delead
 demersal
 demanganization
