@@ -8427,7 +8427,7 @@ electrizer 1
 evisceration
 egyptianize 1
 equip
-enjoyment
+enjoyment 1
 eglogue
 endothecate 1
 ethicosocial 1
