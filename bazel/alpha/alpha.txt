@@ -14421,7 +14421,7 @@ anode
 achromacyte 1
 anthracomancy
 anthracomarti
-ambulancing
+ambulancing 1
 analepsis
 albuminone 1
 antagonizable
