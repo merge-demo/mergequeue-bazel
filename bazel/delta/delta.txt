@@ -10035,7 +10035,7 @@ demist
 deck
 disordain
 decemfoliolate
-dynactinometer
+dynactinometer 1
 deratize
 dazedly
 dissipater
