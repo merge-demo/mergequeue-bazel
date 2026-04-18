@@ -4576,7 +4576,7 @@ epidiorthosis 1
 escuela 2
 enodation 1
 excoction
-euphemized
+euphemized 1
 excrementitious
 eleazar 1
 enchancement
