@@ -11866,7 +11866,7 @@ dispels 3
 disulphone
 dromomania
 dunked
-denying
+denying 1
 diadems
 diffusionist
 discussionist 1
