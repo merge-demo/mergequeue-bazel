@@ -8635,7 +8635,7 @@ fringilloid
 forsakenness 1
 fermentarian 1
 forsythia
-fontinalis
+fontinalis 1
 findon
 flamberge
 freightless 1
