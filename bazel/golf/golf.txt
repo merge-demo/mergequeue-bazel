@@ -2879,7 +2879,7 @@ gasmetophytic 1
 generatrices
 gileadite
 galvvanoscopy
-gummosity
+gummosity 1
 gibbing 1
 genuflex 1
 glyptal 1
