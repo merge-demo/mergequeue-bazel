@@ -3986,7 +3986,7 @@ empanelling
 empanels 1
 enfamish
 ecumene
-emparchment 1
+emparchment 2
 exaltative
 enruin
 embarrassingly
