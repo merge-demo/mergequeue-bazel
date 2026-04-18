@@ -6905,7 +6905,7 @@ etiquettes
 endamageable
 epispore
 ectocardia 1
-endometria 1
+endometria 2
 evaporable
 equipments
 embelif 1
