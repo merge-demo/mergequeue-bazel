@@ -2298,7 +2298,7 @@ dohter 1
 decennoval
 deflux
 decentering
-discomfortableness
+discomfortableness 1
 daidled
 drips 1
 dirtplate 1
