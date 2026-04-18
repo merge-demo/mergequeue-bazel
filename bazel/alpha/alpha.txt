@@ -6822,7 +6822,7 @@ airflow 1
 antimoralist
 aglipayan
 airfoil
-airfoils
+airfoils 1
 airglows
 airgraphics 1
 anisometropia
