@@ -4994,7 +4994,7 @@ crystallizing 1
 chevrony
 cartulary
 cartularies
-carapache
+carapache 1
 cabbagelike
 collaring
 cartware
