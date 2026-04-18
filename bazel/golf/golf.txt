@@ -6798,7 +6798,7 @@ genros
 gondola
 goniums
 glanis 1
-garbleable 1
+garbleable 2
 gradate
 guffawing
 goniunia
