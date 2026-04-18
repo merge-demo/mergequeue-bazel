@@ -5606,7 +5606,7 @@ aftertask
 achromatium
 afterthought
 afterthoughts 1
-afterthrift
+afterthrift 1
 apastron 1
 armil
 anchoritically
