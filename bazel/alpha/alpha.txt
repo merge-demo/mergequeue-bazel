@@ -1346,7 +1346,7 @@ adiaphanousness
 azote
 aug
 aqueducts
-accelerators
+accelerators 1
 amlet
 aumbries
 accelerometer
