@@ -10824,7 +10824,7 @@ galactophthysis 1
 gyokuro
 glimmers 2
 gargol 1
-gelatinizing
+gelatinizing 1
 gyved
 gigunu 1
 guvacine 1
