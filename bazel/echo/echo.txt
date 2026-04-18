@@ -5446,7 +5446,7 @@ endpoints
 endrudge
 extrabulbar
 ecderonic
-endseal
+endseal 1
 endshake
 elfishly
 egretta 1
