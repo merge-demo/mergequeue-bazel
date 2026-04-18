@@ -11712,7 +11712,7 @@ flaw
 fanfish 1
 fiancailles 1
 frowns 2
-furriered
+furriered 1
 forebitter 2
 ferruled
 foredesign
