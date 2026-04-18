@@ -5503,7 +5503,7 @@ catabolin 1
 catabolism 1
 catabolite
 catabolized
-claim
+claim 1
 counterwrite
 congaing
 catachreses 1
