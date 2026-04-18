@@ -8093,7 +8093,7 @@ equicrural 1
 electrooculogram 2
 exosporium 1
 extraprovincial 1
-epiphragm
+epiphragm 1
 enlargedness
 encover 1
 extrasyphilitic
