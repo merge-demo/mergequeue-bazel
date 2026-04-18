@@ -4328,7 +4328,7 @@ enterable
 endothelioid
 entrenches 1
 esture
-elytroclasia
+elytroclasia 1
 expulsive 1
 expansibleness
 enactor 2
