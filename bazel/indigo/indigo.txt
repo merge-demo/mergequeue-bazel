@@ -8469,7 +8469,7 @@ iocsmzroub
 ioct
 ioctfdwf
 ioctjr
-ioctswmp
+ioctswmp 1
 iocttypykxj
 ioculdtor
 iocuszpowxq
