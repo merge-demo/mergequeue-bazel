@@ -27018,7 +27018,7 @@ curatage
 conjure
 contoid
 chimneypot
-counterpoints
+counterpoints 1
 cataleptiform 2
 contestable
 chronical
