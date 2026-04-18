@@ -5011,7 +5011,7 @@ endemicity
 electrofused
 endemism
 eco 1
-eightscore 2
+eightscore 3
 endenization
 excusator
 ecarte
