@@ -17556,7 +17556,7 @@ dactyls
 drumlins 1
 dorsiferous 2
 diciest
-drumloidal
+drumloidal 1
 drummer
 duckhearted
 deathlike 1
