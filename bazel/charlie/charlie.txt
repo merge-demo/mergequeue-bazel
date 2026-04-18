@@ -20303,7 +20303,7 @@ contubernium 1
 chittamwood
 cohesiveness
 communions
-chanst
+chanst 1
 citrullin
 communiques
 coupling
