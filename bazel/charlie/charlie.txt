@@ -15520,7 +15520,7 @@ clashes 1
 censures
 clashing
 clashingly
-cormlike
+cormlike 1
 clasmatocyte
 ccoya
 clasmatocytic
