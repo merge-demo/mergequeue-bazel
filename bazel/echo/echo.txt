@@ -5303,7 +5303,7 @@ equity 1
 esterellite
 efik
 enchest
-emulsionize
+emulsionize 1
 engrafting
 ecmnesia 1
 endorsable 1
