@@ -8161,7 +8161,7 @@ fillercap
 fairishness
 fibulas
 fasthold
-fribbling
+fribbling 1
 fideicommissor
 foundlings
 fingerboards
