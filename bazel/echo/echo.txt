@@ -5012,7 +5012,7 @@ electrofused
 endemism
 eco 1
 eightscore 3
-endenization
+endenization 1
 excusator
 ecarte
 escritorial
