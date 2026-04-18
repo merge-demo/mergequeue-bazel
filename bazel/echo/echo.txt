@@ -1080,7 +1080,7 @@ expeditive
 embase
 endothelial
 embeddable
-epistolic
+epistolic 1
 echinology
 elective 1
 edification
