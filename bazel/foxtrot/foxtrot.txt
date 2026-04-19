@@ -2486,7 +2486,7 @@ fibrinoid 1
 fry 1
 fernyear
 furison 2
-funs
+funs 1
 fernshaw 1
 fordo 1
 forehatch
