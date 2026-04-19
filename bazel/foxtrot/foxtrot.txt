@@ -1924,7 +1924,7 @@ finback
 federalistic
 forefit
 forksful
-freight
+freight 1
 furling 2
 friable
 fangot
