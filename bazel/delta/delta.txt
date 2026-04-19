@@ -11928,7 +11928,7 @@ dandiacal
 defeasive
 debonaire
 diseasedness
-diseases
+diseases 1
 diseconomy
 diastemata
 dolerites
