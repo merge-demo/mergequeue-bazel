@@ -12137,7 +12137,7 @@ anatomicopathologic 1
 arteriofibrosis
 anatomiser
 adulterates
-anatomize
+anatomize 1
 anopsy
 anatomizer
 advisiveness
