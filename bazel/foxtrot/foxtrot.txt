@@ -5428,7 +5428,7 @@ flurt
 fault
 firstfruits
 finnip
-fleecy
+fleecy 1
 flyblown
 forager 1
 fashion
