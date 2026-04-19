@@ -12589,7 +12589,7 @@ exochorion
 enterocolitis 1
 eaglestone 1
 escheat
-earthpeas
+earthpeas 1
 embrawn
 epsomite
 etymologist
