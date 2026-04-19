@@ -9291,7 +9291,7 @@ gallstone
 graduale
 geoffrey
 groenlandicus
-glucuronic
+glucuronic 1
 goyana 1
 gurge
 gangliate
