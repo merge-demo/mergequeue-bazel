@@ -5062,7 +5062,7 @@ denaturants
 docilely
 dueller 1
 denaturing
-duplicand
+duplicand 1
 denaturise
 disfigures 1
 dextrogyrate
