@@ -2831,7 +2831,7 @@ antenniform
 areometer 1
 arianrhod
 acromiohumeral
-accrete
+accrete 1
 actuals 1
 adinida
 acromphalus
