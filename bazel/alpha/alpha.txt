@@ -17714,7 +17714,7 @@ adjacencies
 anthorine
 appliable 1
 appliance
-apocentre
+apocentre 1
 achitophel
 appliances
 appliant
