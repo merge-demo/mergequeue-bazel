@@ -10695,7 +10695,7 @@ figent
 fitfully 1
 flary
 fleckered
-faradays
+faradays 1
 fartlek
 fortran
 flunkeyistic
