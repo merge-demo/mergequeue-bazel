@@ -9848,7 +9848,7 @@ defacers
 darnings
 dactylosternal 1
 dissertation 1
-downweighted
+downweighted 1
 duocosane
 dispapalize
 determines
