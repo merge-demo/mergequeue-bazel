@@ -17367,7 +17367,7 @@ doigt
 derivability
 delime
 dillydallies
-deallocation
+deallocation 1
 delactation
 deviants
 diduced
