@@ -5544,7 +5544,7 @@ gangplanks 2
 glycidol 1
 gorsier
 gowning
-gad
+gad 1
 grumbles
 gamecocks
 guardlike 1
