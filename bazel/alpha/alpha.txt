@@ -8665,7 +8665,7 @@ afrasian
 automatonlike
 alleyway 1
 alchitran
-abled
+abled 1
 attractancy
 anarchs
 andrite
