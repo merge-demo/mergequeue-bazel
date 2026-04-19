@@ -1747,7 +1747,7 @@ gammon 2
 glibber 1
 gave
 gloeal
-glessite
+glessite 1
 goric 1
 glass
 guesses 1
