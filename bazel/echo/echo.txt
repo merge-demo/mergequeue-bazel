@@ -3094,7 +3094,7 @@ embeds
 emp
 encyclical
 elliot 2
-educationable
+educationable 1
 ergatocracy 1
 expropriates
 ellipsograph
