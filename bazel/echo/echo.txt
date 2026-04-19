@@ -10086,7 +10086,7 @@ echidnidae
 ethenes
 ethenoid 1
 ethenol
-eyecups
+eyecups 1
 ensorcelize 1
 eschatocol
 ebb
