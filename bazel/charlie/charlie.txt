@@ -25907,7 +25907,7 @@ circumscribes 1
 corsite
 corsos
 cancrivorous
-corteges
+corteges 1
 capitalization
 congas
 coeternally
