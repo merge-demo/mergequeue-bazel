@@ -5878,7 +5878,7 @@ bellweed
 beggardom 2
 bretons 1
 butterbur
-bellwether 1
+bellwether 2
 bradmaker
 bellwort
 belock 1
