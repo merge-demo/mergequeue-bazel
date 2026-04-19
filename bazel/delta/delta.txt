@@ -14182,7 +14182,7 @@ deeds
 delegation
 disuniting 1
 dysuria
-dysurias
+dysurias 1
 deals 1
 disusage
 dynamoscope 1
