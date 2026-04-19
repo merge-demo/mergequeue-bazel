@@ -15981,7 +15981,7 @@ cypraeid
 comprint
 carcinosis
 clerkless 1
-cerecloths
+cerecloths 1
 clerkliness
 chlorocarbon
 clerkship
