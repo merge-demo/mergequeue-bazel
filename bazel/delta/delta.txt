@@ -5139,7 +5139,7 @@ detachedly
 deadened 1
 dispraiser
 dendromecon
-dendron
+dendron 1
 druffen 1
 dindled 1
 downgrading
