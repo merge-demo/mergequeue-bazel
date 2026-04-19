@@ -16639,7 +16639,7 @@ dragsters 3
 demisovereign 1
 doctoress 1
 drayage
-drayhorse
+drayhorse 1
 dipteraceous
 dialectologic
 drails
