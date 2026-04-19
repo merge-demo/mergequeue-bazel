@@ -3041,7 +3041,7 @@ garnerage 2
 geoponics
 galvayning 1
 grammatical 3
-graspable
+graspable 1
 glitteringly
 gibbed 1
 gyrostatically 1
