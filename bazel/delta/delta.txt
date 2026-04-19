@@ -10829,7 +10829,7 @@ deposable
 devex
 deificatory
 direful
-direfully
+direfully 1
 dirempt
 direness
 dolly
