@@ -162,7 +162,7 @@ cablese 1
 cablet 1
 cabling
 contentiousness
-campmaster
+campmaster 1
 copellidine 1
 carbonizable
 cabob
