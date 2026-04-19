@@ -1535,7 +1535,7 @@ denture
 dieugard 1
 dynamisms 1
 dupondius
-dedoggerelize
+dedoggerelize 1
 deacons
 demobilizes
 diphygenic
