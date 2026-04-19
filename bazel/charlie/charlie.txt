@@ -17344,7 +17344,7 @@ cupola
 coassume
 crystallic
 coassuming
-chrysolite
+chrysolite 1
 coast
 coastal 1
 coastally
