@@ -24342,7 +24342,7 @@ concentrate
 caverning
 caritas 1
 cookshop 1
-cookshops
+cookshops 1
 chiliasms 1
 cards
 cookstove
