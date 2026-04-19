@@ -8782,7 +8782,7 @@ globalize 2
 giantesses 1
 greensickness
 greenstone
-gimballing 1
+gimballing 2
 gange 1
 golems 1
 greenswarded
