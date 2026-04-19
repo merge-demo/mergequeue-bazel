@@ -2006,7 +2006,7 @@ autecy
 anticipatory 1
 arterial
 acetosoluble
-acetostearin
+acetostearin 1
 acetothienone
 acetotoluid
 accessible
