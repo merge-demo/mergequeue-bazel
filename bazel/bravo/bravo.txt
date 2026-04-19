@@ -10242,7 +10242,7 @@ belongings 1
 beavering
 blennorrhoea
 bilobiate 2
-boolean
+boolean 1
 bellweather 1
 bulldogs
 beheads 1
