@@ -5840,7 +5840,7 @@ arithmetical
 atteal
 agelast
 agelaus
-agelessness
+agelessness 1
 aphicidal
 adradial
 agen 1
