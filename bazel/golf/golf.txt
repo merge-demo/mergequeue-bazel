@@ -4643,7 +4643,7 @@ gyrating
 galvanise 1
 gorillaship
 goatbush 1
-gammarid
+gammarid 1
 gentility 1
 gunlocks
 gaudy 1
