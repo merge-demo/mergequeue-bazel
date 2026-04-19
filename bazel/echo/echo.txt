@@ -13825,7 +13825,7 @@ extracivic 1
 energeticist
 engenderer 1
 enscale 2
-euchroite
+euchroite 1
 effacing
 erepsins 1
 encarditis
