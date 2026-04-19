@@ -13099,7 +13099,7 @@ brahui
 boride
 benchmen
 bregmatic
-boringness 1
+boringness 2
 bilging
 brewings
 bubblies
