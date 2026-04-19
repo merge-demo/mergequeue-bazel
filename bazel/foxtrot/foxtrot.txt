@@ -6684,7 +6684,7 @@ fogdogs 1
 frippery 1
 fairways 1
 fogdom
-fogfruit
+fogfruit 1
 fibrins
 fruiteress
 flatterable 3
