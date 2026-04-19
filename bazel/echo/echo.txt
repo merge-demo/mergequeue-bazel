@@ -2736,7 +2736,7 @@ endways
 estadal
 enceint
 eleemosinar
-ebons
+ebons 1
 equipotent
 electees
 edentate
