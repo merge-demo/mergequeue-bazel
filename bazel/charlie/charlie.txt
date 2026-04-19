@@ -31272,7 +31272,7 @@ curativeness
 curatorium
 charkha
 curatrices
-carabid
+carabid 1
 coagula
 curatrix
 curb
