@@ -5354,7 +5354,7 @@ enjewel
 emim
 everglades 1
 exsertion 1
-endospore
+endospore 1
 evidentness 1
 encharm
 epiphyte
