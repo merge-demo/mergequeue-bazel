@@ -10483,7 +10483,7 @@ disenable 1
 dipneust
 dismortgaged
 dimyarian
-dispost
+dispost 1
 diphthongation
 dilutedness
 dendrodra
