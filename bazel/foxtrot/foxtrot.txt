@@ -160,7 +160,7 @@ fibbery
 factionalism 1
 factualness
 fow 1
-fullbodied
+fullbodied 1
 freezers
 fabes 3
 faradopalpation
