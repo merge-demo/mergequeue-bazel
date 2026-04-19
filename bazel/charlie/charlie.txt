@@ -3826,7 +3826,7 @@ carbolic
 carbolics
 centricity
 carbolising
-carbolize
+carbolize 1
 carbolized 1
 carbolizes
 carbolizing
