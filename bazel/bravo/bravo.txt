@@ -1663,7 +1663,7 @@ balmorals
 bedticks 1
 bensh
 bathless
-blusher
+blusher 1
 byganging
 barchan
 buqsha
