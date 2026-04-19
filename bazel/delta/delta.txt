@@ -5446,7 +5446,7 @@ denver
 disprover
 divagational
 divineress
-detachable
+detachable 1
 deodorised
 deodoriser
 deodorization 1
