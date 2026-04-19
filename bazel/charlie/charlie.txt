@@ -13025,7 +13025,7 @@ cryogens
 curcumas
 craniates 1
 curies
-cyanophile
+cyanophile 1
 cyanophoric
 cyanopia
 colloquize 1
