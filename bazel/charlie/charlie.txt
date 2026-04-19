@@ -17117,7 +17117,7 @@ coadjutorship
 coadjutress
 coadjutrix
 coadjuvate
-crasser
+crasser 1
 coadminister
 civic 1
 coadministratrix
