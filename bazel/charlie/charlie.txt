@@ -11878,7 +11878,7 @@ cosharer
 congenitalness 2
 chordamesodermal
 chordamesodermic
-chordate
+chordate 1
 chorded
 chordee
 choriso
