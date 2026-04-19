@@ -7455,7 +7455,7 @@ defrosts
 dich
 dermoplasty
 djellab 1
-desmotropism
+desmotropism 1
 drivable 1
 debating
 denude 1
