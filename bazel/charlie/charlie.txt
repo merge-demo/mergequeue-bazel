@@ -14488,7 +14488,7 @@ checkrail
 cephaloplegic
 ciseaux
 courante 1
-cising
+cising 1
 cisium
 cisjurane
 cisleithan
