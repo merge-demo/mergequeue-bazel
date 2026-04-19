@@ -19072,7 +19072,7 @@ archprelate
 archprelatic
 avys
 adjudicator
-askingly
+askingly 1
 approvals
 archprelatical
 armenize
