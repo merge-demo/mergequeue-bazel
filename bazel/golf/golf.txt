@@ -7338,7 +7338,7 @@ gossamers
 galloglass 2
 geochronometric
 gibby
-glareole
+glareole 1
 ghee
 groggery
 gossep
