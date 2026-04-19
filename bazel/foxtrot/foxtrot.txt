@@ -9709,7 +9709,7 @@ fremd 1
 frenchly
 fafaronade
 fissionability
-festinate
+festinate 1
 floatable 1
 footmanry 1
 faunch
