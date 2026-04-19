@@ -7638,7 +7638,7 @@ basilisks
 belesprit
 bewrapt
 bewreck
-befreckle
+befreckle 1
 biodynamic
 bewry 1
 bankroller
