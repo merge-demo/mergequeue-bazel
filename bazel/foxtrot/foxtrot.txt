@@ -10502,7 +10502,7 @@ flyback
 frottola 1
 federalizations
 fortuities 1
-feodality
+feodality 1
 featherback
 frotton
 fum
