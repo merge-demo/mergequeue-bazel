@@ -2078,7 +2078,7 @@ foremasthand
 felicity 1
 fructidor
 fusibleness
-freeform
+freeform 1
 fideistic 1
 fogle
 federalist 2
