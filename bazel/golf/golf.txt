@@ -3100,7 +3100,7 @@ guardroom
 generally
 glucokinin
 globigerine
-gleanable
+gleanable 1
 gali 2
 gubat
 gibbol 1
