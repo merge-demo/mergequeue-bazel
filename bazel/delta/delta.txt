@@ -9344,7 +9344,7 @@ differenced 1
 differences
 dryad 1
 destroyable
-dunces
+dunces 1
 differentiability
 differentiae 1
 deliquescing 1
