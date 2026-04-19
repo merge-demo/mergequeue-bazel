@@ -7307,7 +7307,7 @@ gnocchi 2
 grossness 1
 griddlecake 2
 goyetian
-gambled
+gambled 1
 ganglion
 gyrostatic 1
 genet
