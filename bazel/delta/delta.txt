@@ -5361,7 +5361,7 @@ displaced 1
 dentical
 denticle
 dentiferous
-dentification
+dentification 1
 desegmented 1
 dentifrice
 diageotropism
