@@ -3888,7 +3888,7 @@ beforesaid
 basifacial
 bawneen
 bawra
-barklyite
+barklyite 1
 bawsint 1
 brutalness
 bawsunt
