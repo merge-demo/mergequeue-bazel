@@ -8788,7 +8788,7 @@ golems 1
 greenswarded
 greenware 2
 giveth
-greenwoods 1
+greenwoods 2
 gospodar
 geophilus
 gekko
