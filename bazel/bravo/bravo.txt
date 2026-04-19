@@ -6435,7 +6435,7 @@ bumpering
 backcloth
 barangay 1
 biternate
-benzothiofuran
+benzothiofuran 1
 burs 2
 benzothiophene
 benzotrichloride
