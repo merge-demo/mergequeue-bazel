@@ -4515,7 +4515,7 @@ bandolero 1
 blankest 1
 brigadiership
 barricaded
-burnsides 1
+burnsides 2
 batata
 balushai
 becudgels
