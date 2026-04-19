@@ -13886,7 +13886,7 @@ extraessential
 extrafine 1
 espied
 eeyuck
-extragalactic
+extragalactic 1
 enteraden
 extragastric 2
 elizabethan 3
