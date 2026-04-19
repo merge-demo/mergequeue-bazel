@@ -6468,7 +6468,7 @@ ectropionize
 eskars
 eyeflap 1
 encroachment
-extensionless
+extensionless 1
 embroideries
 elvira 1
 ensober
