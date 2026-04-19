@@ -6691,7 +6691,7 @@ berkovtsi 1
 bedull
 bayesian 1
 berlin
-browsability
+browsability 1
 bismuthine
 broomstaff
 blitter
