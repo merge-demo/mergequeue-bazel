@@ -15883,7 +15883,7 @@ dosed
 deiseal
 deboning 1
 delighting
-discounts
+discounts 1
 doser 1
 datura
 dogproof
