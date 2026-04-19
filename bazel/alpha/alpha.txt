@@ -4101,7 +4101,7 @@ apply
 agrief
 antihypertensives 1
 antilyssic
-admonitionist
+admonitionist 1
 antenna
 aplacental
 anabranch
