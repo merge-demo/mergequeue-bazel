@@ -2557,7 +2557,7 @@ backtalk
 barile 1
 barilla
 beleaf
-barters
+barters 1
 blackie
 bathofloric 1
 baryon
