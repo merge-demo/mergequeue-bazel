@@ -10830,7 +10830,7 @@ fulfiller
 flambeaux 1
 fumose 2
 fulfillment
-flus
+flus 1
 fleetness
 flavorous 1
 fulfillments
