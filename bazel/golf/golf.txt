@@ -6267,7 +6267,7 @@ guitarlike
 gregariousness 2
 guttural
 ghostiest
-gconv 1
+gconv 2
 gentle 1
 gulpin 1
 gynandrarchic 1
