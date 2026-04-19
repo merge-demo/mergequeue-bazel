@@ -11180,7 +11180,7 @@ bloomingly 1
 boleti
 biometer 3
 biforin
-bloomless
+bloomless 1
 baptisia
 bartering
 bacteriocidal
