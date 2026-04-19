@@ -9247,7 +9247,7 @@ existences
 ejido
 engraftation 1
 errancies
-endospermous
+endospermous 1
 entrapments 1
 egressing 1
 electra
