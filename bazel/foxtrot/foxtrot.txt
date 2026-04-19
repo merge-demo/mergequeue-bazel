@@ -9611,7 +9611,7 @@ fabula
 firing
 featherbone
 forte
-feteritas
+feteritas 1
 firemaster
 forlet 1
 freeholdership
