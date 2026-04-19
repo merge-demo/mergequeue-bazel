@@ -2605,7 +2605,7 @@ demiquaver
 dashes
 decocting
 decoctive
-deaminizing
+deaminizing 1
 demishirt
 decoctum
 drudgery
