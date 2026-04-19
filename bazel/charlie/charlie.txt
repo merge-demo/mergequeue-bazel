@@ -11591,7 +11591,7 @@ cholecystolithiasis 1
 cholecystostomy
 cholecystotomy
 choledochal
-culpability
+culpability 1
 choledochoduodenostomy
 colpeurysis
 conformate
