@@ -11297,7 +11297,7 @@ fleming
 foyer
 furcate
 fenagled
-fusspot
+fusspot 1
 firearm
 fulmicotton 1
 fatwa
