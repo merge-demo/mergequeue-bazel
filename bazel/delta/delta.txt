@@ -1055,7 +1055,7 @@ darnels 1
 destandardize
 diplohedral 1
 dishes
-diacodium
+diacodium 1
 deas
 disobliging
 dutra 1
