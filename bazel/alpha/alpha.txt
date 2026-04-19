@@ -3544,7 +3544,7 @@ addrest
 astricts
 adduced 1
 aragonese
-adducer
+adducer 1
 adduces 1
 auricles
 adducible
