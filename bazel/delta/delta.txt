@@ -3857,7 +3857,7 @@ deciduous 1
 dicellate
 deionizations
 dichroiscope
-diatropic
+diatropic 1
 dyspnoea
 deionize
 degraduation
