@@ -21886,7 +21886,7 @@ antithesize
 averring
 admonitive
 assister
-assistful
+assistful 1
 acalycine
 argillite
 assith
