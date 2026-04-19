@@ -11943,7 +11943,7 @@ crevassing 1
 chorial
 cilician
 choriamb
-choriambic
+choriambic 1
 chorometry 1
 coaggregated
 confabulating
