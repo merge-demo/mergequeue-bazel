@@ -22709,7 +22709,7 @@ athyrosis
 aflight
 apriline
 addlement
-afterwhile
+afterwhile 1
 advancement
 athletes
 areologically
