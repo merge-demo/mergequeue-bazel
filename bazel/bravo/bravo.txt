@@ -3539,7 +3539,7 @@ bathycentesis
 benincasa 1
 burgages
 beuniformed
-bathycolpic
+bathycolpic 1
 berseems 2
 belatticed
 baroscopic 1
