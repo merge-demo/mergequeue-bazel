@@ -16554,7 +16554,7 @@ cloisterlike
 carburization
 cantish 1
 capsules
-cloisterwise
+cloisterwise 1
 cloistral 1
 concoagulation
 cloit
