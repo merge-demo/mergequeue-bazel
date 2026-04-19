@@ -3312,7 +3312,7 @@ framed 2
 fideicommissaries 2
 fungus
 flirtling
-finesser
+finesser 1
 faon
 forevermore 1
 foreward 1
