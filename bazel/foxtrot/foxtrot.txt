@@ -8190,7 +8190,7 @@ flourishable 2
 furores 1
 flockbed 2
 foghorn
-forewings
+forewings 1
 flossed 1
 frenate 1
 furtherances
