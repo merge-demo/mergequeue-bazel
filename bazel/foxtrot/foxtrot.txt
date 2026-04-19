@@ -4820,7 +4820,7 @@ floatiest 3
 fullwords
 faena
 fellowshipping 1
-falsen
+falsen 1
 forties
 footbath
 frostbiter
