@@ -6254,7 +6254,7 @@ genitures 1
 gelfomino
 goave 1
 greats
-gormandizing
+gormandizing 1
 gregorianizer 1
 gob
 goban 1
