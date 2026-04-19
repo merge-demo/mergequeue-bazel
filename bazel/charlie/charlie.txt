@@ -24341,7 +24341,7 @@ coral
 concentrate
 caverning
 caritas 1
-cookshop
+cookshop 1
 cookshops
 chiliasms 1
 cards
