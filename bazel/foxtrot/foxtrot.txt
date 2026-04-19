@@ -3293,7 +3293,7 @@ fluidrams
 ferrimagnetically
 foreknowable 1
 fieldpieces 2
-feudovassalism
+feudovassalism 1
 forefeet 3
 fungilliform
 filopodium 1
