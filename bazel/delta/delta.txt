@@ -12637,7 +12637,7 @@ delegant 1
 dertrotheca 1
 defaultant 1
 descendentalist
-descrial
+descrial 1
 dodgeries
 duplicidentate
 dechemicalization
