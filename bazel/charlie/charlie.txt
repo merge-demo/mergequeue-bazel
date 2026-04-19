@@ -19845,7 +19845,7 @@ comfiness
 coulometrically
 comfit
 comfiture
-comfort
+comfort 1
 cryptoglaux
 comfortableness
 comfortation
