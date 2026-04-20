@@ -1764,7 +1764,7 @@ foreslack 1
 forsterite 1
 farfet 4
 farsalah
-frize
+frize 1
 forlorn
 foundery 1
 frivolously
