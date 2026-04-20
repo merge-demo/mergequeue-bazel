@@ -2219,7 +2219,7 @@ geoidal 1
 garmented 1
 gestational
 gooseskin
-goaves 1
+goaves 2
 gemwork 1
 gastrolith 1
 gymnosperms 1
@@ -5802,7 +5802,7 @@ gratters
 gigamaree
 gauchos
 grieveship 1
-gast 1
+gast 2
 gussy 2
 gloveless
 glorifiable
@@ -5979,7 +5979,7 @@ glutelins
 greaten
 guerrillaship
 grossulariaceous
-gluemaker
+gluemaker 1
 glutinative 1
 gigantomachy 1
 granuloadipose 1
