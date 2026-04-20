@@ -11222,7 +11222,7 @@ disbowel 1
 developpe
 defendable 1
 disboweling
-dolomitization
+dolomitization 1
 disbowelled
 disbranch
 duffies
