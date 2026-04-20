@@ -10488,7 +10488,7 @@ floggable 1
 felsosphaerite 1
 frostroot 1
 floe 1
-freshment
+freshment 1
 frillery
 favouringly
 frot 1
