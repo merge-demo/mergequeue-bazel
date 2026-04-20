@@ -10336,7 +10336,7 @@ globulicide
 gnattiest 1
 grasslike
 guland
-grubstaking
+grubstaking 1
 gules 2
 gown
 gonoph 1
