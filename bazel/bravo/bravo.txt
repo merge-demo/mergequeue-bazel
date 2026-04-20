@@ -7160,7 +7160,7 @@ besses
 bessie 1
 ballon 1
 bestad
-biarticulated
+biarticulated 1
 bacteriemia
 bernicles
 bierstube
