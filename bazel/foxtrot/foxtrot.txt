@@ -9056,7 +9056,7 @@ fractionalize 1
 foreparents 1
 fleetwing 1
 frap
-feruling
+feruling 1
 frasco
 foxbane
 foxberry
