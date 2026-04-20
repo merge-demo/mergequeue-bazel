@@ -5120,7 +5120,7 @@ endocyst
 epodic
 enucleate 1
 experted 1
-extraditions
+extraditions 1
 eclogites 1
 eardrums
 exited
