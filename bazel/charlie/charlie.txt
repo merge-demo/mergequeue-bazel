@@ -16328,7 +16328,7 @@ cliqueier 1
 cretinize
 cliqueyness
 cytome
-cliques
+cliques 1
 collocalia
 cliquy
 creasol 1
