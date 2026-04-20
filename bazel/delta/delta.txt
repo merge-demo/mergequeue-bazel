@@ -17801,7 +17801,7 @@ ducklings
 deputator
 duckmeat 1
 duckpin
-desalinate
+desalinate 1
 diabolarch
 dower
 dermatological
