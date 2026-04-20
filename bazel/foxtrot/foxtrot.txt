@@ -11250,7 +11250,7 @@ famble 1
 faciest 1
 featherwork
 funnels 2
-fourer
+fourer 1
 funny
 fundamentality
 flagellants
