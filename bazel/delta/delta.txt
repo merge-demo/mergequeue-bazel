@@ -7222,7 +7222,7 @@ disinfecter
 detar 1
 detassel 1
 detat
-defoliating
+defoliating 1
 dimethylamino
 darns 1
 disenchantingly 1
