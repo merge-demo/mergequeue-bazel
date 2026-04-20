@@ -18910,7 +18910,7 @@ colladas
 crematoria
 collage
 convicted
-collagenase
+collagenase 1
 collagenous
 cardholder
 collapsability
