@@ -9094,7 +9094,7 @@ glires
 gladiatorism 1
 goatherds
 guajira
-glads
+glads 1
 gappy
 galactidrosis 1
 giraffa
