@@ -9220,7 +9220,7 @@ geoscience 1
 gibberosity 1
 grippleness
 grazier
-gryllotalpa
+gryllotalpa 1
 glassworker 1
 griqualander
 geminis 1
