@@ -11630,7 +11630,7 @@ boatbuilding
 boathook
 boathouse
 backbends
-boffos 1
+boffos 2
 blacketeer
 baccare
 bittacle 1
