@@ -10445,7 +10445,7 @@ frontstall
 forstall
 frizes
 fellah
-ferocity 1
+ferocity 2
 flaxtail 1
 frontwards 1
 fragrant
