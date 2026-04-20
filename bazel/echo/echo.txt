@@ -10492,7 +10492,7 @@ etta
 endosteally
 equation
 embouchure
-ettercap
+ettercap 1
 ettirone
 escalan
 ettle 1
