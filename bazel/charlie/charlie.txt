@@ -21439,7 +21439,7 @@ concoagulate
 congestions 1
 cannibality
 concoct
-caravan
+caravan 1
 crackable
 concocted 1
 caseweed
