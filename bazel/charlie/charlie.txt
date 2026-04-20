@@ -10198,7 +10198,7 @@ chiarooscuro
 chiaroscuros 1
 chuvash
 coulis
-chias
+chias 1
 cheesecakes
 chiasma
 cotesian
