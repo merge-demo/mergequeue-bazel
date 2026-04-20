@@ -6530,7 +6530,7 @@ fierabras
 flytail
 finecomb
 fluting
-freakishly
+freakishly 1
 flasque
 foetid
 floccose 2
