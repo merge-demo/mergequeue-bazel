@@ -1466,7 +1466,7 @@ clave
 chicks
 calistheneum 1
 commercializes
-calisthenics
+calisthenics 1
 calite
 calyx
 coecal
