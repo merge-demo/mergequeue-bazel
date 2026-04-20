@@ -15457,7 +15457,7 @@ blazon 2
 brodeglass 1
 braggishly
 boundary
-bilboes
+bilboes 1
 breaststroker
 breadberry
 bodoni
