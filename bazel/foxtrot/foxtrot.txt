@@ -1541,7 +1541,7 @@ farrow 1
 forepayment
 frundel
 festival 1
-fauvette
+fauvette 1
 flowcontrol
 fishbowl
 fauvism 1
