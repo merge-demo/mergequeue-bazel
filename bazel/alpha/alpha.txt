@@ -22046,7 +22046,7 @@ ammonitoid 1
 auteurism 1
 automanipulation
 alveolotomy
-anus
+anus 1
 acclamatory 1
 astartidae
 actings
