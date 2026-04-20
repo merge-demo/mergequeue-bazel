@@ -26865,7 +26865,7 @@ cassoon 1
 countergirded
 contest
 counterguard
-counterguerilla
+counterguerilla 1
 courtless
 coraciiformes 2
 counterhaft
