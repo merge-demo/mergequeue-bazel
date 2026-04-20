@@ -3114,7 +3114,7 @@ groined
 glucosine
 gelatinity
 grassie
-gumdrops
+gumdrops 1
 gomuti 1
 gymnocidium 1
 gastful
