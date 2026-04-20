@@ -11673,7 +11673,7 @@ faade
 flames 1
 futurama 2
 floodometer
-frowsty
+frowsty 1
 flibustier
 furcates
 frailties
