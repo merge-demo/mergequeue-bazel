@@ -2864,7 +2864,7 @@ figworm 1
 flurry
 fungid
 familistery 1
-fortuned
+fortuned 1
 fameflower
 fettered
 frowstiness
