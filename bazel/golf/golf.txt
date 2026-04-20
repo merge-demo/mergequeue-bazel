@@ -7359,7 +7359,7 @@ gossipee
 goodyship 1
 griffon
 glyoxime 1
-generalizers
+generalizers 1
 glomus 1
 gomarite
 gossypine
