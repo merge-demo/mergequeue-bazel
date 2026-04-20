@@ -5016,7 +5016,7 @@ boite
 banqueteer 1
 braunschweiger
 byliners
-beglic
+beglic 1
 bloodletting
 branchiform
 breakwaters 2
