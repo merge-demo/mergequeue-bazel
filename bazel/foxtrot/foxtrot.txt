@@ -4661,7 +4661,7 @@ flaubertian
 flashproof 2
 famacide
 frivoling
-futharcs
+futharcs 1
 filmgoer 1
 faust 1
 fulani
