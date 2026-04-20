@@ -3967,7 +3967,7 @@ aqueity
 apologer
 adjutrice 2
 ambassage
-ameba
+ameba 1
 affirm 1
 amelification
 anecdotical
