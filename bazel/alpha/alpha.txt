@@ -5199,7 +5199,7 @@ adorners
 affectibility 1
 affecting
 aerophore
-archinformer
+archinformer 1
 antitangent 1
 autopoint
 aloeswood 1
