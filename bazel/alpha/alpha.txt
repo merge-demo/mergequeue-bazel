@@ -11159,7 +11159,7 @@ analgesis
 aromatizer
 adsorb
 amphiboles
-affliction
+affliction 1
 axometric
 airiest
 agynous
@@ -18636,7 +18636,7 @@ apocynaceous
 altincar
 adiaphora
 alkalescent
-angerly
+angerly 1
 archaeostoma
 anisidine
 angelinformal
