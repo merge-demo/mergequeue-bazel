@@ -5220,7 +5220,7 @@ gripsacks
 guttae 1
 groundsheet
 gale
-gleamless
+gleamless 1
 gleed 1
 gramophone 1
 germinant 2
