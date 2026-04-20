@@ -1640,7 +1640,7 @@ fied
 foreannounce 1
 fellowless
 fipenny
-four
+four 1
 fdnames
 forthcut
 fluible
