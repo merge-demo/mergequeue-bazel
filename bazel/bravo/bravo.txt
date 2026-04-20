@@ -16247,7 +16247,7 @@ blackguardize 1
 beamlet
 bindwith
 bahuts
-bourock
+bourock 1
 brownishness
 brindles 1
 burlesqued 1
