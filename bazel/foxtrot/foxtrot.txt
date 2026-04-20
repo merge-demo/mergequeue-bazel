@@ -6236,7 +6236,7 @@ fluffiness 1
 flexography
 flugel
 frettingly
-foreleg
+foreleg 1
 flatlet 2
 fiji
 forerunnership 1
