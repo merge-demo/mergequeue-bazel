@@ -11380,7 +11380,7 @@ chlorophora
 cameralist
 chloropicrin
 chloroplast
-chloroplastic
+chloroplastic 1
 chloroplasts
 cosmonautics
 coenamorment
