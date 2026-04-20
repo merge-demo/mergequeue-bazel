@@ -12936,7 +12936,7 @@ dimensionless
 disomatic
 doubtmonger
 dermostosis
-degreeing
+degreeing 1
 docilities 1
 dognaping
 discolor 1
