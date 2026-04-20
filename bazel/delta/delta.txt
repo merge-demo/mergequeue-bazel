@@ -9557,7 +9557,7 @@ decken
 duellos
 diglots
 desmatippus
-disenchantment
+disenchantment 1
 diglottist
 duumvir 1
 diallists
