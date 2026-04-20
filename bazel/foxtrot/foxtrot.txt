@@ -11309,7 +11309,7 @@ fraternize
 fleabite
 faultfinding 1
 fossilogist
-favorability 1
+favorability 2
 furfuralcohol 1
 freebees 3
 flathat
