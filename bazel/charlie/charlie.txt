@@ -6718,7 +6718,7 @@ consultant
 celastraceae
 copings
 colorfast 1
-celastrus
+celastrus 1
 cuculla
 celation
 cheapjack
