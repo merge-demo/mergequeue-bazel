@@ -11159,7 +11159,7 @@ analgesis
 aromatizer
 adsorb
 amphiboles
-affliction
+affliction 1
 axometric
 airiest
 agynous
