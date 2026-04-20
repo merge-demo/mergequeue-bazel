@@ -5225,7 +5225,7 @@ desmosis
 declination
 declaimers
 denunciations
-deputy
+deputy 1
 denominations 1
 desired 1
 dicty
