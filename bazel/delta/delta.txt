@@ -3159,7 +3159,7 @@ dinnery
 defeated
 downs
 diluviate
-disgout
+disgout 1
 dissimulated 1
 drouths
 dryness
