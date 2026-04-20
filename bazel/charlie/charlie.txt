@@ -7804,7 +7804,7 @@ cerumen
 cerumens 1
 ceruminal
 costean
-chemoautotrophy
+chemoautotrophy 1
 charabancer
 clorinator
 cerussite 1
