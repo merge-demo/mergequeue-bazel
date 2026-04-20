@@ -12409,7 +12409,7 @@ disher
 durability 1
 disherited
 divet
-defibrillator 1
+defibrillator 2
 deamidize
 deplantation
 drybrush
