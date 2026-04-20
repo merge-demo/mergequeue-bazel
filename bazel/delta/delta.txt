@@ -3578,7 +3578,7 @@ dehwar 1
 defuze
 dolman 1
 dakoities
-dissociative
+dissociative 1
 degage
 degames
 deganglionate
