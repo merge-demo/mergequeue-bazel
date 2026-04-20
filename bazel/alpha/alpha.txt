@@ -19259,7 +19259,7 @@ arefact
 areg
 areic 2
 armchair
-arena
+arena 1
 arenaria
 annam 1
 auditives
