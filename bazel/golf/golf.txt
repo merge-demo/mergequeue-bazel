@@ -3820,7 +3820,7 @@ gaul
 gygis 1
 gibstaff
 greyhound
-gratefulness 1
+gratefulness 2
 greyling
 greenbugs
 gabbard 1
