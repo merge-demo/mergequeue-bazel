@@ -6231,7 +6231,7 @@ formwork 1
 fermentitious 1
 foundationary
 ferrimagnetic
-fractionating
+fractionating 1
 fluffiness 1
 flexography
 flugel
