@@ -3493,7 +3493,7 @@ debilitant
 dichroscope
 decelerating
 dehydrochlorination
-dorosacral
+dorosacral 1
 decompressed 1
 deflator
 deforced
