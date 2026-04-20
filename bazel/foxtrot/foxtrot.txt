@@ -4620,7 +4620,7 @@ footweary
 foresaying 1
 fasciotomy
 fleckless
-fruitgrowing
+fruitgrowing 1
 fitchew
 fitified
 fluoridizing
