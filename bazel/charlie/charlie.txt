@@ -1956,7 +1956,7 @@ confeder
 cypriote
 crotalid
 checkered
-camera
+camera 1
 capitols
 counterwill 1
 cumulose
