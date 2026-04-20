@@ -11468,7 +11468,7 @@ extrasyllogistic
 erythraeidae
 evictions 1
 explanatory
-emboldens
+emboldens 1
 eleocharis 1
 evictor
 evidence
