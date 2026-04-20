@@ -7337,7 +7337,7 @@ cephalism
 caprine
 cephalitis 1
 cephalization
-cephaloauricular
+cephaloauricular 1
 cephalobranchiata
 chelicera
 cerusites
