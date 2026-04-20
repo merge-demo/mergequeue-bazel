@@ -9539,7 +9539,7 @@ griminess 1
 groundkeeper 1
 glidder
 grumbler 2
-gleaners
+gleaners 1
 greenlander
 gadaea
 gastrophthisis
