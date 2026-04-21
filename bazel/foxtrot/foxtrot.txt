@@ -8647,7 +8647,7 @@ fuzes 1
 finites
 forborn
 fytte
-farstepped
+farstepped 1
 furthering
 frigidness
 frictionproof 1
