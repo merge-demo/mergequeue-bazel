@@ -28155,7 +28155,7 @@ craniopathic
 craniopharyngeal
 code 1
 craniorhachischisis
-countercheck 1
+countercheck 2
 cranioschisis
 cranioscopy
 chimerism
