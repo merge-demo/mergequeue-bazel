@@ -12212,7 +12212,7 @@ disherent
 disfortune 1
 dramatism 1
 diomedea
-disbandment
+disbandment 1
 directional
 dormie
 dodoisms
