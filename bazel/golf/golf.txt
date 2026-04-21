@@ -2560,7 +2560,7 @@ generations 2
 gastrula
 gobangs 1
 ganch 1
-generalities 1
+generalities 2
 grig 2
 grubbies 1
 gain 1
