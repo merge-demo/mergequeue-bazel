@@ -9670,7 +9670,7 @@ esplanade 1
 enhancements 1
 elkhounds 1
 exsec
-explicability
+explicability 1
 extortionist 1
 encounterers 1
 evangelicalism
