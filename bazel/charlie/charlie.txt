@@ -28774,7 +28774,7 @@ crescentader
 cleaving
 crescented
 clocked
-compensate
+compensate 1
 coacervated
 crescentiform
 chinking
