@@ -7554,7 +7554,7 @@ beloam
 begirding
 bewary
 bewaste 1
-beweary
+beweary 1
 besottedness 1
 botflies
 brainworker
