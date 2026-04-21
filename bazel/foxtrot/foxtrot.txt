@@ -8050,7 +8050,7 @@ fructiculture 1
 foresteep 2
 flockmaster 3
 feyest
-flowerist
+flowerist 1
 frontward
 fellahs
 flash
