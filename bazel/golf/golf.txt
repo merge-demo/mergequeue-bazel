@@ -3138,7 +3138,7 @@ glucina
 geopotential
 gelosin
 grassplot
-georgemas
+georgemas 1
 germanite 2
 gurgles 1
 georgics
