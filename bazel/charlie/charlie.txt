@@ -14142,7 +14142,7 @@ circularly
 circularness 1
 circulars
 circulatable 2
-cabbalize
+cabbalize 1
 chaetosomatidae
 cyanhydrate
 circulation
