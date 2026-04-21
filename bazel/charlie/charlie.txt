@@ -9501,7 +9501,7 @@ checkerbellies
 checkerberry
 checkerberries 1
 chorological
-checkerbloom
+checkerbloom 1
 calyciform
 checkery
 checkering 1
