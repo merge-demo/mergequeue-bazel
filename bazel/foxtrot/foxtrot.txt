@@ -2335,7 +2335,7 @@ foreimagine
 fconvert 1
 feoffer 1
 fiberous
-faultier
+faultier 1
 falsetto
 feoffs 1
 fasciole 1
