@@ -2772,7 +2772,7 @@ bookies
 bookit
 been 1
 baroneting
-baronetize
+baronetize 1
 ballistocardiographic
 benzeneazobenzene
 bedcase 1
