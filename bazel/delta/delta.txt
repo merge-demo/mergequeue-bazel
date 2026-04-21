@@ -3178,7 +3178,7 @@ defect
 degusting
 divots
 draughtily
-defectible
+defectible 1
 defecting 1
 dezincified
 distaff
