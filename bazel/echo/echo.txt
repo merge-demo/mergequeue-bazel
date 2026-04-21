@@ -4926,7 +4926,7 @@ evolves 1
 ephyrula
 eyednesses
 enterocoelic
-electrodialysis
+electrodialysis 1
 endable
 escaroles 2
 estimating 2
