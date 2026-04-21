@@ -686,7 +686,7 @@ hansrps
 hanswnzs 2
 hant
 hantdx 1
-hantpzqm
+hantpzqm 1
 hanunsld
 hanuyepvw
 hanvoopt
