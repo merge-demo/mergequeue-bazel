@@ -11924,7 +11924,7 @@ calculabilities 1
 crestfallenness
 cerites
 cohanim
-cruces
+cruces 1
 cosmochemistry
 choreoid
 crocidolite
