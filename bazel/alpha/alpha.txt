@@ -24307,7 +24307,7 @@ autoincrement 1
 autoplagiarism 1
 afterworking 1
 autoplast
-affianced
+affianced 1
 acetonate 1
 autopoisonous
 acclimatize
