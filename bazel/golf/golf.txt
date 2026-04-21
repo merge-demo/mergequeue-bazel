@@ -6241,7 +6241,7 @@ goatsbeard 1
 guestimate 1
 gavotting
 galloway
-glue
+glue 1
 glucosidase
 gonne
 greaves
