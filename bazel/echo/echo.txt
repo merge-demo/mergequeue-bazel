@@ -11970,7 +11970,7 @@ ensilages 2
 exothermicity
 endurance
 enlist 1
-epithecate
+epithecate 1
 exactress
 enarthroses
 enteromesenteric 2
