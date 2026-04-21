@@ -1861,7 +1861,7 @@ aggressions
 antiphysic
 acervate
 acervation
-acervulus
+acervulus 1
 abiezer
 anadyomene 2
 anacoluthia 1
