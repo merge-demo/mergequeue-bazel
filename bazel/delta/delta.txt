@@ -8543,7 +8543,7 @@ diet
 diaper 1
 dyschromatopsia
 duchy
-dethrone
+dethrone 1
 dewbeam
 didacts
 diaphanometric
