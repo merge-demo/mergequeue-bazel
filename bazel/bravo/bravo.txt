@@ -2657,7 +2657,7 @@ bellying
 bable
 bribeable
 barling
-bluestone
+bluestone 1
 bertholletia 1
 barghest
 breechloader 1
