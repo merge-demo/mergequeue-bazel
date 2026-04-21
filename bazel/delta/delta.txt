@@ -3190,7 +3190,7 @@ defectless
 declaratives 1
 defectlessness 2
 delegatory
-dislevelment
+dislevelment 1
 descendible
 despiteous
 dulcineas
