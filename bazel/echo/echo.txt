@@ -13392,7 +13392,7 @@ escapeway
 exemplify
 exposture
 epanaphoral
-exter
+exter 1
 expounder 1
 eulogised 1
 ems 1
