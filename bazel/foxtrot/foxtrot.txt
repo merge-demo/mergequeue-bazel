@@ -5736,7 +5736,7 @@ fuzzball
 frontlessly 1
 favorers 1
 fathoms
-furnage
+furnage 1
 fungistatic
 frequentation
 fractuosity
