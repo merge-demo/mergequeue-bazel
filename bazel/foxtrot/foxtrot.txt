@@ -8943,7 +8943,7 @@ frustule
 footsoreness 1
 fanmaking 1
 fourre
-fraternizing
+fraternizing 1
 feverishly
 folktales 3
 fermental
