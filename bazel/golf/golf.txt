@@ -3976,7 +3976,7 @@ genospecies 1
 gynecocratical 1
 guano
 guardage
-grassnut 1
+grassnut 2
 grex 1
 gluttonousness 2
 graphometrical 2
