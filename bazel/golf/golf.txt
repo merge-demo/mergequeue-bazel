@@ -1244,7 +1244,7 @@ goodship 1
 galligaskin 1
 groff 1
 gonorrhea
-gravures
+gravures 1
 grogged
 galactostasis
 gooding
