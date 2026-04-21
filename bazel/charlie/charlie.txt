@@ -22700,7 +22700,7 @@ conquerer
 conquerers
 conqueress
 conquering 1
-coenure
+coenure 1
 conquerment
 conqueror
 coster
