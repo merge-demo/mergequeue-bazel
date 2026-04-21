@@ -15242,7 +15242,7 @@ boneheads 1
 briarberry
 bellerophon
 bluffed
-bourses
+bourses 1
 blooddrop
 bulgarophil 1
 blackfire
