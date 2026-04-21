@@ -17033,7 +17033,7 @@ archimorula
 astrophotometry
 albus
 ascitic
-auriscalp
+auriscalp 1
 apocynthion
 apocynthions
 apocyte
