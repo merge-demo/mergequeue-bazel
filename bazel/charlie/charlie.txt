@@ -27971,7 +27971,7 @@ craftiness 1
 craftless
 croucher 1
 charactonym 1
-craftsmanship
+craftsmanship 1
 craftsmaster
 cistophori
 craftspeople
