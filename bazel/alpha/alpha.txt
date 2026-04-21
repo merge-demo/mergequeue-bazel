@@ -24563,7 +24563,7 @@ auxology
 ammonea
 argentarius
 auxospore
-anachorism
+anachorism 1
 auxotonic
 annihilator 2
 auxotox
