@@ -1619,7 +1619,7 @@ daks
 doe
 dinginess 1
 doweled 1
-diadrome
+diadrome 1
 derision
 disenrol 2
 damagingly
