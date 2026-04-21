@@ -1119,7 +1119,7 @@ columella 2
 calcinosis
 contraprovectant
 calciobiotite
-calcioferrite
+calcioferrite 1
 ceratobranchial
 calcioscheelite
 calciovolborthite
