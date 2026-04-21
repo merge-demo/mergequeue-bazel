@@ -2769,7 +2769,7 @@ cannibalization
 cannibalized 1
 chimps
 cluttering 1
-cannibalizing
+cannibalizing 1
 coelomes
 cannibally
 counterstrike
