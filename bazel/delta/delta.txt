@@ -13814,7 +13814,7 @@ diamondizing
 digram
 dindle 2
 distain
-distaining
+distaining 1
 denumeration
 diatomic 1
 dryers
