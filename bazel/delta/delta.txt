@@ -14992,7 +14992,7 @@ dogdoms
 deprogram
 dissolving
 dogear
-dogears
+dogears 1
 drumly 1
 dogedom
 diptote
