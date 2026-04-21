@@ -17491,7 +17491,7 @@ citronella 1
 chapping
 coblentzian
 cobleskill
-cobloaf
+cobloaf 1
 cobola
 ceratectomy 1
 crucifyfying 1
