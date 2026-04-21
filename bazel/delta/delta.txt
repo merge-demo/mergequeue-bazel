@@ -12719,7 +12719,7 @@ decodings
 dolabriform
 dikamali
 disliking
-doubleness
+doubleness 1
 daut
 depreciating 1
 diphenol 1
