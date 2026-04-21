@@ -2756,7 +2756,7 @@ germanism
 gauger
 guestchamber 1
 gorraf
-gipped
+gipped 1
 gallused 1
 glanditerous
 gramophonist
