@@ -11950,7 +11950,7 @@ araliaceae
 anaemias 2
 apostrophal
 anaphylactin
-anaphylactogenic
+anaphylactogenic 1
 anaphylatoxin 1
 apectomy 1
 anaphyte
