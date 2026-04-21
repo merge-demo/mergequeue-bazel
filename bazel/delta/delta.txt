@@ -12875,7 +12875,7 @@ decreeable 1
 driftway
 dyebeck
 demerited
-dromond
+dromond 1
 dismissal 3
 dismissals
 dismissed
