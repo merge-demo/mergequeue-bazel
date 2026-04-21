@@ -12656,7 +12656,7 @@ emissarium
 exogen 1
 exercent 1
 earldom 1
-exogenae
+exogenae 1
 esophagostomy
 encratism
 exogenously 1
