@@ -7162,7 +7162,7 @@ desulphur 1
 desulphurate
 delatorian
 desulphurised
-demonize
+demonize 1
 dollyman 1
 decompose
 dispersement
