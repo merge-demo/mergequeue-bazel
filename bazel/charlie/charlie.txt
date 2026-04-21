@@ -2887,7 +2887,7 @@ cansos
 chartophylaxes
 congenialize 1
 cant
-connectionless
+connectionless 1
 crayfish 1
 cantabank 1
 canonic 1
