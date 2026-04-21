@@ -14648,7 +14648,7 @@ degradability
 disinvite
 deuteropathy 1
 dizen 1
-dlr
+dlr 1
 devitalized
 dizoic
 dizzen
