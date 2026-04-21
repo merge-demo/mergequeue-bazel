@@ -12486,7 +12486,7 @@ escheatable
 exility 3
 exanthem
 eyestones 1
-educatory
+educatory 1
 enneadic 1
 electrifying
 electroosmosis
