@@ -13033,7 +13033,7 @@ ethos
 elites
 engrapple
 enhazard
-entrusted
+entrusted 1
 epinaoi
 eraser 1
 escoba
