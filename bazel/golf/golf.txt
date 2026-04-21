@@ -6085,7 +6085,7 @@ gph
 gnats 1
 glutaeous
 gorbit
-guttie
+guttie 1
 gibbled 1
 grisset
 gadroons
