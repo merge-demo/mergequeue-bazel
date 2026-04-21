@@ -12470,7 +12470,7 @@ drissel
 disoccupying
 dishwatery
 disidentify
-deracinate
+deracinate 1
 declassifying
 doubtably
 dertrum
