@@ -7700,7 +7700,7 @@ eboulement 1
 endlichite
 euphemiser
 electrotautomerism
-expoundable
+expoundable 1
 epideistic
 enthymematical 1
 eriocaulaceous 1
