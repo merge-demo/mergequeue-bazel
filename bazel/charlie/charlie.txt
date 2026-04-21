@@ -6503,7 +6503,7 @@ caves
 cavetti
 calusar
 conchie
-cavy
+cavy 1
 cavia
 cavicorn
 cuprocyanide
