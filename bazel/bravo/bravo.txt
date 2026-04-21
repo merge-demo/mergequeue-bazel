@@ -12724,7 +12724,7 @@ barging
 ballant
 booklear 1
 brandishing
-booklore
+booklore 1
 bhavan
 berstel 1
 birdliming
