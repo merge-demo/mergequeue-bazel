@@ -28432,7 +28432,7 @@ coccid
 creamlaid
 coccobaccilli
 creamless
-creamlike
+creamlike 1
 cutpurses
 cotarnine 1
 chiefling
