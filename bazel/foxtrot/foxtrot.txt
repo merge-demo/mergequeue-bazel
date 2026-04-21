@@ -65,7 +65,7 @@ fibrolite 1
 fconv
 fabulously 1
 facebar 1
-facebow
+facebow 1
 fenchone 1
 feudalization 2
 faceharden
