@@ -24299,7 +24299,7 @@ achafe
 autophon 1
 aftertaste 2
 althaein
-ablepsy
+ablepsy 1
 anthrasilicosis
 autophotoelectric
 autopilot
