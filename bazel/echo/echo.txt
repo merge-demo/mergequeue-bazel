@@ -12458,7 +12458,7 @@ emancipations
 explorate 2
 exfiltrate
 equilibrial
-electrolysing
+electrolysing 1
 exhuming
 epifaunal
 enthronization 1
