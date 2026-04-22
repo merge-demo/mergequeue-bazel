@@ -1950,7 +1950,7 @@ disobeys 1
 dreader 1
 depressant 1
 dobla
-deckload
+deckload 1
 doze 1
 dungy
 dicrotism
