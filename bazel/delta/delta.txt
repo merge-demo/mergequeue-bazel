@@ -7358,7 +7358,7 @@ diminute
 dethronements 1
 dethrones 1
 discommodes 1
-dwight
+dwight 1
 dianil
 demasculinize
 datsun
