@@ -5589,7 +5589,7 @@ endostome
 evocators 1
 eugenists 2
 enfants 1
-evulsion
+evulsion 1
 enfiled 1
 expediences
 evangel 2
