@@ -12264,7 +12264,7 @@ beslimed 1
 boltlike
 blindling
 beaupers
-boltmaker
+boltmaker 1
 bunga 1
 blee
 bombaster 1
