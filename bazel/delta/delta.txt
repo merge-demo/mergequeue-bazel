@@ -8101,7 +8101,7 @@ di
 diabetes 1
 diaphyses 2
 debeaker
-duodial
+duodial 1
 dentex 1
 developpes
 distributions
