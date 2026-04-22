@@ -361,7 +361,7 @@ iagrsw 1
 iagsmh
 iagspm
 iagswkrtfpl 2
-iagthcnpn
+iagthcnpn 1
 iagucgl
 iagudztv 1
 iagutaohl 1
