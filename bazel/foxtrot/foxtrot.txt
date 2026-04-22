@@ -2489,7 +2489,7 @@ furison 2
 funs 1
 fernshaw 1
 fordo 1
-forehatch
+forehatch 1
 flavic
 freightage
 fawningness
