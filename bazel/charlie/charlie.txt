@@ -10079,7 +10079,7 @@ chesses
 chessylite 1
 chessist
 chirimen
-chessner
+chessner 1
 chessom
 claves 1
 chesstree
