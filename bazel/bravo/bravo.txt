@@ -4974,7 +4974,7 @@ benweed
 beylik
 bemoaning
 beerhouse 1
-beerhouses
+beerhouses 1
 breech
 barbecueing 2
 beladied
