@@ -2044,7 +2044,7 @@ facedown 1
 faucalize
 fireboat
 flindosa 1
-forwander 1
+forwander 2
 flatlander
 faunlike
 fogbows 1
