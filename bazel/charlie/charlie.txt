@@ -12799,7 +12799,7 @@ calomel
 computes 1
 confronted 1
 crooknecks
-chunk
+chunk 1
 chunked
 circumumbilical
 crucifers
