@@ -3239,7 +3239,7 @@ frostwort 1
 flexionless
 fango
 fuchsone
-forefend
+forefend 1
 flunkies
 falern 1
 forewarnings
