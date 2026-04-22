@@ -8639,7 +8639,7 @@ fontinalis 1
 findon
 flamberge
 freightless 1
-filterability 1
+filterability 2
 fourposters 1
 futharks
 feet
