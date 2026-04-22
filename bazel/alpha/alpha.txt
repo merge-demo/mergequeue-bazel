@@ -9358,7 +9358,7 @@ approachers
 areole
 alphas 1
 alpheus
-attenuations
+attenuations 1
 arbitratorship
 alectoridine
 amphicarpus
