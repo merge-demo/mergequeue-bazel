@@ -3157,7 +3157,7 @@ gets
 geoscientists 2
 geochronologically 1
 gellant
-gavotte
+gavotte 1
 glowered 2
 ginnings
 goat
