@@ -10627,7 +10627,7 @@ flangers
 fewmand 1
 fatcake
 fictitious
-femininity
+femininity 1
 freezingly 1
 friandise 1
 fruitbearing
