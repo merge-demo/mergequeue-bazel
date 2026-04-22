@@ -12385,7 +12385,7 @@ dupable
 dishclout
 disassembly
 disheartenedly
-doubles
+doubles 1
 disheartener
 doveflower
 devachan
