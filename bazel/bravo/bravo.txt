@@ -12321,7 +12321,7 @@ bombasts
 bombed 2
 beseemed
 bomber
-bedirty
+bedirty 1
 begroaning 1
 balatronic
 bombes
