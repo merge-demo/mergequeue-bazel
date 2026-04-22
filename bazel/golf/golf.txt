@@ -2245,7 +2245,7 @@ gossipmongering 1
 galactase 1
 gastrotome 1
 grifts
-glottology
+glottology 1
 gefulltefish 2
 galax
 gonidiogenous
