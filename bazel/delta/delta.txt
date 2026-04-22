@@ -8942,7 +8942,7 @@ damascene
 deceivable
 deathblows
 dichotically
-disklike
+disklike 1
 dirigible
 denaturalization
 documenter
