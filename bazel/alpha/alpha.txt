@@ -19260,7 +19260,7 @@ areg
 areic 2
 armchair
 arena 1
-arenaria
+arenaria 1
 annam 1
 auditives
 anthocyan 1
