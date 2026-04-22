@@ -12708,7 +12708,7 @@ etoffe
 exonian
 exonerator 1
 eudiometer
-elmer
+elmer 1
 everbearer 1
 exonym
 era 1
