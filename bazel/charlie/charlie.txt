@@ -27124,7 +27124,7 @@ concurringly
 cemental
 countersign
 crimsons
-calfbound
+calfbound 1
 cupful 2
 countersigning
 countersigns 1
