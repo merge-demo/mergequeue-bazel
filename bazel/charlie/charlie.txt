@@ -11243,7 +11243,7 @@ ceca 1
 cokery
 codettas
 canaut 2
-chloridellidae
+chloridellidae 1
 chlorides 1
 covers
 chloridic
