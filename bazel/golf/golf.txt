@@ -3484,7 +3484,7 @@ gourdlike
 gallous 1
 gentling 2
 griefful
-glathsheim
+glathsheim 1
 gimper 1
 girny 1
 gilts 2
