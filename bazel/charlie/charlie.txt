@@ -17015,7 +17015,7 @@ cnemis 2
 caryatides
 cneorum
 cytotrophy 1
-cnicin
+cnicin 1
 cnidae
 cnidarian
 cnidian
