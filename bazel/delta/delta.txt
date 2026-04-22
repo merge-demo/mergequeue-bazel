@@ -1088,7 +1088,7 @@ defuses
 dartling
 decanoyl
 downpour
-defluxion
+defluxion 1
 datiscaceae
 dhyal 1
 decayless
