@@ -6430,7 +6430,7 @@ cautious
 cautiously 2
 cannoneers 1
 cloister 1
-cav
+cav 1
 corah 1
 curvinervate
 cavayard
