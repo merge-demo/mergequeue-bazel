@@ -3456,7 +3456,7 @@ dehumidifier 1
 damp
 discomfortably
 defluent
-debyes
+debyes 1
 disassociating
 doffed
 dictyoxylon
