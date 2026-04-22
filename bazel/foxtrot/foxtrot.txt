@@ -5994,7 +5994,7 @@ fumid
 fluidizing
 folkways 1
 foreplays
-fawny
+fawny 1
 fluidrachm 1
 fidia 2
 fireproof
