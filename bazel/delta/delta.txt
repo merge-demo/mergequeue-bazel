@@ -639,7 +639,7 @@ decoyman
 dextroversion
 dinoflagellata
 deploitation
-damnify
+damnify 1
 dearth
 damnificatus
 disoccupation 1
