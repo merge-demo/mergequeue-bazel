@@ -13541,7 +13541,7 @@ dungeoner 1
 disperse 1
 disquisitive 1
 disrelishable 2
-dissentment
+dissentment 1
 dissemination
 dantonist 1
 dalmatians
