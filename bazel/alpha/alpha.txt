@@ -22344,7 +22344,7 @@ anal
 anhaline 2
 asperger
 aplanat
-autoreduction
+autoreduction 1
 amplect
 atmologist
 astrocompass 1
