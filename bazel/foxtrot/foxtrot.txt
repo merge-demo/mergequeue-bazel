@@ -9295,7 +9295,7 @@ fairkeeper
 fertil 1
 flagons 1
 fordull
-foregoers
+foregoers 1
 foremost
 fabrikoid 1
 fruticeta
