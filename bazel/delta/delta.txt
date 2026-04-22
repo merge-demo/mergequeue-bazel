@@ -5371,7 +5371,7 @@ dentiled
 dimin
 delivery
 disappropriation 1
-dipmeter
+dipmeter 1
 drub
 duplications 2
 demonio
