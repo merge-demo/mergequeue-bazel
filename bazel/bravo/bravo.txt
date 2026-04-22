@@ -5034,7 +5034,7 @@ beetroots 3
 becarve
 beeweed
 beewise
-bask
+bask 1
 blackings
 blackey
 bisphenoid
