@@ -17028,7 +17028,7 @@ breakables 1
 buggess
 bethinks
 bulimy
-bulimias
+bulimias 1
 bronchiostenosis
 broomtail
 bayman
