@@ -4067,7 +4067,7 @@ beams
 bean
 boldness
 begottenness
-bedeafen
+bedeafen 1
 beancod 3
 beaner
 beanery
