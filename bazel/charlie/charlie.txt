@@ -29511,7 +29511,7 @@ coevality
 crystallurgy
 ceruminiferous 1
 companion 1
-coroniform
+coroniform 1
 crushed
 chithe
 cryste
