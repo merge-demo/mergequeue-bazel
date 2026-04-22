@@ -18403,7 +18403,7 @@ conclude
 canmaking
 componentry
 cognitional
-cognitive
+cognitive 1
 cognitively
 cokelike 1
 cognitivity
