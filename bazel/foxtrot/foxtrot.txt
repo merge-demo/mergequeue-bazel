@@ -3925,7 +3925,7 @@ fineableness
 fumigators
 fusinist 2
 fullage
-frostproof
+frostproof 1
 fustianize 1
 foggage
 fang
