@@ -7060,7 +7060,7 @@ caisson 1
 chisedec
 centerable
 cutup
-chumpivilca
+chumpivilca 1
 centerboard 1
 centerer
 centerfold
