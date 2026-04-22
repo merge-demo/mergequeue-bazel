@@ -984,7 +984,7 @@ ding 1
 dignitaries 1
 derequisition
 dolomitise
-disproportionate
+disproportionate 1
 drest
 darics
 devwsor
