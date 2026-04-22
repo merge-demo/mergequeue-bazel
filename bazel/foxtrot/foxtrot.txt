@@ -5183,7 +5183,7 @@ flameflower
 feeding 1
 flued
 flatulentness
-flangeway
+flangeway 1
 futter
 fibs
 footpaddery
