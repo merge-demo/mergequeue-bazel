@@ -134,7 +134,7 @@ dingier
 deadcenter
 drumsticks
 drawbench
-deviascope
+deviascope 1
 dekko
 dinar
 dyophone 1
