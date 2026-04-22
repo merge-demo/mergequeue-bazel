@@ -16583,7 +16583,7 @@ bourreau
 bubales 1
 basements 1
 beefish
-bubals
+bubals 1
 belling
 bubastid
 backorder
