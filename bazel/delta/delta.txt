@@ -4519,7 +4519,7 @@ discircumspection 1
 demies
 dosimetric
 demifigure
-decentres
+decentres 1
 disinflated 1
 downdraught
 detroiter
