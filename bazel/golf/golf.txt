@@ -68,7 +68,7 @@ greffe
 gorcrow
 gloiosiphonia
 gandum
-graftproof
+graftproof 1
 galliums
 grayish 1
 giddap 2
