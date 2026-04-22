@@ -4907,7 +4907,7 @@ exoperidium
 ecchymoses
 enculturation
 ergatandromorph
-epispastic
+epispastic 1
 extrapolates 1
 essenis 1
 electrodialyzer 1
