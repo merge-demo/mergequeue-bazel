@@ -17114,7 +17114,7 @@ driftlessness 1
 drepanium
 divulging
 disclose
-degenerative
+degenerative 1
 drifters
 driftpins 1
 depositary 2
