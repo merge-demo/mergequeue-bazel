@@ -17378,7 +17378,7 @@ droppers
 diurnalness
 dropping 1
 disframe
-declaims 1
+declaims 2
 departmentalisation
 droppings 1
 drops
