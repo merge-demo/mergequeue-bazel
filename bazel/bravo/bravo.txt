@@ -14372,7 +14372,7 @@ brayette 1
 brailles
 birdcraft 1
 bylaw
-bursiform
+bursiform 1
 bonebinder
 braillewriter
 boloman
