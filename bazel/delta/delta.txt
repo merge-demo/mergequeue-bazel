@@ -2639,7 +2639,7 @@ decoloring
 disavowed
 diogenes
 deforce
-dispose 1
+dispose 2
 decolors
 duopsonies 1
 decolouration 1
