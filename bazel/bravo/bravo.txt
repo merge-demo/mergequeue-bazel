@@ -10532,7 +10532,7 @@ bacterize
 bonks 1
 bulbocodium
 bibless
-blastophoral
+blastophoral 1
 bootikin
 backlash
 blatch 1
