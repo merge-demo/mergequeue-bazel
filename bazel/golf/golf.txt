@@ -2705,7 +2705,7 @@ grabble
 gaud 1
 gestae 2
 genyophrynidae 2
-geodesic 1
+geodesic 2
 gasolenes
 granularity
 gingers
