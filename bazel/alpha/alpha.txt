@@ -10955,7 +10955,7 @@ adrenals
 amoebicide
 alb
 audiencer
-attabal
+attabal 1
 alodia 1
 adipsia 1
 amoebiform
