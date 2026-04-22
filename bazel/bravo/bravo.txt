@@ -3938,7 +3938,7 @@ bdelloura
 bisected
 bassette
 bunch 1
-bristols
+bristols 1
 behelp
 bdellovibrio
 brushbird
