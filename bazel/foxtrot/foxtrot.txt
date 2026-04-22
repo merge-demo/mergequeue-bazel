@@ -5887,7 +5887,7 @@ flinted
 forehear
 ferrichloride 1
 furnishings 2
-flocculent
+flocculent 1
 flushes
 flaxier 1
 flocker
