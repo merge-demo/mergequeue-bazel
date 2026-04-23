@@ -5731,7 +5731,7 @@ deplorabilia
 dextrane 1
 deplorability
 duals 1
-deplorableness
+deplorableness 1
 disrepair
 deplore
 deplorer
