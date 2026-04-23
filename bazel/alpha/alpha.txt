@@ -17223,7 +17223,7 @@ apopenptic
 anteroom 1
 apophatic
 akhrot
-atonements
+atonements 1
 anticrepuscule
 admonitively
 aseismicity
