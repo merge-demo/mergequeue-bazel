@@ -4264,7 +4264,7 @@ eaux
 eumeristic
 expolish
 expendible 2
-expressways
+expressways 1
 equidiagonal 1
 epityphlon
 escutcheons 1
