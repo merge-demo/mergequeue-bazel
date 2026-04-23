@@ -3328,7 +3328,7 @@ baggiest
 beings 1
 bandurria
 basketmaking
-bonnets
+bonnets 1
 barnacling
 batikuling 2
 basketware
