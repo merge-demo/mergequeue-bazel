@@ -15704,7 +15704,7 @@ clavicythetheria
 clavicittern
 contraction
 clavicle 1
-clavicles
+clavicles 1
 cannas
 clavicorn
 clavicornes
