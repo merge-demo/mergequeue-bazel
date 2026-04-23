@@ -5279,7 +5279,7 @@ affinition
 apostrophe 1
 affinitive 1
 affirmable
-asiaticism
+asiaticism 1
 affirmably
 aplysia
 achaetous
