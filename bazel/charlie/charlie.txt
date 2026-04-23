@@ -20459,7 +20459,7 @@ comparers
 clatteringly
 comparing 1
 comparisons
-comparted
+comparted 1
 customhouse
 compartimenti
 chimley
