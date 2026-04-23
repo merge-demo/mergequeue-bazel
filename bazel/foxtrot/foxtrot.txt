@@ -5826,7 +5826,7 @@ freakdom 2
 ferox 1
 forestallment 1
 fenestration 2
-flywinch
+flywinch 1
 fulfils 1
 flouncey 1
 footback
