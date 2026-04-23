@@ -17916,7 +17916,7 @@ badly
 bushidos
 bractless 1
 broadaxes
-bahmanid
+bahmanid 1
 belton 2
 befortune
 brahmanda
