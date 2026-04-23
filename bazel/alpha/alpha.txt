@@ -1319,7 +1319,7 @@ acaulescence 1
 amidships 1
 acaulescent
 acauline 1
-acc
+acc 1
 accable
 accel
 accelerable
