@@ -923,7 +923,7 @@ bagsful
 bequirtle
 bazookaman
 bassalian
-barbeled
+barbeled 1
 bravely
 beprank 1
 bidarkas
