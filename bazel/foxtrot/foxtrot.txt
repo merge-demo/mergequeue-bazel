@@ -7075,7 +7075,7 @@ formfeeds
 fellfare
 footful
 foolhardiness 2
-fabulousness
+fabulousness 1
 foolhardiship
 foredeck 3
 flapperdom
