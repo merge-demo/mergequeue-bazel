@@ -11924,7 +11924,7 @@ aftersend
 aupaka
 anchylosis
 anapaestically
-ancientness
+ancientness 1
 ataraxic 1
 anew
 amenism
