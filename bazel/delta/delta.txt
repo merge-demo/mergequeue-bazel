@@ -7595,7 +7595,7 @@ drou
 doublewidth
 diddikai
 darking
-darwinistic
+darwinistic 1
 deva
 dequeuing
 dactylonomy
