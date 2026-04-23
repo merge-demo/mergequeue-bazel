@@ -2915,7 +2915,7 @@ glints 1
 gallipots
 glittering
 gledes 1
-gonocyte 1
+gonocyte 2
 gallinulelike
 gombos 1
 gingerous 2
