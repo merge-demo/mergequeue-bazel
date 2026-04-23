@@ -2717,7 +2717,7 @@ carbamyl
 coff
 combinatorics
 cutey
-canman
+canman 1
 churr
 cannabic
 churchwise 1
