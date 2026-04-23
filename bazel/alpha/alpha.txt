@@ -13214,7 +13214,7 @@ antigraft 1
 aecium
 antisilverite
 alloplasmic
-animistic
+animistic 1
 anabatic
 accretionary
 apraxias
