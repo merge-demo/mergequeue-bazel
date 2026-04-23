@@ -31215,7 +31215,7 @@ cupsful 1
 cupstone
 cupula
 cupulae
-cupular
+cupular 1
 carlines
 cupulate
 crosslets
