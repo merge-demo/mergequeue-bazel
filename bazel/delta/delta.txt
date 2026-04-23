@@ -10652,7 +10652,7 @@ diploplaculate
 degarnish 2
 dolomize 1
 doon
-discoveries
+discoveries 1
 diplopod
 diplopoda
 discorrespondent
