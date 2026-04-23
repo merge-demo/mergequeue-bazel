@@ -3834,7 +3834,7 @@ emerald
 elasticities 1
 emerge
 ecart 1
-escapology
+escapology 1
 emerged 1
 edulcorated
 echinostomiasis
