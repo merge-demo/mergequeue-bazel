@@ -10464,7 +10464,7 @@ fibroin
 foofaraw
 fantast
 forewarns 1
-fluffs
+fluffs 1
 fidged 1
 frostfish
 forcite 1
