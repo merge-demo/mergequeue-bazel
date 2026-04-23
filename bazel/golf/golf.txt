@@ -1846,7 +1846,7 @@ gatekeepers
 glos 1
 gentile 1
 groupage
-garlands
+garlands 1
 grasses 3
 glutenous
 goundou
