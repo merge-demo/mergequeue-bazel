@@ -15721,7 +15721,7 @@ carshops 1
 clavilux 1
 coy 1
 carlisle
-clavipectoral
+clavipectoral 1
 chips
 clavolet
 cumulonimbus
