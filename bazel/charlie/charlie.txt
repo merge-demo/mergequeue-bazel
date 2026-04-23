@@ -11823,7 +11823,7 @@ chopdar
 cyprinoidea
 connation
 clarina 1
-chopins
+chopins 1
 coinquinate
 converter
 choplogic
