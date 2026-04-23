@@ -11586,7 +11586,7 @@ colonialization 1
 cholecystogastrostomy 1
 cholecystogram
 cholecystography 1
-cholecystokinin
+cholecystokinin 1
 cholecystolithiasis 1
 cholecystostomy
 cholecystotomy
