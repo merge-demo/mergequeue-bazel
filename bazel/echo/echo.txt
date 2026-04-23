@@ -5333,7 +5333,7 @@ elegiast
 eliminability
 endosclerite
 extrahepatic
-eurybathic
+eurybathic 1
 endoscope 2
 endoscopes 1
 equivocalities
