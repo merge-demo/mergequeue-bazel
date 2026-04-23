@@ -8457,7 +8457,7 @@ alkaliser
 adjoint
 angustate 2
 abdomens
-adaptable
+adaptable 1
 alacreatinine
 alkalize
 alkalizer
