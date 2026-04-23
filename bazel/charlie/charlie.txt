@@ -18181,7 +18181,7 @@ coptis 1
 coessentiality
 centerless
 coessentially
-cervulus
+cervulus 1
 coetaneous
 coeternal
 coeternity
