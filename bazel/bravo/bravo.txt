@@ -3527,7 +3527,7 @@ bestore
 bulbocavernosus
 brookites
 blackroot 1
-bathed
+bathed 1
 bellower
 bathes 1
 backslidden
