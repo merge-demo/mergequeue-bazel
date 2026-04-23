@@ -2966,7 +2966,7 @@ deduces 1
 droil
 dolt 1
 deducibility 1
-drawstop
+drawstop 1
 deducted 2
 devolatilized
 disseisoress 1
