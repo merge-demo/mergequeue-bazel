@@ -9441,7 +9441,7 @@ footstone 2
 following
 fraternism
 fitfulness
-finesses
+finesses 1
 faux
 furcae 1
 falconbill 1
