@@ -14127,7 +14127,7 @@ defeating
 diswarrening 1
 daisy
 ducker
-disulfid
+disulfid 1
 derris
 diazotizable
 disulfide
