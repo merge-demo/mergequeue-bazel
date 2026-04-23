@@ -2292,7 +2292,7 @@ filicales
 formulable 1
 flotation
 foreface
-fistulizing
+fistulizing 1
 flagelliferous 1
 fenestrae 1
 foreword 1
