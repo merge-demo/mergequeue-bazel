@@ -22640,7 +22640,7 @@ anticipating 1
 atheisticness 2
 allow
 abraham
-atheize
+atheize 1
 atheizer
 audiencier
 airthed 1
