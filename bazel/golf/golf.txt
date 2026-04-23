@@ -10559,7 +10559,7 @@ gambetta
 grandmaster 2
 goustie 3
 gemmiest
-gatepost
+gatepost 1
 glyphs
 guanays
 gunmaking
