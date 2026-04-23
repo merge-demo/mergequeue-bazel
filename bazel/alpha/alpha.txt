@@ -1770,7 +1770,7 @@ acedias
 abbreviature
 agalloch
 astigmia
-ammonitiferous
+ammonitiferous 1
 agoniada 1
 aceldamas
 aquake
