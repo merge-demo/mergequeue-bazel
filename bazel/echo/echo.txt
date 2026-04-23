@@ -4965,7 +4965,7 @@ exactive
 eglestonite 1
 ecliptics 1
 estrada 1
-emulatress
+emulatress 1
 endeavour
 endamaging 2
 estreated
