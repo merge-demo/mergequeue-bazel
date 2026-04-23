@@ -3993,7 +3993,7 @@ delectability
 dampang
 decides
 disintensify
-duplex
+duplex 1
 devitalise
 deputized
 distune
