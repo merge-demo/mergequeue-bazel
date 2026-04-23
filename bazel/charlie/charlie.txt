@@ -22332,7 +22332,7 @@ congresses 3
 cutocellulose
 clatch
 clustery
-claviform
+claviform 1
 congressing
 congressionalist
 congressionally
