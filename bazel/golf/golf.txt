@@ -3772,7 +3772,7 @@ giantship 1
 glycolate
 garrafa
 gapping 1
-gastroesophagostomy
+gastroesophagostomy 1
 gunong
 grincome
 giantsize
