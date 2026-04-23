@@ -20246,7 +20246,7 @@ commotions 2
 classless
 craziness 2
 commove
-commoved
+commoved 1
 conjectured
 cephalometry
 cavitations
