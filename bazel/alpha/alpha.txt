@@ -2082,7 +2082,7 @@ acumens 1
 achy 1
 absconds
 airtime 1
-anthologion
+anthologion 1
 aphagia
 antenniferous
 advertent
