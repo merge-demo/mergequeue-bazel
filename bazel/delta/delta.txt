@@ -13474,7 +13474,7 @@ disrobing
 disroost
 demiurgism
 disponed
-disrooted
+disrooted 1
 dissertated 1
 dialectologer
 demicircle
