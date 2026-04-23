@@ -1801,7 +1801,7 @@ gavelled
 gasterosteid 1
 glossolaly
 gutterblood 2
-gelatinotype 1
+gelatinotype 2
 grippelike 1
 ghyll
 glutinate 1
