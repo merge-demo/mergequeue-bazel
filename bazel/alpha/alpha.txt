@@ -20652,7 +20652,7 @@ albumen
 arthrospore
 arthrostome
 arthrostomy
-arthrotyphoid
+arthrotyphoid 1
 amputative
 azimide 1
 arthrotome 1
