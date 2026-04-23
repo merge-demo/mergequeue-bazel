@@ -5840,7 +5840,7 @@ dichotomously
 deafforest 2
 destrier 1
 disestablishes 1
-desistance
+desistance 1
 depots
 dasyure
 deprave 1
