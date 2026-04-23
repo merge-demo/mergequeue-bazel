@@ -19964,7 +19964,7 @@ caudata
 commark
 croupal
 coinheres
-conjectural
+conjectural 1
 commassation
 carot
 commassee
