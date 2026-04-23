@@ -2540,7 +2540,7 @@ brancher
 bs
 bilamellar
 boerdom
-begster 1
+begster 2
 birk
 backlists 1
 bashlyk 1
