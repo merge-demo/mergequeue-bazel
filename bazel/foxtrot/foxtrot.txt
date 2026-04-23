@@ -6529,7 +6529,7 @@ floodboard 3
 fierabras
 flytail
 finecomb
-fluting
+fluting 1
 freakishly 1
 flasque
 foetid
