@@ -4174,7 +4174,7 @@ bullswool
 beastlings 1
 bulgy
 beastman
-barracoutas
+barracoutas 1
 beastship 1
 beat 1
 benches
