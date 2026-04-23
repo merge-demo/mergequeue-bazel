@@ -4093,7 +4093,7 @@ equitant
 enjambement
 erotophobia
 exteriorize
-epiphonemae
+epiphonemae 1
 empathized
 eugenical
 electrotonize 3
