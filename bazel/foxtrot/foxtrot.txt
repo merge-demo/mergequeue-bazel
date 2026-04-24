@@ -5223,7 +5223,7 @@ flav
 flavanilin 1
 fiscals
 flavescence
-fingall
+fingall 1
 flytrap 2
 filius
 flavescent 2
