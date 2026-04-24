@@ -11480,7 +11480,7 @@ foothill
 ferrite
 foredescribe
 farms 2
-facilities
+facilities 1
 figural
 finnmarks
 furthest
