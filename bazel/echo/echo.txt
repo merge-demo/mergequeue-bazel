@@ -6819,7 +6819,7 @@ enwombing
 entitative
 exostema
 elaphine
-enrooted
+enrooted 1
 entoil 1
 eggler 1
 entoils
