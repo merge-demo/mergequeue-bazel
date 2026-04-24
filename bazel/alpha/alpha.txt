@@ -5851,7 +5851,7 @@ archfelon
 anisocarpic 1
 ampyx
 agendas 1
-aponeurosis
+aponeurosis 1
 ankylosaur 1
 agendum
 amovability
