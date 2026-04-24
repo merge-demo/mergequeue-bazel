@@ -11636,7 +11636,7 @@ autodialled
 assafoetida 1
 anabrotic
 anacoluthons
-alow
+alow 1
 archurger
 anacreontically
 athens
