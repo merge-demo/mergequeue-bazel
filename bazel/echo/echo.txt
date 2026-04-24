@@ -9955,7 +9955,7 @@ eucalyptuses 1
 evert 1
 ertebolle 2
 eschars
-ennew
+ennew 1
 ecclesiae
 estrif
 estrin
