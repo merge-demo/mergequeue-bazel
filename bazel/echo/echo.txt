@@ -6703,7 +6703,7 @@ enlight
 equestrianize 1
 ecartes 1
 eclipser
-enspirit 1
+enspirit 2
 esteriferous
 equilibriria
 ecosystems
