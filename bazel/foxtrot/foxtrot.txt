@@ -5182,7 +5182,7 @@ fictions
 flameflower
 feeding 2
 flued
-flatulentness
+flatulentness 1
 flangeway 1
 futter
 fibs
