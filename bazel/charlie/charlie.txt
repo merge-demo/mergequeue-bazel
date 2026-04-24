@@ -8260,7 +8260,7 @@ comas
 chalcography
 caucho
 chalcographic
-chalcographical
+chalcographical 1
 chalcographist
 chalcolithic
 cappae
