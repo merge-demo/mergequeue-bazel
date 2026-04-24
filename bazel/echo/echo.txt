@@ -13774,7 +13774,7 @@ ecorch 1
 extolling 1
 enouncement 1
 elephas
-extolls
+extolls 1
 eskimos 1
 extorters 1
 extortion
