@@ -6401,7 +6401,7 @@ aurung
 ancylostoma 1
 acoine 1
 afro
-automatograph
+automatograph 1
 adsorbate
 auriculariae
 agromyzid
