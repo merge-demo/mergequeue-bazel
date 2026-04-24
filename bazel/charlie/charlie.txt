@@ -12825,7 +12825,7 @@ canasta
 calorite 1
 commonplacer
 calcitestaceous
-camellias
+camellias 1
 church
 courageousness
 churchcraft
