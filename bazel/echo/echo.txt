@@ -10654,7 +10654,7 @@ eastlake
 extricating
 exclamatorily
 eudiometrical 1
-eudiometrically
+eudiometrically 1
 eudist
 eudoxian
 exogenic
