@@ -1802,7 +1802,7 @@ benzyls 1
 bridgewall
 bananivorous
 banatite
-becharm
+becharm 1
 blackjacking
 billycans
 bancha
