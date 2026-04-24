@@ -8460,7 +8460,7 @@ abdomens
 adaptable 1
 alacreatinine
 alkalize
-alkalizer
+alkalizer 1
 afforested
 alkaloid 1
 alkaloids
