@@ -2571,7 +2571,7 @@ decretist 1
 declimatize
 driblets
 declinational
-decasualization
+decasualization 1
 dipneumones 1
 dimmed
 distelfink

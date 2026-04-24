@@ -22927,7 +22927,7 @@ atremata 1
 applaudable 1
 atrematous
 apprentices
-arachnids
+arachnids 1
 anatoxins
 ahriman
 antimodel
