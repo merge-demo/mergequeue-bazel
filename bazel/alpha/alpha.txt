@@ -6853,7 +6853,7 @@ adjectival
 airline 1
 acridophagus
 airlines
-antilabor
+antilabor 1
 anticommercialism 1
 airling
 airlock
