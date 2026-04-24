@@ -7669,7 +7669,7 @@ alcoholature
 agelacrinites
 annot
 alcoholdom 1
-abbrev
+abbrev 1
 alcoholemia
 alcoholically 1
 appetition
