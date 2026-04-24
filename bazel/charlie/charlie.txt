@@ -26851,7 +26851,7 @@ counterflange
 cruzados 1
 counterfleury
 clodlike
-counterfoil
+counterfoil 1
 counterforce
 cosmopolitanizing 1
 carrom 1
