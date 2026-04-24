@@ -22802,7 +22802,7 @@ autokrator
 annulets 1
 atlantosaurus
 atlases
-annulling
+annulling 1
 apropos
 amplificator 1
 atloid
