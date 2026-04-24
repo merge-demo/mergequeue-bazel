@@ -11710,7 +11710,7 @@ decoagulate
 distritbute
 dehumidification 1
 disclaim
-declinator
+declinator 1
 disprobabilization
 dashy
 discourteousness

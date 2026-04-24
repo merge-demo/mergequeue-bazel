@@ -15702,7 +15702,7 @@ breakfront
 broadsiding 1
 broadspread
 broadsword
-bamangwato 1
+bamangwato 2
 bromethyl
 brob
 betorcin 1
