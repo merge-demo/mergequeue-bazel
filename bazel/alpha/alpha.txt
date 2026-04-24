@@ -1321,7 +1321,7 @@ acaulescent
 acauline 1
 acc 1
 accable
-accel
+accel 1
 accelerable
 animalizing
 accelerando
