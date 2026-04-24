@@ -11828,7 +11828,7 @@ coinquinate
 converter
 choplogic
 choplogical
-choregi
+choregi 1
 cryptomonad
 candider
 chopper
