@@ -3675,7 +3675,7 @@ forelooper 1
 floorings
 fuzzing 2
 followeth 2
-funnelling
+funnelling 1
 friskers 1
 fertilised 1
 foreglow
