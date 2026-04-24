@@ -6306,7 +6306,7 @@ fluxibility
 flummer 3
 flickerproof
 flintlocks
-fistnote
+fistnote 1
 funori
 fettling
 fusionism
