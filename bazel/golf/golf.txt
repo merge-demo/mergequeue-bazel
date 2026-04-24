@@ -6210,7 +6210,7 @@ grabbings 3
 glyptographic
 ganglionless 5
 grivois
-gossipdom
+gossipdom 1
 gamblesome 4
 gardener
 geomyidae
