@@ -10839,7 +10839,7 @@ generality 1
 gyrofrequency
 genethlialogical 1
 gyrograph
-guttar
+guttar 1
 guaiacum
 guzul
 genotypical
