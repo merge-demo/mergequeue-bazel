@@ -5796,7 +5796,7 @@ batfish
 bimetallism 1
 berengelite
 bonasa 1
-bellhouse
+bellhouse 1
 belli
 buckstone 1
 bellyache 1
