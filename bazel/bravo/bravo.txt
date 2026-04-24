@@ -3709,7 +3709,7 @@ battier
 brightest
 batting
 battings
-battledores
+battledores 1
 bywork
 baldly 1
 barotraumata
