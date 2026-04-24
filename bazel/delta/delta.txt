@@ -1078,7 +1078,7 @@ dampening
 dorsomesal
 darsonval
 deontology 1
-disbanding
+disbanding 1
 dartagnan
 darters 2
 dearticulation
