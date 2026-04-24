@@ -15899,7 +15899,7 @@ buzzbomb
 berylate 2
 bendell
 brominize 1
-breezing
+breezing 1
 beice 1
 bodysurfing
 broomball
