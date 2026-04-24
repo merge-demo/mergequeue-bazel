@@ -17395,7 +17395,7 @@ droppage 1
 diffraction 2
 decennia 1
 didascaly
-direction
+direction 1
 disjoinable
 decream
 dropsies
