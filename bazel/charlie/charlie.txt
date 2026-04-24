@@ -8620,7 +8620,7 @@ curtness
 complementaries
 cohesionless 1
 changelessness
-changelings
+changelings 1
 changement
 cuissard
 changeovers
