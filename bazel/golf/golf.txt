@@ -1259,7 +1259,7 @@ garbler
 gradings
 greasers 1
 galliardly
-grognard
+grognard 1
 geneki
 griffes 1
 gapper 1
