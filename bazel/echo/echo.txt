@@ -6030,7 +6030,7 @@ erosion
 ejects 2
 earns
 eluding
-extrapituitary
+extrapituitary 1
 emptily
 ennoblingly 1
 extensimeter
