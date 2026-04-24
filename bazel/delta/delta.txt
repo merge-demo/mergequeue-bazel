@@ -1082,7 +1082,7 @@ disbanding 1
 dartagnan
 darters 2
 dearticulation
-dartled
+dartled 1
 dedecorate
 defuses
 dartling
