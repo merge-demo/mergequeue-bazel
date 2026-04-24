@@ -4161,7 +4161,7 @@ extracranial 1
 energids 1
 expungement
 erythrodermia
-externum
+externum 1
 encl 1
 encaustes
 exporter 1

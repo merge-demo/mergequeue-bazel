@@ -8262,7 +8262,7 @@ butterflyfish
 biblists
 beak 1
 bookling
-burden
+burden 1
 byzantinism
 berberine
 botte
