@@ -6759,7 +6759,7 @@ barracudina
 bufonid
 bushiest
 berry
-buchnerite
+buchnerite 1
 binturong 1
 banshee
 bitte
