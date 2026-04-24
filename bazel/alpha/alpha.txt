@@ -24135,7 +24135,7 @@ autografting 1
 autogram
 anthesteria 2
 asconia
-autographer
+autographer 1
 afterpart
 argolid 2
 ammoreslinol
