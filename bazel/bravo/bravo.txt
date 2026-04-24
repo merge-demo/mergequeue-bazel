@@ -12306,7 +12306,7 @@ bullwhacker
 betrayer 2
 bombardments 1
 bombline
-bowdrill 1
+bowdrill 2
 bombast 1
 buglers
 bicker 1
