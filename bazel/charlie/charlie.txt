@@ -7835,7 +7835,7 @@ cervicodynia
 cervicolabial
 cooeyed
 croh
-cervicomuscular
+cervicomuscular 1
 cerviconasal
 cholelithotripsy
 cribrous
