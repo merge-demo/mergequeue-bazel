@@ -5501,7 +5501,7 @@ foraged
 fleshy 1
 fillet
 ferally 1
-fleshing
+fleshing 1
 fettuccine 2
 formatters
 fanjets 2
