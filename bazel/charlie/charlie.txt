@@ -19045,7 +19045,7 @@ combustibilities 1
 cresorcin 1
 collibert
 confineless
-colonialise
+colonialise 1
 coatings
 colliculus
 cometographer
