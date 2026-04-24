@@ -8739,7 +8739,7 @@ chapelize
 chirpier
 coccolithophorid
 chapellany 1
-chapelled
+chapelled 1
 cimnel
 carditic 1
 cobnut
