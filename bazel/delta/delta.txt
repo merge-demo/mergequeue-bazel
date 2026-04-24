@@ -5747,7 +5747,7 @@ deoxidiser
 demonland 1
 depoetize
 deconsider 1
-depoh
+depoh 1
 decd 2
 depolarise 2
 dehumidify
