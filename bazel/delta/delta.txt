@@ -9609,7 +9609,7 @@ druse
 diguanide
 dihalide
 derives
-deil
+deil 1
 deadline
 drayed 1
 differentiating

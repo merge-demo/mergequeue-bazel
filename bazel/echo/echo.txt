@@ -8713,7 +8713,7 @@ enhallow
 electroencephalograph
 equisided 1
 equisignal
-erethitic
+erethitic 1
 epigaeous 1
 extradicting
 eriophyllous
