@@ -15642,7 +15642,7 @@ catholically
 clausal
 clause
 clauses
-coattends
+coattends 1
 craniotympanic
 cartilaginification
 clausthalite
