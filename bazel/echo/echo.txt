@@ -2634,7 +2634,7 @@ etherizing 1
 execrations 2
 etymologisable
 exempla
-electrophrenic
+electrophrenic 1
 electroplater
 electropower
 electropsychrometer 1
