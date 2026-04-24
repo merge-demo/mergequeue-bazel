@@ -3823,7 +3823,7 @@ dialyzator
 dienes
 dicier 1
 disjecting
-duplexed
+duplexed 1
 dropped 1
 despatched
 discommender
