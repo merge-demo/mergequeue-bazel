@@ -9028,7 +9028,7 @@ burnouts
 boldface
 brev
 biophagism 2
-biophilous
+biophilous 1
 biophysic
 biophysiography
 balibuntal
