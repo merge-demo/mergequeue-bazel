@@ -5968,7 +5968,7 @@ encoffin
 elains 1
 effate
 enhunger 1
-emissary
+emissary 1
 eruc 1
 erythrose 1
 euflavine
