@@ -19634,7 +19634,7 @@ coating
 colzas 1
 com
 coma
-comprobate
+comprobate 1
 carillon
 comacine
 comade
