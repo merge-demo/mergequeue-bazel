@@ -2988,7 +2988,7 @@ gaolering
 geographies 1
 grievers 1
 galliardness
-geoids
+geoids 1
 gloriole 2
 gendered
 galatine
