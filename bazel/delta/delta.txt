@@ -11720,7 +11720,7 @@ distilland 1
 disworth
 dorms
 dockman
-discoverer
+discoverer 1
 decancellation
 discoverture
 deplume
