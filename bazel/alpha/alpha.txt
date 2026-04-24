@@ -3488,7 +3488,7 @@ addititious 2
 athenians 1
 additive
 acrogynous
-additivity
+additivity 1
 apesthesia 1
 aloysia 1
 additory
