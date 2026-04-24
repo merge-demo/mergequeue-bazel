@@ -5841,7 +5841,7 @@ fluochloride
 fattening 1
 fervidly
 fierasfer 2
-fodders
+fodders 1
 flounders 2
 flotas 1
 floatier
