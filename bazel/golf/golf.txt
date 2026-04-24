@@ -695,7 +695,7 @@ greeters
 gaspereaus
 grunters
 galoshe
-gimmals
+gimmals 1
 goldney
 genteelness 1
 gowlan 1
