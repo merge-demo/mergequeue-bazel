@@ -17371,7 +17371,7 @@ deallocation 1
 delactation
 deviants
 diduced
-dropmeal
+dropmeal 1
 declined
 dipleurula 1
 droppers
