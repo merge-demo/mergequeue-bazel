@@ -3059,7 +3059,7 @@ gemmipares
 glyptotheca 1
 gametogenous
 garnetz
-gossipper
+gossipper 1
 giant 1
 gnash
 glaciologists 2
