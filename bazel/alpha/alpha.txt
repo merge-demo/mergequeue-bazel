@@ -5081,7 +5081,7 @@ allantoidal
 aerotonometric
 alloys
 agrostographical
-aerotropism
+aerotropism 1
 allantois
 aeruginous
 aerugo 1
