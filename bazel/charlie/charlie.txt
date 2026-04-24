@@ -11611,7 +11611,7 @@ colorization
 cholelith
 conchotome
 cholelithic
-cholelithotomy
+cholelithotomy 1
 chastising
 counterbore
 choriambuses
