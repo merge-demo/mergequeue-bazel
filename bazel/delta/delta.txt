@@ -12733,7 +12733,7 @@ disoxidate
 diazotizing
 dislive
 defectoscope
-dislluminate
+dislluminate 1
 dubbings
 difference
 dislocability 1
