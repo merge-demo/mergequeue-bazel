@@ -9590,7 +9590,7 @@ epihippus
 enterohemorrhage
 esophagalgia
 esophagean
-esophago
+esophago 1
 esophagogastroscopy 1
 entrike
 esophagometer
