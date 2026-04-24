@@ -8826,7 +8826,7 @@ flexured
 friss 2
 familiarly 1
 feucht
-frigorimeter
+frigorimeter 1
 fluidible
 flushgate
 forespoke 3
