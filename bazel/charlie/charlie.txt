@@ -11569,7 +11569,7 @@ clammier
 chimachima
 countermeasure
 cholecystenterorrhaphy
-cholecystenterostomy
+cholecystenterostomy 1
 cholecystgastrostomy
 carburisation
 cholecystic
