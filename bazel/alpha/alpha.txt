@@ -12092,7 +12092,7 @@ aborning
 archaeologian
 arquerite
 aspis
-angiosclerosis
+angiosclerosis 1
 acidity 1
 avenalin 1
 anastomosing
