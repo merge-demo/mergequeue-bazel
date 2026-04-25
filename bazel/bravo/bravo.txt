@@ -16461,7 +16461,7 @@ bloodshotten
 bendys 1
 beggable 3
 bejazz
-besmell
+besmell 1
 brevetting
 brumal 1
 baldoquin
