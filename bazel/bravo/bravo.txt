@@ -5658,7 +5658,7 @@ belderroot 1
 bodgie
 beleaguering
 bongar 1
-badgeless
+badgeless 1
 beleapt
 belection
 brining
