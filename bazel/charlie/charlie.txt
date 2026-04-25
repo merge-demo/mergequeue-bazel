@@ -3498,7 +3498,7 @@ capsulation
 collegatary 1
 chainomatic
 chawbone
-capsulectomy
+capsulectomy 1
 chloroforming 1
 centinody
 countershaft 1
