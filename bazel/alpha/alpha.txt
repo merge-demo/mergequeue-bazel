@@ -11944,7 +11944,7 @@ ancille
 always
 archduchies
 attatches
-amalgamize 1
+amalgamize 2
 anaphylactically 1
 araliaceae
 anaemias 3
