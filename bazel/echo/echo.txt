@@ -12802,7 +12802,7 @@ extensional
 exostosis 1
 exarchist
 exostra 2
-ebullition
+ebullition 1
 engraves 1
 elementary
 exostrae 1
