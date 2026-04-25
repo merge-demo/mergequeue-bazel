@@ -7257,7 +7257,7 @@ detenues
 dephlegmator
 deter 1
 deterged
-desertlike
+desertlike 1
 dilettantship
 dendrachate 2
 decliner
