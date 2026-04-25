@@ -16837,7 +16837,7 @@ chopas 1
 clubdom
 clubfist 1
 clubfisted
-cenotaph
+cenotaph 1
 clubfoot
 clubfooted
 clubhand
