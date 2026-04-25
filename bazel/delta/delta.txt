@@ -7488,7 +7488,7 @@ decomposability
 demurity 2
 dopster
 downtowner
-deuced
+deuced 1
 dizenment 1
 deuces
 densimetric
