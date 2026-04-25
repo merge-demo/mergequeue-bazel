@@ -6536,7 +6536,7 @@ foetid
 floccose 2
 frailish
 flutist 1
-frenchman
+frenchman 1
 firebed
 forecover 1
 flytime 1
