@@ -22351,7 +22351,7 @@ astrocompass 1
 astrodiagnosis
 astrodynamic
 androphyll 1
-afterbodies
+afterbodies 1
 amphitron 1
 achromatolysis
 africanist
