@@ -7919,7 +7919,7 @@ dewless 1
 daggled
 dewlike
 deeps
-deworming
+deworming 1
 deworms 1
 disponer 1
 dexiotropous
