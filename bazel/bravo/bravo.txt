@@ -11623,7 +11623,7 @@ bacchus
 boasts 1
 bryologist
 bosket
-boatage
+boatage 1
 bacterioscopical 1
 barspoon 2
 boatbuilding
