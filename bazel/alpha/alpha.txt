@@ -11781,7 +11781,7 @@ analepses 1
 armpad 1
 agrege
 acacine
-analeptic
+analeptic 1
 anabasis
 adenoidectomies
 analgesics
