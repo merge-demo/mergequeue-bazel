@@ -10220,7 +10220,7 @@ beparse
 barothermohygrograph 1
 blacklists 1
 brainer
-beclamour
+beclamour 1
 ballow
 banian
 backwater
