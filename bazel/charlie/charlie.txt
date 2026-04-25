@@ -15249,7 +15249,7 @@ colfox 1
 cassique
 chaining
 clamcracker 1
-crabfish
+crabfish 1
 clame
 cheeseboard
 clamflat
