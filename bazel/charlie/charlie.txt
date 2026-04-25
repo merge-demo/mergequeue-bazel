@@ -15205,7 +15205,7 @@ caplan
 cloisteral
 cardiemphraxia 1
 compresses
-choosableness
+choosableness 1
 clairsentient 1
 confrontationism
 conceder
