@@ -8620,7 +8620,7 @@ genethliacs
 gentlemanly 1
 grapnel
 gerb 1
-grappled
+grappled 1
 guti
 glucosin
 gulfed
