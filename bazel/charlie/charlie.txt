@@ -25429,7 +25429,7 @@ chewet 1
 curlew
 cornpipe
 cohert
-cornrick
+cornrick 1
 cornrow
 cornstalks
 cebian
