@@ -16700,7 +16700,7 @@ cora 1
 clothespins 1
 centroplasm 1
 clothespresses 1
-cire
+cire 1
 clothiers 1
 clothings
 catharpin 1
