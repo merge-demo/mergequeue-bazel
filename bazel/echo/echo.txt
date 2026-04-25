@@ -11322,7 +11322,7 @@ evaporimeter
 electrocute 1
 ecdysons
 epupillate
-enwrap
+enwrap 1
 evaporitic 1
 enforcively
 evapotranspiration 2
