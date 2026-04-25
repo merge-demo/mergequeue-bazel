@@ -1750,7 +1750,7 @@ gloeal
 glessite 1
 goric 1
 glass
-guesses 1
+guesses 2
 gamesman
 guernseys 2
 gaullism 1
