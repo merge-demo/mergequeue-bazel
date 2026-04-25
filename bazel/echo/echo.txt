@@ -5436,7 +5436,7 @@ equid
 emigrants 1
 eightsman 1
 example 1
-elsewhither
+elsewhither 1
 electronvolt 2
 endowment
 ectene 1
