@@ -6876,7 +6876,7 @@ educability 1
 entomologist
 entomologize 1
 entrap
-entomologized
+entomologized 1
 enstatolite
 exaugurate
 euryalidan
