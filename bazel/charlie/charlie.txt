@@ -18546,7 +18546,7 @@ clypeole
 coif
 coiffe 1
 coiffed
-caustics
+caustics 1
 clavers
 coiffeur
 coiffeurs
