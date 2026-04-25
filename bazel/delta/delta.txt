@@ -4878,7 +4878,7 @@ demonists
 disquarter
 demonized 1
 dobe
-demonizes
+demonizes 1
 demandative
 demonizing
 drame
