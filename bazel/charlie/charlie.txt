@@ -26215,7 +26215,7 @@ conidiophore 1
 caramelised
 cosponsoring
 cosponsors
-cossack
+cossack 1
 cessant
 coequality
 conform
