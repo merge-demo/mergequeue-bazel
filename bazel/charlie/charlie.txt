@@ -19483,7 +19483,7 @@ colourifics
 cisterna
 crociary
 corposant
-colourist
+colourist 1
 colourless 1
 ceruleum
 colourman
