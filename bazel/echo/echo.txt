@@ -7296,7 +7296,7 @@ establisher
 epa 1
 equiatomic 1
 efferous
-explodent
+explodent 1
 exoascaceae
 ejicient 1
 enclitics
