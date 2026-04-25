@@ -8882,7 +8882,7 @@ fibrousness 1
 foul 1
 fogger 1
 finesse 1
-foulder
+foulder 1
 fiberizer
 flatteners
 fouled 1
