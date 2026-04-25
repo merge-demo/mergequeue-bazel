@@ -2038,7 +2038,7 @@ fourpounder 1
 ferngrower
 frontspiece
 feinter
-feudary
+feudary 1
 fundi 1
 facedown 1
 faucalize

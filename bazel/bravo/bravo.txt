@@ -7802,7 +7802,7 @@ biaxiality 1
 birdseyes
 beshrouds
 brooklyn
-bazaars
+bazaars 1
 bicephalous
 bogman 1
 biface 1
