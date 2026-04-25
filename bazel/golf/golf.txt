@@ -6578,7 +6578,7 @@ grappas
 glottalization 1
 ground 1
 grabblers
-gesture 2
+gesture 3
 gambeson
 grummets 1
 girons
