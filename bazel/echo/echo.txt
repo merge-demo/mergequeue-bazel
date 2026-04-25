@@ -11823,7 +11823,7 @@ euglenida
 ectothermic 1
 exists
 exauthorate 1
-exauthorizeexc
+exauthorizeexc 1
 exceptio
 epileptics
 eplot
