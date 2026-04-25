@@ -27492,7 +27492,7 @@ covary
 chelicerae
 curtailer
 covariable
-chumpiness
+chumpiness 1
 cathartical
 cheongsam
 coal
