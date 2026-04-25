@@ -24456,7 +24456,7 @@ autotimer
 autotypography
 autotomise 1
 armbands
-adoptively
+adoptively 1
 archaeologists
 absorptions
 autotomize
