@@ -4020,7 +4020,7 @@ failingly
 ferison
 flushy
 furrow 2
-fabricated
+fabricated 1
 filmlike
 festin 3
 fluoaluminic
