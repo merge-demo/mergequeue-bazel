@@ -2913,7 +2913,7 @@ excitation
 emplaning
 elevons 1
 eurydice
-elf
+elf 1
 elfenfolk 1
 endogeny 3
 elfinwood
