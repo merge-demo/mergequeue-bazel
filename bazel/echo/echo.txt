@@ -1115,7 +1115,7 @@ epeisodion 1
 esterification 2
 elatrometer
 electrotypes
-epicaridea
+epicaridea 1
 edith
 epitrichial
 exsanguinated
