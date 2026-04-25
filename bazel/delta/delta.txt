@@ -6219,7 +6219,7 @@ dawed 1
 derma
 depleted
 damascened
-digametic
+digametic 1
 dermabrasion
 dithyramb
 degrades
