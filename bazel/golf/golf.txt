@@ -2743,7 +2743,7 @@ gristmiller
 gliadins 2
 guillotine
 gader
-gunboats
+gunboats 1
 gaedelian 1
 grooms 1
 genoise 2
