@@ -6303,7 +6303,7 @@ bonum 1
 benzalazine
 bakupari
 benzaldehyde
-beneficential
+beneficential 1
 bandeaus
 beedom
 backswept
