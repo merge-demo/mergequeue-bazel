@@ -6529,7 +6529,7 @@ browis
 berakah 1
 breadstuff
 bosnisch
-bewelcome
+bewelcome 1
 bavarois
 beaming
 blameable
