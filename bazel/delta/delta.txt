@@ -5687,7 +5687,7 @@ devests 1
 dipl 1
 disrobe
 dentelliere 1
-dawdled
+dawdled 1
 dolorousness 1
 drumler
 deplant
