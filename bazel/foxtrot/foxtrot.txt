@@ -4480,7 +4480,7 @@ finicism
 forerigging 1
 footstool
 fishskin
-formidable
+formidable 1
 frouzier
 frankenia 2
 flattercap
