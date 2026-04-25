@@ -2556,7 +2556,7 @@ glen
 gumption 1
 gingle 1
 grue
-generations 2
+generations 3
 gastrula
 gobangs 1
 ganch 1
