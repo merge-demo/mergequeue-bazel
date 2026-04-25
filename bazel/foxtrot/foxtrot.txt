@@ -5431,7 +5431,7 @@ finnip
 fleecy 1
 flyblown 1
 forager 1
-fashion
+fashion 1
 frolickly
 forseek
 fitchery
