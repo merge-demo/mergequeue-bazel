@@ -5477,7 +5477,7 @@ frillers
 flensers
 fallation
 fidelities 1
-feignedness
+feignedness 1
 feus
 farouk
 foolscap 1
