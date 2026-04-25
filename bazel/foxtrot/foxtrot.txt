@@ -10677,7 +10677,7 @@ fg
 foreset
 foresheets 1
 fleuretty
-fortuneless 1
+fortuneless 2
 fringilla
 fecks
 formularising
