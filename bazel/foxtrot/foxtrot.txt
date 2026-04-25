@@ -6495,7 +6495,7 @@ filiciform 2
 fondnesses 1
 fario 3
 factionist 1
-fluxes
+fluxes 1
 floody
 flustrated
 footages
