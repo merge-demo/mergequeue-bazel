@@ -749,7 +749,7 @@ flurries 1
 faraday 1
 fibrilliferous
 fanatism 2
-fabricating
+fabricating 1
 farcilite 2
 flybelt 1
 frozenness 1
