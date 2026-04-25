@@ -14957,7 +14957,7 @@ contorsion
 chlorpropamide 1
 chromoplasm
 counterparallel
-crossjack
+crossjack 1
 citreous
 citric
 citril 1
