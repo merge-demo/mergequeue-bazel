@@ -8032,7 +8032,7 @@ gettering
 gustable 1
 greekess
 gentilize 2
-gabby
+gabby 1
 grayer
 goatbeard 3
 graphologist
