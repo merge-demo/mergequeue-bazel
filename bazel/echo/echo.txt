@@ -10541,7 +10541,7 @@ eucharists
 epimeral
 entrymen
 eucharitidae
-expenses
+expenses 1
 ephebeubea
 expiscator
 epitoxoid
