@@ -5374,7 +5374,7 @@ enarme 1
 endosteomata
 enwingly
 excarnate
-endeavoring
+endeavoring 1
 enmagazine
 epanody 1
 endothecal
