@@ -9330,7 +9330,7 @@ erugo
 encrusted
 erugos 2
 escapage 1
-eruptible
+eruptible 1
 eruption
 eruptional
 establishing
