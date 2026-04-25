@@ -5159,7 +5159,7 @@ endocrines
 endocrinic
 existentialistic
 enterocoel
-emergencies
+emergencies 1
 entogenous
 enteroptotic
 extrudability 1
