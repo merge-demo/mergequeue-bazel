@@ -2108,7 +2108,7 @@ blanca 2
 bosch
 brouillon
 barring
-borofluoride
+borofluoride 1
 bantayan
 buckshots 1
 bidstand
