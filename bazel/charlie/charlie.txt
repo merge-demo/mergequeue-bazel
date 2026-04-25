@@ -9213,7 +9213,7 @@ chastiment
 chastise
 chastiser
 consulships
-clapperboard
+clapperboard 1
 cheering
 corf 1
 chastity 1
