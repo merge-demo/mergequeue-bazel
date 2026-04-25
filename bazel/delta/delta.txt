@@ -640,7 +640,7 @@ dextroversion
 dinoflagellata
 deploitation
 damnify 1
-dearth
+dearth 1
 damnificatus
 disoccupation 1
 debarration
