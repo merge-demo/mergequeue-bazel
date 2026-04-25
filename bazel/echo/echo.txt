@@ -103,7 +103,7 @@ enchisel 2
 enmarble 1
 earreach 1
 engineership 2
-extraught
+extraught 1
 enamoured
 eusteles
 earrings
