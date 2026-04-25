@@ -5087,7 +5087,7 @@ chemoprophylaxis
 cascable
 cascadable 1
 cascade
-crankous
+crankous 1
 coupes 3
 crotaline
 cavae
