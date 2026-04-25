@@ -2688,7 +2688,7 @@ exports
 eogaean
 enfant
 extendibility
-eudaemonics
+eudaemonics 1
 engenderment
 electrotelegraphy 1
 exhort
