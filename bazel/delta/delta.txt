@@ -12250,7 +12250,7 @@ descartes
 deliberativeness 1
 dossiere
 demoniacism
-drubbing
+drubbing 1
 desegregate
 dysadaptation 1
 demoralizing
