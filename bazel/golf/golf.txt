@@ -3531,7 +3531,7 @@ getpenny
 gibberish
 greaselessness
 gatewayman 2
-gaunter
+gaunter 1
 gracile
 gawish 3
 garotting
