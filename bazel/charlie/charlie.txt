@@ -2284,7 +2284,7 @@ celtdom
 coquina
 conceivers
 canafistola
-canafistolo
+canafistolo 1
 canafistula
 canafistulo
 chlorapatite
