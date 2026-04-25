@@ -7371,7 +7371,7 @@ globated
 gramas 2
 granulosis
 gamming
-gullishness
+gullishness 1
 glisky
 gardenful 2
 gossipped
