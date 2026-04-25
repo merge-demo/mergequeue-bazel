@@ -10257,7 +10257,7 @@ felons
 frolic 1
 felstone 3
 fluidglycerate
-franklinism
+franklinism 1
 forensics
 fostership
 fistulatome 1
