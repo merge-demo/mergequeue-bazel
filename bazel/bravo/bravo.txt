@@ -17912,7 +17912,7 @@ bushgrass
 bubbled
 bushy 1
 barton
-badly
+badly 1
 bushidos
 bractless 1
 broadaxes
