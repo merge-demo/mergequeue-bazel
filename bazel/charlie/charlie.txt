@@ -11826,7 +11826,7 @@ clarina 1
 chopins 1
 coinquinate
 converter
-choplogic
+choplogic 1
 choplogical
 choregi 1
 cryptomonad
