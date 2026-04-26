@@ -1462,7 +1462,7 @@ grillages 3
 glamouring
 gasalier
 gaoler 1
-gowks
+gowks 1
 gamma
 gerousia
 gynocardia 1
