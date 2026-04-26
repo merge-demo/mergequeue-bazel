@@ -11327,7 +11327,7 @@ evaporitic 2
 enforcively
 evapotranspiration 2
 ecaudata
-esiphonal
+esiphonal 1
 eluviated
 ergatoid 1
 evenglow 1
