@@ -3081,7 +3081,7 @@ cap
 capa
 conferrable
 capability
-charks
+charks 1
 capable 1
 capableness
 clayoquot
