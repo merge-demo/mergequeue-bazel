@@ -22655,7 +22655,7 @@ atheneum 2
 atheneums 1
 ait 1
 arteriotome
-aerates
+aerates 1
 athenor
 abdominohysterotomy 1
 athericera
