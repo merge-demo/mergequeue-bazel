@@ -5371,7 +5371,7 @@ endocline 1
 epicrystalline
 encoring
 enarme 1
-endosteomata
+endosteomata 1
 enwingly
 excarnate
 endeavoring 1
