@@ -5035,7 +5035,7 @@ flipping
 flatbeds 1
 flanneling
 fungoidal
-forepaw 1
+forepaw 2
 ferries 1
 fizz 1
 forekeel
