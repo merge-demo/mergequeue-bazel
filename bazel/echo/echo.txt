@@ -4295,7 +4295,7 @@ enlay 1
 enamellers 2
 epicenes
 escarpments 1
-ectogenous
+ectogenous 1
 engs
 enhydra
 ethnobiological
