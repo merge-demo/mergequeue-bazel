@@ -28680,7 +28680,7 @@ contaminates 1
 constitutes
 corone
 crenelations
-coplanar
+coplanar 1
 convergently
 cannophori
 crenelee
