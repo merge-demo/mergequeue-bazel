@@ -2617,7 +2617,7 @@ acquire 1
 antescript
 asiden
 acquisite
-arricciati
+arricciati 1
 appraiser 1
 alferes 2
 amidase 1
