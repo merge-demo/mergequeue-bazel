@@ -9038,7 +9038,7 @@ entria
 ephesine 1
 emlen
 endothermic
-exocyclic
+exocyclic 1
 equiglacial
 episcenium
 empyreans
