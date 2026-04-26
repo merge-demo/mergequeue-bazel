@@ -6914,7 +6914,7 @@ airspace 1
 antisepticized
 airspaces 1
 ancience
-anterin
+anterin 1
 alec
 airspeeds
 az 1
