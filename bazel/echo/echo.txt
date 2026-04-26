@@ -1796,7 +1796,7 @@ enable
 estimates 1
 entresse
 eocene
-elliott
+elliott 1
 earplugs
 excrement
 embrutes
