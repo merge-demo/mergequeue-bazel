@@ -5479,7 +5479,7 @@ fallation
 fidelities 1
 feignedness 1
 feus
-farouk
+farouk 1
 foolscap 1
 furunculoid
 flesh 1
