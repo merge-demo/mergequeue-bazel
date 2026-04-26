@@ -10617,7 +10617,7 @@ guildite 2
 gunpoints 1
 gloomiest 1
 ghoul 1
-gunpower
+gunpower 1
 gasping 2
 gentled 2
 gourmandise
