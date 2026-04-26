@@ -17286,7 +17286,7 @@ aportlast
 aposaturnium
 aposia
 aposiopesis
-aposiopetic
+aposiopetic 1
 americanize
 arbalest
 acataposis
