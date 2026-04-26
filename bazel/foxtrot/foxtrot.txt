@@ -3831,7 +3831,7 @@ furnitureless 2
 foreflap 1
 filterableness 1
 facette
-fairyism
+fairyism 1
 fluoridisation
 flebotomy
 forestaves
