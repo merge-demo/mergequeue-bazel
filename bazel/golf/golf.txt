@@ -7162,7 +7162,7 @@ geometrise
 guans 1
 gaffs 1
 glycid 1
-gauming
+gauming 1
 gross
 glycolylurea 1
 genecor
