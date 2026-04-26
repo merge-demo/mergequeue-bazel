@@ -20297,7 +20297,7 @@ command
 communicatory 1
 communicators
 communionable
-cornrows
+cornrows 1
 caracoled 1
 contubernium 1
 chittamwood
