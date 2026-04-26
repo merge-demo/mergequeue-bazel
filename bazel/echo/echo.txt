@@ -7876,7 +7876,7 @@ endonuclease
 epilimnia
 epigrams
 entozoan
-epiguanine
+epiguanine 1
 elementate 1
 enablement 1
 eireannach
