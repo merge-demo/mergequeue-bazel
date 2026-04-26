@@ -3084,7 +3084,7 @@ equated
 excreters 1
 eardrop
 ellfish 1
-exor 2
+exor 3
 esthetes
 endarterium
 entellus
