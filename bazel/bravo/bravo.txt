@@ -4605,7 +4605,7 @@ bedtick
 bedchair 1
 butterine
 bedchairs
-buffers
+buffers 1
 bellowing
 buntal
 brachelytrous
