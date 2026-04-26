@@ -5014,7 +5014,7 @@ accentuable
 avigate
 abv 1
 aerophysics
-areolation
+areolation 1
 apologising
 alkylogen
 anile
