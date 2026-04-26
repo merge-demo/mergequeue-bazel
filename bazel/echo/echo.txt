@@ -7447,7 +7447,7 @@ elenctic
 escapers 1
 entanglement
 endogenously
-extraperiodic
+extraperiodic 1
 extracurricular
 exercise 1
 elohimic 1
