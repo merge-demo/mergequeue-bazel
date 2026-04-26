@@ -19715,7 +19715,7 @@ cloots
 combinations
 cells
 combinative
-counterrotating
+counterrotating 1
 combinator
 combinatory
 combinatorial 1
