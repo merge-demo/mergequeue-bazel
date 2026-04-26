@@ -7564,7 +7564,7 @@ beneficent
 beweeps 1
 bombilate
 bastardize
-bloodripe
+bloodripe 1
 begiggle
 barnacle
 bewhisker 1
