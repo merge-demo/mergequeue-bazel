@@ -2722,7 +2722,7 @@ goofier
 gravitons 1
 gusle
 grith 2
-gemmoid
+gemmoid 1
 genit 2
 gnatho
 groundmass 1
