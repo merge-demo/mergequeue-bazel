@@ -20810,7 +20810,7 @@ artotype
 annotation
 asqueal
 acolhua
-applicate
+applicate 1
 aligners
 artworks 1
 adeodatus
