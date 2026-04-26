@@ -13029,7 +13029,7 @@ entocornea 1
 ergotic 2
 estafette
 electrocauteries 1
-ethos
+ethos 1
 elites
 engrapple
 enhazard
