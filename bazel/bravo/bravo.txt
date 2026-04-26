@@ -3041,7 +3041,7 @@ banish 2
 beetmister
 bliest 1
 burlesks
-balsaming
+balsaming 1
 brigantine
 baruch
 bitten
