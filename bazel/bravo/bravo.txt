@@ -17619,7 +17619,7 @@ bulldozes
 backster
 belduque
 barricadoing
-burglarproofs
+burglarproofs 1
 burglars 1
 basote
 breath
