@@ -7253,7 +7253,7 @@ dimetric
 detenue 2
 decussorium 1
 desulfurize
-detenues
+detenues 1
 dephlegmator
 deter 1
 deterged
