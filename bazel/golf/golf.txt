@@ -8232,7 +8232,7 @@ gansel 1
 gerontotherapies 1
 grisard
 graphitize 2
-gastrotubotomy
+gastrotubotomy 1
 glacioaqueous 1
 goldbug
 graphitizing
