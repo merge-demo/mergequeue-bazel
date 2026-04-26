@@ -5729,7 +5729,7 @@ feculent
 ferulas 2
 frontis
 farced
-ferule
+ferule 1
 fleuronnee
 fungous
 fuzzball
