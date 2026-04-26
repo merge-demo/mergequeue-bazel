@@ -18041,7 +18041,7 @@ aproctous 1
 aproneer
 apronstring
 alanins
-anhidrosis
+anhidrosis 1
 adminicle
 adular
 amphigenetic
