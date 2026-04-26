@@ -16691,7 +16691,7 @@ clotheslines
 clothesman
 crypts
 cheerful
-carbamoyl
+carbamoyl 1
 catchingness 2
 cosuitor
 culla
