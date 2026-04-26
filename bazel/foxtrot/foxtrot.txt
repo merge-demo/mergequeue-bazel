@@ -5851,7 +5851,7 @@ flidge
 fitz
 farine 1
 fertilisable
-fowling 1
+fowling 2
 factorially 1
 floristic
 floatsmen
