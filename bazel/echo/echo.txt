@@ -8277,7 +8277,7 @@ escapado
 epitoke
 erratums 1
 endolaryngeal 2
-endplay
+endplay 1
 epitheliomatous
 epitaphian 1
 ejection 2
