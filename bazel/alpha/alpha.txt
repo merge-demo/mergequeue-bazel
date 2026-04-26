@@ -10882,7 +10882,7 @@ anaglyphy
 ammonoids 1
 ammonolitic
 assemblage
-archeological
+archeological 1
 ammonolytic
 aitches 2
 anticult
