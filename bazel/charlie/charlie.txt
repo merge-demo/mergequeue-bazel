@@ -3530,7 +3530,7 @@ captaincies
 caprioled
 captainry
 captainship
-counterpetition
+counterpetition 1
 communistically
 chaotically
 chemicked
