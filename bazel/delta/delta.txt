@@ -4010,7 +4010,7 @@ doorsill
 delegates
 delegateship
 dermographism 1
-digressiveness
+digressiveness 1
 dibasicity 1
 dialing
 dipteros 1
