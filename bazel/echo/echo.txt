@@ -5881,7 +5881,7 @@ extravagence
 engraver 1
 expalpate 1
 entree
-engysseismology
+engysseismology 1
 ethiops 2
 episyntheton 1
 estamp
