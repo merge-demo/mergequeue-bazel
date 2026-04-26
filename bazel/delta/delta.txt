@@ -7074,7 +7074,7 @@ dolts
 deposits
 destigmatization
 destigmatizing
-destination
+destination 1
 dunelands 1
 disallowed
 destines 1
