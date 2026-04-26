@@ -5356,7 +5356,7 @@ afformative
 abuseful
 affrayers 1
 affraying
-affrays
+affrays 1
 admeasured
 affranchise
 adiadokokinesi
