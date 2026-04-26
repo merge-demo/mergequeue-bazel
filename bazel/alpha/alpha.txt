@@ -17924,7 +17924,7 @@ aristodemocracy
 anthracotheriidae
 approachable 1
 approached
-administration
+administration 1
 amphirhine
 amblypod
 aliesterase
