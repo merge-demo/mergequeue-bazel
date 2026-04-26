@@ -334,7 +334,7 @@ guarantee
 gravigrada 1
 galactolipide
 graveship
-galactometer 1
+galactometer 2
 gorling 2
 gaussian
 grilses
