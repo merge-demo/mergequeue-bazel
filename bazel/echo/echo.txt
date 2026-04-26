@@ -2351,7 +2351,7 @@ enclear
 ever
 electrocardiographic 1
 euphuistic
-explorational
+explorational 1
 entocele
 explosive
 electrochemistry
