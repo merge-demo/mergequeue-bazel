@@ -5935,7 +5935,7 @@ dunniewassel
 diversifications
 densifier
 drew
-depressurize
+depressurize 1
 disentraced 1
 dere 1
 defeatee
