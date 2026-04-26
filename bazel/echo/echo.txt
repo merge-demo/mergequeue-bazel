@@ -11182,7 +11182,7 @@ embottle
 electragist 2
 enviroment
 exonuclease 1
-endospermic 1
+endospermic 2
 evaluated
 ecumenicist
 ethereal
