@@ -3329,7 +3329,7 @@ beings 1
 bandurria
 basketmaking
 bonnets 1
-barnacling
+barnacling 1
 batikuling 2
 basketware
 bluecoat 1
