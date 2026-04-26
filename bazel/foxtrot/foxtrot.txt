@@ -5432,7 +5432,7 @@ fleecy 1
 flyblown 1
 forager 1
 fashion 1
-frolickly
+frolickly 1
 forseek
 fitchery
 fusobteria
