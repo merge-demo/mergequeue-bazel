@@ -9057,7 +9057,7 @@ foreparents 1
 fleetwing 1
 frap
 feruling 1
-frasco
+frasco 1
 foxbane
 foxberry
 falcular
