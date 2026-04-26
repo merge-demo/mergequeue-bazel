@@ -12440,7 +12440,7 @@ deresinize
 dishonoring
 detestability 1
 discontentful
-dishonors
+dishonors 1
 decerned 1
 desulfurate
 dishorn
