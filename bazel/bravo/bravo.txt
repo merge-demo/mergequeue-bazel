@@ -4017,7 +4017,7 @@ boilermaking
 butcheries 2
 brevier
 beaked
-beakerman
+beakerman 1
 bellite
 beakermen
 bacitracin
