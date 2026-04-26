@@ -3981,7 +3981,7 @@ grex 1
 gluttonousness 2
 graphometrical 2
 grillework
-groaner
+groaner 1
 graduated 1
 gastroatrophia
 geoscientist
