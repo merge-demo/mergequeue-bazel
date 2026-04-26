@@ -5829,7 +5829,7 @@ buildress
 boxcar
 bullsnake 1
 berseem 1
-bittock
+bittock 1
 bribeworthy
 baigneuse
 bengaline
