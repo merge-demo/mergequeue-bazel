@@ -12961,7 +12961,7 @@ collects
 casel
 circumhorizontal
 catamenial
-continentality
+continentality 1
 cyanides
 cyanidrosis
 clothes
