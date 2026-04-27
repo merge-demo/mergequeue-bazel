@@ -9342,7 +9342,7 @@ eruptiveness
 endear
 earable 2
 eruptivity 1
-echinuliform
+echinuliform 1
 effierce
 esbatement
 exercite
