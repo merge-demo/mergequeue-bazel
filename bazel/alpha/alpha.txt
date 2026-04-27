@@ -1352,7 +1352,7 @@ aumbries
 accelerometer
 accelerometers
 anticatholic
-anapaestical
+anapaestical 1
 anticnemion
 airtightly 1
 awingly
