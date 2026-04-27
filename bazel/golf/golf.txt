@@ -8983,7 +8983,7 @@ giveaway
 gumbolike 1
 glaucopis 1
 grievable
-grievance
+grievance 1
 gantlines 1
 grievances
 grievous
