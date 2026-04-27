@@ -12425,7 +12425,7 @@ bushiness
 bureaux
 banisterine
 bond
-bipinnatifid 1
+bipinnatifid 2
 bless 2
 bondar 1
 bockerel
