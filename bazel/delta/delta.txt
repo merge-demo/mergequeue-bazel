@@ -8930,7 +8930,7 @@ dully
 divinyl
 dichloramine 1
 dichloride
-dichloroacetic
+dichloroacetic 1
 dichlorodifluoromethane 1
 domiciling 2
 deticked 1
