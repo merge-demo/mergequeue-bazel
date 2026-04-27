@@ -8275,7 +8275,7 @@ diagnosing
 duel
 diagonals
 deducting
-diagonalwise
+diagonalwise 1
 denudate
 demonization
 diagonic
