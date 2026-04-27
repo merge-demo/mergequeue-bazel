@@ -27620,7 +27620,7 @@ cowardy
 cowardice 1
 chrobat
 cowardish
-cannibalistic
+cannibalistic 1
 chionophobia
 chuffiest
 coecum
