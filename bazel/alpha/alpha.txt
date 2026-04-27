@@ -3961,7 +3961,7 @@ amgarn
 androgyny 1
 adjutant
 anesthetic
-adjutator
+adjutator 1
 adjute 1
 aqueity
 apologer
