@@ -13322,7 +13322,7 @@ disputability
 dolichocephali
 dotters
 decident 2
-diactinal
+diactinal 1
 dariole
 drumble
 disputacity
