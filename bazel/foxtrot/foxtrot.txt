@@ -4764,7 +4764,7 @@ flagellatae
 footlike 1
 fulmination 1
 follies
-flagellations
+flagellations 1
 fieldstrip
 fingal
 footwalls
