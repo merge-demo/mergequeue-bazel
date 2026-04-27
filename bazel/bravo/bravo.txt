@@ -8667,7 +8667,7 @@ bournless
 bimanually 2
 breechloading 1
 basaltes
-buttermouth
+buttermouth 1
 broom
 barbadoes
 bourbonist
