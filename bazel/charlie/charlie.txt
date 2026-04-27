@@ -10607,7 +10607,7 @@ campanology
 colleterium
 chilomastix
 chylomicron
-chylopericardium
+chylopericardium 1
 chylophylly 2
 chylophyllous 1
 celestas
