@@ -11825,7 +11825,7 @@ bard
 briareus 1
 browbeater
 bootlegging
-banking
+banking 1
 bodybuilding 1
 budgerigar
 bodice
