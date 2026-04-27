@@ -8914,7 +8914,7 @@ founded 1
 foutra
 freewoman
 frederick
-foundered
+foundered 1
 fokker
 finial 2
 fantastico 1
