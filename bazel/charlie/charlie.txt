@@ -4700,7 +4700,7 @@ carpenters
 charlock
 carpet
 carpetbag
-carpetbagger 1
+carpetbagger 2
 carpetbaggery
 chantage
 conchometry
