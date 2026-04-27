@@ -24195,7 +24195,7 @@ autolatry 1
 aguara
 artemia
 antherless
-autolithograph
+autolithograph 1
 autoinfection
 alnein
 autolyzate
