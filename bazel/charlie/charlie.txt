@@ -3015,7 +3015,7 @@ cantonal
 cantonalism
 crapelike 1
 cantoner 2
-cowleeching
+cowleeching 1
 cellocut
 cantoning
 cantonize
