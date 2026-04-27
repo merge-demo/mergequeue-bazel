@@ -12058,7 +12058,7 @@ creatively
 coll 1
 cymbalo 1
 cerfoil
-clansman
+clansman 1
 casula
 carpophalangeal
 chose
