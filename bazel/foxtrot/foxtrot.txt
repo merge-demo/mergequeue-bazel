@@ -9390,7 +9390,7 @@ firkins
 flatways 1
 fecal
 fileted
-facing
+facing 1
 fettler
 foxholes 1
 foreweigh 1
