@@ -14029,7 +14029,7 @@ cyprididae
 cypridina 1
 caucasoid
 contraregular
-cyprina
+cyprina 1
 cyprinid
 cheiromancy
 cyprinids
