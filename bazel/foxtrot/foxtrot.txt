@@ -10048,7 +10048,7 @@ foeish 1
 fleshling
 fibrosis 2
 fablemonger
-fait
+fait 1
 flabbiest
 feloniously 1
 familistical
