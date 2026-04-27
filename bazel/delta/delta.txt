@@ -3344,7 +3344,7 @@ deergrass 2
 definitiones 1
 disregards 1
 definitions
-dormant
+dormant 1
 dilatant
 deliriate
 diastem
