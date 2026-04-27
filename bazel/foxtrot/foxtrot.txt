@@ -9745,7 +9745,7 @@ foredays
 fabrics 2
 figurability
 factored 1
-fridges
+fridges 1
 frequenters 1
 ferijee 4
 frequentest
