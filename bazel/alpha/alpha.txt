@@ -18249,7 +18249,7 @@ alsoon
 arabians
 armor
 andarko
-amity
+amity 1
 arabica
 aerogel
 accentuator 1
