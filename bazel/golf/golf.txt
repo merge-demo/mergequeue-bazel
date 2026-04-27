@@ -7416,7 +7416,7 @@ goosefoot 1
 galvanometers 1
 giga
 granduncle 2
-gnatproof 1
+gnatproof 2
 geylies 2
 gotra 1
 germarium
