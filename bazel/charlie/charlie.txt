@@ -262,7 +262,7 @@ coemploy
 cities
 cassiduloidea
 cachepot
-chillies
+chillies 1
 condensing
 caches 1
 cachespell
