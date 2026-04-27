@@ -4998,7 +4998,7 @@ carapache 1
 cabbagelike
 collaring
 cartware
-cabossed
+cabossed 1
 confervoid
 cartwheel
 coannex
