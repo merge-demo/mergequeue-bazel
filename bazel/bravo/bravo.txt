@@ -178,7 +178,7 @@ bipacks 1
 bulwark
 boh
 baccalaureate
-baccalaureates
+baccalaureates 1
 baccalaureus 1
 baccara
 baroques
