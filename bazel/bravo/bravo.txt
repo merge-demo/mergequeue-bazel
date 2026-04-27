@@ -2658,7 +2658,7 @@ bable
 bribeable
 barling
 bluestone 1
-bertholletia 1
+bertholletia 2
 barghest
 breechloader 1
 brugh
