@@ -18071,7 +18071,7 @@ blenny
 bloom
 banzais
 busts
-busulfans
+busulfans 1
 bughouse 2
 buroo 1
 burbliest
