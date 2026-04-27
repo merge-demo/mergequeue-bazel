@@ -11623,7 +11623,7 @@ fylgja
 fosite
 funestal 1
 finestiller
-forehew 1
+forehew 2
 fustigatory 1
 fumy
 friendship
