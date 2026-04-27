@@ -11057,7 +11057,7 @@ estoc 1
 encomimia
 exuberating
 emporial
-elegit
+elegit 1
 electrostereotype
 europium
 expressionistically
