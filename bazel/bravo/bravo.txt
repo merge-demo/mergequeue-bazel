@@ -17680,7 +17680,7 @@ brodyaga
 balancement 2
 bevomits
 birgus
-bordage
+bordage 1
 blackfin 1
 blueings
 bonuses
