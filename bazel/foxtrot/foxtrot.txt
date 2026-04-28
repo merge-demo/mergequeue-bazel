@@ -11476,7 +11476,7 @@ fairleader 2
 froggery
 formular
 fuzzle
-foothill
+foothill 1
 ferrite
 foredescribe
 farms 2
