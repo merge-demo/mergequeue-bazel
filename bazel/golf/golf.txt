@@ -635,7 +635,7 @@ gramineal
 geodetic
 grottowork 2
 gardencraft
-gallomaniac
+gallomaniac 1
 gallon
 gonapophysis 1
 gush
