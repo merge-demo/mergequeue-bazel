@@ -2976,7 +2976,7 @@ frankensteins
 fiberize
 fewest 4
 fluke
-fissiparity
+fissiparity 1
 fading 1
 fewterer 1
 francophil
