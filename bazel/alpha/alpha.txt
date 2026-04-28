@@ -14487,7 +14487,7 @@ automaton
 anthropocentric
 absvolt 1
 acetaldehydase
-almoign
+almoign 1
 anthropodeoxycholic
 achenium
 anthropogenic 1
