@@ -4344,7 +4344,7 @@ emit 1
 edibles 1
 enami
 estranging 1
-enamorado 1
+enamorado 2
 enamorato 1
 endleaves
 extraordinariness
