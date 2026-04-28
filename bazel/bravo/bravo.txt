@@ -9577,7 +9577,7 @@ biscutate
 bisdiapason 1
 binary 1
 bicapsular 1
-bandlimits
+bandlimits 1
 bisectors
 bisectrices
 busybodyness
