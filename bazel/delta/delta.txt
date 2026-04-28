@@ -16737,7 +16737,7 @@ disjoin
 dyscratic
 draperied
 downline
-drapetomania
+drapetomania 1
 draping 1
 diswood 1
 drastic
