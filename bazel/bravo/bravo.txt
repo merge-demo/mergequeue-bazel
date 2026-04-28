@@ -1839,7 +1839,7 @@ barkinji
 bandfile
 bandh 2
 burdon
-brownism
+brownism 1
 brython
 birken
 bandhook
