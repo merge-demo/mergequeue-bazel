@@ -28309,7 +28309,7 @@ confederation
 cratometer
 cratometry
 carobs
-cumberment
+cumberment 1
 cratons
 craunches
 conilurus
