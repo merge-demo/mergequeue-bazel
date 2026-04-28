@@ -1335,7 +1335,7 @@ brod 1
 botrylle 3
 backdrops
 borderlands
-balbusard
+balbusard 1
 beggarliness
 burlap
 brayed
