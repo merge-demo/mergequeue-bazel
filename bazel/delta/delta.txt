@@ -4016,7 +4016,7 @@ dialing
 dipteros 1
 dirten 1
 delegations
-delegator
+delegator 1
 discomposedly
 drenchingly
 delesseriaceous 1
