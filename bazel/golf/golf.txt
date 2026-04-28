@@ -8444,7 +8444,7 @@ grapestone 1
 gigas 1
 gravelroot
 gallstones
-gentisic
+gentisic 1
 goldbricks
 glaciarium
 goonch
