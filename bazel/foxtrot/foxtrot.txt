@@ -5683,7 +5683,7 @@ fiddlestring
 flings 1
 freestyle
 fishwife
-flinkite
+flinkite 1
 flint 1
 fluffer
 ferratin
