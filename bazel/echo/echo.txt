@@ -5252,7 +5252,7 @@ encinder 3
 endoparasitica
 etiotropically
 endopathic 2
-endopelvic
+endopelvic 1
 encyclopaedist
 endoperidium
 epoptes
