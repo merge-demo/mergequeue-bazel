@@ -19941,7 +19941,7 @@ armour
 armourbearer 2
 anaematosis 1
 aristogenics
-avalanched
+avalanched 1
 arbitrageur
 aesture
 adossed
