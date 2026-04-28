@@ -26381,7 +26381,7 @@ clubbable
 cozeiest
 circumsaturnian
 continuous
-cotenancy
+cotenancy 1
 cotenant 1
 cotenants
 chrismatories
