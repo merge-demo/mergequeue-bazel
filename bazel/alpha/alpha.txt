@@ -16330,7 +16330,7 @@ artophoria 1
 antituberculotic
 anticholagogue
 antitumoral
-affray
+affray 1
 amphoriloquy
 anchistea
 autonomist
