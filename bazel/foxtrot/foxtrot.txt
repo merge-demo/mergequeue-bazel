@@ -3643,7 +3643,7 @@ frisbees 1
 flook 1
 farmable 1
 fridstool 1
-frictionlessly
+frictionlessly 1
 flashing
 faintishness
 fielder
