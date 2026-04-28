@@ -8359,7 +8359,7 @@ foveolated
 faradmeter 1
 forgot
 frontenis
-fightable
+fightable 1
 forking
 flaveria
 forkless 2
