@@ -3713,7 +3713,7 @@ battledores 1
 bywork
 baldly 1
 barotraumata
-bronteon
+bronteon 1
 battlefronts
 bringall 1
 brucella
