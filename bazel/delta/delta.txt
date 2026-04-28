@@ -2494,7 +2494,7 @@ dirigent 1
 deckhand
 dovekies 1
 duckwing
-deckle
+deckle 1
 dulls
 diatropism
 deferral 3
