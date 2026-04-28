@@ -8658,7 +8658,7 @@ chansonette
 commissionaire
 chansonnette 1
 cedarwood
-chansonniers
+chansonniers 1
 chantey
 counterlighted
 corrigiolaceae 2
