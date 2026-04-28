@@ -2014,7 +2014,7 @@ beflecking 1
 bank 1
 bankalachi 1
 beshivers
-bidactyl
+bidactyl 1
 bloodstones
 bankcard
 bethought
