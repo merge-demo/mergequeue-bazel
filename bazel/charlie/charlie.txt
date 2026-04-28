@@ -4006,7 +4006,7 @@ carcinogenic
 carcinoid
 compartmental
 crystalloluminescence
-carcinolysin
+carcinolysin 1
 cycadiform
 carcinological 1
 carcinoma
