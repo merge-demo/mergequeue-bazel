@@ -2377,7 +2377,7 @@ bardcraft
 beleve
 buckhorn 1
 brabant
-brigandishly
+brigandishly 1
 branchling 1
 bobtails
 bardess
