@@ -3210,7 +3210,7 @@ clunks
 cosmoid
 caducicorn
 cattle
-coquet
+coquet 1
 concatenations
 cellvibrio 1
 carpodacus
