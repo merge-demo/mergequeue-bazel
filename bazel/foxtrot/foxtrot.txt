@@ -3522,7 +3522,7 @@ fulgorid 1
 fusicladium
 figurer
 fute
-flyweight 1
+flyweight 2
 fleetingly 3
 fernland 2
 figures
