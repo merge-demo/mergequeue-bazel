@@ -29025,7 +29025,7 @@ countersecurity
 chesterlite
 cyanogenic
 criminalistics
-criminality
+criminality 1
 circulatory
 criminally
 comestibles
