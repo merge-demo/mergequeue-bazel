@@ -7178,7 +7178,7 @@ grabbers
 geobotanical
 graphitoid
 gnawable 1
-gloryful
+gloryful 1
 generalship
 gospoda 2
 gillotage 1
