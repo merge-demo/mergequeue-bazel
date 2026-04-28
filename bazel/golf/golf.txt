@@ -4950,7 +4950,7 @@ gladdened 1
 grouter
 greenbottle
 gestural 1
-glaives 2
+glaives 3
 get
 gent
 galangal 2
