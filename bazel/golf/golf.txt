@@ -2757,7 +2757,7 @@ gauger
 guestchamber 1
 gorraf
 gipped 1
-gallused 1
+gallused 2
 glanditerous
 gramophonist
 gonangia
