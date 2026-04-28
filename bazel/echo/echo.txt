@@ -10494,7 +10494,7 @@ equation
 embouchure
 ettercap 1
 ettirone
-escalan
+escalan 1
 ettle 1
 ecclesiolatry 1
 eucgia
