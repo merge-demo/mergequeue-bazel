@@ -9915,7 +9915,7 @@ gormandized
 gravelly
 grander 1
 grainsick
-gallop
+gallop 1
 galiots 2
 glamorizing
 groundnut 1
