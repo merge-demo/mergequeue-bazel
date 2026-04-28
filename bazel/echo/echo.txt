@@ -6460,7 +6460,7 @@ expandibility
 ensnared 1
 ensnarer
 echinostoma
-eobionts 1
+eobionts 2
 edental
 evenmete
 euctical
