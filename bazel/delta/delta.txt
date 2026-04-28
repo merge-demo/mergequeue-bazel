@@ -14299,7 +14299,7 @@ dict
 decolorized
 disbelievingly 1
 ditt 1
-device
+device 1
 drogerman
 dunter 1
 diffidation
