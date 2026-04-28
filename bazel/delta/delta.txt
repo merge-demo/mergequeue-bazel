@@ -16416,7 +16416,7 @@ doxography 2
 decolourise
 deadishness
 dozed
-dodecahedrons
+dodecahedrons 1
 dozens
 dishpan 1
 dimorphous
