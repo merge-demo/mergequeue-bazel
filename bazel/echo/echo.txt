@@ -281,7 +281,7 @@ enqueue 1
 enantioblastic
 endognath
 ectocuniform
-esquired
+esquired 1
 erik 1
 extrametropolitan 1
 effeminisation 1
