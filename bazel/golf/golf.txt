@@ -3763,7 +3763,7 @@ goggle 1
 greenfinch 2
 grumpishness
 greycoat
-giants
+giants 1
 gratifyingly
 glossology
 gentian
