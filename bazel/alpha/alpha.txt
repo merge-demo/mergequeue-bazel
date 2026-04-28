@@ -13674,7 +13674,7 @@ aerialist
 attern
 anointment 1
 anointments
-articulation
+articulation 1
 adulterer
 astrometrical
 aunt
