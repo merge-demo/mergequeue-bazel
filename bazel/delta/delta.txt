@@ -10088,7 +10088,7 @@ dynamometrical
 dodipole
 dirls
 dogfight
-dilatable 1
+dilatable 2
 dynamomorphic 1
 dislustring
 dynamophone
