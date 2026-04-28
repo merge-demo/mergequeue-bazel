@@ -1125,7 +1125,7 @@ banquets
 backwall
 borates 2
 botete 1
-bankman
+bankman 1
 bountree 1
 bairnwort 2
 baisemain
