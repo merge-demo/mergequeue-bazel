@@ -9615,7 +9615,7 @@ expertism 3
 eventlessness 1
 exceptionary
 ensearch
-esoterize
+esoterize 1
 esotropia 1
 esp
 eparchial
