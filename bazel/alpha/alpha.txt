@@ -572,7 +572,7 @@ abmodalities 1
 airscrew
 acusector
 actinulae
-apioidal
+apioidal 1
 advowry 1
 ashantee 1
 ashlers
