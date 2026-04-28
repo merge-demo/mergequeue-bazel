@@ -3607,7 +3607,7 @@ depredations
 dripping 2
 dextrogyre
 dinosauric
-dinornithiformes
+dinornithiformes 1
 degenerate
 desulphurizer
 diagrammatize 1
