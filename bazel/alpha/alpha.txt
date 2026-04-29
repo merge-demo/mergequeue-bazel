@@ -3227,7 +3227,7 @@ actuation 1
 acturience 1
 acuaesthesia
 achingly
-acuclosure
+acuclosure 1
 acuductor
 anoine
 acuities
