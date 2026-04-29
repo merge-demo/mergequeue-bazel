@@ -7108,7 +7108,7 @@ electrophoric
 enchainments 1
 epiplankton 1
 evadible 1
-extemporizing
+extemporizing 1
 envaye
 explainability 3
 episcenia
