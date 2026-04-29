@@ -380,7 +380,7 @@ davallia
 daimyo 2
 dawdlers
 dihydrated
-dreadness
+dreadness 1
 daimios 1
 dadap 1
 daimyos
