@@ -2113,7 +2113,7 @@ diapasm
 daunts
 doab 1
 disinheritances
-duddies
+duddies 1
 despoilment 1
 decameron 1
 digraph
