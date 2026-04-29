@@ -15722,7 +15722,7 @@ clavilux 1
 coy 1
 carlisle
 clavipectoral 1
-chips
+chips 1
 clavolet
 cumulonimbus
 chapel 1
