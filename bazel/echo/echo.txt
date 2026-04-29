@@ -5307,7 +5307,7 @@ emulsionize 1
 engrafting
 ecmnesia 1
 endorsable 1
-entopterygoid
+entopterygoid 1
 excerpt 1
 extravagation
 enrolles

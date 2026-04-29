@@ -7701,7 +7701,7 @@ bulbotuber
 bhaktimarga 1
 boomy
 besin
-behavioral
+behavioral 1
 bhangi
 bhara
 bharal
