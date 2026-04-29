@@ -4927,7 +4927,7 @@ ephyrula
 eyednesses
 enterocoelic
 electrodialysis 1
-endable
+endable 1
 escaroles 2
 estimating 2
 endamagement 1
