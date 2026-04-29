@@ -4258,7 +4258,7 @@ dineros
 danseuses
 deltohedron 2
 dogvanes
-delubra
+delubra 1
 deluce
 delude 1
 didunculus 1
