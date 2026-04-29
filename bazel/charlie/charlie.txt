@@ -11742,7 +11742,7 @@ coniomycetes 1
 caliphates
 chondrocoracoid 1
 consonantalizing
-chondrocostal
+chondrocostal 1
 chondrocranial
 circuitous
 chondrodystrophy
