@@ -19633,7 +19633,7 @@ colza 1
 coating
 colzas 1
 com
-coma
+coma 1
 comprobate 1
 carillon 1
 comacine
