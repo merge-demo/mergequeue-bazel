@@ -2913,7 +2913,7 @@ counteractive 1
 chonicrite
 colourableness
 cantara
-cantare
+cantare 1
 counterseal
 concaulescence
 chrysoidine
