@@ -5834,7 +5834,7 @@ dextrocerebral 1
 depositors 2
 dowel
 divestible 2
-dislimns
+dislimns 1
 dulcitol 1
 dichotomously
 deafforest 2
