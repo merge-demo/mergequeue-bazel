@@ -6755,7 +6755,7 @@ fatheaded 1
 fingerspin
 frized 1
 fleece
-feering
+feering 1
 foresworn 1
 felonweed
 foiter 1
