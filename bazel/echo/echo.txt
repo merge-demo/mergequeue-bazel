@@ -8216,7 +8216,7 @@ extinctive
 exsection 1
 empiecement
 etwas 1
-encydlopaedic
+encydlopaedic 1
 equidominant 1
 equidistantly 2
 ergophobia 2
