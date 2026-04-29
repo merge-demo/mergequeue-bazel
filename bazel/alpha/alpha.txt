@@ -3769,7 +3769,7 @@ adhesion
 adhesive
 architraved
 ananke
-arteriosclerotic
+arteriosclerotic 1
 adhesiveness
 archaizer 1
 astrogeny 1
