@@ -1543,7 +1543,7 @@ deactivate 2
 discoglossid
 distractedly
 dallies
-dicacodyl
+dicacodyl 1
 dartman
 deactivates 2
 delphinium
