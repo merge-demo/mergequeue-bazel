@@ -9618,7 +9618,7 @@ freeholdership
 feeders 1
 falcata 1
 ferias 1
-fortalice
+fortalice 1
 finalities
 flukier
 foamer
