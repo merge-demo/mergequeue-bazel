@@ -9883,7 +9883,7 @@ disangularize 1
 diphenyl 2
 dimer
 decadency
-deludable
+deludable 1
 deboner
 decolonising
 daturic 1
