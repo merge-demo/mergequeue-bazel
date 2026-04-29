@@ -11618,7 +11618,7 @@ boarwood
 boas
 boaster 1
 boastfully
-boastfulness
+boastfulness 1
 bacchus
 boasts 1
 bryologist
