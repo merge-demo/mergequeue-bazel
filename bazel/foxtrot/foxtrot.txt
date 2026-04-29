@@ -2927,7 +2927,7 @@ footmark
 frontogenesis 1
 flock 1
 frizzen
-factoring
+factoring 1
 fumier 1
 flagonless 2
 flyboy 1
