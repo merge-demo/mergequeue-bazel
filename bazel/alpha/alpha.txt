@@ -5125,7 +5125,7 @@ azotite 1
 admonisher
 accosting
 acquainting
-amenia
+amenia 1
 arrantly
 aestivating 1
 aestive
