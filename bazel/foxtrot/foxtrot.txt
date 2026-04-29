@@ -2879,7 +2879,7 @@ ferlies
 fetterlock
 flatfish 2
 forewing 1
-foxship 2
+foxship 3
 frisettes 1
 fantasize 2
 fogies
