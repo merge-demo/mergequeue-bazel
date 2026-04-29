@@ -3723,7 +3723,7 @@ battleships
 barrace
 blushiness
 battlesome
-brigantes
+brigantes 1
 bimestrial
 battlestead 2
 battlewagon 1
