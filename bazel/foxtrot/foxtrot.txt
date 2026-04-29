@@ -754,7 +754,7 @@ farcilite 2
 flybelt 1
 frozenness 1
 fishgrass
-figurines
+figurines 1
 fluxions
 fancied
 frazzled
