@@ -723,7 +723,7 @@ arteriopressor
 abradants
 anodendron 1
 aver
-alternize
+alternize 1
 anglicized
 aptote 1
 animine
