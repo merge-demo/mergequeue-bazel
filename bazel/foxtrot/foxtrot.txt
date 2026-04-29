@@ -5326,7 +5326,7 @@ flutey
 foregather 2
 fifteen
 fumarole
-feasts
+feasts 1
 filial
 fant 1
 forcepslike
