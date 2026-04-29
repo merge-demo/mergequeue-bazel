@@ -2370,7 +2370,7 @@ dechloridation
 dechloridize 1
 dendrites
 dechlorinate
-dillweed
+dillweed 1
 dysgenesis
 dechlorinated
 dee 3
