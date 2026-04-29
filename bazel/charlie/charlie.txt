@@ -1014,7 +1014,7 @@ calantas
 chromocenter 1
 chondroid
 calapite
-caprelline
+caprelline 1
 calappidae
 calas
 colourtype
