@@ -992,7 +992,7 @@ bipalium 1
 blinger
 baycuru
 baidarka
-baidarkas
+baidarkas 1
 binders 1
 baiera
 boti 1
