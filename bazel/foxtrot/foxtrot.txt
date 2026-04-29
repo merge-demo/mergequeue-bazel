@@ -6557,7 +6557,7 @@ funereal
 foretack
 flamless
 furrings
-flibbertigibbets
+flibbertigibbets 1
 flysches 2
 flattened 1
 feaked
