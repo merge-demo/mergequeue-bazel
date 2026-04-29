@@ -2530,7 +2530,7 @@ fiatconfirmatio 1
 fanam
 feeler 2
 frugivorous
-fibromembranous
+fibromembranous 1
 filamentule
 frangibility
 freebee
