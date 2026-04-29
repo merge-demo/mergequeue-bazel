@@ -7712,7 +7712,7 @@ ellipticalness 1
 epidemically
 exalt
 escurialize
-evidentiary
+evidentiary 1
 erythrine
 enfevered
 epidemiography 1
