@@ -19301,7 +19301,7 @@ colonisationist
 colonised
 colonising
 colonist
-colonizable
+colonizable 1
 colonize
 comminating
 courted
