@@ -2110,7 +2110,7 @@ enclosable
 enterolysis 1
 elasmothere
 euphoniously
-ebullioscope
+ebullioscope 1
 emulge
 excretory
 elastica
