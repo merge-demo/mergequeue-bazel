@@ -4484,7 +4484,7 @@ combatants
 carlock
 cogways
 circumference 1
-carlot 1
+carlot 2
 carls
 cavorters 1
 communalised
