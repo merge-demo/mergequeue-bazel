@@ -9466,7 +9466,7 @@ biotope
 battlefront
 birodo
 bisulphide 1
-brittling 1
+brittling 2
 babingtonite 1
 biron
 byronesque
