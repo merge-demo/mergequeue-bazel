@@ -9412,7 +9412,7 @@ fluoridate 1
 floristics 1
 freewheeling 1
 flagpoles
-furacana
+furacana 1
 flammed 1
 faciendum 1
 franz
