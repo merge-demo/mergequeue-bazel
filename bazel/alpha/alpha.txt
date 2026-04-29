@@ -21946,7 +21946,7 @@ armoring 1
 associativity 1
 adicity
 autochthones
-articulating
+articulating 1
 anathemata 1
 apodictical
 addicted
