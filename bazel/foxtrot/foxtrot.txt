@@ -2892,7 +2892,7 @@ flowstone 1
 fractioning 1
 fettlings 1
 farcin 1
-freighted 1
+freighted 2
 fackins
 firefighters
 footstall
