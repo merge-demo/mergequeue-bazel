@@ -2943,7 +2943,7 @@ epistomal
 egyptian
 etchings 2
 embank 1
-evaporatively
+evaporatively 1
 erythrasma
 elliptical
 embarrassments 1
