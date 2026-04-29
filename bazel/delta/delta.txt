@@ -14950,7 +14950,7 @@ demonised
 drugman
 dendrocalamus
 depr 2
-deoperculate
+deoperculate 1
 dodonaeaceae
 duali 1
 decoloriser
