@@ -18382,7 +18382,7 @@ cognatus 1
 cementum
 cognisable
 chiragrical
-catholicized
+catholicized 1
 calpulli
 corporal
 coenosarcal
