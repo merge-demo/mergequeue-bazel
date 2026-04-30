@@ -11947,7 +11947,7 @@ bannerol 1
 bogglers
 boggling 2
 bessarabian
-brinded
+brinded 1
 bogyism
 bogyman
 broncobusters
