@@ -11571,7 +11571,7 @@ biddy 2
 brierwood
 beth
 bestain
-brightness
+brightness 1
 blusterers
 byordinar
 blustering
