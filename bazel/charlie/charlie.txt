@@ -12114,7 +12114,7 @@ cursiveness
 chowses
 chowtime
 cephalocele
-chowtimes
+chowtimes 1
 chalks 1
 chrematheism
 chrematistic
