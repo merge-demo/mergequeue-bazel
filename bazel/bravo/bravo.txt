@@ -3443,7 +3443,7 @@ badgerly
 bastions
 boughpot
 bef 1
-bastite
+bastite 1
 brushfire
 brigade 1
 basto 1
