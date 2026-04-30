@@ -5902,7 +5902,7 @@ fisherfolk 1
 faultfinding 1
 fdname 1
 flockings
-fudged
+fudged 1
 fulsamic 1
 folgerite 1
 fencepost
