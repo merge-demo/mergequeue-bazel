@@ -12874,7 +12874,7 @@ doomsters 1
 decreeable 1
 driftway
 dyebeck
-demerited
+demerited 1
 dromond 1
 dismissal 3
 dismissals
