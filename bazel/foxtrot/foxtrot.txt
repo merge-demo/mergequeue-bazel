@@ -4503,7 +4503,7 @@ fertilizers
 forsay 1
 ferrovanadium 1
 flour
-fisnoga
+fisnoga 1
 flouncing 1
 flogging 1
 felinae 1
