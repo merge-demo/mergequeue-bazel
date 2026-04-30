@@ -16794,7 +16794,7 @@ deare
 dissenters
 dreeing 1
 disconsonant
-difficult
+difficult 1
 devaluated
 drawcut
 drawee
