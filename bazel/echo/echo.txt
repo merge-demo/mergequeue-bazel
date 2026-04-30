@@ -5915,7 +5915,7 @@ euthyroid
 episcopalian
 excessman 1
 expend 1
-enhaemospore
+enhaemospore 1
 epiplastron
 emphases
 explees
