@@ -3970,7 +3970,7 @@ eugregarinida
 epimeron
 emolument 1
 elevator
-emotivity
+emotivity 1
 epileptology 1
 exorability 2
 epitases
