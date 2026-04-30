@@ -8645,7 +8645,7 @@ futharks
 feet
 fuzes 1
 finites
-forborn
+forborn 1
 fytte
 farstepped 1
 furthering
