@@ -24890,7 +24890,7 @@ congroid
 coralliform
 cobreathe
 coralligena
-coralligenous
+coralligenous 1
 coralligerous
 corallin
 corallina
