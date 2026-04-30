@@ -7862,7 +7862,7 @@ fenestrule 3
 filler
 foreshots 1
 furfuraldehyde 1
-facings
+facings 1
 flenses
 franger 1
 farnesols 1
