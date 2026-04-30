@@ -25836,7 +25836,7 @@ corruptful 1
 catecholamine
 clawback
 corrupting
-chuser
+chuser 1
 coolant 1
 corruptingly 1
 cimicid
