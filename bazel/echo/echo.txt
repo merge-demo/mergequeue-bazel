@@ -13324,7 +13324,7 @@ elusively
 eyewear 1
 encomendero
 expone
-ephoralty
+ephoralty 1
 exponency
 extrared 1
 educated
