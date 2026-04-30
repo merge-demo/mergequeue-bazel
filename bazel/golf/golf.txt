@@ -3366,7 +3366,7 @@ gluside
 gibbar 1
 guttiferal 1
 gundelet
-germinations
+germinations 1
 gigglingly
 gallicolae
 gools
