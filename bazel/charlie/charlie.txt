@@ -13526,7 +13526,7 @@ crozed
 castigative 1
 ciliotomy
 cilium
-chloroformize
+chloroformize 1
 coxcombhood
 cyllenian
 cyllenius
