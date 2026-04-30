@@ -6801,7 +6801,7 @@ animally 1
 afterband
 affable
 amyrin
-ammonify
+ammonify 1
 airdrome
 airdromes 1
 airdrop
