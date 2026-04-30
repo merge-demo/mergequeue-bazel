@@ -13859,7 +13859,7 @@ earliness
 engagingness 2
 euphenic 1
 emandibulate
-equitably
+equitably 1
 extraparental
 extroverts 1
 encyst
