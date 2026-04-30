@@ -16314,7 +16314,7 @@ downshore
 dephlegmatize
 dibbler
 dragonism
-dainteth
+dainteth 1
 deplored 1
 dedolency
 decanate
