@@ -15628,7 +15628,7 @@ doormen 1
 demonetised 2
 discomfiting
 doorpiece
-drivel
+drivel 1
 dowl
 doghouses
 detumescent 1
