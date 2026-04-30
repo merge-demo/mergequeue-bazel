@@ -11951,7 +11951,7 @@ ecoid
 extracostal 1
 endotheliolysin
 epicedial 2
-esmeraldan 1
+esmeraldan 2
 epanagoge 1
 eructating
 enhorror 1
