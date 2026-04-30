@@ -5863,7 +5863,7 @@ diachoresis
 domal
 demeaning
 disconcert
-deprecative
+deprecative 1
 dissolvable
 deprecator
 dysbarism 1
