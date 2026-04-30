@@ -1607,7 +1607,7 @@ dunkirker 2
 deafly 1
 deafmuteness
 disembrace
-digression
+digression 1
 deafness
 deairing
 discernableness
