@@ -5156,7 +5156,7 @@ elaeoblast
 elatives 1
 engirt
 endocrines
-endocrinic
+endocrinic 1
 existentialistic
 enterocoel
 emergencies 1
