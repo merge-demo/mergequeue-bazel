@@ -11730,7 +11730,7 @@ deprivation
 dockhands
 detectable
 dyscrasic
-demissness
+demissness 1
 dactylologies
 dimane 1
 decoupage
