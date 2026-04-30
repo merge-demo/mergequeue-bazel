@@ -3975,7 +3975,7 @@ bnf
 bespy
 beaching 1
 beachman
-buenas
+buenas 1
 blinky 1
 berchta
 bounteousness
