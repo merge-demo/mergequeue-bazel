@@ -19069,7 +19069,7 @@ airbrick
 arulo
 archpolitician
 archprelate
-archprelatic
+archprelatic 1
 avys
 adjudicator
 askingly 1
