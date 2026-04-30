@@ -4682,7 +4682,7 @@ flexibilities 1
 frighten 2
 fumariaceae
 fragrantly
-foreby
+foreby 1
 fructescence
 frivolizing
 fibroreticulate
