@@ -7365,7 +7365,7 @@ curtains
 cephalodium
 cephalofacial 1
 cephalogram 2
-cephaloid
+cephaloid 1
 culminates
 cuticles
 crepuscle
