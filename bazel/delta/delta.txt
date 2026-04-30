@@ -16812,7 +16812,7 @@ delaines 1
 dominee
 dey
 demurely
-decurtate
+decurtate 1
 daniglacial 1
 disallowances
 decapitable
