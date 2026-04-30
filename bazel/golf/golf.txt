@@ -6215,7 +6215,7 @@ gamblesome 4
 gardener
 geomyidae
 guahibo
-glyptodontidae
+glyptodontidae 1
 giantize
 grimacier 1
 goatfishes 1
