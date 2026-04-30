@@ -126,7 +126,7 @@ guerdoned 1
 gyros
 gangrening
 gadroonage
-gadrooning
+gadrooning 1
 gersum 2
 glacises
 granulize
