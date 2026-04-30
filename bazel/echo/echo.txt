@@ -12948,7 +12948,7 @@ enhaunt
 eulogiae 1
 expectancy 1
 endotherm
-epistemophilia
+epistemophilia 1
 ecologist
 entotic 2
 epitonion
