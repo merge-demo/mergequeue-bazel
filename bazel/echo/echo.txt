@@ -7663,7 +7663,7 @@ enterostomy
 esere 1
 educed
 eidouranion 2
-enterogastritis
+enterogastritis 1
 epicotyls
 endoderms
 enhancement
