@@ -24358,7 +24358,7 @@ arises
 autorotation 1
 acceptor
 ariocarpus 1
-atopen
+atopen 1
 amylene
 autoroute
 anuses 1
