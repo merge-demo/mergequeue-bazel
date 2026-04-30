@@ -762,7 +762,7 @@ fetidness 1
 fezzan 1
 fibroangioma 1
 ferv 1
-frequently
+frequently 1
 fanciful 2
 fibreboard
 fanciless
