@@ -3815,7 +3815,7 @@ burgeoning
 baulked
 bearbane
 bookfair
-bequeaths
+bequeaths 1
 bucerotes 1
 behight 1
 broccoli
