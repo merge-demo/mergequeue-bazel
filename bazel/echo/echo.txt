@@ -10401,7 +10401,7 @@ earwigging
 epiphanize 2
 electropositive 1
 enfranchisable 1
-exodromic
+exodromic 1
 exchanged 2
 ethoxide 1
 ethoxyethane
