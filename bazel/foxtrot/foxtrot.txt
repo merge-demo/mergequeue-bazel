@@ -10673,7 +10673,7 @@ feralin
 fivepenny
 fairstead 1
 fruitstalk
-fg
+fg 1
 foreset
 foresheets 1
 fleuretty
