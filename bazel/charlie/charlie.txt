@@ -20364,7 +20364,7 @@ cuirass
 comose 1
 comourn 1
 chaffcutter
-corycavamine
+corycavamine 1
 cybister 2
 comox 1
 cistae
