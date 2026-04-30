@@ -24314,7 +24314,7 @@ carbureter 1
 chapeau
 creation
 crull
-creatable
+creatable 1
 classist
 corncutting
 coarrange
