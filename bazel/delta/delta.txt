@@ -16221,7 +16221,7 @@ determinedness 1
 dares
 demagogs
 decanters
-derange
+derange 1
 darneder
 defusing
 description 2
