@@ -24196,7 +24196,7 @@ compost
 cunning
 convocations
 convocative
-convocator
+convocator 1
 cantabrize
 catbriers
 convoyed
