@@ -6602,7 +6602,7 @@ denigratory
 damoiselle
 dirdum
 dephlegmated
-doubtsome
+doubtsome 1
 desegregated 1
 desegregates 1
 destroyed
