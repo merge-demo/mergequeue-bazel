@@ -8933,7 +8933,7 @@ flu 1
 fountain
 fragged 1
 fossicker
-flueman
+flueman 1
 filosus 1
 faultfinder 1
 funambulist 1
