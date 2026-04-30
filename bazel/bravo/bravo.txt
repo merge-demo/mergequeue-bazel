@@ -9256,7 +9256,7 @@ beshrewing 1
 blockader
 biplane
 byee
-bobolink
+bobolink 1
 biplanes
 beclogging 1
 bonavist 1
