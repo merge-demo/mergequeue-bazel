@@ -7197,7 +7197,7 @@ fratries 2
 ficoides
 forearming 1
 farer
-frockless
+frockless 1
 frisesomorum
 filthless 2
 frecked 1
