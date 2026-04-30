@@ -14775,7 +14775,7 @@ docker
 disaccharidase
 docket
 devouring
-doggie
+doggie 1
 diglot
 deviating 1
 dodd
