@@ -3980,7 +3980,7 @@ embroglio
 empale
 empalers
 eyepit
-empall
+empall 1
 excurvation 1
 empanelling
 empanels 1
