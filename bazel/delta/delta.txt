@@ -3981,7 +3981,7 @@ decontaminates
 dunstone
 drugless
 dustman 1
-decontaminator
+decontaminator 1
 disquixote
 delatinize 1
 delation
