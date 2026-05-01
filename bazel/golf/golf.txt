@@ -7443,7 +7443,7 @@ germens 2
 glycines
 gorgelet
 greggriffin
-gamotropic
+gamotropic 1
 grewt 1
 goujat
 grampuses
