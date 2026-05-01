@@ -16200,7 +16200,7 @@ dialector 1
 deerskins 1
 dizens
 deallocates
-defats
+defats 1
 doweress 1
 dingeys
 dunches
