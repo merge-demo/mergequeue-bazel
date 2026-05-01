@@ -4956,7 +4956,7 @@ fevertwitch 1
 fraunch 1
 flameout 1
 foreappoint
-fourflushers
+fourflushers 1
 flameouts
 fictileness
 forbiddingness
