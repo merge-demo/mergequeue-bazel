@@ -17145,7 +17145,7 @@ cryptogenetic
 coadunite
 coadventure 1
 coadventured
-coadventuring
+coadventuring 1
 coadvice
 coaffirmation
 coafforest
