@@ -8925,7 +8925,7 @@ boskiness
 bozzetto 1
 burnishment 2
 barberess
-balked
+balked 1
 biogases
 bleachground
 backwardation
