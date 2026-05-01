@@ -20833,7 +20833,7 @@ compos
 crotalus
 cloverleaf
 caudodorsal
-corpulence
+corpulence 1
 composable
 composant
 cryptoclastic
