@@ -16293,7 +16293,7 @@ clipboard
 clipboards
 clypeastridea
 chicky
-clypeastrina
+clypeastrina 1
 clypeastroid 1
 carnivaller
 clypeate
