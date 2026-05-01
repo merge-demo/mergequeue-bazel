@@ -18272,7 +18272,7 @@ basque
 brickmason
 badan 1
 burweed
-bencher
+bencher 1
 butterworker 1
 broadaxe
 boulimy
