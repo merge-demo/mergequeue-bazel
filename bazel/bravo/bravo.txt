@@ -3583,7 +3583,7 @@ batholithic
 balaamite
 butchers
 balconet 1
-bathometry
+bathometry 1
 blockmaking
 bathool
 balneary
