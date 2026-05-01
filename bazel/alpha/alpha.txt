@@ -18595,7 +18595,7 @@ abundances
 arccos
 appomattoc 1
 apostume
-assiduousness
+assiduousness 1
 anhematosis
 arch
 arolium 1
