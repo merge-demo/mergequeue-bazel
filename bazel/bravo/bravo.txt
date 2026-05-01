@@ -4907,7 +4907,7 @@ bobac
 burrowstown
 battled
 beefalo
-beefaloes
+beefaloes 1
 basketweaving
 birefringence 1
 bilimbis
