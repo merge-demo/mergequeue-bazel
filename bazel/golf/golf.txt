@@ -8740,7 +8740,7 @@ gambit 1
 glucosuric
 garrets
 games
-governess
+governess 1
 goustrous 4
 galeus 2
 gobbin
