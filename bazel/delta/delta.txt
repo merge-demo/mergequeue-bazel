@@ -213,7 +213,7 @@ downgoing 1
 daffier
 discussing 1
 defection
-daffiness
+daffiness 1
 daffing
 daffodilly
 drifted
