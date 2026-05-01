@@ -9796,7 +9796,7 @@ electroplate
 estable
 enchalice 1
 ervils 3
-establishable
+establishable 1
 eddyroot 1
 establishes 2
 elegiacal
