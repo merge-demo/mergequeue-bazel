@@ -1502,7 +1502,7 @@ dcb
 depressure
 deaccessioning
 drawbolt 3
-dingbats
+dingbats 1
 draughts
 definiendum
 deformers
