@@ -3441,7 +3441,7 @@ exemplar
 ecliptic
 embatholithic 1
 enfiladed 2
-extradoses
+extradoses 1
 exteriors
 enteropneustan
 embed 1
