@@ -17420,7 +17420,7 @@ amercers
 aeromedical
 apotome
 apyretic
-apotropaically
+apotropaically 1
 asciferous
 autographism 1
 aftershave
