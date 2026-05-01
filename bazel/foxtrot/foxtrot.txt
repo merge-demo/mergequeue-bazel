@@ -9596,7 +9596,7 @@ ferrotyper
 forhooy 1
 fothering
 flanger
-flagellant
+flagellant 1
 finalism
 faqir 1
 foreseeability
