@@ -16241,7 +16241,7 @@ defease
 downcastness
 delenda 1
 disabling 1
-doubter
+doubter 1
 downcome
 dogtail
 downcoming
