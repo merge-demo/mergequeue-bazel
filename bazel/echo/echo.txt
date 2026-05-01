@@ -14050,7 +14050,7 @@ emes
 excitonic
 enterochromaffin
 extravagance
-extravagantly
+extravagantly 1
 enchantingly
 euemerism
 emulsibility
