@@ -11178,7 +11178,7 @@ farm
 forktail
 fundungi 2
 firewall
-foraminous
+foraminous 1
 fallfishes
 forcipal 1
 fireplugs
