@@ -1473,7 +1473,7 @@ doublehanded
 daze
 discerptibility 1
 disinherison
-dipropellant
+dipropellant 1
 deuteroplasm
 dories
 dispulp
