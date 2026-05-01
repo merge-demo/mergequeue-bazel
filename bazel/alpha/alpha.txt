@@ -3842,7 +3842,7 @@ amphitruo
 aequorin 1
 amphithuron
 acetabuliform
-adipinic
+adipinic 1
 autotransplant
 adipocellulose
 adipocere
