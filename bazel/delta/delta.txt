@@ -7878,7 +7878,7 @@ drofland 1
 disard
 desmocyte
 dispenser 1
-dihydrogen
+dihydrogen 1
 dewberries
 dewcap 1
 disbudder
