@@ -12379,7 +12379,7 @@ deflationary
 dichromaticism
 deathweed
 dishcloth 1
-dishcloths
+dishcloths 1
 disparkle 1
 dupable
 dishclout
