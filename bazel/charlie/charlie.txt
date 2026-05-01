@@ -2864,7 +2864,7 @@ canons 2
 canonship
 canoodles
 counsinhood
-canopy
+canopy 1
 canopid
 canalised
 canopies
