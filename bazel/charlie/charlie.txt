@@ -26545,7 +26545,7 @@ conjecturable
 cheverons 1
 coucal
 couchancy
-couchant
+couchant 1
 couths
 clothesmen
 coadequate
