@@ -3901,7 +3901,7 @@ breadline
 baxtone 1
 brachyskelic 1
 boughten
-bazars 1
+bazars 2
 bint 1
 brockage 1
 bazooka
