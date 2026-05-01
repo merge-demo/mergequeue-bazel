@@ -10245,7 +10245,7 @@ agamid
 attire 1
 anemophile 1
 acidifying
-ameerates
+ameerates 1
 analgesia 1
 ameiosis
 angiolymphitis
