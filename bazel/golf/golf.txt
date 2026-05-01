@@ -8140,7 +8140,7 @@ gulfed 2
 gloat
 glowflies 2
 granulators
-gripper
+gripper 1
 gynaecocracy
 guanidins
 gabblers 1
