@@ -4519,7 +4519,7 @@ burnsides 2
 batata
 balushai
 becudgels
-bosons
+bosons 1
 bilixanthin 1
 becuiba
 becurl 1
