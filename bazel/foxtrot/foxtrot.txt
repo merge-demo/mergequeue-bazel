@@ -1822,7 +1822,7 @@ featureful
 featurelessness 1
 featureliness
 furrows 3
-figureheadship
+figureheadship 1
 fellahin 1
 firebreaks
 feudalize
