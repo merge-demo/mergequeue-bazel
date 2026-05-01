@@ -1422,7 +1422,7 @@ focometry
 fallibly 1
 firewood
 futchell 1
-forbar 1
+forbar 2
 ferreted 2
 fattest
 finickin
