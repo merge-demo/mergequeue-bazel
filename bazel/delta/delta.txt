@@ -12428,7 +12428,7 @@ diamond
 deterrability 1
 defers 1
 dimerlie 1
-dialectical
+dialectical 1
 diastereoisomer 1
 dampne
 dishome
