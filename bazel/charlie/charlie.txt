@@ -22384,7 +22384,7 @@ chessman
 conidae
 champlainic
 conidioid
-conidiophorous 1
+conidiophorous 2
 conidiospore 1
 copy
 conidium
