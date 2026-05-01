@@ -9607,7 +9607,7 @@ frailest 1
 fragmentitious
 forcipated 2
 fleabugs
-fabula
+fabula 1
 firing
 featherbone
 forte
