@@ -8300,7 +8300,7 @@ cephalohumeralis 1
 chantress 1
 courtyard
 chalina 1
-coonskin 1
+coonskin 2
 complexity
 carbure
 corallet
