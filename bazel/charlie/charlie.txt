@@ -17418,7 +17418,7 @@ cryophilic
 cupbearer 1
 cobaea
 corbeil
-cotters
+cotters 1
 cobalamin
 comb 1
 cobalt 1
