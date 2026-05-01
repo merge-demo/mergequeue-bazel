@@ -15769,7 +15769,7 @@ cleanliest
 culottes
 clumpier
 cleanout
-cleansable
+cleansable 1
 cellists
 cleanse
 centrarchidae
