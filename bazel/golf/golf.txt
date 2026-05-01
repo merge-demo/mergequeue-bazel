@@ -2820,7 +2820,7 @@ gossan 2
 gybing
 grenadines 2
 goosehouse 1
-gnathoplasty
+gnathoplasty 1
 genuflection
 gallates
 galactophlysis
