@@ -4689,7 +4689,7 @@ encyclics
 extroversive
 eisodic
 eucrites
-elbowing
+elbowing 1
 eyeopener
 eryhtrism 1
 encyclopaedically
