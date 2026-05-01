@@ -3977,7 +3977,7 @@ founders
 focalise 1
 forfends
 fingerer
-flaunch
+flaunch 1
 fingerers
 feed
 fono
