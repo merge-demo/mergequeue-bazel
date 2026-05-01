@@ -11751,7 +11751,7 @@ esc
 eveque
 episcopise
 ensurer 1
-easier
+easier 1
 entoptoscopy
 examinee
 emoted
