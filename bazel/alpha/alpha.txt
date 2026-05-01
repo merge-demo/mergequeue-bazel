@@ -23290,7 +23290,7 @@ adnumber
 antship
 averroist
 anglophobic
-augurs
+augurs 1
 adventitia
 azophenol
 accordances
