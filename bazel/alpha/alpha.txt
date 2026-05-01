@@ -14742,7 +14742,7 @@ antiboxing 1
 advertizer
 apparation
 ammonolyzed
-aureously
+aureously 1
 antibridal
 allusiveness
 affright
