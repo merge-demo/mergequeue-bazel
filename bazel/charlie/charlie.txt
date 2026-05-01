@@ -25890,7 +25890,7 @@ convertable 1
 corset 1
 corsetier 1
 concluding
-corsetiere
+corsetiere 1
 conicalness
 corseting 1
 ciliferous
