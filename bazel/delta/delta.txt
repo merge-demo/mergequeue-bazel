@@ -12907,7 +12907,7 @@ deorientalize 1
 disobeying 1
 delineative
 dustiness
-desulphuration
+desulphuration 1
 disoblige 2
 disobliger
 dognapping
