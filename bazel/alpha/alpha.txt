@@ -25100,7 +25100,7 @@ armorplated
 axiate
 atmos 1
 archeress
-amphicondyla
+amphicondyla 1
 axiferous
 antimonarchists
 argumentation
