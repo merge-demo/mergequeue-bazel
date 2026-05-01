@@ -15736,7 +15736,7 @@ deescalation
 disintegrates 1
 dewools
 disbuds
-doris
+doris 1
 dorsomedial
 diaxonic 1
 disyntheme
