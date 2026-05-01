@@ -9421,7 +9421,7 @@ foliiferous
 flamines 1
 fliers
 foodstuff
-foreteeth
+foreteeth 1
 frary
 flouriness
 frolicly
