@@ -6771,7 +6771,7 @@ disregular 1
 deerweeds 1
 dihedral
 depraving
-dodecatyl
+dodecatyl 1
 disally
 dirtboard
 datatype 1
