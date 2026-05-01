@@ -29905,7 +29905,7 @@ crossflower 3
 crossfoot
 crosshackle
 crosshair 1
-crosshand 1
+crosshand 2
 crosshatches 1
 capillation
 cogwheel
