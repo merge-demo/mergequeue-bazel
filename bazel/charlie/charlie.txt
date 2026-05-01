@@ -24338,7 +24338,7 @@ craniophore 1
 conjury
 cookroom
 coral
-concentrate
+concentrate 1
 caverning
 caritas 1
 cookshop 1
