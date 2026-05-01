@@ -7263,7 +7263,7 @@ alaria
 aqueoglacial 1
 aggravable
 albuminose
-alarm
+alarm 1
 assumably 1
 alarmclock
 alexanders
