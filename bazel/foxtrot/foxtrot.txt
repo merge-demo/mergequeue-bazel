@@ -6899,7 +6899,7 @@ fp 3
 floatages 1
 fruity
 fifes 1
-fleme
+fleme 1
 felafel 1
 fanakalo 1
 flintwood
