@@ -14233,7 +14233,7 @@ askewgee 1
 antipart 1
 anterointernal
 anterolateral
-antiferroelectric
+antiferroelectric 1
 automorphically
 agiotages
 anterooms 1
