@@ -829,7 +829,7 @@ encrust
 ectypography
 epitheton
 entrecote
-epop 1
+epop 2
 exulate
 ectiris
 etamines
