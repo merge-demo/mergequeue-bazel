@@ -27494,7 +27494,7 @@ curtailer
 covariable
 chumpiness 1
 cathartical
-cheongsam
+cheongsam 1
 coal
 chimers
 covariant
