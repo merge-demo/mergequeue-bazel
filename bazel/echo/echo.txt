@@ -7550,7 +7550,7 @@ ectoprocta
 electroforming
 exocarp
 experienceable
-epicede
+epicede 1
 exion
 encephalitogenic 1
 eroticomaniac
