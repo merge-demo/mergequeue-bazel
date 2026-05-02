@@ -12866,7 +12866,7 @@ expansum
 eburneoid 1
 evacuators
 embarked 2
-expandable
+expandable 1
 escropulo 2
 erotopathic 1
 erethisms
