@@ -4818,7 +4818,7 @@ bedspring
 bulgaria 3
 benedicite 1
 bollix
-brazenface
+brazenface 1
 bikh
 beshrouded 1
 bolometer
