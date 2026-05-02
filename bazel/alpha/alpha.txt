@@ -8132,7 +8132,7 @@ algernon
 assassinator
 algesiometer
 algidity
-autocatharsis
+autocatharsis 1
 algidities
 algidness 1
 agriologist 1
