@@ -3377,7 +3377,7 @@ dialling 1
 decolor
 disrestore
 dynagraph 2
-dithionate
+dithionate 1
 deflagrator 1
 deflating
 discommend
