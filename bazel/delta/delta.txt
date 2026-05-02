@@ -15622,7 +15622,7 @@ doormaid 1
 dugong
 dietist 1
 doormaker 1
-doormats
+doormats 1
 digitorium 1
 doormen 1
 demonetised 2
