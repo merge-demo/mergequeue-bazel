@@ -1505,7 +1505,7 @@ drawbolt 3
 dingbats 1
 draughts
 definiendum
-deformers
+deformers 1
 diazines 1
 downlinked 1
 deacetylate 1
