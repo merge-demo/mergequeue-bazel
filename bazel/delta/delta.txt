@@ -9520,7 +9520,7 @@ dialysers
 demiurge
 decontaminated 1
 digital 1
-drunkest
+drunkest 1
 digitalin
 dispergator
 diathermanous
