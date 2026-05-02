@@ -6456,7 +6456,7 @@ endangerments
 electromyography 1
 espave 1
 espousal 1
-expandibility
+expandibility 1
 ensnared 1
 ensnarer
 echinostoma
