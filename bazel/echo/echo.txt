@@ -7759,7 +7759,7 @@ ethinamate
 empasma
 eggshells
 executable
-epidiascope
+epidiascope 1
 engraff 1
 ecce 2
 epichilia
