@@ -16000,7 +16000,7 @@ clansmen
 cyamelid
 coolheadedness
 cleruchy
-connach
+connach 1
 crossbirth
 cracked 1
 cluppe
