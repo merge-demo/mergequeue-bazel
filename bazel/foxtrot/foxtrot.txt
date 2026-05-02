@@ -5506,7 +5506,7 @@ fettuccine 2
 formatters
 fanjets 2
 fleshliest 3
-fiddlies
+fiddlies 1
 faroelite 1
 fleshliness 1
 faceteness
