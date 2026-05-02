@@ -10420,7 +10420,7 @@ boltmaking 1
 beesting
 baritone
 boviform
-bemadam
+bemadam 1
 bribetaking 1
 biune
 beachboy 1
