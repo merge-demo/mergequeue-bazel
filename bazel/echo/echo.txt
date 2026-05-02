@@ -9582,7 +9582,7 @@ egocentristic 1
 encephaloma
 enchasers
 esoethmoiditis
-exornation
+exornation 1
 energiser
 emplacing
 emulator 1
