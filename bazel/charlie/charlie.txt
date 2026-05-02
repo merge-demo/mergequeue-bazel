@@ -5624,7 +5624,7 @@ cataloon
 catalos 1
 catalufa
 catalufas
-catamarcan
+catamarcan 1
 cd
 choufleur
 coedited
