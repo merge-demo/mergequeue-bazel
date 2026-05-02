@@ -3040,7 +3040,7 @@ centrales 1
 cantrip
 cantus
 cantuta
-cantwise
+cantwise 1
 castigated
 canula 1
 canulae
