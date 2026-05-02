@@ -3778,7 +3778,7 @@ grincome
 giantsize
 gaub 1
 gonging
-genoblastic
+genoblastic 1
 gobbets 1
 gouvernantes
 giarra 2
