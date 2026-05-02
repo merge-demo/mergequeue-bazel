@@ -1161,7 +1161,7 @@ gastrogastrotomy
 genin 2
 genio 1
 gnawings 2
-galactometry
+galactometry 1
 gnetums 2
 guffin
 gaol
