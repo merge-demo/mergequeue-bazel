@@ -8939,7 +8939,7 @@ chareter 2
 charette
 censers
 chemisms
-chargable
+chargable 1
 combmaker
 charge
 chargeable 1
