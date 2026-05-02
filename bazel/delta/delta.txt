@@ -17484,7 +17484,7 @@ disorientation
 devoices 2
 densities
 drubbers
-disbody
+disbody 1
 drubble 1
 deletery
 diaschisis
