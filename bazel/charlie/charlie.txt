@@ -29850,7 +29850,7 @@ circummeridian
 cablets 1
 coronillo 2
 chronos
-cryptopin 1
+cryptopin 2
 calculate
 crossband
 cystoparalysis
