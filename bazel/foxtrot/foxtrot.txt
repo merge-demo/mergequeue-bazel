@@ -4541,7 +4541,7 @@ frugal
 forwardsearch 2
 fractionized 1
 felinophile 1
-fissured
+fissured 1
 fiscalify 1
 frontier 1
 firlot
