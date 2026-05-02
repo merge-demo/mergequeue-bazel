@@ -3071,7 +3071,7 @@ bullary
 breather
 blastplate 1
 bating
-badminton
+badminton 1
 barware 1
 boneblack 2
 barksome 1
