@@ -23727,7 +23727,7 @@ answer
 anteceded 1
 anthropogeography 1
 aurophore
-aurore
+aurore 1
 additionally
 acct
 aleppine
