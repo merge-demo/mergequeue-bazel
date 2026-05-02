@@ -13435,7 +13435,7 @@ courb
 cyesis
 cif 1
 countergage 1
-camerawork
+camerawork 1
 cig
 cigarette
 cystenchyma
