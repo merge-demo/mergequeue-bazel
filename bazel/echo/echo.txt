@@ -9698,7 +9698,7 @@ evacue 3
 euselachii 1
 esquisse
 exship 2
-eversible
+eversible 1
 extima
 easing
 eventuated
