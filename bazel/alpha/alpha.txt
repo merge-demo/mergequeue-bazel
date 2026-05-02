@@ -24323,7 +24323,7 @@ autoproteolysis 1
 argillomagnesian
 autopsical
 agtbasic
-adsessor
+adsessor 1
 autopsychoanalysis
 autopsychosis
 autopsied

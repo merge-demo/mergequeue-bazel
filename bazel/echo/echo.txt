@@ -1345,7 +1345,7 @@ explosives
 eelspear 1
 effeminising
 effeminize
-effeminizing
+effeminizing 1
 exhibitionize
 ervil 2
 exsect 1
