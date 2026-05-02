@@ -9016,7 +9016,7 @@ celestiality
 countergauge
 cookings
 charlatanic
-charlatanistic
+charlatanistic 1
 cgs
 charlatans
 charleys
