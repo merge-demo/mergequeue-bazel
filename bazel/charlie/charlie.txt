@@ -29497,7 +29497,7 @@ choragium
 crystalloidal
 crystallomagnetic 1
 cravers
-cunye
+cunye 1
 crystallomancy
 crystallometry
 continuist
