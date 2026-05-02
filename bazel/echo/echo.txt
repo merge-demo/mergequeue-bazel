@@ -11656,7 +11656,7 @@ eruca
 electivity 1
 eliminations 2
 eburnian
-exaction 1
+exaction 2
 enfire 1
 exactitude 2
 electrohydraulic
