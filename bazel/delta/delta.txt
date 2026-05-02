@@ -9508,7 +9508,7 @@ digesture 1
 dinarzade
 disapproval 1
 diggable 1
-digged
+digged 1
 deuterostome 1
 demonstrational 1
 dighted
