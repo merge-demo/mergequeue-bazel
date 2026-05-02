@@ -2516,7 +2516,7 @@ emender
 enervators 1
 endostylar 1
 epilepsia 2
-enmeshed
+enmeshed 1
 ensate
 eparcuale
 epitomisation
