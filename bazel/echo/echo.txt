@@ -11643,7 +11643,7 @@ enddamaged 1
 exactable 1
 extemporising 1
 exactas
-ergastoplasm 1
+ergastoplasm 2
 elaterite
 epileptogenic 1
 elephanticide 1
