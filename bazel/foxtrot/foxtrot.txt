@@ -10292,7 +10292,7 @@ fingerings
 frazed 1
 fluormeter 2
 ferrates
-farnesses
+farnesses 1
 factor
 frenziedness
 forleaving 1
