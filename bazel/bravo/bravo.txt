@@ -9227,7 +9227,7 @@ biordinal 1
 batussi
 bladebone
 balanoid
-bipinnarias
+bipinnarias 1
 bipinnated
 bipinnatipartite 1
 butyrals
