@@ -1726,7 +1726,7 @@ defensibility
 deaspiration 1
 degree
 dihely 1
-depersonalization
+depersonalization 1
 daredevilry
 desponsate
 drouthy
