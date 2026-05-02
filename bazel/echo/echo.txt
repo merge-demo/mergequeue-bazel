@@ -3820,7 +3820,7 @@ ekerite 1
 enterprisingly
 expiratory
 esthetical
-emparl
+emparl 1
 ethnohistorical
 extolled
 economic 1
