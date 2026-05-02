@@ -6890,7 +6890,7 @@ farmout
 farris
 febriferous 1
 flammeous 1
-fitly
+fitly 1
 folklike 1
 feasible
 fallace
