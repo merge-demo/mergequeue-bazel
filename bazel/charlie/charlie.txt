@@ -4292,7 +4292,7 @@ carfares
 carfloat
 coater
 carfuffle
-capiteaux
+capiteaux 1
 camauros
 centroidal
 carfuffling
