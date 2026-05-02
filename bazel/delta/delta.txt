@@ -16220,7 +16220,7 @@ dowitchers
 determinedness 1
 dares
 demagogs
-decanters
+decanters 1
 derange 1
 darneder
 defusing
