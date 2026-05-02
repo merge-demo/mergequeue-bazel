@@ -2501,7 +2501,7 @@ deferral 3
 duds 2
 dishonourary
 declaim
-dichorisandra
+dichorisandra 1
 dresser
 declaimer 1
 dilaters
