@@ -5971,7 +5971,7 @@ deprogrammings
 deprograms 2
 dropforged 1
 deprome
-demisphere
+demisphere 1
 drawling 1
 disaffectedly
 deprostrate
