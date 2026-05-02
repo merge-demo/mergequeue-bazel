@@ -3538,7 +3538,7 @@ doom 1
 defrayers
 defraying
 desaturate
-desiccated
+desiccated 1
 dagobas 3
 desmomyaria
 dufoil
