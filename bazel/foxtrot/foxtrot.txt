@@ -3577,7 +3577,7 @@ fulgence
 foggily
 filched 1
 fellowmen
-frenchism
+frenchism 1
 fogie
 flamboyance
 fencelet
