@@ -6463,7 +6463,7 @@ diaereses
 deafeningly 1
 dodecanoic 1
 desalinator
-disclaimer
+disclaimer 1
 disperge 1
 departmentalising 1
 diploes
