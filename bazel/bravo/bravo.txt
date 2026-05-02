@@ -8247,7 +8247,7 @@ bedsteads 2
 bovarysm 1
 bigamies
 bigamist
-boyars
+boyars 1
 betafite
 bigamizing
 burstiness 1
