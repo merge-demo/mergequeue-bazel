@@ -8744,7 +8744,7 @@ ektexines
 emmergoose
 entombing
 embryotrophic
-equivelocity
+equivelocity 1
 encrotchet
 exuberated
 exteriorized
