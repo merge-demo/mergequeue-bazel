@@ -27125,7 +27125,7 @@ cemental
 countersign
 crimsons
 calfbound 1
-cupful 2
+cupful 3
 countersigning
 countersigns 1
 countersympathy 1
