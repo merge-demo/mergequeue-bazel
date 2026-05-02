@@ -5949,7 +5949,7 @@ floodgates 1
 fiercest 2
 foolhardily 2
 falseface
-freer
+freer 1
 fraudlessness
 freehand
 feretories
