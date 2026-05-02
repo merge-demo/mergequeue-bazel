@@ -7161,7 +7161,7 @@ enshadow
 exoner 1
 episterna
 effectuation
-envolume
+envolume 1
 embarment
 enwall
 epistemonic
