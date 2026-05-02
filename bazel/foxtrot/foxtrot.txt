@@ -3492,7 +3492,7 @@ favillae
 fumaroid
 fibbed
 figshell
-foe
+foe 1
 flankard
 fury
 ficins
