@@ -12590,7 +12590,7 @@ circularize 1
 chronological
 chronologies
 coalternative 1
-chantecler
+chantecler 1
 cercle
 cafetiere
 chronologizing
