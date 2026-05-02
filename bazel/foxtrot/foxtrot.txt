@@ -1478,7 +1478,7 @@ frawn
 flaillike 1
 fissidentaceous
 fibry 1
-frizzes
+frizzes 1
 flunkyhood 2
 floatability
 fungillus
