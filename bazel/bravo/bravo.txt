@@ -8822,7 +8822,7 @@ balsamiferous 1
 braeface 1
 bristle
 binomenclature
-binomially
+binomially 1
 blondness
 binomials 1
 betoya
