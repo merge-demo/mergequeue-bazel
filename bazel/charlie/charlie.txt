@@ -16433,7 +16433,7 @@ culbert
 cowichan
 citrange 2
 costumist
-chaunt
+chaunt 1
 cloakmaker 2
 constrainer
 cloakmaking
