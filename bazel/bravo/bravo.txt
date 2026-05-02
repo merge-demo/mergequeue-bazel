@@ -1461,7 +1461,7 @@ bastardise
 balkiest
 byronize
 balkiness
-balking
+balking 1
 budgy 2
 backbiter 1
 boyarisms
