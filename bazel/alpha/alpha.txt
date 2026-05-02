@@ -20884,7 +20884,7 @@ asarin
 alecs 1
 asarite
 anatomizable
-ablastemic
+ablastemic 1
 allergist
 amoebean
 ascare
