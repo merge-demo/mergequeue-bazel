@@ -7965,7 +7965,7 @@ fitness
 freestones 1
 foreshow
 flatfoot 2
-fistulous
+fistulous 1
 flajolotite 1
 flagrantly 2
 femic 1
