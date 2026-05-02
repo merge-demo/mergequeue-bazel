@@ -4974,7 +4974,7 @@ cartographical
 cartographically
 carton 1
 cartoner
-cartonful
+cartonful 1
 covinously
 crimmers
 carpitis
