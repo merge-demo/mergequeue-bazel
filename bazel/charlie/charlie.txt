@@ -15288,7 +15288,7 @@ concuss 1
 contune
 cordant
 copalchi
-clamouring
+clamouring 1
 collembolan 1
 clamourist
 coadmired
