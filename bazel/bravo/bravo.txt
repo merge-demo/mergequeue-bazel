@@ -13333,7 +13333,7 @@ buss
 barometry
 both
 bradyphagia 1
-bothered
+bothered 1
 bester
 botherment 1
 bothers
