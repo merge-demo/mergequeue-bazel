@@ -18241,7 +18241,7 @@ cladothrix 2
 cuss
 capelets
 chemicovital
-coffeehouse
+coffeehouse 1
 coffeehouses
 coffeeman
 classico
