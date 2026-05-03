@@ -16342,7 +16342,7 @@ discinoid
 downsizing 3
 defensible 1
 discontinuable
-dichord
+dichord 1
 dovetails
 daylight
 downslide 2
