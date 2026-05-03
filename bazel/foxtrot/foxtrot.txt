@@ -4451,7 +4451,7 @@ float 1
 frowzly
 feelable 1
 flossy
-fraternizer 1
+fraternizer 2
 fishmouth 1
 fishnet 2
 frank
