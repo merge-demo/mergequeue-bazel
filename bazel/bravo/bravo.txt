@@ -1412,7 +1412,7 @@ balestra
 batoneer
 bouffants 1
 bops 2
-bedazzled
+bedazzled 1
 bureaucratical
 bedye 1
 brankier 1
