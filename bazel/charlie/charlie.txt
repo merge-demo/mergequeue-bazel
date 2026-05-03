@@ -23321,7 +23321,7 @@ calamaroid
 consummative
 checklists 1
 consumo
-cynosarges
+cynosarges 1
 consumpted 1
 corrasive 1
 consumptional
