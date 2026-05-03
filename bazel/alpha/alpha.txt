@@ -8712,7 +8712,7 @@ ankylotome
 actinopod 1
 amygdalopathy
 allergin
-allergists
+allergists 1
 allerion
 adsmith
 assurable 1
