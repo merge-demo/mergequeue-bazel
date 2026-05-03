@@ -9142,7 +9142,7 @@ bobwhite
 bespreads 1
 beanstalks
 beguilingness
-booklouse
+booklouse 1
 bruted
 banksides
 biotins
