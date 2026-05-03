@@ -5375,7 +5375,7 @@ dipmeter 1
 drub 1
 duplications 2
 demonio
-disemburden
+disemburden 1
 diazenithal
 dentinalgia
 donnees
