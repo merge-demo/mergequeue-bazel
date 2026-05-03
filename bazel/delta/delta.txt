@@ -6226,7 +6226,7 @@ degrades
 drabness 1
 dipsades 2
 disbenchment 1
-dactylopodite
+dactylopodite 1
 dermanaplasty
 dermapterous
 dermas 1
