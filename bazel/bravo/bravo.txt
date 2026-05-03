@@ -1342,7 +1342,7 @@ brayed
 butterbump
 betwixen
 balconies 1
-breeziness
+breeziness 1
 bacule
 baldachin
 bristliest
