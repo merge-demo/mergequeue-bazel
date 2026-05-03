@@ -2803,7 +2803,7 @@ demarches
 deftnesses
 duodecahedral 1
 dint
-drypoints
+drypoints 1
 dari
 decresc
 desalination
