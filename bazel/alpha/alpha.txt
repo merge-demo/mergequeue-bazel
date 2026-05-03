@@ -1259,7 +1259,7 @@ anerythroplasia
 antemask
 androlepsia
 amay
-acarophobia
+acarophobia 1
 acarotoxic
 arcturus
 aerognosy
