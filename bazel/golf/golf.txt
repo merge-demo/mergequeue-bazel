@@ -6902,7 +6902,7 @@ gangliomata
 graftonite 1
 groundspeed 1
 greillade
-gooders
+gooders 1
 goodheartedness
 goody 1
 giganticide 2
