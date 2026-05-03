@@ -8218,7 +8218,7 @@ graphemically
 gris 1
 gasconading 1
 genevois
-graphemics
+graphemics 1
 graphically 1
 glutamates 1
 glorioso
