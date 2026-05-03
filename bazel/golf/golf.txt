@@ -5171,7 +5171,7 @@ gemmy 2
 glycan
 glyceride
 glb 2
-gastratrophia
+gastratrophia 1
 geckotian 2
 gossipred
 gesticulator 1
