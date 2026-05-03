@@ -1899,7 +1899,7 @@ backhoes 1
 bandoleers 1
 bivalent
 birny
-bandolerismo
+bandolerismo 1
 buckayros
 bandoleros 1
 barouche 1
