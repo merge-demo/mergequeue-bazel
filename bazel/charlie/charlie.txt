@@ -23544,7 +23544,7 @@ contignation
 contiguity
 circumferent 1
 continentalize
-continentals
+continentals 1
 cochranea
 contingence
 carpenter 1
