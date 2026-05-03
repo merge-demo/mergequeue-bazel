@@ -7452,7 +7452,7 @@ flutelike
 forcipressure
 frigidoreceptor 1
 foy 2
-fossick 1
+fossick 2
 feinschmecker 1
 fiftypenny
 feminine
