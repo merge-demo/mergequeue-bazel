@@ -4578,7 +4578,7 @@ besuit
 bundeli
 borborus
 bedaubing
-beltlines
+beltlines 1
 bloodstone 2
 belial 1
 biddelian
