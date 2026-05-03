@@ -6794,7 +6794,7 @@ gymnogyps 1
 gentilitial 1
 gyrostatics
 genal 1
-genros
+genros 1
 gondola
 goniums
 glanis 1
