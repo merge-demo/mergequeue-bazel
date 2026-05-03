@@ -6228,7 +6228,7 @@ caudles
 caudocephalad 1
 ceile
 clappering
-covertness
+covertness 1
 caudofemoral
 caudolateral 1
 crossbones
