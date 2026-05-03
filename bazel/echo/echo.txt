@@ -9410,7 +9410,7 @@ echeneid
 escaper 1
 embodied 2
 enfranchiser
-extent
+extent 1
 elaphomyces
 elsewhere
 escapist 1
