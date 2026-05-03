@@ -6769,7 +6769,7 @@ deceased
 desilt 1
 disregular 1
 deerweeds 1
-dihedral
+dihedral 1
 depraving
 dodecatyl 1
 disally
