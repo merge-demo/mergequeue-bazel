@@ -5810,7 +5810,7 @@ deposers
 discouragement 1
 dissuade
 deposit
-divine
+divine 1
 diamondwork 1
 depositation 1
 dartlike
