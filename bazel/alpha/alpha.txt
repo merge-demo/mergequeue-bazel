@@ -3943,7 +3943,7 @@ aspersorium
 autotyphization 2
 acanthine
 absinthes
-adjust
+adjust 1
 animalculum
 abdal 1
 astre
