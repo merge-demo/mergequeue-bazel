@@ -1186,7 +1186,7 @@ egrimony
 entitule
 education 3
 edulcorating
-enscroll
+enscroll 1
 ensweep
 educational 1
 extratracheal
