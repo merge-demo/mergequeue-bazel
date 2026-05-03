@@ -773,7 +773,7 @@ bullfrog
 boltheads 1
 badnesses
 bradylogia
-bads
+bads 1
 bicetyl
 beeline 1
 biometrical 1
