@@ -2340,7 +2340,7 @@ evolvulus 1
 electrobath 2
 emplacements
 ethnologically
-escoted
+escoted 1
 epicenity
 epically 1
 effulge 1
