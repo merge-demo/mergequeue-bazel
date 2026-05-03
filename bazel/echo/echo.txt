@@ -8193,7 +8193,7 @@ enmarbling
 entomophthoraceae
 eons 2
 exergual
-empowered
+empowered 1
 excalfaction
 episiotomies
 episkeletal
