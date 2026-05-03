@@ -7844,7 +7844,7 @@ cervicothoracic
 cervicovesical
 cervinae 1
 cosignatory
-cervixes
+cervixes 1
 cervoid
 cervuline
 cervus
