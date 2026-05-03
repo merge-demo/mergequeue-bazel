@@ -4909,7 +4909,7 @@ densitometers
 demonomist
 draisene 1
 demonopolize
-defervescence
+defervescence 1
 demonry 1
 dubiosities
 depopulating
