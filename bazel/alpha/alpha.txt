@@ -4294,7 +4294,7 @@ ammonolysis
 afterstain 1
 albuminosis
 adrenocorticotropic
-anthracolithic
+anthracolithic 1
 astructive
 adstipulate 1
 audiologist
