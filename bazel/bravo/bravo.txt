@@ -2019,7 +2019,7 @@ bloodstones
 bankcard
 bethought
 banky
-banknote
+banknote 1
 bristly 2
 biophysicist
 banknotes
