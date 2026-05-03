@@ -5055,7 +5055,7 @@ flappable 1
 frankalmoin
 flappet
 fermions
-figlike
+figlike 1
 fishline
 fosses
 foveated
