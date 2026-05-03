@@ -13421,7 +13421,7 @@ digitalis
 disregard
 demiglace
 dought
-dumbheaded
+dumbheaded 1
 drawglove
 dimetient 2
 disregardant
