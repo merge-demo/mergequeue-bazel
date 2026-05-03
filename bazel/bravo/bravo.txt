@@ -3185,7 +3185,7 @@ befanned
 bauld 1
 bronchiarctia 2
 basically
-befriends
+befriends 1
 basicerite
 basicity
 baloneys
