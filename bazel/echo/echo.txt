@@ -7980,7 +7980,7 @@ eteocreton 2
 embower 1
 expander
 epinaos
-eirack
+eirack 1
 embox
 estab 1
 eliminand
