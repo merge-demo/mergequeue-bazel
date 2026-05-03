@@ -2619,7 +2619,7 @@ frivol 3
 filigreed
 flutework
 ferio
-farandmen
+farandmen 1
 foraminated 1
 folkfree 1
 frowzier
