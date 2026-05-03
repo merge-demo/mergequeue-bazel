@@ -10487,7 +10487,7 @@ dispost 1
 diphthongation 1
 dilutedness
 dendrodra
-disordeine
+disordeine 1
 diphthonging 1
 diphthongisation 1
 deisticalness
