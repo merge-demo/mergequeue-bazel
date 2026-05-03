@@ -5714,7 +5714,7 @@ gertrude 2
 glowbard 2
 gurneyite
 gerres 1
-gloveress
+gloveress 1
 gimmaled 1
 gpad
 ganglioneuron
