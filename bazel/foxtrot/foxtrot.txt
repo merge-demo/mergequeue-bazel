@@ -4488,7 +4488,7 @@ fermal 2
 fashioned
 furthermost 1
 foreloop
-fishspear
+fishspear 1
 fluffier
 fountainwise 1
 faldage
