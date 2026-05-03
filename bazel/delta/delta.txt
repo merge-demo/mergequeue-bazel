@@ -17300,7 +17300,7 @@ dromometer
 defoul
 decrypts 1
 disrelated 1
-dubitation
+dubitation 1
 dronage
 discovenant
 dronepipe 1
