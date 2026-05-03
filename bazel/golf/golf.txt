@@ -807,7 +807,7 @@ greenlandite 1
 genets
 glucosane
 ghurry
-gastrocolic
+gastrocolic 1
 guetar
 grazeable
 goldenrods
