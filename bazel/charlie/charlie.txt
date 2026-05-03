@@ -11988,7 +11988,7 @@ chirality
 cognizee
 chorisis
 chlorins
-chorist
+chorist 1
 cyanuret
 characetum
 choristate
