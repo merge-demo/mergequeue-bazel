@@ -796,7 +796,7 @@ alabandine
 abroach
 airdock 1
 abrogate
-allergies
+allergies 1
 antagonisation 2
 archilithic
 abrogating
