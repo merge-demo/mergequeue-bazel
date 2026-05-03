@@ -1543,7 +1543,7 @@ frundel
 festival 1
 fauvette 1
 flowcontrol
-fishbowl 1
+fishbowl 2
 fauvism 1
 funk
 fause
