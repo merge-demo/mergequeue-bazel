@@ -24315,7 +24315,7 @@ chapeau
 creation
 crull
 creatable 1
-classist
+classist 1
 corncutting
 coarrange
 cookeite 1
