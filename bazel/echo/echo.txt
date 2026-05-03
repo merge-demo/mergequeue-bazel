@@ -10989,7 +10989,7 @@ echeloot 1
 eoside
 eigenfrequency
 escobita 1
-ecologically
+ecologically 1
 ennuye
 electrokinematics
 excavates
