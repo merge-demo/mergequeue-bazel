@@ -14914,7 +14914,7 @@ diverts
 dodecaphonism
 demibastion
 dehumidifiers
-destructive
+destructive 1
 dodecarch
 dodecasemic 1
 decadi 1
