@@ -5522,7 +5522,7 @@ glob 1
 gestured 2
 gnetum 1
 graduand 1
-glucinum 1
+glucinum 2
 grumblers
 grummest
 gastrorrhaphy
