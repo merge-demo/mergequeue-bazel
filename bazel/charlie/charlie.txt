@@ -30101,7 +30101,7 @@ cingulated
 crowed 1
 crower
 crowers
-conductors
+conductors 1
 centuried 1
 crowfeet
 creditability
