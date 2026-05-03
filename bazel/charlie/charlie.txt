@@ -15324,7 +15324,7 @@ corridored
 cookish
 clangors
 cappella
-clangour
+clangour 1
 clangoured
 clangouring
 cakewalks
