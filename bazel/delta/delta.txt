@@ -7235,7 +7235,7 @@ decertify 1
 dolorous 1
 damnified 1
 detectible 3
-detection
+detection 1
 diamantiferous
 deadlight 1
 disparatum
