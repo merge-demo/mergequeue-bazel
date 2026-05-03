@@ -15837,7 +15837,7 @@ antipyics
 antipyonin
 antithrombin
 alert
-antipyretics
+antipyretics 1
 antipyrin 1
 accustomedness
 alinota
