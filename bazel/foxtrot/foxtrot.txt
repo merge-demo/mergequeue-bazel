@@ -7324,7 +7324,7 @@ franchisers
 fronds 1
 fearnaught
 frampold 2
-fulcrum
+fulcrum 1
 feathered
 focimeter 1
 federally
