@@ -2248,7 +2248,7 @@ grifts
 glottology 1
 gefulltefish 2
 galax 1
-gonidiogenous
+gonidiogenous 1
 gehlenite
 goblet
 grunted
