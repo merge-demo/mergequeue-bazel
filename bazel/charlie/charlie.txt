@@ -3080,7 +3080,7 @@ caoutchoucin
 cap
 capa
 conferrable
-capability
+capability 1
 charks 1
 capable 1
 capableness
