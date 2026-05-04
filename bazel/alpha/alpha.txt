@@ -18070,7 +18070,7 @@ apterygiformes
 almsgiver 1
 arace
 apterygota
-arcanist
+arcanist 1
 abstricts 1
 apteryla
 alternance
