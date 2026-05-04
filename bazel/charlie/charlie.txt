@@ -6497,7 +6497,7 @@ cavernal
 cavernlike
 cavernoma
 cavernous
-cavernously
+cavernously 1
 cavernulous
 caves
 cavetti

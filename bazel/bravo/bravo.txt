@@ -740,7 +740,7 @@ banksman
 bifrost
 badiaga
 breathy 1
-boneshaw
+boneshaw 1
 bannerman
 bushmanship 1
 badigeon
