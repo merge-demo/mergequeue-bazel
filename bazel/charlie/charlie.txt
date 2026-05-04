@@ -23459,7 +23459,7 @@ contending
 contendress
 cornstalk 1
 civil
-contends
+contends 1
 cimeter
 contenement
 contrapuntal
