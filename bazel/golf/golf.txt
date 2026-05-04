@@ -5213,7 +5213,7 @@ gentianose 2
 gieseckite 1
 geogenesis 1
 grottesco
-grimful
+grimful 1
 geometricism
 guiler
 gripsacks
