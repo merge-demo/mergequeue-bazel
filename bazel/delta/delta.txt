@@ -1467,7 +1467,7 @@ deltation 2
 dietotoxicity
 dawtit
 dawts
-damages
+damages 1
 disbarred 1
 doublehanded
 daze
