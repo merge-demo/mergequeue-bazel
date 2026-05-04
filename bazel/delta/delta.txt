@@ -785,7 +785,7 @@ defs
 dispurpose 1
 drawn
 devolatilize
-dandles
+dandles 1
 discute
 delirament 1
 dissections
