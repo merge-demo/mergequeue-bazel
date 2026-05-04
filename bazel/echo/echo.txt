@@ -13858,7 +13858,7 @@ eggcups
 earliness
 engagingness 2
 euphenic 1
-emandibulate
+emandibulate 1
 equitably 1
 extraparental
 extroverts 1
