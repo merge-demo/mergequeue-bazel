@@ -11379,7 +11379,7 @@ firetraps
 fosters
 furnaces
 ferromagneticism
-flashlamp
+flashlamp 1
 furnariides
 flect 1
 facies
