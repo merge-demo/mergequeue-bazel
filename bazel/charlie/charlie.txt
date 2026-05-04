@@ -26339,7 +26339,7 @@ costumers
 costumes 1
 costumic
 cabstand 1
-costumiere
+costumiere 1
 costumiers
 cinematize
 choreomania
