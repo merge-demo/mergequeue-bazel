@@ -5068,7 +5068,7 @@ bandoline 2
 bilingual 1
 balefire
 biocatalyst 1
-basenet
+basenet 1
 befezzed
 broiderer
 befile
