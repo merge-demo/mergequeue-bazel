@@ -2800,7 +2800,7 @@ greatcoat
 gyro 1
 gyne 1
 garni 1
-gershon
+gershon 1
 guzzledom
 gyges 1
 guemul 1
