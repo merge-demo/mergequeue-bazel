@@ -3891,7 +3891,7 @@ bawra
 barklyite 1
 bawsint 1
 brutalness
-bawsunt
+bawsunt 1
 blamelessness
 beechnuts
 bhil 1
