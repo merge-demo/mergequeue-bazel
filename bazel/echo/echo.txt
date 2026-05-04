@@ -13219,7 +13219,7 @@ embosser
 expiscation
 enrheum
 enzooty
-explainable
+explainable 1
 expropriated
 explainableness 1
 eductor 1
