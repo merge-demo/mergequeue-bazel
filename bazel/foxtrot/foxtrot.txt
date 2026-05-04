@@ -6955,7 +6955,7 @@ flaky
 flusherman
 fee
 follily 2
-feeblemindedness
+feeblemindedness 1
 fumigants
 fungivorous 1
 fadeless 1
