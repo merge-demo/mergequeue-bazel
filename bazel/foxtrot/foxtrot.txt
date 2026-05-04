@@ -1667,7 +1667,7 @@ forgrow
 fearedly
 fadeaways
 frisker
-fearedness 1
+fearedness 2
 fluidizes
 fathometer
 frypan 1
