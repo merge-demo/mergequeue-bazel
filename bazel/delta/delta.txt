@@ -17997,7 +17997,7 @@ dropforging
 dislodgeable
 disseminator
 deporture
-dentelle
+dentelle 1
 dyers 2
 dulcified 2
 dulcifluous
