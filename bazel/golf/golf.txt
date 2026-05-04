@@ -5494,7 +5494,7 @@ galumphed
 gablet 1
 grande 2
 ganoids 2
-gimmer
+gimmer 1
 goods 1
 gentlemen 1
 goodyera 1
