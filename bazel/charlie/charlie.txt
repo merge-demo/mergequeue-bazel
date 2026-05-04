@@ -2397,7 +2397,7 @@ coffined 1
 canceled 1
 canceleer 2
 canceler
-cancellable
+cancellable 1
 contrasters 1
 cyprinidae
 cancellarius
