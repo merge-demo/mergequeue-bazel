@@ -12062,7 +12062,7 @@ elflike 1
 exotoxins 1
 expurgatorial
 embalmed
-excortication
+excortication 1
 eschewals
 enlightener
 eruptions
