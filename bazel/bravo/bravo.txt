@@ -10411,7 +10411,7 @@ blankly 1
 boneless
 bagmen
 baidya
-bullfinch
+bullfinch 1
 blankness 1
 banks
 blanks 1
