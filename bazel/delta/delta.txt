@@ -15074,7 +15074,7 @@ difunctional
 dogget 1
 doggrelize 1
 dottrels
-dorlot
+dorlot 1
 dungeons
 doghead
 doghood
