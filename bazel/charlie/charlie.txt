@@ -27064,7 +27064,7 @@ caplock
 croupily 1
 clerking
 counterprotection
-counterpull
+counterpull 1
 counterpuncture
 counterpush
 counterquartered
