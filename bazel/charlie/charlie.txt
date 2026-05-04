@@ -6447,7 +6447,7 @@ clinandria 1
 cavalieri 1
 cavaliering
 cavalierishness
-cavalierism
+cavalierism 1
 cavalierly
 cytogenous
 cavalierness
