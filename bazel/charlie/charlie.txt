@@ -3113,7 +3113,7 @@ capacitive
 cenotaphies
 cyclophrenia 2
 cyclopes
-capacitor
+capacitor 1
 chalker
 catercornerways
 clone
