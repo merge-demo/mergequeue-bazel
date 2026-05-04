@@ -3183,7 +3183,7 @@ epiplastral 1
 exhaustiveness 1
 eom 2
 emmarble 1
-elaborate
+elaborate 1
 evinced
 egghead
 entertainingness 1
