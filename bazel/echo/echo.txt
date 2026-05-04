@@ -4737,7 +4737,7 @@ encircle 1
 embrowned
 emittent 1
 elocutive 1
-entryway
+entryway 1
 euripides 1
 electrowin
 erythrodegenerative
