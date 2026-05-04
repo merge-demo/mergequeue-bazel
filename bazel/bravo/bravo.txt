@@ -5750,7 +5750,7 @@ biophysics
 beaverroot
 bellbinder 1
 budgeree
-bullous
+bullous 1
 barnyards
 biocellate
 bascology
