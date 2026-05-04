@@ -4802,7 +4802,7 @@ excusatory 2
 endocarpic
 encode 1
 exitance 1
-ensnarements
+ensnarements 1
 encoding 1
 effectivity
 embrocate
