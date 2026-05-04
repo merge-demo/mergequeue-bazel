@@ -642,7 +642,7 @@ deploitation
 damnify 1
 dearth 1
 damnificatus
-disoccupation 1
+disoccupation 2
 debarration
 depolarizer 1
 damnifies
