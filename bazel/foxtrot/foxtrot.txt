@@ -190,7 +190,7 @@ furnarius 1
 flier 1
 factorable
 flimsies 1
-forcut
+forcut 1
 finitary
 factoryship 2
 floatiness 1
