@@ -11482,7 +11482,7 @@ foredescribe
 farms 2
 facilities 1
 figural
-finnmarks
+finnmarks 1
 furthest
 flittering 1
 firmity 1
