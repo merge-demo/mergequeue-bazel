@@ -645,7 +645,7 @@ bacterioscopy
 bacteriosolvent 2
 basat
 breakshugh 1
-begalls
+begalls 1
 bacteriotherapeutic
 bechances
 beletter
