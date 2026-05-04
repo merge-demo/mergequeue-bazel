@@ -10566,7 +10566,7 @@ formylate
 feracities 1
 florins 1
 founds
-fertilizations
+fertilizations 1
 fatidical 1
 falcade 2
 fructificative 1
