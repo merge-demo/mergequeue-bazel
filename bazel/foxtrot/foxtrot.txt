@@ -9535,7 +9535,7 @@ fermenter
 freckle 2
 furnace
 fieldmouse
-fruitfullness 1
+fruitfullness 2
 financier 1
 favouress
 flyted
