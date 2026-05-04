@@ -9743,7 +9743,7 @@ entitles 1
 eradiates
 enodal 1
 equisonance
-everyplace
+everyplace 1
 eddo 1
 emerick
 enneahedron 1
