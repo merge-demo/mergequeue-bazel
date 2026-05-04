@@ -6574,7 +6574,7 @@ gastropod 1
 ghettos 1
 grassant 1
 grouplet 2
-grappas
+grappas 1
 glottalization 1
 ground 2
 grabblers
