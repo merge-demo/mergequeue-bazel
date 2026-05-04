@@ -7442,7 +7442,7 @@ furnacite
 francophone 2
 freckliest 1
 ferredoxin
-foreguidance
+foreguidance 1
 firecrest 1
 finner
 freemen
