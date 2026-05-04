@@ -17705,7 +17705,7 @@ butteriness
 biont
 beanos
 braconid
-bankeress
+bankeress 1
 broach
 bicornes 1
 buyer 2
