@@ -10497,7 +10497,7 @@ daglock 1
 disembodies 1
 diphthongize 1
 diazoalkane
-diphthongizing
+diphthongizing 1
 daubentoniidae 2
 didos 1
 decares
