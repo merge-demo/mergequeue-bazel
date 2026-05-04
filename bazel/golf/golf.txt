@@ -4421,7 +4421,7 @@ gorget 2
 grandezza 2
 gearcases
 gongs 1
-grifter 1
+grifter 2
 gorgoneum
 guestling 2
 gutted
