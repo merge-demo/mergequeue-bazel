@@ -384,7 +384,7 @@ ferrymen
 fearer
 filicauline
 forbid
-fairfieldite
+fairfieldite 1
 facets 1
 faceoff 2
 fancifully 2
