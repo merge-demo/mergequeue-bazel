@@ -4255,7 +4255,7 @@ delthyrial 2
 duncan
 destructible
 dineros
-danseuses
+danseuses 1
 deltohedron 2
 dogvanes
 delubra 1
