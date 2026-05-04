@@ -8590,7 +8590,7 @@ forninst
 fricative 1
 flexor 1
 firedragon
-fornix 1
+fornix 2
 fanegada 3
 forspent
 flocculus
