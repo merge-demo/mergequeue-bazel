@@ -3507,7 +3507,7 @@ bateau 4
 bateleur
 barbered 1
 bowerwoman
-bovista
+bovista 1
 bouchal
 bulldoggishly 1
 bubos 1
