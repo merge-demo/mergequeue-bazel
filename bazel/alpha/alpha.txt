@@ -7865,7 +7865,7 @@ angiospermae
 archigaster 1
 alectoromancy 1
 amphibiological
-appointable
+appointable 1
 amicron
 anociassociation
 arrentable
