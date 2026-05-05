@@ -22538,7 +22538,7 @@ conkanee
 conked
 conker
 conservative
-concredit
+concredit 1
 conkers
 coking
 corpulency 1
