@@ -5428,7 +5428,7 @@ deltidial
 dissolves 1
 diplomatics 1
 disc
-denuder
+denuder 1
 dermolysis
 douched
 dialysation
