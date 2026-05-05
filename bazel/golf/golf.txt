@@ -10651,7 +10651,7 @@ glyoxalase 2
 generableness 2
 gliding 1
 gonagra 2
-generalizeable
+generalizeable 1
 gurgitation
 gasolines 1
 gametogony
