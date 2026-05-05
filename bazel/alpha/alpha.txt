@@ -17779,7 +17779,7 @@ antistatic
 afterhours
 appointer
 agapornis 1
-adherently
+adherently 1
 appointers 1
 analysand
 aliamenta
