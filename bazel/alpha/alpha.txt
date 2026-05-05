@@ -14852,7 +14852,7 @@ acronymized
 azoology
 atmas
 astrognosy
-autospray
+autospray 1
 apenteric
 antimachinery 1
 anticyclic
