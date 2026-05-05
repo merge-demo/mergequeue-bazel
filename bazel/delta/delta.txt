@@ -11141,7 +11141,7 @@ dosain 1
 diaphanous
 donating
 disattaint
-disattune
+disattune 1
 defiling 1
 diplomacy 1
 dysautonomia 1
