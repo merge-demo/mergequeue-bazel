@@ -15388,7 +15388,7 @@ cricketed 1
 cen 2
 clappe
 conidiiferous
-clapper
+clapper 1
 clapperclaw
 cloragen 1
 clappered 1
