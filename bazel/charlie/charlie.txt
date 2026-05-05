@@ -7325,7 +7325,7 @@ computus
 coudee 1
 cephalaspis
 condurrite
-cephalate
+cephalate 1
 cephalhematoma
 coracovertebral 2
 cephalic 1
