@@ -8741,7 +8741,7 @@ discriminate
 diatomales
 dedicated 1
 diatomeae 1
-diatomicity
+diatomicity 1
 duetted
 downright
 dinting 1
