@@ -17797,7 +17797,7 @@ codec 2
 centroclinal
 cysterethism
 conjunctivitis
-codeclination
+codeclination 1
 codecs 1
 cellularly
 codefendant
