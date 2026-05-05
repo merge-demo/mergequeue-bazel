@@ -9210,7 +9210,7 @@ chasteweed 1
 censurers
 ceduous 2
 chastiment
-chastise
+chastise 1
 chastiser
 consulships
 clapperboard 1
