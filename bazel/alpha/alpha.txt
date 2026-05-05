@@ -8841,7 +8841,7 @@ adamastor
 anaphora
 aditus
 administered 2
-allocator
+allocator 1
 agynary
 amidrazone
 acadia
