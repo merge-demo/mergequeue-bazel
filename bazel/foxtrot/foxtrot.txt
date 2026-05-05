@@ -3267,7 +3267,7 @@ fittit
 fuzed 1
 foreknowledge 1
 freestanding
-fibrosity
+fibrosity 1
 forthrightly 2
 faradizer
 foppery
