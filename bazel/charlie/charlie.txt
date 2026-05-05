@@ -18841,7 +18841,7 @@ cytogene
 colicroot
 colicwort
 cranial
-chiaroscurist
+chiaroscurist 1
 cervelliere
 colies
 chapt
