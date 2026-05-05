@@ -1466,7 +1466,7 @@ gowks 1
 gamma
 gerousia
 gynocardia 2
-gradualness
+gradualness 1
 guydom
 gasboat 1
 giddiness 1
