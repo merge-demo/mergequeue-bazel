@@ -2643,7 +2643,7 @@ goatee
 glossosteresis 1
 geniality 1
 genetics 2
-gastrolysis
+gastrolysis 1
 gudgeoned 2
 glow
 garg
