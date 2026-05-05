@@ -6608,7 +6608,7 @@ emm 1
 epodes 2
 episcopalians
 enterocyst
-ebonised
+ebonised 1
 etcher 1
 entreating
 enterocleisis 2
