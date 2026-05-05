@@ -24702,7 +24702,7 @@ corkscrewing
 canyons
 cell
 coldish 1
-copping
+copping 1
 croppers
 coppra
 chamidae
