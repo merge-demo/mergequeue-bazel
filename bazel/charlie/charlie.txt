@@ -25271,7 +25271,7 @@ corklike 2
 chiromant
 corkline
 calendars 1
-corks
+corks 1
 corkscrew
 cosmologists
 cyanotrichite 1
