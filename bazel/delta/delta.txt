@@ -3602,7 +3602,7 @@ dodecant
 destituting
 diatonous 2
 degener 1
-declaredness
+declaredness 1
 depredations
 dripping 2
 dextrogyre
