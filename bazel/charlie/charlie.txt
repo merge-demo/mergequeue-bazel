@@ -9057,7 +9057,7 @@ charmingness
 charmless 2
 charmlessly 2
 charmonium 1
-charms
+charms 1
 charneco
 charnockite
 covarecan
