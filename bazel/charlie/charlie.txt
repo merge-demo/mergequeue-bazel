@@ -6884,7 +6884,7 @@ celtiberi
 circularizers
 cofaster 1
 celtiberian
-celticize
+celticize 1
 celtidaceae
 celtiform
 consortiums
