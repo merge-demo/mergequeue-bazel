@@ -10202,7 +10202,7 @@ agathokakological 1
 ambuscado
 autoincremented
 aerofoil
-ambuscadoed
+ambuscadoed 1
 ambushers 1
 allocinnamic
 amphitheaters
