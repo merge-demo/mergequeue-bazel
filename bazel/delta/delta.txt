@@ -15396,7 +15396,7 @@ distoma 1
 dissemblance 1
 decempedate
 dendrochronological
-dynamize
+dynamize 1
 dedications 1
 dominae 1
 delineament 1
