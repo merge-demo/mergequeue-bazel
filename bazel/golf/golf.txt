@@ -354,7 +354,7 @@ gilet 1
 gantlets 2
 gley 1
 graphed
-gasogenic
+gasogenic 1
 gorefish 1
 gangrenous 2
 gunsmith 1
