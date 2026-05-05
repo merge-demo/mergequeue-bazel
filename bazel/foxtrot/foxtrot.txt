@@ -10670,7 +10670,7 @@ foxy
 felsophyre 4
 forescent
 feralin
-fivepenny
+fivepenny 1
 fairstead 1
 fruitstalk
 fg 1
