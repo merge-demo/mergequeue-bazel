@@ -5251,7 +5251,7 @@ consecute 1
 calemes 1
 cassandra
 conc
-crawthumper
+crawthumper 1
 cartman
 cokeman
 creatrix
