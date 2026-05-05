@@ -12481,7 +12481,7 @@ defy 3
 deboise
 demesne
 dislimb 2
-disyllabized
+disyllabized 1
 dumky
 discontinuations
 disconform
