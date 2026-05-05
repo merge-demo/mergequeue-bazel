@@ -11402,7 +11402,7 @@ amps
 assigner
 approximant
 adversive
-admire
+admire 1
 ampul
 admonitory
 anhydremia
