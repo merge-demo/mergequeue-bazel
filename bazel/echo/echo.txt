@@ -10056,7 +10056,7 @@ etceteras
 ethanediol
 erianthus
 ethanedithiol
-enthalpy
+enthalpy 1
 epicoeloma
 erythrophyllin
 encumbered
