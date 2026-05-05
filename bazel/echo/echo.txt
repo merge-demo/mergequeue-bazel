@@ -12439,7 +12439,7 @@ endite
 easting
 epifaunas
 exhortations
-elatery
+elatery 1
 eisegeses 1
 entomostracan 1
 exhortingly 2
