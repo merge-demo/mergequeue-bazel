@@ -7061,7 +7061,7 @@ chisedec
 centerable
 cutup
 chumpivilca 1
-centerboard 1
+centerboard 2
 centerer
 centerfold
 compania 1
