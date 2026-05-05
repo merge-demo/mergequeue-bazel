@@ -4899,7 +4899,7 @@ adoors
 archhost
 anticonservative
 arenite
-areek
+areek 1
 aerodrome
 aerodromes 1
 arbitrating
