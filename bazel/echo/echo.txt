@@ -11500,7 +11500,7 @@ enlistees
 eidolic 1
 electrophotometer 3
 evigilation
-emenders
+emenders 1
 endocrinous 1
 exsecant 1
 exoergic 1
