@@ -1112,7 +1112,7 @@ bedimmed 1
 boatload
 brindled 1
 bluethroat
-boyg
+boyg 1
 bargestone
 breakwind
 burseraceae
