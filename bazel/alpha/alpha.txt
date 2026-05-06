@@ -5270,7 +5270,7 @@ affined
 affinely
 acromiodeltoid
 affines 2
-arthron
+arthron 1
 anthomedusae
 alemanni
 aggerate
