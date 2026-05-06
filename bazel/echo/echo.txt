@@ -11730,7 +11730,7 @@ elementals 1
 enregistry
 exurban
 elasticizing
-exobiology
+exobiology 1
 entreat
 examinable
 eglateres
