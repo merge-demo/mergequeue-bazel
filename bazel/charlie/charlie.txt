@@ -9968,7 +9968,7 @@ chequerwork
 chequin
 cherchez
 chercock
-cherem
+cherem 1
 calcimine
 cherenkov
 cherimoyer
