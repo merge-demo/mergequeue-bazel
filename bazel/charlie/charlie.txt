@@ -16315,7 +16315,7 @@ camleteen
 clipse 1
 colocola
 causticizer
-clipsome
+clipsome 1
 crabmeat
 clipt
 conniption
