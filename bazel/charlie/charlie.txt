@@ -15790,7 +15790,7 @@ clearable
 clearance
 clearances 1
 commensurately
-counterfeitness
+counterfeitness 1
 clearcole
 clearedness
 clearheadedly
