@@ -12532,7 +12532,7 @@ desponsories
 dispractice 1
 dols 2
 decerns 1
-dugout
+dugout 1
 disowning 1
 disinfecting 1
 denormalized
