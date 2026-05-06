@@ -12592,7 +12592,7 @@ escheat
 earthpeas 1
 embrawn
 epsomite
-etymologist
+etymologist 1
 euphon
 ethion
 eunuchry
