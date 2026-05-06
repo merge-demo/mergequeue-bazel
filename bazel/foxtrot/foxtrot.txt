@@ -913,7 +913,7 @@ fallouts
 ferrate 2
 faquir
 farad 1
-faradaic
+faradaic 1
 filleted 1
 fluorometer 2
 flamed 1
