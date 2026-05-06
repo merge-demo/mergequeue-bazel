@@ -3459,7 +3459,7 @@ caldron
 caproin 2
 camptodrome
 causeuse
-comprehends
+comprehends 1
 craniovertebral 1
 capsella
 calyptras
