@@ -18901,7 +18901,7 @@ addoom 1
 aphelian
 aldohexose
 ausu
-aposafranine
+aposafranine 1
 archilute
 archimagus
 augustan 1
