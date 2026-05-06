@@ -8756,7 +8756,7 @@ banjos
 broker
 binding
 bookkeep 1
-bindingness 1
+bindingness 2
 breakfasted
 bekissing
 basoche 1
