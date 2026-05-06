@@ -3489,7 +3489,7 @@ fighting
 formboard
 figo 1
 favillae
-fumaroid
+fumaroid 1
 fibbed
 figshell
 foe 1
