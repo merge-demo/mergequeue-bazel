@@ -2579,7 +2579,7 @@ allotriognathi
 assist
 acoustoelectric
 acpt
-acridinic
+acridinic 1
 acquaint 1
 acquaintanceship
 acidophilus
