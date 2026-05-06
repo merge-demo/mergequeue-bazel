@@ -11727,7 +11727,7 @@ anaglyph
 annulism
 anisopleural 2
 anaglyphs 1
-anaglypta
+anaglypta 1
 aldim
 azomethine
 armorbearer
