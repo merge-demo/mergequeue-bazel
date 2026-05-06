@@ -10880,7 +10880,7 @@ disthene 1
 disguisable 1
 dicaryophyte 1
 damns
-drudging
+drudging 1
 dirty 2
 donates
 dirtied
