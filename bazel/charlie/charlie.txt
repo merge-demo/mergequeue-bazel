@@ -23811,7 +23811,7 @@ contrawise
 contrecoup
 contredanse
 contredanses 1
-contreface
+contreface 1
 coryphees
 contrefort 2
 contrepartie
