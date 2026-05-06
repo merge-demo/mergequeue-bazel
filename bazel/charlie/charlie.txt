@@ -10866,7 +10866,7 @@ carpetbaggers
 counterinsult
 connectedness 1
 chippers
-coefficient
+coefficient 1
 chippewas
 chippy
 cobishop
