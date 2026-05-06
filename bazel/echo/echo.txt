@@ -5165,7 +5165,7 @@ enteroptotic
 extrudability 1
 eisell
 exilic
-exorcizing
+exorcizing 1
 endoderm 2
 elegibility
 eigh 1
