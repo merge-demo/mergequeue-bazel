@@ -1876,7 +1876,7 @@ grecizing
 gossip 1
 gyrostabilized 1
 gleir
-graptolithina
+graptolithina 1
 graveled
 gambles
 gazehound
