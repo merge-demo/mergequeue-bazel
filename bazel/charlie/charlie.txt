@@ -19130,7 +19130,7 @@ carambola
 calfskins
 carrow 1
 collocation
-collocational
+collocational 1
 crojiks
 collocative
 collock
