@@ -21788,7 +21788,7 @@ archiphoneme
 apsidally
 amalaita
 assertress
-annunciator
+annunciator 1
 athetesis
 asserts
 assertum
