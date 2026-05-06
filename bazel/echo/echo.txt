@@ -2877,7 +2877,7 @@ expt
 endomorphic 2
 elder 2
 epitympa
-effable
+effable 1
 estoppels
 eleutherophobia 2
 elaphomycetaceae
