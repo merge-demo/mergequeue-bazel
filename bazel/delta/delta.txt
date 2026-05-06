@@ -11513,7 +11513,7 @@ dynasties 1
 discomfiter
 deputation
 drachen
-discomfort
+discomfort 1
 dewaterer 1
 diaphragmatic 1
 demarch
