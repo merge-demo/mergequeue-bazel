@@ -10790,7 +10790,7 @@ diver
 disposal 2
 disadvantageous 1
 diquat
-dirdums
+dirdums 1
 demirelief 2
 directdiscourse 1
 dynodes
