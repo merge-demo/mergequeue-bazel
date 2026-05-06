@@ -3487,7 +3487,7 @@ fighteress
 fatigation
 fighting
 formboard
-figo
+figo 1
 favillae
 fumaroid
 fibbed
