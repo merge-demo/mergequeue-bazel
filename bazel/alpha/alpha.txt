@@ -2652,7 +2652,7 @@ aking
 acrawl
 amygdalic
 acre
-amount
+amount 1
 afoam
 aquamarine
 ammochaeta
