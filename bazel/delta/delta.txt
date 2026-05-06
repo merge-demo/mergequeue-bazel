@@ -4161,7 +4161,7 @@ delists
 delit
 demonstratorship 1
 dob 1
-delitescent
+delitescent 1
 deliverer
 disincorporate 2
 deliveress
