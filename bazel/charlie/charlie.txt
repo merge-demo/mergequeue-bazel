@@ -2699,7 +2699,7 @@ carriable 1
 cankereat
 cankered 1
 codders
-cephalosporium
+cephalosporium 1
 cording
 cubitopalmar
 catostomus
