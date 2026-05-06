@@ -5471,7 +5471,7 @@ behooving 1
 bacterioprotein 1
 backiebird 1
 beatless
-behoved
+behoved 1
 basting
 behoves
 behoving 1
