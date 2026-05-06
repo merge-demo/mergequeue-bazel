@@ -27234,7 +27234,7 @@ coetus 1
 counterweigh
 counterweight
 counterweighted
-counterweights
+counterweights 1
 counterwheel
 counterwilling 1
 counterwitness
