@@ -2077,7 +2077,7 @@ famishes
 foremasthand
 felicity 1
 fructidor
-fusibleness
+fusibleness 1
 freeform 1
 fideistic 1
 fogle
