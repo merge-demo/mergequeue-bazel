@@ -6075,7 +6075,7 @@ eigenvectors
 echinorhinus
 eoanthropus 1
 enlargeableness
-enlarged
+enlarged 1
 eupepsias
 emydinae
 ecumenicalism
