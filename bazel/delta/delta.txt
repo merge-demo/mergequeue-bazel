@@ -16358,7 +16358,7 @@ dispersal 1
 derelictions
 drainable 1
 downstate
-dolmens
+dolmens 1
 defilade 1
 defrost
 downstrokes
