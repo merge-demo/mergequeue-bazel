@@ -12133,7 +12133,7 @@ butterweed
 boled 1
 bolelike 1
 benniseed
-besmoked
+besmoked 1
 boxtops
 burthening 1
 bikukulla
