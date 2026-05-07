@@ -4435,7 +4435,7 @@ demerit
 demiluster 1
 damoetas
 drones 1
-despairfulness
+despairfulness 1
 desultory
 doubtingness 1
 demesgne
