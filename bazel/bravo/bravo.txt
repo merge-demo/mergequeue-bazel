@@ -12534,7 +12534,7 @@ bloodshot
 barnage 1
 balsamroot
 bourgeoning
-brails
+brails 1
 bridehead 1
 boniface
 battle 1
