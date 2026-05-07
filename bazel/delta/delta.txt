@@ -2179,7 +2179,7 @@ duckier
 decarbonisation 1
 decarbonise 1
 despotically
-decarboniser
+decarboniser 1
 dobsonfly
 ditching
 destine
