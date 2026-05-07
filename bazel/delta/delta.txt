@@ -11016,7 +11016,7 @@ disaligned
 disalliege 2
 deoxidization
 dodona
-downbend 1
+downbend 2
 doorframe
 disallow 1
 displaying 1
