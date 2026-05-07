@@ -7758,7 +7758,7 @@ edelweisses
 ethinamate
 empasma
 eggshells
-executable
+executable 1
 epidiascope 1
 engraff 1
 ecce 2
