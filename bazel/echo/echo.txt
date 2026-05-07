@@ -1296,7 +1296,7 @@ enteroid
 epyllia
 epicranius
 earthless 1
-effectiveness
+effectiveness 1
 eesome
 escuages 1
 explicatively
