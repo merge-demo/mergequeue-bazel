@@ -12939,7 +12939,7 @@ crystallised
 cyan
 cyanamid
 conspires
-coextension
+coextension 1
 chipling
 coaxially
 cyanate
