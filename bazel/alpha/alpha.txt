@@ -24808,7 +24808,7 @@ avis
 aflare
 ambagitory
 augitite
-atractaspis
+atractaspis 1
 almas
 aeluroid
 avisos
