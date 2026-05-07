@@ -5925,7 +5925,7 @@ biggety
 buffaloes 2
 beltane
 belauding
-bimetalic 2
+bimetalic 3
 belter
 bufagin
 buyouts 1
