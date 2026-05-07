@@ -9811,7 +9811,7 @@ fleck 2
 faddist 2
 foamy 1
 fretum
-fidget
+fidget 1
 fluors
 fovilla 1
 freudian
