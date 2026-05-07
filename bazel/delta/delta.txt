@@ -16087,7 +16087,7 @@ derabbinize
 doughier
 doughiest
 drawlingness 1
-doughiness
+doughiness 1
 dwindle 1
 denshire
 daimonistic
