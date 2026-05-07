@@ -729,7 +729,7 @@ gugglet 3
 galvanizers
 gujar
 gripple 3
-galvanizing
+galvanizing 1
 gemmiferousness
 gunner 1
 giantlikeness
