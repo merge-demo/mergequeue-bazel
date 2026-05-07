@@ -6531,7 +6531,7 @@ breadstuff
 bosnisch
 bewelcome 1
 bavarois
-beaming
+beaming 1
 blameable
 backplanes 1
 bagel
