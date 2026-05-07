@@ -3670,7 +3670,7 @@ frayn 2
 fulfilment 1
 flagella 1
 foredate 1
-flawier
+flawier 1
 forelooper 1
 floorings
 fuzzing 3
