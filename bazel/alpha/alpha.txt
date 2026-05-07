@@ -19242,7 +19242,7 @@ areach
 attractions
 antitarnish 2
 amaranthus
-autotypes
+autotypes 1
 areal 1
 albified
 areasoner
