@@ -20032,7 +20032,7 @@ chemurgies
 cadmus
 chrosperma
 commensally
-campodeid
+campodeid 1
 commensals
 chamosite 1
 commensurability
