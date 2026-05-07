@@ -8994,7 +8994,7 @@ autoregulatory 1
 aureolas
 allosome
 allosteric
-allotee
+allotee 1
 allotelluric 1
 allothigenetically
 antimonarchal
