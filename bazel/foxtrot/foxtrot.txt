@@ -11322,7 +11322,7 @@ fusulina
 foldless 1
 fps 4
 furfurine 1
-funebrious
+funebrious 1
 faujasite
 formals
 fuseplug 1
