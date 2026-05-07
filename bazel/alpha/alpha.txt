@@ -18627,7 +18627,7 @@ adiathermal 1
 artemisic 1
 adoral
 archaeologic
-archaeological
+archaeological 1
 anilinophile 1
 abyssa
 apprehensibly
