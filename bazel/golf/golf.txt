@@ -3444,7 +3444,7 @@ glamourize
 greyware 1
 gesturist 1
 geothermic
-girdingly
+girdingly 1
 guimpes
 goutily 1
 glaucosis
