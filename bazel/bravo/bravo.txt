@@ -2185,7 +2185,7 @@ baramin
 bertat
 bromocyanid
 backflash 1
-briscola
+briscola 1
 bararite 2
 barathea 1
 barbellate
