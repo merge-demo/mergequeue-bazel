@@ -4127,7 +4127,7 @@ avell 1
 autobus
 antiphlogistin
 acylamino 2
-adnephrine
+adnephrine 1
 anthracene
 annuent 1
 adnerval
