@@ -4808,7 +4808,7 @@ completion
 carbodiimide
 carport 1
 carpos
-chibouk
+chibouk 1
 carposporangial
 catalase
 carlist 2
