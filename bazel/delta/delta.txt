@@ -6983,7 +6983,7 @@ draco
 deaeration
 despiteful
 digs 1
-dinoflagellate
+dinoflagellate 1
 docility 1
 drags 3
 dumbfoundment
