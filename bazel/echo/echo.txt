@@ -13743,7 +13743,7 @@ enzyme 2
 extinguished 1
 extinguisher 1
 extinguishers
-entoptically
+entoptically 1
 ectoplasm 2
 extipulate
 eryngoes
