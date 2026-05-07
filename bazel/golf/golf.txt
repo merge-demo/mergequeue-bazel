@@ -10384,7 +10384,7 @@ gelatiniser 1
 gutta
 gullies
 gems 1
-groans
+groans 1
 girandola
 goujon 1
 gullying
