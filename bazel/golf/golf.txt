@@ -3112,7 +3112,7 @@ granula 2
 gymnasisia 2
 groined
 glucosine
-gelatinity
+gelatinity 1
 grassie
 gumdrops 1
 gomuti 1
