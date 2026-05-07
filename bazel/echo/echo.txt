@@ -3770,7 +3770,7 @@ edulcorate
 enamellist 2
 elegiacs 2
 embruting
-embubble
+embubble 1
 exflagellation
 eschatology
 embulk
