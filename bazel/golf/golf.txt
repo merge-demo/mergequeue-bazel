@@ -8009,7 +8009,7 @@ ghosthood
 gangsman
 gouvernante
 grapnels
-glaucine
+glaucine 1
 gunstocking 1
 gastronomy
 gastronomics 1
