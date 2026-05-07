@@ -2046,7 +2046,7 @@ gerocomia
 gavelocks 1
 gattine
 gasometrically
-goaf
+goaf 1
 gallied
 glime
 grapeful
