@@ -10801,7 +10801,7 @@ engrafts 1
 embracer
 eucrystalline 2
 elastance 1
-eurodollar
+eurodollar 1
 eleanor 1
 expurgatory
 ethide 1
