@@ -8616,7 +8616,7 @@ equielliptical
 equigranular 1
 equilateral
 eriogonum
-equilibrant
+equilibrant 1
 extractively 1
 enframe 1
 electrodynamometer 1
