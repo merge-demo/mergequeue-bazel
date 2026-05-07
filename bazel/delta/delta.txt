@@ -10674,7 +10674,7 @@ dinornithoid
 dawties 1
 dissipating
 durned
-draws
+draws 1
 derivable
 declinometer
 downstreet 2
