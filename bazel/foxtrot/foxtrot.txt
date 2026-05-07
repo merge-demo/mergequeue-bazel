@@ -8473,7 +8473,7 @@ filmsetter
 fortin
 frondesce 1
 factorized 1
-formatter
+formatter 1
 father 1
 floridans 1
 flunkeyite 2
