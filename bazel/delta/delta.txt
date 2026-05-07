@@ -9239,7 +9239,7 @@ debarkation 1
 disilluded
 discolour
 decorament
-dollface
+dollface 1
 divined
 disinsectization 1
 dislegitimate 1
