@@ -3888,7 +3888,7 @@ alphorns
 ayes
 atrabiliousness 1
 adjectional
-antireductive
+antireductive 1
 anastatica
 autoactivation
 adjectives
