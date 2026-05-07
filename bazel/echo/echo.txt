@@ -7302,7 +7302,7 @@ ejicient 1
 enclitics
 exlex
 elechi
-engird
+engird 1
 excheat
 encharnel
 emigres
