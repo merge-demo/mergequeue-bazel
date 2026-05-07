@@ -6309,7 +6309,7 @@ diselder
 depurated 1
 dermatozoon 3
 deadens 1
-dermatozoonosis
+dermatozoonosis 1
 deutzias 1
 dryophyllum
 dermatozzoa
