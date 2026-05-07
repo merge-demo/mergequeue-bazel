@@ -11058,7 +11058,7 @@ funambule
 fondaco
 fedia
 flamenship 1
-frontality
+frontality 1
 funambuloes 1
 filled 1
 fixups
