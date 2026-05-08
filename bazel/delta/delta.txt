@@ -7058,7 +7058,7 @@ driveable 1
 dessous 1
 devall
 doodad 2
-durst
+durst 1
 dessus
 destabilization
 doolie 1
