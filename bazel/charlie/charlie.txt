@@ -18584,7 +18584,7 @@ combusted
 clerkhood
 coin
 cephalopod 1
-coyly
+coyly 1
 crowders
 corralled
 connex
