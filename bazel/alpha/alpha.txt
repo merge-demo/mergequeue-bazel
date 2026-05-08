@@ -12416,7 +12416,7 @@ afflictions
 androgynal
 alterity
 arillode 1
-androgyne
+androgyne 1
 androgynia
 androgynies 1
 angiostomy
