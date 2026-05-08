@@ -11243,7 +11243,7 @@ amphigories
 appenders
 allthing
 amphikaryotic
-affluently
+affluently 1
 abrege
 atchison
 arzrunite
