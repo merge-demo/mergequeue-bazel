@@ -14872,7 +14872,7 @@ breadwinning 1
 breakability
 bilith 1
 brokers
-breakable
+breakable 1
 breakaxe
 bitterless
 burning
