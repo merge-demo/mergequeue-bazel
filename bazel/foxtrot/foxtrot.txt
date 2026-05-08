@@ -4918,7 +4918,7 @@ forged
 frequentable 1
 flambeau
 foamier 1
-fixate
+fixate 1
 fossilist
 finisher
 floreat 1
