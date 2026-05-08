@@ -9638,7 +9638,7 @@ antiblue
 allgood
 airworthiest
 aluminising
-aluminize
+aluminize 1
 aviary
 archer
 asserted
