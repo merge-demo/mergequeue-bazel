@@ -4651,7 +4651,7 @@ demised
 depas 1
 didynamia 1
 diploglossate
-delineable
+delineable 1
 drysalter
 dislodging
 decem
