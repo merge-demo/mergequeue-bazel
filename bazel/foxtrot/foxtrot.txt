@@ -37,7 +37,7 @@ fabricator
 formularize 2
 flintless 1
 furies 1
-farmscape 1
+farmscape 2
 flick
 fervently 1
 finically 1
