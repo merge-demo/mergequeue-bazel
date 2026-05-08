@@ -319,7 +319,7 @@ disinteress 1
 dourine
 dalasi
 daybooks
-deckman
+deckman 1
 desand 1
 desquamative
 desmidiaceae
