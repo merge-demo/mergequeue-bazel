@@ -23031,7 +23031,7 @@ cannibalizes
 consonantness
 consonants
 clinograph
-collapsibility
+collapsibility 1
 conscriptive
 cutty
 consonate
