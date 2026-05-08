@@ -24649,7 +24649,7 @@ copolymer
 copolymerization 1
 copolymerize
 cossas 1
-cruciated
+cruciated 1
 copolymerized
 copolymerizing
 copouts
