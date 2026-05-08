@@ -709,7 +709,7 @@ employing
 enspell
 equidistant 1
 eidently
-enode 1
+enode 2
 eyefuls
 enterozoa 2
 equalable
