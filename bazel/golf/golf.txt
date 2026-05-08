@@ -5793,7 +5793,7 @@ grunts 1
 goupin
 gnatworm
 genupectoral
-goniometer
+goniometer 1
 globoid 1
 geobotanically 1
 garblers 1
