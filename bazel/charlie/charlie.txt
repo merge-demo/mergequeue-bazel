@@ -11646,7 +11646,7 @@ charoset
 chowdered
 clethra
 cholesterinic 1
-cholesterol
+cholesterol 1
 clepsydrae
 cholesterolemia
 cholesteroluria 1
