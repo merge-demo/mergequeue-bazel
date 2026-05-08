@@ -2576,7 +2576,7 @@ dipneumones 1
 dimmed
 distelfink
 dynasty
-declinatory
+declinatory 1
 disentwined 2
 declines 2
 declining 1
