@@ -5880,7 +5880,7 @@ bretons 1
 butterbur
 bellwether 2
 bradmaker
-bellwort
+bellwort 1
 belock 1
 basimesostasis
 belomancy 1
