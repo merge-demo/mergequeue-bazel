@@ -9340,7 +9340,7 @@ geronomite
 glossas
 goldurn 1
 glycuronid 1
-governability 1
+governability 2
 griffs
 gruf
 geophila
