@@ -3314,7 +3314,7 @@ bedwell
 bothering 1
 basisphenoidal
 barbut
-basitemporal
+basitemporal 1
 beguilers 1
 balao 1
 besotment
