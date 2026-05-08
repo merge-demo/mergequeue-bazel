@@ -15829,7 +15829,7 @@ alloisomeric 2
 antiphrases 1
 antiphthisic 1
 amberiferous
-antiepileptic
+antiepileptic 1
 amphisbaenian
 afloat
 authorization 1
