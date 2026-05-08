@@ -1228,7 +1228,7 @@ articulator
 adelite
 antiproductiveness
 acarapis
-asaphic
+asaphic 1
 acarari
 ardelia
 acarian
