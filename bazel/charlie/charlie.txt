@@ -25841,7 +25841,7 @@ coolant 1
 corruptingly 1
 cimicid
 cocooning
-circumflexes
+circumflexes 1
 corruption
 corruptionist
 cerographies
