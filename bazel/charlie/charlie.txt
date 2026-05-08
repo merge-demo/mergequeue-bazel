@@ -25888,7 +25888,7 @@ correction
 curette
 convertable 1
 corset 1
-corsetier 1
+corsetier 2
 concluding
 corsetiere 1
 conicalness
