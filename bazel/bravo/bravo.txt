@@ -9266,7 +9266,7 @@ becafico
 bipod
 bipods 1
 botches
-bipolarity 1
+bipolarity 2
 bipolarization 2
 besmear
 bloodlusting

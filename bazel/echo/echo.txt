@@ -2364,7 +2364,7 @@ encomia
 evenlong 1
 electrocataphoresis 1
 equison 2
-ephedrine
+ephedrine 1
 electrochronometric 1
 enfroward 1
 estafetted
