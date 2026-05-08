@@ -6503,7 +6503,7 @@ bombyx 1
 bepretty
 bedirt
 beghard
-bejabbers
+bejabbers 1
 bepuffed 1
 beetleheaded
 bequalm
