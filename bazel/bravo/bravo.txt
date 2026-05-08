@@ -16641,7 +16641,7 @@ brember
 balza 1
 buccolabial 2
 bucconinae 1
-buccopharyngeal
+buccopharyngeal 1
 bucculae 3
 butyr
 bloused
