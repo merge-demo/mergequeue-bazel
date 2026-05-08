@@ -4316,7 +4316,7 @@ glazings
 grieves
 gippy 1
 grads
-gluttonous
+gluttonous 1
 garganeys 1
 gentisein
 gustativeness
