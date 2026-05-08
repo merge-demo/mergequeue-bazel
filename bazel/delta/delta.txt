@@ -3346,7 +3346,7 @@ disregards 1
 definitions
 dormant
 dilatant
-deliriate
+deliriate 1
 diastem
 demitting
 desisted
