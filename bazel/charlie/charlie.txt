@@ -6811,7 +6811,7 @@ cellars 2
 chirologies
 cellarwoman
 cellblock 1
-celled
+celled 1
 centennium
 cellepore
 cellfalcicula
