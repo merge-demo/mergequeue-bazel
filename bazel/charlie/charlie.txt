@@ -29821,7 +29821,7 @@ cropshin 2
 cropsick 1
 cropweed
 calorimeters 1
-casekeeper
+casekeeper 1
 criminalese 1
 cytons
 croquets
