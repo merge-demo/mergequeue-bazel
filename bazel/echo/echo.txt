@@ -3973,7 +3973,7 @@ elevator
 emotivity 1
 epileptology 1
 exorability 2
-epitases
+epitases 1
 empaistic
 exilarch
 embroglio
