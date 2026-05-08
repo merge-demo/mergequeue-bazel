@@ -10635,7 +10635,7 @@ diplont
 delisting
 diplonts
 diplophase
-difficultness
+difficultness 1
 dosology
 deviously
 dulias
