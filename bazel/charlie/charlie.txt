@@ -3334,7 +3334,7 @@ cognominate
 caponiers 1
 cavilling 1
 cotyledon
-concavely
+concavely 1
 cirrous 1
 chaos
 calabash
