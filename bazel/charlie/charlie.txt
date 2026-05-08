@@ -4259,7 +4259,7 @@ chyometer
 capsulotome 1
 caress
 cir
-caressed
+caressed 1
 captainries
 caresser
 clobberer
