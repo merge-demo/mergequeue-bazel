@@ -5867,7 +5867,7 @@ funebre
 farding 2
 fastigia
 fdtype
-fowlers
+fowlers 1
 flocced
 frustulose 1
 footsoldier
