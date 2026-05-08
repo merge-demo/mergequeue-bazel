@@ -11916,7 +11916,7 @@ astraea
 antimasquerade
 anticriticalness 1
 altarist
-anammonide
+anammonide 1
 achterveld
 anantherous
 ananthous
