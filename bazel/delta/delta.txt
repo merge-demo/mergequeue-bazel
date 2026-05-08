@@ -1490,7 +1490,7 @@ dazzler 1
 disillusions
 dazzlers
 damnification 2
-dazzlingness
+dazzlingness 1
 dbms
 degenerationist
 dbridement
