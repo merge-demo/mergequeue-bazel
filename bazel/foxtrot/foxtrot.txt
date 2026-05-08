@@ -4393,7 +4393,7 @@ funt 1
 floorshifts
 flagged
 forbearances
-frenums
+frenums 1
 fishbowls
 flexive
 forky 1
