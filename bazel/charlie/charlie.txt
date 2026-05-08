@@ -25851,7 +25851,7 @@ cattily 1
 contretemps
 corruptive 1
 corruptively
-corruptly
+corruptly 1
 colubriformes 1
 corruptor 1
 conglutinative
