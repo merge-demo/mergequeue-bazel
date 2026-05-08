@@ -4789,7 +4789,7 @@ extrarhythmical
 emboite
 erosiveness 1
 enscrolling 2
-elucubration
+elucubration 1
 elator
 enclosures
 emprent
