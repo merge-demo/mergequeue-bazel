@@ -3269,7 +3269,7 @@ army
 azimin
 ambassadeur 2
 algebraize
-acutance
+acutance 1
 amyloids 1
 acutances
 anisoptera
