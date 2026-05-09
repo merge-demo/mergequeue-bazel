@@ -28248,7 +28248,7 @@ cursors
 crasher 1
 crashers 1
 crashes 1
-conventically
+conventically 1
 crashing
 crashingly
 crashproof
