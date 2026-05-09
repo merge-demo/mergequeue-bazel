@@ -3406,7 +3406,7 @@ gyroscopic 2
 gainor 1
 guttulate
 gymnoceratous
-geosid
+geosid 1
 gerontocrat 1
 gigglish
 grains
