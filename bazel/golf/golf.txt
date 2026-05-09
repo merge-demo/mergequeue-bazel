@@ -9938,7 +9938,7 @@ gulleting
 guardable
 guardedness 1
 gastroparalysis 1
-greening
+greening 1
 gathered 1
 geoglyphic
 gedd
