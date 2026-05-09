@@ -4690,7 +4690,7 @@ fortitudes
 fixer
 fluey
 forefeeling
-fixidity
+fixidity 1
 fixing
 flannelleaf
 fixt
