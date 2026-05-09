@@ -3570,7 +3570,7 @@ bathkol
 bipartite 1
 bathmat
 bathmats
-broodsac
+broodsac 1
 bereaven
 basion 1
 bathmism
