@@ -14676,7 +14676,7 @@ cystourethrography
 cistron
 cistronic
 cochon
-cistrons
+cistrons 1
 conventionality 1
 cists
 cistudo
