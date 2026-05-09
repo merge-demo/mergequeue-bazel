@@ -6253,7 +6253,7 @@ drupe 1
 dermatoconiosis
 dermatodynia
 demisability
-disown
+disown 1
 distrainer
 dermatography
 dezincation
