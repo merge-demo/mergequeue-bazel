@@ -5099,7 +5099,7 @@ boundedness
 beflag
 bamboo
 binits 4
-basilicon 1
+basilicon 2
 beflagged
 broidering
 bodymaking
