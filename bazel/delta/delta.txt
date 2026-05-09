@@ -11718,7 +11718,7 @@ discoach 1
 discoverable
 distilland 1
 disworth
-dorms
+dorms 1
 dockman
 discoverer 1
 decancellation
