@@ -3714,7 +3714,7 @@ flannelboard
 folder
 fillable 1
 frownless
-fiercen 1
+fiercen 2
 flavorlessness
 featherers
 frail 1
