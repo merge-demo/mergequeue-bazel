@@ -20985,7 +20985,7 @@ armorless
 ascensionist
 ascaridol
 ascensions 1
-arenae
+arenae 1
 archgenethliac 1
 axeman
 ascertain
