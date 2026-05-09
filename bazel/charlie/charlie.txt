@@ -2085,7 +2085,7 @@ campaigns
 colostric
 campana
 campane
-campanella
+campanella 1
 coadjuvancy
 campania
 cecils
