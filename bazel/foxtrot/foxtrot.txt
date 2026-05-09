@@ -4743,7 +4743,7 @@ foresey 2
 forerank 1
 faldfee
 forthink
-fablemongering
+fablemongering 1
 forestry
 flo
 fertil 1
