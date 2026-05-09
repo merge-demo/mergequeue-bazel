@@ -9958,7 +9958,7 @@ eschars
 ennew 1
 ecclesiae
 estrif
-estrin
+estrin 1
 elk 1
 estrums 2
 extrospection 2
