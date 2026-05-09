@@ -2036,7 +2036,7 @@ gases 2
 gaveled
 gibbosities
 gnomologic
-greiges
+greiges 1
 guazuti
 gavelock
 grunion 1
