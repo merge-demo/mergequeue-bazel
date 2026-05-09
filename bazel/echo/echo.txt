@@ -11554,7 +11554,7 @@ ess 1
 extypal 2
 extraburghal
 elenchus
-encodement
+encodement 1
 embrittled
 errantness
 ennoy
