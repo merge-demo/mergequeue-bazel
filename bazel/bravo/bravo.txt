@@ -5137,7 +5137,7 @@ bromhidrosis
 ballota 2
 bloodthirstiness 1
 baubling
-banco
+banco 1
 befools 1
 bridgeport
 budworm
