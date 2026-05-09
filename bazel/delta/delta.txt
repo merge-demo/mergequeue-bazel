@@ -14482,7 +14482,7 @@ decoupling
 delly 1
 deckhouse
 degauss
-diphyzooid
+diphyzooid 1
 decapitating 1
 devitaminize
 drouk
