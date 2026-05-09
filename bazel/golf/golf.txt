@@ -3240,7 +3240,7 @@ getatability 1
 gally
 graffage
 gazement
-gormandizer
+gormandizer 1
 gynecologists 2
 gerasene 2
 gesturer 2
