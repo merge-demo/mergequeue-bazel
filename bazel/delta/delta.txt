@@ -1273,7 +1273,7 @@ dreamlore
 dimouts 1
 danthonia 1
 discal
-dusted
+dusted 1
 diazoic
 denari
 demitasses 1
