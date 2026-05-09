@@ -6406,7 +6406,7 @@ cauterism
 carafe 1
 correcter
 conchfish
-cauterizer 1
+cauterizer 2
 cauterizes
 caution
 cautionary
