@@ -7083,7 +7083,7 @@ fraken 1
 fledge 1
 fedayeen
 foolish
-ferryboats
+ferryboats 1
 fascinating
 fleapit
 forespeech
