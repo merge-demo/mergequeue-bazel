@@ -18683,7 +18683,7 @@ coislander
 clogs
 cleading 2
 coistril
-commutate
+commutate 1
 coital
 conflictful
 codium
