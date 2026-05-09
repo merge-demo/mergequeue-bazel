@@ -13020,7 +13020,7 @@ elopement
 epopee
 endochondral
 espiegle
-embryonal
+embryonal 1
 ezba 1
 entastic
 existentially
