@@ -18587,7 +18587,7 @@ didrachm
 dewool
 duskness
 dust
-delphian
+delphian 1
 dustbins
 dustcart
 devocalisation
