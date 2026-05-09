@@ -9792,7 +9792,7 @@ dogmatiser
 dipsos
 dermatocyst
 dillesk 1
-daimones
+daimones 1
 denumerable
 deicer
 digesters
