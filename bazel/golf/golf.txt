@@ -1995,7 +1995,7 @@ gams
 glyptical 2
 gaurian
 gasting
-gaurie
+gaurie 1
 gaurs 1
 glamourous 1
 gaussage
