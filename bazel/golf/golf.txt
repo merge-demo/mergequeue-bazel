@@ -7522,7 +7522,7 @@ glitch 2
 guessable
 glottalized
 gat
-governed 1
+governed 2
 gotten 3
 graecizing
 governesses
