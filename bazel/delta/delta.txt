@@ -3232,7 +3232,7 @@ dents
 defend 2
 dikast 1
 dolmenic
-demimondaine
+demimondaine 1
 dissentient 1
 distrainor
 defendant
