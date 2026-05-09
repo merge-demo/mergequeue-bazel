@@ -6642,7 +6642,7 @@ desorb
 defatigated 2
 duendes
 dustband 1
-dipped
+dipped 1
 dictyotaceae
 desertfully
 deserticolous
