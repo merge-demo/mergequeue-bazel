@@ -9833,7 +9833,7 @@ fordicidia
 flaggers 1
 fissileness
 frib 2
-fruitage 1
+fruitage 2
 faden 2
 fribbler 1
 friskle
