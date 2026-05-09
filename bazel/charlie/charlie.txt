@@ -3348,7 +3348,7 @@ commissariat
 coderives
 caponize
 crispate
-caponized
+caponized 1
 contrasty 1
 caponizer
 caponizing
