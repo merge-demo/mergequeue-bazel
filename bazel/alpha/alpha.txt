@@ -3263,7 +3263,7 @@ acupuncturist 1
 acus
 atrabile
 anisotropism
-atresy
+atresy 1
 acetanion
 army
 azimin

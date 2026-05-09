@@ -12586,7 +12586,7 @@ boogeyman
 balance 1
 bonnnes
 bonnocks
-bonnwis
+bonnwis 1
 bionomist
 bonorum
 bisector
