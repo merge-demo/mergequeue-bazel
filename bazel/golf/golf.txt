@@ -6795,7 +6795,7 @@ gentilitial 1
 gyrostatics
 genal 1
 genros 1
-gondola
+gondola 1
 goniums
 glanis 1
 garbleable 2
