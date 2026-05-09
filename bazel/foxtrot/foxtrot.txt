@@ -2741,7 +2741,7 @@ fascis
 foliolate
 fiercer 1
 fragmentarily
-fellinic
+fellinic 1
 fesses
 flaunche 2
 facetiation 1
