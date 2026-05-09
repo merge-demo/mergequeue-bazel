@@ -9122,7 +9122,7 @@ charterless
 chartermaster
 charters
 cryptograms 1
-cindered
+cindered 1
 chartist 1
 chartless
 caricatured
