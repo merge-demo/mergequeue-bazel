@@ -1298,7 +1298,7 @@ adephagia
 argentinize 1
 autodrainage
 acates
-acatholic
+acatholic 1
 attemptless
 aromatic 1
 aggregant 1
