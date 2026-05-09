@@ -2156,7 +2156,7 @@ deterrable
 decapitations
 disassemble 1
 downfall
-dicecup
+dicecup 1
 decalcomanias
 decapodal
 dawn 1
