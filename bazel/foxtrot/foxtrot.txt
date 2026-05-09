@@ -11040,7 +11040,7 @@ flanerie
 ferruminate 1
 fumishing
 friendliness
-fermented
+fermented 1
 fumuli
 fungated
 fere
