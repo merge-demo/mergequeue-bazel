@@ -2549,7 +2549,7 @@ chemist
 cerevis 1
 candler
 candlerent 2
-concealed
+concealed 1
 candlers
 casework 1
 collaborated
