@@ -1241,7 +1241,7 @@ folds
 fassalite 1
 fastbacks 4
 frigor 1
-flatdom 1
+flatdom 2
 faradism
 fastening
 frocked 1
