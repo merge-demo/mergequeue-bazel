@@ -13370,7 +13370,7 @@ backshift 1
 bothrenchyma
 bluenoses
 billsticker 2
-bandage 1
+bandage 2
 benjamite 2
 bothriocephalus 1
 brosimum

@@ -14642,7 +14642,7 @@ assignments
 antialcoholic
 akerite
 antialcoholism 1
-antialcoholist
+antialcoholist 1
 antialdoxime
 angiectopia
 anchorless 1
