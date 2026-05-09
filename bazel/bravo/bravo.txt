@@ -1050,7 +1050,7 @@ bolete
 babyhouse 1
 becost
 blousier
-buzzards
+buzzards 1
 burghal
 bailors
 birdlimed
