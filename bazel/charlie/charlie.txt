@@ -11583,7 +11583,7 @@ cupellation
 cholecystocolostomy
 cognisability 1
 colonialization 1
-cholecystogastrostomy 1
+cholecystogastrostomy 2
 cholecystogram
 cholecystography 1
 cholecystokinin 1
