@@ -6379,7 +6379,7 @@ bracted
 biozone 1
 belgium
 benzoglycolic
-benzoglyoxaline
+benzoglyoxaline 1
 bastioned 1
 benzohydrol 1
 benzoylated 1
