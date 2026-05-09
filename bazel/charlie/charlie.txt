@@ -18908,7 +18908,7 @@ cosigner
 calligrapher
 colladas
 crematoria
-collage
+collage 1
 convicted
 collagenase 1
 collagenous
