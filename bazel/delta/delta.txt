@@ -4859,7 +4859,7 @@ demonise 1
 dactyliotheca
 dodlet
 deaneries
-ductile
+ductile 1
 declive 1
 durrie 1
 depredationist
