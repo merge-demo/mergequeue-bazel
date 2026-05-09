@@ -8995,7 +8995,7 @@ gradgrindish 2
 glander 1
 gushers
 getable
-gigant
+gigant 1
 glenlike
 greenbelt
 guiltier 1
