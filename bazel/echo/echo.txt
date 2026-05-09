@@ -5360,7 +5360,7 @@ encharm 1
 epiphyte
 epituberculous
 exasperation
-endosteoma
+endosteoma 1
 essentialism
 exerts
 exosepsis
