@@ -17661,7 +17661,7 @@ dualize
 dialogic
 disaffiliates
 decare
-desulphurating
+desulphurating 1
 disapprovingly 1
 dystopia
 demonomancy
