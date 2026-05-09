@@ -25915,7 +25915,7 @@ cortexes
 cortication
 cortices
 corticiferous
-cordula
+cordula 1
 corticifugally 1
 catchier
 corticine
