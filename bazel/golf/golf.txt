@@ -5236,7 +5236,7 @@ groundline 2
 garrulousness 2
 gleety
 glottidean
-guineaman
+guineaman 1
 glottiscope 3
 gastriloquist
 gibbals
