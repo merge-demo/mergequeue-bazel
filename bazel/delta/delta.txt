@@ -17240,7 +17240,7 @@ dressmake
 dureresque 1
 drizzly
 drizzlier
-drizzliest
+drizzliest 1
 diablery
 digresser
 dirigo 1
