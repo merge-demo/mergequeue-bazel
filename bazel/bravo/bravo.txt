@@ -3210,7 +3210,7 @@ beknave
 baclava
 bravish
 blowzily
-basidiospore
+basidiospore 1
 basidiosporous 1
 buckbush
 batiked
