@@ -2355,7 +2355,7 @@ barbwire 1
 barbwires
 bullpout 1
 bothsidedness 1
-betatter
+betatter 1
 barhopped 1
 bilertinned 1
 barcella
