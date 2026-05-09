@@ -7610,7 +7610,7 @@ farrier 1
 fossula 1
 felty 1
 ferroglass
-fastly
+fastly 1
 fees 1
 funipendulous
 fescenninity
