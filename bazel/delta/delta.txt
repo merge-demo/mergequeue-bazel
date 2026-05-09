@@ -4532,7 +4532,7 @@ decern 2
 dorsilumbar
 distraughted 1
 devocation
-drabbled
+drabbled 1
 demigroat
 dogmatician
 dotier 2
