@@ -24438,7 +24438,7 @@ coops
 coparty
 catchpole
 cooptate
-coopting
+coopting 1
 coopts 1
 coordinal
 cashment
