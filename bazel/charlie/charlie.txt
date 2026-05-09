@@ -5084,7 +5084,7 @@ cesspipe
 coestate
 cytocide 1
 chemoprophylaxis
-cascable
+cascable 1
 cascadable 1
 cascade
 crankous 1
