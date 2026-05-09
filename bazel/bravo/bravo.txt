@@ -8934,7 +8934,7 @@ beautifiers
 backwort 1
 beledgered 1
 blepharochalasis 2
-benumbedness
+benumbedness 1
 biogenesist
 bloodflower
 betocsin
