@@ -5356,7 +5356,7 @@ everglades 1
 exsertion 1
 endospore 1
 evidentness 1
-encharm
+encharm 1
 epiphyte
 epituberculous
 exasperation
