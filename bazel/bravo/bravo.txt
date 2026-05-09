@@ -13522,7 +13522,7 @@ bichromate
 beleft 2
 boisterousness
 becursing
-backhanded
+backhanded 1
 butterbough 1
 barnacled 1
 bibliophile 2
