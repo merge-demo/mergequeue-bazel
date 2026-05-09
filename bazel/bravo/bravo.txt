@@ -2015,7 +2015,7 @@ bank 1
 bankalachi 1
 beshivers
 bidactyl 2
-bloodstones
+bloodstones 1
 bankcard
 bethought
 banky
