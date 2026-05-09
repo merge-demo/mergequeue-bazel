@@ -10246,7 +10246,7 @@ genesee 1
 generating 1
 guimbard 1
 gorsehatch 1
-geographics
+geographics 1
 gershom 2
 goglets
 gomontia
