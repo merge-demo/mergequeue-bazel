@@ -23314,7 +23314,7 @@ consumes
 catamnestic
 cardioblast
 consuming
-consumingly
+consumingly 1
 consummated 1
 consummating
 calamaroid
