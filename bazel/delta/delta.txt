@@ -6822,7 +6822,7 @@ desks
 dragade 1
 destined
 deslime
-dissoconch
+dissoconch 1
 desmachyme 1
 daubery
 dockworker
