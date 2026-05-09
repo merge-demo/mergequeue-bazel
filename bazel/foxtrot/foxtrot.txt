@@ -6294,7 +6294,7 @@ fluked
 fertilisability 1
 fuliginosity 1
 fluent
-flukeworm
+flukeworm 1
 follicle 1
 ferryhouse
 fob
