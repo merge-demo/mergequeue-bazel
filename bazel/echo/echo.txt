@@ -2561,7 +2561,7 @@ exorcist
 endocritic
 eminency 1
 eatable 2
-ezra
+ezra 1
 emptiable
 electrometer 3
 exstrophy 1
