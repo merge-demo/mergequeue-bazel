@@ -15389,7 +15389,7 @@ dragginess 2
 domiciles
 domiciliate
 domiciliated
-demineralizer
+demineralizer 1
 detectivism 1
 domification
 distoma 1
