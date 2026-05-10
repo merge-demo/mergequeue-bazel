@@ -8156,7 +8156,7 @@ erudit
 echeveria 1
 episcopate
 expulsions 2
-entosphere
+entosphere 1
 elaidinic
 estacade 1
 episcopature 1
