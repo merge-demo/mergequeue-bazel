@@ -3211,7 +3211,7 @@ dictums 1
 dasyures
 damselflies 1
 dudelsack 1
-dashpot
+dashpot 1
 defeit
 de
 dogdom
