@@ -9397,7 +9397,7 @@ decrete
 durabilities
 decadic
 discontentive
-dissoluble
+dissoluble 1
 diffusate
 dipnoous
 deploring
