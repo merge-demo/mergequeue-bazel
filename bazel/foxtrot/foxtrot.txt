@@ -5234,7 +5234,7 @@ fulfil
 fourling
 fleas
 fluxroot
-fratcheous
+fratcheous 1
 flavid
 fluctuosity 1
 foetiferous
