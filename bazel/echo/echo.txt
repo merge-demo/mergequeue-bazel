@@ -8803,7 +8803,7 @@ equestrial
 elide 1
 ensellure
 eight
-etruscans
+etruscans 1
 egritude 1
 esteems 2
 enskyed 1
