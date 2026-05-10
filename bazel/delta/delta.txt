@@ -18642,7 +18642,7 @@ dutymonger
 deactivations
 deodorizer
 disalignment
-decasyllable
+decasyllable 1
 denunciatively
 decury
 disforest
