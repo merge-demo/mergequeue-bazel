@@ -7208,7 +7208,7 @@ grasshopperdom
 gaditan 1
 greenthumbed
 geotectonics 2
-give
+give 1
 geocratic
 gape 2
 gorgosaurus
