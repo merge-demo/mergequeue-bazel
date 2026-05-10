@@ -6822,7 +6822,7 @@ bes
 bushpig
 boaedon 1
 bivouac
-busboy
+busboy 1
 battalia
 bitulithic
 besagne
