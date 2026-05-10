@@ -4450,7 +4450,7 @@ encarnalize
 enteropneust 1
 egghot
 effervesces
-emicate
+emicate 1
 echards 1
 edifices 1
 encarnalized
