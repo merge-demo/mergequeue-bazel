@@ -12139,7 +12139,7 @@ anatomiser
 adulterates
 anatomize 1
 anopsy
-anatomizer
+anatomizer 1
 advisiveness
 attacco
 anatopism
