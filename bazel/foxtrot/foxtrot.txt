@@ -4606,7 +4606,7 @@ fistulina
 forbbore
 fighter 2
 footnoting
-fistwise
+fistwise 1
 fit
 fontally
 fringilliform
