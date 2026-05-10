@@ -5821,7 +5821,7 @@ encloser 2
 enray 1
 ephoi 1
 effluvia
-environing
+environing 1
 environmentalist
 elephant
 electroencephalograms
