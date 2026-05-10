@@ -29886,7 +29886,7 @@ crossbreeding 1
 crosscuts
 coachman 1
 courtier
-coling
+coling 1
 cuttikin
 centrifuges
 crosscutting
