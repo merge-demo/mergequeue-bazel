@@ -12856,7 +12856,7 @@ episcopal
 exoticness
 enantioses
 ensile
-exotics
+exotics 1
 exotoxic
 exacerbate
 enlarger
