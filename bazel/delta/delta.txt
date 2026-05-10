@@ -2863,7 +2863,7 @@ desensitizations
 dramatizations
 donors 1
 dynatron
-decumanus
+decumanus 1
 daphnin 1
 dolomitised 1
 diskos 1
