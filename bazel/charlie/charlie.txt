@@ -19230,7 +19230,7 @@ cooperating
 colmars
 cisandine
 colmose
-colocate
+colocate 1
 chiquest
 colocated
 colocephali
