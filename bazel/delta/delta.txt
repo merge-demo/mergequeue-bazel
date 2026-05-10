@@ -4188,7 +4188,7 @@ decylenic 1
 delocalised
 delocalize 3
 dermoreaction
-decrustation
+decrustation 1
 dretch
 dextrorotatary
 denigrators
