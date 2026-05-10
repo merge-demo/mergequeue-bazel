@@ -5572,7 +5572,7 @@ fratch
 flybys
 forfault 2
 fallaciously
-filamentar
+filamentar 1
 fiendlike
 flaxlike
 folkvangr 1
