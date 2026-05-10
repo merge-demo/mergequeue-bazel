@@ -17214,7 +17214,7 @@ devulcanization 1
 drivenness
 drivepipe 1
 driver
-despising
+despising 1
 drivers
 drivership
 dmarche
