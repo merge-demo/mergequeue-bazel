@@ -9533,7 +9533,7 @@ groupist 1
 genipapada
 guar 1
 grs
-gristliness
+gristliness 1
 guacico
 griminess 1
 groundkeeper 1
