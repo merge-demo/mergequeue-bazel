@@ -16318,7 +16318,7 @@ causticizer
 clipsome 1
 crabmeat
 clipt
-conniption 1
+conniption 2
 clique 1
 censorable 1
 clags 1
