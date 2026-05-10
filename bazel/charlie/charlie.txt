@@ -9805,7 +9805,7 @@ chalybean
 corrugates 1
 cowardliness
 clubroot
-combattants
+combattants 1
 carpologist
 chemick
 calanid
