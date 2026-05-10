@@ -5134,7 +5134,7 @@ emuls
 embracingness 1
 encysted
 electrosensitive
-emanatistic
+emanatistic 1
 epilogic 1
 eobiont
 estray
