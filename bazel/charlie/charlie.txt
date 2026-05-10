@@ -11253,7 +11253,7 @@ chemotropism 1
 compaternity
 carlin
 chlorimeter
-chlorimetric 1
+chlorimetric 2
 chlorinated
 chlorinating
 curly
