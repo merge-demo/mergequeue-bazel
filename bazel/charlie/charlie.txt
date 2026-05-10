@@ -18180,7 +18180,7 @@ circumesophagal
 coptis 1
 coessentiality
 centerless
-coessentially
+coessentially 1
 cervulus 1
 coetaneous
 coeternal
