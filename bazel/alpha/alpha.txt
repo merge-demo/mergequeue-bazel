@@ -10820,7 +10820,7 @@ affricates 1
 anack 1
 ammonate 1
 auxiliation
-abortogenic
+abortogenic 1
 anaesthetics 1
 angleworms
 azureness
