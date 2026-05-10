@@ -2055,7 +2055,7 @@ gazzetta
 gutterize 2
 gavels
 gavia 1
-geminiform
+geminiform 1
 gio
 grapheme
 gaynesses 1
