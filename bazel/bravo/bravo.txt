@@ -13383,7 +13383,7 @@ bisulc
 beothuk 2
 boltant 1
 bothway
-burgle
+burgle 1
 bunched
 bediapers 1
 botocudo
