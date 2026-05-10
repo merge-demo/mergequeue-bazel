@@ -9439,7 +9439,7 @@ formic
 fraternised
 footstone 4
 following
-fraternism
+fraternism 1
 fitfulness
 finesses 1
 faux
