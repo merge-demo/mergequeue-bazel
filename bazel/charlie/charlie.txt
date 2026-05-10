@@ -27044,7 +27044,7 @@ counterprick 1
 cark
 combinatoric 1
 counterprinciple
-counterprocess
+counterprocess 1
 counterproductive
 counterproductively
 counterprogramming
