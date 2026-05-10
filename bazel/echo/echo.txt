@@ -12878,7 +12878,7 @@ endsheet 1
 excommunicating 2
 elvish 1
 eserines
-extorting
+extorting 1
 erastus 1
 expandible
 editions 1
