@@ -2240,7 +2240,7 @@ ghazies
 grisled 1
 genette
 gekkonid
-gristle
+gristle 1
 gossipmongering 1
 galactase 1
 gastrotome 1
