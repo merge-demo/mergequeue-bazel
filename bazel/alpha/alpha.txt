@@ -23493,7 +23493,7 @@ augrim
 aggravator
 aphorizer
 ambidexterous 1
-ansel
+ansel 1
 arguendo
 atrabiliarious
 augurate
