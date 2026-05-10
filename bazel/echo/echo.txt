@@ -3354,7 +3354,7 @@ eyry
 entrep
 eulogic 1
 expresses
-environed
+environed 1
 elegies
 encheer
 ermit
