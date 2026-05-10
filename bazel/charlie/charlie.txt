@@ -302,7 +302,7 @@ camote
 cacidrosis
 coreopsis 1
 cacimbo
-cacimbos
+cacimbos 1
 caciques 1
 cosmolined
 countenances 1
