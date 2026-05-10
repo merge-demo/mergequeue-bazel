@@ -3305,7 +3305,7 @@ flounces 1
 ferrelled 1
 fortier
 fulgency
-finity
+finity 1
 factitious
 flirtationless
 framed 2
