@@ -1878,7 +1878,7 @@ antifaction
 acetabulous
 atheromas
 afifi
-acetabulums
+acetabulums 1
 acetacetic
 autopsic 1
 acetalize 1
