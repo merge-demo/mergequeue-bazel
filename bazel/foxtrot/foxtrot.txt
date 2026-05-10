@@ -1792,7 +1792,7 @@ flaunts
 foredoes 2
 flannelet
 featherwing
-featherwise
+featherwise 1
 fjorded
 femcee 1
 familiarisingly
