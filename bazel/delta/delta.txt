@@ -12486,7 +12486,7 @@ dumky
 discontinuations
 disconform
 disillusionising
-disdeceive
+disdeceive 1
 decimalize
 disillusionments
 diaphanousness
