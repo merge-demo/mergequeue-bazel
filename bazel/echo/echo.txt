@@ -4441,7 +4441,7 @@ extispices 2
 enthymeme 2
 e 1
 espacement
-ejaculation
+ejaculation 1
 encaptive
 entomion
 exhilarative 2
