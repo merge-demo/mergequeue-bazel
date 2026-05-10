@@ -4859,7 +4859,7 @@ gnomonics
 gleg 1
 gigantize 1
 greenings
-goiterogenic
+goiterogenic 1
 gladfulness
 galaxian
 geck
