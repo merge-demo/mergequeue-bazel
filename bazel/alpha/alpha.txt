@@ -3225,7 +3225,7 @@ activation 1
 azaserine
 actuation 1
 acturience 1
-acuaesthesia
+acuaesthesia 1
 achingly
 acuclosure 1
 acuductor
