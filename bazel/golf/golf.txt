@@ -439,7 +439,7 @@ gardenable 3
 gammexane
 grapefruits 1
 garrote
-gallantness 1
+gallantness 2
 goldless 1
 gibbetted 1
 galipoidine
