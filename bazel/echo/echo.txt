@@ -7636,7 +7636,7 @@ engines
 elne
 exactest
 extrafascicular 3
-extratelluric
+extratelluric 1
 epicondylic 1
 erected
 epoptist 1
