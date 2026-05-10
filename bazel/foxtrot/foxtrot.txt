@@ -2576,7 +2576,7 @@ ferrocene 2
 fogramity 2
 flongs 1
 ferrocyanate 4
-ferroelectric
+ferroelectric 1
 fingerbreadth 1
 fattier 2
 fouty
