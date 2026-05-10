@@ -2408,7 +2408,7 @@ dimercuric
 decyl
 deciles
 decylic
-dorsiparous
+dorsiparous 1
 deciliter 1
 druidry
 destituent
