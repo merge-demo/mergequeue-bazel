@@ -9171,7 +9171,7 @@ feat
 foveole 2
 folded
 federations
-formalizable
+formalizable 1
 fooyung
 fadednyess
 figulines 1
