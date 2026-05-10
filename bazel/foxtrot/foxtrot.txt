@@ -2937,7 +2937,7 @@ furazane
 frustums
 fencing
 floccipend 1
-farfetch 1
+farfetch 2
 fluellite 1
 flyoff 2
 filialness
