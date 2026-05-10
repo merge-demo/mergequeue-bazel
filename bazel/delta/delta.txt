@@ -11103,7 +11103,7 @@ daturas 1
 disennui
 disarms
 dishonouring
-disarray
+disarray 1
 dictatorial 1
 downflow
 disarrays 1
