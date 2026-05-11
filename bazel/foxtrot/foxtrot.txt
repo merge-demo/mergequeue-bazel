@@ -1468,7 +1468,7 @@ font 1
 flavorings
 fruiter
 favourable 1
-friedman 1
+friedman 2
 fiqh 1
 flamer 1
 foreshows
