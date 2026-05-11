@@ -7392,7 +7392,7 @@ disowned 1
 detonations
 dusking
 demean
-detonative
+detonative 1
 detonize
 detour 1
 duncifying
