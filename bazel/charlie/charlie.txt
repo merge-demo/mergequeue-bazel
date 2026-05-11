@@ -15692,7 +15692,7 @@ clavicembalo 1
 claviceps
 caiarara 1
 cartage
-clavichord
+clavichord 1
 caulopteris
 colonialistic
 clavicymbal 1
