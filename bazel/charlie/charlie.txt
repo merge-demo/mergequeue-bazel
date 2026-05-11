@@ -21,7 +21,7 @@ corkmaking
 caught
 cabaletta
 cestas 2
-cardplaying
+cardplaying 1
 chertiest 1
 cabalisms
 crackerberries
