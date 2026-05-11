@@ -17846,7 +17846,7 @@ dismark
 denervate 1
 dabb
 desubstantialize 2
-dunst
+dunst 1
 dezincing
 dudism
 diaconicum
