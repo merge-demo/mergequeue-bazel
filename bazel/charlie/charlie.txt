@@ -7308,7 +7308,7 @@ conchitis
 clincher
 commercer
 constitution
-conicity
+conicity 1
 carnelians
 cryptolunatic
 chloro
