@@ -19001,7 +19001,7 @@ crenele 1
 caloricity
 collectivize
 collectivized
-collectivizes
+collectivizes 1
 collectivizing
 collectivum
 cocrucify 1
