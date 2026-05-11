@@ -9295,7 +9295,7 @@ glucuronic 1
 goyana 2
 gurge
 gangliate
-galactophagous
+galactophagous 1
 gunj 1
 gi 2
 geodynamicist
