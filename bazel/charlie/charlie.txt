@@ -25859,7 +25859,7 @@ chapper
 corruptress
 corrupts 1
 corsac 1
-corsacs
+corsacs 1
 connarus 1
 corsages
 corsairs
