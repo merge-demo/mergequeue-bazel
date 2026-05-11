@@ -18131,7 +18131,7 @@ backstabbing 3
 betulinamaric
 biogas
 bedfordshire
-battalion
+battalion 1
 badmouthing
 butene
 butenyl
