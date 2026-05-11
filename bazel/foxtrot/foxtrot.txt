@@ -7386,7 +7386,7 @@ forbiddingly
 farfels
 fewnes
 flatworms
-floatplane
+floatplane 1
 frost 1
 fattened 2
 fierding 2
