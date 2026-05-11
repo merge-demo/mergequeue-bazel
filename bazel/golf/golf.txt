@@ -3822,7 +3822,7 @@ gibstaff 1
 greyhound
 gratefulness 3
 greyling 1
-greenbugs
+greenbugs 1
 gabbard 1
 greenland 1
 gavialoid
