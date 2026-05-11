@@ -12700,7 +12700,7 @@ attle 1
 angelize
 alliterated
 angelized
-angellike
+angellike 1
 auf
 almoravid
 angelolatry
