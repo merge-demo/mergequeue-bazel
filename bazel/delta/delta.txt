@@ -4819,7 +4819,7 @@ demolisher
 demolishing
 daily
 discide
-discharge
+discharge 1
 demolition 1
 demolitionist
 dictyosiphonaceous
