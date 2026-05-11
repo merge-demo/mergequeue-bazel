@@ -11154,7 +11154,7 @@ earthdrake 1
 exophagous 1
 epaulet
 entity 1
-eadi
+eadi 1
 evacuated 2
 epitomatory 1
 endeavored 1
