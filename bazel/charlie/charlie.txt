@@ -27841,7 +27841,7 @@ cozie
 conspect
 civiliser
 cp 1
-clitoridean
+clitoridean 1
 contractus
 cpd
 chemurgic 2
