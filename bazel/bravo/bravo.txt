@@ -8201,7 +8201,7 @@ biflagelate 1
 bewaring 1
 boring
 borrow
-biflex
+biflex 1
 benchfellow
 beginger
 bifluoride 1
