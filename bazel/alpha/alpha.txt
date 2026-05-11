@@ -11731,7 +11731,7 @@ anaglypta 1
 aldim
 azomethine
 armorbearer
-acacatechin
+acacatechin 1
 ablator
 acnodes
 anagogic
