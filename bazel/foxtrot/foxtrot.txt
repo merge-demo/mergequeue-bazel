@@ -9066,7 +9066,7 @@ fractionation 1
 forenent
 folding
 fiant
-friesish
+friesish 1
 funnellike 1
 fenter
 forbruise
