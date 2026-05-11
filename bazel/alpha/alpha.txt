@@ -23937,7 +23937,7 @@ archvestryman
 authorizer
 alluvions
 agostadero
-authorizes
+authorizes 1
 authorless
 authors
 aeries
