@@ -24057,7 +24057,7 @@ circularise 1
 conversationable
 competency
 coactor
-crimpy 1
+crimpy 2
 conversationalists
 conversationally
 conversationism
