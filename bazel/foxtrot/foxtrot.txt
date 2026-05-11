@@ -1358,7 +1358,7 @@ fidac
 flaggish 1
 fanning
 fatigue 2
-fossicks
+fossicks 1
 fatiguesome
 fragmenting 1
 fishbones 2
