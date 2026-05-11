@@ -4260,7 +4260,7 @@ floridians 2
 fusarium 2
 flaxbird 2
 fax
-foreignize
+foreignize 1
 feverish
 fungose 1
 flatterers
