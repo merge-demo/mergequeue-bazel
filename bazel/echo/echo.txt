@@ -8111,7 +8111,7 @@ enthuse 1
 epiprecoracoid
 extrude 1
 elegant
-epipterous
+epipterous 1
 epipubis 1
 expostulations
 erminois 2
