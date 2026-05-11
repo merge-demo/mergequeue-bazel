@@ -5974,7 +5974,7 @@ gurneys
 glutaminic 3
 galliambus
 gimbri
-gome
+gome 1
 glutelins 1
 greaten
 guerrillaship
