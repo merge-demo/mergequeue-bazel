@@ -15111,7 +15111,7 @@ bunkered 2
 brevilingual
 bestirring
 besmearer 1
-breviloquent
+breviloquent 1
 blimp
 bushhammer 1
 breviradiate
