@@ -8193,7 +8193,7 @@ dermalith
 diaconal
 disenorm
 dauby
-diaconica
+diaconica 1
 depotentiation
 dragooning
 deputable 1
