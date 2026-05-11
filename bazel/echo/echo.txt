@@ -4128,7 +4128,7 @@ earlships 1
 ecardinal 1
 endosarc
 electrorefine
-emplecton
+emplecton 1
 exuberancy
 employability
 evenly
