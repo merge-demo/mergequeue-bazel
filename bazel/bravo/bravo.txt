@@ -4426,7 +4426,7 @@ batule
 bandleader 2
 becloak 1
 bereavement 1
-boojum
+boojum 1
 beclog
 becoiffed
 bulkiness
