@@ -185,7 +185,7 @@ damas
 decipherer 2
 daedaloid 1
 diel
-diaplasma
+diaplasma 1
 daedalous 1
 divulgated
 defilable
