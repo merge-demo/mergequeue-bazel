@@ -8520,7 +8520,7 @@ chimbley
 corslet
 chanca
 chance
-clow
+clow 1
 chemosterilants
 chanced 2
 categorical
