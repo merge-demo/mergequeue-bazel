@@ -891,7 +891,7 @@ gotha
 gametocyst
 glycoluril 1
 gametocyte 2
-grayout 2
+grayout 3
 gametogenic
 gooseflesh 2
 gueparde 3
