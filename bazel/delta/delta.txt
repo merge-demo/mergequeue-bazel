@@ -8239,7 +8239,7 @@ diadochokinesia
 diadoumenos
 dowly
 diaene
-diaeretic
+diaeretic 1
 detoxicated
 diageotropic
 diaglyphic
