@@ -5240,7 +5240,7 @@ cassabas
 cassabully
 customs
 cultist
-carthorse
+carthorse 1
 custodiam
 crwth 1
 champacs
