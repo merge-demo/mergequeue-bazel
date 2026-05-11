@@ -15123,7 +15123,7 @@ delawn 1
 degustate
 dubitatively
 dipolarization
-dogstones
+dogstones 1
 dogtie 3
 degenerated
 dogtooth
