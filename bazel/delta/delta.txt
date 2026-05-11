@@ -5497,7 +5497,7 @@ dorsiventrality 1
 deoxidize
 doryphoros
 deoxygenated
-depaints
+depaints 1
 divestitures 1
 dilatation
 deoxyribonucleotide
