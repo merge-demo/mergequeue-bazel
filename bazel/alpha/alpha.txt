@@ -8339,7 +8339,7 @@ automatical
 amphiphithyra
 affectum 1
 alimony
-abrenunciate
+abrenunciate 1
 argolet
 alymphia
 apocrypha
