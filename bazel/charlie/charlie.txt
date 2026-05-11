@@ -6674,7 +6674,7 @@ cedrol
 corticiform
 cedrus
 crioceris 1
-cardiosymphysis
+cardiosymphysis 1
 cedula
 cee
 ceibas
