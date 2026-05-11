@@ -5919,7 +5919,7 @@ catha 1
 capillatus 1
 convolutionary
 cathay
-cathayan
+cathayan 1
 cathar 1
 cathari 1
 catharina
