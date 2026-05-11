@@ -20411,7 +20411,7 @@ companage
 circumfluent
 counterword
 cerebroma
-cannels
+cannels 1
 company 1
 companias
 condensative 1
