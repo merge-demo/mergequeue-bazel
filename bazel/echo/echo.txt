@@ -10661,7 +10661,7 @@ exogenic
 extentions 2
 euergetes
 epimyth
-embryotrophe
+embryotrophe 1
 eunuchs 2
 expediment 1
 easeless 3
