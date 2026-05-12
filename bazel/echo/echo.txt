@@ -8050,7 +8050,7 @@ entoconid 1
 enstatitic 1
 easements
 escapingly
-evident
+evident 1
 expound
 entertaining
 enteroscope
