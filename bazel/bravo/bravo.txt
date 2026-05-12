@@ -15570,7 +15570,7 @@ barbule 1
 boardable 1
 brisking
 briss
-backwoodsman
+backwoodsman 1
 bolsterer
 brist 3
 bombproof
