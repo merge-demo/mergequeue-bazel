@@ -1712,7 +1712,7 @@ feasibly 1
 fashionmonger
 flighted
 fascio
-floats
+floats 1
 filicin 1
 fomites 3
 fortravail
