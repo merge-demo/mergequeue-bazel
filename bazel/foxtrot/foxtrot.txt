@@ -9663,7 +9663,7 @@ forfairn
 freibergite
 fulgorous
 fruit
-fowled
+fowled 1
 flipflop
 foretoken 4
 faldstool
