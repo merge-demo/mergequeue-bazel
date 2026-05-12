@@ -24673,7 +24673,7 @@ arabized
 actinidia 1
 anastrophia
 archimage
-autostylic
+autostylic 1
 averagely
 averageness
 averaging 1
