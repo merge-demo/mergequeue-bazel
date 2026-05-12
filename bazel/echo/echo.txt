@@ -3369,7 +3369,7 @@ egglike 1
 epanthous 3
 embays 1
 ethylenediamine
-extranormal 1
+extranormal 2
 emballonuridae
 eulachons
 essentialities
