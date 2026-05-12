@@ -134,7 +134,7 @@ fiberizer
 fomes 2
 filicic 1
 fackeltanz
-freemasonry
+freemasonry 1
 frill 4
 fumiferous 1
 flashforwards 2
