@@ -7946,7 +7946,7 @@ beclad 1
 bap
 bushels
 brusher
-bicarbureted
+bicarbureted 1
 bicarburetted
 binucleated 4
 beanbag 1
