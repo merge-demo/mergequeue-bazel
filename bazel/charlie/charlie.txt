@@ -8710,7 +8710,7 @@ cassican
 cartwheels 1
 coto
 chaparejos
-chaparral
+chaparral 1
 chaparrals
 chaparraz
 chromatoscope 2
