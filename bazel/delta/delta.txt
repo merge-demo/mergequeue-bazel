@@ -12934,7 +12934,7 @@ dowment 1
 deniability
 dimensionless
 disomatic
-doubtmonger
+doubtmonger 1
 dermostosis
 degreeing 2
 docilities 1
