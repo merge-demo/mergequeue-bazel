@@ -7315,7 +7315,7 @@ deplaned 1
 dipneumona
 demifarthing
 decarbonating
-deckings
+deckings 1
 dishevely 1
 durene
 depilate 2
