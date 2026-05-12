@@ -6916,7 +6916,7 @@ exudation 4
 exarchal
 elasticize
 escudos
-embonpoint
+embonpoint 1
 ephoric
 eighteenths
 exuviable
