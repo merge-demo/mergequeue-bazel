@@ -10753,7 +10753,7 @@ jrnml 1
 jrnmpbrcqglu 3
 jrnnjmi 1
 jrnnvnggnpsi
-jrnos
+jrnos 1
 jrnssbryvzemb 1
 jrntqgm 1
 jrnzcllrgbr
