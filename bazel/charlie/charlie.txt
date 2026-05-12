@@ -447,7 +447,7 @@ cacti 2
 crowners
 concrete
 cactiform
-communications
+communications 1
 cactoid
 combind
 crocodilean 1
