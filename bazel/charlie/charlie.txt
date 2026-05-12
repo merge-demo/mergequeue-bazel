@@ -6488,7 +6488,7 @@ cavefish 1
 cavey
 chromoscope
 cavekeeper
-cavelet 1
+cavelet 2
 confiner 1
 cambodia
 cavelike
