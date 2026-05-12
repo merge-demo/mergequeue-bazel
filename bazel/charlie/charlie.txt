@@ -28939,7 +28939,7 @@ cribellum
 cribose
 cribrate
 cribriform
-cribriformity
+cribriformity 1
 convertaplane
 cribs
 conelike 1
