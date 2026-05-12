@@ -5615,7 +5615,7 @@ enfold 1
 ethyl 1
 exceptionalness 3
 epicene
-engendrure
+engendrure 1
 edenization 1
 ethiopia
 euthanatize
