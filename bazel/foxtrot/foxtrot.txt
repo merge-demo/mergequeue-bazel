@@ -8822,7 +8822,7 @@ fanlight 1
 female 2
 fidel 1
 fearable 2
-flexured
+flexured 1
 friss 2
 familiarly 1
 feucht
