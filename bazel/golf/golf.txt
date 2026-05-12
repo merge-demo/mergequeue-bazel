@@ -5531,7 +5531,7 @@ gustier 1
 genear
 globalizing 2
 gisants
-groggeries
+groggeries 1
 gyrovagi
 gently
 gump 1
