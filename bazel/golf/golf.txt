@@ -7192,7 +7192,7 @@ grattoirs 1
 grizzlies
 gutterwise
 gripman
-gainlessness
+gainlessness 1
 gentoo
 grayest 1
 goodwillit 2
