@@ -5437,7 +5437,7 @@ forseek
 fitchery
 fusobteria
 femur
-filterable
+filterable 1
 flexuosely 4
 floatative
 foggy 1
