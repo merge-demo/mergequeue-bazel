@@ -21435,7 +21435,7 @@ calybite
 conclusum 1
 caseful
 chapellage
-concoagulate
+concoagulate 1
 congestions 1
 cannibality
 concoct
