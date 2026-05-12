@@ -565,7 +565,7 @@ dromon 1
 disbursable
 disfranchiser 1
 damaskeen 1
-dod
+dod 1
 damaskine 1
 dynamoneure 1
 denounces
