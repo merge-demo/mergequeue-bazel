@@ -2017,7 +2017,7 @@ ektexine
 elabor
 epibenthic
 episternite
-evictees
+evictees 1
 emulsic
 equisonant
 endodontist
