@@ -6103,7 +6103,7 @@ flossiness 1
 ferrer
 frondeur
 fortnights 1
-fervidity
+fervidity 1
 freighter
 frettation
 filical
