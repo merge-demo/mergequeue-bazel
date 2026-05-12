@@ -1456,7 +1456,7 @@ amortize
 acclimatise 1
 acclimatised
 acclimatiser
-acclimatising
+acclimatising 1
 aegagrus
 applewood 1
 aborsive
