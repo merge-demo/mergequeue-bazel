@@ -6804,7 +6804,7 @@ eggheads
 entitling 1
 ecclesioclastic 1
 entoblastic
-entobronchium
+entobronchium 1
 eelgrass
 ellinge 1
 entocyemate
