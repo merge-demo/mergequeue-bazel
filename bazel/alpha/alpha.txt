@@ -8507,7 +8507,7 @@ alkies
 assessable
 airplane
 accelerograph
-alkylarylsulfonate
+alkylarylsulfonate 1
 anallergic
 agnate
 alkylate
