@@ -17787,7 +17787,7 @@ blinkered 1
 backing 2
 boosters
 bounce
-bejabers
+bejabers 1
 bearnaise
 bandeng 1
 banjoists
