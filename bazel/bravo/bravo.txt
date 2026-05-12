@@ -12479,7 +12479,7 @@ bondstone
 burntness
 bather
 bagpiped 1
-buphthalmos
+buphthalmos 1
 bone
 bejaundice
 bumpily
