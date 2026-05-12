@@ -25643,7 +25643,7 @@ corpuscularian 1
 colombian
 confinedness
 completed
-corpuscularity
+corpuscularity 1
 corpuscule
 corpusculous 2
 chairlift
