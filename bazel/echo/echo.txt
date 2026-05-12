@@ -10216,7 +10216,7 @@ etesian
 epanodos
 exantlate
 ensporia 1
-externalisation
+externalisation 1
 exoticity 1
 eavesdropped 1
 equisized
