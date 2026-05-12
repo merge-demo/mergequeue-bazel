@@ -20379,7 +20379,7 @@ autoradiography
 authenticators 1
 apothgm
 alefzero
-awearied
+awearied 1
 alabaman
 archegoniatae 1
 avision
