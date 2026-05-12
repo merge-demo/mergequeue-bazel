@@ -9520,7 +9520,7 @@ evenhead
 eugenesis 1
 epimorphism
 extrasolar 1
-exempt
+exempt 1
 envois
 esuriently 1
 esebrias 2
