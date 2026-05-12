@@ -8060,7 +8060,7 @@ gypsydoms
 guttulae 1
 geminiflorous 1
 gravels
-glenoidal
+glenoidal 1
 granitiform 1
 geomancer 2
 gastrostomus 1
