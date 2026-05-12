@@ -2904,7 +2904,7 @@ froglike
 farsightedly
 flows 1
 fouettes 1
-floorcloth
+floorcloth 1
 find
 febricide 1
 fibrose 1
