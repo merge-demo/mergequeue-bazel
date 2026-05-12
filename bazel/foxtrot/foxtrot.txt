@@ -9292,7 +9292,7 @@ forcelet 1
 franchisees 1
 foulings
 fairkeeper
-fertil 1
+fertil 2
 flagons 1
 fordull 1
 foregoers 2
