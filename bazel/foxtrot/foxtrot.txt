@@ -10536,7 +10536,7 @@ forehanded
 falltime 1
 forcipiform 1
 frowze 2
-franking
+franking 1
 fluky
 flatus
 festivous 3
