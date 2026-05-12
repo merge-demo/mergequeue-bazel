@@ -302,7 +302,7 @@ abnormals
 abdominoscopy
 agas
 admiratively 1
-abdominothoracic
+abdominothoracic 1
 acquiescent
 astoundment
 abdominous
