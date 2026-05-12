@@ -7056,7 +7056,7 @@ duramen
 destinezite
 driveable 1
 dessous 1
-devall
+devall 1
 doodad 2
 durst 1
 dessus
