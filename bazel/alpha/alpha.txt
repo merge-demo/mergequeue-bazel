@@ -25234,7 +25234,7 @@ ammonal 1
 azelaic
 antical
 aciduria
-azeotrope
+azeotrope 1
 alveoloclasia
 abstrict 1
 azeotropic
