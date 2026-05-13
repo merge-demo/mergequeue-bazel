@@ -12534,7 +12534,7 @@ dols 2
 decerns 1
 dugout 1
 disowning 1
-disinfecting 1
+disinfecting 2
 denormalized
 disinfections
 decrowned
