@@ -6027,7 +6027,7 @@ floras 2
 furnaced
 focusless
 freakish
-frottage
+frottage 1
 fluty
 floreating 1
 folletto 1
