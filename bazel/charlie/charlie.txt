@@ -25332,7 +25332,7 @@ coldbloodedness 1
 corncutter
 corndodger
 cornea 1
-corneal 1
+corneal 2
 corneas
 cheddaring
 cappelenite 1
