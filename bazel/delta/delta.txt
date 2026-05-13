@@ -7941,7 +7941,7 @@ dexes
 desertward 1
 disestablismentarianism
 dexiotrope
-dyeable
+dyeable 1
 dexiotropic 1
 dishwashing
 dollarbird
