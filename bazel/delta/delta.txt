@@ -9776,7 +9776,7 @@ dogfishes
 domino 1
 dclass
 dilettanti
-decriminalizing
+decriminalizing 1
 dilettantism
 diligence 1
 diligences
