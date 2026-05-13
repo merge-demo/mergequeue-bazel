@@ -1853,7 +1853,7 @@ epidiorite
 encystments 1
 errabund 1
 elaterin 4
-equitemporal
+equitemporal 1
 expeller
 eremology 2
 erastian 2
