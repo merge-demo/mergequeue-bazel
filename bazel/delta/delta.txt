@@ -12476,7 +12476,7 @@ doubtably
 dertrum
 damageableness
 dancette
-dexterity
+dexterity 1
 defy 3
 deboise
 demesne
