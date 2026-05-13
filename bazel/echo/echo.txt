@@ -3414,7 +3414,7 @@ exteroceptor 1
 equilibrium
 elohist
 em 1
-embarricado
+embarricado 1
 embarring
 elementoid
 ethnarchy
