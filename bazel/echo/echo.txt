@@ -10566,7 +10566,7 @@ eclectical 2
 ensurers 1
 equational
 elevates
-excursionary
+excursionary 1
 encoffinment
 ethylenic
 eckehart 1
