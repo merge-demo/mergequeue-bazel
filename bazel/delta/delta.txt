@@ -10782,7 +10782,7 @@ delay 1
 divas
 dependent
 dipterus 1
-dotterel
+dotterel 1
 diptychs 1
 differencing
 dipware 1
