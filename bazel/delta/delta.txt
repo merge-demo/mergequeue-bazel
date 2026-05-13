@@ -1121,7 +1121,7 @@ dashed
 dicentra 1
 dipnoid
 dermopathy 1
-dumpfile
+dumpfile 1
 dryfist
 dashee
 dasheen
