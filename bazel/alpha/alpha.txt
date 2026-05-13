@@ -11417,7 +11417,7 @@ ampullula
 amputate
 anuresis 1
 amputates
-amputation
+amputation 1
 aboding
 amputational 1
 antiliberalness
