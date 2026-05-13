@@ -15630,7 +15630,7 @@ discomfiting
 doorpiece
 drivel 1
 dowl
-doghouses
+doghouses 1
 detumescent 2
 displacement
 derth
