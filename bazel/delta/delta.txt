@@ -16219,7 +16219,7 @@ densitometer
 dowitchers
 determinedness 1
 dares
-demagogs
+demagogs 1
 decanters 1
 derange 1
 darneder
