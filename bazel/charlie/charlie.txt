@@ -12053,7 +12053,7 @@ chorusmaster 1
 chorussed 1
 chorusses
 cathedralic
-chorussing
+chorussing 1
 creatively
 coll 1
 cymbalo 1
