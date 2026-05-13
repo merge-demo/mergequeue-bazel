@@ -1639,7 +1639,7 @@ entrez
 enterobacterium 2
 eyah
 embliss 1
-equating
+equating 1
 earthpea 2
 eschaufe
 eichhornia
