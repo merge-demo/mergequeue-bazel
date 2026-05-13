@@ -9541,7 +9541,7 @@ desulphurise 1
 digitizes
 digitizing
 desorbed
-decimosexto
+decimosexto 1
 downthrow
 decimated
 draggly
