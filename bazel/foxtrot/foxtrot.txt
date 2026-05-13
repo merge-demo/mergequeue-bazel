@@ -2618,7 +2618,7 @@ fountainless 1
 frivol 3
 filigreed
 flutework
-ferio
+ferio 1
 farandmen 1
 foraminated 1
 folkfree 1
