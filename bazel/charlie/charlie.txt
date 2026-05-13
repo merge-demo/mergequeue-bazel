@@ -27500,7 +27500,7 @@ chimers
 covariant
 colorism 1
 cathisma
-chadri
+chadri 1
 clitellar 1
 clavier
 cuban
