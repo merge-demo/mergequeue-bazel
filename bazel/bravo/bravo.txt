@@ -11860,7 +11860,7 @@ bodkin
 bodkins 1
 boardlike 1
 barmybrained
-bowknot
+bowknot 1
 birdsall
 bakshished
 biotaxy
