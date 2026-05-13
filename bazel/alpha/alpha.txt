@@ -19679,7 +19679,7 @@ armaria
 aristeia
 acetanilide 1
 aristocracy
-aristocraticalness
+aristocraticalness 1
 alphyn
 aggregates
 aristocraticism 1
