@@ -8733,7 +8733,7 @@ chapeled
 concion
 convalescency
 crenelle
-chapelgoing
+chapelgoing 1
 cockpits
 chapelize
 chirpier
