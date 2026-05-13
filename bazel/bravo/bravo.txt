@@ -11505,7 +11505,7 @@ benighting
 blunderbuss 1
 borasqueborate 1
 blunderbusses 2
-boundure
+boundure 1
 bestare
 blunderhead 1
 buttonbur
