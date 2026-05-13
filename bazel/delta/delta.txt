@@ -16419,7 +16419,7 @@ dozed
 dodecahedrons 2
 dozens
 dishpan 1
-dimorphous
+dimorphous 1
 deviousness 1
 dozzle
 dozzled
