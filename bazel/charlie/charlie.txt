@@ -142,7 +142,7 @@ cabiric
 cataclysm
 cable 1
 cablecast
-cardiolith
+cardiolith 1
 catholici 1
 crudes
 cabled
