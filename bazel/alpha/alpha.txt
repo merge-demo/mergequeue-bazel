@@ -6620,7 +6620,7 @@ alveolite
 archsteward
 afterbeat
 aymaran
-astatizer
+astatizer 1
 assembles
 anodynous
 apterous 1
