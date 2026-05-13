@@ -11652,7 +11652,7 @@ cholesterolemia
 cholesteroluria 1
 choletelin
 controversial
-chack
+chack 1
 choline
 coryphaenidae
 cholinic 1
