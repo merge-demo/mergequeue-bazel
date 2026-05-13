@@ -4532,7 +4532,7 @@ adversing 1
 aphoristical
 ami
 amniota
-annotativeness
+annotativeness 1
 artesonados
 adversifoliate
 antimythic
