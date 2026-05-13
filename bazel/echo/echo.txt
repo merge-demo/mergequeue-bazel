@@ -13280,7 +13280,7 @@ englifier 3
 empierce
 endophragm
 estranger 2
-englishable
+englishable 1
 evict
 eponymize 1
 epignathous
