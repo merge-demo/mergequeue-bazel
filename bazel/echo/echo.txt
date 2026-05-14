@@ -5006,7 +5006,7 @@ essentia
 exul 2
 effuses
 enschedule 1
-exomphalous
+exomphalous 1
 endemicity
 electrofused
 endemism
