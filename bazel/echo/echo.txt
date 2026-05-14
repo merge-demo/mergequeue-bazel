@@ -13913,7 +13913,7 @@ eliminatory
 entortill
 extorter 3
 ectoderm
-eburnated
+eburnated 1
 extramoral
 electee
 empathy 2
