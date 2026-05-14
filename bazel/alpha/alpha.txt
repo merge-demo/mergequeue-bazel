@@ -11643,7 +11643,7 @@ athens
 anacrogynae
 amba
 anacrogynous
-accents
+accents 1
 anacrotic 1
 altricial
 anacruses
