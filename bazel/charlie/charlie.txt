@@ -20153,7 +20153,7 @@ cinchona
 commissoria
 clypeastroidea
 commissure
-confederacy
+confederacy 1
 chalcidic
 commissurotomies
 commit
