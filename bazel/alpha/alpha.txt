@@ -15225,7 +15225,7 @@ amylogens
 askewness
 antiflattering 1
 accordantly
-antiflatulent
+antiflatulent 1
 antiflux 2
 anticlergy
 antiforeignism 1
