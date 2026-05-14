@@ -14326,7 +14326,7 @@ bookboard
 bikini
 bounciness 1
 brahmanism
-brahmanist
+brahmanist 1
 brahmanistic
 brahmanize
 benched
