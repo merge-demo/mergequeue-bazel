@@ -9921,7 +9921,7 @@ calqued 1
 chemotherapist
 cribration
 countersignatures
-carcinomas
+carcinomas 1
 crackjaw
 cephalotaceous
 chemotrophic
