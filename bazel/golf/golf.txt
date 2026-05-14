@@ -2872,7 +2872,7 @@ geol
 guilefulness 1
 ganglionic
 gustavus
-guardsman
+guardsman 1
 gipser 1
 grasschat
 gasmetophytic 1
