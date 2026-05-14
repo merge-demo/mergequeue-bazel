@@ -12187,7 +12187,7 @@ epigraphically 2
 eucolite 1
 enlistee
 empory
-exeat
+exeat 1
 epigraphs
 exec 1
 epiphonemas
