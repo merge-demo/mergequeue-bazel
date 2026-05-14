@@ -10913,7 +10913,7 @@ fi 2
 foilable
 fiscalizing 1
 fullonian
-ferrying
+ferrying 1
 franticness
 fidgeters 1
 filtration 1
