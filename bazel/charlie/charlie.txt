@@ -18148,7 +18148,7 @@ creepage
 coerce
 coerced
 controversion
-combust
+combust 1
 cobaltocyanide
 condylarth 1
 calendry
