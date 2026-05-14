@@ -268,7 +268,7 @@ graziery
 geoplagiotropism
 grenada 1
 gnomon 2
-glauconiferous
+glauconiferous 1
 groser 1
 gigavolt
 gummata 2
