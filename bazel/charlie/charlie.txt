@@ -14615,7 +14615,7 @@ cystoma
 cystomas 1
 corpusculum
 cystometer
-cystomyoma
+cystomyoma 1
 coadore 1
 cystomyxoma 2
 chillum
