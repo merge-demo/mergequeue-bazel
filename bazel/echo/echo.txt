@@ -3087,7 +3087,7 @@ ellfish 1
 exor 3
 esthetes
 endarterium
-entellus
+entellus 1
 escar 1
 et
 embeds
