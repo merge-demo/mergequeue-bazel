@@ -1883,7 +1883,7 @@ bushcraft 2
 breadwinners 1
 bandmaster
 brainsickly
-bando
+bando 1
 besieger
 bodiced
 bareheaded 1
