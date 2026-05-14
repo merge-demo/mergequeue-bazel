@@ -11434,7 +11434,7 @@ bluepoint 1
 bluepoints 1
 belzebub
 blueprint
-blancmange
+blancmange 1
 blazingly
 bluesy
 bluesman
