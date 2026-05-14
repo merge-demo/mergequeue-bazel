@@ -5416,7 +5416,7 @@ behaved
 bronchium
 behaver
 bicollateral 1
-behaving
+behaving 1
 brainteasers
 brakes 2
 bathylimnetic 2
