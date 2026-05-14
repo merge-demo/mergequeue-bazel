@@ -8487,7 +8487,7 @@ directionize
 dodecyl
 draconitic 1
 downgrades 3
-diamondbacked
+diamondbacked 1
 debaucher
 declassify
 dunites
