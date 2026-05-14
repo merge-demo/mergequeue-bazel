@@ -8119,7 +8119,7 @@ circumterrestrial 1
 conjugant 2
 chaffwax
 chafing
-chafted
+chafted 1
 cudgeller
 chagan
 chagga
