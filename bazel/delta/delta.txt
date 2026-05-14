@@ -311,7 +311,7 @@ daybed
 devchar
 disembowelment 1
 disgruntling
-dissuasiveness
+dissuasiveness 1
 dollfaced
 daybill
 downcomer
