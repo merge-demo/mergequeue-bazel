@@ -7831,7 +7831,7 @@ gaj
 geophone 1
 gegg
 groaners 1
-glutter
+glutter 1
 guillotines
 globs 2
 gristmilling
