@@ -1466,7 +1466,7 @@ ethiopian 2
 epanorthotic 1
 emunct
 exenteritis 1
-epipleural
+epipleural 1
 envelop 1
 enfarce 1
 euxanthate 2
