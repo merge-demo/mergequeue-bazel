@@ -3222,7 +3222,7 @@ fogman 1
 feloness 1
 fluework
 floorshift 1
-firmisternous
+firmisternous 1
 fougade
 flexibly 1
 forgoes 1
