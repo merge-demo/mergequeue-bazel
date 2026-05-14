@@ -4282,7 +4282,7 @@ goon
 gantleting 1
 gramophones
 gusto
-garnishing
+garnishing 1
 guncotton 3
 gantang
 gruelled
