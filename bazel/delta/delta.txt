@@ -1846,7 +1846,7 @@ doughnut
 debellator 1
 darapti
 drugmaker
-decriminalize
+decriminalize 1
 degeneratively 1
 defeudalize
 debilitates
