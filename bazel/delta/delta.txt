@@ -10466,7 +10466,7 @@ deglutitive 1
 distortion
 dister 1
 droits 1
-denaturate
+denaturate 1
 diphtheria
 diphtherian 1
 dogberrydom 1
