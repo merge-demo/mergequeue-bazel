@@ -10933,7 +10933,7 @@ bowses
 basta
 beaneries
 beckets
-bartonia
+bartonia 1
 brooms 1
 beadroll
 blinker 1
