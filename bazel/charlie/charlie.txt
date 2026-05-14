@@ -15179,7 +15179,7 @@ claimer
 consumables 1
 cacothelin
 claimers 2
-claymore
+claymore 1
 claims
 covenable
 claypans
