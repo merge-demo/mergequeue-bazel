@@ -18256,7 +18256,7 @@ accentuator 1
 achromous
 agush
 archont
-arachnomorphae
+arachnomorphae 1
 arabiyeh
 apparel
 acquisitum
