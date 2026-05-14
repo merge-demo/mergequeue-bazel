@@ -6191,7 +6191,7 @@ funguslike
 falange
 fog 2
 flrie 1
-frothier
+frothier 1
 fluavile
 flubbed 1
 feudum 2
