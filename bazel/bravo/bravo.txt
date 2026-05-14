@@ -11597,7 +11597,7 @@ boardings
 boardsmanship 1
 boatloads 1
 blonde
-bedrapes
+bedrapes 1
 buceros 2
 britzka
 boardwalks 1
