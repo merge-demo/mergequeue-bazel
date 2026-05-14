@@ -3951,7 +3951,7 @@ earthbound
 emollients 1
 emoloa 1
 endosymbiosis
-emolumental
+emolumental 1
 extemporiser 1
 evader
 enstate
