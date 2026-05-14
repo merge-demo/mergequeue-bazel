@@ -3046,7 +3046,7 @@ friendlies 1
 fibbers 3
 fustin
 fiber
-fiberizes
+fiberizes 1
 fritillary 1
 formolite 2
 federalists
