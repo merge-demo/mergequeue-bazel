@@ -20349,7 +20349,7 @@ commutatively
 carpogone
 commutativity 1
 commutator
-commute
+commute 1
 commuted
 cacography
 condolement
