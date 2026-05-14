@@ -9574,7 +9574,7 @@ frescos 2
 farsi 2
 fleeciest 2
 freebooter
-freebootery
+freebootery 1
 forestiera
 freebooting
 freed 1
