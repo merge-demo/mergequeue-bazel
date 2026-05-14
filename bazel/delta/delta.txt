@@ -7348,7 +7348,7 @@ deterrence 1
 disprejudice 1
 deterrent
 dodunk 1
-detersiveness 1
+detersiveness 2
 disunions 1
 detestation 2
 decomponent
