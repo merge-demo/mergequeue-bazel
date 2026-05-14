@@ -9317,7 +9317,7 @@ dyeware
 delisted 1
 dashiest 1
 dyeweed 1
-dyeweeds
+dyeweeds 1
 dermonosology
 darwinist
 dorsonasal
