@@ -6967,7 +6967,7 @@ bepaid 1
 beslobber 3
 besluit
 bespread
-besmile
+besmile 1
 besmiled
 bobtailing
 bathhouse
