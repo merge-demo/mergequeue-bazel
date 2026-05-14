@@ -12742,7 +12742,7 @@ bastardisation
 bookmobiles 1
 baroni
 burlesk
-bookpress 1
+bookpress 2
 bookracks
 blacklegging 1
 baronry 1
