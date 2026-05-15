@@ -16482,7 +16482,7 @@ deepwater
 dandies
 disnumber
 depside 1
-dracontic
+dracontic 1
 dwellings 1
 dairywoman
 detached
