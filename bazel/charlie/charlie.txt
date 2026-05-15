@@ -9911,7 +9911,7 @@ controls
 comma 1
 carices 1
 chemotherapeutical
-clamlike
+clamlike 1
 chemotherapeutically
 campanulales 2
 cretinism
