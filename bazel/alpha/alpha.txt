@@ -23112,7 +23112,7 @@ applegrower 1
 ani
 atte 2
 archocele
-avodires
+avodires 1
 anthecology
 ammonolyze 1
 antheriform 2
