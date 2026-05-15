@@ -11996,7 +11996,7 @@ aerocolpos
 auberges 1
 antique
 almose 3
-anarchical
+anarchical 1
 anenergia
 anthology 1
 aluminium
