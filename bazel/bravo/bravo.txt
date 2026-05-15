@@ -6013,7 +6013,7 @@ bookie
 bemoaned 2
 bauxitic
 baccarats
-bowenite
+bowenite 1
 boiling
 brouette
 bradyphasia
