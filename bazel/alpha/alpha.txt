@@ -22406,7 +22406,7 @@ astrolabe 1
 astrolithology 1
 anaesthesiant
 apothegm
-achenia
+achenia 1
 astrologaster
 astrologers
 alkylates
