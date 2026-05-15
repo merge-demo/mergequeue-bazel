@@ -8822,7 +8822,7 @@ char 1
 conveyability 1
 crouchingly 1
 chara 1
-charabanc
+charabanc 1
 compensativeness
 clitoridectomies
 characeae
