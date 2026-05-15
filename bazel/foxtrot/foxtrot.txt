@@ -5855,7 +5855,7 @@ fowling 2
 factorially 1
 floristic
 floatsmen
-fluff
+fluff 1
 flaxbush
 farthingale
 forestem 2
