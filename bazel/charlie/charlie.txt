@@ -27847,7 +27847,7 @@ cpd
 chemurgic 2
 cpo 1
 cpus
-contractional
+contractional 1
 centriffed
 chinotti
 contraindicating 1
