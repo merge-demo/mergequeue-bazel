@@ -13601,7 +13601,7 @@ cimicifuga
 compressure
 cimicoid 1
 conformableness 1
-calcaneonavicular
+calcaneonavicular 1
 cymiferous
 cymlin
 cymlings
