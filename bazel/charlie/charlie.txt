@@ -5310,7 +5310,7 @@ cassiopeium
 cladrastis 1
 cramps
 cassis
-crampy
+crampy 1
 courtling 2
 cassiterite 1
 coestablishment
