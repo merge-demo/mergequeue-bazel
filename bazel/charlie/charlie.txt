@@ -9235,7 +9235,7 @@ chateaux
 chatelain
 cordmaker
 chatelaines
-chemotherapists
+chemotherapists 1
 corrosionproof 1
 conceive
 corporeality 1
