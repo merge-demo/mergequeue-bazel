@@ -7302,7 +7302,7 @@ annoyers 1
 aeolharmonica
 alauda
 aphakic
-antihidrotic
+antihidrotic 1
 adai 1
 amphibion 1
 alaudine
