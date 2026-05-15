@@ -5934,7 +5934,7 @@ enharden
 especially
 eurytopicity
 exoenzymic
-embuskin
+embuskin 1
 ephemeron
 excursive
 exclave
