@@ -1024,7 +1024,7 @@ filicornia 1
 fragmentalize
 flatboats
 finalists
-farinometer
+farinometer 1
 farinose
 founce
 flannelly
