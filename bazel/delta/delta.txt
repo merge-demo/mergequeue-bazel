@@ -2904,7 +2904,7 @@ defeminising
 dihysteria
 degratia 1
 doughs 1
-decurvature
+decurvature 1
 duello
 decus
 doblones
