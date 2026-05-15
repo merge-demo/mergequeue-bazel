@@ -5590,7 +5590,7 @@ fixity 1
 flocculently 1
 fiords
 flickermouse
-flannelmouthed
+flannelmouthed 1
 flowery
 furbearer 2
 froebelist 1
