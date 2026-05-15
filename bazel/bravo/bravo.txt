@@ -6200,7 +6200,7 @@ beni 1
 buckjumper
 benic 1
 benight
-buzzed
+buzzed 1
 bandalore
 benighter
 barked
