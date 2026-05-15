@@ -7754,7 +7754,7 @@ decongests
 diphosphoric 2
 denicotinized
 devisees
-deoxygenate
+deoxygenate 1
 disastimeter 1
 decoded
 dogmatization
