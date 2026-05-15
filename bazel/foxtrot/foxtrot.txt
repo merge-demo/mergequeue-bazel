@@ -4538,7 +4538,7 @@ fissirostrate
 fusser 2
 fissura
 frugal
-forwardsearch 2
+forwardsearch 3
 fractionized 1
 felinophile 1
 fissured 1
