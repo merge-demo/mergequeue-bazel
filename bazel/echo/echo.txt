@@ -14116,7 +14116,7 @@ exposers 2
 extroitive
 extremist 2
 extrorse
-extrospect
+extrospect 1
 endarch
 evokes
 equivorous 1
