@@ -16525,7 +16525,7 @@ dithiol
 distrix 1
 ditheism
 diagrammatic
-demoralise
+demoralise 1
 draftings
 diesinker
 disinterred
