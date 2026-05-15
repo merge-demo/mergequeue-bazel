@@ -15955,7 +15955,7 @@ clericalists 1
 crumbum
 clericality
 clericals
-chordaceous
+chordaceous 1
 carpometacarpus
 clericature
 cointension
