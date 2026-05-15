@@ -19952,7 +19952,7 @@ commando
 commandoes
 ceraunomancy
 commandoman
-canfieldite
+canfieldite 1
 canoodled
 commandos
 colove
