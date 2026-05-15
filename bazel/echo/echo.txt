@@ -10550,7 +10550,7 @@ endogenic
 engolden 1
 euchlorine 1
 ectrodactylia
-enteropathy
+enteropathy 1
 estates
 ergosterol 1
 euchlorite
