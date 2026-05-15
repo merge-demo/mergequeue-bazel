@@ -3532,7 +3532,7 @@ bellower
 bathes 1
 backslidden
 bicondylar
-baryons
+baryons 1
 becudgel
 bimini
 bathycentesis
