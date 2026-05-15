@@ -2153,7 +2153,7 @@ exoneration 1
 electrosurgical 1
 endleaf 1
 enfoil
-exterminatress
+exterminatress 1
 enanthematous
 epoxy
 esophagostenosis
