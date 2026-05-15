@@ -1717,7 +1717,7 @@ filicin 1
 fomites 3
 fortravail
 frippet 1
-fibrocyte
+fibrocyte 1
 flashflood 2
 feastfully 1
 forayers
