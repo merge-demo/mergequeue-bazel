@@ -27286,7 +27286,7 @@ coalboxes
 countryside
 countryward
 countrywoman
-clap
+clap 1
 countrywomen
 chymification
 countship
