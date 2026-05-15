@@ -18980,7 +18980,7 @@ abstention 1
 archaeostomatous
 ageratum
 archival
-atopic
+atopic 1
 archiver 1
 archjockey
 amoroso
