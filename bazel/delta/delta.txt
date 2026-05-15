@@ -4849,7 +4849,7 @@ deepness
 dharna 1
 detickers
 demonical
-decadal
+decadal 1
 deathcups
 dimmedness
 diestrum
