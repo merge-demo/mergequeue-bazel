@@ -10400,7 +10400,7 @@ fictility
 flyspecked
 firstling 1
 forcaria
-fertilizer
+fertilizer 1
 filesmith
 feudalistic
 fringeflower 1
