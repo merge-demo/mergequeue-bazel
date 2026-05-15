@@ -6897,7 +6897,7 @@ fallace
 folklores 3
 fp 4
 floatages 2
-fruity
+fruity 1
 fifes 1
 fleme 1
 felafel 1
