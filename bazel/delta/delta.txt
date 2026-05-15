@@ -16366,7 +16366,7 @@ downtake
 duodecane
 dewret
 downthrown
-denaturation
+denaturation 1
 douppioni 1
 delayage 1
 downtown
