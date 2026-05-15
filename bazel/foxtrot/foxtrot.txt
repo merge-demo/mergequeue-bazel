@@ -4385,7 +4385,7 @@ fishability
 feltwork 1
 flybook 2
 fixion
-fishboats
+fishboats 1
 fonduk
 fishbolts
 flechette
