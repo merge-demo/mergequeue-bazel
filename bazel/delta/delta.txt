@@ -17450,7 +17450,7 @@ deforcer
 drouth
 dopas
 delphacid
-desectionalize
+desectionalize 1
 drouthier
 defame 1
 definitude 1
