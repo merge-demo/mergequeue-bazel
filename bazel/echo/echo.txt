@@ -2292,7 +2292,7 @@ enbloc
 endolymph 1
 excretal
 eger 2
-encased 1
+encased 2
 egest
 ester 1
 equality 1
