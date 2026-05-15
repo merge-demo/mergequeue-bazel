@@ -21065,7 +21065,7 @@ coms 1
 comsat
 clostridial
 comsomol
-competingly
+competingly 1
 cray 1
 countertheory
 comstockeries
