@@ -5810,7 +5810,7 @@ fellowship
 fathmur
 flitters 1
 frequents 2
-flankwise
+flankwise 1
 froggiest
 frivolize 2
 ferfet 1
