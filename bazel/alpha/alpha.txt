@@ -2279,7 +2279,7 @@ azimech
 acidy
 acetamid 1
 acidiferous 2
-argil
+argil 1
 aneurin
 arbtrn 1
 adderfish
