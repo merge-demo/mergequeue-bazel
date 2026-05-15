@@ -10947,7 +10947,7 @@ editorializer
 equability
 eggnogs 1
 eggbeater
-epipelagic
+epipelagic 1
 ends
 ecbolic 2
 eupnoea 1
