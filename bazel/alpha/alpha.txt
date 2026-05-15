@@ -12460,7 +12460,7 @@ abrogable
 annihilability
 autodermic
 asphyxy 1
-approval
+approval 1
 animalia
 admensuration
 algesis
