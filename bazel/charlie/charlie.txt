@@ -9680,7 +9680,7 @@ crabeater
 chevre
 convocate 1
 cheesing
-cheetahs
+cheetahs 1
 cheetul 1
 casse
 coagent
