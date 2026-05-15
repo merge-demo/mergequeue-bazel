@@ -6747,7 +6747,7 @@ ectosomal 2
 extratarsal
 esthesioneurosis
 exsuperate 1
-exhilarate
+exhilarate 1
 enthral
 eschewers 1
 enthralldom
