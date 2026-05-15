@@ -1581,7 +1581,7 @@ determinatively
 desitive
 disembody
 deadlocking
-decipolar
+decipolar 1
 duplicia 1
 direfulness
 disenthralled 1
