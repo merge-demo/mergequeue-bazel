@@ -20293,7 +20293,7 @@ communicating 1
 communicative
 countrie
 cercospora
-command
+command 1
 communicatory 1
 communicators
 communionable
