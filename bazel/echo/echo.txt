@@ -9478,7 +9478,7 @@ ethmomaxillary
 escortee 1
 escorts 2
 escot
-endbrain
+endbrain 1
 emperor
 enghosted
 excurved 1
