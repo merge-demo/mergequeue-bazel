@@ -2344,7 +2344,7 @@ dinichthyid 2
 deafnesses
 dextrotropic
 decerebrate
-drinkably
+drinkably 1
 disfavourable 1
 dustup
 dynode
