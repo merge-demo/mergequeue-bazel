@@ -6738,7 +6738,7 @@ decapetalous
 disacidify
 date 1
 designatum
-designedly
+designedly 1
 designedness 1
 detachability 2
 delibate 1
