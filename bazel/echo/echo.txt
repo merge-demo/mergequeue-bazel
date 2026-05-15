@@ -11209,7 +11209,7 @@ evanescible
 evanescing
 exorbitancy 1
 expilation
-exostracism
+exostracism 1
 endover 1
 electrotonicity
 experimentalist
