@@ -19578,7 +19578,7 @@ ciliata
 chromaticism 1
 coextensiveness
 capanne
-coregence
+coregence 1
 counteraffirmation
 columellia
 columelliaceae
