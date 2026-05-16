@@ -1539,7 +1539,7 @@ dedoggerelize 1
 deacons
 demobilizes
 diphygenic
-deactivate 3
+deactivate 4
 discoglossid
 distractedly
 dallies
