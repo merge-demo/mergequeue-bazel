@@ -4912,7 +4912,7 @@ aerofoils
 atmidometry
 adjourned 1
 amberfish
-antilogous
+antilogous 1
 antinaturalistic
 accessit
 abductors 1
