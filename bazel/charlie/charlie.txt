@@ -6888,7 +6888,7 @@ celticize 1
 celtidaceae
 celtiform
 consortiums
-celtis
+celtis 1
 celtish
 celtism
 celtium
