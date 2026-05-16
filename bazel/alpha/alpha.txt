@@ -9738,7 +9738,7 @@ argentina
 amabel
 atbash
 amabile
-amable
+amable 1
 anchorer
 allegatum
 amacrinal
