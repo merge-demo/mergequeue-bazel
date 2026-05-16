@@ -17626,7 +17626,7 @@ dinners 1
 dsname
 dsri 1
 defeminization 1
-dispossessory
+dispossessory 1
 daisybush 1
 dromornis
 dtd 1
