@@ -9454,7 +9454,7 @@ digeneous
 decubitus 1
 dissert
 digenetic
-digenetica
+digenetica 1
 dicyanin
 digue
 diplanetism 1
