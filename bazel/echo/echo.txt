@@ -12549,7 +12549,7 @@ esonarthex 1
 enameler 2
 electrofusion 1
 extant
-existlessness
+existlessness 1
 epistemological
 embezzle
 exit
