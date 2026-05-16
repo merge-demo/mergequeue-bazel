@@ -4398,7 +4398,7 @@ calandridae
 centimes 1
 clothlike 1
 coheartedness
-cusec
+cusec 1
 concrew 1
 cynara
 carinula
