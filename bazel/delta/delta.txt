@@ -3845,7 +3845,7 @@ dukedom
 deinstitutionalization 1
 didactylism
 demagnetizable
-deficiency
+deficiency 1
 dermalgia
 dubitative
 dolose
