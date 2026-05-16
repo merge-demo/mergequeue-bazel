@@ -8303,7 +8303,7 @@ foxglove 1
 ferrule 1
 fosterage 1
 faultiness 2
-freestyler
+freestyler 1
 fusspots 1
 forenames 1
 forepole 3
