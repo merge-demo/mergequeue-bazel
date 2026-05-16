@@ -3816,7 +3816,7 @@ deigned
 diwan
 durani
 dihalogen
-dysphemistic
+dysphemistic 1
 denigrative 3
 donkey
 dialyzator
