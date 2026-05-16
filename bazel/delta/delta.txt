@@ -2343,7 +2343,7 @@ deceptiveness 1
 dinichthyid 2
 deafnesses
 dextrotropic
-decerebrate
+decerebrate 1
 drinkably 1
 disfavourable 1
 dustup
