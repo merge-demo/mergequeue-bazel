@@ -19482,7 +19482,7 @@ abjure 3
 arglebargle
 arglebargled
 allie 1
-arglebargling
+arglebargling 1
 argled 1
 arcubalister 2
 antimedication
