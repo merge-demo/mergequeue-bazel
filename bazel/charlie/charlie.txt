@@ -18319,7 +18319,7 @@ cisoceanic 2
 cholerically
 crenelled
 cogger
-cogging
+cogging 1
 coggledy
 cogitate
 combed 1
