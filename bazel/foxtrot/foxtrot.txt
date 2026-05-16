@@ -6556,7 +6556,7 @@ fleetly 1
 funereal
 foretack
 flamless
-furrings
+furrings 1
 flibbertigibbets 1
 flysches 3
 flattened 1
