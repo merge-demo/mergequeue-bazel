@@ -3737,7 +3737,7 @@ extravagantness
 enfranchise 2
 erodability
 expedited
-excessiveness
+excessiveness 1
 enslaving 1
 encumbers
 enfetter
