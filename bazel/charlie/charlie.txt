@@ -7826,7 +7826,7 @@ cerviciplex
 cervicispinal
 cervicitis
 cervicoauricular
-chippable 1
+chippable 2
 cervicobasilar
 cervicobregmatic
 cobitis
