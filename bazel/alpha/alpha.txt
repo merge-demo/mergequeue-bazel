@@ -2372,7 +2372,7 @@ adjection
 acrospired
 anticritically
 asseverates
-acinaciform
+acinaciform 1
 amorism
 acinar 2
 albardine
