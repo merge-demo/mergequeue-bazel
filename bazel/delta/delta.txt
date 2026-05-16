@@ -543,7 +543,7 @@ detort 1
 damageous
 deaccessions
 dovyalis
-deliber
+deliber 1
 dao
 damagers
 damalic
