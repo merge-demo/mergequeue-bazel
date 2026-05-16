@@ -1960,7 +1960,7 @@ camera 1
 capitols
 counterwill 1
 cumulose
-cyprinodont
+cyprinodont 1
 camerae
 curbless
 cameral 1
