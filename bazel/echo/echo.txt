@@ -838,7 +838,7 @@ eriophorum
 eosinophil 3
 ectocommensal 2
 ectocondylar 1
-endophytic
+endophytic 1
 efficient 1
 electrolyser
 excrementous 1
