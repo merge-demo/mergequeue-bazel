@@ -5918,7 +5918,7 @@ goldarn 2
 gilgames 2
 gewgawish 1
 grackle
-grogshops
+grogshops 1
 goofs
 gambirs
 glamourizer
