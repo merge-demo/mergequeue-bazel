@@ -4545,7 +4545,7 @@ abranchial 2
 aliptes
 axotomous 3
 advertence
-advertently
+advertently 1
 adverting
 appertise
 advertisers
