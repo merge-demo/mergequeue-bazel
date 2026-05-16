@@ -10744,7 +10744,7 @@ flagstaves 2
 flirter 2
 fletches 1
 forgotten 1
-frustum 1
+frustum 2
 frutage 1
 faithlessly 2
 footraces 1
