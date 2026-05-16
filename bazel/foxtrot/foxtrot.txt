@@ -10614,7 +10614,7 @@ ferity
 franc
 forswearing 2
 flumped
-forwaste
+forwaste 1
 fleeting
 flatnesses 1
 frugalities
