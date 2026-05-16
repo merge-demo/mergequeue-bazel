@@ -2451,7 +2451,7 @@ denizenize 1
 disimprisonment
 dissipable 1
 dietetist 1
-dolently
+dolently 1
 designs
 decyne
 drydenian
