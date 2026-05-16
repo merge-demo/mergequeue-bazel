@@ -2225,7 +2225,7 @@ eldersisterly
 epiglottiditis
 eggless
 equiprobable
-encrisp
+encrisp 1
 eldest
 effigiated
 eventuate
