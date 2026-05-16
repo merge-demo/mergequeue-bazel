@@ -13262,7 +13262,7 @@ dispossed 1
 distrusted 2
 demogenic
 daidly
-domines
+domines 1
 deleerit
 dolichohieric
 deutomerite
