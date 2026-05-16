@@ -2379,7 +2379,7 @@ fenchol
 futures
 footganger 2
 fetial 1
-fortunetellers 1
+fortunetellers 2
 frondage 2
 feriation 2
 falsedad

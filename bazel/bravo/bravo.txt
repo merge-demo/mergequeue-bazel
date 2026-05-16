@@ -9768,7 +9768,7 @@ barleymow 1
 beja 1
 bistriate
 bombardment 2
-beddable
+beddable 1
 breeze
 brachypleural
 bradypepsia 2
