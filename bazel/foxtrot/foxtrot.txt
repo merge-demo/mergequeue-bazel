@@ -7482,7 +7482,7 @@ fray 1
 fini 1
 fordrive
 forboded
-freakiest
+freakiest 1
 florally 1
 faultlessness 2
 faltered
