@@ -24611,7 +24611,7 @@ copiosity
 chanteyman
 copious 1
 copiousness
-cloners
+cloners 1
 copyread
 copyreader
 copyreaders
