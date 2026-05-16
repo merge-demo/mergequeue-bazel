@@ -4912,7 +4912,7 @@ demonopolize
 defervescence 1
 demonry 1
 dubiosities
-depopulating
+depopulating 1
 dispersive 1
 dovishness 1
 demonstrated 2
