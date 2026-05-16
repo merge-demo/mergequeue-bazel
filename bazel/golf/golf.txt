@@ -5111,7 +5111,7 @@ guernseyed 1
 glareproof 1
 griskin 1
 grainsmen
-grenadine
+grenadine 1
 goldeneye
 greesagh 2
 gte 2
