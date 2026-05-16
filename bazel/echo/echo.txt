@@ -8049,7 +8049,7 @@ ease 2
 entoconid 1
 enstatitic 1
 easements
-escapingly
+escapingly 1
 evident 1
 expound
 entertaining
