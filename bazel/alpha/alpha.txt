@@ -2280,7 +2280,7 @@ acidy
 acetamid 1
 acidiferous 2
 argil 1
-aneurin
+aneurin 1
 arbtrn 1
 adderfish
 alaric
