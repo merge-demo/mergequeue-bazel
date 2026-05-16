@@ -16910,7 +16910,7 @@ barretry 1
 brassbound
 beneficiate
 banditti
-bugeyes
+bugeyes 1
 baddy 1
 bonducs
 buggered
