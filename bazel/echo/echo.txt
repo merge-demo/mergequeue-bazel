@@ -4139,7 +4139,7 @@ etamin
 epigene 1
 epicanthus
 ejacula
-enrooting
+enrooting 1
 eslabon 1
 entangler 1
 envisaged 1
