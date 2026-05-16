@@ -4657,7 +4657,7 @@ forages 1
 falconidae 2
 fractonimbus 2
 fivesome 3
-flaubertian
+flaubertian 1
 flashproof 3
 famacide
 frivoling
