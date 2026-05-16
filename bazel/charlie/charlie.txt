@@ -28923,7 +28923,7 @@ crybaby 2
 cooperant 1
 coarse
 centrolecithal 1
-conductility
+conductility 1
 crybabies
 cacodaemon
 cellager
