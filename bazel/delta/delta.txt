@@ -18130,7 +18130,7 @@ dumose
 dermoskeletal
 decamp 2
 diorthoses 1
-dock
+dock 1
 diplocardia
 domiciliation
 dumosity
