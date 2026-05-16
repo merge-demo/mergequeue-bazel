@@ -8198,7 +8198,7 @@ excalfaction
 episiotomies
 episkeletal
 eequinoctium
-enroots
+enroots 1
 ethnicity
 expirant
 episodical
