@@ -1435,7 +1435,7 @@ funis 1
 fattishness
 fother
 frimitts
-faithless
+faithless 1
 freewheel 1
 fatuism
 filasse 1
