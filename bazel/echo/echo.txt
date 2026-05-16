@@ -1060,7 +1060,7 @@ exsheath
 edged
 eidolon
 edger 1
-edgeshot 1
+edgeshot 2
 edgeway
 embalmment
 exterritorial 2
