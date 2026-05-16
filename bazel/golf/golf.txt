@@ -1074,7 +1074,7 @@ glossic 1
 gangplows
 geomalic
 gist 2
-glaucoma
+glaucoma 1
 glor
 gonimous 3
 gilden 2
