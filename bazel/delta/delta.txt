@@ -14556,7 +14556,7 @@ disposing
 domine 1
 detents 1
 divisions 1
-divisive
+divisive 1
 divisively
 diners
 develope
