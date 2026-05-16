@@ -5790,7 +5790,7 @@ iiopjdc 1
 iiopkb 1
 iioptsyb
 iioqi 1
-iior 1
+iior 2
 iiosmy 1
 iiou 1
 iiovcs
