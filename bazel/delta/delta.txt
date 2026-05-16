@@ -12942,7 +12942,7 @@ dognaping
 discolor 1
 disaffectedness 1
 differed
-disoperculate
+disoperculate 1
 desmosome 1
 dicephalous
 demons
