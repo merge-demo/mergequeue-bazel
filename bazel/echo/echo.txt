@@ -3410,7 +3410,7 @@ epitomize
 embarkment
 embarks
 equipage
-exteroceptor 1
+exteroceptor 2
 equilibrium
 elohist
 em 1
