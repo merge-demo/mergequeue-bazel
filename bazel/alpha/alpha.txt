@@ -20493,7 +20493,7 @@ arteriocapillary
 arteriogenesis
 arteriograph 1
 ahorseback 2
-adenectopia
+adenectopia 1
 arteriographic
 auriculidae
 arterioloscleroses
