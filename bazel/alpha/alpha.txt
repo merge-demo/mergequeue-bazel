@@ -14682,7 +14682,7 @@ antiarins
 actuate 1
 aggressively
 aerothermodynamics 1
-antiaristocracies
+antiaristocracies 1
 attendees
 arauna
 agaricine
