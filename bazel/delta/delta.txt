@@ -5978,7 +5978,7 @@ deprostrate
 draughtiest 1
 downbeats 1
 darcy
-doctorlike
+doctorlike 1
 decimetres 1
 doubledamn
 deckswabber
