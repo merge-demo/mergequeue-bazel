@@ -25988,7 +25988,7 @@ commissars 1
 cosaque
 corneum
 coppled
-coscet
+coscet 1
 coscinomancy 1
 chn
 cose
