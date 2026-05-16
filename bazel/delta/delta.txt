@@ -10199,7 +10199,7 @@ doven 1
 dings
 despises
 dzeron 1
-depopularize
+depopularize 1
 dismortgage
 dining 2
 discoplacental
