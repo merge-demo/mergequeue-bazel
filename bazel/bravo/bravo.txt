@@ -2348,7 +2348,7 @@ biolysis
 belligerency
 bachelorlike
 barbula
-bardiness
+bardiness 1
 barbulate
 barbulyie
 barbwire 1
