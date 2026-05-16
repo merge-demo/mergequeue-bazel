@@ -6615,7 +6615,7 @@ forecondemn 1
 fogey
 foulbrood
 focalizes 2
-forwrap
+forwrap 1
 federacies
 forgave 1
 femalely 1
