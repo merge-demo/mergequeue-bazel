@@ -46,7 +46,7 @@ eardropper
 euchromosome
 earflap 1
 expender
-enzyms
+enzyms 1
 excites
 exciton 1
 electroretinograph 1
