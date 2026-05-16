@@ -12925,7 +12925,7 @@ enteradenographic
 extraprostatic
 eyrir 1
 esmayle 2
-embryologic
+embryologic 1
 erasmus
 expatiates
 expatiating
