@@ -2792,7 +2792,7 @@ acrogen 1
 aspirated
 ashthroat
 acrolein
-antianthropocentric
+antianthropocentric 1
 antireactionary
 acroleins
 acrolithan
