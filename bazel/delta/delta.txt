@@ -1945,7 +1945,7 @@ debtless
 desilverized
 dwines
 downby
-dominoes
+dominoes 1
 disobeys 1
 dreader 1
 depressant 1
