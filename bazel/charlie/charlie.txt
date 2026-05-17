@@ -28937,7 +28937,7 @@ cholericly 1
 criticist
 cribellum
 cribose
-cribrate
+cribrate 1
 cribriform
 cribriformity 1
 convertaplane
