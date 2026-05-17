@@ -13425,7 +13425,7 @@ antimnemonic
 annaly
 annaline
 antigrammaticalness
-apathetic
+apathetic 1
 adiposeness
 annalists
 authotype
