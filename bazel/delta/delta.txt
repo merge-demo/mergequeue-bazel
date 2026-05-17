@@ -10944,7 +10944,7 @@ datolite
 diallist
 deuterocone
 dispenses
-disforestation 1
+disforestation 2
 doublethinking
 dorsoradial 1
 digressions
