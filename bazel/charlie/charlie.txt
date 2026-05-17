@@ -871,7 +871,7 @@ caisse
 caissons
 caite
 colligance 1
-caitif
+caitif 1
 charque
 caitiffs 1
 crams
