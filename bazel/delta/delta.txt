@@ -5447,7 +5447,7 @@ disprover
 divagational
 divineress
 detachable 1
-deodorised
+deodorised 1
 deodoriser
 deodorization 1
 darsonvalism
