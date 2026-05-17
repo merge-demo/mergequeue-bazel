@@ -3535,7 +3535,7 @@ defrayable
 disembarrassment 1
 dismissable
 doom 1
-defrayers
+defrayers 1
 defraying
 desaturate
 desiccated 1
