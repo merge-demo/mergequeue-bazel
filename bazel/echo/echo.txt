@@ -1189,7 +1189,7 @@ edulcorating
 enscroll 1
 ensweep
 educational 1
-extratracheal
+extratracheal 1
 estipulate
 estimation
 eroded
