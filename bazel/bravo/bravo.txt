@@ -4836,7 +4836,7 @@ bedtime
 brackens 2
 brooklets
 bazoos
-bodyweight
+bodyweight 1
 buttercups
 bath
 boilerless 1
