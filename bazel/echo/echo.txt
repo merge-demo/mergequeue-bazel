@@ -10924,7 +10924,7 @@ esd
 euphues
 epipedometry 1
 epilogizing
-evenwise
+evenwise 1
 entomologising
 epipteric
 eulogies 2
