@@ -2762,7 +2762,7 @@ daemonurgy 1
 darbies 1
 decortication 1
 dematerialization 1
-decorticator 1
+decorticator 2
 determinants 2
 decorticosis
 disoperation 1
