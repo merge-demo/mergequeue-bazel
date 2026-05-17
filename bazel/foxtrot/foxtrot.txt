@@ -5691,7 +5691,7 @@ footpound
 folioliferous
 fresnels 2
 factional
-facilitator
+facilitator 1
 flyovers 1
 flype
 feodaries 4
