@@ -5398,7 +5398,7 @@ glossily
 giusto
 girdle
 gynandromorphic
-goodtemperedness
+goodtemperedness 1
 glimmer 2
 graphometry 1
 groundswell
