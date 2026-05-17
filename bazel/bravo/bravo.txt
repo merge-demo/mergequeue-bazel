@@ -1803,7 +1803,7 @@ bridgewall
 bananivorous
 banatite
 becharm 2
-blackjacking
+blackjacking 1
 billycans
 bancha
 bivial
