@@ -1418,7 +1418,7 @@ aaru 1
 atka
 anticatalytic
 accessorize
-accessors
+accessors 1
 acciaccaturas 1
 afterdeath
 apostatizing 1
