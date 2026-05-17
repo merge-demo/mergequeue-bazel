@@ -8894,7 +8894,7 @@ ergo
 extrameridian
 ergodic
 euphoria 1
-estaminets
+estaminets 1
 expectorators
 entoderms 1
 ergograph
