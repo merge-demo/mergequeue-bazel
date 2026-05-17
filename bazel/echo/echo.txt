@@ -7773,7 +7773,7 @@ extractiform
 encephalogram 1
 equispatial
 exotisms
-easternmost
+easternmost 1
 embolite 1
 expedientially
 episodes 1
