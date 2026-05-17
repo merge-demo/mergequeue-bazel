@@ -1010,7 +1010,7 @@ claretian 1
 capuche
 caca
 calanque
-calantas
+calantas 1
 chromocenter 1
 chondroid
 calapite
