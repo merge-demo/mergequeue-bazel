@@ -26734,7 +26734,7 @@ counterblast
 counterborder 1
 counterbored
 celandine
-counterborer 1
+counterborer 2
 counterboring
 counterboulle
 counterbranch 1
