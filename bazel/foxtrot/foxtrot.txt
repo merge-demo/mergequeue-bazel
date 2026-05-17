@@ -8640,7 +8640,7 @@ findon 1
 flamberge 1
 freightless 2
 filterability 2
-fourposters 1
+fourposters 2
 futharks
 feet
 fuzes 1
