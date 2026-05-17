@@ -5962,7 +5962,7 @@ gensengs
 graylag 1
 geodesics 1
 gazogenes
-galactopathy
+galactopathy 1
 grubs 1
 ginkgoes
 geoemtry
