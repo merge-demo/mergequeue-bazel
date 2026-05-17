@@ -10107,7 +10107,7 @@ beshriek 1
 blackband 2
 blackberrylike
 bunkload
-bacchant
+bacchant 1
 bilaminate 1
 bellied
 berbers
