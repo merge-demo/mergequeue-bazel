@@ -4455,7 +4455,7 @@ giobertite 3
 grazierdom 1
 grainsickness 2
 gosplan 2
-gammelost
+gammelost 1
 graminology
 gommelin
 grandsire
