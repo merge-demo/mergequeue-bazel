@@ -6204,7 +6204,7 @@ derivations
 degrading 1
 describably 1
 demising 1
-daredevil
+daredevil 1
 ditted 1
 decemvir
 derivativeness
