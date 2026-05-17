@@ -3045,7 +3045,7 @@ castigated
 canula 1
 canulae
 canulas
-chthonophagy
+chthonophagy 1
 coistrel 1
 canulates
 comatic 1
