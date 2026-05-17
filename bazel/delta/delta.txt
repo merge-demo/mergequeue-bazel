@@ -15437,7 +15437,7 @@ drawnness
 dominies 1
 dominion
 dinkly 2
-discursativeness
+discursativeness 1
 diplobacillus
 dominionism 1
 dihydroxy
