@@ -6581,7 +6581,7 @@ grabblers
 gesture 3
 gambeson
 grummets 1
-girons
+girons 1
 gimmerpet
 gambas 2
 guazzo
