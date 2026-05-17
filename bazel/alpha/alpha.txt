@@ -8434,7 +8434,7 @@ ankylostoma
 alkalinity 1
 alkalinities 2
 abactor 1
-aesthesics
+aesthesics 1
 augmentations 1
 angiography
 archology
