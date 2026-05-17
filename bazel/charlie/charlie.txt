@@ -14612,7 +14612,7 @@ cystolith 1
 caduca
 cystolithiasis
 cystoma
-cystomas 1
+cystomas 2
 corpusculum
 cystometer
 cystomyoma 1
