@@ -19890,7 +19890,7 @@ arminianizer 1
 armipotence
 analeptical
 armistice
-armistices
+armistices 1
 atresia
 adelantados
 avenaceous 1
