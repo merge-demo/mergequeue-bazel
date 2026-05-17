@@ -12174,7 +12174,7 @@ declinations
 dehusk 1
 depthometer 2
 diacetine 1
-dha
+dha 1
 deadlily
 disfavoured
 discursion 1
