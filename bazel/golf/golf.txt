@@ -1676,7 +1676,7 @@ gorkiesque
 gif 1
 gastrodermal 2
 gastrodermis 1
-gulfweed
+gulfweed 1
 guayabo
 gastroduodenitis 2
 guadua
