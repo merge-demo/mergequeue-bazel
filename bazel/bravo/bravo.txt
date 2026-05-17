@@ -2740,7 +2740,7 @@ bullbat 1
 bismutoplagionite
 barolo
 bm 1
-bicolored 1
+bicolored 2
 benab 1
 bonneting
 bukeyef 1
