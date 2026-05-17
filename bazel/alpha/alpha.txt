@@ -18831,7 +18831,7 @@ archflamen
 archfoe
 ancestresses 3
 aedoeagus 1
-angloid
+angloid 1
 acervose
 ancientism
 alamodality
