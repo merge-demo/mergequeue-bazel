@@ -6069,7 +6069,7 @@ deputing 1
 diaconicon
 digitalization
 dorps
-delicacy
+delicacy 1
 dilli
 dehumanise
 dramaticism 1
