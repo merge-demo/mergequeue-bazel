@@ -4807,7 +4807,7 @@ encoding 1
 effectivity
 embrocate
 ergasterion
-enbusshe
+enbusshe 1
 epicrisis 1
 edwardsia 3
 enneahedra 1
