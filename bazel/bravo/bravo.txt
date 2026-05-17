@@ -6439,7 +6439,7 @@ benzothiofuran 1
 burs 2
 benzothiophene
 benzotrichloride 1
-bolection
+bolection 1
 benzoxyacetic 1
 blanchers
 ballast 1
