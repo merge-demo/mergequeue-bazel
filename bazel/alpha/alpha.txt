@@ -11339,7 +11339,7 @@ anticodon
 alloquy
 anticreeper
 amphitrichate 1
-amphitropous
+amphitropous 1
 anargyros 1
 amphiumidae
 alcoholimeter
