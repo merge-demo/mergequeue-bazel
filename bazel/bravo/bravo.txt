@@ -17291,7 +17291,7 @@ bikeways
 brechan
 backlighting 1
 bleachers 1
-bedegar
+bedegar 1
 benzinduline 1
 benedick 2
 bunts
