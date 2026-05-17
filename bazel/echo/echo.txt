@@ -8422,7 +8422,7 @@ emblossom 2
 exulceration 2
 epinasties
 epulones
-exchange
+exchange 1
 electrizer 1
 evisceration
 egyptianize 1
