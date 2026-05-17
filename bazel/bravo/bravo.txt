@@ -14871,7 +14871,7 @@ bloodthirstier
 breadwinning 1
 breakability
 bilith 1
-brokers
+brokers 1
 breakable 1
 breakaxe 1
 bitterless
