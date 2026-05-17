@@ -855,7 +855,7 @@ agha 1
 accurse 2
 absconsa
 abscound
-aphakia
+aphakia 1
 aftercoming
 absee
 abseils
