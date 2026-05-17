@@ -17036,7 +17036,7 @@ ascitic
 auriscalp 1
 apocynthion
 apocynthions
-apocyte
+apocyte 1
 apocopate
 audiometrist
 apocopated
