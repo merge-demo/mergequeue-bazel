@@ -9188,7 +9188,7 @@ formicaria
 fraena 1
 faroff
 frostproofing
-fulfulde
+fulfulde 1
 forward 3
 filices
 filenames
