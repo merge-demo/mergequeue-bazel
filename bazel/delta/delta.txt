@@ -18346,7 +18346,7 @@ dryerman 1
 doubleton
 duodenate
 duodenation
-depurge
+depurge 1
 degelation
 dyestuff 1
 diallelon
