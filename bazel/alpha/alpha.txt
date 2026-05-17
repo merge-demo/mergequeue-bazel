@@ -5772,7 +5772,7 @@ autocoder
 adawn
 awl 1
 agaricaceous
-agaricoid
+agaricoid 1
 agarics 1
 apluda
 aleurodidae
