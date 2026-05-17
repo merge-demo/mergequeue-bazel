@@ -12301,7 +12301,7 @@ burrfishes 1
 bootee
 bungfull 1
 bacteriophagic 1
-bathycurrent 2
+bathycurrent 3
 bullwhacker
 betrayer 3
 bombardments 1
