@@ -10002,7 +10002,7 @@ gargled
 gelatinify 2
 galago 1
 grignet
-gaslike 1
+gaslike 2
 gateau
 gudame
 gibberose
