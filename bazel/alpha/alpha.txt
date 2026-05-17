@@ -21502,7 +21502,7 @@ aspersoriums 1
 asperugo
 arrhal
 asperula
-ambulatoria
+ambulatoria 1
 asperulous
 anticovenanting
 autonomy
