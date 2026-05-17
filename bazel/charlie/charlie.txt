@@ -29471,7 +29471,7 @@ constabless 2
 cyprinus
 coprides
 cherishingly
-crystallizable
+crystallizable 1
 crystallization
 cyrtidae 1
 crystallize
