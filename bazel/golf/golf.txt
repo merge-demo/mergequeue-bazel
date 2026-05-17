@@ -2929,7 +2929,7 @@ gabbled
 geocerite 2
 gubernation 1
 greenheaded
-gallons
+gallons 1
 glabreity
 gulley 2
 growlier
