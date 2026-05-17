@@ -9793,7 +9793,7 @@ dipsos
 dermatocyst
 dillesk 1
 daimones 1
-denumerable
+denumerable 1
 deicer
 digesters
 dillydally 1
