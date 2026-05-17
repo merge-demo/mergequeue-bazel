@@ -1297,7 +1297,7 @@ epyllia
 epicranius
 earthless 1
 effectiveness 2
-eesome
+eesome 1
 escuages 1
 explicatively
 ericophyte
