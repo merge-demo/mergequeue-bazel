@@ -6463,7 +6463,7 @@ echinostoma
 eobionts 2
 edental 1
 evenmete
-euctical
+euctical 1
 ectropionize 1
 eskars
 eyeflap 1
