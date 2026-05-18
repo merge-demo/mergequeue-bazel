@@ -4758,7 +4758,7 @@ bedown
 bradding
 bedpans 1
 bries 2
-beslabber
+beslabber 1
 beeball
 besplit
 bedpost 1
