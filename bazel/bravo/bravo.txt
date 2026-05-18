@@ -12101,7 +12101,7 @@ banefully 1
 bagpudding
 barristress
 boldfaced 2
-boldfacedness
+boldfacedness 1
 boldfacing 1
 bewitchments
 bleb
