@@ -10598,7 +10598,7 @@ decoctible
 diploidic
 dunderbolt
 dominus
-diploidize
+diploidize 1
 doorman
 diploma 1
 decasyllabon 3
