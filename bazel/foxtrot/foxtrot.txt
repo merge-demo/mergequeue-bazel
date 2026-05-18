@@ -1118,7 +1118,7 @@ frizzling
 farthing 1
 foresay 2
 fluffing 1
-feverishness
+feverishness 1
 fractional
 fibrillary 2
 filiates 3
