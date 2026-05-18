@@ -5329,7 +5329,7 @@ beglide 1
 burkers 3
 bor
 beglooms
-begloze
+begloze 1
 busti
 brokenly 1
 baidar
