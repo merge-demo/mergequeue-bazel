@@ -1482,7 +1482,7 @@ deckhouses
 dazes
 dazzle 1
 dawnstreak 2
-discriminative
+discriminative 1
 diffusor
 dasypaedal
 discolorated 2
