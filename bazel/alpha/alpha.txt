@@ -9434,7 +9434,7 @@ amasty
 altar
 altarage 1
 allodies 1
-armbone
+armbone 1
 anemones
 apicad
 angiosclerotic
