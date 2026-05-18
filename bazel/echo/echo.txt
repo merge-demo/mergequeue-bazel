@@ -8774,7 +8774,7 @@ enticement 1
 eradicant
 epineolithic
 equilibrity
-embossable
+embossable 1
 enround
 electrodepositable
 elegist
