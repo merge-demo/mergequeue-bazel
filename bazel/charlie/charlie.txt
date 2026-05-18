@@ -25116,7 +25116,7 @@ chatillon 1
 connotes 1
 chirotherium 1
 coinstantaneous
-corequisite
+corequisite 1
 corer
 combinantive 1
 corers
