@@ -15098,7 +15098,7 @@ danube 1
 distylar 1
 diagrammable 1
 disfrequent
-dogmatise
+dogmatise 1
 dogmatised 1
 dressoirs
 dogmatizer
