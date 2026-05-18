@@ -12547,7 +12547,7 @@ extoolitic
 enactable 1
 esonarthex 1
 enameler 2
-electrofusion 1
+electrofusion 2
 extant
 existlessness 1
 epistemological
