@@ -5150,7 +5150,7 @@ froom 1
 flatlands
 fiberized
 flavoprotein
-facula
+facula 1
 fatigued
 flywheels 1
 fjords
