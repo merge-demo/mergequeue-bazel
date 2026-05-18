@@ -30912,7 +30912,7 @@ cosuggestion
 csc
 cenozoic 1
 cultivate
-cultivates
+cultivates 1
 cultivating
 cooeed
 cultivations
