@@ -8669,7 +8669,7 @@ fields
 fortaxed 1
 foederati 2
 fanlike 1
-freelance
+freelance 1
 funariaceous 1
 flexuous
 fistuliform 1
