@@ -13508,7 +13508,7 @@ cylindrodendrite 1
 cylindrograph
 compilers 1
 chisel 1
-chrysocolla
+chrysocolla 1
 comitiva 1
 cylindroid
 ceratites
