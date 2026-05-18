@@ -10897,7 +10897,7 @@ doddart
 debaters
 desalting
 disculpate
-decerebrize
+decerebrize 1
 diruption
 dereference
 deployed 1
