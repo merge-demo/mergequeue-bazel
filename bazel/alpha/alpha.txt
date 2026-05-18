@@ -22445,7 +22445,7 @@ astronavigator
 anodynic 2
 astronomy
 analgen 1
-aphototropism
+aphototropism 1
 astronomical
 ajenjo
 acylate
