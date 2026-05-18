@@ -18521,7 +18521,7 @@ chello
 cill
 cohortative 1
 cohosh
-circumdiction
+circumdiction 1
 cephalalgia
 crownlet
 consigner
