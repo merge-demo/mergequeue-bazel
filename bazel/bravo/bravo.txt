@@ -790,7 +790,7 @@ browniness 1
 bldr 1
 blautok
 baetulus
-boothose
+boothose 1
 batrachophobia
 benignness 1
 blake
