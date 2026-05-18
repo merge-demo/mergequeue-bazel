@@ -6336,7 +6336,7 @@ grail
 gobstopper
 goosenecked 2
 gemots
-gametal
+gametal 1
 gearings 3
 giglio
 genarchaship 2
