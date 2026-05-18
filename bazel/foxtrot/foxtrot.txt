@@ -857,7 +857,7 @@ fantasmal
 fundus 1
 fantasms 1
 forsloth 1
-fractable
+fractable 1
 finked 2
 fustigation 2
 flowage
