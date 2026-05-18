@@ -1601,7 +1601,7 @@ enablers
 eyewitnesses 2
 egomania
 elodea
-erecting
+erecting 1
 emblems
 egomaniacally 2
 egomism 1
