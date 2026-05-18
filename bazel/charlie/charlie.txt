@@ -13208,7 +13208,7 @@ caryota
 cyclic
 cyclical
 cyclizing 1
-cyclically
+cyclically 1
 cyclicalness
 cyclide 1
 cubeb 1

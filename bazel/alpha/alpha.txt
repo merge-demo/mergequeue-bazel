@@ -21791,7 +21791,7 @@ assertress
 annunciator 1
 athetesis
 asserts
-assertum
+assertum 1
 agricolous
 acanaceous
 asak 2
