@@ -4105,7 +4105,7 @@ emplaster
 enantiomer
 elevating
 equiponderated 1
-emplastic
+emplastic 1
 emplastration
 ectrodactylism
 expulsionist
