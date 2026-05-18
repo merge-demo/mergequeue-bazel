@@ -296,7 +296,7 @@ flanks
 fraenums 2
 forebar 1
 fistnotes
-flambeed 1
+flambeed 2
 floosies 1
 frappeing 1
 fiddlesticks
