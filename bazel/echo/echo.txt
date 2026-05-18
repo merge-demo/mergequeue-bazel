@@ -2073,7 +2073,7 @@ elanet
 elanus
 enantiopathia
 extravenate
-encampments
+encampments 1
 enthusiasm 2
 embalm 2
 enterocinesia 1
