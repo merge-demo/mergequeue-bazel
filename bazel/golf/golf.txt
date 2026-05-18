@@ -6735,7 +6735,7 @@ gyrostats 2
 glomerate 1
 globulimeter 2
 geyseral
-gurdfish 1
+gurdfish 2
 gruine
 glenoid
 guiltlessness 1
