@@ -3327,7 +3327,7 @@ defines 3
 dispensatively 1
 deionizes
 donated
-definiens
+definiens 1
 derencephalocele 1
 dolabre 1
 decigram
