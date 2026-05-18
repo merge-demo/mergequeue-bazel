@@ -7565,7 +7565,7 @@ fractionise
 forecourts
 freeholding 1
 fulmen 2
-frau
+frau 1
 furuncles 2
 faille 3
 fifers
