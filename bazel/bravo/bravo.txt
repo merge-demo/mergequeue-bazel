@@ -9949,7 +9949,7 @@ burbles
 biases
 bivalence
 blethering 1
-byelaw
+byelaw 1
 biland
 betrap
 bergerette 1
