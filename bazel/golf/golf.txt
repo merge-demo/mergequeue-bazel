@@ -2173,7 +2173,7 @@ gnomide
 golfings
 gds 1
 gaycat 1
-gastrotomy
+gastrotomy 1
 grainer 1
 gaze
 genteelly 2
