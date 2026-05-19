@@ -16498,7 +16498,7 @@ antifogmatic
 abbesses 1
 agalactia
 acetabuliferous
-antimicrobial
+antimicrobial 1
 aogiri
 astrally
 anteroposterior
