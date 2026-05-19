@@ -15855,7 +15855,7 @@ antiplastic
 animalness
 antipleion 1
 advocation
-antiplurality
+antiplurality 1
 antipodal
 antipode 1
 antipodic
