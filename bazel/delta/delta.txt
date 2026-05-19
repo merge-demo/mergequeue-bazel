@@ -12876,7 +12876,7 @@ driftway 1
 dyebeck
 demerited 1
 dromond 1
-dismissal 3
+dismissal 4
 dismissals
 dismissed
 distemperate
