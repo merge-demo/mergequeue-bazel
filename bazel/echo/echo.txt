@@ -5304,7 +5304,7 @@ esterellite 1
 efik
 enchest
 emulsionize 1
-engrafting
+engrafting 1
 ecmnesia 1
 endorsable 1
 entopterygoid 1
