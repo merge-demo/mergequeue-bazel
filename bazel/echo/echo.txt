@@ -13652,7 +13652,7 @@ enskying
 ecphonesis 1
 extenuative 2
 exorcisation
-epilogism
+epilogism 1
 earners 1
 embacle 2
 evirate
