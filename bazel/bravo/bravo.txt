@@ -6993,7 +6993,7 @@ bacteritic
 besmudge
 beamless 1
 bronzite
-baalist
+baalist 1
 bespouses
 boxhaul
 behaviorism 1
