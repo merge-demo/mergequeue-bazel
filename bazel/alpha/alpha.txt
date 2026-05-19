@@ -10464,7 +10464,7 @@ acanthoma
 aponogetonaceous
 amianthus 1
 arcform
-amyatonic
+amyatonic 1
 amic
 amicability
 antiadiaphorist
