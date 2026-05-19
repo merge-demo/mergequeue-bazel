@@ -1290,7 +1290,7 @@ eeriness 1
 ecostate 1
 epithalamion 1
 encircler 1
-endogenesis
+endogenesis 1
 eassel 1
 enteroid 1
 epyllia
