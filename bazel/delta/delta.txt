@@ -256,7 +256,7 @@ dochmiasis
 duckweeds 1
 daggling
 daghesh
-deoxyribonuclease
+deoxyribonuclease 1
 dappling 1
 denitrate 1
 dictyopteran
