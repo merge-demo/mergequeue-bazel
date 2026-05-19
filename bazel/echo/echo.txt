@@ -10946,7 +10946,7 @@ exdie
 editorializer
 equability
 eggnogs 1
-eggbeater
+eggbeater 1
 epipelagic 1
 ends
 ecbolic 2
