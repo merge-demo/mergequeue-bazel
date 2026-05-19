@@ -4215,7 +4215,7 @@ geniculum
 gossy
 gymnotus 1
 gutling
-geomagnetic
+geomagnetic 1
 gimped
 gimpier 1
 guidable
