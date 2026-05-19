@@ -5080,7 +5080,7 @@ fumettes
 frsikets 1
 flagboat 1
 flareback 1
-furnishness
+furnishness 1
 fishweir
 flossa
 felicitated
