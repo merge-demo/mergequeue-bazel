@@ -1141,7 +1141,7 @@ calcite
 carollers 2
 cuppers
 cloddiness 1
-calcitic
+calcitic 1
 calcitrant
 calcitrate
 cataphatic
