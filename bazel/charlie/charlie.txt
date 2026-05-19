@@ -15726,7 +15726,7 @@ chips 1
 clavolet
 cumulonimbus
 chapel 1
-clawed
+clawed 1
 clawer
 cubbishly
 clawers
