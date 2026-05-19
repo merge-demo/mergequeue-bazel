@@ -7181,7 +7181,7 @@ algodoncillo 1
 aethrioscope
 alack 1
 amole 2
-airworthiness
+airworthiness 1
 anadromous
 alacran
 advertized
