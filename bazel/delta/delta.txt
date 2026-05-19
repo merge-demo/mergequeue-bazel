@@ -16493,7 +16493,7 @@ diastole
 dungan 1
 dradge
 dilutions 2
-dottiness
+dottiness 1
 debasingly
 deadwoods 1
 discloister
