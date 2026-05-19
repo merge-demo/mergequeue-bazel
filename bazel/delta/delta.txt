@@ -7066,7 +7066,7 @@ difficultly 2
 destabilize 2
 ducting 1
 dothideacea
-desterilization
+desterilization 1
 dilucid
 dexterical
 dayak
