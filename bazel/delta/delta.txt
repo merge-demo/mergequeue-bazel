@@ -1309,7 +1309,7 @@ daubreite
 degaussing 1
 dobsons
 dinitro 1
-densified
+densified 1
 dryermen 1
 declinate
 disfranchisements
