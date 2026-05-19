@@ -16037,7 +16037,7 @@ cotypes
 clablaria
 computative
 clevises 1
-clew
+clew 1
 casemated 2
 counterbeating
 clewgarnet
