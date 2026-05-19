@@ -2940,7 +2940,7 @@ barrelmaker
 blissfully 2
 bamboozlement
 boules 1
-brassavola
+brassavola 1
 bracketed
 barrelwise
 barretor
