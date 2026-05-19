@@ -7836,7 +7836,7 @@ aleak 1
 aleatory
 archcorsair
 aleatoric
-academics
+academics 1
 aquae 1
 analphabetical
 apologetically
