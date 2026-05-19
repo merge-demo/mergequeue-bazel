@@ -2740,7 +2740,7 @@ geniture
 grenades
 geodesists
 gristmiller
-gliadins 2
+gliadins 3
 guillotine
 gader
 gunboats 1
