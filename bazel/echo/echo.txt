@@ -7617,7 +7617,7 @@ ecstaticize 1
 enteric
 epicoele
 elkesaite
-extolment
+extolment 1
 espinos
 euchymous 1
 epicoelous 3
