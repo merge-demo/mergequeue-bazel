@@ -2593,7 +2593,7 @@ altaid
 adffrozen
 adjacent
 acquest
-armenite
+armenite 1
 actutate 2
 applies
 arriswise
