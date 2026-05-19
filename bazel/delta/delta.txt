@@ -3371,7 +3371,7 @@ dagos 1
 deturn 2
 dictative
 defis
-deflagrable
+deflagrable 1
 desophistication 2
 dialling 1
 decolor
