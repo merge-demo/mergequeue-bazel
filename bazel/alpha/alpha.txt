@@ -14857,7 +14857,7 @@ apenteric
 antimachinery 1
 anticyclic
 arrondi
-alife
+alife 1
 anticyclical
 apocodeine 2
 amorously
