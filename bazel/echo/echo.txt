@@ -4203,7 +4203,7 @@ esbay
 earthlight 1
 empresses
 emprint 2
-emprises
+emprises 1
 epinastically
 emprison
 euphausiid 1
