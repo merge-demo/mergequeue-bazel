@@ -10177,7 +10177,7 @@ gerusia 1
 gastropathy 1
 granulated 2
 greed
-governable
+governable 1
 gloriana
 goosery 1
 genethliac 2
