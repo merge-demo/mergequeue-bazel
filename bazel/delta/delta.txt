@@ -10607,7 +10607,7 @@ domitable 2
 dolven
 diplomaing
 datapunch 1
-doleritic
+doleritic 1
 drudger 1
 deben 1
 decolorizing 1
