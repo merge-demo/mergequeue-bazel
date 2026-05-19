@@ -2470,7 +2470,7 @@ dunghill
 destrudo
 decipium
 diphase 2
-diplodocus
+diplodocus 1
 dipyre
 decision 1
 defeatists
