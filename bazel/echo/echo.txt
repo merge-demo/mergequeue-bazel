@@ -4704,7 +4704,7 @@ endemics
 electromagnets 1
 encyclopedic
 ebauche
-encyclopedical
+encyclopedical 1
 etherialisation
 erpetology 1
 exacerbating 2
