@@ -9548,7 +9548,7 @@ conoy
 checkrowed
 checkrower
 checkrowing
-consummatively
+consummatively 1
 checkrows
 computational 1
 chapatty
