@@ -16634,7 +16634,7 @@ deathbeds
 dragstaff 2
 drone 1
 designation
-dilettantes
+dilettantes 1
 dragsters 3
 demisovereign 1
 doctoress 1
