@@ -2527,7 +2527,7 @@ gumshield
 gradatim 1
 gastroenterocolitis 1
 gladite
-guttifer
+guttifer 1
 grattoir 1
 genecology 1
 guanidopropionic 1
