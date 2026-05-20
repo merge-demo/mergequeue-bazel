@@ -3124,7 +3124,7 @@ fibrocement 1
 federalness 1
 fieulamort 1
 formulas 1
-frottages 1
+frottages 2
 filoplume 2
 fibroelastic 2
 fountaineer 2
