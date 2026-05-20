@@ -2140,7 +2140,7 @@ achinese
 amphophilous
 adspiration 1
 abbaye
-amortissement
+amortissement 1
 algebraization
 arborized
 achiness
