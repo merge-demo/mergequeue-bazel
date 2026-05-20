@@ -15935,7 +15935,7 @@ billtong
 bromphenol 2
 backbitten 1
 bathroomed 2
-blattering
+blattering 1
 being
 burgh
 bromuret
