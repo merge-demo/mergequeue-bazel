@@ -9754,7 +9754,7 @@ decolourization
 dilatometer 1
 dilatometrically 2
 dynamometers
-dcbname
+dcbname 1
 dilatoriness
 daypeep
 denaturiser
