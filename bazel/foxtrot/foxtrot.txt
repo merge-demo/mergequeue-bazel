@@ -1528,7 +1528,7 @@ faurd 1
 foreseat 1
 feedbox
 flippant
-foodless
+foodless 1
 fanfaron
 foulish
 foreshift 1
