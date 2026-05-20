@@ -4864,7 +4864,7 @@ bedsitter
 batmen
 baudekins
 by 1
-beltwise
+beltwise 1
 bandcase
 baffing
 beduncing 1
