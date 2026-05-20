@@ -4869,7 +4869,7 @@ bandcase
 baffing
 beduncing 1
 botchiest
-bagobo
+bagobo 1
 bewrapped 1
 beekite
 bedur
