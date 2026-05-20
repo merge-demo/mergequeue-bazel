@@ -16052,7 +16052,7 @@ bacteriolytic 1
 basnet
 bauge 1
 blepharospath
-babesiosis
+babesiosis 1
 broaden
 brontology 1
 bollards 1
