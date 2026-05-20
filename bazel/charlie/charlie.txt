@@ -15315,7 +15315,7 @@ compatriot 1
 crowdie 1
 critturs
 coexist
-clangful
+clangful 1
 clanging 1
 clangingly
 corticoefferent
