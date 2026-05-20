@@ -6456,7 +6456,7 @@ demitone
 deplumation
 dictatrix
 deodara 2
-digitization
+digitization 1
 dragomanic 2
 desalinated
 diaereses
