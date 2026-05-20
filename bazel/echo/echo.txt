@@ -6249,7 +6249,7 @@ epitapher 1
 eradiation
 enostosis 1
 elisions 1
-erugatory
+erugatory 1
 espresso
 enoughs
 editorialize
