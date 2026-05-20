@@ -1888,7 +1888,7 @@ equatability 2
 encomiast 1
 eyoty
 elapsed
-endamage
+endamage 1
 everwho 2
 eightball
 eir
