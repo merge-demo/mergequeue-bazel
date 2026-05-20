@@ -5811,7 +5811,7 @@ fathmur
 flitters 1
 frequents 2
 flankwise 1
-froggiest
+froggiest 1
 frivolize 2
 ferfet 1
 fluoridations 1
