@@ -11948,7 +11948,7 @@ endemic
 electrooptical
 ensampler 1
 ecoid
-extracostal 1
+extracostal 2
 endotheliolysin
 epicedial 2
 esmeraldan 2
