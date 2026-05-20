@@ -11946,7 +11946,7 @@ exairesis 1
 esthesis
 endemic
 electrooptical
-ensampler
+ensampler 1
 ecoid
 extracostal 1
 endotheliolysin
