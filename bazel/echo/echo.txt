@@ -10588,7 +10588,7 @@ elixation 1
 earthiness
 expectance
 euchrome
-euclideanism
+euclideanism 1
 euclidian
 exhalant
 eucone
