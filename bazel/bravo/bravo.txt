@@ -11290,7 +11290,7 @@ blowlamp
 blown
 bananas
 blowoff
-blowouts
+blowouts 1
 bedels
 blowproof
 blows 1
