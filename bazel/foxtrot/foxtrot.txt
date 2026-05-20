@@ -10526,7 +10526,7 @@ faciend
 freq 2
 forstand 2
 frowsily 1
-footslogging
+footslogging 1
 famishment 1
 frictionless 1
 francisca
