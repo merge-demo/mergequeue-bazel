@@ -14807,7 +14807,7 @@ anadipsic
 antiscii 1
 abbreviations
 arricciatos
-ascribes
+ascribes 1
 antichance 1
 animatograph
 amperes
