@@ -3942,7 +3942,7 @@ epilabrum
 emodins 2
 efflorescent 2
 emollience
-elevenths
+elevenths 1
 eyliad
 estruate 1
 excalation
