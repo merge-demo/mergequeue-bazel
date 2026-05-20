@@ -4796,7 +4796,7 @@ bougee 1
 bedroll
 bedrooms 1
 bruckle
-bandicoots
+bandicoots 1
 bedrugged
 bedrugs 1
 bemeans
