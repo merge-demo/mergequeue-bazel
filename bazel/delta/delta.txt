@@ -10354,7 +10354,7 @@ driftpiece 1
 dowsing 2
 dentata 1
 derelictly
-degeneracy
+degeneracy 1
 dioramic
 diordinal
 duplet
