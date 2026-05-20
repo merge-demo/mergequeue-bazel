@@ -2825,7 +2825,7 @@ facie
 ficus 1
 fluidly
 floorman
-fishhouse 1
+fishhouse 2
 ferrozirconium 3
 floodlights 2
 fideicommiss
