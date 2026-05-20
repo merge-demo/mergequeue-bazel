@@ -20516,7 +20516,7 @@ compd
 cusparia
 carnose
 codon
-crapon
+crapon 1
 commistion
 cambalo 2
 canonlike
