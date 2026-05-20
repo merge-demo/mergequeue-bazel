@@ -13335,7 +13335,7 @@ encincture
 exponention 1
 elephantopus
 exponible
-existible
+existible 1
 evolvable 2
 extrametaphysical 1
 encowl 1
