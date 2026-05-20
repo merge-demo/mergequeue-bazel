@@ -706,7 +706,7 @@ ecology 2
 eromania 1
 encephalolith 2
 employing
-enspell
+enspell 1
 equidistant 1
 eidently
 enode 2
