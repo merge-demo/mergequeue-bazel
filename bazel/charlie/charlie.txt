@@ -15945,7 +15945,7 @@ cotoneaster
 clergylike
 cyclos
 clergymen 1
-chandleries
+chandleries 1
 clergion
 clergywoman
 clementine
