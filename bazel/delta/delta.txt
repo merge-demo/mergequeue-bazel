@@ -11162,7 +11162,7 @@ defectibility
 devvel 1
 dyeline
 djins 1
-disavower
+disavower 1
 derringers 2
 depletes 1
 dottily
