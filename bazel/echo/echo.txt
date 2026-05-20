@@ -6725,7 +6725,7 @@ entertainment
 endosepsis 1
 echimys
 epicenters 1
-equines
+equines 1
 espaliers
 epithecal
 evaginable 2
