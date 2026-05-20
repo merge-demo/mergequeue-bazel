@@ -4333,7 +4333,7 @@ expulsive 2
 expansibleness 1
 enactor 3
 epigrammatize
-entoproct
+entoproct 1
 echoed
 eloquence
 exclaustration 1
