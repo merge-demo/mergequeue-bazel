@@ -8754,7 +8754,7 @@ beggars 1
 baptizers 1
 banjos
 broker
-binding
+binding 1
 bookkeep 1
 bindingness 2
 breakfasted
