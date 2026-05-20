@@ -27400,7 +27400,7 @@ catastatic
 courting
 courtly
 courtlier
-chow
+chow 1
 chaptered 1
 courtliest
 croppie
