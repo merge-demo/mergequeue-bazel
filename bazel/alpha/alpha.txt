@@ -22443,7 +22443,7 @@ asmodeus
 aphoruridae 1
 astronavigator
 anodynic 2
-astronomy
+astronomy 1
 analgen 1
 aphototropism 1
 astronomical
