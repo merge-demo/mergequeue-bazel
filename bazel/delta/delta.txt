@@ -8269,7 +8269,7 @@ dizzy
 draped 1
 disputableness
 diagonal
-diagonalizable
+diagonalizable 1
 diagonalization
 diagnosing
 duel
