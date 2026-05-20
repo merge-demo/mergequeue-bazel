@@ -68,7 +68,7 @@ facebar 1
 facebow 1
 fenchone 1
 feudalization 3
-faceharden 1
+faceharden 2
 flagships 1
 flecken
 facellite 1
