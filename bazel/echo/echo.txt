@@ -1851,7 +1851,7 @@ edematose
 euler
 epidiorite
 encystments 1
-errabund 1
+errabund 2
 elaterin 4
 equitemporal 1
 expeller
