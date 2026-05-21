@@ -1986,7 +1986,7 @@ camerist
 circummigrate 1
 campanero
 comp
-crenelates
+crenelates 1
 choliambist
 crampbit
 cameronian
