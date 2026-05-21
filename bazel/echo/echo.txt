@@ -10637,7 +10637,7 @@ epappose
 epinephelidae 1
 evilproof 1
 enmoss 2
-excavate
+excavate 1
 endozoa 2
 eques 1
 enchilada 2
