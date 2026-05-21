@@ -7748,7 +7748,7 @@ graped
 geography 1
 gonystylaceae 1
 goldbugs 2
-grantable
+grantable 1
 gaisling
 gladkaite 2
 gematriot 1
