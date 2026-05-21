@@ -18640,7 +18640,7 @@ dipaschal 1
 dummyism 2
 dutymonger
 deactivations
-deodorizer
+deodorizer 1
 disalignment
 decasyllable 1
 denunciatively
