@@ -3920,7 +3920,7 @@ exede
 examinability
 epiglottis
 endexine
-emissory 1
+emissory 2
 emitting
 entamebas 1
 electropathic 1
