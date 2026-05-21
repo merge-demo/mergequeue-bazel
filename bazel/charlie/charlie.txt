@@ -28679,7 +28679,7 @@ candlewicking
 contaminates 1
 constitutes
 corone
-crenelations
+crenelations 1
 coplanar 1
 convergently
 cannophori
