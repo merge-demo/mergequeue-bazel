@@ -5082,7 +5082,7 @@ flagboat 1
 flareback 1
 furnishness 1
 fishweir
-flossa
+flossa 1
 felicitated
 flareless
 fibromyectomy
