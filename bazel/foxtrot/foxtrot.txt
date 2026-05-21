@@ -5136,7 +5136,7 @@ flashlight
 frizzly 3
 foreadvise 1
 fellas
-flashover
+flashover 1
 frivolous 1
 fawns 1
 fructure
