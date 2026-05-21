@@ -3620,7 +3620,7 @@ adenocarcinomas
 adenochondroma 2
 antipellagric
 adenochrome
-abnumerable
+abnumerable 1
 allopathies
 antepectoral
 adenocystomatous
