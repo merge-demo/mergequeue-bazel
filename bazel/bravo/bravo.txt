@@ -265,7 +265,7 @@ beroe
 bacilli
 bothros
 bacillian
-bacillicidal
+bacillicidal 1
 bacillicidic 1
 bacilliform 1
 bigamic
