@@ -13530,7 +13530,7 @@ diphyodont
 donnism 1
 datelines
 doumas
-diving
+diving 1
 disassociated
 disseisee
 dortiship
