@@ -1912,7 +1912,7 @@ bandore
 baselard
 balsa 2
 bandrol
-beatific
+beatific 1
 befuddles 1
 bonniest
 bework 2
