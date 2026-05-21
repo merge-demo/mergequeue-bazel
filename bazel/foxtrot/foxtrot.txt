@@ -10115,7 +10115,7 @@ fleshment
 frithstool 2
 fritniency 1
 fare
-foreknee
+foreknee 1
 fe 1
 feckly 1
 fulciform 2
