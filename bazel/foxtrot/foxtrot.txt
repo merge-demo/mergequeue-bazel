@@ -8887,7 +8887,7 @@ fiberizer
 flatteners
 fouled 1
 fling 3
-fatiloquent
+fatiloquent 1
 feedstuff
 forethough
 fidation 1
