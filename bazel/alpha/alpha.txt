@@ -21439,7 +21439,7 @@ amnesties
 asperate 1
 artefact
 azarole
-antitegula
+antitegula 1
 authorish
 anosmias
 asperges
