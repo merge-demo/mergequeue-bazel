@@ -2051,7 +2051,7 @@ fogbows 1
 fascicule 1
 flaunting 2
 forfouchten 2
-feisty
+feisty 1
 fairyisms
 farl 1
 fops
