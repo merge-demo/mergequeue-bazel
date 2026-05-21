@@ -17194,7 +17194,7 @@ director
 diaphoresis 2
 decursive 1
 depletory 1
-drive
+drive 1
 diastrophism 1
 dehair 1
 deermeat 1
