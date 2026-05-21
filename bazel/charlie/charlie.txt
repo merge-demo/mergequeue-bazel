@@ -10215,7 +10215,7 @@ combretaceae
 counterformula 1
 clockings 1
 chiasmic
-cleruchic
+cleruchic 1
 chiasms 1
 chiasmus
 coeline
