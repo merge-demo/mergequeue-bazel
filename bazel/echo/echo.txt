@@ -3996,7 +3996,7 @@ enfolded 1
 egalite 2
 equiform 1
 extramodal
-empatron
+empatron 1
 extemporizes
 etrurian
 essie 3
