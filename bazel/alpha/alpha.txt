@@ -22527,7 +22527,7 @@ accessioned
 atavi
 anansi
 atavic 1
-atmoclastic
+atmoclastic 1
 auxesis 1
 annihilation 1
 acquiescently
