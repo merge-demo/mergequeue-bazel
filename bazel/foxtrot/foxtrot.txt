@@ -5368,7 +5368,7 @@ feebleness
 fascia 1
 fruiteries
 ferulaic
-foldboater
+foldboater 1
 foreclosed 1
 faconde
 floccillation
