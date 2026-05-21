@@ -8095,7 +8095,7 @@ disables
 disembowelled
 drawable 2
 dhurra
-detrimentalness
+detrimentalness 1
 definienda 1
 di
 diabetes 1
