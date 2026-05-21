@@ -10238,7 +10238,7 @@ flakers 2
 frond
 fluxmeter 3
 finickingness 1
-frust
+frust 1
 fgrid
 fjarding 1
 firiness
