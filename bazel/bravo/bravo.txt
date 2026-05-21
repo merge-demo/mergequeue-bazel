@@ -12008,7 +12008,7 @@ bohunks
 beverly 1
 beneficeless
 boyard
-boyardism
+boyardism 1
 bartholomean 1
 brawling
 boyau
