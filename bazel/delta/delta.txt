@@ -17157,7 +17157,7 @@ damselfly
 diaphaneity 1
 diswont
 drinks
-dynamics
+dynamics 1
 dansants
 daffiest
 decachord
