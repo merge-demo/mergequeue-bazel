@@ -14145,7 +14145,7 @@ animalize
 antibodies
 amphivorous
 auriga
-adjusts
+adjusts 1
 agglutinogenic
 assonanced 1
 anarthrous 2
