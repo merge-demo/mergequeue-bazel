@@ -7218,7 +7218,7 @@ enderon
 erythropoietic 1
 electrotropic 1
 ephemeromorphic 2
-eupnoeas
+eupnoeas 1
 exudate 1
 enthronize
 eyalet 1
