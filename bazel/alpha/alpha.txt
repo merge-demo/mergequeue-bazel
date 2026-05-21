@@ -8630,7 +8630,7 @@ aeolomelodicon 1
 austenite 1
 applauded
 ampelosicyos
-adjudicatory
+adjudicatory 1
 avizandum 1
 asterias
 accentuates
