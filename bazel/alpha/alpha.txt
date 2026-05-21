@@ -7404,7 +7404,7 @@ annulus
 amusiveness 1
 affinage
 antrum
-adversus
+adversus 1
 alarmists
 astrogate
 anchithere

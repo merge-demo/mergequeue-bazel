@@ -5100,7 +5100,7 @@ beflag
 bamboo
 binits 4
 basilicon 2
-beflagged
+beflagged 1
 broidering
 bodymaking
 beflagging
