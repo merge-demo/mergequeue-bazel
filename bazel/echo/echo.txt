@@ -12154,7 +12154,7 @@ extrados
 emphysematous 1
 esclavage 2
 energise 3
-elasticin
+elasticin 1
 exuviating 1
 electroshock
 exploits 2
