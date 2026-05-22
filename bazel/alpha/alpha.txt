@@ -7817,7 +7817,7 @@ anacanth
 aldrins 2
 arba
 ausubos 1
-atrickle
+atrickle 1
 anomalonomy
 anglicism
 aldrovanda
