@@ -12058,7 +12058,7 @@ excoriations 2
 epiclike 1
 electrostenolytic 1
 enforcible
-elflike 1
+elflike 2
 exotoxins 1
 expurgatorial
 embalmed
