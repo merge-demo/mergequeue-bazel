@@ -5933,7 +5933,7 @@ endsweep
 enharden
 especially
 eurytopicity
-exoenzymic
+exoenzymic 1
 embuskin 1
 ephemeron
 excursive
