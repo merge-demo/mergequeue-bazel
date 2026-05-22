@@ -4942,7 +4942,7 @@ bairnliness
 badchan 1
 bouncing 1
 bitriseptate
-beehive
+beehive 1
 boatel
 bandy
 beek
