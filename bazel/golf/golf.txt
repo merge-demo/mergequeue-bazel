@@ -3777,7 +3777,7 @@ gunong
 grincome
 giantsize
 gaub 1
-gonging
+gonging 1
 genoblastic 1
 gobbets 2
 gouvernantes
