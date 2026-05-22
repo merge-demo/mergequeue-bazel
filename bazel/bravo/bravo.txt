@@ -13352,7 +13352,7 @@ bardesanist
 beholds
 baggers
 batons
-bellicosity
+bellicosity 1
 bunder
 bothnian
 bothnic
