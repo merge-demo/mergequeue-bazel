@@ -1155,7 +1155,7 @@ enrichments 1
 economizers 1
 estuaries
 enterobiasis
-edomitish
+edomitish 1
 expective
 eutomous
 exorbitate
