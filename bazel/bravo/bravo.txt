@@ -13671,7 +13671,7 @@ bourdons
 bourg 3
 beckoned
 befoolable
-bespawl
+bespawl 1
 bourgade 1
 beeped
 bonailie
