@@ -3209,7 +3209,7 @@ attributer 1
 actuality 1
 actualization
 actualness
-allochromatic 1
+allochromatic 2
 axopetal
 adderbolt
 acoumetry
