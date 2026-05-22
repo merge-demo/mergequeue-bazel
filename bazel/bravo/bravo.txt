@@ -13021,7 +13021,7 @@ borboridae
 beslow 1
 borborygmatic
 biggin
-borborygmus
+borborygmus 1
 bettongia
 bacteriolysis
 bagataway
