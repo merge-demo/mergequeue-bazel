@@ -9944,7 +9944,7 @@ bituminous
 bisecting
 beryllate
 bilinguality 1
-bridleman
+bridleman 1
 burbles
 biases
 bivalence
