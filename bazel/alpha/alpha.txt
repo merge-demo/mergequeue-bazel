@@ -3156,7 +3156,7 @@ acclimatation
 auchenia
 anatomised
 actipylea
-activate
+activate 1
 apologete
 autocatalytically
 amphogenic
