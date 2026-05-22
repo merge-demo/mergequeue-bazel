@@ -5160,7 +5160,7 @@ caserios
 cyphering 1
 caserne 1
 casernes
-costumery
+costumery 1
 caserns
 cases
 caseum
