@@ -6866,7 +6866,7 @@ cellulosing 1
 cellulosity 1
 correllated
 cellulosities
-caphtor
+caphtor 1
 classicized
 cypreses
 celom
