@@ -9830,7 +9830,7 @@ elenchtical
 exact
 estrich
 etagre
-expurgator 1
+expurgator 2
 eikon
 egocentricity 1
 enthronising 1
