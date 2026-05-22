@@ -7836,7 +7836,7 @@ guillotines
 globs 2
 gristmilling
 graphospasm
-gerents
+gerents 1
 goosander
 grumble 1
 gimirrai 1
