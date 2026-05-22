@@ -10923,7 +10923,7 @@ flighthead 1
 forge
 flavone
 factorizing
-ferreiro
+ferreiro 1
 fub
 foehn 1
 flexure
