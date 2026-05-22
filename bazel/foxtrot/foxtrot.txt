@@ -5890,7 +5890,7 @@ furnishings 2
 flocculent 1
 flushes
 flaxier 1
-flocker
+flocker 1
 filaree
 fasts
 frogged 2
