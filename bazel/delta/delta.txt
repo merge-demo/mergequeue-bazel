@@ -5754,7 +5754,7 @@ dehumidify
 depolarization 1
 dernly
 depolarize
-dextrorsal
+dextrorsal 1
 decouple 1
 downstroke
 diaphany
