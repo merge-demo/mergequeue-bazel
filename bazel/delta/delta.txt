@@ -12772,7 +12772,7 @@ dotardly 1
 drawfiling 1
 donative 1
 disloyalist 1
-disloyally
+disloyally 1
 disloyalty
 decrepity
 doored
