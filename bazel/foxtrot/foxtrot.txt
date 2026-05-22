@@ -4472,7 +4472,7 @@ fishpoles 1
 flueless 2
 flameproof 2
 fazed 1
-fishponds 2
+fishponds 3
 fishtailed 1
 fibrilled 4
 fishpotter 1
