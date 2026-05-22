@@ -3349,7 +3349,7 @@ coderives
 caponize
 crispate
 caponized 1
-contrasty 1
+contrasty 2
 caponizer
 caponizing
 caponniere
