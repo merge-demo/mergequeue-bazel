@@ -11400,7 +11400,7 @@ functionlessness
 frosk 1
 feater
 forksmith
-forestership
+forestership 1
 flumdiddle 1
 forcemeat
 fisticuffing 1
