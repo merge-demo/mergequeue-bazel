@@ -26927,7 +26927,7 @@ countermand
 countermandable 2
 commelinaceae
 craniological
-contemner
+contemner 1
 cushioniness 1
 certhiidae
 creedalist
