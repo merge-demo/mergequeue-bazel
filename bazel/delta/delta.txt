@@ -2656,7 +2656,7 @@ decommission 1
 decommissioned 1
 discriminably
 decian
-dozers
+dozers 1
 deepens
 discernably
 decompensating 2
