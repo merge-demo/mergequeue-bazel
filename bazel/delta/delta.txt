@@ -6239,7 +6239,7 @@ dedolomitization 2
 dermatagra 1
 dermatophagus
 dermatotropic
-desiccator
+desiccator 1
 dizaine
 dermatatrophia 1
 dammer 1
