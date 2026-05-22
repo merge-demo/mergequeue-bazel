@@ -12064,7 +12064,7 @@ dijudicated 1
 disensure 1
 disentail 1
 deprecatively
-disentangle
+disentangle 1
 dissensious 1
 dentine
 disentanglement

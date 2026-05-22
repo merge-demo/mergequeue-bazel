@@ -676,7 +676,7 @@ baculoid 1
 baculus 2
 badaga
 biorgan
-buncombe
+buncombe 1
 bunted 1
 barnstormed
 behav 2
