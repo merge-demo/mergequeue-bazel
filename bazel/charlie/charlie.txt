@@ -16788,7 +16788,7 @@ clover
 chiloplasty 1
 cloverlay 1
 citizen
-clupeidae
+clupeidae 1
 cloverleafs
 cloverleaves
 cloverley
