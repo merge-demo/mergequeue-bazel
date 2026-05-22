@@ -4040,7 +4040,7 @@ fingram
 fossilisable 2
 finical
 fluxibly
-fibrin
+fibrin 1
 finis
 fadelessly
 finish
