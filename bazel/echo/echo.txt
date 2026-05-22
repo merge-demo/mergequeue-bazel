@@ -426,7 +426,7 @@ elfish
 exposits
 ebulliometer
 exacerbation 1
-ebullioscopic
+ebullioscopic 1
 ethenic
 epaxially 2
 excuse
