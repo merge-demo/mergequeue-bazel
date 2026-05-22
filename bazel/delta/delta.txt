@@ -10371,7 +10371,7 @@ diosmosed 2
 diosmosing
 dispreading 1
 defenders
-departures
+departures 1
 detenant 1
 diospyraceous 1
 deforming
