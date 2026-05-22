@@ -5918,7 +5918,7 @@ expend 1
 enhaemospore 1
 epiplastron 1
 emphases
-explees
+explees 1
 ecarinate
 execrators 2
 exaggerativeness
