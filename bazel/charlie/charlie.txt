@@ -22870,7 +22870,7 @@ choisya 1
 collapsable
 conservatoires 1
 conservator
-conservatory
+conservatory 1
 conservatorial
 climatologist
 conservatorium
