@@ -10370,7 +10370,7 @@ formatting 3
 frontierless
 fireproofness 1
 farmyards
-fungite
+fungite 1
 flusterment
 fibroplasia 1
 fonctionnaire 1
