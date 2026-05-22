@@ -3580,7 +3580,7 @@ fellowmen
 frenchism 1
 fogie
 flamboyance
-fencelet
+fencelet 1
 faradises 2
 foremention 1
 filemaker 2
