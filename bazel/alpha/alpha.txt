@@ -2200,7 +2200,7 @@ apod 2
 anguinidae 1
 autoptic
 assessably
-abbreviatory
+abbreviatory 1
 alginic 1
 amphioxides
 anomalipod 1
