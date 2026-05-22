@@ -3117,7 +3117,7 @@ grassie
 gumdrops 1
 gomuti 1
 gymnocidium 2
-gastful
+gastful 1
 guffaws 1
 gullage
 gurglet 3
