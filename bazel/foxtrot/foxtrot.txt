@@ -11409,7 +11409,7 @@ fleurette 2
 filminess 1
 flushboard 1
 feasor
-flocculose
+flocculose 1
 furniture 2
 flummoxing
 frustrable 2
