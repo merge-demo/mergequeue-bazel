@@ -5200,7 +5200,7 @@ debone
 dyings 1
 daemon
 doghole
-decephalization 2
+decephalization 3
 deathly
 diaheliotropic 1
 detruncating 1
