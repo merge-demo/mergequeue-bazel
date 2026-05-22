@@ -15429,7 +15429,7 @@ downtowns 1
 dishwares
 dijudication
 demibarrel
-damoisel
+damoisel 1
 dines 1
 diclinic 2
 dominick 1
