@@ -590,7 +590,7 @@ bibbery
 billmen 1
 benzobis
 beclothed
-bedrabble
+bedrabble 1
 bacteremic
 bacteriaceae 1
 bacteriaemia
