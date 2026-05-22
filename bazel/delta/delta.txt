@@ -1845,7 +1845,7 @@ doorstead
 doughnut
 debellator 1
 darapti
-drugmaker
+drugmaker 1
 decriminalize 1
 degeneratively 1
 defeudalize
