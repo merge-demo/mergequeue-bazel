@@ -14903,7 +14903,7 @@ almsgiving
 alphorn
 autohemolysin 1
 acceptilate 1
-anticker
+anticker 1
 anticking
 asseth
 abrosias
