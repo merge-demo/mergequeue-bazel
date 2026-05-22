@@ -9069,7 +9069,7 @@ defang 1
 diss 1
 dermatophobia 1
 defigure 1
-dictionarian
+dictionarian 1
 dorsoabdominal
 dollying
 dropsywort
