@@ -5651,7 +5651,7 @@ fud
 forethinking 2
 fulguration
 fluidising
-fireable
+fireable 1
 flimsiness 1
 fairleads
 flinch
