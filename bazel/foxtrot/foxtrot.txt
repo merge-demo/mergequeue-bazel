@@ -1197,7 +1197,7 @@ fright 1
 fund 1
 fluoroscopy
 fleech 3
-fears
+fears 1
 fascistization 1
 foxproof
 fountainlike 1
