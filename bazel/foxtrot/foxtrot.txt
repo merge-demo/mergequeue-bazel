@@ -7540,7 +7540,7 @@ forecastlehead 1
 five 1
 filemaking
 ferroboron 2
-fringillaceous
+fringillaceous 1
 forespake
 fallacious
 foreboder 2
