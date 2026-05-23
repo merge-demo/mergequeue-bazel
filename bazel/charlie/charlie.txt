@@ -8360,7 +8360,7 @@ cohered
 chalons
 coronograph
 chalot
-chaloupe
+chaloupe 1
 cowpunch 1
 chaluka
 catacrotic
