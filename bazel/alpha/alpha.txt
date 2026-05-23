@@ -9716,7 +9716,7 @@ aquatints
 alveololabial
 achene
 ambries 1
-alveololingual
+alveololingual 1
 aggregatae 2
 alveolosubnasal
 accustomized
