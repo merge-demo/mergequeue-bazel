@@ -15357,7 +15357,7 @@ cradlemen
 clansfolk
 cheki
 churchgrith 3
-clanship
+clanship 1
 chiricahua
 coembedded
 camelhair 1
