@@ -6420,7 +6420,7 @@ embezzler 1
 endopod 1
 engineering
 electrocutes 1
-enlargers
+enlargers 1
 ensiling
 ensilist
 exceptions 1
