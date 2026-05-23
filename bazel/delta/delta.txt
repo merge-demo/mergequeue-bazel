@@ -3978,7 +3978,7 @@ dkm
 delassation 1
 dindling
 decontaminates
-dunstone
+dunstone 1
 drugless
 dustman 1
 decontaminator 1
