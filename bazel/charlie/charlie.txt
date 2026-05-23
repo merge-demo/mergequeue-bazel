@@ -2859,7 +2859,7 @@ canonizer
 canonizes
 canonizing
 churchreeve
-canonry
+canonry 1
 canons 2
 canonship
 canoodles
