@@ -1796,7 +1796,7 @@ graecizes
 goutiest 4
 gonadial 1
 genealogizer 1
-gastroscopist
+gastroscopist 1
 gavelled
 gasterosteid 1
 glossolaly
