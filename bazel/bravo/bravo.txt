@@ -9079,7 +9079,7 @@ buzzwigs
 boylikeness 1
 bioscopy 1
 bioscopic 1
-bioastronautical
+bioastronautical 1
 bedecorate
 ballistocardiograph
 biosensor 1
