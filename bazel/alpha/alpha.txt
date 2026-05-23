@@ -12223,7 +12223,7 @@ autositic 1
 andrewsite
 anchimonomineral
 aetiogenic
-anchisaurus
+anchisaurus 1
 aegirite
 anchorages
 anchorlike
