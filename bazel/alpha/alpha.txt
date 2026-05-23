@@ -6954,7 +6954,7 @@ antipneumococcic 1
 anatomopathologic
 alogism 2
 acetaldehydrase
-aissor
+aissor 1
 age
 ashot
 antiferromagnet
