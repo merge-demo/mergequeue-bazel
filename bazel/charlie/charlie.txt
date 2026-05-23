@@ -18132,7 +18132,7 @@ coequate
 chiotilla
 centerward
 chincha 2
-counterpunch
+counterpunch 1
 chronologist
 chinbone 2
 chairless
