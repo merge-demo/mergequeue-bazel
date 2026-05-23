@@ -1923,7 +1923,7 @@ bandstand
 beacon 2
 beseechment
 broadly 1
-bisection
+bisection 1
 bagnio
 balances
 bandstring
