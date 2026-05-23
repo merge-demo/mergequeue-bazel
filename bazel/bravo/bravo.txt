@@ -17794,7 +17794,7 @@ banjoists
 bursty
 buoyances 1
 breakback 2
-burroweed
+burroweed 1
 burrows
 benevolent
 burrstone
