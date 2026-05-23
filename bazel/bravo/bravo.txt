@@ -16335,7 +16335,7 @@ backtrack
 barbels 1
 bocces
 brownwort
-biovular 1
+biovular 2
 beflower 1
 bowels
 broadswords
