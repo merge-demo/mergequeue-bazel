@@ -12947,7 +12947,7 @@ electrolysation 2
 enhaunt
 eulogiae 1
 expectancy 2
-endotherm
+endotherm 1
 epistemophilia 1
 ecologist 1
 entotic 2
