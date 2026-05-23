@@ -14038,7 +14038,7 @@ distressed 1
 denominable 2
 distressing 1
 deglamorization 1
-distressingly
+distressingly 1
 devast
 dockyardman
 dishorner 1
