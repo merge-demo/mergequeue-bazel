@@ -9295,7 +9295,7 @@ autonetics
 antisymmetric
 aloose
 alop
-axunge
+axunge 1
 antitumor 1
 alopecia
 alopecias
