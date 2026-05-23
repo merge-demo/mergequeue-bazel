@@ -7805,7 +7805,7 @@ brooklyn
 bazaars 1
 bicephalous
 bogman 1
-biface 1
+biface 2
 bark 1
 bronzy
 bursautee
