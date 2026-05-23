@@ -9989,7 +9989,7 @@ autoregressive
 ambergris
 agrafe
 amberite
-aduncous
+aduncous 1
 asellidae
 artiller
 amberjacks
