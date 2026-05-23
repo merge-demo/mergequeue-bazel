@@ -4341,7 +4341,7 @@ enamelist 1
 enamelless
 eluder
 emit 1
-edibles 1
+edibles 2
 enami
 estranging 1
 enamorado 2
