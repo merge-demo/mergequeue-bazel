@@ -18929,7 +18929,7 @@ alsatian
 artilize
 anthropologist
 aesculapian
-auricle
+auricle 1
 archipallium
 appetizingly
 asphyxiated
