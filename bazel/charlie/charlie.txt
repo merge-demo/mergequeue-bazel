@@ -19712,7 +19712,7 @@ coredeem
 combinational 1
 corrigent
 cloots
-combinations
+combinations 1
 cells
 combinative
 counterrotating 1
