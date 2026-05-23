@@ -24036,7 +24036,7 @@ cuspal
 concealment
 caprimulgi
 cirrolite
-codfisheries
+codfisheries 1
 convergence
 coiling
 convergences
