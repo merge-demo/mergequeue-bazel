@@ -3592,7 +3592,7 @@ fractabling 1
 foreskirt
 fixates 1
 fenceful
-florigraphy
+florigraphy 1
 forspoken
 feddan 1
 flapjacks
