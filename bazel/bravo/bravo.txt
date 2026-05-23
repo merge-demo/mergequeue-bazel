@@ -16170,7 +16170,7 @@ balklines
 brotheler 1
 bulla
 brimstony 1
-bristletail
+bristletail 1
 bayonetted 1
 bred
 brazilians
