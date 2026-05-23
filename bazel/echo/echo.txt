@@ -2090,7 +2090,7 @@ edictal
 entraps 1
 enchainements 1
 ecphractic
-epi
+epi 1
 eugene
 epopoean 1
 earwitness 1
