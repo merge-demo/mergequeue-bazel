@@ -5829,7 +5829,7 @@ geometrize 1
 gorgeable 1
 gaupus 1
 glissades
-greggle 1
+greggle 2
 gather
 gedrite 1
 golliwog 2
