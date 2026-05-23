@@ -8485,7 +8485,7 @@ grivets 1
 glaze 1
 glands 2
 golfing
-graveclod
+graveclod 1
 genl
 gibaro 2
 gibblegabbler 2
