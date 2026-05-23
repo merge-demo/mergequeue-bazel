@@ -1684,7 +1684,7 @@ dumortierite 2
 dearest
 derides 1
 dyne
-deposition
+deposition 1
 deadeners
 dottel
 dephysicalization

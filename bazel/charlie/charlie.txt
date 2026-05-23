@@ -20591,7 +20591,7 @@ cumulet
 congreve 3
 competitive 1
 competitiveness
-competitor
+competitor 1
 competitory 1
 conjugal
 cascol
