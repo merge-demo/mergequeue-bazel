@@ -5168,7 +5168,7 @@ gyrophoraceae 2
 graylags 2
 glazes 1
 gemmy 2
-glycan
+glycan 1
 glyceride
 glb 2
 gastratrophia 1
