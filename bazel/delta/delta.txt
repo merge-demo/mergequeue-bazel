@@ -5006,7 +5006,7 @@ deurbanize
 dacoited 1
 demultiplexers
 disroot
-desexing
+desexing 1
 deposed 2
 dinamode
 decussion
