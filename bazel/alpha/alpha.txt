@@ -3451,7 +3451,7 @@ arythmias 1
 antroversion 1
 addible
 addicent 1
-antiknocks
+antiknocks 1
 addictedness
 addicting
 adaptedness
