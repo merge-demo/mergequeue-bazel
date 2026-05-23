@@ -2796,7 +2796,7 @@ gaunt 1
 growling
 gimmor
 gascoigny 2
-greatcoat
+greatcoat 1
 gyro 1
 gyne 1
 garni 1
