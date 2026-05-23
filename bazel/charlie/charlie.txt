@@ -28922,7 +28922,7 @@ crib
 crybaby 2
 cooperant 1
 coarse
-centrolecithal 1
+centrolecithal 2
 conductility 1
 crybabies
 cacodaemon
