@@ -7192,7 +7192,7 @@ enwomb 2
 epharmonic 1
 emforth
 eryopsid 3
-ethnomanic 2
+ethnomanic 3
 exuviability 1
 emulate 1
 ethal
