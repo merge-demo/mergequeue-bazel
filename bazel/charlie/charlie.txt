@@ -748,7 +748,7 @@ characterical
 causations 1
 cleaning
 cagers
-crimpiness
+crimpiness 1
 corners 1
 chasselas
 cages 1
