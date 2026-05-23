@@ -2446,7 +2446,7 @@ foreproduct 1
 fermentable 2
 fermentativeness 2
 faradize 3
-falus 1
+falus 2
 footbridges
 fermentescible
 filiform 5
