@@ -12529,7 +12529,7 @@ euphemy 1
 emissaria 1
 enhalos
 eugeny
-enneacontahedron
+enneacontahedron 1
 exoskeleton
 exist 1
 existed
