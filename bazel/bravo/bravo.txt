@@ -1881,7 +1881,7 @@ bandle
 blastoff
 bushcraft 2
 breadwinners 1
-bandmaster
+bandmaster 1
 brainsickly
 bando 1
 besieger
