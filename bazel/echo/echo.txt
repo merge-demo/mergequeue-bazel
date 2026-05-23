@@ -831,7 +831,7 @@ epitheton
 entrecote
 epop 3
 exulate
-ectiris
+ectiris 1
 etamines 1
 ectocarpus 1
 eriophorum
