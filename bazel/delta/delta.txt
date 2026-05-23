@@ -14202,7 +14202,7 @@ dicer
 damage
 daboia
 defenselessly 1
-derotrematous
+derotrematous 1
 disvisage
 disyoked 2
 doublet
