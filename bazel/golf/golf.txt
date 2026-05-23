@@ -3471,7 +3471,7 @@ gove
 gaveler
 geometers 2
 gudgeons 4
-gowl
+gowl 1
 gelatinated 1
 gastrologer
 glazing
