@@ -6840,7 +6840,7 @@ fabled 1
 furomonazole
 foliary
 frescoers
-format
+format 1
 favoringly 2
 foliate 2
 favourableness
