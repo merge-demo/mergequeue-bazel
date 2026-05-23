@@ -5718,7 +5718,7 @@ desipramine
 despotic
 deltoids 1
 disusance
-dispansive
+dispansive 1
 dermoossification 1
 dictyoid
 dried
