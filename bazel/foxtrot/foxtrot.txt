@@ -1788,7 +1788,7 @@ feathertop
 frogmen 1
 flabra 1
 flutina
-flaunts
+flaunts 1
 foredoes 2
 flannelet 1
 featherwing
