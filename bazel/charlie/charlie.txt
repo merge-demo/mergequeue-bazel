@@ -9406,7 +9406,7 @@ clickless
 chazan
 chazanim
 capette
-chazans
+chazans 1
 chazanut 1
 chazy
 circularwise
