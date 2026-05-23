@@ -15737,7 +15737,7 @@ cyproheptadine
 clinks 1
 chinche
 coagulable
-clunch
+clunch 1
 clawker
 clawless
 chalahs
