@@ -10564,7 +10564,7 @@ equationist
 endboard
 eclectical 2
 ensurers 1
-equational
+equational 1
 elevates
 excursionary 1
 encoffinment
