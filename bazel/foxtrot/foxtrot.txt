@@ -4031,7 +4031,7 @@ forefaces
 feute
 funerally
 fallible
-feudatorial
+feudatorial 1
 foredawn
 fissural 1
 frettiest 2
