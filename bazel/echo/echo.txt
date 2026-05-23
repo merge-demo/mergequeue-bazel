@@ -12614,7 +12614,7 @@ exocrines
 emanative 2
 estancieros 1
 epitonium 1
-ectethmoid
+ectethmoid 1
 endostoma
 enriches
 effectualness 1
