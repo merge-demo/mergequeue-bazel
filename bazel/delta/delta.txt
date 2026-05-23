@@ -5126,7 +5126,7 @@ detect 2
 dendrology
 dola
 daubes
-dumber
+dumber 1
 dendrologous 2
 derivatives 1
 devorative
