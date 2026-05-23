@@ -6739,7 +6739,7 @@ gurdfish 2
 gruine
 glenoid
 guiltlessness 1
-goniocraniometry
+goniocraniometry 1
 grouters 1
 gaveller
 goniodoridae
