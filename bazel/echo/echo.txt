@@ -6560,7 +6560,7 @@ egophonic
 entangles 1
 empanel
 eatings
-entasis
+entasis 1
 extreat 1
 emiction 1
 endothelioma
