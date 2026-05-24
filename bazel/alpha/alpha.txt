@@ -756,7 +756,7 @@ autogyro
 agnition 1
 accordatura
 asperation
-attuning
+attuning 1
 apogalacteum
 abrasively
 abrazite
