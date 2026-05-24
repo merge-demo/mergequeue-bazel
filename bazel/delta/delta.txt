@@ -9932,7 +9932,7 @@ downwardness
 dimidiate 1
 dispart
 deodorizers
-dissonancy
+dissonancy 1
 dimidiation 1
 dissinew
 downcourt 1
