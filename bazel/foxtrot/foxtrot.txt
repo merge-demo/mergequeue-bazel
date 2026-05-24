@@ -9762,7 +9762,7 @@ fatigability 1
 fishworm 1
 farfel 1
 fluentness
-faerie
+faerie 1
 foresettled 1
 flyspeck 1
 flummoxed 1
