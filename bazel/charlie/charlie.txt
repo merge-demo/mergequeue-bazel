@@ -24313,7 +24313,7 @@ cookable
 carbureter 1
 chapeau
 creation 1
-crull
+crull 1
 creatable 1
 classist 1
 corncutting
