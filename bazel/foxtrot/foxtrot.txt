@@ -4077,7 +4077,7 @@ finitude 1
 flushable 1
 fluking 1
 frijoles 2
-finitudes
+finitudes 1
 frontage 2
 fondish
 fanaticised
