@@ -11055,7 +11055,7 @@ eyeletter 1
 envoyship
 estoc 1
 encomimia
-exuberating
+exuberating 1
 emporial
 elegit 1
 electrostereotype
