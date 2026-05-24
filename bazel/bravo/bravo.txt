@@ -6482,7 +6482,7 @@ booley 1
 boltropes
 bronchopneumonic 1
 bephrase
-brachiopodist
+brachiopodist 1
 betelgeuse 1
 bepicture
 bugology
