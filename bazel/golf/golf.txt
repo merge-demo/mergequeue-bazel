@@ -1266,7 +1266,7 @@ gapper 1
 glutinosity 2
 guib
 grimaces
-galvanologist
+galvanologist 1
 garran 1
 gaia 1
 glenwood 2
