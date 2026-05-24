@@ -5182,7 +5182,7 @@ befriending 1
 barns 1
 beadhouse
 bondfolk
-barragan
+barragan 1
 bicentricity 1
 blastodisk
 bypasser
