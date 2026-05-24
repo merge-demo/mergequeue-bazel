@@ -8128,7 +8128,7 @@ chagoma
 concubitant 1
 commiphora
 chagrining
-chagrinning
+chagrinning 1
 cambion 1
 chaguar
 chahar
