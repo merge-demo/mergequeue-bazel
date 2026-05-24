@@ -25402,7 +25402,7 @@ creamery
 centrifuged
 coarsish
 crotcheted
-cornicles
+cornicles 1
 corniculer
 corniferous 1
 cornific
