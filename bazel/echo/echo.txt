@@ -13953,7 +13953,7 @@ eudeve 2
 entoire
 extraparliamentary
 ectotrophic
-expressless
+expressless 1
 epimer
 endokaryogamy
 enface 1
