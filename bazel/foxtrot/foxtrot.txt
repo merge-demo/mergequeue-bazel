@@ -9669,7 +9669,7 @@ foretoken 4
 faldstool
 fringe 1
 fouquieria
-foldouts
+foldouts 1
 fourfiusher 1
 frigga
 fraising 1
