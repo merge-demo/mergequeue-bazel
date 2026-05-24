@@ -12883,7 +12883,7 @@ erastus 2
 expandible
 editions 1
 envenoms
-echafaudage
+echafaudage 1
 elucid 1
 escortment 1
 erosions 1
