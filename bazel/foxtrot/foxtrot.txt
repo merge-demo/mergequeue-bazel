@@ -11385,7 +11385,7 @@ flect 1
 facies
 furnish 4
 fluorindine 2
-furnishable 2
+furnishable 3
 fluoroformol 2
 frontirostria 1
 forgiveably
