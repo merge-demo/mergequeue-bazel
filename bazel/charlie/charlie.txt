@@ -11257,7 +11257,7 @@ chlorimetric 2
 chlorinated
 chlorinating
 curly
-chlorination
+chlorination 1
 chlorinator 1
 chlorines
 chicote
