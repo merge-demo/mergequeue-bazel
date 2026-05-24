@@ -3583,7 +3583,7 @@ encraal 1
 embossage 1
 embossed
 enbibe 3
-embossing
+embossing 1
 emulsifications 1
 embossman
 esophagoplegia
