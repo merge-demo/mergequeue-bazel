@@ -27635,7 +27635,7 @@ chamfered
 croquette
 cowbanes 1
 corticosteroid
-cowberry
+cowberry 1
 cardiology 1
 circumplect
 chillier
