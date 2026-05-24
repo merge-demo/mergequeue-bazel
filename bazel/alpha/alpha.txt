@@ -22363,7 +22363,7 @@ autoscopy
 accreting
 astrodome
 astrogated 2
-apikorsim
+apikorsim 1
 astrogating
 agreeing
 admitter 1
