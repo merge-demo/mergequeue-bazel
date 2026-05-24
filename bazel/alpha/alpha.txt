@@ -1163,7 +1163,7 @@ allocrotonic 1
 allethrin 1
 ammoniacal 1
 azimuths
-advancing
+advancing 1
 acana 2
 antilopine
 anemophily 1
