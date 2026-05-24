@@ -16660,7 +16660,7 @@ aurally 1
 apocarpies
 arcking
 adventures
-autoelevation
+autoelevation 1
 apertural 1
 affrighter
 antichorus
