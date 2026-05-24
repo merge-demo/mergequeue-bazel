@@ -3183,7 +3183,7 @@ defecting 2
 dezincified
 distaff 1
 doltishness
-depolarizes
+depolarizes 1
 devotionalness
 dimitting
 defectless
