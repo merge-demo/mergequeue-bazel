@@ -4556,7 +4556,7 @@ bedaggle
 breeding 1
 berrybush 1
 beday
-babul
+babul 1
 biddable 1
 baldrib
 bedamned
