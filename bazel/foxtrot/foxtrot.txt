@@ -7634,7 +7634,7 @@ filling
 falces
 fools 1
 faluns
-fubby
+fubby 1
 forefield 2
 factitiousness 1
 foreorlop
