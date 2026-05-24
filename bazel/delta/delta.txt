@@ -9162,7 +9162,7 @@ dy
 dido
 diaglyptic 1
 didodecahedron 2
-didoes
+didoes 1
 didonia 1
 duodenas
 dihexahedron 1
