@@ -3902,7 +3902,7 @@ eternal
 entomotomy
 electrotonus
 extraboldface
-eminencies
+eminencies 1
 evendown
 exterminating 2
 eminent
