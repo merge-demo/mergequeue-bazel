@@ -16146,7 +16146,7 @@ dualist 1
 douziemes 1
 dysmeromorphic 1
 dovecot 1
-dhows
+dhows 1
 dynamist
 dislustred
 dovehouse
