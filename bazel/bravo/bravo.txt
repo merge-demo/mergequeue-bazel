@@ -12038,7 +12038,7 @@ balisaurs
 boilable 1
 bromocresol
 befrounce 1
-blindage
+blindage 1
 boilerful
 boilerplate 1
 boilersmith 2
