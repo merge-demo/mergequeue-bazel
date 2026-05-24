@@ -5006,7 +5006,7 @@ gurgoyl
 gastrelcosis 1
 ginger 2
 grisliest
-glamoured
+glamoured 1
 germanic 2
 greatmouthed
 grolier 3
