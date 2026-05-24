@@ -16652,7 +16652,7 @@ blacking 1
 brevicipitid
 buchanite
 baronies 1
-bucharest
+bucharest 1
 buchloe 1
 bunkoing
 burros
