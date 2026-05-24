@@ -5849,7 +5849,7 @@ coelongated
 catelectrode 1
 capstones 1
 clothesless
-colorlessness
+colorlessness 1
 coigning
 chaffier 2
 catella 1
