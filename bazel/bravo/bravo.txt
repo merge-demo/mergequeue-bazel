@@ -2017,7 +2017,7 @@ beshivers
 bidactyl 2
 bloodstones 1
 bankcard
-bethought
+bethought 1
 banky
 banknote 1
 bristly 2
