@@ -5974,7 +5974,7 @@ coiffes
 catheterised 1
 crabgrass
 catheterism
-catheterization
+catheterization 1
 cense
 catheterized 1
 commonality
