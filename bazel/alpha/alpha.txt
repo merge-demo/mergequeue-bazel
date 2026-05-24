@@ -14945,7 +14945,7 @@ acosmistic
 anticoagulator
 argental
 anticolic
-adiathermic
+adiathermic 1
 associe
 appetizers
 academical
