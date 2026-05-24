@@ -2954,7 +2954,7 @@ froths 2
 fevered 1
 flitchen
 furnacing
-franklinian
+franklinian 1
 feveret 1
 forefending
 forefault
