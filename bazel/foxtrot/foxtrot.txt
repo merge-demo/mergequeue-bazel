@@ -3340,7 +3340,7 @@ featheredge 1
 forchase
 fameworthy
 fruggan 2
-fullmouthedly
+fullmouthedly 1
 fandom
 fulcra 2
 flon
