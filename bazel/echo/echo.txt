@@ -7835,7 +7835,7 @@ epiglottitis
 exsiccator
 elegiambic
 epicarps
-empyocele
+empyocele 1
 exoerythrocytic
 epigone
 epithelium 1
