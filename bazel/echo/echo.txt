@@ -4007,7 +4007,7 @@ empearl 2
 electroretinography 2
 each 2
 exultancy 2
-esothyropexy
+esothyropexy 1
 estus 1
 effloresce
 etherealized 3
