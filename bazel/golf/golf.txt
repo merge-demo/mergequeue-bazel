@@ -2758,7 +2758,7 @@ guestchamber 1
 gorraf
 gipped 1
 gallused 2
-glanditerous
+glanditerous 1
 gramophonist
 gonangia
 grover 3
