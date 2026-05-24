@@ -16936,7 +16936,7 @@ axels
 agamis
 alfa
 anemometrical 1
-akuammine
+akuammine 1
 affectable 1
 anhima 1
 approachment
