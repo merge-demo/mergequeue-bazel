@@ -7434,7 +7434,7 @@ faience 1
 firefall
 floperoo
 forevalue 1
-firstship 1
+firstship 2
 forcibility 1
 forcibleness
 filosa
