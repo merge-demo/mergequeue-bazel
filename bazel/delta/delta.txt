@@ -5240,7 +5240,7 @@ denotativeness
 denotatum 1
 deacidifying 3
 denotes
-docetistic
+docetistic 1
 destructuralize 1
 denoting
 duplification 1
