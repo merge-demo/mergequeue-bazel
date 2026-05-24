@@ -1666,7 +1666,7 @@ flemer
 forgrow
 fearedly
 fadeaways
-frisker
+frisker 1
 fearedness 2
 fluidizes
 fathometer
