@@ -5009,7 +5009,7 @@ enschedule 1
 exomphalous 1
 endemicity
 electrofused
-endemism
+endemism 1
 eco 1
 eightscore 3
 endenization 1
