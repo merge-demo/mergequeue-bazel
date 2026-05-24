@@ -8113,7 +8113,7 @@ grassplat 1
 gallet
 graustark
 grindelia
-gastrostomize 1
+gastrostomize 2
 gristmill 1
 grantors
 grantsman
