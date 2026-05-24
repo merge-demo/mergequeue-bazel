@@ -19242,7 +19242,7 @@ ceviches
 colodyspepsia
 cuidado
 coloenteritis
-closefitting
+closefitting 1
 colog
 choel 1
 colognes
