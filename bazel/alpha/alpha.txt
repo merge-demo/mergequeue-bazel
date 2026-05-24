@@ -21985,7 +21985,7 @@ annualist 1
 avantgarde
 antireligiosity
 assume
-araneidal
+araneidal 1
 apophis 1
 anthography
 assumers
