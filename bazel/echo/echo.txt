@@ -13322,7 +13322,7 @@ equipt
 electromyograph 1
 elusively
 eyewear 1
-encomendero
+encomendero 1
 expone
 ephoralty 2
 exponency
