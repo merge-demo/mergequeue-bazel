@@ -11719,7 +11719,7 @@ discoverable
 distilland 1
 disworth
 dorms 1
-dockman
+dockman 1
 discoverer 1
 decancellation 1
 discoverture 1
