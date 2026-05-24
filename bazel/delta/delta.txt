@@ -171,7 +171,7 @@ diestocks
 dressage
 delicates
 doweral 1
-dirtier
+dirtier 1
 daedalea
 daedaleous
 didromies 1
