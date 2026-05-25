@@ -6592,7 +6592,7 @@ feltness 3
 frounce 1
 foamflower 2
 flammulation
-firework 2
+firework 3
 forthcomer
 frocks
 floriculturally
