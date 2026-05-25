@@ -10458,7 +10458,7 @@ bathmic
 blason
 blasphemed 2
 blasphemes
-blasphemies
+blasphemies 1
 blasphemous 1
 blasphemousness
 bismarckian 1
