@@ -7610,7 +7610,7 @@ enfeoffs
 essling
 effoliate
 ersar
-endamoebic
+endamoebic 1
 edelweiss
 epiclinal
 ecstaticize 1
