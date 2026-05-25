@@ -5841,7 +5841,7 @@ barbermonger 1
 blacklisted
 boozily
 bellyland 3
-bellylike
+bellylike 1
 bellyman
 biunique
 biogenetical
