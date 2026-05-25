@@ -6793,7 +6793,7 @@ desynonymize
 decorticating 1
 demodex 1
 desiodothyroxine
-desirableness
+desirableness 1
 disseminated
 dojo
 dietzeite 1
