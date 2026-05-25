@@ -8894,7 +8894,7 @@ bowser 1
 blissfulness
 barbarousness
 biocoenotic
-biodegradability
+biodegradability 1
 biodegradable
 becassocked
 beleap
