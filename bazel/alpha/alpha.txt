@@ -10894,7 +10894,7 @@ athwarthawse
 ammos
 ammotherapy
 ammu
-amnesia
+amnesia 1
 amnestied
 aimer
 alf
