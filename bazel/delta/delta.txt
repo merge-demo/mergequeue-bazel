@@ -12583,7 +12583,7 @@ denotation
 dispersoid 1
 dromedaries 1
 diamantoid 1
-denominators
+denominators 1
 disintegrator
 deifications
 disintegrators
