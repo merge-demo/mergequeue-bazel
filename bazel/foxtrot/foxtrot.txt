@@ -4533,7 +4533,7 @@ fructify
 famille 1
 fortread
 finickiest
-fictive
+fictive 1
 fissirostrate
 fusser 2
 fissura
