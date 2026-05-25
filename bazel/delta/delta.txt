@@ -11043,7 +11043,7 @@ disanalogous 1
 disanchor 1
 deliberations
 disanimation
-disannuller
+disannuller 1
 dialogues
 dichroic
 disentanglements
