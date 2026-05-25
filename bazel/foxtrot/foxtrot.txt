@@ -5905,7 +5905,7 @@ flockings
 fudged 1
 fulsamic 1
 folgerite 2
-fencepost
+fencepost 1
 foetalism
 furlers
 frangent 2
