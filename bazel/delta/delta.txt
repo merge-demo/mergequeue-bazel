@@ -15153,7 +15153,7 @@ dullpate
 decayable 2
 doing
 discopodous
-dotish
+dotish 1
 doitkin
 dojigger
 deprogramming
