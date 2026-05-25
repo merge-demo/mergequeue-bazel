@@ -6229,7 +6229,7 @@ enolizable
 explicableness 1
 etiologic 1
 enological 1
-enterclose
+enterclose 1
 execs 1
 ellipsoid
 erasure
