@@ -7491,7 +7491,7 @@ downtowner
 deuced 2
 dizenment 1
 deuces 1
-densimetric
+densimetric 1
 detested 2
 diachylum 1
 documenters
