@@ -5405,7 +5405,7 @@ groundswell
 generall
 glucosid 2
 gutwise 2
-glycaemic
+glycaemic 1
 grimmer 1
 gremmy 1
 glimmering 1
