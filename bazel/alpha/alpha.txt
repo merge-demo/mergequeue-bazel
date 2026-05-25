@@ -19359,7 +19359,7 @@ argal 1
 argala 2
 assurd
 apiin
-acontius
+acontius 1
 aho 1
 assure
 arithmetics
