@@ -4012,7 +4012,7 @@ flunk 1
 fingerprint
 ferric 1
 furazolidone
-fluorosis
+fluorosis 1
 fishery
 forleft
 fingersmith
