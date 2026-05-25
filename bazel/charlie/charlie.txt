@@ -13038,7 +13038,7 @@ cyanose
 cyanoses
 chemitype
 cyanosite 1
-cyanotic
+cyanotic 1
 chatting
 cyanotype
 cyanuramide 1
