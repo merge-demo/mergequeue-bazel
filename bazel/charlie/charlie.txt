@@ -1424,7 +1424,7 @@ caliphal 1
 caliphate
 colt 1
 cubist
-caliphship
+caliphship 1
 contradebt 1
 calypsist
 criollas
