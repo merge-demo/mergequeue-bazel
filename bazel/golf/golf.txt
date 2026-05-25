@@ -1470,7 +1470,7 @@ gradualness 1
 guydom
 gasboat 1
 giddiness 1
-gaselier 1
+gaselier 2
 golet 2
 gastrophilus
 gastric 1
