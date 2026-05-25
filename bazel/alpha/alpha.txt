@@ -1736,7 +1736,7 @@ attalid 1
 accuse
 animalivore 1
 accused
-alightment
+alightment 1
 accusers
 achatour 1
 agings
