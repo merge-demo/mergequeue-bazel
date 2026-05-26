@@ -964,7 +964,7 @@ anchorites
 abstain 1
 abstainer
 ameland 2
-angoras
+angoras 1
 abstainers
 abstaining
 abstains
