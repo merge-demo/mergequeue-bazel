@@ -19513,7 +19513,7 @@ antimediaeval 1
 argots
 allianced
 arguable
-arguably
+arguably 1
 avoiders
 aecidiaceae
 anteopercle
