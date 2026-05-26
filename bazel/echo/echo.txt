@@ -13197,7 +13197,7 @@ epaxial
 exotica
 eremophyte 1
 emmantle
-expirations
+expirations 1
 extruded
 elicited
 elapinae
