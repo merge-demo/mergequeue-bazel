@@ -3740,7 +3740,7 @@ expedited
 excessiveness 1
 enslaving 1
 encumbers
-enfetter
+enfetter 1
 embrocates
 erythroid
 efflower
