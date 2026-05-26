@@ -8351,7 +8351,7 @@ dioestrum 3
 disincline
 duchies 1
 dialed
-depredation
+depredation 1
 disvouch 1
 decalobate
 dyed
