@@ -4909,7 +4909,7 @@ carses
 cogitable
 carsick
 carsickness
-caviteno 1
+caviteno 2
 carrottop
 carstone 1
 cart
