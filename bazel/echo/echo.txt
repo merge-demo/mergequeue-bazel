@@ -11365,7 +11365,7 @@ extenders
 exigency 1
 ethnohistory
 exotropic
-electrodesiccation
+electrodesiccation 1
 evenforth
 eryopid 2
 edificator 1
