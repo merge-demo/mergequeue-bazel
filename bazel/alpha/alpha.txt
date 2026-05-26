@@ -18124,7 +18124,7 @@ allyls 2
 aquamarines
 angdistis
 anteversion
-aquanauts
+aquanauts 1
 auklet
 anemonol
 abdicated
