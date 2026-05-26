@@ -7411,7 +7411,7 @@ betread 1
 barnier
 bathybius 2
 braveries
-betrothing
+betrothing 1
 betrothment 1
 betroths 1
 bromine 1
