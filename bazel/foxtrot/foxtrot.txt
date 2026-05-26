@@ -6068,7 +6068,7 @@ fraternate 1
 flocculating
 frayn 1
 floridity 1
-floriscope
+floriscope 1
 fetterbush
 faba
 funicule
