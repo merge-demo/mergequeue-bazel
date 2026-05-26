@@ -9007,7 +9007,7 @@ charityless
 caridoid
 cloaks
 comus
-charking
+charking 1
 chiels 2
 charlady
 charladies
