@@ -12783,7 +12783,7 @@ earlike
 elsewise
 exortion
 endodontia 1
-exosmose
+exosmose 1
 exosmotic
 explicative 1
 erotize
