@@ -918,7 +918,7 @@ haskfrgmhmbg 1
 haskhsu 1
 hasklruca
 haskp
-hasl
+hasl 1
 hasme 1
 hasmtn 1
 hasnadwybuewhjoi
