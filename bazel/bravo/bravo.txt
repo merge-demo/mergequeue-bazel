@@ -9941,7 +9941,7 @@ boree
 brian
 bx
 bituminous 1
-bisecting
+bisecting 1
 beryllate
 bilinguality 1
 bridleman 1
