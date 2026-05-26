@@ -15386,7 +15386,7 @@ domiciled
 dissipator
 dearn 1
 dragginess 2
-domiciles
+domiciles 1
 domiciliate
 domiciliated
 demineralizer 1
