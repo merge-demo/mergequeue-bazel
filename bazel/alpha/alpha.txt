@@ -10204,7 +10204,7 @@ autoincremented
 aerofoil
 ambuscadoed 1
 ambushers 1
-allocinnamic
+allocinnamic 1
 amphitheaters
 anablepidae
 arcocentrous
