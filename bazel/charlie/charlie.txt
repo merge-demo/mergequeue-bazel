@@ -2586,7 +2586,7 @@ chlorotrifluoromethane
 catalan
 ceraunograph
 carbona
-canduc
+canduc 1
 crepier
 camphires
 censuses
