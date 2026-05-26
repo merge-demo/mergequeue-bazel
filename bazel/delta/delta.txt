@@ -2041,7 +2041,7 @@ decagrams 1
 declasse 2
 despised
 diverberate 4
-decahedron
+decahedron 1
 disclassify
 drearier
 degamis
