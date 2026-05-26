@@ -5101,7 +5101,7 @@ bamboo
 binits 4
 basilicon 2
 beflagged 1
-broidering
+broidering 1
 bodymaking
 beflagging
 babery 1
