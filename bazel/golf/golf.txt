@@ -2565,7 +2565,7 @@ grig 2
 grubbies 1
 gain 1
 guilder 2
-gynecium
+gynecium 1
 gurle
 gomeisa
 gonochorism
