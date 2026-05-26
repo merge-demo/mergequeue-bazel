@@ -11944,7 +11944,7 @@ exocataphoria 1
 ese 1
 exairesis 1
 esthesis
-endemic
+endemic 1
 electrooptical
 ensampler 1
 ecoid
