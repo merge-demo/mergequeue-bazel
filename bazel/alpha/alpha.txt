@@ -10774,7 +10774,7 @@ acrolith 2
 amitrole 1
 amitular
 ancre
-antiagglutinating
+antiagglutinating 1
 aged 1
 amiantuses
 amyxorrhea 1
