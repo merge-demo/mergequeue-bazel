@@ -29232,7 +29232,7 @@ chattingly
 cryptamnesic 1
 cryptanalytically
 cryptanalytics
-cryptanalyze
+cryptanalyze 1
 cothamore
 capybara
 cryptanalyzing
