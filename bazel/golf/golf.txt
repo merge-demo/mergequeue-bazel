@@ -10479,7 +10479,7 @@ gastrin 2
 goli 1
 gusher 1
 glumaceous
-gulfwards
+gulfwards 1
 ginghamed 1
 gynandromorph
 generalising
