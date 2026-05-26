@@ -7955,7 +7955,7 @@ ensilation 2
 expounds 2
 epimanikion
 epimeres
-electrostenolysis
+electrostenolysis 1
 epimerism 1
 enterolithiasis 1
 evangels
