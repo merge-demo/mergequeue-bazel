@@ -4483,7 +4483,7 @@ fishskin
 formidable 2
 frouzier
 frankenia 2
-flattercap
+flattercap 1
 fermal 2
 fashioned
 furthermost 1
