@@ -5659,7 +5659,7 @@ enforest 3
 epacme 1
 enform
 ergometric
-enfort
+enfort 1
 embarrasses 1
 epicritic 1
 enforth
