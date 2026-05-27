@@ -20557,7 +20557,7 @@ amie
 arthrectomy
 alae
 acousmata 1
-actinosome
+actinosome 1
 assimulate
 agend
 arrased
