@@ -273,7 +273,7 @@ eightsmen 2
 electrostatic
 encashed
 electroplated
-expiries
+expiries 1
 easterling 2
 exhumers
 epigoneion
