@@ -5137,7 +5137,7 @@ glali
 gnatflower
 gaumed 3
 gallweed
-glomera
+glomera 1
 goblinesque 1
 gutturine 1
 gentlehearted 2
