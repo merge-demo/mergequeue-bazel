@@ -22427,7 +22427,7 @@ axion 1
 apophyges 1
 anthropomorphize 1
 aliments
-astrometeorology
+astrometeorology 1
 aforenamed 1
 apprend
 arctically
