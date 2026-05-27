@@ -1429,7 +1429,7 @@ endpiece 1
 entodermal
 epipodialia
 entoretina
-erythrocytolytic 1
+erythrocytolytic 2
 espoused
 ethnicon
 exaggeratory 2
