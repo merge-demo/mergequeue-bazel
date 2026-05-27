@@ -10619,7 +10619,7 @@ fleeting
 flatnesses 1
 frugalities
 farrandly
-frugalness
+frugalness 1
 freck
 fetiches
 frugiferous 3
