@@ -2505,7 +2505,7 @@ dichorisandra 1
 dresser
 declaimer 1
 dilaters
-declamatory
+declamatory 1
 dateable
 decibar
 dendrochronology
