@@ -9358,7 +9358,7 @@ gravestones 2
 groop 1
 gallerygoer
 glamorize 1
-goggliest
+goggliest 1
 gwen 2
 glareola
 goutiness
