@@ -629,7 +629,7 @@ circumscript 2
 coralline
 caenostyly
 caesalpinia
-caenostylic
+caenostylic 1
 commentarial
 caenozoic
 caeoma
