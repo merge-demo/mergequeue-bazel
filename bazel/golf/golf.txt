@@ -4553,7 +4553,7 @@ grandfatherish
 germinable 1
 gummed
 gainpain
-glabrousness
+glabrousness 1
 genocidal
 grademark 1
 gnarred
