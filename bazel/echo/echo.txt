@@ -3119,7 +3119,7 @@ elmwood 1
 exudations
 eyewash
 empennage 1
-equiangularity 1
+equiangularity 2
 epicalyces
 even
 encomiums 1
