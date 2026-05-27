@@ -9820,7 +9820,7 @@ dilo 2
 differentially 1
 disenamour
 detonators
-descendant
+descendant 1
 dinosaur
 dolphinfishes 1
 dilutedly
