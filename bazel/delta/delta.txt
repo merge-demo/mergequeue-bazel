@@ -862,7 +862,7 @@ drycoal 1
 dawted
 defix
 dubiosity
-devoicing
+devoicing 1
 decalcification 1
 dowered
 disorchard 1
