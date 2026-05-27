@@ -12836,7 +12836,7 @@ emboss
 eccentrics
 exothermically 1
 eloignment 1
-erythrolysis 2
+erythrolysis 3
 eupomatia 2
 ern 2
 ecphorization 1

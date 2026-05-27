@@ -1894,7 +1894,7 @@ gooma 2
 gamenesses
 grecale
 grubstake
-gating
+gating 1
 guaiocum 1
 gerontologists 2
 germ 2
