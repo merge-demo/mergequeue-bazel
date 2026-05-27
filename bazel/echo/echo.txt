@@ -4218,7 +4218,7 @@ electroetching
 exocardiac
 enghle
 emeutes
-egoize
+egoize 1
 enwound 1
 extratheistic
 emptiers 1
