@@ -7847,7 +7847,7 @@ epigoni
 entomotaxy 2
 epigonic 1
 expletive
-excardination
+excardination 1
 encrinoid
 extirpationist 2
 essentialized 1
