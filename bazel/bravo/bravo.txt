@@ -14517,7 +14517,7 @@ branchiest
 blizz
 branchiferous
 birthrates 1
-broma
+broma 1
 binman
 branchiness 1
 beglobed 2
