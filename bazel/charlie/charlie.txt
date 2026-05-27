@@ -26342,7 +26342,7 @@ cabstand 1
 costumiere 1
 costumiers
 cinematize
-choreomania
+choreomania 1
 cosubject
 cashboxes
 cosubordinate
