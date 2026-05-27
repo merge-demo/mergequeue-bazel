@@ -7209,7 +7209,7 @@ bestow 2
 bestowment
 burgee
 briary
-breaching
+breaching 1
 blades
 beveled
 bestraddled 1
