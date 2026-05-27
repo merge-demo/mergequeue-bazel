@@ -4535,7 +4535,7 @@ becursed
 babesia
 becurses 1
 becurst 1
-basommatophorous
+basommatophorous 1
 becushioned
 blepharemphysema 2
 befogged
