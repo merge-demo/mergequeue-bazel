@@ -12415,7 +12415,7 @@ deplantation
 drybrush
 desecate
 disheriting 2
-deforms
+deforms 1
 declivate 2
 dishevelled
 dishevelling 1
