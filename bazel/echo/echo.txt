@@ -1235,7 +1235,7 @@ exstemporal
 extremal
 eme
 extrascripturality
-epit
+epit 1
 enneastyle 2
 eel
 electrosherardizing
