@@ -17754,7 +17754,7 @@ cocreate 1
 cocreated
 cocreating
 corojo
-cocreator 1
+cocreator 2
 cocreatorship 2
 cocreditor
 citation
