@@ -9975,7 +9975,7 @@ feracity 2
 firelike
 frigotherapy 2
 facial 2
-fibrosities
+fibrosities 1
 fencings 1
 fliest 1
 fairness 1
