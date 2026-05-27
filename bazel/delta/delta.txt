@@ -6976,7 +6976,7 @@ dipleuric
 desertness
 disqualifying
 distills 2
-demonisms
+demonisms 1
 disshroud
 despisingly
 draco
