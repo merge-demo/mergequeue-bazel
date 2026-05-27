@@ -1469,7 +1469,7 @@ gynocardia 3
 gradualness 1
 guydom
 gasboat 1
-giddiness 1
+giddiness 2
 gaselier 2
 golet 2
 gastrophilus
