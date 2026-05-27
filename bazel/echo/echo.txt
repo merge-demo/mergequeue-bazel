@@ -3997,7 +3997,7 @@ egalite 2
 equiform 1
 extramodal
 empatron 1
-extemporizes
+extemporizes 1
 etrurian
 essie 3
 eupatorin 1
