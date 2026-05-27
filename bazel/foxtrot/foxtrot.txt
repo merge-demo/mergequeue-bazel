@@ -5344,7 +5344,7 @@ fleabag
 fusillade 2
 faintheart 2
 furciform 1
-fleabags
+fleabags 1
 federalization 2
 fireclay
 fluorites
