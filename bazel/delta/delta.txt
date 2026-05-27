@@ -1223,7 +1223,7 @@ dithers 2
 datcha
 disparison 2
 disclamation
-demiassignation
+demiassignation 1
 deleads 1
 dulcinist
 dextrines
