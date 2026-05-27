@@ -15998,7 +15998,7 @@ antiradiating 1
 ascendants 2
 ammi
 accessorius
-arapunga
+arapunga 1
 antiradical
 antiegotist
 actinopterous
