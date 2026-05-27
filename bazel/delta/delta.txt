@@ -1525,7 +1525,7 @@ deaconesses
 diffracted
 defeminizing
 distracting
-diagnosable
+diagnosable 1
 dowsabel
 diglucoside 3
 decontaminations
