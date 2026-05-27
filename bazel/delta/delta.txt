@@ -6003,7 +6003,7 @@ domajigger
 diagraphics
 diamagnetize
 diagrammitically
-depthlessness
+depthlessness 1
 diobols
 demonetization 3
 dacite 1
