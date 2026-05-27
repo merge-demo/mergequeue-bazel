@@ -7196,7 +7196,7 @@ footlights
 fratries 2
 ficoides
 forearming 1
-farer
+farer 1
 frockless 1
 frisesomorum
 filthless 2
