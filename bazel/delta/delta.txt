@@ -11098,7 +11098,7 @@ dandyling
 decentness
 dundreary
 disarmed
-drollness
+drollness 1
 daturas 1
 disennui
 disarms 1
