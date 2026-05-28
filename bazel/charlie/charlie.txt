@@ -24210,7 +24210,7 @@ convoluting 1
 convolution
 convolutional
 convolutions 2
-convolve
+convolve 1
 ceratothecae
 cringingly
 constructing
