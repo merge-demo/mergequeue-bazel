@@ -6333,7 +6333,7 @@ bipolarize 1
 begalling
 begrace 1
 buffalofishes
-benzein 1
+benzein 2
 bellyfish
 blinks
 benzenediazonium
