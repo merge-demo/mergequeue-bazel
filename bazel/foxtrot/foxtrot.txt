@@ -633,7 +633,7 @@ frowstier 1
 flyways
 flagmen
 falsity 1
-faltboat
+faltboat 1
 flugelmen 1
 faltere
 flavored
