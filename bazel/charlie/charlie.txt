@@ -1632,7 +1632,7 @@ centrobaric 2
 crureus
 calmest 1
 calmier 1
-calmiest
+calmiest 1
 coeducationally 1
 calming
 calmness 2
