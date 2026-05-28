@@ -12780,7 +12780,7 @@ exordium
 engold
 exotism
 earlike
-elsewise
+elsewise 1
 exortion
 endodontia 1
 exosmose 1
