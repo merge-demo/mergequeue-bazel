@@ -6750,7 +6750,7 @@ betimes
 berossos 1
 beround
 bendability 1
-berreaves
+berreaves 1
 berret 2
 berrettas 1
 bloodred
