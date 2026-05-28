@@ -2936,7 +2936,7 @@ cladosporium
 curlpaper
 custumals
 cryptoprocta
-cantering
+cantering 1
 canthal 1
 curling 2
 cantharic
