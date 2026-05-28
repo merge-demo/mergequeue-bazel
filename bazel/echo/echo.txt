@@ -3919,7 +3919,7 @@ enalid
 exede
 examinability
 epiglottis
-endexine
+endexine 1
 emissory 2
 emitting
 entamebas 1
