@@ -2022,7 +2022,7 @@ emulsic
 equisonant
 endodontist
 eradiculose 1
-elixate
+elixate 1
 elabrate 1
 endocrinotherapy
 epigaea
