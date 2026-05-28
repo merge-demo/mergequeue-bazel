@@ -13598,7 +13598,7 @@ cene
 cimiciform 1
 chickens
 cimicifuga
-compressure
+compressure 1
 cimicoid 1
 conformableness 1
 calcaneonavicular 1
