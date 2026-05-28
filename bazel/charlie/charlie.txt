@@ -21831,7 +21831,7 @@ counterpose
 confab
 constructionists
 cleaner 1
-confabs
+confabs 1
 confabulate
 cimbal
 connivery
