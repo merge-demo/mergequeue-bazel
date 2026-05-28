@@ -490,7 +490,7 @@ finalisms
 fromwards 1
 fireflies 2
 foin 3
-faker
+faker 1
 flaneries
 fohns
 formicariidae
