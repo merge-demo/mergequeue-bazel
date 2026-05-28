@@ -4068,7 +4068,7 @@ bean
 boldness
 begottenness
 bedeafen 1
-beancod 3
+beancod 4
 beaner
 beanery
 bolewort
