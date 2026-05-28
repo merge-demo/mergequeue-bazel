@@ -6424,7 +6424,7 @@ enlargers 1
 ensiling
 ensilist
 exceptions 1
-ensilver 1
+ensilver 2
 ensisternum
 equilibrating 2
 esquiring
