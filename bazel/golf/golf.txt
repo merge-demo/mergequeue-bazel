@@ -3637,7 +3637,7 @@ glottalize
 gigantal 1
 gld 1
 grouching 2
-gedder 1
+gedder 2
 gro
 gastroenterological 2
 gluconeogenic 1
