@@ -4763,7 +4763,7 @@ beeball
 besplit
 bedpost 1
 bypasses 1
-bedrabbling
+bedrabbling 1
 bauds
 bedrails
 binnacle 1
