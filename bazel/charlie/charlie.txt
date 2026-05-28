@@ -16440,7 +16440,7 @@ cloakmaking
 cymbaline
 cloakroom
 cloakrooms
-conquer
+conquer 1
 caterwaul
 cloakwise 1
 condominiiums
