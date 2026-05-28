@@ -15818,7 +15818,7 @@ diaphragming 2
 dentosurgical
 disprobabilize
 dorsicornu
-dorsiflex
+dorsiflex 1
 does
 dorsiflexion
 deuteron 2
