@@ -9954,7 +9954,7 @@ chenopod 1
 colocasia
 catacombic
 criollo
-chiro
+chiro 1
 chenopods
 cajuputs
 chequebook 1
