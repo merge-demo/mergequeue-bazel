@@ -4254,7 +4254,7 @@ firepot 4
 foreflank 1
 fructoside 2
 forebooms
-flots
+flots 1
 frangipanni
 floridians 2
 fusarium 2
