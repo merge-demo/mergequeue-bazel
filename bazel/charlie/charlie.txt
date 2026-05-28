@@ -5574,7 +5574,7 @@ catalinite
 catalyse 1
 craterellus
 copr
-censused
+censused 1
 cofactor 1
 catalyses
 catalyte
