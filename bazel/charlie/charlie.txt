@@ -20774,7 +20774,7 @@ coenesthesis
 coalyard
 complimental 1
 complimentally
-complimentarily
+complimentarily 1
 complimentariness
 complimentarity
 calamopitys
