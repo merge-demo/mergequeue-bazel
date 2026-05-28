@@ -586,7 +586,7 @@ daunch
 damfool
 div 1
 digenea
-dodecaheddra
+dodecaheddra 1
 diwata 1
 decopperization 1
 downweight
