@@ -18505,7 +18505,7 @@ divorced 1
 duraspinalis 1
 diacritic
 duration
-durations
+durations 1
 durbachite
 dissimulating
 dustwoman
