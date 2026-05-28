@@ -10702,7 +10702,7 @@ blenching 1
 blend
 bestill
 blendwater 2
-broadish
+broadish 1
 bowhead 1
 blenheim
 bibl 1
