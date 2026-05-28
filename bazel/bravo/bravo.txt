@@ -11996,7 +11996,7 @@ babysitting
 bunkhouse 2
 biogens 1
 bohora
-benny
+benny 1
 brontogram
 bebop
 bombarded
