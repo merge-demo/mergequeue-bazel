@@ -2520,7 +2520,7 @@ beflowers
 baggy
 bariatrician
 banderilla
-baric
+baric 1
 barycenter 2
 bemused
 burmite 1
