@@ -10181,7 +10181,7 @@ cytioderma
 chi 1
 codworm 1
 croisard
-coussinet
+coussinet 1
 chia 1
 chyack
 chianti 2
