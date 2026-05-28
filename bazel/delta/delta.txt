@@ -5078,7 +5078,7 @@ decolorizer 1
 delightsome
 dendriform
 dialer 1
-dendritical
+dendritical 1
 deal 1
 derbyshire
 dendrium 1
