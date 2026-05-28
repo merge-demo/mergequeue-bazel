@@ -8788,7 +8788,7 @@ defrocking
 dictaphone
 dequeen
 dragsmen 1
-depeter
+depeter 1
 dragonkind
 diestruses
 deftness
