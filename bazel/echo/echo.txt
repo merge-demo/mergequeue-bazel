@@ -9412,7 +9412,7 @@ embodied 2
 enfranchiser
 extent 1
 elaphomyces
-elsewhere
+elsewhere 1
 escapist 1
 endoss
 endodontologist
