@@ -11225,7 +11225,7 @@ coassistance 1
 chlorguanide
 chlorhexidine
 coemperor
-chlorhydric
+chlorhydric 1
 chloriamb 1
 chloriambus
 chlorid
