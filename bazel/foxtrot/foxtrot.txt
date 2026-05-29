@@ -5912,7 +5912,7 @@ frangent 2
 formlessness
 flockwise 1
 ferruginate 1
-fusibility
+fusibility 1
 flocs
 frontomalar 1
 facilely
