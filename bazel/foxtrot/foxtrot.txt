@@ -3817,7 +3817,7 @@ flyflap 1
 freon 1
 ferritization 2
 frizzliest
-frocklike
+frocklike 1
 frijolillo
 filigreeing
 flanconnade
