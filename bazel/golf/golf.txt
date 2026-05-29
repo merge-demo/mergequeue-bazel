@@ -2960,7 +2960,7 @@ ganymede 1
 gusts 1
 gaddang 2
 guilt 2
-gurkha
+gurkha 1
 gollop 1
 geomance
 guapilla
