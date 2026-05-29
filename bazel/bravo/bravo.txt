@@ -6986,7 +6986,7 @@ besmooths 1
 betrust 3
 bleeders 1
 barricades 1
-basilian 1
+basilian 2
 besmouch
 bloodying 1
 bacteritic
