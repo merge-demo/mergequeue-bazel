@@ -15897,7 +15897,7 @@ beswim
 behest
 buzzbomb
 berylate 2
-bendell
+bendell 1
 brominize 1
 breezing 1
 beice 1
