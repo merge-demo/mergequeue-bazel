@@ -10627,7 +10627,7 @@ gulches
 gunsmithing 1
 grossification
 grank 2
-gunstocker
+gunstocker 1
 geronto 1
 girns 2
 grillades 1
