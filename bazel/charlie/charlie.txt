@@ -16551,7 +16551,7 @@ croupes
 chirm 1
 cloisterly
 cloisterlike
-carburization
+carburization 1
 cantish 2
 capsules
 cloisterwise 2
