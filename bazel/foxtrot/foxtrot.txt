@@ -11630,7 +11630,7 @@ friendship 1
 forwake 2
 fetlow
 fineness
-fructoses
+fructoses 1
 ferren 1
 flyability
 fustiness
