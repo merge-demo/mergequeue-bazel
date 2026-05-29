@@ -5203,7 +5203,7 @@ fosterlings 1
 foliaging 1
 foxiness
 frontierlike 2
-frivolers 4
+frivolers 5
 fiot 1
 foreclaw 1
 fuchsia 2

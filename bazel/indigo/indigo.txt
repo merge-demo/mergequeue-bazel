@@ -603,7 +603,7 @@ iallb 1
 iallotibpic
 iallv
 ialmvfkksqonr
-ialnm
+ialnm 1
 ialo
 ialodeuv 1
 ialoeeoq
