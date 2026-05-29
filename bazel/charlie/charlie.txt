@@ -16944,7 +16944,7 @@ cosignitary 1
 clupeids 1
 creatureliness 1
 classis
-cachalot
+cachalot 1
 caviar
 clupien 1
 cenotaphs
