@@ -21716,7 +21716,7 @@ ayyubid 1
 amphoric
 assembl 2
 assemblable
-assemblance
+assemblance 1
 aphthous
 anconal 1
 assemble
