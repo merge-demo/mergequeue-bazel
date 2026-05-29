@@ -8429,7 +8429,7 @@ egyptianize 1
 equip
 enjoyment 1
 eglogue 3
-endothecate 1
+endothecate 2
 ethicosocial 1
 epizootology 1
 enwrought
