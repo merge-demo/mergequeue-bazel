@@ -2946,7 +2946,7 @@ chytrid
 cantharides
 coation
 clip
-cantharidian
+cantharidian 1
 cycloacetylene
 cantharidize
 cantharidized
