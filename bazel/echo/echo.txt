@@ -6443,7 +6443,7 @@ enleen 1
 exhalants 1
 eastering
 egestion
-exsanguinate
+exsanguinate 1
 egbert
 eucryphiaceous
 eastern
