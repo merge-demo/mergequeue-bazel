@@ -3552,7 +3552,7 @@ frightful
 foulsome 3
 filamentary 2
 filament 1
-flannelleaves
+flannelleaves 1
 fishfall
 flagrancy
 frowziness 1
