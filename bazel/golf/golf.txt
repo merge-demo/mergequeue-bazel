@@ -9510,7 +9510,7 @@ gyroscope 3
 groupwise
 garvey 3
 glenn
-generalizer
+generalizer 1
 gloving 2
 ganoidean
 grouser
