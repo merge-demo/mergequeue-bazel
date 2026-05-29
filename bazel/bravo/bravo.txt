@@ -11539,7 +11539,7 @@ bestows
 bocedization 2
 blup
 barbs 1
-blurbist
+blurbist 1
 bananist
 balladries 1
 budless
