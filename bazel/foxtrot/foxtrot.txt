@@ -2490,7 +2490,7 @@ funs 3
 fernshaw 1
 fordo 1
 forehatch 1
-flavic
+flavic 1
 freightage
 fawningness
 fortunize
