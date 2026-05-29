@@ -14853,7 +14853,7 @@ azoology
 atmas
 astrognosy
 autospray 1
-apenteric
+apenteric 1
 antimachinery 1
 anticyclic
 arrondi
