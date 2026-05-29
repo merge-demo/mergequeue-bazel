@@ -4852,7 +4852,7 @@ carry
 carriageable
 carriageful 1
 clachans
-carriages
+carriages 1
 crosstie
 carriagesmith
 cinchonicin
