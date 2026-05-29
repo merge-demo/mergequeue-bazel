@@ -9940,7 +9940,7 @@ guardedness 1
 gastroparalysis 1
 greening 2
 gathered 2
-geoglyphic
+geoglyphic 1
 gedd
 galerite
 geogenetic
