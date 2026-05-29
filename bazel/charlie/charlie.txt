@@ -572,7 +572,7 @@ cadres
 ciconiiform 1
 councilors
 convokes
-colloque
+colloque 1
 confort 2
 caduac
 cruiseway
