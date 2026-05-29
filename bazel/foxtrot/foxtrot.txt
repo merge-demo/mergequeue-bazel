@@ -6269,7 +6269,7 @@ fingerwork
 frisian 1
 fluidist 1
 festers
-fluidized
+fluidized 1
 ferroconcrete
 firers
 flared
