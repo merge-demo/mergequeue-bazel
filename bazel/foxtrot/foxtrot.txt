@@ -7656,7 +7656,7 @@ foregleam
 forst 1
 forego 2
 feudatory
-fables
+fables 1
 factualism 1
 foreguess
 flammant 1
