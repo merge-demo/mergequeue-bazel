@@ -4589,7 +4589,7 @@ extraregular 1
 encephalola 2
 esoterism
 executionist
-enlightened
+enlightened 1
 exploited 1
 enchanting
 englante
