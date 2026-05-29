@@ -10413,7 +10413,7 @@ cozenage
 commissionership
 comitadji
 cop
-clear
+clear 1
 crackskull 1
 cored
 chondrotome
