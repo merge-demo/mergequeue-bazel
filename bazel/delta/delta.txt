@@ -5877,7 +5877,7 @@ dregless
 dirk
 depreciable
 dysspermatism
-depreciate
+depreciate 1
 deponents 1
 despots 1
 drago
