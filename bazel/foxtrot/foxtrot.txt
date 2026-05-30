@@ -919,7 +919,7 @@ fluorometer 2
 flamed 2
 feel 1
 fluoroborate
-faradisation
+faradisation 1
 fluosilicic
 fimbrilliferous
 faradised 1
