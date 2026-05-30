@@ -4899,7 +4899,7 @@ goatly
 gastroenteric 1
 gladship
 galleylike 2
-gastrosplenic
+gastrosplenic 1
 gamer 1
 glairiest
 gladsomest
