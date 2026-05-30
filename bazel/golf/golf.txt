@@ -9549,7 +9549,7 @@ geldability 1
 grouts 1
 grouze
 gelatined 1
-glume
+glume 1
 gastornithidae 2
 groved 1
 greenskeeper
