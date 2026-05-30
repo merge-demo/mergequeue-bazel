@@ -760,7 +760,7 @@ galvanopuncture
 gummaker 3
 goutwort 3
 groupings
-gladsomer
+gladsomer 1
 gawkily
 geometrically
 graywether 1
