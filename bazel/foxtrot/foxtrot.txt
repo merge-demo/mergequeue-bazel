@@ -2860,7 +2860,7 @@ feltyfare 4
 fisty
 finable 1
 foresails 1
-figworm 1
+figworm 2
 flurry
 fungid 1
 familistery 1
