@@ -25013,7 +25013,7 @@ cheskeys
 cordycepin 1
 cleptomania
 cordiceps
-cordyceps
+cordyceps 1
 communicator 2
 cordicole
 cordillera
