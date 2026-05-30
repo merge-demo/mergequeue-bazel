@@ -8354,7 +8354,7 @@ epithets
 enterocolostomy 1
 exuvial 1
 eyetooth
-enthrallments
+enthrallments 1
 educative 1
 excitomotory
 estivated
