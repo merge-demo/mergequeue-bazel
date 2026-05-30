@@ -10687,7 +10687,7 @@ gellants
 gurney
 groundbird
 gurnet
-goodmanship
+goodmanship 1
 gildings
 girdlers 1
 goldbrickers
