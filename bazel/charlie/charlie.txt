@@ -12942,7 +12942,7 @@ conspires
 coextension 1
 chipling
 coaxially
-cyanate
+cyanate 1
 cyanates
 cyaneous
 cyanephidrosis
