@@ -25789,7 +25789,7 @@ coccoids 3
 corrody 1
 celloist
 corrodiary
-chemopause 1
+chemopause 2
 corroded 1
 corrodibility
 centimeters 1
