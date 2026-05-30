@@ -9260,7 +9260,7 @@ faradomuscular
 frontispieced
 fraktur 3
 fasciolet
-fresnel
+fresnel 1
 foresentence
 fetishist
 fixtures
