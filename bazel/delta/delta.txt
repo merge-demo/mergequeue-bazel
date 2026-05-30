@@ -1895,7 +1895,7 @@ disbench
 disconcertingness 2
 digladiator 1
 discourse
-debouchment
+debouchment 1
 diarial 1
 debout
 deervetch
