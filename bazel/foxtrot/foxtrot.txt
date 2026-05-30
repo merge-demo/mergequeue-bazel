@@ -6119,7 +6119,7 @@ flounce 2
 felsobanyite
 floccilation 1
 flounced
-flounder
+flounder 1
 frowardness
 faraway
 faciata 5
