@@ -25839,7 +25839,7 @@ corrupting
 chuser 1
 coolant 1
 corruptingly 1
-cimicid
+cimicid 1
 cocooning
 circumflexes
 corruption
