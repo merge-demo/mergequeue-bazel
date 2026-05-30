@@ -685,7 +685,7 @@ dyspepsy 2
 determinist 1
 doumaist 1
 distend 2
-distributes
+distributes 1
 damselfishes 1
 damsels
 dan
