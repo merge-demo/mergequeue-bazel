@@ -5952,7 +5952,7 @@ cathect 1
 cathected 1
 cathects
 cathedra 2
-cathedraled
+cathedraled 1
 cathedralesque 1
 cavorter
 clasp
