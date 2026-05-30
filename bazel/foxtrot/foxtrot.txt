@@ -5271,7 +5271,7 @@ frostbird
 fockle 1
 fabricable
 fomenter
-foresightedness
+foresightedness 1
 ferricyanate 2
 flavours
 fimbriate
