@@ -564,7 +564,7 @@ galempong 1
 getfd 1
 growls
 gableended 1
-gravamem 1
+gravamem 2
 gadinine 1
 glucosazone 2
 gallian
