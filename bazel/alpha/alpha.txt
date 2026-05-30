@@ -21610,7 +21610,7 @@ aspredo
 antirickets 1
 akasha 1
 asprout
-antihierarchist
+antihierarchist 1
 antu
 anamniote
 approvable
