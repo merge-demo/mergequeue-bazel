@@ -17018,7 +17018,7 @@ cytotrophy 1
 cnicin 1
 cnidae
 cnidarian
-cnidian
+cnidian 1
 crayoned
 cnidoblast 1
 cnidocil
