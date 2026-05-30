@@ -10760,7 +10760,7 @@ enclaret
 endorsee
 extort 2
 ephemeran 1
-eternalness
+eternalness 1
 extramoralist 2
 eigenvector 1
 emer 1
