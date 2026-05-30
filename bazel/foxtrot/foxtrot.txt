@@ -10412,7 +10412,7 @@ flandan
 forewarm 1
 fluorinated 2
 frontlash 1
-flatmen
+flatmen 1
 fallowing 2
 fronter 1
 frontoauricular
