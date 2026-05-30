@@ -16445,7 +16445,7 @@ downtimes
 dunnesses
 dacoities
 drabbling
-doubler
+doubler 1
 drabler
 dished
 dextropinene
