@@ -4384,7 +4384,7 @@ glottochronology 1
 ginglymostomoid 2
 gondi
 gardened
-gerund
+gerund 1
 galvanoscope
 ginhouse
 gooselike
