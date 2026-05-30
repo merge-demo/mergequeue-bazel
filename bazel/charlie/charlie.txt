@@ -23103,7 +23103,7 @@ comminute 1
 coccolithophoridae
 constantan
 constantinian 2
-cephidae
+cephidae 1
 constantinopolitan
 catechumenate
 canvassed
