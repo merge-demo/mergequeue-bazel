@@ -2031,7 +2031,7 @@ bankrolled
 bankrolling 1
 bankrupt
 bosporan
-burl
+burl 1
 bankruptism 2
 bessy
 bankruptcy
