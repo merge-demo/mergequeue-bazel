@@ -5565,7 +5565,7 @@ afterpains
 auburns 1
 antifreezing 1
 afterpast
-afflux
+afflux 1
 afterplanting
 absinthium
 acknew
