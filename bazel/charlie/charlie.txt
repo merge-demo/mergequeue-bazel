@@ -6056,7 +6056,7 @@ catkin 1
 catkinate
 catkins
 curatory
-candify
+candify 1
 catlike
 crowns 1
 catling
