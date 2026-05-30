@@ -17311,7 +17311,7 @@ actors
 apeirophobia 1
 autocollimator 1
 algaecide
-antiforeign
+antiforeign 1
 apostatically
 apostatise
 appendicectasis 1
