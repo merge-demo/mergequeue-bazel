@@ -6911,7 +6911,7 @@ equipments
 embelif 1
 eucalyn 1
 epiblema
-epitrchelia
+epitrchelia 1
 exudation 4
 exarchal
 elasticize
