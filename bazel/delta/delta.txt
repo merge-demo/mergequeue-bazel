@@ -11619,7 +11619,7 @@ disprepare
 daggletail
 discover
 dieselizing
-dreamlessness
+dreamlessness 1
 downweed
 diapnoe 1
 defectionist
