@@ -16545,7 +16545,7 @@ denar 1
 drivebolt
 deteriorationist
 duos 2
-daza
+daza 1
 disingenuity
 draft
 dragee 1
