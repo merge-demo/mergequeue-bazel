@@ -4822,7 +4822,7 @@ brazenface 1
 bikh
 beshrouded 1
 bolometer
-bedstraw 1
+bedstraw 2
 bedstraws 2
 bedstring
 boundedly
