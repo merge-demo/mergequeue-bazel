@@ -27307,7 +27307,7 @@ carling
 cleric
 couplings 1
 chelifer 1
-cremates
+cremates 1
 cattiness
 coupon
 cornbrash
