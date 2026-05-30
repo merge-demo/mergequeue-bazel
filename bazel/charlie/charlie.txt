@@ -10622,7 +10622,7 @@ chylopoiesis
 chilopsis 1
 coagulum 1
 chilostomatous
-chylous
+chylous 1
 chilte
 chiltern
 chilver
