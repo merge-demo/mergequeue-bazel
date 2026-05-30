@@ -10596,7 +10596,7 @@ dolorimeter
 documented
 decoctible
 diploidic
-dunderbolt
+dunderbolt 1
 dominus
 diploidize 1
 doorman
