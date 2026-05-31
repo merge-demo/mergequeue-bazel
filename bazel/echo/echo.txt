@@ -6957,7 +6957,7 @@ endarteria 1
 election 1
 entourage
 empt
-enounces
+enounces 1
 entozoologically 1
 entrain
 enantiomorphy
