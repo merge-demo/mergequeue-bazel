@@ -11935,7 +11935,7 @@ dolerites
 diselenid 2
 dicetyl
 diplostemonous
-depthing
+depthing 1
 doorba
 defeise 2
 discompose 1
