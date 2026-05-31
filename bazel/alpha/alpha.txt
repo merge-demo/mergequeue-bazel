@@ -21173,7 +21173,7 @@ ascertainableness
 asem
 anticar
 alphabetics 1
-asemic
+asemic 1
 asepses
 anagogical
 assiduate
