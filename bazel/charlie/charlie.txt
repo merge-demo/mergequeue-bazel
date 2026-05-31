@@ -6446,7 +6446,7 @@ contraorbitally 2
 clinandria 1
 cavalieri 3
 cavaliering
-cavalierishness
+cavalierishness 1
 cavalierism 1
 cavalierly
 cytogenous
