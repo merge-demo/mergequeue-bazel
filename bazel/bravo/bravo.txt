@@ -10292,7 +10292,7 @@ blading 1
 blade 1
 beleaguerer
 besmircher
-basiglandular
+basiglandular 1
 bosporian 1
 bladewise 1
 bladygrass
