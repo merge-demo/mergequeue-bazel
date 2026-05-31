@@ -15603,7 +15603,7 @@ coxcombries
 countering
 clatterer
 crucifier 1
-clattery
+clattery 1
 captainly 1
 clattering
 chicaner
