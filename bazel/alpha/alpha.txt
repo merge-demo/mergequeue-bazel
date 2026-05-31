@@ -23406,7 +23406,7 @@ autohypnosis
 audiology 1
 acca 1
 audiological 1
-audiologies
+audiologies 1
 aliquid 1
 anconitis
 aphaeretic
