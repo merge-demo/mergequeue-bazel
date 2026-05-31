@@ -12556,7 +12556,7 @@ dropsically
 depend 1
 defies
 divertible 1
-disingenuousness
+disingenuousness 1
 dicaryophase
 detonator
 disinheritable
