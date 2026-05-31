@@ -2588,7 +2588,7 @@ grassed 1
 gyrogonite
 guigne
 gargling
-gametogeny
+gametogeny 1
 generant 3
 generate 1
 guitars 1
