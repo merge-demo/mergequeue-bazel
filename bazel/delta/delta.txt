@@ -3594,7 +3594,7 @@ dawny 1
 depending
 disguise
 desilverize 1
-debunker
+debunker 1
 degass
 degassed
 disappears
