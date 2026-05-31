@@ -8908,7 +8908,7 @@ eyers
 ergostat 1
 eddie
 entelam
-experimentally
+experimentally 1
 eleutheromaniac
 ergoted 1
 explosible 2
