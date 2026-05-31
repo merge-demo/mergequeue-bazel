@@ -12262,7 +12262,7 @@ boltheading
 boltin 1
 beslimed 1
 boltlike
-blindling
+blindling 1
 beaupers
 boltmaker 1
 bunga 1
