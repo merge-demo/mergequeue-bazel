@@ -2628,7 +2628,7 @@ decoke 1
 deathtraps 1
 decoll
 deguelia
-dumbcow
+dumbcow 1
 dispensaries
 decolletage 3
 displeaser
