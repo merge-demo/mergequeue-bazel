@@ -13971,7 +13971,7 @@ embosked 1
 enwreathed 1
 endears
 exundance
-exsuperance
+exsuperance 1
 extraperiosteal 1
 engem 1
 eurodollars 1
