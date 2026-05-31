@@ -6519,7 +6519,7 @@ ahuaca
 acridane 2
 ahull 1
 ascomata 1
-anacrustic
+anacrustic 1
 airward
 acerbities
 amicableness 1
