@@ -8956,7 +8956,7 @@ chargeful
 chargehouse 1
 chargeless
 charger
-charges
+charges 1
 charybdian
 crankman 1
 charybdis
