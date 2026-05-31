@@ -3382,7 +3382,7 @@ airmarker
 adjustability
 adjugate
 almocrebe
-asterite
+asterite 1
 araneidan
 allegorize
 antipope
