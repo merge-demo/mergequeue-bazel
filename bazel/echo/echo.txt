@@ -3185,7 +3185,7 @@ eom 2
 emmarble 1
 elaborate
 evinced
-egghead
+egghead 1
 entertainingness 1
 envisagement 1
 eichbergite
