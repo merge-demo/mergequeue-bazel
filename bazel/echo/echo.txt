@@ -13206,7 +13206,7 @@ embale
 expires
 earthworms
 esteemable
-expressivity
+expressivity 1
 eastertide
 encephala
 echinite
