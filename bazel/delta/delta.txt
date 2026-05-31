@@ -7384,7 +7384,7 @@ demilunes 1
 deselect 2
 discount
 demoniacally
-demiadult
+demiadult 1
 detonating 1
 decenyl
 detonation 1
