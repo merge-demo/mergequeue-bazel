@@ -8685,7 +8685,7 @@ furicane
 flapless 1
 fathomable 1
 forthgaze 2
-forthgo
+forthgo 1
 ferreling
 footcandle 1
 foxings 1
