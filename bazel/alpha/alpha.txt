@@ -3190,7 +3190,7 @@ ahs
 ahems
 antipathogen 1
 allocability
-aminic
+aminic 1
 arachide 1
 anagrammatising
 antirealism
