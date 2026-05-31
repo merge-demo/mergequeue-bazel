@@ -3536,7 +3536,7 @@ echelons 1
 embarras
 exhibit
 escorted
-enured
+enured 1
 epigonichthyidae
 embolectomy 1
 enicuridae 1
