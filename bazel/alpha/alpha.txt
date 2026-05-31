@@ -16663,7 +16663,7 @@ adventures
 autoelevation 1
 apertural 1
 affrighter
-antichorus
+antichorus 1
 adiaphorous
 antihumanism
 alioth
