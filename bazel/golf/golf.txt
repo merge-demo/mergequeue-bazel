@@ -1395,7 +1395,7 @@ greetingless
 garniture 1
 gaulsh
 glycosemia
-germanize
+germanize 1
 grecize 2
 gaits 2
 ganyie 3
