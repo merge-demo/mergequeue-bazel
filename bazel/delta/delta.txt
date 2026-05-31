@@ -14490,7 +14490,7 @@ decemviri 1
 duumvirate 1
 diplomatique 1
 delassement 2
-desk
+desk 1
 dedition
 dipleidoscope
 decolonised
