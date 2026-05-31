@@ -9212,7 +9212,7 @@ ceduous 2
 chastiment
 chastise 1
 chastiser
-consulships
+consulships 1
 clapperboard 1
 cheering 1
 corf 1
