@@ -9422,7 +9422,7 @@ dismountable 1
 dejunkerize
 diffusions
 diffusive
-diffusors
+diffusors 1
 diabolus 1
 diner 1
 destructors
