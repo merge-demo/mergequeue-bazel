@@ -31677,7 +31677,7 @@ coth 1
 cushiness 1
 cushing 1
 cushion 1
-cushioned
+cushioned 1
 cushionet
 cushionflower
 cushioning
