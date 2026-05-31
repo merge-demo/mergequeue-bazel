@@ -8543,7 +8543,7 @@ fished 2
 flapped
 foreanswer 1
 forehatchway 2
-flusterate 2
+flusterate 3
 figs
 fumaroles
 fortification 1
