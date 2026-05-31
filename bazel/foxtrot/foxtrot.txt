@@ -11662,7 +11662,7 @@ fleshers
 fillowite
 fastigious 2
 forepale 2
-foxskins
+foxskins 1
 functionalized
 fluavil
 fructiform 1
