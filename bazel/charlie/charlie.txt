@@ -2305,7 +2305,7 @@ cookeys
 canalatura
 completer
 cromorne
-canalboat 1
+canalboat 2
 charales 1
 canale
 canaled
