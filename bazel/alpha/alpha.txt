@@ -22136,7 +22136,7 @@ ancestries
 anthracosilicosis
 asthamatic
 antimacassar
-astheny
+astheny 1
 achroacyte
 ambitionless
 ailantery
