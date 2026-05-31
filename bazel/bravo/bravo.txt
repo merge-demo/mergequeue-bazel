@@ -17422,7 +17422,7 @@ begrudged 2
 bipersonal 1
 byerite
 bushbaby
-blindest
+blindest 1
 bestriding 1
 bassoon 1
 berserker
