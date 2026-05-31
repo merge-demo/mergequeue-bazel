@@ -27017,7 +27017,7 @@ counterplotter
 curatage
 conjure 1
 contoid
-chimneypot
+chimneypot 1
 counterpoints 2
 cataleptiform 2
 contestable
