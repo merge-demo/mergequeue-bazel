@@ -31732,7 +31732,7 @@ custerite 1
 custodee 1
 custodian
 custodians
-coenurus
+coenurus 1
 custodianship 1
 circuited
 custodier
