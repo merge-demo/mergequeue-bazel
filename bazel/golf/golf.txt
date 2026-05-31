@@ -9605,7 +9605,7 @@ goitered
 gemses 1
 gossipmonger
 gr 2
-ghostwriting 1
+ghostwriting 2
 guzerat
 glaucophanization 3
 gallize 2
