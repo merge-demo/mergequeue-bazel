@@ -12045,7 +12045,7 @@ boilersmith 2
 bladdernose
 brackishness 1
 boilover 1
-bandlessness
+bandlessness 1
 boils
 boyo
 blizzardy
