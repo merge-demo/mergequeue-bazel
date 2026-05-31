@@ -9301,7 +9301,7 @@ gi 2
 geodynamicist
 grapeline
 girnel
-gallowglass 1
+gallowglass 2
 gaure 1
 guttera 2
 grudgingness
