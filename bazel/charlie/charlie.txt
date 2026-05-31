@@ -9962,7 +9962,7 @@ croup 1
 chequer
 chequered
 chequers
-creosoted
+creosoted 1
 chalukya
 chequerwork
 chequin 1
