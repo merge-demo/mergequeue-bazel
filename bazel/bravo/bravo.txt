@@ -13756,7 +13756,7 @@ bovaristic 1
 burgout 1
 bovate
 besmirching
-bannermen
+bannermen 1
 bejig
 bovinely 1
 bezil 3
