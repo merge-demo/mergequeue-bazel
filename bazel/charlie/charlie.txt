@@ -13004,7 +13004,7 @@ cyanocobalamine 1
 cyanoderma
 catchland
 cantrap
-cyanoethylation
+cyanoethylation 1
 crumbable
 crates 1
 cyanoguanidine
