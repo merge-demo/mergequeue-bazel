@@ -17486,7 +17486,7 @@ apparats
 apparatus
 appareling 3
 apparency 1
-apparentements
+apparentements 1
 airify 1
 anoxyscope
 apparently
