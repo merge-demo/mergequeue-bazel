@@ -1936,7 +1936,7 @@ fonly 1
 flanchard 1
 forworn
 felonwood 3
-flated
+flated 1
 formulization
 fishlet
 flagellantism 1
