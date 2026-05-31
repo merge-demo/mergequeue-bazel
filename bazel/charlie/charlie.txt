@@ -20523,7 +20523,7 @@ canonlike
 compearant 1
 crimes
 compeering
-corinthianesque
+corinthianesque 1
 checkerspot
 chromatophorous
 compellable
