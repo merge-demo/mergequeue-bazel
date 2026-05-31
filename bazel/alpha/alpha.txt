@@ -5645,7 +5645,7 @@ axbreaker 1
 agacerie 1
 austromancy
 alloiometry
-acoelomatous
+acoelomatous 1
 axillary 1
 agade
 autocollimation
