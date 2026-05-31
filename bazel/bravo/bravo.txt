@@ -11129,7 +11129,7 @@ blunker 2
 blandness
 brawniest 1
 buckler 1
-benevolently
+benevolently 1
 brotan
 broguing
 bipenniform
