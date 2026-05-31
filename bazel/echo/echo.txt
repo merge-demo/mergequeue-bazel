@@ -7753,7 +7753,7 @@ englify
 ensure 1
 emendable 1
 estopping
-equips
+equips 1
 edelweisses
 ethinamate
 empasma
