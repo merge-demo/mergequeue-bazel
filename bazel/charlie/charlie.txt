@@ -15068,7 +15068,7 @@ carposperm
 cl
 clabber 1
 crossover 2
-clabbery
+clabbery 1
 cyclazocine
 clabbering
 clabbers
