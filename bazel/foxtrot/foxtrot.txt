@@ -6976,7 +6976,7 @@ fissicostate 2
 formylation
 franks
 foetus
-foments
+foments 1
 fussiness 1
 fortuity 1
 fordless 2
