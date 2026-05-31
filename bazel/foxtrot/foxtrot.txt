@@ -11660,7 +11660,7 @@ fut 1
 futhorc 3
 fleshers
 fillowite
-fastigious 2
+fastigious 3
 forepale 2
 foxskins
 functionalized
