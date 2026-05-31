@@ -17548,7 +17548,7 @@ crucifix
 cohoshes
 colloid
 coccaceous 1
-coccal
+coccal 1
 conducible 1
 coccerin
 corr
