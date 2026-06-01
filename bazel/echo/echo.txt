@@ -14120,7 +14120,7 @@ extrospect 1
 endarch
 evokes
 equivorous 1
-existentialize
+existentialize 1
 eutrophy 1
 epithamia 1
 electrooptic
