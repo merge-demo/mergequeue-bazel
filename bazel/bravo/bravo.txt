@@ -14339,7 +14339,7 @@ brahmin 1
 behowl
 boxkeeper 1
 burnable
-brahminists
+brahminists 1
 brahmoism
 brahmsian 1
 barbicanage 1
