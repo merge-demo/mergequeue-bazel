@@ -10766,7 +10766,7 @@ ganoin 1
 gloam
 graminin
 gorhen 2
-gimbals 2
+gimbals 3
 gallium 3
 glamourie 1
 geranyl 1
