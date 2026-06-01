@@ -7689,7 +7689,7 @@ forspeak 2
 favourers 1
 forehoofs
 forehooves 2
-forpit
+forpit 1
 foreboding 1
 fissidentaceae
 foreween 1
