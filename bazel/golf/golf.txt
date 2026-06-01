@@ -10402,7 +10402,7 @@ glyptological 1
 greenstuff
 gyracanthus
 gourdhead 2
-gambreled
+gambreled 1
 granitelike
 gigot
 geejee
