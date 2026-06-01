@@ -8332,7 +8332,7 @@ electrodeposit
 enciphers 1
 elev 1
 expressibly
-endured
+endured 1
 enchannel 1
 exercised 1
 emulating
