@@ -12506,7 +12506,7 @@ envisages 1
 epicentral 1
 embosture
 executrixship
-expertize
+expertize 1
 exine
 exies 1
 extraviolet 1
