@@ -19055,7 +19055,7 @@ cepous 1
 collier 1
 circuli
 cuprite
-chariots
+chariots 1
 colliery
 crises
 callable
