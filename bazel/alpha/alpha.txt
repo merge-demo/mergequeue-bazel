@@ -8384,7 +8384,7 @@ anticomet 1
 aerodromics
 alisp 2
 alisphenoidal 1
-asynapsis
+asynapsis 1
 aliter
 archaiser 1
 atomechanics
