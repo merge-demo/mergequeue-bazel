@@ -5441,7 +5441,7 @@ electronvolt 2
 endowment
 ectene 2
 excantation 2
-earthtongue
+earthtongue 1
 endpoints 1
 endrudge
 extrabulbar
