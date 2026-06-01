@@ -9440,7 +9440,7 @@ fraternised
 footstone 4
 following
 fraternism 1
-fitfulness
+fitfulness 1
 finesses 1
 faux
 furcae 1
