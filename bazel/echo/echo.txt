@@ -13515,7 +13515,7 @@ electrocauterization
 elbert 1
 earcap
 epitimesis
-error
+error 1
 embowels 1
 eccles 2
 eumolpides
