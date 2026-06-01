@@ -4442,7 +4442,7 @@ enthymeme 2
 e 1
 espacement
 ejaculation 1
-encaptive
+encaptive 1
 entomion
 exhilarative 2
 encarnalised 1
