@@ -25703,7 +25703,7 @@ correllations 1
 corrente 1
 centigrado
 crumblingness
-cleanhandedness
+cleanhandedness 1
 cistophoric 1
 coppiced
 crepitate 1
