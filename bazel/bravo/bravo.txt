@@ -16007,7 +16007,7 @@ backstitching 2
 bronchorrhaphy
 bronchorrhea
 bronchos 1
-bronchoscopic
+bronchoscopic 1
 benempted
 breastsummer
 bronchoscopist
