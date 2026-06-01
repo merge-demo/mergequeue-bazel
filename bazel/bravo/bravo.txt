@@ -3561,7 +3561,7 @@ brushy
 battleground 1
 berkeleyite 2
 bien
-bathysophical 1
+bathysophical 2
 bathysphere
 bigmouths 3
 boliviano 1
