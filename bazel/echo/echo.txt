@@ -10393,7 +10393,7 @@ ethologists 1
 euphonical
 expediently
 edulcorator
-eruct
+eruct 1
 edmond
 embrase 2
 exhance
