@@ -5412,7 +5412,7 @@ diamonds
 drown
 duodecimality
 denuclearized 3
-desegregating
+desegregating 1
 deyhouse
 decoction
 delicatesse
