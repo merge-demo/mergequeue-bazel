@@ -3033,7 +3033,7 @@ epidotes 2
 elytroposis 2
 elytrorhagia 2
 euglandina
-elytrostenosis
+elytrostenosis 1
 elytrotomy 1
 emeer 1
 eggfish
