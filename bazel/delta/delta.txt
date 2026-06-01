@@ -1481,7 +1481,7 @@ dazement 1
 deckhouses
 dazes
 dazzle 1
-dawnstreak 3
+dawnstreak 4
 discriminative 1
 diffusor
 dasypaedal
