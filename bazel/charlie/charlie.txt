@@ -26740,7 +26740,7 @@ counterboulle
 counterbranch 1
 curbstones
 counterbrand
-confutable 1
+confutable 2
 countercathexis 1
 counterchanged
 countercharm
