@@ -8715,7 +8715,7 @@ grassflat 2
 gastrodisc 1
 growler
 guaranteing
-golosh
+golosh 1
 gnathonic 1
 girosols
 guazuma
