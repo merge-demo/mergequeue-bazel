@@ -3154,7 +3154,7 @@ citify
 caperers
 cheoplastic 1
 cachepots 1
-crosshatcher 1
+crosshatcher 2
 calibanism
 cofathership
 collagen
