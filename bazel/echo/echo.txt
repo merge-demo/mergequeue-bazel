@@ -4359,7 +4359,7 @@ emulative
 enamour 1
 enamouredness 1
 expostulator 2
-eulogistical
+eulogistical 1
 espouse
 espichellite
 espadrille 1
