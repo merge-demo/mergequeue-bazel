@@ -20393,7 +20393,7 @@ compactor
 clobbered 1
 compactors
 compacts
-comites
+comites 1
 compacture 1
 crumbliness 1
 compadre
