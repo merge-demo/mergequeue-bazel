@@ -6384,7 +6384,7 @@ guesstimate 3
 glossophaga 2
 gulmohar
 galloped
-gamesomeness
+gamesomeness 1
 grieve 1
 gigget 2
 gummites 1
