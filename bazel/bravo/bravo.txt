@@ -433,7 +433,7 @@ bandobust 2
 borecole
 backscraper
 backset 1
-basename
+basename 1
 bernie
 brushless 1
 brinjaree 1
