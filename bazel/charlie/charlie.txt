@@ -22950,7 +22950,7 @@ consist
 contractured
 circumadjacent 2
 consistences 1
-consistency
+consistency 1
 catalytic
 chemotherapies
 companioning 1
