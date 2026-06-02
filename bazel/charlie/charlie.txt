@@ -30194,7 +30194,7 @@ crucifixions
 cyanemia 1
 craftily 1
 cryptocleidus
-cruciformity
+cruciformity 1
 cruciformly
 crucily
 crucilly
