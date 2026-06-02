@@ -11007,7 +11007,7 @@ dethronable 1
 dredges 1
 dioptroscopy
 demonlike
-disseizure 2
+disseizure 3
 dayblush
 defiers
 deboistness
