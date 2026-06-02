@@ -895,7 +895,7 @@ akroterion 1
 anabong
 audiometric 1
 apogeotropic 1
-archband 1
+archband 2
 aures
 absyrtus
 amylon
