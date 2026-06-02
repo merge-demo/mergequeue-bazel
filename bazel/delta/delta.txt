@@ -14366,7 +14366,7 @@ diurnally
 drug 1
 dragonize 3
 diurnals 2
-diurnule
+diurnule 1
 dimensuration
 diuron
 demeaned 1

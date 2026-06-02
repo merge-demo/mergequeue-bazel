@@ -31823,7 +31823,7 @@ cacemphaton
 cytotoxic
 cutin
 cutinisation
-cutinise
+cutinise 1
 coliiformes
 cretic
 cutinised
