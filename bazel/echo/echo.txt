@@ -1848,7 +1848,7 @@ exhalable
 eightieth
 eightling
 edematose
-euler
+euler 1
 epidiorite
 encystments 1
 errabund 2
