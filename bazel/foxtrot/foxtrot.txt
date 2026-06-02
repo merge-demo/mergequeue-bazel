@@ -10075,7 +10075,7 @@ frisks
 frondiform
 feudatary 2
 firster 1
-foredecree
+foredecree 1
 formalise 1
 fearfulness
 flightshot 2
