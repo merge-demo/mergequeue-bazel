@@ -4584,7 +4584,7 @@ carnivoral 1
 carnivore
 carnivorism
 cordialness
-carnivorously
+carnivorously 1
 comart
 carnivorousness
 cavalcading
