@@ -7113,7 +7113,7 @@ envaye
 explainability 3
 episcenia
 excerpting
-envelope
+envelope 1
 exurbanites
 envelopments 1
 endpaper 1
