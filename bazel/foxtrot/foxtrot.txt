@@ -7599,7 +7599,7 @@ flintworker 1
 flays
 forespeak 1
 fecundative 1
-faradising 1
+faradising 2
 foredune
 freezable
 fervors
