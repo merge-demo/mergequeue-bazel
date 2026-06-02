@@ -12635,7 +12635,7 @@ daredevils
 drate 2
 delegant 1
 dertrotheca 1
-defaultant 1
+defaultant 2
 descendentalist
 descrial 1
 dodgeries
