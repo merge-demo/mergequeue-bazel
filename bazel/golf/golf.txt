@@ -4790,7 +4790,7 @@ globes 1
 garrnishable
 gizz
 gorgoniaceous
-gentlewomanly
+gentlewomanly 1
 gizzard 2
 glimmerings
 gizzern
