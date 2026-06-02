@@ -1775,7 +1775,7 @@ agoniada 1
 aceldamas
 aquake
 absorptively
-amassable
+amassable 1
 adulce
 acemila
 antilepton 1
