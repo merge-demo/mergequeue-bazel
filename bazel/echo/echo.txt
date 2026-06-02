@@ -7823,7 +7823,7 @@ exodermis 1
 empirical
 endopoditic 2
 equivocators 1
-extrudes
+extrudes 1
 exorcization 1
 examinership
 endlessness
