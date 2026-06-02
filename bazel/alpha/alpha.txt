@@ -962,7 +962,7 @@ alidades
 absquatulate
 anchorites
 abstain 1
-abstainer
+abstainer 1
 ameland 2
 angoras 1
 abstainers
