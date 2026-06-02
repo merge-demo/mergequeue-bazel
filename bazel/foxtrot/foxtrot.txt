@@ -5685,7 +5685,7 @@ freestyle
 fishwife
 flinkite 1
 flint 3
-fluffer
+fluffer 1
 ferratin
 footpound
 folioliferous
