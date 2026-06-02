@@ -8605,7 +8605,7 @@ exect
 eutaxic 1
 equidiurnal 1
 eelpouts 1
-executor 1
+executor 2
 eleutheromania
 equidivision
 epigrammatising 2
