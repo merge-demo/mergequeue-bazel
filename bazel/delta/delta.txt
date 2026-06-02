@@ -16005,7 +16005,7 @@ douane
 doub 1
 downsize
 decrepitude
-direct 1
+direct 2
 double
 demos
 dotter
