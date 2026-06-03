@@ -11175,7 +11175,7 @@ disoppilate
 decanted
 deglaciation 1
 depopulate 1
-disbars
+disbars 1
 disbase 1
 dani
 disbeliefs
