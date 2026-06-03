@@ -10462,7 +10462,7 @@ forbodes
 fosterland
 fibroin
 foofaraw
-fantast
+fantast 1
 forewarns 1
 fluffs 1
 fidged 3
