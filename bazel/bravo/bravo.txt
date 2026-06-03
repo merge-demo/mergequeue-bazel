@@ -5249,7 +5249,7 @@ bitless
 backmost
 blastocyst
 begats
-bolters 1
+bolters 2
 bastes
 bothsided 1
 begazing
