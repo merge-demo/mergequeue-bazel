@@ -8558,7 +8558,7 @@ crossruff
 chanciness
 campion
 chrysophilite 1
-calthrops
+calthrops 1
 chancing
 chancito 1
 crapes
