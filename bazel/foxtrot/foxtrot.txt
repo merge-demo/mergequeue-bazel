@@ -6781,7 +6781,7 @@ fold 1
 fantasy 1
 fleechment 1
 fluoroscopic 2
-frosts
+frosts 1
 frosteds 1
 fledgeless
 foldage
