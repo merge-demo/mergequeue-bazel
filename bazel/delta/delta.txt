@@ -16173,7 +16173,7 @@ drinkery 1
 dowager 1
 dits 2
 demospongiae
-dowagers
+dowagers 1
 dispersions 2
 dertra
 degas
