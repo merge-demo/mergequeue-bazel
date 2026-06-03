@@ -5334,7 +5334,7 @@ agranulocytosis 1
 acceder
 applanate
 attaining
-adenophthalmia
+adenophthalmia 1
 aluminosity 1
 authorizations 1
 allmouth
