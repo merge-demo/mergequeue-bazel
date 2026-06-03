@@ -1691,7 +1691,7 @@ dephysicalization
 decrementless 1
 dehumanisation
 delineator
-debonnaire
+debonnaire 1
 dismissive
 dears 1
 dottard
