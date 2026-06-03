@@ -13201,7 +13201,7 @@ animi 1
 anabiosis
 alchymy 2
 acoustical
-archbeacon
+archbeacon 1
 animikean
 animis
 abow
