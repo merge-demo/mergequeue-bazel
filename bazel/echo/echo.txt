@@ -860,7 +860,7 @@ epiderms
 emraud 2
 englobement 2
 eddic
-entourages
+entourages 1
 epistolizer 1
 eigenfunction
 erythrocytolysin
