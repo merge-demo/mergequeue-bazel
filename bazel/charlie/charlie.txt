@@ -6796,7 +6796,7 @@ cerianthoid
 clearway 1
 celioparacentesis 1
 cerinthian 1
-cowshard
+cowshard 1
 capless
 celioscope
 cella
