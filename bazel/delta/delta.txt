@@ -10467,7 +10467,7 @@ distortion
 dister 1
 droits 1
 denaturate 2
-diphtheria
+diphtheria 1
 diphtherian 1
 dogberrydom 1
 deda 1
