@@ -9156,7 +9156,7 @@ charwoman 1
 centipedes
 conservatives
 charwomen
-chase
+chase 1
 chaseable
 chased
 corbeilles
