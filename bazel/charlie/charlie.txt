@@ -26750,7 +26750,7 @@ counterclaims 1
 counterclassifications 1
 cricketer
 countercolored
-cliff
+cliff 1
 countercompetition
 countercomplaint 1
 countercompony
