@@ -1339,7 +1339,7 @@ balbusard 1
 beggarliness
 burlap
 brayed
-butterbump
+butterbump 1
 betwixen
 balconies 1
 breeziness 1
