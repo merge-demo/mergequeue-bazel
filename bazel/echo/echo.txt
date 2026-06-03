@@ -12044,7 +12044,7 @@ extra 1
 entackle
 ervum
 excommunicative
-excommunicator
+excommunicator 1
 expetible 2
 extrication
 excoriated 1
