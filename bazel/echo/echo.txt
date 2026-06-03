@@ -9631,7 +9631,7 @@ ewer 1
 endoblast 1
 encense
 entangleable
-equipper
+equipper 1
 entia
 epenthesize 1
 epacris 1
