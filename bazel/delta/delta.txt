@@ -3667,7 +3667,7 @@ depreciators
 dunt 1
 deglutition
 deglutitious 1
-degold 1
+degold 2
 decathlon
 disinhibition
 decomposite
