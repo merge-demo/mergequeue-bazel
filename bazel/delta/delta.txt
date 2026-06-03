@@ -16311,7 +16311,7 @@ defended
 downshift
 downshifted
 downshore
-dephlegmatize
+dephlegmatize 1
 dibbler
 dragonism
 dainteth 1
