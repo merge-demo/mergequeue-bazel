@@ -14912,7 +14912,7 @@ dodecapartite 1
 dodecaphonic
 diverts
 dodecaphonism
-demibastion
+demibastion 1
 dehumidifiers
 destructive 2
 dodecarch 1
