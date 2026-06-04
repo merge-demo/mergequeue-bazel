@@ -11627,7 +11627,7 @@ ethnocentricity
 empoison
 exclosure
 emollition 2
-eyedroppers
+eyedroppers 1
 exacerbates 1
 empaneled 2
 enhances
