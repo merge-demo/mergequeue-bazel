@@ -14218,7 +14218,7 @@ bradypeptic 1
 bradyphrasia 2
 bradyphrenia
 bradypnea
-bloodtest
+bloodtest 1
 bonally
 bakerless 1
 bartered
