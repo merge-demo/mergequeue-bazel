@@ -5483,7 +5483,7 @@ farouk 1
 foolscap 1
 furunculoid
 flesh 1
-forbids
+forbids 1
 formes
 filchers 1
 feculae
