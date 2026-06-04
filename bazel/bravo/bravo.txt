@@ -14785,7 +14785,7 @@ bern
 barres
 ballooner 3
 bombable
-burgheress
+burgheress 1
 baru
 brava
 brazil
