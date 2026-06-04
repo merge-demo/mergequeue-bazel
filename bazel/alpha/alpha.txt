@@ -14900,7 +14900,7 @@ anticyclically
 anticity
 anticytolysin 1
 almsgiving
-alphorn
+alphorn 1
 autohemolysin 1
 acceptilate 1
 anticker 1
