@@ -3084,7 +3084,7 @@ deadliness
 downbent 1
 doohickus 1
 dentaria 1
-defacer
+defacer 1
 dentiscalp
 desole 1
 delible
