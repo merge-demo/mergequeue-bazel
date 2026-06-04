@@ -484,7 +484,7 @@ abyssus 1
 abit
 abstriction 2
 agriculture
-abbreviate
+abbreviate 1
 antiscriptural 1
 abiuret 1
 abjectedness
