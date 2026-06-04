@@ -12760,7 +12760,7 @@ chumashan
 chumawi
 chummage
 chummed
-congelifract
+congelifract 1
 chummery 1
 chummier
 chummies
