@@ -11946,7 +11946,7 @@ boggler
 bannerol 1
 bogglers
 boggling 2
-bessarabian
+bessarabian 1
 brinded 1
 bogyism
 bogyman 1
