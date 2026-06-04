@@ -21753,7 +21753,7 @@ asseour
 assert
 asserta
 albanenses
-assertable
+assertable 1
 antinganting 1
 assagaied
 awesomely
