@@ -2369,7 +2369,7 @@ geotectonic
 gravitates 3
 goggler 1
 ger
-gabon
+gabon 1
 guardants
 glump 1
 gerrhosaurid
