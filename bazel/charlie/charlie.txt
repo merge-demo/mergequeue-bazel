@@ -15397,7 +15397,7 @@ clappers
 cutinization 1
 cordoban
 clapping
-claps 1
+claps 2
 consecratedness
 clapstick
 centrosome
