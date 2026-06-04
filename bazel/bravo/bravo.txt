@@ -2834,7 +2834,7 @@ barotraumas 1
 barotropic
 barouchette 1
 bioecologic
-barouni
+barouni 1
 begrain
 baroxyton
 benignantly
