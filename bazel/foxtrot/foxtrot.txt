@@ -3304,7 +3304,7 @@ fivescore
 flounces 1
 ferrelled 1
 fortier
-fulgency
+fulgency 1
 finity 1
 factitious
 flirtationless
