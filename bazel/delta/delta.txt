@@ -5229,7 +5229,7 @@ deputy 1
 denominations 2
 desired 1
 dicty
-dine
+dine 1
 depolarisation
 dusun 1
 deafer
