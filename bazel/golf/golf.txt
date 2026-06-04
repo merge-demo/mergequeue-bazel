@@ -4219,7 +4219,7 @@ geomagnetic 1
 gimped 1
 gimpier 1
 guidable
-galactolytic
+galactolytic 1
 gippers 2
 gliosa
 greenovite 1
