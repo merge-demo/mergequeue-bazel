@@ -1202,7 +1202,7 @@ datafile
 dunts 1
 dillydallying
 dahabiah
-doormat
+doormat 1
 demibrassart
 devilhood
 datana
