@@ -2072,7 +2072,7 @@ camoufleur
 chests
 cosherer
 camp
-campagi
+campagi 1
 coquettes
 counteraverment
 campagna 1
