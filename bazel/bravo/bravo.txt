@@ -9793,7 +9793,7 @@ bitanhol 1
 bitartrate
 beneplacito
 bandonion
-biteable
+biteable 1
 begin 1
 bonapartean
 bongo
