@@ -7815,7 +7815,7 @@ bibble
 bamboozle 2
 brackets 2
 bibbler
-blooms
+blooms 1
 bufonite 1
 borazon 3
 bajri
