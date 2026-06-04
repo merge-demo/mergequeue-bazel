@@ -2945,7 +2945,7 @@ etchings 2
 embank 2
 evaporatively
 erythrasma
-elliptical
+elliptical 1
 embarrassments 1
 eyewinks
 elicitation
