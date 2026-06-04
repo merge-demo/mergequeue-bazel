@@ -9719,7 +9719,7 @@ flabs 1
 forestick
 flycaster
 fanworts 1
-fuchsins
+fuchsins 1
 fevery
 ficoideae 1
 fretworks
