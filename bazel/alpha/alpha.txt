@@ -20737,7 +20737,7 @@ ascents 1
 artifex 1
 activates
 aerobiology
-artificial
+artificial 1
 adverted
 antipragmatically
 arroya 2
