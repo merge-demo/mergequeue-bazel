@@ -15642,7 +15642,7 @@ blimpishness
 burgundies
 batterable
 buffone
-barrenest
+barrenest 1
 bulkheads
 burred 1
 belemnid
