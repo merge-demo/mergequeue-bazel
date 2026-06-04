@@ -4585,7 +4585,7 @@ autobiology 2
 advisement
 atli 1
 abreacting
-arranger 1
+arranger 2
 addax
 adviser
 autonomize 1
