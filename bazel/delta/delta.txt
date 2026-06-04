@@ -14429,7 +14429,7 @@ diversory
 disfiguringly
 dressmaker
 dimethylamine
-divert
+divert 1
 dioptrometer
 dasyphyllous
 disraeli
