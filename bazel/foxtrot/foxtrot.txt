@@ -8818,7 +8818,7 @@ frailes 3
 fetchers 1
 flotillas
 fossage 1
-fanlight 1
+fanlight 2
 female 2
 fidel 1
 fearable 2
