@@ -22486,7 +22486,7 @@ aswarm
 aisling 1
 aswash
 adyton
-asweat
+asweat 1
 aristarchy 2
 asweve
 alchemistic
