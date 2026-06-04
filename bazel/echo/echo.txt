@@ -12224,7 +12224,7 @@ executioneering
 enneahedrons 2
 engarb
 episynthetic
-excur
+excur 1
 ensigns
 epiphanizing
 extralateral 1
