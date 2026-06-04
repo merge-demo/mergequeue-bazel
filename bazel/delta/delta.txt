@@ -6778,7 +6778,7 @@ datatype 1
 demoralizer
 detestably
 diathermic
-desilvers
+desilvers 1
 demultiplex 1
 demoniacal 1
 daeva
