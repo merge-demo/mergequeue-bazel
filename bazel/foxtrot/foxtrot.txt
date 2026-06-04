@@ -6433,7 +6433,7 @@ foreship
 frivoled 2
 frogeye 2
 fluoaluminate
-fainted
+fainted 1
 frictionable
 flatcap
 fairs
