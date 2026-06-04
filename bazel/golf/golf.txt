@@ -8646,7 +8646,7 @@ gests
 grizzliness 1
 groynes
 gapeseed 2
-gazetteership 1
+gazetteership 2
 greatness
 greave 1
 gapers 1
