@@ -6745,7 +6745,7 @@ accepters
 armyworm 1
 alliage
 abucco
-alt
+alt 1
 aftermarket 2
 arpeggio
 allomerize
