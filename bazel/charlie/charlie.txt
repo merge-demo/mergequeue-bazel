@@ -6702,7 +6702,7 @@ compound 1
 counterquestion 1
 coathangers 2
 colligation
-ceinture
+ceinture 1
 ceyx
 ceja 1
 clovery
