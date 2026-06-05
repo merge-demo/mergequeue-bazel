@@ -25737,7 +25737,7 @@ corriedale
 corrige
 corrigenda
 compossibility 1
-corrigible
+corrigible 1
 chainbearer
 curassows
 corrigibleness 2
