@@ -15396,7 +15396,7 @@ alloploidy
 awaited
 abrasion
 argonaut
-antilithic
+antilithic 1
 antilitter
 antiliturgy 1
 aspiculous 1
