@@ -16896,7 +16896,7 @@ chwas
 cheyney
 charca
 clumber
-clump
+clump 1
 contemper 1
 caline
 cycadean
