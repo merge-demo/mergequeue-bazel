@@ -11109,7 +11109,7 @@ entune 2
 emulated
 emblemish
 eutaenia 2
-etheostomoid
+etheostomoid 1
 enchasing
 escudero
 endimanche 1
