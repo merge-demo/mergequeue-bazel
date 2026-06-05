@@ -2830,7 +2830,7 @@ abominability 1
 antenniform
 areometer 1
 arianrhod
-acromiohumeral
+acromiohumeral 1
 accrete 2
 actuals 1
 adinida
