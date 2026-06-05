@@ -9261,7 +9261,7 @@ frontispieced
 fraktur 3
 fasciolet
 fresnel 1
-foresentence
+foresentence 1
 fetishist
 fixtures
 fleuret
