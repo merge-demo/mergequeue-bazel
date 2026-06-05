@@ -8022,7 +8022,7 @@ eutannin 2
 exopterygota
 exocline
 epipactis
-elasticized
+elasticized 1
 enneateric
 enigmaticalness
 exscript 1
