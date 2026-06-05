@@ -6639,7 +6639,7 @@ bergman 2
 bergs 2
 breastbone
 bordar 2
-boneshave
+boneshave 1
 bodegon 2
 beribanded
 birdy 1
