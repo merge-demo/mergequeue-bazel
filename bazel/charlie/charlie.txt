@@ -10958,7 +10958,7 @@ cryostase
 chalcioecus
 chironym
 caecum
-chironomid
+chironomid 1
 chastised 1
 chaparajos
 coinhabit
