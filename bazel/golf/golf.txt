@@ -5274,7 +5274,7 @@ genomes
 grouted 2
 garnets 2
 guitarfish
-gliadine 1
+gliadine 2
 galvanism 2
 geomedicine
 gymnogenous
