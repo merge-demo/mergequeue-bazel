@@ -9486,7 +9486,7 @@ gae 1
 glaciaria 2
 gonyaulax 3
 gernative
-graceful
+graceful 1
 ghylls 1
 guelphish 1
 grundlov 1
