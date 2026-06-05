@@ -10938,7 +10938,7 @@ brooms 1
 beadroll
 blinker 1
 balancewise
-bitterful
+bitterful 1
 barretors
 blowhards 1
 blustered
