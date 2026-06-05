@@ -1283,7 +1283,7 @@ burgomaster
 bari
 boldoine
 brahmism
-boteroll
+boteroll 1
 beknown
 betorcinol 2
 bradycinesia
