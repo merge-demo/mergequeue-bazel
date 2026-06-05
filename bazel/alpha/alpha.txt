@@ -2790,7 +2790,7 @@ adequateness
 acrogamous
 acrogen 1
 aspirated
-ashthroat
+ashthroat 1
 acrolein
 antianthropocentric 1
 antireactionary
