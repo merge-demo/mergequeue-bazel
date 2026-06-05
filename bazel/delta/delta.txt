@@ -16348,7 +16348,7 @@ daylight
 downslide 2
 describent
 downslip
-decibel
+decibel 1
 downslope
 disappendancy 1
 desmognathism
