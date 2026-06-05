@@ -8247,7 +8247,7 @@ fossulate 1
 foresweat
 fabraea 2
 fesse
-forgeable
+forgeable 1
 forgery
 forwaked
 families
