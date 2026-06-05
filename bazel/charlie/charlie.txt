@@ -11426,7 +11426,7 @@ choanephora 2
 cystopyelography
 choanocyte
 choanoflagellate
-cotta
+cotta 1
 choanophorous
 cataplasm
 choanosome
