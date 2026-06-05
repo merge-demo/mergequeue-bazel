@@ -7310,7 +7310,7 @@ commercer
 constitution
 conicity 1
 carnelians
-cryptolunatic
+cryptolunatic 1
 chloro
 caucasus
 crushes
