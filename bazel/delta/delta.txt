@@ -11348,7 +11348,7 @@ discerpible 3
 discerpibleness
 downfield
 distrainee
-discerption
+discerption 1
 difficulties 3
 diggers 1
 dischargeable
