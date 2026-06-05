@@ -4810,7 +4810,7 @@ gobiiform 1
 glucogenic
 glassware 2
 gravidly 3
-gainfulness
+gainfulness 1
 glaciered
 gages 3
 gonged
