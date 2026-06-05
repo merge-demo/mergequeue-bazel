@@ -9087,7 +9087,7 @@ eyrer 1
 equitangential
 expulse 2
 endoscopic
-exponential 2
+exponential 3
 equipollent
 epicolic
 euryalae
