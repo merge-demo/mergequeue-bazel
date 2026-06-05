@@ -5992,7 +5992,7 @@ durezza 1
 depsides
 disciplinability
 dilettantist
-discommoded
+discommoded 1
 dept
 diaschistic 1
 depth
