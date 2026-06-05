@@ -18284,7 +18284,7 @@ dunnakin
 detrains 2
 dioptrics
 dialyzability 2
-demijohn
+demijohn 1
 demiourgoi
 dingledangle 1
 disintegration 1
