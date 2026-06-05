@@ -8139,7 +8139,7 @@ coordain
 comrogue
 crepuscule
 chainless
-counteractions
+counteractions 1
 crosscheck
 chlortetracycline
 chumping
