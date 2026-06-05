@@ -5495,7 +5495,7 @@ gablet 1
 grande 2
 ganoids 2
 gimmer 1
-goods 1
+goods 2
 gentlemen 1
 goodyera 1
 goldilocks
