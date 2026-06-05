@@ -7968,7 +7968,7 @@ goniatitid
 gynecologic 1
 getups
 grippy
-glandiform
+glandiform 1
 grandiosity 1
 gudok 1
 gothonic
