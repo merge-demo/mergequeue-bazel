@@ -1106,7 +1106,7 @@ flatiron
 foretime 2
 farsightedness 1
 flooring
-forkedly
+forkedly 1
 faciocervical
 flatwoods 4
 foes
