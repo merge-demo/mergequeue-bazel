@@ -5950,7 +5950,7 @@ gutless 1
 gestapo 1
 grayness 2
 goss
-glumosity 2
+glumosity 3
 gondang
 gonopodia
 governante
