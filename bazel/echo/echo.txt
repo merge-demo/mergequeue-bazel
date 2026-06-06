@@ -559,7 +559,7 @@ exequial 2
 ethiopians 1
 eavesdropper 2
 equatorially
-excommunicatory
+excommunicatory 1
 encrimson
 echinomys
 entrained
