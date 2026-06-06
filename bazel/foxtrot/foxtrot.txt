@@ -4939,7 +4939,7 @@ fchar 3
 fluidised 1
 foining
 fluoresced
-forsooth 1
+forsooth 2
 foppishly 3
 fourteens 1
 flamen
