@@ -1347,7 +1347,7 @@ forwardation
 fatiferous
 feaster
 flavorfully
-florentine
+florentine 1
 fearfuller
 fatigable 1
 favorable
