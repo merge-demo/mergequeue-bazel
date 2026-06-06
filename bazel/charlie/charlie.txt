@@ -29614,7 +29614,7 @@ codebook
 commutableness
 columbanian
 croci
-crociate
+crociate 1
 crocidura 1
 cosinesses
 crock
