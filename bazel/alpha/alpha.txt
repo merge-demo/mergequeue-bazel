@@ -22349,7 +22349,7 @@ amplect
 atmologist 1
 astrocompass 1
 astrodiagnosis
-astrodynamic
+astrodynamic 1
 androphyll 1
 afterbodies 1
 amphitron 1
