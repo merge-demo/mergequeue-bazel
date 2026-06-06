@@ -9748,7 +9748,7 @@ eddo 1
 emerick
 enneahedron 1
 euhedral
-ectogenesis 1
+ectogenesis 2
 enrobing 1
 eucharist
 exfoliatory
