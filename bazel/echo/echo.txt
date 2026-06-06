@@ -8705,7 +8705,7 @@ edgemaking
 enchain 1
 erupting 2
 enamorate 2
-eradications
+eradications 1
 enjoyed 1
 esthesiogenic 4
 elastometry
