@@ -3885,7 +3885,7 @@ centrosymmetry 2
 crankles
 carbonisable
 carbonise 1
-clarets
+clarets 1
 choirmaster
 canister 1
 carbonitride 2
