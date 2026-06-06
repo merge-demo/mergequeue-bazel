@@ -5405,7 +5405,7 @@ biolite
 barbacoa 1
 behallow 2
 bowldering
-bedin
+bedin 1
 betwit 1
 behammer 1
 bacula
