@@ -7644,7 +7644,7 @@ bewry 1
 bankroller
 bullwhip
 bahar
-barranca
+barranca 1
 bairnteem
 bourgeoisitic 1
 balanidae
