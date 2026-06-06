@@ -13565,7 +13565,7 @@ exposedness
 energies 1
 ebeneous 1
 exsudate 2
-extumescence
+extumescence 1
 ectadenia
 egeria 1
 emulation
