@@ -30421,7 +30421,7 @@ cloche 1
 crut 1
 conservatories 1
 crutch
-crutched
+crutched 1
 crutching
 crutter
 cowhands
