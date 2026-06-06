@@ -7207,7 +7207,7 @@ centrifugence 1
 centrifuging
 coffeehousing
 centring
-centrings
+centrings 1
 clivia
 cavaedia
 centriole
