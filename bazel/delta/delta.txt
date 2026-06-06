@@ -10809,7 +10809,7 @@ directionalize 1
 directionally
 deckles
 dhan
-demoralizingly
+demoralizingly 1
 directly
 dijudicating
 directorate 2
