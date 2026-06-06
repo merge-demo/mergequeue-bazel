@@ -19333,7 +19333,7 @@ afield
 arere
 arerola 2
 arest
-aretaics
+aretaics 1
 arete 1
 automatist
 alkaliferous 1
