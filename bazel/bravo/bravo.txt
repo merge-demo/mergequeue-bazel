@@ -1013,7 +1013,7 @@ barmecidal
 balcony
 burnweed
 bail
-buxeous
+buxeous 1
 bringer 2
 barfs
 bailable
