@@ -1971,7 +1971,7 @@ acetoacetate
 alkyls
 alphabetiform
 absolutism
-amphidisk
+amphidisk 1
 acetometer
 acetometry
 accroachment
