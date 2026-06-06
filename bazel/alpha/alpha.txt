@@ -12008,7 +12008,7 @@ aftergrind
 antitradition 1
 astromancy
 anarchist 1
-anarchists
+anarchists 1
 anarcho
 antisophistry
 atrium 1
