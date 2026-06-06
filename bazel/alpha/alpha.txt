@@ -11688,7 +11688,7 @@ antiquist 2
 acrocentric
 anaerobion
 apocrisiary
-anaerobiont 1
+anaerobiont 2
 anaerobiosis 1
 anaerobiotic
 anaerobium 1
