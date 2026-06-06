@@ -10187,7 +10187,7 @@ famines
 fending
 foggages
 frazing
-faros
+faros 1
 flaskful
 frog 1
 filazer 1
