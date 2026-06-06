@@ -896,7 +896,7 @@ anabong
 audiometric 1
 apogeotropic 1
 archband 2
-aures
+aures 1
 absyrtus
 amylon
 absis
