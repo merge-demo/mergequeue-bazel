@@ -15504,7 +15504,7 @@ antipyretic 1
 avijja 1
 attntrp
 annullable
-armguard
+armguard 1
 antimystic
 antimystical 1
 antimystically
