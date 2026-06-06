@@ -12586,7 +12586,7 @@ diamantoid 1
 denominators 1
 disintegrator
 deifications
-disintegrators
+disintegrators 1
 dextrer
 disintegrity
 disinter
