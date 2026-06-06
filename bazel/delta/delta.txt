@@ -3397,7 +3397,7 @@ damnum
 ditremidae
 defleas 2
 downlinks 1
-deflect 1
+deflect 2
 dichotomic 1
 disinhuming
 darer
