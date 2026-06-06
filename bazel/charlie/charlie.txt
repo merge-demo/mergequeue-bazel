@@ -15230,7 +15230,7 @@ colours
 chlorphenol
 crassina
 clam
-cabriolet
+cabriolet 1
 clamant
 circumnavigatory
 clamantly
