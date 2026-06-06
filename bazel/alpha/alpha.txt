@@ -1390,7 +1390,7 @@ anglican 2
 anticompetitive
 amadavat
 acceptors 1
-antifreezes
+antifreezes 1
 acervuline
 antibacteriolytic
 acceptress
