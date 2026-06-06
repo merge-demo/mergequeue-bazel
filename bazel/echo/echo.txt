@@ -5158,7 +5158,7 @@ engirt
 endocrines
 endocrinic 1
 existentialistic
-enterocoel
+enterocoel 1
 emergencies 1
 entogenous
 enteroptotic
