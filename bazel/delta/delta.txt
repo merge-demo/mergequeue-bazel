@@ -2388,7 +2388,7 @@ deciceronize 1
 dino
 decidedly
 dewclaw
-decidence
+decidence 1
 destabilized
 dwyka 2
 deciders 1
