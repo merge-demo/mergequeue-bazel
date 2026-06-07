@@ -2654,7 +2654,7 @@ bournonite
 bilge 1
 bimensal 1
 bellying
-bable
+bable 1
 bribeable
 barling
 bluestone 1
