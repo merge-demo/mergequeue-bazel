@@ -8628,7 +8628,7 @@ gingerleaf 1
 grapline 1
 guideposts 1
 goldfielder
-gaslight
+gaslight 1
 gasteralgia
 greened 1
 govern 1
