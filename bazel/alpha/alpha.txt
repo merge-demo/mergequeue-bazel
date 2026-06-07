@@ -1260,7 +1260,7 @@ antemask
 androlepsia
 amay
 acarophobia 2
-acarotoxic
+acarotoxic 1
 arcturus 1
 aerognosy
 australopithecine
