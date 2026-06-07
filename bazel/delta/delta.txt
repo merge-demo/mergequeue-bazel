@@ -17107,7 +17107,7 @@ drawknot
 defectiveness 1
 deceleron
 decarchies
-drifty
+drifty 1
 driftingly
 driftless
 driftlessness 1
