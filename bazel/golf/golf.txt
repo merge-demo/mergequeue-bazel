@@ -7560,7 +7560,7 @@ gillotype
 gedeckt 2
 gelatiniferous 1
 grounded 1
-generability 1
+generability 2
 gypsywort 1
 grinagog 1
 gowked
