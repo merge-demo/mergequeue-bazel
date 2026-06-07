@@ -7036,7 +7036,7 @@ gomart
 gigameter
 gaudish 2
 gooseberry 1
-gimbaled
+gimbaled 1
 gramash
 greenweed 1
 glacially
