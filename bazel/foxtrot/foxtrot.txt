@@ -3328,7 +3328,7 @@ frustrates 2
 fioritura
 fairings 2
 fulgide
-feture
+feture 1
 flabbergastation
 flexility 3
 fracted 1
