@@ -135,7 +135,7 @@ deadcenter
 drumsticks 1
 drawbench
 deviascope 3
-dekko
+dekko 1
 dinar
 dyophone 1
 daddles
