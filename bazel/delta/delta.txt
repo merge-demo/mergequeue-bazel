@@ -7063,7 +7063,7 @@ dessus
 destabilization
 doolie 1
 difficultly 2
-destabilize 2
+destabilize 3
 ducting 1
 dothideacea
 desterilization 3
