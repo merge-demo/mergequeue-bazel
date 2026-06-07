@@ -17727,7 +17727,7 @@ bewinged
 beknit 1
 burnfire
 buckeens
-burnish
+burnish 1
 burnishable 1
 brachiorrhachidian 1
 burnisher 1
