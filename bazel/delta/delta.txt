@@ -15105,7 +15105,7 @@ dogmatizer
 dispensator
 discotheques
 darkeners 1
-dowdiness
+dowdiness 1
 doctorship 4
 dadaist
 dogmatize 1
