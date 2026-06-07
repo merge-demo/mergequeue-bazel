@@ -1313,7 +1313,7 @@ calibrates 1
 cloison
 catchwater
 calibrating
-calibre
+calibre 1
 chromatophilia
 causative
 cyanohydrin
