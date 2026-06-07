@@ -12292,7 +12292,7 @@ bombace
 behang 1
 bioscientist 3
 bombardiers
-bisulphite 1
+bisulphite 2
 bombarding
 benzyl 1
 bumblebomb 1
