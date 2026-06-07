@@ -4589,7 +4589,7 @@ bedazzle
 blared 1
 bylina
 banters
-bowsprit
+bowsprit 1
 bigaroons 2
 bilker
 baloskionaceae
