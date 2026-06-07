@@ -23488,7 +23488,7 @@ annotine
 augmentedly 2
 architraves
 augmenters 1
-augmentive
+augmentive 1
 augrim
 aggravator
 aphorizer
