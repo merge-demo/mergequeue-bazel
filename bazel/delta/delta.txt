@@ -14466,7 +14466,7 @@ dissolveability
 demoralization 1
 drabbet
 dawdler 1
-daemones
+daemones 1
 disproof
 divertisement
 dextrogyrous
