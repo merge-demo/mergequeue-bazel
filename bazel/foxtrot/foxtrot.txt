@@ -5549,7 +5549,7 @@ forestays
 favellae
 flexion 3
 foreclosable 2
-ferdiad
+ferdiad 1
 fleecer 3
 fatal 1
 foraminiferous 1
