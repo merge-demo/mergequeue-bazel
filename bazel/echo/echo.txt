@@ -5357,7 +5357,7 @@ exsertion 1
 endospore 1
 evidentness 1
 encharm 2
-epiphyte 1
+epiphyte 2
 epituberculous
 exasperation
 endosteoma 1
