@@ -2252,7 +2252,7 @@ elections 1
 elevatory
 exocolitis
 effluve
-endoplasma
+endoplasma 1
 elector
 exhume 5
 elks
