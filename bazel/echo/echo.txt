@@ -10642,7 +10642,7 @@ endozoa 2
 eques 1
 enchilada 2
 eudemonistic 1
-eudemonics
+eudemonics 1
 equivalencies
 epinephrine 2
 empurpling
