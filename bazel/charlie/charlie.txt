@@ -12394,7 +12394,7 @@ couch 1
 cobalticyanic
 chromatoscopy
 circumduct
-chromatosis
+chromatosis 1
 chromaturia
 calciphilic
 chromazurine
