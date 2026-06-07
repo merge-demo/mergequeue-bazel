@@ -12961,7 +12961,7 @@ expectantly 1
 expectation
 emictory 1
 exodoi 2
-exclusion
+exclusion 1
 equipartile
 epicyclical
 excommunicated
