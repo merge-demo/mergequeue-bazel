@@ -9387,7 +9387,7 @@ diffract
 defense
 diffractively 1
 deruralize
-doubleted
+doubleted 1
 diffractiveness 3
 dist
 diffranchise
