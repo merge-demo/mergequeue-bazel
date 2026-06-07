@@ -18931,7 +18931,7 @@ conceding
 collaret
 counterbracing
 collarette
-carnifices
+carnifices 1
 clypeaster
 carpuspi
 coupelet
