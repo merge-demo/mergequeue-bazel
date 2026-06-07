@@ -3521,7 +3521,7 @@ deformable
 darkey 1
 deformation
 deflections 1
-delete
+delete 1
 deformations 1
 deformedly
 dandily 1
