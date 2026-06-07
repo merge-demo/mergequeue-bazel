@@ -10054,7 +10054,7 @@ entamoebiasis 1
 epopoeist 2
 etceteras
 ethanediol
-erianthus
+erianthus 1
 ethanedithiol
 enthalpy 1
 epicoeloma
