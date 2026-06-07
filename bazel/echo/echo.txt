@@ -14135,7 +14135,7 @@ ephemerality 2
 enseraph
 enplanement
 emulates 1
-enlard
+enlard 1
 entocuneiform
 excussion
 endearment 1
