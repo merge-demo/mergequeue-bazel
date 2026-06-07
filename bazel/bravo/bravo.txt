@@ -14353,7 +14353,7 @@ burstones
 bizone
 braidist
 braids
-bellyer
+bellyer 1
 bifidly
 brayera
 brayerin 1
