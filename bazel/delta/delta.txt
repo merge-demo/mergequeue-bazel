@@ -6453,7 +6453,7 @@ drugshop
 danseusse 1
 desagrement
 demitone
-deplumation
+deplumation 1
 dictatrix
 deodara 2
 digitization 1
