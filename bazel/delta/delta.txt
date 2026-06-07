@@ -3677,7 +3677,7 @@ degradative
 degraded 1
 degradement 1
 dozing
-depsid
+depsid 1
 disrupt
 decimalisation
 discalced 3
