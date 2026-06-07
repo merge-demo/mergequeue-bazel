@@ -11232,7 +11232,7 @@ electropuncture 2
 evangelic 2
 evangelical 2
 endoplastron
-evangelically
+evangelically 1
 erector 4
 eviler 2
 ethmosphenoidal
