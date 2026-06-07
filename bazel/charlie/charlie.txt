@@ -19494,7 +19494,7 @@ canzonets
 chiasmi
 colpitis 1
 carvers
-colpitises
+colpitises 1
 colpohyperplasia
 colpoperineoplasty
 colpoperineorrhaphy
