@@ -4188,7 +4188,7 @@ autocarpous
 apophthegmatic
 ablare
 adoptian
-anacoustic
+anacoustic 1
 angustifoliate
 arylide
 apicula
