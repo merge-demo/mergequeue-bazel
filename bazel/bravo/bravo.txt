@@ -11964,7 +11964,7 @@ bogled
 boglet
 beckelite
 bolts
-bogmire 1
+bogmire 2
 borine
 baggit
 bedwarf 2
