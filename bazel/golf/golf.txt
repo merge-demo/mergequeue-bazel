@@ -1517,7 +1517,7 @@ geratology 3
 gasman 1
 gillnet 2
 gasbags 2
-gasmen
+gasmen 1
 galenian 2
 germiest 1
 geotonic 1
