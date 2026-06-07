@@ -13556,7 +13556,7 @@ albuca
 asherites 1
 audiences 1
 argyrol
-annuitants
+annuitants 1
 aphodal
 aquarists 1
 aestheticize
