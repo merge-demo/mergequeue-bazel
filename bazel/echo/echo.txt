@@ -6900,7 +6900,7 @@ entomosporium
 ethically 1
 ellipsoidal 2
 endangered
-electrum
+electrum 1
 etiquettes
 endamageable
 epispore
