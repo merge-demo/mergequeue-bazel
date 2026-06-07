@@ -10914,7 +10914,7 @@ foilable
 fiscalizing 1
 fullonian
 ferrying 1
-franticness
+franticness 1
 fidgeters 1
 filtration 1
 forlay 4
