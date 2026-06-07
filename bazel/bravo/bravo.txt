@@ -4626,7 +4626,7 @@ bedecked
 bedrid 1
 bedecking 2
 beholdingness
-bulletproofed
+bulletproofed 1
 broadens 1
 bedehouse
 broadenings 1
