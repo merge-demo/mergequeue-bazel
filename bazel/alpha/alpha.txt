@@ -6093,7 +6093,7 @@ axumite
 availment 1
 apogeny
 agitatorial
-aromaticness
+aromaticness 1
 astrosphere
 albuminoidal 1
 antifeudalism
