@@ -6013,7 +6013,7 @@ archt
 actinomycetal 1
 aggroupment
 aghan
-aghas
+aghas 1
 aghori 1
 affecters
 allottee
