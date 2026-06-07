@@ -7200,7 +7200,7 @@ centrifugalize 1
 catawba
 clamors
 centrifugaller
-cladoceran
+cladoceran 1
 centrifugate 1
 centrifuge 1
 centrifugence 1
