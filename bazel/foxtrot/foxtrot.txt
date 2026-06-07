@@ -10992,7 +10992,7 @@ frostiest 1
 flintiest
 foreproffer
 foreweep 2
-fatlike
+fatlike 1
 furfurol
 fumblers 1
 feign 2
