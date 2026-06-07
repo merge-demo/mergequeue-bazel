@@ -11864,7 +11864,7 @@ excave 1
 eructated 2
 extancy
 elutes
-exceeded
+exceeded 1
 endosperm 2
 excelente 1
 evanescent
