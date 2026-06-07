@@ -24820,7 +24820,7 @@ crosiers
 conductivity 1
 coquitlam
 cor
-corabecan
+corabecan 1
 closkey
 complications
 corach
