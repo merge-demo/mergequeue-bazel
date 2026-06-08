@@ -5898,7 +5898,7 @@ belongs
 bicameral 1
 bugdom
 banderillero
-belonidae
+belonidae 1
 bullions
 beprose
 blisses
