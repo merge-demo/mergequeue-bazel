@@ -5487,7 +5487,7 @@ forbids 1
 formes 1
 filchers 1
 feculae
-floey 1
+floey 2
 fenderless 2
 fricassee 1
 friezy 1
