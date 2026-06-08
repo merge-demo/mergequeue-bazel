@@ -10538,7 +10538,7 @@ ephthalite 1
 empaper
 enswathed
 eucharists
-epimeral
+epimeral 1
 entrymen
 eucharitidae 1
 expenses 2
