@@ -4734,7 +4734,7 @@ deprivals
 demob 2
 devi 2
 disremember 1
-demobilising
+demobilising 1
 democracy
 diploneural
 diethylaminoethanol 3
