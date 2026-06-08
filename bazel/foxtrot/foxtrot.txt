@@ -4132,7 +4132,7 @@ foreseen 2
 falsehoods
 fornenst
 faff 2
-fontanel
+fontanel 1
 flywheel 2
 fersmite 1
 fratriage
