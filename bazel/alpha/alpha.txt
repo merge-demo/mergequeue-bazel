@@ -8261,7 +8261,7 @@ autogauge 1
 alienage 3
 alienated
 alienation
-allactite
+allactite 1
 alchemized
 aliene
 auctors
