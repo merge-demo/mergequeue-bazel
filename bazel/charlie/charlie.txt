@@ -20501,7 +20501,7 @@ coinhere 1
 compassivity
 cwrite 1
 compatibility
-compatibilities
+compatibilities 1
 cainism
 condors
 compatible
