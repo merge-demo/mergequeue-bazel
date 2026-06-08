@@ -8959,7 +8959,7 @@ eclairissement 1
 ectotherm 2
 expropriation 2
 eryngos 1
-elasmotherium
+elasmotherium 1
 edgers 1
 europeanly 1
 essex 3
