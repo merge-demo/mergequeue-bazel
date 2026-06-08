@@ -2221,7 +2221,7 @@ capotes
 campshed
 campsheeting 1
 campsite 2
-compasser 1
+compasser 2
 campsites 2
 coronofacial
 cretinizing
