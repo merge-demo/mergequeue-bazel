@@ -2033,7 +2033,7 @@ feigns 3
 fidleys 1
 flitch
 farouche
-frogmouth
+frogmouth 1
 fourpounder 1
 ferngrower
 frontspiece
