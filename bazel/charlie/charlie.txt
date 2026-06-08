@@ -28437,7 +28437,7 @@ cutpurses
 cotarnine 1
 chiefling 1
 creams 1
-cindery
+cindery 1
 creance 1
 chabot
 creancer
