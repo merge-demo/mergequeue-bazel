@@ -19488,7 +19488,7 @@ colourless 1
 ceruleum
 colourman
 colpenchyma
-closet
+closet 1
 colpindach 1
 canzonets
 chiasmi
