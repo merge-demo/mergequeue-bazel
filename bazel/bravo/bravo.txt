@@ -4602,7 +4602,7 @@ baptise
 bedbugs 1
 boden
 bedtick
-bedchair 3
+bedchair 4
 butterine 1
 bedchairs
 buffers 1
