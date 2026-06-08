@@ -6419,7 +6419,7 @@ forescene 1
 fairm
 filiety 1
 flaggier 2
-foliates
+foliates 1
 fireflower 1
 fetialis
 flibbertigibbet
