@@ -19042,7 +19042,7 @@ ammocoete
 archoverseer
 archpall
 anana 1
-archphilosopher
+archphilosopher 1
 announcer
 archpilferer
 adornment
