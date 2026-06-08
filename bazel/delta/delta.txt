@@ -17552,7 +17552,7 @@ drumlinoid
 decelerated 2
 dactylate
 diatomous
-dactyls
+dactyls 1
 drumlins 1
 dorsiferous 2
 diciest
