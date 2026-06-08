@@ -5902,7 +5902,7 @@ catesbaea
 catfaced
 constructable 1
 chivy
-catfacing
+catfacing 1
 catfall
 catfalls
 catfight
