@@ -6022,7 +6022,7 @@ fourierist 1
 flitchplate
 foreheater
 floral
-floralize
+floralize 1
 floras 2
 furnaced
 focusless
