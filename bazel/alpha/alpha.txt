@@ -15801,7 +15801,7 @@ ands 1
 antiphysicalness
 appropriament
 alkane
-acenesthesia
+acenesthesia 1
 agujon
 asport
 antiphona
