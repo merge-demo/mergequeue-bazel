@@ -3518,7 +3518,7 @@ distomum
 demographical
 delvers 2
 deformable
-darkey 1
+darkey 2
 deformation
 deflections 1
 delete 1
