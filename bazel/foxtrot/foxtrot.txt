@@ -2291,7 +2291,7 @@ foambow
 filicales
 formulable 1
 flotation
-foreface
+foreface 1
 fistulizing 1
 flagelliferous 1
 fenestrae 1
