@@ -21846,7 +21846,7 @@ amebas 1
 assigns 2
 assilag
 amiced
-abusious
+abusious 1
 assimilates
 assimilating
 andoroba
