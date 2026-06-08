@@ -16365,7 +16365,7 @@ downstrokes
 downtake
 duodecane
 dewret
-downthrown
+downthrown 1
 denaturation 1
 douppioni 1
 delayage 1
