@@ -14336,7 +14336,7 @@ borehole 2
 bumf
 baits
 brahmin 1
-behowl
+behowl 1
 boxkeeper 1
 burnable
 brahminists 1
