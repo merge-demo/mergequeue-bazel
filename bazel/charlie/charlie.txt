@@ -16404,7 +16404,7 @@ cliv 2
 cliver
 clivers 1
 clivis
-clivus
+clivus 1
 clk
 clo 1
 cloaca 2
