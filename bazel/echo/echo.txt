@@ -8593,7 +8593,7 @@ equidimensional 2
 equidist 1
 exrx
 essancias 1
-endophytically
+endophytically 1
 eyebolts
 eumerogenesis 1
 endocarp
