@@ -2852,7 +2852,7 @@ canonising
 canonist
 canonistical 1
 canonized
-catapult
+catapult 1
 carboxyhemoglobin
 cetorhinoid
 canonizer
