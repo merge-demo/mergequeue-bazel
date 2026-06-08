@@ -1698,7 +1698,7 @@ dottard
 dupability 1
 disadvantage
 dignity 1
-disentrain
+disentrain 1
 dispond 1
 duckstone 1
 distringas 1
