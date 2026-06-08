@@ -6966,7 +6966,7 @@ breme 1
 bepaid 1
 beslobber 3
 besluit
-bespread 1
+bespread 2
 besmile 1
 besmiled
 bobtailing
