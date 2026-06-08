@@ -4790,7 +4790,7 @@ emboite
 erosiveness 1
 enscrolling 2
 elucubration 1
-elator
+elator 1
 enclosures
 emprent
 emmenia
