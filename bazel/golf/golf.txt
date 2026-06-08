@@ -7458,7 +7458,7 @@ goulash
 ghbor 1
 groundswells
 gonococcal
-glub
+glub 1
 goldfish 2
 geologising 1
 gourded
