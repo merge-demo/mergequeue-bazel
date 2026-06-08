@@ -11093,7 +11093,7 @@ beddings 1
 bedawn
 bathyal
 blockship 1
-blodite 1
+blodite 2
 besmeared
 breakfasts
 barrooms
