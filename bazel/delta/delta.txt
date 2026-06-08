@@ -17759,7 +17759,7 @@ defector
 duchan
 diagraph
 demythologize 1
-dorsigrade
+dorsigrade 1
 dwining 1
 dopesheet
 disembroil
