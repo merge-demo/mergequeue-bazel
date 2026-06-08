@@ -9744,7 +9744,7 @@ bossies 2
 burdocks 3
 basifugal
 buffered
-bistipulate
+bistipulate 1
 bistort 1
 bedarkened 1
 bistorts 1
