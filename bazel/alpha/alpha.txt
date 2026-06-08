@@ -15711,7 +15711,7 @@ arylamine
 ablet 1
 annection
 admen
-antimetathesis
+antimetathesis 1
 antheridiophore
 antiparliamental
 axons
