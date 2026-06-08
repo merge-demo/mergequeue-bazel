@@ -138,7 +138,7 @@ freemasonry 1
 frill 4
 fumiferous 1
 flashforwards 2
-flagellist
+flagellist 1
 feedhead 1
 fibre 1
 fossiled 1
