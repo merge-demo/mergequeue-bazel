@@ -11419,7 +11419,7 @@ dermorhynchous
 disclimax 1
 dialogite
 drossing 2
-dastardy
+dastardy 1
 dockyard 1
 dissuader 2
 demivotary
