@@ -10856,7 +10856,7 @@ dirgelike
 dirgeman
 debts 2
 dirgy
-doggedly
+doggedly 1
 dhooley 1
 dirian
 dirichletian 2
