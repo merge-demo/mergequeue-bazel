@@ -9815,7 +9815,7 @@ empiric 2
 enucleating 1
 evolving
 estampede
-estang
+estang 1
 ethnographist
 extincteur
 econometrician 1
