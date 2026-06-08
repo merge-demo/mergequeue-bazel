@@ -6084,7 +6084,7 @@ gypsography 1
 gph
 gnats 2
 glutaeous
-gorbit
+gorbit 1
 guttie 2
 gibbled 1
 grisset
