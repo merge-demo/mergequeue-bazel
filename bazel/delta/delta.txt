@@ -2411,7 +2411,7 @@ decylic
 dorsiparous 1
 deciliter 1
 druidry
-destituent
+destituent 1
 doodads
 dispelled
 donny 1
