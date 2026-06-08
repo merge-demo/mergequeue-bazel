@@ -137,7 +137,7 @@ excellency 1
 epoxidize 1
 evaporativity 1
 economizes
-extravasating 2
+extravasating 3
 elon 1
 enchasten 2
 epiphysial 1
