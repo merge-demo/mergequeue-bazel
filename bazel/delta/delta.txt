@@ -5700,7 +5700,7 @@ desterilized
 dialysed
 disposit
 deplenish
-dialup 1
+dialup 2
 depleteable
 decapodan 1
 ducape
