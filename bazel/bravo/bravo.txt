@@ -1801,7 +1801,7 @@ bluegum 2
 benzyls 2
 bridgewall
 bananivorous
-banatite
+banatite 1
 becharm 2
 blackjacking 1
 billycans 2
