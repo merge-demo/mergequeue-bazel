@@ -2667,7 +2667,7 @@ dasylirion 1
 doorkeeper
 decompiler
 decomposable
-diceman
+diceman 1
 deviceful
 decomposer 2
 debrief 1
