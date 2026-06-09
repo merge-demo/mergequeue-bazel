@@ -9907,7 +9907,7 @@ eprosy 3
 exhaustively 1
 emmensite 1
 earthnuts 2
-elaterium
+elaterium 1
 enterritoriality
 ephedrin
 executes 1
