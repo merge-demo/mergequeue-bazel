@@ -12136,7 +12136,7 @@ acedia
 anatomicopathologic 2
 arteriofibrosis
 anatomiser
-adulterates
+adulterates 1
 anatomize 1
 anopsy
 anatomizer 1
