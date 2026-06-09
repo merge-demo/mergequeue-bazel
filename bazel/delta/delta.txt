@@ -2561,7 +2561,7 @@ diachrony 2
 declassifies
 diplophonic 1
 disequality
-dematerialize 1
+dematerialize 2
 discus
 dorsocephalic 1
 distiller 1
