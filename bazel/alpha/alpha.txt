@@ -3168,7 +3168,7 @@ active 1
 academising 1
 aweather
 ahungered
-apostrophized
+apostrophized 1
 actives 1
 activin 1
 activism 1
