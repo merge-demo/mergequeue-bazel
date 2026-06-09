@@ -8142,7 +8142,7 @@ glowflies 2
 granulators
 gripper 1
 gynaecocracy
-guanidins
+guanidins 1
 gabblers 1
 gnatsnap 2
 goatling 1
