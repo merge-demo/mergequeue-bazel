@@ -15465,7 +15465,7 @@ dopehead 1
 demonstratory
 dope 2
 divinities
-dompteuse
+dompteuse 1
 doms
 derve
 don
