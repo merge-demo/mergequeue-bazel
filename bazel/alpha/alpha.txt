@@ -11737,7 +11737,7 @@ acnodes 1
 anagogic
 ambar
 aventayle
-apposes
+apposes 1
 advecting
 anagrammatically
 atmocausis
