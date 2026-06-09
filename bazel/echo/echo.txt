@@ -2685,7 +2685,7 @@ earhead 2
 emborder 2
 electrotechnician 2
 exports
-eogaean
+eogaean 1
 enfant
 extendibility
 eudaemonics 2
