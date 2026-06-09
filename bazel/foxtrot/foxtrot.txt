@@ -3970,7 +3970,7 @@ frightfulness 1
 foreshown 1
 funneled
 farcical
-follyproof
+follyproof 1
 fossil 1
 footsteps 1
 founders
