@@ -14896,7 +14896,7 @@ abnormality 1
 ateleological 1
 antliate
 angeles
-anticyclically
+anticyclically 1
 anticity
 anticytolysin 1
 almsgiving
