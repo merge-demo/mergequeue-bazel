@@ -10113,7 +10113,7 @@ chevage
 careened 1
 columnwise
 cheval 1
-chevalet 1
+chevalet 2
 chevalets
 chevalier
 centeredness
