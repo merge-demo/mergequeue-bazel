@@ -6309,7 +6309,7 @@ beedom
 backswept
 benzalethylamine 1
 benzalphenylhydrazone
-beaconwise 2
+beaconwise 3
 benzamide
 benzoxate
 badgerbrush 2
