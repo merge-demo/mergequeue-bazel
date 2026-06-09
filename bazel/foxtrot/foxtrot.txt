@@ -6118,7 +6118,7 @@ fenster 1
 flounce 2
 felsobanyite
 floccilation 1
-flounced
+flounced 1
 flounder 1
 frowardness 1
 faraway
