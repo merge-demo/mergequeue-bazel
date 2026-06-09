@@ -10502,7 +10502,7 @@ amidide
 acoelous 2
 adscript 1
 amidins
-arret
+arret 1
 amidism
 acridid
 armenians
