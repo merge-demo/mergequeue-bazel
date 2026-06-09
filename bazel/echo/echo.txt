@@ -10156,7 +10156,7 @@ elaborators 1
 exsomatic 1
 edgier
 emmove 4
-earlyish
+earlyish 1
 exhausts 1
 encroaching
 embroideress 2
