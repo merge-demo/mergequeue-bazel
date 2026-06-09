@@ -10780,7 +10780,7 @@ films 1
 freehandedness
 flagstaffs 1
 fth 1
-feuars
+feuars 1
 footsoldiers 1
 fudge
 fanned
