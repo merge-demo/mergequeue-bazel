@@ -2143,7 +2143,7 @@ campers
 chiloma
 coadjacence
 campesinos
-campestral
+campestral 1
 campground 1
 consarcinate
 camphane 1
