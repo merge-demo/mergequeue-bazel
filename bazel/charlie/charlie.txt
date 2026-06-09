@@ -25272,7 +25272,7 @@ chiromant
 corkline
 calendars 1
 corks 1
-corkscrew
+corkscrew 1
 cosmologists
 cyanotrichite 1
 cacophonize 1
