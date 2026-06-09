@@ -1542,7 +1542,7 @@ diphygenic
 deactivate 4
 discoglossid
 distractedly
-dallies
+dallies 1
 dicacodyl 1
 dartman
 deactivates 2
