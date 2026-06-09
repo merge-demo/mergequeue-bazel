@@ -3263,7 +3263,7 @@ deferrable 1
 deferrer
 deferrize
 disturbative 1
-densen
+densen 1
 deferrized 2
 disauthenticate
 dentilingual
