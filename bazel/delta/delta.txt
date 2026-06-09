@@ -4590,7 +4590,7 @@ discharging 1
 dustlike
 dolichocrany 2
 desperance
-depths
+depths 1
 disusing 1
 detected
 digitigrade
