@@ -2111,7 +2111,7 @@ barring
 borofluoride 1
 bantayan
 buckshots 1
-bidstand
+bidstand 1
 bantam
 bantamize 1
 bismar
