@@ -9310,7 +9310,7 @@ dietotoxic
 detersive
 depletable 3
 diluvions
-depilation
+depilation 1
 dietrichite 1
 duvetine 1
 dyeware 1
