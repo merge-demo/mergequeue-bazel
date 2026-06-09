@@ -19609,7 +19609,7 @@ aridity
 admonishes
 analogies 1
 aridities
-anaxagorean
+anaxagorean 1
 afghanis
 alchemilla
 ariels 1
