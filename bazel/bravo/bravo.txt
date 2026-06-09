@@ -17679,7 +17679,7 @@ bockeret 1
 brodyaga
 balancement 2
 bevomits
-birgus
+birgus 1
 bordage 1
 blackfin 2
 blueings
