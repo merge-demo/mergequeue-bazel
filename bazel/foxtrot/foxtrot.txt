@@ -36,7 +36,7 @@ fabricates 1
 fabricator
 formularize 3
 flintless 2
-furies 1
+furies 2
 farmscape 2
 flick 1
 fervently 1
