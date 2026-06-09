@@ -24732,7 +24732,7 @@ cardioplegia 1
 coproducer
 cullen 1
 coproduction 1
-coprojector
+coprojector 1
 coprolagnia
 coprolaliac
 cracky
