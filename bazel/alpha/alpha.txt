@@ -5566,7 +5566,7 @@ auburns 1
 antifreezing 1
 afterpast
 afflux 1
-afterplanting
+afterplanting 1
 absinthium
 acknew
 afterreckoning
