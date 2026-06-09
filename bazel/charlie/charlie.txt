@@ -9329,7 +9329,7 @@ chaunoprockt 1
 childlikeness 1
 chartometer
 chaunted
-chaunter
+chaunter 1
 capillaritis
 chaunts
 catamarans
