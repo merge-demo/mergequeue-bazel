@@ -4799,7 +4799,7 @@ eguttulate
 enterotomy 1
 epiopticon
 excusatory 2
-endocarpic
+endocarpic 1
 encode 3
 exitance 1
 ensnarements 1
