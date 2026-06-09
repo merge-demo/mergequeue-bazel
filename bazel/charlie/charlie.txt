@@ -12350,7 +12350,7 @@ caucasoids
 chromatype 1
 chromatist
 chemotic 2
-coracohyoid
+coracohyoid 1
 cholent
 crack
 chloroanaemia
