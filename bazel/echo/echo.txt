@@ -5124,7 +5124,7 @@ extraditions 1
 eclogites 2
 eardrums
 exited 1
-endoclinal
+endoclinal 1
 eternals
 endocoelar
 eupanorthidae 2
