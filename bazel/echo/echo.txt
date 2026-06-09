@@ -929,7 +929,7 @@ eyelashes
 ectromelus 3
 efreet 2
 ensisternal
-equipping
+equipping 1
 endowments 2
 endorsements 2
 electrophoretic 4
