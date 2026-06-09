@@ -8225,7 +8225,7 @@ berthage 1
 byestreet
 biformity
 bifront
-bavarian
+bavarian 1
 bhavani 2
 brainfag
 bifurcated
