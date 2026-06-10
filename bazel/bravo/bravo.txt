@@ -14005,7 +14005,7 @@ brace 1
 bruke 1
 bipyridine
 bemouth 2
-buy
+buy 1
 bracelet
 bracer
 barrelfuls
