@@ -263,7 +263,7 @@ glaires 1
 gizmo 2
 glyph 1
 gumminess
-grapta
+grapta 1
 graziery
 geoplagiotropism
 grenada 1
