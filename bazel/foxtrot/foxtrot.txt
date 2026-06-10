@@ -5920,7 +5920,7 @@ folliculosis
 forjesket 1
 frostbites
 flogs
-fermis
+fermis 1
 foeticidal
 fluviovolcanic 1
 flybane
