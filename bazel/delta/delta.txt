@@ -17103,7 +17103,7 @@ duller 1
 disgown
 debouching 2
 divestiture
-drawknot
+drawknot 1
 defectiveness 1
 deceleron
 decarchies
