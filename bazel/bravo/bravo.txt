@@ -10362,7 +10362,7 @@ ballist
 brays
 blanched 3
 blanches
-buntlines
+buntlines 1
 brawlingly 2
 besnows 1
 blancmanges 1
