@@ -9535,7 +9535,7 @@ guar 1
 grs
 gristliness 1
 guacico
-griminess 2
+griminess 3
 groundkeeper 1
 glidder
 grumbler 2
