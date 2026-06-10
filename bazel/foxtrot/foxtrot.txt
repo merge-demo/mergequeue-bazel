@@ -3034,7 +3034,7 @@ floodage 2
 flogster 2
 fioriture 3
 fairyology 1
-firemanship
+firemanship 1
 feoffers
 footwears 1
 frostflower 3
