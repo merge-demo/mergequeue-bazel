@@ -4463,7 +4463,7 @@ generics
 giocoso 3
 gip
 gpd 4
-gleba
+gleba 1
 gladiatorship
 galloman 1
 gaultherine
