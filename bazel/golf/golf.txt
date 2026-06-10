@@ -892,7 +892,7 @@ gametocyst
 glycoluril 1
 gametocyte 2
 grayout 3
-gametogenic
+gametogenic 1
 gooseflesh 3
 gueparde 3
 glutathione 1

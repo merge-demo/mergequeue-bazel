@@ -26773,7 +26773,7 @@ conversant
 counterdance 1
 counterdeclaration
 cucumis
-counterdemonstrate
+counterdemonstrate 1
 counterdeputation
 counterdesire 1
 counterdevelopment 1
