@@ -9061,7 +9061,7 @@ charms 1
 charneco
 charnockite
 covarecan
-charnockites
+charnockites 1
 charnu 1
 conglomeratic
 ceratostomella
