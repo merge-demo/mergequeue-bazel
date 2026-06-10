@@ -966,7 +966,7 @@ gunshot 1
 glist 2
 genomic 1
 gamostele
-gallinule
+gallinule 1
 glottogony
 genetically 1
 gamp
