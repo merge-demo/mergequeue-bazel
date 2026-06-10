@@ -11960,7 +11960,7 @@ decrease
 deutovum
 disembitter 3
 diplanetic
-disembocation
+disembocation 1
 domicils
 diesels
 disembodiment
