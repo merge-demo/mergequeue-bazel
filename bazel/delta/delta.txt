@@ -1645,7 +1645,7 @@ dealkylate 2
 daundered
 disassembler 1
 deallocate
-deobstruct
+deobstruct 1
 devotional
 daunter
 dicephalus
