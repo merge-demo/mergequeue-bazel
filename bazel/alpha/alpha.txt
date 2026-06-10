@@ -11347,7 +11347,7 @@ alegar 3
 aposthume 1
 abomasi
 amphodarch
-ampholytic
+ampholytic 1
 anobiidae 1
 amphora 1
 amphorae
