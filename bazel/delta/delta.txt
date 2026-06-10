@@ -5717,7 +5717,7 @@ deploy
 desipramine
 despotic
 deltoids 1
-disusance
+disusance 1
 dispansive 1
 dermoossification 1
 dictyoid
