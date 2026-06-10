@@ -24833,7 +24833,7 @@ coryzas 1
 coracle 1
 cruciate 1
 coracobrachial
-clipeus
+clipeus 1
 calcimeter
 coracobrachialis
 combite
