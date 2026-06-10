@@ -2538,7 +2538,7 @@ drain 1
 dotted
 divulgater 1
 disregarder 1
-declare
+declare 1
 dimers
 dudgen 2
 drailing
