@@ -5048,7 +5048,7 @@ endings 2
 elapsing 2
 emplace 1
 elaeomargaric 3
-enrolled
+enrolled 1
 eclairs 1
 econometer 2
 entreasure 2
