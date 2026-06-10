@@ -14471,7 +14471,7 @@ brakemaker 1
 brakeman
 builtin
 baby
-brakeroot
+brakeroot 1
 braky
 boatyards 1
 bakunda
