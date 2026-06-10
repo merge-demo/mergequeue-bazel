@@ -1812,7 +1812,7 @@ gastrostenosis 1
 gatehouses 1
 grueler 1
 gastrotomic
-gulsach
+gulsach 1
 glycine 1
 gastrocolostomy 1
 geodesia 2
