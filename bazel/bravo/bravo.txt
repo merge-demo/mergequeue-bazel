@@ -5847,7 +5847,7 @@ biunique
 biogenetical
 balopticon
 bellmaking 1
-banquo
+banquo 1
 bachel
 buckbrush 2
 baronship
