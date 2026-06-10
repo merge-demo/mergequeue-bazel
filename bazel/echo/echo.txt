@@ -7658,7 +7658,7 @@ elapse 1
 eoliths 1
 enterohelcosis 1
 epiparodos 1
-epicortical
+epicortical 1
 enterostomy
 esere 1
 educed
