@@ -8234,7 +8234,7 @@ dissectors 2
 dulcor
 diorism
 diadochic 1
-diadochite
+diadochite 1
 diadochokinesia
 diadoumenos 1
 dowly
