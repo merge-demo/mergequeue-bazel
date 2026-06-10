@@ -11668,7 +11668,7 @@ cryogen
 criniger
 chollas
 choller
-chameleonize
+chameleonize 1
 claries 2
 corruptness
 cholo 1
