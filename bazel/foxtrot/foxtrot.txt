@@ -11700,7 +11700,7 @@ flagellums 1
 filets 2
 fracas 3
 fas
-friarhood
+friarhood 1
 far 1
 foretellableness 1
 flugelhorn 1
