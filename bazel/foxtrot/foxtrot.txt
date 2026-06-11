@@ -5348,7 +5348,7 @@ fleabags 1
 federalization 2
 fireclay
 fluorites
-feoffee
+feoffee 1
 fleadock 1
 fleahopper
 fructuously
