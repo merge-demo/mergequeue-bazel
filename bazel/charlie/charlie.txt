@@ -3021,7 +3021,7 @@ cantoning
 cantonize
 colectomy
 countergager 1
-cantoral
+cantoral 1
 cantoria
 cardsharps
 calabooses
