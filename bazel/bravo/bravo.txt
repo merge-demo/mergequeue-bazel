@@ -11627,7 +11627,7 @@ boatage 1
 bacterioscopical 1
 barspoon 2
 boatbuilding
-boathook
+boathook 1
 boathouse
 backbends
 boffos 2
