@@ -3145,7 +3145,7 @@ georgics
 glycosyl 1
 gnathal
 gnathobasic
-gnast 1
+gnast 2
 galumphing 3
 garial
 grangousier
