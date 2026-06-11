@@ -781,7 +781,7 @@ dandled
 dopaoxidase 1
 dandler
 dandlers
-defs
+defs 1
 dispurpose 1
 drawn
 devolatilize
