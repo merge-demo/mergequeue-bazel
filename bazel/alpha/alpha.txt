@@ -7921,7 +7921,7 @@ arylamino 1
 alnus
 apogamy
 alembicated
-antetype
+antetype 1
 alemmal
 aeolia
 acidoproteolytic
