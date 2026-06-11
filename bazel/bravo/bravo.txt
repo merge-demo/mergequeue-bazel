@@ -17644,7 +17644,7 @@ basipterygoid 1
 breadless
 bino
 buriers 2
-bogginess
+bogginess 1
 bellovaci
 boff
 blockish
