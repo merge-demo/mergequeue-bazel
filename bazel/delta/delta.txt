@@ -9717,7 +9717,7 @@ dodecahedron 1
 distillations 3
 durometer 2
 duffles
-depositee
+depositee 1
 decenary
 dilatatory
 dehydromucic 2
