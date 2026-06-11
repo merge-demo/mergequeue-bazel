@@ -28761,7 +28761,7 @@ chafer
 crepusculine
 catenary
 cres
-cresc
+cresc 1
 comparativeness
 cordelier 1
 crescendo 1
