@@ -4906,7 +4906,7 @@ empoisons 1
 exoperidium
 ecchymoses
 enculturation
-ergatandromorph
+ergatandromorph 1
 epispastic 1
 extrapolates 1
 essenis 1
