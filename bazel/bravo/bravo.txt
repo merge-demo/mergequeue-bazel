@@ -17710,7 +17710,7 @@ broach 1
 bicornes 1
 buyer 2
 burma
-begazed
+begazed 1
 bestead 1
 beshouts
 birling
