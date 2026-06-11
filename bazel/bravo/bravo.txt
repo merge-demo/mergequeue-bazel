@@ -10561,7 +10561,7 @@ bespeech
 baptisteries
 bullheaded
 blatiform
-biotelemetric
+biotelemetric 1
 biffies
 blats 1
 butyrone
