@@ -4171,7 +4171,7 @@ cardiomegaly
 cyclus
 cardiomelanosis
 contradivide
-cholecystotomies
+cholecystotomies 1
 cardiometer 2
 cardiometric 1
 cardiomyomalacia 1
