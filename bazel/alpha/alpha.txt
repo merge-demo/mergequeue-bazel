@@ -9690,7 +9690,7 @@ abature
 amphiblastic 1
 alurgite 1
 autocephalic 1
-asepalous
+asepalous 1
 altiplanicie
 aphthonite 2
 antennule
