@@ -3992,7 +3992,7 @@ admeasurer
 adumbrant
 admeasuring
 adulterant
-allosterically
+allosterically 1
 apostolize
 amimide 1
 anthus 1
