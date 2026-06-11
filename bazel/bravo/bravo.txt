@@ -4408,7 +4408,7 @@ bushwhacker
 bathyseism
 beclaw 1
 besieged
-balm
+balm 1
 brandering 1
 budapest
 balantidiosis 1
