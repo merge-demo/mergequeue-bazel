@@ -7729,7 +7729,7 @@ aldea
 antichresis 1
 adzooks
 ambiance 3
-autoplastic
+autoplastic 1
 arbours
 aloadae
 aculeolate
