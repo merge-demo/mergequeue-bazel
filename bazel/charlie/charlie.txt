@@ -19638,7 +19638,7 @@ comprobate 1
 carillon 1
 comacine
 comade
-comagmatic
+comagmatic 1
 comake 1
 comaker 1
 comals
