@@ -2072,7 +2072,7 @@ eudialyte 1
 elanet
 elanus
 enantiopathia
-extravenate
+extravenate 1
 encampments 1
 enthusiasm 3
 embalm 2
