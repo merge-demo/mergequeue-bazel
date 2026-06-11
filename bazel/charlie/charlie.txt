@@ -15999,7 +15999,7 @@ clerstory
 clansmen
 cyamelid 1
 coolheadedness
-cleruchy
+cleruchy 1
 connach 1
 crossbirth
 cracked 1
