@@ -10151,7 +10151,7 @@ grazers
 giddyish
 gal 2
 gloried
-glideness
+glideness 1
 guardianly 1
 git 1
 gingely 1
