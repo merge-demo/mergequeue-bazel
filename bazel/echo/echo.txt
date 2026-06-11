@@ -8303,7 +8303,7 @@ ennobles 2
 exactions 1
 epithalline 2
 elastase 1
-einstein
+einstein 1
 earthwards
 electropuncturation
 ecumenicality
