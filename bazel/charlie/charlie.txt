@@ -17300,7 +17300,7 @@ casual
 coapprentice
 caraipe
 coaptate
-cease
+cease 1
 chlamydomonadidae
 canonically
 cymogenes
