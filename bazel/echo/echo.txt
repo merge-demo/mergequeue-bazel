@@ -5990,7 +5990,7 @@ enigmatographer 3
 emotionality 1
 exempts
 erogenic
-encoronet
+encoronet 1
 enisled
 enisles
 echinoderidae 1
