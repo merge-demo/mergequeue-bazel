@@ -27479,7 +27479,7 @@ chronicity
 covalences
 covalency 2
 carpoptosis
-coriander
+coriander 1
 corallike
 covalent
 campephilus
