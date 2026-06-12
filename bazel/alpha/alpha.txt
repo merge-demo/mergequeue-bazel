@@ -15291,7 +15291,7 @@ awalim
 amorality 1
 alhambra
 antigravitational
-angiemphraxis
+angiemphraxis 1
 automobiling 2
 antigravity
 antigrowth
