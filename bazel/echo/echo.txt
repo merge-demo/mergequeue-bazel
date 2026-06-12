@@ -6536,7 +6536,7 @@ ensmall 2
 encephalorrhagia
 eleventhly
 erythrocytometer
-entamoebic
+entamoebic 1
 endostosis
 ephyra 3
 exactly 2
