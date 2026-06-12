@@ -7194,7 +7194,7 @@ emforth
 eryopsid 3
 ethnomanic 2
 exuviability 1
-emulate 1
+emulate 2
 ethal
 electrons
 ecumenic 2
