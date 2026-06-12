@@ -8736,7 +8736,7 @@ flocculator 1
 fella 2
 footlog 1
 fellatee 2
-faultsman
+faultsman 1
 finchery 1
 forehands 1
 flavonols 2
