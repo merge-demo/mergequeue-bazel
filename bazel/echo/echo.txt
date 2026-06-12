@@ -6542,7 +6542,7 @@ ephyra 3
 exactly 2
 extratension
 entail
-entomophthora 1
+entomophthora 2
 elaphodus 1
 endurant
 ended
