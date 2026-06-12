@@ -4864,7 +4864,7 @@ epigne 1
 ephydriad
 expertise 1
 emblematizing
-encourages
+encourages 1
 embusy
 eucatropine 1
 escapable 3
