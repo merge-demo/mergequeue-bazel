@@ -373,7 +373,7 @@ gynobasic 1
 gelded 1
 galangin
 golundauze
-gavot
+gavot 1
 gaoled
 glaive
 gentiles 1
