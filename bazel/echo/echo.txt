@@ -5417,7 +5417,7 @@ eccentrometer
 endothermal 1
 endothermy
 ectopatagia 1
-erthling 2
+erthling 3
 echinocactus 3
 euryalean
 electively
