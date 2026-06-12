@@ -6493,7 +6493,7 @@ diag
 dispossesses
 desmarestiaceae 1
 descendable
-descendants
+descendants 1
 dimensioned 1
 dipeptid
 dentellated
