@@ -8115,7 +8115,7 @@ graustark
 grindelia
 gastrostomize 2
 gristmill 2
-grantors
+grantors 1
 grantsman
 granular 1
 girandole
