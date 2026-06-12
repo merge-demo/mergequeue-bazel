@@ -13843,7 +13843,7 @@ ethnozoological 1
 equipotentiality 1
 eelpot 2
 equivocation
-evaporize
+evaporize 1
 ethionic
 ellasar 1
 extractability
