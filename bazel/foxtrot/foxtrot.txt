@@ -10143,7 +10143,7 @@ fliting 2
 fenite 3
 fissile
 frontlet
-fitter
+fitter 1
 fashed 1
 fabricant
 falcidian
