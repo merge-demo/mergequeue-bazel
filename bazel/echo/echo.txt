@@ -11364,7 +11364,7 @@ emergers 1
 extenders
 exigency 1
 ethnohistory
-exotropic
+exotropic 1
 electrodesiccation 1
 evenforth
 eryopid 2
