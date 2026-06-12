@@ -5503,7 +5503,7 @@ boort 1
 bringdown 1
 boatswains
 bawty
-beingness
+beingness 1
 brandade 2
 beethovian 1
 beyondness 1
