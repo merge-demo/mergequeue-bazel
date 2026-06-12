@@ -15871,7 +15871,7 @@ clef 1
 cassinese
 chesterfields
 chronomancy 1
-cleft
+cleft 1
 cleidagra
 calms
 chamal 1
