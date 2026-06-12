@@ -1315,7 +1315,7 @@ balatron 3
 benzaldiphenyl
 balatte
 bergfall
-bermudian
+bermudian 1
 bernoullian
 bingy
 burelage
