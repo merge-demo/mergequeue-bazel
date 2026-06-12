@@ -426,7 +426,7 @@ fibroligamentous 1
 fauchards
 fur 2
 frockmaker 2
-fairship
+fairship 1
 feal 2
 flitting 1
 fogmen
