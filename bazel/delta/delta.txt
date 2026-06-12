@@ -2395,7 +2395,7 @@ deciders 1
 dubitante
 disownment
 disguisements
-diplontic
+diplontic 1
 dismantlement 1
 dayakker
 deciduity
