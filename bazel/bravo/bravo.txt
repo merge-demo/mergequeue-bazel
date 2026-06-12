@@ -8599,7 +8599,7 @@ bolos 1
 billionth 2
 braggartism
 brethel
-beldames
+beldames 1
 bookable 1
 brightsomeness
 bowling
