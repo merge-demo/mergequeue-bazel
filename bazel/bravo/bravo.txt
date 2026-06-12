@@ -2723,7 +2723,7 @@ barnumism 2
 bienne
 blitum 1
 betrothals
-bloodstanch
+bloodstanch 1
 balandrana 1
 brasen
 betaken
