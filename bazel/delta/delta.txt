@@ -3606,7 +3606,7 @@ declaredness 1
 depredations 1
 dripping 2
 dextrogyre
-dinosauric
+dinosauric 1
 dinornithiformes 1
 degenerate
 desulphurizer
