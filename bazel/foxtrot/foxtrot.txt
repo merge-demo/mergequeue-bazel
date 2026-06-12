@@ -7655,7 +7655,7 @@ feyness
 foregleam
 forst 1
 forego 2
-feudatory
+feudatory 1
 fables 1
 factualism 1
 foreguess
