@@ -6726,7 +6726,7 @@ desiderta
 diptycas 1
 desidiose 1
 duckmole 1
-designable
+designable 1
 doughfoot
 dhutis 1
 dissolutions
