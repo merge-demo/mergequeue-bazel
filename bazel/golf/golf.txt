@@ -8543,7 +8543,7 @@ gith 1
 gourmand 2
 grabbling
 generates 1
-geranomorph
+geranomorph 1
 geodetical
 gusla 1
 gilo 2
