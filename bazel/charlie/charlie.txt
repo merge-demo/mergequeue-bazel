@@ -5860,7 +5860,7 @@ catenane
 catenarian
 catenas
 caudaite
-catenate
+catenate 1
 crooisite
 catenating 1
 catenation
