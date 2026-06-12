@@ -24317,7 +24317,7 @@ crull 1
 creatable 1
 classist 1
 corncutting
-coarrange
+coarrange 1
 cookeite 2
 cooker 2
 cookeries
