@@ -7141,7 +7141,7 @@ centrad
 central
 centraler
 cobblery 1
-chevelure
+chevelure 1
 cestraciontidae
 centralise
 centralised
