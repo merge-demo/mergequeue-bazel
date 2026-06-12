@@ -5286,7 +5286,7 @@ endoradiosonde 1
 extract
 exfiguration
 embryotrophy 1
-espinillo
+espinillo 1
 etaerio 1
 exactor
 entreatable 2
