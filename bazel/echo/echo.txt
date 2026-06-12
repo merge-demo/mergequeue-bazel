@@ -5838,7 +5838,7 @@ evade
 emulatory 1
 efficace 1
 electrovalency 1
-exfoliation 1
+exfoliation 2
 erlkings
 epicele 1
 expiations 1
