@@ -13911,7 +13911,7 @@ bowstring 1
 burial
 bacteriotropic 1
 binoculate
-birdlike
+birdlike 1
 bowstrung
 behavior 1
 bowtell
