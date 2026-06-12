@@ -5512,7 +5512,7 @@ fleshliness 2
 faceteness 1
 fw 1
 flacker
-fleshmonger
+fleshmonger 1
 fcy 2
 flagfall 1
 fletcherism 1
