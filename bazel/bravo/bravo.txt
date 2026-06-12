@@ -1838,7 +1838,7 @@ befogging
 barkinji
 bandfile
 bandh 2
-burdon
+burdon 1
 brownism 1
 brython
 birken
