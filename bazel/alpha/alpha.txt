@@ -23240,7 +23240,7 @@ aggro
 autosuggestions
 apple
 adaptors
-apophasis
+apophasis 1
 attitudinised
 attitudiniser 1
 amphimictically 1
