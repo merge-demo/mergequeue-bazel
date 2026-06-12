@@ -2520,7 +2520,7 @@ fastballs 1
 frush
 flunky 2
 favaginous 3
-foulmouth
+foulmouth 1
 formaldehyde 2
 feverlike
 frondescent
