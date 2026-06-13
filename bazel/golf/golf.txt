@@ -6023,7 +6023,7 @@ grassiness
 graspless 1
 gnarls 1
 gaidropsaridae 2
-gnetaceae
+gnetaceae 1
 gravelweed 2
 geminative
 gutturonasal 1
