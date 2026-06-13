@@ -6775,7 +6775,7 @@ ganev 1
 garvanzo 2
 ganocephala 4
 gonionia 1
-gnosticize
+gnosticize 1
 genericness 4
 gamelang 1
 ganam 2
