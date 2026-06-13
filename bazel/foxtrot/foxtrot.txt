@@ -2834,7 +2834,7 @@ fraction 3
 forebush 1
 foreadmonish 1
 fieldsmen 3
-farmhand
+farmhand 1
 fetichlike 1
 flowerets 2
 feticide
