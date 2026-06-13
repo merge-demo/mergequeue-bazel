@@ -7405,7 +7405,7 @@ forbow
 foreclose 2
 forestland
 foolisher 3
-falterers
+falterers 1
 flavorsomeness 3
 flake
 finks 1
