@@ -1618,7 +1618,7 @@ ballots 1
 ballottement
 backlotter 2
 baronage
-bahamian
+bahamian 1
 byelorussians
 ballottines 1
 bathwort 1
