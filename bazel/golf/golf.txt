@@ -6646,7 +6646,7 @@ gropes 1
 gambusias
 gunnysack 2
 gondolas 1
-guidons 2
+guidons 3
 glasseye 2
 gondoletta 4
 guffs 2
