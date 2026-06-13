@@ -1689,7 +1689,7 @@ deadeners
 dottel
 dephysicalization
 decrementless 1
-dehumanisation
+dehumanisation 1
 delineator
 debonnaire 1
 dismissive
