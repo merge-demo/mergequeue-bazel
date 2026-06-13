@@ -10528,7 +10528,7 @@ briton
 blepharoatheroma 2
 break 1
 bipectinate
-bacterize
+bacterize 1
 bonks 1
 bulbocodium
 bibless
