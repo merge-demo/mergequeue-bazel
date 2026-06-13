@@ -14149,7 +14149,7 @@ adjusts 1
 agglutinogenic 1
 assonanced 1
 anarthrous 2
-achlamydate
+achlamydate 1
 assonantly
 acinetarian
 aphtha
