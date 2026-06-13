@@ -9518,7 +9518,7 @@ expansively
 essences
 evenhead
 eugenesis 1
-epimorphism
+epimorphism 1
 extrasolar 1
 exempt 1
 envois
