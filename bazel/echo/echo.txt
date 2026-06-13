@@ -2114,7 +2114,7 @@ ebullioscope 1
 emulge
 excretory
 elastica
-extrapolator
+extrapolator 1
 elastically
 eurycephalous
 edenite 1
