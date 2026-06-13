@@ -788,7 +788,7 @@ backcomb
 begod
 browniness 1
 bldr 1
-blautok
+blautok 1
 baetulus
 boothose 1
 batrachophobia
