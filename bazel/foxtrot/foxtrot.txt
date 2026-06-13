@@ -4130,7 +4130,7 @@ fiorite
 flamberg 1
 foreseen 2
 falsehoods
-fornenst
+fornenst 1
 faff 2
 fontanel 1
 flywheel 2
