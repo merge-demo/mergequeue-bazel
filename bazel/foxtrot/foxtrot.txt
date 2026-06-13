@@ -11394,7 +11394,7 @@ flushness 1
 fourposter 2
 farceuse 1
 fleak
-furnishes
+furnishes 1
 fiddles
 functionlessness
 frosk 2
