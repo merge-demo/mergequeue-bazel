@@ -22836,7 +22836,7 @@ allheal
 atmosphereful
 anatomization 1
 apachite
-agamic
+agamic 1
 apanaging 1
 aedilitian 1
 atmospherically
