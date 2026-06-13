@@ -4295,7 +4295,7 @@ afterstain 1
 albuminosis
 adrenocorticotropic
 anthracolithic 1
-astructive
+astructive 1
 adstipulate 2
 audiologist
 antrophore
