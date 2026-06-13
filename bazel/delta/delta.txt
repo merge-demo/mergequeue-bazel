@@ -15943,7 +15943,7 @@ distasting 1
 deprivers 2
 doted
 diploplacula
-doters
+doters 1
 donable
 dotes
 dispreads
