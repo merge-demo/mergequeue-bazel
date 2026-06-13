@@ -6100,7 +6100,7 @@ biobibliographies
 behusband
 bendies
 bends
-bendwise
+bendwise 1
 begay
 balaneutics
 benedicks
