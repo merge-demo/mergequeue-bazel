@@ -6783,7 +6783,7 @@ enemied 1
 ergon
 educator
 extramural 3
-entire
+entire 1
 epithumetic
 engluts
 enjoys
