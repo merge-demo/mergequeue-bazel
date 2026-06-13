@@ -2987,7 +2987,7 @@ banda
 botts 1
 buat 1
 burrel 2
-barroom 1
+barroom 2
 barruly 1
 bedumb
 barsac
