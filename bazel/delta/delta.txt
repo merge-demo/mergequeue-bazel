@@ -7059,7 +7059,7 @@ dessous 1
 devall 1
 doodad 2
 durst 1
-dessus
+dessus 1
 destabilization
 doolie 1
 difficultly 2
