@@ -18805,7 +18805,7 @@ coleoptilum
 clutcher 1
 chapfallen
 coleosporium
-colera
+colera 1
 coles
 coleslaw
 cenobian
