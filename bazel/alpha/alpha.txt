@@ -22421,7 +22421,7 @@ antiluetin
 astrologize
 advancers
 astromancer
-astromantic
+astromantic 1
 astromeda
 axion 1
 apophyges 1
