@@ -11362,7 +11362,7 @@ dehydrogenise
 decorement
 delimiter
 dischevel
-dentalization
+dentalization 1
 dissimulator 1
 disci
 diabases
