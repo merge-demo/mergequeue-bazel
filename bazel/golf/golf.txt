@@ -10037,7 +10037,7 @@ gazebos
 glaistig
 gammation 5
 gargoyles
-greasing 1
+greasing 2
 granitoidal 1
 gisler
 guerdoner 2
