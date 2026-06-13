@@ -14144,7 +14144,7 @@ dispread 1
 disulfoxid
 dhobi
 defective
-demandingness
+demandingness 1
 decedent 1
 disulphate
 depursement
