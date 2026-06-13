@@ -1566,7 +1566,7 @@ grassless 2
 geothermally 1
 gassed
 gypsumed
-grana
+grana 1
 gentlemens
 gasser 1
 glutelin 2
