@@ -24165,7 +24165,7 @@ appledrone
 autoimmunize
 autoindexing 2
 artificers
-autoinfusion 1
+autoinfusion 2
 autoinoculable
 antiritualism 1
 aldermanries 1
