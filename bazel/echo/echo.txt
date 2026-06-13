@@ -5316,7 +5316,7 @@ excretolic 1
 enslaves 1
 endocorpuscular 2
 endorsed
-enchantress
+enchantress 1
 emendating 1
 effector 2
 endorsees
