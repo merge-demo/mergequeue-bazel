@@ -2844,7 +2844,7 @@ decastellate 1
 draggle 1
 desidious
 decrypt
-decryption
+decryption 1
 dasyus
 decrowning 1
 dustier
