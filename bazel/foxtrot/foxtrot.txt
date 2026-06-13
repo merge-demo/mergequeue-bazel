@@ -2979,7 +2979,7 @@ fluke
 fissiparity 3
 fading 1
 fewterer 2
-francophil
+francophil 1
 fewtrils 2
 follower
 flanned
