@@ -14237,7 +14237,7 @@ disburses 1
 disembargo
 ditchers 2
 deathwards
-disproportionably
+disproportionably 1
 derivatist
 diluendo
 ditchless
