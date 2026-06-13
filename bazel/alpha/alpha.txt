@@ -13030,7 +13030,7 @@ amulla
 anhyd 3
 allodially
 anhydraemia
-antikinase
+antikinase 1
 anhydrate
 anhydration
 altering
