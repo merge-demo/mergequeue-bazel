@@ -9987,7 +9987,7 @@ broody 2
 barbell 2
 bn
 baroscopical 1
-bargainor
+bargainor 1
 biverb
 beblear
 bedfast
