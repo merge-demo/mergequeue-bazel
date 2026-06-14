@@ -9513,7 +9513,7 @@ fattrels
 faithworthy 1
 frontways
 footling
-finiteness 2
+finiteness 3
 fringier
 finiglacial 2
 fiador
