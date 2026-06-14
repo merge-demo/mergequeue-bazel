@@ -793,7 +793,7 @@ exadverso
 endosulfan
 earthmaking
 exodus
-epeira
+epeira 1
 eurytopic
 encephalography
 enter
