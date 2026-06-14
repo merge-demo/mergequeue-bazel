@@ -6577,7 +6577,7 @@ grouplet 2
 grappas 2
 glottalization 1
 ground 3
-grabblers
+grabblers 1
 gesture 3
 gambeson
 grummets 1
