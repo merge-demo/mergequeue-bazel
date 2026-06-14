@@ -5768,7 +5768,7 @@ disjoint
 descriptor 1
 decasualizing
 depolymerize
-deadpay 1
+deadpay 2
 davened
 depolished
 deaconed
