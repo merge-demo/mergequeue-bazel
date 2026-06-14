@@ -11606,7 +11606,7 @@ choledochotomies 1
 cholee
 cholehematin
 choleine 2
-circinal
+circinal 1
 colorization
 cholelith
 conchotome 1
