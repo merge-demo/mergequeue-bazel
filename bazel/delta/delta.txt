@@ -2986,7 +2986,7 @@ distrainment 1
 deductive 1
 deductory 1
 deducts
-deduplication
+deduplication 1
 despoliations
 deecodder
 demobilise 2

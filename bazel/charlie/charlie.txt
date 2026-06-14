@@ -20930,7 +20930,7 @@ compressively
 compressometer
 compressors
 comprest
-collating
+collating 1
 chambering
 comprisal 1
 controllability
