@@ -8668,7 +8668,7 @@ chanterelle 1
 chondroseptum
 chanters 1
 cutters 1
-chantership
+chantership 1
 chanteur
 chanteuse
 chanticleer
