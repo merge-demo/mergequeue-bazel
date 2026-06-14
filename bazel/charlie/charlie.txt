@@ -20835,7 +20835,7 @@ cloverleaf
 caudodorsal
 corpulence 1
 composable
-composant
+composant 1
 cryptoclastic
 composed 1
 cacocholia
