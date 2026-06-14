@@ -10918,7 +10918,7 @@ brede
 blindweed 2
 blindworm 3
 backscratcher 2
-blackamoor
+blackamoor 1
 beshiver
 bumps 1
 biloquist
