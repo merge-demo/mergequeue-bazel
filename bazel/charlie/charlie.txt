@@ -26040,7 +26040,7 @@ cosh
 coshed
 cosher
 countermanded 1
-chestiness
+chestiness 1
 cupreine
 coshery 1
 coshers 1
