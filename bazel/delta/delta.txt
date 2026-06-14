@@ -8622,7 +8622,7 @@ dyarchies 1
 disjunctor 1
 davis
 dinge
-debugging
+debugging 1
 distilment 1
 dialyses
 diary
