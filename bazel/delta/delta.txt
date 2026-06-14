@@ -5052,7 +5052,7 @@ decaesarize
 densification 1
 dayal 3
 drivingly
-denaturalised
+denaturalised 1
 denaturalising 2
 denaturalized
 dandriff 1
