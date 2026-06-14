@@ -13764,7 +13764,7 @@ anophthalmos
 acoumeter
 allobroges 2
 approved
-amusable
+amusable 1
 abortuses
 ambisyllabic
 altimeter
