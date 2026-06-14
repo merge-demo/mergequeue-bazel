@@ -1869,7 +1869,7 @@ distensibilities
 dispunge
 dissimulation
 dalespeople
-dispirit
+dispirit 1
 deliverables
 deboite
 defet
