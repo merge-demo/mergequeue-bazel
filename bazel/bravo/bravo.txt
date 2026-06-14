@@ -12112,7 +12112,7 @@ bultey
 beloid
 burbler
 backstop 1
-boldly
+boldly 1
 brahminic
 baedekers 1
 bonesets 1
