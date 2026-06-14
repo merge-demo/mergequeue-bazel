@@ -686,7 +686,7 @@ cafetorium
 contributory
 caffeic 1
 caffeina 1
-caffeines
+caffeines 1
 cobblerless
 compensable
 caffeinic
