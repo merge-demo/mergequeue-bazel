@@ -5514,7 +5514,7 @@ fw 1
 flacker
 fleshmonger 1
 fcy 2
-flagfall 1
+flagfall 2
 fletcherism 1
 frontignac
 fieri
