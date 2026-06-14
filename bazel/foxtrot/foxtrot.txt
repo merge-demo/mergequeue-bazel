@@ -4361,7 +4361,7 @@ fu
 fellows 1
 forewomen 1
 foresleeve
-finagle 1
+finagle 2
 feebler 1
 foraramina 1
 foreacquaint 1
