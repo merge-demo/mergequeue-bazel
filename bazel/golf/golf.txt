@@ -2829,7 +2829,7 @@ graminous
 graininess 1
 gypseian 3
 geraniales
-gentlemouthed
+gentlemouthed 1
 galactorrhea
 glace 1
 gentler
