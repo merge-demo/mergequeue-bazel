@@ -8575,7 +8575,7 @@ griqua 1
 gravity
 gnathostomi 1
 germinal
-gradually
+gradually 1
 gawsy 1
 gravitic
 gretchen
