@@ -2555,7 +2555,7 @@ gaudier 2
 glen 1
 gumption 2
 gingle 2
-grue
+grue 1
 generations 5
 gastrula
 gobangs 1
