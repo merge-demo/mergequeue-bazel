@@ -1143,7 +1143,7 @@ cuppers
 cloddiness 1
 calcitic 1
 calcitrant
-calcitrate
+calcitrate 1
 cataphatic
 claiborne
 caryopsides 1
