@@ -5611,7 +5611,7 @@ groundwall 1
 goldseed 1
 grisping
 guayroto 1
-glochid
+glochid 1
 geranial 1
 gemology 1
 garnice 1
