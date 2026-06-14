@@ -5990,7 +5990,7 @@ delictus 1
 deed
 durezza 1
 depsides
-disciplinability
+disciplinability 1
 dilettantist
 discommoded 1
 dept
