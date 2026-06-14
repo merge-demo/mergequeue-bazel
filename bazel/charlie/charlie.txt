@@ -16557,7 +16557,7 @@ capsules
 cloisterwise 2
 cloistral 1
 concoagulation
-cloit
+cloit 1
 chamisos
 cloke
 conurus
