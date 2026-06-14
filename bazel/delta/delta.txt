@@ -13052,7 +13052,7 @@ djinns
 deicidal
 decanol 1
 drakestone
-dispatch 1
+dispatch 2
 deprecators 1
 deccennia
 dispatched
