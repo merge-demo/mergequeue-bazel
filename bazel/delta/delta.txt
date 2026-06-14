@@ -4863,7 +4863,7 @@ ductile 1
 declive 1
 durrie 1
 depredationist
-dispersity
+dispersity 1
 dormmice
 denicotinize
 demagnetized 1
