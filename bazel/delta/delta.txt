@@ -4982,7 +4982,7 @@ dephosphorize
 draggled
 diamb 2
 demountable 2
-devastators
+devastators 1
 demounts
 dempsters
 deaerate 1
