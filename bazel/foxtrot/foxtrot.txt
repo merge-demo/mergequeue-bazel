@@ -2791,7 +2791,7 @@ forker 1
 feston
 flatly 1
 fluorimeter 2
-forgift 2
+forgift 3
 fistulized 1
 forbearer 1
 ftncmd
