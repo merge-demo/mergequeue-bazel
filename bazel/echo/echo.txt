@@ -339,7 +339,7 @@ encephalograph 1
 estops 1
 eastre
 extents 1
-enturret
+enturret 1
 empresse
 embleming
 epirogenic
