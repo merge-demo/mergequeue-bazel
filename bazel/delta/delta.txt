@@ -10545,7 +10545,7 @@ disbowels 1
 dialyzate
 demipagan
 disserviceableness
-ddname
+ddname 1
 derate
 doorsills
 diceratidae
