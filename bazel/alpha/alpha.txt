@@ -5862,7 +5862,7 @@ ageneses
 ancestorial 2
 anthropomorphise
 agenesis 1
-agenetic
+agenetic 1
 agenize
 agenized
 akamatsu
