@@ -13010,7 +13010,7 @@ crates 1
 cyanoguanidine
 cyanohermidin 1
 cyanometer
-cuneate
+cuneate 1
 camaile
 chiasmatypy
 curateship
