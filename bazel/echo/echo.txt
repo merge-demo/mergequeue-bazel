@@ -8263,7 +8263,7 @@ exulcerate
 enweave 1
 eleostearate 1
 epistlers
-epistolarian
+epistolarian 1
 elderhood
 ethylin
 escribe
