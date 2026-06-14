@@ -23935,7 +23935,7 @@ conv
 convalesced
 convalescence
 convalescently
-convalescents
+convalescents 1
 convalesces 1
 convalescing
 convallaria
