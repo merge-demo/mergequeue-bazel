@@ -10030,7 +10030,7 @@ booklets
 bummock 3
 blenders
 bairntime 1
-byzantine
+byzantine 1
 byzantinize 1
 barmecide
 bottlemaking 1
