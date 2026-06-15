@@ -12676,7 +12676,7 @@ dinitrobenzene 2
 dissolute 1
 disleafed 1
 dermatophone 1
-diffrangibility
+diffrangibility 1
 disleaved
 disjointure
 disepalous
