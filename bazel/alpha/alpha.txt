@@ -22861,7 +22861,7 @@ atmosphereless 2
 announces
 almendro
 antidyscratic
-axometry
+axometry 1
 asrama
 alkalemia
 algefacient
