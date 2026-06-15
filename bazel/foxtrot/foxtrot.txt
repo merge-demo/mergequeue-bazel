@@ -4765,7 +4765,7 @@ footlike 2
 fulmination 1
 follies
 flagellations 1
-fieldstrip
+fieldstrip 1
 fingal
 footwalls
 feif
