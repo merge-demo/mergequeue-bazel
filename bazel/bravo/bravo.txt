@@ -14444,7 +14444,7 @@ breeds 2
 bowralite
 banquette 1
 bigamy
-bursal
+bursal 1
 brainwashjng
 brainwave 2
 brainwood
