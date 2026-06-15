@@ -16908,7 +16908,7 @@ clumping
 clumpish 1
 cinquecentism
 capitano
-clumpishness
+clumpishness 1
 cohere
 clumps
 canavalin
