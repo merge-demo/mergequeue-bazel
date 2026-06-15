@@ -23946,7 +23946,7 @@ aster 1
 anthropometrically
 autoabstract
 ambisextrous 1
-amphibiousness
+amphibiousness 1
 annatto 1
 acrology
 antiscepticism
