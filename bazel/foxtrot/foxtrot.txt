@@ -11705,7 +11705,7 @@ far 1
 foretellableness 1
 flugelhorn 1
 fasciola 1
-furphy
+furphy 1
 fernsick
 frameless 1
 flaw 1
