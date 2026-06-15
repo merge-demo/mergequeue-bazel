@@ -21504,7 +21504,7 @@ cliqueless
 confessions
 calycle
 climacterical 1
-celestialize
+celestialize 1
 concresce
 concrescence
 cephalohumeral 1
