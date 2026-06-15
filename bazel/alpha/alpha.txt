@@ -15645,7 +15645,7 @@ ambage 1
 anoxaemia
 acanthad
 aphidicolous
-amygdalitis
+amygdalitis 1
 aeolight
 acrocontracture
 almous
