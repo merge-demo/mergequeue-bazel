@@ -3061,7 +3061,7 @@ deers
 deerstalkers 1
 detailist
 deerstalking
-deerweed
+deerweed 1
 dollyway 1
 deescalate 1
 deeses
