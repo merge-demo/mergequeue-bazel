@@ -5566,7 +5566,7 @@ debilitation
 disrepute 1
 depasture
 depatriate
-dispergation
+dispergation 1
 doornails 3
 deposer
 depauperize
