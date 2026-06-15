@@ -2640,7 +2640,7 @@ electropower
 electropsychrometer 2
 embodying 2
 evolvers
-excitably
+excitably 1
 euphemiously 1
 eximiously 1
 electroreduction 2
