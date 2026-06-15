@@ -11555,7 +11555,7 @@ extypal 2
 extraburghal
 elenchus 1
 encodement 1
-embrittled
+embrittled 1
 errantness
 ennoy
 evocator 1
