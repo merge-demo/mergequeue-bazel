@@ -10629,7 +10629,7 @@ chilver
 caliological 1
 chimaera
 chimaerid 2
-chimaeroid
+chimaeroid 1
 chimakum
 curled
 cogon
