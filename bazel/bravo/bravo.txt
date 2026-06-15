@@ -9195,7 +9195,7 @@ buffer
 becrimes
 belitter
 bumbee
-bipaschal
+bipaschal 1
 buffin
 biped 1
 bipedal 1
