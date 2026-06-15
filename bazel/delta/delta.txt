@@ -15552,7 +15552,7 @@ demodulator 2
 drummers
 donnas 2
 defeasible 1
-dereligionize
+dereligionize 1
 dittander
 donnerd 2
 donnick
