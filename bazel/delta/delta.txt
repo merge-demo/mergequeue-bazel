@@ -2446,7 +2446,7 @@ decimole 1
 dangling 1
 diparentum
 danization
-dendritiform
+dendritiform 1
 denizenize 1
 disimprisonment
 dissipable 1
