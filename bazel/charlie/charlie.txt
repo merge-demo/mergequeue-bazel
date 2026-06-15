@@ -30694,7 +30694,7 @@ cudgel 1
 communalizing 1
 comparability 1
 cudgeled
-cudgeler
+cudgeler 1
 calymene
 cudgelers 1
 counterwind 1
