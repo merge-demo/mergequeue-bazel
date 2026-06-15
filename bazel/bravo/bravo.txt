@@ -10216,7 +10216,7 @@ betattering
 boyd 1
 breakpoints
 blacklister 1
-beparse
+beparse 1
 barothermohygrograph 1
 blacklists 1
 brainer
