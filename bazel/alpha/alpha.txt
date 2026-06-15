@@ -2592,7 +2592,7 @@ aspiratory
 altaid
 adffrozen
 adjacent
-acquest
+acquest 1
 armenite 1
 actutate 2
 applies
