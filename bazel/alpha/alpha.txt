@@ -4774,7 +4774,7 @@ aftermath
 asterionella
 acarology
 anaretic
-antihum
+antihum 1
 aorists
 aeriality 1
 angiasthenia 2
