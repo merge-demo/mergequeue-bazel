@@ -30677,7 +30677,7 @@ coprocessing 1
 cuddies
 cuddyhole
 cheero
-cuddleable
+cuddleable 1
 cuddled
 cuddlesome 2
 cuddliest
