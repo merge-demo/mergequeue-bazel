@@ -10322,7 +10322,7 @@ equipostile
 epifocal
 electuaries
 exosmic
-extemporise
+extemporise 1
 exaggerative 2
 ethonomics
 ethnocentric 1
