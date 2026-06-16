@@ -2227,7 +2227,7 @@ eggless
 equiprobable
 encrisp 1
 eldest
-effigiated
+effigiated 1
 eventuate
 engulfment
 eldrich 1
