@@ -8539,7 +8539,7 @@ daggletailed
 diplomatized
 diapente
 dehydrofreeze
-diet
+diet 1
 diaper 1
 dyschromatopsia
 duchy
