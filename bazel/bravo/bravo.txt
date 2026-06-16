@@ -4516,7 +4516,7 @@ blankest 1
 brigadiership
 barricaded
 burnsides 2
-batata
+batata 1
 balushai
 becudgels
 bosons 2
