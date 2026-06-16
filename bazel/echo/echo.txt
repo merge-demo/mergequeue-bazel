@@ -14133,7 +14133,7 @@ episcopates 2
 ebonizing 1
 ephemerality 2
 enseraph
-enplanement
+enplanement 1
 emulates 1
 enlard 1
 entocuneiform
