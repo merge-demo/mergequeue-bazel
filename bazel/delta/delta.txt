@@ -11810,7 +11810,7 @@ despatch
 discriminativeness
 discriminator 2
 dirigibility
-diegueno
+diegueno 1
 disembrangle
 deferrals
 dislodges 2
