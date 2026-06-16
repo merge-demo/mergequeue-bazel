@@ -342,7 +342,7 @@ extents 1
 enturret 1
 empresse
 embleming
-epirogenic
+epirogenic 1
 eagerer
 expatiater
 exoduses 1
