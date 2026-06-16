@@ -14723,7 +14723,7 @@ antibiont
 antibiosis
 anaglyphic 1
 antibiotic
-antimonopolism
+antimonopolism 1
 acousmatic 2
 antibiotically
 anthrohopobiological
