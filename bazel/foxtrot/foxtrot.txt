@@ -620,7 +620,7 @@ forelimb
 funnies 1
 frame
 facesaving 1
-falconelle
+falconelle 1
 falsifier 3
 foveolet 3
 floaty 1
