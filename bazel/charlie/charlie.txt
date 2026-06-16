@@ -28984,7 +28984,7 @@ cuneated 1
 crossbowman
 compositions 2
 chlorinize 1
-cynomorphous
+cynomorphous 1
 cochair
 cartelize
 cricotus
