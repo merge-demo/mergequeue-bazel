@@ -509,7 +509,7 @@ cadencies
 cadencing
 casitas
 cadenette
-corregidores
+corregidores 1
 cellobiose
 crapple
 coascend 1
