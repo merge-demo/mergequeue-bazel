@@ -16875,7 +16875,7 @@ blended
 burhead
 bichromatic 2
 bathysophic 2
-buffoonish
+buffoonish 1
 bungle 1
 baret
 betorn
