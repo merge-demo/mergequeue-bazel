@@ -7795,7 +7795,7 @@ fatelike 1
 footrail 1
 fleshier 2
 flung 2
-facingly
+facingly 1
 forjudges 1
 formosan 3
 fluorescigenic 1
