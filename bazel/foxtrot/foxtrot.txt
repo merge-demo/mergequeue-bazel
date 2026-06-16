@@ -9420,7 +9420,7 @@ felidae 1
 foliiferous
 flamines 2
 fliers
-foodstuff
+foodstuff 1
 foreteeth 1
 frary
 flouriness
