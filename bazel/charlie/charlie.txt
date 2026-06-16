@@ -10895,7 +10895,7 @@ chiral
 clerids
 cardstock 1
 contortioned
-chiralgia
+chiralgia 1
 contiguousness
 chirapsia
 causson
