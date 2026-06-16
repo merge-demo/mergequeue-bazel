@@ -5340,7 +5340,7 @@ equivocalities
 eradicators
 egeran 1
 emmeniopathy 2
-endoscopies
+endoscopies 1
 epipodia 1
 endoskeletons 2
 endosmic 3
