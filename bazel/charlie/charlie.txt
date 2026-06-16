@@ -4579,7 +4579,7 @@ carpologically 1
 carnival
 carnivalesque
 contrastimulation
-carnivals
+carnivals 1
 carnivoral 1
 carnivore
 carnivorism
