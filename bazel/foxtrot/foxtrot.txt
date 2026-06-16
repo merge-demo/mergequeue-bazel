@@ -3693,7 +3693,7 @@ futuro
 fibrilated 1
 filigrees 2
 fidos 1
-footman
+footman 1
 flourishes
 flaying 2
 furnacer
