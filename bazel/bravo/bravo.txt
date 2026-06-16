@@ -3680,7 +3680,7 @@ balearian
 burnies 1
 brigantinebrigantines
 basiophthalmite
-baste
+baste 1
 bucketful
 bally
 belfather
