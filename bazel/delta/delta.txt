@@ -8929,7 +8929,7 @@ distantness 1
 dully
 divinyl
 dichloramine 1
-dichloride
+dichloride 1
 dichloroacetic 1
 dichlorodifluoromethane 1
 domiciling 2
