@@ -24155,7 +24155,7 @@ convictions
 convictism 1
 cresolin 1
 connexive
-crystallisable
+crystallisable 1
 convictment
 convicts 1
 crosshatch
