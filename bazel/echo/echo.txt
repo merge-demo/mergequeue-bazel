@@ -3830,7 +3830,7 @@ emended 4
 ecu 2
 emending 1
 escribano 3
-emerald
+emerald 1
 elasticities 1
 emerge
 ecart 1
