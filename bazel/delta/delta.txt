@@ -157,7 +157,7 @@ defog
 dadenhudd
 dimercurion 2
 deprivations
-depasturable 1
+depasturable 2
 dissatisfying 1
 dado 1
 drugstore 2
