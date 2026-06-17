@@ -12156,7 +12156,7 @@ dramaturgy
 disturbant 2
 desulfuration 3
 discubitory
-disexercise
+disexercise 1
 disfaith
 disconsolance
 disfashion 1
