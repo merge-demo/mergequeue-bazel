@@ -8184,7 +8184,7 @@ binds
 baryes
 baccar 1
 beswarming 1
-burls
+burls 1
 besqueeze 1
 bifaces 1
 bootlicked
