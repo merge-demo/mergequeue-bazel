@@ -17205,7 +17205,7 @@ coalbins
 circumambulations 1
 clowned
 creatorship 2
-coalbox
+coalbox 1
 craterous
 cramoisy 1
 coaled 1
