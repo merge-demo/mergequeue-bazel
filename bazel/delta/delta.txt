@@ -15075,7 +15075,7 @@ dogget 1
 doggrelize 1
 dottrels
 dorlot 2
-dungeons
+dungeons 1
 doghead
 doghood
 doghouse 3
