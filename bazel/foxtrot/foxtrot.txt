@@ -3902,7 +3902,7 @@ figurato 1
 fionnuala 1
 fanwe 1
 foregrounds 1
-frequencies
+frequencies 1
 fortyfive
 fits 1
 fortuitously
