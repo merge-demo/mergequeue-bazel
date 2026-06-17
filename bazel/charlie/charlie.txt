@@ -19466,7 +19466,7 @@ colourers 2
 caveated 1
 cubage 1
 colourfulness
-circuitmen
+circuitmen 1
 congo 1
 cavated
 chlamydeous
