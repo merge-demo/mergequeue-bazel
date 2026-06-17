@@ -7600,7 +7600,7 @@ cooked
 citrulline
 chondric
 corydaline
-cophouse
+cophouse 1
 cerebrifugal
 cartoonists
 cerebrize
