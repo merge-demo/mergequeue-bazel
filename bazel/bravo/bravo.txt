@@ -539,7 +539,7 @@ burnooses 2
 butyl
 bernard
 blit 2
-backwardness
+backwardness 1
 bootboy
 blastema
 befriendment 1
