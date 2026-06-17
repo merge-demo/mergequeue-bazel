@@ -14063,7 +14063,7 @@ disacknowledgements
 dispace 1
 dialist 1
 distribution
-decretum
+decretum 1
 dragnets
 dryopithecinae
 dispensable 1
