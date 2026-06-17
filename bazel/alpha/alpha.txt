@@ -1364,7 +1364,7 @@ accept
 approximating 1
 acceptability
 antistimulant
-amintor
+amintor 1
 acceptance 2
 axisymmetrical
 absorbent 1
