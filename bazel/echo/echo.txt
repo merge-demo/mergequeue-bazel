@@ -2510,7 +2510,7 @@ elasticum
 electroless
 exsecants 1
 educables
-expansivity 2
+expansivity 3
 embryopathology 1
 emender
 enervators 2
