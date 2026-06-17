@@ -971,7 +971,7 @@ dray
 disjoints 1
 doughmen
 dare
-directcarving
+directcarving 1
 drosophila
 dared
 denudes 2
