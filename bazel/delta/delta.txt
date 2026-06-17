@@ -1410,7 +1410,7 @@ dispel
 downdale 1
 dismain 1
 demonomanie
-dorsiflexor 1
+dorsiflexor 2
 digitals
 delis
 drapability
