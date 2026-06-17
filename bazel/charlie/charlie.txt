@@ -3289,7 +3289,7 @@ clankingness 2
 cosmetiste
 capitularly
 capitulars
-colourability
+colourability 1
 calcino
 capitulate 1
 capitulates
