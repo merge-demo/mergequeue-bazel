@@ -24884,7 +24884,7 @@ coralla
 clavodeltoid
 corallian
 corallidae
-corallidomous
+corallidomous 1
 chestful
 congroid
 coralliform
