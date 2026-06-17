@@ -11874,7 +11874,7 @@ baalite
 bortzes 3
 battleplane
 bouillons 1
-boedromion
+boedromion 1
 bovovaccine 1
 brevirostrate
 buggies 1
