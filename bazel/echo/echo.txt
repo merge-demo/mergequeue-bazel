@@ -9327,7 +9327,7 @@ erinys
 eurythmic 2
 endosiphon
 erugo
-encrusted
+encrusted 1
 erugos 2
 escapage 1
 eruptible 1
