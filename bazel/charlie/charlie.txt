@@ -20154,7 +20154,7 @@ commissoria
 clypeastroidea
 commissure
 confederacy 1
-chalcidic
+chalcidic 1
 commissurotomies
 commit
 commitment
