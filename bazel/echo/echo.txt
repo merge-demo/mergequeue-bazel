@@ -1636,7 +1636,7 @@ exotoxin
 ehretiaceae 1
 env 1
 entrez 1
-enterobacterium 2
+enterobacterium 3
 eyah
 embliss 1
 equating 1
