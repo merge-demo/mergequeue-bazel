@@ -4770,7 +4770,7 @@ binnacle 1
 bedral 1
 bedraping
 bedread
-bedrench
+bedrench 1
 baldling
 blast 1
 bed
