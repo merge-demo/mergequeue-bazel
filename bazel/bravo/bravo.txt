@@ -5341,7 +5341,7 @@ begnaw 1
 biharmonic
 borderlines 1
 balmy
-ballroom
+ballroom 1
 begone
 baryte
 boxlike
