@@ -5099,7 +5099,7 @@ guilders 1
 gravery 1
 glassmaking
 guerite 2
-glyc
+glyc 1
 gallberries
 grav 1
 gomerec
