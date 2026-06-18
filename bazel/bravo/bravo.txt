@@ -17954,7 +17954,7 @@ bushwahs 1
 basemen
 boloroot 1
 bushlike
-beclamors
+beclamors 1
 byte 1
 bookbinding
 byssinosis 2
