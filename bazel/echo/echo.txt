@@ -12013,7 +12013,7 @@ eryngium
 everyone
 enterfeat
 exampleship 1
-essentials
+essentials 1
 eigenspace 1
 etherion
 espeire
