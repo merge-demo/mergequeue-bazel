@@ -1311,7 +1311,7 @@ gamekeeping 1
 ginglymoid 1
 gateward 2
 gibbered
-groomers
+groomers 1
 gas
 globalism
 galilee 1
