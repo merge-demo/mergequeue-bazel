@@ -12600,7 +12600,7 @@ chronometer
 crom 1
 citolers
 chronometers
-countercultures 1
+countercultures 2
 chronometric
 chronometrically
 chronon 1
