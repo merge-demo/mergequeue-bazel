@@ -9747,7 +9747,7 @@ everyplace 1
 eddo 1
 emerick
 enneahedron 1
-euhedral
+euhedral 1
 ectogenesis 2
 enrobing 1
 eucharist
