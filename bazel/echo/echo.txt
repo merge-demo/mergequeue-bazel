@@ -3832,7 +3832,7 @@ emending 1
 escribano 3
 emerald
 elasticities 1
-emerge
+emerge 1
 ecart 1
 escapology 1
 emerged 1
