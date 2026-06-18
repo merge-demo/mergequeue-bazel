@@ -600,7 +600,7 @@ fade 1
 featherdom
 finders
 filippic 3
-fumishness
+fumishness 1
 falsehood 4
 flosculet
 frazil
