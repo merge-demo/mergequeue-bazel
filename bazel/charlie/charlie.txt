@@ -30258,7 +30258,7 @@ corm 1
 caingang 1
 crumble
 crumbles
-crumblet
+crumblet 1
 crumbliest
 claqueurs
 counternaiant
