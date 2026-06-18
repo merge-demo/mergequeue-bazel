@@ -854,7 +854,7 @@ deteriorator
 duralumin
 duotone
 decrudescence 3
-dank
+dank 1
 delightful 1
 damenization
 danke
