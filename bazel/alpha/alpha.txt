@@ -1678,7 +1678,7 @@ ambiguously
 aphidid 1
 acculturation
 acculturize
-anarchoindividualist
+anarchoindividualist 1
 ancienty 2
 acrologism 1
 abloom 1
