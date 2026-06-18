@@ -10331,7 +10331,7 @@ diopter
 diopters
 decumary
 delf
-discounter 1
+discounter 2
 dioptometer
 deoxidized
 disnature
