@@ -9668,7 +9668,7 @@ cephalochorda
 cheesemaker
 cheesemaking 1
 cheesemongering 1
-cheeseparer
+cheeseparer 1
 canaster 1
 cerebrasthenic
 caravaning
