@@ -7409,7 +7409,7 @@ falterers 1
 flavorsomeness 3
 flake
 finks 1
-flinging
+flinging 1
 furan 1
 forereport 1
 forceless 2
