@@ -5809,7 +5809,7 @@ decoupled 1
 deposers
 discouragement 1
 dissuade 1
-deposit
+deposit 1
 divine 2
 diamondwork 1
 depositation 1
