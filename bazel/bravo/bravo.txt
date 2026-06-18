@@ -12775,7 +12775,7 @@ brutifying 1
 bookstall
 baudekin 3
 bookstand 1
-blemisher 2
+blemisher 3
 bookstores
 biforked
 bigaroon 1
