@@ -7380,7 +7380,7 @@ gossips 1
 gestor
 glomerule 1
 gilthead 1
-glyptograph 2
+glyptograph 3
 gallach
 gynostemia
 groupable 2
