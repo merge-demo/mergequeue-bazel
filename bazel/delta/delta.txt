@@ -2312,7 +2312,7 @@ duckhunting
 dhurrie
 decentralize 1
 dewatering
-decentralizing
+decentralizing 1
 daphne
 defensory 1
 dishwash
