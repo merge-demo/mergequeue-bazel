@@ -18843,7 +18843,7 @@ antimonarch
 archgod 1
 archheart
 aoristically
-archhypocrisy
+archhypocrisy 1
 archhypocrite 1
 archdeaconess
 alamire
