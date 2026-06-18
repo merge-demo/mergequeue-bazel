@@ -193,7 +193,7 @@ anakes
 abbasi
 abbasside
 advertizable 1
-altostratus
+altostratus 1
 ashtray
 arctogaea
 aerologist
