@@ -14130,7 +14130,7 @@ ducker
 disulfid 1
 derris
 diazotizable
-disulfide
+disulfide 1
 decession 1
 decasualised
 disanimate 1
