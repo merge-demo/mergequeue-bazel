@@ -11420,7 +11420,7 @@ feminise 2
 feoff 1
 few
 furomethyl
-furcated
+furcated 1
 fishings 2
 furfuraceously 1
 fingerlike
