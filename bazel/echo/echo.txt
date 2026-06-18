@@ -12242,7 +12242,7 @@ equipment
 epanalepsis
 exocyclica
 eclogue
-executress
+executress 1
 elshin 1
 exsurge
 endosteal
