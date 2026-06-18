@@ -769,7 +769,7 @@ ecoute
 exscinding 2
 ecphonema
 emotes 1
-echinal 2
+echinal 3
 euomphalid
 egger 1
 ecrase 2
