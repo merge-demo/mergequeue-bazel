@@ -8729,7 +8729,7 @@ caconym
 chape 2
 coelomatic
 cobriform
-chapeled
+chapeled 1
 concion 1
 convalescency
 crenelle
