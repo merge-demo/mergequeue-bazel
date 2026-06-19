@@ -6521,7 +6521,7 @@ gorinesses 3
 grazing 1
 gymnasia 1
 groundage
-groundably
+groundably 1
 gospelmonger 2
 gallivat 1
 goniatitoid 1
