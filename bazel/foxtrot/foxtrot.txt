@@ -2448,7 +2448,7 @@ fermentativeness 2
 faradize 3
 falus 2
 footbridges
-fermentescible
+fermentescible 1
 filiform 5
 fielding
 falla
