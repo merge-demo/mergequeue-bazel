@@ -19057,7 +19057,7 @@ circuli
 cuprite
 chariots 1
 colliery
-crises
+crises 1
 callable
 camb
 colliflower
