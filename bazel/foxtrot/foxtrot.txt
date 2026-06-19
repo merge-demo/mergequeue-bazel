@@ -8931,7 +8931,7 @@ flotative 1
 foragers 1
 flu 1
 fountain
-fragged 1
+fragged 2
 fossicker
 flueman 2
 filosus 2
