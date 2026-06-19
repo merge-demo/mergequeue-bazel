@@ -29074,7 +29074,7 @@ crimpness
 crimps 1
 cantatory
 corbans
-crimson
+crimson 1
 crimsoned 1
 credendum
 crimsonness
