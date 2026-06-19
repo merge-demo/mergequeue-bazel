@@ -3104,7 +3104,7 @@ ellipticity
 extemporize
 elliptograph
 elliptoid 1
-extraparietal
+extraparietal 1
 eke 1
 elm 2
 embarrassment
