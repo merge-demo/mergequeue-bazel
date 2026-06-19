@@ -12733,7 +12733,7 @@ extol
 espressivo
 englishman
 exorable
-exactingness
+exactingness 1
 etiolin 2
 eradication
 elderberry 2
