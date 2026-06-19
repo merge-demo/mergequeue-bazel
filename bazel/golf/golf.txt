@@ -10643,7 +10643,7 @@ gorrel 2
 genera 2
 guppies
 galee
-gnomed
+gnomed 1
 gastroperiodynia 1
 gurged 1
 goldmist 1
