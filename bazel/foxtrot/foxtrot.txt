@@ -10664,7 +10664,7 @@ famish 1
 frightable 2
 facultied
 fibular 1
-fruitlets
+fruitlets 1
 fainting 2
 foxy
 felsophyre 4
