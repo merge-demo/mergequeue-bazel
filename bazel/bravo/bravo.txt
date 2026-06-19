@@ -1936,7 +1936,7 @@ baahling
 beeway
 beworms
 bacteriophage
-bandwidth
+bandwidth 1
 bandworm 1
 blunderers
 boogiewoogie
