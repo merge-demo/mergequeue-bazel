@@ -9752,7 +9752,7 @@ disapprovable
 descender 1
 decolourization
 dilatometer 1
-dilatometrically 2
+dilatometrically 3
 dynamometers
 dcbname 1
 dilatoriness
