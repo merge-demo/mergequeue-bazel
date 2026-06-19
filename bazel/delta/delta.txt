@@ -12641,7 +12641,7 @@ descrial 1
 dodgeries
 duplicidentate
 dechemicalization
-disjunctive
+disjunctive 1
 disjunctively 1
 deseed 3
 dibble
