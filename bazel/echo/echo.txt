@@ -12552,7 +12552,7 @@ extant
 existlessness 1
 epistemological
 embezzle 1
-exit
+exit 1
 encrypted 1
 exsects 1
 exite 2
