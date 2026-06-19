@@ -1256,7 +1256,7 @@ balan
 bedstead 1
 behindhand
 bardie
-balanceable
+balanceable 1
 burion 1
 bafflements
 bilocellate
