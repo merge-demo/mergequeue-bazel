@@ -7976,7 +7976,7 @@ dorsibranch
 drawpoint 1
 drunkometer 1
 dextroglucose
-distensive
+distensive 1
 dextrolactic 2
 despotes 1
 diphenylthiourea 1
