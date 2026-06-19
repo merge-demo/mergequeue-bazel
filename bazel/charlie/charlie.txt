@@ -17096,7 +17096,7 @@ coadaptations
 californium 1
 coadapting
 chauliodes
-crystals
+crystals 1
 cyclohexane
 chemotherapeutic 1
 coccygalgia
