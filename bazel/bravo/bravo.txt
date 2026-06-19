@@ -9819,7 +9819,7 @@ barbing
 brands 1
 begums 2
 bites
-birefringent 1
+birefringent 2
 bebat
 bytes
 bitewing
