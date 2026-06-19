@@ -77,7 +77,7 @@ furthers 2
 flysch 1
 fordeal 1
 fullfaces
-facundity 1
+facundity 2
 facemark 1
 flunkeyhood
 flocklike
