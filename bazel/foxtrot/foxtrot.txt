@@ -2941,7 +2941,7 @@ farfetch 2
 fluellite 1
 flyoff 2
 filialness 1
-facier 2
+facier 3
 fooleries
 flukiness 1
 freezed 2
