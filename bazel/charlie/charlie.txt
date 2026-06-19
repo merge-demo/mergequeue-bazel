@@ -11836,7 +11836,7 @@ choppers
 choppier
 cados
 choppiest
-choppiness
+choppiness 1
 cowpuncher
 clancular
 chopstick 1
