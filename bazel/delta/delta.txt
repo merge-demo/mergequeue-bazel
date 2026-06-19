@@ -15477,7 +15477,7 @@ dowsed
 daishiki
 defibrillate
 deduit
-dogless
+dogless 1
 donat
 donatee
 dentilation
