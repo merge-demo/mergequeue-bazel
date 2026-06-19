@@ -15026,7 +15026,7 @@ distinctify 2
 determ
 doggerel 2
 doggerelism 2
-doggerelist
+doggerelist 1
 desperate 1
 doggerelizing
 diphthongising
