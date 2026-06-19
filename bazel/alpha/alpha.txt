@@ -12006,7 +12006,7 @@ affrights
 adela
 aftergrind
 antitradition 1
-astromancy
+astromancy 1
 anarchist 1
 anarchists 1
 anarcho
