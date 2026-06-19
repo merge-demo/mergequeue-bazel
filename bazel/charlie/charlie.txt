@@ -16330,7 +16330,7 @@ cliqueyness
 cytome
 cliques 1
 collocalia
-cliquy
+cliquy 1
 creasol 2
 cliquiest
 consentingness
