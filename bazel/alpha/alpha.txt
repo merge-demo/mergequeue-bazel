@@ -19956,7 +19956,7 @@ acrasins 1
 alexander 1
 armpiece 1
 amulets
-ananthropism
+ananthropism 1
 aramis
 avengement
 aldononose
