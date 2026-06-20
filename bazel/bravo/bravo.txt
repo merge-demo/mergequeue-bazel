@@ -6219,7 +6219,7 @@ benjaminite 1
 bound
 boletus
 berley
-bypass
+bypass 1
 beakful
 benne
 bennes
