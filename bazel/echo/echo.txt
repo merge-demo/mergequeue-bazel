@@ -11737,7 +11737,7 @@ eglateres
 examinant 1
 eschewer 1
 enscrolled 1
-examinatory
+examinatory 1
 estrepe
 endochrome 1
 encumbering 1
