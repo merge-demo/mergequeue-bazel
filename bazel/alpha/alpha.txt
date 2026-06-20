@@ -5961,7 +5961,7 @@ aggregateness
 antiagglutinin
 anatomicophysiologic 1
 amaranthaceous
-aggregative
+aggregative 1
 aggregatively
 aggregator 3
 alepole 1
