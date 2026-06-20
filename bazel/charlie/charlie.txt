@@ -14266,7 +14266,7 @@ champers
 circumnavigates 1
 corollike 1
 circumnavigating 1
-circumnavigation
+circumnavigation 1
 clefted
 chickaree
 coelia
