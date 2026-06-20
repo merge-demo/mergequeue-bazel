@@ -19937,7 +19937,7 @@ artistically
 acle
 armouchiquois
 ammine 1
-armour
+armour 1
 armourbearer 2
 anaematosis 1
 aristogenics
