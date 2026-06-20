@@ -3573,7 +3573,7 @@ bathmats
 broodsac 1
 bereaven
 basion 1
-bathmism
+bathmism 1
 banker
 befathered
 boozer 2
