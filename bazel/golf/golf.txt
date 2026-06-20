@@ -5926,7 +5926,7 @@ gluepot
 gimballed 1
 garrison
 gemitorial
-globuliform
+globuliform 1
 gaylussacia 2
 gluishness 1
 geonyctinastic 1
