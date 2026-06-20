@@ -23509,7 +23509,7 @@ consolidator
 cric 1
 contestee
 chace
-contestingly
+contestingly 1
 contestless
 contests
 cirratulus
