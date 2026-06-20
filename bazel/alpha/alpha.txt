@@ -13019,7 +13019,7 @@ anharmonic
 abbreviating
 aluniferous
 aeroballistics
-arrowy
+arrowy 1
 agglomeratic 1
 anhedral
 anhelation
