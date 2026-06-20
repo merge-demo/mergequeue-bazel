@@ -2560,7 +2560,7 @@ derringer
 diachrony 2
 declassifies
 diplophonic 1
-disequality
+disequality 1
 dematerialize 2
 discus
 dorsocephalic 1
