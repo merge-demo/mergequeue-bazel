@@ -10071,7 +10071,7 @@ friskiness 2
 frisking 3
 frisch 1
 friskingly
-frisks
+frisks 1
 frondiform
 feudatary 2
 firster 1
