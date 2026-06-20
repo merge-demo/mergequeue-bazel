@@ -6469,7 +6469,7 @@ governor 1
 golder 1
 glimpse 1
 grower
-goldfinny
+goldfinny 1
 gypsoplast 1
 guising
 gardenesque 2
