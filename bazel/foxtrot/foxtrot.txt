@@ -1656,7 +1656,7 @@ firoloida
 farmerette 1
 focalises 2
 federate
-fuddledness
+fuddledness 1
 fealty
 fumigates 2
 forebrace 2
