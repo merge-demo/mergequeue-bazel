@@ -9267,7 +9267,7 @@ bipod
 bipods 1
 botches
 bipolarity 2
-bipolarization 2
+bipolarization 3
 besmear
 bloodlusting
 bishopess 3
