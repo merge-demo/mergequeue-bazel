@@ -5445,7 +5445,7 @@ earthtongue 2
 endpoints 2
 endrudge
 extrabulbar
-ecderonic
+ecderonic 1
 endseal 1
 endshake
 elfishly
