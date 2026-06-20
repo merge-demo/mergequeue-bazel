@@ -5374,7 +5374,7 @@ gelandejump 4
 gunplays 1
 glazework 2
 gutting
-geckoid 1
+geckoid 2
 gravitating 1
 gruelings
 gingal
