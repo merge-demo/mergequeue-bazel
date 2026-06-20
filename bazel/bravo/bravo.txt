@@ -1398,7 +1398,7 @@ bobance
 battable
 balefires
 bewreak 1
-barmbrack
+barmbrack 1
 branned 1
 baleys
 baleise
