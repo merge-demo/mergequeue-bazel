@@ -5806,7 +5806,7 @@ foreswearing 3
 filmer 1
 flamingly 1
 flittermouse 2
-fellowship
+fellowship 1
 fathmur 1
 flitters 1
 frequents 2
