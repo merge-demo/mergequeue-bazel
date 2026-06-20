@@ -21477,7 +21477,7 @@ concordal
 circumundulation
 concordance
 concordancer
-commands
+commands 1
 curliewurly 1
 cardiophobia
 concordances
