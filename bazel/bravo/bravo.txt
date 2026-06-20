@@ -11294,7 +11294,7 @@ blowouts 1
 bedels
 blowproof
 blows 1
-bleachability 2
+bleachability 3
 barograms 3
 boneyard
 biologism
