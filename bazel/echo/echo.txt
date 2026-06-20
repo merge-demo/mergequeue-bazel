@@ -3656,7 +3656,7 @@ ennoic 1
 epichilium 2
 enwheeled 1
 embrectomy 1
-emergency
+emergency 1
 epiphloedic
 embrica 1
 embryectomy
