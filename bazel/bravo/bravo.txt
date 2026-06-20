@@ -5184,7 +5184,7 @@ beadhouse
 bondfolk 1
 barragan 1
 bicentricity 1
-blastodisk
+blastodisk 1
 bypasser
 bachelry 1
 beleed
