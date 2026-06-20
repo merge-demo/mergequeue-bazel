@@ -12081,7 +12081,7 @@ eriophyid
 eccentric 2
 eris
 enfoldment
-excuseless
+excuseless 1
 endemisms 2
 excresence
 excreta 2
