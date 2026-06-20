@@ -522,7 +522,7 @@ foresense 1
 falco 1
 fermentive 1
 forgivableness
-forepaled
+forepaled 1
 fetterless 2
 fustigating
 falcon
