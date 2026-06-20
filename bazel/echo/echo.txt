@@ -11666,7 +11666,7 @@ exactness 2
 edeology 1
 exactors
 enterophthisis
-erotics
+erotics 1
 electrophone 1
 equimomental 2
 elasmobranch 1
