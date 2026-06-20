@@ -1926,7 +1926,7 @@ broadly 1
 bisection 1
 bagnio
 balances
-bandstring 1
+bandstring 2
 bathymetric
 brandishes
 bigeye 1
