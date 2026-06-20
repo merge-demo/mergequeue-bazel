@@ -14859,7 +14859,7 @@ cartmaker
 cytopathic 1
 cosmine
 complected
-cheapies
+cheapies 1
 cajolingly
 cytopathogenic
 cytopathogenicity
