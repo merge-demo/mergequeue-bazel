@@ -6617,7 +6617,7 @@ cebil
 ceboids 1
 chondritis
 ceratitic 2
-creesh
+creesh 1
 cebollite
 cebur
 cecal
