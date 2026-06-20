@@ -7069,7 +7069,7 @@ bimorphs
 bushing
 bespeaking
 bullalaria
-bespeaks
+bespeaks 1
 bespecked
 backrun
 bedwards
