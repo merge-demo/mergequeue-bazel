@@ -5303,7 +5303,7 @@ flukes 1
 fumage 1
 fluoridize
 fatwood
-fretters
+fretters 1
 french
 flain
 fernwort 1
