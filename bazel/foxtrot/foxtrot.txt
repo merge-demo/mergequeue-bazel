@@ -188,7 +188,7 @@ flatfoots 1
 featherless
 furnarius 1
 flier 1
-factorable
+factorable 1
 flimsies 1
 forcut 2
 finitary 1
