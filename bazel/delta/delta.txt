@@ -11576,7 +11576,7 @@ dosology 2
 deglamorize 2
 disconformities 1
 disconjure
-drinkless
+drinkless 1
 disconnectedness
 diphtheroidal
 diphead
