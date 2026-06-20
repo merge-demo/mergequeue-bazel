@@ -11275,7 +11275,7 @@ blear 1
 bourbonian 1
 backups
 blowing
-blowings
+blowings 1
 basify
 brigandage 1
 belage 1
