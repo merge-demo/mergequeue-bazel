@@ -11523,7 +11523,7 @@ emcee 1
 enforced
 encheiria 2
 erotylid 2
-exhaling
+exhaling 1
 eserin
 extractable 3
 elegantly 1
