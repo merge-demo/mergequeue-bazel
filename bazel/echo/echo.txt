@@ -5302,7 +5302,7 @@ expeditating
 equity 1
 esterellite 1
 efik
-enchest
+enchest 1
 emulsionize 1
 engrafting 1
 ecmnesia 1
