@@ -8051,7 +8051,7 @@ foresteep 3
 flockmaster 3
 feyest
 flowerist 1
-frontward
+frontward 1
 fellahs
 flash
 fluidises
