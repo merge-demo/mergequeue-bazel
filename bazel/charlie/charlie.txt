@@ -25511,7 +25511,7 @@ coronae 2
 crepidomata 1
 craniometer
 cavitates
-coronagraph
+coronagraph 1
 cataphonics
 controversionalism
 confervous
