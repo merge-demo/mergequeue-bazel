@@ -15894,7 +15894,7 @@ barbarism 1
 bromination
 broadband
 beswim
-behest
+behest 1
 buzzbomb
 berylate 2
 bendell 1
