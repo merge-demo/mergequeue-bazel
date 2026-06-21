@@ -28906,7 +28906,7 @@ crewmen
 crewneck
 capsheaf 1
 chaetognathan 1
-crex 2
+crex 3
 cry
 crikey
 cryable
