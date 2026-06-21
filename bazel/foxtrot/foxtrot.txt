@@ -5503,7 +5503,7 @@ fillet 2
 ferally 1
 fleshing 2
 fettuccine 2
-formatters
+formatters 1
 fanjets 2
 fleshliest 3
 fiddlies 2
