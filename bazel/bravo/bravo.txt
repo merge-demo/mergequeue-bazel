@@ -5744,7 +5744,7 @@ bretwaldaship
 bellacoola 1
 bellatrix 1
 bungler
-buckjump
+buckjump 1
 balaghat
 biophysics
 beaverroot
