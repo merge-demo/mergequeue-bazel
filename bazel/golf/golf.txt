@@ -4477,7 +4477,7 @@ gundog 1
 graves
 generaliter 1
 greffier 3
-graveyard 1
+graveyard 2
 gipsydom 1
 giddyhead 3
 gepoun
