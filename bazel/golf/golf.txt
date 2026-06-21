@@ -1746,7 +1746,7 @@ gnarrs 1
 gammon 3
 glibber 1
 gave
-gloeal
+gloeal 1
 glessite 1
 goric 1
 glass
