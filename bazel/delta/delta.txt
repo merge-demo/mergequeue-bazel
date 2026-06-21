@@ -4750,7 +4750,7 @@ dividedness 1
 democratisation
 democratise
 dispells
-democratised
+democratised 1
 directeur
 detailed 2
 democratism
