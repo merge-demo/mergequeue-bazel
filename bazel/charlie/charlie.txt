@@ -4586,7 +4586,7 @@ carnivorism
 cordialness
 carnivorously 1
 comart
-carnivorousness
+carnivorousness 1
 cavalcading
 cyanea
 chutnee
