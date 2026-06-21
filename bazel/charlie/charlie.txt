@@ -10408,7 +10408,7 @@ conchinin 1
 chiffons
 continuable 1
 chifforobe
-chlorinity
+chlorinity 1
 cozenage
 commissionership
 comitadji
