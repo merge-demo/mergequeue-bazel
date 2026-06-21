@@ -7993,7 +7993,7 @@ bicircular 2
 bitemporal 1
 beedged
 byname 1
-bick
+bick 1
 bicycler
 bluebooks 1
 bisiliac 1
