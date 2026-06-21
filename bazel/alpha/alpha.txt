@@ -19296,7 +19296,7 @@ areolae 1
 anteriors 1
 aluminothermics
 areolas
-areocentric
+areocentric 1
 areolated
 antiritualistic
 areology
