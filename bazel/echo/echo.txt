@@ -6162,7 +6162,7 @@ enrols
 enmity 2
 eparchean 1
 entracte 2
-embattles
+embattles 1
 ethicizes
 enmove 1
 emusified 1
