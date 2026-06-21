@@ -9536,7 +9536,7 @@ freckle 2
 furnace
 fieldmouse
 fruitfullness 2
-financier 1
+financier 2
 favouress
 flyted 1
 fuseless 1
