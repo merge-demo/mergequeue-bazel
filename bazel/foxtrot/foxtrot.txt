@@ -6549,7 +6549,7 @@ fluttering
 forswears 1
 feedboard 1
 flensing 1
-flutterment
+flutterment 1
 flimflammed 1
 fluviolacustrine 2
 fleetly 1
