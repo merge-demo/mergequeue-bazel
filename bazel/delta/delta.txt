@@ -3352,7 +3352,7 @@ demitting
 desisted
 duddery
 destiny 1
-domesticable
+domesticable 1
 dynamometry 2
 datiscoside 1
 delaying
