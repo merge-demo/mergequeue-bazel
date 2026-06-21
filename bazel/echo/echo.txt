@@ -5074,7 +5074,7 @@ exemplum 1
 eyelid 1
 editorialized 1
 endoaortitis
-endoappendicitis
+endoappendicitis 1
 entoolitic
 economization 2
 emerited 1
