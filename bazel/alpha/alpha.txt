@@ -12112,7 +12112,7 @@ anathematisation
 anathematise 2
 amour 2
 anathematised
-administer
+administer 1
 alchemize 2
 antambulacral 2
 accepter
