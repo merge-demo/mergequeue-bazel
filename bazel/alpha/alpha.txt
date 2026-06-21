@@ -4351,7 +4351,7 @@ aikuchi
 autotriploid
 adsorbability
 archpuritan 1
-allocryptic
+allocryptic 1
 adsorbable
 acnodal
 angiothlipsis
