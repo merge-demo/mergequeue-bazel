@@ -9155,7 +9155,7 @@ ermines 1
 epiloguize 1
 ectoenzyme
 ectocinerea
-encolor 1
+encolor 2
 enates 1
 ernes 1
 erode
