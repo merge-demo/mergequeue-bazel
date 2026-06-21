@@ -11534,7 +11534,7 @@ cooptions
 cordovans
 crossosoma
 catagenesis
-chola
+chola 1
 costoxiphoid
 cholaemia
 cholagogic
