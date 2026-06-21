@@ -8986,7 +8986,7 @@ expletively 2
 erysipeloid 1
 endothoracic
 embiotocid
-extinctionist
+extinctionist 1
 electrocardiograph
 elicitable 1
 elfin
