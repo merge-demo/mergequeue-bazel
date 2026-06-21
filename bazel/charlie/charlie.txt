@@ -13777,7 +13777,7 @@ chroniclers 1
 cantons 1
 crestfallen
 carrageen
-cochromatography
+cochromatography 1
 cinematically
 cinematizing
 cinematograph
