@@ -13437,7 +13437,7 @@ domic
 disreport 1
 disreputability 1
 desolater 1
-deposing
+deposing 1
 dumpily
 disengagements
 dihexagonal 1
