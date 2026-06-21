@@ -5606,7 +5606,7 @@ federal
 frontonasal
 flageolet 3
 fascicled 3
-formerness
+formerness 1
 fourgons 1
 flight 1
 frusla 2
