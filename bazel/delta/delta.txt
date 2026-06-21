@@ -8986,7 +8986,7 @@ depopulators
 digastric 1
 decollate
 dehydrofroze 2
-dicycly
+dicycly 1
 draughtsman
 discriminators
 diolefin
