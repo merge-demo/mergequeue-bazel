@@ -31551,7 +31551,7 @@ conjobble 1
 cyriological
 cycliae
 curt
-curtailed
+curtailed 1
 curtailedly 1
 curtailing
 cursores
