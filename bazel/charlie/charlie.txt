@@ -2898,7 +2898,7 @@ clothesmonger
 chalcis
 cantabrian
 cantabrigian
-cantalever
+cantalever 1
 cantaliver
 cackled
 cantaloup
