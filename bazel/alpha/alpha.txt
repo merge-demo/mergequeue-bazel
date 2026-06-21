@@ -13537,7 +13537,7 @@ annotator
 alasas 1
 annotators 1
 arrendator
-assonant
+assonant 1
 anacardiaceae
 atwain
 allo
