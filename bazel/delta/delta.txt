@@ -1737,7 +1737,7 @@ diobol
 deathiness
 dasewe 2
 discantus
-duckpond
+duckpond 1
 dysenteric 1
 deathless
 decad 1
