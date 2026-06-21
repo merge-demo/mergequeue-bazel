@@ -780,7 +780,7 @@ biometrical 1
 bethorn 1
 blackout 1
 basilidan 1
-building
+building 1
 baedekerian 1
 baphometic
 baeria 1
