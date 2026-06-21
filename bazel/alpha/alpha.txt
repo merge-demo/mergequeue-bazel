@@ -7919,7 +7919,7 @@ automatontons 2
 abolishes 2
 arylamino 1
 alnus
-apogamy
+apogamy 1
 alembicated
 antetype 1
 alemmal
