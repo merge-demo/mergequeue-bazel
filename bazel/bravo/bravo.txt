@@ -6987,7 +6987,7 @@ betrust 3
 bleeders 1
 barricades 1
 basilian 1
-besmouch
+besmouch 1
 bloodying 1
 bacteritic
 besmudge
