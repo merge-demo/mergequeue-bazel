@@ -15415,7 +15415,7 @@ canneries 2
 claques
 claqueur 1
 conducement
-clarain
+clarain 1
 camelidae 1
 clare
 corrodible
