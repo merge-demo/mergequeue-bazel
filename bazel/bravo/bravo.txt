@@ -8486,7 +8486,7 @@ bilinguar
 balks 2
 berycine 3
 bijoux
-brushet
+brushet 1
 bebouldered
 braillist 1
 bronchotomist
