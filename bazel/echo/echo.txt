@@ -10444,7 +10444,7 @@ etymon
 ectocondyle 1
 equalities
 etiolated
-etiology
+etiology 1
 europeanism
 enlacing 2
 etiologist 1
