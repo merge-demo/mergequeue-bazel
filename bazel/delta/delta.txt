@@ -18613,7 +18613,7 @@ denudational 1
 dusttight 1
 dustuk
 decentring 1
-decimalising
+decimalising 1
 dustups 2
 digitus
 debugger 1
