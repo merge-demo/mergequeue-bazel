@@ -12605,7 +12605,7 @@ buttresses
 bonspiel
 bookbind 2
 boruca 2
-bronchocele
+bronchocele 1
 beatniks
 bagels 1
 baguets 1
