@@ -3683,7 +3683,7 @@ finedrawing
 fluxweed
 fungible 6
 federalize
-freeboots
+freeboots 1
 footbreadth
 fibroadipose
 filings
