@@ -27596,7 +27596,7 @@ caterwauled 1
 covillager
 covine
 clinquant
-censes
+censes 1
 cymatium
 coving
 carapus 2
