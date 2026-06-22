@@ -18576,7 +18576,7 @@ arcadias 1
 assalto 1
 aulos 3
 adlegation
-arcading
+arcading 1
 aggravate
 atomical
 arctogaean
