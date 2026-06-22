@@ -1043,7 +1043,7 @@ dispensers
 darksum
 domineers
 danalite
-decimeter
+decimeter 1
 dharmasutra 2
 darling
 disobligingness
