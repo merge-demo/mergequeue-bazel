@@ -5447,7 +5447,7 @@ endrudge
 extrabulbar
 ecderonic 1
 endseal 1
-endshake
+endshake 1
 elfishly
 egretta 1
 easterly
