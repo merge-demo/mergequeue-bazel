@@ -4184,7 +4184,7 @@ gaslit 1
 gainful
 gyrocompass
 geographical 1
-gaggles
+gaggles 1
 gundogs 1
 gauds
 gnathites 1
