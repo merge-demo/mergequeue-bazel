@@ -16617,7 +16617,7 @@ adipocyte
 apelles 1
 acuminate
 athirst 2
-amphigonic
+amphigonic 1
 affiliate
 abrasax
 apepsinia
