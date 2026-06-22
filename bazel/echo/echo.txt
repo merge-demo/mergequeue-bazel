@@ -13486,7 +13486,7 @@ extraconstitutional
 exsanguinating
 exposing
 ethmoidal
-eudaemonic
+eudaemonic 1
 eucalypti 1
 equianharmonic
 egocentricities
