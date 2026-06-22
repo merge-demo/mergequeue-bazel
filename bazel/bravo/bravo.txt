@@ -3989,7 +3989,7 @@ beslur
 bonyfish
 believer 1
 beacons 3
-buoyancy
+buoyancy 1
 beadeye 1
 beader
 bellmaker 1
