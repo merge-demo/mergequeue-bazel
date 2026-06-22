@@ -9808,7 +9808,7 @@ aerifying 2
 albedometer
 acolyctine
 adry 2
-agglomerator
+agglomerator 1
 amanitopsis 1
 antireforming
 aspergillums
