@@ -5602,7 +5602,7 @@ endogens 1
 ethologist 1
 enflaming 3
 epiklesis
-equuleus
+equuleus 1
 embryulcus 1
 enflower
 essexite 2
