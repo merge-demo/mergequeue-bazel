@@ -24923,7 +24923,7 @@ awaking 1
 automotor
 arseniosiderite
 ankylose
-adroit
+adroit 1
 antidiphtheritic
 awkwardish
 awarders
