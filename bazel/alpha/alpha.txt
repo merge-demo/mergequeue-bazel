@@ -14620,7 +14620,7 @@ accustom
 antiabortion 2
 acrotic 1
 ambulation 1
-abacination
+abacination 1
 abstractively 1
 anesthetize
 adapid
