@@ -11662,7 +11662,7 @@ bedding
 bragget
 beneficience 3
 bribability
-boattail
+boattail 1
 byeworkman 1
 blazoners 3
 bosks
