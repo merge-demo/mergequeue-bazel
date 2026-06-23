@@ -8174,7 +8174,7 @@ detachment
 duellists 1
 duple
 deprecate
-diacipiperazine
+diacipiperazine 1
 disload
 drapeability 1
 druidism 2
