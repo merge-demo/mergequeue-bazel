@@ -9820,7 +9820,7 @@ chemicoluminescent
 cyclostome 1
 chemicomineralogical 1
 carcinogenicity 1
-chemicophysical
+chemicophysical 1
 carbonized
 creneling 1
 crucifige
