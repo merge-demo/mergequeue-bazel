@@ -3212,7 +3212,7 @@ actualness
 allochromatic 2
 axopetal
 adderbolt
-acoumetry
+acoumetry 1
 alstonine
 assident 1
 antennary 2
