@@ -5164,7 +5164,7 @@ entogenous
 enteroptotic
 extrudability 1
 eisell
-exilic
+exilic 1
 exorcizing 1
 endoderm 2
 elegibility 1
