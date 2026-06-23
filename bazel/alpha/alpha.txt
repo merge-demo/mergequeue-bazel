@@ -8669,7 +8669,7 @@ abled 1
 attractancy
 anarchs
 andrite
-adjoins
+adjoins 1
 argyrythrose
 anoxidative
 allocution
