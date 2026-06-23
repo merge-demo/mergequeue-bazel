@@ -1656,7 +1656,7 @@ boko 1
 betokens
 balmonies
 bloodroot 3
-balmoral
+balmoral 1
 benefits 1
 besoms
 balmorals 1
