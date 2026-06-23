@@ -9574,7 +9574,7 @@ drachm
 departisanize 1
 deglazes
 dignitary 2
-dignitarian 2
+dignitarian 3
 demophoon
 doubloons
 dignities
