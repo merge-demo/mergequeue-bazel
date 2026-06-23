@@ -11492,7 +11492,7 @@ doest
 defalcations
 deads
 discolorment
-discolouring 1
+discolouring 2
 discolourization
 discourt
 discombobulate
