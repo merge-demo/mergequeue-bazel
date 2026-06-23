@@ -10934,7 +10934,7 @@ floorage 1
 fadridden 1
 fack 4
 francs 1
-fulminurate
+fulminurate 1
 fulness
 fess
 fulnesses 1
