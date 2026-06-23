@@ -21626,7 +21626,7 @@ ceromez
 condescensive 1
 callout
 condescensively
-condescensiveness
+condescensiveness 1
 clearwater
 cancelli
 condescent 1
