@@ -5935,7 +5935,7 @@ fineable
 flaughts
 flubdubs
 forestaysail
-fabiform
+fabiform 1
 flowerpots 1
 flooder 1
 fowlpoxes
