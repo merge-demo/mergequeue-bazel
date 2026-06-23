@@ -7193,7 +7193,7 @@ epharmonic 1
 emforth
 eryopsid 3
 ethnomanic 2
-exuviability 1
+exuviability 2
 emulate 2
 ethal
 electrons
