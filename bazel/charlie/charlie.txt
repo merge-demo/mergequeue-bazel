@@ -23324,7 +23324,7 @@ consumo
 cynosarges 2
 consumpted 1
 corrasive 1
-consumptional
+consumptional 1
 consumptions
 consumptive 1
 consumptively
