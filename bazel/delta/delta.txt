@@ -13272,7 +13272,7 @@ decrees
 dispossession 1
 distrustful
 damascus 2
-detuned
+detuned 1
 dinomys
 dogfish
 dustin
