@@ -9796,7 +9796,7 @@ bandonion
 biteable 1
 begin 1
 bonapartean
-bongo
+bongo 1
 bawd 1
 burgherhood 1
 biteche
