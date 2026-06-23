@@ -2200,7 +2200,7 @@ bodword
 blockade 1
 bostonite 1
 bedrivelled
-barauna
+barauna 1
 barba 1
 bayards
 boneheadedness
