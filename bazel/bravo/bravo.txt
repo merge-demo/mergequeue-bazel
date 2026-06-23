@@ -1616,7 +1616,7 @@ balloted 1
 ballotist 2
 ballots 1
 ballottement
-backlotter 2
+backlotter 3
 baronage
 bahamian
 byelorussians
