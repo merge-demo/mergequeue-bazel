@@ -7073,7 +7073,7 @@ forejudger
 felix 2
 formfeeds
 fellfare
-footful
+footful 1
 foolhardiness 2
 fabulousness 2
 foolhardiship
