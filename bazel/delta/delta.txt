@@ -5859,7 +5859,7 @@ deprecable
 deprecating
 doorbrand
 desolations
-diachoresis
+diachoresis 1
 domal
 demeaning
 disconcert
