@@ -14547,7 +14547,7 @@ division 1
 dollop 1
 degomme 2
 distill
-divisional
+divisional 1
 diachronicness
 durio
 divisionary
