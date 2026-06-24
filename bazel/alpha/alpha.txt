@@ -14790,7 +14790,7 @@ amusee
 ammonitish
 achor 1
 antidromal
-anticensorious
+anticensorious 1
 anticensorship
 anticentralization
 automanual
