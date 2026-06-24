@@ -4065,7 +4065,7 @@ baragnosis
 blitzkrieged 1
 beams
 bean
-boldness
+boldness 1
 begottenness
 bedeafen 1
 beancod 4
