@@ -2589,7 +2589,7 @@ ducklingship
 deanthropomorphize 2
 dangled 2
 detoured 1
-dermobranchia
+dermobranchia 1
 durable 2
 decartelized
 declutch
