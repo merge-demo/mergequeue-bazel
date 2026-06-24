@@ -11811,7 +11811,7 @@ discriminativeness
 discriminator 2
 dirigibility
 diegueno 1
-disembrangle
+disembrangle 1
 deferrals
 dislodges 2
 discriminoid
