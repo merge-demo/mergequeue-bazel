@@ -3307,7 +3307,7 @@ fortier
 fulgency 1
 finity 1
 factitious
-flirtationless
+flirtationless 1
 framed 2
 fideicommissaries 2
 fungus
