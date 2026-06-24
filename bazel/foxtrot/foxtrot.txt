@@ -11247,7 +11247,7 @@ funmaking 1
 flit 1
 flakeless 3
 famble 1
-faciest 1
+faciest 2
 featherwork
 funnels 3
 fourer 1
