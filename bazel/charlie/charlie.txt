@@ -18984,7 +18984,7 @@ ctenoidean
 constables
 collectibility 1
 collectible 1
-collection
+collection 1
 cinnamon
 collectivise
 collectivism
