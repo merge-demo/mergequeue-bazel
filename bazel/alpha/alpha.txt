@@ -22887,7 +22887,7 @@ abricock
 applicabilities 1
 atomology
 auras
-afb
+afb 1
 atonable
 atonalistic
 atone 1
