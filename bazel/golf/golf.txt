@@ -3897,7 +3897,7 @@ gyroplane 3
 goodness 1
 gatherings 2
 geomorphogenic 2
-globeholder
+globeholder 1
 garnetiferous 2
 gulosities 2
 geckotid 2
