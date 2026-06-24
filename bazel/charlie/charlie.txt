@@ -20232,7 +20232,7 @@ cambist
 camias 1
 corrodingly
 commonsense
-carpels
+carpels 1
 commonsensically
 commonweals
 catechismal
