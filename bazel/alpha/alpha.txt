@@ -17406,7 +17406,7 @@ arbitrement
 applot 1
 airship
 adiate 1
-antiarchi 1
+antiarchi 2
 apothegmatically
 apothegmatist
 atriensis 1
