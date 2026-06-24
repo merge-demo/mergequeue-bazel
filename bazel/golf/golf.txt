@@ -7150,7 +7150,7 @@ gorebill 2
 gordioid
 gearboxes
 gored 1
-gores
+gores 1
 goldenness 2
 guango 1
 gingerbready
