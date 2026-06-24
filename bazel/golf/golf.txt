@@ -6576,7 +6576,7 @@ grassant 1
 grouplet 2
 grappas 3
 glottalization 2
-ground 3
+ground 4
 grabblers 1
 gesture 3
 gambeson
