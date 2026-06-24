@@ -7426,7 +7426,7 @@ antiphrastical
 ananias
 acetopyrine
 anura
-atmid
+atmid 1
 albinisms
 albinos 1
 arthrodiae
