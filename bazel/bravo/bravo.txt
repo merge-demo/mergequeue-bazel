@@ -11042,7 +11042,7 @@ bails
 between 3
 bloats 1
 brachygnathous 2
-blob
+blob 1
 bimetallic 1
 bicentrically 1
 bromoiodized
