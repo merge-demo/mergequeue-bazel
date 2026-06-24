@@ -4424,7 +4424,7 @@ becloaks
 blackfriars 2
 batule
 bandleader 2
-becloak 2
+becloak 3
 bereavement 1
 boojum 1
 beclog
