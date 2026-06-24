@@ -1018,7 +1018,7 @@ caprelline 1
 calappidae
 calas
 colourtype
-cohoba
+cohoba 1
 calascione
 cydonia
 calastic
