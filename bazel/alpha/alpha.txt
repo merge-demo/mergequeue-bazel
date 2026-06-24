@@ -17457,7 +17457,7 @@ armaturing 1
 appallment
 aerodyne
 availability
-anamorphic
+anamorphic 1
 armers 1
 amplifying 2
 autobasidia
