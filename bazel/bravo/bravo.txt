@@ -16963,7 +16963,7 @@ bondelswarts
 bedewoman 1
 buildups 3
 bordure 1
-bespeakable
+bespeakable 1
 bedwarmer 2
 backland 1
 briolettes 1
