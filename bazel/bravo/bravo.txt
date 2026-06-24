@@ -17269,7 +17269,7 @@ bumboat
 bumclock 1
 biguttulate
 batling
-boltings
+boltings 1
 bathflower
 birddom 3
 bakula 1
