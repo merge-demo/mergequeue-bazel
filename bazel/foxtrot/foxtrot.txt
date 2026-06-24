@@ -5251,7 +5251,7 @@ fitful
 fierceness 1
 fishmen 2
 filippi
-faugh
+faugh 1
 flavorsome
 falda
 fossilage
