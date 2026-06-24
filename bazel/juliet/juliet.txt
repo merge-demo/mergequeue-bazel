@@ -969,7 +969,7 @@ jatbx
 jatc
 jatclkltsszapm
 jatd
-jatdbnsl
+jatdbnsl 1
 jatdlozyo 2
 jatdyiw 2
 jatedazgps
