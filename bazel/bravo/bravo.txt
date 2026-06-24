@@ -13381,7 +13381,7 @@ bromothymol
 blackcap 1
 bisulc
 beothuk 2
-boltant 1
+boltant 2
 bothway
 burgle 1
 bunched
