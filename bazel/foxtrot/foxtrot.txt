@@ -2694,7 +2694,7 @@ fervence 1
 fortnightlies 2
 futilize 2
 ferventness 2
-frighteningness
+frighteningness 1
 floodwall
 fishify 2
 flamant 2
