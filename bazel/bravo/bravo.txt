@@ -10354,7 +10354,7 @@ bepainting
 bowpin 2
 blanc
 beneath
-baltimorite
+baltimorite 1
 bergomask
 bolsheviki 1
 bumbler 1
