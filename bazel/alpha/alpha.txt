@@ -4100,7 +4100,7 @@ appressor 1
 apply
 agrief
 antihypertensives 2
-antilyssic
+antilyssic 1
 admonitionist
 antenna
 aplacental
