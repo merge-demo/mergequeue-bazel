@@ -5251,7 +5251,7 @@ blastocyst
 begats
 bolters 2
 bastes
-bothsided 1
+bothsided 2
 begazing
 bimasty
 borderer 1
