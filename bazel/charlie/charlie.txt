@@ -30738,7 +30738,7 @@ cuif
 cuifs 1
 cuinage
 cuing
-cuirassed 1
+cuirassed 2
 catachrestical
 cuirasses
 cuirassier 1
