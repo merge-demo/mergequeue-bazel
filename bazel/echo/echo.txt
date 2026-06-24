@@ -11213,7 +11213,7 @@ exostracism 1
 endover 2
 electrotonicity
 experimentalist
-epibolies
+epibolies 1
 evangeliaries
 endocycle
 exocrinology
