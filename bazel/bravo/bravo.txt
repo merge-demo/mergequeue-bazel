@@ -6761,7 +6761,7 @@ bushiest
 berry
 buchnerite 1
 binturong 1
-banshee
+banshee 1
 bitte
 bedscrew
 boteler 1
