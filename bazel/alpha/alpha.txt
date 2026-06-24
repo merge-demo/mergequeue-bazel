@@ -15484,7 +15484,7 @@ antimycotic 1
 argyric
 achage
 alphatoluic
-antimilitary
+antimilitary 1
 amoralism
 astacian
 antiministerial 1
