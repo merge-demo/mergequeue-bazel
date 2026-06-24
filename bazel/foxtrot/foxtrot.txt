@@ -1526,7 +1526,7 @@ flagellaria 2
 freely
 faurd 1
 foreseat 1
-feedbox
+feedbox 1
 flippant
 foodless 1
 fanfaron
