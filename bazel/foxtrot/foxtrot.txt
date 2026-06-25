@@ -1530,7 +1530,7 @@ feedbox 1
 flippant
 foodless 1
 fanfaron
-foulish
+foulish 1
 foreshift 3
 foetuses
 fauterer 2
