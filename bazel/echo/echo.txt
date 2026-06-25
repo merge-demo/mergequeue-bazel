@@ -6931,7 +6931,7 @@ entopic
 endiablee
 elling 2
 evocations 3
-entoplasm
+entoplasm 1
 euxenites 1
 extravaganzas 2
 estreats
