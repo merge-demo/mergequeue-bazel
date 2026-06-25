@@ -1660,7 +1660,7 @@ dissects
 democratizes
 dozening 2
 dentimeter 1
-deamidation
+deamidation 1
 deaminase
 digitize
 daws 2
