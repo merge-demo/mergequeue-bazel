@@ -2224,7 +2224,7 @@ campsite 2
 compasser 2
 campsites 2
 coronofacial
-cretinizing
+cretinizing 1
 campstool
 camptonite
 cubicone 1
