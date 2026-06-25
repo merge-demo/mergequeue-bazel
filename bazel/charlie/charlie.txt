@@ -27981,7 +27981,7 @@ craftwork
 cottoner 1
 craftworker
 crag
-craggan
+craggan 1
 craggy 1
 chromoscopic
 cataphylla
