@@ -360,7 +360,7 @@ backfriend
 bottegas
 backgame 3
 backgammon 1
-board
+board 1
 barbarical 1
 barwares 1
 breaststroke
