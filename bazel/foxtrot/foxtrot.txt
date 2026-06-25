@@ -8001,7 +8001,7 @@ flatteur 1
 fowent 3
 fixgig 3
 feminises
-fumeless
+fumeless 1
 forespeaking
 flavorer
 feuter 1
