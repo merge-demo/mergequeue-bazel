@@ -10841,7 +10841,7 @@ genethlialogical 2
 gyrograph
 guttar 1
 guaiacum
-guzul
+guzul 1
 genotypical
 gasworker 1
 grailer
