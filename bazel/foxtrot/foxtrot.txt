@@ -8586,7 +8586,7 @@ fullfil 3
 fissionable 2
 fungating 1
 farmsteading 1
-forninst
+forninst 1
 fricative 2
 flexor 1
 firedragon
