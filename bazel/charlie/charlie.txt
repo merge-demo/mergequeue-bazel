@@ -27554,7 +27554,7 @@ carangidae
 covered
 coverer
 campfire 1
-coverings
+coverings 1
 comped 2
 cower
 coverlets
