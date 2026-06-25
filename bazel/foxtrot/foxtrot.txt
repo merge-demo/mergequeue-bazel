@@ -292,7 +292,7 @@ fissle
 foxfire 2
 fledges 1
 fragmentisation
-flanks
+flanks 1
 fraenums 2
 forebar 1
 fistnotes
