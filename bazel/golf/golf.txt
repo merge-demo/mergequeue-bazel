@@ -4583,7 +4583,7 @@ gluelike
 gyrencephala 1
 gravicembalo 1
 gutturalized 1
-gilim 1
+gilim 2
 graphometry 2
 glim 1
 galloper 1
