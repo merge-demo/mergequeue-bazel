@@ -9467,7 +9467,7 @@ battlefront
 birodo 1
 bisulphide 1
 brittling 2
-babingtonite 1
+babingtonite 2
 biron
 byronesque
 birostrate 1
