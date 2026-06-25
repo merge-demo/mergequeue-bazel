@@ -332,7 +332,7 @@ forces 1
 fail
 fireplough
 faineancy 1
-fayles 1
+fayles 2
 fimbricated
 furcal
 fayumic
