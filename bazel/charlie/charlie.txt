@@ -3844,7 +3844,7 @@ cleavability
 ceratite 1
 carbonarist 1
 carbonatation
-carbonating
+carbonating 1
 carbonation
 copywriter
 codfishes
