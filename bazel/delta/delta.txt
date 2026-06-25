@@ -3731,7 +3731,7 @@ dehydrogenate
 dawtet 1
 distillable
 disentangled
-devisable
+devisable 1
 dehydrogenisation
 daddling
 delustrant 1
