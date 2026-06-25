@@ -1713,7 +1713,7 @@ fashionmonger 1
 flighted
 fascio
 floats 1
-filicin 1
+filicin 2
 fomites 4
 fortravail
 frippet 1
