@@ -2894,7 +2894,7 @@ fettlings 1
 farcin 2
 freighted 2
 fackins
-firefighters
+firefighters 1
 footstall
 fettucini
 fungiferous
