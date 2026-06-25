@@ -17101,7 +17101,7 @@ cyclohexane
 chemotherapeutic 1
 coccygalgia
 cohesive
-ctenophoric
+ctenophoric 1
 copiable
 coadjudicator
 coadjutant
