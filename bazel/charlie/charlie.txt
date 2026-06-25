@@ -27881,7 +27881,7 @@ crablike
 chromidial
 crabman
 crabs 1
-crabstick
+crabstick 1
 comeatable 1
 calotin 1
 conquians
