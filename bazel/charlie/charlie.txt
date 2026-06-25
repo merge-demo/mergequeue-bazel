@@ -7828,7 +7828,7 @@ cervicitis
 cervicoauricular
 chippable 2
 cervicobasilar
-cervicobregmatic
+cervicobregmatic 1
 cobitis
 cervicobuccal 1
 cervicodynia
