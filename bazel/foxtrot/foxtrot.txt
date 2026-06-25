@@ -3482,7 +3482,7 @@ fanfares 3
 fingerable
 frostfishes 3
 foreseason
-fallback 1
+fallback 2
 fighteress
 fatigation
 fighting 1
