@@ -10448,7 +10448,7 @@ amhar
 afterbirths 2
 alcade
 aminophylline
-archispore
+archispore 1
 araba
 amiability
 amiableness
