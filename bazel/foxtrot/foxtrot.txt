@@ -6843,7 +6843,7 @@ frescoers
 format 1
 favoringly 2
 foliate 2
-favourableness
+favourableness 1
 facemaking 1
 fistiness
 floridities
