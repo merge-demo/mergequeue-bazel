@@ -29246,7 +29246,7 @@ cryptically
 crypticness
 covenantally 1
 crypto 1
-cryptoagnostic
+cryptoagnostic 1
 coextended
 cynogenealogist
 cryptoanalysis
