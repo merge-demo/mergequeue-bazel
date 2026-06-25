@@ -4845,7 +4845,7 @@ disembogue 1
 depthen
 deciduary
 decumana
-deepness
+deepness 1
 dharna 1
 detickers
 demonical
