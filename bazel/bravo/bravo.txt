@@ -4514,7 +4514,7 @@ bae 1
 bandolero 2
 blankest 1
 brigadiership
-barricaded
+barricaded 1
 burnsides 2
 batata 1
 balushai
