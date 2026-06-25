@@ -4609,7 +4609,7 @@ footnoting
 fistwise 1
 fit
 fontally
-fringilliform
+fringilliform 1
 fitchee
 fibrocalcareous 2
 filagrees
