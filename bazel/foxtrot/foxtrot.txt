@@ -597,7 +597,7 @@ fossilisation
 forints
 feasted 2
 fade 1
-featherdom
+featherdom 1
 finders
 filippic 3
 fumishness 1
