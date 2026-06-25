@@ -8214,7 +8214,7 @@ diadema
 depart 3
 diaderm 1
 diadic 1
-disabusing
+disabusing 1
 demurrer
 decouples
 dyadics 1
