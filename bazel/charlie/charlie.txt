@@ -28533,7 +28533,7 @@ countercampaign
 croomia 1
 cueva
 cystines
-credentials
+credentials 1
 credently
 crawleyroot
 credenza
