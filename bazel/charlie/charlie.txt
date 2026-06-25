@@ -7320,7 +7320,7 @@ choachyte
 cephalacanthus 1
 compartner
 cantalite
-cephalagra
+cephalagra 1
 computus
 coudee 2
 cephalaspis
