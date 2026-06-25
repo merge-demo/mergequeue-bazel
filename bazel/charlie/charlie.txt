@@ -16454,7 +16454,7 @@ clockbird
 comodato
 caponizes
 clocker
-clockhouse
+clockhouse 1
 clockless 1
 cuon
 clockmaking
