@@ -7685,7 +7685,7 @@ espece
 epicuticle
 extroversion
 epicuticular 1
-entomotomist
+entomotomist 1
 exacta 2
 eustele 1
 embrued
