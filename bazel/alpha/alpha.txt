@@ -1877,7 +1877,7 @@ antipopularization 1
 antifaction
 acetabulous
 atheromas
-afifi
+afifi 1
 acetabulums 1
 acetacetic
 autopsic 1
