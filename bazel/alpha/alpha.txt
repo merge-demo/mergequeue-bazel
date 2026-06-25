@@ -4618,7 +4618,7 @@ afterspeech
 advocative 1
 acanthological 1
 aq 2
-avicularian
+avicularian 1
 advocatress
 audiovisuals 1
 advoteresse
