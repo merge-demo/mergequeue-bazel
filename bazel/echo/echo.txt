@@ -2706,7 +2706,7 @@ emyds 2
 elaeopten 1
 electrothermal
 ephippial 2
-emulsoidal 1
+emulsoidal 2
 exteriorise 1
 essed 3
 ericolin
