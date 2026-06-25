@@ -1645,7 +1645,7 @@ fdnames
 forthcut
 fluible
 flamboyantly 1
-furbelowed 1
+furbelowed 2
 focally
 fice
 feaberry
