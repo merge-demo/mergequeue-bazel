@@ -20269,7 +20269,7 @@ confederacies 2
 communalization 1
 congressional
 czechoslovakians
-communalize
+communalize 1
 ceratoglossus
 communalizer 1
 carbophilous 1
