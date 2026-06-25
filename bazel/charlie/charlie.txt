@@ -3693,7 +3693,7 @@ chabutra
 caranna
 carap
 couloirs 1
-carapaces
+carapaces 1
 carapacho 1
 chapfallenly
 contumacity
