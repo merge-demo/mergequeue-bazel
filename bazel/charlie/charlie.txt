@@ -30580,7 +30580,7 @@ crepidula
 cubocuneiform 1
 cubododecahedral 1
 concarnation
-cuboid
+cuboid 1
 conopholis
 cuboidal 1
 cuneocuboid
