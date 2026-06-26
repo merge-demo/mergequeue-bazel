@@ -12367,7 +12367,7 @@ baskets
 bomble 1
 blackbutt 2
 brickwall 1
-boombox
+boombox 1
 beget
 bluishness
 bedizening
