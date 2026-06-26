@@ -19650,7 +19650,7 @@ comanchean
 cohesion
 chlordan 1
 comanches
-comandantes
+comandantes 1
 comandanti
 cutis
 catocala
