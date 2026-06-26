@@ -1960,7 +1960,7 @@ bronchoscopy
 brachydactyl 1
 byplace 2
 bulbous 3
-bombard
+bombard 1
 ballocks 1
 basilicas
 bangkok
