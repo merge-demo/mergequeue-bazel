@@ -4994,7 +4994,7 @@ beers 1
 beest
 blowers
 babbools
-bibation
+bibation 1
 bindweb
 ballonette
 bilinguist 1
