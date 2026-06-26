@@ -7026,7 +7026,7 @@ cuvette
 centaurea 1
 carretta
 cantoned
-clitellum
+clitellum 1
 centauress
 centaury
 carburetted 1
