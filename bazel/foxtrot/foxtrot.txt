@@ -3346,7 +3346,7 @@ fulcra 2
 flon
 forsung 1
 flench
-furuncle
+furuncle 1
 fidge
 frogfoot 1
 fractionally
