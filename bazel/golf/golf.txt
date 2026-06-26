@@ -10760,7 +10760,7 @@ grasswards
 glycerins 1
 giber 2
 generation 1
-gutbucket
+gutbucket 1
 gonfalonierate 2
 ganoin 1
 gloam
