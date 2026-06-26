@@ -4897,7 +4897,7 @@ effeminateness
 excludible 2
 explete 3
 enjamb
-encroachments
+encroachments 1
 epitaxic
 encrustation
 elepaio 2
