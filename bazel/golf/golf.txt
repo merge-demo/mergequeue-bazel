@@ -8609,7 +8609,7 @@ gregge 1
 guidwilly
 gotos 1
 goldanged 3
-gimbaling
+gimbaling 1
 guider
 grauwacke
 greeds 1
