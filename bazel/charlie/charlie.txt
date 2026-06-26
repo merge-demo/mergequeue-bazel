@@ -15710,7 +15710,7 @@ clavicorn 1
 clavicornes
 clavicotomy
 clavicular
-clavicularium
+clavicularium 1
 claviculate
 chrysohermidin
 chirotype
