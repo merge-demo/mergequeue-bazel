@@ -12071,7 +12071,7 @@ expediate 2
 entrainer 2
 evzone 1
 esselen 1
-enplanes
+enplanes 1
 epacridaceae 1
 excrementive
 extrasensory
