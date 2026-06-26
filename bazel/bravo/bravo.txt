@@ -3876,7 +3876,7 @@ babus
 bawdrics 4
 bawdries
 boreal
-bawl
+bawl 1
 bawled 1
 bawler
 bawly 1
