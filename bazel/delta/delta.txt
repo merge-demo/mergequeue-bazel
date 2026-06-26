@@ -4490,7 +4490,7 @@ duomachy
 devalorize 1
 developmentist
 dysphoric
-deemphasizes
+deemphasizes 1
 dulnesses
 deception 1
 diaspora
