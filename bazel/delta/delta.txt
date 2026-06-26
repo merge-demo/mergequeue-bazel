@@ -15524,7 +15524,7 @@ dualists
 desensitize 2
 dongola
 drams
-decrew 1
+decrew 2
 doni
 diopsides 1
 deliquesced
