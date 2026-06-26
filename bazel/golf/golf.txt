@@ -3719,7 +3719,7 @@ ghostland 1
 gabbling
 gaugership
 grumpier
-ghostly
+ghostly 1
 gaura
 gnoses 1
 ghostwriter
