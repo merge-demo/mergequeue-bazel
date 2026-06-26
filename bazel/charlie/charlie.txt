@@ -29932,7 +29932,7 @@ crosslight 1
 crosslike
 carbosilicate 1
 crossline
-cymas
+cymas 1
 crosslink
 crossness
 cladophorales 2
