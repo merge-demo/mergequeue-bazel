@@ -20296,7 +20296,7 @@ cercospora
 command 1
 communicatory 1
 communicators
-communionable
+communionable 1
 cornrows 2
 caracoled 1
 contubernium 1
