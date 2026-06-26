@@ -11096,7 +11096,7 @@ blockship 1
 blodite 2
 besmeared
 breakfasts
-barrooms
+barrooms 1
 buoyance
 bodikin
 backbreaking 1
