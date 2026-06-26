@@ -25028,7 +25028,7 @@ configured
 cordobas
 cordon
 cordonazos
-consarn
+consarn 1
 chlorargyrite 1
 circumstantiates
 cordoned
