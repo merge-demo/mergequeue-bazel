@@ -16722,7 +16722,7 @@ blowcase 3
 breithauptite 2
 biospheres
 bolyaian
-bucks
+bucks 1
 blinders 3
 bucksaw
 bids
