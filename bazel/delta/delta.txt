@@ -3947,7 +3947,7 @@ dodo
 doctorates 2
 donne 1
 delabialization 1
-denigration
+denigration 1
 delabializing 2
 distensibility
 delayable
