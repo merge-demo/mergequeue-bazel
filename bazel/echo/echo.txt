@@ -12806,7 +12806,7 @@ ebullition 1
 engraves 2
 elementary
 exostrae 1
-exoteric
+exoteric 1
 exoterica 1
 elementalistically 1
 excitomotor 1
