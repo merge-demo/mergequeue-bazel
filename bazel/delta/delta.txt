@@ -18534,7 +18534,7 @@ desulfurization 1
 darbs
 disrates
 durians
-differ 2
+differ 3
 duricrust 1
 duridine
 durity
