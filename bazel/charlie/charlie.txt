@@ -10183,7 +10183,7 @@ codworm 1
 croisard
 coussinet 1
 chia 1
-chyack
+chyack 1
 chianti 2
 chiao
 capsicum
