@@ -4177,7 +4177,7 @@ cardiometric 1
 cardiomyomalacia 1
 cardiomyopathy
 camshaft
-cardionecrosis
+cardionecrosis 1
 cannibal 1
 cardioneurosis
 cardiopath
