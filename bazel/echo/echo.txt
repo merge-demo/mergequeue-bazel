@@ -12085,7 +12085,7 @@ excuseless 1
 endemisms 2
 excresence
 excreta 2
-escheator
+escheator 1
 endued 2
 engulfs 2
 edentates
