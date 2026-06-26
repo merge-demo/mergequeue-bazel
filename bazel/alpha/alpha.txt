@@ -20935,7 +20935,7 @@ abstrahent
 amidid 1
 adherence 2
 ascariasis 2
-aerodynamicist
+aerodynamicist 1
 assuefaction 1
 anticlassicalness
 alimentally
