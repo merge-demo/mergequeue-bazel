@@ -3645,7 +3645,7 @@ farmable 1
 fridstool 3
 frictionlessly 2
 flashing 1
-faintishness
+faintishness 1
 fielder 2
 floatsman
 froglets
