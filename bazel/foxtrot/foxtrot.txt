@@ -3911,7 +3911,7 @@ fluidness 1
 ferocactus 2
 financer 1
 fripperies 3
-followers
+followers 1
 fevertrap 2
 footslogged
 fluidextract 1
