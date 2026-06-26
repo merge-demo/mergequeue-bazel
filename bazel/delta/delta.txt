@@ -1478,7 +1478,7 @@ deuteroplasm
 dories
 dispulp
 dazement 1
-deckhouses
+deckhouses 1
 dazes
 dazzle 1
 dawnstreak 4
