@@ -17442,7 +17442,7 @@ carbineers
 chokeable 1
 cobang
 confessed
-cobber
+cobber 1
 crosstrees
 cobbin
 cobbing
