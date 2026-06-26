@@ -2732,7 +2732,7 @@ duetto
 decorate 1
 decorating
 daukin
-dont
+dont 1
 discounsel
 diplopterous 2
 deedful
