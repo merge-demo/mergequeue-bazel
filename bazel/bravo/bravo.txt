@@ -12056,7 +12056,7 @@ bifurcous
 boyship 1
 boisterous
 brangling
-boistous
+boistous 1
 boistously
 boistousness
 backplate 1
