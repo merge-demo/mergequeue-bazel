@@ -21000,7 +21000,7 @@ ascescency 1
 ascescent 1
 asceses 1
 ascetic
-appendent
+appendent 1
 asceticism
 ascetta
 alpasotes
