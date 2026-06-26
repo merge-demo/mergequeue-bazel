@@ -905,7 +905,7 @@ absoil 1
 acorn 2
 absterging
 antient 1
-absolent
+absolent 1
 aliases
 appenzell 1
 aircrafts
