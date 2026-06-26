@@ -8149,7 +8149,7 @@ foregate 3
 forthwith 2
 fretless
 ferberite 1
-fructuosity
+fructuosity 1
 fossilology 1
 foretrace 1
 forecastleman
