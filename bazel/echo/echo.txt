@@ -1508,7 +1508,7 @@ efoliose
 efph 1
 enantiomorphism
 erringly
-entocondylar
+entocondylar 1
 experimentarian 1
 estantion 2
 empyesis 2
