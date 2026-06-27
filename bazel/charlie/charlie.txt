@@ -4800,7 +4800,7 @@ couteau
 carpophyte
 covariables 1
 carpopodite 1
-carpopoditic 1
+carpopoditic 2
 coordinating
 carved
 carpoptosia 1
