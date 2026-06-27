@@ -7274,7 +7274,7 @@ disarrest
 deteriorating
 deterioration
 deuce 1
-data
+data 1
 dear 2
 dicyan
 diamondlike
