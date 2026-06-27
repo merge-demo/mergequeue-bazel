@@ -4309,7 +4309,7 @@ dovelet
 detraining 1
 divisiveness
 demagnetising
-diacranteric
+diacranteric 1
 decomposes
 dhoney 1
 deplores 2
