@@ -6832,7 +6832,7 @@ fructifier 1
 forger
 foliaged
 firetower 2
-fustigator
+fustigator 1
 fussify 2
 flipjack 1
 fourhanded 3
