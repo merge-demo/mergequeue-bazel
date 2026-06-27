@@ -19938,7 +19938,7 @@ acle
 armouchiquois
 ammine 1
 armour 1
-armourbearer 2
+armourbearer 3
 anaematosis 1
 aristogenics
 avalanched 1
