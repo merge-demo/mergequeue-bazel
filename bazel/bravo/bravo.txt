@@ -13456,7 +13456,7 @@ bottlemaker 1
 begotten 1
 burgs 2
 broilery
-beer
+beer 1
 bleeding 1
 bottleman 1
 bulse
