@@ -5402,7 +5402,7 @@ goodtemperedness 2
 glimmer 2
 graphometry 1
 groundswell
-generall
+generall 1
 glucosid 2
 gutwise 2
 glycaemic 1
