@@ -5820,7 +5820,7 @@ episode
 encloser 3
 enray 1
 ephoi 2
-effluvia
+effluvia 1
 environing 1
 environmentalist 1
 elephant
