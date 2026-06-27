@@ -2242,7 +2242,7 @@ camshachle
 countershear
 camshafts 1
 camstane 1
-coneine
+coneine 1
 caval
 camstone
 canaliculization 1
