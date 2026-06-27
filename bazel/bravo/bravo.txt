@@ -17895,7 +17895,7 @@ bivium
 boundable
 bushelers
 bescurvy
-bushelfuls
+bushelfuls 1
 belabour 4
 bonytail
 buginese
