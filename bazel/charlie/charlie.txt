@@ -16238,7 +16238,7 @@ cobrother 1
 clinoclasite
 citifies
 clinodiagonal 2
-clinodomatic
+clinodomatic 1
 canzonas
 cardiamorphia 1
 clinographic
