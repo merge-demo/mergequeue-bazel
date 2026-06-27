@@ -16259,7 +16259,7 @@ draughtswomanship 1
 deforest 1
 deteriorate
 downface
-downstair
+downstair 1
 duodenocystostomy 2
 dacryolite 1
 dipsaceous 1
