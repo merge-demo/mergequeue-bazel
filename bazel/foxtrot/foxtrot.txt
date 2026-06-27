@@ -9621,7 +9621,7 @@ ferias 2
 fortalice 1
 finalities
 flukier
-foamer
+foamer 1
 frons 2
 freeloaded 1
 florate 2
