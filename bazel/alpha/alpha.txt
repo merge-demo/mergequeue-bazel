@@ -5619,7 +5619,7 @@ amnesics
 afterward 1
 afterwise
 afterwit
-afterwork
+afterwork 1
 agathodemon 1
 apinage 1
 aint
