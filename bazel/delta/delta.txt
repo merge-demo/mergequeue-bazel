@@ -7155,7 +7155,7 @@ desulfurizing 1
 demolitions 3
 dynamometric
 depictor
-deambulate
+deambulate 1
 desulfurs
 daphnetin
 desulphur 1
