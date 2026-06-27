@@ -11520,7 +11520,7 @@ fissidactyl 1
 fireflaught 2
 filmsetting
 forleave
-ferruler
+ferruler 1
 fistic
 foreremembered 2
 fab
