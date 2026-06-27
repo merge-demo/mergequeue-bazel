@@ -12036,7 +12036,7 @@ boyhoods 1
 bebloom 1
 balisaurs
 boilable 1
-bromocresol
+bromocresol 1
 befrounce 1
 blindage 1
 boilerful
