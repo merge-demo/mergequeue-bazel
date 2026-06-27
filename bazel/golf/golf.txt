@@ -4979,7 +4979,7 @@ gawker 3
 galling
 glew 1
 goodwilled 2
-gigantic
+gigantic 1
 grafters
 goldhead
 genealogists
