@@ -5804,7 +5804,7 @@ diaxial
 deceit
 distalwards
 dacker
-deepnesses
+deepnesses 1
 decoupled 1
 deposers
 discouragement 1
