@@ -9591,7 +9591,7 @@ gobbed
 gossiphood 1
 gujrati 2
 gerbe
-gowds
+gowds 1
 gedanite 1
 gravimeters
 glandula
