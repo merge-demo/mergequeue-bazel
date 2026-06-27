@@ -5134,7 +5134,7 @@ glycoside
 glossate 1
 gregarinous
 glali
-gnatflower
+gnatflower 1
 gaumed 4
 gallweed
 glomera 1
