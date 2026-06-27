@@ -8952,7 +8952,7 @@ detruck 1
 dwarfness
 debitrix
 discursively
-dioptrometry
+dioptrometry 1
 drifter
 dimethoxymethane
 dom
