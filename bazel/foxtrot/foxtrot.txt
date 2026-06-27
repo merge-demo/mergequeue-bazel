@@ -6463,7 +6463,7 @@ flurn 1
 flurried
 futhorks
 fernbird
-furiosa
+furiosa 1
 ferried 3
 fumagine
 fouquieriaceous
