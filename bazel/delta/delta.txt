@@ -4790,7 +4790,7 @@ demihag 2
 dodecatylic
 deair 2
 disseizor
-deanimalize
+deanimalize 1
 diemaker
 dentalizing 1
 disenslave
