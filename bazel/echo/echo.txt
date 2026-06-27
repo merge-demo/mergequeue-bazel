@@ -8572,7 +8572,7 @@ exceptant 2
 eskimauan 1
 extraparenchymal 2
 equiaxed 1
-edificable
+edificable 1
 equate 1
 eburnification 2
 enharmonic 1
