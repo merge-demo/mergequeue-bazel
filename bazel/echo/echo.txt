@@ -6332,7 +6332,7 @@ eumycetes
 equijacent 2
 embowed
 enrut 1
-euclidean
+euclidean 1
 ens
 emmenagogue 1
 elenchtic 1
