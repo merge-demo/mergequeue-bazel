@@ -5567,7 +5567,7 @@ enfettering 2
 enophthalmos
 expandability 1
 episcopality 1
-ecphrasis
+ecphrasis 1
 endoergic
 enfevering
 emitters
