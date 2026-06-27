@@ -5610,7 +5610,7 @@ evaporate
 ectognatha 5
 equalization 2
 epidendrum 3
-elutions
+elutions 1
 enfold 1
 ethyl 1
 exceptionalness 4
