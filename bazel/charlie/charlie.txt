@@ -22934,7 +22934,7 @@ cylindroidal 1
 causse 1
 consigning
 consignments
-consiliary
+consiliary 1
 consilience
 consilient
 consimilar
