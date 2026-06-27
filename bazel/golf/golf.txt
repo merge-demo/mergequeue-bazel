@@ -3255,7 +3255,7 @@ genuses 2
 goldminer 1
 graywacke
 gruellers 1
-glucemia 2
+glucemia 3
 geometrising
 geosynclines 1
 goetical 2
