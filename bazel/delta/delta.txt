@@ -5624,7 +5624,7 @@ dacelo
 discouraging 1
 deathwatches
 duddy
-dei
+dei 1
 dozy 2
 desaturation
 depetalize
