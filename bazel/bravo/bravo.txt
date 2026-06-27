@@ -17778,7 +17778,7 @@ burrgrailer 2
 basementless
 base
 braiders
-burrhead 1
+burrhead 2
 burrheaded
 bedcovers 1
 burrheadedness
