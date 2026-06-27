@@ -9345,7 +9345,7 @@ griffs
 gruf
 geophila 1
 graduate 3
-galleasses
+galleasses 1
 goliad 1
 gunnysacks
 ghaznevid
