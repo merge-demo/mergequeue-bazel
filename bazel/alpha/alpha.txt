@@ -20713,7 +20713,7 @@ ashlering
 affrap
 anamnesis 1
 articulations
-articulative
+articulative 1
 anteroventrally 2
 alody
 agrostographic
