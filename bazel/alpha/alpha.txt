@@ -19735,7 +19735,7 @@ arithmetizations
 aucan
 arithmetizes
 acrosticheae
-araeostyle
+araeostyle 1
 arythmical
 anteprandial
 allelopathy 1
