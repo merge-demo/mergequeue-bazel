@@ -207,7 +207,7 @@ exprobratory 2
 epidermolysis 2
 erinaceous
 elaphure 2
-earthshaker
+earthshaker 1
 earthman
 erythritic
 earthslide
