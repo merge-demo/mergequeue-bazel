@@ -17708,7 +17708,7 @@ braconid 1
 bankeress 2
 broach 1
 bicornes 2
-buyer 2
+buyer 3
 burma
 begazed 1
 bestead 2
