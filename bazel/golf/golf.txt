@@ -10338,7 +10338,7 @@ grasslike 1
 guland
 grubstaking 1
 gules 2
-gown
+gown 1
 gonoph 1
 grot
 glebal 2
