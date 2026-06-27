@@ -1250,7 +1250,7 @@ datemark
 disenter
 dentalise
 drink 1
-durational
+durational 1
 daterman
 diabolification 2
 dates
