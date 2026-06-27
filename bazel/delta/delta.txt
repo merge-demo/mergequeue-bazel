@@ -10898,7 +10898,7 @@ debaters
 desalting
 disculpate
 decerebrize 1
-diruption
+diruption 1
 dereference
 deployed 2
 disable
