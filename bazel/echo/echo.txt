@@ -1289,7 +1289,7 @@ eq
 eeriness 1
 ecostate 1
 epithalamion 1
-encircler 1
+encircler 2
 endogenesis 1
 eassel 1
 enteroid 1
