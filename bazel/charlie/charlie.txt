@@ -26594,7 +26594,7 @@ copperas 1
 cornbird
 cystectomies
 coulombmeter
-coulombs
+coulombs 1
 coulter 1
 circumscription
 coumaphos
