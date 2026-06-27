@@ -1416,7 +1416,7 @@ formulators 1
 federacy
 fatbacks 2
 foretimes
-fishway
+fishway 1
 fountainlet
 focometry 2
 fallibly 1
