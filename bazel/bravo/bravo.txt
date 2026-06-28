@@ -15342,7 +15342,7 @@ bohorok 1
 boisterously
 brieflessly
 besieges
-briefness
+briefness 1
 bleeds 1
 bedstaves
 barblet 2
