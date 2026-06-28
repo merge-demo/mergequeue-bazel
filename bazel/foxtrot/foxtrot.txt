@@ -10674,7 +10674,7 @@ fivepenny 1
 fairstead 1
 fruitstalk
 fg 1
-foreset
+foreset 1
 foresheets 2
 fleuretty
 fortuneless 2
