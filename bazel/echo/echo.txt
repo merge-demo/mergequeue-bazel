@@ -2261,7 +2261,7 @@ encell
 epauletted 1
 electragy 2
 electress
-excessive
+excessive 1
 epitomist
 exla 2
 electret
