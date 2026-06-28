@@ -4752,7 +4752,7 @@ gainstand
 garua
 galactite 2
 glick
-genethliatic
+genethliatic 1
 gendarme
 giantlike 1
 gabbroic 2
