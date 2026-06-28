@@ -24949,7 +24949,7 @@ awater 2
 allophite
 abfarad
 arachis 1
-awave
+awave 1
 atilt
 actability
 aldine
