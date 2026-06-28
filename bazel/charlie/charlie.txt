@@ -27538,7 +27538,7 @@ coroplast 1
 creaturehood
 cover
 containable
-coverable 1
+coverable 2
 coverages
 cuselite
 coverall
