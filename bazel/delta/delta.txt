@@ -5461,7 +5461,7 @@ deodorizes
 drawees
 detesters 2
 dibutyrate 1
-deoppilant
+deoppilant 1
 deceives 2
 detectably 1
 deoppilate
