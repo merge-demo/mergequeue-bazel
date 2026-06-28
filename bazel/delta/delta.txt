@@ -18060,7 +18060,7 @@ dullnesses
 disgavelled 1
 deglaze
 deflexing
-demihearse
+demihearse 1
 devoto 1
 dialectologies
 dulness
