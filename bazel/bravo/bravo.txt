@@ -18373,7 +18373,7 @@ bepaint 1
 buzz 3
 buzzard
 beylical
-beasts
+beasts 1
 bluebook
 balaustre 1
 byronics
