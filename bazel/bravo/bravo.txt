@@ -4989,7 +4989,7 @@ beefers 2
 bouchon
 bombycilla
 breakfasters
-beerpull
+beerpull 1
 beers 1
 beest
 blowers
