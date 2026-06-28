@@ -4854,7 +4854,7 @@ carriageful 1
 clachans
 carriages 1
 crosstie
-carriagesmith
+carriagesmith 1
 cinchonicin
 carriageway
 carryall 1
