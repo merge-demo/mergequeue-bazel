@@ -756,7 +756,7 @@ ecotypically 2
 ecotonal 1
 enclaved 2
 ecaudate 2
-echinocaris
+echinocaris 1
 emblematise 2
 evangelism 3
 extorsive
