@@ -965,7 +965,7 @@ formalizer
 fillagreed 3
 foundership 1
 fizzles 2
-fardage 1
+fardage 2
 farded 1
 foyers 1
 forride 2
