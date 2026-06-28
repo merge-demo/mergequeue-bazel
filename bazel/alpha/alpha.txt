@@ -4992,7 +4992,7 @@ auriculate
 admissibleness
 aeropathy
 arthritides
-aerope
+aerope 1
 acinetae
 aeroperitoneum 1
 alburnum 1
