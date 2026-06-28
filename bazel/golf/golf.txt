@@ -5125,7 +5125,7 @@ glinting 2
 glaucidium
 gainyield
 generalissima 1
-gandhist
+gandhist 1
 gummas 1
 glaucionetta 1
 gromatics
