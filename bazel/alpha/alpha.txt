@@ -24100,7 +24100,7 @@ arrtez 1
 autoette
 antigenicity
 autofrettage
-autogamic
+autogamic 1
 armament
 afreets
 autolaryngoscopic
