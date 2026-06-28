@@ -5908,7 +5908,7 @@ catfalls
 catfight
 creeled 1
 catfish
-catfoot
+catfoot 1
 catfooted
 chhatri
 catgut 1
