@@ -12237,7 +12237,7 @@ almach
 anchorite
 arraignable
 archinfamy
-arbalests
+arbalests 1
 acetoveratrone
 alignment 1
 anchorman
