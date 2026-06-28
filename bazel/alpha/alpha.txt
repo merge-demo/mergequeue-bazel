@@ -17651,7 +17651,7 @@ anticontagion
 adsorbents 1
 amphipleura
 appetitious
-anopsia
+anopsia 1
 adultness 2
 allworthy 2
 alphabetizes 1
