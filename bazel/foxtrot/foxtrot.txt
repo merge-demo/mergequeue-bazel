@@ -11481,7 +11481,7 @@ ferrite
 foredescribe 1
 farms 2
 facilities 1
-figural
+figural 1
 finnmarks 1
 furthest
 flittering 1
