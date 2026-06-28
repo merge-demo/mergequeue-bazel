@@ -10709,7 +10709,7 @@ fetter 1
 forbare 1
 forecount 3
 forbore
-frumpishly
+frumpishly 1
 fanciness
 foreyear 2
 follyer
