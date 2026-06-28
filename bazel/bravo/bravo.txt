@@ -1595,7 +1595,7 @@ balloen 1
 bewray
 ballone
 bullbird
-ballones
+ballones 1
 brasier
 boiguacu 1
 ballonne
