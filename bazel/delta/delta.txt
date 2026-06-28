@@ -6251,7 +6251,7 @@ dermatic
 dermatitises 1
 drupe 2
 dermatoconiosis
-dermatodynia
+dermatodynia 1
 demisability
 disown 1
 distrainer
