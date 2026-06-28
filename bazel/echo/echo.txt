@@ -6053,7 +6053,7 @@ eyrie 1
 estoque 1
 expromissor 2
 endosarcs
-expire
+expire 1
 ere 2
 epiglottises 4
 enkindles
