@@ -7223,7 +7223,7 @@ detar 1
 detassel 1
 detat
 defoliating 1
-dimethylamino
+dimethylamino 1
 darns 2
 disenchantingly 1
 detecter
