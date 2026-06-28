@@ -11081,7 +11081,7 @@ borborygmic
 benzimidazole
 biomorphic
 billeter
-bedwarfs
+bedwarfs 1
 broil
 baobabs
 blockmaker 1
