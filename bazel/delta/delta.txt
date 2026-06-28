@@ -5291,7 +5291,7 @@ drammer 2
 density
 defat
 degasifier
-dispositioned 1
+dispositioned 2
 diatomaceoid 1
 denouncers
 detestable 1
