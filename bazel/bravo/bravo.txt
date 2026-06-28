@@ -2343,7 +2343,7 @@ bagging 1
 boxboards
 barbotine 2
 bones 2
-bastinade
+bastinade 1
 biolysis
 belligerency
 bachelorlike
