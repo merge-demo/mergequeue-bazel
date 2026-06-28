@@ -22954,7 +22954,7 @@ consistency 1
 catalytic
 chemotherapies
 companioning 1
-clinodome
+clinodome 1
 consistencies
 choriambi
 consistent 1
