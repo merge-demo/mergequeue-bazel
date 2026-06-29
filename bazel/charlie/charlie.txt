@@ -27276,7 +27276,7 @@ countryfolk 2
 closewing 1
 congeable
 crullers
-coadjust
+coadjust 1
 cassine 2
 convolvuluses
 cloggiest
