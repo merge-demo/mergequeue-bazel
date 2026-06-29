@@ -11234,7 +11234,7 @@ bridgeable 1
 bescouring
 bullfight
 bewail
-burez
+burez 1
 blasts
 brightening 1
 benday 1
