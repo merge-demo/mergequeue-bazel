@@ -3258,7 +3258,7 @@ embuia 1
 elute
 elution
 esthesiometric 1
-enzymatically 1
+enzymatically 2
 effuso 1
 epirotulian 1
 epigon 2
