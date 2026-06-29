@@ -11629,7 +11629,7 @@ fumy 3
 friendship 1
 forwake 2
 fetlow 1
-fineness
+fineness 1
 fructoses 1
 ferren 1
 flyability
