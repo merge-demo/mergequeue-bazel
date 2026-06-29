@@ -3519,7 +3519,7 @@ demographical
 delvers 2
 deformable 1
 darkey 2
-deformation
+deformation 1
 deflections 1
 delete 1
 deformations 1
