@@ -3749,7 +3749,7 @@ durmasts 2
 decimate 1
 dehonestation
 disoccupied 1
-dehorn 1
+dehorn 2
 dolcan 1
 desmose
 demain
