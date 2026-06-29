@@ -5258,7 +5258,7 @@ anagenetical 1
 ampitheater 1
 attackable
 anapterygotous
-alingual 2
+alingual 3
 anticlinal
 anapophysial
 ammonifier
