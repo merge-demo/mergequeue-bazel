@@ -2542,7 +2542,7 @@ candlemaking
 candlemas 4
 crewel 1
 childproof
-cacqueteuse
+cacqueteuse 1
 candlenut
 candlepins
 chemist
