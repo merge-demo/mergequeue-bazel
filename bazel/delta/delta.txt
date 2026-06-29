@@ -7594,7 +7594,7 @@ discernible 1
 drou
 doublewidth
 diddikai
-darking
+darking 1
 darwinistic 2
 deva
 dequeuing 1
