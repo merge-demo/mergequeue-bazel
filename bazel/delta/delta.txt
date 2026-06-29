@@ -3609,7 +3609,7 @@ dextrogyre
 dinosauric 1
 dinornithiformes 1
 degenerate
-desulphurizer
+desulphurizer 1
 diagrammatize 1
 diodont 1
 docosane
