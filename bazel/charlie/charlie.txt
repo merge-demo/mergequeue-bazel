@@ -25898,7 +25898,7 @@ corsetry 1
 conversation
 continuative 1
 corsets
-chopboat
+chopboat 1
 corsy
 corsican
 chyak
