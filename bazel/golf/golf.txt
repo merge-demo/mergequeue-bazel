@@ -10563,7 +10563,7 @@ gatepost 2
 glyphs 1
 guanays 2
 gunmaking 2
-gaun
+gaun 1
 gerbo 1
 gesneraceae 1
 gyneocracy
