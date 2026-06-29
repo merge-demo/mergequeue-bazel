@@ -1441,7 +1441,7 @@ digresses
 demiurgical
 dawning
 desocialize
-dawnlike
+dawnlike 1
 demimetope 1
 disoccident
 decenniums 1
