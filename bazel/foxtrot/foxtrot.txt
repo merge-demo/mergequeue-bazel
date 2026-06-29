@@ -2364,7 +2364,7 @@ fanhouse 2
 feres
 floatstone
 flytings 1
-fegs
+fegs 1
 frolicky
 favoritism 1
 ferforth
