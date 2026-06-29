@@ -9233,7 +9233,7 @@ chateaugray
 chateaus 1
 chateaux
 chatelain
-cordmaker
+cordmaker 1
 chatelaines
 chemotherapists 1
 corrosionproof 1
