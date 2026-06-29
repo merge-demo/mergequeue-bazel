@@ -4794,7 +4794,7 @@ carpompi
 counterorganization
 carpool
 craning
-carpopedal
+carpopedal 1
 cladoniaceous
 couteau
 carpophyte
