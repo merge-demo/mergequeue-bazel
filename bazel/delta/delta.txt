@@ -15003,7 +15003,7 @@ dogeship 1
 dicentrine 1
 dustproof 1
 dunderhead
-depressive
+depressive 1
 dreamland
 dueler
 dogfennel
