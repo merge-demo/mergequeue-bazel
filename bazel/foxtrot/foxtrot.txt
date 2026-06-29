@@ -2133,7 +2133,7 @@ frigate 2
 fletch 1
 faujdar
 fuchsite 1
-fosterling 1
+fosterling 2
 flagstone
 fluer
 fidepromissor 1
