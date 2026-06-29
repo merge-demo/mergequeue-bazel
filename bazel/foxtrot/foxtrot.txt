@@ -5678,7 +5678,7 @@ fountains
 firebrands
 freeloader
 flingy 1
-funded
+funded 1
 fiddlestring
 flings 1
 freestyle
