@@ -2592,7 +2592,7 @@ bowable 1
 bears
 brittlely 2
 barytophyllite 1
-blawed
+blawed 1
 bridgelike
 barkary
 bluestocking 1
