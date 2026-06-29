@@ -11528,7 +11528,7 @@ furtiveness 2
 frena 2
 foxfeet 2
 fuselages 1
-fuselike
+fuselike 1
 forecaddie 2
 fermentations
 faradiser 2
