@@ -3069,7 +3069,7 @@ benzophenoxazine
 boilerworks
 bullary 1
 breather 1
-blastplate 1
+blastplate 2
 bating
 badminton 1
 barware 1
