@@ -9550,7 +9550,7 @@ barque
 burucha 1
 boeotia 3
 bogue 2
-bluejack
+bluejack 1
 battlements
 ballhawk
 biscayan
