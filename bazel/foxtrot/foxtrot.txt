@@ -604,7 +604,7 @@ fumishness 2
 falsehood 4
 flosculet
 frazil
-fertility
+fertility 1
 faintingly
 festschriften
 fluctiferous 5
