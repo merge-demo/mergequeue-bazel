@@ -10918,7 +10918,7 @@ franticness
 fidgeters 1
 filtration 1
 forlay 4
-flavorful
+flavorful 1
 flighthead 2
 forge
 flavone
