@@ -1655,7 +1655,7 @@ deallocations 1
 deprival
 decapsulation
 dishrag
-dealt
+dealt 1
 dissects
 democratizes
 dozening 2
