@@ -9243,7 +9243,7 @@ dollface 1
 divined 1
 disinsectization 1
 dislegitimate 1
-drawcard 1
+drawcard 2
 digitaliform
 diemakers 1
 duckie
