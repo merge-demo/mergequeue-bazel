@@ -13428,7 +13428,7 @@ antigrammaticalness
 apathetic 1
 adiposeness
 annalists
-authotype
+authotype 1
 annalize
 ajatasatru 1
 arctician 1
