@@ -3148,7 +3148,7 @@ emissive
 empanelled
 endoscopy
 earthsmoke
-eloigning
+eloigning 1
 enactment
 euryte 2
 eloigns
