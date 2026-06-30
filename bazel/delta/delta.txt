@@ -8636,7 +8636,7 @@ dows 2
 decarchy 3
 diarrhoeal 2
 dephysicalize
-diarrhoetic
+diarrhoetic 1
 diarthric 1
 dorsocervical 2
 disfavored
