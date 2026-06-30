@@ -449,7 +449,7 @@ apothems
 anonychia
 abiotic
 argentometer
-authorities
+authorities 1
 angiotomy 1
 aggrandizing 1
 ascot 2
