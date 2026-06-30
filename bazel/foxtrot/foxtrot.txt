@@ -8074,7 +8074,7 @@ forepost 1
 fessing 3
 falbala 1
 forestral 3
-forestries
+forestries 1
 firebrats 1
 furnitures
 fondness
