@@ -8716,7 +8716,7 @@ gastrodisc 1
 growler
 guaranteing 1
 golosh 1
-gnathonic 1
+gnathonic 2
 girosols
 guazuma
 gonys
