@@ -5859,7 +5859,7 @@ buttstock 2
 batholith
 bidactyle 2
 beefin
-bypaths 1
+bypaths 2
 beerocracy
 bellowsful
 bargainer
