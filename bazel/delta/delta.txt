@@ -11587,7 +11587,7 @@ disconnector 3
 demicannon 1
 denotable 2
 dollarfish 1
-devillike
+devillike 1
 disconsent
 diphthongised
 dithering
