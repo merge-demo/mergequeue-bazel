@@ -4344,7 +4344,7 @@ blockishness
 bossdoms 2
 beche
 becheck
-befool
+befool 1
 bechic 1
 bechignoned 2
 bacchanalize
