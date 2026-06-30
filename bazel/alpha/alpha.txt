@@ -13170,7 +13170,7 @@ astraean 1
 animallike
 apozemical
 accouterments
-adapter
+adapter 1
 achieves 1
 ayrshire
 atmidometer 1
