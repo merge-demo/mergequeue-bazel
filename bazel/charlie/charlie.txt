@@ -28071,7 +28071,7 @@ carpentership
 chondroblast
 crampits 1
 crampon 1
-crampons
+crampons 1
 crampoon
 carefree
 cran 2
