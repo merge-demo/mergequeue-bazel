@@ -3647,7 +3647,7 @@ gillnetting
 gonadotropic 1
 genearch 1
 ghostdom 2
-gardenin 2
+gardenin 3
 gipsylike
 gaffkya 1
 genotypicity
