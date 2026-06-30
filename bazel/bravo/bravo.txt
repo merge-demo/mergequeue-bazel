@@ -5512,7 +5512,7 @@ bewares 1
 birding
 brahmas
 bagatine
-bludgeoned
+bludgeoned 1
 baklava 1
 bemurmured 2
 bobowler
