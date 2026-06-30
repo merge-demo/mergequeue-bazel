@@ -5656,7 +5656,7 @@ flimsiness 1
 fairleads
 flinch
 flagleaf 2
-fatted 1
+fatted 2
 feck 1
 fishnets
 finedraw 1
