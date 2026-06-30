@@ -1467,7 +1467,7 @@ gamma 1
 gerousia
 gynocardia 3
 gradualness 1
-guydom
+guydom 1
 gasboat 2
 giddiness 2
 gaselier 2
