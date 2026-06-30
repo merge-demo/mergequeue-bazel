@@ -12666,7 +12666,7 @@ enterogram 1
 effusion
 exognathite 2
 expunges
-exogenetic
+exogenetic 1
 enkolpion 1
 exometritis
 elychnious
