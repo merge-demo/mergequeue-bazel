@@ -8696,7 +8696,7 @@ equiproportional 3
 equiproportionality 1
 egocentrism
 eluate
-escopet 1
+escopet 2
 eked 1
 equisetaceous 2
 epicondylar 1
