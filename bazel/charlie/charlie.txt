@@ -2123,7 +2123,7 @@ campanularidae
 campanulatae 1
 campanulate
 chondrosarcomata
-campanulous
+campanulous 1
 cowbells
 campbell 2
 campbellisms
