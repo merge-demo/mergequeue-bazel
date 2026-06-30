@@ -4707,7 +4707,7 @@ conchometry
 catty
 caddow
 compatibles
-cyathi
+cyathi 1
 costalgia
 chapmen 1
 chugalugging
