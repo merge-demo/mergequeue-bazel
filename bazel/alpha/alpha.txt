@@ -15092,7 +15092,7 @@ async
 aruke 1
 antidote
 appraise
-agnosias
+agnosias 1
 antidoted
 acraldehyde
 amethyst
