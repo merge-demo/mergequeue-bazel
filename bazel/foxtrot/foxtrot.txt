@@ -7765,7 +7765,7 @@ followingly
 fenouillette 1
 flavour 3
 foremen
-fanbearer
+fanbearer 1
 ferroprussic 1
 fruitwise
 fractionize
