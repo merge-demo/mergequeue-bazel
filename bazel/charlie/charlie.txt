@@ -15176,7 +15176,7 @@ claimants
 claimed
 congeals
 claimer 1
-consumables 1
+consumables 2
 cacothelin
 claimers 2
 claymore 1
