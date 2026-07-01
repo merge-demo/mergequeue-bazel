@@ -8842,7 +8842,7 @@ disjuncture 1
 dibenzoyl
 depilator 2
 detriments 1
-dialyzable
+dialyzable 1
 deg 1
 dichotomal
 dentatocillitate
