@@ -4988,7 +4988,7 @@ growled
 guilty 2
 guariba 1
 glandered
-global
+global 1
 genially 1
 gangliest 2
 gateage
