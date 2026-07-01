@@ -26631,7 +26631,7 @@ counselee
 counsellable 1
 curer
 counsellor
-chilopodan
+chilopodan 1
 counselor
 countability
 cellos
