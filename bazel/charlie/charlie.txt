@@ -16854,7 +16854,7 @@ clubhauled
 clubhauls 1
 clubhouses 1
 clubionidae
-clubland
+clubland 1
 clubman
 cloveroot 1
 clubmate
