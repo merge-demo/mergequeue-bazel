@@ -17773,7 +17773,7 @@ donga
 dorsosternal
 desoxycorticosterone
 depa 1
-desoxyanisoin
+desoxyanisoin 1
 duckbill 1
 dossing 1
 duckblind 3
