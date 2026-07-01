@@ -11821,7 +11821,7 @@ earthrise 1
 ectomorphy 2
 euglenida
 ectothermic 1
-exists
+exists 1
 exauthorate 1
 exauthorizeexc 2
 exceptio
