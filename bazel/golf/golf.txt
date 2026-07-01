@@ -1165,7 +1165,7 @@ galactometry 3
 gnetums 2
 guffin
 gaol
-gulls
+gulls 1
 grinners 2
 galliney
 grogs 1
