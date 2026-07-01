@@ -722,7 +722,7 @@ enabler 2
 economise
 eschaunge
 ensnare
-extremital
+extremital 1
 eidolism 1
 eben 3
 elegiambus 1
