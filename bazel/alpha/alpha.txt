@@ -2344,7 +2344,7 @@ altometer
 acanthopod 1
 acyetic
 apprehend
-albeit
+albeit 1
 autocrat 1
 aciform
 audubonistic
