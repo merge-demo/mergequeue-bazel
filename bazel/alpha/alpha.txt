@@ -11937,7 +11937,7 @@ athetoids
 afterharm 1
 alcaligenes
 anaphases
-anaphe
+anaphe 1
 apperception 2
 apexing 2
 ancille
