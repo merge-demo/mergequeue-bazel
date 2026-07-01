@@ -688,7 +688,7 @@ caffeic 1
 caffeina 1
 caffeines
 cobblerless
-compensable
+compensable 1
 caffeinic
 caffeins
 coctoantigen
