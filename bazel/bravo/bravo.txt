@@ -10804,7 +10804,7 @@ blepharoplastic 2
 bassan
 blepharoptosis 1
 blepharosynechia
-blepharosphincterectomy
+blepharosphincterectomy 1
 bunchberry
 bulldoggy
 boanergism
