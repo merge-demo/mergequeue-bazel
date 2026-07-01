@@ -868,7 +868,7 @@ cairngorum
 cairny 1
 cays 2
 caisse
-caissons
+caissons 1
 caite
 colligance 1
 caitif 1
