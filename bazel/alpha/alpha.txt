@@ -10259,7 +10259,7 @@ ascidiae 1
 amel 1
 adj
 akkadist
-asyllabia
+asyllabia 1
 arcticize
 anemious
 agricolite
