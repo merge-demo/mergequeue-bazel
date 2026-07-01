@@ -3979,7 +3979,7 @@ forfends
 fingerer
 flaunch 2
 fingerers
-feed
+feed 1
 fono
 florissant
 freehanded 1
