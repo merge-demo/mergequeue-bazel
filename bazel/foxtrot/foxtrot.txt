@@ -7651,7 +7651,7 @@ foreimagination 1
 flashlike
 foregift 2
 forgiveless
-feyness
+feyness 1
 foregleam
 forst 1
 forego 2
