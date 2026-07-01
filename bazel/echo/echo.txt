@@ -3196,7 +3196,7 @@ emblemize 1
 eidetic 2
 endocone 1
 ejaculum
-extraserous
+extraserous 1
 entomophagous 1
 episcopation 1
 enamoring
