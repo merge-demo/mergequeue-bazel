@@ -603,7 +603,7 @@ bidget 1
 bacterin 1
 beggiatoa 1
 bacteriochlorophyll 1
-bacteriocin 1
+bacteriocin 2
 broomsticks 1
 bostangi
 bastiment 1
