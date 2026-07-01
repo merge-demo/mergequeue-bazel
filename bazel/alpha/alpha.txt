@@ -24710,7 +24710,7 @@ avertable
 arabs 1
 autolyzed 1
 avertiment
-averts
+averts 1
 abbotnullius
 anecdysis
 acrobacies
