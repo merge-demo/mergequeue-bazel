@@ -7384,7 +7384,7 @@ festiveness 1
 floodlighting 1
 forbiddingly
 farfels
-fewnes
+fewnes 1
 flatworms
 floatplane 3
 frost 1
