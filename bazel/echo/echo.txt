@@ -7304,7 +7304,7 @@ exlex
 elechi 1
 engird 1
 excheat 2
-encharnel 1
+encharnel 2
 emigres
 eristics
 etherealize
