@@ -8625,7 +8625,7 @@ dinge
 debugging
 distilment 1
 dialyses
-diary
+diary 1
 diaglyph 2
 disimprove
 diarist
