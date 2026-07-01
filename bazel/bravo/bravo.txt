@@ -15022,7 +15022,7 @@ begift 1
 barraters 1
 breedable
 borderies
-bendlet
+bendlet 1
 breeder
 breakneck 2
 barhops 1
