@@ -6937,7 +6937,7 @@ downsinking 1
 decadation
 despatches
 deoxidise 2
-despatching
+despatching 1
 despecialization 1
 disembarrassed
 dispute
