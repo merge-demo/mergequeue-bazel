@@ -31606,7 +31606,7 @@ chaton
 curvation
 curvative
 curvature
-cozy
+cozy 1
 crosstail
 clingstone
 curve
