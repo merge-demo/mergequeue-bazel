@@ -9654,7 +9654,7 @@ coinfer 1
 cafuso
 cheesebox 1
 cheeseburgers
-cheesecake
+cheesecake 1
 crees 1
 clyfaker
 cheesecloth
