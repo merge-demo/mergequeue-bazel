@@ -9462,7 +9462,7 @@ argiopoidea
 acupunctuate 1
 agrologic
 apses
-altern
+altern 1
 anagogics 1
 angularization 2
 autopathy
