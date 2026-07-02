@@ -12075,7 +12075,7 @@ enplanes 1
 epacridaceae 1
 excrementive
 extrasensory
-enfolder
+enfolder 1
 excrescency 1
 eriophyid
 eccentric 2
