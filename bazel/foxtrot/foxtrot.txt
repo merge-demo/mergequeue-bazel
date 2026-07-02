@@ -7471,7 +7471,7 @@ fordableness
 fathership 1
 featless
 floodproof
-fawning
+fawning 1
 flashpan 1
 fleyedness 1
 featherwood 1
