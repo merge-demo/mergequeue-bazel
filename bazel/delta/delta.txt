@@ -6097,7 +6097,7 @@ der
 deboites 4
 dendrometer
 deracinating
-domiciliar
+domiciliar 1
 deracination 1
 divinising 1
 decurring 1
