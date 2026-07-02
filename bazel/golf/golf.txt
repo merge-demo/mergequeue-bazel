@@ -3192,7 +3192,7 @@ graip 1
 gaddis
 glossiness 3
 governmentalist 1
-geotilla
+geotilla 1
 grigs 2
 geotropy
 guardant 1
