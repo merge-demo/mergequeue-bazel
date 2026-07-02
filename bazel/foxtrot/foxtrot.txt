@@ -5167,7 +5167,7 @@ funambulism
 forz
 flatness
 fadged
-faceting 1
+faceting 2
 flatted 1
 flatteringness 2
 flustered 1
