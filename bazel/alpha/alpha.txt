@@ -4061,7 +4061,7 @@ admissibility 1
 asci 3
 anestri
 admissive 1
-automan
+automan 1
 astrophotometrical
 amaracus
 acromion
