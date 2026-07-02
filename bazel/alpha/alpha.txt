@@ -12911,7 +12911,7 @@ anglophilic
 autotype 1
 adenine
 anglophobia
-abattoirs
+abattoirs 1
 apyrase 1
 anglophobiac 1
 adoptees 1
