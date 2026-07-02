@@ -24988,7 +24988,7 @@ cordal
 cordate
 catawamptious
 clavicytherium
-cordax
+cordax 1
 carnivora
 castoff
 cordeau
