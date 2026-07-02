@@ -1264,7 +1264,7 @@ geneki
 griffes 1
 gapper 1
 glutinosity 2
-guib
+guib 1
 grimaces 1
 galvanologist 1
 garran 1
