@@ -8675,7 +8675,7 @@ encharging
 encharge 1
 episcleritis
 earth 1
-epiglottides 1
+epiglottides 2
 evangelists
 equiperiodic 1
 emendations 3
