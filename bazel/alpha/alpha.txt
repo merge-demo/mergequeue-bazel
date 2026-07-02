@@ -15139,7 +15139,7 @@ antiemetic
 antiempiric 2
 apothecia 1
 aggrandiser
-absents
+absents 1
 antiapoplectic
 aquilon
 antienthusiastic
