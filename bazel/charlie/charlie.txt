@@ -13456,7 +13456,7 @@ commodore 1
 countersecure 2
 cygninae
 companionableness 2
-cygnus
+cygnus 1
 cigua
 cyke
 cyl
