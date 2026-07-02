@@ -6811,7 +6811,7 @@ dented
 dropsonde
 dedicates
 diaconate 2
-desize 1
+desize 2
 decompositional 1
 devilmonger
 desklike
