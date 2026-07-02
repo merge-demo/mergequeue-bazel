@@ -7104,7 +7104,7 @@ emulsible
 estuous
 edicule
 equiprobability
-electrophoric
+electrophoric 1
 enchainments 1
 epiplankton 1
 evadible 1
