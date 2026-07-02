@@ -4860,7 +4860,7 @@ carriageway
 carryall 1
 carrick
 carrycot
-chromatoplasm
+chromatoplasm 1
 carried
 carryed
 carrier

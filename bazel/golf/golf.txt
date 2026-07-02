@@ -7662,7 +7662,7 @@ guachamaca 2
 germane 1
 geira
 grounding 1
-geodynamics 1
+geodynamics 2
 gyppery 3
 greenlet 1
 gleary 1
