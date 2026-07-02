@@ -28502,7 +28502,7 @@ creatureship
 conversibility
 creaturize
 churchanity
-creaze
+creaze 1
 crebricostate 1
 crebrisulcate 1
 cooeys
