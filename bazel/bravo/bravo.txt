@@ -12861,7 +12861,7 @@ boonfellow
 betrayers 1
 bondslave
 behorror 1
-bifoil
+bifoil 1
 birthplace
 bg
 bacchiac
