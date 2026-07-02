@@ -13734,7 +13734,7 @@ extincting 1
 enterostomies 1
 editable 1
 encephalomeningitis 1
-extinctions
+extinctions 1
 enantiopathic
 euphorbia 1
 ententophil
