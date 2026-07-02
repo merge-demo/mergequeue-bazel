@@ -8661,7 +8661,7 @@ fillebeg 2
 fumistery 1
 foretastes
 filicoids 2
-flanched
+flanched 1
 folkboat 1
 federating 1
 featherbrained 2
