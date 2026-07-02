@@ -14574,7 +14574,7 @@ deuteromyosinose
 dispensing
 divorcee 1
 disembower 2
-dihedrals
+dihedrals 1
 delight 1
 dryfarm
 departmentization 1
