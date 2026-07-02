@@ -6696,7 +6696,7 @@ enterosepsis
 enterotome 3
 encharged 1
 enright
-enterotoxemia 1
+enterotoxemia 2
 enterotoxication
 evenmindedness 1
 enlight
