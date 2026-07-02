@@ -3153,7 +3153,7 @@ combustibles
 citify
 caperers
 cheoplastic 1
-cachepots 1
+cachepots 2
 crosshatcher 3
 calibanism
 cofathership
