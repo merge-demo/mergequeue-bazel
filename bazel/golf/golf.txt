@@ -3819,7 +3819,7 @@ gouaree 1
 gaul
 gygis 1
 gibstaff 4
-greyhound
+greyhound 1
 gratefulness 4
 greyling 1
 greenbugs 3
