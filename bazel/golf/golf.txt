@@ -4068,7 +4068,7 @@ guanines 2
 gear 3
 galbulus
 gileno
-gaddingly
+gaddingly 1
 groomsman 1
 gladliest
 gigaton 2
