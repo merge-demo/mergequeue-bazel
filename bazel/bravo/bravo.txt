@@ -11295,7 +11295,7 @@ bedels
 blowproof
 blows 1
 bleachability 3
-barograms 3
+barograms 4
 boneyard
 biologism
 bipunctate 2
