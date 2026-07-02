@@ -20702,7 +20702,7 @@ cuinfo
 complexes
 cercis
 convolvuli 1
-consonantise
+consonantise 1
 complexest
 chylify
 commulative
