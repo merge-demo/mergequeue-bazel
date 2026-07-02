@@ -15235,7 +15235,7 @@ balneal
 bestrewn 4
 benchers 1
 bridale 3
-basehearted
+basehearted 1
 bridally 1
 bridals
 boneheads 1
