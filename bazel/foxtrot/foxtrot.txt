@@ -382,7 +382,7 @@ fluorides
 faintly
 ferrymen
 fearer
-filicauline
+filicauline 1
 forbid
 fairfieldite 1
 facets 1
