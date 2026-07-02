@@ -6732,7 +6732,7 @@ gonidic 1
 genes 1
 gauges
 gyrostats 2
-glomerate 1
+glomerate 2
 globulimeter 3
 geyseral
 gurdfish 2
