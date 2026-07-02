@@ -5930,7 +5930,7 @@ belter
 bufagin
 buyouts 1
 ballistic
-bestrowing 1
+bestrowing 2
 beltie
 boogerman 1
 bludged
