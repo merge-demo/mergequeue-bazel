@@ -10787,7 +10787,7 @@ apothecary 1
 ammer 1
 adductor
 ammeter
-ammeters 1
+ammeters 2
 amplexuses
 alboin
 aminogen
