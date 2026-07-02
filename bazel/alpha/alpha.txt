@@ -12530,7 +12530,7 @@ anguillidae 1
 anemopathy
 astroscope
 antisudorific
-anemoscope
+anemoscope 1
 albifying
 aurorian 2
 automorphism 1
