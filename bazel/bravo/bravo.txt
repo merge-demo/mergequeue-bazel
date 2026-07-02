@@ -4937,7 +4937,7 @@ beeftongue 1
 biers
 beefwoods 1
 beegerite
-bootlick
+bootlick 1
 bairnliness
 badchan 1
 bouncing 1
