@@ -5677,7 +5677,7 @@ firking 2
 fountains
 firebrands
 freeloader
-flingy 1
+flingy 2
 funded 1
 fiddlestring
 flings 1
