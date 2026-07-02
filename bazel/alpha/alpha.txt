@@ -9626,7 +9626,7 @@ archicontinent 1
 absfarad
 abacaxi 1
 aluminide 1
-aluminiferous
+aluminiferous 1
 amarvel 1
 aluminyl
 aponeurorrhaphy
