@@ -9037,7 +9037,7 @@ flintified
 flux 2
 fowlfoot 1
 fared 1
-faultful
+faultful 1
 fowlings
 fluvious
 fountained 1
