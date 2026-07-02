@@ -8267,7 +8267,7 @@ diagnosticians
 dispopularize
 dizzy
 draped 1
-disputableness
+disputableness 1
 diagonal
 diagonalizable 1
 diagonalization
