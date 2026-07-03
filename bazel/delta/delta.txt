@@ -16630,7 +16630,7 @@ dragrope 1
 decades
 dexterousness
 debiteuse
-deathbeds 1
+deathbeds 2
 dragstaff 2
 drone 1
 designation
