@@ -4952,7 +4952,7 @@ greenbottle
 gestural 1
 glaives 4
 get 1
-gent
+gent 1
 galangal 2
 grangerizing 1
 gamdia 2
