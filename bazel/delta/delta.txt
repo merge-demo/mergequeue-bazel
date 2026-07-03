@@ -12021,7 +12021,7 @@ disendow 1
 dagoes
 demideity
 desmodus
-disenfranchisement
+disenfranchisement 1
 devanagari 4
 demonkind
 disenfranchises
