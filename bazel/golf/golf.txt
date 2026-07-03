@@ -2930,7 +2930,7 @@ geocerite 2
 gubernation 1
 greenheaded
 gallons 2
-glabreity
+glabreity 1
 gulley 2
 growlier
 glumpish
