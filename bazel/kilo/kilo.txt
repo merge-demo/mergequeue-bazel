@@ -9376,7 +9376,7 @@ kossbns 1
 kossdsemu 1
 kossltpk 2
 kossyxjq
-kost
+kost 1
 kostwicqr 2
 kostwipjdm 2
 kosuc
