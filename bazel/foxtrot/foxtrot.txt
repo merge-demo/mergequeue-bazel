@@ -3590,7 +3590,7 @@ freedstool 1
 forgetable 1
 fractabling 1
 foreskirt
-fixates 1
+fixates 2
 fenceful
 florigraphy 1
 forspoken

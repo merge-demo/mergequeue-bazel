@@ -9908,7 +9908,7 @@ collocatory 1
 chemotaxonomy
 chemotaxonomic
 controls
-comma 1
+comma 2
 carices 1
 chemotherapeutical
 clamlike 1
