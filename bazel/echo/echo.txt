@@ -2410,7 +2410,7 @@ epitrochlea 1
 electrodes
 etherization
 elotherium
-electrodiagnosis 1
+electrodiagnosis 2
 esterling
 embiid
 epepophysis 1
