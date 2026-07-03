@@ -9348,7 +9348,7 @@ dunces 1
 differentiability
 differentiae 1
 deliquescing 2
-darkle 1
+darkle 2
 dismembering
 differentiant
 daggy
@@ -12021,7 +12021,7 @@ disendow 1
 dagoes
 demideity
 desmodus
-disenfranchisement
+disenfranchisement 1
 devanagari 4
 demonkind
 disenfranchises
