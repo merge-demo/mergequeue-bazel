@@ -10683,7 +10683,7 @@ googol 4
 grippotoxin 1
 grayed 2
 gurk 3
-gellants
+gellants 1
 gurney
 groundbird
 gurnet 1
