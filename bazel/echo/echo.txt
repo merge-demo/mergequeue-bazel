@@ -327,7 +327,7 @@ entoperipheral 3
 enticer 2
 enameling
 elfship 2
-euboic
+euboic 1
 eastling
 escapee
 eruditionist 1
