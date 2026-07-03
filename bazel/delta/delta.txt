@@ -5933,7 +5933,7 @@ depressomotor 2
 defalcator
 dunniewassel
 diversifications
-densifier
+densifier 1
 drew
 depressurize 1
 disentraced 1
