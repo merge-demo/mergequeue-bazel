@@ -2291,7 +2291,7 @@ gonostyle
 geomoroi
 grange
 granulosa
-gynarchy
+gynarchy 1
 galante
 gumihan
 gestant 1
