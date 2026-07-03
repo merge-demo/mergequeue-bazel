@@ -27340,7 +27340,7 @@ courbe 1
 chemistries
 courbette 1
 courbettes
-carcaneted
+carcaneted 1
 cantillation 1
 courgette
 courida
