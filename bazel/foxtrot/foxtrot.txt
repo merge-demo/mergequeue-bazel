@@ -9718,7 +9718,7 @@ fluviograph
 flabs 1
 forestick
 flycaster 1
-fanworts 1
+fanworts 2
 fuchsins 1
 fevery
 ficoideae 1
