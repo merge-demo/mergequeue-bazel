@@ -11228,7 +11228,7 @@ flemished 1
 fluorescing 2
 funked 1
 flatbrod
-forbearable
+forbearable 1
 feuilleton
 funky 2
 filter
