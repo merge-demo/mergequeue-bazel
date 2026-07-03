@@ -14934,7 +14934,7 @@ anaphoral
 alkenes
 anticlockwise
 asphaltum 2
-anticlogging
+anticlogging 1
 averroism 1
 anticoagulant 1
 anticoagulation
