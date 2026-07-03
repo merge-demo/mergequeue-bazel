@@ -2593,7 +2593,7 @@ censuses
 cyclotrons
 cliffing
 canebrake
-cardioschisis
+cardioschisis 1
 cementmaking 2
 canebrakes
 cephalodynia
