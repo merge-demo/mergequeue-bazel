@@ -4814,7 +4814,7 @@ gainfulness 1
 glaciered 1
 gages 3
 gonged
-gifted
+gifted 1
 gadi 1
 gein
 grapewort 1
