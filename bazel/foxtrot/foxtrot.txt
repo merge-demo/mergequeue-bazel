@@ -2135,7 +2135,7 @@ faujdar
 fuchsite 1
 fosterling 2
 flagstone
-fluer
+fluer 1
 fidepromissor 1
 filtered 2
 fuligulinae
