@@ -24128,7 +24128,7 @@ convex
 convexedness 1
 chippage 1
 cryptoanalytic 1
-calcific
+calcific 1
 cafeneh 2
 convexly
 convexness
