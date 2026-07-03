@@ -27952,7 +27952,7 @@ corvee 1
 cradleland
 captivatrix 2
 counterselection
-cognosce
+cognosce 1
 cradlemaker
 cradlemate
 camerlengos
