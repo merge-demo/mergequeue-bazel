@@ -5230,7 +5230,7 @@ denominations 2
 desired 1
 dicty
 dine 1
-depolarisation
+depolarisation 1
 dusun 1
 deafer
 denotatively
