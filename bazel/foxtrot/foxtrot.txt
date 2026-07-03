@@ -1158,7 +1158,7 @@ farthingdeal 2
 frays 2
 footfeed 3
 fascinator
-ferous
+ferous 1
 flowerless
 flouters 1
 fantasied
