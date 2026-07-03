@@ -8203,7 +8203,7 @@ boring
 borrow
 biflex 1
 benchfellow
-beginger
+beginger 1
 bifluoride 1
 bifocal
 balanocele 1
