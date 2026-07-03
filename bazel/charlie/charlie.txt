@@ -2059,7 +2059,7 @@ camouflage
 camouflageable
 camouflager
 contradictorily
-camouflagers
+camouflagers 1
 camouflagic
 coincidence 2
 companionship 1
