@@ -23931,7 +23931,7 @@ assumer 1
 adenoidal 1
 authoritarian
 authoritarians
-awarn
+awarn 1
 antisplasher
 archvestryman
 authorizer
