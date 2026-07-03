@@ -13443,7 +13443,7 @@ anne 2
 alod 1
 apikoros
 antidogmatic
-anormal
+anormal 1
 anneal
 artlessly
 arraignments
