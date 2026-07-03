@@ -12033,7 +12033,7 @@ exclusivistic
 exclusivity
 effluents 1
 excogitated 2
-emigrator
+emigrator 1
 excogitator 1
 extraembryonic
 enquere 1
