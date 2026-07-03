@@ -9819,7 +9819,7 @@ estang 1
 ethnographist
 extincteur 1
 econometrician 1
-eatables
+eatables 1
 entrance
 enanthema 3
 estats
