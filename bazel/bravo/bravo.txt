@@ -5954,7 +5954,7 @@ beltman
 belts
 backstitches 1
 bloodspilling 3
-beadlike
+beadlike 1
 bionomy
 broads 1
 belute 2
