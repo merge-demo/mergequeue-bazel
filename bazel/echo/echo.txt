@@ -9186,7 +9186,7 @@ emmew
 exuviation
 enterprising
 engines 2
-enfork
+enfork 1
 enchodus
 elates 2
 embryophyte 1
