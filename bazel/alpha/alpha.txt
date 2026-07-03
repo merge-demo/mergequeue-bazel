@@ -14114,7 +14114,7 @@ amyelencephalic
 antemeridian 1
 anukit 1
 antemetallic
-anestrus
+anestrus 1
 antemillennial 2
 aurorally
 ambulomancy
@@ -24945,7 +24945,7 @@ anovular
 awaruite
 awat
 atomizing
-awater 2
+awater 3
 allophite
 abfarad
 arachis 1
