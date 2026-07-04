@@ -1827,7 +1827,7 @@ exopodite 2
 eigenvalues 2
 eudemony 2
 evaginated 2
-effervescive
+effervescive 1
 ensouling 1
 encipherer
 elench 1
