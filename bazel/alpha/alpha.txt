@@ -3605,7 +3605,7 @@ azole
 assedat
 arabicize
 agora
-adendritic
+adendritic 1
 akenbold
 adenylic
 avichi
