@@ -12880,7 +12880,7 @@ elvish 1
 eserines
 extorting 1
 erastus 2
-expandible
+expandible 1
 editions 2
 envenoms 1
 echafaudage 1
