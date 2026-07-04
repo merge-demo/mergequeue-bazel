@@ -5904,7 +5904,7 @@ constructable 1
 chivy
 catfacing 1
 catfall
-catfalls
+catfalls 1
 catfight
 creeled 1
 catfish
