@@ -25442,7 +25442,7 @@ cornua 1
 comdt 1
 cornual
 compulsory
-cornuated
+cornuated 1
 coelastraceae 1
 cornubianite
 cornucopias
