@@ -8914,7 +8914,7 @@ grainage 1
 ganglier 3
 giros
 geoducks
-gemming
+gemming 1
 grooty
 ghess
 gaufferer
