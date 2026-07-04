@@ -16844,7 +16844,7 @@ discharity
 dozes
 depreciations 1
 dissyllabise 1
-diffidence
+diffidence 1
 demargarinate
 disturnpike 1
 drawspring
