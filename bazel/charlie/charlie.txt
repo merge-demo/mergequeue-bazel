@@ -18983,7 +18983,7 @@ cranberry
 ctenoidean
 constables
 collectibility 1
-collectible 1
+collectible 2
 collection 1
 cinnamon
 collectivise
