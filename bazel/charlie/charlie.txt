@@ -30012,7 +30012,7 @@ commutations 2
 croton 1
 consulated
 crotonaldehyde
-crotonate
+crotonate 1
 crotonyl 2
 crotonylene
 crotonization
