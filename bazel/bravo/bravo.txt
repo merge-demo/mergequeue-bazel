@@ -1211,7 +1211,7 @@ baymen
 boches
 biscot
 bearhide 1
-balloting
+balloting 1
 bakra 1
 bruchus
 backslid 1
