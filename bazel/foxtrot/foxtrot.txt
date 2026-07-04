@@ -1527,7 +1527,7 @@ freely
 faurd 1
 foreseat 1
 feedbox 1
-flippant
+flippant 1
 foodless 1
 fanfaron
 foulish 1
