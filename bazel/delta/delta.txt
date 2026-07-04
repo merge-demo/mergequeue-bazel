@@ -4861,7 +4861,7 @@ dodlet
 deaneries
 ductile 1
 declive 1
-durrie 1
+durrie 2
 depredationist
 dispersity 1
 dormmice
