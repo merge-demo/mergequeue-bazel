@@ -15767,7 +15767,7 @@ accostable 1
 antiperistalsis
 antiperistatic
 antiperspirant
-agileness 1
+agileness 2
 antiperspirants
 acronycal 1
 anterolaterally
