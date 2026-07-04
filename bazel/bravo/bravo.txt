@@ -11308,7 +11308,7 @@ bespoused 2
 blowtorches 1
 bromos
 bossiness
-blowups
+blowups 1
 beadrow
 byroad 1
 bedrug
