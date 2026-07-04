@@ -13568,7 +13568,7 @@ dissensualize
 dissentation
 dissented 1
 dissenter
-daemonic
+daemonic 1
 dissentience
 duende
 dehydrofrozen 2
