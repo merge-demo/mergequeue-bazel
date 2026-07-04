@@ -29962,7 +29962,7 @@ carcinologist
 crosstrack
 crosstree
 crossway 1
-crossways
+crossways 1
 cetid 1
 calcification
 cyclopaedic
