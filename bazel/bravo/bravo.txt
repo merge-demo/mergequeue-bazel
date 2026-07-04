@@ -8741,7 +8741,7 @@ binaries
 betuckered
 bulginess 2
 berghaan
-binaural
+binaural 1
 blow
 binbashi 1
 blandly 1
