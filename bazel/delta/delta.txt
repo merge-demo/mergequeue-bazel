@@ -16850,7 +16850,7 @@ disturnpike 1
 drawspring
 dispersible 3
 divergingly 1
-debasers
+debasers 1
 derrick 2
 demicaponier
 discophile 1
