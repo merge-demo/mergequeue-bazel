@@ -10061,7 +10061,7 @@ foretaste 3
 flyball
 foamiest
 forwardness
-fiercly
+fiercly 1
 footnotes 1
 fetalism 1
 flammability 3
