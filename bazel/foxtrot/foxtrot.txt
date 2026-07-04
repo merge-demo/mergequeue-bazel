@@ -6881,7 +6881,7 @@ finance
 failing 1
 frustratingly 1
 flaggings
-figurist
+figurist 1
 feline
 fatuous
 fornacic
