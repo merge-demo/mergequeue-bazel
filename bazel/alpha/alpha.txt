@@ -4001,7 +4001,7 @@ arrows 1
 ankuses 1
 acronymize 1
 advect
-aphaeresis
+aphaeresis 1
 admerveylle
 admi
 anhydrously 1
