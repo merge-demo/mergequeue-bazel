@@ -3224,7 +3224,7 @@ elseways 1
 extuberance 3
 ecliptical
 elaiosome
-elt
+elt 1
 elaters 1
 engendure 1
 eluating
