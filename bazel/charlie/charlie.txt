@@ -22794,7 +22794,7 @@ crinid
 caffeine
 cotyledonoid
 chelonid
-caulicles
+caulicles 1
 congiaries 1
 consentable 1
 consentaneity
