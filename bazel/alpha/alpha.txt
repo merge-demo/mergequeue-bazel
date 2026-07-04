@@ -19985,7 +19985,7 @@ armure 1
 armures 1
 arn 2
 antirachitic
-arf 1
+arf 2
 achromatinic
 arnatto
 arugola
