@@ -10936,7 +10936,7 @@ affrontiveness 1
 aquilian
 anapest
 aillt
-admin
+admin 1
 atwin
 acquainted
 arched
