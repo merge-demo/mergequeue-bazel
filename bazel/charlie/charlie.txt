@@ -11927,7 +11927,7 @@ cohanim
 cruces 1
 cosmochemistry
 choreoid
-crocidolite
+crocidolite 1
 chorepiscopal
 chorepiscope 1
 catheterize
