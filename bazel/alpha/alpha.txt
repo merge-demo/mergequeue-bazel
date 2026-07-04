@@ -24686,7 +24686,7 @@ averments 1
 admove
 aeneid 1
 antidiastase
-amelioration
+amelioration 1
 acnode
 averral
 alii
