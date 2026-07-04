@@ -4872,7 +4872,7 @@ exorciser
 epidermatoid 3
 encoder 2
 episcopable 3
-embryogenetic
+embryogenetic 1
 enshrining 2
 engraven 2
 eria 2
