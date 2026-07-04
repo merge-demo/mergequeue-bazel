@@ -8945,7 +8945,7 @@ dichotically
 disklike 1
 dirigible
 denaturalization
-documenter
+documenter 1
 deidesheimer
 dichotomy 2
 detruck 1
