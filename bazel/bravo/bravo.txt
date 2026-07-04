@@ -3571,7 +3571,7 @@ bipartite 1
 bathmat
 bathmats
 broodsac 2
-bereaven
+bereaven 1
 basion 1
 bathmism 1
 banker
