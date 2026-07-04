@@ -3139,7 +3139,7 @@ dihydrite
 distoclusion 2
 defaming 2
 disability 1
-domesticity
+domesticity 1
 duringly 1
 defaulted 1
 defaultless
