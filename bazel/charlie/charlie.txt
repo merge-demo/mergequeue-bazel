@@ -12599,7 +12599,7 @@ chronomastix
 chronometer
 crom 1
 citolers
-chronometers
+chronometers 1
 countercultures 2
 chronometric
 chronometrically
