@@ -10792,7 +10792,7 @@ filamentoid 2
 fullering
 footpads 1
 fuchsian 2
-floundered
+floundered 1
 faintful 1
 fuchsine 1
 flustra
