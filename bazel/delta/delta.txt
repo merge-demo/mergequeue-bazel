@@ -4134,7 +4134,7 @@ delinter
 deliquiate
 deliquium 1
 demisolde
-demagnetised
+demagnetised 1
 dianthuses 1
 debye
 deguelin
