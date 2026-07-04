@@ -4789,7 +4789,7 @@ givingness 1
 globes 2
 garrnishable
 gizz
-gorgoniaceous
+gorgoniaceous 1
 gentlewomanly 1
 gizzard 2
 glimmerings
