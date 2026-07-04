@@ -7164,7 +7164,7 @@ delatorian
 desulphurised
 demonize 1
 dollyman 1
-decompose
+decompose 1
 dispersement 1
 diductor
 drawboring 1
