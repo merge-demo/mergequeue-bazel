@@ -10151,7 +10151,7 @@ foresing 1
 fief 2
 freycinetia 1
 flaxen
-farmwife
+farmwife 1
 foreannouncement
 forbit 2
 forepredicament
