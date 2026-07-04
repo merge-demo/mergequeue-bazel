@@ -6796,7 +6796,7 @@ bibliotaphic
 batten 1
 berthed 1
 birdeye
-berther
+berther 1
 bradypodoid
 bluehearts
 buprestidan
