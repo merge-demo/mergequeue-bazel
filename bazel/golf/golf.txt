@@ -3606,7 +3606,7 @@ gaelicize 2
 galany 1
 guttiform 1
 gnathic
-gananciales
+gananciales 1
 gantries
 glack
 gawkiness
