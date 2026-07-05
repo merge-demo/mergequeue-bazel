@@ -12112,7 +12112,7 @@ crambo 1
 chancellorate
 cursiveness
 chowses
-chowtime
+chowtime 1
 cephalocele
 chowtimes 1
 chalks 1
