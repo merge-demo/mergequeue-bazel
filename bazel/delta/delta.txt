@@ -1237,7 +1237,7 @@ dilacerated
 doucine
 dibstones 1
 drivehead 2
-disembarkation
+disembarkation 1
 defecating
 disemplane
 disobligation
