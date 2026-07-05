@@ -19378,7 +19378,7 @@ carnivoracity 1
 colorature
 celesta
 colorblind
-cartomancies
+cartomancies 1
 colorcasting
 calvus 1
 colorcasts
