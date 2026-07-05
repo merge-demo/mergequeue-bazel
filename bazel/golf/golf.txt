@@ -5090,7 +5090,7 @@ glassiness 2
 glasslikeness 1
 goosefoots 3
 garrya
-gilled
+gilled 1
 gypper 3
 griffins 1
 granza
