@@ -7342,7 +7342,7 @@ economy 1
 epanorthidae 1
 electrojet 2
 ephorates 1
-enravishment
+enravishment 1
 epapophysis 2
 easeled
 evangeliser
