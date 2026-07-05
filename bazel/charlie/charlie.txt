@@ -3444,7 +3444,7 @@ chinwood
 caprin
 candlebeam 1
 cimelia 2
-caprioles
+caprioles 1
 capriote
 capriped
 capripede
