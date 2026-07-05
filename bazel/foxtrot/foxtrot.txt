@@ -4873,7 +4873,7 @@ ferocities
 formalness 3
 followable 1
 fulgora 1
-flails 1
+flails 2
 feuilletonism
 furoic 2
 fourteen
