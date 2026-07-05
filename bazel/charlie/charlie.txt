@@ -27135,7 +27135,7 @@ colical
 chesboll
 countrywide
 countersinks
-countersleight
+countersleight 1
 countersnarl
 cataclysmatic 1
 counterspy
