@@ -15575,7 +15575,7 @@ bolsterer
 brist 3
 bombproof
 bristled
-bakhtiari
+bakhtiari 1
 biomagnetism
 burlaps
 banlieue
