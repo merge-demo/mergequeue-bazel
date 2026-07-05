@@ -2074,7 +2074,7 @@ bannisters
 birthmarks 2
 bioflavinoid 1
 bannock
-buyers
+buyers 1
 bannocks 2
 boilinglike
 bivittate
