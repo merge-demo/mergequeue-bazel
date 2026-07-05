@@ -13910,7 +13910,7 @@ brushoffs
 bowstring 2
 burial
 bacteriotropic 1
-binoculate
+binoculate 1
 birdlike 2
 bowstrung
 behavior 1
