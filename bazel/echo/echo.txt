@@ -5343,7 +5343,7 @@ emmeniopathy 2
 endoscopies 1
 epipodia 1
 endoskeletons 3
-endosmic 3
+endosmic 4
 evaders 1
 embaphium
 ethenyl 2
