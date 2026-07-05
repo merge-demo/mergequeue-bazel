@@ -11719,7 +11719,7 @@ enforcive
 extendlessness 1
 exalting
 elands
-exaltment
+exaltment 1
 essayism 3
 epinard
 expunge 1
