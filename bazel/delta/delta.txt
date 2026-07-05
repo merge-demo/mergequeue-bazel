@@ -10739,7 +10739,7 @@ delian 2
 dragonlike
 dips
 dipsacaceous
-deipnosophist
+deipnosophist 1
 disavow 3
 depriver
 drad
