@@ -10713,7 +10713,7 @@ backsetting 1
 blennemesis 1
 bullets
 backswimmer
-blennenteria 1
+blennenteria 2
 box
 biti
 benzalhydrazine
