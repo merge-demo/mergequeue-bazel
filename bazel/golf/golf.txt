@@ -2933,7 +2933,7 @@ gallons 2
 glabreity 1
 gulley 2
 growlier
-glumpish
+glumpish 1
 gavelkind 2
 growleries
 glycol 1
