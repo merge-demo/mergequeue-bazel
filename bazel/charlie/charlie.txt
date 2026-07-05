@@ -2988,7 +2988,7 @@ canticle
 carne
 campesino
 canticles
-conquerableness
+conquerableness 1
 conceptualistically
 cantilating
 cantilene 1
