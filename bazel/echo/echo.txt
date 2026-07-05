@@ -4148,7 +4148,7 @@ exedral
 epirote
 eiffel 1
 ensheathed
-every
+every 1
 etymologically
 endurability
 entombments
