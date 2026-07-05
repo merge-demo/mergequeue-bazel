@@ -2191,7 +2191,7 @@ farmhouse 1
 fumulus 1
 fluster 2
 felts
-forthtell
+forthtell 1
 fishworker 1
 feltwort 1
 fastidiosity 1
