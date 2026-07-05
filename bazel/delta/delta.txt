@@ -1040,7 +1040,7 @@ daggly 1
 darkskin 2
 disseises 1
 dispensers
-darksum
+darksum 1
 domineers
 danalite
 decimeter 1
