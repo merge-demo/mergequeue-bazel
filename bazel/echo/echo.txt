@@ -4536,7 +4536,7 @@ enrange 1
 entrepreneurial 2
 ectotheca 3
 erucin 2
-encephalomyocarditis
+encephalomyocarditis 1
 emancipate
 enactive
 emerita
