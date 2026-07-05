@@ -16777,7 +16777,7 @@ dumbness
 dravite
 draw 1
 disreputation 1
-diarrhoeic
+diarrhoeic 1
 disorganized 1
 drawback
 drawbar
