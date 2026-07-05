@@ -9311,7 +9311,7 @@ entelechy
 ecus
 electroori 1
 erucivorous 1
-eructance
+eructance 1
 empoverish 3
 extendability
 extralegal 1
