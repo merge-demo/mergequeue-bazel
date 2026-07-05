@@ -756,7 +756,7 @@ birt 1
 badious 2
 betrays
 betterer
-bellybutton
+bellybutton 1
 bicentennially 2
 badland 2
 badlands 1
