@@ -2371,7 +2371,7 @@ brakemen
 belabors
 barcoo
 beslab
-bemoisten
+bemoisten 1
 besplash 1
 bardcraft
 beleve 1
