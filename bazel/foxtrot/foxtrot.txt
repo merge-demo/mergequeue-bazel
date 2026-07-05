@@ -787,7 +787,7 @@ financing
 flunker
 fanfaronading
 folkloric
-footworn
+footworn 1
 fatality 3
 froster
 forensicality 2
