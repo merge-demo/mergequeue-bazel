@@ -11602,7 +11602,7 @@ febrifugal
 forlornly
 for 3
 fetch 3
-forcarve
+forcarve 1
 frough 1
 frack 2
 forewinning 1
