@@ -14231,7 +14231,7 @@ ananter 1
 anteroinferior
 askewgee 1
 antipart 2
-anterointernal
+anterointernal 1
 anterolateral
 antiferroelectric 1
 automorphically
