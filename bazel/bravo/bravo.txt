@@ -9621,7 +9621,7 @@ bilateral 1
 bishopling
 biol
 bishopstool
-bishopweed 1
+bishopweed 2
 bobbinets
 bestir
 benison
