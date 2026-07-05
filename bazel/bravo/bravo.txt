@@ -1658,7 +1658,7 @@ balmonies
 bloodroot 3
 balmoral 1
 benefits 1
-besoms
+besoms 1
 balmorals 2
 bedticks 2
 bensh
