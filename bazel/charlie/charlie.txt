@@ -4850,7 +4850,7 @@ carri 3
 cetaceous 1
 carry
 carriageable
-carriageful 1
+carriageful 2
 clachans
 carriages 1
 crosstie
