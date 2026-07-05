@@ -7209,7 +7209,7 @@ gaditan 1
 greenthumbed
 geotectonics 2
 give 2
-geocratic
+geocratic 1
 gape 2
 gorgosaurus
 galenism 2
