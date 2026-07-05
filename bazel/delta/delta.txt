@@ -2930,7 +2930,7 @@ downbeat 3
 desulphuret 1
 dedicating 1
 disorientating 1
-dedication
+dedication 1
 drafting 1
 disfavor
 duodecimals 1

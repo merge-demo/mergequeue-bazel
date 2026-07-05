@@ -6698,7 +6698,7 @@ garterless 1
 gainsayer
 guttler 2
 grint 4
-gibbet 1
+gibbet 2
 gulae 3
 gobmouthed
 growable 1
