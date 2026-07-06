@@ -6692,7 +6692,7 @@ bedull
 bayesian 1
 berlin
 browsability 1
-bismuthine
+bismuthine 1
 broomstaff
 blitter
 balaamitical 1
