@@ -16689,7 +16689,7 @@ basketfuls
 blithehearted 1
 besiege
 bishopship
-basilisk
+basilisk 1
 bilaan
 babelish 1
 buckhounds
