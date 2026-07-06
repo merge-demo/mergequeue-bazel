@@ -3905,7 +3905,7 @@ foregrounds 1
 frequencies 1
 fortyfive
 fits 1
-fortuitously
+fortuitously 1
 fecundating
 fluidness 1
 ferocactus 2
