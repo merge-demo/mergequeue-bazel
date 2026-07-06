@@ -3232,7 +3232,7 @@ chevronny
 capitaldom 1
 capitaled 2
 capitalisable
-capitalised
+capitalised 1
 capitalising
 cynocrambaceae
 cit
