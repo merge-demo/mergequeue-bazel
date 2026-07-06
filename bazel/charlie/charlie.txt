@@ -24320,7 +24320,7 @@ corncutting
 coarrange 1
 cookeite 2
 cooker 2
-cookeries
+cookeries 1
 cookhouse
 currawang
 cookhouses
