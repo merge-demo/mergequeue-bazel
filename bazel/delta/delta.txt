@@ -14349,7 +14349,7 @@ diureses
 diuresis 1
 difficile 2
 demogorgon
-democratical
+democratical 1
 divagatory
 diureticalness
 dialyzed
