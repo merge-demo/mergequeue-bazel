@@ -18800,7 +18800,7 @@ allheals
 assurgent 1
 abumbrellar
 artfully
-antideflation
+antideflation 1
 archeries 1
 acoustically
 abjuring
