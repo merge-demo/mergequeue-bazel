@@ -9345,7 +9345,7 @@ eruptivity 2
 echinuliform 1
 effierce 1
 esbatement
-exercite
+exercite 1
 enlock 1
 ectomorphic
 exolution 1
