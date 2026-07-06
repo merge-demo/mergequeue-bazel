@@ -3901,7 +3901,7 @@ echeneis 2
 eternal
 entomotomy
 electrotonus
-extraboldface
+extraboldface 1
 eminencies 1
 evendown
 exterminating 2
