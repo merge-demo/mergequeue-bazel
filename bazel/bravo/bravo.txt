@@ -3585,7 +3585,7 @@ butchers 1
 balconet 1
 bathometry 1
 blockmaking
-bathool
+bathool 1
 balneary 1
 boomkins
 bathophobia 1
