@@ -3795,7 +3795,7 @@ escalader
 enquirer
 emcumbering 1
 eyewater
-electroneutral 1
+electroneutral 2
 eclaircise
 eradicatory
 erect
