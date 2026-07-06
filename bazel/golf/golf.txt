@@ -5922,7 +5922,7 @@ grogshops 1
 goofs
 gambirs
 glamourizer
-gluepot
+gluepot 1
 gimballed 1
 garrison
 gemitorial
