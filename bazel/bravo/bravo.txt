@@ -702,7 +702,7 @@ baddies
 boral 1
 bade
 badness 1
-baff
+baff 1
 blueish
 baboen 1
 baign
