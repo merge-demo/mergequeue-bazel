@@ -2864,7 +2864,7 @@ bicep
 blanketless
 barrad
 bridebowl 1
-boskage
+boskage 1
 biform
 bashawism 3
 buddage
