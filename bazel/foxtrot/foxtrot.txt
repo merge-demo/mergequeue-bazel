@@ -1809,7 +1809,7 @@ flak 1
 flaithship 2
 frustules
 fanfarade
-flyspecks 2
+flyspecks 3
 fiddler 1
 fastener
 fractureproof 1
