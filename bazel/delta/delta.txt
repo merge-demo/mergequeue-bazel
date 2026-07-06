@@ -17632,7 +17632,7 @@ dromornis
 dtd 2
 dielectrical 1
 dicranterian
-discourteously
+discourteously 1
 dtente 1
 diplococci
 disapprobation
