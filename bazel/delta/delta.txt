@@ -14645,7 +14645,7 @@ decameter 1
 draftees 1
 dora 1
 degradability
-disinvite
+disinvite 1
 deuteropathy 2
 dizen 1
 dlr 1
