@@ -13209,7 +13209,7 @@ kvmijgrexmv
 kvmll
 kvmpg 1
 kvmppongnu
-kvmqwvr
+kvmqwvr 1
 kvmsmingquivicsr 1
 kvmtn 1
 kvmvcl 2
