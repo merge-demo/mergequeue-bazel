@@ -12500,7 +12500,7 @@ academian
 adelarthrosomata 1
 anemic 2
 anemically
-adipogenic
+adipogenic 1
 anemobiagraph
 anemochord
 anemochore
