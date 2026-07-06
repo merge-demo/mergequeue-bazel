@@ -10676,7 +10676,7 @@ fruitstalk
 fg 1
 foreset 1
 foresheets 2
-fleuretty
+fleuretty 1
 fortuneless 2
 fringilla
 fecks
