@@ -429,7 +429,7 @@ frockmaker 3
 fairship 1
 feal 2
 flitting 1
-fogmen
+fogmen 1
 fairway
 fulminate
 fragilariaceae
