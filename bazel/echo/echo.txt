@@ -10884,7 +10884,7 @@ empair
 esclandre 2
 exsolve
 exrupeal 1
-emmetropia
+emmetropia 1
 eutectic
 extensor
 embryoplastic
