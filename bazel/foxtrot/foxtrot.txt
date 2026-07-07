@@ -10633,7 +10633,7 @@ friandise 1
 fruitbearing 1
 foremark
 fusc 4
-frankness 2
+frankness 3
 fiddlededee 1
 frogstool 2
 filtrability 1
