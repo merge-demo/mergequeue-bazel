@@ -9903,7 +9903,7 @@ chemosurgery
 chemotactic
 cresylene
 choochoo 1
-chemotaxy
+chemotaxy 1
 collocatory 1
 chemotaxonomy
 chemotaxonomic
