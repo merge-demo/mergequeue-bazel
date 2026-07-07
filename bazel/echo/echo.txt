@@ -1187,7 +1187,7 @@ entitule
 education 3
 edulcorating
 enscroll 1
-ensweep
+ensweep 1
 educational 1
 extratracheal 1
 estipulate
