@@ -2981,7 +2981,7 @@ describers
 decemfid 1
 deductio 1
 deductions 1
-dwarfism 2
+dwarfism 3
 distrainment 1
 deductive 2
 deductory 1
