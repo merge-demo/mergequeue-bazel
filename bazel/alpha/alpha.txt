@@ -6069,7 +6069,7 @@ adjustors
 afore
 agitability 1
 archilowe
-accouters
+accouters 1
 agitant
 agitate
 agitated
