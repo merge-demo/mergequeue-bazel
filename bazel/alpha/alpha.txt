@@ -19167,7 +19167,7 @@ accessorized 1
 arctan
 attendances
 abusable
-antepretonic
+antepretonic 1
 antiparliamenteer 1
 alemannic
 anatomically
