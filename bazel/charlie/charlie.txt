@@ -8257,7 +8257,7 @@ chalcogen
 chalcogenide
 coenaculum
 comas
-chalcography
+chalcography 1
 caucho
 chalcographic
 chalcographical 2
