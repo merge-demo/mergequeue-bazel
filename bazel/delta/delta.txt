@@ -16008,7 +16008,7 @@ decrepitude
 direct 2
 double 1
 demos
-dotter
+dotter 1
 detrimentality
 doubleheartedness 1
 doddypoll
