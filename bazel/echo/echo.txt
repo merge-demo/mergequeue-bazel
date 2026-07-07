@@ -10619,7 +10619,7 @@ eucritic
 eudaemon
 eurous 1
 enmeshes
-extravasated
+extravasated 1
 ecdyson 2
 exchangee
 experience
