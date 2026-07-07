@@ -1470,7 +1470,7 @@ dawts
 damages
 disbarred 2
 doublehanded
-daze
+daze 1
 discerptibility 1
 disinherison
 dipropellant 1
