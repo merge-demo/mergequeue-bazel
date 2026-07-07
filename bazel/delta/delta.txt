@@ -6609,7 +6609,7 @@ destroyed
 dilettant 1
 denumerative 2
 dipentene
-decipherable
+decipherable 1
 digested
 deprecations
 deselected
