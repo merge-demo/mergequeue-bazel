@@ -8270,7 +8270,7 @@ draped 2
 disputableness 1
 diagonal
 diagonalizable 1
-diagonalization
+diagonalization 1
 diagnosing
 duel 1
 diagonals
