@@ -11352,7 +11352,7 @@ anobiidae 1
 amphora 1
 amphorae
 acappella
-algors
+algors 1
 alohas 1
 apiator
 abuzz
