@@ -4324,7 +4324,7 @@ gnocchetti 2
 gyrostabilizer 1
 girse
 grubless 2
-gravidity
+gravidity 1
 gymnic 1
 gymnemic 4
 gloeosporiose 3
