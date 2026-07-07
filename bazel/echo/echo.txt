@@ -2044,7 +2044,7 @@ enmist 1
 easter 1
 evangelican
 embreathement
-eskimo
+eskimo 1
 elaeometer
 electrometeor
 entamebic
