@@ -3532,7 +3532,7 @@ diplomatic
 dinitrotoluene 1
 disapproving 1
 defrayable
-disembarrassment 2
+disembarrassment 3
 dismissable
 doom 1
 defrayers 1
