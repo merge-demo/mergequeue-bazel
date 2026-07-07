@@ -16521,7 +16521,7 @@ disobeyer
 diakinetic 1
 decollation
 dodderer
-dithiol
+dithiol 1
 distrix 1
 ditheism
 diagrammatic
