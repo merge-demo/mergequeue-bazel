@@ -7968,7 +7968,7 @@ epimerized
 ephebus 1
 enclisis 1
 ectozoic 2
-epimers
+epimers 1
 encyclopaedia
 epileptiform 1
 equilobed
