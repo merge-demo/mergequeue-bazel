@@ -7959,7 +7959,7 @@ electrostenolysis 1
 epimerism 1
 enterolithiasis 1
 evangels
-epitomate
+epitomate 1
 encephalonarcosis 2
 equisetic
 explainingly
