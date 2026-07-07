@@ -11699,7 +11699,7 @@ foredispose
 flagellums 1
 filets 2
 fracas 3
-fas
+fas 1
 friarhood 1
 far 2
 foretellableness 1
