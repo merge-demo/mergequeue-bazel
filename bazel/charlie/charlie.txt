@@ -30292,7 +30292,7 @@ crumpled
 chorten 2
 crumply 1
 cargoose
-crumps
+crumps 1
 convoluted 1
 cycad
 closest
