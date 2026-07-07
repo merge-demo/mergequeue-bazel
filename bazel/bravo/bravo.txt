@@ -2391,7 +2391,7 @@ busyness 1
 becalms
 bardlike
 barkiest
-bazar 4
+bazar 5
 brinks
 bilaterality
 bardocucullus
