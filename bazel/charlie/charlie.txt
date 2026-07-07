@@ -30031,7 +30031,7 @@ collare
 crouchback
 crouched 1
 crouchie
-cahnite
+cahnite 1
 cacothesis
 crankiest
 cosmete
