@@ -18103,7 +18103,7 @@ demisemiquaver
 demagnetize 1
 dumbwaiter 1
 dumdum 2
-dumdums
+dumdums 1
 dadu 2
 drab
 distichs 1
