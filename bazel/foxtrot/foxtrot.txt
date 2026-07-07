@@ -6222,7 +6222,7 @@ foalfoot
 forefence
 fairgrounds 1
 forlana 2
-fatlings
+fatlings 1
 fargoing 1
 floccules
 focusable
