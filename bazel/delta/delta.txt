@@ -4636,7 +4636,7 @@ depose 2
 dinic
 demisang
 dulcite
-demisangue
+demisangue 1
 douzaines
 dereliction
 demipectinate
