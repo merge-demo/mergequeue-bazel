@@ -12756,7 +12756,7 @@ bioelectric
 bullneck
 bitstocks 2
 biparous
-boce 1
+boce 2
 bimbil 1
 bontequagga
 broods
