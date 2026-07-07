@@ -19410,7 +19410,7 @@ crosscurrents
 colorin 1
 coloring
 colorings
-conges 1
+conges 2
 colorisms
 cystous
 coloristically
