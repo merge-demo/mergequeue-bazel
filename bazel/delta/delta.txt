@@ -4339,7 +4339,7 @@ dysacousia
 demanded 1
 dissyllabized
 dilos
-dewlap
+dewlap 1
 descrier
 disburden
 defatigable
