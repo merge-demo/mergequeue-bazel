@@ -2612,7 +2612,7 @@ drudgery
 decode 1
 dartars 1
 distributional 1
-ducture
+ducture 1
 deignous
 deoxygenation
 decodon 1
