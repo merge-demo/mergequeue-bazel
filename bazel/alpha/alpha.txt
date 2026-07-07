@@ -2133,7 +2133,7 @@ adawlut
 arend
 apiculate
 achymia
-aganice
+aganice 1
 arracks 1
 azobenzol
 achinese
