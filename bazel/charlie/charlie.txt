@@ -2851,7 +2851,7 @@ coambassador
 canonising
 canonist
 canonistical 1
-canonized
+canonized 1
 catapult 1
 carboxyhemoglobin
 cetorhinoid
