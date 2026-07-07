@@ -8379,7 +8379,7 @@ chamaecranial
 cogons
 centry
 compinge
-corkir
+corkir 1
 chamaelirium 2
 chamaepericlymenum 1
 chamaephyte
