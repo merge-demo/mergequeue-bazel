@@ -8695,7 +8695,7 @@ fissility 1
 frankhearted 2
 favoress 2
 flob
-flattens
+flattens 1
 feteless 3
 fame 1
 forgive 1
