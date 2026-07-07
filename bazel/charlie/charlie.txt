@@ -16686,7 +16686,7 @@ clothesbag 2
 clothesyard
 codesign 1
 clamberer
-cirrus 1
+cirrus 2
 clotheslines
 clothesman
 crypts
