@@ -5854,7 +5854,7 @@ dewaxing
 deadtongue
 dags
 dentaries
-dermatocoptic
+dermatocoptic 1
 deprecable
 deprecating
 doorbrand
