@@ -21939,7 +21939,7 @@ associatively 1
 aquiver
 aeriest
 anatripsis
-austerus
+austerus 1
 associativeness 1
 amplify 1
 armoring 1
