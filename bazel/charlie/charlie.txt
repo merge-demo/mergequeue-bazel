@@ -20025,7 +20025,7 @@ curwillet
 commender
 craftsman 1
 commending
-commendment
+commendment 1
 chloric
 commensal
 chemurgies
