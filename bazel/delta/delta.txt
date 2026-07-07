@@ -8352,7 +8352,7 @@ disincline
 duchies 1
 dialed
 depredation 1
-disvouch 2
+disvouch 3
 decalobate
 dyed
 dromed 1
