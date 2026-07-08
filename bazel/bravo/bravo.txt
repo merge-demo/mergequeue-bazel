@@ -11841,7 +11841,7 @@ boucan 1
 bodykins
 bodilize 2
 bahuvrihi
-barbedness 1
+barbedness 2
 bellowed 1
 beento 1
 braggest
