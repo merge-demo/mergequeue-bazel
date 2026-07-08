@@ -12395,7 +12395,7 @@ earn
 estriol 2
 encephalology 2
 ephemerida
-exposures
+exposures 1
 exhibition 1
 enforce 1
 eradiate
