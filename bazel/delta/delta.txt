@@ -3373,7 +3373,7 @@ dictative
 defis
 deflagrable 1
 desophistication 2
-dialling 1
+dialling 2
 decolor
 disrestore
 dynagraph 2
