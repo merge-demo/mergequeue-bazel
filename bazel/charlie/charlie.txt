@@ -25417,7 +25417,7 @@ consignable
 corning 1
 cornishman
 cornless
-cornmeal
+cornmeal 1
 ceramicist
 chillagite
 contumaciousness
