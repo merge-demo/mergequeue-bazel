@@ -5805,7 +5805,7 @@ grieveship 4
 gast 3
 gussy 3
 gloveless
-glorifiable
+glorifiable 1
 gym
 grain 1
 goldsmith
