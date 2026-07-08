@@ -12461,7 +12461,7 @@ chromoisomeric 1
 chamaenerion
 candelabra
 cerebralize
-chromoleucite
+chromoleucite 1
 chromolipoid
 clayen
 choleinic 1
