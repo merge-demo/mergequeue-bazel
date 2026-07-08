@@ -19277,7 +19277,7 @@ cabezones
 coresidence 1
 chelem 1
 colonialists
-cyclospondyli
+cyclospondyli 1
 coctoprecipitin 1
 colonialize 1
 chortles
