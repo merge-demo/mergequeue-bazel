@@ -3580,7 +3580,7 @@ electrometallurgist 1
 embosoming
 euchlaena 1
 encraal 1
-embossage 1
+embossage 2
 embossed 1
 enbibe 3
 embossing 2
