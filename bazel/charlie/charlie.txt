@@ -20048,7 +20048,7 @@ commensuration
 corking
 comment
 cattlegate 1
-commentable
+commentable 1
 catchments
 commentarialism
 corky 1
