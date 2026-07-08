@@ -7192,7 +7192,7 @@ faecalith 1
 flites
 forthteller 2
 footless 2
-footlights
+footlights 1
 fratries 2
 ficoides
 forearming 1
