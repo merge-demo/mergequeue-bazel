@@ -3444,7 +3444,7 @@ draconid 2
 deflore 2
 dubash
 disgarland 1
-damnosa
+damnosa 1
 dentagra
 deflowered
 deflowerer
