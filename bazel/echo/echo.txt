@@ -3535,7 +3535,7 @@ epepophysial 1
 echelons 1
 embarras 1
 exhibit
-escorted
+escorted 1
 enured 2
 epigonichthyidae 1
 embolectomy 1
