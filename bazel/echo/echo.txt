@@ -6057,7 +6057,7 @@ expire 1
 ere 2
 epiglottises 4
 enkindles
-edginess
+edginess 1
 epiphytotic
 entrepreneuses 1
 epistolical 1
