@@ -1267,7 +1267,7 @@ glutinosity 2
 guib 2
 grimaces 1
 galvanologist 1
-garran 1
+garran 2
 gaia 1
 glenwood 2
 granage
