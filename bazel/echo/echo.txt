@@ -7169,7 +7169,7 @@ eucaryote 1
 extraequilibrium 2
 enwallow 1
 excandescence 2
-earthshine
+earthshine 1
 endymion 1
 eposes
 empassion
