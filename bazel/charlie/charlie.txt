@@ -16790,7 +16790,7 @@ cloverlay 1
 citizen 1
 clupeidae 1
 cloverleafs
-cloverleaves
+cloverleaves 1
 cloverley
 cycadophyte
 cloverroot 1
