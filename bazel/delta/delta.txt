@@ -14367,7 +14367,7 @@ drug 1
 dragonize 3
 diurnals 2
 diurnule 1
-dimensuration
+dimensuration 1
 diuron
 demeaned 1
 dielytra
