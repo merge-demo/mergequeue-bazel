@@ -15945,7 +15945,7 @@ arnut
 angloman
 appointor
 autorotate 2
-antiq
+antiq 1
 antiqua 1
 acetylated
 antiquarianism 2
