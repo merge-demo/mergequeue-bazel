@@ -12949,7 +12949,7 @@ boardinghouses
 bootman 3
 boots 1
 bottoms 1
-blouson
+blouson 1
 bittersweet
 brontograph 2
 boottop 2
