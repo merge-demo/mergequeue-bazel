@@ -3751,7 +3751,7 @@ dehonestation
 disoccupied 1
 dehorn 2
 dolcan 1
-desmose
+desmose 1
 demain
 dreadful 2
 dytiscidae
