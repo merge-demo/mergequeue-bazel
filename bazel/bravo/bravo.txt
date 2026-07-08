@@ -12436,7 +12436,7 @@ bloodline 1
 bonderman 2
 bankera
 boii
-bogum
+bogum 1
 bowyang 1
 bedriddenness 2
 bonfire
