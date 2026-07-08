@@ -3864,7 +3864,7 @@ bawdies
 bestrow 2
 bricklaying
 backaches 2
-belvidere
+belvidere 1
 bedaggered 1
 breastless
 benzoate 1
