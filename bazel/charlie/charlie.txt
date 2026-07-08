@@ -8112,7 +8112,7 @@ carcer
 chaffron 1
 clavicornia
 chaffs
-chaffseed
+chaffseed 1
 costlessly 1
 carnifying 1
 circumterrestrial 1
