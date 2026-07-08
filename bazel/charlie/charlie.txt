@@ -25039,7 +25039,7 @@ cordons
 cords
 craftmanship
 courteously 1
-crosscourt
+crosscourt 1
 costiferous
 celotex
 corduroying
