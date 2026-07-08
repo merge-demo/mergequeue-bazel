@@ -11152,7 +11152,7 @@ azimuthally 1
 artifices
 aquatinting
 avolation
-amphibole
+amphibole 1
 alkide 1
 addictive
 analgesis
