@@ -9034,7 +9034,7 @@ grillee 1
 gatehouse 1
 golem 3
 gramashes 1
-granatum
+granatum 1
 geomorphogenist 1
 gastrocnemian
 gorhens 2
