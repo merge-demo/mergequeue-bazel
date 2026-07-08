@@ -16567,7 +16567,7 @@ arabize 1
 apandry 1
 autolithographic
 ach
-athanasy
+athanasy 1
 anadem 1
 anorthosite
 alisanders
