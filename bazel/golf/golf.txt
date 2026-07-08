@@ -8911,7 +8911,7 @@ gentman 2
 gobang
 grete 2
 grainage 1
-ganglier 3
+ganglier 4
 giros
 geoducks
 gemming 1
