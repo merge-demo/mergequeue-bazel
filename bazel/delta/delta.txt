@@ -17544,7 +17544,7 @@ decolour 1
 disassimilation 1
 dynamiter
 drumliest
-desisting
+desisting 1
 drumline
 depolarised
 disappeared
