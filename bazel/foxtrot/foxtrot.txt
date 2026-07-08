@@ -2001,7 +2001,7 @@ fide 1
 feere 2
 flipper 3
 fautor 1
-fours
+fours 1
 feeze 1
 fimicolous
 furmity
