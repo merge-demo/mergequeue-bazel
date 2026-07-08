@@ -26810,7 +26810,7 @@ counterembattled
 counterenergy 1
 counterengagement
 corporator
-cambiogenetic
+cambiogenetic 1
 counterengine
 counterenthusiasm
 counterentry
