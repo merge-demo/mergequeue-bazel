@@ -12304,7 +12304,7 @@ disincrustion 1
 decousu 1
 disgrading
 discreating
-disgruntlement
+disgruntlement 1
 driblet 1
 denitration
 demigrate
