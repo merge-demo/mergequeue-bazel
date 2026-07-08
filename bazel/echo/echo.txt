@@ -6591,7 +6591,7 @@ enorthotrope
 electricity
 emigrates
 erysimum 1
-enhuile 1
+enhuile 2
 enwind 1
 exolemma
 emove
