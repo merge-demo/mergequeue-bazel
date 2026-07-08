@@ -1398,7 +1398,7 @@ accepts 1
 attractants 1
 apellous 2
 aproned 1
-accessary
+accessary 1
 accessaries 2
 anesthesiometer
 accessarily
