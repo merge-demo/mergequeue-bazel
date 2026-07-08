@@ -7834,7 +7834,7 @@ enterography 1
 epiglottitis 2
 exsiccator
 elegiambic
-epicarps
+epicarps 1
 empyocele 3
 exoerythrocytic 1
 epigone
