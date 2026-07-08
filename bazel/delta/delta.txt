@@ -1558,7 +1558,7 @@ doublure 1
 deadlier 1
 deaden 2
 droops 1
-docked
+docked 1
 drippings
 dices 1
 deputising 1
