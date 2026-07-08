@@ -10006,7 +10006,7 @@ fen
 florid 1
 frilling 2
 flee 2
-flatwork 1
+flatwork 2
 fantod 3
 flavoury 1
 flor 2
