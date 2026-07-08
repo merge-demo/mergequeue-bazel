@@ -5984,7 +5984,7 @@ bricktop 1
 bossier
 befooling
 brewis
-bribeability 2
+bribeability 3
 bruises
 bitterbark
 bemean
