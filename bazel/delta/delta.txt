@@ -13719,7 +13719,7 @@ defends 1
 doorplate
 divalent
 dejecta 1
-demulsion
+demulsion 1
 dissociations 1
 directoire 1
 defluous 1
