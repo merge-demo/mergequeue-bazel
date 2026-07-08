@@ -7505,7 +7505,7 @@ goals 1
 gamogenesis 2
 gaen
 glycolytic
-gortonian
+gortonian 1
 glaucophanize 2
 gangs 2
 glitzy 4
