@@ -6367,7 +6367,7 @@ derms
 diacatholicon
 defined 1
 dioc 1
-ducula 3
+ducula 4
 demurrable 3
 dietary 1
 doegling 2
