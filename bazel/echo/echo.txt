@@ -12725,7 +12725,7 @@ emboweling 1
 engramma 1
 exopod
 epigraphist 2
-embus
+embus 1
 exopterygotism 1
 eurypygae
 epha 1
