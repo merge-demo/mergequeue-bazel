@@ -19432,7 +19432,7 @@ cerealose
 colors
 cutose 1
 colossal
-colossality
+colossality 1
 colossally
 colossean
 colosseum
