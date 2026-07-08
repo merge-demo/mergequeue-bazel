@@ -2283,7 +2283,7 @@ dithioglycol
 decemuiri
 downcut 1
 derby
-decemviral
+decemviral 1
 deepish
 decemvirship 1
 decayer
