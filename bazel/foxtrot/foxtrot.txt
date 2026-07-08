@@ -5652,7 +5652,7 @@ forethinking 2
 fulguration
 fluidising 1
 fireable 1
-flimsiness 1
+flimsiness 2
 fairleads
 flinch
 flagleaf 2
