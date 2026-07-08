@@ -8063,7 +8063,7 @@ gravels 2
 glenoidal 1
 granitiform 2
 geomancer 3
-gastrostomus 1
+gastrostomus 2
 granitite
 geomagnetism 5
 ghain
