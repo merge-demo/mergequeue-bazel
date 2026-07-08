@@ -13421,7 +13421,7 @@ artiste 2
 alibies
 annabergite 1
 antiminsion
-antimnemonic
+antimnemonic 1
 annaly
 annaline
 antigrammaticalness
