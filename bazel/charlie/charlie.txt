@@ -11672,7 +11672,7 @@ chameleonize 1
 claries 3
 corruptness
 cholo 1
-chaver
+chaver 1
 cholocyanine
 cinematographic
 crossroading 1
