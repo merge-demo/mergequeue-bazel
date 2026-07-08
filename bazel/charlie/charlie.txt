@@ -2809,7 +2809,7 @@ cannulae 1
 cannulate 1
 circumscribe
 carajura
-cursitor
+cursitor 1
 cannulating 1
 chinafish 1
 colius
