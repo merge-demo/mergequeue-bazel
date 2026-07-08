@@ -3697,7 +3697,7 @@ beltis 3
 batterie 1
 breck
 batterman 1
-bullockman 1
+bullockman 2
 bindlet 1
 bepinch
 baylike 1
