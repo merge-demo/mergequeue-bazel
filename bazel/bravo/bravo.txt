@@ -3696,7 +3696,7 @@ bedesmen 1
 beltis 3
 batterie 1
 breck
-batterman
+batterman 1
 bullockman 1
 bindlet 1
 bepinch
