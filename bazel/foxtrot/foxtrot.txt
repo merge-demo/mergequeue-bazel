@@ -7508,7 +7508,7 @@ fideos
 fleetest 1
 freeholders
 faultily
-fergus
+fergus 1
 fellatah 1
 fullface
 forebode 2
