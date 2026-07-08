@@ -8862,7 +8862,7 @@ dibothriocephalus 1
 daughterless
 dibranch 2
 duftery
-defiguration
+defiguration 1
 dozinesses
 draglines
 dropperful
