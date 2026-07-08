@@ -6837,7 +6837,7 @@ fussify 2
 flipjack 1
 fourhanded 3
 fabled 1
-furomonazole
+furomonazole 1
 foliary
 frescoers
 format 1
