@@ -18405,7 +18405,7 @@ berginize
 bowfins 1
 bagwash 3
 buttonweed 1
-bwanas
+bwanas 1
 bombardmen
 banned 1
 bloodwort 1
