@@ -5857,7 +5857,7 @@ floristic
 floatsmen
 fluff 1
 flaxbush
-farthingale
+farthingale 1
 forestem 2
 formidableness
 furanes 7
