@@ -330,7 +330,7 @@ fluxionary 1
 feods 1
 forces 1
 fail
-fireplough
+fireplough 1
 faineancy 1
 fayles 2
 fimbricated
