@@ -1351,7 +1351,7 @@ amlet
 aumbries
 accelerometer
 accelerometers
-anticatholic
+anticatholic 1
 anapaestical 1
 anticnemion
 airtightly 1
