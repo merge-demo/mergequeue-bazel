@@ -10293,7 +10293,7 @@ frazed 1
 fluormeter 2
 ferrates
 farnesses 1
-factor
+factor 1
 frenziedness 2
 forleaving 1
 foundationless 4
