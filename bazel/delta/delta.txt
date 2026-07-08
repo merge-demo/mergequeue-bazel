@@ -10240,7 +10240,7 @@ depute
 dealfishes 1
 donkeyish
 demulsibility 1
-dinosauria
+dinosauria 1
 dystomous
 defossion
 dressing
