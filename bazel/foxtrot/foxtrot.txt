@@ -3862,7 +3862,7 @@ fisticuffer 2
 furthermore 1
 fineless
 fract 3
-fiberglas
+fiberglas 1
 formicary
 fiberscope 1
 forgiveable 1
