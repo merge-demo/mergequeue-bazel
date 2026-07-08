@@ -13453,7 +13453,7 @@ epitomization
 enzymolysis
 extrusile 4
 exorate 1
-expropriator
+expropriator 1
 eringo
 epenthetic
 electrolyse
