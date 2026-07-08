@@ -7664,7 +7664,7 @@ congregates 1
 carreta
 cereous
 celioschisis
-cerebellitis
+cerebellitis 1
 chark
 cererite
 ceres 1
