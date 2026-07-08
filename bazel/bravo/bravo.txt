@@ -8060,7 +8060,7 @@ bicrural
 broodiness
 biometrics
 bridecup
-bellypinch
+bellypinch 1
 brogue
 breathing
 borshts 1
