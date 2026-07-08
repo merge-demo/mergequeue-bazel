@@ -8054,7 +8054,7 @@ algesia 2
 alfaqui
 ataraxia
 apatornis
-autonavigator
+autonavigator 1
 antidotical
 archcity 2
 aefaldness 2
