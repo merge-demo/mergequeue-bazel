@@ -11217,7 +11217,7 @@ epibolies 1
 evangeliaries
 endocycle
 exocrinology
-enkindling
+enkindling 1
 enthronised 1
 elohism 1
 enosis 1
