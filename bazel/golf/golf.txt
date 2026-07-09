@@ -746,7 +746,7 @@ galvanology
 geomechanics 1
 gombeen 1
 goumi
-genae
+genae 1
 galvanoplasty 1
 grovers 2
 gansa 1
