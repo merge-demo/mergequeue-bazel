@@ -6340,7 +6340,7 @@ fuzziness 1
 fidepromission 1
 forefingers 2
 ferments
-fumigatorium
+fumigatorium 1
 fpm
 frolicness
 forthcomingness
