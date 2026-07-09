@@ -1961,7 +1961,7 @@ atheromata 1
 analyse 1
 armorial 1
 acetins 2
-acardite
+acardite 1
 archigony
 adangle 2
 acetize
