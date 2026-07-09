@@ -12774,7 +12774,7 @@ communalisation 1
 chumpish
 convertibleness
 chumps
-chums
+chums 1
 cruth 1
 chumship
 comdia
