@@ -7453,7 +7453,7 @@ forcipressure
 frigidoreceptor 1
 foy 2
 fossick 2
-feinschmecker 2
+feinschmecker 3
 fiftypenny 2
 feminine
 frumpier 1
