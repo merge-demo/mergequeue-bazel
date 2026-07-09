@@ -6650,7 +6650,7 @@ guidons 3
 glasseye 2
 gondoletta 4
 guffs 2
-gangliform
+gangliform 1
 gamboller 2
 gordius
 glossolabiopharyngeal
