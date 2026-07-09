@@ -27646,7 +27646,7 @@ cowbinds
 clapperclawer 1
 cracksman
 carbonadoed
-cowboy
+cowboy 1
 cowbrute
 cervicolumbar 2
 crenellate
