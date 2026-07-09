@@ -26553,7 +26553,7 @@ cargos
 cutter
 conjugata
 crenelated
-cantillate
+cantillate 1
 counterbewitch 2
 comparsa
 cube
