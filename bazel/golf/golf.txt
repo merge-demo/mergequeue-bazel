@@ -912,7 +912,7 @@ guna
 gelatinate 3
 gambia
 garnishable
-grittiness
+grittiness 1
 gosport 1
 gemeinschaften
 galt
