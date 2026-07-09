@@ -10110,7 +10110,7 @@ alumin
 acidyl 2
 antiluetic
 aspirin
-atmological
+atmological 1
 aggadic 3
 archaeopithecus
 anaheim
