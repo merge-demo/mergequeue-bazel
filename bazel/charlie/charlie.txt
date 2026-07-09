@@ -7103,7 +7103,7 @@ centigrams
 centile
 cendre
 caudatum 1
-catamited
+catamited 1
 centiliter
 cadent
 chimed
