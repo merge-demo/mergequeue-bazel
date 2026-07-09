@@ -17891,7 +17891,7 @@ busheled 1
 bourse 1
 bookman 2
 beauship 2
-bivium
+bivium 1
 boundable
 bushelers
 bescurvy
