@@ -8032,7 +8032,7 @@ doylt
 dietician
 duomi
 dispersion 1
-dumbhead 1
+dumbhead 2
 dhal 1
 dimension
 dorsointestinal
