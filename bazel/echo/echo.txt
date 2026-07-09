@@ -13380,7 +13380,7 @@ enfevers 1
 exits 1
 expositorially 2
 expostulating 3
-ecophysiological
+ecophysiological 1
 endurable 2
 expanders
 empodium 2
