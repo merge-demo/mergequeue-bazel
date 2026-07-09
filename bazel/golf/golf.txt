@@ -2823,7 +2823,7 @@ goosehouse 1
 gnathoplasty 2
 genuflection
 gallates
-galactophlysis
+galactophlysis 1
 grayhair 2
 graminous 1
 graininess 1
