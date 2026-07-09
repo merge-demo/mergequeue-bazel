@@ -15278,7 +15278,7 @@ disconcerted 1
 decelerate 1
 droopt
 decalcomania 1
-didelphyidae
+didelphyidae 1
 dolmans
 diurnation
 diamylose
