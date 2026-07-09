@@ -9463,7 +9463,7 @@ barbarian
 birn 2
 byrnie
 biotope
-battlefront
+battlefront 1
 birodo 1
 bisulphide 1
 brittling 2
