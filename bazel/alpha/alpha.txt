@@ -5908,7 +5908,7 @@ apical
 agglutinate
 arenaceous
 arri
-agglutinative
+agglutinative 1
 adamantine
 agglutinatively
 aarrghh
