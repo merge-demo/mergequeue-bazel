@@ -17799,7 +17799,7 @@ burrows
 benevolent
 burrstone
 bambini
-bundobust
+bundobust 1
 bursae
 bursary 1
 bassine 2
