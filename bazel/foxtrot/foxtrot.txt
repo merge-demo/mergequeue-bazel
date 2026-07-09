@@ -2599,7 +2599,7 @@ fangle 3
 fiscality
 featherlight
 filthy 1
-feoffed 1
+feoffed 2
 fancily
 foresheet
 ferromanganese 1
