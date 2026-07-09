@@ -7350,7 +7350,7 @@ exosphere
 expulsing 2
 exile 2
 erinaceus
-eunomian
+eunomian 1
 environmentalism 3
 euchlorophyceae 1
 edibile
