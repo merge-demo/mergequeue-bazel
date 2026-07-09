@@ -932,7 +932,7 @@ ensisternal
 equipping 1
 endowments 2
 endorsements 2
-electrophoretic 4
+electrophoretic 5
 ectropion
 epilogues 1
 ectropium 1
