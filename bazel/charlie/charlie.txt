@@ -5146,7 +5146,7 @@ caseinogen
 caseload
 caseloads 1
 casemaker 1
-caprylene
+caprylene 1
 cackle
 casemaking 1
 casemates
