@@ -1406,7 +1406,7 @@ gearshift
 gcd 1
 gangplow 1
 grundyite 1
-galvanopsychic
+galvanopsychic 1
 gipsying
 guilloche 1
 genitals 3
