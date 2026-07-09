@@ -2592,7 +2592,7 @@ camphires
 censuses
 cyclotrons
 cliffing
-canebrake
+canebrake 1
 cardioschisis 1
 cementmaking 2
 canebrakes
