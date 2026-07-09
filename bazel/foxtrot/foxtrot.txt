@@ -10814,7 +10814,7 @@ foretopmast 1
 farcify 1
 festilogy 1
 flisk 2
-fuddler
+fuddler 1
 ferrocalcite 1
 florimania 1
 ferniest 1
