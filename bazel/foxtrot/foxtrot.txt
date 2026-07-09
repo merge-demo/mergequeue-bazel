@@ -4395,7 +4395,7 @@ flagged
 forbearances
 frenums 2
 fishbowls
-flexive
+flexive 1
 forky 1
 fisheyes 2
 forecomingness
