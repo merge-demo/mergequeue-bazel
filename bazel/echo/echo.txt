@@ -2331,7 +2331,7 @@ electroacoustical 2
 elfkin 1
 exradius 1
 electroacoustics 2
-enthetic
+enthetic 1
 exundation 1
 electroanesthesia 1
 electroballistics
