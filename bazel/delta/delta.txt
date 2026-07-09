@@ -1472,7 +1472,7 @@ disbarred 2
 doublehanded
 daze 1
 discerptibility 1
-disinherison
+disinherison 1
 dipropellant 1
 deuteroplasm 1
 dories
