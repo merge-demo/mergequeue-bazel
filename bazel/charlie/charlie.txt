@@ -22374,7 +22374,7 @@ corrupable
 conicality
 chordally
 crookfingered
-coastwards
+coastwards 1
 calandrinae
 coniceine 1
 compressible
