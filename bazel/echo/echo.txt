@@ -9908,7 +9908,7 @@ exhaustively 1
 emmensite 1
 earthnuts 2
 elaterium 1
-enterritoriality
+enterritoriality 1
 ephedrin
 executes 2
 eduskunta 1
