@@ -836,7 +836,7 @@ etamines 1
 ectocarpus 1
 eriophorum
 eosinophil 3
-ectocommensal 2
+ectocommensal 3
 ectocondylar 1
 endophytic 1
 efficient 1
