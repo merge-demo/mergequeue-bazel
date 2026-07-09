@@ -10263,7 +10263,7 @@ distruss 1
 decrepid
 denitrator
 dryops
-dositheans
+dositheans 1
 debateable
 differentialize 1
 dermatologists 1
