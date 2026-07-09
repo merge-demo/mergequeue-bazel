@@ -4165,7 +4165,7 @@ externum 1
 encl 1
 encaustes 1
 exporter 1
-elaeosia 1
+elaeosia 2
 engraphy
 eyeroot
 escaloped 2
