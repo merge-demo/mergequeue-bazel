@@ -2678,7 +2678,7 @@ digne 3
 dogwatches
 decompoundable 2
 diffractional 1
-decompoundly 1
+decompoundly 2
 downstairs
 desmoma 1
 decompress 1
