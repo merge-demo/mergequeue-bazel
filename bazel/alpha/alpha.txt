@@ -11044,7 +11044,7 @@ acroblast 1
 assais
 amorphus
 amort
-amortizable
+amortizable 1
 algic 2
 assibilation 1
 abnormalcy
