@@ -6597,7 +6597,7 @@ aigialosauridae 1
 aigialosaurus
 apothecaries
 archpriest
-antasthenic
+antasthenic 1
 amber
 antiparliament
 aiglet 1
