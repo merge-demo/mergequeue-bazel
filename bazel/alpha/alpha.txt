@@ -24935,7 +24935,7 @@ ablaqueate 1
 aizoaceae
 argema 2
 autogenic
-aware
+aware 1
 agrote
 acheilary
 arrondissements
