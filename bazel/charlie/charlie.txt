@@ -23900,7 +23900,7 @@ chadlock
 culling 1
 contumelious 2
 contund
-crippledom
+crippledom 1
 contused 1
 castlery
 casinos 1
