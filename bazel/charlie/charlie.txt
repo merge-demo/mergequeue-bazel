@@ -29872,7 +29872,7 @@ cosmorganic
 crossbelt
 collectability 2
 crossbill 1
-crossbite 1
+crossbite 2
 capiatur
 curriculums 1
 crossbow

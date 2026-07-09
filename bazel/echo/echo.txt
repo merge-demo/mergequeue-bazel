@@ -3796,7 +3796,7 @@ enquirer
 emcumbering 1
 eyewater
 electroneutral 2
-eclaircise
+eclaircise 1
 eradicatory
 erect
 epilogs
