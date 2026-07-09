@@ -18726,7 +18726,7 @@ archdefender
 agenesia 3
 archdetective 1
 amputee 1
-alkalisation
+alkalisation 1
 apurpose
 ammonobasic
 anubin 1
