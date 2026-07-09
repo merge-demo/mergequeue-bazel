@@ -12984,7 +12984,7 @@ etheling
 evicke 1
 exposals 2
 emotion
-ensnarls
+ensnarls 1
 entice
 expectorant 2
 espiglerie
