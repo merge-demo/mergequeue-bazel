@@ -15399,7 +15399,7 @@ cordoban
 clapping
 claps 2
 consecratedness
-clapstick
+clapstick 1
 centrosome 1
 clapt
 chicane
