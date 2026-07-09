@@ -7638,7 +7638,7 @@ exactest
 extrafascicular 3
 extratelluric 1
 epicondylic 1
-erected
+erected 1
 epoptist 1
 equichangeable
 enviousness
