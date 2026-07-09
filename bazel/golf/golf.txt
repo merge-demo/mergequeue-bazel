@@ -6156,7 +6156,7 @@ grammar 1
 gowiddie 2
 generalizing
 gyre 1
-grommet 1
+grommet 2
 garters 1
 gadfly
 geelbec
