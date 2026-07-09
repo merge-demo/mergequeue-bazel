@@ -5609,7 +5609,7 @@ grossular 1
 grabman 1
 groundwall 1
 goldseed 2
-grisping
+grisping 1
 guayroto 1
 glochid 2
 geranial 1
