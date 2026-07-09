@@ -6100,7 +6100,7 @@ antifeudalism
 agitators
 apteral
 ablock
-agamospore
+agamospore 1
 agitatrix
 agitprops
 aglance
