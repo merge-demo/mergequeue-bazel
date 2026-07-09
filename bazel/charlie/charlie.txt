@@ -24851,7 +24851,7 @@ clemency 1
 capilliform
 cookware 2
 consularity 2
-coracomorph
+coracomorph 1
 curbash
 coracomorphae
 chrysopoeia
