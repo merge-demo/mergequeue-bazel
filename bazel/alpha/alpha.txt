@@ -16741,7 +16741,7 @@ attal
 athenaeum
 aphemic
 aphengoscope
-apheresis
+apheresis 1
 apheses
 asclepius 1
 antiphoner
