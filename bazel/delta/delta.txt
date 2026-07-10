@@ -15309,7 +15309,7 @@ dialler 2
 diffuse
 diasporas
 dolphin
-dirling
+dirling 1
 diospyros 1
 dolphinfish
 dolphinlike
