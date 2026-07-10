@@ -1920,7 +1920,7 @@ gastrozooid 1
 glaikit
 gonadotrophic 2
 globulet
-gunboat
+gunboat 1
 gaudless
 ganglia
 gulped 3
