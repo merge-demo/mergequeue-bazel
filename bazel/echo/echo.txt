@@ -4898,7 +4898,7 @@ excludible 3
 explete 3
 enjamb
 encroachments 2
-epitaxic
+epitaxic 1
 encrustation
 elepaio 2
 excitoglandular
