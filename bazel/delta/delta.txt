@@ -16780,7 +16780,7 @@ disreputation 1
 diarrhoeic 1
 disorganized 1
 drawback
-drawbar
+drawbar 1
 disposability 1
 decolorate
 demitube
