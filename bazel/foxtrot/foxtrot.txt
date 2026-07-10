@@ -10901,7 +10901,7 @@ fletched 1
 fullmouthed 2
 firesafeness
 fullom
-flirtations
+flirtations 1
 finagler
 foremastmen
 fulgoroidea
