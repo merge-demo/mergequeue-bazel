@@ -4666,7 +4666,7 @@ demystify
 deus 1
 demystification 2
 demurring
-dismantle
+dismantle 1
 demisuit
 dumminess
 dithyrambos 2
