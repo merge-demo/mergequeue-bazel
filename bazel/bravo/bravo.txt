@@ -1844,7 +1844,7 @@ brython
 birken
 bandhook 1
 balladromic 2
-bandicoy
+bandicoy 1
 bonzes 2
 befoam
 bloodier 2
