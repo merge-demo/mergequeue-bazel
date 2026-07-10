@@ -4343,7 +4343,7 @@ bromhydric 1
 blockishness
 bossdoms 2
 beche
-becheck
+becheck 1
 befool 1
 bechic 1
 bechignoned 2
