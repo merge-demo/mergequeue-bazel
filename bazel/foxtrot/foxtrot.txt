@@ -614,7 +614,7 @@ floodways
 fleshes 1
 forehand 1
 folly 1
-farrantly
+farrantly 1
 forebemoan
 forelimb
 funnies 1
