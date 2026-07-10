@@ -9881,7 +9881,7 @@ dimensioning
 dimensum
 disangularize 1
 diphenyl 2
-dimer
+dimer 1
 decadency
 deludable 1
 deboner
