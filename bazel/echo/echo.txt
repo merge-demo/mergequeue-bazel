@@ -9105,7 +9105,7 @@ ephors 2
 equinoxes
 evasion
 embordered
-erythropsia
+erythropsia 1
 electrograving
 entwist
 etruscan 2
