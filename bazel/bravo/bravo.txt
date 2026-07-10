@@ -4049,7 +4049,7 @@ bedolt 1
 brisure
 bumperette
 blanch
-bannerets
+bannerets 1
 becolme
 babbie 1
 bulgers
