@@ -12449,7 +12449,7 @@ douching 1
 dislocable
 diastematic
 dishrags 1
-dishtowels
+dishtowels 1
 detrital 1
 dishumanize 2
 deipnodiplomatic
