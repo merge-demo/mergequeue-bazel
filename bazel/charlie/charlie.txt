@@ -2217,7 +2217,7 @@ counterhammering
 campos 1
 conuropsis
 circumfusile
-capotes
+capotes 1
 campshed
 campsheeting 1
 campsite 2
