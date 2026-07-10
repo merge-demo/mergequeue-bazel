@@ -3861,7 +3861,7 @@ firewoods
 fisticuffer 2
 furthermore 1
 fineless
-fract 3
+fract 4
 fiberglas 1
 formicary
 fiberscope 1
