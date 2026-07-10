@@ -14766,7 +14766,7 @@ countercarte
 citizenize 1
 citizenized
 citizenly
-citizenry
+citizenry 1
 callithump
 corruptibleness 2
 cascan 2
