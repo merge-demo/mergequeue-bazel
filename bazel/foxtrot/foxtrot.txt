@@ -8100,7 +8100,7 @@ foreswore 1
 flavouring 1
 feeble
 flasklet
-factorist
+factorist 1
 fumacious
 farceur 3
 floodplain
