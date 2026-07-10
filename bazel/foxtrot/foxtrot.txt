@@ -9713,7 +9713,7 @@ festinate 1
 floatable 1
 footmanry 2
 faunch 1
-facework
+facework 1
 fluviograph
 flabs 1
 forestick
