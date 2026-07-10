@@ -18880,7 +18880,7 @@ colipuncture
 coliseum
 chancelor 1
 colossus
-cestoid
+cestoid 1
 colistin 1
 coypou
 colitic 1
