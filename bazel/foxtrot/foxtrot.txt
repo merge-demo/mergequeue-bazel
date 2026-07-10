@@ -971,7 +971,7 @@ foyers 1
 forride 2
 fictionization
 fardel 2
-flannelmouth
+flannelmouth 1
 foxhound 1
 fusion 1
 fardelet 2
