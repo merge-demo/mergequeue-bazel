@@ -5988,7 +5988,7 @@ faitour 3
 flutebird 1
 floorboard
 fixures
-flashness 2
+flashness 3
 floorcloths
 fumid
 fluidizing
