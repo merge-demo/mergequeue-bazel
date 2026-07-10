@@ -3959,7 +3959,7 @@ ifdbtfmlsvvhz 1
 ifdcygez
 ifdgiap 1
 ifdgx
-ifdiv
+ifdiv 1
 ifdk 1
 ifdlaprq 1
 ifdlibzkd 1
