@@ -24672,7 +24672,7 @@ asteer
 arabized
 actinidia 1
 anastrophia
-archimage
+archimage 1
 autostylic 1
 averagely
 averageness
