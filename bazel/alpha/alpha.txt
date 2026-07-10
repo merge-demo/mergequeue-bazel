@@ -1857,7 +1857,7 @@ allseed
 awn 1
 antitabetic 1
 acerval 3
-aggressions
+aggressions 1
 antiphysic
 acervate
 acervation
