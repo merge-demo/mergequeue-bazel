@@ -12462,7 +12462,7 @@ bondmen 4
 bullyrock 1
 bondminder 2
 bookroom
-bawdrick
+bawdrick 1
 bierbalk 1
 bondship 1
 bondsman 1
