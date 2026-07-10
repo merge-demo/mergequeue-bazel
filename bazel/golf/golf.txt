@@ -5771,7 +5771,7 @@ gonotheca 1
 gravemaker
 galera
 galactolysis
-garbel
+garbel 1
 gade 2
 graphites 2
 glycogenolysis
