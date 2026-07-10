@@ -5262,7 +5262,7 @@ alingual 3
 anticlinal
 anapophysial
 ammonifier
-affine
+affine 1
 anteporch
 amidist 1
 antiatheistically
