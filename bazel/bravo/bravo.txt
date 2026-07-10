@@ -15502,7 +15502,7 @@ brushiness 1
 botanophilist 1
 brynhild
 blist
-barbes
+barbes 1
 bebar 2
 boyce 2
 bloodless
