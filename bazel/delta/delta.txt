@@ -6645,7 +6645,7 @@ dustband 1
 dipped 2
 dictyotaceae
 desertfully
-deserticolous
+deserticolous 1
 duction 1
 driers 1
 deletes 3
