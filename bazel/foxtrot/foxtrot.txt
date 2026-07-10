@@ -770,7 +770,7 @@ foliicolous
 forestaff 1
 fragrance 1
 fallows
-fandangos
+fandangos 1
 fandoms 1
 frivolized 1
 fellowlike
