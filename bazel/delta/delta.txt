@@ -5288,7 +5288,7 @@ disscepter
 dewey
 deligated 2
 drammer 2
-density
+density 1
 defat
 degasifier
 dispositioned 2
