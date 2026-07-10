@@ -4569,7 +4569,7 @@ fisticuff
 fort 1
 fouldre 1
 familiarness 1
-fratricide 1
+fratricide 2
 fainaigued
 fisting
 faithfulness
