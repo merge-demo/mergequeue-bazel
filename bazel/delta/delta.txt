@@ -5472,7 +5472,7 @@ deistic 2
 decolouriser 1
 deorganize 1
 deregister 1
-disenablement
+disenablement 1
 deorsum 2
 deossification 1
 deuterostomatous
