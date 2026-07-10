@@ -27110,7 +27110,7 @@ countershade
 clione 1
 chasms
 clinologic
-configurable
+configurable 1
 countershine 1
 chemosorptive 1
 copaiye 1
