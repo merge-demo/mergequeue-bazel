@@ -6783,7 +6783,7 @@ brittles
 bin
 berserks 1
 barnumize 1
-berskin 1
+berskin 2
 balize
 berhyme 3
 banjore 1
