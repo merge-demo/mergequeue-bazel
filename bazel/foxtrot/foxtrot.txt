@@ -3641,7 +3641,7 @@ filiformed 3
 footmaker 1
 frisbees 1
 flook 2
-farmable 1
+farmable 2
 fridstool 3
 frictionlessly 2
 flashing 1
