@@ -1554,7 +1554,7 @@ gazetting 1
 gainbirth 2
 gunsels 2
 glaik 1
-grulla
+grulla 1
 glimes
 graphitized 1
 gainset 1
