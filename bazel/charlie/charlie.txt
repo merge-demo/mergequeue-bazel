@@ -24813,7 +24813,7 @@ curlycue
 colourfast
 coquicken
 cartload
-contumax
+contumax 1
 coquille
 corrade 1
 crosiers
