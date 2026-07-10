@@ -9261,7 +9261,7 @@ biplanes
 beclogging 1
 bonavist 1
 butler 2
-bantamweights
+bantamweights 1
 becafico
 bipod
 bipods 1
