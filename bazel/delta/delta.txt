@@ -4232,7 +4232,7 @@ dossal
 delphinoidine 1
 distaffs 2
 delphocurarine 2
-dermatopsy
+dermatopsy 1
 decoherer
 dels
 djelfa
