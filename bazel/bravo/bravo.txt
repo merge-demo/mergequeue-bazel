@@ -13241,7 +13241,7 @@ bankshall
 bossed
 boanergean 1
 bosselation 1
-bolti 1
+bolti 2
 barysphere 1
 buffbar
 bedevil 1
