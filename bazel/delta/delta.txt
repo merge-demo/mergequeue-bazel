@@ -14286,7 +14286,7 @@ dibasic 2
 ditolyl 1
 ditremid 1
 disharmonies
-diffusiveness 1
+diffusiveness 2
 despectant
 downsitting
 ditrichotomous 1
