@@ -3409,7 +3409,7 @@ diamante
 diacetyl 1
 disassociable 2
 dyscrasia 1
-decarboxylase
+decarboxylase 1
 decolorisation 1
 disadorn 2
 donet
