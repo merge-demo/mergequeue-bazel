@@ -5785,7 +5785,7 @@ doodler 3
 depopulation 2
 denitrize 1
 debeak
-depopulative
+depopulative 1
 dowve 1
 disimitation 3
 demipuppet
