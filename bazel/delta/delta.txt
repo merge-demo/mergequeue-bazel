@@ -8449,7 +8449,7 @@ duopsony
 degreed 1
 diamagnet
 diamagnetic 3
-diamagnetism 1
+diamagnetism 2
 dredging
 diamant 1
 ditrochee
