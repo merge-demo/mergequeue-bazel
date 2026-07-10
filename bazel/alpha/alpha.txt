@@ -24832,7 +24832,7 @@ aventail
 appendicial
 acheck
 avogadrite
-accupy
+accupy 1
 alcoholization
 avoid 1
 avoidable
