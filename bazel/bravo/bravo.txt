@@ -182,7 +182,7 @@ baccalaureates 2
 baccalaureus 1
 baccara
 baroques
-bipartition
+bipartition 1
 bandido 3
 byes
 bitt 1
