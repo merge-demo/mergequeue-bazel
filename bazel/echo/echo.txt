@@ -3082,7 +3082,7 @@ emetia 1
 exhaustible
 equated 3
 excreters 1
-eardrop
+eardrop 1
 ellfish 1
 exor 5
 esthetes
