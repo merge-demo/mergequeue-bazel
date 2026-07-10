@@ -11393,7 +11393,7 @@ creature
 chloroquine 1
 coronas 1
 camagon 2
-cyclamates 1
+cyclamates 2
 cloudlessly 2
 counterpillar
 cheekier
