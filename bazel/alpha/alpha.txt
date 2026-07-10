@@ -13300,7 +13300,7 @@ anisoles
 adipopexic 1
 albireo
 aurifex 1
-agglutinability
+agglutinability 1
 autosome
 abobra
 anthelminthic
