@@ -6835,7 +6835,7 @@ firetower 2
 fustigator 1
 fussify 2
 flipjack 1
-fourhanded 3
+fourhanded 4
 fabled 1
 furomonazole 1
 foliary
