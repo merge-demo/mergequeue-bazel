@@ -21009,7 +21009,7 @@ compulsatorily 1
 compulsed
 calciphobe
 culex
-compulsion
+compulsion 1
 cereuses 1
 compulsitor
 coremiumia
