@@ -15944,7 +15944,7 @@ amici 1
 arnut
 angloman
 appointor
-autorotate 2
+autorotate 3
 antiq 1
 antiqua 1
 acetylated
