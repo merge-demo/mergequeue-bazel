@@ -7240,7 +7240,7 @@ centrodorsal 1
 centroids
 cyanophilous
 conte
-centromere
+centromere 1
 centromeric
 centronote
 couth
