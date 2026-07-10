@@ -23643,7 +23643,7 @@ alleles 1
 arables
 amylodextrin 1
 aureole 1
-autosomatognostic
+autosomatognostic 1
 aureoled 1
 anemograph 1
 alee
