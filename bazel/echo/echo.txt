@@ -6476,7 +6476,7 @@ ensorceled
 encephalometer 1
 earfuls 1
 encheck 1
-exercisable
+exercisable 1
 ensorcellment 2
 ensorrow 1
 encumberment 1
