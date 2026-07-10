@@ -26400,7 +26400,7 @@ cycloidian 1
 cerenkov
 cothon 1
 cothouse
-cothurn
+cothurn 1
 cothurnus 1
 coticed
 coruscate
