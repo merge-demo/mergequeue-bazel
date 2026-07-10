@@ -862,7 +862,7 @@ englobement 2
 eddic 1
 entourages 1
 epistolizer 1
-eigenfunction
+eigenfunction 1
 erythrocytolysin
 electrocution 1
 encomiastical 2
