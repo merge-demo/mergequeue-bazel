@@ -5252,7 +5252,7 @@ fierceness 2
 fishmen 2
 filippi
 faugh 1
-flavorsome
+flavorsome 1
 falda
 fossilage
 fstore 2
