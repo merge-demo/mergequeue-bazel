@@ -5361,7 +5361,7 @@ buyable
 begray
 bromobenzene
 barodynamic 1
-barbarisation
+barbarisation 1
 burly
 birne
 begrett
