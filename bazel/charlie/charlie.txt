@@ -18932,7 +18932,7 @@ collaret
 counterbracing
 collarette
 carnifices 1
-clypeaster
+clypeaster 1
 carpuspi
 coupelet
 cochal
