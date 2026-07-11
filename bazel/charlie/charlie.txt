@@ -5264,7 +5264,7 @@ coalitions 1
 cassation 1
 caveats
 cerin 1
-cassegrain
+cassegrain 1
 clavierists
 chromomeric
 cassegrainian
