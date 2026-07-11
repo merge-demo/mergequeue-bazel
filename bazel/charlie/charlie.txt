@@ -1306,7 +1306,7 @@ calaverite 1
 caliber
 compulsatory
 calibers
-colunar
+colunar 1
 calibrated
 calibrater 1
 calibrates 1
