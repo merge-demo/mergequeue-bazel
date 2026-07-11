@@ -22989,7 +22989,7 @@ console
 crain
 crossfire
 chambermaids
-coprinae
+coprinae 1
 companyless
 copist
 consoles
