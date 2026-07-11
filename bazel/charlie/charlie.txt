@@ -18115,7 +18115,7 @@ chicory
 coenosteum 1
 cacopharyngia
 coenotype
-coenotypic
+coenotypic 1
 coenotrope 1
 coenthrone
 colatorium
