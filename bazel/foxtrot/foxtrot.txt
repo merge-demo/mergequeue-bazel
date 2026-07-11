@@ -3674,7 +3674,7 @@ flawier 2
 forelooper 1
 floorings
 fuzzing 4
-followeth 2
+followeth 3
 funnelling 1
 friskers 3
 fertilised 2
