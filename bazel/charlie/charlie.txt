@@ -2868,7 +2868,7 @@ canopy 1
 canopid
 canalised
 canopies
-clarigate
+clarigate 1
 corticated
 canopying 1
 cours
