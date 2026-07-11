@@ -9130,7 +9130,7 @@ didelphoid 1
 disinclines
 derisory
 doffs
-detriment
+detriment 1
 disdiaclasis
 disgracement 2
 didicoy
