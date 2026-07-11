@@ -803,7 +803,7 @@ abrogating
 avocado 2
 angiomegaly 1
 abronia
-afterhelp
+afterhelp 1
 abrood
 abrook
 aiel
