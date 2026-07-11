@@ -13908,7 +13908,7 @@ cynography
 cirripeds
 cynoid
 contributiveness
-coadjacently
+coadjacently 1
 casusistry
 calliopes
 calombigas
