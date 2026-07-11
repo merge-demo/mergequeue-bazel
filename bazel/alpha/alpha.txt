@@ -22336,7 +22336,7 @@ aurignacian
 astrocytic
 achilleid
 amollish
-abbr
+abbr 1
 astrocytomas
 anagnost 2
 ashy 1
