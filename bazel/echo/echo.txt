@@ -9588,7 +9588,7 @@ emplacing 1
 emulator 1
 epihippus
 enterohemorrhage 1
-esophagalgia
+esophagalgia 1
 esophagean 1
 esophago 1
 esophagogastroscopy 1
