@@ -1687,7 +1687,7 @@ kbqsym
 kbqua 1
 kbqvd 1
 kbqwyixhahoreb
-kbrfxyvbrgz
+kbrfxyvbrgz 1
 kbrgoudppaezg
 kbrigjxqadciyvu 1
 kbrihqtbrmbaw 1
