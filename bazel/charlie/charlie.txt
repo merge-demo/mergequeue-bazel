@@ -23199,7 +23199,7 @@ carpomania
 constricting
 constriction
 coelomic 1
-constrictive
+constrictive 1
 constrictor 3
 creeler 1
 crevass
