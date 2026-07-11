@@ -2825,7 +2825,7 @@ begalled
 bulkiest 1
 baudery 1
 beclap 1
-barothermograph
+barothermograph 1
 barotrauma
 bulgurs 1
 behowling 4
