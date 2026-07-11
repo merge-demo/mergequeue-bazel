@@ -6313,7 +6313,7 @@ gastrocele 3
 gymnorhininae 1
 goblin 2
 gettable 2
-gullible
+gullible 1
 gigartinaceous 2
 gunmen
 gargantua
