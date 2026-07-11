@@ -7090,7 +7090,7 @@ babblish 1
 becalmed 2
 boyos 1
 bawdiness
-bespell
+bespell 1
 bespelled
 bespend
 bespew
