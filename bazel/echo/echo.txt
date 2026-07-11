@@ -8921,7 +8921,7 @@ ergotoxine 3
 ergots
 evap 1
 erses 2
-egestive
+egestive 1
 essive
 epiphanies 1
 errhine
