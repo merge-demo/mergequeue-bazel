@@ -163,7 +163,7 @@ fow 2
 fullbodied 2
 freezers
 fabes 5
-faradopalpation
+faradopalpation 1
 fictionary 1
 felaheen
 foreribs 2
