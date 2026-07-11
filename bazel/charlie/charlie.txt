@@ -7062,7 +7062,7 @@ centerable
 cutup
 chumpivilca 1
 centerboard 1
-centerer
+centerer 1
 centerfold
 compania 1
 coofs
