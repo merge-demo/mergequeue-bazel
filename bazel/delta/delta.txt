@@ -611,7 +611,7 @@ demoses
 dramamine
 deposes 1
 doff
-damnability
+damnability 1
 damnabilities 1
 disegno
 dawut
