@@ -9070,7 +9070,7 @@ diss 1
 dermatophobia 1
 defigure 1
 dictionarian 2
-dorsoabdominal
+dorsoabdominal 1
 dollying
 dropsywort
 disembattle 1
