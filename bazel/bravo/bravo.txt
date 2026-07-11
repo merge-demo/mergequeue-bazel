@@ -5154,7 +5154,7 @@ boxholder
 bootmaker
 befouling 1
 bazookas
-befoulment
+befoulment 1
 biacuminate
 befraught
 befreight
