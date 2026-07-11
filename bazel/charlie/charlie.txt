@@ -20091,7 +20091,7 @@ commerciality
 commercialize
 ceennacuelum
 commercially
-cultivable
+cultivable 1
 commercialness
 corporealness
 commercium 1
