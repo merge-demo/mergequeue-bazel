@@ -12532,7 +12532,7 @@ burtonize
 boniata
 bloodshot
 barnage 1
-balsamroot
+balsamroot 1
 bourgeoning
 brails 1
 bridehead 2
