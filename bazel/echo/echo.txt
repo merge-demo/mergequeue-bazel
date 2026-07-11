@@ -3391,7 +3391,7 @@ electrotechnics 1
 embarge
 espier
 enteropneustal
-estimator
+estimator 1
 equivocally 1
 epinephelus
 ebullate 1
