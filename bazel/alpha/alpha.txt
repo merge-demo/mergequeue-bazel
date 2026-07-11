@@ -11157,7 +11157,7 @@ alkide 1
 addictive
 analgesis
 aromatizer
-adsorb
+adsorb 1
 amphiboles 2
 affliction 2
 axometric
