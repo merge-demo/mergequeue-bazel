@@ -22793,7 +22793,7 @@ asaphid
 atlantides
 audibility 1
 atlantite
-arthrodic
+arthrodic 1
 arrowheaded 1
 antigenically
 ammodytes
