@@ -8649,7 +8649,7 @@ forborn 1
 fytte
 farstepped 2
 furthering 1
-frigidness
+frigidness 1
 frictionproof 2
 faintest 3
 footing 2
