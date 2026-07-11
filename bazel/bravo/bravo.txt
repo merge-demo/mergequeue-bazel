@@ -15488,7 +15488,7 @@ bryndza 1
 bleaters 1
 balloonfish
 bearskins 1
-brinehouse
+brinehouse 1
 brineless
 backsaws 1
 bakery 2
