@@ -17563,7 +17563,7 @@ deathlike 2
 disavowal
 distained
 domesticates 1
-duteousness
+duteousness 1
 drumming
 drumreads 1
 demential
