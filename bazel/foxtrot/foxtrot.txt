@@ -11581,7 +11581,7 @@ fluence 1
 fruitlike 1
 foretalking 1
 fthm
-fusionist
+fusionist 1
 fusions
 freity
 floscular 1
