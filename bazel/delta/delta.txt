@@ -1724,7 +1724,7 @@ dispensations 1
 decostate
 defensibility
 deaspiration 1
-degree
+degree 1
 dihely 1
 depersonalization 2
 daredevilry
