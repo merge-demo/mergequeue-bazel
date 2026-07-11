@@ -16645,7 +16645,7 @@ closeouts
 closer 2
 chlorophyllose 1
 chrysler 1
-checkerwise
+checkerwise 1
 closers 1
 closes 2
 closeting 1
