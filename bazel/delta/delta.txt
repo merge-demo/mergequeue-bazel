@@ -10249,7 +10249,7 @@ dayshine 4
 destry
 dinotherian
 dins 1
-defenestrate
+defenestrate 1
 dinted 2
 dintless 2
 ducal 1
