@@ -5604,7 +5604,7 @@ enflaming 3
 epiklesis
 equuleus 1
 embryulcus 1
-enflower
+enflower 1
 essexite 2
 evaporate
 ectognatha 5
