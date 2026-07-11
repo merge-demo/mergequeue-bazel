@@ -2794,7 +2794,7 @@ diamondized
 decreet
 desmogen 1
 dugal
-dop
+dop 1
 dorsalward
 disharmonize
 decremeter
