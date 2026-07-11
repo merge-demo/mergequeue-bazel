@@ -2655,7 +2655,7 @@ bilge 1
 bimensal 1
 bellying 1
 bable 1
-bribeable
+bribeable 1
 barling
 bluestone 1
 bertholletia 2
