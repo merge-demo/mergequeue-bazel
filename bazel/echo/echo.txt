@@ -11517,7 +11517,7 @@ embryoma 2
 evincible
 ectopterygoid 3
 elegancies
-epicurean
+epicurean 1
 elastometer 1
 emcee 1
 enforced
