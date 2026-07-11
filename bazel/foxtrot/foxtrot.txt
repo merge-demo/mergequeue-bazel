@@ -10384,7 +10384,7 @@ fizzle
 focus 1
 furoid 1
 feedable
-feared 2
+feared 3
 frangipanis 2
 fatalist 1
 friller
