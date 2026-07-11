@@ -5437,7 +5437,7 @@ confront
 casaque
 castlewise
 castock 1
-clepes
+clepes 1
 castoffs
 coldly
 castoreum
