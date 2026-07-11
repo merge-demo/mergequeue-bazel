@@ -13333,7 +13333,7 @@ eskar
 emilia
 encincture
 exponention 2
-elephantopus
+elephantopus 1
 exponible 1
 existible 1
 evolvable 2
