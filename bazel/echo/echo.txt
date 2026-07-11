@@ -10888,7 +10888,7 @@ emmetropia 1
 eutectic
 extensor
 embryoplastic 1
-esthetic
+esthetic 1
 enchaser 2
 electrothanasia
 euphonically
