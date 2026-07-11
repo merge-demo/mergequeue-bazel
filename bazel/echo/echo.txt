@@ -7106,7 +7106,7 @@ edicule
 equiprobability
 electrophoric
 enchainments 1
-epiplankton 1
+epiplankton 2
 evadible 1
 extemporizing 1
 envaye
