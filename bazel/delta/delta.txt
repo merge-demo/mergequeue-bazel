@@ -7661,7 +7661,7 @@ drawers
 diffusional
 develops 1
 devels
-devenustate
+devenustate 1
 disjeune 1
 devexity 1
 dividedly
