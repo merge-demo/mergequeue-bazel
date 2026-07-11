@@ -11450,7 +11450,7 @@ expdt 2
 elided 2
 evetide 1
 extirpating
-encipherment 1
+encipherment 2
 ethanim 1
 elucidation
 engraving 1
