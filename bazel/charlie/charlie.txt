@@ -16342,7 +16342,7 @@ czardases
 circumspectness 1
 clisere 2
 cullibility
-clyses
+clyses 1
 clishmaclaver
 clysma
 cribral
