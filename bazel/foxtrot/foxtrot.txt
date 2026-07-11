@@ -3329,7 +3329,7 @@ fioritura
 fairings 2
 fulgide
 feture 1
-flabbergastation
+flabbergastation 1
 flexility 3
 fracted 1
 fidejussor 2
