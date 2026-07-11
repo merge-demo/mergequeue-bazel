@@ -3204,7 +3204,7 @@ gooier
 guerdoning 4
 gephyrea
 gwendolen
-gular
+gular 1
 gallomania 1
 gaudiness 1
 getup 3
