@@ -14480,7 +14480,7 @@ brakie 1
 blastophitic 1
 bramble
 brambleberry 3
-brambles
+brambles 1
 branchy
 botch
 beerily
