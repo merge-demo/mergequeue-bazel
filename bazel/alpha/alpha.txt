@@ -5568,7 +5568,7 @@ afterpast
 afflux 1
 afterplanting 1
 absinthium
-acknew
+acknew 1
 afterreckoning
 audiotypist 1
 auxofluor
