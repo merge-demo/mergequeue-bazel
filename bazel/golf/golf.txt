@@ -4296,7 +4296,7 @@ gregos 1
 gigantesque 3
 grousing
 gumlike
-gabfests
+gabfests 1
 granulate
 glyptotherium 2
 goboes 3
