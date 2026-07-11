@@ -5775,7 +5775,7 @@ deaconed
 depolishes 2
 depoliticized
 donia
-depoliticizes
+depoliticizes 1
 dredged
 dreck
 depones 1
