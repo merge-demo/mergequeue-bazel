@@ -5971,7 +5971,7 @@ antiroll
 anatman
 aggrege
 allopathy 4
-amphigoric
+amphigoric 1
 appraisable
 anergia 1
 angulosplenial 1
