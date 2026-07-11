@@ -8325,7 +8325,7 @@ dialcohol 1
 dialect
 doomsman
 decolourized 1
-demoded
+demoded 1
 disequalize 1
 diplogenetic
 datagram
