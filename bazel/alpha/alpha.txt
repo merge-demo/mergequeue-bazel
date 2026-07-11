@@ -8811,7 +8811,7 @@ afforests 2
 acescents
 alodial
 antisensuously
-allium
+allium 1
 alliums 2
 antiministerialist
 allivalite
