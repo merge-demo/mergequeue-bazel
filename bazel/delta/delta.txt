@@ -6057,7 +6057,7 @@ dispends
 duplicident 1
 drumlike 1
 deputed 2
-demanding
+demanding 1
 deselecting
 demolitionary 2
 deputes 3
