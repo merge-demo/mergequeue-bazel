@@ -3926,7 +3926,7 @@ buttonholes 1
 butternose 1
 bdellium 1
 bdelliums 1
-brownist
+brownist 1
 bdelloid
 bdellometer 1
 boarts 1
