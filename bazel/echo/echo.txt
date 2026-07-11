@@ -6419,7 +6419,7 @@ ensiled
 embezzler 1
 endopod 1
 engineering
-electrocutes 1
+electrocutes 2
 enlargers 1
 ensiling
 ensilist
