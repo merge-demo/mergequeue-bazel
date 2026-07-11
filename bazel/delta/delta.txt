@@ -6498,7 +6498,7 @@ dimensioned 1
 dipeptid
 dentellated
 disqualification 2
-delignated
+delignated 1
 disomatous 1
 descendent 1
 dolichosoma
