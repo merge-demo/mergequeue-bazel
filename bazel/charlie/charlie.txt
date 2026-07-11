@@ -16207,7 +16207,7 @@ crankness
 crossbeak 1
 clingfishes
 contravenes
-clingy 1
+clingy 2
 clinginess
 cuit
 craniopagus
