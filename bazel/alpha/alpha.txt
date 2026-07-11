@@ -24284,7 +24284,7 @@ autopelagic
 abulomania
 autopepsia
 astrophysical
-autophagous
+autophagous 1
 autophyte 1
 autophytic
 agister
