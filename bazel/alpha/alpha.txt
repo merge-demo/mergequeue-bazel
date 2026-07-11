@@ -255,7 +255,7 @@ abc 2
 angiohypotonia 1
 abcoulomb
 abietineous
-automative
+automative 1
 aba
 apodictic
 aggraded
