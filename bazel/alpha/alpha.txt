@@ -1317,7 +1317,7 @@ athanor
 acylating
 acaulescence 1
 amidships 1
-acaulescent
+acaulescent 1
 acauline 2
 acc 1
 accable 1
