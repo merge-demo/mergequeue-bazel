@@ -6700,7 +6700,7 @@ deaconries 2
 desicate 1
 dubonnets 2
 desman
-desiderable
+desiderable 1
 diascopy 2
 deadhead 1
 desiderata
