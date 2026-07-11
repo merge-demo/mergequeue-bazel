@@ -15942,7 +15942,7 @@ cinchonizing
 clergy
 clergyable
 cotoneaster
-clergylike
+clergylike 1
 cyclos
 clergymen 1
 chandleries 1
