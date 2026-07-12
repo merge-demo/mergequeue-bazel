@@ -8878,7 +8878,7 @@ biocycles
 biocidal
 biocide
 bookcases 1
-bioclimatic
+bioclimatic 1
 bowwoman
 bioclimatician
 bioclimatology
