@@ -15254,7 +15254,7 @@ disbursal 3
 demipriest
 depressanth
 dogsleep
-derotremate
+derotremate 1
 domicile 1
 dother 1
 dal
