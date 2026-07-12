@@ -2036,7 +2036,7 @@ daimen
 duplicitas
 dichloramin 1
 decagram
-dourness
+dourness 1
 decagrams 1
 declasse 2
 despised
