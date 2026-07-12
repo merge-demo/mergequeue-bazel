@@ -10825,7 +10825,7 @@ directorships 2
 desugared 3
 dysphrasia
 dapples 1
-deposable
+deposable 1
 devex
 deificatory
 direful
