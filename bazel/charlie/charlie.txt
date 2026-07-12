@@ -125,7 +125,7 @@ codshead 1
 cabinetmaking 1
 capacitated
 cabinetted 1
-coumalic 1
+coumalic 2
 chordophone
 clitelline
 cabinetworker
