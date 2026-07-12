@@ -26305,7 +26305,7 @@ costochondral
 costogenic
 costoinferior 1
 cephaloconic
-clinandrium
+clinandrium 1
 clutter
 censorious 1
 consultative
