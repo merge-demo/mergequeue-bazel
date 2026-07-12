@@ -27744,7 +27744,7 @@ cowry
 cowrie 1
 cowries
 calina
-crescentic
+crescentic 1
 catbrier
 corkscrews
 connecters
