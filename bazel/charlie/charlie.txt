@@ -10380,7 +10380,7 @@ complexify
 chieftainries 1
 concludendi 2
 chirring
-chivalric
+chivalric 1
 countertendencies
 chieftains 1
 cracknels
