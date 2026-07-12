@@ -1620,7 +1620,7 @@ egress 1
 erizo
 epiblastic
 egressed 1
-egresses
+egresses 1
 extraphysiological 1
 expounded 2
 egret
