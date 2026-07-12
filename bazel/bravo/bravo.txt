@@ -9818,7 +9818,7 @@ bullyable 1
 barbing
 brands 1
 begums 2
-bites
+bites 1
 birefringent 2
 bebat
 bytes
