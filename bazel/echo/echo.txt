@@ -4266,7 +4266,7 @@ expolish
 expendible 2
 expressways 1
 equidiagonal 2
-epityphlon
+epityphlon 1
 escutcheons 2
 experiment
 endometrium 1
