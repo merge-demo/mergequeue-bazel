@@ -4920,7 +4920,7 @@ excisions
 ef 1
 encumbrance
 extrabureau 1
-english 2
+english 3
 erythroneocytosis 1
 evolves 1
 ephyrula
