@@ -6362,7 +6362,7 @@ duodenum
 dermosclerite
 deco 2
 dermotropic
-dastardliness 1
+dastardliness 2
 derms
 diacatholicon
 defined 1
