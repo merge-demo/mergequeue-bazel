@@ -12424,7 +12424,7 @@ bareboats 1
 bushiness
 bureaux
 banisterine
-bond 1
+bond 2
 bipinnatifid 2
 bless 3
 bondar 1
