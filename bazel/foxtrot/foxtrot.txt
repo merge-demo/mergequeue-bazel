@@ -5301,7 +5301,7 @@ frightless
 fogbound
 flukes 1
 fumage 1
-fluoridize
+fluoridize 1
 fatwood
 fretters 1
 french
