@@ -11881,7 +11881,7 @@ chordamesodermic
 chordate 1
 chorded
 chordee
-choriso
+choriso 1
 cst
 contradictive
 chording
