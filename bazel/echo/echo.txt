@@ -3599,7 +3599,7 @@ euclea 1
 egocerus 2
 exemplifies
 extravehicular 3
-emulable
+emulable 1
 embowelling 2
 egocentric 1
 esperantism
