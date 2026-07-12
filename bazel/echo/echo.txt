@@ -7763,7 +7763,7 @@ epidiascope 2
 engraff 1
 ecce 2
 epichilia
-egoism
+egoism 1
 embrocating 1
 embosom 2
 exchanger 1
