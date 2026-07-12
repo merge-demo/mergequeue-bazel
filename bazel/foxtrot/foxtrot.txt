@@ -4234,7 +4234,7 @@ firelight
 flab 2
 feistier 1
 felicide 2
-footsies
+footsies 1
 fowls 2
 farinosely
 formed
