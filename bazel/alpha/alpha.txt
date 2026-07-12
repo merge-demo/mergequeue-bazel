@@ -12860,7 +12860,7 @@ autoinductive
 ammoniticone
 aeroscopically
 angle 1
-arenarious
+arenarious 1
 annalism
 angled
 argenol 1
