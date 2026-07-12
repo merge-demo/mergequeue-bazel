@@ -5586,7 +5586,7 @@ flycatchers 1
 flicflac
 flintiness 1
 flicker 2
-fixity 1
+fixity 2
 flocculently 1
 fiords
 flickermouse
