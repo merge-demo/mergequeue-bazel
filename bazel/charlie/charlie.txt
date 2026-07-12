@@ -6010,7 +6010,7 @@ contratempo
 catholic
 courtesans 1
 cardinalated
-cryptostomata
+cryptostomata 1
 catholicalness
 chalkography
 catholicisation
