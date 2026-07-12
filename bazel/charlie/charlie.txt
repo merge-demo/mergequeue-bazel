@@ -7597,7 +7597,7 @@ censerless 1
 carus
 corrugating 1
 cooked
-citrulline
+citrulline 1
 chondric
 corydaline
 cophouse 1
