@@ -2893,7 +2893,7 @@ fractioning 4
 fettlings 1
 farcin 2
 freighted 2
-fackins
+fackins 1
 firefighters 1
 footstall
 fettucini
