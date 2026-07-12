@@ -9787,7 +9787,7 @@ amalgamatize
 amicabilities 1
 amperage
 amalgamization
-anaphase
+anaphase 1
 amalic
 argosine
 aircrews
