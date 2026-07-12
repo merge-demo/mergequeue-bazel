@@ -25840,7 +25840,7 @@ chuser 2
 coolant 1
 corruptingly 1
 cimicid 2
-cocooning
+cocooning 1
 circumflexes
 corruption
 corruptionist
