@@ -6436,7 +6436,7 @@ fluoaluminate 1
 fainted 1
 frictionable
 flatcap
-fairs
+fairs 1
 fibrinolysis
 fungi 1
 fistulariidae
