@@ -4565,7 +4565,7 @@ frit 2
 futtocks 2
 forespoken 3
 feuder
-fisticuff
+fisticuff 1
 fort 1
 fouldre 1
 familiarness 1
