@@ -9804,7 +9804,7 @@ chapeless
 chalybean 1
 corrugates 1
 cowardliness
-clubroot
+clubroot 1
 combattants 1
 carpologist
 chemick
