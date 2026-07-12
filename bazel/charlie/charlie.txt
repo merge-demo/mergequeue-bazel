@@ -27759,7 +27759,7 @@ countercommand 1
 cowson
 criticsm 2
 cowtown
-cox
+cox 1
 cohog
 charting
 coxa
