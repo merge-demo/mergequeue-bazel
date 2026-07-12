@@ -8728,7 +8728,7 @@ bosc 1
 beagling
 behests 3
 behinder 2
-barycentre 2
+barycentre 3
 brontozoum
 birchen
 binal 1
