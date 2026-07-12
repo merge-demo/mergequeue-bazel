@@ -4815,7 +4815,7 @@ carlist 2
 carposporous
 carpsucker
 cavalierish
-concaving
+concaving 1
 connotive 1
 chem 1
 crosspost
