@@ -4203,7 +4203,7 @@ dribs 1
 decimal 5
 deodorisation 1
 doorjamb
-delphacidae
+delphacidae 1
 disincorporated
 dogcart
 depasturing 1
