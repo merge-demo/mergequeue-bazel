@@ -71,7 +71,7 @@ feudalization 3
 faceharden 2
 flagships 1
 flecken
-facellite 1
+facellite 2
 felonious 1
 furthers 2
 flysch 1
