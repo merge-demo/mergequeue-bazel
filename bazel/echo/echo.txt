@@ -3917,7 +3917,7 @@ eels
 effodient
 enalid
 exede
-examinability
+examinability 1
 epiglottis 1
 endexine 1
 emissory 2
