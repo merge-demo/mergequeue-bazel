@@ -3184,7 +3184,7 @@ cede 2
 cacochymic 1
 capeweed 1
 coverlet
-crystallogy
+crystallogy 1
 craked
 citruses
 capewise
