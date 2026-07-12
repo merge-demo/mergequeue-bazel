@@ -10612,7 +10612,7 @@ drudger 1
 deben 1
 decolorizing 1
 diplomates
-diplomatically
+diplomatically 1
 diethyl
 dysergia
 dolour
