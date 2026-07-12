@@ -9989,7 +9989,7 @@ bn
 baroscopical 1
 bargainor 1
 biverb
-beblear
+beblear 1
 bedfast 1
 breeched
 bivocal 2
