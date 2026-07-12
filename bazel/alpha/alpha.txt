@@ -15246,7 +15246,7 @@ arthrolite 1
 adapa 1
 amalgamates
 antifreeze 1
-antifriction
+antifriction 1
 antifrost
 antifungal
 apoenzyme
