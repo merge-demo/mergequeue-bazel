@@ -27552,7 +27552,7 @@ covercle 2
 coprolalia
 carangidae
 covered
-coverer
+coverer 1
 campfire 1
 coverings 2
 comped 2
