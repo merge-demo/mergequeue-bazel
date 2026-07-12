@@ -7612,7 +7612,7 @@ effoliate
 ersar
 endamoebic 1
 edelweiss
-epiclinal
+epiclinal 1
 ecstaticize 1
 enteric
 epicoele
