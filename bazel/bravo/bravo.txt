@@ -9999,7 +9999,7 @@ bombings 1
 buffos
 bivoluminous
 bivouaced 1
-bivouacked 2
+bivouacked 3
 balaphon
 bodes 2
 bouilli 1
