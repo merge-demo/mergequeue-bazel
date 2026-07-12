@@ -9976,7 +9976,7 @@ brahmic
 berbery
 barrenness
 bivector
-biventer
+biventer 1
 backseat
 bayonetting 1
 blackwashing 1
