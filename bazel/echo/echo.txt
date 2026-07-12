@@ -13659,7 +13659,7 @@ evirate 1
 elevon 1
 elizabethanism
 exteriorisation
-exteriorised
+exteriorised 1
 ecrus
 entapophysis
 epithem
