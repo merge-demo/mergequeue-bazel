@@ -17955,7 +17955,7 @@ cattlehide
 coelenterate 2
 catharses
 crotin
-coelenterates
+coelenterates 1
 coelenteric
 copyman 1
 coelestial
