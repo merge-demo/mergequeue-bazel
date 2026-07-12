@@ -3096,7 +3096,7 @@ geat
 gynethusia 3
 grulla 1
 gunpoint 2
-guardroom
+guardroom 1
 generally
 glucokinin 1
 globigerine 1
