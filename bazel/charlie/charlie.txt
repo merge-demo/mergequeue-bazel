@@ -9970,7 +9970,7 @@ cherchez
 chercock
 cherem 1
 calcimine
-cherenkov
+cherenkov 1
 cherimoyer
 cump 1
 cherish
