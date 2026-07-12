@@ -9035,7 +9035,7 @@ gatehouse 1
 golem 3
 gramashes 1
 granatum 1
-geomorphogenist 1
+geomorphogenist 2
 gastrocnemian
 gorhens 2
 gastroenterologic 2
