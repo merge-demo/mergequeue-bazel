@@ -10216,7 +10216,7 @@ gimbaljawed 1
 groundneedle
 generaliser 2
 grippers 1
-guzzled
+guzzled 1
 guile 4
 gyrectomies 1
 galluses
