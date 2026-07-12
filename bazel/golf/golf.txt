@@ -4977,7 +4977,7 @@ goldic
 gymnogen 1
 gawker 3
 galling
-glew 1
+glew 2
 goodwilled 2
 gigantic 1
 grafters
