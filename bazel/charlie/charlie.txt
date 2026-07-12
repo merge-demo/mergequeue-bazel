@@ -3709,7 +3709,7 @@ clawlike
 carapine
 canvasback
 cucumaria
-coraji
+coraji 1
 carara 1
 cheneaux 1
 carat
