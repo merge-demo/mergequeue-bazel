@@ -6456,7 +6456,7 @@ flummery 1
 filth
 folkcraft 3
 frenchize 2
-fordy
+fordy 1
 fellatrix
 forsar 1
 flurn 1
