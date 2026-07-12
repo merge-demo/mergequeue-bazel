@@ -8912,7 +8912,7 @@ gobang
 grete 2
 grainage 1
 ganglier 4
-giros
+giros 1
 geoducks
 gemming 1
 grooty
