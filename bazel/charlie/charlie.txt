@@ -1121,7 +1121,7 @@ contraprovectant
 calciobiotite
 calcioferrite 1
 ceratobranchial
-calcioscheelite
+calcioscheelite 1
 calciovolborthite
 calciphylactic
 calciphylaxis
