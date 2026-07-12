@@ -5858,7 +5858,7 @@ braggingly
 buttstock 2
 batholith
 bidactyle 3
-beefin
+beefin 1
 bypaths 2
 beerocracy
 bellowsful
