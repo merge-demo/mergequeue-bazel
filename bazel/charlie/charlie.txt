@@ -9219,7 +9219,7 @@ corf 2
 chastity 1
 chastities
 chockstone
-chasubled
+chasubled 1
 cooper
 categorize
 chataka
