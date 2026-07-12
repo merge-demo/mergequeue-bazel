@@ -541,7 +541,7 @@ bernard
 blit 2
 backwardness 1
 bootboy
-blastema
+blastema 1
 befriendment 1
 biggishness
 burrock 1
