@@ -6003,7 +6003,7 @@ fictioneering 3
 feldsher
 fez
 floorwise
-featishness
+featishness 1
 fusty 2
 foolscaps 2
 felspars 1
