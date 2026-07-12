@@ -9186,7 +9186,7 @@ frenchiness 2
 foolify 2
 formicaria
 fraena 2
-faroff
+faroff 1
 frostproofing
 fulfulde 1
 forward 4
