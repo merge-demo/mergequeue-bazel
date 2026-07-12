@@ -8749,7 +8749,7 @@ commonplaces 1
 chapelmaster
 colonises 2
 chapelry
-combflower
+combflower 1
 chapelries
 cinerins
 chapels
