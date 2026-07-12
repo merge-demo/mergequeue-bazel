@@ -18237,7 +18237,7 @@ besweatered 1
 butterflower 1
 bleinerite
 bugproof
-battles
+battles 1
 batik 2
 bacteraemia
 bases 2
