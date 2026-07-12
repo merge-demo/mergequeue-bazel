@@ -4906,7 +4906,7 @@ chaetodontid
 corallinaceae
 carageen 1
 carses
-cogitable
+cogitable 1
 carsick
 carsickness
 caviteno 2
