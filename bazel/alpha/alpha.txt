@@ -14062,7 +14062,7 @@ axostyle
 antecolic
 antecornu
 antecourt 2
-antecubital
+antecubital 1
 antecurvature
 afshah
 abdiel
