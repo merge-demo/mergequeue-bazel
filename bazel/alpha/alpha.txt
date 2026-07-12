@@ -6567,7 +6567,7 @@ antiaggressive 1
 auksinu 1
 awk
 abjunctive
-aidful
+aidful 1
 aiding
 adenanthera 1
 atlantoodontoid 1
