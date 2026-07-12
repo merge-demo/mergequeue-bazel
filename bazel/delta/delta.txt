@@ -16963,7 +16963,7 @@ downcurve 2
 dredgeful 3
 disintegrate
 discerp
-dithery
+dithery 1
 dredgers
 discreet
 didepsid
