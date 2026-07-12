@@ -2042,7 +2042,7 @@ feudary 1
 fundi 1
 facedown 1
 faucalize
-fireboat
+fireboat 1
 flindosa 1
 forwander 2
 flatlander
