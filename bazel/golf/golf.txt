@@ -8443,7 +8443,7 @@ gyring
 grapestone 2
 gigas 2
 gravelroot 1
-gallstones
+gallstones 1
 gentisic 2
 goldbricks
 glaciarium
