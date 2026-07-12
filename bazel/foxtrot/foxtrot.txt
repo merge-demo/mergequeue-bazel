@@ -1805,7 +1805,7 @@ fores 3
 ferninst 1
 forbesite
 folkmots 1
-flak 1
+flak 2
 flaithship 2
 frustules 1
 fanfarade
