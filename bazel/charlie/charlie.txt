@@ -17217,7 +17217,7 @@ coalescence
 cellarless 1
 coitions
 coalescency
-candlesnuffer
+candlesnuffer 1
 coalescent 1
 combustibility
 coalescing
