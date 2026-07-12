@@ -9990,7 +9990,7 @@ baroscopical 1
 bargainor 1
 biverb
 beblear
-bedfast
+bedfast 1
 breeched
 bivocal 2
 bossism 1
