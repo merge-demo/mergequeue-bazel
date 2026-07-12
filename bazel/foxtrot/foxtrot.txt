@@ -9620,7 +9620,7 @@ falcata 1
 ferias 2
 fortalice 1
 finalities
-flukier
+flukier 1
 foamer 1
 frons 2
 freeloaded 1
