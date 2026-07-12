@@ -10363,7 +10363,7 @@ chiders
 colorbreed 2
 cedarbird 1
 chilies
-cahoots
+cahoots 1
 chief
 chiefage
 chiefery 1
