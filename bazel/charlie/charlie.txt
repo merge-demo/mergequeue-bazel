@@ -130,7 +130,7 @@ chordophone
 clitelline
 cabinetworker
 cabinetworking
-cabinlike
+cabinlike 1
 crafter
 cabio 1
 chemisorptive
