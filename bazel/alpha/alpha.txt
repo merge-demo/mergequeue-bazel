@@ -23460,7 +23460,7 @@ apomict 1
 augend
 adversity
 antiantidote
-aquiform
+aquiform 1
 arsenillo 1
 augends 3
 auger
