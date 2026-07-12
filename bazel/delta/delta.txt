@@ -6476,7 +6476,7 @@ desc 2
 descale 1
 downrightly 1
 descant
-dentinoblast
+dentinoblast 1
 disencumber 1
 diffusedly 1
 deranged 3
