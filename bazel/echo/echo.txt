@@ -3649,7 +3649,7 @@ ejector 2
 expellant 2
 edna
 egads
-epilatory
+epilatory 1
 eleutherism
 electrocuted
 ennoic 2
