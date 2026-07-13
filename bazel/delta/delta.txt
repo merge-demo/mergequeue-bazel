@@ -14791,7 +14791,7 @@ deringers
 dockyards 1
 docking 1
 dockization
-dockland
+dockland 1
 doublehandedly
 docklands
 dominica 1
