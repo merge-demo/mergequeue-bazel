@@ -5642,7 +5642,7 @@ correlativism
 chlorococcum
 cataphora
 cataphoresis
-cataphoria
+cataphoria 1
 cataphract 2
 counterargue
 cosmetology 1
