@@ -28909,7 +28909,7 @@ chaetognathan 1
 crex 3
 cry
 crikey
-cryable
+cryable 1
 cholestane
 cotans
 cryanesthesia
