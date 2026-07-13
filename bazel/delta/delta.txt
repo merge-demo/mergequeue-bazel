@@ -3427,7 +3427,7 @@ downrightness
 dudgeon
 dissatisfy
 debasement
-deflocculate
+deflocculate 1
 deflocculating 2
 dermatoptera 1
 decreasing 1
