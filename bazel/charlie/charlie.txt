@@ -25061,7 +25061,7 @@ coredeems
 coree
 coreflexed
 chinked
-curtation
+curtation 1
 coregency
 coregent 1
 courtlet
