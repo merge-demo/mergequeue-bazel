@@ -6901,7 +6901,7 @@ celtization
 cardiorrhexis
 consol
 camis 2
-ceratomandibular
+ceratomandibular 1
 clocklike
 celtuce 2
 calor 1
