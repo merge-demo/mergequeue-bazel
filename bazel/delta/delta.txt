@@ -18633,7 +18633,7 @@ degreeless
 duty
 dutiability 1
 disdains 2
-downtroddenness
+downtroddenness 1
 dutied
 denarii
 dipaschal 1
