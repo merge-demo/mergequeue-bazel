@@ -21786,7 +21786,7 @@ culmy 1
 concentive 1
 corresponsive
 conductometric
-conductor
+conductor 1
 conductorial
 commoners 1
 crossbearer
