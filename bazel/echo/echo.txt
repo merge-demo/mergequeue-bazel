@@ -2029,7 +2029,7 @@ epigaea
 erythrosine 2
 epitrophy 2
 encurl 1
-exophasia
+exophasia 1
 elytrigerous 1
 emersion
 etherish 1
