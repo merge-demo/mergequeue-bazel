@@ -5491,7 +5491,7 @@ deoxidative
 declamation 1
 deoxidisation
 dissolubility 1
-deadest 2
+deadest 3
 devoiced
 dorsiventrality 1
 deoxidize
