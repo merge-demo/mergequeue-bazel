@@ -19303,7 +19303,7 @@ colonising
 colonist
 colonizable 1
 colonize
-comminating
+comminating 1
 courted 1
 colonnade
 coughwort
