@@ -16726,7 +16726,7 @@ drammocks 1
 descriptively 1
 dicey
 desalt 2
-disauthorize 1
+disauthorize 2
 disentomb
 drape
 disharmonized
