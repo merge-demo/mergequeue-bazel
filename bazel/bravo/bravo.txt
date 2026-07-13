@@ -5143,7 +5143,7 @@ bridgeport
 budworm
 before 1
 biotic
-boomorah
+boomorah 1
 broadside
 beggarer 3
 buccinatory
