@@ -7177,7 +7177,7 @@ eglandulous 1
 expirer 1
 equestrians 2
 enwheels
-enwinding
+enwinding 1
 elemis
 entomoid 1
 emboltement
