@@ -14525,7 +14525,7 @@ cystalgia 1
 cystamine 1
 commatism
 cysteamine
-cystectasia
+cystectasia 1
 contestate 1
 campout 2
 chaptalizing
