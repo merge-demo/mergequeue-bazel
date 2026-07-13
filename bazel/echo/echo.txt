@@ -1464,7 +1464,7 @@ emeline 1
 ergonomic 1
 ethiopian 3
 epanorthotic 1
-emunct
+emunct 1
 exenteritis 2
 epipleural 1
 envelop 2
