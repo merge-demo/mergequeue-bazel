@@ -9564,7 +9564,7 @@ catechize
 cubiculum
 capacitively
 checkweighmen
-closeted
+closeted 1
 checkwork 1
 cosmologist
 checkwriter
