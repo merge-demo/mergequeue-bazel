@@ -160,7 +160,7 @@ deprivations
 depasturable 2
 dissatisfying 1
 dado 1
-drugstore 2
+drugstore 3
 doltishly 1
 dareall
 dadoes 2
