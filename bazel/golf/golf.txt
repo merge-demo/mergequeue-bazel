@@ -8846,7 +8846,7 @@ gardenlike
 girsle 1
 guanay 1
 gablelike 2
-graecized
+graecized 1
 goldeye
 greyed 1
 grosser 4
