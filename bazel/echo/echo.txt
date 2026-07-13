@@ -889,7 +889,7 @@ ectoplastic 2
 elusiveness 2
 enucleation 1
 endore
-evilspeaker
+evilspeaker 1
 encourager 2
 ectoproctous 1
 enteroptosis 3
