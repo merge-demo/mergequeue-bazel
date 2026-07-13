@@ -10218,7 +10218,7 @@ generaliser 2
 grippers 1
 guzzled 1
 guile 4
-gyrectomies 1
+gyrectomies 2
 galluses
 groundsel
 gonk 1
