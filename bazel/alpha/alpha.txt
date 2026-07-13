@@ -3800,7 +3800,7 @@ accomplis 1
 aedility
 adiaphory
 afer
-adiaphorist
+adiaphorist 1
 alamo
 airframes 1
 adiaphoron
