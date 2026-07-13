@@ -6335,7 +6335,7 @@ begrace 1
 buffalofishes
 benzein 2
 bellyfish
-blinks
+blinks 1
 benzenediazonium
 bosominess 1
 burgher 2
