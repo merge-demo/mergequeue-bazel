@@ -1710,7 +1710,7 @@ enunciatory 1
 enamel 2
 electrolyses
 earpieces 1
-echolocate
+echolocate 1
 endogenicity
 ejaculating 1
 enterosyphilis
