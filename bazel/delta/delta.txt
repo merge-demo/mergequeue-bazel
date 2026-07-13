@@ -2304,7 +2304,7 @@ drips 1
 dirtplate 1
 decenters 1
 disaggregation
-digestors
+digestors 1
 dynamical
 deliberant
 decentralising 1
