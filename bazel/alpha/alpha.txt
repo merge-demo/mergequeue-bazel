@@ -13993,7 +13993,7 @@ antarchist 1
 azoxazole 1
 antievolutional 2
 austenitized
-aerosiderite
+aerosiderite 1
 aryepiglottic
 ablatively
 antarctogaea
