@@ -1631,7 +1631,7 @@ gyrinid
 gaucheness 2
 glassteel
 gravitational
-grimly 1
+grimly 2
 grimines 2
 glibness 1
 gastricism 1
