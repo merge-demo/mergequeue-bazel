@@ -4560,7 +4560,7 @@ babul 1
 biddable 1
 baldrib
 bedamned
-beweep
+beweep 1
 buttwomen
 benzylpenicillin 1
 bemingles
