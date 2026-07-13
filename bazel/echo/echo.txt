@@ -6252,7 +6252,7 @@ elisions 1
 erugatory 1
 espresso
 enoughs
-editorialize
+editorialize 1
 enforcedly 1
 egrid
 eardrops 2
