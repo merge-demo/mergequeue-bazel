@@ -9761,7 +9761,7 @@ fascet 1
 fatigability 1
 fishworm 1
 farfel 2
-fluentness
+fluentness 1
 faerie 1
 foresettled 1
 flyspeck 1
