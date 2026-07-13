@@ -12434,7 +12434,7 @@ ea
 entorganism 1
 exigently
 exhilaratingly
-encasserole
+encasserole 1
 endite
 easting
 epifaunas
