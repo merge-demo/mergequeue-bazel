@@ -1045,7 +1045,7 @@ benzothiopyran
 blockhead
 brachycephalization 3
 brasswork 3
-bailiwicks 1
+bailiwicks 2
 bolete
 babyhouse 1
 becost
