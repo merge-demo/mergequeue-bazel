@@ -2259,7 +2259,7 @@ defuzes 2
 domineerer
 distractibility 2
 dustbox 1
-determinative 2
+determinative 3
 decelerates 1
 dentolabial
 decembrist
