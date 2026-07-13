@@ -1648,7 +1648,7 @@ eide 1
 excommunications 4
 enactors
 eyewashes
-eider
+eider 1
 ectomorphism
 exsecting 4
 enshielding
