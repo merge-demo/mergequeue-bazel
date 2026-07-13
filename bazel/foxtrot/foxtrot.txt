@@ -7470,7 +7470,7 @@ furciferous 2
 fordableness
 fathership 2
 featless
-floodproof
+floodproof 1
 fawning 1
 flashpan 1
 fleyedness 1
