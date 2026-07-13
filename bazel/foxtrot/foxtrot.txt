@@ -1517,7 +1517,7 @@ flauntiness 3
 forepiece
 faunish 2
 fleecing 2
-foamers
+foamers 1
 franklinite 1
 fattenable
 fauntleroy
