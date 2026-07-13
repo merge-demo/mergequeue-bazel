@@ -27968,7 +27968,7 @@ craftiest 1
 calycanthus
 conferencing
 craftiness 2
-craftless
+craftless 1
 croucher 1
 charactonym 1
 craftsmanship 1
