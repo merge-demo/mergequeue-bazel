@@ -14954,7 +14954,7 @@ deoperculate 1
 dodonaeaceae 1
 duali 1
 decoloriser
-dermatoid
+dermatoid 1
 disarmer
 displodes
 dialoger
