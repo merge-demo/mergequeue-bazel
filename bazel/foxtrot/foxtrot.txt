@@ -3588,7 +3588,7 @@ flymen
 flenches 1
 freedstool 1
 forgetable 1
-fractabling 1
+fractabling 2
 foreskirt
 fixates 2
 fenceful
