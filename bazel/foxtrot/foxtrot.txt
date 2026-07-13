@@ -1812,7 +1812,7 @@ fanfarade
 flyspecks 3
 fiddler 1
 fastener
-fractureproof 1
+fractureproof 2
 fissiparous 1
 forane
 forgets
