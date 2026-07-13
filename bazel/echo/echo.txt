@@ -13959,7 +13959,7 @@ endokaryogamy
 enface 1
 electropoion 1
 escheatage
-extraparochial
+extraparochial 1
 equicurve
 ectophytic 2
 essoiner
