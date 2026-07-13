@@ -2698,7 +2698,7 @@ chaperone 1
 carriable 1
 cankereat
 cankered 1
-codders
+codders 1
 cephalosporium 1
 cording
 cubitopalmar 2
