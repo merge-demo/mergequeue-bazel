@@ -11790,7 +11790,7 @@ bices 2
 bepommel
 bystreets 1
 bardolphian
-bock
+bock 1
 bullishly
 bigamists
 breechblock
