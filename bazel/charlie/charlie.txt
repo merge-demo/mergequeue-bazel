@@ -22176,7 +22176,7 @@ clapmatch
 confustication 1
 confutability
 confutator
-confutes
+confutes 1
 cong
 canadians
 congaed
