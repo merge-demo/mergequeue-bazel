@@ -6772,7 +6772,7 @@ deerweeds 1
 dihedral 1
 depraving
 dodecatyl 1
-disally 1
+disally 2
 dirtboard
 datatype 2
 demoralizer
