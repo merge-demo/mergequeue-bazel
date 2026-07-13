@@ -8351,7 +8351,7 @@ ayield
 agricultor 1
 amacrine 2
 autoelectronic 1
-anaxial
+anaxial 1
 anaerophyte
 alinement
 arthroendoscopy 1
