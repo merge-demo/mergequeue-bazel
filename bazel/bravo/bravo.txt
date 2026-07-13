@@ -217,7 +217,7 @@ biofog 1
 bandicoot 2
 baccy
 banishments
-bacciferous
+bacciferous 1
 britannic 1
 brookless
 bellicosities
