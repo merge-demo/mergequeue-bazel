@@ -296,7 +296,7 @@ ecotopic 1
 easters 1
 eponymy 2
 exorcizes 3
-exteriority
+exteriority 1
 elderly 1
 eightsome
 exploitation
