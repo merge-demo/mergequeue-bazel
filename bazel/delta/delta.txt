@@ -4342,7 +4342,7 @@ dilos
 dewlap 1
 descrier
 disburden
-defatigable
+defatigable 1
 demandingly
 demands 2
 denay
