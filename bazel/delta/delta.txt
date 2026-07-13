@@ -16359,7 +16359,7 @@ derelictions
 drainable 1
 downstate
 dolmens 1
-defilade 1
+defilade 2
 defrost
 downstrokes
 downtake
