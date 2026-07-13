@@ -5519,7 +5519,7 @@ cataclysmal 1
 coumbite 1
 cataclysmatist
 cataclysmic
-cataclysmically
+cataclysmically 1
 crowboot
 cpm 1
 catacombs
