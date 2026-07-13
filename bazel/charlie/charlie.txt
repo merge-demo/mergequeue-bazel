@@ -8944,7 +8944,7 @@ combmaker
 charge
 chargeable 1
 ciphertext 3
-collective
+collective 1
 clements
 chargeably 1
 chargeant 1
