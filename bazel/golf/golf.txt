@@ -4710,7 +4710,7 @@ gise 1
 granges 1
 gooder 1
 gibbsite
-gauping
+gauping 1
 geisothermal 2
 glycerate 2
 gigged
