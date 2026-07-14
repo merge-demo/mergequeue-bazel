@@ -5510,7 +5510,7 @@ egging
 energizers
 eosinophilia
 elasmosaurus
-esterifiable
+esterifiable 1
 epiploic
 energizes 2
 electroscopic 1
