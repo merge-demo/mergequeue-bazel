@@ -7620,7 +7620,7 @@ bugseed
 beworries
 biophor
 beworship
-bedare
+bedare 1
 bonaught
 barmen
 biciliate 1
