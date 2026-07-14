@@ -1359,7 +1359,7 @@ flaggish 1
 fanning
 fatigue 2
 fossicks 2
-fatiguesome
+fatiguesome 1
 fragmenting 1
 fishbones 3
 fulminuric 1
