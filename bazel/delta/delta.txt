@@ -7390,7 +7390,7 @@ decenyl 1
 detonation 1
 disowned 1
 detonations
-dusking
+dusking 1
 demean
 detonative 1
 detonize
