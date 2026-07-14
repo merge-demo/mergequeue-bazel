@@ -2576,7 +2576,7 @@ enchanters 4
 etrogs 2
 electron
 elastins 1
-exenteration
+exenteration 1
 escapeful
 ethchlorvynol
 everest
