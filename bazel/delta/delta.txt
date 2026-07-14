@@ -14559,7 +14559,7 @@ divisions 1
 divisive 1
 divisively
 diners
-develope
+develope 1
 decomposition 1
 divisor 1
 digitalein 1
