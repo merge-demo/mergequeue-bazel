@@ -9041,7 +9041,7 @@ endothermic
 exocyclic 1
 equiglacial 1
 episcenium
-empyreans
+empyreans 1
 eperotesis
 epibranchial
 ectocyst 1
