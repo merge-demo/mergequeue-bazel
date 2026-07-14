@@ -26472,7 +26472,7 @@ curet 1
 catocalid 1
 cotripper 1
 cotrustee
-cottiform
+cottiform 1
 couther
 cots 1
 cephalomelus
