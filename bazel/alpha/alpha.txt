@@ -14523,7 +14523,7 @@ anthropometry 1
 anuloma
 anthropometric
 acrocarpi
-allan
+allan 1
 anthropometrist 1
 anthropomophitism 1
 antiphrastic
