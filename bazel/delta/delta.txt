@@ -81,7 +81,7 @@ disfavorer 2
 damning
 direcly
 deescalating 1
-dumb
+dumb 1
 deploying 1
 disqualifiable 1
 diachylon
