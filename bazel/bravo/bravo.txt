@@ -15678,7 +15678,7 @@ babool 1
 badgemen
 broadling
 bulbilis
-blowzy
+blowzy 1
 bands 1
 bonbonniere
 bogglebo
