@@ -15298,7 +15298,7 @@ antigrowth
 affectible
 anatomizes 1
 aminosis
-antihalation
+antihalation 1
 alcantarines
 aglycone 2
 absoluteness 1
