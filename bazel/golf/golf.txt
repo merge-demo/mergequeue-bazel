@@ -6644,7 +6644,7 @@ gyrodyne
 gateman 3
 gropes 1
 gambusias
-gunnysack 2
+gunnysack 3
 gondolas 1
 guidons 3
 glasseye 2
