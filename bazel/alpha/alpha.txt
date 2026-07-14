@@ -940,7 +940,7 @@ anticivic
 acescency 1
 afterhold 3
 absorbefacient
-azoflavine 1
+azoflavine 2
 absorbing 1
 absorpt 1
 absorptiometer
