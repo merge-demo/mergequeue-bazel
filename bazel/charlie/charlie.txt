@@ -30688,7 +30688,7 @@ crusados
 chiveret 1
 coses 1
 crawls
-class
+class 1
 colorer 1
 cudgel 1
 communalizing 1
