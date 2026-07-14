@@ -13622,7 +13622,7 @@ blockaders 2
 brantail 1
 bibulosities 1
 bounded
-braveness 1
+braveness 2
 bridgepot
 baxter 1
 burladero 1
