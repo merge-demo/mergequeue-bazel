@@ -10877,7 +10877,7 @@ flayer 1
 furore
 fullish
 foeman
-frigorifico
+frigorifico 1
 fulgurated
 forgathers 2
 freedwomen 1
