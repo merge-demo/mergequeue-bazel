@@ -5168,7 +5168,7 @@ forz
 flatness
 fadged
 faceting 2
-flatted 1
+flatted 2
 flatteringness 2
 flustered 1
 fetalization
