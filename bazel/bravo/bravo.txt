@@ -6281,7 +6281,7 @@ bevors 2
 benthoscope
 bemoat 2
 bulgar
-benthoses
+benthoses 1
 bacteriolysin
 backwashes
 blockhouses
