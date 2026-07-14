@@ -2734,7 +2734,7 @@ essenianism 1
 employment 1
 endways
 estadal
-enceint
+enceint 1
 eleemosinar 1
 ebons 2
 equipotent
