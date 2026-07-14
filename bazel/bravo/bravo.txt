@@ -12108,7 +12108,7 @@ bleb 1
 boldhearted 1
 beclip 2
 beg
-bultey
+bultey 1
 beloid
 burbler
 backstop 1
