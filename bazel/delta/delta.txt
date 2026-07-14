@@ -14879,7 +14879,7 @@ demonism 1
 dowitcher
 dolorifuge
 dependencies
-depurging 1
+depurging 2
 deglute 1
 dodded 2
 dodder 1
