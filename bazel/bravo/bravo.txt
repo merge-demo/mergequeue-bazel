@@ -14574,7 +14574,7 @@ bimaculate 1
 billhooks 1
 blume
 buri 1
-buggyman
+buggyman 1
 brandisite 4
 boyar 1
 brandling 2
