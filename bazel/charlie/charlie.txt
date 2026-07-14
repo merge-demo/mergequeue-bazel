@@ -17342,7 +17342,7 @@ coassistant 1
 culpas
 cupola
 coassume
-crystallic
+crystallic 1
 coassuming
 chrysolite 1
 coast
