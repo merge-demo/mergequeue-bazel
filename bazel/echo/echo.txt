@@ -7372,7 +7372,7 @@ eyries
 epee
 epeeist 1
 embue 1
-exstipulate
+exstipulate 1
 epeiric
 exciseman 1
 enunciate
