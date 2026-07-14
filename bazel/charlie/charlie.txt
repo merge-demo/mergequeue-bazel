@@ -2222,7 +2222,7 @@ campshed
 campsheeting 1
 campsite 2
 compasser 2
-campsites 2
+campsites 3
 coronofacial
 cretinizing 1
 campstool 1
