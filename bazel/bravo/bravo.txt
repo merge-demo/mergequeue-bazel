@@ -3904,7 +3904,7 @@ boughten 1
 bazars 2
 bint 3
 brockage 2
-bazooka
+bazooka 1
 blunge
 buckishly 1
 bamboos
