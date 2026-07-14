@@ -6651,7 +6651,7 @@ confocally 1
 copepods
 cottiers
 cedilla
-cedillas 1
+cedillas 2
 ceding
 cedis
 cosheath
