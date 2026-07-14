@@ -3452,7 +3452,7 @@ evacuate 1
 eventide 5
 embellisher
 embellishers
-eutelegenic
+eutelegenic 1
 enchained
 encolden
 embers 1
