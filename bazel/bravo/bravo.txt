@@ -14348,7 +14348,7 @@ bray 3
 bluey
 braided
 bovoid 1
-binomen
+binomen 1
 burstones
 bizone
 braidist
