@@ -5207,7 +5207,7 @@ detruncating 1
 devoid 1
 diazoamino
 denitrifier 1
-denizenation
+denizenation 1
 diquats
 deflectionization 1
 drumbler 2
