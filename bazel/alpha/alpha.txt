@@ -6097,7 +6097,7 @@ aromaticness 1
 astrosphere
 albuminoidal 1
 antifeudalism
-agitators
+agitators 1
 apteral
 ablock
 agamospore 1
