@@ -9178,7 +9178,7 @@ gripment 2
 grimacers
 grypotherium
 gooral
-gridlock
+gridlock 1
 gliss
 greenstick 1
 glavering 1
