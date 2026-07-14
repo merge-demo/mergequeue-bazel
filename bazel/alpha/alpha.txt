@@ -24213,7 +24213,7 @@ automata 1
 apidae 1
 alcids 1
 awash
-aminities
+aminities 1
 automated 1
 argentite
 automates
