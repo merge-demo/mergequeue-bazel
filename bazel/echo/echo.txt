@@ -1251,7 +1251,7 @@ earthshock 1
 ethylidyne 1
 epigrammatise
 eelcake
-elsewheres
+elsewheres 1
 exposition 1
 episomal 2
 evaluation
