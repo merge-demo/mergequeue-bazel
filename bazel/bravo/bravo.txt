@@ -2354,7 +2354,7 @@ barbulyie
 barbwire 1
 barbwires
 bullpout 1
-bothsidedness 1
+bothsidedness 2
 betatter 2
 barhopped 2
 bilertinned 2
