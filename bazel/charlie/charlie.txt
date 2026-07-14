@@ -7225,7 +7225,7 @@ cappadine
 centriscus
 centrism
 chalices
-clark
+clark 1
 cinemascope
 comite
 crispen 1
