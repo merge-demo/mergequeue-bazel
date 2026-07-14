@@ -2793,7 +2793,7 @@ gurr
 gemeinde 2
 gamphrel 1
 gaunt 1
-growling
+growling 1
 gimmor
 gascoigny 2
 greatcoat 2
