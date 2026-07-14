@@ -11957,7 +11957,7 @@ disembarks 2
 dentifrices 1
 degum 1
 decrease
-deutovum
+deutovum 1
 disembitter 3
 diplanetic
 disembocation 1
