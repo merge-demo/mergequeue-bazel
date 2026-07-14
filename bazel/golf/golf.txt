@@ -4784,7 +4784,7 @@ galleta
 genarch 3
 glossematics 1
 glar
-gypsy 1
+gypsy 2
 givingness 1
 globes 2
 garrnishable
