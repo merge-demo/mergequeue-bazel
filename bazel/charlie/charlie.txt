@@ -6486,7 +6486,7 @@ canell 1
 cupholder
 cavefish 2
 cavey 1
-chromoscope
+chromoscope 1
 cavekeeper
 cavelet 2
 confiner 1
