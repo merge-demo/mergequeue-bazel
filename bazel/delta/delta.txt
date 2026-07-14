@@ -14370,7 +14370,7 @@ diurnule 1
 dimensuration 2
 diuron
 demeaned 1
-dielytra
+dielytra 1
 doled 2
 diva 1
 divagated
