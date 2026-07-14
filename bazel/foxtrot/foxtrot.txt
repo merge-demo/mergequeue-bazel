@@ -1642,7 +1642,7 @@ fellowless
 fipenny
 four 1
 fdnames
-forthcut
+forthcut 1
 fluible
 flamboyantly 1
 furbelowed 3
