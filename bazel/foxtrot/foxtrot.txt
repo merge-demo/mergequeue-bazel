@@ -593,7 +593,7 @@ floorless 1
 fellon
 foreknows 2
 forpet 3
-fossilisation
+fossilisation 1
 forints
 feasted 2
 fade 1
