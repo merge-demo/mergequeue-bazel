@@ -8783,7 +8783,7 @@ corrugators
 cuppa
 crips 3
 chapote
-collimators
+collimators 1
 cave 1
 confoundingly
 carposporic
