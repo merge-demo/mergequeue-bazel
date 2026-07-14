@@ -4097,7 +4097,7 @@ bedmaking 3
 blearedness 1
 beriberi
 betoil 1
-boyishness
+boyishness 1
 biassing
 ballistics
 baroclinicity 1
