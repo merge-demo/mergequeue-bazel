@@ -14573,7 +14573,7 @@ candescent 1
 cenobite
 cyath
 cystiform
-clockmutch
+clockmutch 1
 cystigerous 1
 cystignathidae
 cystignathine 1
