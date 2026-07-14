@@ -4037,7 +4037,7 @@ buchu 1
 bom
 butled 1
 beamed 2
-bedrock
+bedrock 1
 beamers
 beamfilling 1
 beeware
