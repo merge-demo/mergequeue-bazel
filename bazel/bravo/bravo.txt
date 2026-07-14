@@ -2664,7 +2664,7 @@ breechloader 1
 brugh 1
 basiliscus 1
 backlins
-berrugate
+berrugate 1
 barm
 bollixes
 begrimming 2
