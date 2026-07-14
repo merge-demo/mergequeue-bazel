@@ -18721,7 +18721,7 @@ archd
 archdeaconries 1
 ascigerous 2
 ambidextrous 1
-abreuvoir
+abreuvoir 1
 archdefender
 agenesia 3
 archdetective 1
