@@ -2407,7 +2407,7 @@ gemmer 2
 gumphion 1
 gloppy
 grow 3
-guianese
+guianese 1
 groomed
 gauk
 gruesomer
