@@ -12412,7 +12412,7 @@ divet 1
 defibrillator 2
 deamidize
 deplantation
-drybrush 1
+drybrush 2
 desecate
 disheriting 2
 deforms 1
