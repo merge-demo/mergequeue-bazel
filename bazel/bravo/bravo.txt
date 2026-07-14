@@ -4410,7 +4410,7 @@ beclaw 3
 besieged
 balm 1
 brandering 1
-budapest
+budapest 1
 balantidiosis 1
 barrators 1
 bitstone 2
