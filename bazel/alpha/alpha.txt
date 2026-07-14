@@ -24384,7 +24384,7 @@ antagonise 1
 autosight
 albuminuric
 autosymbolic
-autosymbolical
+autosymbolical 1
 autosymbolically
 ambushing
 autosyn
