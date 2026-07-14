@@ -8754,7 +8754,7 @@ freddo 3
 forbiddable 1
 flogged 2
 followership 3
-fortuuned 2
+fortuuned 3
 forester 1
 fossule 2
 fiddlers 1
