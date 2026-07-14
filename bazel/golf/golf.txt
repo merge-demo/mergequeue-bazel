@@ -3399,7 +3399,7 @@ gerontic 3
 generalships 1
 gondolier
 gnatling 1
-gorkun
+gorkun 1
 galbe 2
 glaciable 1
 gyroscopic 2
