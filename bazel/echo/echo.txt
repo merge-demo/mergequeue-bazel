@@ -6458,7 +6458,7 @@ espave 2
 espousal 1
 expandibility 1
 ensnared 1
-ensnarer
+ensnarer 1
 echinostoma
 eobionts 2
 edental 1
