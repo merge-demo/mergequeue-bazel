@@ -18904,7 +18904,7 @@ clothworker
 collaborator 2
 collaborators
 closehauled
-cosigner
+cosigner 1
 calligrapher
 colladas 1
 crematoria
