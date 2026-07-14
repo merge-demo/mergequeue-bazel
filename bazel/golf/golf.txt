@@ -10036,7 +10036,7 @@ gleans 2
 gazebos
 glaistig
 gammation 5
-gargoyles
+gargoyles 1
 greasing 2
 granitoidal 2
 gisler
