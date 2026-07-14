@@ -7722,7 +7722,7 @@ gyassa
 governors 1
 graduses 3
 gentium 1
-glome 4
+glome 5
 girba
 glycuresis
 gemlike 1
