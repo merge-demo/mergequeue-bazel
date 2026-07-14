@@ -747,7 +747,7 @@ geomechanics 1
 gombeen 1
 goumi
 genae 1
-galvanoplasty 1
+galvanoplasty 2
 grovers 2
 gansa 1
 gastrohysterorrhaphy
