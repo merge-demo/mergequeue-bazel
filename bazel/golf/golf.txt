@@ -1400,7 +1400,7 @@ grecize 2
 gaits 2
 ganyie 4
 gallotannin 2
-gasified 1
+gasified 2
 gausterer
 gearshift
 gcd 1
