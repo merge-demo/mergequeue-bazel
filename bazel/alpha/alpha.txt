@@ -5260,7 +5260,7 @@ attackable
 anapterygotous
 alingual 3
 anticlinal
-anapophysial
+anapophysial 1
 ammonifier
 affine 1
 anteporch
