@@ -1231,7 +1231,7 @@ dialyzers
 diapasonal 3
 dermatoskeleton 1
 dreggier 2
-daystars
+daystars 1
 datebook 2
 dilacerated
 doucine
