@@ -3495,7 +3495,7 @@ figshell 1
 foe 2
 flankard
 fury
-ficins 1
+ficins 2
 fordays 2
 floorhead 2
 formuliser
