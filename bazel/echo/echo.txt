@@ -807,7 +807,7 @@ ectasis
 endothia 1
 enoil 2
 exequies
-expulsed 3
+expulsed 4
 ectental 1
 eloigner
 ecthesis
