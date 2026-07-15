@@ -19067,7 +19067,7 @@ colligating
 cookbook
 cecropia
 commutual
-colligative
+colligative 1
 carmela
 collimate 1
 coeds
