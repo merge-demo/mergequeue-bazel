@@ -4108,7 +4108,7 @@ bodysurfs
 bowmaking 3
 beelbow 1
 beardfishes
-beswarms
+beswarms 1
 botulinum
 beardy
 blanchimeter 2
