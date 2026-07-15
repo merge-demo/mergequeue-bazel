@@ -8308,7 +8308,7 @@ fusspots 1
 forenames 1
 forepole 3
 foregame 2
-fraternising
+fraternising 1
 fountaining 2
 foursome 1
 fiscalism 1
