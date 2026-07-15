@@ -3858,7 +3858,7 @@ dicellate
 deionizations
 dichroiscope
 diatropic 2
-dyspnoea
+dyspnoea 1
 deionize
 degraduation 1
 dopatta
