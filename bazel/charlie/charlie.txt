@@ -20083,7 +20083,7 @@ chesset
 commercial
 commercialised
 centgrave
-chequerwise
+chequerwise 1
 commercialism 2
 coenenchymatous
 commercialists 1
