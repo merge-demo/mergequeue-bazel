@@ -2146,7 +2146,7 @@ demonianism
 detectors 1
 diabolology 1
 downtime
-disturbs
+disturbs 1
 diosmosis 2
 decantist
 decaffeinated 1
