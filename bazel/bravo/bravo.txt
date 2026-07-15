@@ -9152,7 +9152,7 @@ biogeographer
 biotypes
 browbeats 2
 brickred 1
-biotypic
+biotypic 1
 boubou 2
 biotypology 1
 balneotherapeutics 2
