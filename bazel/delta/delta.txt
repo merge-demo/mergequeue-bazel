@@ -12879,7 +12879,7 @@ dromond 1
 dismissal 4
 dismissals
 dismissed
-distemperate
+distemperate 1
 dismisses
 dismissing 1
 dismissory
