@@ -5827,7 +5827,7 @@ ferox 1
 forestallment 1
 fenestration 3
 flywinch 1
-fulfils 2
+fulfils 3
 flouncey 1
 footback
 forgrown 2
