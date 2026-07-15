@@ -4173,7 +4173,7 @@ gypsum 4
 gouda 1
 guarapo 1
 globuloid
-gelinotte
+gelinotte 1
 graphemic
 glycoproteid 1
 gastroarthritis
