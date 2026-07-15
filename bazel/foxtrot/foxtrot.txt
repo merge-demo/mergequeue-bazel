@@ -9610,7 +9610,7 @@ fleabugs 1
 fabula 1
 firing
 featherbone
-forte
+forte 1
 feteritas 1
 firemaster 3
 forlet 1
