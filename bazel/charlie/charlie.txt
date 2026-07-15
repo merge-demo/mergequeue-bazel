@@ -3598,7 +3598,7 @@ carabids
 cappy 1
 colorist
 chauri
-carabine
+carabine 1
 carabiner
 carabineros
 claik
