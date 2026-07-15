@@ -3726,7 +3726,7 @@ battlesome
 brigantes 1
 bimestrial
 battlestead 2
-battlewagon 2
+battlewagon 3
 bendays 3
 bronchiectasis 1
 bovver
