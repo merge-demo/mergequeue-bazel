@@ -7879,7 +7879,7 @@ disard 1
 desmocyte
 dispenser 3
 dihydrogen 2
-dewberries
+dewberries 1
 dewcap 1
 disbudder 1
 devocalised 3
