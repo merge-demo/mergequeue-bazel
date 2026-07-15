@@ -5139,7 +5139,7 @@ bloodthirstiness 1
 baubling
 banco 1
 befools 1
-bridgeport
+bridgeport 1
 budworm
 before 1
 biotic
