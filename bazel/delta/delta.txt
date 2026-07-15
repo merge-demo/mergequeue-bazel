@@ -12590,7 +12590,7 @@ disintegrators 1
 dextrer
 disintegrity
 disinter
-disinterest 1
+disinterest 2
 disinterestedly
 disinterestedness 2
 disinterment
