@@ -5425,7 +5425,7 @@ feasten 2
 forefigure 1
 furor
 flurt 1
-fault 1
+fault 2
 firstfruits
 finnip
 fleecy 1
