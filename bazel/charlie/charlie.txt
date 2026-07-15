@@ -6263,7 +6263,7 @@ caulescent
 caulicle
 caulicole
 castrated 1
-caulicolous
+caulicolous 1
 customed
 controversed
 conche
