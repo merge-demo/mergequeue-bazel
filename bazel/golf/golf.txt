@@ -5403,7 +5403,7 @@ glimmer 2
 graphometry 1
 groundswell
 generall 1
-glucosid 2
+glucosid 3
 gutwise 2
 glycaemic 1
 grimmer 2
