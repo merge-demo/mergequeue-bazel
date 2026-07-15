@@ -5854,7 +5854,7 @@ fertilisable 1
 fowling 2
 factorially 1
 floristic
-floatsmen
+floatsmen 1
 fluff 1
 flaxbush
 farthingale 1
