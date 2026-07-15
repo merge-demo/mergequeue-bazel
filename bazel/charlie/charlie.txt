@@ -10888,7 +10888,7 @@ crucifying 1
 clocher
 chypre
 cariacine 2
-chipwood
+chipwood 1
 chiquito
 clavate
 chiral
