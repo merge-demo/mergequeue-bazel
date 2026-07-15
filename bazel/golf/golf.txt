@@ -9538,7 +9538,7 @@ guacico
 griminess 4
 groundkeeper 1
 glidder
-grumbler 2
+grumbler 3
 gleaners 1
 greenlander 1
 gadaea
