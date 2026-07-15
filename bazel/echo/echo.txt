@@ -8094,7 +8094,7 @@ electrooculogram 3
 exosporium 2
 extraprovincial 1
 epiphragm 2
-enlargedness
+enlargedness 1
 encover 2
 extrasyphilitic
 extraordinaries 1
