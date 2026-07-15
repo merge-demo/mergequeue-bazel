@@ -2246,7 +2246,7 @@ albanians
 achtehalber 3
 amounts 1
 anvil
-agraffes
+agraffes 1
 auride 1
 armigeri 1
 antiager 1
