@@ -8443,7 +8443,7 @@ calcydon
 citellus
 crookeder
 checkerboarded
-confiscator
+confiscator 1
 choribi
 cuttable 1
 chamoisite
