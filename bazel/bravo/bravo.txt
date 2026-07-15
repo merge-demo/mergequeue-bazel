@@ -2865,7 +2865,7 @@ blanketless
 barrad 1
 bridebowl 1
 boskage 1
-biform
+biform 1
 bashawism 3
 buddage
 barrage
