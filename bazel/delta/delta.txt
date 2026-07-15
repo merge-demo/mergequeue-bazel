@@ -9632,7 +9632,7 @@ duplicable 2
 devastations
 decolourizer 3
 dishonestly
-dollardom
+dollardom 1
 didacticity
 depass 1
 despot 2
