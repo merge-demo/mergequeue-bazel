@@ -4778,7 +4778,7 @@ bedribble 3
 bhalu 1
 burglarizes
 bibracteate
-billfold
+billfold 1
 barbarize
 burking 2
 barrener
