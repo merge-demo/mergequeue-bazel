@@ -8265,7 +8265,7 @@ diploetic 1
 diagnostician
 diagnosticians
 dispopularize
-dizzy
+dizzy 1
 draped 2
 disputableness 1
 diagonal
