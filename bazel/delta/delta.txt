@@ -9558,7 +9558,7 @@ duellos 1
 diglots 2
 desmatippus
 disenchantment 1
-diglottist
+diglottist 1
 duumvir 2
 diallists
 demasculinised
