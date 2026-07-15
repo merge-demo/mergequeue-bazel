@@ -7762,7 +7762,7 @@ deadweight 2
 deviser
 devising
 direption 1
-detailism
+detailism 1
 diglyph 1
 devisor
 decrier 1
