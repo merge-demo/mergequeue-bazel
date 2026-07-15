@@ -9055,7 +9055,7 @@ fix 3
 fractionalize 2
 foreparents 1
 fleetwing 2
-frap 1
+frap 2
 feruling 2
 frasco 1
 foxbane
