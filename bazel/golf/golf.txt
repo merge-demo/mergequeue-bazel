@@ -4684,7 +4684,7 @@ ghostily 1
 geta
 glossarian
 golliwogg 3
-gerbilles
+gerbilles 1
 gena
 gossoon 1
 glassin
