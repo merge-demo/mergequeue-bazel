@@ -1748,7 +1748,7 @@ annerre
 accustomation 1
 armouring
 adelaster
-armpit
+armpit 1
 accustomedly 1
 accustomizing
 anisyl
