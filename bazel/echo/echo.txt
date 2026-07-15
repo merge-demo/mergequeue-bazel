@@ -5570,7 +5570,7 @@ episcopality 1
 ecphrasis 2
 endoergic
 enfevering
-emitters
+emitters 1
 edwardeanism
 enzootic
 epicardial 1
