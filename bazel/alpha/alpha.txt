@@ -12503,7 +12503,7 @@ anemically
 adipogenic 1
 anemobiagraph
 anemochord
-anemochore
+anemochore 1
 aleutic
 aforehand
 anaboly
