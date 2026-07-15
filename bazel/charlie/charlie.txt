@@ -7557,7 +7557,7 @@ canalisation
 cercus 1
 cerdonian
 cereal 2
-centrifugalizing
+centrifugalizing 1
 carrus 2
 collative 1
 changeability
