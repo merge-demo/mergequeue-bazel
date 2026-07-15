@@ -4305,7 +4305,7 @@ deadening 1
 dermophytic
 dem
 demagnetisation
-dovelet
+dovelet 1
 detraining 1
 divisiveness
 demagnetising
