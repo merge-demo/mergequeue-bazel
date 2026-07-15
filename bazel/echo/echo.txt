@@ -5013,7 +5013,7 @@ endemism 1
 eco 2
 eightscore 3
 endenization 1
-excusator
+excusator 1
 ecarte
 escritorial 1
 equipollentness
