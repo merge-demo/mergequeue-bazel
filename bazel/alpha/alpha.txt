@@ -13447,7 +13447,7 @@ anormal 1
 anneal
 artlessly
 arraignments
-annealer
+annealer 1
 anneals 2
 annect 1
 adenohypophysis
