@@ -18399,7 +18399,7 @@ demagogy
 duolog 1
 duologues
 doubtedly 2
-disembarkment
+disembarkment 1
 demilune
 demonstrable
 duopsonistic
