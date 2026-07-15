@@ -27632,7 +27632,7 @@ cowbane
 collided 1
 coolheaded
 chamfered
-croquette
+croquette 1
 cowbanes 1
 corticosteroid
 cowberry 1
