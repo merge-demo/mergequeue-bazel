@@ -8666,7 +8666,7 @@ automatonlike
 alleyway 1
 alchitran
 abled 1
-attractancy
+attractancy 1
 anarchs
 andrite
 adjoins 1
