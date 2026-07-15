@@ -7268,7 +7268,7 @@ clematises
 centuples 1
 codbank 1
 chaldese
-centuplicate
+centuplicate 1
 centuplicating
 civility
 chucking 1
