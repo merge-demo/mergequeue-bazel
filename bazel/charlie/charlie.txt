@@ -3038,7 +3038,7 @@ curlyheads
 capitonidae
 centrales 1
 cantrip
-cantus
+cantus 1
 cantuta
 cantwise 1
 castigated
