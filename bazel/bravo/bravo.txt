@@ -12309,7 +12309,7 @@ bombline
 bowdrill 3
 bombast 1
 buglers
-bicker 1
+bicker 2
 bezzi
 beldame 3
 baillie 1
