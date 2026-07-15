@@ -15672,7 +15672,7 @@ distemperance
 dopey 1
 decrements 1
 doper
-disbarring
+disbarring 1
 doorposts 2
 dopier
 dogstone
