@@ -192,7 +192,7 @@ defilable
 decontamination 1
 daemony 1
 deforesting 1
-debitumenize
+debitumenize 1
 dealfish
 daemons
 daemonurgist
