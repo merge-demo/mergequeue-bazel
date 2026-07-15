@@ -6909,7 +6909,7 @@ dognap
 discolors 1
 dahabiyeh
 deadliest 1
-deficit
+deficit 1
 desorption
 drollist 3
 discomposes 1
