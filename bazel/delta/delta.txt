@@ -8749,7 +8749,7 @@ defocusses
 deescalations
 diatomist
 dover 1
-dot
+dot 1
 debadge 2
 diaporesis
 demimonk
