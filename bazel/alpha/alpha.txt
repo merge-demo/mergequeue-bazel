@@ -21347,7 +21347,7 @@ angeyok
 artwork 1
 adaptometer
 asynchronism
-asynchronisms
+asynchronisms 1
 antichurchian
 asyndetic
 androphore 3
