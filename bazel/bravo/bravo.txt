@@ -18382,7 +18382,7 @@ betwattled 1
 blurbs
 buzzerphone 1
 buzzier 2
-burghermaster
+burghermaster 1
 bilinite
 buzzies
 budwood
