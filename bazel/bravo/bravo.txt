@@ -9200,7 +9200,7 @@ buffin
 biped 1
 bipedal 1
 beggared
-bogo
+bogo 1
 backhauling 1
 bourbonesque
 bipedality 1
