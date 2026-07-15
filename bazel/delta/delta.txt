@@ -13645,7 +13645,7 @@ dashboard 1
 dignitarial 2
 distractedness
 dolce 4
-def
+def 1
 dissimilars 3
 dorize
 dequantitate
