@@ -19433,7 +19433,7 @@ colors
 cutose 1
 colossal
 colossality 1
-colossally
+colossally 1
 colossean
 colosseum
 colossian
