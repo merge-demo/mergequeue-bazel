@@ -1285,7 +1285,7 @@ eucairite 2
 eleonorite
 eoghanacht
 epinephrin
-eq
+eq 1
 eeriness 1
 ecostate 1
 epithalamion 1
