@@ -1730,7 +1730,7 @@ chronographic
 caltrap
 caltraps
 cervicolingual 1
-contrafocal
+contrafocal 1
 caltrop
 coenosite
 caltrops 1
