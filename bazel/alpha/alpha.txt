@@ -5051,7 +5051,7 @@ ageratums
 alexinic
 aerosolized
 aerostatic
-aerostatical
+aerostatical 1
 argas
 appertain
 advancements
