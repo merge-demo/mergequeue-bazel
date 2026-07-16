@@ -10997,7 +10997,7 @@ furfurol
 fumblers 1
 feign 3
 fumbles
-fumblingness 1
+fumblingness 2
 fumed 1
 fluidiser
 frigging 1
