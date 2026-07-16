@@ -12722,7 +12722,7 @@ barrenwort 3
 beaux
 barging
 ballant
-booklear 1
+booklear 2
 brandishing 1
 booklore 1
 bhavan
