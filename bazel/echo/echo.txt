@@ -8606,7 +8606,7 @@ eutaxic 1
 equidiurnal 1
 eelpouts 1
 executor 3
-eleutheromania
+eleutheromania 1
 equidivision
 epigrammatising 2
 embouchures 1
