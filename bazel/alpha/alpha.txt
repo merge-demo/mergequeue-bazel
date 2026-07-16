@@ -24339,7 +24339,7 @@ adjurors
 aquaducts 1
 autoracemization 1
 acetophenetide
-autoradiogram 1
+autoradiogram 2
 autoradiograph
 autoreflection
 asterochiton
