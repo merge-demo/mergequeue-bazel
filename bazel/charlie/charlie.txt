@@ -14419,7 +14419,7 @@ cipolins
 cirri 1
 cogit 1
 cirribranch 1
-cirriferous
+cirriferous 1
 colonialism
 courtezan 1
 confidentially
