@@ -10548,7 +10548,7 @@ disserviceableness
 ddname 1
 derate
 doorsills
-diceratidae
+diceratidae 1
 diazotate 1
 deipotent 1
 dimpling 1
