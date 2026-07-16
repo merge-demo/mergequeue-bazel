@@ -6094,7 +6094,7 @@ catonically 1
 cli
 catoptric
 canaan
-clippable
+clippable 1
 catoptrically 3
 curtise
 catoptrite
