@@ -13438,7 +13438,7 @@ disreport 1
 disreputability 2
 desolater 1
 deposing 1
-dumpily
+dumpily 1
 disengagements
 dihexagonal 1
 dardanium
