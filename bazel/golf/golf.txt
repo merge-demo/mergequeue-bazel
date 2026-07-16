@@ -4094,7 +4094,7 @@ galictis
 griph 1
 gastroduodenotomy
 grasshop
-grasped
+grasped 1
 glucolipid
 gimel 3
 gobernadora 1
