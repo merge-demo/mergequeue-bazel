@@ -911,7 +911,7 @@ geld 1
 guna 1
 gelatinate 3
 gambia
-garnishable
+garnishable 1
 grittiness 1
 gosport 2
 gemeinschaften
