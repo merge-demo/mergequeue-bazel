@@ -9285,7 +9285,7 @@ analyser 1
 afflate
 along 1
 ambeer
-ataxiameter
+ataxiameter 1
 alongships
 alongshore 1
 archbishops 1
