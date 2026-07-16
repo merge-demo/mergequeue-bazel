@@ -6138,7 +6138,7 @@ defatigation
 deratting 2
 draperies 1
 dissector
-derbend
+derbend 1
 debauch 2
 deploringly
 deft 2
