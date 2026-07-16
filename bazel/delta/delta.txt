@@ -584,7 +584,7 @@ dialers 1
 decolonized 3
 daunch
 damfool
-div 1
+div 2
 digenea
 dodecaheddra 1
 diwata 1
