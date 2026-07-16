@@ -613,7 +613,7 @@ guineas 3
 gorgoniacea 5
 ghostweed
 graveside 1
-gloryless
+gloryless 1
 galliots 1
 goulashes 2
 gurnets
