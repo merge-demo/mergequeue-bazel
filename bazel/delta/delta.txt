@@ -14513,7 +14513,7 @@ diformin 1
 damaging 2
 dyeing
 detruncated
-disintegratory
+disintegratory 1
 divinability 1
 defiles
 diviner
