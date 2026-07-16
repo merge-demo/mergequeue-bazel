@@ -8637,7 +8637,7 @@ gradal 1
 greyish 1
 gemsbok 2
 guttered
-grip
+grip 1
 gladdy 1
 grantee 1
 greaseproofness 1
