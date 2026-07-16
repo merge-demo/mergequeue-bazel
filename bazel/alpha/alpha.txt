@@ -945,7 +945,7 @@ absorbing 1
 absorpt 1
 absorptiometer
 allegeable
-alive 1
+alive 2
 analcites
 absorptional 3
 aggregate
