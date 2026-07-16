@@ -13844,7 +13844,7 @@ equipotentiality 1
 eelpot 2
 equivocation
 evaporize 1
-ethionic
+ethionic 1
 ellasar 1
 extractability
 eluated 2
