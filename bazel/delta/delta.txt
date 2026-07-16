@@ -14991,7 +14991,7 @@ defogs
 dogdoms
 deprogram
 dissolving
-dogear
+dogear 1
 dogears 1
 drumly 2
 dogedom 1
