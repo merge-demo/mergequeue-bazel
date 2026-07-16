@@ -3149,7 +3149,7 @@ defaults 1
 decked
 defaulture
 dayworker
-dialings
+dialings 1
 doat 2
 defeasibility
 dacryohelcosis 1
