@@ -4560,7 +4560,7 @@ demiliterate 1
 deflectional
 despotical
 demilustre
-diaskeuasis
+diaskeuasis 1
 demiman
 dali
 detax
