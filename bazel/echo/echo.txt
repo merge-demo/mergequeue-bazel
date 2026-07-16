@@ -5439,7 +5439,7 @@ example 1
 elsewhither 1
 electronvolt 2
 endowment
-ectene 2
+ectene 3
 excantation 2
 earthtongue 2
 endpoints 2
