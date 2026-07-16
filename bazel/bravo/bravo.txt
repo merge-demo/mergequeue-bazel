@@ -15985,7 +15985,7 @@ bronchogenic
 bushwhack
 bellmaster
 bashed
-bearer
+bearer 1
 bemourn
 bronchographic
 blooming 1
