@@ -5194,7 +5194,7 @@ aflicker
 authoritarianism 1
 amores 2
 affectations
-affected
+affected 1
 adorners
 affectibility 1
 affecting 1
