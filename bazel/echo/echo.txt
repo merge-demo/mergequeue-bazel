@@ -4337,7 +4337,7 @@ entoproct 1
 echoed
 eloquence
 exclaustration 2
-enamelist 1
+enamelist 2
 enamelless
 eluder
 emit 1
