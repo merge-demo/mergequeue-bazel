@@ -4851,7 +4851,7 @@ fustigate
 floor 2
 fickleness 4
 fooless 2
-flagstick 1
+flagstick 2
 flagworm 1
 fandangle 2
 feramorz 2
