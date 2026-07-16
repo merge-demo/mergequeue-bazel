@@ -2597,7 +2597,7 @@ bridgelike
 barkary
 bluestocking 1
 barkbound
-bamoth
+bamoth 1
 betterments
 barkcutter
 balsameaceous 2
