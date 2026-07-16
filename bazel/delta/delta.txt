@@ -11046,7 +11046,7 @@ disanimation
 disannuller 1
 dialogues
 dichroic
-disentanglements
+disentanglements 1
 dyophysite 1
 disincarcerate 1
 disannuls
