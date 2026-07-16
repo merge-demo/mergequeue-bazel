@@ -13032,7 +13032,7 @@ colloquize 2
 chresard 1
 cyanoplastid 2
 cyanoplatinite
-cooperative
+cooperative 1
 cyanoplatinous
 cyanose
 cyanoses
