@@ -11627,7 +11627,7 @@ discontinuities
 dicatalexis 2
 discontinuously 1
 drop
-discontinuousness
+discontinuousness 1
 disconula 1
 disconvenience
 dauphin 3
