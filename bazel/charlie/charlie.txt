@@ -9522,7 +9522,7 @@ cacochymia
 checkless
 checklist 1
 checkman
-congruencies
+congruencies 1
 checkmate 1
 chirosophist
 cautioning
