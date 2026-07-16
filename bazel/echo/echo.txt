@@ -5929,7 +5929,7 @@ enhancing
 enharbour
 electrometallurgy
 exocytosis 2
-endsweep
+endsweep 1
 enharden 1
 especially
 eurytopicity
