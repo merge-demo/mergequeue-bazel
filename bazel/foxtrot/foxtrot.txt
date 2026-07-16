@@ -5693,7 +5693,7 @@ fresnels 2
 factional
 facilitator 3
 flyovers 1
-flype
+flype 1
 feodaries 4
 funiculi 2
 forkmen 2
