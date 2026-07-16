@@ -15250,7 +15250,7 @@ antifriction 1
 antifrost
 antifungal
 apoenzyme
-ataentsic
+ataentsic 1
 albertinian
 androcratic
 antigalactagogue
