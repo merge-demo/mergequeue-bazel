@@ -101,7 +101,7 @@ chars
 cabdriving
 corydora
 cabecudo
-capellet
+capellet 1
 cabeliau 1
 cabestro 1
 cabestros
