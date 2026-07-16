@@ -9,7 +9,7 @@ cires 1
 chorionic
 cajaput
 craniopharyngioma
-complanate
+complanate 1
 cabaho
 cabal
 condylarthrous
