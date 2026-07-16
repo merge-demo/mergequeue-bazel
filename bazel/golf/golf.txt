@@ -34,7 +34,7 @@ geoselenic
 gliderport 1
 globose 3
 gouty 2
-goodlike
+goodlike 1
 gabioned
 glutamate 3
 gmelina
