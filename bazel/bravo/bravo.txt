@@ -463,7 +463,7 @@ backspacefile 3
 backspacer
 bundist
 blockades 1
-bacillogenic
+bacillogenic 1
 burree
 battik 1
 benzoates 2
