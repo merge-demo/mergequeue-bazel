@@ -3380,7 +3380,7 @@ ciseleurs
 cappiest 3
 capping
 cervelas
-cyclopite
+cyclopite 1
 coenact
 comfits
 cappings
