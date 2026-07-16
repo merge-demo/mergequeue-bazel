@@ -15492,7 +15492,7 @@ claros
 chemotaxis
 contraposition 1
 cowtail
-competitioner
+competitioner 1
 constrainable
 chirotonsor
 clarre
