@@ -7782,7 +7782,7 @@ gadman
 gray 1
 getaway
 greasily
-goosishly
+goosishly 1
 gemmative
 grudgeful 2
 greasiest
