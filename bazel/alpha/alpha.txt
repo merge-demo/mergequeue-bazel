@@ -5502,7 +5502,7 @@ ack
 apological 1
 almoning 1
 acentric
-aftercrop
+aftercrop 1
 acanthodian
 affrontment 1
 afterdays

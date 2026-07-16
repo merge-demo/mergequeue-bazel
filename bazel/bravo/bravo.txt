@@ -17093,7 +17093,7 @@ bellrags 1
 bulldoggishness 2
 bulldozed 3
 bulldozing
-beduck
+beduck 1
 bullet 1
 bulleted
 byepath
