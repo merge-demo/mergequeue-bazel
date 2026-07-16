@@ -8445,7 +8445,7 @@ gigas 2
 gravelroot 1
 gallstones 1
 gentisic 2
-goldbricks
+goldbricks 1
 glaciarium
 goonch 1
 gratuitant 1
