@@ -544,7 +544,7 @@ bootboy
 blastema 1
 befriendment 1
 biggishness
-burrock 1
+burrock 2
 brickiest 1
 bunt
 baccharis
