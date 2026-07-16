@@ -3588,7 +3588,7 @@ gharnao
 glossa
 gambolled 1
 goniaster
-gnomelike
+gnomelike 1
 gregarinaria 2
 gavial 2
 glutinose 1
