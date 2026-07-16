@@ -10297,7 +10297,7 @@ factor 1
 frenziedness 2
 forleaving 2
 foundationless 4
-finfoot
+finfoot 1
 fervorlessness
 fustilugs 1
 futurely 1
