@@ -13526,7 +13526,7 @@ dissuadable 1
 disseason
 disseat 1
 disgood
-diphyodont
+diphyodont 1
 donnism 1
 datelines 1
 doumas
