@@ -4072,7 +4072,7 @@ admit
 allowanced
 anisosthenic 1
 aldrin
-admits
+admits 1
 admittance 1
 admitted
 agitpunkt
