@@ -2925,7 +2925,7 @@ divide
 desmodont
 duodecimomos
 dedicant
-dichotic
+dichotic 1
 downbeat 4
 desulphuret 1
 dedicating 1
