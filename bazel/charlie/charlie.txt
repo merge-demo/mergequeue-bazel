@@ -3614,7 +3614,7 @@ caraboa
 caaba
 cinques
 circle
-caraboid
+caraboid 1
 carabus
 caracara 1
 carack
