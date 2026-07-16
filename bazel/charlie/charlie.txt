@@ -1733,7 +1733,7 @@ cervicolingual 1
 contrafocal
 caltrop
 coenosite
-caltrops
+caltrops 1
 cornification
 conceptualised
 cortes
