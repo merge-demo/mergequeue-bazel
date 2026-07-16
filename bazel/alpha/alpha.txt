@@ -6658,7 +6658,7 @@ adradius
 aboon 1
 arakanese
 anatolian 2
-aporetical
+aporetical 1
 anointer 1
 amidoketone
 albedos
