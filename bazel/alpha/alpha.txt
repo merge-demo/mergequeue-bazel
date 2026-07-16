@@ -18967,7 +18967,7 @@ architects 1
 ambassadorships 1
 autoallogamy
 alidade
-architecturalist
+architecturalist 1
 architecture
 anticize
 architypographer
