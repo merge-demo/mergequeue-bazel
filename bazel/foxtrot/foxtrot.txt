@@ -8225,7 +8225,7 @@ fairyologist 3
 furlanas 1
 flaskets 1
 felines
-festering
+festering 1
 fluidize
 floroscope
 fluidally
