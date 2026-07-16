@@ -16934,7 +16934,7 @@ clunkers
 corregidors 1
 crowner
 clunking
-clunter
+clunter 1
 coutille
 clupanodonic
 clupea
