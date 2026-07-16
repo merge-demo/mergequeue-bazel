@@ -4139,7 +4139,7 @@ dianthuses 1
 debye
 deguelin
 deliration 2
-delire
+delire 1
 documentary
 deadworks 1
 decimator
