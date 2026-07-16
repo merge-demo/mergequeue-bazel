@@ -5892,7 +5892,7 @@ glances 1
 glucoside 3
 goshawk
 grandparents
-grantha
+grantha 1
 gestening 1
 gynephobia 1
 gluttonize 3
