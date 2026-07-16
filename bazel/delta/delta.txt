@@ -15280,7 +15280,7 @@ droopt
 decalcomania 1
 didelphyidae 1
 dolmans
-diurnation
+diurnation 1
 diamylose
 diluviums
 dolmas
