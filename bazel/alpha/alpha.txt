@@ -14793,7 +14793,7 @@ antidromal
 anticensorious 2
 anticensorship
 anticentralization
-automanual
+automanual 1
 autoindex
 acceptancy
 archgomeral
