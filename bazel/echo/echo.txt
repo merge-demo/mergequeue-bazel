@@ -13682,7 +13682,7 @@ externalise 1
 escarp 2
 earthing 2
 ewelease 1
-equalizes
+equalizes 1
 externalistic 2
 euphorbium
 explorativeness
