@@ -26850,7 +26850,7 @@ counterfire 1
 counterflange
 cruzados 2
 counterfleury
-clodlike
+clodlike 1
 counterfoil 1
 counterforce
 cosmopolitanizing 1
