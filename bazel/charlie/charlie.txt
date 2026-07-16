@@ -5373,7 +5373,7 @@ cinerararia 1
 chaufer
 castellate
 castellation
-castellatus
+castellatus 1
 creolization
 circumposition 1
 copulates
