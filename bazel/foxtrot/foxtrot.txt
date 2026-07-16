@@ -10662,7 +10662,7 @@ fist 1
 footler
 famish 1
 frightable 2
-facultied
+facultied 1
 fibular 1
 fruitlets
 fainting 2
