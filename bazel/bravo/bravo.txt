@@ -3194,7 +3194,7 @@ balancers
 booklores 1
 byland 2
 bhaga
-bollandist
+bollandist 1
 blastozooid
 bromelia 1
 beadily
