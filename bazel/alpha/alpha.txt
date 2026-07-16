@@ -24289,7 +24289,7 @@ autophyte 1
 autophytic
 agister
 albespyne
-acquist
+acquist 1
 aluminographic
 apparent
 autophytograph
