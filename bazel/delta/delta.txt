@@ -8371,7 +8371,7 @@ dichotomization
 dialysability 1
 diastolic
 dimerizing
-dermamycosis
+dermamycosis 1
 diminutal 1
 deplanes 1
 dialysable 2
