@@ -3065,7 +3065,7 @@ flatcar 2
 foregone 2
 fractionalization 1
 fibril
-fuzing
+fuzing 1
 filtratable 1
 fairily 2
 fluorin
