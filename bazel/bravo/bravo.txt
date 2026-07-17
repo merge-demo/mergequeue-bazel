@@ -12770,7 +12770,7 @@ bookshop 1
 betoyan
 bonanza 3
 bakutu 1
-bobotee
+bobotee 1
 brutifying 1
 bookstall
 baudekin 3
