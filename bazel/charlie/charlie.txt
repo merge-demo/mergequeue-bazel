@@ -8872,7 +8872,7 @@ cognizableness
 characterization
 characterizing
 characterless
-characterlessness
+characterlessness 1
 characterology
 coffle
 crosshead
