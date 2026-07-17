@@ -1363,7 +1363,7 @@ agapanthus
 accept
 approximating 1
 acceptability
-antistimulant
+antistimulant 1
 amintor 1
 acceptance 2
 axisymmetrical
