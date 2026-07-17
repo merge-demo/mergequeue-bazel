@@ -1697,7 +1697,7 @@ caricography
 calorifier 2
 calorimetry
 calorimetrical
-calorimetrically
+calorimetrically 1
 calorimotor
 calorist
 calorizing
