@@ -9860,7 +9860,7 @@ ipmumyce 1
 ipnbal 1
 ipncforym 1
 ipnck 1
-ipndtxtgswg 1
+ipndtxtgswg 2
 ipnk
 ipnkvkkfk 1
 ipnnki 1
