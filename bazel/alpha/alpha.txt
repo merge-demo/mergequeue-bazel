@@ -4497,7 +4497,7 @@ agyrate
 aprocta 2
 adventuresomes 1
 adventuress
-adventuresses
+adventuresses 1
 avidiously
 acidimetrically
 alternation 1
