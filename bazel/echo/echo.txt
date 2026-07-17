@@ -6709,7 +6709,7 @@ equilibriria 1
 ecosystems
 enterozoon 2
 enterprise
-exploitations
+exploitations 1
 elongations 1
 enterprize 2
 expertising
