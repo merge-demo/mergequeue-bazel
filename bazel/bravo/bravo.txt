@@ -3874,7 +3874,7 @@ butterers
 bullpouts
 babus
 bawdrics 4
-bawdries
+bawdries 1
 boreal
 bawl 1
 bawled 1
