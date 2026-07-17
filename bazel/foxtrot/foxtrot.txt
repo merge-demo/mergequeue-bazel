@@ -3560,7 +3560,7 @@ fath
 flaggelating 3
 filaments 1
 fistule 3
-flexibility
+flexibility 1
 formularise 1
 filarian 1
 fattily 2
