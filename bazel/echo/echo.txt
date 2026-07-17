@@ -3994,7 +3994,7 @@ edictum 1
 empathetic 5
 enfolded 1
 egalite 2
-equiform 1
+equiform 2
 extramodal
 empatron 1
 extemporizes 1
