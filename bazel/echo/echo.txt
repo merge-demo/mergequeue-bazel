@@ -13367,7 +13367,7 @@ encrustant 2
 envassalage 1
 encrownment
 enrichers
-esthesiometry
+esthesiometry 1
 exsanguinity
 everydeal 1
 elytral
