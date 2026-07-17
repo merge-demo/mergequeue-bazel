@@ -3500,7 +3500,7 @@ deforced
 depressors 1
 deforces 2
 dimittis
-deforciant
+deforciant 1
 detention 1
 dislikers 3
 demasculinizing
