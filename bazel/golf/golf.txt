@@ -6161,7 +6161,7 @@ garters 1
 gadfly
 geelbec
 goa 2
-gadsbud
+gadsbud 1
 gauche
 goadsman 1
 grihastha 2
