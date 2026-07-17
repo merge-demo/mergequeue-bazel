@@ -19533,7 +19533,7 @@ captivities
 coluber 1
 colubrinae 3
 colubrine
-clarsach
+clarsach 1
 choanocytal
 colugo
 canaliculi
