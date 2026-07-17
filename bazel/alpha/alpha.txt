@@ -24683,7 +24683,7 @@ accordant 3
 averment 2
 anopheline
 averments 1
-admove
+admove 1
 aeneid 1
 antidiastase
 amelioration 1
