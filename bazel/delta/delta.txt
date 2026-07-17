@@ -6814,7 +6814,7 @@ diaconate 2
 desize 2
 decompositional 1
 devilmonger
-desklike
+desklike 1
 diphrelatic
 dunks 1
 deskman 1
