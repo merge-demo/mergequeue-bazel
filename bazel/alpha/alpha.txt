@@ -2319,7 +2319,7 @@ arecuna
 aul
 acids
 acidulant
-acidulate
+acidulate 1
 acidulated
 azuline 3
 acephalism
