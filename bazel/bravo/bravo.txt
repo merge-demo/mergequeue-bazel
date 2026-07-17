@@ -8998,7 +8998,7 @@ bashing
 baginda 1
 biomes
 beanlike
-beavery
+beavery 1
 babelike 1
 besmuts
 biometries
