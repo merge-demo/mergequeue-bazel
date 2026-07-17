@@ -1921,7 +1921,7 @@ bandsawn
 bandsman 2
 bandstand
 beacon 2
-beseechment
+beseechment 1
 broadly 2
 bisection 1
 bagnio
