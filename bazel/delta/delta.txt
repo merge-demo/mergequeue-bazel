@@ -3260,7 +3260,7 @@ datiscetin
 drakefly
 dudder
 deferrable 1
-deferrer
+deferrer 1
 deferrize
 disturbative 1
 densen 1
