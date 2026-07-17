@@ -17505,7 +17505,7 @@ antiantienzyme
 alteregoism 1
 appeal 1
 adders
-appealable
+appealable 1
 atangle
 askance
 acanthodea
