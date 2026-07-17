@@ -784,7 +784,7 @@ dandlers
 defs 1
 dispurpose 1
 drawn
-devolatilize
+devolatilize 1
 dandles 2
 discute
 delirament 1
