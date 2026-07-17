@@ -1964,7 +1964,7 @@ bombard 1
 ballocks 1
 basilicas
 bangkok
-bacteriogenous
+bacteriogenous 1
 bangladesh 2
 bespatters 2
 blet
