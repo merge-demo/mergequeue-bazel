@@ -7133,7 +7133,7 @@ besprinkle 1
 briskish
 bandhor
 biaxial 1
-bonduc 1
+bonduc 2
 barret 1
 backless 1
 besprinkles
