@@ -6867,7 +6867,7 @@ beseige 1
 biliverdic
 botchers
 bescutcheon
-bondservant 1
+bondservant 2
 basalia
 beseam
 bisannual
