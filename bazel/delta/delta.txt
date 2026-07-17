@@ -3235,7 +3235,7 @@ dolmenic
 demimondaine 1
 dissentient 1
 distrainor
-defendant
+defendant 1
 discocephalous
 dir
 decorativeness
