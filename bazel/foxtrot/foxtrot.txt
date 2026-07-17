@@ -10783,7 +10783,7 @@ fth 1
 feuars 1
 footsoldiers 2
 fudge
-fanned
+fanned 1
 freinage
 factualistic 1
 flue 1
