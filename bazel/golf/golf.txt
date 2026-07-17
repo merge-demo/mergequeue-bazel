@@ -4031,7 +4031,7 @@ gellert 3
 grounds 2
 gilds 1
 gildhall
-gastrotrich
+gastrotrich 1
 grandness
 gildship 2
 gutturals 3
