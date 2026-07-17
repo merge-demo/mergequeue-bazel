@@ -4039,7 +4039,7 @@ feudalise 2
 fingram
 fossilisable 3
 finical
-fluxibly
+fluxibly 1
 fibrin 1
 finis 2
 fadelessly
