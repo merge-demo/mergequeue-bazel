@@ -8033,7 +8033,7 @@ allower
 acroliths 3
 alcargen 2
 almanner 2
-apodeixis
+apodeixis 1
 asteraceae
 aeger
 allorhythmia
