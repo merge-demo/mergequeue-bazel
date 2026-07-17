@@ -30700,7 +30700,7 @@ cudgelers 1
 counterwind 1
 complexometric 2
 costopleural
-cudgeling
+cudgeling 1
 cudgelling
 cudgels
 chuhra
