@@ -3906,7 +3906,7 @@ frequencies 1
 fortyfive
 fits 1
 fortuitously 1
-fecundating
+fecundating 1
 fluidness 3
 ferocactus 2
 financer 1
