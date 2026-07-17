@@ -12253,7 +12253,7 @@ briefless
 byssiferous
 bolt
 boltage
-bluestockings
+bluestockings 1
 biasses
 boltcutter 1
 bookmark
