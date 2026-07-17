@@ -11968,7 +11968,7 @@ encinal 1
 emirs
 ensilages 3
 exothermicity
-endurance
+endurance 1
 enlist 1
 epithecate 1
 exactress
