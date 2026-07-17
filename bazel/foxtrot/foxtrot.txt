@@ -4450,7 +4450,7 @@ fishman
 float 1
 frowzly
 feelable 2
-flossy
+flossy 1
 fraternizer 3
 fishmouth 4
 fishnet 2
