@@ -5472,7 +5472,7 @@ afrormosia
 aft 2
 afteract 1
 appetitive 1
-afterlife
+afterlife 1
 alepine
 absorbs 1
 actinophone
