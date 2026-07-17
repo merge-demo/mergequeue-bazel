@@ -6554,7 +6554,7 @@ aiblins
 antileptic
 aidance
 apostasy 3
-aidant
+aidant 1
 aided 1
 amphigamae
 amchoor 1
