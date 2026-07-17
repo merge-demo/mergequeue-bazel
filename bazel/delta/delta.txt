@@ -5750,7 +5750,7 @@ deconsider 2
 depoh 2
 decd 2
 depolarise 3
-dehumidify
+dehumidify 1
 depolarization 1
 dernly
 depolarize 1
