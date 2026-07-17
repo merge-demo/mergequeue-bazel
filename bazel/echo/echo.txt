@@ -12190,7 +12190,7 @@ empory
 exeat 1
 epigraphs 1
 exec 2
-epiphonemas
+epiphonemas 1
 eudemonist 2
 exacervation
 enserfs 3
