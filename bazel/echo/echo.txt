@@ -3562,7 +3562,7 @@ extreme
 epigonus 2
 entrefer 4
 embolize 1
-eupeptic
+eupeptic 1
 epididymal 2
 entocone 2
 embolomalerism 1
