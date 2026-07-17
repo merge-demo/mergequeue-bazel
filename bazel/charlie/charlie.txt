@@ -25465,7 +25465,7 @@ clong
 cornuto 1
 cornutos
 cornwall
-cornwallite
+cornwallite 1
 cutdown 1
 corocleisis
 caricaturable
