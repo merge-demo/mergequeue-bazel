@@ -11262,7 +11262,7 @@ chlorinator 1
 chlorines
 chicote
 counterion
-chlorite
+chlorite 1
 coenures
 chloritic
 carlie
