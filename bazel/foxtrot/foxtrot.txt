@@ -6429,7 +6429,7 @@ facsimileing 1
 fluorimetric 1
 fluorobenzene
 fructifies 2
-foreship
+foreship 1
 frivoled 2
 frogeye 3
 fluoaluminate 1
