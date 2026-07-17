@@ -5544,7 +5544,7 @@ foamily 2
 foreordain 3
 flagon 4
 fol 2
-fural
+fural 1
 forestays
 favellae
 flexion 3
