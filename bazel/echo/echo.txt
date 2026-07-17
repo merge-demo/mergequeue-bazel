@@ -12030,7 +12030,7 @@ enforceability 2
 enamelled
 epidialogue
 exclusivistic
-exclusivity
+exclusivity 1
 effluents 1
 excogitated 3
 emigrator 1
