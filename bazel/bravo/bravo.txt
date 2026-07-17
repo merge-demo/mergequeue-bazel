@@ -3448,7 +3448,7 @@ brushfire
 brigade 1
 basto 1
 baguios 2
-bucklandite
+bucklandite 1
 bibliolatrous
 bathylite
 bovine 1
