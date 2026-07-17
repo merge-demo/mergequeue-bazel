@@ -14862,7 +14862,7 @@ brakehand 2
 blackwork
 betrample
 bechalking
-berms 1
+berms 2
 beefs
 bingies 1
 breadwinner 2
