@@ -564,7 +564,7 @@ forebays 2
 fussbudgets 2
 fallen 3
 ferny 1
-falling
+falling 1
 flichtering 1
 faradized
 famine 1
