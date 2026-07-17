@@ -4432,7 +4432,7 @@ deincrustant 1
 decap 2
 dependant
 demerit
-demiluster 1
+demiluster 2
 damoetas
 drones 1
 despairfulness 2
