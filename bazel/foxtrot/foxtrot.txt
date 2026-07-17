@@ -196,7 +196,7 @@ factoryship 2
 floatiness 2
 fraudulence
 fusinite 1
-flashily 1
+flashily 2
 feuar 1
 foreignism 1
 florin 1
