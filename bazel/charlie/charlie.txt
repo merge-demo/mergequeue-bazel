@@ -20506,7 +20506,7 @@ cainism
 condors
 compatible
 clouts
-compatibleness
+compatibleness 1
 chlorider
 compatriotic 1
 chilicote
