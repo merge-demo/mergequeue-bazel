@@ -16481,7 +16481,7 @@ clodhopping 1
 canchi 1
 cryogenic
 clodlet
-clubfellow
+clubfellow 1
 clodpated
 cadential 1
 chromolysis
