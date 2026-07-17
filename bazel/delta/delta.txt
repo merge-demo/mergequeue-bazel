@@ -18631,7 +18631,7 @@ dagbane
 dedicatorial 1
 degreeless
 duty
-dutiability 1
+dutiability 2
 disdains 2
 downtroddenness 1
 dutied
