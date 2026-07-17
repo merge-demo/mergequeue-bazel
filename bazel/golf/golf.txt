@@ -963,7 +963,7 @@ ghostless 1
 glomeruli
 graptolite
 gunshot 1
-glist 2
+glist 3
 genomic 1
 gamostele
 gallinule 2
