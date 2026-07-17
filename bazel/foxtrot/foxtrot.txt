@@ -329,7 +329,7 @@ fplot
 fluxionary 2
 feods 1
 forces 1
-fail
+fail 1
 fireplough 1
 faineancy 1
 fayles 2
