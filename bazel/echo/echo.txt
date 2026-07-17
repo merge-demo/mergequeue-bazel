@@ -10543,7 +10543,7 @@ entrymen
 eucharitidae 1
 expenses 2
 ephebeubea
-expiscator
+expiscator 1
 epitoxoid
 epistolized 2
 endogenic 1
