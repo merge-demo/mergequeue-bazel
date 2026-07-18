@@ -9356,7 +9356,7 @@ gimmick
 gonocoel 2
 gravestones 4
 groop 1
-gallerygoer
+gallerygoer 1
 glamorize 1
 goggliest 2
 gwen 3
