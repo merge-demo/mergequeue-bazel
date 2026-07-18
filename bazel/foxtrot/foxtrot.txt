@@ -7086,7 +7086,7 @@ foolish 3
 ferryboats 2
 fascinating
 fleapit
-forespeech
+forespeech 1
 factious
 fusional 3
 fingerstall 1
