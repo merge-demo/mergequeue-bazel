@@ -11360,7 +11360,7 @@ devoter
 dilatometric
 dehydrogenise
 decorement
-delimiter
+delimiter 1
 dischevel
 dentalization 1
 dissimulator 1
