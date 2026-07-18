@@ -4429,7 +4429,7 @@ emitted 1
 encapsuled 1
 enure 3
 effectively 2
-encapsuling
+encapsuling 1
 encaptivate
 essence 1
 expectorate 2
