@@ -13759,7 +13759,7 @@ degression
 damndests 1
 dangering
 downlooker 3
-disbarments
+disbarments 1
 dissolver
 dissolvingly 1
 darwinical 2
