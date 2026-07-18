@@ -4785,7 +4785,7 @@ extend 2
 endosporously 1
 emeried
 epencephalon
-extrarhythmical
+extrarhythmical 1
 emboite
 erosiveness 3
 enscrolling 3
