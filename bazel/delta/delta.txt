@@ -5354,7 +5354,7 @@ dorsoventrad
 derider 1
 dorsimesal 1
 disblame
-decoyed
+decoyed 1
 daraf
 diaphoretic 3
 displaced 1
