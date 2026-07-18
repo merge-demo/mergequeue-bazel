@@ -15488,7 +15488,7 @@ antimilitary 1
 amoralism
 astacian
 antiministerial 1
-antiministerially
+antiministerially 1
 ajhar 2
 aiming 2
 anandria 1
