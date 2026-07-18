@@ -9279,7 +9279,7 @@ gigglesome 1
 groceryman 3
 goitre
 gardnap
-giltcup
+giltcup 1
 grockle 1
 goidel
 gamely 3
