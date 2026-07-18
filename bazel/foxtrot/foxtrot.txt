@@ -4261,7 +4261,7 @@ fusarium 2
 flaxbird 2
 fax 1
 foreignize 1
-feverish
+feverish 1
 fungose 1
 flatterers 1
 frenzying
