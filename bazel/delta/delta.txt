@@ -1634,7 +1634,7 @@ deisin 1
 disfranchising
 deliverable
 difficulty 1
-daylong
+daylong 1
 dimetrodon
 deodate
 datolitic 1
