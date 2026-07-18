@@ -3150,7 +3150,7 @@ biphase 1
 baseplug 1
 basepoint 2
 behavers 1
-baser
+baser 1
 brazen 1
 blanda
 besetter 1
