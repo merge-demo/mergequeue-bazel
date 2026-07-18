@@ -16077,7 +16077,7 @@ clydesider
 client 1
 clientage 1
 cliental
-classer 1
+classer 2
 cycloramas
 condylotomy
 choriocarcinomata
