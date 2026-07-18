@@ -2049,7 +2049,7 @@ elaeometer
 electrometeor
 entamebic
 eligibleness 2
-earthstar
+earthstar 1
 encephalometric 2
 electrograph 2
 embroilments
