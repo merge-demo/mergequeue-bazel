@@ -2039,7 +2039,7 @@ ferngrower
 frontspiece
 feinter 1
 feudary 1
-fundi 1
+fundi 2
 facedown 1
 faucalize
 fireboat 1
