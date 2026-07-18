@@ -9645,7 +9645,7 @@ bisymmetrical 2
 bigg 1
 borate 1
 bisync
-boolies
+boolies 1
 bisischiatic
 bauera 3
 bisk
