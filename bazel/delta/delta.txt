@@ -17397,7 +17397,7 @@ decennia 2
 didascaly 1
 direction 2
 disjoinable
-decream
+decream 1
 dropsies
 distomatidae
 dropwise 2
