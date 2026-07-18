@@ -803,7 +803,7 @@ dungeon 1
 deckhead 1
 daneweed
 daneweeds 1
-detections
+detections 1
 disingenious 1
 dangerously 1
 dactyliomancy
