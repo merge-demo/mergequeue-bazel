@@ -3080,7 +3080,7 @@ dairi 1
 defacement
 disgustfully
 disquietingly
-deadliness
+deadliness 1
 downbent 3
 doohickus 1
 dentaria 2
