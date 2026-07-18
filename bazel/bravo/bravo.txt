@@ -10473,7 +10473,7 @@ blaster 2
 blastid 1
 blart
 blasting
-borolanite 3
+borolanite 4
 blastings 2
 blastocele
 boomers
