@@ -7009,7 +7009,7 @@ decongest 2
 decamps
 discreditably
 disjasket
-dogfaces
+dogfaces 1
 drowners
 debrided
 dachshound
