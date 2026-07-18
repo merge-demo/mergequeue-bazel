@@ -2397,7 +2397,7 @@ formicivorous
 filtrable 1
 fingernail 4
 flanged
-ferigee
+ferigee 1
 fondlers 3
 fleer 1
 fad 1
