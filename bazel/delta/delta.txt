@@ -3565,7 +3565,7 @@ defunction 1
 deul
 disfrock
 disseminate
-diethylamine 1
+diethylamine 2
 disenchanter
 defunctionalize
 defusion
