@@ -13754,7 +13754,7 @@ dissour 1
 disadventure 2
 disenshroud
 dreamboat 2
-desugaring
+desugaring 1
 degression
 damndests 1
 dangering
