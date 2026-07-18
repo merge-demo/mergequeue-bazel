@@ -5839,7 +5839,7 @@ emulatory 1
 efficace 2
 electrovalency 2
 exfoliation 2
-erlkings
+erlkings 1
 epicele 2
 expiations 2
 extrinsic
