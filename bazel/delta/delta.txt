@@ -12241,7 +12241,7 @@ deport
 disfurnished 1
 dangerless
 desulfurating 1
-deathshot 2
+deathshot 3
 dervishes
 disfurniture 1
 donax 1
