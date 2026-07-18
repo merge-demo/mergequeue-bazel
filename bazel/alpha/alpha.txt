@@ -24306,7 +24306,7 @@ autopilot
 autoincrement 1
 autoplagiarism 1
 afterworking 3
-autoplast
+autoplast 1
 affianced 1
 acetonate 1
 autopoisonous
