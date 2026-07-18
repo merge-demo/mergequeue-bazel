@@ -4011,7 +4011,7 @@ forfeited 2
 flunk 2
 fingerprint 1
 ferric 1
-furazolidone
+furazolidone 1
 fluorosis 1
 fishery
 forleft
