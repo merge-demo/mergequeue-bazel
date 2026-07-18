@@ -3847,7 +3847,7 @@ autotransplant
 adipocellulose
 adipocere
 adipoceriform
-adipoid
+adipoid 1
 angiology
 aube
 amati
