@@ -4250,7 +4250,7 @@ adposition
 acmispon
 azonium
 armorer 1
-alchornea
+alchornea 1
 aesculapius 1
 annoyful
 akhlame
