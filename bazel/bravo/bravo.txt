@@ -6586,7 +6586,7 @@ booming
 birotation
 blotter
 bluff
-betons
+betons 1
 blastular 2
 bere 1
 butterbox 2
