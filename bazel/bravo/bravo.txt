@@ -8213,7 +8213,7 @@ bobstay 1
 balagan
 bullfist
 brothership 1
-bespurt
+bespurt 1
 bulgaric
 biforate
 biforking
