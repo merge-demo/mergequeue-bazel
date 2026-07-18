@@ -10709,7 +10709,7 @@ dowcote
 dipodomys
 dipolar
 dingar
-dumbnesses
+dumbnesses 1
 diaculum
 depit
 dormin
