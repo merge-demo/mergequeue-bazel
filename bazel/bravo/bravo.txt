@@ -4859,7 +4859,7 @@ bourgeon
 benames
 bartholomew 1
 blephara 2
-briefings
+briefings 1
 bedsitter
 batmen
 baudekins 1
