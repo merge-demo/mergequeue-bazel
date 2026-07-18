@@ -3491,7 +3491,7 @@ evelight 1
 emblazoned
 emblazoner 1
 emblazonments
-elastic 1
+elastic 2
 etherialising 1
 escandalize 1
 expansible
