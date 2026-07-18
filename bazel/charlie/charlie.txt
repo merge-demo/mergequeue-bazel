@@ -26733,7 +26733,7 @@ cubicles
 counterblast
 counterborder 1
 counterbored
-celandine
+celandine 1
 counterborer 2
 counterboring
 counterboulle
