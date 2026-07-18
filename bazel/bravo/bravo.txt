@@ -14619,7 +14619,7 @@ broadleaves 3
 bewrayment
 bitterns 3
 brantails
-barricado
+barricado 1
 bedcord
 brantle
 bacteriologic
