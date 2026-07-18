@@ -15227,7 +15227,7 @@ bummery
 brickle
 bulbospinal 2
 bricklike 1
-beclose
+beclose 1
 blennoid 2
 backstrip
 bucketing
