@@ -5265,7 +5265,7 @@ cassation 1
 caveats
 cerin 1
 cassegrain 1
-clavierists
+clavierists 1
 chromomeric
 cassegrainian
 casseroling 1
