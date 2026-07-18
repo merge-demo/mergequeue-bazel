@@ -1685,7 +1685,7 @@ falsies 2
 felonous 2
 fearingly 2
 ferineness
-fearless
+fearless 1
 forehammer 3
 frangible 2
 ferrament 4
