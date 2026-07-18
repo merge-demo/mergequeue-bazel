@@ -5860,7 +5860,7 @@ batholith
 bidactyle 3
 beefin 1
 bypaths 2
-beerocracy
+beerocracy 1
 bellowsful
 bargainer
 beride

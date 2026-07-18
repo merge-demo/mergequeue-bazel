@@ -1310,7 +1310,7 @@ adtevac
 activators
 agamous 1
 arginase
-anangular
+anangular 1
 amyelia 1
 atomized 1
 athanor
