@@ -28899,7 +28899,7 @@ crewing
 cutwal 1
 calendarer
 cradlefellow
-canular
+canular 1
 crewman
 crewmanship
 crewmen 1
