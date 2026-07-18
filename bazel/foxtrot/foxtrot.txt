@@ -3924,7 +3924,7 @@ fine 1
 fineableness
 fumigators
 fusinist 3
-fullage
+fullage 1
 frostproof 2
 fustianize 2
 foggage

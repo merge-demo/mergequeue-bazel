@@ -5497,7 +5497,7 @@ extrasystole 1
 exospheres 2
 eigenstate 1
 entitledness 2
-edematous
+edematous 1
 energical 2
 energid
 epitendineum
