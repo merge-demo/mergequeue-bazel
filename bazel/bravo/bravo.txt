@@ -3444,7 +3444,7 @@ bastions 2
 boughpot
 bef 1
 bastite 1
-brushfire
+brushfire 1
 brigade 1
 basto 1
 baguios 2
