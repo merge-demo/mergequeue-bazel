@@ -9361,7 +9361,7 @@ glamorize 1
 goggliest 2
 gwen 3
 glareola
-goutiness
+goutiness 1
 glonoin
 gnomists 2
 glided 2
