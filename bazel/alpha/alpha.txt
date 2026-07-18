@@ -19903,7 +19903,7 @@ armlets
 aiguellette
 asymbiotic
 aeolis 1
-armlike
+armlike 1
 armlock
 armonicas
 autoconvection
