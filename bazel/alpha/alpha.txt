@@ -15559,7 +15559,7 @@ antimonid 1
 airampo 1
 alguacil 2
 antilapse
-analyzable
+analyzable 1
 areopagist 1
 anthropophagi 1
 antiatheism
