@@ -6293,7 +6293,7 @@ flawless 3
 fluked
 fertilisability 1
 fuliginosity 1
-fluent
+fluent 1
 flukeworm 1
 follicle 1
 ferryhouse 3
