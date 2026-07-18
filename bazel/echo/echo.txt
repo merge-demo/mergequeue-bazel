@@ -5187,7 +5187,7 @@ epitrochoid 1
 entresol 2
 elytrorrhaphy 1
 earbob 1
-epicarp
+epicarp 1
 encyclic
 eurystheus 2
 erava 1
