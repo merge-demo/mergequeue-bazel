@@ -1608,7 +1608,7 @@ footroom 4
 floriage 3
 frijol 1
 fervescence 1
-flannel 2
+flannel 3
 fawkener 2
 fraischeur 1
 funfair
