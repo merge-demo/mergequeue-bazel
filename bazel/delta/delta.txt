@@ -3699,7 +3699,7 @@ daunting
 dictamnus
 degust 1
 dasnt
-degusted
+degusted 1
 dregginess
 dewlaps 1
 dehache
