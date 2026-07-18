@@ -8668,7 +8668,7 @@ alchitran
 abled 1
 attractancy 1
 anarchs
-andrite
+andrite 1
 adjoins 1
 argyrythrose
 anoxidative
