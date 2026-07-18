@@ -16696,7 +16696,7 @@ abjuration
 asserters 1
 agre 1
 assails 2
-alcaides 2
+alcaides 3
 aphacic 2
 accompaniment
 allowedly
