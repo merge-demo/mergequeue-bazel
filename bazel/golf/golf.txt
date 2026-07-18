@@ -7837,7 +7837,7 @@ globs 2
 gristmilling
 graphospasm
 gerents 1
-goosander
+goosander 1
 grumble 2
 gimirrai 2
 gurlet 2
