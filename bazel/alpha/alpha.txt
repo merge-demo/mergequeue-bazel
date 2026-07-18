@@ -5626,7 +5626,7 @@ aint
 afterworld
 antischool 2
 aneurine 1
-aftward
+aftward 1
 afunctional 1
 autocystoplasty 1
 anticorrosion
