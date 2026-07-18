@@ -11114,7 +11114,7 @@ assientist 1
 ascots 2
 analects 1
 achromatized
-arca
+arca 1
 amperian
 amphistomum
 attenuation 1
