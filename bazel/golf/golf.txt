@@ -2289,7 +2289,7 @@ granulocytopoiesis 1
 geitonogamy 1
 gonostyle
 geomoroi
-grange
+grange 1
 granulosa
 gynarchy 1
 galante
