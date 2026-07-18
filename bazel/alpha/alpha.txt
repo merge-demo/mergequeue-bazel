@@ -14139,7 +14139,7 @@ antenuptial
 aplasias
 anteoccupation 2
 anteocular
-anteorbital
+anteorbital 1
 augustinian 2
 animalize
 antibodies
