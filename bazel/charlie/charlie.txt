@@ -13150,7 +13150,7 @@ cystoflagellata 2
 cicatrisive
 cicatrizate
 caudicle
-canalize
+canalize 1
 craniographer
 cicatrization 1
 cott 1
