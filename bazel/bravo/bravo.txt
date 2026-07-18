@@ -1195,7 +1195,7 @@ blennostatic 1
 bakeress 1
 besigh 1
 bootloader 1
-bakeries 1
+bakeries 2
 budling 2
 bakerly 3
 brownstones
