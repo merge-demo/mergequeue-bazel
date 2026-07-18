@@ -8019,7 +8019,7 @@ endocannibalism 1
 embrasured 2
 epiotic 3
 eutannin 3
-exopterygota
+exopterygota 1
 exocline 1
 epipactis 1
 elasticized 1
