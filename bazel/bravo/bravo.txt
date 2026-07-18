@@ -7154,7 +7154,7 @@ biologist 2
 brightly
 bessel
 bessemer
-bessemerize
+bessemerize 1
 bessemerized 1
 besses
 bessie 1
