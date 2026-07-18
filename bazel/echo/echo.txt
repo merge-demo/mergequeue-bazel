@@ -7180,7 +7180,7 @@ enwheels
 enwinding 1
 elemis
 entomoid 1
-emboltement
+emboltement 1
 enwing 1
 ecclesiasticus 1
 enamines 1
