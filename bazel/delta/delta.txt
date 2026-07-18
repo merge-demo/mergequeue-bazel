@@ -5565,7 +5565,7 @@ depascent 1
 debilitation
 disrepute 1
 depasture
-depatriate
+depatriate 1
 dispergation 1
 doornails 3
 deposer
