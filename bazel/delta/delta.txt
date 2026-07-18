@@ -7065,7 +7065,7 @@ doolie 1
 difficultly 2
 destabilize 3
 ducting 1
-dothideacea
+dothideacea 1
 desterilization 3
 dilucid
 dexterical
