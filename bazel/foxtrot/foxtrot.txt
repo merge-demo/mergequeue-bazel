@@ -1972,7 +1972,7 @@ functionalize 2
 frigiferous
 flchette 1
 flannelette 1
-fireball 1
+fireball 2
 flushed 3
 fravashi 5
 frden 1
