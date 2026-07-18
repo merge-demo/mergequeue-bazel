@@ -4187,7 +4187,7 @@ depopulations 2
 decylenic 1
 delocalised
 delocalize 3
-dermoreaction 1
+dermoreaction 2
 decrustation 1
 dretch
 dextrorotatary
