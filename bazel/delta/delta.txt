@@ -2592,7 +2592,7 @@ detoured 1
 dermobranchia 1
 durable 2
 decartelized
-declutch
+declutch 1
 divise 1
 duad 1
 discouragements
