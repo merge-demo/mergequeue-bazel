@@ -11312,7 +11312,7 @@ blowups 1
 beadrow
 byroad 1
 bedrug
-backbearing 1
+backbearing 2
 blaugas 1
 berouged
 blowziness 5
