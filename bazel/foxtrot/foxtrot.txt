@@ -8080,7 +8080,7 @@ furnitures
 fondness 1
 fumigating 2
 flecnode
-fiendfully
+fiendfully 1
 ferrochromium 1
 forests
 fissuriform 2
