@@ -8160,7 +8160,7 @@ flavoursome 3
 fillercap
 fairishness
 fibulas
-fasthold
+fasthold 1
 fribbling 3
 fideicommissor
 foundlings
