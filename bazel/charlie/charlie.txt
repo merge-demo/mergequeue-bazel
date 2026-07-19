@@ -20377,7 +20377,7 @@ compactable
 compacted 3
 ca
 coolants
-compacter
+compacter 1
 chirked
 colibertus 1
 compactible
