@@ -1597,7 +1597,7 @@ finer 1
 florae
 fiddlebow 2
 forereaching 2
-floppies
+floppies 1
 faffle 2
 funambulo
 functionating 2
