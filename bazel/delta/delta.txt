@@ -16678,7 +16678,7 @@ debouchure 1
 draisine
 duodiode
 detach 2
-darnel 1
+darnel 2
 drinking 1
 despondent 2
 doruck
