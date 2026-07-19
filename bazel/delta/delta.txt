@@ -11794,7 +11794,7 @@ dousers
 discreteness
 dandification
 demirep
-diplococcoid
+diplococcoid 1
 dollarleaf 2
 delabialize 1
 demot
