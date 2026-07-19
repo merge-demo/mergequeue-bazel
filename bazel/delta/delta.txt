@@ -802,7 +802,7 @@ danegelds
 dungeon 1
 deckhead 1
 daneweed
-daneweeds 1
+daneweeds 2
 detections 1
 disingenious 1
 dangerously 2
