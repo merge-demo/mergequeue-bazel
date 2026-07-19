@@ -4543,7 +4543,7 @@ beglamour
 bienness 1
 biradiated
 bathroot
-bater
+bater 1
 bool
 bedabble 2
 beagles 1
