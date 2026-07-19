@@ -17753,7 +17753,7 @@ dependency
 ducats 1
 dewiness
 demises
-ducdame
+ducdame 1
 diplocoria 1
 defector
 duchan
