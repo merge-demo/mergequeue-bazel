@@ -1504,7 +1504,7 @@ deaccessioning
 drawbolt 4
 dingbats 1
 draughts
-definiendum
+definiendum 1
 deformers 1
 diazines 1
 downlinked 2
