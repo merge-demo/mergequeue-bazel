@@ -19169,7 +19169,7 @@ attendances
 abusable
 antepretonic 1
 antiparliamenteer 2
-alemannic
+alemannic 1
 anatomically
 arcticized
 arcticizing 1
