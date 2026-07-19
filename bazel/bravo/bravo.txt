@@ -1559,7 +1559,7 @@ ballies 2
 backrushes 1
 bifidity
 beknighting
-brummagem 3
+brummagem 4
 ballyhoo 1
 ballyrags
 bioelectrogenetic
@@ -7814,7 +7814,7 @@ befooled
 bibble
 bamboozle 2
 brackets 2
-bibbler 1
+bibbler 2
 blooms 2
 bufonite 1
 borazon 3
