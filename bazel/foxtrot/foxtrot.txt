@@ -2829,7 +2829,7 @@ fishhouse 2
 ferrozirconium 4
 floodlights 2
 fideicommiss
-fetichism
+fetichism 1
 fraction 3
 forebush 1
 foreadmonish 2
