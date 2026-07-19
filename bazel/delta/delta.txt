@@ -536,7 +536,7 @@ denomination 1
 dermaskeleton
 dama
 damageability
-damageably 1
+damageably 2
 detonatable
 damaged
 detort 1
