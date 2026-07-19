@@ -21627,7 +21627,7 @@ condescensive 2
 callout
 condescensively
 condescensiveness 1
-clearwater
+clearwater 1
 cancelli
 condescent 1
 cocciform
