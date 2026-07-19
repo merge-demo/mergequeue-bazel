@@ -8295,7 +8295,7 @@ gentians
 grapples 1
 grappling 1
 germanish 2
-graptolitha
+graptolitha 1
 gheraoed 2
 gibers 2
 gambits 1
