@@ -8995,7 +8995,7 @@ fourrier
 flagellates 1
 foelike 3
 feature
-foursquareness 2
+foursquareness 3
 faustian
 fourteener 1
 frangibleness 2
