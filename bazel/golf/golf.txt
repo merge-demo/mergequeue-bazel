@@ -9537,7 +9537,7 @@ gristliness 1
 guacico
 griminess 4
 groundkeeper 1
-glidder
+glidder 1
 grumbler 3
 gleaners 1
 greenlander 1
