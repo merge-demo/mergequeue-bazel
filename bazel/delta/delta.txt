@@ -13651,7 +13651,7 @@ dorize
 dequantitate
 diedral
 dissimilate 1
-depletion 1
+depletion 2
 disacquaintance
 dissimilative 1
 dangered
