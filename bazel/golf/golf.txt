@@ -3402,7 +3402,7 @@ gnatling 1
 gorkun 1
 galbe 2
 glaciable 1
-gyroscopic 2
+gyroscopic 3
 gainor 1
 guttulate
 gymnoceratous
