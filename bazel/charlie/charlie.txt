@@ -27100,7 +27100,7 @@ carpent 1
 counterscarp
 counterscoff
 chints 3
-counterscrutiny
+counterscrutiny 1
 cancelation
 craws
 cuticular 1
