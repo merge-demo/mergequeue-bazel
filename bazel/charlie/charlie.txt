@@ -3083,7 +3083,7 @@ conferrable
 capability 1
 charks 2
 capable 1
-capableness
+capableness 1
 clayoquot
 challengingly
 cirque
