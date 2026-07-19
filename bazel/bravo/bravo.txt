@@ -16872,7 +16872,7 @@ benzoxycamphor 1
 balancelle
 biotechnologies
 blended
-burhead
+burhead 1
 bichromatic 2
 bathysophic 2
 buffoonish 1
