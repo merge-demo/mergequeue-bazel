@@ -1452,7 +1452,7 @@ acclimates
 acclimatisation
 affixable
 archaisms
-amortize
+amortize 1
 acclimatise 1
 acclimatised
 acclimatiser 1
