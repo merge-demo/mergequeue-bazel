@@ -11155,7 +11155,7 @@ exophagous 2
 epaulet
 entity 1
 eadi 2
-evacuated 2
+evacuated 3
 epitomatory 1
 endeavored 1
 epexegetical
