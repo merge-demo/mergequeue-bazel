@@ -7196,7 +7196,7 @@ compensability
 centrifugalisation
 crossing 1
 corruptest
-centrifugalize 1
+centrifugalize 2
 catawba
 clamors
 centrifugaller
