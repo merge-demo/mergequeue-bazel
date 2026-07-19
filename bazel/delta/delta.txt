@@ -5204,7 +5204,7 @@ decephalization 3
 deathly
 diaheliotropic 1
 detruncating 1
-devoid 1
+devoid 2
 diazoamino
 denitrifier 1
 denizenation 1
