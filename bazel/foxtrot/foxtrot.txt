@@ -8358,7 +8358,7 @@ familiars 1
 foveolated
 faradmeter 4
 forgot
-frontenis
+frontenis 1
 fightable 2
 forking
 flaveria
