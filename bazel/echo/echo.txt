@@ -6297,7 +6297,7 @@ edaphic 1
 enows
 electrotechnology
 euryscope 1
-ecclesiastry
+ecclesiastry 1
 enduring
 exspoliation
 electroengrave
