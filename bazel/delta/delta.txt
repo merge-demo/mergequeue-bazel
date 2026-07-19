@@ -12909,7 +12909,7 @@ delineative
 dustiness
 desulphuration
 disoblige 2
-disobliger
+disobliger 1
 dognapping
 decolorising
 disobliges
