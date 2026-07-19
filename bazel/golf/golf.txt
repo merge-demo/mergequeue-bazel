@@ -5808,7 +5808,7 @@ gloveless
 glorifiable 1
 gym 1
 grain 1
-goldsmith
+goldsmith 1
 gadarene 1
 gloveman
 gumtrees 1
