@@ -911,7 +911,7 @@ dap 2
 dapedius
 disburdens 1
 danio 1
-dokimastic
+dokimastic 1
 dudman 1
 daphni
 daphnia
