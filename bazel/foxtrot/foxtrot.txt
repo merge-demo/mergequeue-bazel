@@ -1446,7 +1446,7 @@ foothil
 familiarise 1
 floorwalkers 2
 fringing
-fetched
+fetched 1
 fatuoid 2
 fatuus 4
 frankly 2
