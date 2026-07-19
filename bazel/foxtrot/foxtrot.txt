@@ -8132,7 +8132,7 @@ forethrift 1
 fusel 1
 fondon 2
 farmland
-foison 1
+foison 2
 fire 1
 flexo 1
 flatcaps 1
