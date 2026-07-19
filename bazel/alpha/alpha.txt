@@ -14925,7 +14925,7 @@ abassi
 anticlimax 1
 attroupement 1
 abret
-anticlines
+anticlines 1
 anticlinoria
 amphigouri
 anticlinorium
