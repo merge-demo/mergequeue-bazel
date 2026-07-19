@@ -14027,7 +14027,7 @@ balanced
 briared 1
 blubbering 2
 beclamored
-bowerly
+bowerly 1
 brachialis 1
 breezeways
 blindstory
