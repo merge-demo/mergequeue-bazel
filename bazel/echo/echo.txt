@@ -12156,7 +12156,7 @@ esclavage 2
 energise 3
 elasticin 1
 exuviating 1
-electroshock
+electroshock 1
 exploits 2
 ethnogeography 1
 etageres 1
