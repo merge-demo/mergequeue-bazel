@@ -29212,7 +29212,7 @@ coaming
 countervailing
 cyclospermous
 cryotherapies
-crip
+crip 1
 crippied
 cripple
 cogboat 1
