@@ -9534,7 +9534,7 @@ checkpointing
 combmaking
 checkpoints 1
 commonize
-cogitative
+cogitative 1
 checkrack
 casehardens
 cricotracheotomy 1
