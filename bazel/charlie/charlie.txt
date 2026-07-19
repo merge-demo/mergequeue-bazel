@@ -31232,7 +31232,7 @@ commonplace
 coque
 cupuliferous 1
 craniopathy
-clawhammer
+clawhammer 1
 cura 1
 correctness 1
 chetah
