@@ -31532,7 +31532,7 @@ cursive
 conveyal
 cursives 1
 chorused
-chromosomes
+chromosomes 1
 cursorary
 cundite 1
 cursory
