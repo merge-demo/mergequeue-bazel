@@ -5524,7 +5524,7 @@ articulatorily
 afterglow
 aftergrief
 aftergrowth
-antipathy
+antipathy 1
 acton 1
 argot
 aluco
