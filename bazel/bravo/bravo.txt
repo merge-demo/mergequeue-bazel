@@ -17176,7 +17176,7 @@ boggin
 bulletproof
 bullnose
 beewinged
-bullnoses
+bullnoses 1
 bacchuslike
 bullnut 2
 beetroot
