@@ -5743,7 +5743,7 @@ bonos 1
 bretwaldaship
 bellacoola 2
 bellatrix 1
-bungler
+bungler 1
 buckjump 1
 balaghat
 biophysics
