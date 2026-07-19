@@ -7495,7 +7495,7 @@ blubbered
 beurre
 benamidar
 bestowage 1
-beveil 1
+beveil 2
 bevelled
 bardism
 belayer
@@ -9722,7 +9722,7 @@ bankbook
 backslapped
 buildingless
 bioenergetics 1
-boatie 4
+boatie 5
 byssoid
 buckskin 1
 bedragglement 2
@@ -12011,7 +12011,7 @@ boyard
 boyardism 1
 bartholomean 2
 brawling
-boyau
+boyau 1
 buybacks
 bilinigrin 2
 boyaux 1
