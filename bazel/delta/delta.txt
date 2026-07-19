@@ -8944,7 +8944,7 @@ deathblows
 dichotically
 disklike 1
 dirigible
-denaturalization
+denaturalization 1
 documenter 1
 deidesheimer 1
 dichotomy 2
