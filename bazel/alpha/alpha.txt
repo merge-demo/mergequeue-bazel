@@ -17301,7 +17301,7 @@ aclinal 1
 ashram 1
 acetonize
 antiagglutinant 2
-allowing
+allowing 1
 azido
 apostacize
 amrelle
