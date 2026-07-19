@@ -27748,7 +27748,7 @@ crescentic 1
 catbrier
 corkscrews
 connecters
-cowshed
+cowshed 1
 cowsheds
 cowshot 1
 camorristi
