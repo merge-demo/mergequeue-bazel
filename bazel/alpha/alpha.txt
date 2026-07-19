@@ -12628,7 +12628,7 @@ azo 1
 amentiferae 2
 aleuron
 arrayan 1
-aesopic
+aesopic 1
 advene 3
 allochroite
 algosis
@@ -23468,7 +23468,7 @@ ahimsas 1
 agrufe 1
 augerer
 antireformer
-augers
+augers 1
 auget 2
 autocomplexes 1
 augh 2
