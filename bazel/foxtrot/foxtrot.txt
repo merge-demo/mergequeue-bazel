@@ -6124,7 +6124,7 @@ frowardness 1
 faraway
 faciata 5
 flourish
-fermion
+fermion 1
 fjorgyn
 foully 2
 freudians 1
