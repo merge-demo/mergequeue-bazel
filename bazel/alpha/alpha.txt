@@ -303,7 +303,7 @@ abdominoscopy
 agas
 admiratively 1
 abdominothoracic 1
-acquiescent
+acquiescent 1
 astoundment
 abdominous
 abduces 1
@@ -595,7 +595,7 @@ adrenalectomies 1
 adjure
 abnormalized 2
 anatomical 1
-amynodont
+amynodont 1
 abococket 2
 abode 1
 aryballus 2
@@ -631,7 +631,7 @@ alastrim
 astrologic
 acetoamidophenol
 affranchisement
-angulate
+angulate 1
 abolitionised 1
 aglyphodonta 1
 abolitionist 2
@@ -3560,7 +3560,7 @@ asperses
 alcoholic 1
 anesthyl 1
 autodidacts
-aranea
+aranea 1
 afaced 1
 adead
 amniac 1
@@ -17679,7 +17679,7 @@ applanation
 araneiformes 1
 applaudably 1
 ancyroid 1
-allicin
+allicin 1
 arbitrational
 applauders
 aponeuroses
