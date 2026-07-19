@@ -8479,7 +8479,7 @@ diametric 1
 diamide
 diamides
 descanter
-deesis
+deesis 1
 dapperest
 diaminogen
 downset 1
