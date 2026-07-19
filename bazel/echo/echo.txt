@@ -13583,7 +13583,7 @@ embroiders 1
 epoxides 1
 elementally
 excern
-enteroceptor
+enteroceptor 1
 endosteomas
 extance
 extemporally 2
