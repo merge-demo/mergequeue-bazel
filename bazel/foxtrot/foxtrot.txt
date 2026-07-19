@@ -4598,7 +4598,7 @@ fossilify 1
 fisheye
 fieldstone 2
 fistuca 1
-freezing
+freezing 1
 freest
 filmist 1
 fistula 1
