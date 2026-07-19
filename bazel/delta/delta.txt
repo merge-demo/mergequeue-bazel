@@ -16683,7 +16683,7 @@ drinking 1
 despondent 2
 doruck
 disturbers 3
-diablo
+diablo 1
 drakelet 1
 decaspermous 2
 drugging 1
