@@ -11824,7 +11824,7 @@ cyprinoidea
 connation
 clarina 1
 chopins 2
-coinquinate
+coinquinate 1
 converter
 choplogic 1
 choplogical
