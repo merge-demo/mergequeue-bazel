@@ -5580,7 +5580,7 @@ gconvert
 guars
 glare
 gaz 3
-gesticulacious
+gesticulacious 1
 gelilah 4
 goutier 2
 greenroom 1
@@ -8729,7 +8729,7 @@ girn 2
 greenbug
 grinner 4
 gastrolater
-gormandising 3
+gormandising 4
 greenery
 globin 2
 geraniaceous

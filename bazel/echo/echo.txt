@@ -239,7 +239,7 @@ exulcerated
 easefully
 exigeante 2
 easel 3
-eumerism
+eumerism 1
 euripus 1
 exhumer 2
 elate
@@ -754,7 +754,7 @@ ecotype 1
 ecotipically
 ecotypically 4
 ecotonal 1
-enclaved 2
+enclaved 3
 ecaudate 2
 echinocaris 1
 emblematise 2
@@ -12018,7 +12018,7 @@ eigenspace 2
 etherion
 espeire 1
 embolus
-electioneerer
+electioneerer 1
 enthusiasts
 ectromelian
 exclusive 2

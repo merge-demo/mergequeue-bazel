@@ -73,7 +73,7 @@ flagships 1
 flecken
 facellite 2
 felonious 1
-furthers 2
+furthers 3
 flysch 1
 fordeal 2
 fullfaces
@@ -164,7 +164,7 @@ fullbodied 2
 freezers
 fabes 5
 faradopalpation 1
-fictionary 1
+fictionary 2
 felaheen
 foreribs 2
 farcialize
@@ -2389,7 +2389,7 @@ fricandeau 1
 folksiness 2
 foredating 3
 fromfile
-foreordinating 2
+foreordinating 3
 freakpot 3
 fantods 2
 fervidor 2
@@ -3133,7 +3133,7 @@ fibroenchondroma 2
 faring 3
 fulminancy
 fibroferrite 1
-fundic 1
+fundic 2
 firewarden
 furioso 1
 franciscans 2

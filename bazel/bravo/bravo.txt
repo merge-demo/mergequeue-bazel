@@ -1559,7 +1559,7 @@ ballies 2
 backrushes 1
 bifidity
 beknighting
-brummagem 3
+brummagem 4
 ballyhoo 1
 ballyrags
 bioelectrogenetic
@@ -8950,7 +8950,7 @@ backspace
 bushlet 2
 bohemias 2
 basilysis 1
-biogeographical 1
+biogeographical 2
 biogeographically
 bobo 1
 bentwoods
