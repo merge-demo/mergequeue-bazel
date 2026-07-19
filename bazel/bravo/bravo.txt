@@ -14258,7 +14258,7 @@ byword
 boarding 1
 braehead
 bulblet 2
-bronchiogenic
+bronchiogenic 1
 brochidodromous 1
 benefactory 1
 begoud
