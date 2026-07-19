@@ -1561,7 +1561,7 @@ callisthenic
 cossid
 cenotaphic
 communising 1
-chemostat 1
+chemostat 2
 callisto
 callithrix 1
 collegiant
