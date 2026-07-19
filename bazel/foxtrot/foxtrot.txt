@@ -7387,7 +7387,7 @@ farfels
 fewnes 1
 flatworms
 floatplane 4
-frost 1
+frost 2
 fattened 2
 fierding 2
 flywire
