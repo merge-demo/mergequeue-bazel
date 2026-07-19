@@ -7151,7 +7151,7 @@ bevatron
 brambliest
 bifoliate 1
 biologist 2
-brightly
+brightly 1
 bessel
 bessemer
 bessemerize 1
