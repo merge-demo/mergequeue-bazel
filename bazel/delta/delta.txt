@@ -14203,7 +14203,7 @@ damage
 daboia
 defenselessly 1
 derotrematous 1
-disvisage
+disvisage 1
 disyoked 2
 doublet
 disvisor
