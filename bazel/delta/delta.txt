@@ -2019,7 +2019,7 @@ decaffeinate
 depicted 1
 disformity 2
 decaffeinize 1
-disregardable
+disregardable 1
 dasypodidae 1
 dogleg 1
 dogwoods 2
