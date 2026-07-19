@@ -8731,7 +8731,7 @@ diathesis
 dirl
 dimps 1
 diatoma
-diapase 1
+diapase 2
 deems
 diastase
 din
