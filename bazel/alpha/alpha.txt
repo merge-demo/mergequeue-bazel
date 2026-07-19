@@ -16066,7 +16066,7 @@ antirrhinum
 arbitrages 2
 acousma
 antis 1
-aliturgic 1
+aliturgic 2
 antisacerdotalist 3
 antisag 2
 antisaloon 2
@@ -19069,7 +19069,7 @@ airbrick
 arulo
 archpolitician
 archprelate 1
-archprelatic 1
+archprelatic 2
 avys
 adjudicator
 askingly 1

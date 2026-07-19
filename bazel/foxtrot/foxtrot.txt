@@ -73,7 +73,7 @@ flagships 1
 flecken
 facellite 2
 felonious 1
-furthers 2
+furthers 3
 flysch 1
 fordeal 2
 fullfaces
@@ -164,7 +164,7 @@ fullbodied 2
 freezers
 fabes 5
 faradopalpation 1
-fictionary 1
+fictionary 2
 felaheen
 foreribs 2
 farcialize
@@ -6670,7 +6670,7 @@ frontad 4
 figurism 1
 foeti
 fumigatory
-fica 1
+fica 2
 ferbams 3
 finewed
 fofarraw 1
@@ -9677,7 +9677,7 @@ fustle 3
 fallalishly
 formulating 1
 facty 3
-femoral
+femoral 1
 fingerroot 1
 functorial 1
 filch 1
