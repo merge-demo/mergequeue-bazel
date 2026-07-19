@@ -287,7 +287,7 @@ febrifacient
 footpounds 2
 firbolg
 flagarie 2
-fideism
+fideism 1
 fissle 1
 foxfire 2
 fledges 1
