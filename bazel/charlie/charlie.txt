@@ -25351,7 +25351,7 @@ corner 1
 cornerback
 cornerer
 cornering
-crang
+crang 1
 cornerstone 1
 cornet
 cornetcy
