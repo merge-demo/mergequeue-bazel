@@ -24017,7 +24017,7 @@ addlins 2
 accerse
 antapocha 1
 antiproton
-align 1
+align 2
 acetobacter 2
 autoclave
 allemands
