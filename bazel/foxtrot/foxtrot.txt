@@ -8045,7 +8045,7 @@ folksay
 fredricite 1
 fourteenthly
 forestation 3
-faceup
+faceup 1
 fructiculture 2
 foresteep 3
 flockmaster 3
