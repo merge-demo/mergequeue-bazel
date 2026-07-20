@@ -21983,7 +21983,7 @@ aminize
 assuetude
 annualist 1
 avantgarde
-antireligiosity
+antireligiosity 1
 assume
 araneidal 1
 apophis 1
