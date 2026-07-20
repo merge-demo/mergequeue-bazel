@@ -753,7 +753,7 @@ abrasing
 aeromechanics
 abashment 1
 autogyro
-agnition 1
+agnition 2
 accordatura
 asperation
 attuning 1
