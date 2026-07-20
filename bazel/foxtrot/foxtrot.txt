@@ -2818,7 +2818,7 @@ finlander 2
 flattops 3
 fumigatories 1
 fcomp
-fretted 1
+fretted 2
 faunae 3
 faveolate
 facie
