@@ -8678,7 +8678,7 @@ ferroprint 2
 forth
 freesia
 flatfooted 2
-flaunters 1
+flaunters 2
 fryers
 funiculate 1
 furicane
