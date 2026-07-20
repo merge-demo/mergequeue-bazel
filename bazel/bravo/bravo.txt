@@ -2342,7 +2342,7 @@ bubbletops
 bagging 1
 boxboards 1
 barbotine 3
-bones 2
+bones 3
 bastinade 1
 biolysis
 belligerency
