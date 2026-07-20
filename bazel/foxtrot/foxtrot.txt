@@ -10911,7 +10911,7 @@ forgeful 1
 footgrip 1
 fi 2
 foilable
-fiscalizing 1
+fiscalizing 2
 fullonian
 ferrying 1
 franticness
