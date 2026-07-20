@@ -2081,7 +2081,7 @@ bivittate
 banovina
 banquet 1
 blindish
-bardiest
+bardiest 1
 banqueting 2
 beseem 2
 buddhistic 1
