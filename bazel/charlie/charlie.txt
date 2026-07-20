@@ -28549,7 +28549,7 @@ caracaras
 crediting 1
 comd
 checkerwork 1
-creditive
+creditive 1
 creditless 1
 creditor
 curial 1
