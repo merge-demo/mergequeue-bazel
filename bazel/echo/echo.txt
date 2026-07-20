@@ -6738,7 +6738,7 @@ eonism
 exstill 1
 entete
 eurytherm 2
-epistrophy
+epistrophy 1
 etherate
 enthelminthic 1
 exungulate
