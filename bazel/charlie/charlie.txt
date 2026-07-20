@@ -26742,7 +26742,7 @@ curbstones
 counterbrand
 confutable 2
 countercathexis 1
-counterchanged
+counterchanged 1
 countercharm
 counterclaim 1
 cirriform 4
