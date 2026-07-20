@@ -5901,7 +5901,7 @@ forbysening
 fisherfolk 1
 faultfinding 1
 fdname 1
-flockings
+flockings 1
 fudged 2
 fulsamic 1
 folgerite 2
