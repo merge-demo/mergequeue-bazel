@@ -5465,7 +5465,7 @@ deoppilant 1
 deceives 2
 detectably 1
 deoppilate
-dep
+dep 1
 doss
 deorganization 2
 deistic 2
