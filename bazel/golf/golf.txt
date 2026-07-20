@@ -6363,7 +6363,7 @@ ganoblast
 garnitures 3
 gustables 2
 gofer
-given 1
+given 2
 getspace
 goldspink
 glimmered 4
