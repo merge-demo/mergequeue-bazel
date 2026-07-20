@@ -16729,7 +16729,7 @@ aphasics
 affrayer 1
 ambience
 anabaptized
-averse
+averse 1
 amylometer
 anterointerior 1
 accur 1
