@@ -12342,7 +12342,7 @@ chrysomonadine
 chromatically
 carcinogen
 chromatician
-chromaticness
+chromaticness 1
 chromatid 2
 conuses 1
 chromatin
