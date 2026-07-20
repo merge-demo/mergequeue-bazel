@@ -1928,7 +1928,7 @@ bagnio
 balances
 bandstring 2
 bathymetric
-brandishes
+brandishes 1
 bigeye 2
 believes 2
 bosquets 2
