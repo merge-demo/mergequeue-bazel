@@ -5455,7 +5455,7 @@ displumes
 deodorize 1
 duplexes
 deodorized
-duoviri
+duoviri 1
 disquiparation 1
 deodorizes
 drawees
