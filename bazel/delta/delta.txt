@@ -12613,7 +12613,7 @@ dysyntribite
 driftfish
 deadhearted 1
 deodorise
-definitise
+definitise 1
 dephase 2
 dae 2
 disinvagination
