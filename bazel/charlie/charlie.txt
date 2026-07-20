@@ -19761,7 +19761,7 @@ chambellan 1
 cressed 1
 combustibleness
 combusting 1
-combustion 1
+combustion 2
 combustious
 combustive
 combusts 1
