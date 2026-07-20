@@ -28175,7 +28175,7 @@ cranker 1
 cullis
 crankily
 crankiness 2
-cranking
+cranking 1
 crankle
 cima
 crankless 1
