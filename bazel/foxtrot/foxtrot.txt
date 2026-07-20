@@ -7663,7 +7663,7 @@ flammant 1
 foretopsail 1
 fittywise 3
 fiefdom
-forsteal 2
+forsteal 3
 forecasting 1
 freeze
 foxskin 1
