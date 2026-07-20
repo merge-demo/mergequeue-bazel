@@ -2186,7 +2186,7 @@ flashet
 feltmaker 1
 fiducia 2
 fats 3
-fratercula
+fratercula 1
 farmhouse 1
 fumulus 1
 fluster 3
