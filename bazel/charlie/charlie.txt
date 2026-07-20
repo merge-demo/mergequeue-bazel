@@ -20600,7 +20600,7 @@ challengee
 competitrix
 compilable 2
 cofounded
-curvilinearly
+curvilinearly 1
 compilations 1
 compilator
 compiled
