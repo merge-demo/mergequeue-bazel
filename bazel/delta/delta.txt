@@ -5125,7 +5125,7 @@ durwaun 1
 detect 2
 dendrology
 dola
-daubes 1
+daubes 2
 dumber 1
 dendrologous 3
 derivatives 1
