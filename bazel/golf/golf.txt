@@ -9942,7 +9942,7 @@ greening 2
 gathered 2
 geoglyphic 1
 gedd
-galerite
+galerite 1
 geogenetic
 ghatwal 1
 glozer
