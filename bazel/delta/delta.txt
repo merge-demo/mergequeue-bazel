@@ -18590,7 +18590,7 @@ dust 1
 delphian 1
 dustbins
 dustcart
-devocalisation 1
+devocalisation 2
 distance 2
 dustcover 1
 diatonicism 1
