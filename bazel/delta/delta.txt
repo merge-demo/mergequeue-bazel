@@ -12705,7 +12705,7 @@ disliken
 duma 2
 drawshave 1
 dislikeness 1
-disdar
+disdar 1
 dikage
 disliker
 dioicously
