@@ -1477,7 +1477,7 @@ ball 2
 ballad
 barillas
 bartholinitis
-beflounce
+beflounce 1
 ballade
 bespottedness 3
 beglad
