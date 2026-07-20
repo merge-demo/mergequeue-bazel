@@ -8191,7 +8191,7 @@ checkoff 2
 conficient
 chairmender
 chairpersons 2
-chairway
+chairway 1
 cryptogamian 1
 conjunctivae 1
 chairwarmer
