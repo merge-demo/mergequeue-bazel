@@ -17214,7 +17214,7 @@ bullskin 2
 bullsticker 1
 beturbaned
 bullsucker
-bandman
+bandman 1
 basined 2
 beachcomber
 banditism 1
