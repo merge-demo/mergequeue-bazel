@@ -7087,7 +7087,7 @@ ferryboats 2
 fascinating
 fleapit
 forespeech 1
-factious
+factious 1
 fusional 3
 fingerstall 1
 forgeability
