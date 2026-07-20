@@ -14082,7 +14082,7 @@ despin 2
 district
 districting 1
 defoaming
-decarnate
+decarnate 1
 doree 1
 divoto
 deltarium
