@@ -3764,7 +3764,7 @@ flambeing 1
 folliculina 2
 fertilizability 3
 funnily 4
-flippantness
+flippantness 1
 faultlessly
 fortressed
 frizettes 1
