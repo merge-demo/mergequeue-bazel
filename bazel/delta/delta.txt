@@ -8786,7 +8786,7 @@ declarators 1
 defeat
 defrocking
 dictaphone
-dequeen
+dequeen 1
 dragsmen 1
 depeter 2
 dragonkind
