@@ -8732,7 +8732,7 @@ ethysulphuric 1
 embrowd 1
 explodable
 equities 1
-equivalenced
+equivalenced 1
 equivalent 1
 ensiles
 equivaluer 2
