@@ -5371,7 +5371,7 @@ aggrandizable 1
 affrightful
 affydavy
 acid
-affrightment
+affrightment 1
 affronted
 affrontedness
 anidiomatic 1
