@@ -5439,7 +5439,7 @@ alkalizable
 aspout 2
 anthomania 1
 anastomotic
-antirestoration
+antirestoration 1
 antiliquor
 anableps 1
 astylosternus
