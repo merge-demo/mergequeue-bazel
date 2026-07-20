@@ -3425,7 +3425,7 @@ geometrized 1
 glossolaryngeal 2
 globularia 1
 gourmets
-gerrymander
+gerrymander 1
 gorgons
 goldwater 2
 gerrymanders
