@@ -2160,7 +2160,7 @@ esophagostenosis 1
 eyestring 3
 ensorceling
 explicandum 2
-electropult
+electropult 1
 elation 1
 euphonise 1
 enrib
