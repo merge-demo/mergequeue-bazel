@@ -4423,7 +4423,7 @@ fleta 5
 fishfinger 3
 footgear 2
 fetters
-fl
+fl 1
 frenches
 folkmotes 2
 feulamort
