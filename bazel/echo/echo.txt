@@ -1361,7 +1361,7 @@ epode
 endoskeletal
 essentialness 1
 exomis 1
-evasional
+evasional 1
 ebcdic 1
 excludability 1
 earlocks
