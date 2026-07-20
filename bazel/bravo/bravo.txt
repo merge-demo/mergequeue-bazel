@@ -10573,7 +10573,7 @@ boltheader
 bachelorship 1
 bespake 1
 buduma
-blattid
+blattid 1
 bulwand
 brockish 2
 basilard 1
