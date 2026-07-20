@@ -8246,7 +8246,7 @@ epistatic 1
 empyrosis 1
 episodial
 epistaxis 2
-epistemically
+epistemically 1
 enjoyingly
 engirded
 epistena
