@@ -4030,7 +4030,7 @@ gubbings 2
 gellert 3
 grounds 2
 gilds 1
-gildhall
+gildhall 1
 gastrotrich 1
 grandness
 gildship 2
