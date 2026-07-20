@@ -11039,7 +11039,7 @@ fancies
 flanerie
 ferruminate 1
 fumishing
-friendliness
+friendliness 1
 fermented 2
 fumuli 3
 fungated
