@@ -7267,7 +7267,7 @@ energetics
 eccaleobion 2
 ensealed
 eopalaeozoic 3
-egocentrically
+egocentrically 1
 erysipelothrix 1
 eulogises 1
 eorhyolite 2
