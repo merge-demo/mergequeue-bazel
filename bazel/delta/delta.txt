@@ -2337,7 +2337,7 @@ downwash
 diazoaminobenzene 1
 deceptive 1
 deceptively 1
-dermatologic
+dermatologic 1
 disloign 2
 deceptiveness 2
 dinichthyid 2
