@@ -17232,7 +17232,7 @@ drivewell 1
 driving
 disclamatory
 drizzles
-drunkeries
+drunkeries 1
 demulsifier 2
 digynian 1
 dacryolith 2
