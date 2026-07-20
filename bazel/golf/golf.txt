@@ -8711,7 +8711,7 @@ gearing 1
 gastraeal 4
 gates 3
 gnathonical
-grassflat 2
+grassflat 3
 gastrodisc 1
 growler
 guaranteing 1
