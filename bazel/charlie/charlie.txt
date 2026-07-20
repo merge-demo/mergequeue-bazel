@@ -10416,7 +10416,7 @@ cop 1
 clear 1
 crackskull 1
 cored
-chondrotome
+chondrotome 1
 chiffre 1
 chigetai
 chigga
