@@ -5585,7 +5585,7 @@ dependence 1
 desensitizes
 dependingly
 drouthiness
-depends
+depends 1
 dallack
 dispersed 1
 dramatizable 1
