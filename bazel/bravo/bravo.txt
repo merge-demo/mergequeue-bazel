@@ -14126,7 +14126,7 @@ bontee 1
 brachistocephalic 2
 boloed 1
 brass 2
-brachistochrone
+brachistochrone 1
 brachistochronous 2
 brachystomatous
 brachystomous
