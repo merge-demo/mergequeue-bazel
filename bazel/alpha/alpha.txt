@@ -5289,7 +5289,7 @@ assisan 2
 agency 1
 acrosome
 axis
-atelic
+atelic 1
 apartments
 anthriscus
 affirmations
