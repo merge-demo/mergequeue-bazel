@@ -973,7 +973,7 @@ gamp
 graysby 1
 gastrolobium
 genre
-galliferous
+galliferous 1
 gilgamesh
 grouting
 gagmen
