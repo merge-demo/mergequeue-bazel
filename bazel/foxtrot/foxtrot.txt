@@ -1896,7 +1896,7 @@ fontanelle 3
 fumbling 1
 fustilarian 2
 foism 2
-fruitless
+fruitless 1
 feta 1
 fleeceless 1
 fremescent
