@@ -3931,7 +3931,7 @@ aphidian
 alarmed 1
 argentamide 2
 adjunctively 1
-adjunctly
+adjunctly 1
 analogia 1
 admissory
 adjured
