@@ -18253,7 +18253,7 @@ counterview
 continuant
 coffeetime 1
 coffer
-corridor
+corridor 1
 cofferdam
 claudetite 1
 chaetophorales
