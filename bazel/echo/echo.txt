@@ -1265,7 +1265,7 @@ ecclesiarch 3
 eversive 1
 eking
 electrocystoscope
-equalness
+equalness 1
 eclated 3
 expands 1
 eeliest
