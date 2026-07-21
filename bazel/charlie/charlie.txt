@@ -10971,7 +10971,7 @@ chiropody 2
 cheekish
 comitatus
 chiropodial
-chiropodic
+chiropodic 1
 chiropodical 1
 caphite
 cavascope
