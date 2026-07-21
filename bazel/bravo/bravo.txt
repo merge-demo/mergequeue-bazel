@@ -2369,7 +2369,7 @@ backwraps 3
 banshie 1
 brakemen
 belabors
-barcoo
+barcoo 1
 beslab
 bemoisten 1
 besplash 1
