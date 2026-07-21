@@ -11832,7 +11832,7 @@ choregi 1
 cryptomonad
 candider
 chopper
-choppers
+choppers 1
 choppier
 cados
 choppiest
