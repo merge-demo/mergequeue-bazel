@@ -440,7 +440,7 @@ donjons 2
 dibs 1
 drenchers
 dimyaric
-diathermous
+diathermous 1
 dimercaprol
 daises 1
 defiance 3
