@@ -368,7 +368,7 @@ gauric
 glovelike 1
 galactotrophy 3
 goodhumoredness
-grandeeism
+grandeeism 1
 gynobasic 1
 gelded 1
 galangin 2
