@@ -6196,7 +6196,7 @@ fluavile
 flubbed 3
 feudum 3
 foreread 1
-fairgoing
+fairgoing 1
 flaxes 1
 fulgurate
 foretops 1
