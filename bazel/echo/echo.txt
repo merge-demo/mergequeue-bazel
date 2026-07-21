@@ -7427,7 +7427,7 @@ encolumn
 etruria 1
 etalon 1
 encheat
-escarpment
+escarpment 1
 eternalizing
 eperua
 embitters
