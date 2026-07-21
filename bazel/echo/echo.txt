@@ -4286,7 +4286,7 @@ emulsions 1
 equidistantial 2
 emacerated 1
 effluxes 1
-emphasise 1
+emphasise 2
 extoller
 emulsoids 1
 enteropathogenic 1
