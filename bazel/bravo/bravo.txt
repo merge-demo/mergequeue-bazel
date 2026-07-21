@@ -18307,7 +18307,7 @@ buttonball 1
 basaltoid 1
 buttonbush
 bivalve
-buttoner 1
+buttoner 2
 buttoners 1
 bedel
 bilirubinemia 1
