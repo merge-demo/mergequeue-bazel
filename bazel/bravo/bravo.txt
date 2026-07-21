@@ -2938,7 +2938,7 @@ barrelled
 billfish 1
 barrelmaker
 blissfully 2
-bamboozlement
+bamboozlement 1
 boules 1
 brassavola 1
 bracketed 1
