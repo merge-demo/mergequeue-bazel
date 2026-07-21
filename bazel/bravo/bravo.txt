@@ -4040,7 +4040,7 @@ beamed 2
 bedrock 1
 beamers
 beamfilling 1
-beeware
+beeware 1
 bivalvous 1
 beamhouse
 bibliophobe
