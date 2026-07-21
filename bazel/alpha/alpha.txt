@@ -14441,7 +14441,7 @@ abandonable 1
 amyloid 1
 aequiculi
 anthrahydroquinone
-androgynism
+androgynism 1
 anthramine
 aphesis
 anthranyl
