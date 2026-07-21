@@ -431,7 +431,7 @@ dayrooms
 deities 3
 dodrantal 1
 dhourra
-discoursers 1
+discoursers 2
 dairous
 dairt 2
 dais
