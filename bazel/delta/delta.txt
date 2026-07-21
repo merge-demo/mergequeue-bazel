@@ -7860,7 +7860,7 @@ dalcassian
 divergencies 1
 dermestes 1
 diplogenic
-diffluent
+diffluent 1
 dogbodies 2
 dew 1
 degentilize 2
