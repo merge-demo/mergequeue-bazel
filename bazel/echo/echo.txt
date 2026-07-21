@@ -5331,7 +5331,7 @@ estocs 3
 ergodicity
 elegiast 1
 eliminability
-endosclerite
+endosclerite 1
 extrahepatic 1
 eurybathic 1
 endoscope 3
