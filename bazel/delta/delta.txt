@@ -12570,7 +12570,7 @@ dhole
 deluxe 1
 disinheriting
 demyship
-disinhume
+disinhume 1
 djagatay 1
 dorsoventral 1
 disinsure
