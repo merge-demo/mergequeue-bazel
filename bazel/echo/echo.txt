@@ -13096,7 +13096,7 @@ erasement 2
 expensiveness 3
 expergefacient 2
 expergefaction 1
-embedding
+embedding 1
 epistolographic 2
 eyeshine
 effeminatize 2
