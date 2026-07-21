@@ -7382,7 +7382,7 @@ glomerule 1
 gilthead 2
 glyptograph 5
 gallach
-gynostemia
+gynostemia 1
 groupable 2
 gastromalacia 1
 gamelike 1
