@@ -9399,7 +9399,7 @@ basichromatic 1
 bluegums 1
 belabours
 braider
-biophotometer
+biophotometer 1
 bullyhuff
 brattach 3
 bathman
