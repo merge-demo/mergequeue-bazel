@@ -1243,7 +1243,7 @@ fastbacks 4
 frigor 1
 flatdom 2
 faradism
-fastening
+fastening 1
 frocked 1
 futteret 2
 fama 3
