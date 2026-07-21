@@ -9479,7 +9479,7 @@ allochetite
 alternate
 alternated
 alternately
-apheretic
+apheretic 1
 achier
 alignments
 assaugement 1
