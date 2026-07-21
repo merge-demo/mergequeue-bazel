@@ -1472,7 +1472,7 @@ gasboat 2
 giddiness 2
 gaselier 2
 golet 2
-gastrophilus
+gastrophilus 1
 gastric 2
 gisarme 1
 growly 1
