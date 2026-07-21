@@ -3696,7 +3696,7 @@ fidos 1
 footman 1
 flourishes
 flaying 2
-furnacer
+furnacer 1
 financiered
 freshener
 finicking 1
