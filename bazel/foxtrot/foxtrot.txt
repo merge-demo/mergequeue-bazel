@@ -260,7 +260,7 @@ feoffeeship 1
 flightily
 foetors 3
 faders 1
-firedamp
+firedamp 1
 fadge
 furfuramide 2
 furniment
