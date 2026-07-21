@@ -10881,7 +10881,7 @@ babbitting 2
 burnup 1
 beadledom
 biggity
-bibbling
+bibbling 1
 blindball
 bindable
 befingered 2
