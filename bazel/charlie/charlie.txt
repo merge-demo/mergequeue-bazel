@@ -16419,7 +16419,7 @@ copart
 cheveron 2
 cutlets 2
 castellanus 1
-circulable
+circulable 1
 ceriferous 1
 cloacinal 1
 cordelled 1
