@@ -73,7 +73,7 @@ dactylics
 darndests 3
 dacoiting
 depressibility 3
-debilitating
+debilitating 1
 dactylion
 deltal 1
 dobbin 1
