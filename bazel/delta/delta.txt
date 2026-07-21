@@ -12411,7 +12411,7 @@ disherited 1
 divet 2
 defibrillator 2
 deamidize
-deplantation
+deplantation 1
 drybrush 2
 desecate
 disheriting 2
