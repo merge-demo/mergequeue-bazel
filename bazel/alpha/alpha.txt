@@ -3616,7 +3616,7 @@ asthenies
 alces
 anomaloscope
 adenoacanthoma
-adenocarcinomas
+adenocarcinomas 1
 adenochondroma 2
 antipellagric
 adenochrome
