@@ -22873,7 +22873,7 @@ conservator
 conservatory 1
 conservatorial
 climatologist
-conservatorium
+conservatorium 1
 crystograph 2
 conservators
 conservatorship
