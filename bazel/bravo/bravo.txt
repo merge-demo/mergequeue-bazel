@@ -6079,7 +6079,7 @@ benchman 1
 benchmark
 baryecoia 1
 burnout
-briggsian 1
+briggsian 2
 behooveful 1
 beans
 balneologic 1
