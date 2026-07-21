@@ -294,7 +294,7 @@ fledges 1
 fragmentisation 1
 flanks 1
 fraenums 2
-forebar 1
+forebar 2
 fistnotes
 flambeed 2
 floosies 1
