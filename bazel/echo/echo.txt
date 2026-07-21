@@ -1536,7 +1536,7 @@ egg
 ethmoid
 endosternum 1
 exradio 1
-episcopised
+episcopised 1
 egoisticalness 2
 evoke
 embow
