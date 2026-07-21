@@ -6388,7 +6388,7 @@ demeanour
 doronicum
 despond 1
 derogate
-denuclearization
+denuclearization 1
 derogates
 diglyceride
 dixie
