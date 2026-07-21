@@ -3380,7 +3380,7 @@ dynagraph 2
 dithionate 1
 deflagrator 1
 deflating
-discommend
+discommend 1
 drumslade 3
 disobey
 diversifolious 1
