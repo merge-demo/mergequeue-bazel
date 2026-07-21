@@ -9221,7 +9221,7 @@ dieing
 deprovincialize 1
 dagged
 dramshops 2
-derat 1
+derat 2
 dyeings
 discontented 2
 dieldrin 1
