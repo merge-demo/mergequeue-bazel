@@ -11963,7 +11963,7 @@ bytalk 1
 bogled 1
 boglet 2
 beckelite
-bolts
+bolts 1
 bogmire 2
 borine
 baggit
