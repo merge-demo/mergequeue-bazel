@@ -10478,7 +10478,7 @@ forwearying 1
 fordid 1
 flegm
 fluitant 3
-fatness 2
+fatness 3
 frutescent 5
 frostings
 fanzine
