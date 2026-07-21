@@ -17680,7 +17680,7 @@ catodont
 cocitizen
 cocitizenship 1
 cockade
-colour
+colour 1
 colonisation
 christianization
 connecting
