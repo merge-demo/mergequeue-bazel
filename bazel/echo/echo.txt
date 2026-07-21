@@ -1624,7 +1624,7 @@ egresses 1
 extraphysiological 1
 expounded 2
 egret
-exsanguine
+exsanguine 1
 egromancy 2
 egurgitate 1
 egurgitated 2
