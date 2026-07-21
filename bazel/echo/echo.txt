@@ -10409,7 +10409,7 @@ enchiriridia 2
 earthshaking 2
 eiresione
 eleolite
-exorbitance
+exorbitance 1
 entresalle 1
 excreted
 exposit 2
