@@ -5232,7 +5232,7 @@ electromagnetic
 eluviums 4
 exitus 1
 elusive 1
-endolysin
+endolysin 1
 eparchy
 eretrian 1
 equipluve 1
