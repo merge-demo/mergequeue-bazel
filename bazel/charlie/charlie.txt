@@ -16008,7 +16008,7 @@ cleruchies
 cardroom 1
 clerum
 counterindentation
-caraculs
+caraculs 1
 clerus 2
 chremzel
 clethraceous
