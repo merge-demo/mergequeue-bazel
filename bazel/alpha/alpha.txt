@@ -6371,7 +6371,7 @@ anecdotists
 ametrometer 1
 agriculturist 2
 aftergood
-anticreep
+anticreep 1
 agrilus
 aureola
 adultress 1
