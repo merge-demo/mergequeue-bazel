@@ -3451,7 +3451,7 @@ deflowerer
 dumpcart 1
 dipleurogenetic
 dormient 2
-duelists 1
+duelists 2
 dehumidifier 2
 damp
 discomfortably
