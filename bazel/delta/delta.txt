@@ -3541,7 +3541,7 @@ desaturate
 desiccated 1
 dagobas 3
 desmomyaria
-dufoil 1
+dufoil 2
 drapery 1
 drowsiest
 defrauds
