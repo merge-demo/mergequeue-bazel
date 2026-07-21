@@ -5608,7 +5608,7 @@ flageolet 3
 fascicled 4
 formerness 1
 fourgons 1
-flight 1
+flight 2
 frusla 2
 fortitude 1
 flighter
