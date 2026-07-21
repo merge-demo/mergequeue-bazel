@@ -2654,7 +2654,7 @@ amygdalic
 acre
 amount 2
 afoam
-aquamarine
+aquamarine 1
 ammochaeta
 acreage
 anamirta 1
