@@ -21224,7 +21224,7 @@ clearness
 confirmability
 cabber
 chopped 1
-chibchan
+chibchan 1
 concernancy
 concerned
 cumbersome 1
