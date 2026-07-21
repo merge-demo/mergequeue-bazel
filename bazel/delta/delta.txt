@@ -7748,7 +7748,7 @@ devise 1
 dayton
 domiciliary
 diplotegia
-defeasance
+defeasance 1
 devised 1
 decongests
 diphosphoric 2
