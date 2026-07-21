@@ -16692,7 +16692,7 @@ bishopship
 basilisk 1
 bilaan 1
 babelish 2
-buckhounds
+buckhounds 1
 bucklum 2
 backstair
 bucky 1
