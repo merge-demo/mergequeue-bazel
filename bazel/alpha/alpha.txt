@@ -11903,7 +11903,7 @@ axoplasms 1
 autoantitoxin
 arylated
 addable 1
-ananym
+ananym 1
 ananism 1
 ananite
 anelace 1
