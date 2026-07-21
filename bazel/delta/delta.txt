@@ -17477,7 +17477,7 @@ drowte 1
 dreads
 discrete 1
 daffle
-doubleheaders
+doubleheaders 1
 deficiently
 destructed
 disorientation 1
