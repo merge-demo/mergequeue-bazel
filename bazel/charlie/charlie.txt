@@ -3489,7 +3489,7 @@ capsomere
 capsomers
 capstan
 capstans
-capstone
+capstone 1
 capsula 2
 cons
 capsular
