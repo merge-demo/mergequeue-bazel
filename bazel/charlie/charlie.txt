@@ -8786,7 +8786,7 @@ chapote
 collimators 1
 cave 1
 confoundingly
-carposporic
+carposporic 1
 cachexic 1
 chapournet
 chapournetted
