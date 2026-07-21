@@ -9823,7 +9823,7 @@ carcinogenicity 1
 chemicophysical 1
 carbonized
 creneling 1
-crucifige
+crucifige 1
 ciliary
 curtaining
 computist
