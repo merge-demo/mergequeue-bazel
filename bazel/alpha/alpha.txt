@@ -9542,7 +9542,7 @@ altimeters
 aspidomancy 1
 anthema
 alchemistry
-ammocetes
+ammocetes 1
 anoegenetic 1
 altimetrically
 abadite 1
