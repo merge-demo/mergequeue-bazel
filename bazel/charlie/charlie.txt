@@ -29167,7 +29167,7 @@ cradleside
 cryogenics 1
 cloys 1
 catwalks
-cluniacensian
+cluniacensian 1
 clauster
 costards
 cryological
