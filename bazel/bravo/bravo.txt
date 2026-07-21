@@ -12258,7 +12258,7 @@ biasses
 boltcutter 1
 bookmark
 behold 2
-boltheading
+boltheading 1
 boltin 1
 beslimed 1
 boltlike
