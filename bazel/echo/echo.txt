@@ -12557,7 +12557,7 @@ encrypted 1
 exsects 2
 exite 2
 eranist 1
-extinction 1
+extinction 2
 envied 1
 enherit
 entryman 3
