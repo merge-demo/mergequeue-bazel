@@ -2822,7 +2822,7 @@ bld 2
 bitis
 ballgowns 1
 begalled
-bulkiest 1
+bulkiest 2
 baudery 1
 beclap 1
 barothermograph 1
