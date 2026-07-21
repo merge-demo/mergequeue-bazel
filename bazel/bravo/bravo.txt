@@ -5075,7 +5075,7 @@ befile
 bebathe 1
 befilmed 3
 befilth
-bathoses
+bathoses 1
 befire 1
 befist
 boomerangs 1
