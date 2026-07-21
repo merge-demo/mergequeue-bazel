@@ -3593,7 +3593,7 @@ foreskirt
 fixates 2
 fenceful
 florigraphy 1
-forspoken
+forspoken 1
 feddan 2
 flapjacks
 fussle 1
