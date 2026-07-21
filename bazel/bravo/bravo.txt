@@ -4041,7 +4041,7 @@ bedrock 1
 beamers
 beamfilling 1
 beeware 1
-bivalvous 1
+bivalvous 2
 beamhouse
 bibliophobe
 backbreaker 1
