@@ -8357,7 +8357,7 @@ forcy 2
 familiars 1
 foveolated
 faradmeter 4
-forgot
+forgot 1
 frontenis 1
 fightable 2
 forking
