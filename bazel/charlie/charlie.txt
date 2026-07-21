@@ -9435,7 +9435,7 @@ cheapening
 cheapery 1
 chlorin 2
 chevon 1
-commendatory
+commendatory 1
 cheapest
 cheapish
 cheaply
