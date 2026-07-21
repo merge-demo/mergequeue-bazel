@@ -783,7 +783,7 @@ anisotropical
 antiscia
 abitibi 1
 abridgement 1
-abridger
+abridger 1
 anapeiratic
 acurative
 afternote
