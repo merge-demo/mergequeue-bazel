@@ -30809,7 +30809,7 @@ culinarian
 condenser 1
 cull 1
 contemnible
-consarned
+consarned 1
 cullage 1
 cullays
 cullas
