@@ -2394,7 +2394,7 @@ freakpot 3
 fantods 2
 fervidor 2
 formicivorous
-filtrable 1
+filtrable 2
 fingernail 5
 flanged
 ferigee 1
