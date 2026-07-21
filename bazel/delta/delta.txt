@@ -9544,7 +9544,7 @@ desorbed 2
 decimosexto 1
 downthrow
 decimated
-draggly
+draggly 1
 diastereomer
 digitoplantar 1
 diprismatic
