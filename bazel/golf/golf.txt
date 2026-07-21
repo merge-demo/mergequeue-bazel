@@ -3528,7 +3528,7 @@ gaspar 2
 getling 3
 goldenest 1
 getpenny
-gibberish 1
+gibberish 2
 greaselessness
 gatewayman 2
 gaunter 4
