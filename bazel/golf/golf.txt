@@ -5774,7 +5774,7 @@ galactolysis
 garbel 1
 gade 2
 graphites 2
-glycogenolysis
+glycogenolysis 1
 goorals 1
 guzzler 1
 guyandot
