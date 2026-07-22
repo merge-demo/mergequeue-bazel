@@ -16462,7 +16462,7 @@ crewer
 clockwatcher 2
 clockwise 2
 clockworked
-clavigerous
+clavigerous 1
 carthamin
 chaldron 1
 cloddier 1
