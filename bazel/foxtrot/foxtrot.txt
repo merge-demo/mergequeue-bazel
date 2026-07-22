@@ -8755,7 +8755,7 @@ forbiddable 1
 flogged 2
 followership 3
 fortuuned 3
-forester 1
+forester 2
 fossule 2
 fiddlers 1
 forwardal 3
