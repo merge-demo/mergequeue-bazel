@@ -8023,7 +8023,7 @@ chacona
 csects 1
 chaconnes
 caudatolenticular 1
-countermovement
+countermovement 1
 cytozoa 1
 codirectional
 chacte
