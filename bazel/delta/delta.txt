@@ -16352,7 +16352,7 @@ decibel 1
 downslope 1
 disappendancy 1
 desmognathism
-devout
+devout 1
 douras
 dispersal 1
 derelictions
