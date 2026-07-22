@@ -26696,7 +26696,7 @@ counterarch
 compulsative 1
 chende
 cloisters
-counterassociation
+counterassociation 1
 cammock 1
 careering
 counterattack
