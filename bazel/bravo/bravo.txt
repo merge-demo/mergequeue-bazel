@@ -16174,7 +16174,7 @@ bristletail 2
 bayonetted 1
 bred
 brazilians
-breweries
+breweries 1
 bourgs 1
 bibliomanianism 1
 boeotic 2
