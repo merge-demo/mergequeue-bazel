@@ -8894,7 +8894,7 @@ depolariser
 daimio 1
 dermatitis 1
 decaisnea 1
-dice
+dice 1
 diceboard 1
 dazzles
 dilemi 1
