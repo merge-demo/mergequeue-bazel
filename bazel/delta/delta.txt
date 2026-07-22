@@ -10402,7 +10402,7 @@ dioxid
 disfavors 2
 devoured 1
 dioxides 1
-dioxids
+dioxids 1
 donald
 dd 2
 dotards
