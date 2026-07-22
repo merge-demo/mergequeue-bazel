@@ -5900,7 +5900,7 @@ agglomerate 2
 anychia 3
 amblyoscope
 agglomerates 3
-agglomeration
+agglomeration 1
 agglomerative
 abscissions
 arachnologist 1
