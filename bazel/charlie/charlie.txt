@@ -1310,7 +1310,7 @@ colunar 1
 calibrated
 calibrater 1
 calibrates 1
-cloison
+cloison 1
 catchwater
 calibrating
 calibre
