@@ -2597,7 +2597,7 @@ cardioschisis 1
 cementmaking 2
 canebrakes
 cephalodynia
-cowskins
+cowskins 1
 counterdisengage
 cryptocrystallization 2
 columnar
