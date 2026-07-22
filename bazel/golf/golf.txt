@@ -1983,7 +1983,7 @@ geranic 2
 goring 3
 grubroot 1
 glut 4
-gripes 3
+gripes 4
 grudged
 ghastlier
 guttable 1
