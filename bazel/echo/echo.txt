@@ -14075,7 +14075,7 @@ ebonize 1
 explicits 1
 entwinement
 extremeless 2
-extremely
+extremely 1
 etymography 1
 extremeness 2
 extremis
