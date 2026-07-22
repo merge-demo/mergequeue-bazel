@@ -18107,7 +18107,7 @@ bedoyo 1
 bolbanac 1
 butcher
 bupleurum 1
-boosts
+boosts 1
 blocklayer
 butcherbird 1
 ballock
