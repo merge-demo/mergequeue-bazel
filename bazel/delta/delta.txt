@@ -1648,7 +1648,7 @@ deallocate
 deobstruct 1
 devotional 1
 daunter
-dicephalus
+dicephalus 1
 darkhaired
 deerhair 1
 deallocations 1
