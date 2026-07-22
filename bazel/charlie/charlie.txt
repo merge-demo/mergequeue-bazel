@@ -663,7 +663,7 @@ choice
 caesious 2
 caespitose
 caespitosely
-cinemize
+cinemize 1
 crownal 1
 caestus
 creatins
