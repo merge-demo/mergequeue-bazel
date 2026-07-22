@@ -11415,7 +11415,7 @@ deadbeats
 doctrinize 2
 disclass 2
 deuterogenesis
-dermorhynchous
+dermorhynchous 1
 disclimax 1
 dialogite
 drossing 2
