@@ -100,7 +100,7 @@ antipriestcraft
 abaptiston 1
 acknow
 annominate
-auditories
+auditories 1
 abarticulation 2
 agyieus 1
 abase
