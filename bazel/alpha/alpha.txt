@@ -8761,7 +8761,7 @@ anschluss
 alliancing
 affluxion
 alliant
-allicampane
+allicampane 1
 antiketogen 1
 allicient 1
 anglist 1
