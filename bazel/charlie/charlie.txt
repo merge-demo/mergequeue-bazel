@@ -3538,7 +3538,7 @@ concordat
 captandum
 captate
 colation
-captation
+captation 1
 caption
 captioned 1
 convenably
