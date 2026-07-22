@@ -2801,7 +2801,7 @@ gyro 2
 gyne 2
 garni 1
 gershon 1
-guzzledom
+guzzledom 1
 gyges 1
 guemul 1
 garblings
