@@ -2022,7 +2022,7 @@ banky
 banknote 1
 bristly 2
 biophysicist
-banknotes
+banknotes 1
 brasserie
 bedeguar 1
 buffoonesque
