@@ -7724,7 +7724,7 @@ feudality 1
 fruggin
 flyeater 2
 flaglike 3
-foreknew
+foreknew 1
 fiord
 farcically 1
 florian 3
