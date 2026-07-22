@@ -5350,7 +5350,7 @@ affordable
 argoletier
 attestation
 afforesting 1
-autophotometry
+autophotometry 1
 anticogitative
 afformative 2
 abuseful
