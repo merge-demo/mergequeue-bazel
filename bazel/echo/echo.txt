@@ -11860,7 +11860,7 @@ excaudate 2
 engracing 1
 excavator 1
 enlace 2
-excave 2
+excave 3
 eructated 3
 extancy
 elutes 1
