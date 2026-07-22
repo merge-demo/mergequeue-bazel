@@ -10112,7 +10112,7 @@ ethereality
 epiboly
 etherealization
 earthlike
-extrusible 2
+extrusible 3
 endorses 1
 ethereally 2
 entwined 1
