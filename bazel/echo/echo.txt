@@ -9313,7 +9313,7 @@ electroori 1
 erucivorous 1
 eructance 1
 empoverish 3
-extendability
+extendability 1
 extralegal 1
 eructative 2
 eruction 1
