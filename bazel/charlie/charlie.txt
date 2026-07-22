@@ -7422,7 +7422,7 @@ cepheids
 cephen
 coastings 1
 cardionephric
-cephus 1
+cephus 2
 ceps
 contrastable
 corynebacterial 1
