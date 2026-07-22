@@ -6159,7 +6159,7 @@ gyre 1
 grommet 2
 garters 1
 gadfly
-geelbec
+geelbec 1
 goa 3
 gadsbud 1
 gauche
