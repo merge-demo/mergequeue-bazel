@@ -31455,7 +31455,7 @@ currans 1
 currant
 completions
 chresards
-contradict
+contradict 1
 conscripted 1
 currantworm
 caulking
