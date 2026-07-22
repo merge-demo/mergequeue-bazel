@@ -3095,7 +3095,7 @@ defaces
 disennoble 3
 defacing
 defacto 1
-defade
+defade 1
 dichlamydeous 1
 defaillance
 defaitiste
