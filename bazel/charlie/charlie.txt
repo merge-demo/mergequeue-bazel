@@ -6895,7 +6895,7 @@ celtium
 cotyla
 clockroom 1
 contingencies
-compaction
+compaction 1
 caffein 1
 celtization
 cardiorrhexis
