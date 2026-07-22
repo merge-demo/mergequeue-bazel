@@ -4179,7 +4179,7 @@ encallow 1
 euterpe 1
 extraessentially 2
 exchangeable 3
-ephedra
+ephedra 1
 emphasizing 1
 emporeutic
 enaliosaur 1
