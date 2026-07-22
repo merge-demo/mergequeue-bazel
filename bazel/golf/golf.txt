@@ -8717,7 +8717,7 @@ growler
 guaranteing 1
 golosh 1
 gnathonic 2
-girosols
+girosols 1
 guazuma 1
 gonys 2
 greenrooms 1
