@@ -14462,7 +14462,7 @@ cirsectomies
 cirsoid
 cirsomphalos 1
 cirsophthalmia
-completable 1
+completable 2
 cirsotomy
 cirsotomies
 cirterion
