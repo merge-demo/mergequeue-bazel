@@ -3402,7 +3402,7 @@ fuller 3
 flyweights
 feignedly
 filtre 1
-faculative
+faculative 1
 finmarks
 filename 1
 flighting
