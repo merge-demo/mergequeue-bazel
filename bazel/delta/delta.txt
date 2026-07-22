@@ -6905,7 +6905,7 @@ darkness 1
 dryhouse 1
 didymium
 dependents 1
-dognap
+dognap 1
 discolors 1
 dahabiyeh
 deadliest 1
