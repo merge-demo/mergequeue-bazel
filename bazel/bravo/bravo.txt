@@ -17425,7 +17425,7 @@ bushbaby
 blindest 1
 bestriding 1
 bassoon 1
-berserker
+berserker 1
 bluebird
 bunkerage
 bedtimes
