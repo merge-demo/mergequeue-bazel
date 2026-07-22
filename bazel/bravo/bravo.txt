@@ -4485,7 +4485,7 @@ bromios
 becrippled 2
 beira
 bedplate
-bronchiectatic
+bronchiectatic 1
 bluenose
 becroak 1
 bedead
