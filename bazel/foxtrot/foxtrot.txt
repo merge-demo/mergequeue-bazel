@@ -1880,7 +1880,7 @@ feedwater 4
 fallow 1
 fewer 3
 fecundize 3
-flintier 2
+flintier 3
 footingly 1
 foredoom
 footstep 2
