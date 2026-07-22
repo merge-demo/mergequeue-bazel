@@ -7169,7 +7169,7 @@ dispersement 1
 diductor
 drawboring 1
 deerkill 1
-desulphurize
+desulphurize 1
 depauperate
 depullulation 1
 diplospondylism
