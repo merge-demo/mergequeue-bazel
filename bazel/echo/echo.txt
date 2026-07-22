@@ -11664,7 +11664,7 @@ eleusinian
 endopolyploid 3
 exactness 3
 edeology 1
-exactors
+exactors 1
 enterophthisis
 erotics 2
 electrophone 1
