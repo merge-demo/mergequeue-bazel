@@ -7281,7 +7281,7 @@ anginas 1
 alarodian
 animas
 alarum
-alarumed
+alarumed 1
 atmiatry 1
 antitypically
 alaruming
