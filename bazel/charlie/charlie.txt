@@ -27758,7 +27758,7 @@ cowskin
 countercommand 1
 cowson
 criticsm 2
-cowtown
+cowtown 1
 cox 1
 cohog
 charting
