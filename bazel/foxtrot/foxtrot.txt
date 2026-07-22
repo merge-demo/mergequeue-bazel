@@ -8600,7 +8600,7 @@ fainters 3
 floodmark 1
 foam 1
 farmplace
-frequence 2
+frequence 3
 fiscs
 forrard 2
 flammigerous
