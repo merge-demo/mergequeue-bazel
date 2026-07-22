@@ -19697,7 +19697,7 @@ alkalinise 1
 agonistic 2
 actinosphaerium
 agrito
-acquittals
+acquittals 1
 argonauts
 antistate
 autobiographist
