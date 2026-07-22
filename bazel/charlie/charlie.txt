@@ -16290,7 +16290,7 @@ clio 1
 cresses
 canterer
 clipboard
-clipboards
+clipboards 1
 clypeastridea
 chicky
 clypeastrina 1
