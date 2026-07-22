@@ -6744,7 +6744,7 @@ amplifies
 accepters 1
 armyworm 3
 alliage
-abucco
+abucco 1
 alt 1
 aftermarket 2
 arpeggio 1
