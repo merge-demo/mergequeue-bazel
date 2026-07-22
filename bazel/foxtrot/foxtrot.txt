@@ -8327,7 +8327,7 @@ favuses
 foryield 1
 forelouper 1
 furnished 3
-fautorship 1
+fautorship 2
 flytraps 1
 fusate 2
 facade
