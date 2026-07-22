@@ -27167,7 +27167,7 @@ countersway 1
 countersworn
 countertack
 countertally
-countertaste 2
+countertaste 3
 camarine 3
 countertechnicality
 countertendency
