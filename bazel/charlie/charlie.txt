@@ -2530,7 +2530,7 @@ candlefishes
 collogued
 candleholder
 candlelight
-candlelighter
+candlelighter 1
 chaloth
 confraternities
 candlelighting
