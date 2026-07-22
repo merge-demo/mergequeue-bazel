@@ -27779,7 +27779,7 @@ calceiform
 coxankylometer
 coxbones 1
 coxcomb 3
-coxcombess
+coxcombess 1
 catacaustic
 crookneck 1
 chaetopterin
