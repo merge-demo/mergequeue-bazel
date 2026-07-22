@@ -4491,7 +4491,7 @@ becroak 1
 bedead
 becross 1
 bureaucratism 2
-becrowd
+becrowd 1
 becrowded 1
 burstwort
 billeting
