@@ -575,7 +575,7 @@ halsdprm
 halsm 1
 halt
 haltfhj
-haltnmgho
+haltnmgho 1
 haltydqovz
 halv
 halvigcwc
