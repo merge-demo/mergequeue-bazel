@@ -8270,7 +8270,7 @@ forgettably 1
 fixers
 faverole 2
 fractionalizing 3
-friction
+friction 1
 forging
 furacity 4
 formous 1
