@@ -3725,7 +3725,7 @@ blushiness
 battlesome
 brigantes 1
 bimestrial
-battlestead 2
+battlestead 3
 battlewagon 3
 bendays 3
 bronchiectasis 1
