@@ -7337,7 +7337,7 @@ galega 2
 gossamers
 galloglass 2
 geochronometric
-gibby
+gibby 1
 glareole 2
 ghee 1
 groggery
