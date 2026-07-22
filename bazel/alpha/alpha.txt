@@ -10895,7 +10895,7 @@ ammos
 ammotherapy
 ammu
 amnesia 1
-amnestied
+amnestied 1
 aimer 1
 alf
 affronter
