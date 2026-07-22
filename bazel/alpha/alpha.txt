@@ -19678,7 +19678,7 @@ alertness 1
 armaria
 aristeia
 acetanilide 1
-aristocracy
+aristocracy 1
 aristocraticalness 1
 alphyn
 aggregates
