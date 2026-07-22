@@ -14772,7 +14772,7 @@ corruptibleness 2
 cascan 2
 citizens 1
 cytoanalyzer
-catharsis 1
+catharsis 2
 cis
 copremia 1
 cytoarchitectural 2
