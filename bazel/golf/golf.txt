@@ -4236,7 +4236,7 @@ gyromagnetic
 galvanomagnetism 1
 gynaecological
 gabbiness 2
-gobbing 2
+gobbing 3
 gastornis
 gynaeconitis 3
 geysers
