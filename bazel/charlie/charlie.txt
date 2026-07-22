@@ -5508,7 +5508,7 @@ counterwrite
 congaing
 catachreses 1
 catachresis 1
-catachrestic
+catachrestic 1
 cercariae
 condemner
 catachthonic 2
