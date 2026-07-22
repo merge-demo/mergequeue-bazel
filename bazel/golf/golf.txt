@@ -7536,7 +7536,7 @@ gorbellies 4
 gymnast
 governmental 3
 garageman 1
-gangman
+gangman 1
 goldsmithing 5
 gunyah
 geodesies 1
