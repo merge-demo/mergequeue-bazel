@@ -13230,7 +13230,7 @@ cycloaliphatic
 cycloalkane
 cyclobothra 1
 carmakers
-cyclobutane
+cyclobutane 1
 constableship 1
 cholecystopexy
 carapacial
