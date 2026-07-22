@@ -2473,7 +2473,7 @@ diphase 2
 diplodocus 1
 dipyre 2
 decision 2
-defeatists
+defeatists 1
 distinctly
 decisional
 decisions
