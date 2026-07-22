@@ -5126,7 +5126,7 @@ busier 2
 bhangs 1
 bombshells 2
 beflour 1
-beflowered 1
+beflowered 2
 biotas
 batta 2
 bogbean 3
