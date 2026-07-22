@@ -15893,7 +15893,7 @@ bene
 barbarism 1
 bromination
 broadband
-beswim
+beswim 1
 behest 1
 buzzbomb
 berylate 2
