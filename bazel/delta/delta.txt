@@ -12824,7 +12824,7 @@ deliquiesce
 demiparadise 1
 dismals 3
 dithalous
-disman
+disman 1
 dismantles 2
 darksome
 dishevelment
