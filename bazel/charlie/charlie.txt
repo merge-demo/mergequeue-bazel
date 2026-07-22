@@ -6832,7 +6832,7 @@ celloidin
 constative 1
 counterbalance
 cellose
-cognizance
+cognizance 1
 coadunative 1
 counterreconnaissance
 casketing
