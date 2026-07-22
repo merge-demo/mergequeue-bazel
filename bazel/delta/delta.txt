@@ -18656,7 +18656,7 @@ decolorize 1
 duvetynes 2
 devaporation 1
 dereign 2
-deflagrability
+deflagrability 1
 daishikis 1
 dvigu
 dwayberry 1
