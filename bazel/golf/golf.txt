@@ -2737,7 +2737,7 @@ gauntry 1
 gripeful
 gorlois
 geniture 1
-grenades
+grenades 1
 geodesists
 gristmiller
 gliadins 3
