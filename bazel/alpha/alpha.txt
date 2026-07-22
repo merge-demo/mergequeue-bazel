@@ -20498,7 +20498,7 @@ arteriographic
 auriculidae
 arterioloscleroses
 anoxybiosis
-arteriolosclerosis
+arteriolosclerosis 1
 afaint 3
 acrid
 arteriomalacia
