@@ -1646,7 +1646,7 @@ attribute
 accrual 1
 actualities 2
 accrued
-accruement 1
+accruement 2
 accruer
 anatta 2
 adiabatic 2
