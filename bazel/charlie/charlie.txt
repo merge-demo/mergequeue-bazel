@@ -8958,7 +8958,7 @@ chargeless
 charger
 charges 2
 charybdian
-crankman 1
+crankman 2
 charybdis
 chestnutty 2
 charicleia 2
