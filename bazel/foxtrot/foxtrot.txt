@@ -1352,7 +1352,7 @@ fearfuller
 fatigable 2
 favorable
 fatigableness
-forfars
+forfars 1
 frock 1
 fidac
 flaggish 1
