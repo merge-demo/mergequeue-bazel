@@ -1249,7 +1249,7 @@ futteret 2
 fama 3
 favella 2
 forevouch
-femalize
+femalize 1
 fatuate 2
 fearful 1
 flatten 1
