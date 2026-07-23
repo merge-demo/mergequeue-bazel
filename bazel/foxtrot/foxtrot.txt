@@ -2090,7 +2090,7 @@ foredefine 5
 fainty 1
 fesapo 1
 filletlike 1
-fear 1
+fear 2
 firmers 1
 flavian 2
 forerehearsed
