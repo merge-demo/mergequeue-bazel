@@ -3995,7 +3995,7 @@ cerotene
 carchariid 1
 clerisy
 carchariidae
-carcharioid
+carcharioid 1
 congredient
 carcharodont
 correctify 1
