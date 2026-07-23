@@ -12548,7 +12548,7 @@ enactable 1
 esonarthex 1
 enameler 2
 electrofusion 3
-extant
+extant 1
 existlessness 1
 epistemological
 embezzle 1
