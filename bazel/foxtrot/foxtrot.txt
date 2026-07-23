@@ -693,7 +693,7 @@ fleshlike 2
 forzandos 1
 fobs 1
 familism 2
-firebolted
+firebolted 1
 farmstead 2
 forenotion
 farcemeat 1
