@@ -4092,7 +4092,7 @@ gimcrack 3
 gleaned 1
 galictis
 griph 1
-gastroduodenotomy
+gastroduodenotomy 1
 grasshop
 grasped
 glucolipid
