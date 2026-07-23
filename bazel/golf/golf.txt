@@ -6798,7 +6798,7 @@ genros 2
 gondola 1
 goniums 1
 glanis 1
-garbleable 4
+garbleable 5
 gradate
 guffawing
 goniunia
