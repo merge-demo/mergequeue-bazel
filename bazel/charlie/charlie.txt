@@ -26487,7 +26487,7 @@ cubature
 chatelains 2
 ceiba
 copernicanism
-conductory
+conductory 1
 chuckstone
 coopt
 cottager
