@@ -8242,7 +8242,7 @@ diaene
 diaeretic 1
 detoxicated
 diageotropic
-diaglyphic
+diaglyphic 1
 desmopelmous
 dell
 davainea
