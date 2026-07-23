@@ -10558,7 +10558,7 @@ bivinyls
 bermudians 1
 bezoardic 1
 bespeech
-baptisteries
+baptisteries 1
 bullheaded
 blatiform
 biotelemetric 1
