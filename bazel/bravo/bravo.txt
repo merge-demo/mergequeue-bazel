@@ -16822,7 +16822,7 @@ bacterioid 2
 bicolligate
 buffable
 buffalo
-buffalofish
+buffalofish 1
 burglarised
 buffaloing 2
 biarcuated 1
