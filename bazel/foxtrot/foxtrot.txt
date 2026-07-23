@@ -11455,7 +11455,7 @@ flaffer 1
 furfurylidene 1
 furrowy
 facecloth 3
-flap
+flap 1
 furrowing 2
 forletting 2
 furrowlike
