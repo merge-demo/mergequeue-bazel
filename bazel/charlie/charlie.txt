@@ -16789,7 +16789,7 @@ chiloplasty 1
 cloverlay 1
 citizen 1
 clupeidae 1
-cloverleafs
+cloverleafs 1
 cloverleaves 1
 cloverley
 cycadophyte
