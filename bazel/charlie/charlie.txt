@@ -19347,7 +19347,7 @@ color
 creational
 cycadaceous
 chinchier
-colorableness
+colorableness 1
 camisades
 curratow 1
 chilloes
