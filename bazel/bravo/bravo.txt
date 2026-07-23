@@ -1879,7 +1879,7 @@ balant 1
 brooded 1
 bandle
 blastoff
-bushcraft 2
+bushcraft 3
 breadwinners 1
 bandmaster 1
 brainsickly
