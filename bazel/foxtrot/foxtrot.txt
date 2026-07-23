@@ -84,7 +84,7 @@ flocklike
 forme 4
 filching
 faces 1
-folkright
+folkright 1
 flattening
 flowerfence
 foliobranch 1
