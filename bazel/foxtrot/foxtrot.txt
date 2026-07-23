@@ -5165,7 +5165,7 @@ flambes
 formicidae 1
 funambulism
 forz
-flatness
+flatness 1
 fadged
 faceting 2
 flatted 2
