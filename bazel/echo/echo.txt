@@ -11997,7 +11997,7 @@ excitons 1
 embosses 1
 excitosecretory
 excitovascular
-enamouring
+enamouring 1
 exclaiming
 exclaims 3
 epitenon
