@@ -4064,7 +4064,7 @@ beamroom 1
 baragnosis
 blitzkrieged 1
 beams
-bean
+bean 1
 boldness 1
 begottenness
 bedeafen 1
