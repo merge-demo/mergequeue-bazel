@@ -17280,7 +17280,7 @@ coanimate 1
 concretes
 cephalemia
 coannexed
-coannexes
+coannexes 1
 coannihilate
 cobol
 clarions
