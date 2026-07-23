@@ -529,7 +529,7 @@ backveld
 beech 1
 bayok 1
 blasthole 1
-bafflingness 1
+bafflingness 2
 barometrical 2
 backvelder
 blastodermic 1
