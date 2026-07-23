@@ -7363,7 +7363,7 @@ freshen 2
 feudalism 2
 forby 2
 famelessly 1
-foreparent
+foreparent 1
 forebodingly 1
 footplate
 flakiness 3
