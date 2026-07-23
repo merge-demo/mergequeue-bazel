@@ -5441,7 +5441,7 @@ clepes 1
 castoffs
 coldly
 castoreum
-caftaned
+caftaned 1
 castorite
 castra
 castrates
