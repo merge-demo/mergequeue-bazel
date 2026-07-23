@@ -17857,7 +17857,7 @@ bloodleaf 2
 bine 1
 busbar
 busbars
-barotse
+barotse 1
 bibliopegic 1
 biscanism 3
 bicultural
