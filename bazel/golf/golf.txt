@@ -8932,7 +8932,7 @@ gwag
 globy 2
 galvanising
 gnaw
-glycosidic
+glycosidic 1
 geranomorphic 1
 gothicize 1
 gringole 2
