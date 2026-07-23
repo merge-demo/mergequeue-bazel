@@ -10640,7 +10640,7 @@ filtrability 1
 facultate 2
 fegatella 1
 flatulent
-fickly
+fickly 1
 forcibly 2
 fitzroy
 feltlike 2
