@@ -9804,7 +9804,7 @@ exponentiate
 eustace
 ebracteolate 1
 enhanced
-escapade
+escapade 1
 estaminet
 emittance
 exergue
