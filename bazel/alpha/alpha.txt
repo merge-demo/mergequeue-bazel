@@ -14937,7 +14937,7 @@ asphaltum 2
 anticlogging 1
 averroism 1
 anticoagulant 1
-anticoagulation
+anticoagulation 1
 anticoagulative
 acariasis
 ampliate
