@@ -4038,7 +4038,7 @@ emendatory 1
 episporium 3
 ergotization
 empyemata
-empyemic
+empyemic 1
 empiercement 1
 evirato 1
 extensibleness 1
