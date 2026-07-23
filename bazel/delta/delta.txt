@@ -385,7 +385,7 @@ daimios 1
 dadap 2
 daimyos 1
 drinkers
-daimiote 2
+daimiote 3
 defension 1
 deployable 1
 disembargoing 1
