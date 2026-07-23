@@ -24810,7 +24810,7 @@ coquette
 cleome
 coquettishly
 curlycue
-colourfast
+colourfast 1
 coquicken
 cartload
 contumax 1
