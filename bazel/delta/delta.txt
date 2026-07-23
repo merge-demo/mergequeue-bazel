@@ -6229,7 +6229,7 @@ disbenchment 2
 dactylopodite 1
 dermanaplasty 1
 dermapterous
-dermas 1
+dermas 2
 dirgler
 dasypodoid
 delimited
