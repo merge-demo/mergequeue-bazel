@@ -13454,7 +13454,7 @@ enzymolysis
 extrusile 4
 exorate 1
 expropriator 1
-eringo
+eringo 1
 epenthetic
 electrolyse
 equilibrize 1
