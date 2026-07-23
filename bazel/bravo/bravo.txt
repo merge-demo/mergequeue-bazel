@@ -1508,7 +1508,7 @@ bichromated 1
 bezel
 basted 2
 batterdock 2
-ballads
+ballads 1
 balete 2
 baralipton 1
 bloodmonger
