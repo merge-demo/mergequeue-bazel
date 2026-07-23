@@ -5216,7 +5216,7 @@ bacteriostatic
 beggarhood 1
 bergamots 3
 befurbelowed
-befurred
+befurred 1
 begabled 2
 bowla
 begad 1
