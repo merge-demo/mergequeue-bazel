@@ -15222,7 +15222,7 @@ atomies
 antifire
 anacoenoses 1
 amylogens
-askewness
+askewness 1
 antiflattering 1
 accordantly
 antiflatulent 1
