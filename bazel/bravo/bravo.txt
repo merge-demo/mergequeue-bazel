@@ -17509,7 +17509,7 @@ bantling 1
 bedip
 bystanders 1
 blockout
-backspeir
+backspeir 1
 burbolt 2
 blight 1
 beauseant 1
