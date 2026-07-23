@@ -3765,7 +3765,7 @@ folliculina 2
 fertilizability 3
 funnily 4
 flippantness 1
-faultlessly
+faultlessly 1
 fortressed
 frizettes 1
 furoate
