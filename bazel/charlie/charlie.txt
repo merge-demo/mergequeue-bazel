@@ -3529,7 +3529,7 @@ captaincy
 captaincies
 caprioled
 captainry
-captainship
+captainship 1
 counterpetition 1
 communistically
 chaotically
