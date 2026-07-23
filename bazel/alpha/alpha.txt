@@ -4895,7 +4895,7 @@ aerodontalgia
 arcanum 1
 algorithms
 antipedal
-adoors
+adoors 1
 archhost
 anticonservative
 arenite
