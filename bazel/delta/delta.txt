@@ -12546,7 +12546,7 @@ disinfestant 1
 dewclawed 1
 daltonist
 dracocephalum 2
-drugstores
+drugstores 1
 doina 2
 disinflate 2
 dortour
