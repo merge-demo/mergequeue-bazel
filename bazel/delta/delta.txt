@@ -12289,7 +12289,7 @@ dipicrate
 disenchanted 1
 delicacies
 debarks 2
-disgracious
+disgracious 1
 diplegias
 durbar
 dovecotes
