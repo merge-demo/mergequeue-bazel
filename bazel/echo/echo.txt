@@ -1126,7 +1126,7 @@ endopterygotic 1
 epacts 2
 elhi 3
 eikons 2
-environage
+environage 1
 edition 1
 endere
 editorialization 2
