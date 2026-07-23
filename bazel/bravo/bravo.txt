@@ -15846,7 +15846,7 @@ benaming
 bromauric
 balu
 brombenzamide 2
-ballottable
+ballottable 1
 bumboats
 belauder 1
 beef 1
