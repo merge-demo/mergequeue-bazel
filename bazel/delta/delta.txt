@@ -5982,7 +5982,7 @@ doctorlike 1
 decimetres 1
 doubledamn
 deckswabber
-debord
+debord 1
 decuples
 dragons 1
 diopside
