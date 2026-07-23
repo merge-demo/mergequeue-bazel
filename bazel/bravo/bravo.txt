@@ -5747,7 +5747,7 @@ bungler 1
 buckjump 1
 balaghat
 biophysics
-beaverroot
+beaverroot 1
 bellbinder 1
 budgeree
 bullous 1
