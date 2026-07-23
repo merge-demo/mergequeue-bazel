@@ -13254,7 +13254,7 @@ bedstaff 1
 bokard
 brune
 bossily 3
-bowler
+bowler 1
 boarish 1
 bosniac 1
 bostanji 1
