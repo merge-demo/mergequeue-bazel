@@ -6393,7 +6393,7 @@ electrotyper
 ephebe 1
 expenseful 2
 earthward 3
-emulsor
+emulsor 1
 euskarian
 egested
 eyemark 1
