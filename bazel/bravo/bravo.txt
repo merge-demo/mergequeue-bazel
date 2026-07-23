@@ -7201,7 +7201,7 @@ bestiary 1
 backdating 1
 byelorussia 1
 blastomeric 3
-bur 1
+bur 2
 bestiarian
 bestiarist
 bestock
