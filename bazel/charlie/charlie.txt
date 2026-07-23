@@ -10082,7 +10082,7 @@ chirimen
 chessner
 chessom
 claves 1
-chesstree
+chesstree 1
 cerias 1
 chest
 curing
