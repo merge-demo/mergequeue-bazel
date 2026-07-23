@@ -2686,7 +2686,7 @@ emborder 2
 electrotechnician 2
 exports
 eogaean 1
-enfant
+enfant 1
 extendibility
 eudaemonics 2
 engenderment 1
