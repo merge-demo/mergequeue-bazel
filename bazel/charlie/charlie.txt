@@ -31352,7 +31352,7 @@ cury
 causeys 1
 chauldron
 countertrespass 1
-curia
+curia 1
 clodpoles 2
 curiae
 cobwebbing
