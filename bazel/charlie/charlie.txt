@@ -19670,7 +19670,7 @@ copintank 1
 catogene
 claptrap 1
 chemisorption
-clefts
+clefts 1
 comatiks 1
 comatosely
 countercharged
