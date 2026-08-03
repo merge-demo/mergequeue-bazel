@@ -22579,7 +22579,7 @@ alternativo
 ateloglossia 1
 abacist
 atelomyelia
-ateloprosopia
+ateloprosopia 1
 acoenaesthesia
 axifera 2
 acquisitiveness
