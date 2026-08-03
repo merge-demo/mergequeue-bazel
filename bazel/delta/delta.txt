@@ -14878,7 +14878,7 @@ documents 1
 demonism 1
 dowitcher
 dolorifuge 1
-dependencies
+dependencies 1
 depurging 2
 deglute 1
 dodded 2
