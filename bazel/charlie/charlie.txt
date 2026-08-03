@@ -14091,7 +14091,7 @@ corticoid
 circlets 2
 circulated
 cochleas 1
-circocele
+circocele 1
 colloquialisms 2
 codecree
 circue
