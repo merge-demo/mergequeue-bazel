@@ -18555,7 +18555,7 @@ despaired
 detailing
 derri 1
 durry 1
-deny
+deny 1
 dappled 1
 durrin 2
 dig
