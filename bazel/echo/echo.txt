@@ -5239,7 +5239,7 @@ equipluve 1
 equilibrate 1
 endomitosis
 endomorphy 1
-exta
+exta 1
 ekebergite
 either
 endoneurium 2
