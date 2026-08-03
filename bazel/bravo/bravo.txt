@@ -5845,7 +5845,7 @@ bellylike 1
 bellyman
 biunique
 biogenetical
-balopticon
+balopticon 1
 bellmaking 1
 banquo 1
 bachel
