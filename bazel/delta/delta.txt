@@ -11491,7 +11491,7 @@ dar
 doest
 defalcations
 deads
-discolorment
+discolorment 1
 discolouring 1
 discolourization
 discourt
