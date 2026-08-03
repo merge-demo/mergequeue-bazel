@@ -2433,7 +2433,7 @@ desmohemoblast
 dropkick 3
 dusken
 dihydronaphthalene
-decimating
+decimating 1
 dacrya
 disobediently 1
 degorder
