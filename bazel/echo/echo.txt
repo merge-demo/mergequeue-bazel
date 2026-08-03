@@ -4385,7 +4385,7 @@ electrolyzer 2
 encephalosclerosis 2
 evisite 1
 endoplastule 3
-euornithes
+euornithes 1
 enapt
 ethnog 1
 elemi 2
