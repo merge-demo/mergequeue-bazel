@@ -6009,7 +6009,7 @@ foolscaps 3
 felspars 1
 flacon 1
 fumattoria 3
-foo
+foo 1
 fidiculae 1
 ferroelectrically 1
 fellowman 1
