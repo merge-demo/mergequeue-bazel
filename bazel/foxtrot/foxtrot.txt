@@ -7731,7 +7731,7 @@ florian 3
 freeish
 falconlike 1
 fretty
-furs
+furs 1
 forsaken
 flamelike 1
 formalizations 2
