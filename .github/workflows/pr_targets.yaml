@@ -23,12 +23,8 @@ jobs:
           repository: trunk-io/mergequeue-tool
           latest: true
           preRelease: true
-          # Download the compiled binary asset (not the source tarball).
           fileName: mq-*-x86_64-unknown-linux-gnu.tar.gz
           extract: true
-
-      - name: Make mq executable
-        run: chmod +x ./mq
 
       - name: Get trunk token
         id: get-trunk-token

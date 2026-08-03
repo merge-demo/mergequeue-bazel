@@ -51,13 +51,8 @@ jobs:
           repository: trunk-io/mergequeue-tool
           latest: true
           preRelease: false
-          # Download the compiled binary asset (not the source tarball).
           fileName: mq-*-x86_64-unknown-linux-gnu.tar.gz
           extract: true
-
-      - name: Make mq executable
-        if: steps.duplicate.outputs.skip_duplicate != 'true'
-        run: chmod +x ./mq
 
       - name: Determine is_merge
         id: check_is_merge
