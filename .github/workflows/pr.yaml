@@ -45,13 +45,14 @@ jobs:
         env:
           BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
-      - uses: robinraju/release-downloader@v1.9
+      - uses: robinraju/release-downloader@v1.13
         if: steps.duplicate.outputs.skip_duplicate != 'true'
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
-          tarBall: true
           preRelease: false
+          # Download the compiled binary asset (not the source tarball).
+          fileName: mq-*-x86_64-unknown-linux-gnu.tar.gz
           extract: true
 
       - name: Make mq executable
