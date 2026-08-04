@@ -4430,7 +4430,7 @@ feulamort
 farand 1
 forfeit 1
 footpick
-fishily
+fishily 1
 fatigues
 farinaceously 1
 fishiness 1
