@@ -15850,7 +15850,7 @@ ballottable 1
 bumboats
 belauder 1
 beef 1
-bowwort
+bowwort 1
 bluntly
 butyls 1
 bindingly 1
