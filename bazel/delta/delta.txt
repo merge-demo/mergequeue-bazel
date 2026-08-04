@@ -13395,7 +13395,7 @@ dissentients
 delighted 1
 deliverymen
 disquisit
-disquisite
+disquisite 1
 dermophlebitis 1
 distillment 1
 despoliation 1
