@@ -2491,7 +2491,7 @@ enstatite 1
 electrogasdynamics
 embryographer
 electroharmonic
-empanelment
+empanelment 1
 electrohemostasis 2
 endearing
 ebony
