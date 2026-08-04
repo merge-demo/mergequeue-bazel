@@ -10662,7 +10662,7 @@ galp 3
 gurgoyle 2
 glaiketness 2
 genuflexion
-glottologist
+glottologist 1
 guric 1
 grog 1
 granitization
