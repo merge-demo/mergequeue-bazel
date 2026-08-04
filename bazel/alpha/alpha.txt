@@ -2342,7 +2342,7 @@ apiary
 acies
 altometer
 acanthopod 2
-acyetic
+acyetic 1
 apprehend
 albeit 1
 autocrat 1
