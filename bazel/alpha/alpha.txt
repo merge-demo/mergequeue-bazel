@@ -14232,7 +14232,7 @@ anteroinferior
 askewgee 1
 antipart 2
 anterointernal 2
-anterolateral
+anterolateral 1
 antiferroelectric 1
 automorphically
 agiotages 1
