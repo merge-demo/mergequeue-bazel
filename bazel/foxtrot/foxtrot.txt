@@ -422,7 +422,7 @@ familiariser
 flints 2
 fibrotic
 festae 1
-fibroligamentous 1
+fibroligamentous 2
 fauchards
 fur 2
 frockmaker 3
