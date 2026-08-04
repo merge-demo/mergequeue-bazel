@@ -5444,7 +5444,7 @@ foggy 1
 fleering
 faunal
 flavorers
-figurativeness
+figurativeness 1
 formulator
 famished
 foresummer
