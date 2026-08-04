@@ -11018,7 +11018,7 @@ deoxidization
 dodona 1
 downbend 2
 doorframe
-disallow 1
+disallow 2
 displaying 2
 dorneck 1
 disconformably
