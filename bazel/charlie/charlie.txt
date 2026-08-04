@@ -18960,7 +18960,7 @@ corved
 cham 1
 collates
 collation
-collations
+collations 1
 cesti 2
 collatitious
 cloine
