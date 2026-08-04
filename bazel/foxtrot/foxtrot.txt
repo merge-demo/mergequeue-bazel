@@ -2761,7 +2761,7 @@ feis
 flanges
 fortescure
 fascisms 1
-ferrimagnet
+ferrimagnet 1
 festy
 festilogies 1
 feddans
