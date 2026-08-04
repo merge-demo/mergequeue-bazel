@@ -6957,7 +6957,7 @@ acetaldehydrase
 aissor 1
 age
 ashot
-antiferromagnet
+antiferromagnet 1
 aitch 1
 asphaltene 1
 angeldom
