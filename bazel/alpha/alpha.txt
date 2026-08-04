@@ -7671,7 +7671,7 @@ annot
 alcoholdom 1
 abbrev 2
 alcoholemia
-alcoholically 1
+alcoholically 2
 appetition
 anaudia 3
 appendicocaecostomy 1
