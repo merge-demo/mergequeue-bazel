@@ -5610,7 +5610,7 @@ formerness 1
 fourgons 1
 flight 2
 frusla 2
-fortitude 1
+fortitude 2
 flighter
 fraik
 fleysome 3
