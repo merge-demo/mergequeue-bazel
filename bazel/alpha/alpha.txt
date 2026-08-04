@@ -2416,7 +2416,7 @@ apprehensibility 1
 adance
 antismut
 apeptic
-azygos
+azygos 1
 argemone 1
 afterfeed 2
 aftertime
