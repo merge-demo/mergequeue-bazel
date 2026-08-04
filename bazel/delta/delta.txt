@@ -15272,7 +15272,7 @@ drawoff 2
 dealbuminize 1
 dollmaker
 dissectible
-durante
+durante 1
 dendroclastic
 disconcerted 1
 decelerate 1
