@@ -6828,7 +6828,7 @@ extender
 episternalia 3
 evocativeness 2
 eumenes
-ectosarcs
+ectosarcs 1
 elix 1
 enl 1
 equestriennes 1
