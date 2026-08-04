@@ -10415,7 +10415,7 @@ decoyers
 dipartite
 dipartition 1
 dominicks 2
-dekkos
+dekkos 1
 demersion 1
 dictyostelic 1
 dipcoat
