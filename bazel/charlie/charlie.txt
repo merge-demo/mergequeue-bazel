@@ -22581,7 +22581,7 @@ chieftainships
 cairba
 cogenial 1
 connection
-connectival
+connectival 1
 connective
 connectively
 clavichordists
