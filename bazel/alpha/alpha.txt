@@ -23421,7 +23421,7 @@ abbandono 1
 allowancing
 athyroid 1
 amirates
-actinomycosis
+actinomycosis 1
 accumulated
 aluminosilicate
 audiphone
