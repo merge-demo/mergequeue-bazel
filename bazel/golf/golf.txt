@@ -6288,7 +6288,7 @@ galop
 governessy
 gid 1
 gobbles 2
-glaucescent
+glaucescent 1
 ginzoes 2
 grege 1
 gerahs 2
