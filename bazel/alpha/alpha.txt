@@ -7496,7 +7496,7 @@ albumenized 2
 autopathography
 aerophoto
 albumenizer
-albumenoid
+albumenoid 1
 archtreasurer 1
 albumens
 albumimeter
