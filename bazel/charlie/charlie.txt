@@ -25396,7 +25396,7 @@ cornice
 costodiaphragmatic 1
 cuarta 2
 choragus 2
-corniced
+corniced 1
 collaud
 creamery
 centrifuged
