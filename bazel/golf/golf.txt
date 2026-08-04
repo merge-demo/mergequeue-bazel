@@ -2710,7 +2710,7 @@ gasolenes 1
 granularity 1
 gingers 1
 geek 2
-genip 1
+genip 2
 gilbertese 2
 genyplasty
 glashan 3
