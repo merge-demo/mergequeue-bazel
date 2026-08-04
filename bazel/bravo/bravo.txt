@@ -1078,7 +1078,7 @@ bundts 2
 barbasco 1
 bayonets 1
 benefactors 1
-bifacial
+bifacial 1
 blksize
 blepharelcosis
 bayong
