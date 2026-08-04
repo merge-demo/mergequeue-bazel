@@ -15782,7 +15782,7 @@ cynosura 1
 cleanskin 1
 cleanskins 2
 cleanup
-conveniently
+conveniently 1
 chelaship
 corruptibly
 colonized
