@@ -5183,7 +5183,7 @@ barns 1
 beadhouse
 bondfolk 1
 barragan 1
-bicentricity 1
+bicentricity 2
 blastodisk 1
 bypasser
 bachelry 1
