@@ -30091,7 +30091,7 @@ cephalophorous 1
 chordoid 1
 crowder
 cmdg
-crowdy
+crowdy 1
 crowdies
 confecture
 crowding 1
