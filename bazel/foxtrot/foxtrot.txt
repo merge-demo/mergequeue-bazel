@@ -5866,7 +5866,7 @@ feminology 2
 funebre 1
 farding 2
 fastigia
-fdtype 1
+fdtype 2
 fowlers 1
 flocced
 frustulose 1
