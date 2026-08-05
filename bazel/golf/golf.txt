@@ -2408,7 +2408,7 @@ gumphion 1
 gloppy
 grow 3
 guianese 1
-groomed
+groomed 1
 gauk
 gruesomer
 gleemaiden 1
