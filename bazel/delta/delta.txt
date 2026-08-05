@@ -5588,7 +5588,7 @@ drouthiness
 depends 1
 dallack
 dispersed 1
-dramatizable 1
+dramatizable 2
 dukeship 1
 dothideaceous 1
 dieters 2
