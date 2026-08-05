@@ -6985,7 +6985,7 @@ epistolar 2
 endostylic 2
 ephectic 2
 erian 1
-ecthlipses
+ecthlipses 1
 eyebrows
 ensaint 1
 ecophysiology 1
