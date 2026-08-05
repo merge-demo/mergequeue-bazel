@@ -1349,7 +1349,7 @@ aqueducts
 accelerators 1
 amlet
 aumbries
-accelerometer
+accelerometer 1
 accelerometers
 anticatholic 1
 anapaestical 1
