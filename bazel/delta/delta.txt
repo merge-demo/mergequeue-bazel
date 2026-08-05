@@ -16413,7 +16413,7 @@ doxie 1
 distad
 dhoora
 doxography 2
-decolourise
+decolourise 1
 deadishness
 dozed
 dodecahedrons 3
