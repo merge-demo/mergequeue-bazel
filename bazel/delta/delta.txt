@@ -13797,7 +13797,7 @@ dirndls 2
 dissuasively
 detruncate 1
 dengues 4
-dissuit
+dissuit 1
 duhat 2
 dignifies 1
 dissunder 1
