@@ -4660,7 +4660,7 @@ fivesome 3
 flaubertian 1
 flashproof 3
 famacide
-frivoling
+frivoling 1
 futharcs 1
 filmgoer 2
 faust 1
