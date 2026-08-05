@@ -7726,7 +7726,7 @@ bhindi
 bowstave 2
 bhishti 2
 bhistie 2
-bhisties
+bhisties 1
 berake
 boldheartedness 1
 bhojpuri 1
