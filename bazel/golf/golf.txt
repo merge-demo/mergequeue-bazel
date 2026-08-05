@@ -4653,7 +4653,7 @@ guttersnipish
 griggles 2
 graphometer 3
 gastrodialysis 1
-gaonic
+gaonic 1
 gasconade 2
 gummosis
 gamori 1
