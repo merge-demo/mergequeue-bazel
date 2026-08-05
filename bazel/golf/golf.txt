@@ -10707,7 +10707,7 @@ grams
 gumma 1
 gunship
 gismondine 1
-gastrolytic
+gastrolytic 1
 gutnic 2
 gracioso 1
 guywire
