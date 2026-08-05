@@ -5349,7 +5349,7 @@ displant 2
 deadheadism 2
 dentelure
 duftry
-dealable
+dealable 1
 dorsoventrad
 derider 1
 dorsimesal 1
