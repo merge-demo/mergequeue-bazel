@@ -832,7 +832,7 @@ entrecote
 epop 3
 exulate
 ectiris 1
-etamines 1
+etamines 2
 ectocarpus 1
 eriophorum
 eosinophil 3
