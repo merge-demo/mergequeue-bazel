@@ -22092,7 +22092,7 @@ adduce 1
 asterisk 1
 antesunrise
 artilleryman
-anteromedial
+anteromedial 1
 amphigamous
 amphipeptone 1
 aguaji 1
