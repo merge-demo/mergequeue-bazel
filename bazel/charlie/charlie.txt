@@ -24311,7 +24311,7 @@ cooja
 cook 1
 cookable
 carbureter 1
-chapeau
+chapeau 1
 creation 1
 crull 1
 creatable 1
