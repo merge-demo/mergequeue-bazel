@@ -8392,7 +8392,7 @@ ality
 apocentricity
 alphabeting 2
 attribution 1
-ayllu
+ayllu 1
 asternia
 algenib
 anthropophagic
