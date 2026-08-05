@@ -16773,7 +16773,7 @@ dravidic 1
 drightin 1
 diplomate 1
 developed
-dumbness 1
+dumbness 2
 dravite
 draw 1
 disreputation 1
