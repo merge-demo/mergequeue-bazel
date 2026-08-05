@@ -15919,7 +15919,7 @@ clenches
 cleoid
 cleomes
 chimbs
-clep
+clep 1
 cakemaker
 comitant 1
 countertrippant 1
