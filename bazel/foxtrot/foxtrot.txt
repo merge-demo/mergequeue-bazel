@@ -4499,7 +4499,7 @@ faddy 3
 frowst 2
 flatting 2
 forlane 2
-fertilizers
+fertilizers 1
 forsay 3
 ferrovanadium 2
 flour
