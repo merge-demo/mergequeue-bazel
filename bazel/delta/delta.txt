@@ -17105,7 +17105,7 @@ debouching 2
 divestiture
 drawknot 1
 defectiveness 1
-deceleron
+deceleron 1
 decarchies
 drifty 1
 driftingly
