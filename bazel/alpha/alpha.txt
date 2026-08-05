@@ -24196,7 +24196,7 @@ aguara 1
 artemia
 antherless
 autolithograph 1
-autoinfection
+autoinfection 1
 alnein
 autolyzate
 autolyzes
