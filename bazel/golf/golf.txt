@@ -6359,7 +6359,7 @@ gloriosa
 gippo
 gollywobbler
 gambelli 2
-ganoblast
+ganoblast 1
 garnitures 3
 gustables 2
 gofer
