@@ -7065,7 +7065,7 @@ galyaks 3
 genericalness 2
 grayly
 gliocyte 1
-gutturopalatal
+gutturopalatal 1
 gastrosoph 3
 gelidity 1
 groundplot
