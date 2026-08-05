@@ -2034,7 +2034,7 @@ gel 3
 gelatiniform
 gases 2
 gaveled
-gibbosities
+gibbosities 1
 gnomologic 3
 greiges 1
 guazuti
