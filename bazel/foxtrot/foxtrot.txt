@@ -5671,7 +5671,7 @@ funeration
 forbearant
 finite 1
 flancards 1
-friended
+friended 1
 fuzz
 firking 2
 fountains
