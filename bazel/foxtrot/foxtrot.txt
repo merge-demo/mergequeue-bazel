@@ -10588,7 +10588,7 @@ freakouts 1
 fibrination
 finement
 fatefulness
-fuzzes
+fuzzes 1
 fulgent
 foiling
 foilsman 2
