@@ -10936,7 +10936,7 @@ fack 4
 francs 1
 fulminurate 2
 fulness
-fess
+fess 1
 fulnesses 1
 flanconade 3
 forgetness 2
