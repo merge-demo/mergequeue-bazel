@@ -492,7 +492,7 @@ bismillah 1
 betweentimes 1
 buffo
 backstaff
-bridely
+bridely 1
 backstitch
 bahoo 1
 blumed
