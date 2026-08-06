@@ -4290,7 +4290,7 @@ adrenochrome 1
 adrenocortical 1
 adrenosterone 1
 adrenocorticotrophic
-ammonolysis
+ammonolysis 1
 afterstain 1
 albuminosis 1
 adrenocorticotropic
