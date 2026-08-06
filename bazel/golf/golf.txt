@@ -337,7 +337,7 @@ graveship
 galactometer 3
 gorling 3
 gaussian 3
-grilses
+grilses 1
 gleen 1
 gerontologic 2
 gangetic 1
