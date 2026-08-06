@@ -6741,7 +6741,7 @@ glenoid
 guiltlessness 2
 goniocraniometry 1
 grouters 2
-gaveller
+gaveller 1
 goniodoridae 3
 gnotobiote
 granitized 1
