@@ -6934,7 +6934,7 @@ evocations 3
 entoplasm 1
 euxenites 1
 extravaganzas 3
-estreats
+estreats 1
 exiled 1
 eudora
 encradle 1
