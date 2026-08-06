@@ -2718,7 +2718,7 @@ coff
 combinatorics
 cutey
 canman 1
-churr
+churr 1
 cannabic 1
 churchwise 1
 cannabidiol
