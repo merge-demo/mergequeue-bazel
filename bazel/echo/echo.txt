@@ -1792,7 +1792,7 @@ engravers 2
 embankments
 electrification 2
 encompasser 2
-enable
+enable 1
 estimates 2
 entresse 3
 eocene
