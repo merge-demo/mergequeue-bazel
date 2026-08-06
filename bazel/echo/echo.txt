@@ -13951,7 +13951,7 @@ eschews
 elaborateness 3
 eudeve 4
 entoire
-extraparliamentary
+extraparliamentary 1
 ectotrophic
 expressless 2
 epimer 1
