@@ -792,7 +792,7 @@ graf 1
 gimlet 2
 gambade 2
 gravata
-garrotting
+garrotting 1
 gastroenteritic
 gambang 2
 gastrular
