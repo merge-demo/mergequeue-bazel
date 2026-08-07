@@ -6733,7 +6733,7 @@ genes 1
 gauges
 gyrostats 2
 glomerate 2
-globulimeter 3
+globulimeter 4
 geyseral
 gurdfish 2
 gruine
