@@ -21385,7 +21385,7 @@ asha 1
 ambicolorate 1
 asystolic
 actinoida
-antonymous
+antonymous 1
 aftergame 4
 antherids
 anemochorous 2
