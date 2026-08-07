@@ -2934,7 +2934,7 @@ backbiting 1
 blanco 1
 bited 2
 broad
-barrelled
+barrelled 1
 billfish 1
 barrelmaker
 blissfully 2
