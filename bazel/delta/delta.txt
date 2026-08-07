@@ -18513,7 +18513,7 @@ diocesans
 decolonisation 1
 disownable 1
 distortional
-demisavage 1
+demisavage 2
 dissilition
 durbars 3
 dissonate 1
