@@ -5385,7 +5385,7 @@ cinemograph
 corncob 1
 conchfishes 1
 crummies
-cibolan
+cibolan 1
 corv
 casters
 ciliation
