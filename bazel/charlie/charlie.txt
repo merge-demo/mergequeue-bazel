@@ -9809,7 +9809,7 @@ combattants 1
 carpologist
 chemick
 calanid
-chemicker
+chemicker 1
 chemicoastrological
 chokra
 chemicobiologic
