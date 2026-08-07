@@ -7504,7 +7504,7 @@ aftership
 appraisers 1
 ask 1
 abbasid 1
-anthranilate
+anthranilate 1
 albuminate
 abrased 1
 arhythmia 1
