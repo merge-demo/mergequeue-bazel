@@ -12420,7 +12420,7 @@ begloom
 bonbons
 batell
 barker
-bareboats 1
+bareboats 2
 bushiness
 bureaux
 banisterine
