@@ -9160,7 +9160,7 @@ chase 1
 chaseable
 chased 1
 corbeilles
-chases
+chases 1
 chashitsu 1
 chasm 1
 castigation
