@@ -5706,7 +5706,7 @@ glaciometer 1
 gorilline 2
 gesundheit
 gomavel 1
-glossies
+glossies 1
 glossiest 2
 gybed
 glossinas 2
