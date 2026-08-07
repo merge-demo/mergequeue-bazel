@@ -9943,7 +9943,7 @@ alloy 1
 androeccia
 amaze
 airlocks
-akroterial
+akroterial 1
 autotrophy 2
 addict
 amplitudes 1
