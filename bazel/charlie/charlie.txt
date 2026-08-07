@@ -5542,7 +5542,7 @@ capitulations 2
 coenosarcous
 coulometer
 catadioptrical
-catadioptrics
+catadioptrics 1
 conserved
 chantment
 catadrome
