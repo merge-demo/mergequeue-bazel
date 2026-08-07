@@ -5478,7 +5478,7 @@ absorbs 1
 actinophone
 afterbirth 2
 antiutilitarian
-atmospheres
+atmospheres 1
 afterblow
 aerarium
 augurer
