@@ -378,7 +378,7 @@ borings 4
 backhoe
 bake 1
 backhooker 3
-bemoans
+bemoans 1
 backhouses
 baseballdom
 brachyurus
