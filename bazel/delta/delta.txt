@@ -15615,7 +15615,7 @@ dooputty
 doorhead
 detergible
 dooring
-doorknob 1
+doorknob 2
 doorless
 destinate 1
 doormaid 1
