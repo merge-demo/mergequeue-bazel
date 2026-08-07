@@ -7090,7 +7090,7 @@ forespeech 1
 factious 1
 fusional 3
 fingerstall 1
-forgeability
+forgeability 1
 fungicide 1
 foolproof 1
 foolproofness 2
