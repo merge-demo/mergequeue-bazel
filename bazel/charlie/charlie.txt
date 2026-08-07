@@ -11757,7 +11757,7 @@ cognation
 chondrogenesis
 chondroglossal 2
 chondrography
-cytomegalic
+cytomegalic 1
 conduplication
 chondroitic
 chondroitin
