@@ -13504,7 +13504,7 @@ epigrapher 1
 expanses 1
 elinor 1
 equipollence 2
-ensnares
+ensnares 1
 embroiderers
 ectosteal 1
 examine
