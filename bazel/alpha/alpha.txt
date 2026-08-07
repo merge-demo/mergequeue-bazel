@@ -10946,7 +10946,7 @@ amoebalike 1
 amoebas
 asmolder
 aggregatory
-amperometric
+amperometric 1
 amoebeum 1
 abusion
 apologize
