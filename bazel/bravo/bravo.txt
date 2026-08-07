@@ -9865,7 +9865,7 @@ bitsy 1
 birled 1
 bioscope 3
 bestialist
-brotherly
+brotherly 1
 bitstock 1
 beasties
 besmirches 1
