@@ -3718,7 +3718,7 @@ battlefronts
 bringall 1
 brucella
 barnstorms
-battler
+battler 1
 battleships
 barrace
 blushiness
