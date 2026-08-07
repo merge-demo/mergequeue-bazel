@@ -1567,7 +1567,7 @@ antidrag
 accorporation
 antilogism
 anglicizes
-accost
+accost 1
 arbuscule
 aecidium 2
 aristolochine
