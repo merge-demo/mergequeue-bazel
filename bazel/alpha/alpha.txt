@@ -6595,7 +6595,7 @@ actinometers
 anaesthesiology 1
 aigialosauridae 1
 aigialosaurus
-apothecaries
+apothecaries 1
 archpriest
 antasthenic 1
 amber
