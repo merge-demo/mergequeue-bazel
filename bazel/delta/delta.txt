@@ -8893,7 +8893,7 @@ diccon 1
 depolariser
 daimio 1
 dermatitis 1
-decaisnea 1
+decaisnea 2
 dice 1
 diceboard 1
 dazzles
