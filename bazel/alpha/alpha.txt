@@ -5224,7 +5224,7 @@ affeerer
 aum 1
 ankerite
 almendron
-ampulated
+ampulated 1
 agrias
 ameloblastic
 artifactual
