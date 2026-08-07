@@ -11328,7 +11328,7 @@ enforcively
 evapotranspiration 3
 ecaudata 1
 esiphonal 1
-eluviated
+eluviated 1
 ergatoid 2
 evenglow 1
 erenach
