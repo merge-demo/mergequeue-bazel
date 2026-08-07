@@ -7271,7 +7271,7 @@ dextrally
 dournesses
 defalk 2
 disarrest
-deteriorating
+deteriorating 1
 deterioration
 deuce 1
 data 2
