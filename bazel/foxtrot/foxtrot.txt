@@ -4825,7 +4825,7 @@ forties
 footbath
 frostbiter
 fibrinuria
-fumish
+fumish 1
 flume 2
 fracticipita 5
 faunus 1
