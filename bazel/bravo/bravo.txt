@@ -3716,7 +3716,7 @@ barotraumata 1
 bronteon 1
 battlefronts
 bringall 1
-brucella
+brucella 1
 barnstorms
 battler 1
 battleships
