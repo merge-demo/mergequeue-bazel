@@ -15023,7 +15023,7 @@ barraters 1
 breedable
 borderies
 bendlet 1
-breeder
+breeder 1
 breakneck 2
 barhops 1
 breeders 1
