@@ -1695,7 +1695,7 @@ foreordaining 3
 forehandsel 1
 floridian
 fearsomeness
-foreshape
+foreshape 1
 feased
 folic 2
 fumigant 2
