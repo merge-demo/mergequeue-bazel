@@ -1111,7 +1111,7 @@ bromines 1
 bedimmed 1
 boatload
 brindled 1
-bluethroat
+bluethroat 1
 boyg 1
 bargestone
 breakwind
