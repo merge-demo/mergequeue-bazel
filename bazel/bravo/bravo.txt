@@ -5819,7 +5819,7 @@ bemata 2
 beleaps
 bestorm 2
 bldg 1
-bricks 1
+bricks 2
 bellicism 2
 beyonds
 bellicist 1
