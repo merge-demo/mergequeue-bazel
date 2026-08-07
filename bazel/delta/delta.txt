@@ -927,7 +927,7 @@ densus
 dominating 2
 decapsulate 1
 dromiceius
-dermapostasis
+dermapostasis 1
 dapperling 3
 dapperness
 dapping
