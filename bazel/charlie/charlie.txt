@@ -17216,7 +17216,7 @@ crucifer
 coalescence
 cellarless 2
 coitions
-coalescency
+coalescency 1
 candlesnuffer 1
 coalescent 1
 combustibility
