@@ -11036,7 +11036,7 @@ chis
 chiseled 1
 curuba
 chiseler
-cheapens 1
+cheapens 2
 chiselers
 cantdogs
 calorify
