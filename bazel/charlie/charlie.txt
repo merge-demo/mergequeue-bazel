@@ -28605,7 +28605,7 @@ chiefship 2
 camphines
 corkite
 coapt 3
-cedule
+cedule 1
 confectiones 1
 colemanite 2
 civilizes
