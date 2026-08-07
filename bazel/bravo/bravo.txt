@@ -10874,7 +10874,7 @@ blattiform 1
 backpacks
 breechless 2
 ballgames 2
-budgeters
+budgeters 1
 bioflavonoid 1
 blin
 babbitting 2
