@@ -1360,7 +1360,7 @@ eights
 epode
 endoskeletal
 essentialness 1
-exomis 1
+exomis 2
 evasional 1
 ebcdic 1
 excludability 1
