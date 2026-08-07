@@ -7944,7 +7944,7 @@ extrastapedial
 endosmosis
 exudates 1
 exptl 1
-exordia
+exordia 1
 epimandibular 1
 enthrone 2
 epimanikia 1
