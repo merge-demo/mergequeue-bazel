@@ -5317,7 +5317,7 @@ enslaves 1
 endocorpuscular 2
 endorsed 1
 enchantress 1
-emendating 1
+emendating 2
 effector 3
 endorsees
 emeriti
