@@ -7262,7 +7262,7 @@ fustet
 floorboards 2
 fameuse 2
 fancysick 3
-fortlet 1
+fortlet 2
 federalise 1
 footwalk
 footwarmer
