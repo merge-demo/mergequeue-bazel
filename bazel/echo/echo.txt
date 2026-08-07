@@ -5140,7 +5140,7 @@ eobiont
 estray 1
 exsanguinous
 endocoele 1
-enaliosaurian
+enaliosaurian 1
 exploiter 1
 effaced
 expositoriness 1
