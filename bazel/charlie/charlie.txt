@@ -21063,7 +21063,7 @@ caulked
 chargfaires 1
 coms 1
 comsat
-clostridial
+clostridial 1
 comsomol
 competingly 1
 cray 1
