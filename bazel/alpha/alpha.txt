@@ -21171,7 +21171,7 @@ assimilativeness 1
 aerily
 ascertainableness
 asem
-anticar
+anticar 1
 alphabetics 1
 asemic 1
 asepses
