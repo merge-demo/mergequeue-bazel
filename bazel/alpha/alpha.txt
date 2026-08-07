@@ -5631,7 +5631,7 @@ afunctional 1
 autocystoplasty 1
 anticorrosion
 afwillite
-afzelia
+afzelia 1
 apsychia 1
 adjustable 2
 amidstream 2
