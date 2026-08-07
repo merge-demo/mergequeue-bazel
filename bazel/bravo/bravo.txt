@@ -8142,7 +8142,7 @@ bateaux 1
 bieldy
 brawlier
 bossa 1
-bellicoseness
+bellicoseness 1
 bielding 1
 brunts
 bewinter 1
