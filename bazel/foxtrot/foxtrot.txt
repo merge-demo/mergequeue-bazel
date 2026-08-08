@@ -2993,7 +2993,7 @@ fallway 1
 fadings 2
 felucca 2
 frothing
-fy 1
+fy 2
 fiacres 1
 fetichry 1
 firelit 1
