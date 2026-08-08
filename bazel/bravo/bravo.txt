@@ -16959,7 +16959,7 @@ buildings 2
 blunder 1
 bloodstained 2
 begirded 1
-bondelswarts
+bondelswarts 1
 bedewoman 1
 buildups 5
 bordure 2
