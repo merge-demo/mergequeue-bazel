@@ -3588,7 +3588,7 @@ blockmaking 1
 bathool 1
 balneary 1
 boomkins
-bathophobia 2
+bathophobia 3
 buvette 2
 bathos
 bathrobes
