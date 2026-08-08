@@ -2480,7 +2480,7 @@ bandelet 3
 barfish
 bargainable 1
 buckraming
-billbugs 1
+billbugs 2
 bucchero
 bargaining
 beechwoods
