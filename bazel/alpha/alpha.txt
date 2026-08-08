@@ -22736,7 +22736,7 @@ aggies
 abridgers 1
 atonia
 athort
-athrive
+athrive 1
 athrogenic
 algebraizing
 anaplerotic 1
