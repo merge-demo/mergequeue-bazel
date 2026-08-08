@@ -3543,7 +3543,7 @@ dagobas 3
 desmomyaria
 dufoil 2
 drapery 1
-drowsiest
+drowsiest 1
 defrauds
 defreeze
 defrocked 2
