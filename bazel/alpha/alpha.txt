@@ -15232,7 +15232,7 @@ antiforeignism 2
 atole
 afrown
 autometamorphosis
-antiformin
+antiformin 1
 animater
 antifouling
 autobasidiomycetes
