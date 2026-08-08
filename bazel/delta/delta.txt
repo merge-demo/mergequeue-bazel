@@ -6364,7 +6364,7 @@ deco 2
 dermotropic
 dastardliness 2
 derms
-diacatholicon
+diacatholicon 1
 defined 1
 dioc 1
 ducula 4
