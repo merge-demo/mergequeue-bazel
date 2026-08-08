@@ -8811,7 +8811,7 @@ gelatinochloride 2
 gunslinger 1
 garbles 2
 guileful 2
-generable
+generable 1
 goodenoviaceae 2
 gablock 1
 glaiket 1
