@@ -15895,7 +15895,7 @@ bromination
 broadband
 beswim 1
 behest 1
-buzzbomb
+buzzbomb 1
 berylate 2
 bendell 1
 brominize 1
