@@ -4607,7 +4607,7 @@ disorienting
 dellies
 disroof
 debentured 1
-disavows
+disavows 1
 disgust 1
 dackers 2
 demipique 1
