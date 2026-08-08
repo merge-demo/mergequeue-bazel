@@ -5367,7 +5367,7 @@ flanken
 feebleness
 fascia 1
 fruiteries
-ferulaic
+ferulaic 1
 foldboater 2
 foreclosed 2
 faconde
