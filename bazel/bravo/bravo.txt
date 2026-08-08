@@ -13040,7 +13040,7 @@ balangay 1
 bolster 2
 blousing
 borders 2
-borderland
+borderland 1
 bagpipe 1
 beriber 1
 borderline 1
