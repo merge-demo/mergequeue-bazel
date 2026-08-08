@@ -27239,7 +27239,7 @@ counterwheel
 counterwilling 1
 counterwitness 1
 counterwork
-counterworker
+counterworker 1
 counterworking
 committee
 carminative 1
