@@ -9077,7 +9077,7 @@ disembattle 1
 dyester
 discommodity
 diluvy 2
-dictyota
+dictyota 1
 dictyotales
 dors
 dictyotic
