@@ -1418,7 +1418,7 @@ excoct 2
 encashable
 enzymes
 efflorescing 2
-effluences
+effluences 1
 endoral 3
 epitasis 1
 epithalamia 1
