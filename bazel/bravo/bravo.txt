@@ -1293,7 +1293,7 @@ brochantite 1
 bury
 bedbug
 bedust
-boleite
+boleite 1
 bacterioprecipitin 1
 beltings 1
 bate
