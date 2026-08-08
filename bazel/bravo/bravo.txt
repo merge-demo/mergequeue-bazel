@@ -18305,7 +18305,7 @@ bullockite 2
 button 1
 buttonball 1
 basaltoid 1
-buttonbush 1
+buttonbush 2
 bivalve
 buttoner 2
 buttoners 1
