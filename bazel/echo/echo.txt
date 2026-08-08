@@ -2279,7 +2279,7 @@ endothys
 electricize
 emphasizes 1
 electriferous 2
-energumen
+energumen 1
 epitaphist
 epilating 1
 elongated 1
