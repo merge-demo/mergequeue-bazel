@@ -19665,7 +19665,7 @@ attitudinal 3
 alines
 aleyrodid 1
 albolite
-attercrop
+attercrop 1
 apl
 aristae
 affirmatively 1
