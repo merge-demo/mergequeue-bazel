@@ -3089,7 +3089,7 @@ adjudications 1
 apocryphalist
 actinophrys 2
 aspics
-archimorphic
+archimorphic 1
 actinopteran 3
 ascidian 1
 autorail 2
