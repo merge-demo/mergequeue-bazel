@@ -8924,7 +8924,7 @@ flabellinerved 2
 fallency 2
 flneuse 1
 footbridge 3
-favorableness
+favorableness 1
 foundrous 2
 farhands
 flotative 2
