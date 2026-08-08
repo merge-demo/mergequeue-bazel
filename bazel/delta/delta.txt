@@ -10754,7 +10754,7 @@ dipsie
 declared 1
 decarboxylize 1
 drainspout
-drools
+drools 1
 discomfiture 1
 dipsomaniac
 dietotherapeutics
