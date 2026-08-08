@@ -7751,7 +7751,7 @@ flower
 flanes 1
 firearms 2
 foremast 1
-fritters
+fritters 1
 fidicula 2
 franciscanism
 fisticuffery 1
