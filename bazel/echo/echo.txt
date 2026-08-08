@@ -1241,7 +1241,7 @@ eel
 electrosherardizing
 escalade 2
 externity 3
-eelboat
+eelboat 1
 eudendrium 1
 epicures 1
 enjoyable 1
