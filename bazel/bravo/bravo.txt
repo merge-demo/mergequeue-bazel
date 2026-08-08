@@ -17417,7 +17417,7 @@ bombyciform
 britzskas
 beshield 3
 boppers
-bunk
+bunk 1
 begrudged 2
 bipersonal 3
 byerite
