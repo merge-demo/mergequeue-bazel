@@ -494,7 +494,7 @@ cottons
 clinics 1
 chincough 3
 caddises
-cattalos
+cattalos 1
 caddishness
 caddisworm
 chupon
