@@ -7878,7 +7878,7 @@ cipolin
 cessible 1
 copperplate 2
 cyclorrhaphous
-clinician
+clinician 1
 cession
 clapotis 2
 cessionaire
