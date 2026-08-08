@@ -7295,7 +7295,7 @@ empolder 1
 establisher 2
 epa 1
 equiatomic 2
-efferous
+efferous 1
 explodent 2
 exoascaceae 1
 ejicient 1
