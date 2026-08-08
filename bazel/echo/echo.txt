@@ -5212,7 +5212,7 @@ echeloning 2
 enchanter
 expedition 2
 endogenous 1
-enlistment
+enlistment 1
 electo
 embroider 2
 endoglobular 1
