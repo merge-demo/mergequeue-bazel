@@ -13525,7 +13525,7 @@ duchesses 3
 dissuadable 1
 disseason
 disseat 1
-disgood
+disgood 1
 diphyodont 1
 donnism 1
 datelines 1
