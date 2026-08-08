@@ -5751,7 +5751,7 @@ depoh 3
 decd 2
 depolarise 3
 dehumidify 1
-depolarization 1
+depolarization 2
 dernly
 depolarize 1
 dextrorsal 1
