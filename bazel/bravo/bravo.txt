@@ -11392,7 +11392,7 @@ bibbed
 bibio 1
 bluecoated
 becquerelite 2
-borable
+borable 1
 berettas 1
 bowlderhead
 berycoidei
