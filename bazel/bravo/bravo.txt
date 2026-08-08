@@ -6697,7 +6697,7 @@ broomstaff
 blitter
 balaamitical 1
 beeishness
-bathmotropic
+bathmotropic 1
 brontosaurus
 berloque 1
 berm
