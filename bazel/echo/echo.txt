@@ -11697,7 +11697,7 @@ ecphasis
 entoplastic
 exaggeratively 2
 exagitate
-effluence
+effluence 1
 electromer
 epiphragmal
 epileptologist 2
