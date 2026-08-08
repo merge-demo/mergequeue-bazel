@@ -4972,7 +4972,7 @@ cypseli 1
 cartographic
 cartographical
 cartographically
-carton 1
+carton 2
 cartoner
 cartonful 1
 covinously 1
