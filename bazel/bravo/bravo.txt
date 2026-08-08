@@ -17306,7 +17306,7 @@ barberite 3
 bumped 1
 burrowed 1
 blobber
-beechier
+beechier 1
 boreholes 2
 bumpers
 baths 1
