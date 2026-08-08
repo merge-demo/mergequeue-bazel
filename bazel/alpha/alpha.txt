@@ -8566,7 +8566,7 @@ academise 1
 awns 2
 advisatory 1
 alkahestic
-admonishment
+admonishment 1
 acidifies
 allantoidean
 allantoides 1
