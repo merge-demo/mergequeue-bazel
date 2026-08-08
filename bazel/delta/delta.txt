@@ -13649,7 +13649,7 @@ def 1
 dissimilars 3
 dorize
 dequantitate
-diedral
+diedral 1
 dissimilate 1
 depletion 2
 disacquaintance
