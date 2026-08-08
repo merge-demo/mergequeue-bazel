@@ -28889,7 +28889,7 @@ crew
 coalesces
 curability 1
 ctge
-crewed
+crewed 1
 crewet
 culminations 1
 campit 2
