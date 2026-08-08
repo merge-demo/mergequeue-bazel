@@ -8842,7 +8842,7 @@ enjeopardy 1
 encrypt 3
 emptive
 euonymin 2
-eremic
+eremic 1
 enterocystoma 2
 egregiousness 1
 endocellular 1
