@@ -10987,7 +10987,7 @@ eurhythmic
 epichirema
 echeloot 1
 eoside
-eigenfrequency
+eigenfrequency 1
 escobita 2
 ecologically 1
 ennuye
