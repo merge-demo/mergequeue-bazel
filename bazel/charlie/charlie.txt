@@ -11812,7 +11812,7 @@ choosers
 choosier
 cryotherapy
 choosiness 2
-chadar
+chadar 1
 chop
 consentant 1
 chopa
