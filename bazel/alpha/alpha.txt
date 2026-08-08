@@ -6816,7 +6816,7 @@ airedales
 asseverations 1
 avowant 3
 augment
-airfare
+airfare 1
 amyctic
 airflow 1
 antimoralist
