@@ -11078,7 +11078,7 @@ footrace 4
 flew
 falconet 2
 flangeless 2
-fracturs
+fracturs 1
 forbidder
 foreknowableness 1
 functionation 1
