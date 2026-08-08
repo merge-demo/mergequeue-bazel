@@ -1761,7 +1761,7 @@ bamban 2
 bambochade
 bosuns 2
 bamboozles 3
-bamboozling
+bamboozling 1
 bilanders
 brachman
 burdie
