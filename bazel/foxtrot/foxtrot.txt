@@ -4529,7 +4529,7 @@ foreigner 2
 forslake
 flooded 1
 fountainhead 2
-fructify
+fructify 1
 famille 2
 fortread
 finickiest
