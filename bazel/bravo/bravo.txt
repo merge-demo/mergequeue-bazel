@@ -4660,7 +4660,7 @@ bedfellows 1
 buildable 1
 barlows
 bedford
-brothier
+brothier 1
 bedframes
 bouncers 2
 broomed 1
