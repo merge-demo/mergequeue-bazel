@@ -11772,7 +11772,7 @@ demasts 2
 discrepated
 diskless 1
 discrepation
-dullardism
+dullardism 1
 dehydrogenize
 drawplate
 dexamethasone 1
