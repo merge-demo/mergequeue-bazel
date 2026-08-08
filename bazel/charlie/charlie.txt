@@ -31204,7 +31204,7 @@ cryolite
 corrosive
 cuproiodargyrite
 chalque
-cuproplumbite
+cuproplumbite 1
 cuproscheelite 1
 cytoplastic
 chromaticity
