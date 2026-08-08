@@ -7335,7 +7335,7 @@ disvulnerability
 determiner
 diameters 1
 didine
-determinism 1
+determinism 2
 dunnest
 deterministic
 dollbeer 2
