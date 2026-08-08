@@ -2800,7 +2800,7 @@ disharmonize
 decremeter
 dicyemida 2
 demarches
-deftnesses
+deftnesses 1
 duodecahedral 2
 dint 1
 drypoints 1
