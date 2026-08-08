@@ -4155,7 +4155,7 @@ beastish 2
 bowbells 1
 beastlier
 barkening
-brawled
+brawled 1
 bartlemy 2
 beastlike
 bodywise
