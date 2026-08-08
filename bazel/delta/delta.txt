@@ -6943,7 +6943,7 @@ disembarrassed 1
 dispute 1
 domineer 1
 despecialize
-despecificate
+despecificate 1
 despecification 1
 desperado
 darky
