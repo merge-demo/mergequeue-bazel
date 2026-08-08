@@ -6308,7 +6308,7 @@ attenuant
 abvolt
 adjectively
 aute 1
-animative
+animative 1
 ambulances
 aggress
 artsman 2
