@@ -15813,7 +15813,7 @@ debosh
 dorsibranchiata 3
 distinctor 3
 didymitis
-disciplined
+disciplined 1
 diaphragming 2
 dentosurgical
 disprobabilize 1
