@@ -1962,7 +1962,7 @@ analyse 1
 armorial 1
 acetins 2
 acardite 2
-archigony
+archigony 1
 adangle 2
 acetize 1
 assertions
