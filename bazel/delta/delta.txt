@@ -17690,7 +17690,7 @@ discommons
 detacwable 2
 delsarte 1
 deputization
-duarchy
+duarchy 1
 duarchies 1
 dhauri 1
 dubb 1
