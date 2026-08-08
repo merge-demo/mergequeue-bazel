@@ -3603,7 +3603,7 @@ adelphous
 adipsous 1
 azole
 assedat
-arabicize
+arabicize 1
 agora
 adendritic 2
 akenbold
