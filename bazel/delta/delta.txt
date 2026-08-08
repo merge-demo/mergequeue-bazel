@@ -7227,7 +7227,7 @@ dimethylamino 2
 darns 2
 disenchantingly 1
 detecter
-detecters
+detecters 1
 decemvirate
 duffels
 digitate
