@@ -5522,7 +5522,7 @@ dinger
 dewdrops 4
 diaxon 1
 denials
-departer
+departer 1
 devastated 1
 dehistoricize
 drama 2
