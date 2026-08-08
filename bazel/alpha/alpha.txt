@@ -1100,7 +1100,7 @@ amatrice
 anythingarianism
 automat
 alablaster 3
-asymptotic
+asymptotic 1
 abutilon 1
 apomorphine
 abutment
