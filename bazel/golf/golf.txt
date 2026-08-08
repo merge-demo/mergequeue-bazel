@@ -561,7 +561,7 @@ garde 2
 goolah 2
 gazometer
 galempong 2
-getfd 1
+getfd 2
 growls 1
 gableended 2
 gravamem 2
