@@ -3587,7 +3587,7 @@ embossing 5
 emulsifications 1
 embossman 1
 esophagoplegia
-enchantery
+enchantery 1
 emanent 1
 edifier
 extracellularly 2
