@@ -21022,7 +21022,7 @@ cystaster
 curvedness
 catenaries
 consolidate 1
-compunctionless
+compunctionless 1
 cyanean 1
 crofterize 1
 considerer
