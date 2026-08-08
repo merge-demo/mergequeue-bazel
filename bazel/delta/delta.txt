@@ -2148,7 +2148,7 @@ diabolology 1
 downtime
 disturbs 1
 diosmosis 2
-decantist
+decantist 1
 decaffeinated 1
 decapitates
 decapitation 1
