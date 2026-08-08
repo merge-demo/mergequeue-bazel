@@ -4715,7 +4715,7 @@ bedizen 2
 boubas 1
 beekmantown
 bedkey
-bandpass 1
+bandpass 2
 braved 2
 braze 1
 bootlegger 1
