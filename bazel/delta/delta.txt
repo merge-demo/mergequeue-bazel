@@ -306,7 +306,7 @@ demisheath
 depolarized 1
 dayanim 1
 daybeacon 1
-dealbate
+dealbate 1
 daybed
 devchar
 disembowelment 1
