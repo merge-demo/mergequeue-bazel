@@ -15568,7 +15568,7 @@ beast 1
 bussy 1
 barbule 1
 boardable 1
-brisking
+brisking 1
 briss
 backwoodsman 1
 bolsterer
