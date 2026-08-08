@@ -3997,7 +3997,7 @@ clerisy
 carchariidae
 carcharioid 1
 congredient
-carcharodont
+carcharodont 1
 correctify 1
 carcinemia
 croquettes
