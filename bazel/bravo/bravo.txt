@@ -5274,7 +5274,7 @@ beggaring
 bicrescentic
 bringsel
 beggarlike 1
-boshas
+boshas 1
 bullom 1
 brimless 1
 bubbies 3
