@@ -21947,7 +21947,7 @@ chakras 2
 cratemaker 3
 comble 1
 confidentialness
-confidently
+confidently 1
 confidentness
 confider 1
 confiders 1
