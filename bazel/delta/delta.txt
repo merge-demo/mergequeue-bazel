@@ -9819,7 +9819,7 @@ dromos 1
 dilo 2
 differentially 2
 disenamour
-detonators
+detonators 1
 descendant
 dinosaur
 dolphinfishes 1
