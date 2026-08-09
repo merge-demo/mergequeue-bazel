@@ -6431,7 +6431,7 @@ glossopteris 2
 golaseccan 2
 glassman 1
 gobiesocid 1
-geostrophic
+geostrophic 1
 gymnocladus
 grows 4
 gentlemanliness 3
