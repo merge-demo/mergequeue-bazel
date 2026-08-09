@@ -5450,7 +5450,7 @@ famished
 foresummer
 feridjee
 furfuration 2
-fanatic
+fanatic 1
 fretsome
 fleeter 1
 fermentatively
