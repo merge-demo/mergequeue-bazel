@@ -9413,7 +9413,7 @@ bovidae 5
 boga 1
 birectangular
 burh
-bireme
+bireme 1
 bedlids 2
 begeck 1
 bacteriostat
