@@ -4931,7 +4931,7 @@ fusee 2
 flidder
 frogflower 1
 facetiously 2
-flatteringly
+flatteringly 1
 fergusite 1
 frenetic 1
 formly 1
