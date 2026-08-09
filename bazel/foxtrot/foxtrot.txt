@@ -10060,7 +10060,7 @@ fleyed
 foretaste 3
 flyball
 foamiest
-forwardness
+forwardness 1
 fiercly 1
 footnotes 1
 fetalism 1
