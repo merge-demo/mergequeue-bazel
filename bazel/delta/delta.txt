@@ -2290,7 +2290,7 @@ decayer
 decene 5
 depurator
 decennial
-dingdongs
+dingdongs 1
 decennium
 diagraphical
 denouncing 2
