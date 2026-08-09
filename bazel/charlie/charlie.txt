@@ -9552,7 +9552,7 @@ consummatively 1
 checkrows
 computational 1
 chapatty
-checkstring
+checkstring 1
 cuissen 1
 checksum
 construct 1
