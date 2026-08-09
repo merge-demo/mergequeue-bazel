@@ -12482,7 +12482,7 @@ expiated
 ethicality
 exilement 1
 escalading
-escheatable
+escheatable 1
 exility 3
 exanthem
 eyestones 2
