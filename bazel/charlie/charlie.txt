@@ -21131,7 +21131,7 @@ conceal 1
 concealable
 cadger 4
 cowy 1
-concealedly
+concealedly 1
 concealedness
 concealer 1
 concealing
