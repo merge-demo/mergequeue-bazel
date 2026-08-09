@@ -7425,7 +7425,7 @@ fawnlike 1
 fans
 firefang
 footmen 2
-ferrocerium 1
+ferrocerium 2
 forwarder 1
 filicides
 fileable
