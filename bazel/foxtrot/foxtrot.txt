@@ -5722,7 +5722,7 @@ floodwater 1
 fitroot 1
 flippancies 3
 freshness
-ferrary
+ferrary 1
 fetor
 flirty 1
 feculent 1
