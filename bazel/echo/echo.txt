@@ -13507,7 +13507,7 @@ equipollence 2
 ensnares 1
 embroiderers
 ectosteal 1
-examine
+examine 1
 elephantous 1
 erotology
 exteriorization 1
