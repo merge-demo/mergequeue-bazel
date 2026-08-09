@@ -9748,7 +9748,7 @@ decussated 1
 disilicane
 deerdrive
 dilates
-disapprovable
+disapprovable 1
 descender 1
 decolourization
 dilatometer 1
