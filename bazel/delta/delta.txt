@@ -17305,7 +17305,7 @@ dronage
 discovenant
 dronepipe 1
 devaunt
-deduct
+deduct 1
 devolvement 1
 dilatability
 drony 1
