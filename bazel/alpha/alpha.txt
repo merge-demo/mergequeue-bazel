@@ -2655,7 +2655,7 @@ acre
 amount 2
 afoam
 aquamarine 1
-ammochaeta
+ammochaeta 1
 acreage
 anamirta 1
 arrythmic 1
