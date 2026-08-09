@@ -3887,7 +3887,7 @@ bidding
 beforesaid
 basifacial
 bawneen
-bawra
+bawra 1
 barklyite 1
 bawsint 2
 brutalness
