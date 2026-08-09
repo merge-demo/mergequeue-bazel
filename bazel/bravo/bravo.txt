@@ -3587,7 +3587,7 @@ bathometry 1
 blockmaking 1
 bathool 1
 balneary 1
-boomkins
+boomkins 1
 bathophobia 3
 buvette 2
 bathos
