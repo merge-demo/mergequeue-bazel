@@ -13825,7 +13825,7 @@ atacamite 1
 anorthite
 adriana
 antiparalytic
-anorthitic
+anorthitic 1
 anorthographic 3
 axospermous 1
 anorthographical
