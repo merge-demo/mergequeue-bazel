@@ -2979,7 +2979,7 @@ depositional 2
 diaphanotype 2
 describers
 decemfid 1
-deductio 1
+deductio 2
 deductions 1
 dwarfism 3
 distrainment 1
