@@ -5903,7 +5903,7 @@ catfaced 1
 constructable 1
 chivy
 catfacing 1
-catfall
+catfall 1
 catfalls 1
 catfight
 creeled 1
