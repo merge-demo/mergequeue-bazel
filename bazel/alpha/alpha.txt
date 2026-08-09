@@ -19932,7 +19932,7 @@ autohemorrhage 2
 aplopappus
 armors
 aqueous 1
-apophyge
+apophyge 1
 artistically
 acle
 armouchiquois
