@@ -2812,7 +2812,7 @@ carajura
 cursitor 1
 cannulating 1
 chinafish 2
-colius
+colius 1
 canoeist
 canoeload 1
 canoes
