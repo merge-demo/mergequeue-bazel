@@ -4856,7 +4856,7 @@ carriages 1
 crosstie
 carriagesmith 1
 cinchonicin
-carriageway 1
+carriageway 2
 carryall 1
 carrick
 carrycot
