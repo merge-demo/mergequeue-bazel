@@ -2814,7 +2814,7 @@ analogs 2
 antiscience
 acromelalgia 1
 airworthier
-armorproof
+armorproof 1
 atonics
 acquiesced
 archostenosis
