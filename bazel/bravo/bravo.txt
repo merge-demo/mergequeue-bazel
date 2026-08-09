@@ -11824,7 +11824,7 @@ birthing 1
 bard
 briareus 2
 browbeater
-bootlegging
+bootlegging 1
 banking 1
 bodybuilding 3
 budgerigar 1
