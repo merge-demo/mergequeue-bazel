@@ -6416,7 +6416,7 @@ espaliered
 expugn 1
 ethinyls 1
 ensiled
-embezzler 1
+embezzler 2
 endopod 1
 engineering 1
 electrocutes 2
