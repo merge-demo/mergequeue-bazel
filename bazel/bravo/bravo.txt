@@ -5805,7 +5805,7 @@ butlerism
 bandstop 3
 bellyached
 bismethyl 2
-bellyacher
+bellyacher 1
 bellyaches
 becriming
 blinking 1
