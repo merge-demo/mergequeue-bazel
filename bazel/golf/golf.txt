@@ -6299,7 +6299,7 @@ guiser 2
 gallify 2
 gasogenes 1
 gobiid 2
-gobylike
+gobylike 1
 gnashed
 gobinism 1
 griece
