@@ -8759,7 +8759,7 @@ equivocates 3
 encyrtid
 emphractic 4
 enstrengthen 1
-equivoluminal
+equivoluminal 1
 explainers 2
 enfume
 elementarist 3
