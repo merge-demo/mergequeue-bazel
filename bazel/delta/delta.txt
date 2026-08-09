@@ -16613,7 +16613,7 @@ dissent 2
 dwellers 1
 decorates
 dragonish
-drunkeness
+drunkeness 1
 dragonroot 1
 dilutant
 detesting 3
