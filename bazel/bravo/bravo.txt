@@ -6320,7 +6320,7 @@ billbroking
 barrer 1
 butment 2
 brike
-baratte
+baratte 1
 benzanthracene
 boxboard 1
 bestowed 1
