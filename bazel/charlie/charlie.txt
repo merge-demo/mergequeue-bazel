@@ -24699,7 +24699,7 @@ crepehanger
 coppin 1
 charkhana
 corkscrewing
-canyons
+canyons 1
 cell 1
 coldish 1
 copping 1
