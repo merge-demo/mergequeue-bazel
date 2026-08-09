@@ -13157,7 +13157,7 @@ bonanzas
 borrowable 1
 barocyclonometer
 borrower
-borrowers
+borrowers 1
 bors
 butteriest 1
 barded 1
