@@ -10963,7 +10963,7 @@ arbitrer 2
 acceptant 2
 autodialers 3
 asbestine
-amoebobacter
+amoebobacter 1
 anglomaniac
 apulse 1
 abolitionary 2
