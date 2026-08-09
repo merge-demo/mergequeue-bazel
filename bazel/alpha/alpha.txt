@@ -14542,7 +14542,7 @@ anthropomorphidae
 armature 1
 anthropomorphised
 arimaspian
-admirability
+admirability 1
 arborean
 admass 1
 anthropomorphisms 2
