@@ -18406,7 +18406,7 @@ bowfins 1
 bagwash 3
 buttonweed 2
 bwanas 1
-bombardmen
+bombardmen 1
 banned 2
 bloodwort 1
 bxs 1
