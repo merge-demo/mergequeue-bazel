@@ -9229,7 +9229,7 @@ derelict 1
 decahedrodra 1
 dieldrins 2
 dielectric 1
-doziest
+doziest 1
 disparately 2
 dismerit
 depender
