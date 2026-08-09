@@ -7217,7 +7217,7 @@ doomsdays 1
 dehiscence
 demultiplexing 3
 detainee
-detaining
+detaining 1
 disinfecter 1
 detar 1
 detassel 1
