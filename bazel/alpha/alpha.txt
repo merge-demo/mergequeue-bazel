@@ -13366,7 +13366,7 @@ ascill 1
 anywhence
 appurtenance
 anywhither 1
-anywither
+anywither 1
 anhalonium 2
 areolar 1
 androgenic
