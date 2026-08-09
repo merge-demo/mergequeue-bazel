@@ -17438,7 +17438,7 @@ dishmop
 droughts 1
 dominium 1
 drouket 1
-deskill
+deskill 1
 dermatographic
 damascener
 diagrammatician 2
