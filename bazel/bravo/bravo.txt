@@ -3468,7 +3468,7 @@ batable 1
 bespatter
 bernicia
 bracket
-berzeliite
+berzeliite 1
 batad 1
 barbascoes
 barrages
