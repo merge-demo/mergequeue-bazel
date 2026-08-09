@@ -3549,7 +3549,7 @@ estriols 1
 enfoeffment
 exothermic 1
 exanthematous
-ergographic 2
+ergographic 3
 entozoon 1
 emboweled
 epithecial 1

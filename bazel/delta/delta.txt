@@ -3213,7 +3213,7 @@ damselflies 1
 dudelsack 1
 dashpot 2
 defeit
-de
+de 1
 dogdom
 deciding
 douses 2
