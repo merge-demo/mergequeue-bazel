@@ -12389,7 +12389,7 @@ cnidophobia
 culebra
 chromatopsia
 chromatoptometer
-chromatoptometry
+chromatoptometry 1
 couch 1
 cobalticyanic 1
 chromatoscopy
