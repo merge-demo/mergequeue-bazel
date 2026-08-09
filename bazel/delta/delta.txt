@@ -10626,7 +10626,7 @@ decompressing 2
 diplomats 1
 dysporomorph 1
 drawfile 1
-diphtheritic
+diphtheritic 1
 diplonema
 deuteric
 detritus
