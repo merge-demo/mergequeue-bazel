@@ -10887,7 +10887,7 @@ exrupeal 1
 emmetropia 1
 eutectic
 extensor 1
-embryoplastic 1
+embryoplastic 2
 esthetic 1
 enchaser 2
 electrothanasia 1
