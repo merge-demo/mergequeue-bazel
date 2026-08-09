@@ -8392,7 +8392,7 @@ forlanas 1
 floppy 2
 forleit 3
 felling 1
-forcipes
+forcipes 1
 framboise 1
 familist 1
 fornications 3
