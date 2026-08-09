@@ -5524,7 +5524,7 @@ fletchers 4
 furrower 3
 furnit
 fisc 3
-faked 2
+faked 3
 filionymic 6
 forbearingness
 frowzy 1
