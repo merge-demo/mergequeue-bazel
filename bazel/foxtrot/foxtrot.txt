@@ -5233,7 +5233,7 @@ farse
 fulfil
 fourling
 fleas 1
-fluxroot
+fluxroot 1
 fratcheous 1
 flavid
 fluctuosity 2
