@@ -384,7 +384,7 @@ dreadness 2
 daimios 1
 dadap 2
 daimyos 1
-drinkers
+drinkers 1
 daimiote 3
 defension 1
 deployable 1
