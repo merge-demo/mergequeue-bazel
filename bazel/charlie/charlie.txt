@@ -5879,7 +5879,7 @@ catercap
 catercorner 1
 camsteary
 caller 1
-catercornered
+catercornered 1
 craner
 catered 1
 codpiece
