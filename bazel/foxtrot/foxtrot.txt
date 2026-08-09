@@ -11498,7 +11498,7 @@ furunculous
 furzeling 1
 furzy 3
 fastest
-flammable
+flammable 1
 flouncy
 fluently 1
 fusariose 1
