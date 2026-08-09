@@ -25524,7 +25524,7 @@ calp
 corrosible 1
 calibrators
 coronations
-chitchatty
+chitchatty 1
 coronel 1
 chamaerrhine
 coronership
