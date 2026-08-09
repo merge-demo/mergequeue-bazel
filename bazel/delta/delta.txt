@@ -9275,7 +9275,7 @@ diestock
 diestrous
 drawbridge
 diestrums
-drupaceae
+drupaceae 1
 disambiguations 1
 daikering
 diurne 1
