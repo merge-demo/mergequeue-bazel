@@ -12160,7 +12160,7 @@ assobre 1
 archpretender 1
 asepsis
 antiworld
-antimagistratical
+antimagistratical 1
 agaonidae 1
 aneretic 1
 algebrization 3
