@@ -13167,7 +13167,7 @@ bovines
 bilobated 2
 besneer 2
 bullhorns 2
-baronize
+baronize 1
 bangtail
 brachycephalize 1
 bourlaw 1
