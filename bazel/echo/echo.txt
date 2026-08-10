@@ -2627,7 +2627,7 @@ electrophoretogram
 expansure
 exturb
 estimated 2
-eave 1
+eave 2
 eu 1
 ecthetically 1
 etherizing 2
