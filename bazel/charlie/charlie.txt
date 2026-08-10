@@ -9886,7 +9886,7 @@ chemoserotherapy
 chemosynthesis
 chemosynthetic 1
 chemosmoses 1
-chemosmotic
+chemosmotic 1
 consumptible
 calpacks 1
 caleches
