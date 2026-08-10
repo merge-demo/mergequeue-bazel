@@ -30577,7 +30577,7 @@ cuboctahedron
 cubocube
 cashboy
 crepidula
-cubocuneiform 1
+cubocuneiform 2
 cubododecahedral 1
 concarnation
 cuboid 2
