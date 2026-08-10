@@ -13588,7 +13588,7 @@ apprizes
 aquafortis
 annulment 1
 annuloid 1
-autoaddress
+autoaddress 1
 abura
 akaakai
 apostasis
