@@ -11310,7 +11310,7 @@ fleabite
 faultfinding 1
 fossilogist 1
 favorability 2
-furfuralcohol 1
+furfuralcohol 2
 freebees 4
 flathat 1
 femorocaudal 3
