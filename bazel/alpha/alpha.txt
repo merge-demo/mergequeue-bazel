@@ -12816,7 +12816,7 @@ androgyn
 asseize 1
 angiopressure
 acquaintance
-angiorrhaphy
+angiorrhaphy 1
 angiorrhea 2
 armorwise
 ammocoetid 1
