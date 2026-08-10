@@ -17024,7 +17024,7 @@ cnidoblast 1
 cnidocil
 cobbed 1
 coexplosion 1
-cupmate
+cupmate 1
 cortisone 1
 cnidopod
 conoids
