@@ -23278,7 +23278,7 @@ consulta
 captors 1
 carminate
 consultable
-crevalle
+crevalle 1
 carbora 1
 commote 1
 calmative
