@@ -5822,7 +5822,7 @@ bldg 2
 bricks 2
 bellicism 2
 beyonds
-bellicist 1
+bellicist 2
 bromometry
 belligerents
 buildress
