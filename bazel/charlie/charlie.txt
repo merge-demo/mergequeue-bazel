@@ -10386,7 +10386,7 @@ chieftains 1
 cracknels
 chiefty
 chiel
-coapts
+coapts 1
 column
 chield
 conemaker 4
