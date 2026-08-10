@@ -12530,7 +12530,7 @@ emissaria 2
 enhalos 1
 eugeny
 enneacontahedron 1
-exoskeleton
+exoskeleton 1
 exist 1
 existed
 elucidating
