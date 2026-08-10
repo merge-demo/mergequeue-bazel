@@ -7817,7 +7817,7 @@ epigyne 3
 endotoxic 1
 empest
 ectodynamomorphic 1
-extenuation
+extenuation 1
 echolalia
 exodermis 1
 empirical
