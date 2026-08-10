@@ -12677,7 +12677,7 @@ dissolute 1
 disleafed 2
 dermatophone 1
 diffrangibility 1
-disleaved
+disleaved 1
 disjointure
 disepalous
 dentalize
