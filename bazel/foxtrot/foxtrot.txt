@@ -8143,7 +8143,7 @@ fellable 3
 fanegadas 2
 fundmonger 2
 forcepses
-forevers
+forevers 1
 flectionless 2
 foregate 3
 forthwith 2
