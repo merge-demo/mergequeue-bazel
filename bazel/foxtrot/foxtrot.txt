@@ -9532,7 +9532,7 @@ flask
 fibrovasal 3
 foveate 2
 fermenter
-freckle 2
+freckle 3
 furnace
 fieldmouse
 fruitfullness 4
