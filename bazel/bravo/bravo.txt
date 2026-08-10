@@ -4774,7 +4774,7 @@ bedrench 1
 baldling
 blast 1
 bed 1
-bedribble 3
+bedribble 4
 bhalu 1
 burglarizes
 bibracteate
