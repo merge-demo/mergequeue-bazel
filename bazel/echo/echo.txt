@@ -8048,7 +8048,7 @@ eggar
 ease 2
 entoconid 1
 enstatitic 3
-easements
+easements 1
 escapingly 1
 evident 1
 expound 1
