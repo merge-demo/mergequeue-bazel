@@ -2258,7 +2258,7 @@ broadsheet 3
 brier 1
 bianco 1
 bysen 1
-broadbrim 1
+broadbrim 2
 bactericholia
 bide 1
 bathochromy
