@@ -12348,7 +12348,7 @@ blan 3
 beefsteaks 1
 bobfly 2
 brimful
-broideries
+broideries 1
 bathyplankton
 bombing
 beautifies
