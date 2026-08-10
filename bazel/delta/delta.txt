@@ -12557,7 +12557,7 @@ depend 1
 defies
 divertible 1
 disingenuousness 2
-dicaryophase
+dicaryophase 1
 detonator 1
 disinheritable
 diuturnity 1
