@@ -1489,7 +1489,7 @@ borstal 1
 bistable
 booked 1
 bedsick 2
-balladic
+balladic 1
 balladised
 balladism 1
 braked
