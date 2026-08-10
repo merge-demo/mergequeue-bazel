@@ -2039,7 +2039,7 @@ decagram
 dourness 1
 decagrams 1
 declasse 2
-despised
+despised 1
 diverberate 5
 decahedron 1
 disclassify
