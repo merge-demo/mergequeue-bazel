@@ -6720,7 +6720,7 @@ copings
 colorfast 1
 celastrus 1
 cuculla
-celation
+celation 1
 cheapjack
 celature
 celeb
