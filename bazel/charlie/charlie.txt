@@ -127,7 +127,7 @@ capacitated
 cabinetted 2
 coumalic 2
 chordophone
-clitelline
+clitelline 1
 cabinetworker
 cabinetworking
 cabinlike 1
