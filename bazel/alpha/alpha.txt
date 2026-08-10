@@ -20433,7 +20433,7 @@ antitypes 2
 acceptableness
 appeared 1
 adaptively
-anaglyphoscope
+anaglyphoscope 1
 argylls 1
 autosymnoia 1
 alme
