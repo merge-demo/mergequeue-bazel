@@ -29916,7 +29916,7 @@ crosshauling 1
 chipper 1
 crossings
 crossite
-contriteness
+contriteness 1
 cinnamenyl
 crosslegs
 complainer 2
