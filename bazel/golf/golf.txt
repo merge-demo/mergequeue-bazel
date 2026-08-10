@@ -10340,7 +10340,7 @@ grubstaking 1
 gules 3
 gown 1
 gonoph 1
-grot
+grot 1
 glebal 2
 guarana
 gaums 1
