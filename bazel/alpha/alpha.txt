@@ -13303,7 +13303,7 @@ aurifex 1
 agglutinability 1
 autosome
 abobra
-anthelminthic
+anthelminthic 1
 apoturmeric
 anisometric 1
 antimerger
