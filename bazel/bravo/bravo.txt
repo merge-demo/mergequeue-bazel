@@ -17795,7 +17795,7 @@ bursty
 buoyances 1
 breakback 3
 burroweed 1
-burrows
+burrows 1
 benevolent
 burrstone
 bambini
