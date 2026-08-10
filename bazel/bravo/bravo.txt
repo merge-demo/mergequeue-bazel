@@ -1138,7 +1138,7 @@ banqueter 2
 bridges 2
 baitfish
 buffeter 1
-ballard
+ballard 1
 baiting 1
 baittle
 baywoods 2
