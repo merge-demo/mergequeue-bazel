@@ -15647,7 +15647,7 @@ craniotympanic
 cartilaginification 1
 clausthalite
 claustral
-claustration
+claustration 1
 characinoid 2
 concludence
 coenoecium
