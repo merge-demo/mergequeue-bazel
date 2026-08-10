@@ -30741,7 +30741,7 @@ cuing
 cuirassed 2
 catachrestical
 cuirasses
-cuirassier 2
+cuirassier 3
 commonplacely 1
 conusor
 calycophora
