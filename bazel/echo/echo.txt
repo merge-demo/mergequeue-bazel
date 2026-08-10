@@ -340,7 +340,7 @@ estops 1
 eastre 1
 extents 2
 enturret 2
-empresse
+empresse 1
 embleming 1
 epirogenic 1
 eagerer
