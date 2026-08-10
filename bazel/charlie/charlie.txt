@@ -18369,7 +18369,7 @@ crookeries 1
 centime 3
 cognacs
 cognate
-contrarevolutionary
+contrarevolutionary 1
 chamsin
 cognately
 cerotate 1
