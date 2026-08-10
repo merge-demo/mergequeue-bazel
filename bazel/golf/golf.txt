@@ -8994,7 +8994,7 @@ guaranteed 2
 gradgrindish 2
 glander 3
 gushers 1
-getable
+getable 1
 gigant 4
 glenlike
 greenbelt 1
