@@ -15036,7 +15036,7 @@ archworker
 achyrodes 1
 anticrisis 1
 anticritic
-anaglyptics
+anaglyptics 1
 anticritical 1
 astrose
 anasarcas
