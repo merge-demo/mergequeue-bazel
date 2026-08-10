@@ -6754,7 +6754,7 @@ georgic 4
 gulash 2
 graminivorous 1
 galvanolysis
-giddyberry
+giddyberry 1
 guaiasanol 1
 glucide 4
 groomy 3
