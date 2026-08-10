@@ -9883,7 +9883,7 @@ bismer
 blockers
 bewhisper 1
 bassinets 1
-biffin 1
+biffin 2
 bitterer 2
 broth
 baygall
