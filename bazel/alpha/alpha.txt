@@ -6071,7 +6071,7 @@ agitability 1
 archilowe
 accouters 1
 agitant
-agitate
+agitate 1
 agitated
 agitational 1
 aftosa
