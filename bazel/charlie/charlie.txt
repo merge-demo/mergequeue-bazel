@@ -7022,7 +7022,7 @@ coolies 3
 chock 1
 centaur
 centaurdom 1
-cuvette
+cuvette 1
 centaurea 1
 carretta
 cantoned 1
