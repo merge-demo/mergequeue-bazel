@@ -4342,7 +4342,7 @@ enamelless
 eluder
 emit 1
 edibles 3
-enami
+enami 1
 estranging 2
 enamorado 2
 enamorato 1
