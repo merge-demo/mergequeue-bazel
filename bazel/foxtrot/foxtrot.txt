@@ -6035,7 +6035,7 @@ flabbiness
 fresco 1
 fermorite 1
 flightiness 2
-finger 1
+finger 2
 fontange 3
 forgab 1
 frontooccipital 1
