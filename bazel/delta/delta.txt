@@ -278,7 +278,7 @@ doradilla 1
 daguerreotyped
 daguerreotyping
 digitonin
-dreadnaught
+dreadnaught 1
 docken
 debugged 1
 disassiduity 1
