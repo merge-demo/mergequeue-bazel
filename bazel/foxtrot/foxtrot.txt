@@ -2794,7 +2794,7 @@ fluorimeter 2
 forgift 3
 fistulized 1
 forbearer 2
-ftncmd
+ftncmd 1
 foxtailed 2
 fotch 1
 filao
