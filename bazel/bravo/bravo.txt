@@ -5185,7 +5185,7 @@ bondfolk 1
 barragan 1
 bicentricity 2
 blastodisk 1
-bypasser
+bypasser 1
 bachelry 1
 beleed
 bidarkees
