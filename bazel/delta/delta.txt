@@ -14142,7 +14142,7 @@ doyst
 disulfonic
 dispread 2
 disulfoxid
-dhobi
+dhobi 1
 defective
 demandingness 1
 decedent 1
