@@ -12784,7 +12784,7 @@ elsewise 1
 exortion 1
 endodontia 1
 exosmose 1
-exosmotic
+exosmotic 1
 explicative 1
 erotize
 edaphosaurid 1
