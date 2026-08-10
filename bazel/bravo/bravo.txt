@@ -4402,7 +4402,7 @@ bakeboard 2
 bonzian
 bepress
 barrable 2
-butyrousness
+butyrousness 1
 bickers 1
 bushwhacker 1
 bathyseism
