@@ -18183,7 +18183,7 @@ centerless
 coessentially 1
 cervulus 1
 coetaneous
-coeternal
+coeternal 1
 coeternity
 caninity 1
 coeval 1
