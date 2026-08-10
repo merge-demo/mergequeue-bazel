@@ -5836,7 +5836,7 @@ assumptive 1
 archiannelida
 ageisms 2
 antiturnpikeism
-arithmetical
+arithmetical 1
 atteal
 agelast
 agelaus
