@@ -13970,7 +13970,7 @@ emceed 1
 embosked 2
 enwreathed 2
 endears 2
-exundance
+exundance 1
 exsuperance 2
 extraperiosteal 1
 engem 1
