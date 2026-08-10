@@ -5042,7 +5042,7 @@ geosynclinal 1
 glaum 2
 gilliflirt 4
 gamekeepers
-glariness
+glariness 1
 gregarinae
 gatch 2
 grutched 2
