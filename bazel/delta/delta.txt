@@ -14988,7 +14988,7 @@ dogboat
 dolomites 1
 diathermacy 1
 defogs
-dogdoms
+dogdoms 1
 deprogram
 dissolving
 dogear 1
