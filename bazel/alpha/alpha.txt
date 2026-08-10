@@ -21432,7 +21432,7 @@ aspect
 aspectable 2
 aspectant 2
 aspects
-acyclically
+acyclically 1
 aspens 1
 asper
 amnesties
