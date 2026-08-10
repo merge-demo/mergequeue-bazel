@@ -4070,7 +4070,7 @@ freefd 4
 finitism 1
 frankest
 finitive 2
-felapton
+felapton 1
 formants 1
 foppishness 1
 finitude 3
