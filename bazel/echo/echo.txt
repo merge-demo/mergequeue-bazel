@@ -2166,7 +2166,7 @@ euphonise 1
 enrib
 effloresces 2
 extrapolar 2
-explanative
+explanative 1
 externalism
 eucalyptography 3
 evangelizer 2
