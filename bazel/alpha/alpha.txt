@@ -11398,7 +11398,7 @@ antiplenist
 admirers 2
 airlight 1
 abody
-amps
+amps 1
 assigner
 approximant
 adversive
