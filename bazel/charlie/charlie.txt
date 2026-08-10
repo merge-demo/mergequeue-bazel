@@ -31325,7 +31325,7 @@ clarinos
 cornix
 cureless
 corypha
-curelessness
+curelessness 1
 coadjument
 curers
 clubber 2
