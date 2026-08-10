@@ -1949,7 +1949,7 @@ dominoes 1
 disobeys 1
 dreader 1
 depressant 3
-dobla
+dobla 1
 deckload 1
 doze 1
 dungy
