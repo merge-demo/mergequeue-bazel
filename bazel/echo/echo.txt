@@ -6736,7 +6736,7 @@ exstimulate 1
 exhumed 4
 eonism
 exstill 1
-entete
+entete 1
 eurytherm 2
 epistrophy 1
 etherate
