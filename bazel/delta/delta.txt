@@ -4565,7 +4565,7 @@ demiman
 dali
 detax
 dungyard
-disproportionality
+disproportionality 1
 demimondain 2
 derided
 dibranchiata 1
