@@ -5940,7 +5940,7 @@ excursive
 exclave 1
 eftest 1
 ethmonasal 1
-enheart
+enheart 1
 enhearten 2
 echinoderes 1
 exantlation 2
