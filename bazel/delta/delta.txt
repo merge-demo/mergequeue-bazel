@@ -7093,7 +7093,7 @@ drowsed
 dissuasions
 deterrently 1
 domajig 2
-demesmerize
+demesmerize 1
 descriptiveness 1
 disorient 1
 desto 1
