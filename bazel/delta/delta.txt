@@ -5862,7 +5862,7 @@ desolations
 diachoresis 1
 domal
 demeaning 1
-disconcert
+disconcert 1
 deprecative 1
 dissolvable
 deprecator
