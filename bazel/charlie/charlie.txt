@@ -20578,7 +20578,7 @@ compering 1
 compert
 competed
 competent
-competentness
+competentness 1
 classmates 2
 competible
 cyclothem
