@@ -11005,7 +11005,7 @@ freeport 3
 freshly 1
 fortilage 2
 fordable
-feuillemorte 1
+feuillemorte 2
 famelessness
 funkia
 fabliaux 1
