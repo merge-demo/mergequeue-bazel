@@ -26797,7 +26797,7 @@ counterdistinguish 2
 conant
 counterdoctrine 3
 chromogenic
-clamping
+clamping 1
 counterdogmatism 1
 counterdrive
 countered
