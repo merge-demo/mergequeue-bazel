@@ -18370,7 +18370,7 @@ denudative 2
 duodenojejunostomies
 dillue 3
 douches 2
-duodenoscopy
+duodenoscopy 1
 denotate
 digmeat 3
 duodenostomy 1
