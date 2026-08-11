@@ -14787,7 +14787,7 @@ dyphone
 dockhand
 dockhouse
 dilambdodont
-deringers
+deringers 1
 dockyards 1
 docking 1
 dockization
