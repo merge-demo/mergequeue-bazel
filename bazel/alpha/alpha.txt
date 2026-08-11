@@ -4654,7 +4654,7 @@ aedile
 adject 4
 aediles 2
 aknee
-airbursts 1
+airbursts 2
 aedileship 2
 anthropomorphitism
 asidehand 1
