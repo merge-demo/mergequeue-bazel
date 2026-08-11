@@ -8544,7 +8544,7 @@ gourmand 3
 grabbling
 generates 1
 geranomorph 1
-geodetical
+geodetical 1
 gusla 1
 gilo 2
 germaneness 1
