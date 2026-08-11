@@ -9710,7 +9710,7 @@ frenchly
 fafaronade 1
 fissionability
 festinate 1
-floatable 1
+floatable 2
 footmanry 2
 faunch 2
 facework 1
