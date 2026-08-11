@@ -12414,7 +12414,7 @@ amberina 1
 anticomplex 1
 afflictions
 androgynal
-alterity
+alterity 1
 arillode 1
 androgyne 1
 androgynia
