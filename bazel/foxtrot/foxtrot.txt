@@ -9666,7 +9666,7 @@ fruit 1
 fowled 3
 flipflop
 foretoken 4
-faldstool
+faldstool 1
 fringe 2
 fouquieria
 foldouts 1
