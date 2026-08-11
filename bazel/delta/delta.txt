@@ -12723,7 +12723,7 @@ doubleness 1
 daut
 depreciating 2
 diphenol 2
-dishonesty
+dishonesty 1
 deindividualization
 domicilement 1
 durns
