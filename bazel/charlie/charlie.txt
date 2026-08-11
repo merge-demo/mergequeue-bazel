@@ -28418,7 +28418,7 @@ creaking 1
 creambush 2
 creameries
 coracoids
-cloakage
+cloakage 1
 coccidia 1
 creamerymen 1
 creamy
