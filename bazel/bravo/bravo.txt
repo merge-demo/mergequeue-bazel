@@ -11152,7 +11152,7 @@ bandarlog
 boiloff 2
 balloters
 bloodthirster 1
-beliquors
+beliquors 1
 blindages 1
 beknot
 bitewings
