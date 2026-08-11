@@ -282,7 +282,7 @@ arsines 1
 anolian 1
 abdominalian
 appurtenances
-accuracy
+accuracy 1
 autotropism 1
 abdominally
 aeroacoustic 4
