@@ -8074,7 +8074,7 @@ brast
 burrobrush 1
 bid 1
 bidactylous 2
-biddability
+biddability 1
 biddably
 benedict 1
 boread
