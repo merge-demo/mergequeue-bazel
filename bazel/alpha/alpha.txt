@@ -12879,7 +12879,7 @@ angletwitch 2
 allays
 anglewise
 avenger
-asteraceous
+asteraceous 1
 anglian 1
 apportionment
 anglicanisms
