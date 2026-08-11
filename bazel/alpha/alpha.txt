@@ -23235,7 +23235,7 @@ alopathic 1
 attingency 1
 asked
 attingent
-anisognathous
+anisognathous 1
 aggro
 autosuggestions
 apple
