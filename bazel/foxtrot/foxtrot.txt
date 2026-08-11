@@ -6023,7 +6023,7 @@ flitchplate 1
 foreheater
 floral 1
 floralize 1
-floras 3
+floras 4
 furnaced 1
 focusless
 freakish
