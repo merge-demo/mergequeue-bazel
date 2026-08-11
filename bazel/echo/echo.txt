@@ -12562,7 +12562,7 @@ envied 1
 enherit
 entryman 3
 elkdom
-eft
+eft 1
 eucosia 2
 exmeridian
 endorphin
