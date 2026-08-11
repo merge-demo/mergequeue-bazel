@@ -20357,7 +20357,7 @@ commuters
 commutes 1
 chattelship 1
 comoedus
-comolecule
+comolecule 1
 carbonite
 crassness
 cuirass
