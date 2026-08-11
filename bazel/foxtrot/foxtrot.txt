@@ -11605,7 +11605,7 @@ fetch 3
 forcarve 1
 frough 1
 frack 2
-forewinning 1
+forewinning 2
 fulgour 2
 formulizer
 fragilely 2
