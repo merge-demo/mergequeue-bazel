@@ -13206,7 +13206,7 @@ crookbilled
 cannonproof 1
 caryota
 cyclic
-cyclical
+cyclical 1
 cyclizing 1
 cyclically 1
 cyclicalness
