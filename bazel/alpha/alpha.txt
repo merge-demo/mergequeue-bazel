@@ -8754,7 +8754,7 @@ arachidonic 1
 allhallows 1
 ailanthic
 alliance
-actorship
+actorship 1
 abaze
 aramus
 anschluss
