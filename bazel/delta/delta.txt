@@ -8795,7 +8795,7 @@ deftness
 dj
 diazohydroxide 1
 dinettes
-diabolized
+diabolized 1
 dansant 1
 dictations 1
 diffident 1
