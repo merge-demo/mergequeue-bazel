@@ -12868,7 +12868,7 @@ bacchiac
 bangster
 bkpt 3
 burk
-basihyoid 1
+basihyoid 2
 barthian
 breastwise
 boong 1
