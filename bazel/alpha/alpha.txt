@@ -5126,7 +5126,7 @@ admonisher
 accosting 1
 acquainting
 amenia 1
-arrantly
+arrantly 1
 aestivating 1
 aestive
 aestuate
