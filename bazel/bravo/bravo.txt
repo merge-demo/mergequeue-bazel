@@ -9514,7 +9514,7 @@ birthright
 bugaboos 1
 baffeta
 births
-birthstones
+birthstones 1
 bracteolate
 brontephobia
 bulliform
