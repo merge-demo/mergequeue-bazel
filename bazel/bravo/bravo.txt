@@ -12091,7 +12091,7 @@ bold 3
 byrnies
 barrat 1
 beehives
-boldacious
+boldacious 1
 beguileful
 ballyhooed
 brooks 2
