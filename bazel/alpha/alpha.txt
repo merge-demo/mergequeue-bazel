@@ -6102,7 +6102,7 @@ apteral
 ablock
 agamospore 1
 agitatrix
-agitprops
+agitprops 1
 aglance
 anchoritess 2
 aglaozonia 1
