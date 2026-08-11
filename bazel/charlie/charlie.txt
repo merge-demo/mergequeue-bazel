@@ -1103,7 +1103,7 @@ calciminer
 calcimines
 crudeness
 calcimining
-choppin
+choppin 1
 crossbarred
 calcinate
 calcinator 1
