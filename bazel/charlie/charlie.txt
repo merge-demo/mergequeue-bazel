@@ -30016,7 +30016,7 @@ crotonate 1
 crotonyl 2
 crotonylene
 crotonization
-chitchat
+chitchat 1
 corrump
 crotons
 crotophaga
