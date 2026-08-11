@@ -24167,7 +24167,7 @@ autoindexing 2
 artificers 2
 autoinfusion 3
 autoinoculable
-antiritualism 1
+antiritualism 2
 aldermanries 1
 abrus
 anquera
