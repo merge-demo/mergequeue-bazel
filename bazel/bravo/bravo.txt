@@ -9089,7 +9089,7 @@ biosynthesize
 benzonitrol 2
 beclout
 birds 2
-bushwhacking 2
+bushwhacking 3
 bistournage
 biennia
 bridgewater
