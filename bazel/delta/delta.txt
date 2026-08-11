@@ -8825,7 +8825,7 @@ divination 1
 dib 2
 dyspraxia
 dibbing
-deliberates
+deliberates 1
 deterring
 drachmas
 dibbled
