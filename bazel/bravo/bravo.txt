@@ -13327,7 +13327,7 @@ botchily 2
 boundlessly 1
 becrimson 1
 botella
-botels
+botels 1
 bebrave
 buss
 barometry
