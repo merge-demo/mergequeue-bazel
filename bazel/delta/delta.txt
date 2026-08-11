@@ -1687,7 +1687,7 @@ dyne
 deposition 1
 deadeners
 dottel
-dephysicalization
+dephysicalization 1
 decrementless 1
 dehumanisation 1
 delineator 1
