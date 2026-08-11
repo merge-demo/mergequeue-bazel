@@ -2199,7 +2199,7 @@ baghla 1
 bodword
 blockade 1
 bostonite 1
-bedrivelled
+bedrivelled 1
 barauna 2
 barba 1
 bayards
