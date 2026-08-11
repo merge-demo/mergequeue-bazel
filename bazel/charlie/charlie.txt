@@ -24632,7 +24632,7 @@ chordotonal 1
 copywriting
 clamshell
 calliperer 1
-coplanarities
+coplanarities 1
 cavern 1
 cozinesses 1
 copleased
