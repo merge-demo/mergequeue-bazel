@@ -9773,7 +9773,7 @@ hozsorecie 1
 hozsst
 hozt 1
 hoztafyriq 3
-hoztvafs
+hoztvafs 1
 hozu 1
 hozun 1
 hozv 1
