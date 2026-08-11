@@ -1521,7 +1521,7 @@ burger
 bersiamite
 bulbiform 1
 bdl 1
-bouton
+bouton 1
 backsword
 ballastic 1
 ballata 2
