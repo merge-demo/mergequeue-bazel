@@ -7105,7 +7105,7 @@ estuous
 edicule 1
 equiprobability
 electrophoric
-enchainments 1
+enchainments 2
 epiplankton 2
 evadible 1
 extemporizing 2
