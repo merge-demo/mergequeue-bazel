@@ -5739,7 +5739,7 @@ grieshuckle
 girasols
 gyrolite 1
 gurus
-geologize
+geologize 1
 gratia 2
 gammons
 goldsmithery 2
