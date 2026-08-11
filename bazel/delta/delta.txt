@@ -10654,7 +10654,7 @@ dolomize 1
 doon 1
 discoveries 1
 diplopod
-diplopoda
+diplopoda 1
 discorrespondent
 delocalization 3
 dissociates 3
