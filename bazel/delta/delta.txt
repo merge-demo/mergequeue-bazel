@@ -3815,7 +3815,7 @@ disunities 2
 deigned
 diwan
 durani
-dihalogen
+dihalogen 1
 dysphemistic 1
 denigrative 3
 donkey
