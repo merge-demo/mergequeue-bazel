@@ -1347,7 +1347,7 @@ ganocephalan 1
 guillotiner
 greenalite
 galvanist 4
-geoside
+geoside 1
 glomerulus 4
 galloner 4
 gangrenes 1
