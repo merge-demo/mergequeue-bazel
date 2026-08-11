@@ -18245,7 +18245,7 @@ coffeehouse 1
 coffeehouses 1
 coffeeman
 classico
-coffeepots 1
+coffeepots 2
 colloidize
 coffeeroom
 coffees 1
