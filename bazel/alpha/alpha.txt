@@ -7525,7 +7525,7 @@ albuminize
 arrested 2
 anchovies
 albuminofibrin
-albuminoid
+albuminoid 1
 abstract
 aurifying
 albuminometer
