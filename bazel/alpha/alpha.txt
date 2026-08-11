@@ -10837,7 +10837,7 @@ amphibryous 1
 arm
 addresser 1
 ammonia 1
-ammoniacs
+ammoniacs 1
 aleyard
 acrisius
 artly
