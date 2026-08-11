@@ -2743,7 +2743,7 @@ edentate 1
 envoi 2
 eleemosynary
 etymology
-emetic
+emetic 1
 engorge 2
 eleemosynarily 1
 elegancy
