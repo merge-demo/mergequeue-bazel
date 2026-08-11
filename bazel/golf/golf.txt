@@ -3598,7 +3598,7 @@ gyrocar 1
 greg 1
 gatewaymen 1
 gustus 1
-gyrochrome 2
+gyrochrome 3
 gynostegigia
 gnathobdellae 2
 gargil 1
