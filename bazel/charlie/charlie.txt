@@ -16463,7 +16463,7 @@ clockwatcher 2
 clockwise 2
 clockworked
 clavigerous 1
-carthamin
+carthamin 1
 chaldron 1
 cloddier 1
 crumster
