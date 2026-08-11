@@ -4807,7 +4807,7 @@ carpoptosia 1
 completion 2
 carbodiimide
 carport 2
-carpos 1
+carpos 2
 chibouk 1
 carposporangial
 catalase
