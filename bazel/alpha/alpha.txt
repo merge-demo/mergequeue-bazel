@@ -2574,7 +2574,7 @@ antihelminthic 1
 adjacently 1
 acoup
 acousticolateral
-acousticon
+acousticon 1
 allotriognathi 1
 assist
 acoustoelectric 1
