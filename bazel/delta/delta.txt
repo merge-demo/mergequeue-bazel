@@ -1609,7 +1609,7 @@ deafmuteness
 disembrace 1
 digression 2
 deafness 2
-deairing
+deairing 1
 discernableness
 deairs
 disomic
