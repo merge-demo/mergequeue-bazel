@@ -9116,7 +9116,7 @@ charter
 charterer
 charterers 2
 charterhouse
-chartering
+chartering 1
 charterism 1
 charterless
 chartermaster
