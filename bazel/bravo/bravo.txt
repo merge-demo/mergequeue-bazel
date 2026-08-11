@@ -7722,7 +7722,7 @@ bhikshu
 bullan 2
 breakover
 brocard
-bhindi
+bhindi 1
 bowstave 2
 bhishti 2
 bhistie 2
