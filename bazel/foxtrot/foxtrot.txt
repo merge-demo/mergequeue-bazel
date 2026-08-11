@@ -3591,7 +3591,7 @@ forgetable 1
 fractabling 3
 foreskirt 1
 fixates 2
-fenceful
+fenceful 1
 florigraphy 1
 forspoken 2
 feddan 2
