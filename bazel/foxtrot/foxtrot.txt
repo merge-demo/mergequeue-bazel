@@ -1732,7 +1732,7 @@ featherbird 3
 feoffors 1
 forfare 2
 foreshore 2
-floriferous
+floriferous 1
 freedman
 foveal 2
 feeded 3
