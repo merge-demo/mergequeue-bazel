@@ -2639,7 +2639,7 @@ glims
 gymnosophist 1
 genethlic 1
 glossopetra 2
-goatee
+goatee 1
 glossosteresis 2
 geniality 1
 genetics 4
