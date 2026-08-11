@@ -17319,7 +17319,7 @@ dronkelew
 dronkgrass 1
 drawhead
 disquisition
-desirers
+desirers 1
 dodecanal 1
 doa 5
 dignifying 1
