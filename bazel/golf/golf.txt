@@ -7951,7 +7951,7 @@ goodyish 3
 gymnurinae
 guesdist 2
 gymnospermy
-glumness
+glumness 1
 getmjlkost 3
 gametogonium
 glimmerite
