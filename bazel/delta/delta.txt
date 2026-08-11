@@ -1362,7 +1362,7 @@ dauphine
 dauphines
 drooping 3
 drawboard
-drapable
+drapable 1
 dauri 1
 dorter 1
 dreyfusism 1
