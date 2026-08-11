@@ -7881,7 +7881,7 @@ elementate 2
 enablement 1
 eireannach
 extincts 2
-executioner
+executioner 1
 epihyal 1
 exogonium 2
 exanthema
