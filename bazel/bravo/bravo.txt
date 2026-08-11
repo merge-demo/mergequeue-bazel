@@ -11876,7 +11876,7 @@ battleplane
 bouillons 1
 boedromion 2
 bovovaccine 1
-brevirostrate
+brevirostrate 1
 buggies 2
 besmutting 2
 barabora 2
