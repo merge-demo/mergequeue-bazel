@@ -11074,7 +11074,7 @@ chitinous
 chitins
 chitlin
 chitling 1
-chitlings
+chitlings 1
 cowbirds
 candours 1
 carloads
