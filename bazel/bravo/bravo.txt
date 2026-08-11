@@ -1337,7 +1337,7 @@ backdrops
 borderlands
 balbusard 1
 beggarliness
-burlap 1
+burlap 2
 brayed 2
 butterbump 1
 betwixen
