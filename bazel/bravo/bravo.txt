@@ -5663,7 +5663,7 @@ beleapt 1
 belection
 brining
 belecture
-burbush
+burbush 1
 belemnitic 2
 bairnlier
 belemnoid 1
