@@ -4114,7 +4114,7 @@ fungusy 2
 frostation
 fergusonite 1
 featherbrain 2
-fattable
+fattable 1
 fanterie 3
 formal 2
 fatalness 2
