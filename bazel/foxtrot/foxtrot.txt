@@ -7390,7 +7390,7 @@ floatplane 5
 frost 2
 fattened 2
 fierding 2
-flywire
+flywire 1
 flirtigig 1
 foraramens 5
 frugs
