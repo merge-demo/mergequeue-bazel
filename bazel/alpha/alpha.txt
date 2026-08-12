@@ -4172,7 +4172,7 @@ ammonals
 anticrotalic
 aphrasia 2
 adjag
-apoapsis
+apoapsis 1
 armorers
 acetoxyls 1
 anabaptistically
