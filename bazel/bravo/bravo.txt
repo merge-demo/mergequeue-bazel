@@ -10471,7 +10471,7 @@ blastemic 2
 bopyrid 1
 blaster 2
 blastid 1
-blart
+blart 1
 blasting
 borolanite 4
 blastings 3
