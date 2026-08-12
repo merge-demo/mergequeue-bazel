@@ -9355,7 +9355,7 @@ gyrostat
 gimmick
 gonocoel 2
 gravestones 4
-groop 1
+groop 2
 gallerygoer 1
 glamorize 1
 goggliest 2
