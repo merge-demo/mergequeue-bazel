@@ -15032,7 +15032,7 @@ aglossate
 airbus
 anlage
 anosphresia 3
-archworker
+archworker 1
 achyrodes 1
 anticrisis 1
 anticritic
