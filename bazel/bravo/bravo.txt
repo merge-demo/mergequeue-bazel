@@ -3990,7 +3990,7 @@ bonyfish
 believer 1
 beacons 3
 buoyancy
-beadeye 1
+beadeye 2
 beader
 bellmaker 2
 barnhardtite 1
