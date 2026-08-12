@@ -5739,7 +5739,7 @@ fathoms 1
 furnage 1
 fungistatic
 frequentation
-fractuosity
+fractuosity 1
 fels 2
 figureheadless 1
 fisher
