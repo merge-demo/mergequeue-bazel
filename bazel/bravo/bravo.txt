@@ -18116,7 +18116,7 @@ brins 1
 benzal 2
 bealtared
 bloodlettings 1
-buskin
+buskin 1
 butcherer 1
 blobbier
 bureaucrats
