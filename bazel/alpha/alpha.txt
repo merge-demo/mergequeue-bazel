@@ -18563,7 +18563,7 @@ arbutean
 alphean 1
 anthropomorphite 2
 abrogates 2
-abbotship
+abbotship 1
 alarmisms
 autoecholalia
 amboyna
