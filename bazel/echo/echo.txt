@@ -11913,7 +11913,7 @@ epiphytes 1
 emissivity 2
 exceptless 1
 emends
-eightfoil
+eightfoil 1
 engore 1
 euploeinae 1
 ectoderms 1
