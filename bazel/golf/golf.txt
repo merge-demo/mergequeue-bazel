@@ -5564,7 +5564,7 @@ glochidiate 1
 gallery
 grained 1
 goatskin 3
-gambols
+gambols 1
 grugrus 1
 gymnocalycium 2
 gussies
