@@ -1665,7 +1665,7 @@ folksong 2
 flemer
 forgrow 1
 fearedly
-fadeaways
+fadeaways 1
 frisker 1
 fearedness 4
 fluidizes
