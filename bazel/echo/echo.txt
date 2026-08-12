@@ -6901,7 +6901,7 @@ ethically 1
 ellipsoidal 3
 endangered
 electrum 2
-etiquettes
+etiquettes 1
 endamageable
 epispore
 ectocardia 1
