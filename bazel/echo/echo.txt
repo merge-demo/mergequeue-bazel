@@ -10060,7 +10060,7 @@ enthalpy 1
 epicoeloma
 erythrophyllin 3
 encumbered
-export
+export 1
 eyey 1
 envenoming 2
 enchainment
