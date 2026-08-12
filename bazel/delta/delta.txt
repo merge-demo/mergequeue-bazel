@@ -15388,7 +15388,7 @@ dearn 1
 dragginess 2
 domiciles 1
 domiciliate
-domiciliated
+domiciliated 1
 demineralizer 1
 detectivism 1
 domification
