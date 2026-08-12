@@ -7448,7 +7448,7 @@ escapers 1
 entanglement
 endogenously
 extraperiodic 2
-extracurricular
+extracurricular 1
 exercise 2
 elohimic 1
 enfile
