@@ -17460,7 +17460,7 @@ bicoloured 1
 bunnies
 bunodont
 brickleness
-bacteroid
+bacteroid 1
 bunoselenodont 1
 biatomic 2
 brulots 3
