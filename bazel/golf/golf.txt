@@ -1203,7 +1203,7 @@ griot 1
 gradations 1
 globular 4
 guestive
-guttate 1
+guttate 2
 garfishes 2
 grappler
 glaux 1
