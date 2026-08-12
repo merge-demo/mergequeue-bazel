@@ -3618,7 +3618,7 @@ anomaloscope
 adenoacanthoma
 adenocarcinomas 1
 adenochondroma 2
-antipellagric
+antipellagric 1
 adenochrome
 abnumerable 1
 allopathies
