@@ -3605,7 +3605,7 @@ degener 1
 declaredness 3
 depredations 1
 dripping 2
-dextrogyre
+dextrogyre 1
 dinosauric 2
 dinornithiformes 1
 degenerate
