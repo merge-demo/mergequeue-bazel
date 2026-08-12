@@ -4972,7 +4972,7 @@ autophone 1
 abluted
 agenizes
 aeronat
-aeronaut
+aeronaut 1
 aeronautic
 argentose
 agama 1
