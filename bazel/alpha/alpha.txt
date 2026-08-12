@@ -5521,7 +5521,7 @@ aftergas
 abstractedness
 ablings
 articulatorily
-afterglow
+afterglow 1
 aftergrief
 aftergrowth
 antipathy 1
