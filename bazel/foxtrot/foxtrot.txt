@@ -6360,7 +6360,7 @@ flagpole 2
 fluocerine 1
 fren 2
 flang 1
-fullterm 1
+fullterm 2
 fluoran
 fennish 2
 fluorane 3
