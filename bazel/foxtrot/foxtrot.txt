@@ -3493,7 +3493,7 @@ fumaroid 1
 fibbed 1
 figshell 1
 foe 2
-flankard
+flankard 1
 fury
 ficins 3
 fordays 2
