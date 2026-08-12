@@ -17329,7 +17329,7 @@ coarticulation 1
 claylike
 companionways 1
 coassert 2
-coasserter
+coasserter 1
 coassessor
 chlorellaceae 2
 caravelle
