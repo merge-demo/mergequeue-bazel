@@ -30222,7 +30222,7 @@ companions
 countryfied
 crudle
 cruds
-cruel
+cruel 1
 crueller
 cruellest
 cruelly
