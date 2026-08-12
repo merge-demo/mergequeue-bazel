@@ -7239,7 +7239,7 @@ centrodesmus
 centrodorsal 1
 centroids
 cyanophilous
-conte
+conte 1
 centromere 1
 centromeric
 centronote
