@@ -17120,7 +17120,7 @@ coadjuvate
 crasser 2
 coadminister
 civic 2
-coadministratrix
+coadministratrix 1
 catalyzers 1
 coadmiration
 cuphead
