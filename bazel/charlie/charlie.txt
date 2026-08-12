@@ -31611,7 +31611,7 @@ crosstail
 clingstone
 curve
 constructed 3
-curvedly
+curvedly 1
 capitoul 1
 curver
 chic
