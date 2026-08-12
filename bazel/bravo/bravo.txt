@@ -2491,7 +2491,7 @@ barocco 1
 brachyoura 1
 barge
 bergere
-bult
+bult 1
 bargelike 1
 beet 1
 bargellos 1
