@@ -2826,7 +2826,7 @@ bulkiest 2
 baudery 1
 beclap 1
 barothermograph 1
-barotrauma
+barotrauma 1
 bulgurs 1
 behowling 5
 bravest
