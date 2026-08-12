@@ -8905,7 +8905,7 @@ flitty 3
 ferritins 1
 fowells 2
 foumart
-falciparum
+falciparum 1
 forayer 2
 fartherance 1
 filthify 2
