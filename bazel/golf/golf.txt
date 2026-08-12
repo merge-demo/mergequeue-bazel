@@ -3609,7 +3609,7 @@ gnathic
 gananciales 1
 gantries
 glack
-gawkiness
+gawkiness 1
 galleriidae
 glovers
 galactoid 1
