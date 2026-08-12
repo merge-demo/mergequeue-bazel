@@ -24561,7 +24561,7 @@ attitudinise
 abamperes
 auxology
 ammonea
-argentarius
+argentarius 1
 auxospore
 anachorism 2
 auxotonic
