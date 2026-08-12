@@ -16329,7 +16329,7 @@ dumpiness 2
 dysanalyte
 drawnwork
 downsized
-druggeries
+druggeries 1
 dochmiac 1
 duchess 1
 discobolus
