@@ -14953,7 +14953,7 @@ depr 2
 deoperculate 1
 dodonaeaceae 1
 duali 1
-decoloriser
+decoloriser 1
 dermatoid 1
 disarmer
 displodes
