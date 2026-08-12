@@ -5842,7 +5842,7 @@ agelast
 agelaus
 agelessness 2
 aphicidal 1
-adradial
+adradial 1
 agen 1
 asperness 2
 achiote
