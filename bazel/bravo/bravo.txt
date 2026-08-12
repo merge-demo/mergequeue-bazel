@@ -1919,7 +1919,7 @@ bework 2
 boreus
 bandsawn
 bandsman 2
-bandstand
+bandstand 1
 beacon 2
 beseechment 2
 broadly 2
