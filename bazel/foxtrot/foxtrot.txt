@@ -8927,7 +8927,7 @@ footbridge 3
 favorableness 1
 foundrous 2
 farhands
-flotative 2
+flotative 3
 foragers 2
 flu 1
 fountain
