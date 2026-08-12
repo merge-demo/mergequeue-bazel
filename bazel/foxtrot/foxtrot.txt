@@ -8926,7 +8926,7 @@ flneuse 1
 footbridge 3
 favorableness 1
 foundrous 2
-farhands
+farhands 1
 flotative 3
 foragers 2
 flu 1
