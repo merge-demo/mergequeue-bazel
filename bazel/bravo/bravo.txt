@@ -17038,7 +17038,7 @@ baler
 bimahs 1
 binoxide 1
 bishoping
-bulkage
+bulkage 1
 boldfaces
 burt 3
 bulkhead
