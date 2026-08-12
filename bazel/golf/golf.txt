@@ -1567,7 +1567,7 @@ geothermally 1
 gassed 3
 gypsumed 1
 grana 1
-gentlemens
+gentlemens 1
 gasser 1
 glutelin 2
 gripe 1
