@@ -932,7 +932,7 @@ foundry
 ft 2
 fasola 2
 fourchite
-fortunateness 2
+fortunateness 3
 forms
 fanfishes 1
 flightless
