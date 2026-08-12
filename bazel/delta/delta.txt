@@ -4507,7 +4507,7 @@ danubian
 defused 1
 drinkableness
 destruction
-demiculverin
+demiculverin 1
 dodgiest 1
 divulsed
 demidistance
