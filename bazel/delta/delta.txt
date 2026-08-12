@@ -11346,7 +11346,7 @@ davens
 deprivate 1
 discerpible 3
 discerpibleness
-downfield
+downfield 1
 distrainee
 discerption 1
 difficulties 3
