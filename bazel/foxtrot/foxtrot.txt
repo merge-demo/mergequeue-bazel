@@ -2905,7 +2905,7 @@ farsightedly 1
 flows 2
 fouettes 1
 floorcloth 2
-find
+find 1
 febricide 1
 fibrose 1
 fimbricate
