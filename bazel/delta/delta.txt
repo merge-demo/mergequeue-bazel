@@ -11859,7 +11859,7 @@ dbl
 dissociableness 1
 discurtain
 discusses 2
-discussion
+discussion 1
 dominations
 drumfires 2
 dispels 4
