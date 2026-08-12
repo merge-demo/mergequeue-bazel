@@ -5861,7 +5861,7 @@ doorbrand
 desolations
 diachoresis 1
 domal
-demeaning 1
+demeaning 2
 disconcert 1
 deprecative 1
 dissolvable
