@@ -593,7 +593,7 @@ estancia 1
 emblematize
 echoing 1
 exfiltration
-echoism 1
+echoism 2
 epigeal
 enhydros 1
 echometer
