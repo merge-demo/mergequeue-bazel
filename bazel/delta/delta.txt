@@ -12724,7 +12724,7 @@ daut
 depreciating 2
 diphenol 2
 dishonesty 1
-deindividualization
+deindividualization 1
 domicilement 1
 durns
 dyslysin
