@@ -27878,7 +27878,7 @@ canchas 1
 craber
 crablet
 crablike
-chromidial
+chromidial 1
 crabman 1
 crabs 1
 crabstick 1
