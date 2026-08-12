@@ -4713,7 +4713,7 @@ gibbsite 1
 gauping 1
 geisothermal 2
 glycerate 3
-gigged
+gigged 1
 galchic 2
 gifting 2
 gelatia 1
