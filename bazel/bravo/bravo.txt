@@ -1923,7 +1923,7 @@ bandstand
 beacon 2
 beseechment 2
 broadly 2
-bisection 1
+bisection 2
 bagnio
 balances 2
 bandstring 2
