@@ -13506,7 +13506,7 @@ boondoggle 3
 boneyards
 botulisms 1
 brief 1
-brodequin
+brodequin 1
 bijouterie 3
 briquette 1
 bouch
