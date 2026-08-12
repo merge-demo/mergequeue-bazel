@@ -16553,7 +16553,7 @@ disputed 1
 dimensible
 dragger 1
 draggers
-draggier
+draggier 1
 diacritics 2
 destinies 1
 disendows 3
