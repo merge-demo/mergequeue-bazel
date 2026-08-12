@@ -11895,7 +11895,7 @@ entrepot 1
 emits 2
 except 2
 escheatment
-eppes 1
+eppes 2
 encolure 3
 entomologise 1
 etheneldeli 2
