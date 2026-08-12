@@ -15182,7 +15182,7 @@ claimers 2
 claymore 1
 claims 1
 covenable
-claypans
+claypans 1
 clair
 clairaudience
 countertug 2
