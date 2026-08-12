@@ -6761,7 +6761,7 @@ desilicify
 desilicified
 desiliconization 1
 dribbed
-doubly
+doubly 1
 disuniters 2
 decollating 1
 delate
