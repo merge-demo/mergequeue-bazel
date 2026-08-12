@@ -15176,7 +15176,7 @@ briarwood 1
 bribable 2
 bribees
 bribeless
-briberies
+briberies 1
 bactetiophage 1
 bicentennials
 bedeaf 2
