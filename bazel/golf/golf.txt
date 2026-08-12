@@ -9032,7 +9032,7 @@ geohydrologic 1
 groomer 2
 grillee 1
 gatehouse 1
-golem 4
+golem 5
 gramashes 2
 granatum 1
 geomorphogenist 2
