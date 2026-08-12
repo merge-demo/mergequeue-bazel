@@ -16457,7 +16457,7 @@ brushier 1
 bunkoed 1
 barbouillage 1
 bluenoser
-bloodshotten
+bloodshotten 1
 bendys 1
 beggable 3
 bejazz 1
