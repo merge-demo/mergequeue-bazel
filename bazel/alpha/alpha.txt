@@ -12074,7 +12074,7 @@ alveus 2
 aerogen 1
 anhalamine
 airspeed
-anastasimon
+anastasimon 1
 anastasius
 anemosis
 architeuthis
