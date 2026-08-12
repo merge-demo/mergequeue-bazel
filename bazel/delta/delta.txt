@@ -7002,7 +7002,7 @@ dript
 despoil
 despoiled 1
 destroyers
-despoiler 2
+despoiler 3
 disabilities
 despoilers
 decongest 2
