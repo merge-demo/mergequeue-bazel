@@ -4274,7 +4274,7 @@ carest
 clerked 1
 caret 2
 caretake
-caretaker
+caretaker 1
 caretakers
 caretaking
 chastisers 1
