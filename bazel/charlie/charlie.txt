@@ -27046,7 +27046,7 @@ combinatoric 2
 counterprinciple
 counterprocess
 counterproductive
-counterproductively
+counterproductively 1
 counterprogramming
 counterproject
 cyclitis
