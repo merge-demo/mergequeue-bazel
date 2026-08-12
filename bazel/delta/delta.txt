@@ -6998,7 +6998,7 @@ diogenite 2
 dithionite 2
 douter
 diets 4
-dript
+dript 1
 despoil
 despoiled 1
 destroyers
