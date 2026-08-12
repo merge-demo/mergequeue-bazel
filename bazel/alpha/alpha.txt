@@ -22100,7 +22100,7 @@ asteriskos
 acidheads
 append 1
 antinosarian
-antiskeptic
+antiskeptic 1
 azoparaffin 1
 autoepigraph
 asterisks
