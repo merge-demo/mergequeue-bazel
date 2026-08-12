@@ -16946,7 +16946,7 @@ creatureliness 2
 classis
 cachalot 1
 caviar
-clupien 1
+clupien 2
 cenotaphs
 choledochoplasty 2
 consols
