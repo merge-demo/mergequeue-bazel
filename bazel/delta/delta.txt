@@ -14557,7 +14557,7 @@ domine 1
 detents 2
 divisions 1
 divisive 1
-divisively
+divisively 1
 diners
 develope 1
 decomposition 1
