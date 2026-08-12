@@ -12535,7 +12535,7 @@ barnage 1
 balsamroot 1
 bourgeoning 1
 brails 1
-bridehead 2
+bridehead 3
 boniface 1
 battle 1
 bonification
