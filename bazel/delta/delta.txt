@@ -2502,7 +2502,7 @@ duds 2
 dishonourary
 declaim
 dichorisandra 1
-dresser
+dresser 1
 declaimer 1
 dilaters
 declamatory 2
