@@ -6739,7 +6739,7 @@ exstill 1
 entete 1
 eurytherm 3
 epistrophy 1
-etherate
+etherate 1
 enthelminthic 1
 exungulate
 effume 1
