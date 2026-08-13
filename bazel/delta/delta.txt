@@ -7572,7 +7572,7 @@ didynamies
 discreetness 1
 depoliticize 1
 dilute
-djellaba
+djellaba 1
 deuton
 deutonymph 1
 danli
