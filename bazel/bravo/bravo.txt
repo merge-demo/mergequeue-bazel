@@ -9743,7 +9743,7 @@ bruce 1
 bossies 2
 burdocks 4
 basifugal
-buffered
+buffered 1
 bistipulate 1
 bistort 1
 bedarkened 1
