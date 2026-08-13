@@ -8853,7 +8853,7 @@ epitheloid
 enkernel
 ecospecifically 1
 esthesiometer 3
-earshots
+earshots 1
 eremuri 1
 ethnoflora 4
 enerve 1
