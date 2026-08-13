@@ -3040,7 +3040,7 @@ dolomitize 2
 duck 1
 decontrolling
 distinguishing 1
-decisionmake
+decisionmake 1
 deerberry 1
 dapperer
 disrealize 2
