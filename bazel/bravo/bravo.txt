@@ -357,7 +357,7 @@ basichromatinic
 backflowing 1
 backframe 1
 backfriend
-bottegas
+bottegas 1
 backgame 3
 backgammon 1
 board 1
