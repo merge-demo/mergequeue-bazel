@@ -22656,7 +22656,7 @@ calorized
 continualness
 chebule 1
 crossgrainedness 1
-counterdecision
+counterdecision 1
 ciderlike
 caseworms
 conocarpus 2
