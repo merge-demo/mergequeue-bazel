@@ -6382,7 +6382,7 @@ diplotene 1
 disassociation 1
 dorsiventral 3
 dielec
-derodidymus
+derodidymus 1
 derog 1
 demeanour
 doronicum
