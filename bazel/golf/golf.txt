@@ -7334,7 +7334,7 @@ gosports 3
 grainless 1
 gossamered 2
 galega 2
-gossamers
+gossamers 1
 galloglass 2
 geochronometric 1
 gibby 1
