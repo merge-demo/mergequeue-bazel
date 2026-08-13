@@ -4179,7 +4179,7 @@ foreaccounting 2
 fumago 3
 frier 1
 forecloses 2
-franchisor
+franchisor 1
 fining 1
 filaria
 fucaceae 2
