@@ -8580,7 +8580,7 @@ earnings
 equibalanced
 electrodialitic
 equicohesive
-equicontinuous
+equicontinuous 1
 engagements
 eyebar 2
 endemial
