@@ -6810,7 +6810,7 @@ frontal 2
 flaccidity 2
 footbeat 1
 forfalt 2
-faithfuls 2
+faithfuls 3
 finmark 1
 forams 2
 fungin 1
