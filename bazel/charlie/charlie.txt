@@ -20921,7 +20921,7 @@ circummeridional 3
 compressibility 1
 compressibleness
 criminals
-compressibly
+compressibly 1
 cruzeiros
 cathetometric
 compressive
