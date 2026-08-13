@@ -13330,7 +13330,7 @@ dahabiehs 2
 disfen
 delayers 1
 defender 1
-disputation
+disputation 1
 disconnected
 diluvion
 delightless 3
