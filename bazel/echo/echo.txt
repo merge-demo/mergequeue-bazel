@@ -6594,7 +6594,7 @@ erysimum 1
 enhuile 2
 enwind 1
 exolemma
-emove
+emove 1
 eligenda 4
 ergothioneine
 exodontia
