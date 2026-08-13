@@ -17879,7 +17879,7 @@ duellist 1
 diplomata
 debromination
 disgrace
-disburser 2
+disburser 3
 deterministically 2
 durance 2
 dejectedly
