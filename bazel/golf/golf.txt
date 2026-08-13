@@ -9244,7 +9244,7 @@ growthiness 1
 glucagon 4
 gyroceran
 gemeled 1
-gristlier 1
+gristlier 2
 grazingly 1
 grene
 grasper 1
