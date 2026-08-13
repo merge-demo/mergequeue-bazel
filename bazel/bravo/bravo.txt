@@ -9080,7 +9080,7 @@ boylikeness 2
 bioscopy 3
 bioscopic 1
 bioastronautical 1
-bedecorate
+bedecorate 1
 ballistocardiograph
 biosensor 2
 bearishness 2
