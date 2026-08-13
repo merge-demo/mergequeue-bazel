@@ -10840,7 +10840,7 @@ gyrofrequency
 genethlialogical 2
 gyrograph
 guttar 1
-guaiacum
+guaiacum 1
 guzul 1
 genotypical
 gasworker 1
