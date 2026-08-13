@@ -27480,7 +27480,7 @@ covalences
 covalency 2
 carpoptosis
 coriander 1
-corallike
+corallike 1
 covalent
 campephilus
 covalently 2
