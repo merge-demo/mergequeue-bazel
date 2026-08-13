@@ -2654,7 +2654,7 @@ decreers
 decolours
 decommission 2
 decommissioned 1
-discriminably
+discriminably 1
 decian
 dozers 1
 deepens 1
