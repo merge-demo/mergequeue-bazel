@@ -7632,7 +7632,7 @@ antrums 2
 achoke
 archership
 alchemizing
-alchimy
+alchimy 1
 amphicarpic 1
 antisepticist
 alcidine
