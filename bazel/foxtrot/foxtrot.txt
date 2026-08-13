@@ -4411,7 +4411,7 @@ factually 3
 fearers 2
 fraus 2
 fealties 5
-feinschmeckers 1
+feinschmeckers 2
 fishes 1
 filibranchiate 2
 fascistic 3
@@ -6810,7 +6810,7 @@ frontal 2
 flaccidity 2
 footbeat 1
 forfalt 2
-faithfuls 2
+faithfuls 3
 finmark 1
 forams 2
 fungin 1
@@ -7866,7 +7866,7 @@ facings 4
 flenses
 franger 1
 farnesols 1
-floppers 1
+floppers 2
 firestorm 1
 floretum 1
 forepurpose 2
