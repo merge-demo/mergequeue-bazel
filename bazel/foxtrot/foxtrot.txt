@@ -3396,7 +3396,7 @@ frivols 2
 filipinos 1
 follicles 4
 flokite
-frameableness
+frameableness 1
 floramour 3
 fuller 3
 flyweights 1
