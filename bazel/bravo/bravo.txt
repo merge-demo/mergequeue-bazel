@@ -1909,7 +1909,7 @@ bifidate 1
 biotechs
 brevipen 1
 bandore
-baselard
+baselard 1
 balsa 2
 bandrol
 beatific 1
