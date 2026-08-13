@@ -15725,7 +15725,7 @@ clavipectoral 1
 chips 1
 clavolet
 cumulonimbus
-chapel 1
+chapel 2
 clawed 1
 clawer
 cubbishly
