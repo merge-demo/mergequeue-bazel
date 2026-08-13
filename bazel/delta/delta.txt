@@ -6238,7 +6238,7 @@ dermasurgery 1
 dedolomitization 2
 dermatagra 1
 dermatophagus
-dermatotropic
+dermatotropic 1
 desiccator 2
 dizaine 1
 dermatatrophia 1
