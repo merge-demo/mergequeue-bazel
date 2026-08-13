@@ -9524,7 +9524,7 @@ checklist 1
 checkman
 congruencies 1
 checkmate 1
-chirosophist
+chirosophist 1
 cautioning
 circumferences
 cultriform
