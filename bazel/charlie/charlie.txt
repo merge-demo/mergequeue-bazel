@@ -16843,7 +16843,7 @@ clubfooted
 clubhand
 clubhands
 cerebralgia 1
-clubhaul
+clubhaul 1
 correctant
 cupflower
 confirmity
