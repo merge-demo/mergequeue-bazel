@@ -11424,7 +11424,7 @@ dockyard 1
 dissuader 3
 demivotary
 determinoid
-debug
+debug 1
 discloser
 disclosive 1
 disclosure
