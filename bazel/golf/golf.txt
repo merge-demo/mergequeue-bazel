@@ -2490,7 +2490,7 @@ grewia 3
 grots 1
 guttersnipes
 gibbetwise 4
-genitalic
+genitalic 1
 grandity 2
 glossier 2
 girdlelike 2
