@@ -5009,7 +5009,7 @@ disroot
 desexing 1
 deposed 2
 dinamode 1
-decussion
+decussion 1
 delustered
 diplopy
 duellers 1
