@@ -6274,7 +6274,7 @@ ceroplast 1
 caulis
 cannular
 caulivorous
-choanosomal
+choanosomal 1
 caulk 1
 casbahs
 caulkers 1
