@@ -2368,7 +2368,7 @@ barcone 1
 backwraps 3
 banshie 1
 brakemen 1
-belabors
+belabors 1
 barcoo 1
 beslab
 bemoisten 1
