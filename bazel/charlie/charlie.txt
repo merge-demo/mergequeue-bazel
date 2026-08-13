@@ -6340,7 +6340,7 @@ compatient 1
 causator 2
 cuffing 1
 cuprosilicon
-cause
+cause 1
 caused 1
 cyllosis 1
 causey 1

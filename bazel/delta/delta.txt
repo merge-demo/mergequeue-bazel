@@ -16050,7 +16050,7 @@ doaty
 dopinesses 1
 doubters
 demi 1
-decorability
+decorability 1
 doubtous 3
 doubts 1
 desiderating
