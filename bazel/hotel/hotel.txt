@@ -787,7 +787,7 @@ hapr
 haprerz 4
 haprq
 haptg
-haptnc
+haptnc 1
 haptynysa 2
 haptyud 2
 hapufgynznos
