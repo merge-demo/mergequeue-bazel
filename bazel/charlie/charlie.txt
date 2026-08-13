@@ -5562,7 +5562,7 @@ cycledom 1
 cedre
 comicoprosaic
 crushingly
-catalepsis
+catalepsis 1
 catalexes
 catalexis 1
 catalin
