@@ -1426,7 +1426,7 @@ forbar 2
 ferreted 3
 fattest
 finickin
-floorer
+floorer 1
 follow 2
 fanwork 2
 fall 2
