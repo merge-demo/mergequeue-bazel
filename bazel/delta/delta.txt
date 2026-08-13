@@ -16360,7 +16360,7 @@ drainable 1
 downstate
 dolmens 1
 defilade 2
-defrost
+defrost 1
 downstrokes
 downtake
 duodecane
