@@ -2032,7 +2032,7 @@ bankrolling 1
 bankrupt
 bosporan
 burl 1
-bankruptism 2
+bankruptism 3
 bessy
 bankruptcy
 boltel 1
