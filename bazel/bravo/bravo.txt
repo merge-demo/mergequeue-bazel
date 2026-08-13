@@ -861,7 +861,7 @@ bagful 3
 baggagemaster
 bedamning 1
 brachydome
-baggager
+baggager 1
 benzidin 1
 benzalcohol
 beffroy 1
