@@ -13058,7 +13058,7 @@ conclave
 conational 1
 countrypeople 1
 cyathiform
-connivent
+connivent 1
 cyathophyllum
 cyathus 2
 confest
