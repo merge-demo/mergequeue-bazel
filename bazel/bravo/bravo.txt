@@ -15573,7 +15573,7 @@ briss
 backwoodsman 1
 bolsterer
 brist 3
-bombproof
+bombproof 1
 bristled
 bakhtiari 1
 biomagnetism
