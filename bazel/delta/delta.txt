@@ -18151,7 +18151,7 @@ dumple 1
 donators 3
 dive 1
 dishearten
-devote
+devote 1
 dissceptring 3
 disavowable 1
 digress
