@@ -4444,7 +4444,7 @@ carissa
 campshedding 1
 conelrads
 caritative
-carity
+carity 1
 caritive 1
 circumfusion
 colubridae
