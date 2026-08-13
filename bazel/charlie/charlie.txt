@@ -31022,7 +31022,7 @@ clead
 ceriops
 clairaudiently
 cuminal
-capitalize
+capitalize 1
 carbaryl 2
 cuminic 3
 cuminol
