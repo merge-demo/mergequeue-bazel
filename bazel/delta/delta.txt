@@ -5855,7 +5855,7 @@ deadtongue
 dags
 dentaries
 dermatocoptic 1
-deprecable
+deprecable 1
 deprecating
 doorbrand
 desolations
