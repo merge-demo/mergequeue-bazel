@@ -15522,7 +15522,7 @@ dendral
 dobbie
 dualists
 desensitize 2
-dongola
+dongola 1
 drams
 decrew 2
 doni
