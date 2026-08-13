@@ -7175,7 +7175,7 @@ centre 1
 clinoaxis
 centreboard
 centred
-centref
+centref 1
 centreless
 centrepiece
 canephoroe
