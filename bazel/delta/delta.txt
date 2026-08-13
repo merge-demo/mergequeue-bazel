@@ -16937,7 +16937,7 @@ dermatograph
 denaturize 1
 doorways
 drearihead
-depositories
+depositories 1
 dartles
 duledge
 diminuendoed
