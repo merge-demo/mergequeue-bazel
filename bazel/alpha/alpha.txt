@@ -11647,7 +11647,7 @@ accents 2
 anacrotic 1
 altricial
 anacruses
-anaculture
+anaculture 1
 aortitis
 anacusic
 anadems
