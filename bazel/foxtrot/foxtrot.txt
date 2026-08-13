@@ -8207,7 +8207,7 @@ feudalities 2
 flaggelated
 friezing 3
 forfaulture 3
-francophile
+francophile 1
 fluoroscoping 2
 fishways 2
 faded 2
