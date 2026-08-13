@@ -6906,7 +6906,7 @@ beshadowed 1
 beauxite
 briolette 1
 biplosive
-breediness
+breediness 1
 betail 1
 baselessness 1
 betta 1
