@@ -10901,7 +10901,7 @@ blindfish
 blindfishes 1
 bluelegs 2
 blindfolded 1
-bismuth 1
+bismuth 2
 bassus
 butterbush
 blindfoldedness
