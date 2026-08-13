@@ -9622,7 +9622,7 @@ bishopling
 biol
 bishopstool
 bishopweed 2
-bobbinets
+bobbinets 1
 bestir
 benison
 barterers
