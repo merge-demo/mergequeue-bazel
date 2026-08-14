@@ -11042,7 +11042,7 @@ cantdogs
 calorify
 chiseling 1
 chiseller
-chiselly
+chiselly 1
 chisellike
 chiselling 2
 coevolvedcoevolves
