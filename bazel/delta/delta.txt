@@ -15849,7 +15849,7 @@ dankly 3
 dynastes 1
 deputise 1
 detent
-deputyship
+deputyship 1
 dorsopleural 3
 derationalization
 disincrease
