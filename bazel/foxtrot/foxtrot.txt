@@ -7915,7 +7915,7 @@ futchel 3
 footeite
 ferd 3
 footslog 2
-fletching
+fletching 1
 foreseer 1
 foresees
 fonder
