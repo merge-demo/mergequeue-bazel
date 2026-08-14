@@ -1104,7 +1104,7 @@ calcimines
 crudeness
 calcimining
 choppin 1
-crossbarred
+crossbarred 1
 calcinate
 calcinator 1
 calcine 1
