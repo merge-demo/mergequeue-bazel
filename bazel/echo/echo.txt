@@ -8371,7 +8371,7 @@ estranged 1
 expeding 1
 eastlins
 epicontinental
-erosive
+erosive 1
 exportation 2
 endogenetic
 electrobiology
