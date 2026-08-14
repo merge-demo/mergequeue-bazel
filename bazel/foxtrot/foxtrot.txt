@@ -5439,7 +5439,7 @@ fusobteria 1
 femur
 filterable 1
 flexuosely 5
-floatative 1
+floatative 2
 foggy 1
 fleering
 faunal
