@@ -6251,7 +6251,7 @@ enostosis 2
 elisions 1
 erugatory 1
 espresso
-enoughs
+enoughs 1
 editorialize
 enforcedly 1
 egrid
