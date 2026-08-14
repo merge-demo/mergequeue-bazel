@@ -8045,7 +8045,7 @@ bicornous 1
 booklift
 bartend
 bagroom
-bicornuate
+bicornuate 1
 bicornute 1
 beshadow 2
 bicorporate 2
