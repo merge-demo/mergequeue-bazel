@@ -19040,7 +19040,7 @@ campeche
 colletotrichum 1
 collets
 colletside
-chastenment
+chastenment 1
 combustibilities 2
 cresorcin 1
 collibert 1
