@@ -10696,7 +10696,7 @@ antichrome
 aminobenzoic
 appetency
 aminoglutaric
-aminoid
+aminoid 1
 agrement
 aminoketone 1
 aminomalonic
