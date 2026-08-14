@@ -8146,7 +8146,7 @@ forcepses 1
 forevers 1
 flectionless 2
 foregate 3
-forthwith 2
+forthwith 3
 fretless
 ferberite 3
 fructuosity 2
