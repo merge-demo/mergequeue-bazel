@@ -18142,7 +18142,7 @@ bods 1
 blockading
 boisseaux
 bacillite 1
-balsamize
+balsamize 1
 biffins
 boundly
 boweling
