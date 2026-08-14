@@ -9603,7 +9603,7 @@ barb 2
 butin 4
 bongs 1
 bisglyoxaline 1
-bakeshops
+bakeshops 1
 brusquerie 1
 bluest 1
 bishari 3
