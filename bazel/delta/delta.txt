@@ -10926,7 +10926,7 @@ disaccomodate
 dromons 2
 dobsonflies 1
 droplike
-dropcloth 1
+dropcloth 2
 diclytra
 disunionism
 disaccustomedness
