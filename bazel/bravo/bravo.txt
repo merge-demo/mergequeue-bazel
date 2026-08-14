@@ -17915,7 +17915,7 @@ barton
 badly 2
 bushidos
 bractless 2
-broadaxes
+broadaxes 1
 bahmanid 1
 belton 2
 befortune
