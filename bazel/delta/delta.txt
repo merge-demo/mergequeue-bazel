@@ -11345,7 +11345,7 @@ deambulatories 3
 davens
 deprivate 1
 discerpible 3
-discerpibleness
+discerpibleness 1
 downfield 1
 distrainee
 discerption 1
