@@ -29958,7 +29958,7 @@ colyumist 1
 coggers
 creepier
 crosstown
-carcinologist
+carcinologist 1
 crosstrack
 crosstree
 crossway 1
