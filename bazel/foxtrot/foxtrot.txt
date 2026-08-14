@@ -8616,7 +8616,7 @@ farmyard
 forescript
 floury 1
 foredid 2
-fir 1
+fir 2
 fittings 1
 ferretto 2
 flamefishes 1
