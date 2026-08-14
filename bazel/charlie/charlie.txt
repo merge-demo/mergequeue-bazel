@@ -6231,7 +6231,7 @@ clappering
 covertness 1
 caudofemoral
 caudolateral 1
-crossbones
+crossbones 1
 curstness
 centetidae
 countershout
