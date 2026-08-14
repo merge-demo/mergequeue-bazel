@@ -3864,7 +3864,7 @@ fineless
 fract 4
 fiberglas 2
 formicary
-fiberscope 1
+fiberscope 2
 forgiveable 1
 fungistat 2
 flavanthrene
