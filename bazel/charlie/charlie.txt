@@ -6638,7 +6638,7 @@ cecopexy
 cecrops 1
 cecum
 cecums
-cecutiency
+cecutiency 1
 cedar 3
 cedary
 conveyable
