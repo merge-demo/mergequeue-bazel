@@ -5824,7 +5824,7 @@ bellicism 2
 beyonds
 bellicist 2
 bromometry
-belligerents
+belligerents 1
 buildress
 boxcar
 bullsnake 1
