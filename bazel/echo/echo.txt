@@ -10414,7 +10414,7 @@ entresalle 1
 excreted 1
 exposit 3
 ecb 1
-emeute
+emeute 1
 ectocranial 4
 ensuite 1
 endemiological
