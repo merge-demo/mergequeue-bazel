@@ -6435,7 +6435,7 @@ bumpering 1
 backcloth 1
 barangay 1
 biternate 1
-benzothiofuran 1
+benzothiofuran 2
 burs 3
 benzothiophene
 benzotrichloride 1
