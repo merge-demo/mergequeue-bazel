@@ -14782,7 +14782,7 @@ anticatarrhal
 afernan 1
 audiometry 1
 altiscope
-anticaustic
+anticaustic 1
 affreighter
 anticensorial
 atomically 1
