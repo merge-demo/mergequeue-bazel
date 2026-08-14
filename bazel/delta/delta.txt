@@ -16019,7 +16019,7 @@ dehydrosparteine
 doits
 disturn 2
 diapedesis 1
-diaphototropic
+diaphototropic 1
 decorrugative
 doublespeak 1
 deamidization 1
