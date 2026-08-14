@@ -6700,7 +6700,7 @@ furrier
 freshwater 1
 flaughtbred 1
 frequent
-finableness
+finableness 1
 forecontrive 2
 fenner 3
 flingers 4
