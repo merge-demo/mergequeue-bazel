@@ -18529,7 +18529,7 @@ arte
 aporobranchia 2
 arborists
 arsmetrike
-arborize
+arborize 1
 axmaker 1
 arborizing
 abaca 1
