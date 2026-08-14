@@ -10247,7 +10247,7 @@ bellweather 1
 bulldogs
 beheads 2
 biborate
-broadmindedly
+broadmindedly 1
 belly 2
 boracic 1
 blacksmithing 1
