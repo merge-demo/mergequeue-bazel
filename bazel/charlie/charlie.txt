@@ -18658,7 +18658,7 @@ clearheaded
 crafty 1
 conourish 1
 corporales 2
-cointensity 1
+cointensity 2
 cointer
 cointerest
 cointerred
