@@ -14923,7 +14923,7 @@ creosols 1
 cytotaxonomy
 conky
 claudius
-curvaceous
+curvaceous 1
 chilacavote
 cytotaxonomically
 circumcrescent
