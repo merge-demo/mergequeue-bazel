@@ -1291,7 +1291,7 @@ ecostate 2
 epithalamion 1
 encircler 3
 endogenesis 1
-eassel 1
+eassel 2
 enteroid 2
 epyllia
 epicranius 3

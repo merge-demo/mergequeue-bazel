@@ -15616,7 +15616,7 @@ ametria
 aftermatter
 antineutrons
 anting
-absist
+absist 1
 antings 1
 assary 1
 apprehensible
