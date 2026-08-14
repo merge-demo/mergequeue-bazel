@@ -2926,7 +2926,7 @@ baguettes 1
 blind
 benefactor 1
 begorra
-bushers
+bushers 1
 bureaucratize 3
 barreling
 bibaciousness 2
