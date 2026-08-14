@@ -2015,7 +2015,7 @@ dourer
 dimorphic 2
 desugars 2
 decaedron 2
-decaffeinate
+decaffeinate 1
 depicted 2
 disformity 2
 decaffeinize 1
