@@ -1660,7 +1660,7 @@ gonnardite 1
 geratic
 gladder 2
 greenhouses 2
-graftage
+graftage 1
 gastrocnemii 1
 groten 2
 gaffed 1
