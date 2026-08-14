@@ -9479,7 +9479,7 @@ escortee 2
 escorts 3
 escot
 endbrain 1
-emperor
+emperor 1
 enghosted
 excurved 1
 eupneas 2
