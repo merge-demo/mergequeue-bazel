@@ -10791,7 +10791,7 @@ baulkier 2
 birthrate 1
 blocks
 bergamo
-branchiate 1
+branchiate 2
 blepharochromidrosis 1
 balow
 bullbeggar 1
