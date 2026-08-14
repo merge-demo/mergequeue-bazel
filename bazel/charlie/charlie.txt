@@ -5439,7 +5439,7 @@ castlewise
 castock 1
 clepes 1
 castoffs
-coldly
+coldly 1
 castoreum
 caftaned 1
 castorite
