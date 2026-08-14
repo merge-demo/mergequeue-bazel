@@ -5528,7 +5528,7 @@ dehistoricize
 drama 2
 dematiaceous
 denotement 1
-directionality
+directionality 1
 drought 3
 dyvour 1
 disilicate 1
