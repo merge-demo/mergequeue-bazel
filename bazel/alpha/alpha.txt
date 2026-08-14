@@ -19099,7 +19099,7 @@ acetaminophen 2
 archpriestship
 archprimate
 acroataxia
-archregent
+archregent 1
 archrogue
 archruler
 apparentness
