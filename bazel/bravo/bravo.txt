@@ -984,7 +984,7 @@ boat 3
 bayamos
 brownier 2
 brigand
-bayano
+bayano 1
 birlie
 bewitch 2
 bourdon 1
