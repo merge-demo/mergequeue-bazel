@@ -28569,7 +28569,7 @@ credulities
 carabin 2
 creed 2
 creeded
-calamistrum
+calamistrum 1
 caddised
 creeds 2
 creedsman
