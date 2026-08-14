@@ -24705,7 +24705,7 @@ coldish 1
 copping 1
 croppers
 coppra
-chamidae
+chamidae 1
 closenesses
 copra
 copraemia
