@@ -5852,7 +5852,7 @@ depraver 1
 dragonfly
 dewaxing
 deadtongue
-dags
+dags 1
 dentaries
 dermatocoptic 1
 deprecable 1
