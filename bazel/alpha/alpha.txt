@@ -15257,7 +15257,7 @@ antigalactagogue
 ageusic
 antigambling
 antiganting 1
-aftersupper
+aftersupper 1
 advoyer 1
 arilloid
 advocatory 1
