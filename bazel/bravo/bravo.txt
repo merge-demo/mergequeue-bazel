@@ -1012,7 +1012,7 @@ boraces 1
 barmecidal 2
 balcony
 burnweed 1
-bail
+bail 1
 buxeous 1
 bringer 2
 barfs
