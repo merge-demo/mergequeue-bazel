@@ -8535,7 +8535,7 @@ cestoda 1
 chancelloress 1
 cid
 copybook
-chancellors
+chancellors 1
 califates
 chancellorship
 chancellorships
