@@ -7517,7 +7517,7 @@ deuteranope
 deuterate 2
 deuteration 1
 denucleate 1
-demarcator
+demarcator 1
 desulfurized 3
 digitalizing
 disenchain 1
