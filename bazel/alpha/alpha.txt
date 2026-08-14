@@ -8937,7 +8937,7 @@ allonyms
 allonomous 1
 abortion
 apodan
-admiralships
+admiralships 1
 arris 1
 appreciate 1
 antenatal 1
