@@ -13675,7 +13675,7 @@ colleges 2
 cytomorphology 1
 cinches
 crankcase
-cinching
+cinching 1
 cincholoipon
 countercharging
 contusing
