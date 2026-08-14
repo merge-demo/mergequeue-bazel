@@ -12023,7 +12023,7 @@ demideity
 desmodus 1
 disenfranchisement 1
 devanagari 4
-demonkind
+demonkind 1
 disenfranchises 1
 disintertwine 3
 divinest 1
