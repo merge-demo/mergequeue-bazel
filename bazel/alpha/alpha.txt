@@ -14234,7 +14234,7 @@ antipart 2
 anterointernal 2
 anterolateral 1
 antiferroelectric 1
-automorphically
+automorphically 1
 agiotages 1
 anterooms 1
 anteroparietal 1
