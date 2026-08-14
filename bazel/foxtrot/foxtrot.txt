@@ -3914,7 +3914,7 @@ fripperies 4
 followers 1
 fevertrap 3
 footslogged
-fluidextract 1
+fluidextract 2
 findable
 fruz
 function
