@@ -31117,7 +31117,7 @@ cacodylate 1
 cunicular
 cuniculi
 camelid
-cuniculus
+cuniculus 1
 crosspatches 2
 cuniforms 1
 cunila
