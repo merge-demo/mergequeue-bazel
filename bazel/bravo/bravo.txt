@@ -5414,7 +5414,7 @@ boarstaff
 bigarreau 1
 behaved 1
 bronchium
-behaver
+behaver 1
 bicollateral 2
 behaving 1
 brainteasers 1
