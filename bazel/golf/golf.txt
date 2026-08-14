@@ -6953,7 +6953,7 @@ grayfly 3
 geometrised 3
 gradients
 geostatics 2
-goodwife
+goodwife 1
 grecians
 guasa 2
 guiana 2
