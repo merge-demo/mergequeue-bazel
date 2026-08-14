@@ -5444,7 +5444,7 @@ excantation 2
 earthtongue 2
 endpoints 2
 endrudge
-extrabulbar
+extrabulbar 1
 ecderonic 1
 endseal 1
 endshake 1
