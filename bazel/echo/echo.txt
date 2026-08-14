@@ -8424,7 +8424,7 @@ epinasties 1
 epulones 1
 exchange 2
 electrizer 1
-evisceration
+evisceration 1
 egyptianize 1
 equip
 enjoyment 1
