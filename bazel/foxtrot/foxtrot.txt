@@ -3481,7 +3481,7 @@ fleeches
 fanfares 3
 fingerable 1
 frostfishes 3
-foreseason
+foreseason 1
 fallback 2
 fighteress
 fatigation 1
