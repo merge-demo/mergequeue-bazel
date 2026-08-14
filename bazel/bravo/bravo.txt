@@ -12449,7 +12449,7 @@ b
 barde
 bells
 boukit 2
-bescrawl 2
+bescrawl 3
 booklists
 bisymmetrically
 bicameralism
