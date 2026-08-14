@@ -1957,7 +1957,7 @@ cypriote 2
 crotalid
 checkered
 camera 2
-capitols
+capitols 1
 counterwill 2
 cumulose
 cyprinodont 1
