@@ -3479,7 +3479,7 @@ defoedation 1
 defogged
 disyllable
 dormered
-drogh
+drogh 1
 didelphous
 dorism 1
 defoil 1
