@@ -915,7 +915,7 @@ garnishable 1
 grittiness 2
 gosport 2
 gemeinschaften
-galt
+galt 1
 gametophoric 1
 gorbet 3
 gated 1
