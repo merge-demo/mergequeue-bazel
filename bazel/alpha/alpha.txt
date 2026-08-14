@@ -23088,7 +23088,7 @@ adjoiningness
 acetol 1
 adenoma 2
 attaints
-archsatrap
+archsatrap 1
 amitotically
 almirah 1
 aumoniere
