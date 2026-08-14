@@ -8526,7 +8526,7 @@ chanced 3
 categorical
 chanceful
 cadrans
-chancefulness
+chancefulness 1
 chancey
 chanceled 1
 cardiacea
