@@ -30575,7 +30575,7 @@ chipyard 1
 cubocalcaneal
 cuboctahedron
 cubocube
-cashboy
+cashboy 1
 crepidula
 cubocuneiform 2
 cubododecahedral 1
