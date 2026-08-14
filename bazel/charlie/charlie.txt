@@ -2434,7 +2434,7 @@ conemaking 1
 cancerogenic 1
 circumcentral
 cancerophobe 1
-cancerophobia
+cancerophobia 1
 cancerous
 celtophil
 cancerously
