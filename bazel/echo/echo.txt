@@ -12426,7 +12426,7 @@ epistyle
 erythrocytometry 1
 experient
 eyer
-ergometer
+ergometer 1
 effude 1
 epapillate
 elengely
