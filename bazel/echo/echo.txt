@@ -1190,7 +1190,7 @@ enscroll 3
 ensweep 1
 educational 1
 extratracheal 2
-estipulate
+estipulate 1
 estimation
 eroded 1
 elenge 1
