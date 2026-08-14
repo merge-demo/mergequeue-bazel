@@ -10158,7 +10158,7 @@ edgier
 emmove 4
 earlyish 2
 exhausts 1
-encroaching
+encroaching 1
 embroideress 3
 emeraldine 1
 etherially
