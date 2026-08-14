@@ -5222,7 +5222,7 @@ fuse 3
 flav
 flavanilin 1
 fiscals 1
-flavescence
+flavescence 1
 fingall 2
 flytrap 2
 filius
