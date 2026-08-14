@@ -15417,7 +15417,7 @@ bevy 1
 brigsail 1
 bousing 2
 brill 1
-bradytocia 1
+bradytocia 2
 bicone
 binominous 1
 brillante
