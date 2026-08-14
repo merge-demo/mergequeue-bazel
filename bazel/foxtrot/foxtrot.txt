@@ -4537,7 +4537,7 @@ fictive 2
 fissirostrate
 fusser 2
 fissura 1
-frugal
+frugal 1
 forwardsearch 3
 fractionized 1
 felinophile 1
