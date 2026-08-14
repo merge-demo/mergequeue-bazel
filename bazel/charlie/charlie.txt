@@ -24141,7 +24141,7 @@ compeers 1
 colascione
 convicinity
 cattabu
-charon
+charon 1
 convictfish 1
 convictfishes
 convictible
