@@ -12470,7 +12470,7 @@ chromolith
 colent 1
 chromolithic
 concanavalin
-chromolithography
+chromolithography 1
 chromolithographic 1
 chromomere
 chondrosarcoma 1
