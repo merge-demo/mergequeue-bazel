@@ -15344,7 +15344,7 @@ brieflessly
 besieges
 briefness 1
 bleeds 2
-bedstaves
+bedstaves 1
 barblet 3
 bisquette 2
 backie
