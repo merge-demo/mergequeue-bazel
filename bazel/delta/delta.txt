@@ -7256,7 +7256,7 @@ desulfurize
 detenues 1
 dephlegmator
 deter 1
-deterged 1
+deterged 2
 desertlike
 dilettantship
 dendrachate 2
