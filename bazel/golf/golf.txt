@@ -10838,7 +10838,7 @@ grayhead 2
 generality 1
 gyrofrequency
 genethlialogical 2
-gyrograph
+gyrograph 1
 guttar 1
 guaiacum 2
 guzul 1
