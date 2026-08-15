@@ -13517,7 +13517,7 @@ antefact
 appeasing
 avenin
 autostandardization 1
-annoyer
+annoyer 1
 annoyingly
 authigenic
 annates
