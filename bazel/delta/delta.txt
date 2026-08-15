@@ -12588,7 +12588,7 @@ disintegrator 2
 deifications
 disintegrators 1
 dextrer
-disintegrity
+disintegrity 1
 disinter
 disinterest 2
 disinterestedly
