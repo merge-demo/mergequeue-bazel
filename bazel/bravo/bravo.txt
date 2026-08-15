@@ -12324,7 +12324,7 @@ bomber 2
 bedirty 3
 begroaning 1
 balatronic 2
-bombes
+bombes 1
 babaylan
 buckpot 1
 bombesins
