@@ -19506,7 +19506,7 @@ convenientness 1
 colpoplasty 1
 chromogenetic 1
 colpoptosis
-colporrhagia
+colporrhagia 1
 colporrhaphy
 camoufleurs 1
 colporrhexis 1
