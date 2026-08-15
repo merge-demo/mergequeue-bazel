@@ -13252,7 +13252,7 @@ barebacked 2
 bonducnut 2
 bedstaff 1
 bokard
-brune
+brune 1
 bossily 3
 bowler 1
 boarish 1
