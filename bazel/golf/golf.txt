@@ -1310,7 +1310,7 @@ goodie 2
 gamekeeping 1
 ginglymoid 1
 gateward 2
-gibbered
+gibbered 1
 groomers 1
 gas
 globalism
