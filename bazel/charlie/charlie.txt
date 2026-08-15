@@ -14641,7 +14641,7 @@ coquelicot
 cystoplegia
 cystoproctostomy
 cystopteris
-cystoptosis 2
+cystoptosis 3
 cystopus
 cystoradiography 1
 cragged 1
