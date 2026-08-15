@@ -2315,7 +2315,7 @@ breloque
 bathyscape
 barbicel 3
 bemitred 2
-barbicels
+barbicels 1
 bathonian 1
 barbierite
 busyish
