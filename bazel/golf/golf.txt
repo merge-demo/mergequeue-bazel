@@ -4466,7 +4466,7 @@ gpd 4
 gleba 2
 gladiatorship 1
 galloman 3
-gaultherine
+gaultherine 1
 gipon
 gaetulan 1
 gunlayer
