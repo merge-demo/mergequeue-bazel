@@ -821,7 +821,7 @@ bulbus 1
 bartletts 1
 bushelbasket
 bonelike
-bedene
+bedene 1
 bouleversement 3
 baffs 1
 becomingly
