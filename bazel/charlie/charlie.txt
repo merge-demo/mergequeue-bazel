@@ -13227,7 +13227,7 @@ cauld 1
 coulometric
 crossrail
 cycloaliphatic
-cycloalkane
+cycloalkane 1
 cyclobothra 1
 carmakers
 cyclobutane 2
