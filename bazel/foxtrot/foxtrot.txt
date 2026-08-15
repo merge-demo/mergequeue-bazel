@@ -1824,7 +1824,7 @@ featureliness
 furrows 3
 figureheadship 2
 fellahin 2
-firebreaks
+firebreaks 1
 feudalize 1
 fractured
 flabellum 1
