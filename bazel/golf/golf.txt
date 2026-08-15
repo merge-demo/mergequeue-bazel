@@ -9527,7 +9527,7 @@ graals
 glutinize 1
 guanaco 1
 gemellion 2
-garden 1
+garden 2
 guanabano 4
 groupist 3
 genipapada
