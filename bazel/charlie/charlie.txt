@@ -5321,7 +5321,7 @@ cleanser
 ctenophora 1
 cassocked
 cultures
-cassocks
+cassocks 1
 chamberlain
 cuspidated
 cassons
