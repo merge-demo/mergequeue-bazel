@@ -1906,7 +1906,7 @@ debowel 3
 depravity 1
 debride
 dallas
-deodorant
+deodorant 1
 deciphers
 debriefing
 dowser
