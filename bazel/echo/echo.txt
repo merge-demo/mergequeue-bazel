@@ -9322,7 +9322,7 @@ eruditical 1
 estrangedness 1
 ensilaged 2
 estop
-erudition
+erudition 1
 erinys
 eurythmic 2
 endosiphon
