@@ -11130,7 +11130,7 @@ blandness
 brawniest 1
 buckler 1
 benevolently 2
-brotan
+brotan 1
 broguing
 bipenniform
 bespit
