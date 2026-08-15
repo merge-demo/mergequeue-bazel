@@ -131,7 +131,7 @@ clitelline 1
 cabinetworker
 cabinetworking
 cabinlike 1
-crafter
+crafter 1
 cabio 1
 chemisorptive
 costotransverse
