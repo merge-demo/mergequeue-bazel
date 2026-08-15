@@ -17946,7 +17946,7 @@ coelectron
 centrist
 ciborium
 clubwood 1
-circumvolving
+circumvolving 1
 coelentera
 cubicle
 cookshack
