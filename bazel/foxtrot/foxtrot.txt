@@ -1353,7 +1353,7 @@ fatigable 3
 favorable
 fatigableness
 forfars 2
-frock 1
+frock 2
 fidac
 flaggish 1
 fanning
