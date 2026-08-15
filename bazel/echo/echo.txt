@@ -47,7 +47,7 @@ euchromosome
 earflap 1
 expender 1
 enzyms 2
-excites
+excites 1
 exciton 2
 electroretinograph 2
 excursion 1
