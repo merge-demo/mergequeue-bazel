@@ -13035,7 +13035,7 @@ engrapple 1
 enhazard 1
 entrusted 2
 epinaoi
-eraser 1
+eraser 2
 escoba 2
 emrode 2
 expatriated 2
