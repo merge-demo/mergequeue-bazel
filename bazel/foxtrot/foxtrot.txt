@@ -11388,7 +11388,7 @@ fluorindine 5
 furnishable 4
 fluoroformol 3
 frontirostria 2
-forgiveably
+forgiveably 1
 footballer 1
 flushness 2
 fourposter 4
