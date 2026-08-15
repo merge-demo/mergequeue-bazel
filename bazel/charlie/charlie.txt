@@ -12046,7 +12046,7 @@ chanceries 1
 crisp
 countermachination
 crusca 2
-caruage
+caruage 1
 chockler 1
 casal
 chorusmaster 1
