@@ -15703,7 +15703,7 @@ broadsiding 1
 broadspread
 broadsword
 bamangwato 3
-bromethyl
+bromethyl 1
 brob 2
 betorcin 2
 bolder 2
