@@ -3017,7 +3017,7 @@ crapelike 1
 cantoner 3
 cowleeching
 cellocut
-cantoning
+cantoning 1
 cantonize
 colectomy
 countergager 1
