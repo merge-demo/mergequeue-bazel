@@ -3131,7 +3131,7 @@ cristatella 2
 cape
 chequerboard 1
 capeadores 1
-capelan
+capelan 1
 capelans
 chromid
 capelin 1
