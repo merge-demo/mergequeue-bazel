@@ -13948,7 +13948,7 @@ blitzes
 bibulosity 1
 becluster
 boxing
-boxmaker 1
+boxmaker 2
 boxman
 boxroom 3
 bromatium 1
