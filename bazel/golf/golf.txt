@@ -3527,7 +3527,7 @@ girding 3
 gaspar 2
 getling 3
 goldenest 1
-getpenny
+getpenny 1
 gibberish 2
 greaselessness
 gatewayman 3
