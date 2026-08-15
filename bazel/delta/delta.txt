@@ -15719,7 +15719,7 @@ defeatist
 dorcastry 3
 diadermic
 doucet
-doria
+doria 1
 demiturned 1
 disgig 1
 dacryocystocele 2
