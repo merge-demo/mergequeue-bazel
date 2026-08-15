@@ -5882,7 +5882,7 @@ deponents 1
 despots 3
 drago
 depreciation 3
-deoxygenization
+deoxygenization 1
 dryopians 3
 deforceor
 depredate
