@@ -3231,7 +3231,7 @@ defencive 1
 dents
 defend 2
 dikast 2
-dolmenic
+dolmenic 1
 demimondaine 1
 dissentient 1
 distrainor
