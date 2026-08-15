@@ -10733,7 +10733,7 @@ absinth 1
 alumetize 1
 animosities 1
 anabolitic
-antaphrodisiac
+antaphrodisiac 1
 agrammaphasia 1
 alevins
 anthophorous
