@@ -6805,7 +6805,7 @@ cellared 1
 chamoix 1
 cellaress 1
 chanceable
-caudal
+caudal 1
 cellarmen 2
 cellars 2
 chirologies
