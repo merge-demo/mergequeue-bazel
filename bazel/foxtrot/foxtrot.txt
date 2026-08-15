@@ -5743,7 +5743,7 @@ fractuosity 1
 fels 2
 figureheadless 1
 fisher
-foredeserved 1
+foredeserved 2
 farth 3
 fecket
 fringepod
