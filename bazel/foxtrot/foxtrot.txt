@@ -3399,7 +3399,7 @@ flokite
 frameableness 1
 floramour 3
 fuller 3
-flyweights 1
+flyweights 2
 feignedly
 filtre 1
 faculative 2
