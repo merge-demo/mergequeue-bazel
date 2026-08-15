@@ -3695,7 +3695,7 @@ degreewise
 dorsers 1
 degressive 3
 dactylopterus 3
-daunting
+daunting 1
 dictamnus
 degust 1
 dasnt
