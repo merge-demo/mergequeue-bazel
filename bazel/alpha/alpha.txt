@@ -897,7 +897,7 @@ audiometric 1
 apogeotropic 1
 archband 2
 aures 1
-absyrtus
+absyrtus 1
 amylon
 absis 1
 absit 1
