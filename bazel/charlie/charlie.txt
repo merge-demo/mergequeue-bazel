@@ -8140,7 +8140,7 @@ comrogue
 crepuscule
 chainless
 counteractions 1
-crosscheck
+crosscheck 1
 chlortetracycline
 chumping
 craspedon
