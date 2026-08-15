@@ -1820,7 +1820,7 @@ featured 2
 fluidify 1
 featureful
 featurelessness 2
-featureliness
+featureliness 1
 furrows 3
 figureheadship 2
 fellahin 2
