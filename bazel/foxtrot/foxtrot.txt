@@ -4799,7 +4799,7 @@ flocculable 2
 feltmonger 3
 flaunching 4
 freshened 3
-fooling
+fooling 1
 flaggy
 formicated 1
 foaly 1
