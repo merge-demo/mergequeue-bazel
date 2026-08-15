@@ -417,7 +417,7 @@ flouting 1
 frows 3
 foredesk 2
 fusetron
-festive
+festive 1
 familiariser
 flints 3
 fibrotic
