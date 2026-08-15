@@ -4176,7 +4176,7 @@ bulgy
 beastman
 barracoutas 1
 beastship 3
-beat 1
+beat 2
 benches
 beatee
 bleery 1
