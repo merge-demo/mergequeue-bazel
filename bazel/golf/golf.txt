@@ -528,7 +528,7 @@ gyrowheel 2
 gluten 1
 gliomas 1
 germproof 2
-geeldikkop
+geeldikkop 1
 galipoidin 5
 guzzles 2
 galleins
