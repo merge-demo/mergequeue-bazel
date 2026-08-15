@@ -13263,7 +13263,7 @@ bostonian 1
 banderillas
 burglar
 branchstand 1
-barman 1
+barman 2
 bumbarge
 bromide
 bullydom 1
