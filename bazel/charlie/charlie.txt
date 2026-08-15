@@ -29869,7 +29869,7 @@ crossbeam
 clarifications 1
 crossbeams
 cosmorganic
-crossbelt
+crossbelt 1
 collectability 2
 crossbill 1
 crossbite 2
