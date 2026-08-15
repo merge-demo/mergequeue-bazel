@@ -17413,7 +17413,7 @@ atriensis 1
 antiattrition 1
 autocratically 2
 apotheosised 1
-apotheosized
+apotheosized 1
 apothesine
 anteportico 1
 amercers
