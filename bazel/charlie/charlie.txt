@@ -9536,7 +9536,7 @@ checkpoints 1
 commonize
 cogitative 1
 checkrack
-casehardens
+casehardens 1
 cricotracheotomy 2
 calaththi
 checkrein
