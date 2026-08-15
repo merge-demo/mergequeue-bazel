@@ -9584,7 +9584,7 @@ dependants 1
 desmitis 2
 deuterons 1
 digonal 1
-digoneutism
+digoneutism 1
 differentness
 divisi
 digoxins
