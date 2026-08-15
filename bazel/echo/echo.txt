@@ -7577,7 +7577,7 @@ executer
 ependyma
 endomysium 2
 endovenous 4
-electrocapillarity 1
+electrocapillarity 2
 equivalently 2
 equalling
 electrocoating 4
