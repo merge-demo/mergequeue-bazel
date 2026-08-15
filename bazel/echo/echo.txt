@@ -9071,7 +9071,7 @@ epenthesis
 editorialist
 erythrocytosis
 embryogony
-ectasia
+ectasia 1
 epistropheus
 equivocations 2
 educe 2
