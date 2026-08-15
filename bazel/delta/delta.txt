@@ -2251,7 +2251,7 @@ debase
 dinoflagellatae 2
 dungeonlike 2
 drummed
-diploses
+diploses 1
 diapyetic
 deceiving 1
 definitized 2
