@@ -6363,7 +6363,7 @@ dermosclerite
 deco 2
 dermotropic
 dastardliness 2
-derms
+derms 1
 diacatholicon 1
 defined 1
 dioc 1
