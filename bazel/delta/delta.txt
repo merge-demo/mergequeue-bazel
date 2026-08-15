@@ -13866,7 +13866,7 @@ distempering 1
 distemperoid 1
 distending 4
 drowns 1
-disalike
+disalike 1
 dyslexia 2
 dissavage
 dipter
