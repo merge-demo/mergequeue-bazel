@@ -702,7 +702,7 @@ gowlan 3
 grass 4
 gals
 galtrap 4
-gianthood
+gianthood 1
 gastroenterologically
 galumphs 1
 guebucu 5
