@@ -6868,7 +6868,7 @@ graphics
 gorbal 1
 guaranty 5
 globosities
-galaxies
+galaxies 1
 gymsia 2
 gluteoinguinal
 gauntlets 2
