@@ -4467,7 +4467,7 @@ febricity 2
 fishplate
 feste 1
 fate 4
-fishpole
+fishpole 1
 fishpoles 3
 flueless 2
 flameproof 3
