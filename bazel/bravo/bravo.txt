@@ -4622,7 +4622,7 @@ bedeafening 1
 baghouse
 bothriums 3
 bilberry 1
-bedecked
+bedecked 1
 bedrid 3
 bedecking 2
 beholdingness
