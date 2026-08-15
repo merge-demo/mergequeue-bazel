@@ -27753,7 +27753,7 @@ cowsheds
 cowshot 1
 camorristi 1
 chough
-cowshut 1
+cowshut 2
 cowskin
 countercommand 1
 cowson
