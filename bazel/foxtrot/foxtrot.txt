@@ -2580,7 +2580,7 @@ ferroelectric 2
 fingerbreadth 2
 fattier 3
 fouty 1
-franchiser
+franchiser 1
 fibrocytic
 ferrogoslarite 2
 forcet 1
