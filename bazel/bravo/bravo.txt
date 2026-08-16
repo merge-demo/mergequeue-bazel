@@ -11614,7 +11614,7 @@ bevels 1
 bacauan 1
 blacks
 bizant
-boarwood 1
+boarwood 2
 boas
 boaster 1
 boastfully
