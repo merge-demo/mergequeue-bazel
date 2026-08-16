@@ -14157,7 +14157,7 @@ circulators
 circulus
 cavaedium
 circumambiency 1
-circumambient 1
+circumambient 2
 circumambulate
 circumambulated
 compose
