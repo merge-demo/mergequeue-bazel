@@ -12223,7 +12223,7 @@ epilachna 1
 executioneering
 enneahedrons 2
 engarb 1
-episynthetic
+episynthetic 1
 excur 1
 ensigns
 epiphanizing
