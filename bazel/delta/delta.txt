@@ -3528,7 +3528,7 @@ dandily 1
 downfold
 deuterostomata
 deforse
-diplomatic
+diplomatic 1
 dinitrotoluene 2
 disapproving 1
 defrayable
