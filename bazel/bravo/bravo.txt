@@ -4964,7 +4964,7 @@ boulles
 bactritoid 1
 bonaveria
 boltless
-bolases
+bolases 1
 beerbachite
 budgers
 beraked
