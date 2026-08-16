@@ -15729,7 +15729,7 @@ chapel 2
 clawed 1
 clawer
 cubbishly
-clawers 1
+clawers 2
 clawing
 colobium
 calcicole
