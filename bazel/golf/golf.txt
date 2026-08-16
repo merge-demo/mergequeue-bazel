@@ -8486,7 +8486,7 @@ glaze 2
 glands 3
 golfing
 graveclod
-genl
+genl 1
 gibaro 2
 gibblegabbler 2
 graffias 4
