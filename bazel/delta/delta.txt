@@ -13260,7 +13260,7 @@ disconformable
 daylily
 dispossed 1
 distrusted 2
-demogenic
+demogenic 1
 daidly
 domines 3
 deleerit
