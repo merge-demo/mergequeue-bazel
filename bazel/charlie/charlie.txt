@@ -2471,7 +2471,7 @@ cancrum 1
 cancrums
 cand 1
 candelabras
-candelabrum
+candelabrum 1
 corelatively
 candelilla 1
 conductible
