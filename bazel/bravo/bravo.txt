@@ -15574,7 +15574,7 @@ backwoodsman 1
 bolsterer
 brist 3
 bombproof 1
-bristled
+bristled 1
 bakhtiari 1
 biomagnetism
 burlaps
