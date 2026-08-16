@@ -6824,7 +6824,7 @@ currs
 continua 1
 cellmates 1
 cello 1
-chambermaid 1
+chambermaid 2
 celloid
 chairmaker
 cathodofluorescence 1
