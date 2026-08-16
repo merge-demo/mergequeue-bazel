@@ -12479,7 +12479,7 @@ dancette
 dexterity 2
 defy 6
 deboise
-demesne
+demesne 1
 dislimb 2
 disyllabized 1
 dumky 2
