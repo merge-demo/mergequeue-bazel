@@ -7902,7 +7902,7 @@ feuilletonistic 3
 fasten 2
 fork 2
 floes
-fetticus
+fetticus 1
 forewarned
 feiseanna 2
 featherworker 2
