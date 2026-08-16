@@ -14786,7 +14786,7 @@ dockets 1
 dyphone
 dockhand
 dockhouse
-dilambdodont
+dilambdodont 1
 deringers 1
 dockyards 1
 docking 1
