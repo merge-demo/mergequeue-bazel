@@ -2592,7 +2592,7 @@ gametogeny 2
 generant 3
 generate 1
 guitars 1
-gypsiferous 1
+gypsiferous 2
 generated
 gazetteerage
 gomerel 1
