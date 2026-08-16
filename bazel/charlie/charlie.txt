@@ -4732,7 +4732,7 @@ carpetlayer
 carpetmaking
 clubability
 captivation
-carpets
+carpets 1
 chant 1
 concolorous
 carpetweb 1
