@@ -2805,7 +2805,7 @@ duodecahedral 2
 dint 2
 drypoints 1
 dari
-decresc
+decresc 1
 desalination
 delphinus 1
 duodecahedron
