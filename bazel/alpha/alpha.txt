@@ -6372,7 +6372,7 @@ ametrometer 1
 agriculturist 3
 aftergood
 anticreep 1
-agrilus
+agrilus 1
 aureola
 adultress 1
 abohms 1
