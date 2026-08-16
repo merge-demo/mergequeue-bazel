@@ -2547,7 +2547,7 @@ declares 1
 dimaris 3
 daneworts 1
 diplococcus
-declaring
+declaring 1
 dwined
 declasses
 dorn
