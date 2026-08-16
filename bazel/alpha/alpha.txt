@@ -21998,7 +21998,7 @@ antiperiodic 2
 act 1
 assuming 1
 assumingly
-assummon
+assummon 1
 assumptious 1
 assumptiousness
 achondroplastic 2
