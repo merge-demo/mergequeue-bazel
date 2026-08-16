@@ -17698,7 +17698,7 @@ cockal
 carboloy
 counternoise
 cockpit
-couched
+couched 1
 comaking 1
 chemosmoic 1
 catan
