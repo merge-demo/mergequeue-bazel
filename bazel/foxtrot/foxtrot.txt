@@ -2140,7 +2140,7 @@ fidepromissor 1
 filtered 4
 fuligulinae
 flaws 3
-finfoots
+finfoots 1
 fumette 2
 fameful 2
 famously
