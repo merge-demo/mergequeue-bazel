@@ -10451,7 +10451,7 @@ aminophylline
 archispore 1
 araba
 amiability
-amiableness
+amiableness 1
 antiautolysin
 aswooned
 aspalax 2
