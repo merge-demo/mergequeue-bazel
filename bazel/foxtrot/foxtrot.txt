@@ -7844,7 +7844,7 @@ fractionisation 1
 fungify 1
 favorite 2
 fligged 2
-focusing
+focusing 1
 fatiguable
 fellen 1
 findings 2
