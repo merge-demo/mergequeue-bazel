@@ -4951,7 +4951,7 @@ grouter 3
 greenbottle
 gestural 2
 glaives 5
-get 3
+get 4
 gent
 galangal 3
 grangerizing 2
