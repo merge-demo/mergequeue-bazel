@@ -11605,7 +11605,7 @@ afright 1
 anachronize 1
 animalish
 albuminuria 3
-allothigenic
+allothigenic 1
 annoyancer 1
 arseniureted
 appassionate
