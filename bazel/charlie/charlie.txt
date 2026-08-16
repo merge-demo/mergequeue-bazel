@@ -19096,7 +19096,7 @@ collinses 1
 circumterraneous
 cristate
 chaptrel
-collinsite
+collinsite 1
 collinsonia
 colliquable
 colliquate 1
