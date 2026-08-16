@@ -1712,7 +1712,7 @@ electrolyses
 earpieces 1
 echolocate 1
 endogenicity
-ejaculating 1
+ejaculating 2
 enterosyphilis
 embolon 1
 employ

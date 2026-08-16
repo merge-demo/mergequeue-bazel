@@ -28496,7 +28496,7 @@ caromed
 creatress 2
 caecectomy
 creatureling 1
-creatures 1
+creatures 2
 carapo 2
 creatureship
 conversibility
