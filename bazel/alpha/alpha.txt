@@ -5981,7 +5981,7 @@ ancilia
 autotomous 1
 arrogancy
 aggressin
-altered
+altered 1
 anchylotic
 aureal 1
 adenylpyrophosphate
