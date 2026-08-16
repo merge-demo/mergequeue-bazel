@@ -5837,7 +5837,7 @@ entification 1
 evade 1
 emulatory 1
 efficace 2
-electrovalency 2
+electrovalency 3
 exfoliation 2
 erlkings 1
 epicele 2
