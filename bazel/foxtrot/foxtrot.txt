@@ -7533,7 +7533,7 @@ foams
 ferial 4
 ferrocyanhydric
 foment 2
-feazes 1
+feazes 2
 foredesignment 2
 forecastle 3
 forecastlehead 1
