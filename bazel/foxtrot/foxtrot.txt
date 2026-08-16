@@ -3311,7 +3311,7 @@ flirtationless 1
 framed 3
 fideicommissaries 4
 fungus
-flirtling
+flirtling 1
 finesser 2
 faon
 forevermore 2
