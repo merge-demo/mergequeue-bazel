@@ -4788,7 +4788,7 @@ gypsy 2
 givingness 1
 globes 2
 garrnishable
-gizz
+gizz 1
 gorgoniaceous 1
 gentlewomanly 2
 gizzard 2
