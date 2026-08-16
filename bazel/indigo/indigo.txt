@@ -1240,7 +1240,7 @@ iaxpy 1
 iaxqoe
 iaxqur 1
 iaxrad 1
-iaxriu 1
+iaxriu 2
 iaxrxyloryqp 2
 iaxsr 1
 iaxstin 1
