@@ -20352,7 +20352,7 @@ commutator
 commute 2
 commuted 1
 cacography
-condolement
+condolement 1
 commuters
 commutes 1
 chattelship 1
