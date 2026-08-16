@@ -6751,7 +6751,7 @@ arpeggio 1
 allomerize
 agglutination 2
 atrioporal 2
-abnormities
+abnormities 1
 ainus 1
 ayont
 anterodorsal
