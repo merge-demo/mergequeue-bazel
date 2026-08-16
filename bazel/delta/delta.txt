@@ -5578,7 +5578,7 @@ dependabilities 1
 donatistic 1
 dibber 1
 dustfall 2
-draftable
+draftable 1
 depended
 dolichopellic
 dependence 1
