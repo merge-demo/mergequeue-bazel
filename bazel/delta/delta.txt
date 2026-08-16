@@ -12383,7 +12383,7 @@ dishcloths 2
 disparkle 2
 dupable
 dishclout
-disassembly
+disassembly 1
 disheartenedly 2
 doubles 1
 disheartener 1
