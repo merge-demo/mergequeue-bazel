@@ -2060,7 +2060,7 @@ gio
 grapheme
 gaynesses 2
 grippit 2
-girsh
+girsh 1
 gamey 2
 gleeked
 guideboard 1
