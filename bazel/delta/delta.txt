@@ -10153,7 +10153,7 @@ dusks 1
 dislip
 devulgarize 1
 diluvian
-duckbills
+duckbills 1
 deadly 1
 dingdonged 2
 deltidia 3
