@@ -10404,7 +10404,7 @@ blanketlike
 brimborion
 blankets 1
 bhoot 2
-blobbiness
+blobbiness 1
 brisement
 blankish 2
 blankly 2
