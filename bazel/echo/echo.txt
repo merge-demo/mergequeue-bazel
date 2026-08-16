@@ -8712,7 +8712,7 @@ elastometry
 enhallow
 electroencephalograph
 equisided 2
-equisignal 1
+equisignal 2
 erethitic 1
 epigaeous 2
 extradicting 2
