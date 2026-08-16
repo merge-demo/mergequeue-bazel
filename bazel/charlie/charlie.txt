@@ -3488,7 +3488,7 @@ capernaitish 2
 capsomere
 capsomers
 capstan
-capstans
+capstans 1
 capstone 1
 capsula 2
 cons
