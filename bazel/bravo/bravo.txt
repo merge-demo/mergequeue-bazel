@@ -3350,7 +3350,7 @@ basoid
 baraithas 2
 beltine 1
 banus
-bayberries
+bayberries 1
 breast 3
 blowfish 2
 bellote
