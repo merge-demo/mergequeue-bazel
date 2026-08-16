@@ -16676,7 +16676,7 @@ draintile 3
 deserves 1
 debouchure 1
 draisine
-duodiode
+duodiode 1
 detach 3
 darnel 2
 drinking 1
