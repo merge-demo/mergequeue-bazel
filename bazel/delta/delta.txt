@@ -8751,7 +8751,7 @@ diatomist
 dover 1
 dot 1
 debadge 2
-diaporesis
+diaporesis 1
 demimonk
 decime 1
 distastefully
