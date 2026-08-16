@@ -16437,7 +16437,7 @@ chaunt 1
 cloakmaker 2
 constrainer 1
 cloakmaking
-cymbaline
+cymbaline 1
 cloakroom
 cloakrooms
 conquer 1
