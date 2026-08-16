@@ -17883,7 +17883,7 @@ beholders 3
 bolides
 bepaints
 bothroi
-brenthis
+brenthis 1
 bibliotics
 boodles 2
 biassed
