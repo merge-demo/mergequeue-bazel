@@ -16685,7 +16685,7 @@ befringed 3
 borosilicate 1
 bubblelike 1
 bucketmaking
-basketfuls
+basketfuls 1
 blithehearted 1
 besiege
 bishopship
