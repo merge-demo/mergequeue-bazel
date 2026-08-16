@@ -10832,7 +10832,7 @@ exemplars
 enoptromancy 1
 explodes
 engine
-electrocuting
+electrocuting 1
 execrates
 etherealising
 eupepticity
