@@ -22020,7 +22020,7 @@ confiscates
 confiscation
 confiscations
 confiscators
-churnable
+churnable 1
 chromocytometer
 clairschacher 3
 corticating
