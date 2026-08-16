@@ -13038,7 +13038,7 @@ daijo 1
 disparts
 deformities 2
 deplethoric 1
-dispassion
+dispassion 1
 dispended
 dunfish 2
 dissipative 1
