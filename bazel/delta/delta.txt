@@ -10615,7 +10615,7 @@ diplomates
 diplomatically 1
 diethyl
 dysergia
-dolour
+dolour 1
 dinantian 2
 diplomatists 3
 domer 2
