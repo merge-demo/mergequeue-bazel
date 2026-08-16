@@ -1293,7 +1293,7 @@ encircler 3
 endogenesis 1
 eassel 2
 enteroid 2
-epyllia
+epyllia 1
 epicranius 3
 earthless 3
 effectiveness 3
