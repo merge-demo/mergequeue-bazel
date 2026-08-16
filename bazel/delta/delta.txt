@@ -11231,7 +11231,7 @@ dogbush
 desoxybenzoin 1
 diacle 2
 depredator 1
-domesticability
+domesticability 1
 dangler 2
 decrescendos
 dissyllabification
