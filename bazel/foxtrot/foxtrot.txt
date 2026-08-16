@@ -9592,7 +9592,7 @@ fraternality
 fortifications 1
 fishpound 1
 fivestones
-ferrotyper
+ferrotyper 1
 forhooy 1
 fothering
 flanger 3
