@@ -3214,7 +3214,7 @@ dudelsack 1
 dashpot 2
 defeit
 de 1
-dogdom
+dogdom 1
 deciding
 douses 2
 defeminized
