@@ -5677,7 +5677,7 @@ againward 1
 aggrace 1
 ardeid 1
 agal
-agalactic
+agalactic 1
 appoggiaturas
 agalaxia 1
 anisomelus 2
