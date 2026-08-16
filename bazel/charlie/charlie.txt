@@ -30810,7 +30810,7 @@ condenser 1
 cull 1
 contemnible
 consarned 1
-cullage 1
+cullage 2
 cullays
 cullas
 carroty 1
