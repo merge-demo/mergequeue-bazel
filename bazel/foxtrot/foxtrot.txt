@@ -10612,7 +10612,7 @@ forseen
 fractile 1
 ferity
 franc
-forswearing 2
+forswearing 3
 flumped 1
 forwaste 1
 fleeting
