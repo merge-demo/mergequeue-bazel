@@ -3684,7 +3684,7 @@ fluxweed
 fungible 6
 federalize 3
 freeboots 2
-footbreadth
+footbreadth 1
 fibroadipose 1
 filings 1
 flosser 4
