@@ -11042,7 +11042,7 @@ fumishing 1
 friendliness 1
 fermented 3
 fumuli 3
-fungated
+fungated 1
 fere
 fascias 2
 funambulator
