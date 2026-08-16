@@ -9082,7 +9082,7 @@ apnoeas 2
 anadicrotic
 alphyl
 amidoacetal
-anaeroplastic
+anaeroplastic 1
 allround
 alls
 adolesce 1
