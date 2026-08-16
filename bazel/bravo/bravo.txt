@@ -9162,7 +9162,7 @@ basil 1
 blowback
 borohydride
 balladwise
-bromcamphor
+bromcamphor 1
 bruja 1
 biotome 1
 boiler 2
