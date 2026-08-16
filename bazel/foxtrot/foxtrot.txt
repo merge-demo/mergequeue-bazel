@@ -4555,7 +4555,7 @@ fishgigs 1
 fatiguing 2
 fissuring 1
 flagellation 1
-fruitcake
+fruitcake 1
 forethinker 2
 foolable
 faciolingual 1
