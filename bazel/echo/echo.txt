@@ -9158,7 +9158,7 @@ ectocinerea
 encolor 2
 enates 1
 ernes 1
-erode
+erode 1
 eosinophilic
 erodent
 extradite
