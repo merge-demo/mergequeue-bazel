@@ -7374,7 +7374,7 @@ betime 1
 bastionet
 blotching
 bridgeward
-betinge
+betinge 1
 bailed 1
 betire
 betis
