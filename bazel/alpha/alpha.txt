@@ -24681,7 +24681,7 @@ ackeys 1
 adenemphractic
 accordant 3
 averment 2
-anopheline
+anopheline 1
 averments 1
 admove 1
 aeneid 3
