@@ -453,7 +453,7 @@ combind
 crocodilean 1
 cactus
 copying 1
-civilisable 1
+civilisable 2
 chancered
 cactuslike
 cassavas 1
