@@ -7818,7 +7818,7 @@ florette
 fluidimeter 4
 fashes 4
 frounces 1
-forenote 1
+forenote 2
 fastness 2
 feltyflier 3
 fleamy 2
