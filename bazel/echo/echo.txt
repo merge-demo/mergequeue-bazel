@@ -11748,7 +11748,7 @@ ethoxyls
 explanations 1
 envision
 esc
-eveque
+eveque 1
 episcopise 2
 ensurer 2
 easier 2
