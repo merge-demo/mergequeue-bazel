@@ -16842,7 +16842,7 @@ clubfoot
 clubfooted
 clubhand
 clubhands
-cerebralgia 1
+cerebralgia 2
 clubhaul 1
 correctant
 cupflower
