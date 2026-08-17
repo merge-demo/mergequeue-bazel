@@ -2424,7 +2424,7 @@ flabellifoliate 1
 fobbed 2
 festivities 3
 fatigate 3
-freemasons
+freemasons 1
 fractur 1
 frizzle 2
 fingered
