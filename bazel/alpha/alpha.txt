@@ -750,7 +750,7 @@ aswail 1
 admetus
 abrash
 abrasing
-aeromechanics
+aeromechanics 1
 abashment 1
 autogyro
 agnition 2
