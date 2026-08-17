@@ -1713,7 +1713,7 @@ earpieces 1
 echolocate 1
 endogenicity
 ejaculating 2
-enterosyphilis
+enterosyphilis 1
 embolon 1
 employ
 epistilbite
