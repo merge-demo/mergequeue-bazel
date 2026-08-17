@@ -5854,7 +5854,7 @@ gadger
 gladify 2
 gate
 gymnosporangium 1
-gynoecium
+gynoecium 1
 glucate
 gorevan 1
 gibelite 1
