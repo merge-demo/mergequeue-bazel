@@ -13243,7 +13243,7 @@ askable 1
 anisal
 araks 1
 antiphysician
-anisandrous
+anisandrous 1
 aberrant 1
 anisanilide 1
 annotated
