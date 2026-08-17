@@ -3302,7 +3302,7 @@ baratheas 1
 believe 1
 brisant
 basiradial
-bacterioscopic
+bacterioscopic 1
 basirostral
 basiscopic
 bacterial
