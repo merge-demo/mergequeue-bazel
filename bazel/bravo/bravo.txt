@@ -11228,7 +11228,7 @@ barmskin 1
 bopyridae
 blottier
 bemired
-beatably
+beatably 1
 bibliophilistic 2
 bridgeable 2
 bescouring
