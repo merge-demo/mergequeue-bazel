@@ -10882,7 +10882,7 @@ burnup 1
 beadledom
 biggity
 bibbling 1
-blindball
+blindball 1
 bindable
 befingered 2
 bangers
