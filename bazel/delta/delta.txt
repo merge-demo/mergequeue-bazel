@@ -8293,7 +8293,7 @@ dagesh
 desonation 1
 digitation
 doombook 4
-dialyzer
+dialyzer 1
 diagrams 3
 dentin
 db
