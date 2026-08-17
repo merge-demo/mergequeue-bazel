@@ -13321,7 +13321,7 @@ explosiveness 3
 equipt
 electromyograph 1
 elusively
-eyewear 2
+eyewear 3
 encomendero 1
 expone
 ephoralty 2
