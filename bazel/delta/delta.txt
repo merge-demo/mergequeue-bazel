@@ -15804,7 +15804,7 @@ disocclude
 domdaniel 1
 disalign
 dorsalgia
-dorsalwards
+dorsalwards 1
 dorser 1
 doxantha 1
 diestrus 1
