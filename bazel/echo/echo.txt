@@ -5023,7 +5023,7 @@ endenize
 ergmeter
 executional
 escalop 2
-encapsule
+encapsule 1
 enfoncee 1
 encamp
 erogeneity 1
