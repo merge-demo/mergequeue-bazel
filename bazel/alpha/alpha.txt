@@ -15091,7 +15091,7 @@ ascetics
 async
 aruke 1
 antidote 1
-appraise
+appraise 1
 agnosias 1
 antidoted 1
 acraldehyde
