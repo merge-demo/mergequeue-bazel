@@ -7606,7 +7606,7 @@ gloeosporium 4
 goodyness
 gemmula
 grus 2
-grabhook
+grabhook 1
 grabouche 2
 gripsack
 gigolo 3
