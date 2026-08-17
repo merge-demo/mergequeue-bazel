@@ -29231,7 +29231,7 @@ cryptamnesia
 chattingly
 cryptamnesic 1
 cryptanalytically 2
-cryptanalytics
+cryptanalytics 1
 cryptanalyze 2
 cothamore
 capybara
