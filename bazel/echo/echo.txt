@@ -2659,7 +2659,7 @@ entad 3
 exemplarity 1
 ethnocentrism 2
 electrosmosis
-excelling
+excelling 1
 exegetist 1
 enquiries 1
 electrosteel
