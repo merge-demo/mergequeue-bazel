@@ -29914,7 +29914,7 @@ crosshatching
 crosshaul
 crosshauling 1
 chipper 1
-crossings
+crossings 1
 crossite
 contriteness 1
 cinnamenyl
