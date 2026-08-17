@@ -9304,7 +9304,7 @@ girnel 1
 gallowglass 5
 gaure 1
 guttera 3
-grudgingness
+grudgingness 1
 generale 2
 ghosted 2
 grogshop 2
