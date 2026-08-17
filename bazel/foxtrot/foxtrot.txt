@@ -6198,7 +6198,7 @@ feudum 3
 foreread 1
 fairgoing 1
 flaxes 1
-fulgurate
+fulgurate 1
 foretops 1
 feebling 3
 frequency
