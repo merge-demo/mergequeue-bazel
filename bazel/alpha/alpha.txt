@@ -8482,7 +8482,7 @@ acanthosis 1
 alkapton 2
 alkaptone
 ascent 1
-alkaptonuric
+alkaptonuric 1
 alkarsin 2
 ancipital 3
 annuisance

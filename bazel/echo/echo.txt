@@ -11318,7 +11318,7 @@ entirety
 eightfold 2
 eagles
 exalbuminous
-evaporimeter
+evaporimeter 1
 electrocute 3
 ecdysons
 epupillate 2
