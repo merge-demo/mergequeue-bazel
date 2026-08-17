@@ -14862,7 +14862,7 @@ disnatural
 dimmers 2
 demarks 1
 drafters
-documentarist
+documentarist 1
 documentational
 decarbonator 1
 dictyograptus 1
