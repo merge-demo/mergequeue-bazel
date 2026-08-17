@@ -5100,7 +5100,7 @@ gravery 1
 glassmaking
 guerite 2
 glyc 1
-gallberries
+gallberries 1
 grav 1
 gomerec
 grittier
