@@ -17796,7 +17796,7 @@ buoyances 1
 breakback 3
 burroweed 1
 burrows 1
-benevolent
+benevolent 1
 burrstone
 bambini
 bundobust 1
