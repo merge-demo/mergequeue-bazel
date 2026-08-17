@@ -12158,7 +12158,7 @@ desulfuration 3
 discubitory
 disexercise 1
 disfaith
-disconsolance
+disconsolance 1
 disfashion 1
 diplosome
 deaerating
