@@ -17994,7 +17994,7 @@ dulcianas
 dulcify
 dulcification 1
 dropforging
-dislodgeable
+dislodgeable 1
 disseminator
 deporture
 dentelle
