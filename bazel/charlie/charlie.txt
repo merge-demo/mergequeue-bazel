@@ -23855,7 +23855,7 @@ contriver 1
 cookmaid 2
 caimitillo 1
 contrives
-control
+control 1
 controling
 controllable 1
 controllably 1
