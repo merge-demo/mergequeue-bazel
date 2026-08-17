@@ -9622,7 +9622,7 @@ dishumour
 diplobacterium 1
 disruption 2
 dowing 1
-dihybridism
+dihybridism 1
 dihybrids
 disfunctions
 dupers 2
