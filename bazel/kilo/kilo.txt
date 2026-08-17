@@ -8492,7 +8492,7 @@ kobslcosqptym 1
 kobsm 3
 kobtesmm 1
 kobtferk
-kobtfqn 2
+kobtfqn 3
 kobu 2
 kobuflbdpe
 kobuho 1
