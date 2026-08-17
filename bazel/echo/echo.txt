@@ -7344,7 +7344,7 @@ electrojet 3
 ephorates 1
 enravishment 2
 epapophysis 2
-easeled
+easeled 1
 evangeliser
 exosphere 1
 expulsing 2
