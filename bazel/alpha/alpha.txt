@@ -8993,7 +8993,7 @@ allosyndetic
 autoregulatory 2
 aureolas
 allosome
-allosteric
+allosteric 1
 allotee 2
 allotelluric 1
 allothigenetically
