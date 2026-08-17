@@ -17648,7 +17648,7 @@ bogginess 2
 bellovaci 3
 boff
 blockish
-boris
+boris 1
 britchel 1
 belady
 blowier
