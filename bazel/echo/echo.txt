@@ -2266,7 +2266,7 @@ epitomist
 exla 2
 electret
 electrets 1
-esophagogastrostomy
+esophagogastrostomy 1
 exploitive 2
 electrically 2
 extensometer 1
