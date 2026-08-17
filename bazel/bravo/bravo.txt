@@ -17192,7 +17192,7 @@ barkantine 1
 bullpen
 bullpoll
 bemirror
-bullpup 1
+bullpup 2
 brughs 2
 bestarve 1
 boozy
