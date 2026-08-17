@@ -6521,7 +6521,7 @@ ahull 2
 ascomata 1
 anacrustic 1
 airward
-acerbities
+acerbities 1
 amicableness 2
 ahunt 1
 azocyclic
