@@ -18135,7 +18135,7 @@ battalion 1
 badmouthing 1
 butene
 butenyl
-babuina
+babuina 1
 blurrier 1
 buteonine
 bods 1
