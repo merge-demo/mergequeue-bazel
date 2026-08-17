@@ -16671,7 +16671,7 @@ drains 2
 drageoir 2
 deponer 1
 dedifferentiate 2
-diplarthrous
+diplarthrous 1
 draintile 3
 deserves 1
 debouchure 1
