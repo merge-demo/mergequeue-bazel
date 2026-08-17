@@ -5015,7 +5015,7 @@ flashtester 3
 faith 1
 fissive 1
 filmcard 2
-flaneur 1
+flaneur 2
 frescoes 2
 functioned
 foremartyr 2
