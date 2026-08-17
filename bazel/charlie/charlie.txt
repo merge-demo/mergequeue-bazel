@@ -20603,7 +20603,7 @@ cofounded
 curvilinearly 2
 compilations 1
 compilator
-compiled
+compiled 1
 compilement
 cogitatingly 3
 collineate
