@@ -9625,7 +9625,7 @@ gatefold 2
 guisarme 3
 galvanomagnetic 1
 goodsire 1
-gracileness 2
+gracileness 3
 goosewinged
 genson
 grozart 3
