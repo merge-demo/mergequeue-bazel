@@ -19945,7 +19945,7 @@ avalanched 1
 arbitrageur
 aesture
 adossed
-armoured
+armoured 1
 armourer
 antipatriarchal
 andrographolide 2
