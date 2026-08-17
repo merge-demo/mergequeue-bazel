@@ -4568,7 +4568,7 @@ feuder 1
 fisticuff 2
 fort 2
 fouldre 1
-familiarness 1
+familiarness 2
 fratricide 2
 fainaigued
 fisting
