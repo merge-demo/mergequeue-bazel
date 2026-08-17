@@ -6012,7 +6012,7 @@ decohere
 disapprove 1
 dermatonosus 3
 derogated
-depthways 2
+depthways 3
 disoccupy
 deadman 1
 dandered
