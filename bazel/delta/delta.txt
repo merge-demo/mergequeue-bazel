@@ -7955,7 +7955,7 @@ dextranase 1
 doublelunged
 disallowable 1
 demicylinder
-defunctive
+defunctive 1
 downsteepy 1
 diathermal 1
 decimeters
