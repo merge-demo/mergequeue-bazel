@@ -8842,7 +8842,7 @@ bastant 1
 binukau
 brimmimg
 bathypelagic 1
-bioaccumulation 1
+bioaccumulation 2
 bioactivities
 bioassaying 3
 bioastronautics
