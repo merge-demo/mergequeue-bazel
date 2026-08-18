@@ -8659,7 +8659,7 @@ commissionaire
 chansonnette 1
 cedarwood 1
 chansonniers 1
-chantey
+chantey 1
 counterlighted
 corrigiolaceae 3
 conspired
