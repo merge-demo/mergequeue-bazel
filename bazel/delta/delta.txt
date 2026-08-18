@@ -2707,7 +2707,7 @@ dareful 3
 deconsecrated
 detailedness 2
 demitrain
-deconsideration
+deconsideration 1
 decontaminating
 diatessaron
 dortiness 1
