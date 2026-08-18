@@ -11358,7 +11358,7 @@ deodands 2
 dowhacky 1
 devoter
 dilatometric
-dehydrogenise
+dehydrogenise 1
 decorement
 delimiter 1
 dischevel
