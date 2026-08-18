@@ -9430,7 +9430,7 @@ administrations 2
 anesthetics 1
 abyssobenthonic 1
 aitesis
-amasty
+amasty 1
 altar
 altarage 1
 allodies 1
