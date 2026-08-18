@@ -7195,7 +7195,7 @@ eryopsid 4
 ethnomanic 3
 exuviability 2
 emulate 2
-ethal
+ethal 1
 electrons 1
 ecumenic 2
 elvishly 3
