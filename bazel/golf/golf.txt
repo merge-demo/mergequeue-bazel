@@ -9627,7 +9627,7 @@ galvanomagnetic 1
 goodsire 1
 gracileness 3
 goosewinged
-genson
+genson 1
 grozart 3
 gaeltacht 1
 granulomata 1
