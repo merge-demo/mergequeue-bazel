@@ -6362,7 +6362,7 @@ fren 2
 flang 1
 fullterm 2
 fluoran
-fennish 2
+fennish 3
 fluorane 3
 francois 1
 florentium 2
