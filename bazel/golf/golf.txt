@@ -7680,7 +7680,7 @@ grading
 grease 2
 general 2
 gobiesox 3
-galerus
+galerus 1
 granters
 gladly 3
 gardebras 2
