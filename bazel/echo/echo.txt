@@ -3208,7 +3208,7 @@ elops 1
 elicit 2
 emission 1
 epiphanized 1
-everything
+everything 1
 extruding 1
 embioptera
 efficaciousness
