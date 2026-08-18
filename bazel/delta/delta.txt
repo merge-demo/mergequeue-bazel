@@ -14400,7 +14400,7 @@ divellent
 downstage 2
 dispireme 2
 divergement
-distensible
+distensible 1
 divergent
 dishpans 3
 decrials 1
