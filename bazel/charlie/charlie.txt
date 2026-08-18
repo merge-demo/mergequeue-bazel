@@ -261,7 +261,7 @@ cachemic
 coemploy
 cities
 cassiduloidea
-cachepot
+cachepot 1
 chillies 1
 condensing
 caches 2
