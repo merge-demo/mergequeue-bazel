@@ -2250,7 +2250,7 @@ electioneer 1
 elaphurine
 elections 2
 elevatory
-exocolitis
+exocolitis 1
 effluve
 endoplasma 2
 elector
