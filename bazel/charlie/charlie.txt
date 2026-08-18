@@ -30981,7 +30981,7 @@ cumber
 consumptiveness 1
 congeries 2
 cumberer
-cumbering
+cumbering 1
 cumberland
 codefendants 1
 cumberless
