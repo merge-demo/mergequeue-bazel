@@ -8898,7 +8898,7 @@ estaminets 1
 expectorators 1
 entoderms 2
 ergograph
-epistrophic
+epistrophic 1
 embitter 3
 emeroids 1
 ergomaniac 2
