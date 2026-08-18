@@ -14927,7 +14927,7 @@ attroupement 1
 abret
 anticlines 1
 anticlinoria
-amphigouri
+amphigouri 1
 anticlinorium
 axised 1
 anaphoral
