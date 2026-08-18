@@ -20432,7 +20432,7 @@ artcraft
 antitypes 2
 acceptableness
 appeared 1
-adaptively
+adaptively 1
 anaglyphoscope 1
 argylls 2
 autosymnoia 1
