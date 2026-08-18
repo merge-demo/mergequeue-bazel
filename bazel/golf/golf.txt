@@ -10255,7 +10255,7 @@ gonophore 2
 glacier
 gustiness 3
 galvanometry 3
-galvanoplastically
+galvanoplastically 1
 grownup 2
 gauzelike 1
 guanases 1
