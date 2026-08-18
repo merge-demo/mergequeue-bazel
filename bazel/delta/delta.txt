@@ -3730,7 +3730,7 @@ didact 1
 dehydrogenate 1
 dawtet 1
 distillable 1
-disentangled
+disentangled 1
 devisable 2
 dehydrogenisation 1
 daddling
