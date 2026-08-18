@@ -7919,7 +7919,7 @@ fletching 1
 foreseer 1
 foresees
 fonder
-foreseize
+foreseize 1
 flatteries
 fike 1
 firy 1
