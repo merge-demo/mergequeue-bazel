@@ -5985,7 +5985,7 @@ bossier
 befooling
 brewis
 bribeability 3
-bruises
+bruises 1
 bitterbark
 bemean
 biphenyls
