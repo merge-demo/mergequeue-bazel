@@ -1070,7 +1070,7 @@ abundance
 accurtation
 ammoniojarosite
 apparelled
-abundancy 1
+abundancy 2
 aluminosis 1
 abundant
 anachronical 1
