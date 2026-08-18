@@ -5602,7 +5602,7 @@ character
 cariousness
 centi
 crochet
-catalogia
+catalogia 1
 crossweb
 contractible
 catalogical
