@@ -19939,7 +19939,7 @@ armouchiquois
 ammine 2
 armour 1
 armourbearer 3
-anaematosis 1
+anaematosis 2
 aristogenics
 avalanched 1
 arbitrageur
