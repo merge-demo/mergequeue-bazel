@@ -19427,7 +19427,7 @@ cup 2
 chasty
 colormaker
 cornicing 1
-colorman 1
+colorman 2
 cerealose
 colors
 cutose 1
