@@ -3550,7 +3550,7 @@ featherhead 1
 formant
 frightful
 foulsome 4
-filamentary 2
+filamentary 3
 filament 1
 flannelleaves 1
 fishfall
