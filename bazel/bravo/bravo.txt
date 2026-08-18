@@ -9978,7 +9978,7 @@ barrenness
 bivector
 biventer 1
 backseat
-bayonetting 2
+bayonetting 3
 blackwashing 1
 bulkin 1
 bizarrerie
