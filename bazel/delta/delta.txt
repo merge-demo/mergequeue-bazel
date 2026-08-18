@@ -17442,7 +17442,7 @@ deskill 1
 dermatographic
 damascener
 diagrammatician 2
-dentiroster
+dentiroster 1
 devitrified 1
 drouking
 deprehension 2
