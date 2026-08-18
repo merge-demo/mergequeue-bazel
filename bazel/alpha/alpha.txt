@@ -20790,7 +20790,7 @@ athyreosis
 aspiculate 1
 angico
 assimilated
-autophobia
+autophobia 1
 alicant
 alienors
 artlessness
