@@ -11711,7 +11711,7 @@ cholesteric
 chondre
 chondrenchyma
 caramelin
-cocomats
+cocomats 1
 columbian 1
 curdiest
 chondrify
