@@ -1635,7 +1635,7 @@ disfranchising
 deliverable 1
 difficulty 1
 daylong 1
-dimetrodon
+dimetrodon 1
 deodate
 datolitic 1
 domify
