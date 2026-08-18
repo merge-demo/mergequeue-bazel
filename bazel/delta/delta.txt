@@ -16336,7 +16336,7 @@ discobolus
 dismasts 1
 dicoelous
 daven 1
-dismount 1
+dismount 2
 divergently
 discinoid
 downsizing 3
