@@ -2637,7 +2637,7 @@ discontinues
 desalter 1
 decoloring
 disavowed
-diogenes
+diogenes 1
 deforce
 dispose 3
 decolors 1
