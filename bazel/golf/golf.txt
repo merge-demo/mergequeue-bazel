@@ -5423,7 +5423,7 @@ gender
 groovy 2
 glutenin 2
 granomerite 2
-groceress
+groceress 1
 groupageness 4
 geared
 gastroesophageal 2
