@@ -13927,7 +13927,7 @@ boxcars 1
 bishopful 1
 barwing 1
 billete
-bostonese 1
+bostonese 2
 bowsie 3
 byerlite
 bacteriuria
