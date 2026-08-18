@@ -5887,7 +5887,7 @@ goldfinch
 glycosidase 3
 gawney 1
 gipsyweed 4
-glucoses
+glucoses 1
 glances 1
 glucoside 3
 goshawk
