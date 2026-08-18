@@ -1157,7 +1157,7 @@ foredestiny
 farthingdeal 3
 frays 2
 footfeed 4
-fascinator
+fascinator 1
 ferous 1
 flowerless
 flouters 3
