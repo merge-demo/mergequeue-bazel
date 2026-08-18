@@ -8873,7 +8873,7 @@ doziness 2
 depthwise
 diffeomorphism 2
 debituminize 1
-deflexure
+deflexure 1
 domiciliating 1
 dicacity
 deodorising
