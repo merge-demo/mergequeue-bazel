@@ -9672,7 +9672,7 @@ cheeseparer 2
 canaster 1
 cerebrasthenic
 caravaning
-counseling
+counseling 1
 cheeseparing 2
 cheesewood 1
 cheesiest
