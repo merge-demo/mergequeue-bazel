@@ -7005,7 +7005,7 @@ destroyers
 despoiler 3
 disabilities
 despoilers
-decongest 2
+decongest 3
 decamps
 discreditably
 disjasket
