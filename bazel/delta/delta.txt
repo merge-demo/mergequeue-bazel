@@ -14003,7 +14003,7 @@ distracter
 deaurate 3
 distraction 3
 distractions
-distractive
+distractive 1
 defending
 dumpling 1
 disproportion 1
