@@ -16426,7 +16426,7 @@ dozzled
 dr 2
 draba
 disassembles
-drabant
+drabant 1
 draughthouse 2
 dextrotartaric 2
 dichotomousness
