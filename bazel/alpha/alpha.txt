@@ -16722,7 +16722,7 @@ adverbless
 allegiances 1
 auburn 1
 annunciated
-atees
+atees 1
 arrestee
 aphasiacs
 aphasics
