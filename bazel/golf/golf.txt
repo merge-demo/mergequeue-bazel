@@ -6432,7 +6432,7 @@ golaseccan 2
 glassman 1
 gobiesocid 1
 geostrophic 1
-gymnocladus
+gymnocladus 1
 grows 4
 gentlemanliness 3
 gocart 2
