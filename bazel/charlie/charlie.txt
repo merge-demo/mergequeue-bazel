@@ -2589,7 +2589,7 @@ carbona
 canduc
 crepier
 camphires
-censuses
+censuses 1
 cyclotrons
 cliffing
 canebrake 1
