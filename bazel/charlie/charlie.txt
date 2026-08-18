@@ -15789,7 +15789,7 @@ colonized 1
 clearable
 clearance 1
 clearances 1
-commensurately
+commensurately 1
 counterfeitness 1
 clearcole
 clearedness
