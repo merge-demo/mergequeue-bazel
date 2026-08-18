@@ -12606,7 +12606,7 @@ diapiric 1
 downmost
 dragoness
 dechenite
-disintoxication
+disintoxication 1
 dankness
 daud 1
 dysyntribite 1
