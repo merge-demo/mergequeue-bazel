@@ -6806,7 +6806,7 @@ desires
 dihedrons 1
 desirous
 desirousness
-drily
+drily 1
 dented
 dropsonde 2
 dedicates 1
