@@ -18516,7 +18516,7 @@ aardwolf
 apprizement 1
 anyplace
 arborical
-arboricole
+arboricole 1
 addresses
 acceptees 1
 austrophile 2
