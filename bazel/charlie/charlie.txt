@@ -19139,7 +19139,7 @@ compartmentalizes
 collocutor
 cogitations 1
 collodion
-crushproof
+crushproof 1
 collodionization 1
 collogen
 chouses
