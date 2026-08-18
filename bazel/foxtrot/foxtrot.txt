@@ -814,7 +814,7 @@ faun 1
 fenny 2
 frogeyes 2
 formfitting
-fixatives
+fixatives 1
 fluctuations
 fanjet 2
 fastened 4
