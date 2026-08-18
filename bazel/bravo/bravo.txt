@@ -11077,7 +11077,7 @@ bioral
 blockiest 1
 bevelling 1
 blocking 1
-borborygmic
+borborygmic 1
 benzimidazole
 biomorphic
 billeter
