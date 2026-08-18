@@ -2990,7 +2990,7 @@ burrel 2
 barroom 4
 barruly 1
 bedumb
-barsac
+barsac 1
 backhatch
 becowarding
 bioassay 2
