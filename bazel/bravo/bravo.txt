@@ -4488,7 +4488,7 @@ bedplate
 bronchiectatic 2
 bluenose
 becroak 1
-bedead
+bedead 1
 becross 1
 bureaucratism 2
 becrowd 1
