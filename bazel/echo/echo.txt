@@ -3987,7 +3987,7 @@ empanels 1
 enfamish 1
 ecumene 2
 emparchment 2
-exaltative
+exaltative 1
 enruin 3
 embarrassingly
 edictum 2
