@@ -5447,7 +5447,7 @@ flavorers
 figurativeness 1
 formulator
 famished
-foresummer
+foresummer 1
 feridjee
 furfuration 2
 fanatic 1
