@@ -10208,7 +10208,7 @@ blackjacks 1
 bootstraps 1
 bondhold
 bloodletter
-belshazzar 2
+belshazzar 3
 blackleg 2
 blacklegged 2
 benzo 2
