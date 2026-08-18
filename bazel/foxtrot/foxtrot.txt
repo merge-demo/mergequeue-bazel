@@ -1325,7 +1325,7 @@ flyable
 factionally 1
 frantically 2
 fluxible 1
-fatherly
+fatherly 1
 fartherer 2
 feest 2
 features 4
