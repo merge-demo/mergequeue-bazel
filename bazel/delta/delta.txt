@@ -18589,7 +18589,7 @@ duskness
 dust 1
 delphian 1
 dustbins
-dustcart
+dustcart 1
 devocalisation 2
 distance 2
 dustcover 1
