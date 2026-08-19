@@ -2112,7 +2112,7 @@ borofluoride 1
 bantayan
 buckshots 1
 bidstand 1
-bantam 3
+bantam 4
 bantamize 1
 bismar
 burette
