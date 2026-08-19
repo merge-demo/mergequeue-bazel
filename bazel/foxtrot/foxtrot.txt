@@ -7514,7 +7514,7 @@ fullface 2
 forebode 2
 frictionlessness 1
 fest 1
-forebodes
+forebodes 1
 forebody
 frostweed 2
 flaser 2
