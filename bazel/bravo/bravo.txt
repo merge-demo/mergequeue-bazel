@@ -3541,7 +3541,7 @@ burgages
 beuniformed 1
 bathycolpic 1
 berseems 4
-belatticed
+belatticed 1
 baroscopic 1
 binode
 blonds 2
