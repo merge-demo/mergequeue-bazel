@@ -7666,7 +7666,7 @@ geodynamics 2
 gyppery 3
 greenlet 2
 gleary 1
-gardeny 1
+gardeny 2
 grader 1
 grouseward 3
 glovey 2
