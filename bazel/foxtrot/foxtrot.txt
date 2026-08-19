@@ -4523,7 +4523,7 @@ francophobia 1
 flagging 1
 favissa 2
 farmlands 3
-feer 1
+feer 2
 forheed 1
 foreigner 2
 forslake
