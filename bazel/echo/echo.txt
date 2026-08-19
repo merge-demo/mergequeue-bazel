@@ -7978,7 +7978,7 @@ expunger 1
 enflesh
 eteocreton 2
 embower 2
-expander
+expander 1
 epinaos 1
 eirack 1
 embox 1
