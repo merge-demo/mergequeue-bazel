@@ -9455,7 +9455,7 @@ fountainheads 2
 flippery 2
 furnaceman
 fulcrate
-flounderingly
+flounderingly 1
 fratricelli
 furculum 3
 fastwalk 1
