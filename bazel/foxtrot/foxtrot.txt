@@ -1009,7 +1009,7 @@ forweend
 flashes 1
 fluorapatite 2
 fluoborid 3
-feeblest
+feeblest 1
 farinas 1
 foglietto 2
 fascicles
