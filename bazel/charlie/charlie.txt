@@ -4851,7 +4851,7 @@ cetaceous 1
 carry 1
 carriageable
 carriageful 2
-clachans
+clachans 1
 carriages 1
 crosstie
 carriagesmith 1
