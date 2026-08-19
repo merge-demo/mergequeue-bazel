@@ -3933,7 +3933,7 @@ gisla 1
 guidance 2
 ghat 3
 geomorphy 2
-gnoff
+gnoff 1
 gladatorial 1
 graphicly
 gigatons 1
