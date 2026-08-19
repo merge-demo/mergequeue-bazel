@@ -9707,7 +9707,7 @@ dilapidation
 dilatably 1
 deters 1
 desiderate
-dilatants
+dilatants 1
 dilatate
 decremented
 discutient
