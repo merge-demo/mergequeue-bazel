@@ -9202,7 +9202,7 @@ bipedal 1
 beggared
 bogo 1
 backhauling 1
-bourbonesque
+bourbonesque 1
 bipedality 2
 bipeds
 bipeltate 2
