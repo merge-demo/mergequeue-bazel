@@ -22447,7 +22447,7 @@ astronomy 2
 analgen 1
 aphototropism 1
 astronomical
-ajenjo
+ajenjo 1
 acylate
 astronomics
 astronomize 2
