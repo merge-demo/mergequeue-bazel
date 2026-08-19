@@ -9935,7 +9935,7 @@ frigage 1
 frigates 4
 flocculated
 flavin
-frightens
+frightens 1
 fontes 1
 frighting 4
 fumiduct
