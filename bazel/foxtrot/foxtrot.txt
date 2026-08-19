@@ -8201,7 +8201,7 @@ flakier 1
 forewritten 1
 fundamentals 4
 forgeries 3
-fatigated
+fatigated 1
 fictioneer
 feudalities 2
 flaggelated 1
