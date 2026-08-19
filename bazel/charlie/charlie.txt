@@ -11192,7 +11192,7 @@ caperwort
 chilopodous
 chloranemia
 couchy
-chloranemic
+chloranemic 1
 chuffs
 chloranhydride 1
 chloranil
