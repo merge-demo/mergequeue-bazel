@@ -13039,7 +13039,7 @@ disparts
 deformities 2
 deplethoric 1
 dispassion 1
-dispended
+dispended 1
 dunfish 2
 dissipative 1
 dopes
