@@ -1669,7 +1669,7 @@ fadeaways 1
 frisker 1
 fearedness 4
 fluidizes
-fathometer 1
+fathometer 2
 frypan 2
 faucets 1
 flatworm
