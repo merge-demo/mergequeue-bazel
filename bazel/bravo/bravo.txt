@@ -9232,7 +9232,7 @@ bipinnated
 bipinnatipartite 2
 butyrals 1
 bow
-bipinnatisect
+bipinnatisect 1
 bobsledding 1
 brighter
 bipyramid
