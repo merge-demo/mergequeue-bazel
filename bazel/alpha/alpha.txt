@@ -5640,7 +5640,7 @@ auspiciously
 antilopinae 1
 acrocoracoid
 agacante
-accrue
+accrue 1
 axbreaker 1
 agacerie 1
 austromancy
