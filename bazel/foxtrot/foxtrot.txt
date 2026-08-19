@@ -4274,7 +4274,7 @@ foreyard 2
 fatless 3
 flail 1
 fireward
-forehead
+forehead 1
 firewater
 fictionisation 4
 freehandedly 1
