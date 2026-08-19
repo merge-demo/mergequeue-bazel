@@ -7423,7 +7423,7 @@ errant
 exotic 1
 eleotrid 1
 experiencing
-encolumn
+encolumn 1
 etruria 1
 etalon 2
 encheat 1
