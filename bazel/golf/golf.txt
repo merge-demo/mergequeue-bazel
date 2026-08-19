@@ -9485,7 +9485,7 @@ gossamery
 gae 1
 glaciaria 4
 gonyaulax 3
-gernative
+gernative 1
 graceful 1
 ghylls 2
 guelphish 1
