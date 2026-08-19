@@ -3347,7 +3347,7 @@ anthranil
 antipolyneuritic 1
 adamantinoma
 adamantness 3
-actinochemical
+actinochemical 1
 aphthongia 2
 adamantoblast
 archery 1
