@@ -5993,7 +5993,7 @@ depsides
 disciplinability 1
 dilettantist
 discommoded 1
-dept
+dept 1
 diaschistic 1
 depth
 dispraise
