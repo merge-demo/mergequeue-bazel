@@ -943,7 +943,7 @@ absorbefacient
 azoflavine 2
 absorbing 1
 absorpt 1
-absorptiometer
+absorptiometer 1
 allegeable
 alive 3
 analcites
