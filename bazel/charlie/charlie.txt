@@ -2772,7 +2772,7 @@ cluttering 1
 cannibalizing 3
 coelomes 1
 cannibally
-counterstrike
+counterstrike 1
 cableman
 cannie 1
 cagui
