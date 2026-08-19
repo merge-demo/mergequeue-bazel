@@ -3088,7 +3088,7 @@ bestness 2
 bealach
 barques
 bronteana 3
-bonitas
+bonitas 1
 boithrin 1
 butylene 2
 basculation
