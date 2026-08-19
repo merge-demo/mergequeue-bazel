@@ -11375,7 +11375,7 @@ fibropolypus 2
 fruitade 1
 faute
 furnacelike 1
-firetraps
+firetraps 1
 fosters 2
 furnaces 3
 ferromagneticism
