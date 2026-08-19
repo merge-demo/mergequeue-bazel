@@ -16359,7 +16359,7 @@ bevil 1
 backarrow 2
 benchmarking
 balalaikas
-brujos
+brujos 1
 beglerbeglik 1
 broadways
 biter
