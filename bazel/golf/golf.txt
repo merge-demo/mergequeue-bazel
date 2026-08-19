@@ -4301,7 +4301,7 @@ granulate 1
 glyptotherium 3
 goboes 3
 glabellum
-gynecophorous 2
+gynecophorous 3
 gynecratic
 gelidness
 gorgonia
