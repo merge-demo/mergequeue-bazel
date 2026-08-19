@@ -11424,7 +11424,7 @@ consultations
 choanate
 choanephora 2
 cystopyelography
-choanocyte
+choanocyte 1
 choanoflagellate
 cotta 1
 choanophorous
