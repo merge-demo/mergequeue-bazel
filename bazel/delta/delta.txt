@@ -15644,7 +15644,7 @@ doorstop
 devotionality
 diverge
 diodes 1
-desensitizer
+desensitizer 1
 downheartedly 3
 dennis 1
 departmentalise
