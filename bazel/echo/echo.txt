@@ -12105,7 +12105,7 @@ eartag 2
 electromagnet 1
 emasculation 1
 embroche 2
-effervescing
+effervescing 1
 excruciable 3
 excruciated 3
 eudesmol 1
