@@ -17091,7 +17091,7 @@ deconcentrated 1
 dryfoot
 drift 2
 driftage 1
-deficient
+deficient 1
 decatyl 2
 diaboleptic 1
 detenebrate 2
