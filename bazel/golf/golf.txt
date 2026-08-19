@@ -4587,7 +4587,7 @@ gilim 2
 graphometry 2
 glim 3
 galloper 1
-goobers
+goobers 1
 gagger 1
 grinter
 gladiole
