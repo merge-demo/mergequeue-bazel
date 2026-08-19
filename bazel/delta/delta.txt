@@ -10092,7 +10092,7 @@ dilatable 1
 dynamomorphic 1
 dislustring
 dynamophone
-decentralised
+decentralised 1
 dynamos 1
 dadoing 2
 dynamostatic
