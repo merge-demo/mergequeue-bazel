@@ -1643,7 +1643,7 @@ accruable 1
 atty 2
 anatomism 1
 attribute
-accrual 1
+accrual 2
 actualities 2
 accrued
 accruement 2
