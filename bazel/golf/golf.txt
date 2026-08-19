@@ -5169,7 +5169,7 @@ graylags 2
 glazes 1
 gemmy 2
 glycan
-glyceride
+glyceride 1
 glb 4
 gastratrophia 3
 geckotian 2
