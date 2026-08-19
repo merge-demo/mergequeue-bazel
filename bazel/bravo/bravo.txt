@@ -4066,7 +4066,7 @@ blitzkrieged 1
 beams
 bean 1
 boldness 2
-begottenness
+begottenness 1
 bedeafen 2
 beancod 4
 beaner
