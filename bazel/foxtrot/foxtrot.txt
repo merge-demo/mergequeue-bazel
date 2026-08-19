@@ -5990,7 +5990,7 @@ floorboard
 fixures
 flashness 3
 floorcloths
-fumid
+fumid 1
 fluidizing
 folkways 2
 foreplays
