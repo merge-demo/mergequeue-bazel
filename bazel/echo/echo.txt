@@ -7238,7 +7238,7 @@ estolide 2
 esplanades 1
 elpasolite 1
 electropercussive 3
-enguard
+enguard 1
 effervesce 4
 embrave 1
 economese 1
