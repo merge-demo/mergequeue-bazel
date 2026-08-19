@@ -5917,7 +5917,7 @@ excessman 2
 expend 1
 enhaemospore 1
 epiplastron 2
-emphases
+emphases 1
 explees 2
 ecarinate
 execrators 2
