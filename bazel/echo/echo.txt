@@ -9167,7 +9167,7 @@ essenic 3
 erodes 1
 edgeless 3
 exterminatory 4
-extradition
+extradition 1
 enslavement 3
 enginelike 2
 everts 2

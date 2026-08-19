@@ -16794,7 +16794,7 @@ cloverleaves 1
 cloverley
 cycadophyte
 cloverroot 1
-crepitus
+crepitus 1
 clovewort
 castling 1
 coauditor
