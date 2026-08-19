@@ -4821,7 +4821,7 @@ chem 1
 crosspost
 cressida
 conjuror
-contrariantly
+contrariantly 1
 coffea 1
 carr 1
 carrack
