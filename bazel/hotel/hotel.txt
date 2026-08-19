@@ -1146,7 +1146,7 @@ hawq 1
 hawqcogd 1
 hawqknnetr
 hawqkwzdcwbk
-hawqlenzgss 1
+hawqlenzgss 2
 hawqof 2
 hawqpd 1
 hawr 2
