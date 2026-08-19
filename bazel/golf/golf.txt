@@ -8116,7 +8116,7 @@ grindelia
 gastrostomize 2
 gristmill 2
 grantors 2
-grantsman
+grantsman 1
 granular 2
 girandole 4
 gooky
