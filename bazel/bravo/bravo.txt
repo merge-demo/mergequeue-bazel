@@ -1829,7 +1829,7 @@ backstabber 1
 bandelette
 banderma 2
 banderol 2
-banderole
+banderole 1
 bindings 1
 brigading
 banders
