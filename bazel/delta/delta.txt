@@ -5763,7 +5763,7 @@ diazotizability
 droves 1
 deliberating
 debater
-duree
+duree 1
 disjoint
 descriptor 2
 decasualizing
