@@ -9043,7 +9043,7 @@ fluvious
 fountained 1
 flashguns 2
 flies 2
-fundiform
+fundiform 1
 familiar
 farther
 fib 4
