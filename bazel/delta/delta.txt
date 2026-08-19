@@ -136,7 +136,7 @@ drumsticks 1
 drawbench
 deviascope 4
 dekko 1
-dinar
+dinar 1
 dyophone 1
 daddles
 dowdyism
