@@ -12340,7 +12340,7 @@ jumq 2
 jumqgcerrdo 2
 jumr 3
 jumrfjbbqmq 2
-jumrjabexu 1
+jumrjabexu 2
 jumrmicji 2
 jumrpylevnzp 1
 jumspnydl
