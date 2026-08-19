@@ -15634,7 +15634,7 @@ doghouses 1
 detumescent 2
 displacement 1
 derth
-deponent
+deponent 1
 doorstone 1
 daggers 1
 dissembler
