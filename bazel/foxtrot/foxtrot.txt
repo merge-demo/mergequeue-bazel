@@ -505,7 +505,7 @@ foreconsider 1
 funbre
 friz 2
 fertilizing 1
-frenne
+frenne 1
 filicite 2
 faking 1
 fumify
