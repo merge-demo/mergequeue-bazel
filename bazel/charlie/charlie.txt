@@ -15688,7 +15688,7 @@ cerithioid
 chirres 2
 clavy 1
 clavicembalist
-clavicembalo 1
+clavicembalo 2
 claviceps
 caiarara 1
 cartage
