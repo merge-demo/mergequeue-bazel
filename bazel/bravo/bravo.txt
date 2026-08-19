@@ -12732,7 +12732,7 @@ busters 1
 beheld 3
 biometrician
 bunyoro
-bookmakers
+bookmakers 1
 bidarka 1
 begarie
 baguet
