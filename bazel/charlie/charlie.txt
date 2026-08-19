@@ -13327,7 +13327,7 @@ cyclophoric
 counterlife 1
 cyclophosphamide 1
 cyclopy
-counteract
+counteract 1
 cyclopia
 coccomyces
 cyclopic
