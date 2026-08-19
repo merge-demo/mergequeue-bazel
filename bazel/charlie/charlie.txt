@@ -26399,7 +26399,7 @@ cotes
 cycloidian 2
 cerenkov
 cothon 2
-cothouse
+cothouse 1
 cothurn 1
 cothurnus 1
 coticed
