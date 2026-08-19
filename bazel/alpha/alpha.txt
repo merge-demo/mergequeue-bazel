@@ -2481,7 +2481,7 @@ alcoholizable 1
 antireduction 1
 authorizing 1
 acocotl
-aluminic
+aluminic 1
 acoela
 arrendation
 autoloaders
