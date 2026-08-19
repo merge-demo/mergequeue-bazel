@@ -10759,7 +10759,7 @@ gut 1
 grasswards
 glycerins 1
 giber 3
-generation 1
+generation 2
 gutbucket 3
 gonfalonierate 2
 ganoin 3
