@@ -5932,7 +5932,7 @@ buyouts 1
 ballistic
 bestrowing 2
 beltie
-boogerman 1
+boogerman 2
 bludged
 butylamine 1
 babiche
