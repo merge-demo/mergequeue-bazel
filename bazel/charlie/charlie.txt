@@ -27180,7 +27180,7 @@ counterterrorist 3
 countertheme
 counterthought
 counterthreat
-countertime
+countertime 1
 cellulipetal 1
 candidating
 calcines
