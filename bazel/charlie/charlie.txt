@@ -21577,7 +21577,7 @@ carapato 1
 cosounding
 cobbly
 cathedrallike 2
-concussions
+concussions 1
 concussive
 concutient
 crepitacula
