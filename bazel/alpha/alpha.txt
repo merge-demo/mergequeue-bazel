@@ -4873,7 +4873,7 @@ amphibiology
 aloma 1
 anucleated
 ashes
-abrasiveness
+abrasiveness 1
 allody 1
 anthoecology
 aerodynamics
