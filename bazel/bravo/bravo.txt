@@ -16823,7 +16823,7 @@ bicolligate
 buffable
 buffalo
 buffalofish 1
-burglarised
+burglarised 1
 buffaloing 2
 biarcuated 1
 biflagellate 2
