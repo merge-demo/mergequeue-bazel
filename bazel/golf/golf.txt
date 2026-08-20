@@ -10618,7 +10618,7 @@ gunpoints 4
 gloomiest 1
 ghoul 2
 gunpower 1
-gasping 4
+gasping 5
 gentled 2
 gourmandise 4
 gimmickry 1
