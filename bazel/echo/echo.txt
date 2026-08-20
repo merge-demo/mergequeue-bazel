@@ -693,7 +693,7 @@ epithelial 1
 ecol 2
 ethnogeny
 earlesss
-enchronicle
+enchronicle 1
 earthed 5
 endomictic 1
 exclusivist
