@@ -23648,7 +23648,7 @@ aureoled 1
 anemograph 1
 alee 1
 aureoline
-auresca 1
+auresca 2
 ao
 aureomycin
 aaron 1
