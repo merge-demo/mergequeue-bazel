@@ -24763,7 +24763,7 @@ crenature 1
 civilises 1
 cueman
 candlewick
-cops
+cops 1
 catocathartic
 copses
 copsewood 2
