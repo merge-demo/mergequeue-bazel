@@ -5520,7 +5520,7 @@ environ
 ejaculates 3
 encircles 1
 enervate
-embalmers
+embalmers 1
 enervating 1
 encake 1
 electroscope 2
