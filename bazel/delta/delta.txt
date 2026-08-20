@@ -11021,7 +11021,7 @@ doorframe 1
 disallow 2
 displaying 2
 dorneck 1
-disconformably
+disconformably 1
 dramatised 2
 dentalising 1
 dieselized
