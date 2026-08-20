@@ -23332,7 +23332,7 @@ coordinates 3
 consumptives 1
 consute 1
 crambinae
-copulating
+copulating 1
 cromorna
 carua
 coarsen
