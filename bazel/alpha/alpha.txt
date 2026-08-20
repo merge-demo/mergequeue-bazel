@@ -12545,7 +12545,7 @@ adiapneustia 1
 androgonial 1
 augurers
 anemotaxis
-anemotropism 1
+anemotropism 2
 accersition
 antiphlogistian
 apatosaurus
