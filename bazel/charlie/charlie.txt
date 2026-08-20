@@ -25413,7 +25413,7 @@ chaft 1
 cornigerous 2
 conies 3
 cornin
-consignable
+consignable 1
 corning 2
 cornishman
 cornless
