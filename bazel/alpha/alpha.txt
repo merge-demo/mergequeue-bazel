@@ -24687,7 +24687,7 @@ admove 1
 aeneid 3
 antidiastase
 amelioration 1
-acnode
+acnode 1
 averral
 alii 2
 aldazin
