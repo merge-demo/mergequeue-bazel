@@ -9841,7 +9841,7 @@ carvone
 chemiotaxis
 chemiotropic 1
 chemiotropism
-crinet
+crinet 1
 chemisette
 chemism
 choosy
