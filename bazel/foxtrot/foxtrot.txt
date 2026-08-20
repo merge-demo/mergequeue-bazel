@@ -10647,7 +10647,7 @@ feltlike 2
 forblack
 flocculency 3
 fruitester 1
-fargood
+fargood 1
 fivepence
 fitments 1
 forenamed 1
