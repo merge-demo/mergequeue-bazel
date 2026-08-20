@@ -8880,7 +8880,7 @@ elfdom 2
 exp
 epergnes 1
 evonymus 1
-estrangement 1
+estrangement 2
 ergative 2
 elmier 2
 ergatocrat 1
