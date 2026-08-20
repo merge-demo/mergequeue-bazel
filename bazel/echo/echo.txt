@@ -8038,7 +8038,7 @@ epipanies 2
 endovasculitis 3
 exsanguious
 euthenist
-encoop
+encoop 1
 electrodentistry 3
 epibasal 3
 ergs 2
