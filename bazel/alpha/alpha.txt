@@ -15312,7 +15312,7 @@ adapters 1
 amperages 1
 antihero
 amphoriskos
-azulejo
+azulejo 1
 anticonscriptive 2
 antihierarchy 1
 akimbo
