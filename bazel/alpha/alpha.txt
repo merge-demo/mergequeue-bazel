@@ -16734,7 +16734,7 @@ amylometer
 anterointerior 1
 accur 1
 ametaboly 2
-anthophagy
+anthophagy 1
 aciculums 1
 aphemia 1
 attal 1
