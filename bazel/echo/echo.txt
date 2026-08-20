@@ -7736,7 +7736,7 @@ etiological 2
 ephapse 2
 everyness 1
 erythraea 2
-epirogeny
+epirogeny 1
 epidermic 1
 epidermical 1
 enteroplasty
