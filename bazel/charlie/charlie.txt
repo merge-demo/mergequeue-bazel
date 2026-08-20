@@ -29660,7 +29660,7 @@ crocosmia 2
 convictor
 cerebella
 collusion
-conductress
+conductress 1
 craniomalacia 1
 crocus
 crocused
