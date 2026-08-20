@@ -4951,7 +4951,7 @@ cartilagineous
 collatable 2
 chirotes
 cleeked
-conduct
+conduct 1
 cartilagines
 chancroids
 cartilaginoid
