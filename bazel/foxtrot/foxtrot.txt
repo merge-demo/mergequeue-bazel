@@ -6378,7 +6378,7 @@ fluorenes 1
 fluctuability 2
 ferriage
 foveolar 5
-fixup
+fixup 1
 fluvio 3
 fluoresceine
 factionism 1
