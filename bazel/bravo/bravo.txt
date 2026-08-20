@@ -6426,7 +6426,7 @@ behoot 1
 byliner 2
 blowup
 benzothiazine 1
-benzothiazoline
+benzothiazoline 1
 bitripartite 2
 bregmata
 benzothiodiazole 2
