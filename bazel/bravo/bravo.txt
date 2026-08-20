@@ -10239,7 +10239,7 @@ bilged
 broomwort
 blackpatch
 belongings 5
-beavering
+beavering 1
 blennorrhoea
 bilobiate 2
 boolean 2
