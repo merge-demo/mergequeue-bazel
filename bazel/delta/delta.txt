@@ -17574,7 +17574,7 @@ decalcifier 2
 drumstick
 drumwood 2
 drunk
-drunkards
+drunkards 1
 desuperheater 3
 dogbite 1
 drunkenwise
