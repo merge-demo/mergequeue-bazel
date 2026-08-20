@@ -1680,7 +1680,7 @@ gulfweed 1
 guayabo
 gastroduodenitis 2
 guadua 1
-gastroduodenostomy
+gastroduodenostomy 1
 gastritis 2
 ganodont
 gottfried 1
