@@ -8072,7 +8072,7 @@ exteriorly 1
 ego 4
 ektodynamorphic 2
 endamebic
-earthworks 1
+earthworks 2
 epineural
 euphrasy 1
 exosporal 1
