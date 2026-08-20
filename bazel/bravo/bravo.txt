@@ -7246,7 +7246,7 @@ broidered 1
 bestuck
 bestud
 boninite 2
-bipont
+bipont 1
 barrancas 3
 bandora 1
 blowsier
