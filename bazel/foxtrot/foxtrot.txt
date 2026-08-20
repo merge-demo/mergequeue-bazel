@@ -2753,7 +2753,7 @@ festered 1
 faliscan 2
 frizer 1
 friedelite 1
-foreparts 3
+foreparts 4
 fights
 festerment 2
 footway
