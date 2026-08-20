@@ -1045,7 +1045,7 @@ emblem 1
 epipleura 1
 elberta 1
 expeditions 1
-exadversum
+exadversum 1
 etchareottine
 excisable 1
 eyeless 1
