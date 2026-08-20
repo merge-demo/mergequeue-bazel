@@ -8485,7 +8485,7 @@ frow 1
 figment 1
 forked 3
 formica
-foolishly
+foolishly 1
 fasciculate 3
 fitty 2
 formicate 2
