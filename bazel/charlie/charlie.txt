@@ -31233,7 +31233,7 @@ coque
 cupuliferous 1
 craniopathy
 clawhammer 1
-cura 1
+cura 2
 correctness 1
 chetah
 curable
