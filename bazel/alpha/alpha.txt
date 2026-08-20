@@ -6072,7 +6072,7 @@ archilowe
 accouters 1
 agitant
 agitate 1
-agitated
+agitated 1
 agitational 1
 aftosa
 agitations
