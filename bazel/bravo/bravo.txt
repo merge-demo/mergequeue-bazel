@@ -730,7 +730,7 @@ bolter 2
 brinjal 1
 badgerlike 2
 bending
-befoul
+befoul 1
 babiches 2
 bandsawing
 badges 1
