@@ -6541,7 +6541,7 @@ endostosis
 ephyra 3
 exactly 2
 extratension
-entail
+entail 1
 entomophthora 2
 elaphodus 3
 endurant 1
