@@ -21140,7 +21140,7 @@ asearch
 alhet
 asecretory
 amenableness
-appositeness
+appositeness 1
 airth
 amniorrhea 1
 ambiens
