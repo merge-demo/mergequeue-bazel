@@ -3588,7 +3588,7 @@ duco
 deadlatch 1
 doubletree 1
 decussately
-dermatocoptes
+dermatocoptes 1
 drywall 1
 dawny 1
 depending
