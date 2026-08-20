@@ -131,7 +131,7 @@ brabantine 3
 basicranial 1
 bedimpled
 bedash 1
-boolian 1
+boolian 2
 bacin 1
 bourne
 banister 1
