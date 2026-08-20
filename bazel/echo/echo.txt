@@ -947,7 +947,7 @@ efform 1
 endocardium 2
 epoxied 3
 entada 1
-ecttypal 2
+ecttypal 3
 equates 3
 emanatory 4
 exeresis 1
