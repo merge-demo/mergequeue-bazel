@@ -10254,7 +10254,7 @@ blacksmithing 1
 biochemy 1
 beastdom
 botargo
-boyang
+boyang 1
 biflorous
 beehead 1
 beforehandedness 1
