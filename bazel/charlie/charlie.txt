@@ -24836,7 +24836,7 @@ coracobrachial
 clipeus 1
 calcimeter
 coracobrachialis
-combite
+combite 1
 cosheries 1
 coracoclavicular
 chompers
