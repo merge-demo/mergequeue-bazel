@@ -5968,7 +5968,7 @@ cathern
 catties 1
 catheterisation
 cattail
-catheterise
+catheterise 1
 clienteles
 coiffes
 catheterised 2
