@@ -362,7 +362,7 @@ backgame 3
 backgammon 1
 board 1
 barbarical 1
-barwares 1
+barwares 2
 breaststroke
 background
 backhand
