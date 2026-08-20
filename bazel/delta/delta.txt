@@ -7747,7 +7747,7 @@ defoliage 1
 devise 2
 dayton
 domiciliary
-diplotegia
+diplotegia 1
 defeasance 1
 devised 1
 decongests
