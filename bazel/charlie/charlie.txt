@@ -9803,7 +9803,7 @@ chemical
 chapeless
 chalybean 1
 corrugates 1
-cowardliness
+cowardliness 1
 clubroot 1
 combattants 1
 carpologist
