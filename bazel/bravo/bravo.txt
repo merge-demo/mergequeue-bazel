@@ -5850,7 +5850,7 @@ bellmaking 2
 banquo 2
 bachel
 buckbrush 2
-baronship 1
+baronship 2
 bellmanship 2
 bellmouth 1
 briners
