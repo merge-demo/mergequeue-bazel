@@ -18586,7 +18586,7 @@ coin 2
 cephalopod 1
 coyly 2
 crowders 1
-corralled
+corralled 1
 connex
 clanless
 coimplore 2
