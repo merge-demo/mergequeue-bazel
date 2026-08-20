@@ -20765,7 +20765,7 @@ cheapskate
 complicator 2
 complicators
 complice 1
-complicity
+complicity 1
 complied
 campodea 1
 compliment
