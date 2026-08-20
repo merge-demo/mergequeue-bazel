@@ -4001,7 +4001,7 @@ carcharodont 1
 correctify 1
 carcinemia
 croquettes
-carcinogenesis
+carcinogenesis 1
 carcinogenic
 carcinoid
 compartmental
