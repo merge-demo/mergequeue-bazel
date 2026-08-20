@@ -18692,7 +18692,7 @@ archbeadle
 accidentalist
 autocephality
 archbishopry
-archbishopric 2
+archbishopric 3
 acroamata
 awhet
 archbotcher
