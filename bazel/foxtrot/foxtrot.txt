@@ -4629,7 +4629,7 @@ flavory 1
 fullams 1
 fitout 3
 fitchered 2
-foolfish
+foolfish 1
 fitters 2
 foxery 3
 fifo 2
