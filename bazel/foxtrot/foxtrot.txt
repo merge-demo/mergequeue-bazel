@@ -32,7 +32,7 @@ fourchee 3
 fieldmen 6
 fibrolitic 1
 fibrocyst
-fabricates 2
+fabricates 3
 fabricator
 formularize 3
 flintless 2
