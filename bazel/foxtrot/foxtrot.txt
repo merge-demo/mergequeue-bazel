@@ -6202,7 +6202,7 @@ fulgurate 1
 foretops 1
 feebling 3
 frequency
-flagmaker 3
+flagmaker 4
 furbished 2
 fibroareolar
 farfetched
