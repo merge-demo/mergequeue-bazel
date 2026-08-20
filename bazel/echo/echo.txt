@@ -4674,7 +4674,7 @@ enchorial
 echinoderm 3
 exdelicto 1
 evolve 2
-eremiteship
+eremiteship 1
 enchoric 4
 encyclopedias
 ekoi 1
