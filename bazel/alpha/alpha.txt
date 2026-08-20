@@ -24102,7 +24102,7 @@ antigenicity 1
 autofrettage
 autogamic 2
 armament
-afreets
+afreets 1
 autolaryngoscopic
 approvedness
 adjuncts
