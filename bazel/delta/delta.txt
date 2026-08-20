@@ -5748,7 +5748,7 @@ demonland 1
 depoetize
 deconsider 2
 depoh 3
-decd 2
+decd 3
 depolarise 3
 dehumidify 1
 depolarization 2
