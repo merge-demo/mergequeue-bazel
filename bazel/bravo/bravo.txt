@@ -8116,7 +8116,7 @@ binucleate
 barble
 befouls
 biding 3
-bidirectional
+bidirectional 1
 biophagy 2
 beliefs 2
 bania
