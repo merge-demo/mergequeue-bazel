@@ -5802,7 +5802,7 @@ dainties
 datableness 1
 diaxial
 deceit 1
-distalwards
+distalwards 1
 dacker
 deepnesses 3
 decoupled 1
