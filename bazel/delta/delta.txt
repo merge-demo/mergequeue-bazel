@@ -452,7 +452,7 @@ defensative 1
 disseats 1
 daysides 1
 deprevation
-daysmen
+daysmen 1
 dayspring
 direst
 disthrall 2
