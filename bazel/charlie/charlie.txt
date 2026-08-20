@@ -14291,7 +14291,7 @@ constrained 1
 crosspieces 2
 circumparallelogram
 circumpentagon
-convexed
+convexed 1
 circumplanetary 1
 crone
 chrysazin
