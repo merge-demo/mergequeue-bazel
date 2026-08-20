@@ -10658,7 +10658,7 @@ foodstuffs 1
 fruitiness 2
 fieldworker 4
 flagless 1
-fist 2
+fist 3
 footler
 famish 2
 frightable 2
