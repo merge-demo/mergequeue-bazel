@@ -299,7 +299,7 @@ exorcizes 3
 exteriority 1
 elderly 1
 eightsome
-exploitation
+exploitation 1
 echos 2
 exhumation
 epilepsies 2
