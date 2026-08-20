@@ -7066,7 +7066,7 @@ centerer 1
 centerfold 1
 compania 1
 coofs
-chelators 1
+chelators 2
 colonus 2
 centerfolds 1
 cretoria
