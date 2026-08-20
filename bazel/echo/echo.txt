@@ -12333,7 +12333,7 @@ efs 1
 elaidate 2
 eulogizers 2
 erythroglucin
-effusiometer
+effusiometer 1
 emanators
 exerted
 encumbrous
