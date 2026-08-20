@@ -3660,7 +3660,7 @@ batsman
 barrelsful 1
 besetting 3
 benzophenol 3
-bardolater
+bardolater 1
 bangia 4
 bottomchrome 1
 bunsen
