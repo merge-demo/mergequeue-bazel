@@ -1406,7 +1406,7 @@ diorites
 daviesite
 deleted
 demilitarize 2
-dispel
+dispel 1
 downdale 2
 dismain 1
 demonomanie
