@@ -9632,7 +9632,7 @@ endoblast 2
 encense
 entangleable
 equipper 1
-entia
+entia 1
 epenthesize 1
 epacris 2
 espagnole
