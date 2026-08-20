@@ -3566,7 +3566,7 @@ bathysphere
 bigmouths 3
 boliviano 1
 bathythermograph
-bathkol
+bathkol 1
 bipartite 1
 bathmat
 bathmats
