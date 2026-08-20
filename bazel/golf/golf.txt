@@ -8629,7 +8629,7 @@ grapline 1
 guideposts 2
 goldfielder
 gaslight 1
-gasteralgia
+gasteralgia 1
 greened 1
 govern 1
 gladiators 1
