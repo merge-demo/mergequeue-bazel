@@ -1508,7 +1508,7 @@ gaolage 1
 gardenhood 2
 groose 2
 guaxima 1
-glandless 4
+glandless 5
 gorlin 1
 gregarinidal 1
 grote
