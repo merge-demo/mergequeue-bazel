@@ -8523,7 +8523,7 @@ chance
 clow 1
 chemosterilants 1
 chanced 3
-categorical
+categorical 1
 chanceful
 cadrans
 chancefulness 1
