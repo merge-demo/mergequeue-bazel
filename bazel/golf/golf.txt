@@ -2660,7 +2660,7 @@ gloriosity 1
 gangliectomy
 gourde 1
 gervas
-gardening 1
+gardening 2
 gynophagite 3
 gardeviance 1
 gibbles
