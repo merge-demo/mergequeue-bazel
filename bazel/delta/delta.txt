@@ -1407,7 +1407,7 @@ daviesite
 deleted
 demilitarize 2
 dispel 1
-downdale 2
+downdale 3
 dismain 1
 demonomanie
 dorsiflexor 1
