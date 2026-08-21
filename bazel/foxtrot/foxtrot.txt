@@ -6358,7 +6358,7 @@ flatlings 1
 flowchart
 flagpole 2
 fluocerine 1
-fren 2
+fren 3
 flang 2
 fullterm 2
 fluoran
