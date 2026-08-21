@@ -10008,7 +10008,7 @@ acrodonts
 ambicoloration 1
 abseiled
 albacore
-ambidexterity
+ambidexterity 1
 anthocephalous
 ambidexterities
 andorite 2
