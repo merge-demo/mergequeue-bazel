@@ -757,7 +757,7 @@ agnition 2
 accordatura
 asperation
 attuning 1
-apogalacteum
+apogalacteum 1
 abrasively
 abrazite
 antirevolutionaries
