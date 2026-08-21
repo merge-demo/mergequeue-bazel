@@ -7034,7 +7034,7 @@ fontal 1
 freakout 1
 fulmining 2
 fougasse 2
-fontful 1
+fontful 2
 fantassin 1
 forehandedly 2
 fonticulus 1
