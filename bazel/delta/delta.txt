@@ -5423,7 +5423,7 @@ decontrol 2
 delim 2
 deschampsia 2
 denudating 1
-disordained
+disordained 1
 deltidial
 dissolves 1
 diplomatics 1
