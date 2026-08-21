@@ -12578,7 +12578,7 @@ exclaim
 ergonovine 3
 exobasidium 1
 eupathy 3
-enlure
+enlure 1
 echuca 2
 eating
 epistolet
