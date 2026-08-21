@@ -2658,7 +2658,7 @@ discriminably 2
 decian
 dozers 1
 deepens 1
-discernably
+discernably 1
 decompensating 2
 delinquents
 decenniad
