@@ -6359,7 +6359,7 @@ duras
 dejeune
 dermophobe
 duodenum
-dermosclerite
+dermosclerite 1
 deco 2
 dermotropic
 dastardliness 2
