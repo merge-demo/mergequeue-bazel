@@ -191,7 +191,7 @@ flier 3
 factorable 1
 flimsies 2
 forcut 2
-finitary 2
+finitary 3
 factoryship 2
 floatiness 3
 fraudulence
