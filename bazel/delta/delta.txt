@@ -6612,7 +6612,7 @@ dipentene
 decipherable 1
 digested
 deprecations
-deselected
+deselected 1
 depiction 3
 dysmerogenesis
 deadborn
