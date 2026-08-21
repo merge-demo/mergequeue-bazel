@@ -6836,7 +6836,7 @@ airiness
 arecales 1
 atmolyses 1
 anacamptometer
-acerbophobia
+acerbophobia 1
 airless
 ahungry
 antelabium
