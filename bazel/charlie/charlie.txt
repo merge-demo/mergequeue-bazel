@@ -8725,7 +8725,7 @@ codify 1
 connectant 1
 chapbook 1
 carbonylating
-caconym
+caconym 1
 chape 3
 coelomatic
 cobriform
