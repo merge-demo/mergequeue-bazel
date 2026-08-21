@@ -11436,7 +11436,7 @@ belzebub
 blueprint 1
 blancmange 3
 blazingly
-bluesy
+bluesy 1
 bluesman 1
 bromisms
 beaverkill 2
