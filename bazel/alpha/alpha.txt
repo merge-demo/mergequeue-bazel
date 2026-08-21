@@ -6857,7 +6857,7 @@ antilabor 1
 anticommercialism 2
 airling
 airlock
-atmospherical
+atmospherical 1
 annoyingness
 ava 1
 airmark 1
