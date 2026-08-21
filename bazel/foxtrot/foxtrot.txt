@@ -938,7 +938,7 @@ fanfishes 1
 flightless
 farandoles 1
 faxing 2
-fosterer
+fosterer 1
 fleecers 3
 flueric 1
 fumidity 3
