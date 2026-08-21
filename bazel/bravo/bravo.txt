@@ -7229,7 +7229,7 @@ bisporous 2
 basses
 bestridden 2
 bluesides 1
-blueberry
+blueberry 1
 bestrides 1
 boondock
 bestrown
