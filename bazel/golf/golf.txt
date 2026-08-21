@@ -7488,7 +7488,7 @@ gamesmanship 3
 gymnotidae 1
 gordon 3
 gerful
-globulousness
+globulousness 1
 geostrategic 2
 gaet
 galilean 3
