@@ -15911,7 +15911,7 @@ caballine 1
 clemming
 clench 2
 carbamino
-clenched
+clenched 1
 clencher 1
 clenchers
 clarshech 1
