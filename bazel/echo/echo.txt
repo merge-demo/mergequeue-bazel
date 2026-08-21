@@ -2696,7 +2696,7 @@ epispadia 2
 electrotherapeutical 1
 estampie
 escrol
-expectorating
+expectorating 1
 excitors 2
 enmesh
 enduros 1
