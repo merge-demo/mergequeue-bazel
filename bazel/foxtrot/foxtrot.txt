@@ -4253,7 +4253,7 @@ fireplug 3
 firepot 4
 foreflank 1
 fructoside 2
-forebooms
+forebooms 1
 flots 1
 frangipanni
 floridians 4
