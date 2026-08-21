@@ -5133,7 +5133,7 @@ bogbean 3
 beguile 3
 bankers
 batoid 2
-bromhidrosis
+bromhidrosis 1
 ballota 2
 bloodthirstiness 2
 baubling
