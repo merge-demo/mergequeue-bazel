@@ -4748,7 +4748,7 @@ dsnames
 democratic
 dividedness 1
 democratisation
-democratise
+democratise 1
 dispells 1
 democratised 1
 directeur 1
