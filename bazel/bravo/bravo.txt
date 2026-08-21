@@ -6850,7 +6850,7 @@ bacteriotoxic
 benignancy 1
 benkulen 2
 bigener 2
-buicks
+buicks 1
 bioluminescent
 bescourge 2
 baboos
