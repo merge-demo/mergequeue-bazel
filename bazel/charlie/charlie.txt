@@ -19760,7 +19760,7 @@ cornloft
 chambellan 1
 cressed 1
 combustibleness
-combusting 1
+combusting 2
 combustion 2
 combustious
 combustive
