@@ -15845,7 +15845,7 @@ coremaker
 clamb
 cleche 1
 capacitance
-clechee
+clechee 1
 constants 1
 cleck
 commune 2
