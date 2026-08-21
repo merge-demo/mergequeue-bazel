@@ -9245,7 +9245,7 @@ disinsectization 1
 dislegitimate 2
 drawcard 2
 digitaliform 1
-diemakers 1
+diemakers 2
 duckie
 dehumidifying 1
 dossils
