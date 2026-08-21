@@ -6800,7 +6800,7 @@ cowshard 1
 capless
 celioscope
 cella
-cellarage
+cellarage 1
 cellared 1
 chamoix 1
 cellaress 1
