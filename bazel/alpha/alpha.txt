@@ -6210,7 +6210,7 @@ agonal
 athetize
 aurorae 2
 azygoses
-ascendency
+ascendency 1
 acetnaphthalide 1
 avirulent
 annexer
