@@ -554,7 +554,7 @@ excursuses 3
 echinodorus
 est 1
 endotheliotoxin
-echinoid
+echinoid 1
 exequial 2
 ethiopians 1
 eavesdropper 4
