@@ -6637,7 +6637,7 @@ edificant 1
 eartagged 2
 excitator 1
 empyreumata 3
-enantiomeric
+enantiomeric 1
 encraty 4
 elephantlike
 enzymologies 2
