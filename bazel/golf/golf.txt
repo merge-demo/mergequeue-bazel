@@ -454,7 +454,7 @@ gaping
 galeid 1
 genny 1
 gyms
-gemmation
+gemmation 1
 gerontogeous 1
 gonopoietic 2
 gerberas 3
