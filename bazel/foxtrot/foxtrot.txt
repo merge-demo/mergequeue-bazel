@@ -10576,7 +10576,7 @@ fattish 1
 froggier 2
 fluorimetry 1
 fustier 1
-fragmental
+fragmental 1
 forks 2
 furfurals 2
 filiation
