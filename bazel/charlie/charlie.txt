@@ -16985,7 +16985,7 @@ centrex
 clerestories
 clutching
 cymbaleer
-candela
+candela 1
 clutchingly 2
 consignificate
 clutchman
