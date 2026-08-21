@@ -6338,7 +6338,7 @@ bellyfish
 blinks 1
 benzenediazonium
 bosominess 1
-burgher 2
+burgher 3
 billsticking 2
 blowspray
 belite
