@@ -4207,7 +4207,7 @@ glotum 1
 gatchwork 1
 greying 6
 ges
-geod
+geod 1
 gleesome 1
 ganef 2
 gulflike 1
