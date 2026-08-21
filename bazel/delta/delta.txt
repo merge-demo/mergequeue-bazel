@@ -6811,7 +6811,7 @@ dented
 dropsonde 2
 dedicates 1
 diaconate 2
-desize 2
+desize 3
 decompositional 1
 devilmonger
 desklike 1
