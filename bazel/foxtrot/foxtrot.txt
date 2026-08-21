@@ -9045,7 +9045,7 @@ flashguns 2
 flies 2
 fundiform 1
 familiar
-farther
+farther 1
 fib 4
 frumentaceous
 flotsan 2
