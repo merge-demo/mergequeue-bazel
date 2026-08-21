@@ -22381,7 +22381,7 @@ compressible
 contaminating 1
 conicle 2
 chessman
-conidae
+conidae 1
 champlainic
 conidioid
 conidiophorous 3
