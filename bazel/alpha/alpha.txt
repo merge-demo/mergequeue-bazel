@@ -5516,7 +5516,7 @@ aerial 4
 afterform 1
 actuarial 1
 aerolith
-aristos
+aristos 1
 aftergas
 abstractedness
 ablings
