@@ -10110,7 +10110,7 @@ bunkload
 bacchant 1
 bilaminate 1
 bellied 1
-berbers
+berbers 1
 bootleggers 3
 buphthalmia
 bedells
