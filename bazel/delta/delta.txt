@@ -7351,7 +7351,7 @@ dodunk 1
 detersiveness 2
 disunions 1
 detestation 3
-decomponent
+decomponent 1
 detestations 2
 dethronement 2
 diminute
