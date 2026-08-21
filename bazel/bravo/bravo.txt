@@ -4773,7 +4773,7 @@ bedread
 bedrench 1
 baldling
 blast 1
-bed 1
+bed 2
 bedribble 4
 bhalu 1
 burglarizes
