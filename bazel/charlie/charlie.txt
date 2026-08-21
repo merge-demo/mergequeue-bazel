@@ -22330,7 +22330,7 @@ cylindered
 congresser
 congresses 4
 cutocellulose
-clatch
+clatch 1
 clustery 1
 claviform 1
 congressing 1
