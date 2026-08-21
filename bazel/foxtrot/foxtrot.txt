@@ -1804,7 +1804,7 @@ freeboard 3
 fores 3
 ferninst 1
 forbesite
-folkmots 1
+folkmots 2
 flak 2
 flaithship 4
 frustules 1
