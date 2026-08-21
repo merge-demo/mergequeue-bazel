@@ -13952,7 +13952,7 @@ defoam
 dunking 1
 discohexaster 2
 distomatosis 1
-doryphorus
+doryphorus 1
 diactin 1
 daubreelite
 dichroism 3
