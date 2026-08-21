@@ -15926,7 +15926,7 @@ antiprojectivity 1
 antiprostate 1
 antiprostatic
 adiabat
-astrobiologically
+astrobiologically 1
 attentively
 ammocete
 affectual
