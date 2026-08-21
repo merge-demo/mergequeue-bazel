@@ -11506,7 +11506,7 @@ aptate
 amusia 1
 accidies 2
 antinatural
-amusingness
+amusingness 1
 absarokite 1
 amusive 1
 amutter
