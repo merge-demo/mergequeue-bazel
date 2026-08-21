@@ -265,7 +265,7 @@ cachepot 1
 chillies 1
 condensing
 caches 2
-cachespell
+cachespell 1
 coreductase
 cagayans
 cacheting 1
