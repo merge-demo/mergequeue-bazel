@@ -3562,7 +3562,7 @@ comatulae 1
 captor
 capturable
 catechized
-capture 1
+capture 2
 captured
 captures 1
 capturing 1
