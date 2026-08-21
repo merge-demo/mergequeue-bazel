@@ -4731,7 +4731,7 @@ carpeting
 carpetlayer
 carpetmaking
 clubability
-captivation
+captivation 1
 carpets 1
 chant 2
 concolorous
