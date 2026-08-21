@@ -8570,7 +8570,7 @@ gainliest
 grat 1
 growths 4
 gastrocnemius
-glabriety 1
+glabriety 2
 griqua 3
 gravity 2
 gnathostomi 2
