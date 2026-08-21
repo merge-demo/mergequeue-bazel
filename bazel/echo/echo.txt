@@ -6617,7 +6617,7 @@ enquicken 3
 equiponderant 2
 excluding
 echinorhynchus 1
-esperantidist
+esperantidist 1
 embryous
 enseam 1
 egyptianism
