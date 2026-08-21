@@ -153,7 +153,7 @@ decarboxylated 1
 depopulates
 displacency
 dewtry
-defog
+defog 1
 dadenhudd
 dimercurion 2
 deprivations
