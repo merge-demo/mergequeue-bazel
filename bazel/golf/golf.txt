@@ -7605,7 +7605,7 @@ greengroceries 3
 gloeosporium 4
 goodyness
 gemmula
-grus 2
+grus 3
 grabhook 1
 grabouche 2
 gripsack
