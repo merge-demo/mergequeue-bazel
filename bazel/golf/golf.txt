@@ -7835,7 +7835,7 @@ glutter 2
 guillotines 2
 globs 3
 gristmilling
-graphospasm
+graphospasm 1
 gerents 1
 goosander 1
 grumble 2
