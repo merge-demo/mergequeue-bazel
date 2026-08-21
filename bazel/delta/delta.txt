@@ -11158,7 +11158,7 @@ decciare 3
 danite 2
 dismask
 dogmatist
-defectibility
+defectibility 1
 devvel 2
 dyeline 1
 djins 2
