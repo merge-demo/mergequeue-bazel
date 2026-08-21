@@ -21386,7 +21386,7 @@ concision
 corrugation
 concitation
 cominform 2
-concite
+concite 1
 conclamation
 conger
 coccous 1
