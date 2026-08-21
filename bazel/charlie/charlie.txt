@@ -15750,7 +15750,7 @@ cleam 1
 confectioneries
 clean 2
 cleaned
-chloramine
+chloramine 1
 cleanest
 chinching
 caissoned 2
