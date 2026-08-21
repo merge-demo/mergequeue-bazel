@@ -25238,7 +25238,7 @@ azeotrope
 alveoloclasia
 abstrict 1
 azeotropic
-azerbaijani
+azerbaijani 1
 azerbaijanian
 agrology 2
 antitax 1
