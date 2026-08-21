@@ -7649,7 +7649,7 @@ argentinitrate 1
 astrohatch
 absorbencies 2
 alcyonium
-abreaction 1
+abreaction 2
 amplidyne
 airplaned 1
 antefurca 1
