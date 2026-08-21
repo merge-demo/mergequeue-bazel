@@ -12050,7 +12050,7 @@ disenmesh 1
 dyehouse 1
 dibrom 2
 donut
-deacon
+deacon 1
 disensanity 2
 dismayedness 1
 dunderheaded
