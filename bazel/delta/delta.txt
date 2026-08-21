@@ -6121,7 +6121,7 @@ deranges
 dualin 1
 detrimental
 dropout 3
-dimission 1
+dimission 2
 durgen
 deckedout
 derated 3
