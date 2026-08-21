@@ -12511,7 +12511,7 @@ appropriated 1
 aimlessness 1
 antipacifist
 anemography
-anemographically
+anemographically 1
 anemologic
 anticonfederationist
 anemometrically
