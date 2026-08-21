@@ -3101,7 +3101,7 @@ ellipsograph 1
 executiveness 1
 esemplastic
 ellipticity
-extemporize
+extemporize 1
 elliptograph 1
 elliptoid 1
 extraparietal
