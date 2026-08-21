@@ -23984,7 +23984,7 @@ autoboating
 autobuses
 autobusses
 ariettes
-autocall
+autocall 1
 antilogarithms 3
 apostatised
 alumnal
