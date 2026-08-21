@@ -2650,7 +2650,7 @@ decempeda 3
 dryasdust 1
 dumpcarts 2
 dinglebird 1
-decreers
+decreers 1
 decolours
 decommission 2
 decommissioned 2
