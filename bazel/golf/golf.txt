@@ -6340,7 +6340,7 @@ gametal 1
 gearings 4
 giglio 1
 genarchaship 2
-graptoloidea 1
+graptoloidea 2
 goatsucker
 graplines 2
 gamic
