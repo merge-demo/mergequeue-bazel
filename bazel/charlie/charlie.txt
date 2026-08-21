@@ -11246,7 +11246,7 @@ canaut 3
 chloridellidae 1
 chlorides 1
 covers
-chloridic
+chloridic 1
 chloridized
 collochemistry
 chemotropism 1
