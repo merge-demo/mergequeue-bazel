@@ -6481,7 +6481,7 @@ caveator 4
 choaty 1
 caveators
 compares
-crankly
+crankly 1
 canell 1
 cupholder
 cavefish 2
