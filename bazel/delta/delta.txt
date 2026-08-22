@@ -10305,7 +10305,7 @@ draftmanship 3
 dighting 1
 deans
 draughting
-dames
+dames 1
 dionysia
 dionysiac
 dionysiacally
