@@ -13137,7 +13137,7 @@ bube
 brucite 2
 borosalicylic 1
 borotungstate
-borough
+borough 1
 bouquetin
 biseriate 2
 boroughmonger
