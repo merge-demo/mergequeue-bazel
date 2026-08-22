@@ -18662,7 +18662,7 @@ cointensity 2
 cointer
 cointerest
 cointerred
-cointerring 1
+cointerring 2
 cointersecting
 cointreau
 coinvolve
