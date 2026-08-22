@@ -10618,7 +10618,7 @@ forwaste 1
 fleeting
 flatnesses 2
 frugalities
-farrandly
+farrandly 1
 frugalness 1
 freck 1
 fetiches
