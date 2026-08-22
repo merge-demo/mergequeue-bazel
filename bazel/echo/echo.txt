@@ -5407,7 +5407,7 @@ ethylidene 3
 evicted 1
 envolupen 1
 evocatory
-endotheliomas
+endotheliomas 1
 excercise 3
 explicators
 esquiline
