@@ -1890,7 +1890,7 @@ daktylos
 deicate 1
 deboss 3
 detractive
-debouche
+debouche 1
 disbench
 disconcertingness 2
 digladiator 2
