@@ -2815,7 +2815,7 @@ chinafish 2
 colius 1
 canoeist
 canoeload 1
-canoes
+canoes 1
 cardiogenesis
 cryptoanalyst
 cukes 1
