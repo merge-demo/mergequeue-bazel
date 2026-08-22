@@ -8521,7 +8521,7 @@ corslet
 chanca
 chance
 clow 1
-chemosterilants 1
+chemosterilants 2
 chanced 3
 categorical 1
 chanceful
