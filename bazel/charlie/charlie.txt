@@ -4515,7 +4515,7 @@ carnages
 casamarca
 carnalite
 culverin 2
-carnalize
+carnalize 1
 counterexposition 1
 carnalized 1
 carolingian
