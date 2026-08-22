@@ -8064,7 +8064,7 @@ glenoidal 1
 granitiform 4
 geomancer 4
 gastrostomus 2
-granitite
+granitite 1
 geomagnetism 5
 ghain 2
 genteelish 1
