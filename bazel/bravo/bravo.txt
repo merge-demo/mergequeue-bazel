@@ -4766,7 +4766,7 @@ bypasses 1
 bedrabbling 1
 bauds
 bedrails
-binnacle 1
+binnacle 2
 bedral 3
 bedraping
 bedread
