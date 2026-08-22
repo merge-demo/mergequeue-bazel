@@ -5698,7 +5698,7 @@ delegacies
 demigods
 desterilized
 dialysed 1
-disposit
+disposit 1
 deplenish
 dialup 2
 depleteable
