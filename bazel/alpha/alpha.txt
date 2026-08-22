@@ -18491,7 +18491,7 @@ acrocyst
 abdominal
 anisosepalous 1
 anthropoidal 1
-amphicondylous
+amphicondylous 1
 allotype 1
 amias
 arborea
