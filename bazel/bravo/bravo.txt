@@ -1650,7 +1650,7 @@ balmarcodes 1
 balmawhapple 3
 bimodality 4
 birdwatch
-burton
+burton 1
 butyrinase 2
 boko 2
 betokens
