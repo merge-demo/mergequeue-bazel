@@ -4033,7 +4033,7 @@ beakless 1
 beaks 2
 beala 3
 burglarproofing 2
-buchu 1
+buchu 2
 bom 1
 butled 1
 beamed 2
