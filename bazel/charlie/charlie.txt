@@ -4114,7 +4114,7 @@ cameoing
 cornmaster 3
 condalia 1
 cardin
-cardinal
+cardinal 1
 cardinalfish 1
 croslet 1
 cancans
