@@ -10691,7 +10691,7 @@ abusers
 acidophilic
 autodiffusion 1
 aminobenzaldehyde 1
-anthrachrysone
+anthrachrysone 1
 antichrome
 aminobenzoic
 appetency
