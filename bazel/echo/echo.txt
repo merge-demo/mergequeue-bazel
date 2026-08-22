@@ -12140,7 +12140,7 @@ enregister 4
 excellencies 2
 ejam 2
 eloper 4
-ebonite
+ebonite 1
 ensorcerize 2
 erpetologist 1
 eg 3
