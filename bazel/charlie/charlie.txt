@@ -31934,7 +31934,7 @@ capturers 1
 creaturely
 churchlike 4
 clitella
-cariama
+cariama 1
 czarish
 chufa
 czaritza 1
