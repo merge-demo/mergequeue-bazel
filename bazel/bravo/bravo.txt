@@ -1826,7 +1826,7 @@ bandeau
 betula
 bancus
 backstabber 1
-bandelette
+bandelette 1
 banderma 2
 banderol 2
 banderole 1
