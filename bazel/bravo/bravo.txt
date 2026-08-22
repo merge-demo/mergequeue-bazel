@@ -3562,7 +3562,7 @@ battleground 1
 berkeleyite 2
 bien
 bathysophical 2
-bathysphere
+bathysphere 1
 bigmouths 3
 boliviano 1
 bathythermograph
