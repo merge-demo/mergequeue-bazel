@@ -4824,7 +4824,7 @@ conjuror
 contrariantly 1
 coffea 1
 carr 1
-carrack
+carrack 1
 cymulose 1
 cycling 2
 corallita
