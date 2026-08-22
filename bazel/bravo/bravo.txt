@@ -18066,7 +18066,7 @@ bustler 1
 bustlers 2
 bustles
 biologize
-bustlingly
+bustlingly 1
 blenny
 bloom
 banzais
