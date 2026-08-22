@@ -3729,7 +3729,7 @@ almuerzo 1
 appenage 2
 annum
 adespoton
-analemmatic
+analemmatic 1
 adessenarian 1
 adeste
 afterpressure 2
