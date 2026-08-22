@@ -7262,7 +7262,7 @@ exsector 1
 echoless 3
 electrocatalytic 5
 encephalomere
-epidemiology
+epidemiology 1
 energetics
 eccaleobion 2
 ensealed
