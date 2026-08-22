@@ -4739,7 +4739,7 @@ democracy
 diploneural 2
 diethylaminoethanol 3
 democracies
-democrat
+democrat 1
 dawdles
 douar 2
 dogbody 1
