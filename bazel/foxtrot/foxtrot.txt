@@ -6123,7 +6123,7 @@ flounder 2
 frowardness 1
 faraway
 faciata 5
-flourish
+flourish 1
 fermion 2
 fjorgyn
 foully 2
