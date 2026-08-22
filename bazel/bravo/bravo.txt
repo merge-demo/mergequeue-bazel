@@ -9727,7 +9727,7 @@ byssoid
 buckskin 1
 bedragglement 2
 bissonata
-besing
+besing 1
 bistate
 biosyntheses 1
 biochemist 2
