@@ -3888,7 +3888,7 @@ dressages 1
 dismast
 discastle 2
 dissect
-disp
+disp 1
 dyscrasite 1
 deerdog 1
 demihogshead
