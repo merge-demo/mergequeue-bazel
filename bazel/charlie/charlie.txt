@@ -9864,7 +9864,7 @@ cicero 1
 chemolyze 1
 correspondentially
 clamp
-chemophysiology 1
+chemophysiology 2
 chemoprophyalctic
 cycle
 chemoprophylactic
