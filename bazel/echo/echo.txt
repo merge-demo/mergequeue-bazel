@@ -8710,7 +8710,7 @@ enjoyed 1
 esthesiogenic 5
 elastometry 1
 enhallow
-electroencephalograph
+electroencephalograph 1
 equisided 2
 equisignal 2
 erethitic 1
