@@ -3389,7 +3389,7 @@ foreyards 1
 fusilades
 fastigate 2
 fopling 1
-fossilification
+fossilification 1
 flappering 2
 fishermen 2
 frivols 2
