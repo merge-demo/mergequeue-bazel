@@ -11280,7 +11280,7 @@ enmass 1
 eschewal 4
 exterrestrial
 evaporability
-emanating 1
+emanating 2
 enwrapped
 ectoplasy 1
 extraversive 2
