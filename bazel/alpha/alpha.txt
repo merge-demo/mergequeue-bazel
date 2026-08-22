@@ -21397,7 +21397,7 @@ aslant
 aglethead
 aevum
 antidraft 1
-agitation
+agitation 1
 atabeg 1
 asleep
 aslumber
