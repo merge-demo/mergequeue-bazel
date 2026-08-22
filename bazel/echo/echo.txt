@@ -3442,7 +3442,7 @@ ecliptic
 embatholithic 1
 enfiladed 2
 extradoses 1
-exteriors
+exteriors 1
 enteropneustan
 embed 2
 expenditures 1
