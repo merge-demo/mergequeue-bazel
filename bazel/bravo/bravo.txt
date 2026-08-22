@@ -13872,7 +13872,7 @@ bowkail 2
 barkentine
 blad
 bowlder 1
-bluefishes
+bluefishes 1
 bauno 2
 bitbrace 1
 boloball
