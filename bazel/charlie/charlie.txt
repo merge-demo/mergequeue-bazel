@@ -14980,7 +14980,7 @@ citronalis
 comparison
 citronellol 2
 citronin
-citrons
+citrons 1
 citronwood
 citrullus
 cittern
@@ -31805,7 +31805,7 @@ cuteness 3
 cutenesses 2
 collying 2
 cutesy
-coroa
+coroa 1
 curvity 2
 chocalho
 contractee
