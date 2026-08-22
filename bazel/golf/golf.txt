@@ -5921,7 +5921,7 @@ grackle 2
 grogshops 3
 goofs
 gambirs 1
-glamourizer
+glamourizer 1
 gluepot 2
 gimballed 3
 garrison
