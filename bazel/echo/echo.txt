@@ -8502,7 +8502,7 @@ explants 2
 erases
 elongates 1
 epuration 1
-exculpable
+exculpable 1
 effectual
 englisher
 enwombs 2
