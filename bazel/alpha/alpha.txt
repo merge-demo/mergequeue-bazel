@@ -10628,7 +10628,7 @@ allergens
 amyloclastic
 aponogetonaceae
 antiredeposition 3
-annularly
+annularly 1
 aggregations 1
 amylogenic 2
 aget 1
