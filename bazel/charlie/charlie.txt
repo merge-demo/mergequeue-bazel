@@ -27630,7 +27630,7 @@ culp
 cowardness 2
 cowbane
 collided 1
-coolheaded
+coolheaded 1
 chamfered
 croquette 2
 cowbanes 1
