@@ -11376,7 +11376,7 @@ fruitade 1
 faute 1
 furnacelike 1
 firetraps 1
-fosters 2
+fosters 3
 furnaces 3
 ferromagneticism
 flashlamp 1
