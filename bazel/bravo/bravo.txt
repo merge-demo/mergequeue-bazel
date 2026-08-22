@@ -10980,7 +10980,7 @@ barlow
 bicuspids
 blithe
 burliest
-baggies
+baggies 1
 blithesomely 2
 backseats 2
 bkgd 2
