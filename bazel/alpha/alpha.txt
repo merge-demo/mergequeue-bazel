@@ -24127,7 +24127,7 @@ acanthi 2
 autogyros 1
 adcon 1
 andiron 1
-autognostic 1
+autognostic 2
 articulus
 acanthocarpous
 anticapitalistic
