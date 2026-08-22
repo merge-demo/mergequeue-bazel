@@ -22562,7 +22562,7 @@ connaturality
 cultelli 2
 connectibility
 cryptanalysis
-connaturalize 1
+connaturalize 2
 chg 1
 cosech 2
 connaturalness
