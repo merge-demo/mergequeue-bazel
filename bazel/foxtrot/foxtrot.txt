@@ -7059,7 +7059,7 @@ fatalities
 foreknow 1
 flowk 4
 fosie 2
-frase
+frase 1
 flacked 3
 felones 1
 fumily 2
