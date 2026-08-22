@@ -1368,7 +1368,7 @@ balzarine 2
 bruisewort
 blots
 baldhead
-bilestone
+bilestone 1
 baldheads 1
 bandager 1
 bilcock 1
