@@ -18882,7 +18882,7 @@ anaemia 2
 antipolitics 2
 archidoxis
 astoned
-airy
+airy 1
 archmonarchist
 alights 1
 assemblers 3
