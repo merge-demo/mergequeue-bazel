@@ -15740,7 +15740,7 @@ coagulable
 clunch 1
 clawker 2
 clawless
-chalahs
+chalahs 1
 claws
 claxon
 cleaded
