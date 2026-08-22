@@ -15126,7 +15126,7 @@ dipolarization 2
 dogstones 1
 dogtie 4
 degenerated
-dogtooth 1
+dogtooth 2
 diabetogenous
 delegare 1
 demographist 5
