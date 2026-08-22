@@ -1109,7 +1109,7 @@ exploders
 extermined
 exhibitorship 3
 erinite 2
-edwina
+edwina 1
 extempory 1
 epeisodion 1
 esterification 2
@@ -13675,7 +13675,7 @@ espec 1
 emotionlessness 3
 ergotoxin
 eurygnathic
-exterminatrix 3
+exterminatrix 4
 extraconscious 3
 edaphosauria 2
 externalise 1
