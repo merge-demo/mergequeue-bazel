@@ -3921,7 +3921,7 @@ examinability 1
 epiglottis 1
 endexine 1
 emissory 2
-emitting
+emitting 1
 entamebas 2
 electropathic 2
 endocrinologies 2
