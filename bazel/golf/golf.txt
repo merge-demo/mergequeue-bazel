@@ -6734,7 +6734,7 @@ gauges 1
 gyrostats 2
 glomerate 2
 globulimeter 4
-geyseral 1
+geyseral 2
 gurdfish 2
 gruine 1
 glenoid
