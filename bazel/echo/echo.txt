@@ -2377,7 +2377,7 @@ emulsifying
 egba
 episteme 1
 electrocolloidal
-edulcoration 1
+edulcoration 2
 exhaustable 1
 electroconvulsive 2
 empoisonment 1
