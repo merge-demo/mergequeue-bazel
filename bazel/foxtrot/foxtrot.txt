@@ -8136,7 +8136,7 @@ foison 2
 fire 1
 flexo 1
 flatcaps 1
-faithful
+faithful 1
 featurette
 fuchsias 4
 fellable 3
