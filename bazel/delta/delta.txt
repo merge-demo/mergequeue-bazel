@@ -3356,7 +3356,7 @@ domesticable 1
 dynamometry 2
 datiscoside 2
 delaying
-distemperer
+distemperer 1
 dicot
 dayment 1
 distressfulness
