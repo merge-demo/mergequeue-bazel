@@ -21325,7 +21325,7 @@ counterblow
 concho 1
 conchoids 1
 communicableness
-conchol
+conchol 1
 conchometer
 conchospiral
 cowboys
