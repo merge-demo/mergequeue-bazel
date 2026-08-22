@@ -6548,7 +6548,7 @@ brustled
 becolor 1
 berated
 bushful
-berates 2
+berates 3
 blastospheric 2
 balnibarbi 2
 berattle
