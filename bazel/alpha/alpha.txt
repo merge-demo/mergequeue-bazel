@@ -24911,7 +24911,7 @@ awakable
 acoelomate 1
 awake
 awakened 2
-apeak
+apeak 1
 amminolysis
 algometer 1
 alopekai
