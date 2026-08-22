@@ -1067,7 +1067,7 @@ gynomonoecism 3
 gambesons 1
 gentlewomanhood 1
 gipsology
-gomphiasis 1
+gomphiasis 2
 gradus
 gasserian 1
 glossic 2
@@ -4262,7 +4262,7 @@ gradometer 1
 galravitch 1
 generationism
 gypsuming 3
-goniopholis 2
+goniopholis 3
 gubbo 1
 gnu
 gynecocracies 1
@@ -9603,7 +9603,7 @@ grimmiaceous
 gangerel 1
 goitered
 gemses 3
-gossipmonger
+gossipmonger 1
 gr 3
 ghostwriting 2
 guzerat 2
