@@ -3566,7 +3566,7 @@ eupeptic 1
 epididymal 2
 entocone 2
 embolomalerism 1
-enervator
+enervator 1
 exceeder
 equoid 1
 epicureanism 1
