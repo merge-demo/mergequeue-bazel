@@ -13177,7 +13177,7 @@ displaceability
 disleave 1
 dilly
 display
-displayable 1
+displayable 2
 dumaist 2
 depositive 2
 dhava 1
