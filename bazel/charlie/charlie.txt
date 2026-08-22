@@ -18980,7 +18980,7 @@ collect
 certify
 collected
 cranberry 1
-ctenoidean
+ctenoidean 1
 constables 1
 collectibility 1
 collectible 2
