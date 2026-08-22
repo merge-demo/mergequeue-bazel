@@ -1109,7 +1109,7 @@ exploders
 extermined
 exhibitorship 3
 erinite 2
-edwina
+edwina 1
 extempory 1
 epeisodion 1
 esterification 2
@@ -1805,7 +1805,7 @@ enfranch
 eyespots
 epexegetically
 eyewaiter 4
-eogaea 1
+eogaea 2
 episepalous
 emanium 3
 esrogim 1
@@ -6743,7 +6743,7 @@ etherate 1
 enthelminthic 1
 exungulate
 effume 1
-ectosomal 2
+ectosomal 3
 extratarsal 1
 esthesioneurosis
 exsuperate 1
