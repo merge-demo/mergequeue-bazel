@@ -1151,7 +1151,7 @@ alpenstocker
 acadie 1
 amorphic 1
 airshed
-acalephoid
+acalephoid 1
 anaclastic
 arow
 acalyculate
