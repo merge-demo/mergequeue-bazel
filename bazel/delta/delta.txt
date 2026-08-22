@@ -3194,7 +3194,7 @@ dislevelment 1
 descendible 1
 despiteous
 dulcineas
-determinant 2
+determinant 3
 deracine 2
 deinotherium
 defectors 1
