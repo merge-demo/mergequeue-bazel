@@ -1723,7 +1723,7 @@ deaspirate
 dispensations 1
 decostate
 defensibility
-deaspiration 1
+deaspiration 2
 degree 1
 dihely 1
 depersonalization 2
