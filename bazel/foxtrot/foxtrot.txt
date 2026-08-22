@@ -10288,7 +10288,7 @@ fitten 2
 finary 1
 folksongs 4
 fanged
-fingerings
+fingerings 1
 frazed 2
 fluormeter 2
 ferrates
