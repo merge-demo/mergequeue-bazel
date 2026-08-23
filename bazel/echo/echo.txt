@@ -7443,7 +7443,7 @@ ephebea 3
 enchaining
 excepts
 employes
-elenctic
+elenctic 1
 escapers 1
 entanglement
 endogenously
