@@ -11855,7 +11855,7 @@ choragion
 choristers 1
 calashes 1
 chorai
-choral
+choral 1
 choralcelo
 causeway
 chorale
