@@ -31167,7 +31167,7 @@ cupman 1
 cupolaed
 crushable
 cupolaing
-cupolaman
+cupolaman 1
 cupolar
 celtillyrians 1
 cotman 2
