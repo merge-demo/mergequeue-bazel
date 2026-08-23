@@ -14982,7 +14982,7 @@ brewmaster
 boatfalls 1
 breccial
 boatly 1
-breccias
+breccias 1
 brecciated 3
 brecham 2
 bursar 1
