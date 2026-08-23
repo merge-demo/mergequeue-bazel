@@ -9068,7 +9068,7 @@ folding
 fiant 1
 friesish 1
 funnellike 3
-fenter
+fenter 1
 forbruise 2
 foxfires
 foederis 3
