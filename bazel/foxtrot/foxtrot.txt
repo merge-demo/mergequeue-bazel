@@ -9656,7 +9656,7 @@ fromage 2
 foredivine 1
 fletcher 1
 fregata 2
-faunist
+faunist 1
 freyalite 3
 frondent
 forfairn 2
