@@ -8732,7 +8732,7 @@ dirl
 dimps 1
 diatoma
 diapase 3
-deems
+deems 1
 diastase
 din
 domelike
