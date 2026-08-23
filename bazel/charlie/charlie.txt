@@ -13747,7 +13747,7 @@ convoke 1
 chlamydomonas 1
 cynegild
 cubbyholes
-cinema
+cinema 1
 cinemactic 1
 cinemagoer 1
 circumlocutionary
