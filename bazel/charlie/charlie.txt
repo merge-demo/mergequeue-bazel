@@ -31704,7 +31704,7 @@ chophouse
 cuspides 1
 chondromyxoma 1
 cesuras
-carbuncled
+carbuncled 1
 cotyloid 2
 cuspidor
 cephalopodan 1
