@@ -6047,7 +6047,7 @@ coversine
 cathud
 catydid
 continuos
-cyclicity
+cyclicity 1
 catiline
 cating
 cativo
