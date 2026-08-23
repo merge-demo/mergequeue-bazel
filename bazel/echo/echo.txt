@@ -2249,7 +2249,7 @@ ethnal 1
 electioneer 1
 elaphurine
 elections 2
-elevatory
+elevatory 1
 exocolitis 1
 effluve
 endoplasma 2
