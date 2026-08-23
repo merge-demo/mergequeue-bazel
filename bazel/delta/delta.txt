@@ -9753,7 +9753,7 @@ descender 1
 decolourization
 dilatometer 1
 dilatometrically 4
-dynamometers 1
+dynamometers 2
 dcbname 1
 dilatoriness 1
 daypeep
