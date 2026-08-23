@@ -17263,7 +17263,7 @@ bootlaces 3
 bacterioblast 1
 bumbling
 bumbo
-begum
+begum 1
 blueball 1
 bumboat 2
 bumclock 2
