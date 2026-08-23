@@ -7691,7 +7691,7 @@ abelicea 1
 adaw
 alcoholize
 alcoholmeter
-airmass
+airmass 1
 anemogram 2
 alcoholmetric
 acroter
