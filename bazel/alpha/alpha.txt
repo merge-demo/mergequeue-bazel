@@ -16809,7 +16809,7 @@ approve 1
 anlet
 auxiliary
 ambrosiac
-aphanites
+aphanites 1
 aphra 1
 aphrodesiac
 abastral 1
