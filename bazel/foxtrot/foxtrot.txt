@@ -2567,7 +2567,7 @@ flappy 2
 filicidal
 fluidification 2
 fetishry 3
-ferryway
+ferryway 1
 finding 1
 finlike 2
 fumes 3
