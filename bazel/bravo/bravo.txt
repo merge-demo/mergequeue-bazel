@@ -17962,7 +17962,7 @@ bedot 1
 bemoult 1
 bronzelike 3
 bushwhacked 2
-bushwhackers
+bushwhackers 1
 boheas
 balancing
 bellowsman 1
