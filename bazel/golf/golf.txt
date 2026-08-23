@@ -6579,7 +6579,7 @@ glottalization 2
 ground 5
 grabblers 1
 gesture 3
-gambeson
+gambeson 1
 grummets 1
 girons 2
 gimmerpet
