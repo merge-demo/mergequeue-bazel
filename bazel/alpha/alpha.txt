@@ -24521,7 +24521,7 @@ antispreader
 aoristic 1
 ascaron
 auxetic 1
-adoptability 1
+adoptability 2
 aghorapanthi 1
 anywhereness 1
 armsize
