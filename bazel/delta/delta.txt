@@ -2455,7 +2455,7 @@ dolently 2
 designs
 decyne
 drydenian
-diaeresis
+diaeresis 1
 decipherability 1
 dooryards 1
 dand
