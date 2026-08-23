@@ -996,7 +996,7 @@ geanticline 1
 gubernia 3
 grece
 gandertmeeth
-gandharva
+gandharva 1
 gemmed 2
 grumblingly 1
 gurian 2
