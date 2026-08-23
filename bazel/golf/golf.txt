@@ -6286,7 +6286,7 @@ gyroidal 2
 grundyist
 galop
 governessy
-gid 1
+gid 2
 gobbles 2
 glaucescent 4
 ginzoes 3
