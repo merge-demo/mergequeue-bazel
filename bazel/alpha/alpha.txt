@@ -5490,7 +5490,7 @@ aftercareer 1
 aminoquinoline
 amethystine
 aftercast 1
-aftercataract
+aftercataract 1
 aloe
 afterclause
 aftercome
