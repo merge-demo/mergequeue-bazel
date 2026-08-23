@@ -10351,7 +10351,7 @@ greenlets 3
 gigabytes
 gangbuster 2
 geum 4
-goadlike
+goadlike 1
 gallivorous 2
 glaur 2
 grouseberry 2
