@@ -16793,7 +16793,7 @@ drawbore
 deare
 dissenters
 dreeing 1
-disconsonant
+disconsonant 1
 difficult 2
 devaluated
 drawcut
