@@ -9044,7 +9044,7 @@ episcenium
 empyreans 1
 eperotesis
 epibranchial
-ectocyst 1
+ectocyst 2
 erythrocytoblast 2
 explanate
 epizooty 2
