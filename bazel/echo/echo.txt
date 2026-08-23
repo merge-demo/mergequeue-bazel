@@ -9344,7 +9344,7 @@ earable 2
 eruptivity 2
 echinuliform 1
 effierce 3
-esbatement
+esbatement 1
 exercite 1
 enlock 1
 ectomorphic
