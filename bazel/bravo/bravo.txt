@@ -9265,7 +9265,7 @@ bantamweights 1
 becafico
 bipod 1
 bipods 1
-botches
+botches 1
 bipolarity 4
 bipolarization 3
 besmear
