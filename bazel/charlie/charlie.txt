@@ -31609,7 +31609,7 @@ curvature
 cozy 2
 crosstail 1
 clingstone
-curve
+curve 1
 constructed 3
 curvedly 1
 capitoul 1
