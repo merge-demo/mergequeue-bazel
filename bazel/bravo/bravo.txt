@@ -6990,7 +6990,7 @@ basilian 1
 besmouch 1
 bloodying 2
 bacteritic
-besmudge
+besmudge 1
 beamless 1
 bronzite 1
 baalist 2
