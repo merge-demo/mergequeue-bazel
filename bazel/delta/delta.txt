@@ -2273,7 +2273,7 @@ decempedal 1
 demotion
 dominiums 4
 decemplex 2
-dissocialize
+dissocialize 1
 decempunctate 1
 doused 2
 decemstriate 1
