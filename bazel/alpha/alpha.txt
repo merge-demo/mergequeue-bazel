@@ -17544,7 +17544,7 @@ alburnums
 apheta 2
 appellation
 appellations
-alabastrites
+alabastrites 1
 apesthetize
 appellatived
 appellativeness
