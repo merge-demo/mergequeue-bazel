@@ -9939,7 +9939,7 @@ frightens 1
 fontes 1
 frighting 4
 fumiduct
-floridness
+floridness 1
 friedrichsdor 2
 flaggingly 1
 flutterless 1
