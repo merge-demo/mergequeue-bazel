@@ -12956,7 +12956,7 @@ consecution
 cyanhydric
 cyanhydrin
 citrean
-cyanid
+cyanid 1
 collects
 casel
 circumhorizontal
