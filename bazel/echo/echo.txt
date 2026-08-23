@@ -13615,7 +13615,7 @@ elinvar 3
 epsilon 2
 epiphytically 2
 eremurus
-enfeeble
+enfeeble 1
 emamelware 2
 epitaph 2
 extending
