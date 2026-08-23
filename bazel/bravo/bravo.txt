@@ -7211,7 +7211,7 @@ burgee
 briary
 breaching 1
 blades 1
-beveled
+beveled 1
 bestraddled 1
 bongrace
 bauta 1
