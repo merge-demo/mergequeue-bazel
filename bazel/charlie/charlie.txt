@@ -29754,7 +29754,7 @@ crookbacked 1
 crookbill 1
 castral
 crookedbacked
-cinuran
+cinuran 1
 commencement
 consignment 1
 coryphaenid
