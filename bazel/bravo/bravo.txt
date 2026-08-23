@@ -13330,7 +13330,7 @@ botella 1
 botels 1
 bebrave
 buss
-barometry
+barometry 1
 both
 bradyphagia 1
 bothered 1
