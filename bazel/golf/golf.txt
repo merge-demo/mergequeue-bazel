@@ -6778,7 +6778,7 @@ gonionia 1
 gnosticize 1
 genericness 4
 gamelang 2
-ganam 3
+ganam 4
 gamgee 3
 gratias 2
 gobbe 1
