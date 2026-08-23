@@ -17721,7 +17721,7 @@ burner 2
 benempt
 billian
 blastophaga
-bemuzzled
+bemuzzled 1
 bott 2
 bewinged
 beknit 1
