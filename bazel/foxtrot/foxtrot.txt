@@ -901,7 +901,7 @@ foreperiod 1
 farawayness 1
 firmland 2
 fennelflower 2
-fanums
+fanums 1
 ferine 2
 fenberry 2
 fanwise 1
