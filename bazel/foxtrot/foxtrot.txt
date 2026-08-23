@@ -8052,7 +8052,7 @@ flockmaster 3
 feyest
 flowerist 1
 frontward 2
-fellahs
+fellahs 1
 flash 1
 fluidises 1
 falconnoid 2
