@@ -4802,7 +4802,7 @@ bedrugs 1
 bemeans
 brakesman 2
 befancy 1
-bits
+bits 1
 bedside 3
 bedsonia 3
 bedsore 3
