@@ -22561,7 +22561,7 @@ connatural
 connaturality
 cultelli 2
 connectibility
-cryptanalysis
+cryptanalysis 1
 connaturalize 2
 chg 1
 cosech 2
