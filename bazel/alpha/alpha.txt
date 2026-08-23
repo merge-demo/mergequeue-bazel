@@ -2081,7 +2081,7 @@ accustoms
 acumens 1
 achy 2
 absconds
-airtime 1
+airtime 2
 anthologion 1
 aphagia
 antenniferous
