@@ -14799,7 +14799,7 @@ dialogue 1
 dolors 2
 desmectasia 4
 dennet 1
-docks 1
+docks 2
 demonologist 2
 docmac 4
 docoglossan 1
