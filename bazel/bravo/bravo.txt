@@ -1882,7 +1882,7 @@ blastoff
 bushcraft 3
 breadwinners 1
 bandmaster 2
-brainsickly
+brainsickly 1
 bando 2
 besieger
 bodiced 1
