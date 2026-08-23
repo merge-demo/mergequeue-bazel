@@ -8717,7 +8717,7 @@ frumpish
 fosset 1
 fid
 falsifies 2
-frisette
+frisette 1
 fortifys
 finalist 1
 ferther 3
