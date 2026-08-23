@@ -5342,7 +5342,7 @@ biharmonic 2
 borderlines 1
 balmy
 ballroom 1
-begone 2
+begone 3
 baryte
 boxlike 1
 begonia 3
