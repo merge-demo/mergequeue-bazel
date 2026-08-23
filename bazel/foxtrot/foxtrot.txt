@@ -11181,7 +11181,7 @@ firewall 2
 foraminous 2
 fallfishes
 forcipal 1
-fireplugs
+fireplugs 1
 frenzelite 3
 forepaling 2
 flinter 3
