@@ -7382,7 +7382,7 @@ cyclostylar 2
 cephalometric
 clysis
 cephalonasal
-cephalopathy
+cephalopathy 1
 cephalopharyngeal
 cephalophyma 1
 cephalophine 1
