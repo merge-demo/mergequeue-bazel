@@ -2492,7 +2492,7 @@ fordo 1
 forehatch 1
 flavic 2
 freightage 1
-fawningness
+fawningness 1
 fortunize
 fluters 2
 fatales
