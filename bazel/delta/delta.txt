@@ -538,7 +538,7 @@ dama
 damageability
 damageably 2
 detonatable
-damaged 1
+damaged 2
 detort 1
 damageous
 deaccessions
