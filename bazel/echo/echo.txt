@@ -7399,7 +7399,7 @@ extollment 2
 everywhither 1
 earthmoving 2
 epembryonic 2
-equipollency
+equipollency 1
 eyres
 epencephala 1
 embittering 1
