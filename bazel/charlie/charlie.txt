@@ -20606,7 +20606,7 @@ compilator
 compiled 1
 compilement
 cogitatingly 3
-collineate
+collineate 1
 comping
 collectarium
 clanjamfrie
