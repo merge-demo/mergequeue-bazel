@@ -4952,7 +4952,7 @@ euhemerize 1
 entropy 2
 exencephalic
 ectocoelic 1
-eyelight 1
+eyelight 2
 emporetic
 eurytomid 1
 emulsifiers 2
