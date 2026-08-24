@@ -3644,7 +3644,7 @@ censors 1
 coenoblastic
 cattleyas
 confucianist
-clangor
+clangor 1
 cocineras
 caragana
 caraganas
