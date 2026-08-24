@@ -3915,7 +3915,7 @@ followers 1
 fevertrap 3
 footslogged
 fluidextract 2
-findable
+findable 1
 fruz
 function
 findhorn 1
