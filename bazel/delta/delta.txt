@@ -16406,7 +16406,7 @@ dulc
 drawcansir 2
 draggletailedness 1
 doxa
-doxastic
+doxastic 1
 doxasticon
 dghaisa 1
 doxie 1
