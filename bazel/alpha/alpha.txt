@@ -17303,7 +17303,7 @@ acetonize
 antiagglutinant 2
 allowing 1
 azido
-apostacize
+apostacize 1
 amrelle
 audiometer 1
 auguste
