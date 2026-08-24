@@ -7367,7 +7367,7 @@ cephalofacial 1
 cephalogram 2
 cephaloid 1
 culminates
-cuticles
+cuticles 1
 crepuscle
 cephalology
 cryolites
