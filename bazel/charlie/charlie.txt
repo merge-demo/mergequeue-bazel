@@ -15085,7 +15085,7 @@ clacker
 clackety
 coexertion
 clacking
-clacks
+clacks 1
 clad
 confated
 characterizations
