@@ -9106,7 +9106,7 @@ grinch 1
 goldwork 2
 geoid
 garotte
-governableness
+governableness 1
 grumose 1
 guttation 4
 geophagist 2
