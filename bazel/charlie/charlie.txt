@@ -13420,7 +13420,7 @@ crozzle 1
 chaine 3
 condemnation
 chlorinates 1
-counterturn
+counterturn 1
 cydippe 1
 cofeatures 1
 cydonian
