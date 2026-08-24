@@ -17410,7 +17410,7 @@ cordigeri 1
 coaxial
 cellarman
 coaxing 2
-coazervate
+coazervate 1
 contline
 coazervation
 coeloblastic
