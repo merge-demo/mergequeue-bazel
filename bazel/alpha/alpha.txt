@@ -8662,7 +8662,7 @@ australoid 1
 alleys 1
 alephzero
 afrasian
-automatonlike
+automatonlike 1
 alleyway 1
 alchitran
 abled 1
