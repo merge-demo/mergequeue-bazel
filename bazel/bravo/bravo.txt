@@ -16705,7 +16705,7 @@ bilkers
 buckle 3
 blacked
 befallen 1
-buckled
+buckled 1
 bebilya 2
 buckleless 1
 baklavas 2
