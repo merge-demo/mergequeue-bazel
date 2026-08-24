@@ -4993,7 +4993,7 @@ beerpull 1
 beers 1
 beest 1
 blowers
-babbools
+babbools 1
 bibation 1
 bindweb 1
 ballonette
