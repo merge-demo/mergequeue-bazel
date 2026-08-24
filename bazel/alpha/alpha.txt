@@ -5965,7 +5965,7 @@ aggregative 1
 aggregatively
 aggregator 3
 alepole 1
-ackman
+ackman 1
 amatol
 antiroll
 anatman
