@@ -5377,7 +5377,7 @@ castellatus 1
 creolization 1
 circumposition 3
 copulates
-chamberfellow
+chamberfellow 1
 castellum
 caster
 crinicultural
