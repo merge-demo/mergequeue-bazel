@@ -1380,7 +1380,7 @@ garnetlike 1
 grabbles 2
 gaulin 1
 gorb 2
-gastrostegal
+gastrostegal 1
 gravitometer 2
 garnetter 2
 glyconeogenetic 1
