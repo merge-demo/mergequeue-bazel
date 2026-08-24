@@ -12533,7 +12533,7 @@ dispractice 1
 dols 3
 decerns 3
 dugout 1
-disowning 2
+disowning 3
 disinfecting 3
 denormalized
 disinfections
