@@ -4125,7 +4125,7 @@ antimonopoly
 adjudicates 2
 avell 2
 autobus
-antiphlogistin
+antiphlogistin 1
 acylamino 2
 adnephrine 1
 anthracene
