@@ -553,7 +553,7 @@ geisotherm 1
 gd 2
 gilravager 1
 gudgeoning
-gup 1
+gup 2
 ghetto 2
 galleryite 1
 gravidness 1
