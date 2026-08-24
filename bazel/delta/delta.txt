@@ -4789,7 +4789,7 @@ deaconing
 demihag 5
 dodecatylic 1
 deair 2
-disseizor
+disseizor 1
 deanimalize 1
 diemaker
 dentalizing 1
