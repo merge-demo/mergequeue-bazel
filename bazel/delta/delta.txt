@@ -798,7 +798,7 @@ daubers 2
 delusters 1
 dovecote 1
 diuretical
-danegelds
+danegelds 1
 dungeon 1
 deckhead 1
 daneweed
