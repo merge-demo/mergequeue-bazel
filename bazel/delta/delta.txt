@@ -13585,7 +13585,7 @@ demicritic 3
 drawnet 2
 dorcopsis
 dissentive 2
-diavolo 2
+diavolo 3
 datakit
 doggereler
 drawlers 1
