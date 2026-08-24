@@ -13301,7 +13301,7 @@ adipopexic 1
 albireo
 aurifex 1
 agglutinability 2
-autosome
+autosome 1
 abobra
 anthelminthic 1
 apoturmeric
