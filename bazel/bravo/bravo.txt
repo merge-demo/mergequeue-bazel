@@ -10492,7 +10492,7 @@ bakestone
 biologistic
 bepastured
 blastogenic
-bandfiled
+bandfiled 1
 bop
 brainy 2
 bridgewards 1
