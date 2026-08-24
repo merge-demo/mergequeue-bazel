@@ -4703,7 +4703,7 @@ carpetbag 1
 carpetbagger 2
 carpetbaggery
 chantage
-conchometry
+conchometry 1
 catty
 caddow
 compatibles
