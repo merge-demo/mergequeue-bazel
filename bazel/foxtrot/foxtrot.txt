@@ -3330,7 +3330,7 @@ fairings 2
 fulgide
 feture 2
 flabbergastation 1
-flexility 4
+flexility 5
 fracted 1
 fidejussor 2
 furfur 3
