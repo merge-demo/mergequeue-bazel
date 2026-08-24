@@ -4215,7 +4215,7 @@ awakenings 1
 autogenous 1
 adoration 1
 adoratory 1
-agatelike
+agatelike 1
 adorer
 andhra 1
 acquisita
