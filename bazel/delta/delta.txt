@@ -2422,7 +2422,7 @@ decimalism 1
 dueling 1
 decimalization 1
 displeases 2
-decimalizes
+decimalizes 1
 dehiscent 1
 dreamlit 1
 deceived 2
