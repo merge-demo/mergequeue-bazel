@@ -2747,7 +2747,7 @@ bukeyef 2
 barology
 barolong
 boroughship
-barometers 1
+barometers 2
 beefy
 blam
 brainache 1
