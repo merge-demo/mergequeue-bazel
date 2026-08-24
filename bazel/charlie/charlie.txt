@@ -3094,7 +3094,7 @@ capacify
 cowpat
 centare
 contrabandist
-capacious 1
+capacious 2
 capaciousness 1
 capacitate
 carbonyl
