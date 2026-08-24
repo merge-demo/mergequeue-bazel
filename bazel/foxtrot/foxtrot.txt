@@ -4993,7 +4993,7 @@ fadeaway 1
 fringiest 3
 focused 2
 frappeed 2
-flibbertigibbety
+flibbertigibbety 1
 figbird 1
 foundationally 4
 fleetingness
