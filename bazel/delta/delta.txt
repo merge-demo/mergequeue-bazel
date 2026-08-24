@@ -14296,7 +14296,7 @@ dragropes
 duotones 2
 desireable
 dict
-decolorized
+decolorized 1
 disbelievingly 2
 ditt 1
 device 1
