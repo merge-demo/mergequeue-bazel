@@ -7147,7 +7147,7 @@ exclusions
 echar 1
 elan 1
 estanciero 1
-eudaemonism 1
+eudaemonism 2
 everyday 2
 endocolitis
 engrossed 2
