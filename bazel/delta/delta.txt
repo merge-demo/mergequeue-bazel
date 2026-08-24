@@ -2288,7 +2288,7 @@ deepish
 decemvirship 1
 decayer
 decene 5
-depurator
+depurator 1
 decennial
 dingdongs 1
 decennium
