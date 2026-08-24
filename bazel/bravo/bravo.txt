@@ -4573,7 +4573,7 @@ bedarkening 2
 bedaub
 ballplayer
 benzoylglycine
-barks
+barks 1
 besuit
 bundeli 1
 borborus 1
