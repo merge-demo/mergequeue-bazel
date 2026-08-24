@@ -9583,7 +9583,7 @@ facete 2
 forensic 1
 floreta 1
 frontopontine
-fizzed
+fizzed 1
 fichus
 friableness 2
 fusteric 2
