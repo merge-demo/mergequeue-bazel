@@ -10517,7 +10517,7 @@ derangeable
 delaminate 4
 divinize 2
 dihydrocupreine
-dipyrenous
+dipyrenous 1
 dipyridyl 1
 dichter 2
 duper 2
