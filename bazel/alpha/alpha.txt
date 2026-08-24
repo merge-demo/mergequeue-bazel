@@ -4429,7 +4429,7 @@ awonder
 abductores 1
 ap 1
 adumbrating 2
-adumbrations
+adumbrations 1
 asthenias
 agrypnode 1
 angild
