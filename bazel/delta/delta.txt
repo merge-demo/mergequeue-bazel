@@ -12237,7 +12237,7 @@ dampers
 deviators 1
 dysfunctions 1
 disfurnish 1
-deport
+deport 1
 disfurnished 1
 dangerless
 desulfurating 1
