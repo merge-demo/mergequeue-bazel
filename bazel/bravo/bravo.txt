@@ -10868,7 +10868,7 @@ bribegiver 1
 boatwise
 blimey 1
 brokership
-basis
+basis 1
 blent 1
 blattiform 1
 backpacks
