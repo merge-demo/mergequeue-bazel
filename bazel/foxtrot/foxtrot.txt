@@ -7436,7 +7436,7 @@ floperoo
 forevalue 1
 firstship 2
 forcibility 1
-forcibleness 1
+forcibleness 2
 filosa 1
 furnacite 1
 francophone 3
