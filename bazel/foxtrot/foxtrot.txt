@@ -8367,7 +8367,7 @@ freedoms 2
 formicative 1
 forklift 1
 flebile 2
-forklike
+forklike 1
 forswornness 1
 finickily 2
 foundations
