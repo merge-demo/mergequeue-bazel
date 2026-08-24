@@ -2710,7 +2710,7 @@ emulsoidal 2
 exteriorise 1
 essed 5
 ericolin 1
-elderwort
+elderwort 1
 electrophoresing 1
 endomycetaceae
 evanish
