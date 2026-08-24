@@ -16407,7 +16407,7 @@ clivis
 clivus 1
 clk 2
 clo 2
-cloaca 2
+cloaca 3
 cloacae
 cryptanalyzed 1
 cloacaline 1
