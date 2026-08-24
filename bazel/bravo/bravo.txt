@@ -6476,7 +6476,7 @@ beleaguer 2
 backdown
 bepepper 1
 ballat 1
-booting
+booting 1
 bephilter 3
 booley 2
 boltropes 1
