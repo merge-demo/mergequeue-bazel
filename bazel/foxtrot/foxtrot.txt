@@ -8286,7 +8286,7 @@ fractious 2
 feists 1
 flump 1
 forehoof 2
-frontlets 2
+frontlets 3
 forgiving
 flintify 1
 forgoer 4
