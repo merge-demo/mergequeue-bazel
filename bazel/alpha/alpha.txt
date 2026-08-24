@@ -9454,7 +9454,7 @@ antispace
 abbot 2
 alterative
 altercated
-altercating
+altercating 1
 alterers 1
 antiplague
 antiabsolutist 1
