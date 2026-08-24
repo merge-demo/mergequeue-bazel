@@ -10840,7 +10840,7 @@ functionless
 fontanels 2
 flamefish 2
 furoin
-fishpool 1
+fishpool 2
 forficate
 flaminian 3
 fortified 2
