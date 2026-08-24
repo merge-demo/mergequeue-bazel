@@ -5371,7 +5371,7 @@ castellano 1
 castellans 1
 cinerararia 1
 chaufer
-castellate
+castellate 1
 castellation
 castellatus 1
 creolization 1
