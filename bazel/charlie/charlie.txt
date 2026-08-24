@@ -6593,7 +6593,7 @@ cheroot 2
 cdg 1
 cdr 1
 cesspool 2
-cosmonaut
+cosmonaut 1
 celibates
 cearin 2
 chatoyancy
