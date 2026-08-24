@@ -9091,7 +9091,7 @@ exponential 3
 equipollent 1
 epicolic
 euryalae
-encanker
+encanker 1
 electroencephalographic 2
 ethinyl 2
 empidonax 2
