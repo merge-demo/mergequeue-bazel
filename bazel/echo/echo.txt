@@ -2983,7 +2983,7 @@ entrecotes 1
 equipede 1
 elbowchair 2
 enjoining 1
-encephalopsychesis
+encephalopsychesis 1
 exister 3
 extraovate 2
 eliminable
