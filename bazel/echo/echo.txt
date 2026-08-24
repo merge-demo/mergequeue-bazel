@@ -5008,7 +5008,7 @@ effuses
 enschedule 2
 exomphalous 2
 endemicity 1
-electrofused
+electrofused 1
 endemism 1
 eco 3
 eightscore 3
