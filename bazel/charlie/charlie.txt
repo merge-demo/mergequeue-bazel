@@ -22929,7 +22929,7 @@ chob 1
 consignificant 1
 consignification 1
 consignificative
-consignificator
+consignificator 1
 cylindroidal 1
 causse 1
 consigning
