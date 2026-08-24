@@ -2493,7 +2493,7 @@ ditchdown 1
 dirigent 1
 deckhand
 dovekies 1
-duckwing 2
+duckwing 3
 deckle 1
 dulls 1
 diatropism 1
