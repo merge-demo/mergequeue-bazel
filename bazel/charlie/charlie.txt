@@ -28943,7 +28943,7 @@ cribriformity 1
 convertaplane
 cribs
 conelike 1
-cribworks
+cribworks 1
 cardinalate
 convocated 1
 cricetidae
