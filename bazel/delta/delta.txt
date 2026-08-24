@@ -3276,7 +3276,7 @@ dockhead 1
 disburdening 2
 domesticate
 defiber 1
-deionized
+deionized 1
 duodecillionth
 doublethought 1
 dominie
