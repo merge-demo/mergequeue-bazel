@@ -11115,7 +11115,7 @@ dorhawk 3
 dotless 1
 dissertator 2
 disarticulating
-disarticulation
+disarticulation 1
 detruded 1
 disarticulator 1
 disasinize
