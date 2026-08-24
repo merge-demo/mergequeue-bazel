@@ -8447,7 +8447,7 @@ dorsiventrally 1
 ds 1
 duopsony
 degreed 1
-diamagnet
+diamagnet 1
 diamagnetic 3
 diamagnetism 2
 dredging
