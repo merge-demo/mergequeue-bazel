@@ -17955,7 +17955,7 @@ basemen 2
 boloroot 1
 bushlike
 beclamors 1
-byte 1
+byte 2
 bookbinding
 byssinosis 3
 bedot 1
