@@ -11062,7 +11062,7 @@ frontality 1
 funambuloes 1
 filled 1
 fixups
-functionated
+functionated 1
 fogbow 2
 fructed 2
 frowner 2
