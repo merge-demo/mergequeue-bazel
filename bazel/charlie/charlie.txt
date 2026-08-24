@@ -2218,7 +2218,7 @@ campos 2
 conuropsis
 circumfusile
 capotes 1
-campshed
+campshed 1
 campsheeting 1
 campsite 2
 compasser 2
