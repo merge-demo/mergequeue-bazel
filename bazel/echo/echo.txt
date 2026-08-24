@@ -12174,7 +12174,7 @@ excusefully 4
 exostome 1
 embergoose 1
 excuser 1
-elytron
+elytron 1
 endpoint 1
 exposure 2
 ellipse
