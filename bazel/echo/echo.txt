@@ -596,7 +596,7 @@ exfiltration
 echoism 2
 epigeal
 enhydros 1
-echometer
+echometer 1
 echopractic
 examinate 1
 elitisms 2
