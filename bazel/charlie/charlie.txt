@@ -2601,7 +2601,7 @@ cowskins 1
 counterdisengage
 cryptocrystallization 2
 columnar
-cyamelide
+cyamelide 1
 castile 1
 caned
 canela 3
