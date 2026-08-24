@@ -3704,7 +3704,7 @@ climacterial
 coachable 1
 carbonadoes
 carapidae
-cineastes
+cineastes 1
 clawlike
 carapine
 canvasback
