@@ -22495,7 +22495,7 @@ ammoniacum
 at
 adenohypophysial
 alangin
-arrestor
+arrestor 1
 arecaidin
 ata
 anoas
