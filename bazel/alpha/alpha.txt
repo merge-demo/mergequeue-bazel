@@ -17395,7 +17395,7 @@ apothecaryship 2
 archosyrinx 1
 alkalamide 1
 afret 2
-archenemy
+archenemy 1
 apothecium 1
 antozonite
 adonized 1
