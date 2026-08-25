@@ -12852,7 +12852,7 @@ eudipleural 1
 encircled
 exoterically
 erythremomelalgia
-episcopal
+episcopal 1
 exoticness
 enantioses
 ensile
