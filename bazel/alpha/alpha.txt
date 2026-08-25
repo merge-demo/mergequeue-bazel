@@ -285,7 +285,7 @@ appurtenances
 accuracy 1
 autotropism 1
 abdominally
-aeroacoustic 5
+aeroacoustic 6
 aguamas
 abdominals 1
 abdominocystic 1

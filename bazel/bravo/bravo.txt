@@ -6763,7 +6763,7 @@ buchnerite 1
 binturong 1
 banshee 1
 bitte
-bedscrew
+bedscrew 1
 boteler 1
 bumpier 1
 busulfan 2
