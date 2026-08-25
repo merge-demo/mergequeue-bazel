@@ -7755,7 +7755,7 @@ cormorant 1
 cetin
 certainty 2
 certhia
-caryatidic
+caryatidic 1
 cfi 1
 certifiability
 categorematic
