@@ -7595,7 +7595,7 @@ foredoomer 3
 fgn 2
 fructuarius
 funiculus
-flintworker 1
+flintworker 2
 flays
 forespeak 2
 fecundative 1
