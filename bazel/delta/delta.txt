@@ -14803,7 +14803,7 @@ docks 2
 demonologist 2
 docmac 4
 docoglossan 1
-disulphoxid
+disulphoxid 1
 detests
 docoglossate
 diswarren
