@@ -15198,7 +15198,7 @@ brick
 battened
 brickbat 1
 buttonholed
-blackstrap 1
+blackstrap 2
 borish
 branchiosauria 3
 brickbatting 1
