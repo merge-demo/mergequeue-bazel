@@ -8246,7 +8246,7 @@ brakehead 2
 bedsteads 2
 bovarysm 2
 bigamies
-bigamist
+bigamist 1
 boyars 1
 betafite 1
 bigamizing
