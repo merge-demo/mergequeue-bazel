@@ -25637,7 +25637,7 @@ clankum 1
 corsair
 cannula 2
 closestool
-corpulentness 1
+corpulentness 2
 converginerved 2
 corpuscularian 1
 colombian
