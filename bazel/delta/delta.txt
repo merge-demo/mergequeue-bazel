@@ -1948,7 +1948,7 @@ downby 1
 dominoes 1
 disobeys 1
 dreader 2
-depressant 3
+depressant 4
 dobla 1
 deckload 1
 doze 1
