@@ -381,7 +381,7 @@ froes 1
 fluorides
 faintly
 ferrymen
-fearer
+fearer 1
 filicauline 1
 forbid
 fairfieldite 1
