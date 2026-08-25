@@ -6902,7 +6902,7 @@ cardiorrhexis
 consol
 camis 2
 ceratomandibular 1
-clocklike
+clocklike 1
 celtuce 2
 calor 1
 closefisted 1
