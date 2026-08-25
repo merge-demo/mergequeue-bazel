@@ -16403,7 +16403,7 @@ cochleare
 cliv 2
 cliver
 clivers 1
-clivis
+clivis 1
 clivus 1
 clk 2
 clo 2
