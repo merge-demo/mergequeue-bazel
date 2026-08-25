@@ -7600,7 +7600,7 @@ flays
 forespeak 2
 fecundative 1
 faradising 2
-foredune 2
+foredune 3
 freezable
 fervors 3
 forril 2
