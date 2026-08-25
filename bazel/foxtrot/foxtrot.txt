@@ -9717,7 +9717,7 @@ facework 1
 fluviograph 2
 flabs 1
 forestick
-flycaster 1
+flycaster 2
 fanworts 3
 fuchsins 1
 fevery 1
