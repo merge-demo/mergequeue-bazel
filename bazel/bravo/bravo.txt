@@ -4401,7 +4401,7 @@ briskness 2
 bakeboard 2
 bonzian
 bepress
-barrable 2
+barrable 3
 butyrousness 1
 bickers 1
 bushwhacker 2
