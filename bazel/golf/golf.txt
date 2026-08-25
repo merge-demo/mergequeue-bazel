@@ -9087,7 +9087,7 @@ glutination 2
 goadster 3
 gyres 3
 gease 1
-graveyards
+graveyards 1
 glaucomys 1
 glumal 2
 glires
