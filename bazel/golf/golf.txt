@@ -4537,7 +4537,7 @@ gamb
 grapey 1
 gomutis 1
 gambrel
-gumwoods 1
+gumwoods 2
 gills
 graminiform 1
 gerbille 1
