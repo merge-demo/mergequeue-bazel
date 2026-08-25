@@ -5526,7 +5526,7 @@ furnit
 fisc 3
 faked 4
 filionymic 6
-forbearingness
+forbearingness 1
 frowzy 2
 furbelowing
 fankle 3
