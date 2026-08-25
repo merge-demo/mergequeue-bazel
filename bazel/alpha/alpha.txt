@@ -24383,7 +24383,7 @@ apparentation 1
 antagonise 1
 autosight
 albuminuric
-autosymbolic
+autosymbolic 1
 autosymbolical 2
 autosymbolically
 ambushing
