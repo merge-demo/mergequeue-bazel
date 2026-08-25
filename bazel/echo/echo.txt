@@ -5240,7 +5240,7 @@ equilibrate 1
 endomitosis
 endomorphy 1
 exta 1
-ekebergite
+ekebergite 1
 either
 endoneurium 2
 edify
