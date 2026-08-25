@@ -8212,7 +8212,7 @@ bb 1
 bobstay 1
 balagan
 bullfist
-brothership 1
+brothership 2
 bespurt 1
 bulgaric
 biforate
