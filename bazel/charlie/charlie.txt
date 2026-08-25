@@ -15226,7 +15226,7 @@ crucigerous 1
 ceromancy 1
 claywares
 caam
-colours
+colours 1
 chlorphenol
 crassina 1
 clam
