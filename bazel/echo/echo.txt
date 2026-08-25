@@ -2115,7 +2115,7 @@ emulge 1
 excretory 1
 elastica
 extrapolator 2
-elastically
+elastically 1
 eurycephalous 1
 edenite 1
 exudes 2
