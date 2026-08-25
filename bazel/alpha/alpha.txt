@@ -12472,7 +12472,7 @@ astart 2
 ajowan 2
 anecdote 1
 anecdotes 1
-anecdotic
+anecdotic 1
 anova 1
 aluminiform 1
 aegagropile 1
