@@ -12248,7 +12248,7 @@ donax 1
 disgarnish
 descartes
 deliberativeness 2
-dossiere
+dossiere 1
 demoniacism 1
 drubbing 1
 desegregate
