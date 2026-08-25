@@ -17476,7 +17476,7 @@ drowsihead 3
 drowte 1
 dreads
 discrete 2
-daffle
+daffle 1
 doubleheaders 1
 deficiently
 destructed
