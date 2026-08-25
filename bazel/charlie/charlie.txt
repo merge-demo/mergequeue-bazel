@@ -4862,7 +4862,7 @@ carrick
 carrycot
 chromatoplasm 1
 carried
-carryed
+carryed 1
 carrier
 carryings
 carriole 1
