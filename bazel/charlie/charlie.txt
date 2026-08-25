@@ -8446,7 +8446,7 @@ checkerboarded
 confiscator 1
 choribi
 cuttable 1
-chamoisite
+chamoisite 1
 chamoline
 chamorro
 copalcocote 1
