@@ -12561,7 +12561,7 @@ extinction 2
 envied 1
 enherit
 entryman 3
-elkdom
+elkdom 1
 eft 1
 eucosia 3
 exmeridian
