@@ -263,7 +263,7 @@ faders 1
 firedamp 1
 fadge
 furfuramide 2
-furniment 1
+furniment 2
 fermery 1
 flattered 1
 fiduciary 2
