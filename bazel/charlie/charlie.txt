@@ -12588,7 +12588,7 @@ cellucotton
 chronologer
 circularize 1
 chronological
-chronologies
+chronologies 1
 coalternative 1
 chantecler 1
 cercle 1
