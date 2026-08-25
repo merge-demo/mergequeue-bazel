@@ -6339,7 +6339,7 @@ gemots 1
 gametal 1
 gearings 4
 giglio 1
-genarchaship 2
+genarchaship 3
 graptoloidea 2
 goatsucker
 graplines 2
