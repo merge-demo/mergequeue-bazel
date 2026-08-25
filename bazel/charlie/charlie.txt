@@ -29488,7 +29488,7 @@ cymbiform 1
 confliction 2
 chawle
 cageot
-cloak
+cloak 1
 chileanize
 crystallography
 crystalloid
