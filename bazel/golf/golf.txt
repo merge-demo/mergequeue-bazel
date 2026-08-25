@@ -3473,7 +3473,7 @@ geometers 3
 gudgeons 5
 gowl 1
 gelatinated 1
-gastrologer
+gastrologer 1
 glazing
 genoa 1
 gallanting 1
