@@ -10803,7 +10803,7 @@ eucrystalline 2
 elastance 2
 eurodollar 3
 eleanor 2
-expurgatory
+expurgatory 1
 ethide 2
 estivates 1
 euphemizer 1
