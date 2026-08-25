@@ -13708,7 +13708,7 @@ enfasten
 epiplasm 2
 equiaxe
 ergocalciferol 2
-externs
+externs 1
 endothelioblastoma 1
 ewers
 exhaustedness
