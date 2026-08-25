@@ -12101,7 +12101,7 @@ coapprehend 1
 consume
 cered
 cledonism
-circler
+circler 1
 catallactically 2
 chowry
 chowries 3
