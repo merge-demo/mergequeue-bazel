@@ -7425,7 +7425,7 @@ betso 1
 betted 1
 befreeze 2
 better
-besmirched
+besmirched 1
 batrachia 1
 buboes 1
 bashalick 1
