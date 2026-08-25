@@ -17361,7 +17361,7 @@ couscouses
 coastlines 1
 cutleress
 channeled 1
-condensible
+condensible 1
 churchmaster
 coastward
 coatdress
