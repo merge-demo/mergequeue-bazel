@@ -9540,7 +9540,7 @@ casehardens 1
 cricotracheotomy 2
 calaththi
 checkrein
-checkroll 1
+checkroll 2
 compathy 1
 checkrope
 cumulant
