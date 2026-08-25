@@ -14215,7 +14215,7 @@ bisulfide
 bepowder 1
 belamour 1
 bradypeptic 1
-bradyphrasia 2
+bradyphrasia 3
 bradyphrenia 1
 bradypnea 1
 bloodtest 2
