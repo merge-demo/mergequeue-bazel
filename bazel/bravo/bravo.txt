@@ -3557,7 +3557,7 @@ bridgekeeper 1
 balon
 barricade
 byronish 2
-brushy 1
+brushy 2
 battleground 1
 berkeleyite 2
 bien
