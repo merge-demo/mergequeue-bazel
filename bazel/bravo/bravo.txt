@@ -4999,7 +4999,7 @@ bindweb 1
 ballonette
 bilinguist 2
 boodling
-buda
+buda 1
 barukhzy 2
 beetewk 2
 barways 1
