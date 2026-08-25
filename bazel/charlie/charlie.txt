@@ -16461,7 +16461,7 @@ clockmaking
 crewer
 clockwatcher 2
 clockwise 2
-clockworked
+clockworked 1
 clavigerous 1
 carthamin 1
 chaldron 1
