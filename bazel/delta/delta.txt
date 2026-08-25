@@ -1443,7 +1443,7 @@ dawning 1
 desocialize
 dawnlike 2
 demimetope 1
-disoccident
+disoccident 1
 decenniums 1
 dearsenicize 2
 deprest
