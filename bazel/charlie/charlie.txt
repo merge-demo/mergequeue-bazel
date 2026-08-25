@@ -19340,7 +19340,7 @@ coloptosis 2
 colopuncture 1
 coloquintid
 craniotabes
-carousing
+carousing 1
 cerotic
 checkstone
 color
