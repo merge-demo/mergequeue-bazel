@@ -10589,7 +10589,7 @@ earthiness
 expectance
 euchrome 2
 euclideanism 1
-euclidian
+euclidian 1
 exhalant
 eucone
 eucopepoda 1
