@@ -17353,7 +17353,7 @@ daglocks 2
 dishwiper 3
 dropberry
 deprogrammers 1
-dropforge 1
+dropforge 2
 dorsicommissure 2
 dropforger
 drophead
