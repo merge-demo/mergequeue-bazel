@@ -15646,7 +15646,7 @@ coattends 2
 craniotympanic
 cartilaginification 1
 clausthalite
-claustral
+claustral 1
 claustration 1
 characinoid 2
 concludence
