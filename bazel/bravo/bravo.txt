@@ -5723,7 +5723,7 @@ believingly 3
 brerd 2
 burials
 backsight 4
-bandlimit
+bandlimit 1
 belight 1
 baaed
 bulldozer 1
