@@ -17319,7 +17319,7 @@ coarsely
 cranched
 coarsened
 circumsail
-coarseness
+coarseness 1
 canonizations 1
 chickory 1
 coarsening
