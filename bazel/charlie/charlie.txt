@@ -11991,7 +11991,7 @@ chlorins
 chorist 2
 cyanuret 1
 characetum
-choristate
+choristate 1
 chorister 2
 centralization
 coenacting
