@@ -23615,7 +23615,7 @@ capitular
 cubomancy
 comforts
 contortions 1
-contorts
+contorts 1
 commos
 contour
 clarichord 1
