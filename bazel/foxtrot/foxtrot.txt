@@ -2821,7 +2821,7 @@ fcomp
 fretted 3
 faunae 5
 faveolate 1
-facie 1
+facie 2
 ficus 1
 fluidly 1
 floorman
