@@ -6384,7 +6384,7 @@ dorsiventral 4
 dielec
 derodidymus 1
 derog 1
-demeanour
+demeanour 1
 doronicum
 despond 2
 derogate
