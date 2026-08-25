@@ -11686,7 +11686,7 @@ adages
 anaerobation 1
 antiquist 2
 acrocentric
-anaerobion
+anaerobion 1
 apocrisiary
 anaerobiont 2
 anaerobiosis 1
