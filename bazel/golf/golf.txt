@@ -8623,7 +8623,7 @@ gerb 3
 grappled 4
 guti 1
 glucosin 1
-gulfed
+gulfed 1
 gingerleaf 3
 grapline 2
 guideposts 2
