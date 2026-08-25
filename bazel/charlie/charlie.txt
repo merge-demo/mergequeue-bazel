@@ -12762,7 +12762,7 @@ chummage
 chummed
 congelifract 1
 chummery 1
-chummier
+chummier 1
 chummies
 chumminess 1
 chump
