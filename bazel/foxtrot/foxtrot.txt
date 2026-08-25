@@ -1418,7 +1418,7 @@ fatbacks 4
 foretimes 1
 fishway 2
 fountainlet 3
-focometry 2
+focometry 3
 fallibly 1
 firewood
 futchell 3
