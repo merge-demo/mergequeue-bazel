@@ -9822,7 +9822,7 @@ bites 1
 birefringent 2
 bebat
 bytes
-bitewing
+bitewing 1
 beryx 1
 based 1
 backswording
