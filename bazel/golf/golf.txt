@@ -121,7 +121,7 @@ gastly 1
 gastrostomy 4
 gazogene 2
 gypsyhood
-girdled
+girdled 1
 guerdoned 1
 gyros
 gangrening 3
