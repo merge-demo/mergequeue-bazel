@@ -17811,7 +17811,7 @@ begani
 bursarial 2
 blypes 1
 bursaries 1
-bursars
+bursars 1
 bursch
 bianisidine 1
 becompass
