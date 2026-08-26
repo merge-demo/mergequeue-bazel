@@ -9696,7 +9696,7 @@ benj 3
 boondogglers 3
 ballywrack
 bisques
-bigotedness
+bigotedness 1
 bacchanalianly 1
 bedpad
 beetfly
