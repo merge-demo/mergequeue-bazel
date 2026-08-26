@@ -7336,7 +7336,7 @@ boatswain 3
 bootstrapping 2
 bunglers 1
 bacteririum
-balaenoptera
+balaenoptera 1
 bocklogged 2
 bullidae 1
 bilbies
