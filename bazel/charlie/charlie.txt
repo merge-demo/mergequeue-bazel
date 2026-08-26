@@ -18942,7 +18942,7 @@ coadaptation
 collarless 1
 collate 1
 collatee
-collaterality
+collaterality 1
 curari
 chuchona
 chaperon 1
