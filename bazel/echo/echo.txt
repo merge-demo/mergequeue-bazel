@@ -2814,7 +2814,7 @@ ensnarling 2
 elenchi
 elenchic 2
 elves 1
-elenchize
+elenchize 1
 ecthlipsis
 eath 1
 endamask
