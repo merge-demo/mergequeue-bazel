@@ -23459,7 +23459,7 @@ antidictionary 2
 apomict 2
 augend
 adversity
-antiantidote
+antiantidote 1
 aquiform 1
 arsenillo 1
 augends 3
