@@ -4807,7 +4807,7 @@ ausones
 aspermatism 1
 aeroballistic 1
 aerobate
-aerobatic
+aerobatic 1
 arsenism
 azalea 1
 anthropolater 1
