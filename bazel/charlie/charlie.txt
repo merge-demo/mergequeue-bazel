@@ -31323,7 +31323,7 @@ conceivably 1
 cured
 clarinos
 cornix
-cureless
+cureless 1
 corypha
 curelessness 2
 coadjument
