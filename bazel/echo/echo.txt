@@ -35,7 +35,7 @@ ear
 endosporia
 enumerated 3
 estimableness
-epidemiological
+epidemiological 1
 electrothermic 1
 eloping
 erroneously 2
