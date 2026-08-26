@@ -11821,7 +11821,7 @@ bodybending 2
 bodybuilder 3
 betrinket
 birthing 1
-bard
+bard 1
 briareus 2
 browbeater
 bootlegging 1
