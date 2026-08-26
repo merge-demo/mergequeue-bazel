@@ -10852,7 +10852,7 @@ chipewyan
 chiplet
 culvert
 chipmunk 1
-claviharp
+claviharp 1
 chipmunks
 chrysochrous
 chipolata 1
