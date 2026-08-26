@@ -10945,7 +10945,7 @@ diallist 1
 deuterocone
 dispenses
 disforestation 2
-doublethinking
+doublethinking 1
 dorsoradial 1
 digressions 1
 disadvance 2
