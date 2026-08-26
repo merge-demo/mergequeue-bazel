@@ -9934,7 +9934,7 @@ belsire 1
 bipropellant 1
 bikes 1
 bituminosis 2
-biologically 3
+biologically 4
 bennettitaceae 1
 bravas 2
 boree
