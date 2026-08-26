@@ -6518,7 +6518,7 @@ boson
 bartramiaceae 2
 bactericidin 3
 buckeyes
-bequests
+bequests 1
 beray
 buster 3
 bushelful 1
