@@ -6439,7 +6439,7 @@ des 2
 dispensative
 desensitized
 drudgeries
-downwards
+downwards 1
 disinfection 1
 desaccharification
 defalcation 2
