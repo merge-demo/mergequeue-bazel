@@ -4927,7 +4927,7 @@ chobdar
 chondriosomes
 cesarean
 circumambages
-cartelist
+cartelist 1
 costars 1
 cartelistic 3
 cupeling 1
