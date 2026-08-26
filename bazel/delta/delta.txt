@@ -12417,7 +12417,7 @@ desecate
 disheriting 3
 deforms 1
 declivate 2
-dishevelled
+dishevelled 1
 dishevelling 1
 delomorphic 1
 dismissingly 2
