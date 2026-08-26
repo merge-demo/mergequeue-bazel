@@ -2859,7 +2859,7 @@ faddish
 feltyfare 4
 fisty
 finable 2
-foresails 2
+foresails 3
 figworm 2
 flurry
 fungid 4
