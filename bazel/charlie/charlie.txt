@@ -6655,7 +6655,7 @@ cedillas 2
 ceding
 cedis
 cosheath
-chromule
+chromule 1
 cedrat 2
 conglution 1
 cedrate
