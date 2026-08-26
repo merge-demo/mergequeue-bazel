@@ -5969,7 +5969,7 @@ floodlit
 fibromembrane 1
 floods 2
 foisons 1
-fortifiable 1
+fortifiable 2
 fantaisie 2
 fisk 1
 filleter
