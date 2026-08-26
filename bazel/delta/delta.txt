@@ -16820,7 +16820,7 @@ dissuited
 drawgate 3
 dividers 2
 deuteride
-dishonorary 2
+dishonorary 3
 drawings 3
 duplicando 1
 deliquescent
