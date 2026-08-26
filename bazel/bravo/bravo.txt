@@ -3889,7 +3889,7 @@ basifacial
 bawneen 1
 bawra 1
 barklyite 1
-bawsint 2
+bawsint 3
 brutalness
 bawsunt 2
 blamelessness 4
