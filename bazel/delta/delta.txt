@@ -2809,7 +2809,7 @@ decresc 1
 desalination 1
 delphinus 1
 duodecahedron
-decrescent 2
+decrescent 3
 deknight 2
 decretalist 1
 despumating 2
