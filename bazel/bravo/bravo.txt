@@ -9618,7 +9618,7 @@ brince 1
 bishopdom 2
 baptists 1
 bilateral 2
-bishopling
+bishopling 1
 biol 1
 bishopstool
 bishopweed 2
