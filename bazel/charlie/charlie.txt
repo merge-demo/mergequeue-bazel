@@ -15376,7 +15376,7 @@ clapboarding 2
 cleidomastoid
 clapboards 1
 clapcake 1
-chortled
+chortled 1
 coran
 caulkings 2
 clapdish
