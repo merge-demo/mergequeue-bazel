@@ -14609,7 +14609,7 @@ desulfovibrio 1
 disillusionary 2
 diarrheas 3
 duodenectomy 1
-drevel
+drevel 1
 dibucaine
 dialogued
 debag
