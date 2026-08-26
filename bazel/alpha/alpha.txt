@@ -2318,7 +2318,7 @@ acidosteophyte
 arecuna 1
 aul
 acids
-acidulant
+acidulant 1
 acidulate 1
 acidulated
 azuline 3
