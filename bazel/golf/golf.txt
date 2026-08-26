@@ -7571,7 +7571,7 @@ glucolysis 1
 gruntle 2
 geophyte 3
 gamash
-gowdnie
+gowdnie 1
 goalie 1
 gaspiness 3
 grangeriser 3
