@@ -3056,7 +3056,7 @@ fetichize 1
 forceput 1
 fibred 1
 fibrefill 4
-fenestra
+fenestra 1
 fasciolidae 5
 foursquare
 fishier 3
