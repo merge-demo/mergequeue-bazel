@@ -13563,7 +13563,7 @@ exsolving 4
 epochs 1
 exposedness
 energies 1
-ebeneous 1
+ebeneous 2
 exsudate 2
 extumescence 1
 ectadenia
