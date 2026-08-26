@@ -23035,7 +23035,7 @@ collapsibility 1
 conscriptive
 cutty
 consonate
-consonous
+consonous 1
 coemption
 callused 2
 counteradvantage
