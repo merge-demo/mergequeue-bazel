@@ -20342,7 +20342,7 @@ commutability
 commutable
 canada
 conjee 1
-commutant 1
+commutant 2
 commutated
 commutation
 commutatively
