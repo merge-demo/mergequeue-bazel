@@ -15229,7 +15229,7 @@ bulbospinal 2
 bricklike 1
 beclose 2
 blennoid 2
-backstrip
+backstrip 1
 bucketing 1
 balneal
 bestrewn 5
