@@ -3851,7 +3851,7 @@ codfishes
 combings 1
 carbonators 2
 cenobe
-chapeaux
+chapeaux 1
 carbondale
 coinsure
 contemplates
