@@ -9756,7 +9756,7 @@ dilatometrically 4
 dynamometers 2
 dcbname 1
 dilatoriness 1
-daypeep
+daypeep 1
 denaturiser 1
 dreamingly
 decence 1
