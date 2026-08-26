@@ -2416,7 +2416,7 @@ doodads
 dispelled
 donny 2
 dripstick
-disaffects
+disaffects 1
 decima
 decimalism 1
 dueling 1
