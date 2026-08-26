@@ -4207,7 +4207,7 @@ apepsy 4
 acroparalysis 3
 ador
 adorable
-ablegate
+ablegate 1
 amicrobic
 archimperialistic
 aphididae
