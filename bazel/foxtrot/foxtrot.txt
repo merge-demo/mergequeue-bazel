@@ -9933,7 +9933,7 @@ freckled 3
 fa 2
 frigage 1
 frigates 5
-flocculated
+flocculated 1
 flavin 1
 frightens 1
 fontes 1
