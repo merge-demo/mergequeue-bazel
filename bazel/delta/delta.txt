@@ -8538,7 +8538,7 @@ diapedetic 1
 daggletailed
 diplomatized
 diapente
-dehydrofreeze
+dehydrofreeze 1
 diet 1
 diaper 1
 dyschromatopsia
