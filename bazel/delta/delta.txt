@@ -12982,7 +12982,7 @@ despisal
 dimout 1
 dauntless 1
 depredicate
-darya
+darya 1
 dinoceratidae
 disorganization 2
 dinning
