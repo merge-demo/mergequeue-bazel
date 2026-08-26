@@ -31850,7 +31850,7 @@ cutlers
 cutlet
 cashable 1
 cutline 1
-continually
+continually 1
 cunts 2
 currycombed
 cutlings
