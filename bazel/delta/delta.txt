@@ -14550,7 +14550,7 @@ distill
 divisional 1
 diachronicness 1
 durio
-divisionary
+divisionary 1
 duplicately
 disposing 2
 domine 2
