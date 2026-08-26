@@ -10084,7 +10084,7 @@ chessom
 claves 1
 chesstree 1
 cerias 1
-chest
+chest 1
 curing
 chesterfield 1
 chesterfieldian 1
