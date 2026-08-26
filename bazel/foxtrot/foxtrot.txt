@@ -11381,7 +11381,7 @@ furnaces 3
 ferromagneticism
 flashlamp 1
 furnariides 1
-flect 2
+flect 3
 facies
 furnish 5
 fluorindine 5
