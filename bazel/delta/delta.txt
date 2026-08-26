@@ -1907,7 +1907,7 @@ depravity 2
 debride
 dallas
 deodorant
-deciphers
+deciphers 1
 debriefing
 dowser 1
 danzig 1
