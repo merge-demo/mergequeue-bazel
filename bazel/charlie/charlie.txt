@@ -13226,7 +13226,7 @@ cyclizes
 cauld 1
 coulometric
 crossrail
-cycloaliphatic
+cycloaliphatic 1
 cycloalkane 1
 cyclobothra 1
 carmakers
