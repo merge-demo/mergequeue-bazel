@@ -3212,7 +3212,7 @@ everything 1
 extruding 1
 embioptera
 efficaciousness 1
-errability
+errability 1
 epiparasite
 ethanedial 3
 else 4
