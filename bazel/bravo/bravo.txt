@@ -8498,7 +8498,7 @@ baronne 1
 birch 2
 butyryl 3
 bearhound
-bisections
+bisections 1
 biliteral
 baywood 3
 brownistical 1
