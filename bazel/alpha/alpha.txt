@@ -18250,7 +18250,7 @@ arabians
 armor
 andarko 1
 amity 1
-arabica 1
+arabica 2
 aerogel 1
 accentuator 2
 achromous
