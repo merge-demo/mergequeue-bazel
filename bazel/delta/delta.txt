@@ -17108,7 +17108,7 @@ defectiveness 1
 deceleron 1
 decarchies
 drifty 3
-driftingly
+driftingly 1
 driftless
 driftlessness 1
 drepanium
