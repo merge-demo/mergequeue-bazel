@@ -6701,7 +6701,7 @@ grint 5
 gibbet 3
 gulae 3
 gobmouthed
-growable 2
+growable 3
 gromatic 1
 gibbergunyah 1
 gymnosperm
