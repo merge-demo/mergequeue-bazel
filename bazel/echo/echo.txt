@@ -7322,7 +7322,7 @@ electro
 eumitosis 1
 epochism 2
 escalier 4
-exception
+exception 1
 epalpebrate
 eurypylous 1
 eternises
