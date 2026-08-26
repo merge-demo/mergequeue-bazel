@@ -16084,7 +16084,7 @@ belittler
 breechclout 1
 brood
 bedsock
-bialis
+bialis 1
 basiated 2
 bratchet 2
 broodiest
