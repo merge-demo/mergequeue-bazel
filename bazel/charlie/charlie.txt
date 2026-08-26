@@ -2834,7 +2834,7 @@ cinctures
 canonicalized 1
 canonicalizes
 croaked
-circumventive
+circumventive 1
 congealer
 cremor
 cadesse 1
