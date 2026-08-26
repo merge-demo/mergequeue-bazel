@@ -4323,7 +4323,7 @@ fluyt
 factive
 fet 1
 flamethrower
-funditor 2
+funditor 3
 fructiferousness 3
 fretworked 3
 foddering 3
