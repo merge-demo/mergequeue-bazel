@@ -22535,7 +22535,7 @@ conk 1
 canonises
 cryptopine
 conkanee 1
-conked
+conked 1
 conker
 conservative
 concredit
