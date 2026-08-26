@@ -777,7 +777,7 @@ asyle 2
 acetate
 abrico 1
 autostrada 1
-abridgable
+abridgable 1
 anticlassicalist 2
 anisotropical
 antiscia
