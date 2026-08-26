@@ -12240,7 +12240,7 @@ disfurnish 1
 deport 1
 disfurnished 1
 dangerless
-desulfurating 1
+desulfurating 2
 deathshot 3
 dervishes
 disfurniture 1
