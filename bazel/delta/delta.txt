@@ -14481,7 +14481,7 @@ dihelios
 decoupling
 delly 1
 deckhouse
-degauss
+degauss 1
 diphyzooid 2
 decapitating 2
 devitaminize
