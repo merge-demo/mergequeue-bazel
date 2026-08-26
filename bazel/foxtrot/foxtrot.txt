@@ -5993,7 +5993,7 @@ floorcloths
 fumid 1
 fluidizing
 folkways 3
-foreplays
+foreplays 1
 fawny 3
 fluidrachm 3
 fidia 4
