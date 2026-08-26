@@ -11282,7 +11282,7 @@ conservation 2
 chloroamide 1
 chloroamine
 chloroaurate 1
-chloroaurite
+chloroaurite 1
 chlorobenzene
 centripetency
 chlorocalcite
