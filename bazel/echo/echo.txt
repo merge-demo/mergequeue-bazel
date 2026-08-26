@@ -801,7 +801,7 @@ euplotid
 existability 1
 extravisceral
 evincibly
-eggment
+eggment 1
 electrophotography
 ectasis 1
 endothia 1

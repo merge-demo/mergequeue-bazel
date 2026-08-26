@@ -15558,7 +15558,7 @@ arnattos
 antimonid 3
 airampo 2
 alguacil 3
-antilapse
+antilapse 1
 analyzable 1
 areopagist 1
 anthropophagi 1
