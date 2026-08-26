@@ -10487,7 +10487,7 @@ fervencies 2
 floggable 2
 felsosphaerite 3
 frostroot 2
-floe 1
+floe 2
 freshment 1
 frillery
 favouringly
