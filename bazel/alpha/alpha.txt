@@ -19256,7 +19256,7 @@ arecoline 1
 ared 1
 airbuses
 arefact 4
-areg
+areg 1
 areic 2
 armchair
 arena 1
