@@ -7129,7 +7129,7 @@ ectosphenotic 2
 edicts 1
 engaud
 enemy
-exported 2
+exported 3
 entices
 epiplexis
 extrabranchial 2
