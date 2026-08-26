@@ -6205,7 +6205,7 @@ frequency
 flagmaker 4
 furbished 2
 fibroareolar
-farfetched
+farfetched 1
 flisked 4
 fakeries 2
 fairest
