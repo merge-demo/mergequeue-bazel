@@ -17494,7 +17494,7 @@ cobleskill 1
 cobloaf 3
 cobola
 ceratectomy 2
-crucifyfying 1
+crucifyfying 2
 contriving
 coboss
 chitarrone 1
