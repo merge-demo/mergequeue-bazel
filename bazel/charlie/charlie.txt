@@ -15869,7 +15869,7 @@ compends 1
 cleeking
 clef 1
 cassinese
-chesterfields
+chesterfields 1
 chronomancy 1
 cleft 1
 cleidagra
