@@ -3091,7 +3091,7 @@ flitter
 flakeboard 3
 foreboot
 fillmass 2
-fibrinose 1
+fibrinose 2
 fibrinosis 1
 feringi
 felineness
