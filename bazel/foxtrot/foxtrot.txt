@@ -4426,7 +4426,7 @@ fetters 1
 fl 1
 frenches
 folkmotes 2
-feulamort
+feulamort 1
 farand 2
 forfeit 1
 footpick
