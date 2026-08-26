@@ -4387,7 +4387,7 @@ flybook 2
 fixion 3
 fishboats 3
 fonduk
-fishbolts
+fishbolts 1
 flechette
 funt 2
 floorshifts 1
