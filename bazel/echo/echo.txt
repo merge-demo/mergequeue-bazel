@@ -9495,7 +9495,7 @@ escout
 enstore 1
 equipondious
 escry 1
-escribientes 1
+escribientes 2
 escrime 2
 eschatologically 2
 embryoferous 4
