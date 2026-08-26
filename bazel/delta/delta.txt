@@ -12929,7 +12929,7 @@ dilatableness
 disodium 4
 daunii
 disdiazo 1
-downswing
+downswing 1
 dowment 3
 deniability
 dimensionless
