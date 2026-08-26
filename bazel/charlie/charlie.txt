@@ -8,7 +8,7 @@ caba 2
 cires 1
 chorionic 1
 cajaput
-craniopharyngioma
+craniopharyngioma 1
 complanate 1
 cabaho
 cabal
