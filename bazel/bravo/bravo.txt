@@ -15451,7 +15451,7 @@ brills 1
 baculites
 bigothero
 banns 1
-brimfullness
+brimfullness 1
 brongniardite
 blazon 4
 brodeglass 1
