@@ -5026,7 +5026,7 @@ escalop 2
 encapsule 1
 enfoncee 1
 encamp
-erogeneity 1
+erogeneity 2
 eggplants
 epithelioblastoma 1
 endogastric 1
