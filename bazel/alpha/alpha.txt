@@ -2916,7 +2916,7 @@ advisive
 aerobatics 1
 albugineous 1
 acrostical
-acrostichoid
+acrostichoid 1
 acrostichum
 adoptianism
 afterrider
