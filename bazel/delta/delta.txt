@@ -11425,7 +11425,7 @@ dissuader 4
 demivotary
 determinoid
 debug 1
-discloser
+discloser 1
 disclosive 1
 disclosure
 diplomaed
