@@ -10236,7 +10236,7 @@ fadedness
 fibrillations 6
 flakers 3
 frond
-fluxmeter 3
+fluxmeter 4
 finickingness 2
 frust 1
 fgrid
