@@ -2131,7 +2131,7 @@ gazeboes 1
 guestship 1
 genderless 2
 gen 1
-glumiferous 1
+glumiferous 2
 galla 4
 globosity
 gaudete 2
