@@ -2550,7 +2550,7 @@ cerevis 1
 candler
 candlerent 2
 concealed 1
-candlers
+candlers 1
 casework 1
 collaborated
 candleshine
