@@ -4262,7 +4262,7 @@ escambio 1
 emulousness 4
 eaux 1
 eumeristic 2
-expolish
+expolish 1
 expendible 4
 expressways 1
 equidiagonal 2
