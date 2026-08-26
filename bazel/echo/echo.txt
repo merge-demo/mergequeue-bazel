@@ -3969,7 +3969,7 @@ emotionize
 eugregarinida
 epimeron
 emolument 1
-elevator
+elevator 1
 emotivity 1
 epileptology 1
 exorability 2
