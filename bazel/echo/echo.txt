@@ -5939,7 +5939,7 @@ ephemeron 1
 excursive
 exclave 1
 eftest 1
-ethmonasal 1
+ethmonasal 2
 enheart 1
 enhearten 2
 echinoderes 1
