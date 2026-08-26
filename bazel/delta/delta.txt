@@ -4299,7 +4299,7 @@ draggletail 1
 delver 2
 dernful 2
 disannexation
-demasculinise
+demasculinise 1
 divisors 1
 deadening 2
 dermophytic
