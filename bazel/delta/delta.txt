@@ -15718,7 +15718,7 @@ dorbugs
 defeatist
 dorcastry 3
 diadermic
-doucet
+doucet 1
 doria 1
 demiturned 1
 disgig 1
