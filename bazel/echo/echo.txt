@@ -11452,7 +11452,7 @@ evetide 1
 extirpating 1
 encipherment 2
 ethanim 1
-elucidation
+elucidation 1
 engraving 2
 evocated
 ectonephridium
