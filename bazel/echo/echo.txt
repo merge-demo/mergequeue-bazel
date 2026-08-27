@@ -12241,7 +12241,7 @@ eternalization
 equipment 1
 epanalepsis
 exocyclica
-eclogue
+eclogue 1
 executress 1
 elshin 2
 exsurge
