@@ -22393,7 +22393,7 @@ aspartyl
 abohm 1
 autoaspiration
 astrograph
-astrographer
+astrographer 1
 assemblywomen 1
 aldehydes
 augites
