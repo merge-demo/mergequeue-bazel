@@ -17,7 +17,7 @@ jobs:
     name: Dynamic CI Filter
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request' || github.event_name == 'push'
     outputs:
       test: ${{ steps.ci-filter.outputs.test }}
     steps:
