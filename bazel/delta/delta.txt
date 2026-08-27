@@ -16618,7 +16618,7 @@ dragonroot 1
 dilutant
 detesting 3
 dragonwort
-dabber
+dabber 1
 dedolent
 dadouchos 1
 desoxyribonuclease
