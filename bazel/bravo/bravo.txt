@@ -12648,7 +12648,7 @@ bedunch 1
 blueth
 boodled 1
 braccia 1
-bestowable
+bestowable 1
 boogeymen 1
 bane
 bellical
