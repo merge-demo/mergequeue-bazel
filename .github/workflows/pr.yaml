@@ -2,9 +2,7 @@ name: PR Testing
 run-name: PR Checks for ${{ github.ref_name }}
 on:
   pull_request: {}
-  push:
-    branches:
-      - trunk-merge/**
+  push: {}
 
 # Concurrency group so we can detect duplicate runs (pull_request + push for same branch).
 # We do not cancel in progress - the duplicate run will skip so MQ doesn't see a failure.
