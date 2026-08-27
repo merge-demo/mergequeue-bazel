@@ -4182,7 +4182,7 @@ distinct 1
 deserter 1
 dyspneic 2
 deceptibility 4
-deinsularize
+deinsularize 1
 depopulations 2
 decylenic 1
 delocalised 1
