@@ -9299,7 +9299,7 @@ foregoers 3
 foremost 1
 fabrikoid 2
 fruticeta 2
-flukey
+flukey 1
 forsado
 fluidise 3
 faulting
