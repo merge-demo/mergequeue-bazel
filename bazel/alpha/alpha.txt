@@ -9475,7 +9475,7 @@ antilocapridae
 ambilateral 1
 annotatory
 arabia 2
-allochetite
+allochetite 1
 alternate
 alternated
 alternately
