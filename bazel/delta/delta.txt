@@ -4062,7 +4062,7 @@ delicatessen
 dynam
 dustoor
 dominance 1
-delice
+delice 1
 dualistic 1
 dogcarts 2
 delicense 4
