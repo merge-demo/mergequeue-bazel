@@ -9402,7 +9402,7 @@ chaws 2
 chawstick
 catering 1
 citoyen
-clickless
+clickless 1
 chazan
 chazanim 1
 capette
