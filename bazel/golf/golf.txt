@@ -3587,7 +3587,7 @@ gausses 2
 gharnao
 glossa
 gambolled 1
-goniaster
+goniaster 1
 gnomelike 1
 gregarinaria 2
 gavial 2
