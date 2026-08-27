@@ -9290,7 +9290,7 @@ alongships
 alongshore 1
 archbishops 1
 alemana 1
-alongshoreman 2
+alongshoreman 3
 autonetics
 antisymmetric
 aloose 1
