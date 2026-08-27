@@ -15641,7 +15641,7 @@ broaches 3
 blimpishness 1
 burgundies 1
 batterable 1
-buffone
+buffone 1
 barrenest 1
 bulkheads
 burred 1
