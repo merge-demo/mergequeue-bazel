@@ -13019,7 +13019,7 @@ downlike
 dromiceiidae 1
 deliria
 diotrephes
-dopiness
+dopiness 1
 disparity
 disruptability 1
 dithecous 1
