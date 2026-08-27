@@ -14125,7 +14125,7 @@ auletrides
 antennariid 1
 antennariidae
 antennate
-antennifer
+antennifer 1
 antefixes
 acraturesis
 antennula 2
