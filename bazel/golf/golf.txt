@@ -3774,7 +3774,7 @@ garrafa
 gapping 1
 gastroesophagostomy 3
 gunong 2
-grincome
+grincome 1
 giantsize
 gaub 4
 gonging 1
