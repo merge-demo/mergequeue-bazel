@@ -5270,7 +5270,7 @@ denseness
 dorsel 2
 depauperized 1
 densify 1
-disqualifications
+disqualifications 1
 didelphic
 desmodactyli
 dengue
