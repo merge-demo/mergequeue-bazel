@@ -16308,7 +16308,7 @@ discredits 2
 dispeace
 downriver 1
 defended
-downshift
+downshift 1
 downshifted 1
 downshore
 dephlegmatize 2
