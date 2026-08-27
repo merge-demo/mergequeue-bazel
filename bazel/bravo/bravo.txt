@@ -2489,7 +2489,7 @@ bhut
 bedark
 barocco 1
 brachyoura 1
-barge
+barge 1
 bergere
 bult 1
 bargelike 1
