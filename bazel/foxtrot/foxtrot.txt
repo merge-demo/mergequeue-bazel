@@ -10742,7 +10742,7 @@ footrope 4
 fleeing
 flagstaves 3
 flirter 2
-fletches 2
+fletches 3
 forgotten 1
 frustum 3
 frutage 3
