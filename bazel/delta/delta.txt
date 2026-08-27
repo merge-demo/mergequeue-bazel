@@ -6383,7 +6383,7 @@ disassociation 1
 dorsiventral 4
 dielec
 derodidymus 1
-derog 1
+derog 2
 demeanour 1
 doronicum
 despond 2
