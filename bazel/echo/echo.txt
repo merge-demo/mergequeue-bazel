@@ -666,7 +666,7 @@ estheses
 eclipse 1
 exudative 1
 eclipsed 2
-equivocacy
+equivocacy 1
 eclipses 2
 eudaemonistic 2
 ephraimitic 1
