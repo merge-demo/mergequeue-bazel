@@ -7901,7 +7901,7 @@ foresail 3
 feuilletonistic 3
 fasten 2
 fork 4
-floes
+floes 1
 fetticus 3
 forewarned
 feiseanna 2
