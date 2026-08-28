@@ -11094,7 +11094,7 @@ extravasation 1
 endosporium 2
 eurytus
 engagedness
-enlisted
+enlisted 1
 electrocapillary
 evangelisation 2
 energized
