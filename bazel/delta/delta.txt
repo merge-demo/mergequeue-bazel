@@ -18169,7 +18169,7 @@ depositaries
 dynamicity 2
 dumpoke 2
 deltohedra 1
-dumps
+dumps 1
 dissective 1
 dumsola
 disdiaclastic
