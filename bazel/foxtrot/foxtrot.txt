@@ -2032,7 +2032,7 @@ flosses 1
 feigns 3
 fidleys 3
 flitch 1
-farouche
+farouche 1
 frogmouth 1
 fourpounder 1
 ferngrower
