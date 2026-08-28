@@ -4189,7 +4189,7 @@ cardiorenal
 cardiorespiratory 2
 cardiorrhaphy 1
 cardiorrheuma
-cardiospermum
+cardiospermum 1
 celts
 cardiosphygmogram
 cardiosphygmograph
