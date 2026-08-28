@@ -5566,7 +5566,7 @@ catalepsis 1
 catalexes 1
 catalexis 1
 catalin
-curule
+curule 1
 cauponation
 coxing 1
 contentful
