@@ -11270,7 +11270,7 @@ continuities 1
 chloritization
 chloritize
 culicid
-chlorize
+chlorize 1
 cynocephalus 1
 chesterbed
 ceresin
