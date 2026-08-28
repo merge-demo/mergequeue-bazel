@@ -10914,7 +10914,7 @@ absolution 1
 amosite 2
 anhydric
 availably 1
-airtight
+airtight 1
 amnions
 assurors 1
 amnios
