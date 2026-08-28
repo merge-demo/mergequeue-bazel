@@ -9102,7 +9102,7 @@ glairiness 1
 garishness 2
 gherkin 1
 gentlehood 4
-grinch 1
+grinch 2
 goldwork 2
 geoid
 garotte
