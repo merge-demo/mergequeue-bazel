@@ -19366,7 +19366,7 @@ colorant
 colorants 1
 colorate
 coloration
-colorational
+colorational 1
 colorative
 centrifugally
 condemnably
