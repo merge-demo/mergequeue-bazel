@@ -8073,7 +8073,7 @@ ego 4
 ektodynamorphic 2
 endamebic
 earthworks 2
-epineural
+epineural 1
 euphrasy 2
 exosporal 1
 empeopled
