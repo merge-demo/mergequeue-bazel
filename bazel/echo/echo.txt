@@ -1288,7 +1288,7 @@ epinephrin
 eq 2
 eeriness 2
 ecostate 2
-epithalamion 2
+epithalamion 3
 encircler 3
 endogenesis 1
 eassel 2
