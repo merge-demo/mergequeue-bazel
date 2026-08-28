@@ -15861,7 +15861,7 @@ dishumor 1
 dorsoscapular 4
 dozen
 dorsothoracic
-diablotin
+diablotin 1
 discoursed 4
 dialdehyde 1
 dismalize 3
