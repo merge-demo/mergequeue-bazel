@@ -10291,7 +10291,7 @@ fanged
 fingerings 1
 frazed 2
 fluormeter 2
-ferrates
+ferrates 1
 farnesses 2
 factor 1
 frenziedness 3
