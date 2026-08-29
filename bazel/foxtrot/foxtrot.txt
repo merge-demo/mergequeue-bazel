@@ -1002,7 +1002,7 @@ fucuses 2
 foreplan 1
 formate 1
 foreorder
-fenester 1
+fenester 2
 flustrating
 factorability 4
 forweend
