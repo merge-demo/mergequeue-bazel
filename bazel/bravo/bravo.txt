@@ -12464,7 +12464,7 @@ bondminder 2
 bookroom
 bawdrick
 bierbalk 2
-bondship 1
+bondship 2
 bondsman 1
 blueys 1
 braeman
