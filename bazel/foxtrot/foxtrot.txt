@@ -8363,7 +8363,7 @@ fightable 2
 forking
 flaveria
 forkless 2
-freedoms 2
+freedoms 3
 formicative 1
 forklift 1
 flebile 2
