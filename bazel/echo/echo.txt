@@ -6056,7 +6056,7 @@ endosarcs
 expire 2
 ere 3
 epiglottises 7
-enkindles
+enkindles 1
 edginess 1
 epiphytotic
 entrepreneuses 1
