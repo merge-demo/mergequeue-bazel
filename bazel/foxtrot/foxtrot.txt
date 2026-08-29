@@ -5406,7 +5406,7 @@ fusarole 1
 fennel 1
 friending 1
 frigefact
-futurity
+futurity 1
 fleabiting 3
 fledgeling
 fiendhead 2
