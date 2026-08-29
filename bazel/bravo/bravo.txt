@@ -12561,7 +12561,7 @@ bardane
 bonk 1
 begrudging 1
 bagpiping 1
-bonne
+bonne 1
 bubbly
 bonnet 1
 brachelytra 1
