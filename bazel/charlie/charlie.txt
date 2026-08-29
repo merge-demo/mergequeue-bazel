@@ -28109,7 +28109,7 @@ cranic 4
 circaeaceae 2
 craniectomy
 cled
-caput
+caput 1
 craniniums 1
 craniocele
 cachetic 2
