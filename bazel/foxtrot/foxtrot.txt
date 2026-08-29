@@ -7903,7 +7903,7 @@ fasten 2
 fork 4
 floes 1
 fetticus 3
-forewarned
+forewarned 1
 feiseanna 2
 featherworker 3
 foresee 3
