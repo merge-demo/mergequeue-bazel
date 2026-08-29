@@ -13494,7 +13494,7 @@ berlinize 2
 bangboard 3
 botulinus 1
 bottu 2
-billable 1
+billable 2
 botulinuses
 boggles 1
 botulism
