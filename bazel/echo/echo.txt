@@ -8689,7 +8689,7 @@ equipotential 1
 externalize 1
 exconjugant
 endostyle 1
-epicoeliac
+epicoeliac 1
 epulotic 1
 equiprobably 1
 equiproportional 4

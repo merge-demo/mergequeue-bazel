@@ -3231,7 +3231,7 @@ giron 2
 gluttons 2
 girtonian 1
 gap 1
-ghosty
+ghosty 1
 gilgul 4
 goldenwing 3
 galoot 3
