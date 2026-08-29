@@ -1837,7 +1837,7 @@ gemmiparity 2
 guinean 2
 gullah 4
 gingiva 2
-gatekeeper
+gatekeeper 1
 grizel
 grassy 1
 glummer 3
