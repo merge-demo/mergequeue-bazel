@@ -16842,7 +16842,7 @@ botchiness
 borderless 2
 buffeters 1
 bistros 1
-bubalises 2
+bubalises 3
 bietle 1
 bucketman 2
 black 2
