@@ -8244,7 +8244,7 @@ epipharyngeal
 exonerates 2
 epistatic 1
 empyrosis 2
-episodial
+episodial 1
 epistaxis 2
 epistemically 1
 enjoyingly
