@@ -26729,7 +26729,7 @@ cartelization
 counterbattery 1
 counterbend
 calamitously 2
-cubicles
+cubicles 1
 counterblast
 counterborder 1
 counterbored
