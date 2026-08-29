@@ -20281,7 +20281,7 @@ chemopallidectomy 1
 cashiers 2
 catamnesis
 cytostroma
-communicability
+communicability 1
 communicable 1
 chansons
 communicant
