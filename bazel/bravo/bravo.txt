@@ -18240,7 +18240,7 @@ bugproof
 battles 1
 batik 2
 bacteraemia
-bases 2
+bases 3
 bioreaction
 bocci
 butteryfingered 1
