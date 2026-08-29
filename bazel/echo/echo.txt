@@ -1764,7 +1764,7 @@ emule 1
 exhbn 2
 epigraphic 3
 eutony
-eyes
+eyes 1
 ewhow 3
 encasing 1
 eyeseed 3
