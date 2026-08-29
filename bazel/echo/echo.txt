@@ -4981,7 +4981,7 @@ enthronise 2
 exigenter 1
 entoplastron 1
 endeavourer 1
-encouragement
+encouragement 1
 enstamp
 endeavouring 1
 egression 2
