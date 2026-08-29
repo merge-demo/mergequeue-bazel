@@ -12963,7 +12963,7 @@ emictory 2
 exodoi 2
 exclusion 2
 equipartile
-epicyclical
+epicyclical 1
 excommunicated
 expected 2
 eucharises 1
