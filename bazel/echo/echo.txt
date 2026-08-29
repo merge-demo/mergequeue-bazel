@@ -4380,7 +4380,7 @@ exotically 2
 embrasure 2
 enantiomorph 2
 encratic 3
-equinovarus
+equinovarus 1
 electrolyzer 2
 encephalosclerosis 3
 evisite 1
