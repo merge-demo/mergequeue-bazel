@@ -3500,7 +3500,7 @@ fordays 2
 floorhead 2
 formuliser 1
 forpined 3
-finnic
+finnic 1
 fluctuated 2
 fended 1
 federary 1
