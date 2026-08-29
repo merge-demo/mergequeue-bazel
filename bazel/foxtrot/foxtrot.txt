@@ -11166,7 +11166,7 @@ felspar
 fungibility
 fadeout 1
 fideists 1
-fungicidal 3
+fungicidal 4
 fungicidally 2
 fungicides 4
 fungicolous 2
