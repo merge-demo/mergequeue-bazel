@@ -12110,7 +12110,7 @@ chows
 causer
 crambo 1
 chancellorate
-cursiveness
+cursiveness 1
 chowses
 chowtime 1
 cephalocele
