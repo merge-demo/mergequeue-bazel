@@ -8305,7 +8305,7 @@ epithalline 2
 elastase 2
 einstein 1
 earthwards 1
-electropuncturation
+electropuncturation 1
 ecumenicality
 embryonated 1
 eluxate 2
