@@ -13101,7 +13101,7 @@ ceros 1
 cibory 1
 ciboules 1
 cyc
-cicad
+cicad 1
 cycadaceae
 canopied
 crimpiest
