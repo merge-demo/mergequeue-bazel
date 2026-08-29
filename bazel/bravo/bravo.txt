@@ -9652,7 +9652,7 @@ bisk
 bisks 1
 bysmalith 1
 bismark
-boulder
+boulder 1
 baltimorean
 bladed
 besmiles 3
