@@ -10000,7 +10000,7 @@ editor
 enteropexy 2
 efford 3
 ethnotechnography 1
-etching
+etching 1
 electrotest
 eteostic 2
 elemicin 3
