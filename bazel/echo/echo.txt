@@ -12563,7 +12563,7 @@ enherit
 entryman 3
 elkdom 1
 eft 1
-eucosia 3
+eucosia 4
 exmeridian
 endorphin
 exoascaceous 4
