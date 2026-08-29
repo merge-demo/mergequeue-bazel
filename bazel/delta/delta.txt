@@ -4298,7 +4298,7 @@ dissemble
 draggletail 1
 delver 2
 dernful 2
-disannexation
+disannexation 1
 demasculinise 1
 divisors 1
 deadening 2
