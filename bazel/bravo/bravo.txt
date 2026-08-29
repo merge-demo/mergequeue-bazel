@@ -7556,7 +7556,7 @@ bewary
 bewaste 1
 beweary 1
 besottedness 2
-botflies
+botflies 1
 brainworker
 banagos 1
 beweeper 2
