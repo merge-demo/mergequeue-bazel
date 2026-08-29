@@ -20521,7 +20521,7 @@ arteriospasm
 arteriostenosis
 admix 1
 arteriotrepsis 1
-agyria
+agyria 1
 amman 3
 androscoggin 3
 antilytic 2
