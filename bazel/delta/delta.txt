@@ -18473,7 +18473,7 @@ decals 3
 dermatophony 1
 devastavit 1
 dipterous
-diose
+diose 1
 dislocation 2
 dupped 3
 dyschronous
