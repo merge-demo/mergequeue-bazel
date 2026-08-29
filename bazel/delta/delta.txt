@@ -12736,7 +12736,7 @@ defectoscope
 dislluminate 1
 dubbings 3
 difference
-dislocability 1
+dislocability 2
 dosimetry
 dustcloth
 dehydratase 2
