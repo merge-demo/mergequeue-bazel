@@ -16160,7 +16160,7 @@ bilobate 1
 ban
 bloodstain 4
 bins 1
-brotel
+brotel 1
 brothe
 breves
 boneflower
