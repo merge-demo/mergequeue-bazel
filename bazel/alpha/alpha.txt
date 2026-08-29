@@ -24019,7 +24019,7 @@ antapocha 2
 antiproton
 align 2
 acetobacter 2
-autoclave
+autoclave 1
 allemands
 autoclaving 2
 aspheric
