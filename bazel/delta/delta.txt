@@ -2499,7 +2499,7 @@ dulls 1
 diatropism 1
 deferral 3
 duds 2
-dishonourary
+dishonourary 1
 declaim
 dichorisandra 1
 dresser 1
