@@ -13193,7 +13193,7 @@ echinopsine 1
 eyrar
 expiration
 exponentiation
-epaxial
+epaxial 1
 exotica
 eremophyte 1
 emmantle
