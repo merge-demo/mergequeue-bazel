@@ -11224,7 +11224,7 @@ defendable 1
 disboweling 1
 dolomitization 1
 disbowelled
-disbranch
+disbranch 1
 duffies
 disbranched 2
 dogbush
