@@ -7558,7 +7558,7 @@ beweary 1
 besottedness 2
 botflies
 brainworker
-banagos
+banagos 1
 beweeper 2
 beneficent 1
 beweeps 1
