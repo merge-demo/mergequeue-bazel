@@ -28298,7 +28298,7 @@ craterkin
 chromites
 craterless
 craterlet 1
-craterlike
+craterlike 1
 covariance 1
 cheepily
 copywise
