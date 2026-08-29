@@ -15723,7 +15723,7 @@ coy 2
 carlisle
 clavipectoral 1
 chips 1
-clavolet
+clavolet 1
 cumulonimbus
 chapel 2
 clawed 1
