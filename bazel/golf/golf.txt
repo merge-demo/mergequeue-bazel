@@ -972,7 +972,7 @@ genetically 1
 gamp 2
 graysby 1
 gastrolobium
-genre
+genre 1
 galliferous 1
 gilgamesh
 grouting
