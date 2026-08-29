@@ -11923,7 +11923,7 @@ hufnl 4
 hufns
 hufozvht 1
 hufqlghru 1
-hufr
+hufr 1
 hufrmlqwpsh 1
 hufswz
 huftdhevc
