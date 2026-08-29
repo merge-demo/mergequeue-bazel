@@ -9013,7 +9013,7 @@ angora 1
 allotypes 1
 annotates 1
 acidified
-anthroropolith
+anthroropolith 1
 angelon
 allineate
 annulata
