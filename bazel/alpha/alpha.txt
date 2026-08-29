@@ -7925,7 +7925,7 @@ antetype 1
 alemmal 1
 aeolia
 acidoproteolytic 1
-abiogenesist
+abiogenesist 1
 abasio
 alen
 alkaloidal 1
