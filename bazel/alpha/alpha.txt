@@ -5949,7 +5949,7 @@ atelorachidia 1
 anhaematopoiesis
 aerogeology
 amphithecial
-adit
+adit 1
 amazonstone 2
 apostacies
 aneurism 1
