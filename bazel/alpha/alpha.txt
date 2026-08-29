@@ -7697,7 +7697,7 @@ alcoholmetric
 acroter
 abaissed
 alcoholometer 2
-acidic
+acidic 1
 apterygial 2
 averroistic
 actualise
