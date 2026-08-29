@@ -5989,7 +5989,7 @@ flutebird 1
 floorboard
 fixures
 flashness 3
-floorcloths
+floorcloths 1
 fumid 1
 fluidizing
 folkways 3
