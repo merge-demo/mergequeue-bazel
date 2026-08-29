@@ -3759,7 +3759,7 @@ dehorner 1
 diplography
 dehorners
 desiredness 2
-dehorning
+dehorning 1
 disconcertingly 1
 developers
 disour 1
