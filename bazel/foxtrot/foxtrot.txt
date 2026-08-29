@@ -4754,7 +4754,7 @@ farcies
 feuillage 1
 fulldo 3
 flag 3
-forestalment 1
+forestalment 2
 flammiferous
 furloughing 3
 flagellariaceous 2
