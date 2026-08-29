@@ -17393,7 +17393,7 @@ dividual 1
 destool 1
 droppage 2
 diffraction 3
-decennia 2
+decennia 3
 didascaly 1
 direction 4
 disjoinable
