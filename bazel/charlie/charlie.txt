@@ -25811,7 +25811,7 @@ corrosives
 chironomy 1
 calcars 2
 corrosivity
-colophonate
+colophonate 1
 cinclidotus 2
 corrugant
 corrugate
