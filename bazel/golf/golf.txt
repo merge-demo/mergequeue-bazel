@@ -5122,7 +5122,7 @@ glycocholic 2
 gasless 1
 gascon 2
 glinting 2
-glaucidium
+glaucidium 1
 gainyield 1
 generalissima 1
 gandhist 1
