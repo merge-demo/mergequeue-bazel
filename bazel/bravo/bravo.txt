@@ -4200,7 +4200,7 @@ beatles
 backchain 3
 bellmen 2
 barometric 3
-brusquer 1
+brusquer 2
 beatnik 3
 beatrix 2
 bonging
