@@ -10425,7 +10425,7 @@ dismayingness 1
 diphasic 2
 diphenhydramine 1
 diacidic
-diphenylamine
+diphenylamine 1
 diphenylaminechlorarsine 4
 diervilla
 diphenylchloroarsine
