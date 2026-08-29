@@ -1213,7 +1213,7 @@ biscot
 bearhide 2
 balloting 1
 bakra 2
-bruchus
+bruchus 1
 backslid 1
 beds 1
 bittersweetness 1
