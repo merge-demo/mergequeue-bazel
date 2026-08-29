@@ -7541,7 +7541,7 @@ besmoothing 2
 bonitoes
 bibacity 1
 bevomiting 2
-briefer 1
+briefer 2
 bread 2
 bevvy
 bewailers 1
