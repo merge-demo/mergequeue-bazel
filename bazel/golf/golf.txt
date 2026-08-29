@@ -5923,7 +5923,7 @@ goofs
 gambirs 1
 glamourizer 1
 gluepot 2
-gimballed 4
+gimballed 5
 garrison
 gemitorial 1
 globuliform 1
