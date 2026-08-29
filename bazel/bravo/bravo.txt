@@ -7808,7 +7808,7 @@ bogman 1
 biface 2
 bark 1
 bronzy
-bursautee
+bursautee 1
 bibbing 1
 befooled
 bibble 1
