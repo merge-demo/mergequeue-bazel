@@ -20806,7 +20806,7 @@ aliner
 abraid
 artophagous
 archheresy 1
-artotype
+artotype 1
 annotation 1
 asqueal
 acolhua
