@@ -17135,7 +17135,7 @@ chloronaphthalene
 conspicuousness 1
 coadsorbent 2
 coprophobic 1
-caddisfly
+caddisfly 1
 creek 1
 coaters
 churliest 1
