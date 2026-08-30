@@ -2439,7 +2439,7 @@ disobediently 2
 degorder 1
 decimetre 2
 decimolar 1
-drainpipe 1
+drainpipe 2
 diplacusis
 daker 3
 decimole 1
