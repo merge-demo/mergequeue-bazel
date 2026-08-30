@@ -14961,7 +14961,7 @@ dialoger
 defrauders
 doesn 1
 desiccatory 2
-doffing
+doffing 1
 demiracle 2
 diaphanometry
 dhikr
