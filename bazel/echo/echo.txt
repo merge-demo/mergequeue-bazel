@@ -1891,7 +1891,7 @@ elapsed
 endamage 2
 everwho 2
 eightball
-eir
+eir 1
 eclat 1
 epurate 1
 eptatretidae
