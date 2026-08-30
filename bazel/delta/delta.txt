@@ -13057,7 +13057,7 @@ deprecators 4
 deccennia
 dispatched
 devaster
-duckish
+duckish 1
 disesteeming 3
 dispatches
 drillings 1
