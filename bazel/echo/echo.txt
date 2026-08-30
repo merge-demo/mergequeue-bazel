@@ -4384,7 +4384,7 @@ equinovarus 1
 electrolyzer 2
 encephalosclerosis 3
 evisite 1
-endoplastule 3
+endoplastule 4
 euornithes 1
 enapt
 ethnog 1
