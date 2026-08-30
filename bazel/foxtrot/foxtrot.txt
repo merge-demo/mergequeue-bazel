@@ -4162,7 +4162,7 @@ firebomb 1
 fakiness
 firebombing
 fairlike 1
-fractionlet
+fractionlet 1
 faithwise
 figments 2
 figuredly 1
