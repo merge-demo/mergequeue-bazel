@@ -4822,7 +4822,7 @@ faena
 fellowshipping 1
 falsen 2
 forties
-footbath
+footbath 1
 frostbiter
 fibrinuria
 fumish 1
