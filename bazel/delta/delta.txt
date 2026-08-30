@@ -10332,7 +10332,7 @@ diopters
 decumary 1
 delf
 discounter 2
-dioptometer
+dioptometer 1
 deoxidized
 disnature
 denudation
