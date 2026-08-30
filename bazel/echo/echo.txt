@@ -7149,7 +7149,7 @@ elan 1
 estanciero 1
 eudaemonism 2
 everyday 2
-endocolitis
+endocolitis 1
 engrossed 2
 established 2
 epimere
