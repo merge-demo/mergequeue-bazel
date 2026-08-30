@@ -16486,7 +16486,7 @@ brushproof
 buzzes
 birdfarms 1
 bulk 1
-buckra
+buckra 1
 bricker 3
 bishoplet 3
 borasque 2
