@@ -13618,7 +13618,7 @@ eremurus
 enfeeble 1
 emamelware 2
 epitaph 2
-extending
+extending 1
 endoblastic 3
 experienced 2
 ears 4
