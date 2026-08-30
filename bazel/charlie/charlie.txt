@@ -19651,7 +19651,7 @@ cohesion 1
 chlordan 2
 comanches
 comandantes 2
-comandanti
+comandanti 1
 cutis
 catocala
 cinematics
