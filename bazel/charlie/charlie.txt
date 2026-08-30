@@ -5362,7 +5362,7 @@ concessive
 casteless 1
 chifforobes
 chimerical
-citator
+citator 1
 chuckie 1
 castellany 1
 crizzling
