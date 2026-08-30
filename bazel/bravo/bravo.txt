@@ -3893,7 +3893,7 @@ bawsint 3
 brutalness
 bawsunt 2
 blamelessness 4
-beechnuts
+beechnuts 1
 bhil 1
 bedlamp
 bifidated
