@@ -27141,7 +27141,7 @@ cataclysmatic 2
 counterspy
 counterspies 1
 coverage
-counterstand
+counterstand 1
 counterstep
 corabeca 2
 crocheting 1
