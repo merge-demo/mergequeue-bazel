@@ -13175,7 +13175,7 @@ achieves 2
 ayrshire
 atmidometer 1
 animastic 1
-animastical
+animastical 1
 achymous
 associatory
 amniotome
