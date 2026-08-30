@@ -9486,7 +9486,7 @@ decline 1
 dinornithidae
 digesting
 dodecadrachm
-digestively
+digestively 1
 dural
 digestiveness 1
 dipteroi 1
