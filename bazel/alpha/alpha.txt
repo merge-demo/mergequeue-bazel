@@ -6663,7 +6663,7 @@ anointer 1
 amidoketone
 albedos
 audible
-allemandes
+allemandes 1
 acarol
 autosign 1
 ailsyte
