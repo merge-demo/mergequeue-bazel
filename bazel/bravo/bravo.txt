@@ -3967,7 +3967,7 @@ banyan
 bondon 1
 brittlewood 2
 bawtie
-bantlings 1
+bantlings 2
 bestsellers 1
 barytes 1
 brand
