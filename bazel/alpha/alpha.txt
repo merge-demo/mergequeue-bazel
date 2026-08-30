@@ -5473,7 +5473,7 @@ aft 2
 afteract 2
 appetitive 1
 afterlife 1
-alepine
+alepine 1
 absorbs 1
 actinophone
 afterbirth 2
