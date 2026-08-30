@@ -22576,7 +22576,7 @@ connecter
 confabbed 1
 connectibly
 chamferer
-connecticut
+connecticut 1
 chieftainships
 cairba
 cogenial 1
