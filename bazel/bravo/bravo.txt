@@ -1292,7 +1292,7 @@ bacao
 brochantite 1
 bury
 bedbug 1
-bedust
+bedust 1
 boleite 1
 bacterioprecipitin 1
 beltings 1
