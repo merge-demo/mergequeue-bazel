@@ -2006,7 +2006,7 @@ hctax 2
 hctb 2
 hctd 1
 hctetpg 1
-hctf
+hctf 1
 hctg 1
 hctgitvltxzy 3
 hcthsx 2
