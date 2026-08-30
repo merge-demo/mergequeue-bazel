@@ -6089,7 +6089,7 @@ bhd 1
 barricader
 bend
 bub 1
-bendee
+bendee 1
 bullwhips
 beamier
 bittering 3
