@@ -4920,7 +4920,7 @@ flambeau 2
 foamier 2
 fixate 2
 fossilist
-finisher
+finisher 1
 floreat 2
 forbearers
 fustianish 1
