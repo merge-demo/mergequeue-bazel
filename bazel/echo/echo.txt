@@ -11947,7 +11947,7 @@ esthesis
 endemic 3
 electrooptical 1
 ensampler 1
-ecoid 1
+ecoid 2
 extracostal 3
 endotheliolysin
 epicedial 2
