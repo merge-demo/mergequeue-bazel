@@ -3473,7 +3473,7 @@ batad 1
 barbascoes
 barrages
 bagworms
-blotlessness
+blotlessness 1
 biennium 2
 boyla 1
 batamote
