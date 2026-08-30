@@ -15792,7 +15792,7 @@ clearances 1
 commensurately 1
 counterfeitness 1
 clearcole
-clearedness
+clearedness 1
 clearheadedly
 cardcases
 calving
