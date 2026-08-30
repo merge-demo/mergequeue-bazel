@@ -1344,7 +1344,7 @@ betwixen
 balconies 1
 breeziness 1
 bacule
-baldachin
+baldachin 1
 bristliest
 bhaiachari
 bibliotherapist 1
