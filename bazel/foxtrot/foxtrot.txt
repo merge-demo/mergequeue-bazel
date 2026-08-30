@@ -6459,7 +6459,7 @@ frenchize 3
 fordy 1
 fellatrix 1
 forsar 1
-flurn 1
+flurn 2
 flurried
 futhorks 1
 fernbird
