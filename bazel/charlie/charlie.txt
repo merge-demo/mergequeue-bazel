@@ -6183,7 +6183,7 @@ casehardened 1
 catzerie
 caubeen
 coky
-compoundable
+compoundable 1
 cauboge
 caucasian
 caucasians 1
