@@ -2792,7 +2792,7 @@ feston
 flatly 2
 fluorimeter 2
 forgift 3
-fistulized 1
+fistulized 2
 forbearer 3
 ftncmd
 foxtailed 2
