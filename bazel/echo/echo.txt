@@ -5852,7 +5852,7 @@ elsewards 1
 epizoicide
 engrainer 1
 electrocratic 1
-engraining
+engraining 1
 enwoven 2
 ekaha 1
 eulerian 5
