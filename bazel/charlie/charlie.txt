@@ -3998,7 +3998,7 @@ carchariidae
 carcharioid 1
 congredient
 carcharodont 1
-correctify 1
+correctify 2
 carcinemia
 croquettes
 carcinogenesis 1
