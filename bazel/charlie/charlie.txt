@@ -9883,7 +9883,7 @@ chemoreflex
 contrabassoon
 chemoresistance
 chemoserotherapy
-chemosynthesis
+chemosynthesis 1
 chemosynthetic 1
 chemosmoses 1
 chemosmotic 1
