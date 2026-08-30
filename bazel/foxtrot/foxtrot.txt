@@ -6830,7 +6830,7 @@ fragmentizer 2
 foretold 1
 fructifier 1
 forger
-foliaged
+foliaged 1
 firetower 3
 fustigator 2
 fussify 2
