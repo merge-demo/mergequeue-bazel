@@ -26149,7 +26149,7 @@ cosmoline 2
 consociative 1
 cloudlet
 cosmologically
-convocant
+convocant 1
 compages
 chiromancist
 cercopidae 3
