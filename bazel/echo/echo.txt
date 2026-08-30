@@ -1264,7 +1264,7 @@ enrobe 2
 ecclesiarch 3
 eversive 1
 eking
-electrocystoscope
+electrocystoscope 1
 equalness 2
 eclated 3
 expands 1
