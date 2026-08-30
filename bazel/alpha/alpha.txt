@@ -3288,7 +3288,7 @@ axal
 acutilobate 1
 arterioarctia 1
 acutiplantar
-autoluminescence
+autoluminescence 1
 acrylate 1
 assassin
 atomizes
