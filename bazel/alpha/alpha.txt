@@ -4287,7 +4287,7 @@ addu 2
 adrenitis 1
 archcount 1
 adrenochrome 1
-adrenocortical 1
+adrenocortical 2
 adrenosterone 1
 adrenocorticotrophic
 ammonolysis
