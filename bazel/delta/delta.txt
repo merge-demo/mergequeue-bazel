@@ -3354,7 +3354,7 @@ duddery
 destiny 1
 domesticable 1
 dynamometry 2
-datiscoside 2
+datiscoside 3
 delaying
 distemperer 1
 dicot
