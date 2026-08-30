@@ -7711,7 +7711,7 @@ extruder 1
 ellipticalness 1
 epidemically
 exalt
-escurialize
+escurialize 1
 evidentiary 1
 erythrine 1
 enfevered
