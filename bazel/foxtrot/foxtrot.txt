@@ -2696,7 +2696,7 @@ futilize 3
 ferventness 2
 frighteningness 1
 floodwall
-fishify 2
+fishify 3
 flamant 2
 frenzies 3
 flambe 2
