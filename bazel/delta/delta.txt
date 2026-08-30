@@ -12767,7 +12767,7 @@ dislodgment 1
 docimasy 4
 doily
 disloyal
-disencourage
+disencourage 1
 dotardly 2
 drawfiling 1
 donative 1
