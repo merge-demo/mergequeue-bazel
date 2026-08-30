@@ -1620,7 +1620,7 @@ doe
 dinginess 1
 doweled 3
 diadrome 1
-derision
+derision 1
 disenrol 3
 damagingly
 decl
