@@ -791,7 +791,7 @@ footworn 2
 fatality 3
 froster 1
 forensicality 3
-flipe
+flipe 1
 flea
 floosy 5
 fustanelle 1
