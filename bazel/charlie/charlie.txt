@@ -25299,7 +25299,7 @@ cornage
 cornballs 1
 cornberry
 counterscale
-cornbind
+cornbind 1
 checkerboards 1
 cricking 1
 chromoisomerism
