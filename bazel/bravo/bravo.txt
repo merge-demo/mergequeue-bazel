@@ -3535,7 +3535,7 @@ bicondylar
 baryons 1
 becudgel
 bimini
-bathycentesis
+bathycentesis 1
 benincasa 1
 burgages
 beuniformed 1
