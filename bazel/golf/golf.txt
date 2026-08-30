@@ -3254,7 +3254,7 @@ grainedness 2
 genuses 3
 goldminer 3
 graywacke
-gruellers 1
+gruellers 2
 glucemia 3
 geometrising
 geosynclines 2
