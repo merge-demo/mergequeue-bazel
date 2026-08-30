@@ -3480,7 +3480,7 @@ gallanting 2
 glasgow 2
 gallophobia 1
 graptomancy 2
-gourdlike
+gourdlike 1
 gallous 1
 gentling 2
 griefful
