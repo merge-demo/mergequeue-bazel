@@ -8851,7 +8851,7 @@ goldeye
 greyed 3
 grosser 5
 gainlier 1
-galleyworm
+galleyworm 1
 graphostatical
 gaged 2
 greyiaceae
