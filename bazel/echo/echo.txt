@@ -8096,7 +8096,7 @@ extraprovincial 1
 epiphragm 2
 enlargedness 1
 encover 2
-extrasyphilitic
+extrasyphilitic 1
 extraordinaries 1
 expressable 2
 epiplasmic 1
