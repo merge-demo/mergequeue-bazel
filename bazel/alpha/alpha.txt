@@ -6815,7 +6815,7 @@ arraignability
 airedales
 asseverations 1
 avowant 3
-augment
+augment 1
 airfare 1
 amyctic
 airflow 1
