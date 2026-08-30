@@ -8442,7 +8442,7 @@ gandul 1
 gyring
 grapestone 3
 gigas 2
-gravelroot 2
+gravelroot 3
 gallstones 1
 gentisic 2
 goldbricks 2
