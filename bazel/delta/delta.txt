@@ -17715,7 +17715,7 @@ durables 1
 dedifferentiation 2
 decanonization
 dubbins
-dicarbonate
+dicarbonate 1
 dubiety 1
 demutization
 dubio 1
