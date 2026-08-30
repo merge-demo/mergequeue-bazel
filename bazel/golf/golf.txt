@@ -3813,7 +3813,7 @@ gemmates 5
 grimnesses 2
 guarders 2
 greenbark
-grippal
+grippal 1
 gaudily 1
 gouaree 1
 gaul 2
