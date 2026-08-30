@@ -15905,7 +15905,7 @@ drench 1
 dossennus
 dressings 1
 decapodiform
-dosser
+dosser 1
 dosseret 4
 dulcian
 dempster 2
