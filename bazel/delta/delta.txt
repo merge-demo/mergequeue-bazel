@@ -13821,7 +13821,7 @@ dryers 1
 doable
 delphinin
 distanceless
-distancy
+distancy 1
 dissimilar 2
 diabolarchy
 distancing 1
