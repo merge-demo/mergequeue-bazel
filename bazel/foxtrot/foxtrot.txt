@@ -6069,7 +6069,7 @@ flocculating 1
 frayn 1
 floridity 2
 floriscope 4
-fetterbush
+fetterbush 1
 faba
 funicule
 flavoring 2
