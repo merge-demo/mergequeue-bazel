@@ -30505,7 +30505,7 @@ cubages
 cubicovariant
 corozos
 cubane
-cubangle
+cubangle 1
 cubanite
 cubatory
 contraclockwise
