@@ -28901,7 +28901,7 @@ calendarer
 cradlefellow
 canular 1
 crewman
-crewmanship
+crewmanship 1
 crewmen 1
 crewneck
 capsheaf 1

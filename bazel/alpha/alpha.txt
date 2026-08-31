@@ -21899,7 +21899,7 @@ assize
 amiant 1
 achmetha
 archform 2
-asthenics
+asthenics 1
 assizes
 amphistome
 assman 1
