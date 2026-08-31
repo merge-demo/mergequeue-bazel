@@ -9110,7 +9110,7 @@ floodable 3
 fetise 2
 frenetics 1
 formity 1
-follows 1
+follows 2
 formalins
 furtum 3
 fortresses 1
