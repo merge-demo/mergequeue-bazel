@@ -3296,7 +3296,7 @@ fieldpieces 2
 feudovassalism 2
 forefeet 5
 fungilliform 1
-filopodium 5
+filopodium 6
 fiddlestick
 frambesia 1
 farsight
