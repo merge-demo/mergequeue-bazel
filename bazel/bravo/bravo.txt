@@ -13512,7 +13512,7 @@ briquette 2
 bouch
 blacksmith
 boucharde 2
-belime
+belime 1
 baccae 2
 barometrography 1
 blundered
