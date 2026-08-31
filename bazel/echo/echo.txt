@@ -3673,7 +3673,7 @@ euploids 1
 exscinded 1
 endocrinopathic 1
 entangling
-embryogenesis
+embryogenesis 1
 eunomy 3
 extravert 1
 encolpion 3
