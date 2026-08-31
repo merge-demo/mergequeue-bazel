@@ -4865,7 +4865,7 @@ batmen
 baudekins 1
 by 2
 beltwise 2
-bandcase
+bandcase 1
 baffing 1
 beduncing 1
 botchiest
