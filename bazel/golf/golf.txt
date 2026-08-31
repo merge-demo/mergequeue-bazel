@@ -9964,7 +9964,7 @@ gogglers 1
 glegness 1
 glyptic 2
 googols 1
-gipsyfy
+gipsyfy 1
 galvayned 1
 goldi 2
 greisen 1
