@@ -17213,7 +17213,7 @@ birthdom
 bullskin 2
 bullsticker 3
 beturbaned
-bullsucker
+bullsucker 1
 bandman 1
 basined 2
 beachcomber
