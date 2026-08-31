@@ -4564,7 +4564,7 @@ advice 2
 advices 2
 atomatic 1
 antas
-advisableness 1
+advisableness 2
 amidon 1
 anicca
 adiaphorism
