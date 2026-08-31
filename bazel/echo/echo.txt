@@ -9355,7 +9355,7 @@ enrobement 3
 effecter 1
 enveigle 2
 epilimnionia 1
-educable 1
+educable 2
 escalades
 escalating 2
 escalations
