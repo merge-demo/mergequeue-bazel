@@ -29073,7 +29073,7 @@ chattable
 crimpness
 crimps 1
 cantatory
-corbans
+corbans 1
 crimson 1
 crimsoned 1
 credendum 1
