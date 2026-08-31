@@ -9606,7 +9606,7 @@ gemses 4
 gossipmonger 1
 gr 3
 ghostwriting 2
-guzerat 2
+guzerat 3
 glaucophanization 3
 gallize 3
 ginep 2
