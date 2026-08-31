@@ -517,7 +517,7 @@ fakirs
 falbelo 3
 fioretti 2
 firerooms 2
-frowny
+frowny 1
 foresense 4
 falco 1
 fermentive 1
