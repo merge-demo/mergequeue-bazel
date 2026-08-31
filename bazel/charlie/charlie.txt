@@ -15868,7 +15868,7 @@ cobcab
 compends 1
 cleeking
 clef 1
-cassinese
+cassinese 1
 chesterfields 1
 chronomancy 1
 cleft 1
