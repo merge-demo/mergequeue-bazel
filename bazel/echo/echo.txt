@@ -10703,7 +10703,7 @@ egosyntonic 1
 etiquet 1
 endfile 1
 excusable
-eugonic 2
+eugonic 3
 eggheaded 3
 epithecicia 1
 embrangled
