@@ -9901,7 +9901,7 @@ attaint 1
 alloquial 1
 argean 1
 algine
-acromiosternal
+acromiosternal 1
 acetonization 2
 acceptive
 amateur
