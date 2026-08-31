@@ -14692,7 +14692,7 @@ deadener
 decasemic
 deviative 2
 dks 2
-dlvy
+dlvy 1
 diademed 1
 deburse 2
 dm 1
