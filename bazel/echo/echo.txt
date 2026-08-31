@@ -5415,7 +5415,7 @@ empyreum 1
 eophyte 3
 eccentrometer
 endothermal 1
-endothermy
+endothermy 1
 ectopatagia 1
 erthling 4
 echinocactus 3
