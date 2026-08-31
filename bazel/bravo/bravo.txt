@@ -13802,7 +13802,7 @@ basquine
 baseplate 1
 bemuffle
 brachychronic 3
-bramblebush
+bramblebush 1
 blabberer 1
 butters 1
 biocides
