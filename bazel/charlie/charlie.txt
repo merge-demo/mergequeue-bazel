@@ -19231,7 +19231,7 @@ colmars
 cisandine
 colmose
 colocate 1
-chiquest
+chiquest 1
 colocated
 colocephali
 coryph 1
