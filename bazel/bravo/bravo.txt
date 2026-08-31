@@ -7230,7 +7230,7 @@ basses
 bestridden 2
 bluesides 1
 blueberry 1
-bestrides 1
+bestrides 2
 boondock
 bestrown
 bathochromatic
