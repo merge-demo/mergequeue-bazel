@@ -11631,7 +11631,7 @@ forwake 3
 fetlow 1
 fineness 2
 fructoses 1
-ferren 1
+ferren 2
 flyability
 fustiness
 frontless 2
