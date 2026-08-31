@@ -1991,7 +1991,7 @@ brachydiagonal 2
 baniya 4
 baning 2
 bandcutter
-bhaiachara
+bhaiachara 1
 banisher
 banishing
 banishment
