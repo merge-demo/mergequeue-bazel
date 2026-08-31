@@ -7511,7 +7511,7 @@ estrins 2
 estall
 eophytic
 endited
-eastmost
+eastmost 1
 electrosynthesis 4
 ethylate 1
 epibatholithic 4
