@@ -4511,7 +4511,7 @@ aface 1
 arming
 atelopodia
 ako 2
-adventurous
+adventurous 1
 anaglyptic 2
 adventurousness 1
 ankle
