@@ -581,7 +581,7 @@ aerobioscope 1
 antiquarian
 abn
 agrania
-alphameric 3
+alphameric 4
 abnegates 2
 anthropomancy 3
 abrotanum 1
