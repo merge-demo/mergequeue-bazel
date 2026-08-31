@@ -9332,7 +9332,7 @@ erugos 2
 escapage 1
 eruptible 1
 eruption
-eruptional
+eruptional 1
 establishing
 ellen 1
 eruptive 1
