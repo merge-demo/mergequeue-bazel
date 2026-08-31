@@ -12605,7 +12605,7 @@ defoamers
 diapiric 2
 downmost
 dragoness
-dechenite
+dechenite 1
 disintoxication 1
 dankness
 daud 3
