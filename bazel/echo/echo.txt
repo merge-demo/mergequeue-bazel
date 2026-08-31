@@ -4257,7 +4257,7 @@ emulations 1
 echograph
 exporters 1
 expiree 2
-escarping
+escarping 1
 escambio 1
 emulousness 4
 eaux 1
