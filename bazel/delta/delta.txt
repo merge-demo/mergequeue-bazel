@@ -6770,7 +6770,7 @@ desilt 1
 disregular 3
 deerweeds 2
 dihedral 1
-depraving
+depraving 1
 dodecatyl 2
 disally 2
 dirtboard
