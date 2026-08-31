@@ -15476,7 +15476,7 @@ donack 1
 dowsed
 daishiki
 defibrillate
-deduit
+deduit 1
 dogless 2
 donat
 donatee 1
