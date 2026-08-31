@@ -11809,7 +11809,7 @@ cycloidal
 coaster
 copaljocote 1
 choosers
-choosier
+choosier 1
 cryotherapy 1
 choosiness 2
 chadar 1
