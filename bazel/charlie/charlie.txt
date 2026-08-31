@@ -24839,7 +24839,7 @@ coracobrachialis
 combite 1
 cosheries 1
 coracoclavicular
-chompers
+chompers 1
 coracocostal
 christiform
 coracoid
