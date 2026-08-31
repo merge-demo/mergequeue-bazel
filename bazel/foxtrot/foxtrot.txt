@@ -7215,7 +7215,7 @@ formulate 2
 faenas 1
 footpaces 1
 fifer 3
-foolocracy
+foolocracy 1
 factionaries 2
 fairer 1
 farers 1
