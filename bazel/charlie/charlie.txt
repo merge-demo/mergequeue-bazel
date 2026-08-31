@@ -5790,7 +5790,7 @@ catechists 2
 catechization
 catechizer
 calamondin
-cojoin 1
+cojoin 2
 cheveys
 callicarpa 1
 coeldership
