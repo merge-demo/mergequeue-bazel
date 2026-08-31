@@ -1843,7 +1843,7 @@ camara
 camarade 2
 conciliar 2
 camaraderie
-camarasaurus
+camarasaurus 1
 camarera 1
 camarin
 carboras 1
