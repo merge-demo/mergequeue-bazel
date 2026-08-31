@@ -1402,7 +1402,7 @@ ganyie 5
 gallotannin 2
 gasified 2
 gausterer
-gearshift
+gearshift 1
 gcd 2
 gangplow 1
 grundyite 1
