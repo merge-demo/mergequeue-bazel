@@ -9539,7 +9539,7 @@ disinfestation 3
 digitising 2
 desulphurise 3
 digitizes
-digitizing
+digitizing 1
 desorbed 2
 decimosexto 1
 downthrow
