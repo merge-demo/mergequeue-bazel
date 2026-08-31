@@ -5964,7 +5964,7 @@ floodlilit
 fivepins 1
 futileness 1
 frightening 2
-fallibility 2
+fallibility 3
 floodlit
 fibromembrane 1
 floods 2

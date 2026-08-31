@@ -4523,7 +4523,7 @@ decentres 1
 disinflated 2
 downdraught
 detroiter
-demigauntlet
+demigauntlet 1
 doting 2
 disclosing
 decussis
