@@ -4604,7 +4604,7 @@ dights
 diastases 1
 decard
 disorienting
-dellies
+dellies 1
 disroof
 debentured 1
 disavows 1
