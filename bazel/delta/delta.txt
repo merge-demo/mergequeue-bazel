@@ -1793,7 +1793,7 @@ dilemma
 debark 1
 dropseed 2
 drawknife
-debarking 1
+debarking 2
 digamist 1
 dishpanful 1
 discede 1
