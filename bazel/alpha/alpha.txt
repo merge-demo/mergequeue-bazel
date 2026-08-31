@@ -9705,7 +9705,7 @@ advent 2
 alvearium 1
 alveolariform 1
 antitetanic
-alveolate
+alveolate 1
 alveolation 1
 alveole 1
 alveolectomy 3
