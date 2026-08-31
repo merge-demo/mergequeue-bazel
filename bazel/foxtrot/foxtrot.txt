@@ -10249,7 +10249,7 @@ foundationed 1
 ferronickel 1
 forebow 2
 flavedos 3
-froideur
+froideur 1
 froise 2
 frokin 3
 filum 1
