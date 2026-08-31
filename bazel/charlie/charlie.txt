@@ -7608,7 +7608,7 @@ cerebrocardiac
 chairman 1
 cerebroganglionic 1
 cerebroid 1
-cirrhosed 1
+cirrhosed 2
 cerebromeningitis
 celiopyosis 2
 carduaceous 1
