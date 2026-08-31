@@ -15690,7 +15690,7 @@ disaffect
 dopper 2
 dopperbird 1
 disespouse 1
-deflorescence 2
+deflorescence 3
 dopping 1
 doppio
 dactyloscopy
