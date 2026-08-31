@@ -11084,7 +11084,7 @@ billeter
 bedwarfs 1
 broil
 baobabs
-blockmaker 1
+blockmaker 2
 bimmeler 1
 blockpate
 bashawship 5
