@@ -4941,7 +4941,7 @@ bootlick 3
 bairnliness
 badchan 1
 bouncing 3
-bitriseptate
+bitriseptate 1
 beehive 2
 boatel
 bandy 1
