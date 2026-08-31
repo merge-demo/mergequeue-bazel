@@ -4002,7 +4002,7 @@ correctify 2
 carcinemia
 croquettes
 carcinogenesis 1
-carcinogenic
+carcinogenic 1
 carcinoid
 compartmental
 crystalloluminescence
