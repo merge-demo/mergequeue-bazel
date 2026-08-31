@@ -3115,7 +3115,7 @@ baseburner
 basecourt 2
 betokener
 boosting 1
-boneset
+boneset 1
 baselevel 1
 biradiate 2
 bismarck 1
