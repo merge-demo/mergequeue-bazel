@@ -5904,7 +5904,7 @@ fdname 1
 flockings 1
 fudged 3
 fulsamic 1
-folgerite 2
+folgerite 3
 fencepost 1
 foetalism
 furlers 1
