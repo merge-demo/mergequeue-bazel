@@ -12176,7 +12176,7 @@ depthometer 3
 diacetine 1
 dha 2
 deadlily 1
-disfavoured
+disfavoured 1
 discursion 1
 disfeaturement
 dialogised
