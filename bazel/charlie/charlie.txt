@@ -14116,7 +14116,7 @@ clochan
 cardioneural
 capsulize 1
 circulant 1
-circular
+circular 1
 colistins
 chuffing
 coffers
