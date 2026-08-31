@@ -4769,7 +4769,7 @@ bedrails 1
 binnacle 2
 bedral 3
 bedraping
-bedread
+bedread 1
 bedrench 1
 baldling
 blast 1
