@@ -3916,7 +3916,7 @@ fevertrap 3
 footslogged
 fluidextract 2
 findable 1
-fruz
+fruz 1
 function
 findhorn 1
 filarees 2
