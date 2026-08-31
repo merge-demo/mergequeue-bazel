@@ -9112,7 +9112,7 @@ container
 charta
 curialities 1
 chartable
-charter
+charter 1
 charterer
 charterers 2
 charterhouse
