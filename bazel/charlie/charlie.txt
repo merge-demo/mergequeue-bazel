@@ -5191,7 +5191,7 @@ cocentric 1
 cashiered 1
 chenopodium 1
 cashiering
-cashierment
+cashierment 1
 cashkeeper
 crows 1
 clearest
