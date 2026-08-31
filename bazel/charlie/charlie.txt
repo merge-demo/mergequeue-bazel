@@ -15267,7 +15267,7 @@ coreciprocal 1
 colters 1
 clamminess
 clamming
-colpotomies
+colpotomies 1
 clammyweed
 clamored 1
 clamorer
