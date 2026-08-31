@@ -25621,7 +25621,7 @@ corps
 countersuggestion
 chondriocont
 crusting 1
-corpsbruder
+corpsbruder 1
 corpse
 corpses 1
 creeshy
