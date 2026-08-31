@@ -10650,7 +10650,7 @@ dustcoat 4
 degeneration 2
 diploplaculate
 degarnish 3
-dolomize 1
+dolomize 2
 doon 1
 discoveries 1
 diplopod
