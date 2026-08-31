@@ -7166,7 +7166,7 @@ foremind 1
 foothalt 4
 filths 2
 festivalgoer
-flagfish 1
+flagfish 2
 fend 3
 fishified 2
 fishers
