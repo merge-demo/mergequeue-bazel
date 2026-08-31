@@ -18289,7 +18289,7 @@ chiming 1
 coffrets
 clarifiable
 coffs
-cofighter
+cofighter 1
 cellmate
 casearia 1
 coforeknown
