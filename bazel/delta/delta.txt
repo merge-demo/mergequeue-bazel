@@ -7674,7 +7674,7 @@ deviance
 dimples 1
 deviancy 1
 dogcatcher 1
-disquantity
+disquantity 1
 difform 2
 deviated
 disenthronement
