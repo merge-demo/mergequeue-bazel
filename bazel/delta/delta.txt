@@ -3940,7 +3940,7 @@ disleal 1
 diaphemetric 3
 deyship
 demagnification
-deliberation
+deliberation 1
 defendress 1
 dislikeable 1
 dodo
