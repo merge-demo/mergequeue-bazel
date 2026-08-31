@@ -22091,7 +22091,7 @@ apoplexies
 adduce 1
 asterisk 2
 antesunrise
-artilleryman
+artilleryman 1
 anteromedial 1
 amphigamous
 amphipeptone 1
