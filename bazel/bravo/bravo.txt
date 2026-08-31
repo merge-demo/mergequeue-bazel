@@ -12745,7 +12745,7 @@ burlesk
 bookpress 3
 bookracks
 blacklegging 1
-baronry 1
+baronry 2
 begut
 bookseller 1
 bepreach 2
