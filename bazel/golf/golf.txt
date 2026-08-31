@@ -6365,7 +6365,7 @@ gustables 2
 gofer
 given 2
 getspace
-goldspink
+goldspink 1
 glimmered 4
 glucosone 1
 granolithic 2
