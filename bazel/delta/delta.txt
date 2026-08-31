@@ -1727,7 +1727,7 @@ deaspiration 2
 degree 1
 dihely 1
 depersonalization 2
-daredevilry
+daredevilry 1
 desponsate
 drouthy 1
 dyad 2
