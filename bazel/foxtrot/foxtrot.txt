@@ -9202,7 +9202,7 @@ foveoles 1
 footled 1
 fries 5
 fragileness 1
-foreknown 2
+foreknown 3
 faceplate 2
 fucus 3
 fledged 2
