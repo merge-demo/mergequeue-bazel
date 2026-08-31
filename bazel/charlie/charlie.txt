@@ -15713,7 +15713,7 @@ clavicular
 clavicularium 2
 claviculate
 chrysohermidin
-chirotype
+chirotype 1
 clima
 chrysograph
 claviger 1
