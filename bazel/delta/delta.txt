@@ -4979,7 +4979,7 @@ demotists 2
 duncedom 1
 dragontail 1
 dephosphorize
-draggled
+draggled 1
 diamb 2
 demountable 2
 devastators 1
