@@ -13382,7 +13382,7 @@ blackcap 1
 bisulc
 beothuk 2
 boltant 2
-bothway
+bothway 1
 burgle 1
 bunched
 bediapers 1
