@@ -4821,7 +4821,7 @@ daily
 discide
 discharge 1
 demolition 1
-demolitionist
+demolitionist 1
 dictyosiphonaceous
 dishonest
 donnot 2
