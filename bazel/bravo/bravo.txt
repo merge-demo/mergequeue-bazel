@@ -4470,7 +4470,7 @@ blackmail
 barbone 4
 bursicle
 blenniidae
-bucklers
+bucklers 1
 bustling 1
 becry 1
 becrime 1
