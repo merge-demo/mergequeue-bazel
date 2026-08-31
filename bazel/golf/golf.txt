@@ -6681,7 +6681,7 @@ gunsman 2
 glitters 1
 guard 2
 garmentless 1
-giantism
+giantism 1
 gastroscopies 3
 graptolithida 3
 gallflies 2
