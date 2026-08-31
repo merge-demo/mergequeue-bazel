@@ -14795,7 +14795,7 @@ dockland 2
 doublehandedly
 docklands
 dominica 2
-dialogue 1
+dialogue 2
 dolors 2
 desmectasia 4
 dennet 1
