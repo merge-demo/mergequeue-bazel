@@ -10186,7 +10186,7 @@ ferryage
 famines
 fending
 foggages
-frazing
+frazing 1
 faros 1
 flaskful 1
 frog 1
