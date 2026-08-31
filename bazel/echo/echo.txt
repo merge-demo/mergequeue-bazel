@@ -8043,7 +8043,7 @@ electrodentistry 3
 epibasal 3
 ergs 2
 expilate 1
-ejections 2
+ejections 3
 eggar
 ease 3
 entoconid 1
