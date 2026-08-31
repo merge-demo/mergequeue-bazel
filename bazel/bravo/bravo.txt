@@ -3860,7 +3860,7 @@ backslappers 3
 bawcocks 1
 branniest 3
 bawdier 2
-bawdies
+bawdies 1
 bestrow 2
 bricklaying
 backaches 2
