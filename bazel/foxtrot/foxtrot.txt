@@ -4476,7 +4476,7 @@ fishponds 5
 fishtailed 1
 fibrilled 5
 fishpotter 1
-finicism
+finicism 1
 forerigging 1
 footstool 1
 fishskin 3
