@@ -1929,7 +1929,7 @@ geal
 garnetwork 3
 garnet
 gynecocratic
-gnomesque
+gnomesque 1
 gravewards 2
 guideship 3
 galactosuria 3
