@@ -7385,7 +7385,7 @@ floodlighting 1
 forbiddingly
 farfels
 fewnes 2
-flatworms
+flatworms 1
 floatplane 6
 frost 3
 fattened 2
