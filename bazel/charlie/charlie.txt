@@ -22558,7 +22558,7 @@ crinate
 colonizability
 commotion
 connatural
-connaturality
+connaturality 1
 cultelli 2
 connectibility
 cryptanalysis 1
