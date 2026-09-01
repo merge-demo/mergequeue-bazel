@@ -10954,7 +10954,7 @@ blocky 2
 brassage 2
 blintzes
 blacksmiths 1
-bafta
+bafta 1
 billowy
 blips 2
 boehmenite 4
