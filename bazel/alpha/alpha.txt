@@ -1360,7 +1360,7 @@ auxillary 2
 accentual
 accension 1
 agapanthus
-accept
+accept 1
 approximating 1
 acceptability
 antistimulant 1
