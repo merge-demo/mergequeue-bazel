@@ -8408,7 +8408,7 @@ epivalve 2
 elatcha 1
 equerries 1
 eardrum 2
-erodible
+erodible 1
 endodermic 3
 enchains 1
 emancipatress 1
