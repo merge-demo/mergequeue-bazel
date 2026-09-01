@@ -2829,7 +2829,7 @@ epipolic 1
 equivalencing 2
 externalness 1
 eater
-epiclesis
+epiclesis 1
 eleoptene
 embden 2
 endomastoiditis 1
