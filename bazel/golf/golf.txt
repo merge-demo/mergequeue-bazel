@@ -6606,7 +6606,7 @@ guerillas 2
 galeass 1
 grenadiers 3
 gigolos
-graphalloy
+graphalloy 1
 good 1
 gurglets 1
 galipidine
