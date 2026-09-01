@@ -10644,7 +10644,7 @@ fickly 1
 forcibly 2
 fitzroy
 feltlike 2
-forblack
+forblack 1
 flocculency 3
 fruitester 1
 fargood 1
