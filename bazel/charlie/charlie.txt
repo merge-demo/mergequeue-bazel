@@ -19703,7 +19703,7 @@ combfish
 comby
 combinability
 cytozyme 1
-combinable
+combinable 1
 combinably
 combinant
 combinate 1
