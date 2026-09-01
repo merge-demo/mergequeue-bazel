@@ -8241,7 +8241,7 @@ dowly
 diaene
 diaeretic 2
 detoxicated
-diageotropic
+diageotropic 1
 diaglyphic
 desmopelmous
 dell
