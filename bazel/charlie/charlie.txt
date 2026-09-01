@@ -4684,7 +4684,7 @@ cabmen
 centrospermae
 carouse
 caroused 2
-carousels
+carousels 1
 carp 1
 carpaine 1
 carpalia
