@@ -9716,7 +9716,7 @@ faunch 2
 facework 1
 fluviograph 2
 flabs 1
-forestick
+forestick 1
 flycaster 2
 fanworts 3
 fuchsins 1
