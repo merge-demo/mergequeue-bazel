@@ -2625,7 +2625,7 @@ epithelize 1
 exothecate 1
 electrophoretogram 1
 expansure 1
-exturb
+exturb 1
 estimated 3
 eave 2
 eu 1
