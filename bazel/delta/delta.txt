@@ -6910,7 +6910,7 @@ discolors 1
 dahabiyeh
 deadliest 1
 deficit 1
-desorption
+desorption 1
 drollist 4
 discomposes 2
 desoxalic
