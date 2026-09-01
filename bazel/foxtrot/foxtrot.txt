@@ -5603,7 +5603,7 @@ flyer
 forfar 2
 fingerwise 2
 federal
-frontonasal
+frontonasal 1
 flageolet 4
 fascicled 5
 formerness 1
