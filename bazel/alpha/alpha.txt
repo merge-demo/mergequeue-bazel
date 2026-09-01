@@ -8156,7 +8156,7 @@ avoidances 2
 abiogenetic 2
 artisanship
 algoid
-adroitness
+adroitness 1
 anglophiliac
 algolagnia 2
 adjuster 2
