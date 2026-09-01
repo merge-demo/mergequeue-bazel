@@ -8295,7 +8295,7 @@ digitation
 doombook 4
 dialyzer 1
 diagrams 3
-dentin
+dentin 1
 db
 dracontian
 demivolts 1
