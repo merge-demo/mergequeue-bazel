@@ -2709,7 +2709,7 @@ geodesic 3
 gasolenes 1
 granularity 1
 gingers 1
-geek 2
+geek 3
 genip 2
 gilbertese 2
 genyplasty 1
