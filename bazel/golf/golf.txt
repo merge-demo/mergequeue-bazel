@@ -10529,7 +10529,7 @@ gibs 2
 gulix 1
 grallic
 galeorchis 2
-gilly
+gilly 1
 gadsbodikins 3
 gonal 4
 gunfights 1
