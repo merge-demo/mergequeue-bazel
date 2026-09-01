@@ -5422,7 +5422,7 @@ dendra 1
 decontrol 4
 delim 2
 deschampsia 2
-denudating 1
+denudating 2
 disordained 1
 deltidial
 dissolves 1
