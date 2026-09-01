@@ -2936,7 +2936,7 @@ bited 2
 broad
 barrelled 1
 billfish 1
-barrelmaker
+barrelmaker 1
 blissfully 2
 bamboozlement 1
 boules 1
