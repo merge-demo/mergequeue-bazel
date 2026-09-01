@@ -10491,7 +10491,7 @@ blatjang 3
 bakestone
 biologistic
 bepastured
-blastogenic
+blastogenic 1
 bandfiled 1
 bop
 brainy 2
