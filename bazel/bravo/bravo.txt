@@ -3354,7 +3354,7 @@ bayberries 1
 breast 3
 blowfish 2
 bellote
-buoyant
+buoyant 1
 bren
 bethanks 4
 bringed 1
