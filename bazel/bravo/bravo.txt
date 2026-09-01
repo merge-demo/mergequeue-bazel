@@ -6998,7 +6998,7 @@ bespouses
 boxhaul 3
 behaviorism 1
 boma
-besnowing
+besnowing 1
 besognier
 besoil 2
 biznagas 3
