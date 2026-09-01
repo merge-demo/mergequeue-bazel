@@ -27547,7 +27547,7 @@ coveralls 1
 coils
 coverchief 1
 cannulated
-cerberean
+cerberean 1
 covercle 2
 coprolalia
 carangidae
