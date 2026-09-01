@@ -13951,7 +13951,7 @@ boxing
 boxmaker 2
 boxman
 boxroom 3
-bromatium 1
+bromatium 2
 barwise 1
 bacteriofluorescin
 backstage 3
