@@ -13438,7 +13438,7 @@ countergage 1
 camerawork 1
 cig 1
 cigarette
-cystenchyma
+cystenchyma 1
 cigarfish
 counterconversion
 craspedum 1
