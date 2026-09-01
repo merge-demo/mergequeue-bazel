@@ -4937,7 +4937,7 @@ endamebae 3
 equiv 1
 eveck 3
 eudemons
-extradictable
+extradictable 1
 endamoebas 1
 endamoebidae 3
 equations 6
