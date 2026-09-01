@@ -4862,7 +4862,7 @@ deaneries
 ductile 1
 declive 1
 durrie 2
-depredationist
+depredationist 1
 dispersity 1
 dormmice 1
 denicotinize 1
