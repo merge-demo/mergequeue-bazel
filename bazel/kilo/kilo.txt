@@ -8476,7 +8476,7 @@ kobltzoish 1
 koblxbimm 2
 kobncxb 2
 kobnnp 3
-kobns
+kobns 1
 kobp 4
 kobpa
 kobpjolieweb
