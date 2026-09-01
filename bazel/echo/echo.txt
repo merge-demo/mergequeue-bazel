@@ -1325,7 +1325,7 @@ effects
 enlarge
 edified
 equilibristat 2
-enclog
+enclog 1
 effectuated 1
 encastage 1
 effectuating 2
