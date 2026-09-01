@@ -18890,7 +18890,7 @@ climbs 1
 coliuria 1
 colla 2
 csnet 1
-countermoving
+countermoving 1
 cornulite 2
 collabent
 collaborates
