@@ -30294,7 +30294,7 @@ crumply 2
 cargoose
 crumps 1
 convoluted 2
-cycad
+cycad 1
 closest 1
 crunch
 confused
