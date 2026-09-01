@@ -1003,7 +1003,7 @@ foreplan 1
 formate 1
 foreorder
 fenester 2
-flustrating
+flustrating 1
 factorability 4
 forweend
 flashes 1
