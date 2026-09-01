@@ -9422,7 +9422,7 @@ flamines 3
 fliers
 foodstuff 1
 foreteeth 2
-frary
+frary 1
 flouriness 1
 frolicly 1
 forlore
