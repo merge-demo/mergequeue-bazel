@@ -10364,7 +10364,7 @@ fragrances
 foreboard 1
 feldspathization 1
 francium 2
-flashcube
+flashcube 1
 fletcherite 1
 formatting 4
 frontierless 1
