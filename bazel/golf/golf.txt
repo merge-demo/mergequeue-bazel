@@ -899,7 +899,7 @@ glutathione 1
 geognost 2
 grassfire
 gobioid 3
-gusseted
+gusseted 1
 goosebird
 gez 1
 gelatinizability 2
