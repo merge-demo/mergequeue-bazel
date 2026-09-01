@@ -22388,7 +22388,7 @@ conidiophorous 3
 conidiospore 1
 copy
 conidium
-conifer
+conifer 1
 coniferae
 castrato
 coniferin 1
