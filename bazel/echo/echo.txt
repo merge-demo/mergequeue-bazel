@@ -2529,7 +2529,7 @@ entoiled
 eternity 2
 electrolytically 1
 exuviates
-ephemeromorph
+ephemeromorph 1
 ensete 2
 entozoic
 euphausiidae 1
