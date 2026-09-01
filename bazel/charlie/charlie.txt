@@ -7173,7 +7173,7 @@ compare 2
 centraxonial
 centre 1
 clinoaxis
-centreboard
+centreboard 1
 centred
 centref 1
 centreless
