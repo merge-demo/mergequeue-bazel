@@ -1582,7 +1582,7 @@ gondoliere 2
 globicephala 4
 gymnura 3
 gauntlet 1
-gutteral
+gutteral 1
 gulanganes 2
 galleria 1
 gunlock 1
