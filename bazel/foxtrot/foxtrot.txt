@@ -9033,7 +9033,7 @@ forwork 2
 fiendship 3
 feudaries 1
 flirtational 3
-flintified
+flintified 1
 flux 2
 fowlfoot 1
 fared 1
