@@ -830,7 +830,7 @@ ectypography
 epitheton
 entrecote
 epop 3
-exulate
+exulate 1
 ectiris 1
 etamines 2
 ectocarpus 2
