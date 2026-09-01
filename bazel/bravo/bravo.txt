@@ -3373,7 +3373,7 @@ besilver
 buccheros 2
 branchiopulmonate
 bassalia 1
-bootable 1
+bootable 2
 brythonic
 baculum 1
 benzilic 1
