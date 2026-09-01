@@ -30697,7 +30697,7 @@ cudgeled
 cudgeler 1
 calymene
 cudgelers 1
-counterwind 1
+counterwind 2
 complexometric 2
 costopleural
 cudgeling 1
