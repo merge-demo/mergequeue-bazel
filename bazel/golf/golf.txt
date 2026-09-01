@@ -6285,7 +6285,7 @@ graecian 3
 gyroidal 2
 grundyist
 galop
-governessy
+governessy 1
 gid 2
 gobbles 2
 glaucescent 4
