@@ -10921,7 +10921,7 @@ backscratcher 3
 blackamoor
 beshiver
 bumps 2
-biloquist
+biloquist 1
 biclinia 1
 barth
 bourrees 1
