@@ -15703,7 +15703,7 @@ dorad 1
 dipylon
 dysaptation 1
 desaurin 3
-deteriorates
+deteriorates 1
 dorado
 doralium 2
 discovers 1
