@@ -10945,7 +10945,7 @@ athogen 1
 amoebalike 1
 amoebas 1
 asmolder
-aggregatory
+aggregatory 1
 amperometric 2
 amoebeum 1
 abusion
