@@ -7880,7 +7880,7 @@ epiguanine 2
 elementate 2
 enablement 1
 eireannach
-extincts 2
+extincts 3
 executioner 1
 epihyal 1
 exogonium 2
