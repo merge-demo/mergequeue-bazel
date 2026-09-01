@@ -6739,7 +6739,7 @@ featherbed 2
 fluorescent 2
 forspeaking 1
 flamming 4
-fittest
+fittest 1
 foiningly 1
 feasant
 forjudged
