@@ -7533,7 +7533,7 @@ gatelike 4
 goliardery 1
 greenbone 1
 gorbellies 4
-gymnast
+gymnast 1
 governmental 4
 garageman 2
 gangman 2
