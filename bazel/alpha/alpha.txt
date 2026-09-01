@@ -12910,7 +12910,7 @@ acinetaria
 anglophilic
 autotype 1
 adenine
-anglophobia
+anglophobia 1
 abattoirs 1
 apyrase 1
 anglophobiac 1
