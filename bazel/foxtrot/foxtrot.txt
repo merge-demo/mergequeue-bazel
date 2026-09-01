@@ -7596,7 +7596,7 @@ fgn 2
 fructuarius
 funiculus
 flintworker 2
-flays
+flays 1
 forespeak 2
 fecundative 1
 faradising 2
