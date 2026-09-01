@@ -22453,7 +22453,7 @@ chickies 2
 conj
 conjective
 cholecystectomized 2
-conjecturably
+conjecturably 1
 condylopoda
 corebel
 challengeful
