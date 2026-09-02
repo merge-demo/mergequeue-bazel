@@ -6539,7 +6539,7 @@ erythrocytometer 1
 entamoebic 1
 endostosis
 ephyra 3
-exactly 2
+exactly 3
 extratension
 entail 1
 entomophthora 2
