@@ -3152,7 +3152,7 @@ basepoint 2
 behavers 1
 baser 1
 brazen 1
-blanda
+blanda 1
 besetter 1
 biddie 1
 bayete 1
