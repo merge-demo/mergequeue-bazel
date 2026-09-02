@@ -9686,7 +9686,7 @@ elms
 ectoblast 2
 enshielded 2
 espouser
-espouses
+espouses 1
 espousing
 esprit 2
 enterorrhexis 1
