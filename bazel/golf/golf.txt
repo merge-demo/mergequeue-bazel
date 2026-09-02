@@ -9090,7 +9090,7 @@ gease 1
 graveyards 1
 glaucomys 1
 glumal 2
-glires
+glires 1
 gladiatorism 2
 goatherds
 guajira 1
