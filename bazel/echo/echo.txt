@@ -11082,7 +11082,7 @@ estocada 2
 euskaric 3
 electors 1
 expunging
-endosome
+endosome 1
 edo
 economiser 2
 egoity 1
