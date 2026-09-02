@@ -6258,7 +6258,7 @@ flummeries 2
 fld 2
 fedoras
 flatfooting
-fearing
+fearing 1
 febronianism
 fanteague 1
 flota
