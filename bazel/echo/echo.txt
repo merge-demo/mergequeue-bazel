@@ -2213,7 +2213,7 @@ electrics
 electrographic
 exedrae 3
 esthesia 1
-epistome
+epistome 1
 expanded 2
 eldermen 2
 entailing
