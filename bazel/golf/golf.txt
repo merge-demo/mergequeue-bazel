@@ -6645,7 +6645,7 @@ gateman 3
 gropes 1
 gambusias 1
 gunnysack 4
-gondolas 1
+gondolas 2
 guidons 5
 glasseye 3
 gondoletta 4
