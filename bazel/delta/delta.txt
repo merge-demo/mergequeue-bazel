@@ -5803,7 +5803,7 @@ datableness 1
 diaxial 2
 deceit 1
 distalwards 1
-dacker
+dacker 1
 deepnesses 3
 decoupled 2
 deposers
