@@ -3963,7 +3963,7 @@ bisulphate 2
 backstays 1
 bratty 1
 boltspreet 1
-banyan
+banyan 1
 bondon 1
 brittlewood 2
 bawtie
