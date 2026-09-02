@@ -10412,7 +10412,7 @@ chlorinity 3
 cozenage
 commissionership
 comitadji
-cop 1
+cop 2
 clear 1
 crackskull 1
 cored
