@@ -2485,7 +2485,7 @@ endows
 eupolyzoa 3
 eleve
 exegete
-ellipsoids
+ellipsoids 1
 eurythmical 2
 enstatite 3
 electrogasdynamics
