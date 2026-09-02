@@ -10626,7 +10626,7 @@ gunshop
 gulches
 gunsmithing 1
 grossification
-grank 2
+grank 3
 gunstocker 2
 geronto 1
 girns 3
