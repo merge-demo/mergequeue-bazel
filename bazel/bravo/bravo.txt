@@ -6982,7 +6982,7 @@ besmirchers 2
 bactris
 bankfull
 besmooth
-besmooths 2
+besmooths 3
 betrust 3
 bleeders 1
 barricades 2
