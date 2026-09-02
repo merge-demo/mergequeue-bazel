@@ -13205,7 +13205,7 @@ castoridae
 crookbilled 1
 cannonproof 1
 caryota
-cyclic
+cyclic 1
 cyclical 1
 cyclizing 1
 cyclically 1
