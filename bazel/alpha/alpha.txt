@@ -1303,7 +1303,7 @@ attemptless
 aromatic 1
 aggregant 1
 acaudate
-aberdonian
+aberdonian 1
 aluminaphone
 antarchism
 adtevac
