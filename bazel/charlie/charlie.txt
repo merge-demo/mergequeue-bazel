@@ -29490,7 +29490,7 @@ chawle
 cageot
 cloak 1
 chileanize
-crystallography
+crystallography 1
 crystalloid
 concretism 1
 choragium 1
