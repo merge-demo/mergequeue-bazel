@@ -6954,7 +6954,7 @@ barrico 1
 besiegers 1
 bedeman 2
 bromism
-beslap
+beslap 1
 bushbashing
 bastillion 1
 bearherd 3
