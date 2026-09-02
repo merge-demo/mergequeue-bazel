@@ -1507,7 +1507,7 @@ efl 2
 efoliose
 efph 2
 enantiomorphism
-erringly
+erringly 1
 entocondylar 1
 experimentarian 1
 estantion 2
