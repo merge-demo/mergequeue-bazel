@@ -11407,7 +11407,7 @@ carib
 cellulomonadeae 1
 chemotroph
 chlorpicrin 2
-chlorpromazine 3
+chlorpromazine 4
 cheerfulsome
 ciboule
 chlorsalol
