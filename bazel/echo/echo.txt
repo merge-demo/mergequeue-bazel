@@ -8676,7 +8676,7 @@ encharge 2
 episcleritis 1
 earth 3
 epiglottides 3
-evangelists
+evangelists 1
 equiperiodic 1
 emendations 5
 equipoise 1
