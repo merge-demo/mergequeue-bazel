@@ -18125,7 +18125,7 @@ coequal
 coteful
 campman
 carpe
-coequalness
+coequalness 1
 chopping
 coequals
 coequate
