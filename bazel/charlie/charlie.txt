@@ -10182,7 +10182,7 @@ chi 1
 codworm 1
 croisard
 coussinet 2
-chia 1
+chia 2
 chyack 3
 chianti 2
 chiao
