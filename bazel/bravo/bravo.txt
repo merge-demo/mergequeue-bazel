@@ -8602,7 +8602,7 @@ brethel
 beldames 2
 bookable 2
 brightsomeness
-bowling
+bowling 1
 bryales 2
 bespurred
 billman 1
