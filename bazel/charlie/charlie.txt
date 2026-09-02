@@ -15327,7 +15327,7 @@ cappella
 clangour 2
 clangoured
 clangouring
-cakewalks
+cakewalks 1
 campings
 clangours 2
 clangs
