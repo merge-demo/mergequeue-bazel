@@ -20507,7 +20507,7 @@ condors
 compatible
 clouts
 compatibleness 1
-chlorider
+chlorider 1
 compatriotic 2
 chilicote
 chays
