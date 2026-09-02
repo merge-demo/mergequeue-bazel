@@ -5089,7 +5089,7 @@ galloping 1
 glassiness 3
 glasslikeness 1
 goosefoots 3
-garrya
+garrya 1
 gilled 2
 gypper 4
 griffins 1
