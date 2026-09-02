@@ -17903,7 +17903,7 @@ bushelling
 boopis 3
 busher 2
 bernoo 1
-bushfighting
+bushfighting 1
 bushfires 1
 backslider 1
 blamed
