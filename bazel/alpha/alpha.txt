@@ -24269,7 +24269,7 @@ autonegation 4
 acclaimed
 aceldama
 autonomasy
-afeard
+afeard 1
 airmen
 alliteral 1
 alters 1
