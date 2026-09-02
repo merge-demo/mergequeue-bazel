@@ -502,7 +502,7 @@ forcleave
 fakery 1
 flaxweed 2
 foreconsider 1
-funbre
+funbre 1
 friz 2
 fertilizing 1
 frenne 1
