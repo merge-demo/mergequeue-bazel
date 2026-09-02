@@ -9468,7 +9468,7 @@ birodo 2
 bisulphide 1
 brittling 2
 babingtonite 3
-biron
+biron 1
 byronesque
 birostrate 2
 byronic
