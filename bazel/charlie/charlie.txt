@@ -21845,7 +21845,7 @@ caravanist 2
 confabulatory
 caracul
 counterdecree
-confact
+confact 1
 cartelizing 1
 cigarito
 considerativeness 1
