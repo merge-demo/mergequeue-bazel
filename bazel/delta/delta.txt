@@ -10188,7 +10188,7 @@ dehonestate 2
 demirevetment
 disallowing 3
 distillation
-dinging 2
+dinging 3
 dingleberry
 dingled
 dreidl 2
