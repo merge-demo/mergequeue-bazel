@@ -1722,7 +1722,7 @@ dearness 1
 deaspirate 1
 dispensations 1
 decostate
-defensibility
+defensibility 1
 deaspiration 2
 degree 1
 dihely 1
