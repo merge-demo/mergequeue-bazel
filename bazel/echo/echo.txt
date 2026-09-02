@@ -3426,7 +3426,7 @@ embassadress 1
 exumbral
 elaine
 embassy
-eustomatous
+eustomatous 1
 eriometer 1
 episyllogism 2
 edeotomy 1
