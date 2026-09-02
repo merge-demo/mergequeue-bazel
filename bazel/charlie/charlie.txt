@@ -25034,7 +25034,7 @@ circumstantiates
 cordoned
 cordoning
 cordonnet
-chere
+chere 1
 cordons
 cords
 craftmanship
