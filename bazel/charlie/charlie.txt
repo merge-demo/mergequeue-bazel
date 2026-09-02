@@ -8324,7 +8324,7 @@ chalkos
 chalkotheke 1
 chalkpit
 chalkrail 1
-circumflect
+circumflect 1
 catechizable
 chalkworker
 challah
