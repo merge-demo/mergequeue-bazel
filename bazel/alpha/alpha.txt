@@ -19103,7 +19103,7 @@ archregent 1
 archrogue
 archruler
 apparentness
-antimediaevalism
+antimediaevalism 1
 arachnophagous
 ancha 1
 auryl 2
