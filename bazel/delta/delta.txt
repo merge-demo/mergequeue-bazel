@@ -8681,7 +8681,7 @@ dum
 dovekey
 diastalsis
 diglossia 2
-disgustedness
+disgustedness 1
 dryads
 dialectology 2
 diastasimetry 1
