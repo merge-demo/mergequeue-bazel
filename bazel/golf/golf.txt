@@ -1888,7 +1888,7 @@ geodic
 galacturia 3
 gardenwise 1
 grabber 5
-gatherers
+gatherers 1
 galumph 1
 gooma 2
 gamenesses
