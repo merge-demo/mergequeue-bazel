@@ -23190,7 +23190,7 @@ atterminement 1
 atterr 1
 aggressionist
 attest
-attestable 1
+attestable 2
 amphibology 1
 artel
 arsonvalization
