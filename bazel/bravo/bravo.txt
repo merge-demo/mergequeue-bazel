@@ -6509,7 +6509,7 @@ beetleheaded
 bequalm
 bioblast
 bklr 1
-bequeathed
+bequeathed 1
 bruges
 blooping 4
 biokinetics
