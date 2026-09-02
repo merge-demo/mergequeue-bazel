@@ -4182,7 +4182,7 @@ guaranin 2
 gemmule 1
 gaslit 2
 gainful
-gyrocompass
+gyrocompass 1
 geographical 2
 gaggles 3
 gundogs 2
