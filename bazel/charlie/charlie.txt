@@ -20380,7 +20380,7 @@ coolants
 compacter 1
 chirked
 colibertus 1
-compactible
+compactible 1
 crampedness 2
 categorizations 1
 cincinnus
