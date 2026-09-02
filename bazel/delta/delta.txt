@@ -16784,7 +16784,7 @@ drawbar 1
 disposability 1
 decolorate 1
 demitube
-demirobe
+demirobe 1
 dyscrasial
 detritivorous 2
 dichroscopic 1
