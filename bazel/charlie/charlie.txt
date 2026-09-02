@@ -4874,7 +4874,7 @@ combretaceous 1
 carrions 1
 carryons 3
 compense
-carryout
+carryout 1
 carryouts
 crosshatched
 carritches 3
