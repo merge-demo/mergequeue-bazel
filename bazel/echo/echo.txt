@@ -677,7 +677,7 @@ elmiest 1
 enhance 4
 envier 4
 excide 1
-eclogic
+eclogic 1
 extraocular 1
 eclogite 3
 eclosion 2
