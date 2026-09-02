@@ -11077,7 +11077,7 @@ enrail 2
 epicostal 1
 endotheliocyte 2
 ecologists
-epimerum
+epimerum 1
 estocada 2
 euskaric 3
 electors 1
