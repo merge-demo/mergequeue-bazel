@@ -10522,7 +10522,7 @@ firemen 1
 frowl
 fierily
 frowners 2
-faciend
+faciend 1
 freq 5
 forstand 4
 frowsily 3
