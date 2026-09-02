@@ -7512,7 +7512,7 @@ burses
 beverse 2
 barbets
 bluebirds 2
-blastocolla
+blastocolla 1
 balsamweed
 barrelmaking 1
 boneache 3
