@@ -13098,7 +13098,7 @@ blowzier 1
 brahui 1
 boride 2
 benchmen
-bregmatic
+bregmatic 1
 boringness 3
 bilging
 brewings
