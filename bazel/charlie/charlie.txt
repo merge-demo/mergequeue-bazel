@@ -25962,7 +25962,7 @@ cousiny
 corvees 1
 centered 1
 corven 1
-corver
+corver 1
 corves
 codifier
 corvet
