@@ -5689,7 +5689,7 @@ agallochs
 acupunctuation 1
 afunction
 aquafortist
-agalma
+agalma 1
 ardea 2
 apocopating
 antechurch 1
