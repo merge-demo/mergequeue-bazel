@@ -6641,7 +6641,7 @@ breastbone
 bordar 2
 boneshave 1
 bodegon 3
-beribanded
+beribanded 1
 birdy 1
 bargeboard 2
 barbarious 1
