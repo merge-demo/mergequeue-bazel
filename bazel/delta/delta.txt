@@ -1503,7 +1503,7 @@ depressure
 deaccessioning
 drawbolt 5
 dingbats 1
-draughts
+draughts 1
 definiendum 1
 deformers 1
 diazines 1
