@@ -6788,7 +6788,7 @@ altars
 aircraftmen 1
 aircraftsman
 adsorptiveness 1
-aircraftsmen 1
+aircraftsmen 2
 aircraftswoman 1
 amytal
 aircraftwoman
