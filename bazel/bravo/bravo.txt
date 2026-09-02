@@ -8106,7 +8106,7 @@ bourbon 3
 bug 2
 blasphemer
 beltmaker
-botonn 2
+botonn 3
 besieging 1
 bloodhound 4
 bidiagonal

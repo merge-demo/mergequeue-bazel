@@ -5829,7 +5829,7 @@ fenestration 3
 flywinch 1
 fulfils 3
 flouncey 1
-footback
+footback 1
 forgrown 4
 fallers
 filariid 5
