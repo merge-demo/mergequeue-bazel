@@ -2703,7 +2703,7 @@ enduros 1
 electrotherapy 4
 electrotheraputic
 emyds 2
-elaeopten 1
+elaeopten 2
 electrothermal
 ephippial 2
 emulsoidal 2
