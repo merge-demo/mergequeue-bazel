@@ -3684,7 +3684,7 @@ baste 1
 bucketful
 bally
 belfather
-batteaux
+batteaux 1
 bonnering
 bakatan
 battement
