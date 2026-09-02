@@ -2074,7 +2074,7 @@ foggara
 filibuster 2
 feudalisation
 famishes 1
-foremasthand
+foremasthand 1
 felicity 2
 fructidor 1
 fusibleness 1
