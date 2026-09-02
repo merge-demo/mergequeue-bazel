@@ -19954,7 +19954,7 @@ ceraunomancy
 commandoman
 canfieldite 1
 canoodled
-commandos
+commandos 1
 colove
 cheery
 cofferlike
