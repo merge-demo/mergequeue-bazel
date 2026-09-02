@@ -13158,7 +13158,7 @@ borrowable 2
 barocyclonometer
 borrower
 borrowers 1
-bors
+bors 1
 butteriest 1
 barded 1
 belive 3
