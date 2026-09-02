@@ -4510,7 +4510,7 @@ destruction
 demiculverin 1
 dodgiest 1
 divulsed
-demidistance
+demidistance 1
 diaphane 1
 diabetogenic 3
 downtrend 2
