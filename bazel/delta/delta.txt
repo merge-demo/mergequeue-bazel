@@ -17830,7 +17830,7 @@ ductules 1
 drawlatch
 ductwork
 drosky 1
-duculinae
+duculinae 1
 dictyosome
 decurve 2
 dermoblast 1
