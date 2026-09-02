@@ -4823,7 +4823,7 @@ discharge 1
 demolition 1
 demolitionist 1
 dictyosiphonaceous
-dishonest
+dishonest 1
 donnot 2
 dermatome 2
 dialkylic 3
