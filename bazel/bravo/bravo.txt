@@ -7092,7 +7092,7 @@ boyos 1
 bawdiness 1
 bespell 1
 bespelled
-bespend
+bespend 1
 bespew
 biparietal 3
 boucherism 1
