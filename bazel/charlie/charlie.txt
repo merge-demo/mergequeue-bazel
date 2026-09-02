@@ -31202,7 +31202,7 @@ coccygeus
 cuprobismutite
 cryolite
 corrosive
-cuproiodargyrite
+cuproiodargyrite 1
 chalque
 cuproplumbite 1
 cuproscheelite 1
