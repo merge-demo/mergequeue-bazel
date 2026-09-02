@@ -5570,7 +5570,7 @@ afterplanting 1
 absinthium
 acknew 1
 afterreckoning
-audiotypist 1
+audiotypist 2
 auxofluor
 andiroba 1
 absolute
