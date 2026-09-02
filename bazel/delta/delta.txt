@@ -5756,7 +5756,7 @@ dernly
 depolarize 2
 dextrorsal 1
 decouple 1
-downstroke
+downstroke 1
 diaphany 1
 downloads 1
 diazotizability
