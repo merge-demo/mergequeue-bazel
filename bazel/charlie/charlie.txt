@@ -9904,7 +9904,7 @@ chemotactic
 cresylene
 choochoo 1
 chemotaxy 1
-collocatory 1
+collocatory 2
 chemotaxonomy
 chemotaxonomic 1
 controls
