@@ -6469,7 +6469,7 @@ eskars
 eyeflap 2
 encroachment 2
 extensionless 1
-embroideries
+embroideries 1
 elvira 2
 ensober 2
 ensorceled
