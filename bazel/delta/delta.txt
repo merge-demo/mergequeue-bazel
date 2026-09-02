@@ -12784,7 +12784,7 @@ desirously 2
 decompressive 1
 deblocking
 dunk 2
-debouch
+debouch 1
 dissensions
 diathesic 2
 duplicatus
