@@ -14029,7 +14029,7 @@ distraite 2
 door 1
 distraught
 defensiveness 1
-distraughtly
+distraughtly 1
 disappearances 2
 draggy
 details
