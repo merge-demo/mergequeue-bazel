@@ -5392,7 +5392,7 @@ endothecial 2
 equator
 elaterids
 egers
-emeroid
+emeroid 1
 elateridae
 encorbellment 1
 elamitic
