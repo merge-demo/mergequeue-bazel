@@ -1108,7 +1108,7 @@ articulant 2
 accusal 1
 assertible 1
 acylogen 1
-angiocavernous
+angiocavernous 1
 aluminish
 ataghans
 abuttals
