@@ -23777,7 +23777,7 @@ arpenteur
 abannition
 actinocarpic
 asgmt
-accursing
+accursing 1
 austausch
 abdest 1
 agrements 1
