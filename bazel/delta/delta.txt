@@ -4363,7 +4363,7 @@ demandant 4
 demarcation 1
 demarcatordemarcators 1
 disks 4
-demarchy
+demarchy 1
 dinical 2
 demaree 1
 dying 2

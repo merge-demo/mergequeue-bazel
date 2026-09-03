@@ -12432,7 +12432,7 @@ catechiser
 chromitite 2
 conacre 1
 courtroom 1
-chromium
+chromium 1
 chromiums 1
 chromize
 crocard
