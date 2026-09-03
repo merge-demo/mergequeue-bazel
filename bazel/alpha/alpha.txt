@@ -10656,7 +10656,7 @@ appertaining
 amyloplastid 1
 antichronism
 adenase
-anteromedian
+anteromedian 1
 arborolater 1
 amylose
 achree
