@@ -6557,7 +6557,7 @@ descriptionless
 dangleberry
 distensile 2
 dysnomy
-designator
+designator 1
 diota 2
 daedal
 deity 2
