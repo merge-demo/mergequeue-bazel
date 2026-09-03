@@ -666,7 +666,7 @@ damon 1
 damosel 2
 drachms
 divorcement
-decapitalize
+decapitalize 1
 damped 1
 desquamated 2
 dukely
