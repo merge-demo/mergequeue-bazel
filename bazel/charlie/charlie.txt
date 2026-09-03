@@ -21595,7 +21595,7 @@ counteroffensives 1
 crustless 1
 condensaries
 condensates
-cultivars
+cultivars 1
 crick 1
 condensation
 condensator 1
