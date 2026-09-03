@@ -18881,7 +18881,7 @@ coliseum
 chancelor 1
 colossus
 cestoid 1
-colistin 1
+colistin 2
 coypou
 colitic 1
 colitises
