@@ -28753,7 +28753,7 @@ crepon 1
 crept 1
 canters
 circaetus
-compendiary
+compendiary 1
 crepuscular
 cavitate
 cornutine
