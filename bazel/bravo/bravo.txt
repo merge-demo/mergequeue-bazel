@@ -3927,7 +3927,7 @@ butternose 2
 bdellium 2
 bdelliums 2
 brownist 1
-bdelloid
+bdelloid 1
 bdellometer 1
 boarts 1
 booksellerish 1
