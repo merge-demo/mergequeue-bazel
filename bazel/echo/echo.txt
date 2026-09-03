@@ -1892,7 +1892,7 @@ endamage 2
 everwho 2
 eightball
 eir 1
-eclat 1
+eclat 2
 epurate 1
 eptatretidae
 entrepeneur
