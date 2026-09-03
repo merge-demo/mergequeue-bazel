@@ -7507,7 +7507,7 @@ fribbles 2
 fideos 1
 fleetest 1
 freeholders 1
-faultily
+faultily 1
 fergus 2
 fellatah 1
 fullface 2
