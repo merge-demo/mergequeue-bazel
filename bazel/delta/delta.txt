@@ -7954,7 +7954,7 @@ dextran
 dextranase 1
 doublelunged
 disallowable 1
-demicylinder
+demicylinder 1
 defunctive 1
 downsteepy 1
 diathermal 1
