@@ -10901,7 +10901,7 @@ decerebrize 1
 diruption 1
 dereference
 deployed 2
-disable
+disable 1
 deputationize 2
 delusions 1
 denazify 1
