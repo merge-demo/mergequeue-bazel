@@ -9905,7 +9905,7 @@ cresylene
 choochoo 1
 chemotaxy 1
 collocatory 2
-chemotaxonomy
+chemotaxonomy 1
 chemotaxonomic 1
 controls
 comma 2
