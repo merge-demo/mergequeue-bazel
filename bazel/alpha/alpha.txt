@@ -1265,7 +1265,7 @@ arcturus 3
 aerognosy
 australopithecine
 ails 1
-antifoggant
+antifoggant 1
 acarpelous 1
 augitic 1
 antisceptic 1
