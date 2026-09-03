@@ -1485,7 +1485,7 @@ eurythermous 1
 electivism
 electroshocks
 exposal
-embolium
+embolium 1
 embarrased 2
 empathic 3
 etui 2
