@@ -8472,7 +8472,7 @@ easterlies 2
 eprise
 epimorpha 1
 endures
-epsilons
+epsilons 1
 expressionistic 1
 entryways 2
 entrants 3
