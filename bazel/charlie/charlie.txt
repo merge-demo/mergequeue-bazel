@@ -8457,7 +8457,7 @@ cribbage 3
 chamotte 1
 coarbiter 3
 cauligenous
-champagneless
+champagneless 1
 champagning 1
 chockman
 champagnize
