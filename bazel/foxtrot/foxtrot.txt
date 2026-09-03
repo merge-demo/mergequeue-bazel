@@ -2557,7 +2557,7 @@ fleerer 4
 flimp 4
 ferricyanide
 ferrihydrocyanic 3
-fervency
+fervency 1
 freshmanship 1
 feedsman 2
 fiduciaries 2
