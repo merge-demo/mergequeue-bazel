@@ -592,7 +592,7 @@ decopperization 1
 downweight 1
 desmopathologist
 dicyclopentadienyliron 2
-dehydroretinol
+dehydroretinol 1
 develin 1
 drawboy 3
 demifusion
