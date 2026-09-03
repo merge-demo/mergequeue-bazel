@@ -6559,7 +6559,7 @@ extraplanetary
 egophonic
 entangles 2
 empanel 1
-eatings
+eatings 1
 entasis 1
 extreat 2
 emiction 2
