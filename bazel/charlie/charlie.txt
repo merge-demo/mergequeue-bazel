@@ -6388,7 +6388,7 @@ charioted
 chancre 1
 cautelous
 camphoronic
-cautelously
+cautelously 1
 crocodylidae 2
 cyclopaedically 1
 car
