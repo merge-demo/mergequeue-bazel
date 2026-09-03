@@ -8836,7 +8836,7 @@ accentors 1
 allocations
 amyosthenia
 amender
-adeptly
+adeptly 1
 adamastor
 anaphora
 aditus
