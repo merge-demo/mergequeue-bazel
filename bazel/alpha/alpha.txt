@@ -24340,7 +24340,7 @@ aquaducts 2
 autoracemization 3
 acetophenetide
 autoradiogram 1
-autoradiograph
+autoradiograph 1
 autoreflection
 asterochiton
 allopurinol
