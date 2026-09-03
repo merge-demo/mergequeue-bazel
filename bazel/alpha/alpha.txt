@@ -5571,7 +5571,7 @@ absinthium
 acknew 1
 afterreckoning
 audiotypist 2
-auxofluor
+auxofluor 1
 andiroba 1
 absolute
 afters 2
