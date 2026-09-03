@@ -5684,7 +5684,7 @@ eucalypts
 enfree 1
 exordiums
 exposable
-eligibly
+eligibly 1
 erysiphaceae
 ectocelic 1
 extranatural 1
