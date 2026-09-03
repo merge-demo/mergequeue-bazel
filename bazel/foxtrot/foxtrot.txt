@@ -6271,7 +6271,7 @@ fluidist 2
 festers 1
 fluidized 3
 ferroconcrete
-firers 1
+firers 2
 flared 2
 fissiparation 5
 fortissimos 2
