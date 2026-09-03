@@ -10452,7 +10452,7 @@ damask
 discolith
 devinct
 disinflame
-dow
+dow 1
 douzainier 1
 diplomatism 1
 duenna 1
