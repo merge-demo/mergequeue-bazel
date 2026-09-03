@@ -9399,7 +9399,7 @@ escapees 4
 erysipelas 3
 eyehole 3
 extraordinarily
-exactus
+exactus 1
 entonic 2
 explainer 1
 endeavor
