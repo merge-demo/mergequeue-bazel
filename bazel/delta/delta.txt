@@ -1540,7 +1540,7 @@ deacons
 demobilizes 1
 diphygenic
 deactivate 5
-discoglossid
+discoglossid 1
 distractedly
 dallies 1
 dicacodyl 1
