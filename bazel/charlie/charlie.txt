@@ -18470,7 +18470,7 @@ cessations 1
 cursor
 coheiress
 cepheus 1
-clericalize
+clericalize 1
 crosslet
 circlet
 champac 1
