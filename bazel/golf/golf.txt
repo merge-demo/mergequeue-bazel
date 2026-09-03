@@ -1892,7 +1892,7 @@ gatherers 1
 galumph 1
 gooma 2
 gamenesses
-grecale
+grecale 1
 grubstake
 gating 2
 guaiocum 1
