@@ -9546,7 +9546,7 @@ frist 1
 findfault 1
 fullers 2
 forche 4
-foliated
+foliated 1
 fyrd 1
 fishwives 1
 felicitate 2
