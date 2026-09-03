@@ -8583,7 +8583,7 @@ fornicatrix 1
 fieldman 3
 frameshift 1
 fullfil 4
-fissionable 3
+fissionable 4
 fungating 2
 farmsteading 1
 forninst 1
