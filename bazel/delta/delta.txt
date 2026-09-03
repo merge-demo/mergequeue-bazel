@@ -14143,7 +14143,7 @@ disulfonic
 dispread 2
 disulfoxid
 dhobi 2
-defective
+defective 1
 demandingness 1
 decedent 1
 disulphate 1
