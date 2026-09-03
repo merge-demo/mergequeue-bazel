@@ -7046,7 +7046,7 @@ byre
 beknots
 biodegrade 2
 barbute
-billiardist
+billiardist 1
 besouth 2
 blaming 1
 bedazzlement
