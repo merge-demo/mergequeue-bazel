@@ -5103,7 +5103,7 @@ glyc 1
 gallberries 1
 grav 1
 gomerec
-grittier
+grittier 1
 gunman 3
 garboards
 guilelessly
