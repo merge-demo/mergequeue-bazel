@@ -9321,7 +9321,7 @@ axstone
 azoerythrin 1
 alpenglow
 amputations
-alpenstock
+alpenstock 1
 alpenstocks
 alpestrine 1
 aircraft 2
