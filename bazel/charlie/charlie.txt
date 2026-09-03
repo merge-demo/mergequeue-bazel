@@ -18242,7 +18242,7 @@ cuss 1
 capelets 1
 chemicovital
 coffeehouse 1
-coffeehouses 1
+coffeehouses 2
 coffeeman
 classico
 coffeepots 2
