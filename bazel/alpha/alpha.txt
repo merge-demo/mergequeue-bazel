@@ -15434,7 +15434,7 @@ antiprogressive 1
 asslike 1
 antimason
 antimasque
-antimasquer 1
+antimasquer 2
 attitude
 abba 2
 anhedonic 1
