@@ -13880,7 +13880,7 @@ extradosed 1
 entireties 1
 environments 2
 ectobronchium 1
-eucalyptus
+eucalyptus 1
 enviers 1
 extraessential
 extrafine 2
