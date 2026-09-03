@@ -27172,7 +27172,7 @@ camarine 3
 countertechnicality
 countertendency
 cavalry 1
-carcasses
+carcasses 1
 cataspilite 1
 counterterrorism 1
 clasping 1
