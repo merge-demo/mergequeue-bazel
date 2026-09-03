@@ -3681,7 +3681,7 @@ fertilised 2
 foreglow
 finedrawing 1
 fluxweed
-fungible 6
+fungible 7
 federalize 4
 freeboots 2
 footbreadth 1
