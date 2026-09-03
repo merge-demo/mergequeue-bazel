@@ -14981,7 +14981,7 @@ breba 2
 brewmaster
 boatfalls 1
 breccial
-boatly 1
+boatly 2
 breccias 1
 brecciated 3
 brecham 2
