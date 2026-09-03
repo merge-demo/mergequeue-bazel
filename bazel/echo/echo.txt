@@ -9813,7 +9813,7 @@ exprobrate 3
 estampage
 empiric 2
 enucleating 1
-evolving
+evolving 1
 estampede 1
 estang 2
 ethnographist 2
