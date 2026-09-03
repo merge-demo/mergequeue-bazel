@@ -7992,7 +7992,7 @@ bespatterer
 bicircular 2
 bitemporal 1
 beedged
-byname 1
+byname 2
 bick 2
 bicycler
 bluebooks 1
