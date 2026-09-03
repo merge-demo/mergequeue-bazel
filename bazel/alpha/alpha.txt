@@ -7476,7 +7476,7 @@ achromic
 agelong 1
 agma
 anchoress
-albuginea
+albuginea 1
 archivist
 albugines
 apometabolous
