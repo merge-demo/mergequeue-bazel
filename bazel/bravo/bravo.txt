@@ -17543,7 +17543,7 @@ burdigalian
 basipoditic
 blowpoint 2
 burds 1
-burweeds
+burweeds 1
 barraged
 bricklay 1
 bureaucratization 2
