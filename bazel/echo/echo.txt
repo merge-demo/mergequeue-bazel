@@ -8211,7 +8211,7 @@ empirics 1
 exigeant 3
 epiphany 3
 enkraal 1
-electrothermometer 1
+electrothermometer 2
 extinctive 1
 exsection 2
 empiecement
