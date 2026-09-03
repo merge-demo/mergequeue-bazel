@@ -10661,7 +10661,7 @@ goatsbane 2
 galp 4
 gurgoyle 2
 glaiketness 2
-genuflexion
+genuflexion 1
 glottologist 1
 guric 3
 grog 1
