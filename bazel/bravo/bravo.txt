@@ -6444,7 +6444,7 @@ benzoxyacetic 3
 blanchers 1
 ballast 1
 bisulcate 3
-bulldogged
+bulldogged 1
 biostratigraphy
 borderings
 bergmannite 2
