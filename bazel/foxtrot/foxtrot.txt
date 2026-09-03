@@ -9276,7 +9276,7 @@ framea
 framer 2
 frames 1
 frapler 1
-forename
+forename 1
 footmenfootpad 1
 fungologist 5
 fumarine 4
