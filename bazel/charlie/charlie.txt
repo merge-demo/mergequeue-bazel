@@ -13569,7 +13569,7 @@ cymballing 1
 cymbalom 2
 cimbaloms
 cymbalon
-cymbel
+cymbel 1
 cymbid 2
 clochard 3
 cymbidium 2
