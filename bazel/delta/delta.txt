@@ -16387,7 +16387,7 @@ devourment
 delocalized
 dispellable 2
 dogtrotted 2
-downgrowth
+downgrowth 1
 deducive
 dultie 1
 drawtube 1
