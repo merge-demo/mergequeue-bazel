@@ -14675,7 +14675,7 @@ brasque
 bloc 2
 bullwhack 1
 brassages
-brassard
+brassard 1
 briefing 2
 brassart
 brassarts 1
