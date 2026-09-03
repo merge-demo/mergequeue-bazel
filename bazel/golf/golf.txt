@@ -2133,7 +2133,7 @@ genderless 2
 gen 1
 glumiferous 2
 galla 4
-globosity
+globosity 1
 gaudete 2
 graced 2
 glycoluric 2
