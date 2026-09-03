@@ -10824,7 +10824,7 @@ bromate 1
 boxtree
 bider 2
 bhikku
-banished
+banished 1
 blethe
 bromomethane 1
 balate
