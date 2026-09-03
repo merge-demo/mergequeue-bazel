@@ -8470,7 +8470,7 @@ employed 1
 evangelistaries 2
 easterlies 2
 eprise
-epimorpha
+epimorpha 1
 endures
 epsilons
 expressionistic 1
