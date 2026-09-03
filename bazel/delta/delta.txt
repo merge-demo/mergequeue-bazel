@@ -8546,7 +8546,7 @@ duchy 1
 dethrone 2
 dewbeam 2
 didacts
-diaphanometric
+diaphanometric 1
 dampishness 2
 debateful
 daimonion 1
