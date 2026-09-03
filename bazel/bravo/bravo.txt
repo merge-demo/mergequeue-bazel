@@ -14819,7 +14819,7 @@ breadbasket 1
 bearability 1
 budges 1
 backstretch 2
-buckles
+buckles 1
 brazilian 1
 bewailing 1
 bunked
