@@ -22865,7 +22865,7 @@ checkbit
 coxcombically
 conservativeness 3
 commoves
-chittering
+chittering 1
 choisya 1
 collapsable
 conservatoires 1
