@@ -14027,7 +14027,7 @@ depasturation 2
 dehydrocorticosterone 3
 distraite 2
 door 1
-distraught
+distraught 1
 defensiveness 1
 distraughtly 1
 disappearances 2
