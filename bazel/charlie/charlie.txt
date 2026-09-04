@@ -25967,7 +25967,7 @@ corves
 codifier
 corvet
 corvette 1
-corvettes
+corvettes 1
 cadges 1
 corvidae 1
 corvillosum
