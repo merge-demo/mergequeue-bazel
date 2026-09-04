@@ -6574,7 +6574,7 @@ chondrofetal
 cazique
 cyanhidrosis
 cb 1
-calamanco
+calamanco 1
 coeditorship
 cachemia
 coryphaeus
