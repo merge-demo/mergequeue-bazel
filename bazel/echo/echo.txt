@@ -6386,7 +6386,7 @@ episcopize 1
 eprouvette 3
 enshrined 1
 enshrinement 1
-embars
+embars 1
 enshrinements 1
 endovaccination
 electrotyper
