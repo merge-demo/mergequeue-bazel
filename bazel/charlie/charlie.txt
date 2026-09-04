@@ -14590,7 +14590,7 @@ classroom
 cystocarcinoma 1
 cystocele 2
 cystocolostomy
-cystodynia
+cystodynia 1
 cystoelytroplasty 2
 chromene
 carpophaga
