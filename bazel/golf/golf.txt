@@ -2648,7 +2648,7 @@ gudgeoned 5
 glow 1
 garg
 germantown 2
-globulicidal
+globulicidal 1
 genetika 2
 gurgeon
 gathering 1
