@@ -5253,7 +5253,7 @@ bolters 2
 bastes
 bothsided 3
 begazing
-bimasty
+bimasty 1
 borderer 2
 bedabbling
 begem
