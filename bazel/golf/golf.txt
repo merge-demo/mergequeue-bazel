@@ -4936,7 +4936,7 @@ glaire 3
 glosses
 gigger
 gradual 1
-growliness 3
+growliness 4
 glaired
 geomaly 1
 gangway 2
