@@ -265,7 +265,7 @@ glyph 1
 gumminess
 grapta 1
 graziery
-geoplagiotropism 1
+geoplagiotropism 2
 grenada 2
 gnomon 5
 glauconiferous 2
