@@ -25124,7 +25124,7 @@ cores
 carbonates 2
 chlorospinel 1
 coresign
-coresonant
+coresonant 1
 convento 1
 chincher 1
 corespect 1
