@@ -1498,7 +1498,7 @@ forestology
 freebooters 1
 formamido 1
 fastens 3
-fermentatory
+fermentatory 1
 fetchingly 1
 florizine 2
 fanaticism
