@@ -3265,7 +3265,7 @@ atrabile
 anisotropism
 atresy 1
 acetanion
-army
+army 1
 azimin
 ambassadeur 3
 algebraize
