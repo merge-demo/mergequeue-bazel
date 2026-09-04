@@ -15496,7 +15496,7 @@ detergence
 discodactyl
 deceivableness 1
 dispell 3
-desist
+desist 1
 deflagrated
 decolorise
 dealers
