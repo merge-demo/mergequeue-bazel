@@ -11709,7 +11709,7 @@ chondral 1
 chondrarsenite
 cholesteric
 chondre
-chondrenchyma
+chondrenchyma 1
 caramelin
 cocomats 1
 columbian 1
