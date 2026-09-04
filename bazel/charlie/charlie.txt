@@ -11274,7 +11274,7 @@ chlorize 1
 cynocephalus 1
 chesterbed
 ceresin
-chlormethane
+chlormethane 1
 chrysidella
 chloroacetone
 childe
