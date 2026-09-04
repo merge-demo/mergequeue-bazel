@@ -5584,7 +5584,7 @@ biotype
 beknow
 blimpishly 2
 bel 1
-bemedalled
+bemedalled 1
 behoovingly
 basinasal
 boulanger
