@@ -7115,7 +7115,7 @@ birdsong 2
 boldnesses 1
 basso 2
 bespotting 2
-bespouse
+bespouse 1
 booties 2
 backstick 1
 backsets 1
