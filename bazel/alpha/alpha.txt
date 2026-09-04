@@ -2718,7 +2718,7 @@ attributes 1
 agonistically 1
 appleringie
 antiscorbutic
-acrimonious
+acrimonious 1
 acrindoline 1
 allamonti
 asteriae 1
