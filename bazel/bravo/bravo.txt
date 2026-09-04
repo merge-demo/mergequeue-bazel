@@ -12940,7 +12940,7 @@ bladderweed 4
 bronchocele 1
 berliners
 blameless
-bureaucratic
+bureaucratic 1
 breviloquence 2
 boleros
 bucktails
