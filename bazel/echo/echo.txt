@@ -1284,7 +1284,7 @@ eblis
 eucairite 2
 eleonorite
 eoghanacht
-epinephrin
+epinephrin 1
 eq 3
 eeriness 2
 ecostate 2
