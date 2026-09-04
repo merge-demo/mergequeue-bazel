@@ -14968,7 +14968,7 @@ brassicas
 breathe 1
 bravuraish 2
 blennophlogisma
-breathes
+breathes 1
 boarstaff 2
 breathiness
 bookishly
