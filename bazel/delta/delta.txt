@@ -6554,7 +6554,7 @@ descript
 descriptionist 2
 dogsled 1
 descriptionless
-dangleberry
+dangleberry 1
 distensile 2
 dysnomy
 designator 1
