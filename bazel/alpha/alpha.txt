@@ -20520,7 +20520,7 @@ airfreight 3
 arteriospasm
 arteriostenosis
 admix 1
-arteriotrepsis 1
+arteriotrepsis 2
 agyria 1
 amman 3
 androscoggin 3
