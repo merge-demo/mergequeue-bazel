@@ -452,7 +452,7 @@ cactoid
 combind
 crocodilean 1
 cactus 2
-copying 1
+copying 2
 civilisable 2
 chancered
 cactuslike
