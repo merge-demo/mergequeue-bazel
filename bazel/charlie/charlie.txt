@@ -4098,7 +4098,7 @@ colubrids 2
 coolerman 1
 cardiasthenia
 claying 2
-copromoter
+copromoter 1
 collops 1
 cardiectasis
 compileable
