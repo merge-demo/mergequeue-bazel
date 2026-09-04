@@ -21168,7 +21168,7 @@ concelebrates 1
 concelebration
 concenter 1
 concentering 1
-compasses 1
+compasses 2
 concento
 concolor
 chemicobiological
