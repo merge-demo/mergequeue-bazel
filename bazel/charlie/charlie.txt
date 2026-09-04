@@ -30592,7 +30592,7 @@ cuboids
 chondropharyngeal 1
 colloquium 1
 cubomedusan
-cubometatarsal
+cubometatarsal 1
 cubonavicular
 cubti
 cuca
