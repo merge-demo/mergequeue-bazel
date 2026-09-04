@@ -4465,7 +4465,7 @@ fannings
 freeloads 1
 febricity 2
 fishplate
-feste 1
+feste 2
 fate 5
 fishpole 2
 fishpoles 3
