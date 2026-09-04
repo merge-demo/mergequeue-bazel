@@ -16550,7 +16550,7 @@ comal
 croupes
 chirm 1
 cloisterly
-cloisterlike
+cloisterlike 1
 carburization
 cantish 3
 capsules
