@@ -9577,7 +9577,7 @@ algorithmic 2
 autoionization
 antepileptic
 amuse
-aspersors
+aspersors 1
 altruists
 altun
 anisomeles 1
