@@ -4421,7 +4421,7 @@ gorget 4
 grandezza 4
 gearcases 1
 gongs 1
-grifter 4
+grifter 5
 gorgoneum
 guestling 3
 gutted
