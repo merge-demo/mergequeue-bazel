@@ -26700,7 +26700,7 @@ counterassociation 1
 cammock 2
 careering
 counterattack
-colonels
+colonels 1
 capellane
 counterattacked 2
 cacanthrax
