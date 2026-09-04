@@ -2739,7 +2739,7 @@ gorlois 2
 geniture 1
 grenades 2
 geodesists
-gristmiller
+gristmiller 1
 gliadins 3
 guillotine
 gader 1
