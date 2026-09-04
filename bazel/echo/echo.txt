@@ -767,7 +767,7 @@ equilibrist 1
 easternizing 3
 ecoute 1
 exscinding 2
-ecphonema
+ecphonema 1
 emotes 2
 echinal 4
 euomphalid
