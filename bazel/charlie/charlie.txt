@@ -25740,7 +25740,7 @@ compossibility 1
 corrigible 1
 chainbearer
 curassows
-corrigibleness 2
+corrigibleness 3
 citrines 1
 chatta
 compote 1
