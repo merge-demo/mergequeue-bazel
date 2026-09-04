@@ -9262,7 +9262,7 @@ fraktur 6
 fasciolet 1
 fresnel 2
 foresentence 1
-fetishist
+fetishist 1
 fixtures 1
 fleuret 1
 fourchet 1
