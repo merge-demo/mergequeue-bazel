@@ -13647,7 +13647,7 @@ distractedness
 dolce 4
 def 1
 dissimilars 3
-dorize
+dorize 1
 dequantitate
 diedral 1
 dissimilate 1
