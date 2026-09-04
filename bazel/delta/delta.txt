@@ -5469,7 +5469,7 @@ dep 1
 doss
 deorganization 3
 deistic 2
-decolouriser 1
+decolouriser 2
 deorganize 1
 deregister 1
 disenablement 1
