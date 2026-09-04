@@ -9827,7 +9827,7 @@ eternise 3
 ethnolinguistic
 enamelware 1
 elenchtical 1
-exact
+exact 1
 estrich 1
 etagre 2
 expurgator 3
