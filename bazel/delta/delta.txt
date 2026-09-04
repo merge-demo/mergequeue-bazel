@@ -1578,7 +1578,7 @@ dhanush
 demand 1
 disposition
 determinatively 1
-desitive
+desitive 1
 disembody
 deadlocking
 decipolar 1
