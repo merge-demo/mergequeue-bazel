@@ -4897,7 +4897,7 @@ algorithms 3
 antipedal
 adoors 2
 archhost
-anticonservative 1
+anticonservative 2
 arenite
 areek 2
 aerodrome
