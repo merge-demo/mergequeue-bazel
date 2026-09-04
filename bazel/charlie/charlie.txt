@@ -22522,7 +22522,7 @@ conjuncts
 conjunctur
 conjunctures
 conjuration
-conjurations
+conjurations 1
 cesar
 conjured
 conjurement
