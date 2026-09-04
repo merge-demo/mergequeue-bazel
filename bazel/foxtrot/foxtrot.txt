@@ -6302,7 +6302,7 @@ falerian 2
 flumes
 fluminous
 freak
-fluxibility
+fluxibility 1
 flummer 4
 flickerproof
 flintlocks
