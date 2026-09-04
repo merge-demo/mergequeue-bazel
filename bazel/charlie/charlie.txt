@@ -28283,7 +28283,7 @@ crateman 1
 clitic
 cratemen 1
 criss
-crossbreed
+crossbreed 1
 crater
 cachet 1
 crossfiring
