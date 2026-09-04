@@ -2738,7 +2738,7 @@ backward 1
 beltline 4
 bullbat 1
 bismutoplagionite 1
-barolo
+barolo 1
 bm 1
 bicolored 2
 benab 2
