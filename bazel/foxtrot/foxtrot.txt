@@ -7424,7 +7424,7 @@ falconers 2
 fawnlike 1
 fans
 firefang
-footmen 3
+footmen 4
 ferrocerium 2
 forwarder 1
 filicides 2
