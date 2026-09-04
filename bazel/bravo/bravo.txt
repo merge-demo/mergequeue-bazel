@@ -7503,7 +7503,7 @@ beveller
 bookbinder 1
 bardelle 2
 biathlon 2
-bedgery
+bedgery 1
 bevenom 1
 bever 1
 barleducs 2
