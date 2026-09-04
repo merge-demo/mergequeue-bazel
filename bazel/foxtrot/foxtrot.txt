@@ -6408,7 +6408,7 @@ fireworm
 fatiguabilities 3
 fossae 1
 fluoride 2
-fibromyositis
+fibromyositis 1
 frasera 2
 flyboat 1
 flisky 4
