@@ -6792,7 +6792,7 @@ chary
 chancres 1
 chondroskeleton
 cubhood
-cerianthoid
+cerianthoid 1
 clearway 2
 celioparacentesis 2
 cerinthian 1
