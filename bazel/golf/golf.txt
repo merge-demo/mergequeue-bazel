@@ -2728,7 +2728,7 @@ gnatho
 groundmass 1
 glozing 3
 gryllidae 2
-grather
+grather 1
 gonopodium 3
 grided
 genitor 3
