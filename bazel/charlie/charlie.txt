@@ -10221,7 +10221,7 @@ chiasmus
 coeline
 curacao
 chiastoneural 1
-chiastoneury
+chiastoneury 1
 chalone
 cubanize 1
 cyclistic 1
