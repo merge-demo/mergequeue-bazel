@@ -2036,7 +2036,7 @@ farouche 1
 frogmouth 1
 fourpounder 1
 ferngrower
-frontspiece
+frontspiece 1
 feinter 1
 feudary 2
 fundi 2
