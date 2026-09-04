@@ -6229,7 +6229,7 @@ caudocephalad 2
 ceile
 clappering
 covertness 1
-caudofemoral
+caudofemoral 1
 caudolateral 1
 crossbones 1
 curstness
