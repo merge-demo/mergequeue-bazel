@@ -3780,7 +3780,7 @@ diallers 2
 dehumidified
 disimbitter
 deia
-deadpanner 1
+deadpanner 2
 dyostyle 1
 detest 1
 dor
