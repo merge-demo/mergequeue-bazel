@@ -8134,7 +8134,7 @@ fondon 3
 farmland
 foison 2
 fire 1
-flexo 1
+flexo 2
 flatcaps 1
 faithful 1
 featurette
