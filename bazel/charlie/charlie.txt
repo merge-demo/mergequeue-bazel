@@ -19389,7 +19389,7 @@ chantable
 colorers 1
 cinerea
 carpocervical 1
-colorfastness
+colorfastness 1
 chailletiaceae
 chymifying
 colorful 2
