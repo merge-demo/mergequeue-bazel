@@ -29443,7 +29443,7 @@ crisps 2
 cystogenous 1
 companionway
 clagging
-crissal
+crissal 1
 chromodiascope
 chaetetidae
 chylaqueous
