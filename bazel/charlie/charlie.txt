@@ -8322,7 +8322,7 @@ columnated
 chalkone
 chalkos
 chalkotheke 1
-chalkpit
+chalkpit 1
 chalkrail 1
 circumflect 1
 catechizable
