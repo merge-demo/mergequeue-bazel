@@ -13871,7 +13871,7 @@ bowings
 bowkail 2
 barkentine
 blad
-bowlder 1
+bowlder 2
 bluefishes 1
 bauno 2
 bitbrace 1
