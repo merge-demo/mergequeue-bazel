@@ -12450,7 +12450,7 @@ barde
 bells
 boukit 2
 bescrawl 3
-booklists
+booklists 1
 bisymmetrically
 bicameralism
 budlike 3
