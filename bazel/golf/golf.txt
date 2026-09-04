@@ -6362,7 +6362,7 @@ gambelli 2
 ganoblast 2
 garnitures 3
 gustables 2
-gofer
+gofer 1
 given 2
 getspace
 goldspink 1
