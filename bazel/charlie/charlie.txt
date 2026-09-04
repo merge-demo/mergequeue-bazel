@@ -23933,7 +23933,7 @@ cicatricose 1
 cacological
 conv
 convalesced
-convalescence
+convalescence 1
 convalescently
 convalescents 1
 convalesces 1
