@@ -29261,7 +29261,7 @@ choices
 cryptobranchiate 1
 collides
 ciphered 1
-claquer
+claquer 1
 calibrate
 cryptobranchus
 candil
