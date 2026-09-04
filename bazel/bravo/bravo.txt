@@ -12194,7 +12194,7 @@ bacchides
 broomcorn 1
 brimstone
 blamable
-bollock
+bollock 1
 bema
 brachiate
 beginner 1
