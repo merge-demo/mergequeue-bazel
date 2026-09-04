@@ -29963,7 +29963,7 @@ crosstrack
 crosstree
 crossway 1
 crossways 1
-cetid 2
+cetid 3
 calcification
 cyclopaedic
 ctenocyst 1
