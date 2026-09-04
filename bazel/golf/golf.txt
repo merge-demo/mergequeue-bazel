@@ -905,7 +905,7 @@ gez 1
 gelatinizability 2
 genome 2
 guahivo 1
-genteeler
+genteeler 1
 gaverick 3
 geld 1
 guna 2
