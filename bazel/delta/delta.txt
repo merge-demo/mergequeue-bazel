@@ -1404,7 +1404,7 @@ dayless
 decephalize
 diorites
 daviesite
-deleted
+deleted 1
 demilitarize 2
 dispel 1
 downdale 3
