@@ -15329,7 +15329,7 @@ bridle 2
 bridled 2
 blackpot 2
 bridlers
-boredom
+boredom 1
 bridoons
 blurt 2
 boomier 2
