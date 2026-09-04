@@ -12254,7 +12254,7 @@ byssiferous
 bolt
 boltage
 bluestockings 1
-biasses
+biasses 1
 boltcutter 1
 bookmark
 behold 2
