@@ -12772,7 +12772,7 @@ bonanza 4
 bakutu 1
 bobotee 2
 brutifying 1
-bookstall
+bookstall 1
 baudekin 3
 bookstand 1
 blemisher 3
