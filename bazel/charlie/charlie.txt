@@ -14640,7 +14640,7 @@ cystopyelitis 2
 coquelicot 1
 cystoplegia
 cystoproctostomy
-cystopteris
+cystopteris 1
 cystoptosis 3
 cystopus
 cystoradiography 1
