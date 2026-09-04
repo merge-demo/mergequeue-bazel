@@ -15845,7 +15845,7 @@ antipyrine
 annuli 2
 aryballoi 2
 aliseptal
-antipyrotic
+antipyrotic 1
 aglobulism
 antiplanet 1
 antihylist
