@@ -14880,7 +14880,7 @@ cytophagous
 cytopharynx
 coldturkey 3
 countergabble 1
-coprozoic
+coprozoic 1
 cytophil 2
 cytophilic
 cytula
