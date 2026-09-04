@@ -8445,7 +8445,7 @@ exsuction 2
 eurytropic 2
 electroanalytic 2
 electroencephalography
-eponym
+eponym 1
 etiolate 2
 eponymus 4
 ensand 1
