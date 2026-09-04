@@ -1670,7 +1670,7 @@ gardeen 1
 gryphon 1
 grungiest 2
 gastrocoel
-gamuts
+gamuts 1
 gamelion 2
 gorkiesque
 gif 1
