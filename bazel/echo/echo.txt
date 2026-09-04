@@ -824,7 +824,7 @@ erythrinidae 1
 eral 3
 excrescent
 extremest
-extradecretal
+extradecretal 1
 encrust
 ectypography
 epitheton
