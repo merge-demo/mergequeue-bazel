@@ -5992,7 +5992,7 @@ confessionaries 1
 cathodal
 cathode
 chatelainry
-cathodes
+cathodes 1
 cuckstool
 cathodograph
 conjurers
