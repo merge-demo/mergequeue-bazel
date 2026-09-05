@@ -613,7 +613,7 @@ fragaria 2
 floodways 1
 fleshes 1
 forehand 2
-folly 1
+folly 2
 farrantly 1
 forebemoan 1
 forelimb 2
