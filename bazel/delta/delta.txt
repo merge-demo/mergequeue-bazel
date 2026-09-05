@@ -18533,7 +18533,7 @@ diagraphic 2
 desulfurization 1
 darbs
 disrates
-durians 1
+durians 2
 differ 4
 duricrust 1
 duridine
