@@ -3574,7 +3574,7 @@ kersl 3
 kertbr
 kerue
 keruji 2
-keruktcr 1
+keruktcr 2
 keruybes 3
 kerv
 kerwnvzmc 2
