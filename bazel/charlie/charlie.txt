@@ -7372,7 +7372,7 @@ crepuscle
 cephalology
 cryolites
 cephalom
-coquettishness
+coquettishness 1
 cephalomant
 cephalomeningitis 1
 compute 1
