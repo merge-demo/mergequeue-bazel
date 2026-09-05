@@ -6916,7 +6916,7 @@ airspaces 1
 ancience
 anterin 2
 alec 1
-airspeeds
+airspeeds 1
 az 1
 adrent 1
 airt
