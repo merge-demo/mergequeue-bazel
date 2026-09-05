@@ -6262,7 +6262,7 @@ dermatolysis 2
 duchesnea 2
 disfigured 2
 deutobromide
-dividable
+dividable 1
 defenser 3
 dermatomere 3
 dermatomyces 2
