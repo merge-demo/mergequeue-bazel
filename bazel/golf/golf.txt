@@ -6434,7 +6434,7 @@ gobiesocid 1
 geostrophic 1
 gymnocladus 1
 grows 4
-gentlemanliness 3
+gentlemanliness 4
 gocart 2
 giddypate 3
 girnie 2
