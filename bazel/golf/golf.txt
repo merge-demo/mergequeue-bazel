@@ -5599,7 +5599,7 @@ garuda
 ginks 2
 gipsyry
 gravestone
-governance 1
+governance 2
 goller 1
 giantesque 5
 grithbreach 2
