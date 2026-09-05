@@ -7672,7 +7672,7 @@ alcoholdom 1
 abbrev 2
 alcoholemia
 alcoholically 2
-appetition
+appetition 1
 anaudia 3
 appendicocaecostomy 2
 antonymic
