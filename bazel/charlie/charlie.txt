@@ -9866,7 +9866,7 @@ correspondentially
 clamp
 chemophysiology 2
 chemoprophyalctic
-cycle
+cycle 1
 chemoprophylactic
 cruiser 1
 coaxer
