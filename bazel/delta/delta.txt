@@ -16006,7 +16006,7 @@ doub 1
 downsize
 decrepitude
 direct 2
-double 1
+double 2
 demos 1
 dotter 2
 detrimentality
