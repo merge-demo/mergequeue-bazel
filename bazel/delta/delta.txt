@@ -7431,7 +7431,7 @@ detraque 1
 deathsmen 1
 detrect 1
 detrench 3
-demigentleman 1
+demigentleman 2
 dismoded
 diapensia 1
 daddynut
