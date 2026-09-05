@@ -1572,7 +1572,7 @@ ballista
 basketlike 1
 beatinest 1
 ballistician 1
-brachioganoidei 2
+brachioganoidei 3
 ballflower 2
 bifurcate
 ballywack
