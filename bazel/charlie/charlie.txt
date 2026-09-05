@@ -10849,7 +10849,7 @@ cinnoline
 chip
 chipchop
 chipewyan
-chiplet
+chiplet 1
 culvert
 chipmunk 1
 claviharp 1
