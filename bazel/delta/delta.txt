@@ -9378,7 +9378,7 @@ dunlin
 depulse 3
 dottels 3
 demasted 1
-dentirostres
+dentirostres 1
 dautie 1
 dulosis 2
 depurged
