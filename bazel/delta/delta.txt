@@ -15499,7 +15499,7 @@ dispell 3
 desist 1
 deflagrated
 decolorise
-dealers
+dealers 1
 demodulates 3
 dependableness
 dismembers 2
