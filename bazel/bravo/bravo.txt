@@ -17934,7 +17934,7 @@ bioclean 3
 bushmaking
 branial
 bibliopoly
-bushman
+bushman 1
 bisinuate 2
 benignant 1
 bushmasters 1
