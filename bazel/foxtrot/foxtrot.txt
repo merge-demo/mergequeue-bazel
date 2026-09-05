@@ -11102,7 +11102,7 @@ fiendlier 2
 flops 4
 fervanite 2
 foyaite 2
-fundamentalists
+fundamentalists 1
 flatbread 3
 fastland 3
 formality 2
