@@ -3603,7 +3603,7 @@ flank 1
 filers 3
 fructification 3
 felinity 1
-floorway 3
+floorway 4
 files
 fiddle
 filesniff
