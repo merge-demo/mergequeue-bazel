@@ -7360,7 +7360,7 @@ bethroot
 blackbirds 3
 bamboche 3
 bigmouthed 1
-bethump
+bethump 1
 betides
 bego 2
 bombous 1
