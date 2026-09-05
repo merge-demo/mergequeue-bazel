@@ -9907,7 +9907,7 @@ bitterroot 2
 backfall 1
 berrying 2
 bittersweets
-bittie
+bittie 1
 bittiest
 blatherer
 bigroot
