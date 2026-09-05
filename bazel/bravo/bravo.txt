@@ -16538,7 +16538,7 @@ broadpiece
 bisellium
 bisonant
 brutely 3
-blindstitch
+blindstitch 1
 basils 1
 bruteness 1
 befilleted 1
