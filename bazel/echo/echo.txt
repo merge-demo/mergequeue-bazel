@@ -8562,7 +8562,7 @@ erase
 eumorphic 1
 equatorward
 etheriform 2
-equatorwards
+equatorwards 1
 excessmen 4
 ectomeric 2
 ecalcarate 1
