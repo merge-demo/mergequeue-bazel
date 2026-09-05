@@ -9692,7 +9692,7 @@ esprit 2
 enterorrhexis 1
 esq 1
 esquires 2
-existence
+existence 1
 exurbs
 evacue 4
 euselachii 1
