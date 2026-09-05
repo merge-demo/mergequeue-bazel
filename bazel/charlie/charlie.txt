@@ -9585,7 +9585,7 @@ coutumier
 cheeful
 chanfrin
 cheefuller
-cheek
+cheek 1
 cheekbone 1
 cheekbones 1
 crepeier
