@@ -293,7 +293,7 @@ giglot 1
 geobotany 3
 ganjas 4
 gynaecian 3
-gargoylism
+gargoylism 1
 gaminesque 2
 gaist 1
 gulpingly
