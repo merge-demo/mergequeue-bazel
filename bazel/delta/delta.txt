@@ -5704,7 +5704,7 @@ dialup 2
 depleteable
 decapodan 1
 ducape
-dichroite 3
+dichroite 4
 daftlike
 depletions 2
 danton
