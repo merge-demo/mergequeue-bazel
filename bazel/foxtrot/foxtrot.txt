@@ -261,7 +261,7 @@ flightily
 foetors 3
 faders 1
 firedamp 1
-fadge 1
+fadge 2
 furfuramide 3
 furniment 4
 fermery 1
