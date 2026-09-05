@@ -19888,7 +19888,7 @@ comid
 comida 1
 caudillo 1
 comiferous 1
-cominformist
+cominformist 1
 cominformists
 confederal
 coming 4
