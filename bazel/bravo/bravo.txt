@@ -586,7 +586,7 @@ bierkeller 1
 bonjour 3
 barniest
 bricoles
-bibbery
+bibbery 1
 billmen 1
 benzobis 1
 beclothed
