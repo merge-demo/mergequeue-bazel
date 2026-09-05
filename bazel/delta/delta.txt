@@ -15605,7 +15605,7 @@ doomsayer
 doomsday 1
 diols
 decussating
-doomster
+doomster 1
 defaulters 4
 domina
 dissentaneous
