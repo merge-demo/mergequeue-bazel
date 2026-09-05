@@ -5942,7 +5942,7 @@ defeatee
 depreter 1
 depriment
 deprint 1
-depriorize 1
+depriorize 2
 disorderedness 1
 deprivable 1
 degrader
