@@ -15078,7 +15078,7 @@ clabularium
 clach 1
 chlorogenine 1
 clack 2
-clackama
+clackama 1
 circumtropical
 chinsed
 clacker

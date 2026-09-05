@@ -15667,7 +15667,7 @@ determine
 dopchick
 dopebook 3
 demonstrator 4
-discased
+discased 1
 distemperance
 dopey 2
 decrements 1
