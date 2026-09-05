@@ -6472,7 +6472,7 @@ dactylioglyph 2
 disbark 1
 desamidase 1
 desands 1
-desc 2
+desc 3
 descale 1
 downrightly 3
 descant
