@@ -4463,7 +4463,7 @@ definitize 2
 demetricize
 deceits 1
 diceplay 3
-duress
+duress 1
 demy 1
 decahydrated 1
 dovetailing
