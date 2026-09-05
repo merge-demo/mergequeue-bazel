@@ -6520,7 +6520,7 @@ acridane 2
 ahull 2
 ascomata 1
 anacrustic 1
-airward
+airward 1
 acerbities 1
 amicableness 2
 ahunt 2
