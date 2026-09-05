@@ -17954,7 +17954,7 @@ dietitian
 dugouts
 dugs 1
 dugway
-deaerator
+deaerator 1
 doornboom
 desamidization
 dui 2
