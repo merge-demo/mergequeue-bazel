@@ -9281,7 +9281,7 @@ goitre 1
 gardnap 1
 giltcup 1
 grockle 2
-goidel
+goidel 1
 gamely 3
 gemauve 1
 granitoid 2
