@@ -4275,7 +4275,7 @@ fatless 3
 flail 2
 fireward
 forehead 1
-firewater
+firewater 1
 fictionisation 4
 freehandedly 1
 fingerling 1
