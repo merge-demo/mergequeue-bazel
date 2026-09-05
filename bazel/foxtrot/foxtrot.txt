@@ -9509,7 +9509,7 @@ fliffus
 frappes 2
 figurers
 floppiness 3
-fattrels
+fattrels 1
 faithworthy 3
 frontways
 footling 2
