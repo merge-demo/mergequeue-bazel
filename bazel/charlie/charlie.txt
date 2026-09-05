@@ -30508,7 +30508,7 @@ cubane
 cubangle 1
 cubanite
 cubatory
-contraclockwise
+contraclockwise 1
 counterweighed
 cubby
 cavin 2
