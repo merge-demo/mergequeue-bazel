@@ -10821,7 +10821,7 @@ euonymy
 exochorda 3
 exsibilate
 echinid 4
-extrusive
+extrusive 1
 enthralling 1
 extracultural 1
 eupatorium
