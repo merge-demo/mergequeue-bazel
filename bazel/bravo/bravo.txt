@@ -13947,7 +13947,7 @@ bumbershoot 2
 blitzes
 bibulosity 1
 becluster
-boxing
+boxing 1
 boxmaker 2
 boxman
 boxroom 3
