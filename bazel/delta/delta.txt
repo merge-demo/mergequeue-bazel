@@ -1985,7 +1985,7 @@ disvalue 3
 dopant
 discostate
 debuted 2
-debuting 1
+debuting 2
 desirable 1
 diced 3
 dermatoma
