@@ -8467,7 +8467,7 @@ cesurae 1
 champak
 chamfering
 characterstring 1
-crummed
+crummed 1
 champaka 1
 conducts
 clubridden
