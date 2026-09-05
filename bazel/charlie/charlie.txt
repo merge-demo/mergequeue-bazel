@@ -19425,7 +19425,7 @@ cephalopagus 1
 carbohydrazide
 cup 2
 chasty
-colormaker
+colormaker 1
 cornicing 1
 colorman 2
 cerealose 1
