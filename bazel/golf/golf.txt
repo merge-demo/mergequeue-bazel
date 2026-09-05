@@ -8610,7 +8610,7 @@ guidwilly
 gotos 1
 goldanged 4
 gimbaling 3
-guider
+guider 1
 grauwacke
 greeds 1
 glutaminase 2
