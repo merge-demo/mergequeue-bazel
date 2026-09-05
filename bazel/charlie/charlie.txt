@@ -15643,7 +15643,7 @@ clausal
 clause
 clauses
 coattends 2
-craniotympanic 1
+craniotympanic 2
 cartilaginification 1
 clausthalite
 claustral 1
