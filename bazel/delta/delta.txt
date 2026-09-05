@@ -4688,7 +4688,7 @@ demitint
 demitoilet
 deteriorated 3
 demitranslucence
-demits 1
+demits 2
 demitted
 denticulately 5
 dilutive
