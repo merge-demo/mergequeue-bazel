@@ -6757,7 +6757,7 @@ decil 1
 dogy 1
 decontaminative 2
 desucration 1
-desilicify
+desilicify 1
 desilicified
 desiliconization 1
 dribbed
