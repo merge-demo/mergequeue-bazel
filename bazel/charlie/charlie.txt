@@ -7408,7 +7408,7 @@ cephalotaxus
 conventicles
 cephalothoraxes 1
 cephalotomy
-corozo
+corozo 1
 chippering 2
 contrate
 cephalotractor
