@@ -9777,7 +9777,7 @@ domino 1
 dclass
 dilettanti 1
 decriminalizing 1
-dilettantism
+dilettantism 1
 diligence 2
 diligences
 diligent 2
