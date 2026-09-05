@@ -4336,7 +4336,7 @@ epigrammatize
 entoproct 1
 echoed 1
 eloquence
-exclaustration 2
+exclaustration 3
 enamelist 2
 enamelless
 eluder 1
