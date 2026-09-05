@@ -6798,7 +6798,7 @@ agrimonia
 airdate 1
 avowing 1
 animally 2
-afterband
+afterband 1
 affable
 amyrin 1
 ammonify 1
