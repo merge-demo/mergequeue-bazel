@@ -17818,7 +17818,7 @@ becompass
 belord
 brocade 2
 brachistocephalous 2
-berengarian
+berengarian 1
 backbit
 boddle
 berkowitz 1
