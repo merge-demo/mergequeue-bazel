@@ -24238,7 +24238,7 @@ cholecystoduodenostomy 1
 constraining
 curval
 comr
-convolvulus
+convolvulus 1
 coercively 2
 conventionist
 calcarea 2
