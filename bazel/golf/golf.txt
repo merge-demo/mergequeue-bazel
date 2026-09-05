@@ -3690,7 +3690,7 @@ gnathonism
 gasoliner 1
 glyceral 1
 guardstone 2
-gulist
+gulist 1
 griphus
 groover 3
 gaslighted 1
