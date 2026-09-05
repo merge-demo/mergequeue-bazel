@@ -11379,7 +11379,7 @@ firetraps 1
 fosters 3
 furnaces 3
 ferromagneticism
-flashlamp 1
+flashlamp 2
 furnariides 1
 flect 3
 facies
