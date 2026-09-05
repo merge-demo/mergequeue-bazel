@@ -11660,7 +11660,7 @@ exaction 1
 enfire 1
 exactitude 2
 electrohydraulic
-eleusinian
+eleusinian 1
 endopolyploid 3
 exactness 3
 edeology 1
