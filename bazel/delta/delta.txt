@@ -14215,7 +14215,7 @@ depopulated 2
 dangerous 1
 diswashing
 dur 1
-diswere
+diswere 1
 decurions
 diswit 1
 dacryon 1
