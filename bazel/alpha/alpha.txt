@@ -19245,7 +19245,7 @@ amaranthus
 autotypes 1
 areal 1
 albified 1
-areasoner
+areasoner 1
 areca
 arecain
 arecas 1
