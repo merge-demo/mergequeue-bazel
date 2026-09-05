@@ -6805,7 +6805,7 @@ bertie 4
 bertolonia
 bioacoustics 1
 basigenous
-bertrum
+bertrum 1
 bullarium 2
 beachy 1
 broadsided
