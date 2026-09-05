@@ -8618,7 +8618,7 @@ floury 1
 foredid 3
 fir 2
 fittings 1
-ferretto 4
+ferretto 5
 flamefishes 1
 fuzzed 4
 finnochio 1
