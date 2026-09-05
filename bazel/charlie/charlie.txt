@@ -14821,7 +14821,7 @@ cephalorhachidian 3
 cyclope
 checkbird
 cytokinesis
-cytokinetic 1
+cytokinetic 2
 captan
 cytokinin
 cytol
