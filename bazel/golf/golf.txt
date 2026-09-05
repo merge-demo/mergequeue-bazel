@@ -9048,7 +9048,7 @@ gateways 3
 gomasta 1
 gothlander 2
 gramophonical
-grateful
+grateful 1
 granulomatous
 gyrates 2
 gnatcatcher 2
