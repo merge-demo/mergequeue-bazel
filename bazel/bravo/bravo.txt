@@ -6760,7 +6760,7 @@ bufonid
 bushiest
 berry 1
 buchnerite 1
-binturong 1
+binturong 2
 banshee 1
 bitte
 bedscrew 1
