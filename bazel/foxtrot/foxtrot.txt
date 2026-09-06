@@ -9599,7 +9599,7 @@ flanger 3
 flagellant 2
 finalism 1
 faqir 2
-foreseeability
+foreseeability 1
 filipinize
 fleeceable 4
 fdub 1
