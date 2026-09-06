@@ -28160,7 +28160,7 @@ cranioschisis
 cranioscopy
 chimerism
 cameos
-craniotomy
+craniotomy 1
 craniotopography 1
 craniums 1
 counter 1
