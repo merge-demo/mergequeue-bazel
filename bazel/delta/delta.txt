@@ -12787,7 +12787,7 @@ dunk 2
 debouch 1
 dissensions
 diathesic 2
-duplicatus
+duplicatus 1
 derepression
 dysluite
 delicto
