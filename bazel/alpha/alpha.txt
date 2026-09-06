@@ -22824,7 +22824,7 @@ asgd 1
 aby 2
 armsful 1
 atmolysis
-atmolyzation
+atmolyzation 1
 atmolyze 1
 atmologic
 anisotropous 1
