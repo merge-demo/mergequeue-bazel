@@ -9870,7 +9870,7 @@ cycle 1
 chemoprophylactic
 cruiser 1
 coaxer
-candent
+candent 1
 chemoreception 1
 chemoreceptive 2
 chemoreceptivity
