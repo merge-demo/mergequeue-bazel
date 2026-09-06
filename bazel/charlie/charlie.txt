@@ -29627,7 +29627,7 @@ calkage 1
 crofter 1
 cauliflory
 cottagey
-chartered
+chartered 1
 crocketed
 conder
 crockets
