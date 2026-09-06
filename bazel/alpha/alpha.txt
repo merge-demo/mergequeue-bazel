@@ -12096,7 +12096,7 @@ angiosclerosis 2
 acidity 1
 avenalin 2
 anastomosing 1
-anastrophy
+anastrophy 1
 advocator 1
 advisements
 activital
