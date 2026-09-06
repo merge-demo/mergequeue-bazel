@@ -27098,7 +27098,7 @@ causability
 counterscalloped 1
 carpent 1
 counterscarp
-counterscoff
+counterscoff 1
 chints 3
 counterscrutiny
 cancelation
