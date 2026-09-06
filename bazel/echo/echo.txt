@@ -1708,7 +1708,7 @@ evener 2
 exaggerating 1
 enunciatory 1
 enamel 3
-electrolyses
+electrolyses 1
 earpieces 1
 echolocate 1
 endogenicity
