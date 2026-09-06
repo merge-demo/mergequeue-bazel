@@ -11238,7 +11238,7 @@ fornent 3
 factable
 forementioned
 fatherkin 1
-funkiness
+funkiness 1
 fezzes
 forerunnings
 frontispieces 1
