@@ -1984,7 +1984,7 @@ goring 3
 grubroot 2
 glut 4
 gripes 4
-grudged 1
+grudged 2
 ghastlier
 guttable 1
 gonif
