@@ -11793,7 +11793,7 @@ discretiveness 2
 dousers
 discreteness
 dandification
-demirep
+demirep 1
 diplococcoid 2
 dollarleaf 3
 delabialize 1
