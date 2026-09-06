@@ -29947,7 +29947,7 @@ chokebore 2
 cardiataxia 1
 concern 1
 crosspath
-clawk
+clawk 1
 crosspoint
 crossroad
 cokneyfy 1
