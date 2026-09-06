@@ -12225,7 +12225,7 @@ enneahedrons 2
 engarb 1
 episynthetic 1
 excur 2
-ensigns
+ensigns 1
 epiphanizing
 extralateral 2
 elevener 1
