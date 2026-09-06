@@ -10624,7 +10624,7 @@ awin 1
 arride
 amylidene 1
 amylo 1
-allergens
+allergens 1
 amyloclastic
 aponogetonaceae 1
 antiredeposition 4
