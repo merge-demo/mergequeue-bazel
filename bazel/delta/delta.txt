@@ -16772,7 +16772,7 @@ dayboy
 dravidic 1
 drightin 2
 diplomate 1
-developed
+developed 1
 dumbness 2
 dravite
 draw 1
