@@ -3522,7 +3522,7 @@ biri
 batfowl 2
 batfowled 1
 bassists 2
-batfowls
+batfowls 1
 bestore
 bulbocavernosus 2
 brookites
