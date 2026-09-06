@@ -2449,7 +2449,7 @@ ebonist 1
 electroencephalographical 2
 essentialize 1
 evoker
-electroendosmosis
+electroendosmosis 1
 encipher 1
 epoist 2
 enslavements
