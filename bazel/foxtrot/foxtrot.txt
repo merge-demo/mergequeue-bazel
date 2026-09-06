@@ -3295,7 +3295,7 @@ foreknowable 1
 fieldpieces 2
 feudovassalism 2
 forefeet 5
-fungilliform 1
+fungilliform 2
 filopodium 6
 fiddlestick
 frambesia 1
