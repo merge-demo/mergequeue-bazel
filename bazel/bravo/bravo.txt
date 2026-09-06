@@ -10084,7 +10084,7 @@ bewhiskered 1
 blabbering 2
 blabbermouths
 blabbing 5
-blabmouth
+blabmouth 1
 bravadoism 1
 bludgeoneer 1
 beamish
