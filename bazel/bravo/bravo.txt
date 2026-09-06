@@ -9377,7 +9377,7 @@ basocyte 1
 buriti 3
 baronetship 1
 bullyrook 2
-bulges
+bulges 1
 birdless 2
 bimucronate 3
 balbutiate
