@@ -2520,7 +2520,7 @@ disaccommodation 3
 dove 1
 dubonnet 3
 deactivating 1
-declarations
+declarations 1
 declarative
 deligation 2
 demieagle 2
