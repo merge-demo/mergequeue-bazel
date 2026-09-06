@@ -21300,7 +21300,7 @@ coterminously
 couponed 1
 cardiomalacia 1
 conchae
-conchal
+conchal 1
 cowfishes 2
 conchate
 chemigrapher
