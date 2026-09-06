@@ -9595,7 +9595,7 @@ fivestones 1
 ferrotyper 1
 forhooy 1
 fothering 1
-flanger 3
+flanger 4
 flagellant 2
 finalism 1
 faqir 2
