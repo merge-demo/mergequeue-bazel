@@ -9588,7 +9588,7 @@ fichus
 friableness 2
 fusteric 2
 frizzing 4
-fraternality
+fraternality 1
 fortifications 1
 fishpound 1
 fivestones 1
