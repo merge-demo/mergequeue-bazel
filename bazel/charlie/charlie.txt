@@ -6109,7 +6109,7 @@ carloadings 1
 catspaw
 catstane
 catstep
-catstick
+catstick 1
 ciderkin 1
 cafeterias
 catstitcher
