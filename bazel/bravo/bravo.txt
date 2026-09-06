@@ -4708,7 +4708,7 @@ bathymetrically
 brides 1
 bunce 2
 busywork 1
-bedims
+bedims 1
 basiophitic 1
 birdbrain
 bedizen 4
