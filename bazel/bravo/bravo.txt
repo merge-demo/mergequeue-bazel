@@ -3114,7 +3114,7 @@ birdlime 1
 baseburner
 basecourt 2
 betokener
-boosting 1
+boosting 2
 boneset 1
 baselevel 1
 biradiate 2
