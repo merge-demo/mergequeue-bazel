@@ -27138,7 +27138,7 @@ countersinks
 countersleight 2
 countersnarl
 cataclysmatic 2
-counterspy
+counterspy 1
 counterspies 1
 coverage
 counterstand 1
