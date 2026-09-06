@@ -2603,7 +2603,7 @@ decoat
 decoct 1
 demiquaver
 dashes
-decocting 3
+decocting 4
 decoctive
 deaminizing 2
 demishirt
