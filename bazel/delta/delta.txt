@@ -6275,7 +6275,7 @@ diact 1
 dermatoneurosis 3
 dustuck 1
 disprize 1
-doggier
+doggier 1
 devolve 3
 deprecates 2
 diradiation
