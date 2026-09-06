@@ -2711,7 +2711,7 @@ granularity 2
 gingers 1
 geek 3
 genip 2
-gilbertese 2
+gilbertese 3
 genyplasty 1
 glashan 3
 globularness 1
