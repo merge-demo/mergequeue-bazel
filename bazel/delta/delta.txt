@@ -12528,7 +12528,7 @@ dreg 2
 disinfected 1
 deceivers 2
 denaturizer 1
-desponsories
+desponsories 1
 dispractice 1
 dols 3
 decerns 3
