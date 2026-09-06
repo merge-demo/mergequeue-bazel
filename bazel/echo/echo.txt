@@ -10155,7 +10155,7 @@ epicrates 1
 elaborators 4
 exsomatic 3
 edgier
-emmove 5
+emmove 6
 earlyish 2
 exhausts 1
 encroaching 1
