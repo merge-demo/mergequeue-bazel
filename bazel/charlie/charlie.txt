@@ -7825,7 +7825,7 @@ cichloid
 cerviciplex
 cervicispinal
 cervicitis
-cervicoauricular 2
+cervicoauricular 3
 chippable 2
 cervicobasilar
 cervicobregmatic 1
