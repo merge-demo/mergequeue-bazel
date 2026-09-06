@@ -3645,7 +3645,7 @@ goldest 3
 gauntleted 1
 gillnetting 1
 gonadotropic 1
-genearch 1
+genearch 2
 ghostdom 2
 gardenin 5
 gipsylike
