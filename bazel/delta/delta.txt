@@ -7078,7 +7078,7 @@ destination 1
 dunelands 2
 disallowed
 destines 1
-dz
+dz 1
 dollhood
 diplacanthus 1
 democratically
