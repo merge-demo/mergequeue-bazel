@@ -9248,7 +9248,7 @@ digitaliform 1
 diemakers 2
 duckie
 dehumidifying 1
-dossils
+dossils 1
 dimnesses
 docibleness 2
 dier 1
