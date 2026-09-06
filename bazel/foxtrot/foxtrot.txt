@@ -389,7 +389,7 @@ facets 1
 faceoff 4
 fancifully 5
 fairground 3
-fairy
+fairy 1
 foresettle 2
 fructuous 2
 failings 3
