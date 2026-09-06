@@ -3414,7 +3414,7 @@ decolorisation 1
 disadorn 2
 donet 1
 deflector
-dichlorvos 3
+dichlorvos 4
 devitrifying 2
 deflesh 1
 deflexibility 1
