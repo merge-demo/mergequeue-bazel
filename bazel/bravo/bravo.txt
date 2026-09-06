@@ -16332,7 +16332,7 @@ backwash 1
 builder 2
 bruised 1
 backtrack
-barbels 1
+barbels 2
 bocces
 brownwort
 biovular 2
