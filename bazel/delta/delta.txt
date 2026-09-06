@@ -10353,7 +10353,7 @@ diophantine
 driftpiece 1
 dowsing 2
 dentata 1
-derelictly
+derelictly 1
 degeneracy 2
 dioramic
 diordinal
