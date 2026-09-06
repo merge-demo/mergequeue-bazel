@@ -24258,7 +24258,7 @@ constantinople 1
 convulsion
 conjugates 1
 conjuncture
-const
+const 1
 cerebritis 2
 crescendi
 chirographer
