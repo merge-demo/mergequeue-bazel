@@ -18442,7 +18442,7 @@ dactylograph
 demichamfron 1
 diagometer 1
 disulphuret
-degreased
+degreased 1
 disodic
 debordment
 downsman 2
