@@ -20345,7 +20345,7 @@ conjee 1
 commutant 2
 commutated
 commutation
-commutatively
+commutatively 1
 carpogone
 commutativity 1
 commutator
