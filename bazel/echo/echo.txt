@@ -5803,7 +5803,7 @@ englobed 4
 enneahedral
 envelopment 1
 extirp 2
-englut 1
+englut 2
 emhpasizing 1
 encored 1
 eyot 1
