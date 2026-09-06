@@ -23310,7 +23310,7 @@ consumeless 1
 corkiness 3
 consumer 1
 consumerist 1
-consumes
+consumes 1
 catamnestic
 cardioblast 1
 consuming
