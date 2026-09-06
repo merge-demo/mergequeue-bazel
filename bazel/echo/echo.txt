@@ -3805,7 +3805,7 @@ entrusts 1
 emeers 2
 emeership
 emend 2
-exscribe
+exscribe 1
 epistolizing
 eglandulose 1
 electroplax
