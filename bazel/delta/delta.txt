@@ -2072,7 +2072,7 @@ diopsimeter 2
 diety 2
 dummy 1
 defaced 1
-devolution
+devolution 1
 disproportionally
 decal
 dodecylic 4
