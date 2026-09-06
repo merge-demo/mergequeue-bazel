@@ -3230,7 +3230,7 @@ doftberry 1
 defencive 2
 dents
 defend 2
-dikast 2
+dikast 3
 dolmenic 2
 demimondaine 1
 dissentient 1
