@@ -9473,7 +9473,7 @@ dustiest 4
 detester 3
 disparateness
 dopy 3
-digestibility
+digestibility 1
 disserting 3
 demark 1
 digestible
