@@ -25887,7 +25887,7 @@ cuneoscaphoid 1
 correction 1
 curette
 convertable 2
-corset 1
+corset 2
 corsetier 2
 concluding
 corsetiere 1
