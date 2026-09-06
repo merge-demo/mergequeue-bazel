@@ -8192,7 +8192,7 @@ grim 1
 gem
 grapes 2
 grapeskin 1
-goldurned
+goldurned 1
 galenical 2
 grapestalk 1
 groomling 2
