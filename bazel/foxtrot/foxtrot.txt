@@ -2525,7 +2525,7 @@ formaldehyde 3
 feverlike 1
 frondescent 2
 ferrelling
-fluorine
+fluorine 1
 fiatconfirmatio 2
 fanam
 feeler 4
