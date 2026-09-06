@@ -27126,7 +27126,7 @@ countersign 1
 crimsons
 calfbound 1
 cupful 3
-countersigning 1
+countersigning 2
 countersigns 1
 countersympathy 2
 carburet 1
