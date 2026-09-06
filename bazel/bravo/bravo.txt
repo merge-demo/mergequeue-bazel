@@ -14267,7 +14267,7 @@ branchiosaur 2
 binnite
 bobber 1
 bechamels
-batheable
+batheable 1
 bouillon 1
 bigotry
 begrudger 2
