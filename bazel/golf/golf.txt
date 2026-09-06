@@ -8516,7 +8516,7 @@ go 6
 goshdarn 3
 gramaphone
 gametophyte 1
-ganglioblast
+ganglioblast 1
 gyrophoric 1
 gulden 3
 gyromitra
