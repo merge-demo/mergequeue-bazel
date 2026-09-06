@@ -3494,7 +3494,7 @@ fibbed 1
 figshell 1
 foe 2
 flankard 1
-fury 1
+fury 2
 ficins 3
 fordays 2
 floorhead 2
