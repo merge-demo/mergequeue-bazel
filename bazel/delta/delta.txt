@@ -14785,7 +14785,7 @@ diocesian 1
 dockets 1
 dyphone
 dockhand
-dockhouse
+dockhouse 1
 dilambdodont 1
 deringers 1
 dockyards 1
