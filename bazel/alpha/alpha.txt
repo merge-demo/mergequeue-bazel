@@ -5211,7 +5211,7 @@ atoneness 3
 affectional
 affectionally
 affectionateness
-affectioned
+affectioned 1
 anemographic 1
 affections
 affectious
