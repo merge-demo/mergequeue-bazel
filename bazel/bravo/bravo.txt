@@ -7461,7 +7461,7 @@ basswoods
 bitterest 3
 bayadeers 1
 bettor 1
-bullfighter
+bullfighter 1
 barbaric 2
 blackmailer
 babushkas 1
