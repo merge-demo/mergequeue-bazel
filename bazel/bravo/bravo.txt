@@ -18367,7 +18367,7 @@ bordrage 2
 bimesters 1
 buz
 buzane 1
-blawort
+blawort 1
 bortsch 2
 bepaint 3
 buzz 3
