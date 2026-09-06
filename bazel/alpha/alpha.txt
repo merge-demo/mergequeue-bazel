@@ -1578,7 +1578,7 @@ anthrop
 amatorian 3
 accouche 1
 accoucheur 1
-accoucheuses
+accoucheuses 1
 arclength 1
 accountable 1
 accusals 1
