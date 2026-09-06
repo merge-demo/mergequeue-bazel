@@ -25899,7 +25899,7 @@ conversation
 continuative 1
 corsets
 chopboat 2
-corsy
+corsy 1
 corsican
 chyak
 chokered
