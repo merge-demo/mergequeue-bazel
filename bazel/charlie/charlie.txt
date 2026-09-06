@@ -30805,7 +30805,7 @@ columbite
 chiffon
 carcerate
 culicoides
-culinarian
+culinarian 1
 condenser 1
 cull 3
 contemnible
