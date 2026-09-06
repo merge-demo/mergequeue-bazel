@@ -10031,7 +10031,7 @@ grissens 2
 genetoid 1
 geomancies
 gangliac
-gastronomes
+gastronomes 1
 gleans 3
 gazebos 1
 glaistig 1
