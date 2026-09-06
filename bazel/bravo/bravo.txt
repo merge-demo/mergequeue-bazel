@@ -4103,7 +4103,7 @@ ballistics
 baroclinicity 1
 blamableness 1
 bicompact
-brachiopode
+brachiopode 1
 bodysurfs
 bowmaking 3
 beelbow 1
