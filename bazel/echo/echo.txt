@@ -1458,7 +1458,7 @@ electrophoresis 1
 eelpout
 effort 1
 ethmovomer 2
-environic 1
+environic 2
 emmenic
 emeline 1
 ergonomic 3
