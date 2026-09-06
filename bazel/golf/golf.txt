@@ -8710,7 +8710,7 @@ grammars 2
 gearing 3
 gastraeal 4
 gates 3
-gnathonical 1
+gnathonical 2
 grassflat 3
 gastrodisc 1
 growler 1
