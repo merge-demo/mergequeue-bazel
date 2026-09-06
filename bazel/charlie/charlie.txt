@@ -11865,7 +11865,7 @@ chorales
 comradery
 concio
 cassapanca 1
-chorals
+chorals 1
 chomage 1
 chorasmian
 crispiness
