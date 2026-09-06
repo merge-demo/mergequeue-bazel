@@ -15182,7 +15182,7 @@ antifat 2
 assyrian 1
 arabesques 1
 archontic 4
-amphimictical
+amphimictical 1
 aberrometer
 amil 2
 arctocephalus 1
