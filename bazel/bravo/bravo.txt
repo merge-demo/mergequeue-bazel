@@ -5131,7 +5131,7 @@ biotas
 batta 3
 bogbean 3
 beguile 3
-bankers
+bankers 1
 batoid 2
 bromhidrosis 2
 ballota 2
