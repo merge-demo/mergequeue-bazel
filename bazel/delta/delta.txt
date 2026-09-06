@@ -457,7 +457,7 @@ dayspring
 direst
 disthrall 2
 daswen
-daytimes
+daytimes 1
 disburthen
 disaccharide 1
 daywrit 2
