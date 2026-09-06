@@ -2587,7 +2587,7 @@ guillotined 4
 grassed 2
 gyrogonite
 guigne 3
-gargling
+gargling 1
 gametogeny 3
 generant 3
 generate 1
