@@ -11945,7 +11945,7 @@ blastemas
 boggler
 bannerol 1
 bogglers
-boggling 3
+boggling 4
 bessarabian 2
 brinded 1
 bogyism
