@@ -3977,7 +3977,7 @@ diarize
 dkm
 delassation 2
 dindling
-decontaminates
+decontaminates 1
 dunstone 1
 drugless 1
 dustman 1
