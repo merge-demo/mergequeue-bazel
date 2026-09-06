@@ -17858,7 +17858,7 @@ bine 1
 busbar
 busbars
 barotse 1
-bibliopegic 2
+bibliopegic 3
 biscanism 3
 bicultural 1
 bused
