@@ -13650,7 +13650,7 @@ blab
 bloodsucker 1
 baud 1
 bande 2
-broidery
+broidery 1
 binocs 1
 blendcorn 1
 balkingly 3
