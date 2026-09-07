@@ -380,7 +380,7 @@ bake 2
 backhooker 3
 bemoans 2
 backhouses
-baseballdom
+baseballdom 1
 brachyurus
 baht 1
 bullocky
