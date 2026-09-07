@@ -6366,7 +6366,7 @@ dastardliness 2
 derms 1
 diacatholicon 1
 defined 1
-dioc 1
+dioc 2
 ducula 4
 demurrable 3
 dietary 1
