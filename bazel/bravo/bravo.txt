@@ -10788,7 +10788,7 @@ bakership 1
 boul 1
 bavin
 baulkier 2
-birthrate 1
+birthrate 2
 blocks
 bergamo
 branchiate 2
