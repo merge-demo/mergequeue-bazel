@@ -10898,7 +10898,7 @@ finfish 1
 fleets
 flivver 1
 fletched 2
-fullmouthed 2
+fullmouthed 3
 firesafeness 2
 fullom
 flirtations 1
