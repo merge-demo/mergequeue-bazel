@@ -1715,7 +1715,7 @@ fascio
 floats 2
 filicin 2
 fomites 5
-fortravail 1
+fortravail 2
 frippet 2
 fibrocyte 1
 flashflood 2
