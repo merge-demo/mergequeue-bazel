@@ -14430,7 +14430,7 @@ abecedarium
 anthracosaurus 1
 anthracosis
 abox
-anthracothere 2
+anthracothere 3
 anthracotherium
 anthracotic 1
 anthradiol
