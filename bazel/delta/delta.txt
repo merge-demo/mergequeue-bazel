@@ -9386,7 +9386,7 @@ disinflating
 diffract 1
 defense
 diffractively 1
-deruralize
+deruralize 1
 doubleted 1
 diffractiveness 5
 dist 1
