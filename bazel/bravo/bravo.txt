@@ -7349,7 +7349,7 @@ balusters
 bassness 1
 bookmaker 1
 bethorning 2
-buffcoat
+buffcoat 1
 blanketmaking 2
 basest 2
 bewrayers
