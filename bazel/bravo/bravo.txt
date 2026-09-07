@@ -9918,7 +9918,7 @@ boget 2
 bedticking 1
 bordelaise
 bauson 2
-bastardice 1
+bastardice 2
 bituminate
 bituminising 1
 bituminized
