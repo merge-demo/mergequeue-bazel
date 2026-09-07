@@ -5075,7 +5075,7 @@ eyelid 2
 editorialized 1
 endoaortitis 1
 endoappendicitis
-entoolitic
+entoolitic 1
 economization 4
 emerited 3
 endoauscultation 2
