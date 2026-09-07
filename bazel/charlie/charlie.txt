@@ -11041,7 +11041,7 @@ chiselers
 cantdogs
 calorify
 chiseling 1
-chiseller
+chiseller 1
 chiselly 1
 chisellike
 chiselling 2
