@@ -14065,7 +14065,7 @@ exclude 1
 enquarter
 extracurriculum 1
 entablature
-encephalomata 1
+encephalomata 2
 enfect
 errantry 3
 entoplastral 2
