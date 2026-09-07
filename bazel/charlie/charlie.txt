@@ -2830,7 +2830,7 @@ canones 2
 cardooer
 canonesses
 canonicalization
-cinctures 2
+cinctures 3
 canonicalized 1
 canonicalizes
 croaked
