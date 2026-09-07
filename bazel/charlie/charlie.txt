@@ -9849,7 +9849,7 @@ chemisorb
 coprophilic 2
 copperytailed
 chemistry
-chemists 1
+chemists 2
 coenactor
 countess
 chawer
