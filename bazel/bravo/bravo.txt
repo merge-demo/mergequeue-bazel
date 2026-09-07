@@ -13140,7 +13140,7 @@ borotungstate
 borough 2
 bouquetin
 biseriate 2
-boroughmonger
+boroughmonger 1
 blaspheme 1
 basileis 1
 bankrupts
