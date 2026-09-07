@@ -24301,7 +24301,7 @@ aftertaste 2
 althaein
 ablepsy 3
 anthrasilicosis
-autophotoelectric
+autophotoelectric 1
 autopilot
 autoincrement 1
 autoplagiarism 2
