@@ -11454,7 +11454,7 @@ encipherment 2
 ethanim 2
 elucidation 1
 engraving 2
-evocated
+evocated 1
 ectonephridium
 erinnic 3
 effectually 2
