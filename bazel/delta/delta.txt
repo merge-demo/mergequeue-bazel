@@ -2357,7 +2357,7 @@ dwarfest
 dielike 2
 databases 2
 dissociant 1
-daphnid
+daphnid 1
 decadally
 devocalising
 decessit 1
