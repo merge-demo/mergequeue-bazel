@@ -7613,7 +7613,7 @@ ersar 4
 endamoebic 1
 edelweiss
 epiclinal 1
-ecstaticize 1
+ecstaticize 2
 enteric
 epicoele
 elkesaite
