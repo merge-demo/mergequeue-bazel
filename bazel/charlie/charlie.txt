@@ -4820,7 +4820,7 @@ connotive 2
 chem 1
 crosspost
 cressida
-conjuror
+conjuror 1
 contrariantly 1
 coffea 1
 carr 1
