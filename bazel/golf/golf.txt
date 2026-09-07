@@ -2372,7 +2372,7 @@ ger 1
 gabon 3
 guardants
 glump 1
-gerrhosaurid 2
+gerrhosaurid 3
 gemaric
 gonopodpodia 3
 greeshoch
