@@ -2505,7 +2505,7 @@ forehorse 1
 flerry 3
 fudging 3
 fainthearted 2
-faction
+faction 1
 farted
 facinorousness
 fluxgraph
