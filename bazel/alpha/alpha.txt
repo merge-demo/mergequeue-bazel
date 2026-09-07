@@ -19339,7 +19339,7 @@ automatist
 alkaliferous 1
 abluent
 arethusas
-alk
+alk 1
 aretinian
 anticoagulating
 ablastous
