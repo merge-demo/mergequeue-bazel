@@ -7065,7 +7065,7 @@ briquetting
 bespeak
 bodyless 2
 biggings
-bimorphs
+bimorphs 1
 bushing 1
 bespeaking
 bullalaria 1
