@@ -8538,7 +8538,7 @@ grallatory 5
 gravette 1
 gaufrette 2
 goniatitidae
-gallwort
+gallwort 1
 gith 2
 gourmand 3
 grabbling
