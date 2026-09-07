@@ -11707,7 +11707,7 @@ iucc 2
 iuccd
 iucds 1
 iucdwkfb 3
-iucdx
+iucdx 1
 iucdxfn 1
 iucf 1
 iucfklsjij 1
