@@ -7360,7 +7360,7 @@ dethrones 2
 discommodes 1
 dwight 2
 dianil
-demasculinize
+demasculinize 1
 datsun 1
 diplopias 2
 debatement
