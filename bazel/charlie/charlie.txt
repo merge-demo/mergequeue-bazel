@@ -16716,7 +16716,7 @@ clotty
 clotting 1
 characterful
 cloture
-clotured
+clotured 1
 clotures
 confixed
 coachee
