@@ -1446,7 +1446,7 @@ guild
 garbages
 gulfy
 grosgrained 3
-gainward
+gainward 1
 glossarial 1
 gidjee 1
 germiparity 1
