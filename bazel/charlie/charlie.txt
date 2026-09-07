@@ -22541,7 +22541,7 @@ conservative
 concredit
 conkers
 coking
-corpulency 1
+corpulency 2
 commonness 1
 castuli
 colorrhaphy
