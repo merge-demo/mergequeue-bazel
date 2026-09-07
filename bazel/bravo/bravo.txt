@@ -6735,7 +6735,7 @@ bondman
 becripple 1
 bernice 2
 begaze
-berninesque
+berninesque 1
 bootprint 3
 bunnymouth
 bridehood 1
