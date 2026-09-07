@@ -25986,7 +25986,7 @@ cantiga
 corvus
 commissars 1
 cosaque
-corneum
+corneum 1
 coppled
 coscet 1
 coscinomancy 1
