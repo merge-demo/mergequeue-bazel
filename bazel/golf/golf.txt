@@ -3716,7 +3716,7 @@ gadgeteer 1
 grifters 3
 goes 4
 ghostland 2
-gabbling
+gabbling 1
 gaugership
 grumpier
 ghostly 1
