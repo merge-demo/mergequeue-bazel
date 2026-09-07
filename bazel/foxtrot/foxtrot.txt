@@ -5934,7 +5934,7 @@ flannelflower 3
 fineable
 flaughts
 flubdubs
-forestaysail 1
+forestaysail 2
 fabiform 3
 flowerpots 4
 flooder 4
