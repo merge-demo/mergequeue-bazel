@@ -2695,7 +2695,7 @@ canker
 cankerberry
 cankerbird 1
 chaperone 3
-carriable 1
+carriable 2
 cankereat
 cankered 1
 codders 1
