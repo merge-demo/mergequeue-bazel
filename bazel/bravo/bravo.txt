@@ -17943,7 +17943,7 @@ bushongo
 bangle
 bedsides 1
 breezes 3
-bowwows
+bowwows 1
 belga
 bushwack 1
 bonewood
