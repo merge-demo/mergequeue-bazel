@@ -6448,7 +6448,7 @@ floretty 3
 fisherboat 1
 feltman
 froisse
-footbaths
+footbaths 1
 feneration 1
 fluotantalic 2
 forweary 3
