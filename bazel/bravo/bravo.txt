@@ -2902,7 +2902,7 @@ bestride 1
 badinage
 barrater
 barratries 2
-blabbermouth
+blabbermouth 1
 becrawls
 barratrously 1
 barrelage
