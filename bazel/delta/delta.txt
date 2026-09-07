@@ -8450,7 +8450,7 @@ degreed 1
 diamagnet 1
 diamagnetic 3
 diamagnetism 2
-dredging
+dredging 1
 diamant 1
 ditrochee 1
 deflexed 2
