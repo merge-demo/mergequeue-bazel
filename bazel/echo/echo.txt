@@ -7078,7 +7078,7 @@ exemptile 2
 earthfast 1
 experiencer
 enumeration 3
-elsholtzia
+elsholtzia 1
 eggroll 3
 euphone 3
 efficiency 3
