@@ -912,7 +912,7 @@ fleabug 3
 fallouts 1
 ferrate 3
 faquir 2
-farad 2
+farad 3
 faradaic 1
 filleted 1
 fluorometer 4
