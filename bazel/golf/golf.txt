@@ -7609,7 +7609,7 @@ grus 3
 grabhook 1
 grabouche 2
 gripsack
-gigolo 3
+gigolo 4
 gerenda
 garpike 3
 gilbertite 3
