@@ -341,7 +341,7 @@ eastre 3
 extents 2
 enturret 2
 empresse 2
-embleming 1
+embleming 2
 epirogenic 1
 eagerer
 expatiater
