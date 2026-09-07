@@ -2398,7 +2398,7 @@ etherealisation
 exauthorize 3
 excentricity 2
 electroscopes 1
-ethnotechnics 2
+ethnotechnics 3
 epicaridan
 electrodeless
 exponentials
