@@ -8905,7 +8905,7 @@ dipyramid
 dyads 1
 defiatory
 diceras
-dmod 1
+dmod 2
 deriving
 dioptidae 2
 disconnect
