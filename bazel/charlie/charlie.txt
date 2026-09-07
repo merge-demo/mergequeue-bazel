@@ -16734,7 +16734,7 @@ couthy
 cloudy
 cloudiest
 cloudily
-cloudiness
+cloudiness 1
 clouding
 centimeter 1
 coeliorrhoea 1
