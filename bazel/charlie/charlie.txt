@@ -17505,7 +17505,7 @@ cueca 1
 coinitial
 cobridgehead 1
 chrysostomic
-chimneyhead
+chimneyhead 1
 coburg
 cobweb 1
 cerion
