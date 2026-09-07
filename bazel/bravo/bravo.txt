@@ -3277,7 +3277,7 @@ bethank 1
 bookkeeps
 basidiophore
 bourn
-brattle
+brattle 1
 bastardising 2
 benzols 3
 bandaite
