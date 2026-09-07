@@ -5209,7 +5209,7 @@ endogenae 2
 efference 1
 euchres 2
 echeloning 2
-enchanter
+enchanter 1
 expedition 2
 endogenous 1
 enlistment 2
