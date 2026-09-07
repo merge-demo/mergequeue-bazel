@@ -5256,7 +5256,7 @@ affiliating 1
 apery 1
 anagenetical 1
 ampitheater 1
-attackable 1
+attackable 2
 anapterygotous
 alingual 3
 anticlinal
