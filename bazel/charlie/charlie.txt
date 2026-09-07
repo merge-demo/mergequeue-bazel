@@ -2082,7 +2082,7 @@ campaign
 clotheshorses
 campaigners 2
 campaigns 1
-colostric
+colostric 1
 campana 1
 campane 1
 campanella 2
