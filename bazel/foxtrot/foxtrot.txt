@@ -9483,7 +9483,7 @@ frauen 1
 fideicommissumissa 1
 friseur 2
 financed 2
-fishwoman
+fishwoman 1
 facinorous 3
 ffa 3
 frauleins 1
