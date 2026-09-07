@@ -2711,7 +2711,7 @@ cannoneering 1
 cankerroot
 cauponize
 cankers
-cultivators
+cultivators 1
 comedowns
 carbamyl
 coff 1
