@@ -831,7 +831,7 @@ forbecause 3
 fanon 2
 fronted 2
 fantailed 4
-fingermark 4
+fingermark 5
 fermi
 fashioner
 faddishness
