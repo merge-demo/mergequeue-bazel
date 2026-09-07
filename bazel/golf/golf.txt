@@ -5304,7 +5304,7 @@ geometries 4
 glycerin 2
 gamelan 1
 gromil 3
-glycerite
+glycerite 1
 gigmanism 2
 glycerolate 2
 gymnadeniopsis 2
