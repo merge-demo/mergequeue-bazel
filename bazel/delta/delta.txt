@@ -1308,7 +1308,7 @@ decoloured 1
 daubreite
 degaussing 3
 dobsons
-dinitro 1
+dinitro 2
 densified 1
 dryermen 1
 declinate
