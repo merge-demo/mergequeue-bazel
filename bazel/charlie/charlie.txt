@@ -19497,7 +19497,7 @@ carvers
 colpitises 1
 colpohyperplasia
 colpoperineoplasty
-colpoperineorrhaphy
+colpoperineorrhaphy 1
 cantonment 1
 caledonian 1
 casimires
