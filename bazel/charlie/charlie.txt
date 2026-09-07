@@ -17365,7 +17365,7 @@ condensible 1
 churchmaster
 coastward
 coatdress
-coated 1
+coated 2
 commensurations
 coatee
 coatees
