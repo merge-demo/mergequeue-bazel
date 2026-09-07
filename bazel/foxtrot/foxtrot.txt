@@ -5025,7 +5025,7 @@ fluctuable 3
 faceable 2
 frowsier 3
 feathers
-faineantise
+faineantise 1
 falsificate 2
 formalisms 1
 firman
