@@ -1792,7 +1792,7 @@ desmoscolex
 dilemma
 debark 1
 dropseed 3
-drawknife
+drawknife 1
 debarking 2
 digamist 1
 dishpanful 1
