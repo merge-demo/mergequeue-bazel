@@ -16659,7 +16659,7 @@ burros
 bloomy
 balconette 1
 buchonite 4
-buck
+buck 1
 bayamo
 buckaroo
 bombazet
