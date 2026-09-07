@@ -6856,7 +6856,7 @@ airlines
 antilabor 1
 anticommercialism 3
 airling
-airlock
+airlock 1
 atmospherical 1
 annoyingness
 ava 1
