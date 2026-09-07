@@ -13663,7 +13663,7 @@ degases
 dissymmetric 1
 degender
 dampy
-devises 1
+devises 2
 disturbances 1
 demisemitone 1
 dissymmetrically
