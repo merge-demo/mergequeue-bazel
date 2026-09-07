@@ -2671,7 +2671,7 @@ diceman 1
 deviceful
 decomposer 3
 debrief 2
-decomposers
+decomposers 1
 daddocky 1
 decomposure 1
 digne 3
