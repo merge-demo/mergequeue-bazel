@@ -17222,7 +17222,7 @@ coalescent 1
 combustibility
 coalescing
 choya
-coalfield
+coalfield 1
 coalfitter
 cyanines
 coalholes
