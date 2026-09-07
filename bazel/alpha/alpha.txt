@@ -5567,7 +5567,7 @@ antifreezing 1
 afterpast
 afflux 1
 afterplanting 1
-absinthium
+absinthium 1
 acknew 1
 afterreckoning
 audiotypist 2
