@@ -812,7 +812,7 @@ guetar 1
 grazeable
 goldenrods 3
 gyppo 3
-gletty 3
+gletty 4
 galoots
 granose
 ginney 1
