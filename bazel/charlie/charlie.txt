@@ -21961,7 +21961,7 @@ configural 3
 canteens 3
 coinsurable 1
 coexclusive 2
-clinohedrite
+clinohedrite 1
 configurating
 configuration
 configurationally 1
