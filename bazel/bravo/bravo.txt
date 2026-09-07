@@ -15073,7 +15073,7 @@ bytownite 3
 butterflies
 blindism 1
 baldricks
-bankruptship
+bankruptship 1
 brushmaker 1
 bodiment
 bastarda 2
