@@ -15358,7 +15358,7 @@ abwatt 2
 antiking
 aposematic
 araneology
-alcaic
+alcaic 1
 antikings 2
 arachnoidal 1
 agenes
