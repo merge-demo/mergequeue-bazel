@@ -1686,7 +1686,7 @@ derides 2
 dyne
 deposition 1
 deadeners
-dottel
+dottel 1
 dephysicalization 1
 decrementless 1
 dehumanisation 2
