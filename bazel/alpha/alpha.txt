@@ -2559,7 +2559,7 @@ aircoach 3
 atrophy 1
 aftertrial 2
 acouchi
-antisubmarine
+antisubmarine 1
 antagonisms 1
 accoutering 1
 allylene 1
