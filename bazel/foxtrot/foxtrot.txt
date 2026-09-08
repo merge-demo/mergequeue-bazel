@@ -87,7 +87,7 @@ faces 2
 folkright 1
 flattening 1
 flowerfence
-foliobranch 1
+foliobranch 2
 fiendish 3
 flagrantness 3
 famousness 1
