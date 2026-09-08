@@ -9593,7 +9593,7 @@ fortifications 1
 fishpound 1
 fivestones 1
 ferrotyper 1
-forhooy 1
+forhooy 2
 fothering 1
 flanger 4
 flagellant 2
