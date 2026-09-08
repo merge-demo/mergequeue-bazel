@@ -17747,7 +17747,7 @@ dispelling 2
 ducally 1
 drunt
 discriminous
-dispossessed
+dispossessed 1
 ducaton
 dependency
 ducats 1
