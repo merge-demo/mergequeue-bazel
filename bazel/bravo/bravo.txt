@@ -11388,7 +11388,7 @@ bitterworm 1
 babi 2
 build 1
 beside
-bibbed
+bibbed 1
 bibio 1
 bluecoated
 becquerelite 2
