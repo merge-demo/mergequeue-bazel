@@ -2080,7 +2080,7 @@ fructidor 1
 fusibleness 1
 freeform 2
 fideistic 1
-fogle
+fogle 1
 federalist 3
 floriculture
 felicitator 1
