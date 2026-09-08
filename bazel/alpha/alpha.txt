@@ -19490,7 +19490,7 @@ accusant 2
 arith 2
 argling
 allspices 1
-absolvers
+absolvers 1
 arterioscleroses 2
 antiracemate
 afforestational
