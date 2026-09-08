@@ -3593,7 +3593,7 @@ drywall 1
 dawny 1
 depending
 disguise
-desilverize 1
+desilverize 2
 debunker 1
 degass
 degassed 1
