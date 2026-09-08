@@ -6665,7 +6665,7 @@ albedos
 audible
 allemandes 1
 acarol
-autosign 1
+autosign 2
 ailsyte
 anthropotoxin 1
 asteam 1
