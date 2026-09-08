@@ -15700,7 +15700,7 @@ begroaned 1
 botanophile 2
 breakfront
 broadsiding 2
-broadspread
+broadspread 1
 broadsword
 bamangwato 3
 bromethyl 1
