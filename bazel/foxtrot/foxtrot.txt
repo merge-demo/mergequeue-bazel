@@ -7368,7 +7368,7 @@ forebodingly 2
 footplate
 flakiness 3
 fortunous 4
-feedlots
+feedlots 1
 flyness 1
 findy
 forbidals 2
