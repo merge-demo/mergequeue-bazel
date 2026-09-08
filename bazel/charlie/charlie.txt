@@ -8811,7 +8811,7 @@ chaptalize
 cymbalaria 2
 chapter 1
 canonries
-chapteral
+chapteral 1
 chapterhouse
 cardinalates
 chapwoman 1
