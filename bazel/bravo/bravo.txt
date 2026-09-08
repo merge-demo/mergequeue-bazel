@@ -17440,7 +17440,7 @@ bunkermen 2
 bunkers
 babel 1
 bronchiolus 1
-beard
+beard 1
 burler 1
 balsawood
 birdnester
