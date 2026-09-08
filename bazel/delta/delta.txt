@@ -3366,7 +3366,7 @@ definitor 1
 desulphurized 2
 dogmouth 1
 dentils
-doles
+doles 1
 dagos 1
 deturn 2
 dictative
