@@ -17877,7 +17877,7 @@ docible 1
 duelling 1
 duellist 2
 diplomata
-debromination
+debromination 1
 disgrace
 disburser 4
 deterministically 2
