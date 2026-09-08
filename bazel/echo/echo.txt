@@ -4164,7 +4164,7 @@ erythrodermia 2
 externum 2
 encl 1
 encaustes 2
-exporter 2
+exporter 3
 elaeosia 2
 engraphy
 eyeroot
