@@ -2107,7 +2107,7 @@ booms
 blanca 3
 bosch
 brouillon
-barring
+barring 1
 borofluoride 1
 bantayan
 buckshots 1
