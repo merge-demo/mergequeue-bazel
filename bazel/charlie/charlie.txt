@@ -21971,7 +21971,7 @@ configure
 configures 1
 coxcombry 1
 confinable
-confine
+confine 1
 comports 1
 confined 1
 cadging
