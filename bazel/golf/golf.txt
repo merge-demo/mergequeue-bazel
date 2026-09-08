@@ -3668,7 +3668,7 @@ goths 1
 groinery 3
 glottides 1
 grisaille 2
-galvanize
+galvanize 1
 gpm 4
 graeae 2
 gangwa 2
