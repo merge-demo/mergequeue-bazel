@@ -2007,7 +2007,7 @@ anticipatory 2
 arterial 2
 acetosoluble 3
 acetostearin 1
-acetothienone
+acetothienone 1
 acetotoluid 1
 accessible 1
 argumentator
