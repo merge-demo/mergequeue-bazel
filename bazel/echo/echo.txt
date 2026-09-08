@@ -4676,7 +4676,7 @@ exdelicto 1
 evolve 2
 eremiteship 1
 enchoric 4
-encyclopedias
+encyclopedias 1
 ekoi 1
 entanglers
 exuberance 1
