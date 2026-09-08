@@ -15196,7 +15196,7 @@ blockheadedness
 bryce 1
 brick
 battened
-brickbat 1
+brickbat 2
 buttonholed
 blackstrap 2
 borish
