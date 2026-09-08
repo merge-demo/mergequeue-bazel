@@ -3018,7 +3018,7 @@ brilliancy 3
 blood 1
 bullace 1
 bartholomewtide
-bartisan
+bartisan 1
 ballrooms
 barflies 1
 borts 2
