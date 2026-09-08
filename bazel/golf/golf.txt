@@ -35,7 +35,7 @@ gliderport 2
 globose 3
 gouty 5
 goodlike 3
-gabioned
+gabioned 1
 glutamate 3
 gmelina 1
 grammes
