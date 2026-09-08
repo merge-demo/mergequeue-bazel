@@ -531,7 +531,7 @@ germproof 2
 geeldikkop 1
 galipoidin 6
 guzzles 2
-galleins
+galleins 1
 gomphocarpus 1
 getters 4
 gnetaceous 5
