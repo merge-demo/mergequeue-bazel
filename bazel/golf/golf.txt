@@ -4785,7 +4785,7 @@ genarch 3
 glossematics 3
 glar 1
 gypsy 2
-givingness 1
+givingness 2
 globes 2
 garrnishable 1
 gizz 1
