@@ -17716,7 +17716,7 @@ beshouts
 birling 1
 bookways
 bombshell
-burned
+burned 1
 burner 2
 benempt
 billian
