@@ -390,7 +390,7 @@ defension 1
 deployable 1
 disembargoing 1
 dimmet
-daimons
+daimons 1
 ditches
 divineness
 dehydrogenization 2
