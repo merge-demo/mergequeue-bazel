@@ -6914,7 +6914,7 @@ desorption 2
 drollist 5
 discomposes 2
 desoxalic
-dichromasy 1
+dichromasy 2
 decanter
 dialled
 despair
