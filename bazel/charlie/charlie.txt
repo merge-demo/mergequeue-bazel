@@ -16864,7 +16864,7 @@ crosswort 1
 clubroom
 casebooks 1
 clubroots
-clubs
+clubs 1
 clubstart 4
 clubster
 carpogonium
