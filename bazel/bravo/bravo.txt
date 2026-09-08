@@ -17780,7 +17780,7 @@ base 1
 braiders 2
 burrhead 4
 burrheaded 1
-bedcovers 1
+bedcovers 2
 burrheadedness
 baroneted
 blinkered 1
