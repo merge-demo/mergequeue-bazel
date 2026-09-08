@@ -4838,7 +4838,7 @@ brooklets 1
 bazoos
 bodyweight 1
 buttercups 3
-bath
+bath 1
 boilerless 1
 brainstorm 1
 bedumbs 1
