@@ -2828,7 +2828,7 @@ canon 1
 churlish
 canones 2
 cardooer
-canonesses
+canonesses 1
 canonicalization
 cinctures 3
 canonicalized 1
