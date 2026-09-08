@@ -6919,7 +6919,7 @@ chymosins 2
 coaugment 1
 calorimetric
 cementatory 1
-chlorobromomethane
+chlorobromomethane 1
 curvirostres 1
 charros
 cementer
