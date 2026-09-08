@@ -12307,7 +12307,7 @@ betrayer 3
 bombardments 3
 bombline
 bowdrill 3
-bombast 1
+bombast 2
 buglers
 bicker 2
 bezzi
