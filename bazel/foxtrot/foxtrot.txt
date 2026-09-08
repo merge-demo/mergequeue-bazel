@@ -4512,7 +4512,7 @@ forblow 1
 feebleheartedness
 foreshank 2
 festschrift
-flicking
+flicking 1
 fissilinguia 5
 flinder 1
 fabulist 1
