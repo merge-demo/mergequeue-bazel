@@ -27055,7 +27055,7 @@ cetylene
 counterpropaganda 1
 checklaton
 chalcotrichite 2
-counterpropagandize
+counterpropagandize 1
 counterprophet 1
 collegially
 conceptualization
