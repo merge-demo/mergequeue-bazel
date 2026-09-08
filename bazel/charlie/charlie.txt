@@ -24838,7 +24838,7 @@ calcimeter
 coracobrachialis
 combite 1
 cosheries 2
-coracoclavicular
+coracoclavicular 1
 chompers 1
 coracocostal
 christiform
