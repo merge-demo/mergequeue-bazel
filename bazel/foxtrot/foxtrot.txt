@@ -4595,7 +4595,7 @@ foliages 1
 flunkyism 3
 fissidens 1
 fossilify 1
-fisheye
+fisheye 1
 fieldstone 3
 fistuca 2
 freezing 2
