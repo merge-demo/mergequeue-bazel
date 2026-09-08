@@ -15765,7 +15765,7 @@ coiffeuse
 cerebellar
 chainlet 1
 couma
-cleanliest
+cleanliest 1
 culottes 1
 clumpier
 cleanout
