@@ -3276,7 +3276,7 @@ capitol
 clingier
 crayfishing 1
 corregimiento
-capitoline
+capitoline 1
 capitolium
 crabbit 2
 capitula 1
