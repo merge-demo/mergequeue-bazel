@@ -1966,7 +1966,7 @@ fancy 1
 feebless
 filatory 1
 fillock 2
-fernticle
+fernticle 1
 fibratus 2
 functionalize 2
 frigiferous
