@@ -5017,7 +5017,7 @@ fissive 1
 filmcard 2
 flaneur 2
 frescoes 2
-functioned
+functioned 1
 foremartyr 2
 fiddlewood 1
 filet 1
