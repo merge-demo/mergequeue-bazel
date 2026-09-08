@@ -8370,7 +8370,7 @@ diplumbic 1
 dichotomization
 dialysability 2
 diastolic
-dimerizing
+dimerizing 1
 dermamycosis 2
 diminutal 2
 deplanes 1
