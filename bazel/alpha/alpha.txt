@@ -24851,7 +24851,7 @@ ascidioida
 avolitional 1
 avouch 1
 avouchable 2
-atmosphere
+atmosphere 1
 anaptyxis
 alands
 animates
