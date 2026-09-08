@@ -3246,7 +3246,7 @@ eluents
 elul 1
 epidemic 1
 erects 1
-enclitical
+enclitical 1
 encephalotomy
 eyesore 4
 entrench 1
