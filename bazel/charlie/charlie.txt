@@ -28435,7 +28435,7 @@ creamless
 creamlike 1
 cutpurses
 cotarnine 2
-chiefling 2
+chiefling 3
 creams 1
 cindery 2
 creance 1
