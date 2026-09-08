@@ -4855,7 +4855,7 @@ flagstick 2
 flagworm 3
 fandangle 2
 feramorz 2
-fittedness 1
+fittedness 2
 florida 3
 flivvers
 fairwater
