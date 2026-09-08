@@ -5394,7 +5394,7 @@ chrysanthemin
 casteth
 crossbench 1
 castice
-castigable
+castigable 1
 confederates
 constatation 2
 coxiest
