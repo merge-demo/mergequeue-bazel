@@ -3738,7 +3738,7 @@ galvanoplastics 1
 granaries 2
 guttur
 guayacan 3
-graduations
+graduations 1
 gurdy 4
 ghuz 2
 glabellae 1
