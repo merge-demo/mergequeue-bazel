@@ -11470,7 +11470,7 @@ archexorcist
 acone
 armaments 2
 aloemodin 1
-afterturn 1
+afterturn 2
 accoutring 2
 avengeress
 acrinyl
