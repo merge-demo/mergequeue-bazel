@@ -4593,7 +4593,7 @@ desperance 1
 depths
 disusing 2
 detected
-digitigrade
+digitigrade 1
 decretal
 demiox
 dharmasmriti 4
