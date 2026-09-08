@@ -3682,7 +3682,7 @@ brigantinebrigantines
 basiophthalmite 1
 baste 1
 bucketful
-bally
+bally 1
 belfather
 batteaux 1
 bonnering
