@@ -14081,7 +14081,7 @@ dietics
 despin 2
 district
 districting 1
-defoaming
+defoaming 1
 decarnate 1
 doree 3
 divoto 1
