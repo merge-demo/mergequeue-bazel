@@ -9850,7 +9850,7 @@ coprophilic 2
 copperytailed
 chemistry
 chemists 2
-coenactor
+coenactor 1
 countess
 chawer
 chemitypy
