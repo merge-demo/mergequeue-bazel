@@ -2291,7 +2291,7 @@ exormia
 enbloc 1
 endolymph 1
 excretal
-eger 2
+eger 3
 encased 2
 egest
 ester 1
