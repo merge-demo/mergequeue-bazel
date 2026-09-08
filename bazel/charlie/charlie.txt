@@ -4973,7 +4973,7 @@ cartographic
 cartographical
 cartographically
 carton 2
-cartoner
+cartoner 1
 cartonful 1
 covinously 1
 crimmers 1
