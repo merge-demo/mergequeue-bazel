@@ -24195,7 +24195,7 @@ colleterial
 compost
 cunning 1
 convocations 1
-convocative
+convocative 1
 convocator 1
 cantabrize
 catbriers
