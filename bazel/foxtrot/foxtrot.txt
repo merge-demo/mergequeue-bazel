@@ -2977,7 +2977,7 @@ fiberize
 fewest 6
 fluke 2
 fissiparity 4
-fading 1
+fading 2
 fewterer 3
 francophil 1
 fewtrils 2
