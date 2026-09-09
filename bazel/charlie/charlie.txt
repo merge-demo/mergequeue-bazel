@@ -12571,7 +12571,7 @@ chronogeneous
 combinedness 1
 chronogram
 celestially 1
-chronogrammatic
+chronogrammatic 1
 chronogrammatically
 cheetah
 cenospecifically
