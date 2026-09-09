@@ -17875,7 +17875,7 @@ dinks 1
 dayflowers
 docible 1
 duelling 1
-duellist 2
+duellist 3
 diplomata
 debromination 1
 disgrace
