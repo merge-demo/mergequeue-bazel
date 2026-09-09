@@ -24706,7 +24706,7 @@ copping 1
 croppers
 coppra
 chamidae 1
-closenesses
+closenesses 1
 copra
 copraemia 1
 cencerros 2
