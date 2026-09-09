@@ -6989,7 +6989,7 @@ barricades 2
 basilian 1
 besmouch 1
 bloodying 2
-bacteritic
+bacteritic 1
 besmudge 1
 beamless 1
 bronzite 1
