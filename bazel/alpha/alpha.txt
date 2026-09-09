@@ -24103,7 +24103,7 @@ autofrettage
 autogamic 2
 armament
 afreets 1
-autolaryngoscopic
+autolaryngoscopic 1
 approvedness
 adjuncts
 anomalopteryx 1
