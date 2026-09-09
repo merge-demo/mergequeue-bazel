@@ -20963,7 +20963,7 @@ ascend
 ascendable
 ayenbite 3
 amortisseur
-ahtena 1
+ahtena 2
 antirust 2
 athreptic
 autotroph 1
