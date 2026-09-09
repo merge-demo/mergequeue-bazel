@@ -99,7 +99,7 @@ accelerator 1
 antipriestcraft
 abaptiston 1
 acknow
-annominate
+annominate 1
 auditories 1
 abarticulation 2
 agyieus 1
