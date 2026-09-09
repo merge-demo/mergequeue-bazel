@@ -28796,7 +28796,7 @@ cresegol
 cargo 1
 cresyl
 cresylate
-cresylic 1
+cresylic 2
 cresyls
 cresive
 cornucopian
