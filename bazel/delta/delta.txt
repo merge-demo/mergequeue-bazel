@@ -18379,7 +18379,7 @@ deuteroconid 2
 dihalo 3
 dabbles
 disintrench
-decontrols
+decontrols 1
 daviesia
 duodenums 1
 dysphagia 2
