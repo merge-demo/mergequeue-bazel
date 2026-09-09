@@ -13698,7 +13698,7 @@ decentered 1
 dosimeter
 duecento
 disulphuric 2
-dialkyl
+dialkyl 1
 danegeld
 diatomiferous 1
 diplasion
