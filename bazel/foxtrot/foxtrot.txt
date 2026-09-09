@@ -3927,7 +3927,7 @@ fusinist 3
 fullage 2
 frostproof 2
 fustianize 2
-foggage
+foggage 1
 fang 1
 formalised 4
 filopodia 3
