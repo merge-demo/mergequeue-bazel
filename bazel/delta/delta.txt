@@ -615,7 +615,7 @@ damnability 2
 damnabilities 2
 disegno 1
 dawut
-deadrize
+deadrize 1
 disintegrating 5
 deadhand 3
 derelinquendi 1
