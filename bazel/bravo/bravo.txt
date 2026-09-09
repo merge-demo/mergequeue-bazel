@@ -1617,7 +1617,7 @@ ballotist 3
 ballots 1
 ballottement
 backlotter 3
-baronage
+baronage 1
 bahamian
 byelorussians
 ballottines 1
