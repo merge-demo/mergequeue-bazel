@@ -10095,7 +10095,7 @@ blackbine
 befrets 2
 blackback 1
 beadles 1
-blackballed
+blackballed 1
 beinked
 blanching
 blackballs 3
