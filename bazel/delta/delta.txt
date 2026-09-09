@@ -4659,7 +4659,7 @@ dualisms
 deliming
 demiss 1
 dryopithecid 2
-demivolt
+demivolt 1
 disprobative
 demissory
 demystify
