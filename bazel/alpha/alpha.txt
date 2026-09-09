@@ -21943,7 +21943,7 @@ austerus 1
 associativeness 1
 amplify 1
 armoring 1
-associativity 2
+associativity 3
 adicity
 autochthones
 articulating 2
