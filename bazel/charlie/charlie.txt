@@ -24340,7 +24340,7 @@ cookroom
 coral
 concentrate 1
 caverning
-caritas 1
+caritas 2
 cookshop 1
 cookshops 4
 chiliasms 1
