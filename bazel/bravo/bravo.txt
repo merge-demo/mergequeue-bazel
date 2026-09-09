@@ -3890,7 +3890,7 @@ bawneen 1
 bawra 1
 barklyite 1
 bawsint 3
-brutalness
+brutalness 1
 bawsunt 2
 blamelessness 4
 beechnuts 1
