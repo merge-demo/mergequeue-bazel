@@ -17447,7 +17447,7 @@ crosstrees 1
 cobbin
 cobbing
 cumulite
-causeries
+causeries 1
 cobble 1
 capax
 cobbled
