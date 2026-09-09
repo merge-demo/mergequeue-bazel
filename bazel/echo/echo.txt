@@ -8167,7 +8167,7 @@ extrapolated
 endobatholithic 2
 ephippium
 entrepas 3
-engyscope
+engyscope 1
 episcopization 1
 enlighteners 1
 ecospecies
