@@ -3174,7 +3174,7 @@ dyothelete
 dipsas 2
 defecator 1
 daneflower
-defect
+defect 1
 degusting
 divots 1
 draughtily 2
