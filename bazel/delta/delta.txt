@@ -11109,7 +11109,7 @@ downflow 1
 disarrays 1
 disarranges 1
 do 1
-discernibility
+discernibility 1
 dulled 2
 dorhawk 4
 dotless 1
