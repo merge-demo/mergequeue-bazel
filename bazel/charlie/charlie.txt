@@ -11830,7 +11830,7 @@ choplogic 1
 choplogical
 choregi 1
 cryptomonad
-candider
+candider 1
 chopper
 choppers 2
 choppier
