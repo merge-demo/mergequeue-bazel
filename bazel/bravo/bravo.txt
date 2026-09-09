@@ -10986,7 +10986,7 @@ backseats 2
 bkgd 2
 biddery
 benzotriazine
-boffolas
+boffolas 1
 bowsaw 1
 blameworthy
 blithest
