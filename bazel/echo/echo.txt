@@ -8112,7 +8112,7 @@ epiprecoracoid 3
 extrude 1
 elegant
 epipterous 1
-epipubis 1
+epipubis 2
 expostulations 1
 erminois 3
 esterifying 1
