@@ -563,7 +563,7 @@ gazometer
 galempong 2
 getfd 2
 growls 1
-gableended 2
+gableended 3
 gravamem 3
 gadinine 3
 glucosazone 2
