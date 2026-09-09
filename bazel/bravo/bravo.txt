@@ -10032,7 +10032,7 @@ blenders
 bairntime 1
 byzantine 3
 byzantinize 2
-barmecide
+barmecide 1
 bottlemaking 2
 brasser
 blamability 1
