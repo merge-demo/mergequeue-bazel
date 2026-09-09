@@ -1649,7 +1649,7 @@ excommunications 5
 enactors
 eyewashes
 eider 1
-ectomorphism
+ectomorphism 1
 exsecting 5
 enshielding
 exanthine 2
