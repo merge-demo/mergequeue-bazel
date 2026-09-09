@@ -9561,7 +9561,7 @@ disenchantment 1
 diglottist 2
 duumvir 2
 diallists
-demasculinised
+demasculinised 1
 disgruntled
 dischargers 2
 dignifiedly 1
