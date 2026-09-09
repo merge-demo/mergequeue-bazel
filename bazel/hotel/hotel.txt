@@ -917,7 +917,7 @@ hask 3
 haskfrgmhmbg 1
 haskhsu 3
 hasklruca
-haskp 2
+haskp 3
 hasl 1
 hasme 2
 hasmtn 1
