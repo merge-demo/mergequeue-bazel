@@ -5615,7 +5615,7 @@ aphototaxis
 aftervision
 actinomycoma
 afterwale
-amnesics
+amnesics 1
 afterward 2
 afterwise
 afterwit
