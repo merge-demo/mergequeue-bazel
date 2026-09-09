@@ -5493,7 +5493,7 @@ aftercast 2
 aftercataract 1
 aloe
 afterclause
-aftercome
+aftercome 1
 australasian 1
 acrostichic 2
 aftercooler 2
