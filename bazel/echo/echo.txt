@@ -3144,7 +3144,7 @@ externalizing 2
 eloigned 1
 eleometer 4
 euphonetic 1
-emissive
+emissive 1
 empanelled
 endoscopy
 earthsmoke
