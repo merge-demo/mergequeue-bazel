@@ -6691,7 +6691,7 @@ ceilidhe 1
 connexivum 1
 ceiling 1
 ceilings 3
-ceilingwards
+ceilingwards 1
 copiability
 celtophobia
 ceilometer 1
