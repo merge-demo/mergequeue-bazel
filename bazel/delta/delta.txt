@@ -11530,7 +11530,7 @@ dirham 1
 defter
 dunciad
 dovewood
-discommendation
+discommendation 1
 dheneb 1
 dedanim 1
 deaner 3
