@@ -12015,7 +12015,7 @@ enterfeat 2
 exampleship 2
 essentials 1
 eigenspace 2
-etherion
+etherion 1
 espeire 1
 embolus
 electioneerer 2
