@@ -1876,7 +1876,7 @@ azodisulphonic 1
 antipopularization 1
 antifaction
 acetabulous
-atheromas
+atheromas 1
 afifi 1
 acetabulums 2
 acetacetic
