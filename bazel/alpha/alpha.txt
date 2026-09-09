@@ -3353,7 +3353,7 @@ adamantoblast
 archery 1
 amblystoma
 absentee 1
-atresic
+atresic 1
 atelets
 andean
 allosyndesis 1
