@@ -17752,7 +17752,7 @@ adumbration
 antispasis 1
 applique 1
 appliques 2
-antinarcotics
+antinarcotics 1
 assorters
 annuloida
 apinae 2
