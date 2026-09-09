@@ -4603,7 +4603,7 @@ bedbugs 1
 boden
 bedtick 1
 bedchair 5
-butterine 1
+butterine 2
 bedchairs
 buffers 2
 bellowing
