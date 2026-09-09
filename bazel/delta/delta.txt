@@ -2089,7 +2089,7 @@ decaliters 2
 dichopodial
 decalitre
 dunlop
-dinornithid
+dinornithid 1
 disappearance 1
 diabrotica
 disencumbering
