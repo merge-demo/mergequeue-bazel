@@ -19297,7 +19297,7 @@ colonisable
 communication
 clinid 1
 consumingness
-colonisationist
+colonisationist 1
 colonised
 colonising
 colonist
