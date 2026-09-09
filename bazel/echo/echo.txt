@@ -3453,7 +3453,7 @@ eventide 5
 embellisher 1
 embellishers 1
 eutelegenic 1
-enchained 1
+enchained 2
 encolden
 embers 1
 estival 5
