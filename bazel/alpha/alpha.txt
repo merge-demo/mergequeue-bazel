@@ -3207,7 +3207,7 @@ annamese 1
 alphabeted
 attributer 2
 actuality 1
-actualization
+actualization 1
 actualness
 allochromatic 2
 axopetal
