@@ -13234,7 +13234,7 @@ cyclobutane 4
 constableship 1
 cholecystopexy
 carapacial
-cyclocephaly 1
+cyclocephaly 2
 cyclocoelic 2
 cyclode
 catastrophe
