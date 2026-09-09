@@ -10894,7 +10894,7 @@ clavate
 chiral
 clerids
 cardstock 1
-contortioned
+contortioned 1
 chiralgia 1
 contiguousness
 chirapsia
