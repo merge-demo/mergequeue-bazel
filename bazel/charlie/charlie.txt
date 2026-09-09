@@ -18296,7 +18296,7 @@ coforeknown
 clownishness
 cofounding
 cathedrals 2
-cofoundress
+cofoundress 1
 confabulated
 cecidium
 chamaeleontidae
