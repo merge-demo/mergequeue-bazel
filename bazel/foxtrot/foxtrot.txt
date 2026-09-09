@@ -2531,7 +2531,7 @@ fanam
 feeler 4
 frugivorous
 fibromembranous 1
-filamentule
+filamentule 1
 frangibility
 freebee 2
 fados 1
