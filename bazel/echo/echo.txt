@@ -835,7 +835,7 @@ ectiris 1
 etamines 2
 ectocarpus 2
 eriophorum
-eosinophil 4
+eosinophil 5
 ectocommensal 3
 ectocondylar 1
 endophytic 1
