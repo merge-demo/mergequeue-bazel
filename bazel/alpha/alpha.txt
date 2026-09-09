@@ -25236,7 +25236,7 @@ antical
 aciduria 1
 azeotrope 1
 alveoloclasia
-abstrict 1
+abstrict 2
 azeotropic
 azerbaijani 1
 azerbaijanian
