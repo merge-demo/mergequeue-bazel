@@ -27134,7 +27134,7 @@ countersink
 colical
 chesboll
 countrywide
-countersinks
+countersinks 1
 countersleight 2
 countersnarl
 cataclysmatic 2
