@@ -25483,7 +25483,7 @@ cephaelis
 coroll 1
 cartooning
 corollary
-centrosymmetric
+centrosymmetric 1
 chastens 2
 cervicohumeral 1
 contradictions 2
