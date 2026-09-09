@@ -2897,7 +2897,7 @@ cantabile
 clothesmonger
 chalcis 1
 cantabrian
-cantabrigian
+cantabrigian 1
 cantalever 2
 cantaliver 1
 cackled
