@@ -18214,7 +18214,7 @@ beshadowing 1
 brisken 1
 beyond
 butterfat
-bucranium
+bucranium 1
 bandages
 bushwhacks 1
 blackwort 2
