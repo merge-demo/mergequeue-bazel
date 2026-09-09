@@ -10850,7 +10850,7 @@ envineyard
 enchase 1
 eisteddfodau 1
 euphotic 2
-entailable
+entailable 1
 equitability 1
 eructation 1
 ereption 2
