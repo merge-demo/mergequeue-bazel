@@ -10513,7 +10513,7 @@ digonoporous 1
 depthless 4
 danging
 discorder 2
-derangeable
+derangeable 1
 delaminate 4
 divinize 2
 dihydrocupreine
