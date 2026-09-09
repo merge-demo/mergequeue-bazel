@@ -12806,7 +12806,7 @@ disconfirm 1
 dismayable
 dismayfully
 declension 1
-datagrams
+datagrams 1
 diathermancy 1
 doubty
 dismail
