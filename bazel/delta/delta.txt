@@ -17573,7 +17573,7 @@ drums 1
 decalcifier 2
 drumstick
 drumwood 2
-drunk
+drunk 1
 drunkards 2
 desuperheater 3
 dogbite 1
