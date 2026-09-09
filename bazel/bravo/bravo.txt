@@ -15288,7 +15288,7 @@ bridewort 1
 bridge
 basiliscan 3
 bighorn 1
-budtime
+budtime 1
 bridgebuilder 3
 bridgehead 1
 bridgemaking 1
