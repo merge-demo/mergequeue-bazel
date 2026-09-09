@@ -15271,7 +15271,7 @@ armload
 antigigmanic 2
 annexment
 autonitridation 1
-antileveling
+antileveling 1
 antigonon 2
 antigonorrheic
 afflue
