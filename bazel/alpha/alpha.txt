@@ -4971,7 +4971,7 @@ astrobiologist 1
 autophone 1
 abluted
 agenizes
-aeronat
+aeronat 1
 aeronaut 1
 aeronautic
 argentose
