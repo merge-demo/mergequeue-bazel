@@ -2307,7 +2307,7 @@ completer
 cromorne
 canalboat 2
 charales 1
-canale
+canale 1
 canaled
 cobs
 cithrens
