@@ -2743,7 +2743,7 @@ decoration
 diogenic 1
 decorator
 deliberated
-disaffiliate
+disaffiliate 1
 devonshire 1
 dictates
 dissembling
