@@ -17752,7 +17752,7 @@ ducaton
 dependency
 ducats 1
 dewiness
-demises
+demises 1
 ducdame 2
 diplocoria 1
 defector
