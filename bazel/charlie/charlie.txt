@@ -4130,7 +4130,7 @@ caffa
 clerihew
 cubed
 chancellor
-cardinalities 1
+cardinalities 2
 cardinally 1
 cardinalship
 cardings 1
