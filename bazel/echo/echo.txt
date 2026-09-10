@@ -1088,7 +1088,7 @@ evaluators 2
 exfigure
 earock 2
 equipoised 1
-evaluates 2
+evaluates 3
 envined 2
 edificatory
 epimerize 1
