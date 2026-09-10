@@ -8320,7 +8320,7 @@ inzxrtc 3
 inzyz 3
 ioaapn
 ioabi 2
-ioaboqt
+ioaboqt 1
 ioabwistav 1
 ioacbieu
 ioacjmyl 1
