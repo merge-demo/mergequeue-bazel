@@ -12242,7 +12242,7 @@ disfurnished 1
 dangerless
 desulfurating 2
 deathshot 4
-dervishes
+dervishes 1
 disfurniture 1
 donax 1
 disgarnish
