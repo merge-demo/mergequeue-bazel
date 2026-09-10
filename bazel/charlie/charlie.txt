@@ -17114,7 +17114,7 @@ coadjutor 1
 coadjutors 1
 carduus
 coadjutorship
-coadjutress
+coadjutress 1
 coadjutrix
 coadjuvate
 crasser 2
