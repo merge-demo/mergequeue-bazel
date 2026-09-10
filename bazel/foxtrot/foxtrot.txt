@@ -9758,7 +9758,7 @@ falchion
 fessways 3
 foolhardiest 2
 fascet 1
-fatigability 2
+fatigability 3
 fishworm 2
 farfel 4
 fluentness 1
