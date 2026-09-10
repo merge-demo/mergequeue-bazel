@@ -7724,7 +7724,7 @@ breakover 1
 brocard 1
 bhindi 1
 bowstave 2
-bhishti 2
+bhishti 3
 bhistie 3
 bhisties 2
 berake 1
