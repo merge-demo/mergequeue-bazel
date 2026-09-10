@@ -3495,7 +3495,7 @@ decelerating 1
 dehydrochlorination
 dorosacral 2
 decompressed 1
-deflator
+deflator 1
 deforced
 depressors 1
 deforces 2
