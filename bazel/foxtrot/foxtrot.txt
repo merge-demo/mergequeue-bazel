@@ -9334,7 +9334,7 @@ fromward 2
 ferromagnesian 1
 frangulic 1
 forjudge
-flichter
+flichter 1
 fishless 1
 facelessness 1
 fetichistic 1
