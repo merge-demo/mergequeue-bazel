@@ -19046,7 +19046,7 @@ archphilosopher 1
 announcer
 archpilferer
 adornment
-aneurismatic
+aneurismatic 1
 accentuating
 adulteration 2
 aphicide
