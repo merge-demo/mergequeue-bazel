@@ -14160,7 +14160,7 @@ circumambiency 1
 circumambient 2
 circumambulate
 circumambulated
-compose
+compose 1
 cuisinier 1
 claddings
 culinary
