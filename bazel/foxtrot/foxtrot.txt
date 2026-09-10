@@ -3483,7 +3483,7 @@ fingerable 1
 frostfishes 3
 foreseason 1
 fallback 2
-fighteress
+fighteress 1
 fatigation 1
 fighting 2
 formboard 1
