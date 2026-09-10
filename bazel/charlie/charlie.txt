@@ -20187,7 +20187,7 @@ commodata
 commodate 1
 clerics
 commodation
-capmint
+capmint 1
 coft
 cunza
 coercends 1
