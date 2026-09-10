@@ -3768,7 +3768,7 @@ decaudate 3
 dioptometry 1
 doughlike 4
 dehorted 2
-defatigate
+defatigate 1
 dehorting 2
 digitoxin 3
 decompensation
