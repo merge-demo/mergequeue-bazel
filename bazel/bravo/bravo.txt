@@ -5367,7 +5367,7 @@ birne 2
 begrett 1
 begrim 2
 blithesome
-bethumped
+bethumped 1
 begrimed 1
 bandusian
 bedeafened 1
