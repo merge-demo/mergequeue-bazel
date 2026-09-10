@@ -24505,7 +24505,7 @@ caroigne
 copartiment
 circles
 commandrie 1
-copartnership
+copartnership 1
 chronodeik
 counterquarterly 1
 copassionate 1
