@@ -2340,7 +2340,7 @@ absorbed 3
 acieration 2
 apiary
 acies
-altometer
+altometer 1
 acanthopod 3
 acyetic 1
 apprehend
