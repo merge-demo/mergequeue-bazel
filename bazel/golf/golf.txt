@@ -6779,7 +6779,7 @@ gnosticize 2
 genericness 5
 gamelang 2
 ganam 4
-gamgee 3
+gamgee 4
 gratias 2
 gobbe 1
 gud 1
