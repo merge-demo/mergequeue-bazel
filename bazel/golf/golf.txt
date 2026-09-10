@@ -9316,7 +9316,7 @@ glopnen
 gerland
 groins 2
 grolieresque 3
-gruffness
+gruffness 1
 granulative 4
 glycerole
 guessing 3
