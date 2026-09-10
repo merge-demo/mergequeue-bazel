@@ -16501,7 +16501,7 @@ brusquest 1
 boucherize 2
 brussel 2
 bolshevistic 2
-bordered
+bordered 1
 bestrode 1
 brustle 2
 bridal 1
