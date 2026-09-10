@@ -13816,7 +13816,7 @@ dindle 2
 distain 2
 distaining 1
 denumeration 1
-diatomic 1
+diatomic 2
 dryers 1
 doable
 delphinin
