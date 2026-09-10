@@ -19247,7 +19247,7 @@ areal 1
 albified 1
 areasoner 1
 areca
-arecain
+arecain 1
 arecas 1
 atmolyzer
 automatonta 1
