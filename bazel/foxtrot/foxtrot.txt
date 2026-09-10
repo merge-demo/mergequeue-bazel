@@ -6203,7 +6203,7 @@ foretops 1
 feebling 3
 frequency
 flagmaker 4
-furbished 2
+furbished 3
 fibroareolar
 farfetched 2
 flisked 4
