@@ -2194,7 +2194,7 @@ felts
 forthtell 1
 fishworker 2
 feltwort 1
-fastidiosity 1
+fastidiosity 2
 felwort 3
 fathearted 2
 faciobrachial 1
