@@ -6474,7 +6474,7 @@ fruitages 2
 fissilingual 1
 farriery 2
 flatboat 1
-fording 2
+fording 3
 fetishists 1
 frosted 2
 flourlike 2
