@@ -7427,7 +7427,7 @@ firefang
 footmen 4
 ferrocerium 2
 forwarder 1
-filicides 2
+filicides 3
 fileable
 fillemot 1
 faience 1
