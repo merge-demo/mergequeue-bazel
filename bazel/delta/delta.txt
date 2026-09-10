@@ -4793,7 +4793,7 @@ disseizor 1
 deanimalize 1
 diemaker
 dentalizing 1
-disenslave
+disenslave 1
 demography
 denigrations 3
 dichotomically 1
