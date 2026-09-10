@@ -29215,7 +29215,7 @@ cryotherapies
 crip 2
 crippied 1
 cripple
-cogboat 1
+cogboat 2
 characid 1
 crippleness
 crippler
