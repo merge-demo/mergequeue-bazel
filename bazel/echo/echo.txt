@@ -1890,7 +1890,7 @@ eyoty 1
 elapsed
 endamage 2
 everwho 2
-eightball
+eightball 1
 eir 1
 eclat 2
 epurate 1
