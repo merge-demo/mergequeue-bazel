@@ -5870,7 +5870,7 @@ fdtype 2
 fowlers 1
 flocced
 frustulose 1
-footsoldier
+footsoldier 1
 filariae
 fortunite 4
 film 1
