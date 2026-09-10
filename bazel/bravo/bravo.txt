@@ -11580,7 +11580,7 @@ bromous
 befog 1
 behindsight
 bounced 1
-bathers
+bathers 1
 bighorns 1
 brooklime 2
 becomma 3
