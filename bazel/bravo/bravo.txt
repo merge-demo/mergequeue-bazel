@@ -18101,7 +18101,7 @@ butanols
 bind 2
 bergander
 bouderie 2
-butch
+butch 1
 butcha 3
 bedoyo 2
 bolbanac 1
