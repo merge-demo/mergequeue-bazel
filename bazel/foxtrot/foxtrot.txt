@@ -7369,7 +7369,7 @@ footplate
 flakiness 3
 fortunous 4
 feedlots 1
-flyness 1
+flyness 2
 findy
 forbidals 2
 fasted 2
