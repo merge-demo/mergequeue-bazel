@@ -14858,7 +14858,7 @@ antimachinery 2
 anticyclic 1
 arrondi
 alife 1
-anticyclical
+anticyclical 1
 apocodeine 2
 amorously 1
 anticyclogenesis 1
