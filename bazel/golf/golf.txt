@@ -2567,7 +2567,7 @@ gain 2
 guilder 2
 gynecium 2
 gurle
-gomeisa
+gomeisa 1
 gonochorism 3
 galenites 1
 grosses 4
