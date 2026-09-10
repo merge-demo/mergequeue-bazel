@@ -2443,7 +2443,7 @@ foh 2
 fingu 1
 frontwise 2
 foreproduct 1
-fermentable 2
+fermentable 3
 fermentativeness 3
 faradize 3
 falus 2
