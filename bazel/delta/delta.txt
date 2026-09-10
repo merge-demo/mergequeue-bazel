@@ -14577,7 +14577,7 @@ disembower 3
 dihedrals 1
 delight 3
 dryfarm
-departmentization 1
+departmentization 2
 deeming
 diatomine
 disinfeudation 2
