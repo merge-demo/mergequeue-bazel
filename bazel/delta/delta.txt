@@ -10713,7 +10713,7 @@ dumbnesses 1
 diaculum
 depit 1
 dormin
-digitalize
+digitalize 1
 demurs
 dippier 1
 dipping
