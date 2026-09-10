@@ -14406,7 +14406,7 @@ anthracia 1
 anthracyl 1
 alcazars
 anthracin
-amnemonic
+amnemonic 1
 almugs 1
 amplexicauline
 anthracitic
