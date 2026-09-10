@@ -2666,7 +2666,7 @@ decompensations
 dasylirion 1
 doorkeeper 1
 decompiler
-decomposable
+decomposable 1
 diceman 1
 deviceful
 decomposer 3
