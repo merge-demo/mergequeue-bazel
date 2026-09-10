@@ -9449,7 +9449,7 @@ delaw 1
 demode 2
 doppelganger
 davidsonite 4
-dozener
+dozener 1
 digeneous
 decubitus 1
 dissert
