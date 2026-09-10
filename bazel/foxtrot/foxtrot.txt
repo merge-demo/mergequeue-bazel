@@ -7317,7 +7317,7 @@ foaminess
 ferromolybdenum 2
 fixation 3
 foraying 2
-frognose 1
+frognose 2
 foralite
 foram 2
 franchisers 2
