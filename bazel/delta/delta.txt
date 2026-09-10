@@ -5558,7 +5558,7 @@ discomfits 2
 depancreatize 1
 drawrod
 drainermen 1
-deoxygenized 1
+deoxygenized 2
 demicolumn 1
 diffusionism
 depascent 1
