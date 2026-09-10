@@ -730,7 +730,7 @@ cage 1
 caged 1
 commiserated
 contractual
-cageful
+cageful 1
 cagefuls 2
 cerebripetal
 cageyness 1
