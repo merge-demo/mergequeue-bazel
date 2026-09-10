@@ -3788,7 +3788,7 @@ dwale
 disgracia
 drillable
 dynamites 2
-distrain
+distrain 1
 deice 2
 donning 1
 disseizoress
