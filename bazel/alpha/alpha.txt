@@ -15678,7 +15678,7 @@ abysm
 antiorthodoxy
 antioxidants 2
 alderling
-atoneable
+atoneable 1
 amygdalectomy 2
 andamentos
 aphetic
