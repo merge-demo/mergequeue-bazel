@@ -5418,7 +5418,7 @@ foremade 1
 frisado
 factorial 1
 fledgiest 2
-floatless
+floatless 1
 foisonless 2
 fabian 1
 feasten 2
