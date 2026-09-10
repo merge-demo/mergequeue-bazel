@@ -4408,7 +4408,7 @@ embar 2
 egotize
 eruptively 2
 electromechanical 1
-experiential
+experiential 1
 encadre 2
 ender 1
 emphasised 1
