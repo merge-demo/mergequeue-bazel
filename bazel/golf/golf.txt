@@ -6261,7 +6261,7 @@ goban 1
 greediness 2
 gadslid
 gobber 1
-gazettes 1
+gazettes 2
 goateed 2
 guitarlike
 gregariousness 5
