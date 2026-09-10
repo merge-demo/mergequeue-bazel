@@ -1298,7 +1298,7 @@ calfless 1
 calflike 1
 calfling 1
 calfskin
-creatural
+creatural 1
 calgary
 caliban 2
 cunea 1
