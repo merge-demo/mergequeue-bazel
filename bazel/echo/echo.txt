@@ -3702,7 +3702,7 @@ expectant 1
 elec 4
 eluates
 effluvium 1
-epitheliosis
+epitheliosis 1
 enantiotropic
 elucidators 2
 embryophore 1
