@@ -1807,7 +1807,7 @@ forbesite
 folkmots 2
 flak 2
 flaithship 4
-frustules 1
+frustules 2
 fanfarade
 flyspecks 4
 fiddler 2
