@@ -14512,7 +14512,7 @@ demurest 2
 diformin 2
 damaging 3
 dyeing
-detruncated
+detruncated 1
 disintegratory 1
 divinability 1
 defiles 1
