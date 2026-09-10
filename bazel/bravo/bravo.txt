@@ -3297,7 +3297,7 @@ bookwork 3
 basipetal 1
 basipodite
 blank
-basipterygium
+basipterygium 1
 baratheas 1
 believe 1
 brisant
