@@ -11020,7 +11020,7 @@ downbend 2
 doorframe 1
 disallow 2
 displaying 2
-dorneck 1
+dorneck 2
 disconformably
 dramatised 2
 dentalising 1
