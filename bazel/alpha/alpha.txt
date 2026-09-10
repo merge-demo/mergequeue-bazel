@@ -1875,7 +1875,7 @@ acetable
 azodisulphonic 1
 antipopularization 1
 antifaction
-acetabulous
+acetabulous 1
 atheromas 1
 afifi 1
 acetabulums 2
