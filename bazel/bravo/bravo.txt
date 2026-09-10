@@ -8104,7 +8104,7 @@ bioherms 1
 binocularity
 bourbon 3
 bug 2
-blasphemer
+blasphemer 1
 beltmaker
 botonn 3
 besieging 1
