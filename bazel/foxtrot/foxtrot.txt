@@ -10928,7 +10928,7 @@ fub 2
 foehn 1
 flexure 2
 field 1
-fulminatory
+fulminatory 1
 fetal 2
 floorage 2
 fadridden 3
