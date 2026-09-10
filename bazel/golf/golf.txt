@@ -7607,7 +7607,7 @@ goodyness 1
 gemmula
 grus 3
 grabhook 1
-grabouche 2
+grabouche 3
 gripsack
 gigolo 4
 gerenda
