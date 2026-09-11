@@ -3707,7 +3707,7 @@ carapidae
 cineastes 1
 clawlike
 carapine
-canvasback 1
+canvasback 2
 cucumaria
 coraji 1
 carara 1
