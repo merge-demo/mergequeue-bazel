@@ -9186,7 +9186,7 @@ doors
 delobranchiata 2
 dyeability 2
 denazification
-demilance
+demilance 1
 devilman 3
 ditriglyph 1
 dieb
