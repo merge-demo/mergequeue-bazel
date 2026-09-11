@@ -7372,7 +7372,7 @@ feedlots 1
 flyness 2
 findy
 forbidals 2
-fasted 2
+fasted 3
 featous 2
 foobar 4
 forbiddenly 3
