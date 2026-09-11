@@ -11163,7 +11163,7 @@ fremdness 2
 flyblowing 1
 fungian
 felspar
-fungibility 1
+fungibility 2
 fadeout 1
 fideists 1
 fungicidal 4
