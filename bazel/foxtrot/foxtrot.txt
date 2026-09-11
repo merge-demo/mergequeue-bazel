@@ -11676,7 +11676,7 @@ floodometer 1
 frowsty 2
 flibustier
 furcates 1
-frailties
+frailties 1
 festoons 4
 flocculate 2
 frigorific 2
