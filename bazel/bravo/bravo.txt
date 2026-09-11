@@ -12863,7 +12863,7 @@ bondslave 1
 behorror 1
 bifoil 1
 birthplace 1
-bg 1
+bg 2
 bacchiac
 bangster
 bkpt 4
