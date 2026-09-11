@@ -13240,7 +13240,7 @@ brislings
 bankshall
 bossed
 boanergean 2
-bosselation 1
+bosselation 2
 bolti 2
 barysphere 1
 buffbar 1

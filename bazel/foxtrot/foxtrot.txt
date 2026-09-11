@@ -4898,7 +4898,7 @@ forbears 2
 freedmen 3
 forwent 3
 fraternalism 3
-fulvidness
+fulvidness 1
 farina 4
 federationist 5
 flakage 3
