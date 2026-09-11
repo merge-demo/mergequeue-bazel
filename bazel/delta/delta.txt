@@ -8906,7 +8906,7 @@ dyads 1
 defiatory
 diceras
 dmod 2
-deriving
+deriving 1
 dioptidae 2
 disconnect
 dissolvability 2
