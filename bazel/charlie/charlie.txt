@@ -24651,7 +24651,7 @@ copolymerize
 cossas 2
 cruciated 2
 copolymerized
-copolymerizing
+copolymerizing 1
 copouts 1
 coley
 complects 2
