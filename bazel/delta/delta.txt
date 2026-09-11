@@ -1557,7 +1557,7 @@ distressedness 1
 doublure 3
 deadlier 1
 deaden 3
-droops 1
+droops 2
 docked 1
 drippings
 dices 3
