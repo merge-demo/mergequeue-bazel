@@ -3220,7 +3220,7 @@ bonnyvis 3
 bathtub
 blatters 2
 barkpeel 2
-biltong
+biltong 1
 basigynium
 basilarchia
 beware
