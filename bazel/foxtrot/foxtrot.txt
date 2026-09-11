@@ -8361,7 +8361,7 @@ forgot
 frontenis 1
 fightable 2
 forking
-flaveria
+flaveria 1
 forkless 2
 freedoms 4
 formicative 1
