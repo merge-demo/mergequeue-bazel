@@ -16203,7 +16203,7 @@ deallocates
 defats 2
 doweress 1
 dingeys 2
-dunches
+dunches 1
 dent 2
 dowery
 derailer
