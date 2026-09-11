@@ -3486,7 +3486,7 @@ fallback 2
 fighteress 1
 fatigation 1
 fighting 2
-formboard 1
+formboard 2
 figo 2
 favillae
 fumaroid 1
