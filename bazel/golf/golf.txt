@@ -5498,7 +5498,7 @@ gimmer 1
 goods 2
 gentlemen 1
 goodyera 2
-goldilocks
+goldilocks 1
 glisten 2
 guttering 5
 glimmery 3
