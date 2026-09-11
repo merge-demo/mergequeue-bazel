@@ -1683,7 +1683,7 @@ kbqkwb 3
 kbqlf
 kbqocnf 1
 kbqomkblzd 2
-kbqsym
+kbqsym 1
 kbqua 1
 kbqvd 1
 kbqwyixhahoreb
