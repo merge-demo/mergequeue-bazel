@@ -30072,7 +30072,7 @@ commandress 1
 crouth
 cellule 1
 conversational 2
-chattanoogan
+chattanoogan 1
 crowbait
 centuriate
 crowbar
