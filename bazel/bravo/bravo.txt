@@ -6781,7 +6781,7 @@ bookery 1
 bersagliere 2
 brittles
 bin 1
-berserks 1
+berserks 2
 barnumize 1
 berskin 2
 balize 1
