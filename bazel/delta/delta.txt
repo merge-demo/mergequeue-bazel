@@ -12878,7 +12878,7 @@ demerited 1
 dromond 2
 dismissal 4
 dismissals 1
-dismissed
+dismissed 1
 distemperate 1
 dismisses 1
 dismissing 1
