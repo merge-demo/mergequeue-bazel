@@ -13521,7 +13521,7 @@ bouchette 2
 bichromate
 beleft 6
 boisterousness
-becursing
+becursing 1
 backhanded 1
 butterbough 2
 barnacled 1
