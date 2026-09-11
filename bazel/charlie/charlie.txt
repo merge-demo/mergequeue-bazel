@@ -16678,7 +16678,7 @@ clote
 chayota
 clomb
 cloth 1
-clothe
+clothe 1
 clothed
 confusional
 calathian
