@@ -3597,7 +3597,7 @@ desilverize 2
 debunker 1
 degass
 degassed 1
-disappears
+disappears 1
 dodecant
 destituting
 diatonous 2
