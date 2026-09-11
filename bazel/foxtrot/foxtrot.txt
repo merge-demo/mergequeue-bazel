@@ -8763,7 +8763,7 @@ fermentability
 fadable 3
 forethought 2
 frenzic 2
-fleshiness 1
+fleshiness 2
 familia 4
 forellenstein 1
 forwarded
