@@ -10816,7 +10816,7 @@ directorate 2
 deviscerate
 dispartment 2
 dixies
-dissave
+dissave 1
 discolorate 1
 deviates
 departing
