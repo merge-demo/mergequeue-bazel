@@ -4434,7 +4434,7 @@ dependant
 demerit
 demiluster 3
 damoetas
-drones 1
+drones 2
 despairfulness 2
 desultory
 doubtingness 1
