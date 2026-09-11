@@ -16942,7 +16942,7 @@ burrah 1
 balloonlike 2
 bugout 2
 bugs 2
-bugweed
+bugweed 1
 blacktopped 1
 bugwort
 banca 3
