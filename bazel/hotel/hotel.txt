@@ -968,7 +968,7 @@ hatfvsny 3
 hatgc 4
 hatgl 2
 hatgre
-hath 1
+hath 2
 hathkzxols
 hathph 2
 hatisvs 1
