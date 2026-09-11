@@ -2639,7 +2639,7 @@ electroplater
 electropower 4
 electropsychrometer 2
 embodying 3
-evolvers
+evolvers 1
 excitably 3
 euphemiously 1
 eximiously 3
