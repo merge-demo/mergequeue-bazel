@@ -924,7 +924,7 @@ absolvatory 3
 aestuary 1
 absolves
 absolving
-abstort
+abstort 1
 astriction
 atomistics
 absolvitor 2
