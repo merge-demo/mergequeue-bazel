@@ -12103,7 +12103,7 @@ barristress
 boldfaced 3
 boldfacedness 2
 boldfacing 4
-bewitchments
+bewitchments 1
 bleb 1
 boldhearted 1
 beclip 2
