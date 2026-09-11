@@ -17709,7 +17709,7 @@ drabnesses 2
 dampener 2
 dubbin 3
 disused 2
-demipauldron
+demipauldron 1
 discriminable
 durables 1
 dedifferentiation 2
