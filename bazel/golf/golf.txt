@@ -6664,7 +6664,7 @@ graver 5
 gonepoiesis 1
 gingivectomy 1
 gash 1
-geostatic
+geostatic 1
 grandioso 2
 gustoish 1
 gopak 1
