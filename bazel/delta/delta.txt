@@ -16280,7 +16280,7 @@ dca
 decentralization
 dropman 4
 downier 2
-dorsoventrality
+dorsoventrality 1
 downiest 2
 dictator
 downiness 1
