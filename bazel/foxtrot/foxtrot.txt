@@ -4448,7 +4448,7 @@ fledgier 1
 floppiest 4
 fishman
 float 1
-frowzly
+frowzly 1
 feelable 2
 flossy 2
 fraternizer 5
