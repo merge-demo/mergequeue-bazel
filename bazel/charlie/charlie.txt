@@ -2708,7 +2708,7 @@ compiles 1
 calcemia
 cankery 1
 cannoneering 1
-cankerroot
+cankerroot 1
 cauponize
 cankers
 cultivators 1
