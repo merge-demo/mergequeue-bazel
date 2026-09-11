@@ -6590,7 +6590,7 @@ betons 1
 blastular 2
 bere 1
 butterbox 2
-brotula
+brotula 1
 beetlers 2
 bacharach 2
 bukh 2
