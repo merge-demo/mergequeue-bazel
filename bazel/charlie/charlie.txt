@@ -5145,7 +5145,7 @@ chaprassi 3
 caseinogen
 caseload
 caseloads 1
-casemaker 1
+casemaker 2
 caprylene 1
 cackle
 casemaking 1
