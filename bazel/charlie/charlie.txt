@@ -11100,7 +11100,7 @@ coccobacillus
 cardiologies 1
 collembolic
 chytridiose
-chytridiosis
+chytridiosis 1
 chytroi 2
 chits 1
 chittack
