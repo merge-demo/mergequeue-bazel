@@ -12289,7 +12289,7 @@ clothier
 christianizer
 christianizes 1
 christianizing
-christianly
+christianly 1
 contraindicative
 curviest
 cummins
