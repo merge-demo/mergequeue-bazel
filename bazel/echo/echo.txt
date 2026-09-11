@@ -3831,7 +3831,7 @@ ecu 2
 emending 2
 escribano 3
 emerald 1
-elasticities 1
+elasticities 2
 emerge 1
 ecart 1
 escapology 1
