@@ -25788,7 +25788,7 @@ cohos
 coccoids 3
 corrody 1
 celloist
-corrodiary
+corrodiary 1
 chemopause 2
 corroded 2
 corrodibility
