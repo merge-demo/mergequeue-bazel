@@ -13237,7 +13237,7 @@ carapacial
 cyclocephaly 2
 cyclocoelic 2
 cyclode
-catastrophe
+catastrophe 1
 cyclodiene 1
 cycloganoid
 cummin
