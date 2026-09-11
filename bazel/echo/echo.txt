@@ -8511,7 +8511,7 @@ eugeosyncline
 etherialized 2
 ethnologer 2
 erectility
-equal
+equal 1
 eosinlike 2
 equalises
 erectness 1
