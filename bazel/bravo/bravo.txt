@@ -11495,7 +11495,7 @@ behaves
 broadshare 1
 bromthymol 1
 budder 2
-blufter
+blufter 1
 bluggy 2
 bispore
 bethwack 1
