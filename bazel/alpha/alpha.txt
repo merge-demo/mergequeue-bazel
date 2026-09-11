@@ -5794,7 +5794,7 @@ agastric 2
 awacs
 apickaback 1
 ancestor
-agate
+agate 1
 agates
 autoturning
 antenave 1
