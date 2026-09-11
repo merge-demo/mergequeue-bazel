@@ -9977,7 +9977,7 @@ berbery 1
 barrenness
 bivector
 biventer 1
-backseat
+backseat 1
 bayonetting 3
 blackwashing 1
 bulkin 1
