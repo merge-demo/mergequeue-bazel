@@ -1017,7 +1017,7 @@ calapite
 caprelline 1
 calappidae 1
 calas
-colourtype
+colourtype 1
 cohoba 1
 calascione
 cydonia
