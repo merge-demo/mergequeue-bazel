@@ -3444,7 +3444,7 @@ enfiladed 2
 extradoses 1
 exteriors 1
 enteropneustan
-embed 2
+embed 3
 expenditures 1
 electrosynthetic 1
 equaled 1
