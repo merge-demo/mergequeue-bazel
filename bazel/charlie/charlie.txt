@@ -25981,7 +25981,7 @@ corviser
 corvo
 chamade
 corvoid 1
-corvorant
+corvorant 1
 cantiga
 corvus
 commissars 1
