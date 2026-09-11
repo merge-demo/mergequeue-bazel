@@ -6305,7 +6305,7 @@ freak
 fluxibility 2
 flummer 4
 flickerproof 1
-flintlocks
+flintlocks 1
 fistnote 1
 funori
 fettling 1
