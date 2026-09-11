@@ -366,7 +366,7 @@ deutomalar 3
 desalters 1
 dayman 1
 droughtiness
-detruss
+detruss 1
 daymares
 disseizes 1
 diarists
