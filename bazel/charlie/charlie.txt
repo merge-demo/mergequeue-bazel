@@ -7827,7 +7827,7 @@ cervicispinal
 cervicitis
 cervicoauricular 3
 chippable 2
-cervicobasilar
+cervicobasilar 1
 cervicobregmatic 1
 cobitis
 cervicobuccal 2
