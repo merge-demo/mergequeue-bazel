@@ -9014,7 +9014,7 @@ fondling 1
 fasc 1
 foremistress 1
 fizelyite 2
-feeling
+feeling 1
 freakery 3
 flimflammer 2
 fistle
