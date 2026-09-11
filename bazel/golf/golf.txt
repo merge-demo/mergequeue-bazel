@@ -9534,7 +9534,7 @@ genipapada 1
 guar 2
 grs 3
 gristliness 1
-guacico
+guacico 1
 griminess 4
 groundkeeper 1
 glidder 2
