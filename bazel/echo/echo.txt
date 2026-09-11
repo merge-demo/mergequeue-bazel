@@ -13067,7 +13067,7 @@ embankment 2
 ergates 2
 enslave
 embassador 2
-eutaxite
+eutaxite 1
 explications 2
 ergotisms 3
 ende 1
