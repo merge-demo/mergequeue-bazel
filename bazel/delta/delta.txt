@@ -14292,7 +14292,7 @@ downsitting
 ditrichotomous 1
 ditriglyphic 3
 delating 1
-dragropes
+dragropes 1
 duotones 2
 desireable
 dict
