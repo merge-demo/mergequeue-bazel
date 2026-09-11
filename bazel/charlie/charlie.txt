@@ -22167,7 +22167,7 @@ confusability 1
 circummured 2
 confusedly 1
 confusedness
-confuser
+confuser 1
 chickee 1
 confusion 1
 confusions
