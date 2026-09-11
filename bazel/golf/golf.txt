@@ -8153,7 +8153,7 @@ gallies 1
 granulization 2
 gliff 1
 ghastful 4
-gleek
+gleek 1
 gallicization 3
 gauntly 1
 graftages 3
