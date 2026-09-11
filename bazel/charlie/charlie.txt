@@ -28877,7 +28877,7 @@ crevette 1
 creviced 1
 chorus
 cussers
-crevices
+crevices 1
 combo
 coventries
 coadunated
