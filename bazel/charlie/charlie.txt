@@ -6074,7 +6074,7 @@ cresotic
 catmints 2
 catnap
 cheilotomies
-catnaper
+catnaper 1
 catnapping 1
 caddle
 catnaps
