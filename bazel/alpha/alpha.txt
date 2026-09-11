@@ -18247,7 +18247,7 @@ affidavit
 agoras 1
 alsoon
 arabians
-armor
+armor 1
 andarko 1
 amity 1
 arabica 2
