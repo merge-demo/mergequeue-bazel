@@ -4251,7 +4251,7 @@ cashel
 cursillo
 careless 1
 carelessly
-carelessness
+carelessness 1
 careme 2
 carene
 carer 2
