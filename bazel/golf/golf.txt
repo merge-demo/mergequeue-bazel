@@ -258,7 +258,7 @@ ghostlike 1
 gambrelled
 glamorous 2
 guao 1
-gemless
+gemless 1
 glaires 1
 gizmo 3
 glyph 1
