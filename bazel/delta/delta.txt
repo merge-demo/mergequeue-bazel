@@ -1548,7 +1548,7 @@ dartman
 deactivates 4
 delphinium
 disciplinarity 1
-dextrously
+dextrously 1
 dicranoid 1
 doubtfulness 2
 deactivation
