@@ -7249,7 +7249,7 @@ boninite 2
 bipont 1
 barrancas 3
 bandora 1
-blowsier
+blowsier 1
 bleariness
 bestuds 1
 bescreens
