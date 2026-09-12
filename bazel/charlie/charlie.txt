@@ -18294,7 +18294,7 @@ cellmate
 casearia 1
 coforeknown
 clownishness
-cofounding
+cofounding 1
 cathedrals 2
 cofoundress 1
 confabulated
