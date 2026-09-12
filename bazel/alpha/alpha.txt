@@ -22989,7 +22989,7 @@ awls 1
 affectless 1
 aphonics
 atrociously
-abysmally
+abysmally 1
 atrocities 2
 atrolactic
 astrion 1
