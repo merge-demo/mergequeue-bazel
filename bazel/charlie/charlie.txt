@@ -15533,7 +15533,7 @@ claspers 1
 claspt 3
 classable 1
 coplanarity
-classbook
+classbook 1
 classed 1
 cyclicism
 classers 2
