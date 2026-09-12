@@ -866,7 +866,7 @@ benzidin 1
 benzalcohol 1
 beffroy 1
 baggala 2
-borderlight
+borderlight 1
 bagganet
 baggara 1
 bawcock 2
