@@ -1562,7 +1562,7 @@ cossid
 cenotaphic
 communising 2
 chemostat 3
-callisto
+callisto 1
 callithrix 1
 collegiant
 corruptibilities
