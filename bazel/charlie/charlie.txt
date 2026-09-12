@@ -10118,7 +10118,7 @@ chevalets
 chevalier
 centeredness
 cystencyte 2
-chevaliers
+chevaliers 1
 chippewa
 categorizers 1
 compagnie 1
