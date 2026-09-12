@@ -6690,7 +6690,7 @@ fruiteress
 flatterable 5
 flintlock 2
 flexura 5
-flouts
+flouts 1
 fogfruits
 frizel 4
 fluerics 2
