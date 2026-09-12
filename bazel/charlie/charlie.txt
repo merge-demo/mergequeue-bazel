@@ -15701,7 +15701,7 @@ clavicithern 1
 chemics 2
 cytologies
 clavicythetheria
-clavicittern
+clavicittern 1
 contraction 1
 clavicle 2
 clavicles 1
