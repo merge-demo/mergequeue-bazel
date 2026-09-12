@@ -12986,7 +12986,7 @@ bokadam 1
 bailli 2
 brigadiers
 beelike
-bedquilts
+bedquilts 1
 barmaid
 boppist
 brideless 2
