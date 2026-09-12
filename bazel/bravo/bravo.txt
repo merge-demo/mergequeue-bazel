@@ -11602,7 +11602,7 @@ buceros 2
 britzka 3
 boardwalks 2
 battledored
-benefactrix
+benefactrix 1
 bolis
 brachyural 1
 biunivocal
