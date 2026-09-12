@@ -4257,7 +4257,7 @@ goliath 2
 gammoned 3
 gynarchic 1
 gazella 2
-geumatophobia
+geumatophobia 1
 gradometer 2
 galravitch 2
 generationism
