@@ -9517,7 +9517,7 @@ births
 birthstones 3
 bracteolate 1
 brontephobia
-bulliform
+bulliform 1
 birthstool
 birthwort 1
 bitnet
