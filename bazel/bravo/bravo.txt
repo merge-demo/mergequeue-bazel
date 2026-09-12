@@ -17573,7 +17573,7 @@ blackpoll 1
 burgall 2
 biddance
 burgamot 3
-bootjacks
+bootjacks 1
 balante
 blayne 1
 blore 1
