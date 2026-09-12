@@ -5609,7 +5609,7 @@ fascicled 6
 formerness 1
 fourgons 1
 flight 2
-frusla 3
+frusla 4
 fortitude 3
 flighter
 fraik
