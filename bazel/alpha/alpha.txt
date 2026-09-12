@@ -17334,7 +17334,7 @@ animalcules 1
 anaesthetic 1
 autothermy 2
 aposteme 1
-amidosulphonal
+amidosulphonal 1
 aposteriori
 aerogun 1
 arithmometer
