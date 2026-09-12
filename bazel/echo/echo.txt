@@ -11081,7 +11081,7 @@ epimerum 1
 estocada 2
 euskaric 3
 electors 1
-expunging
+expunging 1
 endosome 1
 edo
 economiser 2
