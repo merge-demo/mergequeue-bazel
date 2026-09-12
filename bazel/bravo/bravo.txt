@@ -3261,7 +3261,7 @@ binormal 3
 bitumens 1
 bolted 1
 basinal 1
-bushland 2
+bushland 3
 broader 1
 boniform 2
 blunderful 2
