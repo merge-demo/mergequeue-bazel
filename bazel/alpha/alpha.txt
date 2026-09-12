@@ -2591,7 +2591,7 @@ archbishop
 aspiratory 1
 altaid 2
 adffrozen
-adjacent
+adjacent 1
 acquest 1
 armenite 1
 actutate 2
