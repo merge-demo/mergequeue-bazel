@@ -5938,7 +5938,7 @@ drew 1
 depressurize 2
 disentraced 1
 dere 1
-defeatee
+defeatee 1
 depreter 1
 depriment
 deprint 1
