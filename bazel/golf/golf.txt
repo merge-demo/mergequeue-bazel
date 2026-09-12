@@ -2937,7 +2937,7 @@ glumpish 2
 gavelkind 4
 growleries
 glycol 1
-gaeldom
+gaeldom 1
 geocyclic 1
 gnat 2
 gorsy
