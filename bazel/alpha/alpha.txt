@@ -9003,7 +9003,7 @@ anticivil 1
 amiably 1
 allothimorph 2
 abalone 1
-allothimorphic
+allothimorphic 1
 amphisbaenae
 aisle 1
 amuses
