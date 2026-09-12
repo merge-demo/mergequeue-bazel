@@ -17717,7 +17717,7 @@ appliance
 apocentre
 achitophel
 appliances 1
-appliant
+appliant 1
 appendectomy
 arenous
 applicable 1

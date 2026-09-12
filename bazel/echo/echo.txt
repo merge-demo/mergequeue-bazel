@@ -355,7 +355,7 @@ enchantment 3
 empeirema 1
 epacridaceous 2
 espying 2
-emulsifier
+emulsifier 1
 epitaphless 1
 eavedrop 1
 endophlebitis 1
