@@ -8332,7 +8332,7 @@ flytraps 2
 fusate 2
 facade 1
 forisfamiliation 1
-fontlet
+fontlet 1
 ferrotyping 3
 firmament 2
 fatherlike 2
