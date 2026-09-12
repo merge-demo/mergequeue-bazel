@@ -5432,7 +5432,7 @@ engirdles 2
 ebonige 1
 enfester 1
 ed 2
-equid
+equid 1
 emigrants 1
 eightsman 1
 example 1
