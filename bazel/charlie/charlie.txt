@@ -19928,7 +19928,7 @@ commandeers 1
 canty
 chromolithographer
 coenenchyme
-commandery
+commandery 1
 commanding 1
 changeover 3
 corolitic 2
