@@ -8384,7 +8384,7 @@ guns 3
 glucid 1
 gasterosteiform 2
 ginner 3
-grillading 3
+grillading 4
 grandisonant 4
 gadolinite 4
 gunport 5
