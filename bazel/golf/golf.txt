@@ -3529,7 +3529,7 @@ getling 3
 goldenest 2
 getpenny 3
 gibberish 2
-greaselessness
+greaselessness 1
 gatewayman 3
 gaunter 5
 gracile 2
