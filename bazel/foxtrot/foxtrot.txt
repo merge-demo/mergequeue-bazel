@@ -3978,7 +3978,7 @@ focalise 1
 forfends
 fingerer
 flaunch 3
-fingerers 1
+fingerers 2
 feed 2
 fono 1
 florissant 4
