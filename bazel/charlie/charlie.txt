@@ -6808,7 +6808,7 @@ chanceable
 caudal 1
 cellarmen 2
 cellars 2
-chirologies
+chirologies 1
 cellarwoman 2
 cellblock 1
 celled 1
