@@ -7652,7 +7652,7 @@ flashlike 1
 foregift 5
 forgiveless
 feyness 2
-foregleam 2
+foregleam 3
 forst 1
 forego 2
 feudatory 1
