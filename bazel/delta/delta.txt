@@ -6503,7 +6503,7 @@ disomatous 1
 descendent 2
 dolichosoma
 dunged
-diadromous
+diadromous 1
 dispositionally
 dissevering
 determinate
