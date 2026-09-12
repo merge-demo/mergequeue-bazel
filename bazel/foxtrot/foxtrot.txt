@@ -79,7 +79,7 @@ fordeal 2
 fullfaces
 facundity 2
 facemark 2
-flunkeyhood
+flunkeyhood 1
 flocklike
 forme 5
 filching
