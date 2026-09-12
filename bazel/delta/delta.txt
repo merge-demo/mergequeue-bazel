@@ -16007,7 +16007,7 @@ downsize
 decrepitude
 direct 2
 double 2
-demos 1
+demos 2
 dotter 2
 detrimentality
 doubleheartedness 1
