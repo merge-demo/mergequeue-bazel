@@ -8695,7 +8695,7 @@ equiprobably 2
 equiproportional 4
 equiproportionality 1
 egocentrism 1
-eluate
+eluate 1
 escopet 2
 eked 1
 equisetaceous 3
