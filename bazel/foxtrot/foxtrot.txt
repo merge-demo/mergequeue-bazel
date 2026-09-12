@@ -8145,7 +8145,7 @@ fundmonger 3
 forcepses 1
 forevers 1
 flectionless 2
-foregate 3
+foregate 4
 forthwith 3
 fretless
 ferberite 4
