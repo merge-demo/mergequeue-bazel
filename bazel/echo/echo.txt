@@ -2233,7 +2233,7 @@ engulfment 2
 eldrich 3
 eldritch 4
 enchased
-eulogy
+eulogy 1
 endocytic 3
 elecives 2
 electant 2
