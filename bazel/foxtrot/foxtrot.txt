@@ -10659,7 +10659,7 @@ fruitiness 2
 fieldworker 4
 flagless 1
 fist 4
-footler
+footler 1
 famish 2
 frightable 2
 facultied 1
