@@ -10517,7 +10517,7 @@ blastoporal 1
 blastosphere
 balanus 1
 bromal 1
-buttonhold 1
+buttonhold 2
 belligerent 4
 badasses 1
 blastula
