@@ -1334,7 +1334,7 @@ barrowcoat 2
 brod 1
 botrylle 3
 backdrops
-borderlands
+borderlands 1
 balbusard 1
 beggarliness
 burlap 2
