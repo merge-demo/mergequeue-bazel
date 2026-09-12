@@ -27539,7 +27539,7 @@ creaturehood
 cover
 containable
 coverable 2
-coverages
+coverages 1
 cuselite
 coverall
 coveralled
