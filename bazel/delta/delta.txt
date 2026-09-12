@@ -9644,7 +9644,7 @@ dissight 1
 dipoles 2
 dexterous 2
 dihydrostreptomycin
-dihydrotachysterol
+dihydrotachysterol 1
 dhaks 2
 dihydroxyacetone
 defaceable 4
