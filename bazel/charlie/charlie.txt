@@ -30484,7 +30484,7 @@ cannibalean 1
 cts 2
 cu 2
 cuadrilla
-caracoles
+caracoles 1
 cuailnge
 crumpler
 cuamuchil
