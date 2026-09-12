@@ -5758,7 +5758,7 @@ bunn 1
 bulak 2
 bufo
 bellbird
-bellboy
+bellboy 1
 bulbochaete 4
 bursula 2
 bood
