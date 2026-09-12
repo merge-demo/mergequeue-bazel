@@ -6764,7 +6764,7 @@ gascheck 1
 glycolysis 6
 grey 2
 grandmotherism 2
-ghostmonger
+ghostmonger 1
 gynander 2
 glycogens 1
 gaolers 3
