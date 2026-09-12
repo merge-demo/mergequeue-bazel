@@ -8546,7 +8546,7 @@ forehatchway 2
 flusterate 3
 figs
 fumaroles 1
-fortification 2
+fortification 3
 flatweed 3
 formulated 2
 forgainst 3
