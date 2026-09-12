@@ -3973,7 +3973,7 @@ carcanet
 carousel 1
 carcanetted 1
 carcases
-crueler
+crueler 1
 carcass 3
 carcassing 1
 carcavelhos
