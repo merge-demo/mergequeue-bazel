@@ -17364,7 +17364,7 @@ deficiencies 1
 drib 1
 dasypygal 1
 doigt 1
-derivability
+derivability 1
 delime 1
 dillydallies
 deallocation 2
