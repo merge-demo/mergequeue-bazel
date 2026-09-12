@@ -9820,7 +9820,7 @@ ethnographist 2
 extincteur 1
 econometrician 1
 eatables 2
-entrance
+entrance 1
 enanthema 4
 estats 3
 eternise 3
