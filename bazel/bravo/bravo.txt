@@ -3241,7 +3241,7 @@ biotechnological 4
 basilic 1
 bantingize
 bedouin
-basilica
+basilica 1
 belverdian 2
 basilical
 brookable 1
