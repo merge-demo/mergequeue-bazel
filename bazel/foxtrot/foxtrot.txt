@@ -5972,7 +5972,7 @@ foisons 1
 fortifiable 2
 fantaisie 3
 fisk 1
-filleter
+filleter 1
 fanwright 1
 ferguson
 favism
