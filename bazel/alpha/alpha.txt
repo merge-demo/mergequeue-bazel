@@ -6565,7 +6565,7 @@ appleringy 4
 aider 1
 antiaggressive 1
 auksinu 2
-awk
+awk 1
 abjunctive 1
 aidful 1
 aiding
