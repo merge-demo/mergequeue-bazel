@@ -11825,7 +11825,7 @@ exists 2
 exauthorate 3
 exauthorizeexc 2
 exceptio
-epileptics
+epileptics 1
 eplot 3
 externization 1
 enviably 2
