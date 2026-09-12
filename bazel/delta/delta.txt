@@ -9790,7 +9790,7 @@ deckpipe 3
 dysoxidize
 dogmatiser
 dipsos 1
-dermatocyst
+dermatocyst 1
 dillesk 2
 daimones 2
 denumerable 1
