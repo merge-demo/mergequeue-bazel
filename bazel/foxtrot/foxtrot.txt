@@ -11235,7 +11235,7 @@ filter
 functional 1
 fylfot 3
 fornent 3
-factable
+factable 1
 forementioned
 fatherkin 2
 funkiness 1
