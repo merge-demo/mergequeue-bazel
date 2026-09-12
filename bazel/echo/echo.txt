@@ -2959,7 +2959,7 @@ etrogim 3
 encamped
 eliminant 1
 ennoblers 5
-ethid 2
+ethid 3
 externalising 3
 elicitors 1
 eloined
