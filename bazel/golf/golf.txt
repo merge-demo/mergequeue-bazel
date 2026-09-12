@@ -6647,7 +6647,7 @@ gambusias 2
 gunnysack 4
 gondolas 2
 guidons 5
-glasseye 3
+glasseye 4
 gondoletta 4
 guffs 4
 gangliform 1
