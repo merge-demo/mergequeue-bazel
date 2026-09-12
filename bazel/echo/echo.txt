@@ -3454,7 +3454,7 @@ embellisher 1
 embellishers 1
 eutelegenic 1
 enchained 2
-encolden
+encolden 1
 embers 1
 estival 5
 enate
