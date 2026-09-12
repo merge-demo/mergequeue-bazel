@@ -718,7 +718,7 @@ foreladies 2
 freeness 1
 flincher 2
 fired 2
-flagroot 2
+flagroot 3
 famous 2
 florigens 1
 featherlet 3
