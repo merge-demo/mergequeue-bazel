@@ -1081,7 +1081,7 @@ deontology 2
 disbanding 1
 dartagnan 1
 darters 2
-dearticulation
+dearticulation 1
 dartled 2
 dedecorate 1
 defuses
