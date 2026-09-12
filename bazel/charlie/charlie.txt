@@ -17822,7 +17822,7 @@ coden
 codens
 carburating 1
 cruise
-coder 1
+coder 2
 counterponderate
 crible
 comprehended
