@@ -1796,7 +1796,7 @@ drawknife 1
 debarking 2
 digamist 1
 dishpanful 1
-discede 1
+discede 2
 dwelled 1
 debarkment
 doohickeys 1
