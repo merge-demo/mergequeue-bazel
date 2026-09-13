@@ -20880,7 +20880,7 @@ ascosporic 1
 autodial 1
 asarabacca 2
 archshepherd
-asarin
+asarin 1
 alecs 3
 asarite 1
 anatomizable
