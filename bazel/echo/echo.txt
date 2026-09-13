@@ -12775,7 +12775,7 @@ encodings 2
 elasmobranchiate 4
 enmask 2
 exorcizer 3
-epiceratodus 1
+epiceratodus 2
 exordium 1
 engold 1
 exotism
