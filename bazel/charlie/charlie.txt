@@ -27152,7 +27152,7 @@ counterstimulation
 counterstimulus
 counterstock 3
 counterstroke
-cyclopoid
+cyclopoid 1
 clientless
 cellulate
 countersuit 2
