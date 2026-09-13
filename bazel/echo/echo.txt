@@ -12640,7 +12640,7 @@ epexegeses 2
 exodic
 equipped 4
 encincturing
-emeralds 4
+emeralds 5
 essancia
 ergotize
 elateroid 2
