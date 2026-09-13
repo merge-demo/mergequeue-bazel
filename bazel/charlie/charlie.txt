@@ -23700,7 +23700,7 @@ contrafacture
 carrosserie
 contrafissura 1
 contrafissure
-cruciform
+cruciform 1
 contragredience 1
 contragredient 1
 contrayerva 1
