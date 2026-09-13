@@ -18472,7 +18472,7 @@ distinctive
 decals 3
 dermatophony 1
 devastavit 1
-dipterous
+dipterous 1
 diose 1
 dislocation 2
 dupped 3
