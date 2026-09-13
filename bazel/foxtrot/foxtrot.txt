@@ -1357,7 +1357,7 @@ frock 2
 fidac
 flaggish 1
 fanning
-fatigue 2
+fatigue 3
 fossicks 3
 fatiguesome 1
 fragmenting 1
