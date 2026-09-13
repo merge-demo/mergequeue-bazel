@@ -2842,7 +2842,7 @@ decriminalization 1
 disequalization 2
 decastellate 3
 draggle 1
-desidious
+desidious 1
 decrypt
 decryption 3
 dasyus
