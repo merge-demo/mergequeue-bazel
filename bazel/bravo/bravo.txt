@@ -11297,7 +11297,7 @@ blows 1
 bleachability 3
 barograms 6
 boneyard
-biologism
+biologism 1
 bipunctate 2
 blowse
 bargeman 2
