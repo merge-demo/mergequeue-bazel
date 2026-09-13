@@ -9616,7 +9616,7 @@ autoinoculation
 assument 1
 amygdaliform 1
 abominates 2
-arachnoid
+arachnoid 1
 anaglyptography
 atonalist
 abridges
