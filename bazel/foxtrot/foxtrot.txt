@@ -5322,7 +5322,7 @@ ferry 4
 faitery 1
 flb 2
 fantasque
-flutey
+flutey 1
 foregather 3
 fifteen 2
 fumarole 3
