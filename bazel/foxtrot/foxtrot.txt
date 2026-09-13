@@ -9962,7 +9962,7 @@ facias 1
 fragment 1
 formularizer 2
 forcers
-frigolabile 2
+frigolabile 3
 fumigate 2
 fadlike 3
 friendships 2
