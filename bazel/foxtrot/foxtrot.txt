@@ -5269,7 +5269,7 @@ flockier
 fideicommissa 2
 frostbird 1
 fockle 1
-fabricable
+fabricable 1
 fomenter 2
 foresightedness 1
 ferricyanate 5
