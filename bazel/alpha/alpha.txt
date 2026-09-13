@@ -5257,7 +5257,7 @@ apery 1
 anagenetical 1
 ampitheater 1
 attackable 2
-anapterygotous
+anapterygotous 1
 alingual 3
 anticlinal
 anapophysial 2
