@@ -2952,7 +2952,7 @@ elicitation 3
 elicitor 1
 equivalvular
 enricher 5
-exploiters
+exploiters 1
 epagomenal 2
 endoplast
 etrogim 3
