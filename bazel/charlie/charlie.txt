@@ -3367,7 +3367,7 @@ chronographically
 celsius
 carrots 1
 capote 1
-cyclohexene
+cyclohexene 1
 capouches
 cappadocian
 crypted
