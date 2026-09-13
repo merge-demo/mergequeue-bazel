@@ -1114,7 +1114,7 @@ cytherea
 cheeser
 calciner 1
 chomer
-clamworm
+clamworm 1
 columella 3
 calcinosis
 contraprovectant 1
