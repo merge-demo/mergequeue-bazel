@@ -12775,7 +12775,7 @@ disloyalist 1
 disloyally 2
 disloyalty
 decrepity
-doored
+doored 1
 disloyalties 2
 dislove 1
 dandlingly
