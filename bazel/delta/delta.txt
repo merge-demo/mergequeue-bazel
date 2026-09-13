@@ -2684,7 +2684,7 @@ desmoma 1
 decompress 2
 decompresses
 detectaphone
-demiplacate
+demiplacate 1
 dogies 1
 duckies 1
 dcollet 1
