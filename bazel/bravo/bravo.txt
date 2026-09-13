@@ -5202,7 +5202,7 @@ battu 3
 bettong 3
 backfatter 1
 befuddle 1
-befuddled
+befuddled 1
 befuddler
 boxberries
 beleaguers 1
