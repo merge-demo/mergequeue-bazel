@@ -9018,7 +9018,7 @@ enfeeblement 1
 echappee 2
 exponent 2
 espionage
-erythritol 3
+erythritol 4
 equivalue 1
 expurgating 1
 erythroblast 4
