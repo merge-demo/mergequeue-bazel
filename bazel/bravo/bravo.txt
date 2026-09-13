@@ -15084,7 +15084,7 @@ brere 4
 baffles 1
 binocular 1
 brest 1
-breastplate
+breastplate 1
 bret
 bankrolls
 bretesse
