@@ -446,7 +446,7 @@ backsite 1
 benzolize 1
 besugar 2
 bristlebird 2
-bronchotetany
+bronchotetany 1
 backslaps 3
 bellonian 3
 bravoed 1
