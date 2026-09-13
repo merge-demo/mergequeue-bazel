@@ -5420,7 +5420,7 @@ factorial 1
 fledgiest 3
 floatless 1
 foisonless 2
-fabian 1
+fabian 2
 feasten 2
 forefigure 1
 furor
