@@ -152,7 +152,7 @@ cruors
 clinopyroxene
 cablelaid 4
 cableless
-cablelike
+cablelike 1
 cerberic 1
 chryseis 1
 casterless 1
