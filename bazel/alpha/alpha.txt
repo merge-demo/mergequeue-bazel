@@ -24503,7 +24503,7 @@ autoxidizability
 autoxidizable
 autoxidize
 accloy 4
-antepenultimate 1
+antepenultimate 2
 administrated 1
 antihelices 2
 amparo
