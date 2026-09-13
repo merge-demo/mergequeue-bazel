@@ -8036,7 +8036,7 @@ dumbhead 2
 dhal 1
 dimension
 dorsointestinal
-dhamnoo 1
+dhamnoo 2
 distinctional 1
 dragaded 1
 dhangar
