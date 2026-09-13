@@ -18372,7 +18372,7 @@ bortsch 2
 bepaint 3
 buzz 3
 buzzard
-beylical
+beylical 1
 beasts 1
 bluebook
 balaustre 1
