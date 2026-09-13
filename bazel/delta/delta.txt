@@ -15369,7 +15369,7 @@ deflowerment
 dazing 1
 domesticator 2
 decylene
-dehumidifies 1
+dehumidifies 2
 diobolon 1
 deciliters 2
 difformity
