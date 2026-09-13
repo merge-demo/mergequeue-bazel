@@ -4545,7 +4545,7 @@ biradiated
 bathroot
 bater 1
 bool
-bedabble 2
+bedabble 3
 beagles 2
 barricadoed
 biggening 2
