@@ -1636,7 +1636,7 @@ grimines 4
 glibness 1
 gastricism 2
 glycolipid 2
-gaskin
+gaskin 1
 grists
 grants 2
 gamobium 4
