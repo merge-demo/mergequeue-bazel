@@ -15268,7 +15268,7 @@ colters 1
 clamminess
 clamming
 colpotomies 1
-clammyweed
+clammyweed 1
 clamored 1
 clamorer
 clamorers 1
