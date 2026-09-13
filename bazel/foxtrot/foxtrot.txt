@@ -9812,7 +9812,7 @@ faddist 4
 foamy 1
 fretum
 fidget 1
-fluors 1
+fluors 2
 fovilla 2
 freudian
 filthiness
