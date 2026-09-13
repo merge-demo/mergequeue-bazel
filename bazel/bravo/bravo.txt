@@ -15954,7 +15954,7 @@ bronchiolar
 bankcards 2
 brontoscopy 1
 bronchioli 1
-bronchiospasm
+bronchiospasm 1
 bronchitic 1
 bronchitis
 bethrall 2
