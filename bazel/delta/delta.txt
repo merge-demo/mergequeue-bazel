@@ -11276,7 +11276,7 @@ discommendableness 2
 discamp
 drawstring 2
 discanted 1
-dermochelys
+dermochelys 1
 dragon 2
 dropt
 duckwheat 1
