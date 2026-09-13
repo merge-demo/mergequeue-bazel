@@ -6147,7 +6147,7 @@ gns 4
 geese 1
 gatefolds 3
 globical 3
-glavered
+glavered 1
 gardy 2
 grumpish 2
 gnapweed 3
