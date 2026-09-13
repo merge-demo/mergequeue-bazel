@@ -25562,7 +25562,7 @@ camelias
 corotate 1
 corotates 1
 compulsoriness 1
-corotomy
+corotomy 1
 commemorized
 coroutines 1
 clericum
