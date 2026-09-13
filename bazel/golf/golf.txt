@@ -4206,7 +4206,7 @@ gosmore
 glotum 3
 gatchwork 1
 greying 7
-ges
+ges 1
 geod 1
 gleesome 1
 ganef 2
