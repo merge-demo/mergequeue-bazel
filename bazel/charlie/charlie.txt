@@ -15667,7 +15667,7 @@ claut
 clavacin
 clavae 1
 centres
-claval
+claval 1
 clavariaceous
 custroun
 chromascope
