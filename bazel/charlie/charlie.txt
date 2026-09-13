@@ -23621,7 +23621,7 @@ contour
 clarichord 1
 contoured 1
 copestone
-cleping
+cleping 1
 chivvies
 courteous
 contr
