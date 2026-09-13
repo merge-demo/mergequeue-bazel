@@ -18212,7 +18212,7 @@ clubbiness 1
 coextends
 creep
 coextent 1
-cofactors 2
+cofactors 3
 castrating 1
 cofane 2
 conflagrator
