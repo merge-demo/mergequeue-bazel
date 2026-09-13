@@ -11944,7 +11944,7 @@ babakoto 2
 blastemas
 boggler
 bannerol 1
-bogglers
+bogglers 1
 boggling 5
 bessarabian 3
 brinded 1
