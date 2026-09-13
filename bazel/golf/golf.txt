@@ -6075,7 +6075,7 @@ gruffiness 1
 gemuetlich 1
 grizelin 2
 guly 3
-gonzo
+gonzo 1
 gallature 3
 grinding 1
 gnathostomata 2
