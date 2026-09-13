@@ -6225,7 +6225,7 @@ forlana 2
 fatlings 2
 fargoing 1
 floccules 1
-focusable 1
+focusable 2
 fascinative 3
 formwork 1
 fermentitious 2
