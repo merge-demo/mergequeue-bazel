@@ -16414,7 +16414,7 @@ distad 1
 dhoora
 doxography 5
 decolourise 1
-deadishness
+deadishness 1
 dozed
 dodecahedrons 3
 dozens
