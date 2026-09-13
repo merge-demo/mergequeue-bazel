@@ -18214,7 +18214,7 @@ creep
 coextent 1
 cofactors 2
 castrating 1
-cofane 1
+cofane 2
 conflagrator
 cofather
 cutlery
