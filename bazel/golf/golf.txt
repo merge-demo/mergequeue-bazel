@@ -3845,7 +3845,7 @@ gameball 4
 gastroenterotomy 2
 grimsir
 giver 1
-goldang
+goldang 1
 gids 2
 gingeleys 4
 grandchild 4
