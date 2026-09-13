@@ -4574,7 +4574,7 @@ enrol
 ee 3
 epidiorthosis 2
 escuela 3
-enodation 1
+enodation 2
 excoction
 euphemized 1
 excrementitious
