@@ -9449,7 +9449,7 @@ boatbill 1
 bioinstrumentation 1
 bronchodilatation 2
 bathymeter
-basaltine
+basaltine 1
 bemedaled
 bashes 3
 birma
