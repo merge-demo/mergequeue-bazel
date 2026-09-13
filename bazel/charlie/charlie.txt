@@ -14794,7 +14794,7 @@ caluptra
 cytoclastic
 crioboly
 cytococci
-choroidal
+choroidal 1
 cytoderm
 cytodiagnosis
 cytoecology
