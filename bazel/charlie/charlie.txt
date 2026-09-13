@@ -8525,7 +8525,7 @@ chemosterilants 2
 chanced 3
 categorical 1
 chanceful
-cadrans
+cadrans 1
 chancefulness 1
 chancey
 chanceled 1
