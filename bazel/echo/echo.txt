@@ -5284,7 +5284,7 @@ errorist 1
 exudatory 1
 endoradiosonde 1
 extract 1
-exfiguration
+exfiguration 1
 embryotrophy 2
 espinillo 1
 etaerio 2
