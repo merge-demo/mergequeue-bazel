@@ -4068,7 +4068,7 @@ fermentation
 flindersia 2
 freefd 4
 finitism 1
-frankest
+frankest 1
 finitive 2
 felapton 1
 formants 1
