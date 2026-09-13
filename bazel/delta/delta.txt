@@ -5232,7 +5232,7 @@ dicty 1
 dine 1
 depolarisation 1
 dusun 2
-deafer
+deafer 1
 denotatively
 dauerlauf
 dampens 1
