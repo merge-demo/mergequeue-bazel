@@ -2809,7 +2809,7 @@ bowdlerism 1
 body
 barosinusitus
 burghmaster
-barosmin
+barosmin 1
 backwashed
 blithefully 1
 buffaloback
