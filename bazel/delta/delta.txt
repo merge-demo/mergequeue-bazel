@@ -16595,7 +16595,7 @@ denotations 2
 dialuric
 decorations
 deionization 3
-dispromise
+dispromise 1
 dragonesque 1
 daphnis
 dorados 1
