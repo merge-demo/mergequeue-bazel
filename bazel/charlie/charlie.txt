@@ -8838,7 +8838,7 @@ cenospecific
 characins 1
 charity
 castigating
-charact
+charact 1
 cutouts 2
 charactered
 capitalist
