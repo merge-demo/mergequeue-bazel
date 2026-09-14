@@ -4166,7 +4166,7 @@ encl 1
 encaustes 2
 exporter 3
 elaeosia 2
-engraphy
+engraphy 1
 eyeroot
 escaloped 2
 echiurida 2
