@@ -15995,7 +15995,7 @@ compromises
 covado 1
 cleromancy
 canniness 1
-clerstory
+clerstory 1
 clansmen
 cyamelid 1
 coolheadedness
