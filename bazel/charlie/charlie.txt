@@ -9373,7 +9373,7 @@ chavender 1
 confirmment 1
 compart
 chavicin 2
-chomp
+chomp 1
 chiot 3
 chavicol 2
 cautelousness 1
