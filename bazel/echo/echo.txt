@@ -3335,7 +3335,7 @@ edison 2
 euharmonic 1
 endamages 1
 epileptic
-emancipator
+emancipator 1
 eelback 2
 emarginated 1
 eventilate
