@@ -6866,7 +6866,7 @@ barrelhead 3
 beseige 4
 biliverdic 1
 botchers
-bescutcheon
+bescutcheon 1
 bondservant 4
 basalia
 beseam
