@@ -5290,7 +5290,7 @@ deligated 4
 drammer 2
 density 3
 defat
-degasifier 3
+degasifier 4
 dispositioned 3
 diatomaceoid 1
 denouncers
