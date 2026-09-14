@@ -3070,7 +3070,7 @@ deemphasize 1
 dorsoapical
 diester
 downward
-diuretic
+diuretic 1
 deewan
 deary
 dehydrogenising 1
