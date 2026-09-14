@@ -10868,7 +10868,7 @@ ammonitess 3
 ammonitic
 ammonitoidea 2
 affording
-ammocoetiform
+ammocoetiform 1
 antischolastic
 ammoniuret
 archcozener
