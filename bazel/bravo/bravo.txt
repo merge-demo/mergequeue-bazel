@@ -10786,7 +10786,7 @@ batyphone 2
 bienvenu 1
 bakership 1
 boul 1
-bavin
+bavin 1
 baulkier 2
 birthrate 2
 blocks
