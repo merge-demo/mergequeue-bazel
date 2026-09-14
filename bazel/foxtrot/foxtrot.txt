@@ -11307,7 +11307,7 @@ feverfew 2
 firesides 2
 fraternize 1
 fleabite
-faultfinding 1
+faultfinding 2
 fossilogist 1
 favorability 2
 furfuralcohol 2
