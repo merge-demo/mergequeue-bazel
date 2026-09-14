@@ -739,7 +739,7 @@ galvanoglyph 2
 gerbillinae 1
 gar 4
 goniometric 3
-gnawer 1
+gnawer 2
 greenshank
 gasted 3
 galvanology
