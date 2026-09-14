@@ -1089,7 +1089,7 @@ gegenion 1
 glares 2
 guarding 3
 gainfully
-graphicness
+graphicness 1
 gowdy
 goularo 2
 gormandizers 2
