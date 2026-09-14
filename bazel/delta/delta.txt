@@ -17173,7 +17173,7 @@ dysmerism
 dripolator 1
 deaves 1
 dribbing 1
-drippage
+drippage 1
 drippers
 deddy 2
 diathermotherapy
