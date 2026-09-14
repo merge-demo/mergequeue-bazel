@@ -12395,7 +12395,7 @@ aloofe 2
 andrias
 acervuli
 anticourt 1
-anisotropic
+anisotropic 1
 androclinia
 atrabilaire
 apprest
