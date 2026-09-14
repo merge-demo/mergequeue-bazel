@@ -6276,7 +6276,7 @@ gospelly 1
 gainable 2
 gobble 2
 gowpen 2
-gierfalcon 3
+gierfalcon 4
 gobbled 3
 gothicizer 4
 gobbledygook 1
