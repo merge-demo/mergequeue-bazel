@@ -22699,7 +22699,7 @@ cryosphere
 conquerer 1
 conquerers 1
 conqueress
-conquering 1
+conquering 2
 coenure 2
 conquerment 1
 conqueror
