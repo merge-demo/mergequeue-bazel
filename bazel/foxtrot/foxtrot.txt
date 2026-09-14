@@ -3859,7 +3859,7 @@ formin 4
 fairhead 1
 firewoods
 fisticuffer 2
-furthermore 1
+furthermore 2
 fineless 1
 fract 4
 fiberglas 3
