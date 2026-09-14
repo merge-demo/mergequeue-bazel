@@ -23861,7 +23861,7 @@ controllable 1
 controllably 1
 controller
 churner 3
-costophrenic
+costophrenic 1
 controlless
 conin 1
 cananga
