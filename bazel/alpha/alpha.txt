@@ -11384,7 +11384,7 @@ alupag
 autocephaly 1
 absorptance
 aiguiere 1
-amplication
+amplication 1
 amplicative
 autoelectrolytic
 amplificate
