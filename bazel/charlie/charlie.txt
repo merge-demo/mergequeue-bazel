@@ -11770,7 +11770,7 @@ chondromyxosarcoma 1
 chondromucoid 1
 chondropharyngeus
 carpale
-chondroplast
+chondroplast 1
 chondroplasty
 crystall
 consonantally
