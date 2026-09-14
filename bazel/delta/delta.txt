@@ -15528,7 +15528,7 @@ decrew 2
 doni
 diopsides 1
 deliquesced
-disaffection
+disaffection 1
 disintegrationist 1
 disvalued
 derobe 2
