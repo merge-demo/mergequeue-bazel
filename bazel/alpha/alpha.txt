@@ -13450,7 +13450,7 @@ arraignments
 annealer 2
 anneals 2
 annect 1
-adenohypophysis 1
+adenohypophysis 2
 annelidan 1
 archmugwump 2
 annelidous 2
