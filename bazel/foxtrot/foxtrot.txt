@@ -3266,7 +3266,7 @@ fluorinate 1
 fittit 1
 fuzed 2
 foreknowledge 1
-freestanding
+freestanding 1
 fibrosity 4
 forthrightly 3
 faradizer 1
