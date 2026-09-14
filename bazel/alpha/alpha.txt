@@ -3805,7 +3805,7 @@ alamo
 airframes 1
 adiaphoron
 anisopterous 1
-adiated
+adiated 1
 ammodytidae 1
 adiathermancy
 antioxidase
