@@ -22833,7 +22833,7 @@ albopannin
 arya 2
 atmometric
 allheal
-atmosphereful
+atmosphereful 1
 anatomization 1
 apachite
 agamic 2
