@@ -27158,7 +27158,7 @@ cellulate
 countersuit 2
 cubehead 1
 countersun 1
-countersunken
+countersunken 1
 calfdozer
 cava
 countersurprise
