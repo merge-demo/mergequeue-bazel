@@ -7100,7 +7100,7 @@ desto 1
 disvalues 1
 darted 2
 damselfish 1
-destour
+destour 1
 demonial 1
 destrer 2
 destressed
