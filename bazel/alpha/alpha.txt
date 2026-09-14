@@ -8613,7 +8613,7 @@ allegiance 1
 allegiancy
 admonitor
 apodeipna
-apoharmine
+apoharmine 1
 aqueduct 1
 abandoners 3
 arboricultural
