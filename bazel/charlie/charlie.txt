@@ -10460,7 +10460,7 @@ chilcat 2
 coprostanol
 chelophore 2
 child
-childbearing
+childbearing 1
 circumspatial
 cerebrometer 2
 childcrowing 1
