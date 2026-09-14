@@ -3981,7 +3981,7 @@ flaunch 3
 fingerers 2
 feed 2
 fono 1
-florissant 4
+florissant 5
 freehanded 2
 falkland 2
 friendlier 1
