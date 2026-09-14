@@ -19345,7 +19345,7 @@ cerotic
 checkstone
 color
 creational
-cycadaceous
+cycadaceous 1
 chinchier
 colorableness 2
 camisades
