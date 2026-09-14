@@ -13363,7 +13363,7 @@ anyways
 anywhen
 advertize 2
 ascill 1
-anywhence
+anywhence 1
 appurtenance
 anywhither 1
 anywither 2
