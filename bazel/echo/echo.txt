@@ -5763,7 +5763,7 @@ electroblasting 2
 eyeglance 1
 extraverted 3
 extemporised 1
-endofaradism
+endofaradism 1
 enolases 3
 exition 3
 ethicize 4
