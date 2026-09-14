@@ -2522,7 +2522,7 @@ dubonnet 3
 deactivating 1
 declarations 1
 declarative
-deligation 2
+deligation 3
 demieagle 2
 discomorula 1
 druith 1
