@@ -4981,7 +4981,7 @@ flyway 3
 feebleheartedly 2
 flammule 2
 fatidic 3
-flanch
+flanch 1
 formalize 4
 ferrugination
 forwarders 3
