@@ -2685,7 +2685,7 @@ decompress 2
 decompresses
 detectaphone
 demiplacate 1
-dogies 1
+dogies 2
 duckies 1
 dcollet 1
 deconcentrate
