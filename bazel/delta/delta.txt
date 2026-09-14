@@ -11157,7 +11157,7 @@ doeg 1
 decciare 3
 danite 3
 dismask
-dogmatist
+dogmatist 1
 defectibility 1
 devvel 2
 dyeline 1
