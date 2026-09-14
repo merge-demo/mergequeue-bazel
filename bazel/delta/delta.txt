@@ -11361,7 +11361,7 @@ dilatometric
 dehydrogenise 1
 decorement
 delimiter 1
-dischevel
+dischevel 1
 dentalization 1
 dissimulator 2
 disci
