@@ -29537,7 +29537,7 @@ crithidia 1
 crithomancy
 critic
 criticality
-criticalness 2
+criticalness 3
 coendured 1
 centervelic
 colophonist 1

@@ -7148,7 +7148,7 @@ gile 2
 gore 2
 gorebill 2
 gordioid 2
-gearboxes
+gearboxes 1
 gored 1
 gores 1
 goldenness 3
