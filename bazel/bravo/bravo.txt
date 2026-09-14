@@ -4747,7 +4747,7 @@ bedlar
 bazoo
 bibliotic
 blackseed
-bord
+bord 1
 burbled 1
 bedmate
 bogey
