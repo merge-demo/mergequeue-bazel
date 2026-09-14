@@ -530,7 +530,7 @@ ashtrays 1
 abl
 asperities 2
 ablated
-ablates
+ablates 1
 astroite 3
 adenomatous 1
 ablations 1
