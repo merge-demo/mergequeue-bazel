@@ -4773,7 +4773,7 @@ executions
 existent 2
 exodos
 endosmosic 1
-ebulliometry 3
+ebulliometry 4
 excircle 1
 epistler 1
 entomophytous
