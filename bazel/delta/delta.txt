@@ -3065,7 +3065,7 @@ deerweed 2
 dollyway 1
 deescalate 1
 deeses 1
-deepfrozen
+deepfrozen 1
 deemphasize 1
 dorsoapical
 diester
