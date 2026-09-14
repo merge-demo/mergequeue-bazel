@@ -10004,7 +10004,7 @@ galago 4
 grignet 3
 gaslike 4
 gateau
-gudame
+gudame 1
 gibberose
 gone 4
 gentlemanship
