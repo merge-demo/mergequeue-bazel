@@ -11474,7 +11474,7 @@ evictor 1
 evidence
 edeagra 3
 earned 4
-evidences
+evidences 1
 ethereous 4
 ethonomic
 eutechnics
