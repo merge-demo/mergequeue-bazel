@@ -18592,7 +18592,7 @@ clanless
 coimplore 2
 coyn
 cosmometry 3
-coinable
+coinable 1
 coinage
 coinages 1
 coincide 1
