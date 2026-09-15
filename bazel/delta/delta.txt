@@ -8598,7 +8598,7 @@ deprived 1
 dinosaurian 3
 destroying
 doormaking 2
-deorsumversion
+deorsumversion 1
 driftland 3
 dewan
 dissatisfied
