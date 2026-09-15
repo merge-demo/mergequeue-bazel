@@ -6979,7 +6979,7 @@ ikppll
 ikpqj 3
 ikpqnf 3
 ikpsemapov 2
-ikptr 1
+ikptr 2
 ikpumaslp
 ikpwxwregdye 2
 ikpxoqpsdydsq 3
