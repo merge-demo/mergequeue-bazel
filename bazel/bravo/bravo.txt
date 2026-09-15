@@ -5921,7 +5921,7 @@ belast
 berber
 belowground 1
 brandenburgs 2
-biggety
+biggety 1
 buffaloes 2
 beltane
 belauding
