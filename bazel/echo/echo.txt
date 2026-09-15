@@ -1354,7 +1354,7 @@ earthiest 3
 effendis 1
 empty 2
 efferently
-efferents
+efferents 1
 effervescency 2
 eights
 epode
