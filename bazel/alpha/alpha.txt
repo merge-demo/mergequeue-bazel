@@ -20490,7 +20490,7 @@ admov 1
 aristological
 asterospondylous
 arteriocapillary
-arteriogenesis
+arteriogenesis 1
 arteriograph 2
 ahorseback 2
 adenectopia 1
