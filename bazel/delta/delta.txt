@@ -3819,7 +3819,7 @@ dihalogen 1
 dysphemistic 2
 denigrative 3
 donkey 1
-dialyzator
+dialyzator 1
 dienes 1
 dicier 1
 disjecting
