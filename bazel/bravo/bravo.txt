@@ -6780,7 +6780,7 @@ badian
 bookery 2
 bersagliere 2
 brittles
-bin 1
+bin 2
 berserks 2
 barnumize 1
 berskin 2
