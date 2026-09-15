@@ -12593,7 +12593,7 @@ coalternative 1
 chantecler 1
 cercle 1
 cafetiere
-chronologizing
+chronologizing 1
 chronomantic
 chronomastix
 chronometer
