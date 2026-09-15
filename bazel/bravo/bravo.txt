@@ -5721,7 +5721,7 @@ budge 1
 bencite 3
 believingly 4
 brerd 2
-burials
+burials 1
 backsight 4
 bandlimit 1
 belight 1
