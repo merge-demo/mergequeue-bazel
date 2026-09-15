@@ -4562,7 +4562,7 @@ gil 4
 generalate 1
 goosebill 3
 geometrid 1
-grating 2
+grating 3
 goupen 2
 grasscutter 1
 giojoso 2
