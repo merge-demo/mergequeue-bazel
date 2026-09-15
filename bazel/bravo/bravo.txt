@@ -4657,7 +4657,7 @@ beltmaking 2
 bhikhari 1
 briquetted 2
 bedfellows 1
-buildable 1
+buildable 2
 barlows
 bedford 1
 brothier 1
