@@ -14128,7 +14128,7 @@ boloed 2
 brass 3
 brachistochrone 2
 brachistochronous 2
-brachystomatous
+brachystomatous 1
 brachystomous
 bumblings 2
 bbl
