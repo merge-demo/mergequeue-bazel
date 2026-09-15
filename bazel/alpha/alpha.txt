@@ -9152,7 +9152,7 @@ almandines 2
 agalactous
 antiputrefaction
 averter 1
-animations
+animations 1
 apollonistic 2
 almemars
 approof
