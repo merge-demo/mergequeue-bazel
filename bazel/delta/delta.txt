@@ -1215,7 +1215,7 @@ deleterious 3
 developoid
 disinvolve
 dextrans
-datary
+datary 1
 dataries 1
 depeach 1
 datasetname 1
