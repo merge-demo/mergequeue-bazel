@@ -10822,7 +10822,7 @@ deviates
 departing
 directors
 directorships 3
-desugared 3
+desugared 4
 dysphrasia 1
 dapples 2
 deposable 2
