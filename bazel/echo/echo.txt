@@ -8771,7 +8771,7 @@ enfeebler 1
 euphyllite 3
 eradicable 1
 enticement 2
-eradicant
+eradicant 1
 epineolithic 2
 equilibrity 1
 embossable 1
