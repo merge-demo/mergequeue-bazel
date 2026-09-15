@@ -2070,7 +2070,7 @@ chandlery
 collapsar 1
 camoufleur
 chests
-cosherer
+cosherer 1
 camp
 campagi 1
 coquettes
