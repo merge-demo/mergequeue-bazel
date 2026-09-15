@@ -7208,7 +7208,7 @@ bestock
 bestow 3
 bestowment
 burgee
-briary
+briary 1
 breaching 2
 blades 1
 beveled 1
