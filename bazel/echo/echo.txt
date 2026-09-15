@@ -5434,7 +5434,7 @@ enfester 1
 ed 2
 equid 1
 emigrants 1
-eightsman 1
+eightsman 2
 example 1
 elsewhither 1
 electronvolt 3
