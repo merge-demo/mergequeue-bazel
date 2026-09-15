@@ -24999,7 +24999,7 @@ awhile 1
 atlatls
 awhir 2
 awhirl 2
-aswim
+aswim 1
 autotruck
 antedon
 awikiwiki
