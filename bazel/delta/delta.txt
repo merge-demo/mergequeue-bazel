@@ -15913,7 +15913,7 @@ dosses 1
 dossy 1
 deradenoncus 1
 dossier 2
-dormition
+dormition 1
 devilwood 1
 dims
 distileries
