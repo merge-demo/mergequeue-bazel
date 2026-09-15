@@ -12785,7 +12785,7 @@ decompressive 1
 deblocking
 dunk 2
 debouch 2
-dissensions
+dissensions 1
 diathesic 2
 duplicatus 1
 derepression
