@@ -22076,7 +22076,7 @@ cyprinoid
 cashierer 1
 councilor 1
 conformably
-conformal
+conformal 1
 complexed
 crosstalk 2
 cloyne 1
