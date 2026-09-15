@@ -27532,7 +27532,7 @@ complementizer 1
 covenanter 3
 cameroon 1
 covent
-coventrate
+coventrate 1
 coventry 2
 coroplast 2
 creaturehood
