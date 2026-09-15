@@ -1316,7 +1316,7 @@ benzaldiphenyl 1
 balatte
 bergfall 2
 bermudian 2
-bernoullian
+bernoullian 1
 bingy
 burelage 1
 bedways 2
