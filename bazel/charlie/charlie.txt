@@ -23826,7 +23826,7 @@ contributable 2
 civilisedness
 cutins 1
 contribution 1
-chenier
+chenier 1
 criterium 1
 cephalob 2
 conopophaga 2
