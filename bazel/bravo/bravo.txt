@@ -11460,7 +11460,7 @@ berths 3
 burgware 3
 bravos
 bundlers 1
-bandsmen
+bandsmen 1
 basophilia 1
 begemming
 bedoctor 1
