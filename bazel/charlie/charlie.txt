@@ -7759,7 +7759,7 @@ caryatidic 2
 cfi 1
 certifiability
 categorematic 1
-cellarway
+cellarway 1
 certifiable
 certificate 1
 certificated 1
