@@ -6966,7 +6966,7 @@ embrocado 1
 entraining
 earwig 3
 entrainment 3
-entrains
+entrains 1
 emissaryship 1
 entrancedly 3
 entrancement 1
