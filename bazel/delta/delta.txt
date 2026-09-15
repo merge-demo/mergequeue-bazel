@@ -10530,7 +10530,7 @@ dilapidator
 decentest 1
 depressants 3
 defoggers 1
-depectible
+depectible 1
 diplacuses
 diple
 dacryocystotome 1
