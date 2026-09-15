@@ -6986,7 +6986,7 @@ digs 1
 dinoflagellate 2
 docility 1
 drags 4
-dumbfoundment
+dumbfoundment 1
 despitefully
 desalinizes 2
 despitefulness
