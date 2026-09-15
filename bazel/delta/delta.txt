@@ -10261,7 +10261,7 @@ doura 1
 dutch 3
 distruss 2
 decrepid
-denitrator
+denitrator 1
 dryops
 dositheans 1
 debateable 1
