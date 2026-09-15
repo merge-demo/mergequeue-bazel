@@ -23849,7 +23849,7 @@ amidols
 abnormalize 3
 autarch 2
 antherozoidal
-ataraxy
+ataraxy 1
 atalantis 1
 amices 1
 ascanian
