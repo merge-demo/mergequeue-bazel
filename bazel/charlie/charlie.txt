@@ -17570,7 +17570,7 @@ corvina
 cacoxene 2
 coccidiosis 3
 coccidium 1
-coccidology
+coccidology 1
 coccids
 coccygeal
 coccygean
