@@ -11914,7 +11914,7 @@ emissivity 2
 exceptless 3
 emends 1
 eightfoil 1
-engore 1
+engore 2
 euploeinae 1
 ectoderms 3
 emotionalist 2
