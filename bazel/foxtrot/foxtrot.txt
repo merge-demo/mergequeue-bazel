@@ -1826,7 +1826,7 @@ figureheadship 2
 fellahin 2
 firebreaks 1
 feudalize 1
-fractured
+fractured 1
 flabellum 2
 fating 2
 feedbags
