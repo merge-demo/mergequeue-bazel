@@ -16859,7 +16859,7 @@ clubman
 cloveroot 1
 clubmate
 chiccory 1
-coexists
+coexists 1
 crosswort 1
 clubroom
 casebooks 1
