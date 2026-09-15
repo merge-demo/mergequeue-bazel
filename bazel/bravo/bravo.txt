@@ -11154,7 +11154,7 @@ balloters
 bloodthirster 1
 beliquors 1
 blindages 1
-beknot
+beknot 1
 bitewings
 breveted
 boronia 1
