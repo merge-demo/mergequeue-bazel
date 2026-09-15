@@ -3771,7 +3771,7 @@ enamellist 2
 elegiacs 3
 embruting 1
 embubble 2
-exflagellation
+exflagellation 1
 eschatology
 embulk 1
 evehood 3
