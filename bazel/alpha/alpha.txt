@@ -5049,7 +5049,7 @@ aerosolization
 altisonous 2
 ageratums
 alexinic
-aerosolized
+aerosolized 1
 aerostatic
 aerostatical 1
 argas
