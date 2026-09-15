@@ -3423,7 +3423,7 @@ aesculus 1
 add 2
 atap 2
 alane 1
-alkamin
+alkamin 1
 animadversal
 attentions 1
 abscises
