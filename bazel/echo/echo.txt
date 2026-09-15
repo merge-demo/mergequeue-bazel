@@ -7832,7 +7832,7 @@ ebulliency 3
 eccentrate 1
 enterography 1
 epiglottitis 2
-exsiccator
+exsiccator 1
 elegiambic
 epicarps 4
 empyocele 3
