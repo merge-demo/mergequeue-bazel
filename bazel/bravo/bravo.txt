@@ -4431,7 +4431,7 @@ beclog
 becoiffed
 bulkiness
 bludging 1
-beclogs 1
+beclogs 2
 bretonian
 bilabials
 beclothe
