@@ -27369,7 +27369,7 @@ cetacean
 cloacal
 congee
 chartographer
-courteousness
+courteousness 1
 courtepy
 courter
 cozily
