@@ -8062,7 +8062,7 @@ fluidisation 4
 frustrate 2
 flammably 2
 fairies 1
-fosterers
+fosterers 1
 formentation
 facetting 2
 folial 3
