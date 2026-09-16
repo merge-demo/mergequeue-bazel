@@ -3305,7 +3305,7 @@ basiradial 2
 bacterioscopic 2
 basirostral
 basiscopic
-bacterial
+bacterial 1
 bangiales 3
 blepharitic 1
 butleress
