@@ -8647,7 +8647,7 @@ grizzliness 2
 groynes
 gapeseed 3
 gazetteership 1
-greatness
+greatness 1
 greave 1
 gapers 1
 gavelet 1
