@@ -6573,7 +6573,7 @@ goumier
 gastropod 1
 ghettos 2
 grassant 1
-grouplet 3
+grouplet 4
 grappas 4
 glottalization 2
 ground 5
