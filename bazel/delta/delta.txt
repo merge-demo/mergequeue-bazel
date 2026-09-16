@@ -8530,7 +8530,7 @@ diapause
 diapauses 1
 donaries 1
 decarburize
-dodecastylos 2
+dodecastylos 3
 divinations 2
 decongesting 1
 diapedeses
