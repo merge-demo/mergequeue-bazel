@@ -16729,7 +16729,7 @@ bids
 bistorta 1
 bedfoot 1
 bariatrics
-bucktooth
+bucktooth 1
 bronchovesicular 1
 bucktoothed 3
 bountyless
