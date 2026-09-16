@@ -10763,7 +10763,7 @@ generation 2
 gutbucket 3
 gonfalonierate 2
 ganoin 3
-gloam
+gloam 1
 graminin 2
 gorhen 3
 gimbals 3
