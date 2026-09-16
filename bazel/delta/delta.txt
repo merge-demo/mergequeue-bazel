@@ -11148,7 +11148,7 @@ dysautonomia 1
 disguster
 disavail
 dayroom 1
-discomforted
+discomforted 1
 dissaves 2
 despect 4
 dishabituating
