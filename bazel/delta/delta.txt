@@ -3524,7 +3524,7 @@ deflections 1
 delete 1
 deformations 1
 deformedly
-dandily 1
+dandily 2
 downfold 1
 deuterostomata
 deforse
