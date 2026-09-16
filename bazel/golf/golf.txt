@@ -3404,7 +3404,7 @@ galbe 2
 glaciable 1
 gyroscopic 3
 gainor 1
-guttulate
+guttulate 1
 gymnoceratous 2
 geosid 3
 gerontocrat 2
