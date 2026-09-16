@@ -9658,7 +9658,7 @@ bladed
 besmiles 3
 bismerpund 3
 buoyages
-bristleless
+bristleless 1
 bipartisanism 1
 bourette 1
 bismite 3
