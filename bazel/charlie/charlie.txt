@@ -27355,7 +27355,7 @@ codirectorship 1
 cosmology 2
 coursey 2
 coursers 1
-courses
+courses 1
 coursing 1
 court
 courtage
