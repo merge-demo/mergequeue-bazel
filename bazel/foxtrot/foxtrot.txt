@@ -3488,7 +3488,7 @@ fatigation 1
 fighting 2
 formboard 2
 figo 2
-favillae
+favillae 1
 fumaroid 1
 fibbed 1
 figshell 1
