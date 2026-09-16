@@ -7003,7 +7003,7 @@ despoil
 despoiled 2
 destroyers
 despoiler 3
-disabilities
+disabilities 1
 despoilers 1
 decongest 3
 decamps
