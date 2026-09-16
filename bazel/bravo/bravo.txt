@@ -4905,7 +4905,7 @@ biguttate
 bandurrias 1
 bobac
 burrowstown
-battled
+battled 1
 beefalo
 beefaloes 1
 basketweaving 3
