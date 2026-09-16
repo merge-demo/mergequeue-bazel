@@ -17634,7 +17634,7 @@ cost
 cocculus
 convertend
 corrivals 1
-coccus
+coccus 1
 chalazogamy 1
 cushite
 cochairing 1
