@@ -8845,7 +8845,7 @@ detriments 1
 dialyzable 2
 deg 1
 dichotomal
-dentatocillitate
+dentatocillitate 1
 desirelessness 1
 dibenzophenazine 1
 desilver 1
