@@ -4254,7 +4254,7 @@ deuteragonist
 delthyrial 4
 duncan
 destructible
-dineros 1
+dineros 2
 danseuses
 deltohedron 2
 dogvanes
