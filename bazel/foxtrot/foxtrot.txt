@@ -6332,7 +6332,7 @@ futural 1
 fullback 3
 floyd
 finessed 2
-fixtureless
+fixtureless 1
 fourb 2
 flunkyish
 flunkyize 2
