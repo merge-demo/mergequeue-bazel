@@ -3919,7 +3919,7 @@ carboxylation 1
 colonialised
 ccm
 carboxylic
-carboxyls
+carboxyls 1
 carbromal 3
 carbuncle 1
 chuckrum
