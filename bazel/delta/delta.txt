@@ -14689,7 +14689,7 @@ dk 1
 dkg 1
 dkl 2
 deadener
-decasemic
+decasemic 1
 deviative 2
 dks 2
 dlvy 1

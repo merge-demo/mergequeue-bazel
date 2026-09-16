@@ -15659,7 +15659,7 @@ candidature
 clausula
 chiffonnier 1
 chiasmodontid
-cirrigrade
+cirrigrade 1
 clausule
 cheekily 1
 clausure
