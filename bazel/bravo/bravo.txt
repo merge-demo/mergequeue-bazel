@@ -3552,7 +3552,7 @@ bathymetrical 2
 biggonet 1
 bathing
 bastinadoes
-beckoning 1
+beckoning 2
 bridgekeeper 1
 balon
 barricade
