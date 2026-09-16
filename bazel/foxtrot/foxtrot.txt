@@ -4029,7 +4029,7 @@ facades 2
 forwean 1
 forefaces
 feute
-funerally
+funerally 1
 fallible 1
 feudatorial 2
 foredawn 2
