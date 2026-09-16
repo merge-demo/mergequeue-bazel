@@ -5399,7 +5399,7 @@ dolldom 1
 dilating 1
 disrate 2
 diasene
-dentulous
+dentulous 1
 dentural 2
 dermatology
 diametrally 1
