@@ -12844,7 +12844,7 @@ churchyard
 crawlways
 churchyards
 churchier
-chuckholes
+chuckholes 1
 churching
 crabbedly
 cognisance
