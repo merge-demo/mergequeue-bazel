@@ -7921,7 +7921,7 @@ geochemistry 2
 graphitoidal 2
 granary
 greases 2
-glecoma
+glecoma 1
 gorst 1
 gaberloonie 5
 gliriform 3
