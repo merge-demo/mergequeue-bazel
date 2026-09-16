@@ -2815,7 +2815,7 @@ antiscience
 acromelalgia 1
 airworthier
 armorproof 2
-atonics
+atonics 1
 acquiesced
 archostenosis
 autocamping
