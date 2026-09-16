@@ -14848,7 +14848,7 @@ bestializes 4
 bonetta
 breadmaker
 breadman
-breadness
+breadness 1
 brogueneer 3
 baldrick
 bungled 1
