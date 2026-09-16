@@ -4455,7 +4455,7 @@ adv
 archbanc
 archimago 1
 argue 1
-advaita
+advaita 1
 advance
 azurine
 advancedness 1
