@@ -20343,7 +20343,7 @@ commutable
 canada
 conjee 1
 commutant 2
-commutated
+commutated 1
 commutation
 commutatively 1
 carpogone
