@@ -28759,7 +28759,7 @@ cavitate
 cornutine
 chafer
 crepusculine
-catenary
+catenary 1
 cres
 cresc 1
 comparativeness
