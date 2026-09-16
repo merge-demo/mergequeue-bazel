@@ -7183,7 +7183,7 @@ alack 1
 amole 2
 airworthiness 1
 anadromous
-alacran
+alacran 1
 advertized
 automatic 1
 ameloblast
