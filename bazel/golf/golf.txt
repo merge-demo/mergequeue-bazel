@@ -4954,7 +4954,7 @@ glaives 5
 get 4
 gent 1
 galangal 3
-grangerizing 2
+grangerizing 3
 gamdia 4
 gardens
 grenadierly 3
