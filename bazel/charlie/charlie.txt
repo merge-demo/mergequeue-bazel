@@ -2818,7 +2818,7 @@ canoeload 1
 canoes 1
 cardiogenesis
 cryptoanalyst
-cukes 1
+cukes 2
 canoewood 2
 coincident
 cuprammonium 1
