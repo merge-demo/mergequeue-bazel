@@ -21389,7 +21389,7 @@ antonymous 1
 aftergame 5
 antherids 1
 anemochorous 3
-amitroles
+amitroles 1
 askip
 actiniohematin 1
 askos 1
