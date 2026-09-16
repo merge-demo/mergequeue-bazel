@@ -11632,7 +11632,7 @@ fetlow 1
 fineness 2
 fructoses 1
 ferren 2
-flyability
+flyability 1
 fustiness
 frontless 2
 fustoc 4
