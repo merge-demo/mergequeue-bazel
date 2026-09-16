@@ -5155,7 +5155,7 @@ casements 2
 copolar
 caseolysis
 caseose
-caseous
+caseous 1
 caserios
 cyphering 2
 caserne 1
