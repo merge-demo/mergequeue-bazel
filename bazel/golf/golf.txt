@@ -3748,7 +3748,7 @@ gallein 1
 glinse 6
 goonie 2
 graveldiver 3
-geometdecrne
+geometdecrne 1
 getatable 1
 ginnery
 goldfield 1
