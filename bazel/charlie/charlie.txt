@@ -19342,7 +19342,7 @@ coloquintid
 craniotabes
 carousing 1
 cerotic
-checkstone
+checkstone 1
 color
 creational
 cycadaceous 1
