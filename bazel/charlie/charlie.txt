@@ -16802,7 +16802,7 @@ corporealist
 cuneator
 comarca 2
 clowder 1
-comfortroot
+comfortroot 1
 clowders 1
 clower
 clownade
