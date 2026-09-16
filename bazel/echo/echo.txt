@@ -2488,7 +2488,7 @@ exegete 1
 ellipsoids 1
 eurythmical 2
 enstatite 4
-electrogasdynamics
+electrogasdynamics 1
 embryographer 2
 electroharmonic
 empanelment 2
