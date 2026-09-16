@@ -6295,7 +6295,7 @@ abelite 3
 agrapha 2
 agraphia
 anuran
-agraphic
+agraphic 1
 arcato
 aratory
 acrocyanosis 2
