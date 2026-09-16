@@ -21580,7 +21580,7 @@ cathedrallike 3
 concussions 1
 concussive
 concutient
-crepitacula
+crepitacula 1
 condemn 1
 convent 1
 condemnations 2
