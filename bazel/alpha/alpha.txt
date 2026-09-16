@@ -11132,7 +11132,7 @@ amphanthium
 ampherotokous
 arms
 adjutancies 1
-antirationality
+antirationality 1
 araeometer
 amphetamines
 abasgi
