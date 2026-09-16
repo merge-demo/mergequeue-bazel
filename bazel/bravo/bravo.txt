@@ -3799,7 +3799,7 @@ bazzite 3
 browsing 1
 bescorched
 balancer 1
-bristlecone
+bristlecone 1
 bauckie 4
 beerish
 benzole 1
