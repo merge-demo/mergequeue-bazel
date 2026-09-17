@@ -14688,7 +14688,7 @@ diaskeuast
 dk 1
 dkg 1
 dkl 2
-deadener
+deadener 1
 decasemic
 deviative 2
 dks 2
