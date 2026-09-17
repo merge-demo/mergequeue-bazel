@@ -4010,7 +4010,7 @@ flattish 2
 forfeited 4
 flunk 3
 fingerprint 1
-ferric 1
+ferric 2
 furazolidone 1
 fluorosis 1
 fishery
