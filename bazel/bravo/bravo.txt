@@ -17173,7 +17173,7 @@ bookish 1
 bullition 2
 bar
 boggin
-bulletproof
+bulletproof 1
 bullnose 2
 beewinged
 bullnoses 2
