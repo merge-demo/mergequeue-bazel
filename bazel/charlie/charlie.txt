@@ -19234,7 +19234,7 @@ colocate 1
 chiquest 1
 colocated
 colocephali
-coryph 1
+coryph 2
 colocynth
 connections
 crista 1
