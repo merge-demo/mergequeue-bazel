@@ -5491,7 +5491,7 @@ aminoquinoline
 amethystine
 aftercast 2
 aftercataract 1
-aloe
+aloe 1
 afterclause
 aftercome 1
 australasian 1
