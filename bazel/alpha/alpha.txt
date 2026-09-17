@@ -15765,7 +15765,7 @@ angeleno
 astute
 accostable 2
 antiperistalsis
-antiperistatic
+antiperistatic 1
 antiperspirant
 agileness 2
 antiperspirants
