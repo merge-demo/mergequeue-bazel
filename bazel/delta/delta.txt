@@ -1399,7 +1399,7 @@ deicing 2
 desma 3
 dysesthetic 1
 davies 2
-duotriode
+duotriode 1
 dayless
 decephalize
 diorites
