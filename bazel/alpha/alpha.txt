@@ -16790,7 +16790,7 @@ abscoulomb 5
 algarsyf
 aphorise
 aphorismer
-aphorismical
+aphorismical 1
 acanthopore 1
 artamus
 agnoete
