@@ -13207,7 +13207,7 @@ expires
 earthworms 2
 esteemable
 expressivity 2
-eastertide
+eastertide 1
 encephala
 echinite 1
 empyreal 4
