@@ -9623,7 +9623,7 @@ biol 1
 bishopstool
 bishopweed 3
 bobbinets 1
-bestir
+bestir 1
 benison
 barterers 1
 blatti
