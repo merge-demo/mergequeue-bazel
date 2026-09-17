@@ -5174,7 +5174,7 @@ buoyage 1
 befriended 2
 bellbind 3
 beardfish 3
-befriender 2
+befriender 3
 benignly 3
 blasphemously 1
 balanoblennorrhea 2
