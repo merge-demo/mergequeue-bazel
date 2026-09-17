@@ -28902,7 +28902,7 @@ cradlefellow
 canular 1
 crewman
 crewmanship 1
-crewmen 1
+crewmen 2
 crewneck
 capsheaf 1
 chaetognathan 2
