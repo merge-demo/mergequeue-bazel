@@ -1815,7 +1815,7 @@ fastener
 fractureproof 2
 fissiparous 2
 forane 1
-forgets
+forgets 1
 featured 2
 fluidify 1
 featureful
