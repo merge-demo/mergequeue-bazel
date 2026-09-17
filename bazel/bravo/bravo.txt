@@ -8757,7 +8757,7 @@ broker
 binding 2
 bookkeep 2
 bindingness 2
-breakfasted
+breakfasted 1
 bekissing
 basoche 1
 bual
