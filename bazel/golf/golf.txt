@@ -8785,7 +8785,7 @@ greenstone
 gimballing 4
 gange 2
 golems 3
-greenswarded 2
+greenswarded 3
 greenware 3
 giveth
 greenwoods 4
