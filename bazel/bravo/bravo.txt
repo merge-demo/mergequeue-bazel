@@ -11649,7 +11649,7 @@ boatmanship 3
 boatmen 1
 boats 1
 boatsetter 4
-bisymmetric 1
+bisymmetric 2
 badju
 boatsteerer 2
 biracialism
