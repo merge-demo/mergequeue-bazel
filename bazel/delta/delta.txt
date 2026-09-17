@@ -4307,7 +4307,7 @@ dem
 demagnetisation
 dovelet 1
 detraining 3
-divisiveness
+divisiveness 1
 demagnetising
 diacranteric 1
 decomposes
