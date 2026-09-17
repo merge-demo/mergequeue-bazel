@@ -6051,7 +6051,7 @@ cyclicity 1
 catiline
 cating
 cativo
-cheapo
+cheapo 1
 catkin 1
 catkinate
 catkins
