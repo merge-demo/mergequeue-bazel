@@ -4747,7 +4747,7 @@ fablemongering 3
 forestry
 flo 3
 fertil 1
-furtherest
+furtherest 1
 fiddleneck
 freethinkers 2
 farcies
