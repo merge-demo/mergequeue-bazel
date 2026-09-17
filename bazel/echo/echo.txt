@@ -12316,7 +12316,7 @@ epimerite 1
 erichtoid 2
 eavesing 2
 enjambment 3
-eradicating
+eradicating 1
 emusive 3
 earthlings 2
 ethic 3
