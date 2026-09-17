@@ -16612,7 +16612,7 @@ chargeling
 clop
 carburate
 conteck
-clopped
+clopped 1
 clops 1
 cantref
 cloque
