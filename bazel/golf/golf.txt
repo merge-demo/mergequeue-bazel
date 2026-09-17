@@ -4458,7 +4458,7 @@ gosplan 2
 gammelost 3
 graminology
 gommelin
-grandsire 1
+grandsire 2
 generics
 giocoso 5
 gip
