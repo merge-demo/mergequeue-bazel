@@ -10472,7 +10472,7 @@ bopyrid 2
 blaster 2
 blastid 1
 blart 1
-blasting
+blasting 1
 borolanite 4
 blastings 4
 blastocele
