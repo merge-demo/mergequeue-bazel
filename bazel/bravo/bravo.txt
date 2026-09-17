@@ -10520,7 +10520,7 @@ bromal 1
 buttonhold 2
 belligerent 4
 badasses 1
-blastula
+blastula 1
 boswellia 1
 blastulation 1
 blachong
