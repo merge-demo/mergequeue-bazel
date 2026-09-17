@@ -11030,7 +11030,7 @@ combustor 1
 chirt
 chirurgeon
 crimean
-chirurgeonly 3
+chirurgeonly 4
 chirurgery
 chis
 chiseled 1
