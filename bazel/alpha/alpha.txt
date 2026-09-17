@@ -13364,7 +13364,7 @@ anywhen
 advertize 2
 ascill 1
 anywhence
-appurtenance
+appurtenance 1
 anywhither 1
 anywither 2
 anhalonium 2
