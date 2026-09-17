@@ -13385,7 +13385,7 @@ boltant 2
 bothway 1
 burgle 1
 bunched
-bediapers 1
+bediapers 2
 botocudo
 berried
 brumaire
