@@ -8476,7 +8476,7 @@ demioctagonal 2
 dispatchers
 diametral 2
 diametric 1
-diamide
+diamide 1
 diamides
 descanter 1
 deesis 1
