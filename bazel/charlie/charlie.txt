@@ -2065,7 +2065,7 @@ coincidence 2
 companionship 1
 cruddle
 camouflaging
-combats
+combats 1
 chandlery
 collapsar 1
 camoufleur
