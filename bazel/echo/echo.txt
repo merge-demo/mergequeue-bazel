@@ -13191,7 +13191,7 @@ expirate 2
 endostracal 2
 echinopsine 2
 eyrar
-expiration
+expiration 1
 exponentiation
 epaxial 2
 exotica
