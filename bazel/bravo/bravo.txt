@@ -10240,7 +10240,7 @@ broomwort 1
 blackpatch
 belongings 5
 beavering 2
-blennorrhoea
+blennorrhoea 1
 bilobiate 2
 boolean 2
 bellweather 1
