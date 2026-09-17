@@ -10518,7 +10518,7 @@ grayishness 3
 garn
 goblinry 1
 gundie 3
-graspingness
+graspingness 1
 galipots 1
 goladar 1
 girl 1
