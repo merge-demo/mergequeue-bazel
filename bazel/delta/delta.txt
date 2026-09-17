@@ -13243,7 +13243,7 @@ ditali
 dangerfully
 decohesion 2
 disposedness 1
-disposement
+disposement 1
 disposers 1
 dislocator 1
 dicrotic
