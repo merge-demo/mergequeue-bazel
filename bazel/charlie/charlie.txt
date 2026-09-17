@@ -26359,7 +26359,7 @@ coswearer
 cot
 cotabulate 2
 carya 2
-cotarius
+cotarius 1
 catwise 1
 calander 1
 centipedal
