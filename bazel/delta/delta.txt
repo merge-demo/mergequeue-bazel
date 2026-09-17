@@ -4508,7 +4508,7 @@ defused 3
 drinkableness 1
 destruction
 demiculverin 1
-dodgiest 1
+dodgiest 2
 divulsed
 demidistance 1
 diaphane 1
