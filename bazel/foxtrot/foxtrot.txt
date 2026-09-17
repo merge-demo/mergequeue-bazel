@@ -1019,7 +1019,7 @@ flatlong
 fumosity 2
 feverweed 1
 fretful 2
-federalese
+federalese 1
 filicornia 2
 fragmentalize 2
 flatboats 1
