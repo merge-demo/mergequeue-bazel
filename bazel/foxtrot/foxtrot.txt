@@ -3303,7 +3303,7 @@ farsight
 fivescore 2
 flounces 2
 ferrelled 2
-fortier
+fortier 1
 fulgency 2
 finity 2
 factitious
