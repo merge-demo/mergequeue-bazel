@@ -675,7 +675,7 @@ anhydrosis
 aborigines
 abort 2
 alderfly 1
-aborted
+aborted 1
 abortient
 anacardic
 assuring
