@@ -8265,7 +8265,7 @@ ginglyform 1
 grippingness
 giardiasis 3
 gre 2
-garamond
+garamond 1
 gaseosity 5
 gurries
 gara 3
