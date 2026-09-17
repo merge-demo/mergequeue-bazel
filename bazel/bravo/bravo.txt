@@ -6958,7 +6958,7 @@ beslap 1
 bushbashing
 bastillion 2
 bearherd 3
-bedsite 2
+bedsite 3
 bestrid 1
 beslimes 2
 backsheesh 1
