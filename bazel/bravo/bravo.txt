@@ -11540,7 +11540,7 @@ bocedization 2
 blup 2
 barbs 1
 blurbist 1
-bananist
+bananist 1
 balladries 3
 budless
 bordellos
