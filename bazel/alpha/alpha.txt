@@ -1647,7 +1647,7 @@ accrual 4
 actualities 2
 accrued
 accruement 2
-accruer
+accruer 1
 anatta 2
 adiabatic 2
 accrues
