@@ -16004,7 +16004,7 @@ bibionidae 1
 braced 2
 bronchoplasty
 backstitching 2
-bronchorrhaphy
+bronchorrhaphy 1
 bronchorrhea
 bronchos 1
 bronchoscopic 2
