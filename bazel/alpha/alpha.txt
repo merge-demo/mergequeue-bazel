@@ -4758,7 +4758,7 @@ aranein
 albuminimetry
 allogamy 3
 attemperation 3
-aequor
+aequor 1
 altitudes 2
 aequorins
 aerate
