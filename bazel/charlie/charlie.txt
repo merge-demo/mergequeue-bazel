@@ -6493,7 +6493,7 @@ confiner 1
 cambodia 1
 cavelike
 cavemen
-cavernal
+cavernal 1
 cavernlike
 cavernoma
 cavernous
