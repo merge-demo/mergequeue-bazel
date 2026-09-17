@@ -14138,7 +14138,7 @@ diol
 desacralize
 diapason 1
 disulfiram
-doyst
+doyst 1
 disulfonic
 dispread 2
 disulfoxid
