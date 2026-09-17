@@ -12462,7 +12462,7 @@ autodermic
 asphyxy 2
 approval 2
 animalia 1
-admensuration
+admensuration 1
 algesis
 armchairs 1
 abarambo
