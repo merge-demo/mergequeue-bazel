@@ -20481,7 +20481,7 @@ composition 1
 compartments 1
 chapin 2
 celticist 1
-compass
+compass 1
 compassability 1
 compassable
 compassed
