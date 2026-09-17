@@ -24575,7 +24575,7 @@ copybooks
 cognomen 1
 chook
 copycat
-copycats 1
+copycats 2
 citywide
 copycatting
 creedite 1
