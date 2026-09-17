@@ -15299,7 +15299,7 @@ checkrow
 clamoursome
 clamped
 cholestanol 1
-clamps
+clamps 1
 coolibah 2
 clamworms 2
 corrector 1
