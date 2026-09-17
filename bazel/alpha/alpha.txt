@@ -4960,7 +4960,7 @@ aeromancer 2
 anthonomus
 aerometer
 aspen
-amygdalus
+amygdalus 1
 amenite
 amphictyonies 1
 autonomously
