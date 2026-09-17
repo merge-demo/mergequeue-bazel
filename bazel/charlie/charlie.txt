@@ -10582,7 +10582,7 @@ chillroom 2
 chills 1
 chillsome 1
 countermove 2
-chouka
+chouka 1
 chemolytic
 chillumchee
 countersubject
