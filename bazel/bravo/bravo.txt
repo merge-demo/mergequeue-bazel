@@ -8497,7 +8497,7 @@ bafaro 1
 baronne 2
 birch 2
 butyryl 3
-bearhound
+bearhound 1
 bisections 1
 biliteral
 baywood 3
