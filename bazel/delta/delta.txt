@@ -2665,7 +2665,7 @@ decenniad
 decompensations
 dasylirion 1
 doorkeeper 1
-decompiler
+decompiler 1
 decomposable 1
 diceman 1
 deviceful
