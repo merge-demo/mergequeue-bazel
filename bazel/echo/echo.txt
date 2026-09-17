@@ -4340,7 +4340,7 @@ exclaustration 4
 enamelist 2
 enamelless
 eluder 1
-emit 1
+emit 2
 edibles 3
 enami 1
 estranging 2
