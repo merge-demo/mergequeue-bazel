@@ -7233,7 +7233,7 @@ flaxboard 1
 forepeak 3
 fordwine
 filature 4
-fridays 1
+fridays 2
 fleetings 3
 flanderkin
 fb 2
