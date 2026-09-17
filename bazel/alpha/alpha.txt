@@ -6785,7 +6785,7 @@ antibias 2
 axometer 1
 arid
 altars 1
-aircraftmen 1
+aircraftmen 2
 aircraftsman
 adsorptiveness 1
 aircraftsmen 2
