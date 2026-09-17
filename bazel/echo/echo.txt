@@ -12089,7 +12089,7 @@ escheator 1
 endued 2
 engulfs 2
 edentates 2
-expressor
+expressor 1
 easels
 emblazonry 1
 ekphoria
