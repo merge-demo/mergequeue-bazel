@@ -8757,7 +8757,7 @@ alliance
 actorship
 abaze 2
 aramus
-anschluss
+anschluss 1
 alliancing 1
 affluxion
 alliant
