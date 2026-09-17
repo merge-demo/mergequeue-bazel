@@ -9667,7 +9667,7 @@ editchar
 espino 2
 erythroplastid 3
 esplanade 2
-enhancements 1
+enhancements 2
 elkhounds 2
 exsec 1
 explicability 2
