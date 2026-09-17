@@ -9182,7 +9182,7 @@ desoxycinchonine
 decalog
 diptych 2
 dialyse 2
-doors
+doors 1
 delobranchiata 3
 dyeability 3
 denazification
