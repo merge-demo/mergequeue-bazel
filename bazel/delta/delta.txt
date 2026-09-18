@@ -1039,7 +1039,7 @@ dineutron 2
 daggly 1
 darkskin 2
 disseises 2
-dispensers
+dispensers 1
 darksum 2
 domineers
 danalite 1
