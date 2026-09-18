@@ -8062,7 +8062,7 @@ castores 1
 cirrated
 chaetopodan 2
 chaetopterus 2
-chaetosoma 2
+chaetosoma 3
 chrysophlyctis 1
 chaetosomidae
 codrus
