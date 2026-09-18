@@ -9943,7 +9943,7 @@ gathered 2
 geoglyphic 2
 gedd
 galerite 1
-geogenetic
+geogenetic 1
 ghatwal 1
 glozer 1
 guitarfishes 5
