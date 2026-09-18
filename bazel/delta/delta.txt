@@ -9252,7 +9252,7 @@ dossils 1
 dimnesses
 docibleness 2
 dier 1
-dyer
+dyer 1
 dementis 2
 dochmii
 dieresis 3
