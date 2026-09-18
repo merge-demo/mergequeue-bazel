@@ -1973,7 +1973,7 @@ alphabetiform
 absolutism 1
 amphidisk 2
 acetometer
-acetometry
+acetometry 1
 accroachment
 affidavits 2
 aleurites
