@@ -4902,7 +4902,7 @@ arenite
 areek 3
 aerodrome
 aerodromes 2
-arbitrating
+arbitrating 1
 acetyltannin 4
 aeroelastic
 aucupate 1
