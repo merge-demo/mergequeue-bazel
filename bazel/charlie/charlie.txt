@@ -20035,7 +20035,7 @@ commensally
 campodeid 1
 commensals 2
 chamosite 1
-commensurability
+commensurability 1
 commensurable
 cajoled
 commensurably
