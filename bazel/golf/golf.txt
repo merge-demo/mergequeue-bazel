@@ -4590,7 +4590,7 @@ galloper 2
 goobers 1
 gagger 1
 grinter
-gladiole
+gladiole 1
 guardrail 2
 garotter 2
 guttiferales 1
