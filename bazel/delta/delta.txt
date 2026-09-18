@@ -8029,7 +8029,7 @@ defences
 derbylite 2
 defenestration 1
 doylt
-dietician
+dietician 1
 duomi 1
 dispersion 1
 dumbhead 2
