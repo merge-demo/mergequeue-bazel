@@ -13561,7 +13561,7 @@ embowment 2
 ergusia 2
 exsolving 5
 epochs 1
-exposedness
+exposedness 1
 energies 1
 ebeneous 2
 exsudate 2
