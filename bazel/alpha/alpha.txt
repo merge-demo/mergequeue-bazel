@@ -21220,7 +21220,7 @@ antipass
 anxiety
 authenticalness 1
 asklepios
-amidoxime
+amidoxime 1
 ashimmer
 ambarella
 apostacy 1
