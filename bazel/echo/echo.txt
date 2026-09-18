@@ -12237,7 +12237,7 @@ eskuara
 ephemerides
 emmental 2
 ecclesiolater 2
-eternalization
+eternalization 1
 equipment 1
 epanalepsis
 exocyclica
