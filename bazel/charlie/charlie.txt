@@ -26717,7 +26717,7 @@ countercompany 2
 counterattractive
 costulation 1
 counteravouch
-counteravouchment
+counteravouchment 1
 counterbalanced
 crackerjack
 counterbarrage
