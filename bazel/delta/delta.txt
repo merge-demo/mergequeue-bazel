@@ -15860,7 +15860,7 @@ dorsosacral
 dishumor 1
 dorsoscapular 4
 dozen 1
-dorsothoracic
+dorsothoracic 1
 diablotin 2
 discoursed 4
 dialdehyde 1
