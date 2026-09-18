@@ -6729,7 +6729,7 @@ clition
 celebrant 1
 cohesions
 celebrants
-celebrate
+celebrate 1
 comiakin 1
 celebratedly 1
 celebrater 2
