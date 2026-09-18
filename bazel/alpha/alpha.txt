@@ -4175,7 +4175,7 @@ adjag
 apoapsis 1
 armorers
 acetoxyls 2
-anabaptistically
+anabaptistically 1
 amalgamable
 actinometer
 adoptedly 1
