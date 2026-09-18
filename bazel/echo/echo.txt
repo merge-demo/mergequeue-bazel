@@ -14202,7 +14202,7 @@ enlists 3
 effecters 2
 enow 2
 equiradiate
-exerciser
+exerciser 1
 exust 1
 encaging 4
 excitron 2
