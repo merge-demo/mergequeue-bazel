@@ -21790,7 +21790,7 @@ amalaita
 assertress 1
 annunciator 1
 athetesis 1
-asserts
+asserts 1
 assertum 2
 agricolous
 acanaceous
