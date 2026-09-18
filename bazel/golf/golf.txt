@@ -4185,7 +4185,7 @@ gainful
 gyrocompass 2
 geographical 2
 gaggles 3
-gundogs 2
+gundogs 3
 gauds
 gnathites 1
 gastroplication
