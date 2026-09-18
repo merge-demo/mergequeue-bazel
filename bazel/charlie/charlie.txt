@@ -19705,7 +19705,7 @@ combinability
 cytozyme 1
 combinable 1
 combinably
-combinant
+combinant 1
 combinate 1
 combination
 coredeem 2
