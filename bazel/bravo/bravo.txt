@@ -13941,7 +13941,7 @@ brierberry 2
 bundle 3
 boxhauling 1
 boxhauls
-bowwow
+bowwow 1
 bethels 1
 bumbershoot 2
 blitzes
