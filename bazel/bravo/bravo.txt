@@ -1742,7 +1742,7 @@ bitripinnatifid 2
 broquery
 baronnes 3
 becollier 1
-buses
+buses 1
 biome
 biretta 1
 bedraggling
