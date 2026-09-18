@@ -12954,7 +12954,7 @@ chockful 2
 chloropal
 consecution
 cyanhydric
-cyanhydrin
+cyanhydrin 1
 citrean
 cyanid 1
 collects

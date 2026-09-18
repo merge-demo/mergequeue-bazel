@@ -1056,7 +1056,7 @@ destandardize
 diplohedral 2
 dishes
 diacodium 1
-deas
+deas 1
 disobliging
 dutra 3
 darner 2
