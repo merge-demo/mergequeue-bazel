@@ -6866,7 +6866,7 @@ dryobalanops
 dragnet 1
 deadflat 1
 deltic 1
-domesticative
+domesticative 1
 derivative
 desmopathology
 desmopexia 1
