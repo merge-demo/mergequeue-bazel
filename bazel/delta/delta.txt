@@ -17804,7 +17804,7 @@ duckpin 1
 desalinate 1
 diabolarch
 dower
-dermatological
+dermatological 1
 demographies 3
 deskmen 1
 ducs
