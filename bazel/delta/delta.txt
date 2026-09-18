@@ -17456,7 +17456,7 @@ defame 2
 definitude 1
 datums 1
 deertongue 2
-delegatee
+delegatee 1
 drove
 drovers
 dereism
