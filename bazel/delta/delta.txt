@@ -17301,7 +17301,7 @@ defoul 1
 decrypts 1
 disrelated 2
 dubitation 1
-dronage
+dronage 1
 discovenant
 dronepipe 1
 devaunt
