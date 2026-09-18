@@ -7970,7 +7970,7 @@ getups
 grippy 1
 glandiform 2
 grandiosity 2
-gudok 1
+gudok 2
 gothonic 1
 ganglionectomy 2
 globing 2

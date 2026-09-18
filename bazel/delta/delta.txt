@@ -7396,7 +7396,7 @@ detonative 1
 detonize
 detour 2
 duncifying
-detectability
+detectability 1
 detouring 2
 deliriums 3
 dermacentor 1
