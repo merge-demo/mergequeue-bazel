@@ -11953,7 +11953,7 @@ choric
 chorines
 collunarium 1
 cachina 1
-chorioallantoic
+chorioallantoic 1
 chorioallantoid
 chorioallantois
 centrifugation
