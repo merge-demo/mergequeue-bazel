@@ -14463,7 +14463,7 @@ cirsoid
 cirsomphalos 3
 cirsophthalmia
 completable 2
-cirsotomy
+cirsotomy 1
 cirsotomies
 cirterion 2
 cyrtoceras
