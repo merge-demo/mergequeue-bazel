@@ -4610,7 +4610,7 @@ advisories 2
 acrock
 antipill 1
 amreeta 1
-advocacy
+advocacy 1
 anahao 1
 afficionado
 advocated 1
