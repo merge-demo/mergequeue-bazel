@@ -2427,7 +2427,7 @@ fatigate 3
 freemasons 1
 fractur 4
 frizzle 2
-fingered
+fingered 1
 frisco 2
 farandola
 foils
