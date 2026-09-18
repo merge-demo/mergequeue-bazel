@@ -17372,7 +17372,7 @@ delactation
 deviants 1
 diduced 1
 dropmeal 4
-declined
+declined 1
 dipleurula 1
 droppers
 diurnalness
