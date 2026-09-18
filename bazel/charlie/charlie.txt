@@ -21431,7 +21431,7 @@ chemicalize 1
 cementlike
 cyetic 1
 conclusory
-calybite
+calybite 1
 conclusum 1
 caseful 2
 chapellage
