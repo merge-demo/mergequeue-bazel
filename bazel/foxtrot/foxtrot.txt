@@ -9582,7 +9582,7 @@ feltwork 4
 facete 2
 forensic 1
 floreta 2
-frontopontine
+frontopontine 1
 fizzed 1
 fichus
 friableness 3
