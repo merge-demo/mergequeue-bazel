@@ -6293,7 +6293,7 @@ dermatoplasm 2
 diapositive 1
 deluminize
 deozonizer 1
-decolonization
+decolonization 1
 debatter 2
 dermatorrhagia 1
 drossy 1
