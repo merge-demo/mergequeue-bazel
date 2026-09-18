@@ -5885,7 +5885,7 @@ depreciation 4
 deoxygenization 1
 dryopians 3
 deforceor
-depredate
+depredate 1
 depersonalised
 depredated 1
 definitiveness
