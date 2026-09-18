@@ -912,7 +912,7 @@ bowstaff
 bagpipers
 bandyball 2
 bardiglio 1
-bismarine
+bismarine 1
 boscage
 bagrationite
 berryless 2
