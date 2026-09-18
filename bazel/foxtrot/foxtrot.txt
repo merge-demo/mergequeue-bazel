@@ -6723,7 +6723,7 @@ forelegs 1
 fogon 1
 fogproof 2
 frugally 1
-flaughter 1
+flaughter 2
 fellator 5
 frangulaceae
 filamentous 4
