@@ -3646,7 +3646,7 @@ gauntleted 1
 gillnetting 1
 gonadotropic 1
 genearch 2
-ghostdom 2
+ghostdom 3
 gardenin 5
 gipsylike
 gaffkya 1
