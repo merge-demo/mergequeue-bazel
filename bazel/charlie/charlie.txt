@@ -12162,7 +12162,7 @@ chrysaor 1
 convince 2
 cont 1
 cauldron 1
-chrysazol
+chrysazol 1
 chorioma
 crateral
 chryselectrum
