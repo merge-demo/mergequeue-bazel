@@ -11835,7 +11835,7 @@ hudsppwr 3
 hudtm 1
 hudto 3
 huduji 1
-hudupwpswmj 1
+hudupwpswmj 2
 huduslovyk 3
 hudvfrp 2
 hudvjcywa 2
