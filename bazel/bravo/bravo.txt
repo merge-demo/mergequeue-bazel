@@ -1509,7 +1509,7 @@ bezel 1
 basted 2
 batterdock 2
 ballads 2
-balete 2
+balete 3
 baralipton 1
 bloodmonger
 blackware
