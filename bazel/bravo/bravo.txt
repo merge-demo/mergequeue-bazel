@@ -15133,7 +15133,7 @@ baldicoot 1
 bronchotyphoid 1
 brickliner
 brewership 3
-brewhouse 1
+brewhouse 2
 brewhouses 1
 bulked 1
 benzofuroquinoxaline 1
