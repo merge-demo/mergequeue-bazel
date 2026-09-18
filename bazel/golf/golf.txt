@@ -1985,7 +1985,7 @@ grubroot 2
 glut 5
 gripes 4
 grudged 2
-ghastlier 1
+ghastlier 2
 guttable 1
 gonif
 galician 3
