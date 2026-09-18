@@ -66,7 +66,7 @@ fconv
 fabulously 3
 facebar 1
 facebow 2
-fenchone 1
+fenchone 2
 feudalization 3
 faceharden 3
 flagships 1
