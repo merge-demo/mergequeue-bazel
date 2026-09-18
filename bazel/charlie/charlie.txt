@@ -1962,7 +1962,7 @@ counterwill 2
 cumulose
 cyprinodont 2
 camerae
-curbless
+curbless 1
 cameral 1
 citizenship
 cameralism
