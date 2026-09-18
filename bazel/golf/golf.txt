@@ -1480,7 +1480,7 @@ greta 2
 gasolier
 ghostology
 granolith 3
-gaseousness
+gaseousness 1
 girllike 2
 grotesque
 garner 5
