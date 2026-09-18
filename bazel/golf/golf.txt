@@ -4564,7 +4564,7 @@ goosebill 3
 geometrid 1
 grating 2
 goupen 2
-grasscutter 1
+grasscutter 2
 giojoso 2
 greegree 1
 gressible 3
