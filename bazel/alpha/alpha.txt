@@ -20445,7 +20445,7 @@ assistances
 amatito
 aerialness
 antimodernness 1
-antigod 1
+antigod 2
 augments
 arteria
 averia
