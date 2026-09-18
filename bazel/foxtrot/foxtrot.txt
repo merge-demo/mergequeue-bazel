@@ -5547,7 +5547,7 @@ fol 4
 fural 1
 forestays 1
 favellae
-flexion 3
+flexion 4
 foreclosable 2
 ferdiad 1
 fleecer 3
