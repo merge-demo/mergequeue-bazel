@@ -10702,7 +10702,7 @@ ecossaise 2
 egosyntonic 1
 etiquet 1
 endfile 1
-excusable
+excusable 1
 eugonic 3
 eggheaded 3
 epithecicia 1
