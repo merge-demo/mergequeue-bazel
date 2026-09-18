@@ -4921,7 +4921,7 @@ ef 1
 encumbrance 2
 extrabureau 1
 english 3
-erythroneocytosis 1
+erythroneocytosis 2
 evolves 1
 ephyrula
 eyednesses 3
