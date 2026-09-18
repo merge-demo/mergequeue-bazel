@@ -4906,7 +4906,7 @@ bandurrias 1
 bobac
 burrowstown
 battled
-beefalo
+beefalo 1
 beefaloes 1
 basketweaving 3
 birefringence 1
