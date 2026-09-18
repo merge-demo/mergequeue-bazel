@@ -5366,7 +5366,7 @@ fettles 1
 flanken 1
 feebleness 3
 fascia 2
-fruiteries
+fruiteries 1
 ferulaic 1
 foldboater 2
 foreclosed 2
