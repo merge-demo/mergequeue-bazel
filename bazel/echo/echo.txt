@@ -6402,7 +6402,7 @@ elaboration 2
 enrobed 1
 encrinitical 3
 epist 1
-enunciator 1
+enunciator 2
 eluvivia
 elapid 3
 ensemble 3
