@@ -4699,7 +4699,7 @@ composograph 1
 carpenters
 charlock
 carpet
-carpetbag 2
+carpetbag 3
 carpetbagger 2
 carpetbaggery
 chantage
