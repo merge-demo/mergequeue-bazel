@@ -4250,7 +4250,7 @@ coauthored
 cashel
 cursillo
 careless 1
-carelessly
+carelessly 1
 carelessness 1
 careme 2
 carene
