@@ -6452,7 +6452,7 @@ equatorial 3
 epeirogenetic
 ecophene 1
 embarrassing 2
-endangerments
+endangerments 1
 electromyography 1
 espave 2
 espousal 1
