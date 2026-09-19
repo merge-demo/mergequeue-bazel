@@ -8865,7 +8865,7 @@ duftery 1
 defiguration 3
 dozinesses
 draglines
-dropperful
+dropperful 1
 dovens 4
 dibstone
 degustation
