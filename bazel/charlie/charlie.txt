@@ -23262,7 +23262,7 @@ consubstantiating
 culmen 1
 consubstantive
 consuetudinal
-consul
+consul 1
 consulage 1
 coloclysis
 chirurgical
