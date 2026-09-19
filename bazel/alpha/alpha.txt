@@ -23759,7 +23759,7 @@ arrent
 auslaute
 auspex 1
 approvability 1
-associational
+associational 1
 anisopodous 2
 acetifier 2
 avowance
