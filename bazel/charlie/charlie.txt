@@ -558,7 +558,7 @@ camlets
 cadlock 1
 colourlessly 1
 cadmia
-cadmic
+cadmic 1
 cateran
 convito 2
 cadmium
