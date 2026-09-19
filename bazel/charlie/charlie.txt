@@ -15529,7 +15529,7 @@ cuitle 2
 clasped 1
 cinevariety 2
 clasper
-claspers 1
+claspers 2
 claspt 3
 classable 1
 coplanarity
