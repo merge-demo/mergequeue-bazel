@@ -1056,7 +1056,7 @@ atticizing
 acustom 2
 axhammered 1
 averager
-accolent
+accolent 1
 apt 3
 aggression
 ayudante
