@@ -14782,7 +14782,7 @@ brazers 1
 brows
 brazier 3
 bern
-barres 1
+barres 2
 ballooner 3
 bombable
 burgheress 2
