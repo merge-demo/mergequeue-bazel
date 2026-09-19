@@ -12341,7 +12341,7 @@ cantred 1
 chrysomonadine
 chromatically
 carcinogen
-chromatician
+chromatician 1
 chromaticness 1
 chromatid 2
 conuses 1
