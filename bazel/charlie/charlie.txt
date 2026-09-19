@@ -5753,7 +5753,7 @@ catchpolling 2
 copperheads
 contribute
 catchweight 1
-catchword
+catchword 1
 catchwork 1
 cabasset 1
 counterinsurgents
