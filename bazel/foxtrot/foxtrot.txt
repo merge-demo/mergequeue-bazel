@@ -10372,7 +10372,7 @@ fireproofness 1
 farmyards 1
 fungite 2
 flusterment
-fibroplasia 2
+fibroplasia 3
 fonctionnaire 3
 forgivers 1
 fecundities 2
