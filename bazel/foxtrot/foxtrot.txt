@@ -8521,7 +8521,7 @@ facsimiling 3
 fetlock 4
 formols 1
 fiddledeedee
-formosity 2
+formosity 3
 fidley 3
 flailing 2
 firehall 1
