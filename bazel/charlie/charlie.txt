@@ -23866,7 +23866,7 @@ controlless
 conin 1
 cananga
 conforming
-controversal
+controversal 1
 conduces 1
 compositeness
 cauterized
