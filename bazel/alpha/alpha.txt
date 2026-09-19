@@ -6779,7 +6779,7 @@ airbrushing 2
 amitabha
 airburst
 arresting
-angularity 1
+angularity 2
 airbusses
 antibias 2
 axometer 1
