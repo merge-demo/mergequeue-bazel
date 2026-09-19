@@ -9418,7 +9418,7 @@ deuteranomalous
 dereling 1
 dowerless 2
 dredge 1
-dismountable 2
+dismountable 3
 dejunkerize
 diffusions
 diffusive 1
