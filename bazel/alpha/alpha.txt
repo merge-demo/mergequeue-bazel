@@ -12466,7 +12466,7 @@ admensuration
 algesis
 armchairs 1
 abarambo
-anecdotage
+anecdotage 1
 antiprimer 1
 astart 2
 ajowan 2
