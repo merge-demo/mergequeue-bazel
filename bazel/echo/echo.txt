@@ -2268,7 +2268,7 @@ electret
 electrets 2
 esophagogastrostomy 1
 exploitive 2
-electrically 2
+electrically 3
 extensometer 2
 enciente 2
 embryony 1
