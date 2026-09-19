@@ -2406,7 +2406,7 @@ ectogenetic 2
 energist 1
 electrodeposition
 ebriosity
-epitrochlea 1
+epitrochlea 2
 electrodes 1
 etherization
 elotherium 1
