@@ -23484,7 +23484,7 @@ acopic
 archdruid
 argol
 atumble
-annotine
+annotine 1
 augmentedly 2
 architraves
 augmenters 2
