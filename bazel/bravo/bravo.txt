@@ -12361,7 +12361,7 @@ bab
 berime
 band 1
 buckshee 2
-brigades
+brigades 1
 biskop
 baskets 1
 bomble 2
