@@ -21836,7 +21836,7 @@ absorbedness 2
 assignability 1
 astrodynamics
 atoningly 2
-assignably
+assignably 1
 aviated 3
 assignats
 ambiparous
