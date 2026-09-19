@@ -8752,7 +8752,7 @@ binderies 1
 barterer
 beggars 1
 baptizers 1
-banjos
+banjos 1
 broker
 binding 2
 bookkeep 2
