@@ -2477,7 +2477,7 @@ defeatists 1
 distinctly
 decisional
 decisions
-decisis
+decisis 1
 dribbled 1
 delays 3
 dixy 5
