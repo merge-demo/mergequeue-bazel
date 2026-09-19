@@ -9543,7 +9543,7 @@ digitizing 1
 desorbed 2
 decimosexto 1
 downthrow
-decimated
+decimated 1
 draggly 1
 diastereomer
 digitoplantar 2
