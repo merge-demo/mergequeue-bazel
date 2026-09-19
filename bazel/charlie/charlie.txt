@@ -10172,7 +10172,7 @@ chomping
 collectioner 2
 complaining 1
 chewing 2
-chewinks
+chewinks 1
 chews
 ciceronians
 counterstatant 1
