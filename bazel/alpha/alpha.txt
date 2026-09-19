@@ -14230,7 +14230,7 @@ arbuscula
 ananter 1
 anteroinferior 1
 askewgee 2
-antipart 2
+antipart 3
 anterointernal 2
 anterolateral 1
 antiferroelectric 2
