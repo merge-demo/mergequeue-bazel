@@ -5710,7 +5710,7 @@ depletions 3
 danton 1
 depletive
 denutrition 3
-disparities
+disparities 1
 dishearteningly 2
 delthyrium 2
 deploy
