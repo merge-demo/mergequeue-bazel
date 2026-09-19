@@ -8445,7 +8445,7 @@ crookeder
 checkerboarded
 confiscator 1
 choribi
-cuttable 1
+cuttable 2
 chamoisite 1
 chamoline 1
 chamorro
