@@ -2112,7 +2112,7 @@ doline
 diapasm
 daunts
 doab 1
-disinheritances 1
+disinheritances 2
 duddies 1
 despoilment 2
 decameron 2
