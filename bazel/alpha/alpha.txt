@@ -12854,7 +12854,7 @@ abjunction
 apinch 1
 angiotripsy
 angiotrophic 1
-antiepicenter 1
+antiepicenter 2
 angiport
 autoinductive
 ammoniticone
