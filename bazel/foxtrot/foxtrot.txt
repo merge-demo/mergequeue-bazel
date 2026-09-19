@@ -5921,7 +5921,7 @@ forjesket 2
 frostbites 2
 flogs 1
 fermis 2
-foeticidal
+foeticidal 1
 fluviovolcanic 2
 flybane 2
 foveola 3
