@@ -5859,7 +5859,7 @@ deprecable 1
 deprecating 1
 doorbrand
 desolations
-diachoresis 1
+diachoresis 2
 domal
 demeaning 2
 disconcert 1
