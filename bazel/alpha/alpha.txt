@@ -15839,7 +15839,7 @@ antithrombin
 alert
 antipyretics 1
 antipyrin 1
-accustomedness
+accustomedness 1
 alinota
 antipyrine
 annuli 2
