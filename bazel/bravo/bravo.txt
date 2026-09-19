@@ -11629,7 +11629,7 @@ barspoon 2
 boatbuilding
 boathook 1
 boathouse
-backbends 1
+backbends 2
 boffos 3
 blacketeer
 baccare 1
