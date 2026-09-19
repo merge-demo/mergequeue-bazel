@@ -21578,7 +21578,7 @@ cosounding 1
 cobbly
 cathedrallike 3
 concussions 1
-concussive
+concussive 1
 concutient
 crepitacula
 condemn 1
