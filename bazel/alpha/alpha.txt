@@ -3275,7 +3275,7 @@ acutances
 anisoptera
 adornos 1
 acute
-acutely
+acutely 1
 ascomycetal 1
 acutest 2
 authorcraft
