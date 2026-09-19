@@ -3370,7 +3370,7 @@ capote 1
 cyclohexene 1
 capouches
 cappadocian
-crypted
+crypted 1
 capparid
 capparis
 capped 1
