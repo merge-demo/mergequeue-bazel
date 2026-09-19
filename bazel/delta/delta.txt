@@ -8897,7 +8897,7 @@ decaisnea 2
 dice 1
 diceboard 1
 dazzles
-dilemi 1
+dilemi 2
 daunomycin
 disbud 2
 dicentras
