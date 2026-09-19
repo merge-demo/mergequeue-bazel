@@ -11344,7 +11344,7 @@ capman
 chloromycetin
 curbed
 chiasmatype 1
-chloronitrate
+chloronitrate 1
 cruche
 colonizer
 chloropalladates 1
