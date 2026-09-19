@@ -2290,7 +2290,7 @@ enchantments 3
 exormia
 enbloc 1
 endolymph 1
-excretal
+excretal 1
 eger 3
 encased 2
 egest

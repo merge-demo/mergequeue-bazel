@@ -637,7 +637,7 @@ butting
 bendable 1
 barfing 2
 bellwethers 2
-butchering
+butchering 1
 boozed 2
 bullnecks 4
 biramous 4
