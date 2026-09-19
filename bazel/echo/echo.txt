@@ -13919,7 +13919,7 @@ electee 3
 empathy 3
 epimerizing 4
 exorcized 3
-errordump
+errordump 1
 euphoniousness 3
 emigrative 1
 extramusical
