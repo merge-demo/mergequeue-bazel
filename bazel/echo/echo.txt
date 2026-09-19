@@ -8577,7 +8577,7 @@ equate 1
 eburnification 4
 enharmonic 3
 earnings
-equibalanced
+equibalanced 1
 electrodialitic 1
 equicohesive
 equicontinuous 1
