@@ -4411,7 +4411,7 @@ besieged
 balm 1
 brandering 3
 budapest 1
-balantidiosis 3
+balantidiosis 4
 barrators 1
 bitstone 3
 bkcy 3
