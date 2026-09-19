@@ -7894,7 +7894,7 @@ dewdrop 3
 dewdropper
 dogteeth
 drillet 3
-dooryard
+dooryard 1
 dewflower
 distantly
 doxographer
