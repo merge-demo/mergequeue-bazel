@@ -4919,7 +4919,7 @@ entablements
 excisions
 ef 1
 encumbrance 2
-extrabureau 1
+extrabureau 2
 english 3
 erythroneocytosis 1
 evolves 1
