@@ -15496,7 +15496,7 @@ competitioner 1
 constrainable 1
 chirotonsor
 clarre
-clarseach
+clarseach 1
 corrodes 1
 clarsech
 clarseth 1
