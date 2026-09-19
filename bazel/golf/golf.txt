@@ -1477,7 +1477,7 @@ gastric 3
 gisarme 1
 growly 1
 greta 2
-gasolier
+gasolier 1
 ghostology
 granolith 3
 gaseousness
