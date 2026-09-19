@@ -7326,7 +7326,7 @@ coudee 2
 cephalaspis
 condurrite 1
 cephalate 1
-cephalhematoma
+cephalhematoma 1
 coracovertebral 4
 cephalic 2
 chequering
