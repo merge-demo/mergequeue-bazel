@@ -1310,7 +1310,7 @@ exumbrellar 2
 effect
 endocardiac
 exopeptidase 3
-effective 2
+effective 3
 euryphagous
 epimachinae
 entomologists
