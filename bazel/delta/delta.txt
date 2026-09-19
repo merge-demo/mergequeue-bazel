@@ -10447,7 +10447,7 @@ disfigurative 2
 deticking
 diphenoxylate 1
 diphysite 2
-dosimeters
+dosimeters 1
 damask
 discolith
 devinct
