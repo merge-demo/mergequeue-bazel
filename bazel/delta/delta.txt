@@ -17138,7 +17138,7 @@ dero
 decuries 1
 decine 1
 dipygi
-devarshi
+devarshi 1
 drilling 3
 dystonia 2
 drillman 1
