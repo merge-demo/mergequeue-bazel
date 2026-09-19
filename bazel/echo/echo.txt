@@ -1059,7 +1059,7 @@ eagerly 1
 exsheath 3
 edged 1
 eidolon 2
-edger 2
+edger 3
 edgeshot 2
 edgeway
 embalmment
