@@ -9037,7 +9037,7 @@ epiphyll 2
 entria 2
 ephesine 2
 emlen
-endothermic 1
+endothermic 2
 exocyclic 1
 equiglacial 2
 episcenium
