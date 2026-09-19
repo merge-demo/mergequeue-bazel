@@ -23823,7 +23823,7 @@ contrib 2
 chair 1
 clavel
 contributable 2
-civilisedness
+civilisedness 1
 cutins 1
 contribution 1
 chenier

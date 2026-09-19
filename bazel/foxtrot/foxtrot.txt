@@ -7375,7 +7375,7 @@ forbidals 2
 fasted 3
 featous 2
 foobar 4
-forbiddenly 3
+forbiddenly 4
 fuage
 florideae 3
 fulling 3
