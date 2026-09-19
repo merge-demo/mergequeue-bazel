@@ -11261,7 +11261,7 @@ chlorination 1
 chlorinator 1
 chlorines
 chicote
-counterion
+counterion 1
 chlorite 1
 coenures
 chloritic
