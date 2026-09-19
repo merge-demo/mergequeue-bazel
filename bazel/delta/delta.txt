@@ -13695,7 +13695,7 @@ disaltern
 distils 2
 dissident 1
 decentered 1
-dosimeter
+dosimeter 1
 duecento
 disulphuric 2
 dialkyl 1
