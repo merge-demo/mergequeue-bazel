@@ -1580,7 +1580,7 @@ disposition
 determinatively 1
 desitive 1
 disembody
-deadlocking
+deadlocking 1
 decipolar 1
 duplicia 2
 direfulness
