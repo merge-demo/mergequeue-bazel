@@ -2980,7 +2980,7 @@ diaphanotype 2
 describers
 decemfid 1
 deductio 2
-deductions 1
+deductions 2
 dwarfism 3
 distrainment 1
 deductive 2
