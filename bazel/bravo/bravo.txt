@@ -3546,7 +3546,7 @@ baroscopic 1
 binode
 blonds 2
 bathylithic
-bipinnaria
+bipinnaria 1
 bathymetry 1
 bathymetrical 2
 biggonet 1
