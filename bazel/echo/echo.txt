@@ -9494,7 +9494,7 @@ enarch 1
 escout
 enstore 1
 equipondious
-escry 1
+escry 2
 escribientes 2
 escrime 2
 eschatologically 2
