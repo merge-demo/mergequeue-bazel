@@ -8988,7 +8988,7 @@ brender
 bremsstrahlung 1
 bacterioagglutinin 3
 biomathematics
-bets 2
+bets 3
 byp 2
 biomechanical
 begrims 1
