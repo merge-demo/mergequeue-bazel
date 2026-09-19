@@ -6904,7 +6904,7 @@ dovetailer
 darkness 2
 dryhouse 1
 didymium
-dependents 1
+dependents 2
 dognap 1
 discolors 1
 dahabiyeh
