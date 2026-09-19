@@ -12688,7 +12688,7 @@ exonerate
 exonerating 1
 ephemerous 1
 encephalotomies 2
-euclase
+euclase 1
 episcopicide 1
 essays
 eunicidae
