@@ -23096,7 +23096,7 @@ cowgate 1
 chkalik 1
 clysmian
 corymbs
-constablewick
+constablewick 1
 constabular
 constabularies
 comminute 2
