@@ -23361,7 +23361,7 @@ computation
 cuculi
 cumulating
 colibert
-cleistothecium
+cleistothecium 1
 contagions 3
 contagiosity 1
 contagiousness
