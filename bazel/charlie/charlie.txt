@@ -27109,7 +27109,7 @@ countersense 2
 countershade
 clione 1
 chasms
-clinologic
+clinologic 1
 configurable 2
 countershine 2
 chemosorptive 1
