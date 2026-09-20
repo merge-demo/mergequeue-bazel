@@ -9566,7 +9566,7 @@ capacitively
 checkweighmen
 closeted 3
 checkwork 1
-cosmologist
+cosmologist 1
 checkwriter
 concurrence
 cascading
