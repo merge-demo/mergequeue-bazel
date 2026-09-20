@@ -31720,7 +31720,7 @@ cond
 cusser 1
 caselessly
 ciselures
-cusses
+cusses 1
 comrades
 castilian 1
 crooken
