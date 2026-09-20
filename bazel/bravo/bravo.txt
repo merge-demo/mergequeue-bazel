@@ -12865,7 +12865,7 @@ bifoil 1
 birthplace 1
 bg 2
 bacchiac
-bangster
+bangster 1
 bkpt 4
 burk
 basihyoid 2
