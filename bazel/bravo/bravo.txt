@@ -1046,7 +1046,7 @@ blockhead
 brachycephalization 3
 brasswork 6
 bailiwicks 2
-bolete 1
+bolete 2
 babyhouse 1
 becost
 blousier 1
