@@ -15294,7 +15294,7 @@ antigravitational
 angiemphraxis 1
 automobiling 2
 antigravity 3
-antigrowth
+antigrowth 1
 affectible
 anatomizes 2
 aminosis
