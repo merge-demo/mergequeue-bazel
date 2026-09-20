@@ -4723,7 +4723,7 @@ deflexionize
 disputatively 1
 datatypes
 dunt 2
-desperateness
+desperateness 1
 disnaturalize
 dolente 2
 diamondwise 1
