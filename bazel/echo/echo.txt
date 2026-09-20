@@ -11093,7 +11093,7 @@ epiglottal 1
 extravasation 1
 endosporium 2
 eurytus
-engagedness
+engagedness 1
 enlisted 1
 electrocapillary
 evangelisation 3
