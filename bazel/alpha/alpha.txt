@@ -620,7 +620,7 @@ accommodation 5
 accountment 1
 abolish 1
 autovaccine
-abolished
+abolished 1
 aves 1
 acacetin 1
 amatols 1
