@@ -4060,7 +4060,7 @@ domicil
 dismissible 1
 delicatessen
 dynam
-dustoor
+dustoor 1
 dominance 1
 delice 1
 dualistic 1
