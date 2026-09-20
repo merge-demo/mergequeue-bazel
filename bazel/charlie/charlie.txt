@@ -19066,7 +19066,7 @@ colligate 1
 colligating
 cookbook
 cecropia 2
-commutual
+commutual 1
 colligative 2
 carmela
 collimate 1
