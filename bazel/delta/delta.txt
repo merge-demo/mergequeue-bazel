@@ -10444,7 +10444,7 @@ diphenyls 1
 dispowder
 doglegging
 disfigurative 2
-deticking
+deticking 1
 diphenoxylate 1
 diphysite 2
 dosimeters
