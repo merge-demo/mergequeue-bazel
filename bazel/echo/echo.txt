@@ -8623,7 +8623,7 @@ electrodynamometer 2
 elinguating 1
 ectal 3
 equilibrates 3
-exonerators
+exonerators 1
 ethylamide
 egol 2
 equilibria 2
