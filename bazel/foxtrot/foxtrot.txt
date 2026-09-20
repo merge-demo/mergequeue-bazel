@@ -2280,7 +2280,7 @@ fulmineous
 fragging 1
 fluorocarbons 3
 fibrochondrosteal
-floored
+floored 1
 fends 1
 filator 3
 fraudlessly
