@@ -11069,7 +11069,7 @@ chitimacha 2
 chitimachan
 checksums 2
 coappears
-chitinoid
+chitinoid 1
 chitinous
 chitins
 chitlin 1
