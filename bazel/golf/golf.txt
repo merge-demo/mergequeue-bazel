@@ -6796,7 +6796,7 @@ gyrostatics 2
 genal 2
 genros 2
 gondola 1
-goniums 1
+goniums 2
 glanis 3
 garbleable 7
 gradate
