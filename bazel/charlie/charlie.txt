@@ -10061,7 +10061,7 @@ coxocerite 1
 cyclogram 2
 cheskey 1
 campine
-cheslep
+cheslep 1
 coleochaete
 crestings 1
 clothesbrush
