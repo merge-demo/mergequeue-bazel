@@ -18248,7 +18248,7 @@ classico
 coffeepots 2
 colloidize
 coffeeroom
-coffees 1
+coffees 2
 counterview
 continuant
 coffeetime 2
