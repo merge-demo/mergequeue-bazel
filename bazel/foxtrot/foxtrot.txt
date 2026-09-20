@@ -10114,7 +10114,7 @@ flatwashes
 fleshment 2
 frithstool 2
 fritniency 4
-fare
+fare 1
 foreknee 3
 fe 1
 feckly 2
