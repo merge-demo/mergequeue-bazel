@@ -6373,7 +6373,7 @@ agriculturist 3
 aftergood
 anticreep 1
 agrilus
-aureola
+aureola 1
 adultress 1
 abohms 1
 agrimony
