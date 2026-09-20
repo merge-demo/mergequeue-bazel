@@ -6891,7 +6891,7 @@ consortiums
 celtis 1
 celtish
 celtism
-celtium
+celtium 1
 cotyla
 clockroom 2
 contingencies
