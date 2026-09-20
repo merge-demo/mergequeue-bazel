@@ -11385,7 +11385,7 @@ autocephaly 1
 absorptance
 aiguiere 1
 amplication
-amplicative
+amplicative 1
 autoelectrolytic
 amplificate
 aftercause 1
