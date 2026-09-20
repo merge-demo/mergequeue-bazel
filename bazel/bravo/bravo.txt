@@ -6643,7 +6643,7 @@ boneshave 1
 bodegon 3
 beribanded 1
 birdy 1
-bargeboard 2
+bargeboard 3
 barbarious 1
 beriberis 1
 bevesseled
