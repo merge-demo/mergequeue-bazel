@@ -16143,7 +16143,7 @@ dout 1
 desorbing
 decrypted
 dualist 2
-douziemes 1
+douziemes 2
 dysmeromorphic 2
 dovecot 2
 dhows 1
