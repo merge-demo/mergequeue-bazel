@@ -10747,7 +10747,7 @@ dun 2
 delocalisation 2
 donship 4
 disarranged
-disinfects
+disinfects 1
 dhoon 1
 decessor 1
 dipsie
