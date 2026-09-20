@@ -1420,7 +1420,7 @@ fishway 2
 fountainlet 4
 focometry 3
 fallibly 1
-firewood
+firewood 1
 futchell 3
 forbar 2
 ferreted 3
