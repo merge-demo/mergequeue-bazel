@@ -6743,7 +6743,7 @@ goniocraniometry 2
 grouters 3
 gaveller 2
 goniodoridae 4
-gnotobiote
+gnotobiote 1
 granitized 4
 gametophore 3
 gagging 2
