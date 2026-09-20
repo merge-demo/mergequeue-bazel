@@ -5924,7 +5924,7 @@ brandenburgs 2
 biggety
 buffaloes 2
 beltane
-belauding
+belauding 1
 bimetalic 4
 belter
 bufagin
