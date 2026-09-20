@@ -13433,7 +13433,7 @@ dingbat 2
 dropshot 2
 dramatise
 dialogging
-domic
+domic 1
 disreport 2
 disreputability 2
 desolater 1
