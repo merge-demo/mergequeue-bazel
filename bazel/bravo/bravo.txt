@@ -5483,7 +5483,7 @@ broken 1
 brouze
 bey 1
 bindi
-boxed
+boxed 1
 bardic 1
 byliny
 bootyless 1
