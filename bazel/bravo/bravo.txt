@@ -1813,7 +1813,7 @@ bialystoker 2
 bandaged 1
 bandaging
 berylloid 3
-bowlin
+bowlin 1
 bushranging 1
 bandala 2
 buggery
