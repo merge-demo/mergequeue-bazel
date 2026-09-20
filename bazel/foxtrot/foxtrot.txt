@@ -7607,7 +7607,7 @@ forril 3
 festino 1
 fatalize 1
 farrier 3
-fossula 2
+fossula 3
 felty 1
 ferroglass
 fastly 2
