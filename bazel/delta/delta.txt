@@ -2483,7 +2483,7 @@ delays 3
 dixy 5
 decisively 1
 darkened 1
-decitizenize 1
+decitizenize 2
 decivilize
 dateline 2
 deckel
