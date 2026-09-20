@@ -2710,7 +2710,7 @@ demitrain
 deconsideration 2
 decontaminating
 diatessaron
-dortiness 1
+dortiness 2
 dejectly
 decontaminators 1
 depressionary 2
