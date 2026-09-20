@@ -17953,7 +17953,7 @@ cookshack
 colics 2
 cattlehide
 coelenterate 2
-catharses
+catharses 1
 crotin
 coelenterates 1
 coelenteric
