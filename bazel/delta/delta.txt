@@ -8617,7 +8617,7 @@ dyarchy 3
 deadbeat 3
 dehydrant
 drainless
-duckhouse
+duckhouse 1
 dyarchies 2
 disjunctor 3
 davis
