@@ -5329,7 +5329,7 @@ fumarole 3
 feasts 1
 filial 1
 fant 2
-forcepslike
+forcepslike 1
 foulmouthedly
 fiddlebrained
 flimflam
