@@ -9766,7 +9766,7 @@ easterner 3
 exigencies 1
 expeditation 2
 easinesses 1
-eightballs
+eightballs 1
 eumelanin
 enneagon
 empoisoner
