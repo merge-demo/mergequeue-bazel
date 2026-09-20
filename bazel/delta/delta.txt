@@ -6319,7 +6319,7 @@ dephlegmatory 4
 dermenchysis 1
 delacrimation 2
 dermestid 2
-dermatoneural
+dermatoneural 1
 dextrogyration 2
 deject
 debit
