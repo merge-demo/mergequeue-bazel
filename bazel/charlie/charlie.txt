@@ -15660,7 +15660,7 @@ clausula
 chiffonnier 1
 chiasmodontid
 cirrigrade
-clausule
+clausule 1
 cheekily 1
 clausure
 claut
