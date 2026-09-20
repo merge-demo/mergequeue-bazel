@@ -2759,7 +2759,7 @@ festerment 2
 footway
 feis 1
 flanges
-fortescure
+fortescure 1
 fascisms 2
 ferrimagnet 1
 festy 2
