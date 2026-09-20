@@ -6983,7 +6983,7 @@ bactris
 bankfull
 besmooth
 besmooths 3
-betrust 3
+betrust 4
 bleeders 1
 barricades 2
 basilian 1
