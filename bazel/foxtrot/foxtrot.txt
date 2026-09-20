@@ -5737,7 +5737,7 @@ frontlessly 3
 favorers 2
 fathoms 2
 furnage 2
-fungistatic
+fungistatic 1
 frequentation 1
 fractuosity 1
 fels 3
