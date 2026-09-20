@@ -21967,7 +21967,7 @@ configuration
 configurationally 1
 configurations
 configurative 1
-configure 1
+configure 2
 configures 1
 coxcombry 1
 confinable
