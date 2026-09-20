@@ -19295,7 +19295,7 @@ colonies 4
 colonisability
 colonisable
 communication
-clinid 1
+clinid 2
 consumingness
 colonisationist 1
 colonised
