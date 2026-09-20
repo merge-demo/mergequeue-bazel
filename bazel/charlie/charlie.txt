@@ -27475,7 +27475,7 @@ coaeval 2
 cuprous
 couxia 1
 citrous 2
-chronicity
+chronicity 1
 covalences
 covalency 2
 carpoptosis
