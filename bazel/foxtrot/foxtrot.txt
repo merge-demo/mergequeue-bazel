@@ -10393,7 +10393,7 @@ fusoid 3
 flags 3
 fitche 3
 footer 2
-fraggings 1
+fraggings 2
 filigree 3
 flow 1
 fictility
