@@ -800,7 +800,7 @@ enter 1
 euplotid
 existability 2
 extravisceral
-evincibly
+evincibly 1
 eggment 1
 electrophotography
 ectasis 1
