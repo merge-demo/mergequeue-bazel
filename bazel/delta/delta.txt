@@ -15057,7 +15057,7 @@ demulsify 2
 diskery 1
 desmic 2
 delightable 2
-dimply
+dimply 1
 doggish 3
 doggishness 2
 doggle
