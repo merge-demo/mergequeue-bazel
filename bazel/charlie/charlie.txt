@@ -31565,7 +31565,7 @@ cowlicks
 cauliflower
 cortine
 curtainless
-curtainwise
+curtainwise 1
 curtays 2
 cleistogene
 conchologically
