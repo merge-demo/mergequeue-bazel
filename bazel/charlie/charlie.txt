@@ -15180,7 +15180,7 @@ consumables 2
 cacothelin
 claimers 2
 claymore 1
-claims 1
+claims 2
 covenable
 claypans 1
 clair
