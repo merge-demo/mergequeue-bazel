@@ -17363,7 +17363,7 @@ cutleress
 channeled 1
 condensible 1
 churchmaster
-coastward
+coastward 1
 coatdress
 coated 2
 commensurations
