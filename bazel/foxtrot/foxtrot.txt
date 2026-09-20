@@ -3711,7 +3711,7 @@ fathead 4
 firesider 1
 franchisal 3
 flannelboard 1
-folder
+folder 1
 fillable 2
 frownless 2
 fiercen 3
