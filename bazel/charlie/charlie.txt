@@ -27976,7 +27976,7 @@ craftsmaster
 cistophori
 craftspeople
 concubinaries
-cheeriness
+cheeriness 1
 craftwork
 cottoner 1
 craftworker
