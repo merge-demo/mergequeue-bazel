@@ -1243,7 +1243,7 @@ groups 3
 goodship 3
 galligaskin 2
 groff 2
-gonorrhea
+gonorrhea 1
 gravures 2
 grogged 2
 galactostasis 3
