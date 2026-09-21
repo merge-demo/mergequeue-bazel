@@ -7618,7 +7618,7 @@ borne
 butanones 1
 bugseed 1
 beworries 2
-biophor
+biophor 1
 beworship
 bedare 1
 bonaught 1
