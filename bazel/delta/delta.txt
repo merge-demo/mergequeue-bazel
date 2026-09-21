@@ -9889,7 +9889,7 @@ decolonising
 daturic 3
 deuteronomist
 dimeride
-dampproofer
+dampproofer 1
 diosgenin 4
 dumba
 dynamic
