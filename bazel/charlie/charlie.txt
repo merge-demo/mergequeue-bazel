@@ -2063,7 +2063,7 @@ camouflagers 1
 camouflagic 1
 coincidence 2
 companionship 1
-cruddle
+cruddle 1
 camouflaging
 combats
 chandlery
