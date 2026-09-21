@@ -1311,7 +1311,7 @@ effect
 endocardiac
 exopeptidase 3
 effective 2
-euryphagous
+euryphagous 1
 epimachinae
 entomologists
 extrapolating 2
