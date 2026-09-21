@@ -28623,7 +28623,7 @@ crossbowmen
 coccogonium 2
 condisciple
 chally 1
-catechus
+catechus 1
 cremation 2
 cremationism
 cremationist
