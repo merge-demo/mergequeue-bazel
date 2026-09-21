@@ -1039,7 +1039,7 @@ boyaus 1
 basanite
 bersil 1
 boroughmaster
-bailiwick 1
+bailiwick 2
 bridler 1
 benzothiopyran
 blockhead
