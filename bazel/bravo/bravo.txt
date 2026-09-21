@@ -16140,7 +16140,7 @@ blotting 1
 broomstraw 2
 bonelessness
 befret
-billowing
+billowing 1
 botryomycotic
 banning
 blesbok
