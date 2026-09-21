@@ -8033,7 +8033,7 @@ flutterer 1
 fundraise 4
 fitment 3
 fimble
-faroese
+faroese 1
 footstools 2
 felsites 2
 ferroalloy 1
