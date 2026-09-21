@@ -11806,7 +11806,7 @@ chatelet 1
 catamountain
 chazzen
 cycloidal
-coaster
+coaster 1
 copaljocote 1
 choosers
 choosier 1
