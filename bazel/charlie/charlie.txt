@@ -10075,7 +10075,7 @@ chipchap
 chessdom 1
 chesser 2
 cabinda
-chesses
+chesses 1
 chessylite 1
 chessist
 chirimen 1
