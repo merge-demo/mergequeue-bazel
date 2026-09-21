@@ -11095,7 +11095,7 @@ dirt 2
 denitrified 1
 deink
 dandyling 2
-decentness
+decentness 1
 dundreary 1
 disarmed
 drollness 3
