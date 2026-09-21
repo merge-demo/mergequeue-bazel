@@ -7023,7 +7023,7 @@ deterrents
 deface
 despondence 3
 despondencies 1
-despondentness
+despondentness 1
 desponder
 despondingly 1
 desponds
