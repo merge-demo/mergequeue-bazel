@@ -9161,7 +9161,7 @@ ernes 2
 erode 1
 eosinophilic
 erodent
-extradite
+extradite 1
 eirenic 3
 essenic 3
 erodes 1
