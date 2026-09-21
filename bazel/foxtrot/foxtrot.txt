@@ -6435,7 +6435,7 @@ frogeye 4
 fluoaluminate 2
 fainted 2
 frictionable
-flatcap
+flatcap 1
 fairs 1
 fibrinolysis
 fungi 1
