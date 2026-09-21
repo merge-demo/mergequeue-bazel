@@ -18882,7 +18882,7 @@ chancelor 1
 colossus
 cestoid 1
 colistin 2
-coypou
+coypou 1
 colitic 1
 colitises
 colyum
