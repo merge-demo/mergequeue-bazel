@@ -8678,7 +8678,7 @@ alleleu
 allelic 1
 allelism 1
 axonemal
-argyrite
+argyrite 1
 almes
 alternationist
 allelomorphic 1
