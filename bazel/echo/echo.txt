@@ -10830,7 +10830,7 @@ eupatrids 1
 eluent
 exemplars 1
 enoptromancy 1
-explodes
+explodes 1
 engine
 electrocuting 1
 execrates 1
