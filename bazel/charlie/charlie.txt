@@ -11688,7 +11688,7 @@ chervils
 castane
 cushier 1
 cholos
-choloscopy
+choloscopy 1
 cholterheaded 1
 choltry
 chirrups
