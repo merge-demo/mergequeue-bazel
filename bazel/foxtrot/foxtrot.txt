@@ -6282,7 +6282,7 @@ fakirism 1
 forceful 2
 fluidounce 4
 factory
-fluigram 1
+fluigram 2
 filestatus 5
 forepoling 1
 frankincensed 4
