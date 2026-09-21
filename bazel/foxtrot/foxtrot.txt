@@ -6234,7 +6234,7 @@ ferrimagnetic 2
 fractionating 2
 fluffiness 2
 flexography 1
-flugel
+flugel 1
 frettingly
 foreleg 3
 flatlet 2
