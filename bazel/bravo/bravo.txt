@@ -3662,7 +3662,7 @@ besetting 3
 benzophenol 3
 bardolater 1
 bangia 5
-bottomchrome 1
+bottomchrome 2
 bunsen
 books 1
 batsmen 2
