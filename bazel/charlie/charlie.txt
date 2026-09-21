@@ -14420,7 +14420,7 @@ cirri 2
 cogit 1
 cirribranch 2
 cirriferous
-colonialism
+colonialism 1
 courtezan 2
 confidentially
 cirriped 1
