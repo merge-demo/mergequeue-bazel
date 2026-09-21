@@ -242,7 +242,7 @@ aeroliths 2
 absorptiometric 1
 abbott
 adenomyxoma
-actable
+actable 1
 aselline
 apostate
 abraded 2
