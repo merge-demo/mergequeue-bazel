@@ -13716,7 +13716,7 @@ diphosgene 2
 disturbation
 discoids
 defends 1
-doorplate 1
+doorplate 2
 divalent 1
 dejecta 1
 demulsion 1
