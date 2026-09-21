@@ -15306,7 +15306,7 @@ antiharmonist
 antihelix 2
 agrypniai 2
 aitiotropic
-archeol
+archeol 1
 anthracite
 adapters 1
 amperages 1
