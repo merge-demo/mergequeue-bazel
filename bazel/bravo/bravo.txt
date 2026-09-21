@@ -1963,7 +1963,7 @@ bulbous 4
 bombard 1
 ballocks 2
 basilicas
-bangkok
+bangkok 1
 bacteriogenous 1
 bangladesh 3
 bespatters 2
