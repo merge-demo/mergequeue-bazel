@@ -5266,7 +5266,7 @@ caveats
 cerin 1
 cassegrain 2
 clavierists 1
-chromomeric
+chromomeric 1
 cassegrainian
 casseroling 1
 carinule 1
