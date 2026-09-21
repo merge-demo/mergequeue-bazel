@@ -29763,7 +29763,7 @@ centrodorsally
 crookedest 1
 commons
 crookedly
-crookedness
+crookedness 1
 crookery
 crookesite 2
 crookheaded 2
