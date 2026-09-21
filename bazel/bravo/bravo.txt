@@ -1148,7 +1148,7 @@ ballasting
 balladized 3
 baiza
 baizas
-bespin
+bespin 1
 beseech
 bajardo 1
 birrs 2
