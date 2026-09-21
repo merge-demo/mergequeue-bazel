@@ -6284,7 +6284,7 @@ fluidounce 4
 factory
 fluigram 1
 filestatus 5
-forepoling 1
+forepoling 2
 frankincensed 4
 flybelts 2
 fornicators 2
