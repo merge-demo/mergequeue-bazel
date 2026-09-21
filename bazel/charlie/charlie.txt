@@ -729,7 +729,7 @@ cabooses 1
 cage 1
 caged 1
 commiserated
-contractual
+contractual 1
 cageful 1
 cagefuls 2
 cerebripetal
