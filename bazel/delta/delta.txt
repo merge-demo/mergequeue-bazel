@@ -12607,7 +12607,7 @@ downmost 1
 dragoness
 dechenite 1
 disintoxication 1
-dankness
+dankness 1
 daud 3
 dysyntribite 1
 driftfish
