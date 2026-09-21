@@ -9454,7 +9454,7 @@ guardfish
 glassophone 2
 groundskeeping 4
 greenhood 1
-garfield 4
+garfield 5
 gastrulate 4
 grocerly 2
 garad
