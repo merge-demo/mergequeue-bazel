@@ -4127,7 +4127,7 @@ gargoyle
 glosts 1
 genetor
 grimoire 2
-geoglossum 1
+geoglossum 2
 gyropilot 5
 galaxiidae 1
 gemological 1
