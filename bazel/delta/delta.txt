@@ -312,7 +312,7 @@ devchar
 disembowelment 1
 disgruntling 1
 dissuasiveness 2
-dollfaced
+dollfaced 1
 daybill 1
 downcomer 1
 disinteress 1
