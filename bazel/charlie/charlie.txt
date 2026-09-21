@@ -20927,7 +20927,7 @@ cathetometric
 compressive 1
 chasubles
 compressively
-compressometer
+compressometer 1
 compressors
 comprest
 collating
