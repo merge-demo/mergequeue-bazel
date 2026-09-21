@@ -25016,7 +25016,7 @@ astrological 1
 attach 3
 acampsia
 autantitypy 1
-astrometer
+astrometer 1
 attentionality 1
 awkwarder
 awless
