@@ -5040,7 +5040,7 @@ ferries 2
 fizz 1
 forekeel
 faithbreaker 1
-faconne
+faconne 1
 fulmarus 3
 flapdock 2
 fluvialist 3
