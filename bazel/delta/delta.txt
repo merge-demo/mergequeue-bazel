@@ -4779,7 +4779,7 @@ darwin
 dangs 2
 dpt
 dilated 1
-detours
+detours 1
 dismisser
 demodulating 3
 designless
