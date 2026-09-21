@@ -8866,7 +8866,7 @@ defiguration 3
 dozinesses
 draglines
 dropperful
-dovens 4
+dovens 5
 dibstone
 degustation
 doziness 2
