@@ -18101,7 +18101,7 @@ artocarpus
 attesters
 apus 1
 akinesis
-ambulia
+ambulia 1
 antechoir
 articulationes
 analogising
