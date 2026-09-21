@@ -16687,7 +16687,7 @@ clothesyard
 codesign 1
 clamberer
 cirrus 2
-clotheslines
+clotheslines 1
 clothesman
 crypts
 cheerful
