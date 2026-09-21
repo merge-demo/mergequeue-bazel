@@ -3307,7 +3307,7 @@ combatter
 capnodium 1
 capnoides
 clipping
-creaker
+creaker 1
 colonizes
 capnomancy 1
 capnomor
