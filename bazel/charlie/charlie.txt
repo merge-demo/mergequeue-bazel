@@ -156,7 +156,7 @@ cablelike 1
 cerberic 1
 chryseis 1
 casterless 1
-cables
+cables 1
 changeabout
 cablese 1
 cablet 1
