@@ -5185,7 +5185,7 @@ downstater 2
 decarburation
 denierer 1
 denigrates
-dipolarize
+dipolarize 1
 denigrator 1
 dietine 1
 desulphurizing
