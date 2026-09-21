@@ -7092,7 +7092,7 @@ fusional 3
 fingerstall 1
 forgeability 1
 fungicide 2
-foolproof 1
+foolproof 2
 foolproofness 2
 ferret 1
 fibulare 1
