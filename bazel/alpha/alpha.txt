@@ -11258,7 +11258,7 @@ antistalling
 amphiplatyan
 acknowledge 1
 amphiploidy
-ascicidia
+ascicidia 1
 apili 1
 ains
 ameen 1
