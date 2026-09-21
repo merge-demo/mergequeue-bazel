@@ -15985,7 +15985,7 @@ cerecloths 1
 clerkliness
 chlorocarbon
 clerkship
-clerkships
+clerkships 1
 ceticide 1
 comrado
 conglutin
