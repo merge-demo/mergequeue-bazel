@@ -15989,7 +15989,7 @@ acubens 1
 arecolidine 2
 albumenise
 asterwort
-autophonous
+autophonous 1
 aromatiser 2
 advisable 1
 arariba
