@@ -2238,7 +2238,7 @@ diocesan 1
 droschken 1
 derrire
 dosages
-dispensate
+dispensate 1
 drongo 1
 drivescrew 2
 drch
