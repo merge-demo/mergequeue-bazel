@@ -387,7 +387,7 @@ daimyos 1
 drinkers 1
 daimiote 3
 defension 1
-deployable 1
+deployable 2
 disembargoing 1
 dimmet
 daimons 1
