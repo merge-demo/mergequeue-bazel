@@ -5252,7 +5252,7 @@ disputativeness
 dynamogenously 1
 devalued 1
 denouncement 2
-denouncements
+denouncements 1
 digladiate
 deprehensible 4
 denouncer
