@@ -8235,7 +8235,7 @@ cellulomonas
 causewayed 1
 chalazoidite 1
 cercarias
-chalazoin
+chalazoin 1
 candytuft
 charvet
 chalcanth
