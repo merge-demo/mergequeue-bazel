@@ -607,7 +607,7 @@ galactose
 galbulinae 1
 guaranian 1
 glockenspiels 2
-glossopalatine
+glossopalatine 1
 grieben 1
 guineas 3
 gorgoniacea 7
