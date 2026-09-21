@@ -14569,7 +14569,7 @@ curtailment
 cryptorchid 1
 catholicism 1
 cystidium
-candescent 1
+candescent 2
 cenobite
 cyath
 cystiform
