@@ -23541,7 +23541,7 @@ cloky 3
 corycavidin
 californite
 contignation
-contiguity
+contiguity 1
 circumferent 2
 continentalize
 continentals
