@@ -457,7 +457,7 @@ civilisable 2
 chancered
 cactuslike
 cassavas 1
-cartages
+cartages 1
 catheretic 1
 cancelable
 cacumination 2
