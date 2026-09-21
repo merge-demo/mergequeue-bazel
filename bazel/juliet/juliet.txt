@@ -12420,7 +12420,7 @@ juocgdbnz 2
 juochwips 1
 juocqb 1
 juocvpolu 4
-juodjtnpn 2
+juodjtnpn 3
 juodyz 2
 juoeccy 1
 juoed
