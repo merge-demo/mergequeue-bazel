@@ -13519,7 +13519,7 @@ error 2
 embowels 1
 eccles 2
 eumolpides
-externomedian
+externomedian 1
 evillest 2
 exscinds 3
 entailers 4
