@@ -5709,7 +5709,7 @@ gomavel 1
 glossies 1
 glossiest 3
 gybed
-glossinas 2
+glossinas 3
 gertrude 3
 glowbard 2
 gurneyite 4
