@@ -14141,7 +14141,7 @@ anteoccupation 2
 anteocular
 anteorbital 1
 augustinian 2
-animalize
+animalize 1
 antibodies
 amphivorous 1
 auriga 1
