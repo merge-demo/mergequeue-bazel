@@ -9825,7 +9825,7 @@ dinosaur 1
 dolphinfishes 2
 dilutedly 1
 duresses
-dilutely
+dilutely 1
 draffish
 diagonality 1
 darting 2
