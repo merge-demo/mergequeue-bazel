@@ -20482,7 +20482,7 @@ compartments 1
 chapin 2
 celticist 1
 compass
-compassability 1
+compassability 2
 compassable
 compassed
 cotham 1
