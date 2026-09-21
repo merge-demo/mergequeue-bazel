@@ -3145,7 +3145,7 @@ eloigned 1
 eleometer 4
 euphonetic 1
 emissive 1
-empanelled
+empanelled 1
 endoscopy
 earthsmoke
 eloigning
