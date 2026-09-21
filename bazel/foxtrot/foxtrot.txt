@@ -4832,7 +4832,7 @@ faunus 1
 fishberries 1
 firepower 2
 flinthead 1
-fleay 1
+fleay 2
 fainer 2
 foil 2
 finlet
