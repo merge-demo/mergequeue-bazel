@@ -8305,7 +8305,7 @@ complexity
 carbure
 corallet
 choyroot 1
-chalinitis
+chalinitis 1
 chalkboard 2
 chalked
 chalky
