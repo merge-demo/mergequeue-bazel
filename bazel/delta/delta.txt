@@ -8000,7 +8000,7 @@ dextrousness
 dispergating 1
 duodecuple
 dataset
-disallowance
+disallowance 1
 dismembered
 dragading
 doxology
