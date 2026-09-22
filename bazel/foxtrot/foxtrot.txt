@@ -4299,7 +4299,7 @@ fiancee 1
 follicule 2
 fibster 2
 fenland 3
-fungology
+fungology 1
 firmarii
 furmeties 1
 flunkeys 3
