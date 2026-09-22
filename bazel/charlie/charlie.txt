@@ -24345,7 +24345,7 @@ cookshop 1
 cookshops 4
 chiliasms 2
 cards
-cookstove 1
+cookstove 2
 colligible
 contumacies
 coreveler
