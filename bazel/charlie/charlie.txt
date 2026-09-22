@@ -17454,7 +17454,7 @@ cobbled
 commixes 2
 cobblerfish
 cobblerism
-cobblers
+cobblers 1
 cobblership 1
 cobbles 2
 cobblestone
