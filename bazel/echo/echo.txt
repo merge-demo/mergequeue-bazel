@@ -5254,7 +5254,7 @@ etiotropically
 endopathic 4
 endopelvic 1
 encyclopaedist 1
-endoperidium
+endoperidium 1
 epoptes 4
 endophagous 2
 ephebeion 2
