@@ -5069,7 +5069,7 @@ bilingual 3
 balefire
 biocatalyst 1
 basenet 2
-befezzed
+befezzed 1
 broiderer
 befile 2
 bebathe 1
