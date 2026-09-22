@@ -4761,7 +4761,7 @@ attemperation 3
 aequor
 altitudes 2
 aequorins
-aerate
+aerate 1
 ablactating 1
 aerating 1
 adroop
