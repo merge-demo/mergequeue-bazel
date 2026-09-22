@@ -19974,7 +19974,7 @@ armplate
 agamas 3
 angkhak 1
 azans 1
-aborsement 1
+aborsement 2
 afterclap
 armseye 1
 actuators
