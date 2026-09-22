@@ -2341,7 +2341,7 @@ feoffs 1
 fasciole 2
 fra 1
 fiftyfold 2
-footstalk
+footstalk 1
 formalizing 3
 fer 2
 firecoat 1
