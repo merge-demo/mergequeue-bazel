@@ -1366,7 +1366,7 @@ ebcdic 1
 excludability 1
 earlocks
 ethylated 1
-enopla 1
+enopla 2
 exemplupla 1
 eucalyptol
 echelon 2
