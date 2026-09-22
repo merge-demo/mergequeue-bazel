@@ -6987,7 +6987,7 @@ dinoflagellate 2
 docility 1
 drags 4
 dumbfoundment
-despitefully
+despitefully 1
 desalinizes 2
 despitefulness
 disray
