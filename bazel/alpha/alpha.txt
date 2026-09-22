@@ -1449,7 +1449,7 @@ acclimatement
 attires 1
 alewhap
 acclimates
-acclimatisation
+acclimatisation 1
 affixable
 archaisms
 amortize 1
