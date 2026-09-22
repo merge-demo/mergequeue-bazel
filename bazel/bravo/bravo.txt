@@ -1511,7 +1511,7 @@ batterdock 2
 ballads 2
 balete 2
 baralipton 1
-bloodmonger
+bloodmonger 1
 blackware
 ballas 1
 baronetised 4
