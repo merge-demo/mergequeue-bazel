@@ -10476,7 +10476,7 @@ diphtheric 1
 denticeti
 diphtheritically
 disarraying 3
-dourly
+dourly 1
 dishonesties 1
 diphthongally 2
 disenable 2
