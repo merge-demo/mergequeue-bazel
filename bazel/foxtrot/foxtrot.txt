@@ -10259,7 +10259,7 @@ felstone 4
 fluidglycerate 2
 franklinism 2
 forensics 2
-fostership
+fostership 1
 fistulatome 1
 flutier 2
 fasher 3
