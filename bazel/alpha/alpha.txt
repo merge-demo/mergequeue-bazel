@@ -7673,7 +7673,7 @@ abbrev 2
 alcoholemia
 alcoholically 2
 appetition 1
-anaudia 3
+anaudia 4
 appendicocaecostomy 2
 antonymic
 autoprothesis 3
