@@ -19935,7 +19935,7 @@ corolitic 2
 commandingly 3
 commandingness 1
 commandite
-commandless
+commandless 1
 cruentate 1
 cyp
 coruler
