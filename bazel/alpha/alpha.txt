@@ -22389,7 +22389,7 @@ ans
 armourers
 anteriorness 2
 astrogony 2
-aspartyl
+aspartyl 1
 abohm 1
 autoaspiration
 astrograph
