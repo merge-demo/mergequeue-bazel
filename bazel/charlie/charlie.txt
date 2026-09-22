@@ -30438,7 +30438,7 @@ cantaloupe
 carpetwork
 csch 1
 csect 1
-cpu
+cpu 1
 cholecystectomies 1
 csmp
 crimpled
