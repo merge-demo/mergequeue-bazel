@@ -3424,7 +3424,7 @@ giggit
 geometrized 2
 glossolaryngeal 2
 globularia 1
-gourmets
+gourmets 1
 gerrymander 1
 gorgons
 goldwater 3
