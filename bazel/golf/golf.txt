@@ -634,7 +634,7 @@ guideline 3
 gramineal
 geodetic 3
 grottowork 2
-gardencraft
+gardencraft 1
 gallomaniac 4
 gallon
 gonapophysis 1
