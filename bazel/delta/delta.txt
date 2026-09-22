@@ -7706,7 +7706,7 @@ duits
 dismembrate 1
 defuse 1
 darwinism
-devilfish
+devilfish 1
 decelerators 2
 devily 2
 detail 2
