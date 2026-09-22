@@ -24614,7 +24614,7 @@ copiousness
 cloners 1
 copyread
 copyreader
-copyreaders
+copyreaders 1
 caudalward
 copyreading
 curiosos 2
