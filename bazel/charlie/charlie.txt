@@ -2694,7 +2694,7 @@ clingfish 1
 canker
 cankerberry
 cankerbird 1
-chaperone 3
+chaperone 4
 carriable 2
 cankereat
 cankered 1
