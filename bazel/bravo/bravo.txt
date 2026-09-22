@@ -8158,7 +8158,7 @@ bash 1
 banishes
 buffalos
 baldpate 2
-byeman
+byeman 1
 ballote 1
 bienly 2
 browpost 3
