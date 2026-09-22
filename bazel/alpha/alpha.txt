@@ -17626,7 +17626,7 @@ appertained
 acrose
 appertainment
 auditory
-apolaustic
+apolaustic 1
 antiagglutination 2
 antediluvial
 agouta 1
