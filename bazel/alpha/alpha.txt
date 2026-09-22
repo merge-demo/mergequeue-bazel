@@ -22391,7 +22391,7 @@ anteriorness 2
 astrogony 2
 aspartyl
 abohm 1
-autoaspiration
+autoaspiration 1
 astrograph
 astrographer 1
 assemblywomen 1
