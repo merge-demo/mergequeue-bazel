@@ -25302,7 +25302,7 @@ counterscale
 cornbind 1
 checkerboards 1
 cricking 1
-chromoisomerism
+chromoisomerism 1
 cassoulet
 cornbinks
 comities

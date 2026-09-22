@@ -2077,7 +2077,7 @@ advisors
 aches
 achesoun
 acheulean 3
-accustoms
+accustoms 1
 acumens 1
 achy 2
 absconds
