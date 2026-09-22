@@ -9208,7 +9208,7 @@ embound 2
 episcopes
 epikleses 1
 empannel
-epiderm
+epiderm 1
 erotylidae 1
 enlarges 2
 extremer 2
