@@ -1803,7 +1803,7 @@ fetisher 6
 freeboard 3
 fores 3
 ferninst 1
-forbesite
+forbesite 1
 folkmots 2
 flak 2
 flaithship 4
