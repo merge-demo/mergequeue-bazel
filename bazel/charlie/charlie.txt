@@ -12587,7 +12587,7 @@ chronoisothermal 2
 cellucotton
 chronologer
 circularize 1
-chronological
+chronological 1
 chronologies 1
 coalternative 1
 chantecler 1
