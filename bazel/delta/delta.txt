@@ -12585,7 +12585,7 @@ dromedaries 1
 diamantoid 1
 denominators 2
 disintegrator 3
-deifications
+deifications 1
 disintegrators 3
 dextrer
 disintegrity 1
