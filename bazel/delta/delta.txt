@@ -9305,7 +9305,7 @@ decolorant 2
 dietitians
 dtset
 diplomat
-dietotherapy
+dietotherapy 1
 dietotoxic 1
 detersive 1
 depletable 7
