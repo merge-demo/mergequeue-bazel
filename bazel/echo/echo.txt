@@ -6904,7 +6904,7 @@ electrum 2
 etiquettes 1
 endamageable
 epispore
-ectocardia 1
+ectocardia 2
 endometria 4
 evaporable
 equipments
