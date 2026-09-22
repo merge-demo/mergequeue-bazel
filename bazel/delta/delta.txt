@@ -17836,7 +17836,7 @@ decurve 2
 dermoblast 1
 definable 2
 dictatorship 4
-disenthrallment
+disenthrallment 1
 dunkirk
 dude
 dyophysitical 2
