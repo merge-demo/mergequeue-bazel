@@ -7178,7 +7178,7 @@ centred
 centref 1
 centreless
 centrepiece 1
-canephoroe
+canephoroe 1
 centrer
 closely 2
 chol 1
