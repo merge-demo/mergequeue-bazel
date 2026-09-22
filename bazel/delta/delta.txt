@@ -9161,7 +9161,7 @@ divorceuse
 dy 1
 dido 2
 diaglyptic 2
-didodecahedron 2
+didodecahedron 3
 didoes 1
 didonia 2
 duodenas
