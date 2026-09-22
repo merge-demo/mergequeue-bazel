@@ -7381,7 +7381,7 @@ gestor 1
 glomerule 2
 gilthead 3
 glyptograph 5
-gallach
+gallach 1
 gynostemia 2
 groupable 4
 gastromalacia 2
