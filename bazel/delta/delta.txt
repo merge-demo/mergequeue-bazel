@@ -8904,7 +8904,7 @@ dicentras
 dipyramid
 dyads 1
 defiatory
-diceras
+diceras 1
 dmod 2
 deriving 1
 dioptidae 2
