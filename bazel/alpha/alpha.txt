@@ -5013,7 +5013,7 @@ awaft 2
 accentuable
 avigate
 abv 3
-aerophysics
+aerophysics 1
 areolation 2
 apologising 1
 alkylogen 1
