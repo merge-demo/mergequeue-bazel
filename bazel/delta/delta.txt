@@ -4315,7 +4315,7 @@ dhoney 1
 deplores 2
 demagnetizing
 devilbird
-devoutness
+devoutness 1
 durning
 delimit
 duckhood 1
