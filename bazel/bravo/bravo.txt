@@ -5882,7 +5882,7 @@ bellwether 2
 bradmaker 1
 bellwort 1
 belock 2
-basimesostasis
+basimesostasis 1
 belomancy 2
 belonephobia
 belonger 2
