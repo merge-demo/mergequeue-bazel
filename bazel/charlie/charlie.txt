@@ -9808,7 +9808,7 @@ clubroot 2
 combattants 1
 carpologist
 chemick
-calanid
+calanid 1
 chemicker 2
 chemicoastrological 2
 chokra
