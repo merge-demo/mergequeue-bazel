@@ -9586,7 +9586,7 @@ autoharp
 accountableness 1
 alture
 altus 1
-algivorous
+algivorous 1
 alpaca 1
 amazia
 antirennet 2
