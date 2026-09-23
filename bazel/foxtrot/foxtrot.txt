@@ -10365,7 +10365,7 @@ foreboard 1
 feldspathization 1
 francium 2
 flashcube 2
-fletcherite 1
+fletcherite 2
 formatting 4
 frontierless 1
 fireproofness 1
