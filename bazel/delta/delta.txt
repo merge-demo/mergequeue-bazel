@@ -3574,7 +3574,7 @@ dingles 1
 dermatotome
 drawbeam 2
 dissheathe
-dehwar 3
+dehwar 4
 defuze 1
 dolman 1
 dakoities 3
