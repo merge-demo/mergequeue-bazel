@@ -19981,7 +19981,7 @@ actuators
 abatjour
 aals
 amasta
-armure 1
+armure 2
 armures 1
 arn 2
 antirachitic
