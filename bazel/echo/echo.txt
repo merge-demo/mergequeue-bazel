@@ -10055,7 +10055,7 @@ epopoeist 4
 etceteras 1
 ethanediol
 erianthus 1
-ethanedithiol
+ethanedithiol 1
 enthalpy 1
 epicoeloma
 erythrophyllin 3
