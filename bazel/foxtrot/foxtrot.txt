@@ -4046,7 +4046,7 @@ fadelessly 1
 finish
 flatling
 fletchings 2
-fungoid
+fungoid 1
 finishable 3
 firker 2
 fabrication 2
