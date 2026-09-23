@@ -10613,7 +10613,7 @@ fractile 1
 ferity
 franc
 forswearing 3
-flumped 1
+flumped 2
 forwaste 2
 fleeting 1
 flatnesses 2
