@@ -9450,7 +9450,7 @@ expand 3
 ecbolics 3
 embedment 3
 erysiphe
-eam
+eam 1
 ephahs 2
 euryale 6
 eses 2
