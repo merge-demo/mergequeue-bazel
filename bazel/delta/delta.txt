@@ -9638,7 +9638,7 @@ depass 2
 despot 2
 dihydroergotamine 2
 destructs 1
-derogatorily
+derogatorily 1
 diplexer
 dissight 1
 dipoles 2
