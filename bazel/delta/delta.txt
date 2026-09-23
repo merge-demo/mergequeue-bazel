@@ -13506,7 +13506,7 @@ dinitrile
 dysphoria 2
 destain 1
 deadwood 2
-demiglobe
+demiglobe 1
 dermatopathophobia 2
 downtrodden 1
 dysgraphia 1
