@@ -3334,7 +3334,7 @@ decigram
 dartrous 3
 definish 1
 decolored 2
-decapitalization
+decapitalization 1
 definite 1
 definitely
 distrait
