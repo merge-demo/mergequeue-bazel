@@ -7089,7 +7089,7 @@ fleapit
 forespeech 1
 factious 1
 fusional 3
-fingerstall 1
+fingerstall 2
 forgeability 1
 fungicide 2
 foolproof 1
