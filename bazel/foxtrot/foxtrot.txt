@@ -2858,7 +2858,7 @@ formol 1
 faddish 1
 feltyfare 5
 fisty 1
-finable 2
+finable 3
 foresails 3
 figworm 2
 flurry
