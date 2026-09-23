@@ -5302,7 +5302,7 @@ fogbound 1
 flukes 2
 fumage 2
 fluoridize 4
-fatwood 1
+fatwood 2
 fretters 2
 french 1
 flain 1
