@@ -1281,7 +1281,7 @@ galium 1
 glyphographer 2
 gumpus
 grallina 2
-gnatsnapper 4
+gnatsnapper 5
 ganges 2
 granch 2
 giddying
