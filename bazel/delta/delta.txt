@@ -5388,7 +5388,7 @@ duotype 3
 dentirostral 5
 drumbeating 1
 deceptory
-dribbler
+dribbler 1
 downless 1
 decorative
 dentistical
