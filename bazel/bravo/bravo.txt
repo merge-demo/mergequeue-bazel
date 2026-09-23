@@ -15232,7 +15232,7 @@ blennoid 2
 backstrip 1
 bucketing 1
 balneal
-bestrewn 5
+bestrewn 6
 benchers 1
 bridale 3
 basehearted 1
