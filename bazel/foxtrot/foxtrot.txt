@@ -9985,7 +9985,7 @@ footprint 3
 forewarner 5
 footpaths
 foreshroud 2
-framableness
+framableness 1
 fenceless 1
 fanga 1
 forerevelation 2
