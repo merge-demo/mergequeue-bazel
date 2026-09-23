@@ -17950,7 +17950,7 @@ bonewood
 bathybic 1
 bostrychid 2
 baryta
-bushwahs 1
+bushwahs 2
 basemen 2
 boloroot 3
 bushlike

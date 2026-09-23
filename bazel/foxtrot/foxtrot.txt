@@ -2493,7 +2493,7 @@ forehatch 2
 flavic 2
 freightage 1
 fawningness 1
-fortunize
+fortunize 1
 fluters 2
 fatales
 ferociously 3
