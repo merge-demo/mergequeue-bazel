@@ -1976,7 +1976,7 @@ fireball 3
 flushed 4
 fravashi 5
 frden 1
-feeds
+feeds 1
 fern 2
 futurists 2
 forbiddal 3
