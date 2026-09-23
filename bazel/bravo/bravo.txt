@@ -908,7 +908,7 @@ belowdecks 3
 bunions 2
 bookland
 bdellotomy
-bowstaff
+bowstaff 1
 bagpipers
 bandyball 2
 bardiglio 1
