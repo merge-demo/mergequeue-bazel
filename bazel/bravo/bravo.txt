@@ -16474,7 +16474,7 @@ byrling
 brushpopper
 brashier 2
 brushwood 4
-brushwork
+brushwork 1
 burdock 1
 beecher 1
 brusker
