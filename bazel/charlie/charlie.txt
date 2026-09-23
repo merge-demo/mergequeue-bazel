@@ -14326,7 +14326,7 @@ collow 1
 cocciferous
 circumspangle 1
 crambid 2
-crystalwort
+crystalwort 1
 calorific
 cointers
 corniness
