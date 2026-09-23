@@ -14672,7 +14672,7 @@ cadenza
 cystourethritis
 chirurgy
 calyxes 1
-cystourethrography
+cystourethrography 1
 cistron 1
 cistronic
 cochon 1
