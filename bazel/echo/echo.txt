@@ -10088,7 +10088,7 @@ ethenoid 2
 ethenol
 eyecups 1
 ensorcelize 2
-eschatocol
+eschatocol 1
 ebb 1
 erythrosin 1
 etheostominae 2
