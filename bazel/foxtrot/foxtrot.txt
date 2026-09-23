@@ -4852,7 +4852,7 @@ floor 3
 fickleness 5
 fooless 2
 flagstick 2
-flagworm 3
+flagworm 4
 fandangle 2
 feramorz 2
 fittedness 2
