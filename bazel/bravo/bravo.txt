@@ -7498,7 +7498,7 @@ bestowage 2
 beveil 2
 bevelled
 bardism 1
-belayer 1
+belayer 2
 beveller
 bookbinder 1
 bardelle 2
