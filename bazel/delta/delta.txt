@@ -6454,7 +6454,7 @@ danseusse 2
 desagrement 1
 demitone
 deplumation
-dictatrix
+dictatrix 1
 deodara 2
 digitization 1
 dragomanic 3
