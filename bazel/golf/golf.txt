@@ -9221,7 +9221,7 @@ gibberosity 2
 grippleness 1
 grazier 2
 gryllotalpa 3
-glassworker 1
+glassworker 2
 griqualander 2
 geminis 1
 gleaning 3
