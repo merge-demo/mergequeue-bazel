@@ -8278,7 +8278,7 @@ deducting 1
 diagonalwise 1
 denudate
 demonization
-diagonic
+diagonic 1
 drum
 diagram 1
 deliriousness 1
