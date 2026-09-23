@@ -7357,7 +7357,7 @@ flimsiest 3
 filles
 forbad
 faeces 5
-fat
+fat 1
 forbborne 2
 freshen 3
 feudalism 3
