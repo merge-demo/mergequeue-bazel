@@ -1033,7 +1033,7 @@ botargos
 bailiffs 1
 blennorrhea
 billons
-busway
+busway 1
 bustiest 1
 boyaus 1
 basanite
