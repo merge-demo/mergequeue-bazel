@@ -7996,7 +7996,7 @@ degummer
 deemsters 3
 demanganize 2
 deliberate
-dextrousness
+dextrousness 1
 dispergating 1
 duodecuple
 dataset
