@@ -15645,7 +15645,7 @@ clauses
 coattends 2
 craniotympanic 2
 cartilaginification 1
-clausthalite
+clausthalite 1
 claustral 1
 claustration 1
 characinoid 3
