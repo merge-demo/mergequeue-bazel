@@ -12335,7 +12335,7 @@ chromas 1
 coffeeweed
 cenote
 chromate 2
-conjunction
+conjunction 1
 chromates 2
 cantred 1
 chrysomonadine
