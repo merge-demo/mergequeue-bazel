@@ -5072,7 +5072,7 @@ flapping 1
 folders 1
 fessely 1
 flumps 1
-flamelet 1
+flamelet 2
 fun 3
 fuligo
 fundless 2
