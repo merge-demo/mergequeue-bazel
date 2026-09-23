@@ -7128,7 +7128,7 @@ enlaced 1
 ectosphenotic 3
 edicts 1
 engaud
-enemy
+enemy 1
 exported 4
 entices
 epiplexis
