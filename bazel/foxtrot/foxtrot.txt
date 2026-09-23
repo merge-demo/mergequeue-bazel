@@ -2507,7 +2507,7 @@ fudging 3
 fainthearted 2
 faction 1
 farted
-facinorousness
+facinorousness 1
 fluxgraph
 fatihah
 fuzzily 1
