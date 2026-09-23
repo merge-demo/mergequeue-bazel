@@ -10369,7 +10369,7 @@ chiefage 1
 chiefery 3
 cyatholith
 chiefest
-cervalet
+cervalet 1
 conveyorizer
 chiefish 2
 chieftain 1
