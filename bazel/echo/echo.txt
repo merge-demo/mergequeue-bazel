@@ -4774,7 +4774,7 @@ existent 2
 exodos
 endosmosic 1
 ebulliometry 3
-excircle 1
+excircle 2
 epistler 1
 entomophytous
 establishments
