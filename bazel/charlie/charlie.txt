@@ -6798,7 +6798,7 @@ celioparacentesis 2
 cerinthian 1
 cowshard 1
 capless
-celioscope
+celioscope 1
 cella
 cellarage 1
 cellared 1
