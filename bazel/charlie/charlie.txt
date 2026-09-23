@@ -11607,7 +11607,7 @@ cholee
 cholehematin
 choleine 2
 circinal 1
-colorization
+colorization 1
 cholelith 2
 conchotome 1
 cholelithic
