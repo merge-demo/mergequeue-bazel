@@ -1875,7 +1875,7 @@ bougeron 2
 bandit 1
 beshrew 1
 bretwaldadom
-balant 1
+balant 2
 brooded 1
 bandle
 blastoff 1
