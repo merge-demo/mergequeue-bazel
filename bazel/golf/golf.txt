@@ -8713,7 +8713,7 @@ gates 3
 gnathonical 2
 grassflat 3
 gastrodisc 1
-growler 1
+growler 2
 guaranteing 2
 golosh 1
 gnathonic 2
