@@ -11959,7 +11959,7 @@ acron
 abodement 2
 ampelite
 admixes
-azeotropy
+azeotropy 1
 aleukemic 1
 anaphroditic 1
 anlaces 1
