@@ -6981,7 +6981,7 @@ brae
 besmirchers 2
 bactris
 bankfull
-besmooth
+besmooth 1
 besmooths 3
 betrust 3
 bleeders 1
