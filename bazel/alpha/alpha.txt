@@ -20678,7 +20678,7 @@ aspirates
 acanthial
 aulostomid 1
 amphorous
-arefy
+arefy 1
 ayurvedas
 axiolitic 3
 articulacy
