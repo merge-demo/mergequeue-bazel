@@ -13789,7 +13789,7 @@ chkfil
 cinematographies
 cinematographist
 chords 2
-contortive
+contortive 1
 carpophore 1
 cysticercoid 3
 carcinophobia
