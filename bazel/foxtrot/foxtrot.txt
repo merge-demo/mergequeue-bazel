@@ -6336,7 +6336,7 @@ fixtureless
 fourb 2
 flunkyish
 flunkyize 2
-fuzziness 1
+fuzziness 2
 fidepromission 2
 forefingers 3
 ferments
