@@ -5067,7 +5067,7 @@ cojudge 1
 coevolve
 colisepsis
 cerianthus
-casate 1
+casate 2
 closemouthed
 casava
 cuber
