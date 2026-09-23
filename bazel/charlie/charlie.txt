@@ -5149,7 +5149,7 @@ casemaker 2
 caprylene 1
 cackle
 casemaking 1
-casemates
+casemates 1
 casemented
 casements 2
 copolar
