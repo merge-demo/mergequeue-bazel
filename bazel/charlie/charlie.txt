@@ -18815,7 +18815,7 @@ colessor 2
 colessors
 conventionalization 2
 compliers 1
-colet
+colet 1
 cobego
 coleur
 chromizes 1
