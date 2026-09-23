@@ -5951,7 +5951,7 @@ aerogeology
 amphithecial
 adit 1
 amazonstone 2
-apostacies
+apostacies 1
 aneurism 1
 ardeidae 2
 antroscopy
