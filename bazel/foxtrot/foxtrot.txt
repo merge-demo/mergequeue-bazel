@@ -1432,7 +1432,7 @@ fanwork 2
 fall 3
 fiddled 2
 funis 4
-fattishness
+fattishness 1
 fother 1
 frimitts 4
 faithless 2
