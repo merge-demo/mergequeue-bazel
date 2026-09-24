@@ -3274,7 +3274,7 @@ benzines 2
 bewhig 1
 begartered 2
 bethank 1
-bookkeeps
+bookkeeps 1
 basidiophore 1
 bourn
 brattle 1
