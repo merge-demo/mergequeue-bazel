@@ -12118,7 +12118,7 @@ baedekers 1
 bonesets 2
 burbots 2
 bedamp
-boldo 2
+boldo 3
 benzofluorene 1
 bannets 1
 basti 1
