@@ -28171,7 +28171,7 @@ colter 1
 cuckooed
 crosscutter 1
 cranked
-cranker 1
+cranker 2
 cullis
 crankily
 crankiness 2
