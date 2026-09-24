@@ -11508,7 +11508,7 @@ blunderbusses 2
 boundure 1
 bestare 3
 blunderhead 1
-buttonbur
+buttonbur 1
 barotaxis 1
 birthday 3
 betaxed 1
