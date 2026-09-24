@@ -8480,7 +8480,7 @@ emda 3
 enregiment 1
 enhemospore 3
 escarmouche 3
-electrophotometry 2
+electrophotometry 3
 epileptoid
 ergatandrous
 exterminators
