@@ -16636,7 +16636,7 @@ aperient 2
 aperients
 albronze
 aperiodically 1
-ambulanced
+ambulanced 1
 average 2
 aperiodicity
 antiradiation
