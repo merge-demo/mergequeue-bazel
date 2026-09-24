@@ -18592,7 +18592,7 @@ dustbins 1
 dustcart 1
 devocalisation 2
 distance 2
-dustcover 1
+dustcover 2
 diatonicism 1
 dustee 2
 dusters 1
