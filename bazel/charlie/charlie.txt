@@ -5759,7 +5759,7 @@ cabasset 1
 counterinsurgents
 catclaw
 cate
-catechesis
+catechesis 1
 catechetic 3
 congenator 1
 chapatti
