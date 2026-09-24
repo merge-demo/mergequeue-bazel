@@ -6151,7 +6151,7 @@ cattlebush
 cattlefold 1
 chatellany
 chinpiece
-creakier 1
+creakier 2
 cicely
 cancan 2
 cattleyak
