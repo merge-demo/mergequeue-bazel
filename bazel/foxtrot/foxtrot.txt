@@ -7430,7 +7430,7 @@ forwarder 1
 filicides 3
 fileable
 fillemot 1
-faience 1
+faience 2
 firefall 2
 floperoo
 forevalue 1
