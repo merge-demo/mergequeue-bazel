@@ -10145,7 +10145,7 @@ fissile 1
 frontlet 1
 fitter 2
 fashed 1
-fabricant 1
+fabricant 2
 falcidian
 foresing 3
 fief 3
