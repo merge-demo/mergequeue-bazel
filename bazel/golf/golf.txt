@@ -9257,7 +9257,7 @@ grivna 1
 galeres 4
 grizzel 2
 gibingly 3
-glowworm
+glowworm 1
 guts 5
 grizzly 2
 gunsel 1
