@@ -4584,7 +4584,7 @@ deadhouse
 demineralizing
 demiofficial
 demiorbit
-disbarment
+disbarment 1
 dendrolagus 1
 discharging 1
 dustlike
