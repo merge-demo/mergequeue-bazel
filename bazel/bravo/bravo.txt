@@ -13497,7 +13497,7 @@ bottu 2
 billable 2
 botulinuses
 boggles 1
-botulism
+botulism 1
 bags 1
 bigamistic 3
 bourre
