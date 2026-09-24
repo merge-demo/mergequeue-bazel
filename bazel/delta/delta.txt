@@ -4403,7 +4403,7 @@ doit 2
 disallowableness
 disembark 1
 demeanored 1
-dissidents
+dissidents 1
 diphtheritis 1
 douper 2
 delegable 2
