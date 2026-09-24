@@ -3516,7 +3516,7 @@ broadax 3
 batete
 brabbling
 balotade
-blue
+blue 1
 batfishes 1
 biri
 batfowl 2
