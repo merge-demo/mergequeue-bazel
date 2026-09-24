@@ -17512,7 +17512,7 @@ blockout
 backspeir 1
 burbolt 2
 blight 1
-beauseant 1
+beauseant 2
 biognosis
 burbot 2
 bleak 2
