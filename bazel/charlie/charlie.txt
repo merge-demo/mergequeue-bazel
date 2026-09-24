@@ -3054,7 +3054,7 @@ canvas 1
 chaffinches
 chiasmodon
 croppa 3
-cycadeous
+cycadeous 1
 canvasado
 canvasbacks 1
 canvasers
