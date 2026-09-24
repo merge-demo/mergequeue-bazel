@@ -27979,7 +27979,7 @@ concubinaries
 cheeriness
 craftwork
 cottoner 1
-craftworker
+craftworker 1
 crag
 craggan 1
 craggy 1
