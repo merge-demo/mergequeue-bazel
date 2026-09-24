@@ -2192,7 +2192,7 @@ fumulus 1
 fluster 5
 felts
 forthtell 1
-fishworker 2
+fishworker 3
 feltwort 1
 fastidiosity 2
 felwort 3
