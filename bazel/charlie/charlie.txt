@@ -20359,7 +20359,7 @@ chattelship 1
 comoedus
 comolecule 1
 carbonite
-crassness
+crassness 1
 cuirass
 comose 1
 comourn 1

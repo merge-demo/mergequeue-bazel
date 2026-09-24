@@ -2581,7 +2581,7 @@ fingerbreadth 2
 fattier 3
 fouty 1
 franchiser 2
-fibrocytic
+fibrocytic 1
 ferrogoslarite 2
 forcet 1
 franked 2
