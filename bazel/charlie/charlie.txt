@@ -13007,7 +13007,7 @@ cantrap
 cyanoethylation 1
 crumbable
 crates 1
-cyanoguanidine
+cyanoguanidine 1
 cyanohermidin 3
 cyanometer
 cuneate 1
