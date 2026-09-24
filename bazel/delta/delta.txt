@@ -800,7 +800,7 @@ dovecote 1
 diuretical
 danegelds 1
 dungeon 1
-deckhead 1
+deckhead 2
 daneweed 1
 daneweeds 2
 detections 2
