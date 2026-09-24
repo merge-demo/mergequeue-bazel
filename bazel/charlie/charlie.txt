@@ -6232,7 +6232,7 @@ covertness 1
 caudofemoral 1
 caudolateral 1
 crossbones 2
-curstness 1
+curstness 2
 centetidae
 countershout
 cabbalism 1
