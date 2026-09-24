@@ -6330,7 +6330,7 @@ fuzzy 1
 flack 2
 futural 1
 fullback 3
-floyd
+floyd 1
 finessed 2
 fixtureless
 fourb 2
