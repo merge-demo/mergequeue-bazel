@@ -10398,7 +10398,7 @@ filigree 3
 flow 1
 fictility
 flyspecked
-firstling 1
+firstling 2
 forcaria 4
 fertilizer 3
 filesmith 2
