@@ -10003,7 +10003,7 @@ gelatinify 4
 galago 4
 grignet 3
 gaslike 4
-gateau
+gateau 1
 gudame 1
 gibberose
 gone 4
