@@ -2939,7 +2939,7 @@ equicostate
 encystation
 elias 3
 epitomiser
-epistomal
+epistomal 1
 egyptian 3
 etchings 4
 embank 3
