@@ -263,7 +263,7 @@ cities
 cassiduloidea
 cachepot 1
 chillies 1
-condensing
+condensing 1
 caches 2
 cachespell 2
 coreductase
