@@ -7945,7 +7945,7 @@ dyeable 1
 dexiotropic 1
 dishwashing 1
 dollarbird 1
-diaplex
+diaplex 1
 dashers 1
 dextrad 2
 dextral
