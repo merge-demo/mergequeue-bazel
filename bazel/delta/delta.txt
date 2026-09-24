@@ -3144,7 +3144,7 @@ duringly 2
 defaulted 1
 defaultless
 depauperization
-downfolded
+downfolded 1
 defaults 1
 decked
 defaulture
