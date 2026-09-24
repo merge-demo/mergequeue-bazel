@@ -4502,7 +4502,7 @@ forlane 2
 fertilizers 1
 forsay 3
 ferrovanadium 2
-flour
+flour 1
 fisnoga 3
 flouncing 3
 flogging 1
