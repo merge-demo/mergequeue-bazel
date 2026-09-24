@@ -8079,7 +8079,7 @@ firebrats 1
 furnitures
 fondness 1
 fumigating 3
-flecnode
+flecnode 1
 fiendfully 1
 ferrochromium 1
 forests
