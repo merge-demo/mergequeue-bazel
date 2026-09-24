@@ -10904,7 +10904,7 @@ deployed 2
 disable 1
 deputationize 2
 delusions 1
-denazify 1
+denazify 2
 disabled 2
 doorplates
 defrayer 1
