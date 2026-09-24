@@ -19793,7 +19793,7 @@ armamentarium 1
 autoskeleton 1
 affeerment 2
 attachable
-armangite 1
+armangite 2
 adularia 1
 armarian 1
 auriculars 1
