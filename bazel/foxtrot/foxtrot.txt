@@ -2131,7 +2131,7 @@ fluoresage 2
 floruit 2
 frigate 2
 fletch 1
-faujdar
+faujdar 1
 fuchsite 1
 fosterling 2
 flagstone
