@@ -24176,7 +24176,7 @@ afterlifetime 1
 autojigger 1
 autojuggernaut 1
 ancylocladus 2
-assonantic
+assonantic 1
 anthozoa 1
 achroodextrinase 1
 awakens 2
