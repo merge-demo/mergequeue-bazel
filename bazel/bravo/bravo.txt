@@ -10402,7 +10402,7 @@ botong 3
 breaker 1
 blanketlike
 brimborion
-blankets 1
+blankets 2
 bhoot 2
 blobbiness 2
 brisement
