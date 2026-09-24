@@ -5525,7 +5525,7 @@ afterglow 1
 aftergrief
 aftergrowth
 antipathy 1
-acton 1
+acton 2
 argot
 aluco
 acetonylidene 1
