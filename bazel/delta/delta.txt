@@ -3143,7 +3143,7 @@ domesticity 2
 duringly 2
 defaulted 1
 defaultless
-depauperization
+depauperization 1
 downfolded
 defaults 1
 decked
