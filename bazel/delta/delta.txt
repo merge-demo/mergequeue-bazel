@@ -7254,7 +7254,7 @@ detenue 3
 decussorium 2
 desulfurize
 detenues 1
-dephlegmator 1
+dephlegmator 2
 deter 1
 deterged 2
 desertlike
