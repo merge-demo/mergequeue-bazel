@@ -11035,7 +11035,7 @@ chirurgery
 chis
 chiseled 1
 curuba
-chiseler
+chiseler 1
 cheapens 2
 chiselers
 cantdogs
