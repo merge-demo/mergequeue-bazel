@@ -10785,7 +10785,7 @@ footsoldiers 5
 fudge 1
 fanned 2
 freinage
-factualistic 1
+factualistic 2
 flue 2
 fubbery 1
 filamentoid 3
