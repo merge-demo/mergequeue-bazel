@@ -22710,7 +22710,7 @@ aflight
 apriline
 addlement
 afterwhile 1
-advancement
+advancement 1
 athletes 1
 areologically 1
 achenodium 1
