@@ -7165,7 +7165,7 @@ bacteriemia
 bernicles 2
 bierstube
 bestay 4
-bestamp 2
+bestamp 3
 bestand
 bestatued 1
 burrito 1
