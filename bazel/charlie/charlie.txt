@@ -25354,7 +25354,7 @@ cornering
 crang 1
 cornerstone 1
 cornet
-cornetcy
+cornetcy 1
 cornetcies
 cornetfishes
 chunkier 1
