@@ -10403,7 +10403,7 @@ electropositive 1
 enfranchisable 1
 exodromic 2
 exchanged 7
-ethoxide 1
+ethoxide 2
 ethoxyethane
 enchiriridia 3
 earthshaking 3
