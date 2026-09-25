@@ -5705,7 +5705,7 @@ aeolistic 1
 afterwash 2
 agamete
 angulates
-agamy
+agamy 1
 agamian 1
 appendicitis
 adenocellulitis
