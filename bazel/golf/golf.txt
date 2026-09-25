@@ -2126,7 +2126,7 @@ galidia 3
 ganodus
 gormaw
 guarabu
-gazebo 5
+gazebo 6
 gazeboes 2
 guestship 1
 genderless 2
