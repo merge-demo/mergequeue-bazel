@@ -5533,7 +5533,7 @@ cwms
 catacromyodian
 ceratothecal 1
 cardiological 1
-catadicrotic
+catadicrotic 1
 cronie
 cursal
 catadicrotism
