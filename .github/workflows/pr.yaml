@@ -1,8 +1,8 @@
 name: PR Testing
 run-name: PR Checks for ${{ github.ref_name }}
-# pull_request only: Trunk also pushes the commit it tests to trunk-temp/* while building the
-# merge branch, and a push run there would report "run tests on PR" on that SHA without running
-# the test sim, letting the queue merge early. The queue is tested via its trunk-merge/* PR.
+# pull_request only. Don't add a push trigger: Trunk pushes the commit it tests to trunk-temp/*
+# while building the merge branch, and a push run would report "run tests on PR" on that SHA
+# without running the test sim, letting the queue merge early.
 on:
   pull_request: {}
 
@@ -30,12 +30,17 @@ jobs:
     needs: [dynamic-ci-filter]
     if: >-
       !cancelled() && needs.dynamic-ci-filter.outputs.test != 'false'
+    env:
+      IS_MERGE: ${{ startsWith(github.head_ref, 'trunk-merge/') || startsWith(github.head_ref, 'trunk-merge-beta/') }}
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      # Only simulate the test (delay + flakiness) on the queue's trunk-merge/* PRs;
+      # regular PRs pass immediately.
       - uses: robinraju/release-downloader@v1.13
+        if: env.IS_MERGE == 'true'
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
@@ -43,21 +48,7 @@ jobs:
           fileName: mq-*-x86_64-unknown-linux-gnu.tar.gz
           extract: true
 
-      - name: Determine is_merge
-        id: check_is_merge
-        run: |
-          if [[ ${GITHUB_HEAD_REF} == trunk-merge/* || ${GITHUB_HEAD_REF} == trunk-merge-beta/* ]]; then
-            echo "on_merge=true" >> $GITHUB_OUTPUT
-          else
-          echo "on_merge=false" >> $GITHUB_OUTPUT
-          fi
-
       - name: run tests
         id: test
-        # only actually run the test if we're on the merge branch
-        # so we can simulate delay and flakiness
-        if: steps.check_is_merge.outputs.on_merge == 'true'
-        run: |
-          ./mq test-sim
-        env:
-          IS_MERGE: ${{ steps.check_is_merge.outputs.on_merge }}
+        if: env.IS_MERGE == 'true'
+        run: ./mq test-sim
