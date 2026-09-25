@@ -3203,7 +3203,7 @@ bangash
 basidigital
 bouteselle
 bangwaketsi 1
-barotactic
+barotactic 1
 breadth 1
 ballerinas 2
 beknave 2
