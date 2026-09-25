@@ -5330,7 +5330,7 @@ feasts 1
 filial 1
 fant 2
 forcepslike
-foulmouthedly
+foulmouthedly 1
 fiddlebrained
 flimflam
 focusses
