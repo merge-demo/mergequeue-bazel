@@ -5321,7 +5321,7 @@ fingerprinting 1
 ferry 4
 faitery 1
 flb 2
-fantasque
+fantasque 1
 flutey 1
 foregather 3
 fifteen 2
