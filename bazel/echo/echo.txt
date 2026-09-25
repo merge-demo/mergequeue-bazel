@@ -12911,7 +12911,7 @@ engr 3
 eosaurus 2
 enticingly 3
 expeditiousness 1
-ecchymose
+ecchymose 1
 epithymetic
 evangeliary 2
 energetically
