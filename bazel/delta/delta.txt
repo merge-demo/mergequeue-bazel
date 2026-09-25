@@ -12408,7 +12408,7 @@ dishelms 3
 disher 1
 durability 2
 disherited 2
-divet 2
+divet 3
 defibrillator 3
 deamidize
 deplantation 1
