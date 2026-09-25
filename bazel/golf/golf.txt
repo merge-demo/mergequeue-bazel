@@ -9348,7 +9348,7 @@ graduate 3
 galleasses 2
 goliad 5
 gunnysacks
-ghaznevid 1
+ghaznevid 2
 ghaist 1
 gasparillo 3
 gyrostat 2
