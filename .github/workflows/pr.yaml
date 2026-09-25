@@ -73,7 +73,7 @@ jobs:
         id: check_is_merge
         if: steps.duplicate.outputs.skip_duplicate != 'true'
         run: |
-          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then            
+          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/* || ${GITHUB_REF_NAME} == trunk-temp/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then            
             echo "on_merge=true" >> $GITHUB_OUTPUT
           else
           echo "on_merge=false" >> $GITHUB_OUTPUT
