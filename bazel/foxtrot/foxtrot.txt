@@ -2942,7 +2942,7 @@ fluellite 3
 flyoff 2
 filialness 1
 facier 2
-fooleries
+fooleries 1
 flukiness 1
 freezed 4
 foxberries 7
