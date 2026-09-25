@@ -4017,7 +4017,7 @@ fishery
 forleft 1
 fingersmith
 failingly
-ferison
+ferison 1
 flushy
 furrow 2
 fabricated 3
