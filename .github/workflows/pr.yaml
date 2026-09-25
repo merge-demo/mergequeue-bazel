@@ -48,6 +48,14 @@ jobs:
           fileName: mq-*-x86_64-unknown-linux-gnu.tar.gz
           extract: true
 
+      # sleep_for in .config/mq.toml is fixed; add 0-5m of jitter so tests take 10-15m.
+      - name: test time jitter
+        if: env.IS_MERGE == 'true'
+        run: |
+          jitter=$((RANDOM % 301))
+          echo "adding ${jitter}s of jitter"
+          sleep "${jitter}"
+
       - name: run tests
         id: test
         if: env.IS_MERGE == 'true'

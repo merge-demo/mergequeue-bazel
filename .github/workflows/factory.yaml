@@ -2,7 +2,7 @@ name: PR Factory
 
 on:
   workflow_dispatch: {}
-  # Comment the following cron schedule to stop running this workflow every 30 minutes
+  # Comment the following cron schedule to stop running this workflow every hour
   schedule:
     - cron: '7 * * * *'
 
@@ -12,7 +12,12 @@ permissions:
 
 jobs:
   create-pr:
-    # needs: merge-pr
+    # Parallel generators: a single mq generate can't exceed ~90 PRs/hr because each PR
+    # takes ~35-40s to create. See [pullrequest] in .config/mq.toml for the per-job rate.
+    strategy:
+      fail-fast: false
+      matrix:
+        generator: [1, 2, 3, 4]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -53,7 +58,7 @@ jobs:
           TRUNK_TOKEN: ${{ steps.get-trunk-token.outputs.token }}
 
       - name: run mq
-        if: always()
+        if: always() && matrix.generator == 1
         id: clean
         run:
           ./mq housekeeping --gh-token=${{ secrets.ELI_MERGEDEMO }} --trunk-token=${{
