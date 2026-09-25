@@ -4130,7 +4130,7 @@ decimalise 1
 despeche 4
 diagenetically
 doggerelled
-delinter
+delinter 1
 deliquiate
 deliquium 3
 demisolde
