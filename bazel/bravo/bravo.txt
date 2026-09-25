@@ -14221,7 +14221,7 @@ bradypnea 1
 bloodtest 2
 bonally
 bakerless 2
-bartered
+bartered 1
 boobyalla
 bayhead 1
 bisacromial 2
