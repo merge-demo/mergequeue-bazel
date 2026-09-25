@@ -6437,7 +6437,7 @@ barangay 1
 biternate 1
 benzothiofuran 1
 burs 4
-benzothiophene
+benzothiophene 1
 benzotrichloride 2
 bolection 2
 benzoxyacetic 3
