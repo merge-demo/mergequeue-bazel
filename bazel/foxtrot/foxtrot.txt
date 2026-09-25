@@ -11298,7 +11298,7 @@ foyer 2
 furcate 1
 fenagled 1
 fusspot 1
-firearm
+firearm 1
 fulmicotton 2
 fatwa
 firedog
