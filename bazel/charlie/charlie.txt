@@ -30895,7 +30895,7 @@ culti 1
 cultic
 chandelier 2
 caecity 1
-cultigens
+cultigens 1
 cultish 2
 cerasin
 carboyed
