@@ -9155,7 +9155,7 @@ chartulas
 charwoman 1
 centipedes 1
 conservatives
-charwomen
+charwomen 1
 chase 1
 chaseable
 chased 1
