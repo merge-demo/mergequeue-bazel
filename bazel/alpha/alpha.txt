@@ -21504,7 +21504,7 @@ arrhal
 asperula
 ambulatoria 1
 asperulous
-anticovenanting
+anticovenanting 1
 autonomy
 appalachia
 archeion
