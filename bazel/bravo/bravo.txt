@@ -2541,7 +2541,7 @@ bs
 bilamellar
 boerdom 1
 begster 2
-birk
+birk 1
 backlists 2
 bashlyk 3
 brained
