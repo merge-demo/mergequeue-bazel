@@ -10948,7 +10948,7 @@ bellhop 1
 batement 3
 benchmar 2
 blinkingly
-blinter 1
+blinter 2
 batel
 blocky 2
 brassage 2
