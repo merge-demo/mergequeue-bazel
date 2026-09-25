@@ -1564,7 +1564,7 @@ communising 2
 chemostat 3
 callisto 1
 callithrix 1
-collegiant
+collegiant 1
 corruptibilities
 callithumpian
 callitrichaceous
