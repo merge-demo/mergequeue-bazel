@@ -1405,7 +1405,7 @@ gausterer
 gearshift 1
 gcd 2
 gangplow 2
-grundyite 1
+grundyite 2
 galvanopsychic 1
 gipsying 2
 guilloche 1
