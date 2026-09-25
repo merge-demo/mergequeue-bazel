@@ -1578,7 +1578,7 @@ bifurcate 1
 ballywack
 basalt 2
 brooder 1
-benzanilide
+benzanilide 1
 beclart
 bursati
 baudronses 1
