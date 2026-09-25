@@ -22449,7 +22449,7 @@ aphototropism 1
 astronomical 1
 ajenjo 1
 acylate
-astronomics
+astronomics 1
 astronomize 2
 aragallus
 algarobas
