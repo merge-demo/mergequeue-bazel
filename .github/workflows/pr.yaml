@@ -2,7 +2,12 @@ name: PR Testing
 run-name: PR Checks for ${{ github.ref_name }}
 on:
   pull_request: {}
-  push: {}
+  push:
+    # Trunk pushes the same commit it tests on trunk-merge/* to a trunk-temp/* branch.
+    # A run there skips the test sim but still reports "run tests on PR" on that SHA,
+    # which lets the queue merge before the real test finishes.
+    branches-ignore:
+      - trunk-temp/**
 
 # Concurrency group so we can detect duplicate runs (pull_request + push for same branch).
 # We do not cancel in progress - the duplicate run will skip so MQ doesn't see a failure.
@@ -73,7 +78,7 @@ jobs:
         id: check_is_merge
         if: steps.duplicate.outputs.skip_duplicate != 'true'
         run: |
-          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/* || ${GITHUB_REF_NAME} == trunk-temp/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then            
+          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then            
             echo "on_merge=true" >> $GITHUB_OUTPUT
           else
           echo "on_merge=false" >> $GITHUB_OUTPUT
