@@ -5992,7 +5992,7 @@ exempts
 erogenic
 encoronet 4
 enisled 1
-enisles
+enisles 1
 echinoderidae 3
 expeditated 1
 ejectors 2
