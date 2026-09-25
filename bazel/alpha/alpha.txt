@@ -24475,7 +24475,7 @@ axlesmith
 autotrophic 1
 antes
 advise
-autotropic
+autotropic 1
 asclepias 2
 ayless
 argalis 3
