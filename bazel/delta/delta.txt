@@ -5489,7 +5489,7 @@ dilutors 1
 durion 1
 deoxidative
 declamation 2
-deoxidisation
+deoxidisation 1
 dissolubility 1
 deadest 3
 devoiced
