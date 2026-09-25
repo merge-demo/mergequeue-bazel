@@ -9237,7 +9237,7 @@ goliard
 grisly 1
 glagolitic 3
 gravigrade 2
-grahamite
+grahamite 1
 grist 3
 guanase 1
 growthiness 1
