@@ -7645,7 +7645,7 @@ developes 3
 diswarn 1
 developing
 didelphis 1
-development
+development 1
 developmental 1
 developmentally 2
 decompressions 1
