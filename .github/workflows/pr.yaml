@@ -1,18 +1,13 @@
 name: PR Testing
 run-name: PR Checks for ${{ github.ref_name }}
+# pull_request only: Trunk also pushes the commit it tests to trunk-temp/* while building the
+# merge branch, and a push run there would report "run tests on PR" on that SHA without running
+# the test sim, letting the queue merge early. The queue is tested via its trunk-merge/* PR.
 on:
   pull_request: {}
-  push:
-    # Trunk pushes the same commit it tests on trunk-merge/* to a trunk-temp/* branch.
-    # A run there skips the test sim but still reports "run tests on PR" on that SHA,
-    # which lets the queue merge before the real test finishes.
-    branches-ignore:
-      - trunk-temp/**
 
-# Concurrency group so we can detect duplicate runs (pull_request + push for same branch).
-# We do not cancel in progress - the duplicate run will skip so MQ doesn't see a failure.
 concurrency:
-  group: pr-test-${{ github.head_ref || github.ref_name }}
+  group: pr-test-${{ github.head_ref }}
   cancel-in-progress: false
 
 jobs:
@@ -20,7 +15,6 @@ jobs:
     name: Dynamic CI Filter
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    if: github.event_name == 'pull_request' || github.event_name == 'push'
     outputs:
       test: ${{ steps.ci-filter.outputs.test }}
     steps:
@@ -36,37 +30,12 @@ jobs:
     needs: [dynamic-ci-filter]
     if: >-
       !cancelled() && needs.dynamic-ci-filter.outputs.test != 'false'
-    env:
-      BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # On push: if this branch has an open PR, skip so the pull_request trigger handles it (avoid duplicate work).
-      # On pull_request: always run (we are the PR run).
-      - name: Check for duplicate run
-        id: duplicate
-        uses: actions/github-script@v7
-        with:
-          script: |
-            if (context.eventName === 'pull_request') {
-              core.setOutput('skip_duplicate', 'false');
-              return;
-            }
-            const branch = process.env.BRANCH_NAME;
-            const { data: pulls } = await github.rest.pulls.list({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              head: `${context.repo.owner}:${branch}`,
-              state: 'open'
-            });
-            core.setOutput('skip_duplicate', pulls.length > 0 ? 'true' : 'false');
-        env:
-          BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
-
       - uses: robinraju/release-downloader@v1.13
-        if: steps.duplicate.outputs.skip_duplicate != 'true'
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
@@ -76,9 +45,8 @@ jobs:
 
       - name: Determine is_merge
         id: check_is_merge
-        if: steps.duplicate.outputs.skip_duplicate != 'true'
         run: |
-          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then            
+          if [[ ${GITHUB_HEAD_REF} == trunk-merge/* || ${GITHUB_HEAD_REF} == trunk-merge-beta/* ]]; then
             echo "on_merge=true" >> $GITHUB_OUTPUT
           else
           echo "on_merge=false" >> $GITHUB_OUTPUT
@@ -88,9 +56,7 @@ jobs:
         id: test
         # only actually run the test if we're on the merge branch
         # so we can simulate delay and flakiness
-        if:
-          steps.duplicate.outputs.skip_duplicate != 'true' && steps.check_is_merge.outputs.on_merge
-          == 'true'
+        if: steps.check_is_merge.outputs.on_merge == 'true'
         run: |
           ./mq test-sim
         env:
