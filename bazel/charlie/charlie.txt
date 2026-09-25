@@ -13444,7 +13444,7 @@ counterconversion
 craspedum 1
 cigarillos 2
 cambibia
-categoricalness 2
+categoricalness 3
 calcomp 1
 casting
 cigaritos
