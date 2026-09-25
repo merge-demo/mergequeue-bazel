@@ -929,7 +929,7 @@ decapsulate 2
 dromiceius
 dermapostasis 2
 dapperling 3
-dapperness
+dapperness 1
 dapping
 dactylographic 1
 divorcers 1
