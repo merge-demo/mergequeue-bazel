@@ -16789,7 +16789,7 @@ antifrictional 1
 abscoulomb 5
 algarsyf
 aphorise
-aphorismer
+aphorismer 1
 aphorismical
 acanthopore 1
 artamus
