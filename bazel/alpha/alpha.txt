@@ -15636,7 +15636,7 @@ archangels 1
 antinome
 arblast
 antinomical
-archmagician
+archmagician 1
 ailment 4
 acoustics
 antinormality 1
