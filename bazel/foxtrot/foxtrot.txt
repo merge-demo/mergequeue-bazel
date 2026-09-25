@@ -2529,7 +2529,7 @@ fluorine 1
 fiatconfirmatio 2
 fanam
 feeler 4
-frugivorous
+frugivorous 1
 fibromembranous 2
 filamentule 1
 frangibility
