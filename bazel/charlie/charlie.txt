@@ -15524,7 +15524,7 @@ cormlike 2
 clasmatocyte 1
 ccoya 2
 clasmatocytic
-clasmatosis
+clasmatosis 1
 cuitle 2
 clasped 1
 cinevariety 2
