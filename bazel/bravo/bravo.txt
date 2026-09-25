@@ -6846,7 +6846,7 @@ blibe 2
 bruchid 1
 benignity 1
 blackmailed 3
-bacteriotoxic 1
+bacteriotoxic 2
 benignancy 2
 benkulen 2
 bigener 2
