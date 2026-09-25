@@ -3825,7 +3825,7 @@ greyling 3
 greenbugs 4
 gabbard 1
 greenland 1
-gavialoid
+gavialoid 1
 gulancha 4
 gorblimey 1
 grumbly 2
