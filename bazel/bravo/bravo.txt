@@ -5820,7 +5820,7 @@ beleaps
 bestorm 2
 bldg 3
 bricks 2
-bellicism 2
+bellicism 3
 beyonds
 bellicist 2
 bromometry
