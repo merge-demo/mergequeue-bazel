@@ -18837,7 +18837,7 @@ cultigen 1
 celiac 2
 colicins
 corvisor
-cytogene
+cytogene 1
 colicroot
 colicwort 1
 cranial
