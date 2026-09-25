@@ -15314,7 +15314,7 @@ caddo
 compatriot 2
 crowdie 2
 critturs
-coexist
+coexist 1
 clangful 1
 clanging 2
 clangingly
