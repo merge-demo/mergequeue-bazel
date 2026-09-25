@@ -5733,7 +5733,7 @@ deplorability
 duals 2
 deplorableness
 disrepair 2
-deplore 1
+deplore 2
 deplorer 1
 deplumated
 disposes 1
