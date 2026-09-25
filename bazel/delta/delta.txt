@@ -1483,7 +1483,7 @@ dazes
 dazzle 3
 dawnstreak 4
 discriminative 1
-diffusor
+diffusor 1
 dasypaedal
 discolorated 3
 dazzler 1
