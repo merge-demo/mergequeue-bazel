@@ -3920,7 +3920,7 @@ ifbcdxvugar 1
 ifbenxiv 4
 ifbfemcic 2
 ifbianbtj 2
-ifbinn 1
+ifbinn 2
 ifbjuv 2
 ifbknlspf
 ifbkpu 1
