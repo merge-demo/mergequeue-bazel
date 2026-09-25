@@ -4186,7 +4186,7 @@ gyrocompass 2
 geographical 2
 gaggles 3
 gundogs 2
-gauds
+gauds 1
 gnathites 1
 gastroplication
 glaswegian 2
