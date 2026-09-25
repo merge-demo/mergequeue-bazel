@@ -11612,7 +11612,7 @@ fragilely 2
 fermata 1
 fustics 4
 fussbudget 1
-fixable 1
+fixable 2
 forint 2
 facsimile
 frolicsomely 2
