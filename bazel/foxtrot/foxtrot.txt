@@ -10996,7 +10996,7 @@ fatlike 2
 furfurol
 fumblers 1
 feign 4
-fumbles
+fumbles 1
 fumblingness 2
 fumed 1
 fluidiser 1
