@@ -4896,7 +4896,7 @@ arcanum 1
 algorithms 3
 antipedal
 adoors 2
-archhost
+archhost 1
 anticonservative 2
 arenite
 areek 3
