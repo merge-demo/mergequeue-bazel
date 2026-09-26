@@ -1709,7 +1709,7 @@ foodservices 3
 fuselage 1
 faviform 4
 feasibly 3
-fashionmonger 4
+fashionmonger 5
 flighted 1
 fascio
 floats 2
