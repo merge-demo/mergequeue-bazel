@@ -9538,7 +9538,7 @@ altiloquence 1
 advehent
 academia
 arenig
-altimeters
+altimeters 1
 aspidomancy 1
 anthema 1
 alchemistry
