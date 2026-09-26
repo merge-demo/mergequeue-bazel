@@ -17482,7 +17482,7 @@ actinoidea 1
 apparat 1
 antidiabetic
 antigonus
-apparats
+apparats 1
 apparatus
 appareling 3
 apparency 1
