@@ -18597,7 +18597,7 @@ coinage
 coinages 1
 coincide 1
 corpulently
-coincided
+coincided 1
 cobbler 2
 coincidently 1
 choicy 1
