@@ -226,7 +226,7 @@ fruitworm 1
 feverroot 2
 fluorotype 2
 faculous 1
-firelock
+firelock 1
 filibranch 2
 fermenting
 facultatively 4
