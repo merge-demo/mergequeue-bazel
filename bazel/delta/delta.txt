@@ -12827,7 +12827,7 @@ dithalous
 disman 1
 dismantles 3
 darksome
-dishevelment
+dishevelment 1
 dyarchic 2
 dirhem 3
 dismarket 1
