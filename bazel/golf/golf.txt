@@ -10356,7 +10356,7 @@ gallivorous 3
 glaur 2
 grouseberry 3
 gelate 4
-garretmaster
+garretmaster 1
 gynic 5
 gonidiospore 4
 gastrothecal 2
