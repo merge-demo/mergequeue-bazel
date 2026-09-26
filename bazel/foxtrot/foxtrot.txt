@@ -5673,7 +5673,7 @@ finite 2
 flancards 1
 friended 4
 fuzz 1
-firking 3
+firking 4
 fountains
 firebrands 1
 freeloader
