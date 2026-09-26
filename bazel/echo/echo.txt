@@ -681,7 +681,7 @@ eclogic 1
 extraocular 1
 eclogite 3
 eclosion 2
-emasculative 3
+emasculative 4
 eclosions
 ethel 1
 engaging 2
