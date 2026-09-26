@@ -573,7 +573,7 @@ folklorism
 forjudger
 falloff 4
 flamier
-fdubs
+fdubs 1
 frequentative 1
 frappe 3
 feeblish 4
