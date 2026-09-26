@@ -5052,7 +5052,7 @@ fatteners 1
 flaperon 1
 flippantly 2
 flappable 2
-frankalmoin
+frankalmoin 1
 flappet 2
 fermions 3
 figlike 1
