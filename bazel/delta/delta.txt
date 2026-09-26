@@ -309,7 +309,7 @@ daybeacon 1
 dealbate 1
 daybed 2
 devchar
-disembowelment 1
+disembowelment 2
 disgruntling 1
 dissuasiveness 2
 dollfaced
