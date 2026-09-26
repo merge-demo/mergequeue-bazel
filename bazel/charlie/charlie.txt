@@ -31206,7 +31206,7 @@ cuproiodargyrite 1
 chalque
 cuproplumbite 1
 cuproscheelite 3
-cytoplastic
+cytoplastic 1
 chromaticity
 cuprose
 cuprums
