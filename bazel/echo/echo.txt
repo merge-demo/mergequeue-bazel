@@ -13914,7 +13914,7 @@ entortill
 extorter 4
 ectoderm 1
 eburnated 3
-extramoral
+extramoral 1
 electee 3
 empathy 3
 epimerizing 4
