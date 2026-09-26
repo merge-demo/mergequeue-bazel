@@ -10435,7 +10435,7 @@ electrochronometer 2
 engraved
 estruation 3
 etymologization 4
-evaluator
+evaluator 1
 eurypteroid 2
 eviscerated 3
 eloinment 1
