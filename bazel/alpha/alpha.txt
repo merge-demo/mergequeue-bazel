@@ -8407,7 +8407,7 @@ afterloss 1
 anthrathiophene
 antilipoid 2
 adjusted 2
-aljamia 1
+aljamia 2
 attirail 1
 atfalati
 aortostenosis
@@ -9714,7 +9714,7 @@ alveoliform 1
 aduncated
 aquatints
 alveololabial
-achene
+achene 1
 ambries 1
 alveololingual 3
 aggregatae 3
