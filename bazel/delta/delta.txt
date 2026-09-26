@@ -12514,7 +12514,7 @@ disincarceration 2
 delphinoid 1
 disincarnate
 dudes
-defiled
+defiled 1
 disinclination 1
 disinclined
 disinclining 4
