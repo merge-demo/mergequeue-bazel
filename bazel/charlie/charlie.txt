@@ -11224,7 +11224,7 @@ chlorenchyma
 coassistance 1
 chlorguanide
 chlorhexidine
-coemperor
+coemperor 1
 chlorhydric 1
 chloriamb 1
 chloriambus
