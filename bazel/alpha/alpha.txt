@@ -15274,7 +15274,7 @@ autonitridation 1
 antileveling 1
 antigonon 2
 antigonorrheic
-afflue
+afflue 1
 antigovernmentally
 antigrammatical 1
 aminoacetanilide 2
