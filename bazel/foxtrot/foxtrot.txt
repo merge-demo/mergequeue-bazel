@@ -834,7 +834,7 @@ fantailed 4
 fingermark 5
 fermi
 fashioner
-faddishness
+faddishness 1
 finestill 3
 fractures 2
 freckened 1
