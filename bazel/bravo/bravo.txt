@@ -10333,7 +10333,7 @@ bamboozlers 1
 breviature 1
 bordman 2
 boil 3
-boozers
+boozers 1
 blame 1
 blamefully 4
 bicyclical
