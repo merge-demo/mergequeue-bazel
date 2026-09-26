@@ -20849,7 +20849,7 @@ armipotent
 arx
 arzan 2
 acapu
-apportions
+apportions 1
 amputator
 avenery 2
 archmock 1
