@@ -19910,7 +19910,7 @@ autoconvection
 armoracia
 albertite 1
 akuammin
-adonises
+adonises 1
 ampoules
 alastors 2
 adjuration 1
