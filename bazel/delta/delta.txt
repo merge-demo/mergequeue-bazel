@@ -16579,7 +16579,7 @@ dissimilarities 4
 diatonically 2
 dragomanate
 disharmonic 2
-decompile
+decompile 1
 disclaims 2
 daman 1
 dambose 1
@@ -18365,7 +18365,7 @@ desecrating 2
 duodenoenterostomy 1
 dreamish
 dorse 1
-demulcent
+demulcent 1
 denudative 2
 duodenojejunostomies 2
 dillue 3
