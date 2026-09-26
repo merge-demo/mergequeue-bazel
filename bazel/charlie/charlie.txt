@@ -17316,7 +17316,7 @@ comptonite
 constrains 2
 cadis
 coarsely
-cranched
+cranched 1
 coarsened
 circumsail
 coarseness 1
