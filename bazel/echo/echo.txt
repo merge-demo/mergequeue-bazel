@@ -9831,7 +9831,7 @@ exact 1
 estrich 1
 etagre 2
 expurgator 3
-eikon
+eikon 1
 egocentricity 3
 enthronising 3
 endoceras 1
