@@ -8470,7 +8470,7 @@ ioct 3
 ioctfdwf 1
 ioctjr 1
 ioctswmp 2
-iocttypykxj
+iocttypykxj 1
 ioculdtor 2
 iocuszpowxq
 iocuuenzxm 2
