@@ -7709,7 +7709,7 @@ estrus 1
 esprise 1
 extruder 1
 ellipticalness 1
-epidemically
+epidemically 1
 exalt
 escurialize 1
 evidentiary 1
