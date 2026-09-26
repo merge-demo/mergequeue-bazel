@@ -7853,7 +7853,7 @@ affecter 1
 archimandrite
 accorders
 alecost
-alectoria
+alectoria 1
 agroof
 aprosopia 1
 arbors 2
