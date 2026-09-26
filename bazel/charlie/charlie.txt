@@ -8754,7 +8754,7 @@ chapelries
 cinerins
 chapels
 chapelward 1
-chaperno 1
+chaperno 2
 custodia
 chicos 1
 chaperonage 1
