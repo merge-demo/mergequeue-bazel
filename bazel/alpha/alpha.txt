@@ -6310,7 +6310,7 @@ adjectively
 aute 1
 animative 1
 ambulances
-aggress
+aggress 1
 artsman 2
 agrarianly
 agrauleum 1
