@@ -8636,7 +8636,7 @@ forsakenness 3
 fermentarian 1
 forsythia
 fontinalis 3
-findon 1
+findon 2
 flamberge 3
 freightless 3
 filterability 2
