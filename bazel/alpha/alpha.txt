@@ -24062,7 +24062,7 @@ antinationalistic
 autodialing 1
 antinationalism 1
 antilacrosse
-autodialling
+autodialling 1
 aboard 1
 alexipyretic 1
 autoagglutination 1
