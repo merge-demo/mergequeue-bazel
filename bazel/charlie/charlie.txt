@@ -9489,7 +9489,7 @@ checkbook 3
 counterbuff
 chachalaca
 cableways 1
-cirrigerous
+cirrigerous 1
 climatically 1
 chaetites
 checkbooks 1
