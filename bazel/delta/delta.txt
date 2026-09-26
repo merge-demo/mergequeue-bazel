@@ -1117,7 +1117,7 @@ dissidently 2
 dash
 designado 1
 doctorization
-dashed
+dashed 1
 dicentra 1
 dipnoid 1
 dermopathy 4
