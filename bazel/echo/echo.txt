@@ -4966,7 +4966,7 @@ eglestonite 2
 ecliptics 2
 estrada 2
 emulatress 2
-endeavour
+endeavour 1
 endamaging 2
 estreated 1
 ericeticolous 1
