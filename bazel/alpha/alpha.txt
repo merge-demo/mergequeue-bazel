@@ -16770,7 +16770,7 @@ aphydrotropic 1
 adepts 2
 aphydrotropism 1
 aphilanthropy 1
-aphylly
+aphylly 1
 abidi
 awarding 1
 apparens
