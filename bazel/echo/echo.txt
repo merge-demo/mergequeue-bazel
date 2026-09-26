@@ -1787,7 +1787,7 @@ enormities
 eparchs 1
 erinose 1
 entericoid 2
-epigraphical
+epigraphical 1
 engravers 3
 embankments
 electrification 2
