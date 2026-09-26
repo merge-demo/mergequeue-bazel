@@ -11994,7 +11994,7 @@ characetum
 choristate 1
 chorister 2
 centralization
-coenacting
+coenacting 1
 choristership
 choristoblastoma
 choristoneura
