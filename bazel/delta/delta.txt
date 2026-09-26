@@ -4104,7 +4104,7 @@ dihybrid 1
 disreason 1
 delimitating 2
 delimitation 3
-deviational 2
+deviational 3
 displumed 1
 departments 2
 diplomyelia 1
