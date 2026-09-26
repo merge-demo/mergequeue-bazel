@@ -26341,7 +26341,7 @@ costumic
 cabstand 1
 costumiere 1
 costumiers
-cinematize
+cinematize 1
 choreomania 1
 cosubject
 cashboxes
