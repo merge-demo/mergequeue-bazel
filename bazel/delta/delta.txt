@@ -2662,7 +2662,7 @@ discernably 1
 decompensating 2
 delinquents
 decenniad
-decompensations
+decompensations 1
 dasylirion 1
 doorkeeper 1
 decompiler
