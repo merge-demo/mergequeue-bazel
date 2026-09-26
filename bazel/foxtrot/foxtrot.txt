@@ -7524,7 +7524,7 @@ fleshbrush 2
 frivoler
 foreboom 4
 foredooms
-filterers 1
+filterers 2
 foreburton 1
 fameless 3
 forecast 3
