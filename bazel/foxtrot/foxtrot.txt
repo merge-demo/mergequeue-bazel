@@ -11708,7 +11708,7 @@ fasciola 2
 furphy 1
 fernsick
 frameless 1
-flaw 1
+flaw 2
 fanfish 1
 fiancailles 3
 frowns 3
