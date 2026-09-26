@@ -7870,7 +7870,7 @@ amicron 1
 anociassociation 2
 arrentable
 alectryomancy
-anaptotic
+anaptotic 1
 alectrion 1
 aerotow 1
 animoseness 2
