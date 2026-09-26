@@ -3403,7 +3403,7 @@ embargoes 4
 endocrinologist 2
 enc 3
 eavedropper 3
-embark
+embark 1
 epichorial 2
 embarkations 3
 epitomize
