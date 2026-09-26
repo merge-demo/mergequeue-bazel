@@ -8579,7 +8579,7 @@ enharmonic 3
 earnings
 equibalanced
 electrodialitic 1
-equicohesive
+equicohesive 1
 equicontinuous 1
 engagements
 eyebar 3
