@@ -14575,7 +14575,7 @@ accreditee 1
 archegosaurus 2
 anthropophagist
 accoutred 1
-anthropophagite
+anthropophagite 1
 abirritated 1
 allophonic 1
 auric
