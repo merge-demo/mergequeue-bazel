@@ -1842,7 +1842,7 @@ grizel
 grassy 1
 glummer 3
 gabbier
-gatekeepers 1
+gatekeepers 2
 glos 3
 gentile 4
 groupage 2
