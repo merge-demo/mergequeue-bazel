@@ -2431,7 +2431,7 @@ dane 3
 decimates 1
 desmohemoblast 2
 dropkick 3
-dusken
+dusken 1
 dihydronaphthalene
 decimating 2
 dacrya 1
