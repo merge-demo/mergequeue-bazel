@@ -3837,7 +3837,7 @@ chrisma 1
 carbomethene 1
 carbomethoxy 1
 carbomethoxyl 2
-carbon 1
+carbon 2
 carbonaceous 3
 cuter
 cleavability
