@@ -12533,7 +12533,7 @@ enneacontahedron 1
 exoskeleton 1
 exist 1
 existed
-elucidating
+elucidating 1
 esne 2
 enumerably
 excoecaria 3
