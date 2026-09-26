@@ -8446,7 +8446,7 @@ devotionalist
 dorsiventrally 1
 ds 1
 duopsony
-degreed 1
+degreed 2
 diamagnet 1
 diamagnetic 3
 diamagnetism 2
