@@ -3223,7 +3223,7 @@ epaule 2
 elseways 2
 extuberance 3
 ecliptical
-elaiosome
+elaiosome 1
 elt 3
 elaters 1
 engendure 2
