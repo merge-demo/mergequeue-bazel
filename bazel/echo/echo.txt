@@ -48,7 +48,7 @@ earflap 1
 expender 1
 enzyms 3
 excites 2
-exciton 2
+exciton 3
 electroretinograph 2
 excursion 1
 escarped 2
