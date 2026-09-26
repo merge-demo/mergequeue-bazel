@@ -27880,7 +27880,7 @@ crablet
 crablike
 chromidial 1
 crabman 2
-crabs 1
+crabs 2
 crabstick 1
 comeatable 1
 calotin 1
