@@ -24622,7 +24622,7 @@ copyrightable 2
 copyrighter
 copis
 cowling 3
-chicnesses
+chicnesses 1
 coattended 2
 cumaru
 caedmonic
