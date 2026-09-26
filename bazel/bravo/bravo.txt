@@ -12503,7 +12503,7 @@ broncholith 2
 bacquet 3
 bilberries 2
 boneshaker
-bridesman
+bridesman 1
 bidets 1
 backbeat 1
 benetnasch 3
