@@ -15590,7 +15590,7 @@ cathidine 3
 clathrarian 3
 clathrate
 choose 1
-clathrinidae
+clathrinidae 1
 clathroid
 clathrose 1
 cranes
