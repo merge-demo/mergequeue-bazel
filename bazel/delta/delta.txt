@@ -1891,7 +1891,7 @@ deicate 1
 deboss 3
 detractive 1
 debouche 1
-disbench
+disbench 1
 disconcertingness 2
 digladiator 3
 discourse
