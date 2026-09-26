@@ -3593,7 +3593,7 @@ carabidae 1
 checkle 2
 chrisoms 1
 carabidan
-carabidoid
+carabidoid 1
 carabids
 cappy 1
 colorist
