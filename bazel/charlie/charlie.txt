@@ -29933,7 +29933,7 @@ crosslike
 carbosilicate 1
 crossline
 cymas 3
-crosslink
+crosslink 1
 crossness
 cladophorales 2
 crossopt 2
