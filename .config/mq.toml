@@ -9,15 +9,20 @@ name = "trunk bot"
 email = "bot@trunk.io"
 
 [test]
-flake_rate = 0.1
-# how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "12m"
+flake_rate = 0.01
+# how long test should spin for (can be described as 10s, 7m, 1hr).
+# pr.yaml adds 0-5m of random jitter on top, so merge tests take 10-15m.
+sleep_for = "10m"
 
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 60          # target number of pull requests per hour
-run_generate_for = "50 minutes"
+# Target: 200 PRs/hr total, from 4 parallel generators in factory.yaml (~50/hr each).
+# mq waits the full interval *after* each PR, and creating a PR takes ~35-40s, so the
+# interval must be shortened to hit the real rate: 103/hr over 29m = 50 PRs, one every
+# 35s; 35s wait + ~37s creation = ~72s/PR = ~60m per run, matching the hourly cron.
+requests_per_hour = 103
+run_generate_for = "29 minutes"
 change_code_path = "bazel"
 
 # how to distribute changes of impacted deps
