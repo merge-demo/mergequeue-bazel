@@ -12366,7 +12366,7 @@ biskop
 baskets 1
 bomble 2
 blackbutt 2
-brickwall 1
+brickwall 2
 boombox 1
 beget
 bluishness
