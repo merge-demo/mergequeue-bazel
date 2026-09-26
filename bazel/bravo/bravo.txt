@@ -12825,7 +12825,7 @@ baseboard
 burglary
 basiliscine
 blink 1
-barnabite
+barnabite 1
 bioprecipitation 1
 blizzardous
 barthite 1
