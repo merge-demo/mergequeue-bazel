@@ -4129,7 +4129,7 @@ fusiladed 3
 fiorite
 flamberg 1
 foreseen 3
-falsehoods
+falsehoods 1
 fornenst 2
 faff 2
 fontanel 1
