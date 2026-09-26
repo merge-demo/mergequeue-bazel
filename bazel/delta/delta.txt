@@ -3193,7 +3193,7 @@ delegatory 2
 dislevelment 1
 descendible 1
 despiteous
-dulcineas
+dulcineas 1
 determinant 3
 deracine 2
 deinotherium
