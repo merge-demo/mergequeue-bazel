@@ -8455,7 +8455,7 @@ diamant 1
 ditrochee 1
 deflexed 2
 dooxidize 3
-dextro 1
+dextro 2
 decrowns
 daimonology 1
 decise 2
