@@ -8562,7 +8562,7 @@ gitana 1
 grandada 1
 glasslike
 grouped 1
-gravisphere
+gravisphere 1
 guiltlessly
 gravitative 5
 glomeli 2
