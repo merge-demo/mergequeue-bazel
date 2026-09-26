@@ -11695,7 +11695,7 @@ bobbin
 beslaved 1
 bewimple 1
 bolivias 1
-bobbinite 2
+bobbinite 3
 bobbish 1
 bais 1
 belfast
@@ -14460,7 +14460,7 @@ braises 2
 butea 2
 braystone
 bigging 4
-beent
+beent 1
 bathyspheres
 bagh 1
 babying 2
