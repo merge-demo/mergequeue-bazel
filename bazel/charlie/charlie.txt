@@ -16637,7 +16637,7 @@ clem 1
 closehanded
 carse 1
 colophonium
-closeness
+closeness 1
 cedric 1
 climbing
 cypselidae
