@@ -6905,7 +6905,7 @@ balmony 1
 beshadowed 1
 beauxite 1
 briolette 1
-biplosive 1
+biplosive 2
 breediness 1
 betail 1
 baselessness 1
