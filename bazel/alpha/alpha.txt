@@ -5835,7 +5835,7 @@ ardass
 assumptive 2
 archiannelida
 ageisms 2
-antiturnpikeism
+antiturnpikeism 1
 arithmetical 1
 atteal 2
 agelast
