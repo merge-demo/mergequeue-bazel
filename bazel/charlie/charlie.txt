@@ -15785,7 +15785,7 @@ cleanup
 conveniently 1
 chelaship
 corruptibly 1
-colonized 1
+colonized 2
 clearable
 clearance 1
 clearances 2
