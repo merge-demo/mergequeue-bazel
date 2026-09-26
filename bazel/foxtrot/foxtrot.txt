@@ -333,7 +333,7 @@ fail 1
 fireplough 2
 faineancy 2
 fayles 2
-fimbricated
+fimbricated 1
 furcal
 fayumic 1
 fricandelle 2
