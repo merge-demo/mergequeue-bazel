@@ -7303,7 +7303,7 @@ enclitics
 exlex
 elechi 3
 engird 1
-excheat 3
+excheat 4
 encharnel 2
 emigres 1
 eristics 3
