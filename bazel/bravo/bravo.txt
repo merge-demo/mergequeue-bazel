@@ -13949,7 +13949,7 @@ bibulosity 1
 becluster
 boxing 1
 boxmaker 3
-boxman
+boxman 1
 boxroom 3
 bromatium 2
 barwise 1
