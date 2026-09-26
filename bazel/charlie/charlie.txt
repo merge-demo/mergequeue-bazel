@@ -29201,7 +29201,7 @@ criosphinx
 chromatospheric 1
 criosphinxes
 catrigged
-cryostat
+cryostat 1
 cryosurgeon
 cryosurgery
 cryptogamia 2
