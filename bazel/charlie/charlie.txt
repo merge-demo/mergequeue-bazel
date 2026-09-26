@@ -26809,7 +26809,7 @@ cottiest 1
 counterembattled 1
 counterenergy 1
 counterengagement
-corporator
+corporator 1
 cambiogenetic 2
 counterengine
 counterenthusiasm 1
