@@ -9488,7 +9488,7 @@ checkbits
 checkbook 3
 counterbuff
 chachalaca
-cableways
+cableways 1
 cirrigerous
 climatically 1
 chaetites
