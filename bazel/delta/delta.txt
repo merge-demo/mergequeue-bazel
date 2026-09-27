@@ -5573,7 +5573,7 @@ depauperize
 dorsal
 dyscrase 1
 depeinct 2
-dwarfing
+dwarfing 1
 dependabilities 1
 donatistic 1
 dibber 1
