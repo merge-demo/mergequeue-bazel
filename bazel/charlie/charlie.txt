@@ -13521,7 +13521,7 @@ confineable 3
 consignees 1
 cobbier 1
 cardioclasia
-corenounce
+corenounce 1
 crozed
 castigative 1
 ciliotomy
