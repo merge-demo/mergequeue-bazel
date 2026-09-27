@@ -527,7 +527,7 @@ ghettoize
 gyrowheel 2
 gluten 1
 gliomas 1
-germproof 2
+germproof 3
 geeldikkop 1
 galipoidin 7
 guzzles 2
