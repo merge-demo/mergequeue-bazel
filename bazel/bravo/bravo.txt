@@ -6090,7 +6090,7 @@ barricader
 bend 1
 bub 2
 bendee 1
-bullwhips
+bullwhips 1
 beamier 1
 bittering 3
 bibliographical
