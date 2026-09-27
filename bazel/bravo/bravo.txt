@@ -6969,7 +6969,7 @@ besluit
 bespread 2
 besmile 1
 besmiled
-bobtailing 1
+bobtailing 2
 bathhouse
 bunns
 betroth 2
