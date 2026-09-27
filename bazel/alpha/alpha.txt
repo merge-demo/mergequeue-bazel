@@ -23766,7 +23766,7 @@ avowance
 alto
 auspice 1
 authenticated
-asouth 1
+asouth 2
 aerohydroplane 1
 amorphozoa 2
 asplenioid 2
