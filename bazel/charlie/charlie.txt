@@ -18595,7 +18595,7 @@ cosmometry 3
 coinable
 coinage
 coinages 1
-coincide 1
+coincide 2
 corpulently
 coincided 1
 cobbler 2
