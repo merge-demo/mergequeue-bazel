@@ -3539,7 +3539,7 @@ defrayers 2
 defraying
 desaturate
 desiccated 1
-dagobas 3
+dagobas 4
 desmomyaria
 dufoil 2
 drapery 1
