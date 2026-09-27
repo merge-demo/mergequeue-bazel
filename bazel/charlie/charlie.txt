@@ -2421,7 +2421,7 @@ chimneys 1
 culicine
 cancer 1
 cancerated
-coyed
+coyed 1
 cambeva
 corroborators 1
 convenes
