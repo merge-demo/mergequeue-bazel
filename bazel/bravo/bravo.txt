@@ -12251,7 +12251,7 @@ baysmelts 1
 brake 1
 briefless
 byssiferous
-bolt
+bolt 1
 boltage
 bluestockings 1
 biasses 1
