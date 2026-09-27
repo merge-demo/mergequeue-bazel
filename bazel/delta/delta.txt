@@ -9330,7 +9330,7 @@ dread 1
 disorders 1
 dif 1
 dodos 3
-divekeeper
+divekeeper 1
 dactylography 2
 diffame 3
 dietted 4
