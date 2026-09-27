@@ -3358,7 +3358,7 @@ floorers 4
 frowsiest 1
 flotsam
 fluorescer 4
-fulmined
+fulmined 1
 foreheaded 3
 forjaskit
 fiedlerite
