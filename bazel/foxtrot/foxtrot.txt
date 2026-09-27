@@ -5546,7 +5546,7 @@ flagon 5
 fol 4
 fural 1
 forestays 1
-favellae
+favellae 1
 flexion 3
 foreclosable 2
 ferdiad 1
