@@ -7657,7 +7657,7 @@ eccentricities 1
 elapse 3
 eoliths 2
 enterohelcosis 1
-epiparodos 1
+epiparodos 2
 epicortical
 enterostomy
 esere 3
