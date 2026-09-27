@@ -23079,7 +23079,7 @@ acholic 1
 attainders 2
 asfast
 attainment
-attainor
+attainor 1
 acridium
 attainted
 asepticized 2
