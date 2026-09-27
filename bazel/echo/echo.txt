@@ -8356,7 +8356,7 @@ exuvial 4
 eyetooth 1
 enthrallments 2
 educative 2
-excitomotory
+excitomotory 1
 estivated 1
 exclusory
 endiadem 3
