@@ -656,7 +656,7 @@ autotomic 2
 azumbre 2
 azoted
 abominations
-abominator
+abominator 1
 affably 1
 attrist
 abominators
