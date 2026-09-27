@@ -4915,7 +4915,7 @@ fino 1
 fourscore 3
 flakiest 3
 forged
-frequentable 2
+frequentable 3
 flambeau 3
 foamier 2
 fixate 2
