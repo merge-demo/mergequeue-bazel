@@ -16004,7 +16004,7 @@ dispetal 2
 douane
 doub 1
 downsize
-decrepitude
+decrepitude 1
 direct 3
 double 2
 demos 2
