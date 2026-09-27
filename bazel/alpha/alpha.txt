@@ -24387,7 +24387,7 @@ autosymbolic 1
 autosymbolical 2
 autosymbolically
 ambushing
-autosyn
+autosyn 1
 aarrgh 1
 alluded 1
 alembics 1
