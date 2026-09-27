@@ -1260,7 +1260,7 @@ gradings 1
 greasers 1
 galliardly 2
 grognard 4
-geneki
+geneki 1
 griffes 1
 gapper 2
 glutinosity 4
