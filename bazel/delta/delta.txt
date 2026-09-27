@@ -16489,7 +16489,7 @@ detached
 disagreeables
 dracontium 1
 disfavouring
-diastole
+diastole 1
 dungan 3
 dradge
 dilutions 2
