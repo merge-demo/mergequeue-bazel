@@ -28894,7 +28894,7 @@ crewet
 culminations 1
 campit 2
 complanar
-cyclospondylic
+cyclospondylic 1
 crewing
 cutwal 1
 calendarer
