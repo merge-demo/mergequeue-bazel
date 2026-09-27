@@ -9533,7 +9533,7 @@ boarfish
 barbacoan 2
 bys 1
 bisagre
-basidium
+basidium 1
 belays
 bisayan
 buccaro
