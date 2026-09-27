@@ -13472,7 +13472,7 @@ decrassify
 destroys 2
 disrobing
 disroost 1
-demiurgism
+demiurgism 1
 disponed
 disrooted 1
 dissertated 1
