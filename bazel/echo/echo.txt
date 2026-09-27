@@ -6390,7 +6390,7 @@ embars 1
 enshrinements 1
 endovaccination
 electrotyper
-ephebe 1
+ephebe 2
 expenseful 2
 earthward 3
 emulsor 1
