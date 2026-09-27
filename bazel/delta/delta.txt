@@ -14771,7 +14771,7 @@ deplaster 2
 dodonaea
 dilatancy
 discutable
-docker
+docker 1
 disaccharidase 2
 docket
 devouring
