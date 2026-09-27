@@ -5147,7 +5147,7 @@ expositoriness 1
 evanishment 1
 endoconidia 2
 edificate 3
-epiplanktonic
+epiplanktonic 1
 ejectives 2
 encrustment 1
 elegits 2
