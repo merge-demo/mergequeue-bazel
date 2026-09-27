@@ -23044,7 +23044,7 @@ consort 2
 crown
 chowderhead
 curtest 1
-consortable
+consortable 1
 consorter 1
 consortia
 cavel
