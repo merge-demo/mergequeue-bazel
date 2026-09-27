@@ -25283,7 +25283,7 @@ cormel 1
 concetto
 coardent
 cormidium
-concolour
+concolour 1
 circulin 1
 cormogen
 cormophyta 1
