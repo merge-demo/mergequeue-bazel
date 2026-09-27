@@ -3232,7 +3232,7 @@ ernesse 3
 enambush 3
 esotery 1
 extraschool 3
-eluctate
+eluctate 1
 elude 1
 equant 3
 eludes 1
