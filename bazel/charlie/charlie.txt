@@ -3133,7 +3133,7 @@ chequerboard 2
 capeadores 1
 capelan 1
 capelans
-chromid
+chromid 1
 capelin 1
 cornette
 capeline
