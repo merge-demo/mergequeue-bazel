@@ -6264,7 +6264,7 @@ gobber 1
 gazettes 2
 goateed 2
 guitarlike
-gregariousness 5
+gregariousness 6
 guttural
 ghostiest
 gconv 2
