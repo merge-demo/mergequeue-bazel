@@ -12559,7 +12559,7 @@ exite 2
 eranist 1
 extinction 2
 envied 1
-enherit
+enherit 1
 entryman 3
 elkdom 1
 eft 1
