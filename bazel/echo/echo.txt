@@ -14136,7 +14136,7 @@ enseraph 2
 enplanement 2
 emulates 2
 enlard 1
-entocuneiform
+entocuneiform 1
 excussion
 endearment 2
 entrails 2
