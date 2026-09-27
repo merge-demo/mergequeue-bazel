@@ -1813,7 +1813,7 @@ calzones 1
 cannonry 2
 consigneeship 3
 costocentral
-cam
+cam 1
 ciceronize
 coala 1
 crassula
