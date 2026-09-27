@@ -772,7 +772,7 @@ badmouths 1
 bullfrog
 boltheads 3
 badnesses
-bradylogia
+bradylogia 1
 bads 1
 bicetyl
 beeline 2
