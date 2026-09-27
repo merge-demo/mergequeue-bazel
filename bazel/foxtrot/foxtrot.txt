@@ -8677,7 +8677,7 @@ floured 4
 ferroprint 2
 forth 2
 freesia
-flatfooted 2
+flatfooted 3
 flaunters 2
 fryers
 funiculate 1
