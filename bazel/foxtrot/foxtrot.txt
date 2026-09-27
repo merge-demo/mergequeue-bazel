@@ -9950,7 +9950,7 @@ flairs 4
 floatingly 3
 fishworks
 frumentum
-flatlanders
+flatlanders 1
 flanche 3
 frantic
 frigiddaria 2
