@@ -4825,7 +4825,7 @@ bolometer 1
 bedstraw 4
 bedstraws 2
 bedstring
-boundedly 1
+boundedly 2
 beautiless 1
 broadwise 1
 bartram
