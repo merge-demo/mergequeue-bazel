@@ -6575,7 +6575,7 @@ aidman 4
 aidmen 1
 akeake 2
 aline
-adjunctive
+adjunctive 1
 afterripening
 arbalestre
 apocarpous 1
