@@ -23803,7 +23803,7 @@ cardueline 1
 chlorinous
 contravening
 contraversion
-contravindicate
+contravindicate 1
 chaui
 contravindication 1
 circumvascular 1
