@@ -6582,7 +6582,7 @@ gesture 3
 gambeson 1
 grummets 1
 girons 3
-gimmerpet
+gimmerpet 1
 gambas 2
 guazzo
 groyne 2
