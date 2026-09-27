@@ -12422,7 +12422,7 @@ batell
 barker
 bareboats 2
 bushiness 1
-bureaux
+bureaux 1
 banisterine
 bond 2
 bipinnatifid 2
