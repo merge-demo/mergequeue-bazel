@@ -3187,7 +3187,7 @@ coverlet
 crystallogy 1
 craked
 citruses
-capewise
+capewise 1
 capework 1
 capful
 caphar 2
