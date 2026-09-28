@@ -5446,7 +5446,7 @@ garottes 1
 glyptodon 3
 glyptodontoid 3
 glebae 3
-ghostwrites
+ghostwrites 1
 galactophlebitis 1
 gracelike
 griphosaurus
