@@ -461,7 +461,7 @@ brontosauri
 backspaced 1
 backspacefile 4
 backspacer 2
-bundist
+bundist 1
 blockades 2
 bacillogenic 2
 burree 1
