@@ -11152,7 +11152,7 @@ executing
 evacuants
 earthdrake 2
 exophagous 3
-epaulet
+epaulet 1
 entity 1
 eadi 2
 evacuated 3
