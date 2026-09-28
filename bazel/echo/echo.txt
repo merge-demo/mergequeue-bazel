@@ -6855,7 +6855,7 @@ exocentric
 eupolyzoan 3
 ensky 2
 etherification
-exceptionless
+exceptionless 1
 epitome 3
 exterior 2
 embarque 3
