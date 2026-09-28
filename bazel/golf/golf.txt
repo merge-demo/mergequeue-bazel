@@ -6343,7 +6343,7 @@ genarchaship 3
 graptoloidea 2
 goatsucker 1
 graplines 2
-gamic
+gamic 1
 greentail 2
 gastrectasis 1
 gonake 2
