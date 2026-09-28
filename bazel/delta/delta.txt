@@ -16147,7 +16147,7 @@ douziemes 1
 dysmeromorphic 2
 dovecot 2
 dhows 1
-dynamist
+dynamist 1
 dislustred 1
 dovehouse
 dovelike
