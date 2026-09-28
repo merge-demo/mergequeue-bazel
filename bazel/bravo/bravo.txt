@@ -11216,7 +11216,7 @@ burkes 2
 batterfang 3
 brazenness 1
 bracts 2
-bf
+bf 1
 bezesteen 4
 borghalpenny
 bespeaker 1
