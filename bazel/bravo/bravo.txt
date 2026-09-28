@@ -3006,7 +3006,7 @@ beared 1
 bidirectionally 2
 boist 2
 bartenders 2
-bartending
+bartending 1
 bulbiferous
 bartends 2
 burthened 1
