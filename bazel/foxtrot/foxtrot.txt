@@ -6792,7 +6792,7 @@ foldaway 1
 feretory 3
 ferryman 1
 farfal 2
-forethink 5
+forethink 6
 foldcourse 1
 fiberless 3
 folkmoots 1
