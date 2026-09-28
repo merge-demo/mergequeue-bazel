@@ -10984,7 +10984,7 @@ endocervicitis 1
 excludes 1
 electrizing 2
 eurhythmic
-epichirema
+epichirema 1
 echeloot 1
 eoside
 eigenfrequency 2
