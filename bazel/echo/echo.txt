@@ -6695,7 +6695,7 @@ enchelycephali 2
 enterosepsis 1
 enterotome 3
 encharged 1
-enright
+enright 1
 enterotoxemia 3
 enterotoxication
 evenmindedness 2
