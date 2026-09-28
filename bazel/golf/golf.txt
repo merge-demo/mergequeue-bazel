@@ -4303,7 +4303,7 @@ goboes 3
 glabellum 1
 gynecophorous 3
 gynecratic 2
-gelidness
+gelidness 1
 gorgonia 2
 gyneolater 1
 guinfo
