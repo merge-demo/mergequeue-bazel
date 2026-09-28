@@ -11433,7 +11433,7 @@ bairnliest 1
 bluepoint 2
 bluepoints 1
 belzebub
-blueprint 1
+blueprint 2
 blancmange 3
 blazingly
 bluesy 1
