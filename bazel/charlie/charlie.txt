@@ -10074,7 +10074,7 @@ collab
 chipchap
 chessdom 1
 chesser 2
-cabinda
+cabinda 1
 chesses
 chessylite 2
 chessist
