@@ -17746,7 +17746,7 @@ disconsolate 1
 dispelling 2
 ducally 1
 drunt
-discriminous
+discriminous 1
 dispossessed 1
 ducaton
 dependency
