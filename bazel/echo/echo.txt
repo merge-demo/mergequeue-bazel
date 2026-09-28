@@ -13796,7 +13796,7 @@ extortive
 equiped 3
 epicheirema 2
 engraftment 3
-extorts
+extorts 1
 ecteron 1
 esparto 2
 eukaryote 1
