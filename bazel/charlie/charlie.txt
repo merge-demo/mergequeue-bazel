@@ -4855,7 +4855,7 @@ clachans 2
 carriages 1
 crosstie
 carriagesmith 1
-cinchonicin
+cinchonicin 1
 carriageway 2
 carryall 1
 carrick
