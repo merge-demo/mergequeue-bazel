@@ -17136,7 +17136,7 @@ divvers 1
 drunkenness
 dero
 decuries 1
-decine 1
+decine 2
 dipygi
 devarshi
 drilling 3
