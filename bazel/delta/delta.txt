@@ -9639,7 +9639,7 @@ despot 2
 dihydroergotamine 2
 destructs 1
 derogatorily
-diplexer
+diplexer 1
 dissight 1
 dipoles 2
 dexterous 2
