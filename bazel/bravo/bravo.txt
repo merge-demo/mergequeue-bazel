@@ -11456,7 +11456,7 @@ bulbul 1
 bluetongue 1
 bedmates
 bluetop 3
-berths 3
+berths 4
 burgware 3
 bravos
 bundlers 1
