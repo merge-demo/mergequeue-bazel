@@ -7272,7 +7272,7 @@ dournesses
 defalk 3
 disarrest
 deteriorating 2
-deterioration
+deterioration 1
 deuce 1
 data 4
 dear 2
