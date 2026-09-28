@@ -1833,7 +1833,7 @@ banderole 1
 bindings 1
 brigading
 banders
-broadlings
+broadlings 1
 befogging
 barkinji 3
 bandfile
