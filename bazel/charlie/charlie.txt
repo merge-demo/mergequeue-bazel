@@ -1315,7 +1315,7 @@ catchwater
 calibrating
 calibre
 chromatophilia
-causative
+causative 1
 cyanohydrin 1
 catalects 1
 caliburn
