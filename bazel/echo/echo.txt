@@ -4159,7 +4159,7 @@ empodia
 eclegm 1
 extracranial 1
 energids 2
-expungement
+expungement 1
 erythrodermia 3
 externum 2
 encl 1
