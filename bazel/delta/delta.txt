@@ -11493,7 +11493,7 @@ defalcations
 deads
 discolorment 1
 discolouring 1
-discolourization 1
+discolourization 2
 discourt
 discombobulate
 disuniform
