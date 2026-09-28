@@ -9031,7 +9031,7 @@ guiles
 geohydrologic 1
 groomer 3
 grillee 1
-gatehouse 1
+gatehouse 2
 golem 6
 gramashes 2
 granatum 1
