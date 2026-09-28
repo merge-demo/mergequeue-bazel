@@ -427,7 +427,7 @@ drinker
 dairywomen
 daunder 1
 descanting
-dayrooms
+dayrooms 1
 deities 3
 dodrantal 1
 dhourra
