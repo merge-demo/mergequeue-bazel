@@ -16208,7 +16208,7 @@ crossbeak 1
 clingfishes
 contravenes
 clingy 3
-clinginess
+clinginess 1
 cuit
 craniopagus
 clinging
