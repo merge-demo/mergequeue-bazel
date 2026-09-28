@@ -2452,7 +2452,7 @@ evoker
 electroendosmosis 1
 encipher 1
 epoist 2
-enslavements
+enslavements 1
 exquisiteness 4
 exterminist
 electroextraction 1
