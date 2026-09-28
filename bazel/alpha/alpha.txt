@@ -16808,7 +16808,7 @@ ancienter 1
 approve 1
 anlet
 auxiliary 1
-ambrosiac
+ambrosiac 1
 aphanites 1
 aphra 1
 aphrodesiac
