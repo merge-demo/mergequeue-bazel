@@ -370,7 +370,7 @@ facsim 4
 fluids
 flowerily 2
 fattiness 2
-flusterer
+flusterer 1
 faints
 forcedness 2
 franklandite 3
