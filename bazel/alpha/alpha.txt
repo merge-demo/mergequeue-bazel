@@ -13917,7 +13917,7 @@ apprehends
 asservilize 3
 ansulate
 anglice
-answerability
+answerability 1
 answered 1
 answerers 2
 answeringly
