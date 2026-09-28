@@ -5592,7 +5592,7 @@ anatron 1
 anhele 1
 afterstretch 1
 amphitriaene
-autosuggestive
+autosuggestive 1
 archdogmatist 1
 acetylaminobenzene 1
 affricated
