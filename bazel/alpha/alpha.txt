@@ -1733,7 +1733,7 @@ aspersion 2
 archiereus
 aments 2
 attalid 1
-accuse
+accuse 1
 animalivore 1
 accused
 alightment 1
