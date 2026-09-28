@@ -4983,7 +4983,7 @@ flammule 2
 fatidic 3
 flanch 1
 formalize 4
-ferrugination
+ferrugination 1
 forwarders 3
 fictionalized
 foraminate 3
