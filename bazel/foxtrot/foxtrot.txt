@@ -10021,7 +10021,7 @@ feminacy 3
 fringetail 2
 foreplot 1
 fimbles
-farmerlike
+farmerlike 1
 frogskin 1
 fortune
 fibrocystoma
