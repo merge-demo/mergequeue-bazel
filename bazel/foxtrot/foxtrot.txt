@@ -2430,7 +2430,7 @@ frizzle 2
 fingered
 frisco 2
 farandola
-foils
+foils 1
 flutterable 2
 frazer 1
 fulgourous
