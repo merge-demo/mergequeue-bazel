@@ -11642,7 +11642,7 @@ boatless 2
 banjoes
 bewonder
 belace 3
-bankerdom
+bankerdom 1
 boatloader 1
 beigy
 boatmanship 3
