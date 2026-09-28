@@ -17444,7 +17444,7 @@ beard 1
 burler 1
 balsawood
 birdnester
-bewearying
+bewearying 1
 brocage 1
 bunkie 1
 bandwork
