@@ -6812,7 +6812,7 @@ dropsonde 2
 dedicates 1
 diaconate 3
 desize 4
-decompositional 1
+decompositional 2
 devilmonger
 desklike 1
 diphrelatic
