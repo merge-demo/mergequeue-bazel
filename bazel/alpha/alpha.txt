@@ -10205,7 +10205,7 @@ aerofoil 1
 ambuscadoed 1
 ambushers 1
 allocinnamic 1
-amphitheaters
+amphitheaters 1
 anablepidae
 arcocentrous
 axifugal 2
