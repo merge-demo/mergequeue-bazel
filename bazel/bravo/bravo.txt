@@ -5098,7 +5098,7 @@ behoof 1
 boundedness
 beflag
 bamboo 1
-binits 6
+binits 7
 basilicon 2
 beflagged 1
 broidering 1
