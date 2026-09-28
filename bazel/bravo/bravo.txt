@@ -17782,7 +17782,7 @@ burrhead 4
 burrheaded 1
 bedcovers 2
 burrheadedness 1
-baroneted
+baroneted 1
 blinkered 1
 backing 2
 boosters
