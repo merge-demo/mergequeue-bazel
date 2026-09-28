@@ -16728,7 +16728,7 @@ dicey
 desalt 3
 disauthorize 3
 disentomb
-drape
+drape 1
 disharmonized
 decourse
 dolichocephaly 3
