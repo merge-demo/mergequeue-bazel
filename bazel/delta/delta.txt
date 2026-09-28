@@ -15468,7 +15468,7 @@ divinities 1
 dompteuse 1
 doms
 derve
-don
+don 1
 dona
 danker 2
 donaciform 1
