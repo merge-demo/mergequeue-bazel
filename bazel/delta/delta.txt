@@ -3369,7 +3369,7 @@ dentils
 doles 1
 dagos 1
 deturn 2
-dictative
+dictative 1
 defis
 deflagrable 1
 desophistication 3
