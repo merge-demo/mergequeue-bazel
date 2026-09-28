@@ -14874,7 +14874,7 @@ bilith 2
 brokers 1
 breakable 1
 breakaxe 1
-bitterless 1
+bitterless 2
 burning
 baja
 breakers 1
