@@ -17194,7 +17194,7 @@ bullpoll
 bemirror
 bullpup 2
 brughs 2
-bestarve 1
+bestarve 2
 boozy
 balsamical 3
 benedictional 1
