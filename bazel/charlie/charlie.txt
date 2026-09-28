@@ -17287,7 +17287,7 @@ clarions
 corresol
 churrigueresque 1
 coapparition
-coappear
+coappear 1
 calyciflorous 1
 coappearance 1
 coappeared
