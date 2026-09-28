@@ -1519,7 +1519,7 @@ faunish 4
 fleecing 2
 foamers 2
 franklinite 3
-fattenable
+fattenable 1
 fauntleroy
 frankability
 flagellaria 4
