@@ -16630,7 +16630,7 @@ blackarm
 battleship
 beanpole
 bejewelled
-brawls
+brawls 1
 butte
 bavius
 booty 4
