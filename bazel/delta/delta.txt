@@ -9900,7 +9900,7 @@ dimerization 2
 dipropargyl 1
 duscle
 duka 2
-deformational
+deformational 1
 dimes
 dimetallic
 dimeter 2
