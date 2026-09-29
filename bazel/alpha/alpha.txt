@@ -9292,7 +9292,7 @@ archbishops 1
 alemana 1
 alongshoreman 3
 autonetics
-antisymmetric
+antisymmetric 1
 aloose 1
 alop
 axunge 1
