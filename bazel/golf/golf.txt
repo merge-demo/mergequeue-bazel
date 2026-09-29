@@ -8572,7 +8572,7 @@ growths 4
 gastrocnemius
 glabriety 3
 griqua 3
-gravity 3
+gravity 4
 gnathostomi 2
 germinal
 gradually 1
