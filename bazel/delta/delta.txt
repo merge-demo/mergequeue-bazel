@@ -15613,7 +15613,7 @@ decoders
 diversionist
 dooputty
 doorhead 1
-detergible
+detergible 1
 dooring
 doorknob 2
 doorless
