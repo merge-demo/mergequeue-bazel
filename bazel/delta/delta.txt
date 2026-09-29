@@ -17955,7 +17955,7 @@ dugouts
 dugs 1
 dugway
 deaerator 1
-doornboom
+doornboom 1
 desamidization
 dui 2
 duikerboks
