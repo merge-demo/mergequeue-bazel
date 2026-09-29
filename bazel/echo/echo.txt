@@ -3222,7 +3222,7 @@ electioneers
 epaule 2
 elseways 2
 extuberance 3
-ecliptical
+ecliptical 1
 elaiosome 1
 elt 3
 elaters 1
