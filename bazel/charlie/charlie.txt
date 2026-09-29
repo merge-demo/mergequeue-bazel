@@ -17220,7 +17220,7 @@ coalescency 1
 candlesnuffer 1
 coalescent 1
 combustibility
-coalescing
+coalescing 1
 choya
 coalfield 2
 coalfitter
