@@ -23364,7 +23364,7 @@ colibert
 cleistothecium
 contagions 3
 contagiosity 1
-contagiousness
+contagiousness 1
 contagium
 contain
 contained 2
