@@ -3987,7 +3987,7 @@ beglew
 buyback 1
 beslur 1
 bonyfish
-believer 1
+believer 2
 beacons 3
 buoyancy
 beadeye 2
