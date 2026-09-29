@@ -20545,7 +20545,7 @@ cosines 2
 checks 1
 compendency 1
 compendia
-correlativity
+correlativity 1
 celtophobe
 compendious
 compendium
