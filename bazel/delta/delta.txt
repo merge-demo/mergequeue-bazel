@@ -4719,7 +4719,7 @@ demivol
 disbend 1
 deutencephalic 3
 dendrolene 2
-deflexionize
+deflexionize 1
 disputatively 1
 datatypes
 dunt 2
