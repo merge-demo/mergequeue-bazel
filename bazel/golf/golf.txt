@@ -3199,7 +3199,7 @@ guardant 1
 glossolabiolaryngeal 2
 gametoid
 gambian 3
-ganglial 4
+ganglial 5
 gooier 1
 guerdoning 4
 gephyrea 1
