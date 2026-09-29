@@ -1984,7 +1984,7 @@ dupondidii
 disvalue 3
 dopant
 discostate
-debuted 2
+debuted 3
 debuting 2
 desirable 1
 diced 3
@@ -3291,7 +3291,7 @@ dragoons
 drostden 1
 defibrillatory 3
 dropax 1
-dissatisfactory 1
+dissatisfactory 2
 defier
 drogues
 disguisal 1
@@ -8369,7 +8369,7 @@ dialypetalous 2
 diplumbic 1
 dichotomization
 dialysability 2
-diastolic
+diastolic 1
 dimerizing 1
 dermamycosis 2
 diminutal 2

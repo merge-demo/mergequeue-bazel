@@ -2522,7 +2522,7 @@ flunky 3
 favaginous 4
 foulmouth 3
 formaldehyde 4
-feverlike 2
+feverlike 3
 frondescent 4
 ferrelling
 fluorine 1
@@ -2737,7 +2737,7 @@ faunas 2
 framing 3
 feedy 1
 fedity 1
-fascis
+fascis 1
 foliolate 1
 fiercer 3
 fragmentarily 1
