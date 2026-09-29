@@ -9072,7 +9072,7 @@ defigure 1
 dictionarian 2
 dorsoabdominal 1
 dollying
-dropsywort
+dropsywort 1
 disembattle 2
 dyester 1
 discommodity
