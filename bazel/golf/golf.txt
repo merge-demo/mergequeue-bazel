@@ -2818,7 +2818,7 @@ gait 4
 gentlemanlikeness 1
 gossan 3
 gybing 1
-grenadines 2
+grenadines 3
 goosehouse 1
 gnathoplasty 4
 genuflection
