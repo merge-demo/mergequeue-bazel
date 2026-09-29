@@ -2035,7 +2035,7 @@ flitch 2
 farouche 1
 frogmouth 2
 fourpounder 3
-ferngrower
+ferngrower 1
 frontspiece 2
 feinter 1
 feudary 2
