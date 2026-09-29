@@ -12642,7 +12642,7 @@ coons
 cellulating
 candlepin 2
 chubby
-cayuco
+cayuco 1
 chubbier
 colorless 1
 condores
