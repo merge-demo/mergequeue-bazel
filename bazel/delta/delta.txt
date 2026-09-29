@@ -18469,7 +18469,7 @@ dispersant 3
 diapers 3
 dyable
 distinctive
-decals 3
+decals 4
 dermatophony 1
 devastavit 1
 dipterous 1
