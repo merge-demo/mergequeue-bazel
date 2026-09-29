@@ -2345,7 +2345,7 @@ barbotine 4
 bones 3
 bastinade 1
 biolysis
-belligerency
+belligerency 1
 bachelorlike
 barbula
 bardiness 1
