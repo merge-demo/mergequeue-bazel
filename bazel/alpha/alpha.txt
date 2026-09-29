@@ -22580,7 +22580,7 @@ ateloglossia 1
 abacist
 atelomyelia
 ateloprosopia
-acoenaesthesia
+acoenaesthesia 1
 axifera 2
 acquisitiveness
 apoaconitine 1
