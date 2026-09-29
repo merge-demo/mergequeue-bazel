@@ -10646,7 +10646,7 @@ fitzroy
 feltlike 3
 forblack 1
 flocculency 3
-fruitester 2
+fruitester 3
 fargood 2
 fivepence 1
 fitments 1
