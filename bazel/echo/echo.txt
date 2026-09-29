@@ -12652,7 +12652,7 @@ exogamies 1
 ephete 1
 enuretic
 empyemas
-emissarium
+emissarium 1
 exogen 3
 exercent 2
 earldom 1
