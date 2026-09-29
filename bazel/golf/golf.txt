@@ -1848,7 +1848,7 @@ gentile 4
 groupage 2
 garlands 1
 grasses 4
-glutenous
+glutenous 1
 goundou 3
 geopolitically 3
 generalcies 4
