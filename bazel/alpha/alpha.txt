@@ -3095,7 +3095,7 @@ ascidian 1
 autorail 5
 actinopteri
 attemper 3
-accentuated
+accentuated 1
 ambling 1
 antechambers 2
 amsterdam 1
