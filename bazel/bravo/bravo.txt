@@ -5988,7 +5988,7 @@ bribeability 3
 bruises 1
 bitterbark 1
 bemean
-biphenyls
+biphenyls 1
 bementite 2
 bemete 2
 bimillennia 1
