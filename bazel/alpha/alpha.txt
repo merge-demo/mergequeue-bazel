@@ -6549,7 +6549,7 @@ auxetically
 aias 3
 achomawi
 aldebaranium
-ayatollah
+ayatollah 1
 aiblins
 antileptic
 aidance
