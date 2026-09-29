@@ -22537,7 +22537,7 @@ cryptopine
 conkanee 1
 conked 1
 conker
-conservative
+conservative 1
 concredit
 conkers
 coking
