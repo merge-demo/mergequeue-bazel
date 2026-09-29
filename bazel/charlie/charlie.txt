@@ -14601,7 +14601,7 @@ croceins 1
 cystofibroma
 cosmopolicy 2
 cystogenesis
-cystogram
+cystogram 1
 cystoid 1
 cystoidea
 cystoidean
