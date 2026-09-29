@@ -3536,7 +3536,7 @@ femoropopliteal 4
 fodderless 3
 fly 4
 fissipalmation
-flexuoseness
+flexuoseness 1
 feud 1
 fitchets 3
 floundering
