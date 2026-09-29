@@ -11435,7 +11435,7 @@ bluepoints 1
 belzebub
 blueprint 2
 blancmange 3
-blazingly
+blazingly 1
 bluesy 1
 bluesman 1
 bromisms
