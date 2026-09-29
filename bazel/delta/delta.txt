@@ -3879,7 +3879,7 @@ deathfully
 doer 3
 deirid
 deis 1
-deisidaimonia
+deisidaimonia 1
 disquieting 1
 deism 1
 decentred
