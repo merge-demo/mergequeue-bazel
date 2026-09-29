@@ -274,7 +274,7 @@ electrostatic
 encashed 2
 electroplated
 expiries 2
-easterling 3
+easterling 4
 exhumers
 epigoneion
 enqueue 1
