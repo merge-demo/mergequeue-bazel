@@ -24339,7 +24339,7 @@ conjury 1
 cookroom
 coral
 concentrate 1
-caverning
+caverning 1
 caritas 2
 cookshop 1
 cookshops 4
