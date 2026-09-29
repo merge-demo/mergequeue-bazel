@@ -3787,7 +3787,7 @@ dor
 dwale
 disgracia
 drillable
-dynamites 2
+dynamites 3
 distrain 1
 deice 2
 donning 1
