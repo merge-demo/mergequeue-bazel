@@ -581,7 +581,7 @@ dropworm 2
 dambonitol
 derived 1
 dialers 3
-decolonized 3
+decolonized 4
 daunch 1
 damfool 2
 div 3
