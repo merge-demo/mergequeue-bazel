@@ -15021,7 +15021,7 @@ benzdiazine 2
 begift 1
 barraters 3
 breedable
-borderies
+borderies 1
 bendlet 2
 breeder 1
 breakneck 2
