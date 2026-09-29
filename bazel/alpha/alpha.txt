@@ -13525,7 +13525,7 @@ armada 1
 alberich 2
 azeotropism 2
 amoebida 1
-amputated
+amputated 1
 annotative 2
 amaurotic
 accuses
