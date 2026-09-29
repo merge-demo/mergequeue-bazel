@@ -1605,7 +1605,7 @@ dicyanid
 destruct 1
 dunkirker 3
 deafly 1
-deafmuteness
+deafmuteness 1
 disembrace 1
 digression 2
 deafness 3
