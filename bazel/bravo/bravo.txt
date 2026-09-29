@@ -11682,7 +11682,7 @@ bindles 1
 bacteriotrypsin 2
 beerbelly 2
 bobbejaan 1
-bungstarter
+bungstarter 1
 briseis 1
 benthon 3
 bucket
