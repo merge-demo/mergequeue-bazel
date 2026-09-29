@@ -1739,7 +1739,7 @@ gympie 3
 goldstone 1
 genotypes 1
 glike
-gunsmiths 1
+gunsmiths 2
 geogonical 2
 gastronosus 1
 gnarrs 1
