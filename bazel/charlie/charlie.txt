@@ -10205,7 +10205,7 @@ cotesian
 chloasmata 1
 camacan 1
 chiasmas 1
-chiasmata 1
+chiasmata 2
 cavesson
 crapaudine 1
 cystoscopy 1
