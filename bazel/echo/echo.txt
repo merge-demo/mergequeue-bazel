@@ -1078,7 +1078,7 @@ exostotic 1
 edible 1
 expeditive 1
 embase
-endothelial
+endothelial 1
 embeddable 1
 epistolic 1
 echinology
