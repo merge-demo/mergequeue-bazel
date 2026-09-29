@@ -2940,7 +2940,7 @@ glycol 2
 gaeldom 1
 geocyclic 1
 gnat 2
-gorsy
+gorsy 1
 glideless
 gynaecocracies 1
 gunfighters 2
