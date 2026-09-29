@@ -10648,7 +10648,7 @@ forblack 1
 flocculency 3
 fruitester 3
 fargood 2
-fivepence 1
+fivepence 2
 fitments 1
 forenamed 2
 florican 5
