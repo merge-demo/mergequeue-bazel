@@ -4656,7 +4656,7 @@ aediles 2
 aknee
 airbursts 2
 aedileship 2
-anthropomorphitism
+anthropomorphitism 1
 asidehand 1
 atomerg
 accessorii
