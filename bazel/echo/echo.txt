@@ -2210,7 +2210,7 @@ elderman 2
 ensorcels 2
 eggwhisk 2
 electrics
-electrographic
+electrographic 1
 exedrae 3
 esthesia 1
 epistome 1
