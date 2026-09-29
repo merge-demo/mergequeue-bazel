@@ -13904,7 +13904,7 @@ canonistic 1
 caviars 2
 cyathos
 cleek
-cynography
+cynography 1
 cirripeds
 cynoid 1
 contributiveness
