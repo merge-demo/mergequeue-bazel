@@ -7373,7 +7373,7 @@ cephalology
 cryolites
 cephalom
 coquettishness 1
-cephalomant
+cephalomant 1
 cephalomeningitis 1
 compute 1
 cleansing 1
