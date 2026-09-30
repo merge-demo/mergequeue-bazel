@@ -9523,7 +9523,7 @@ checkless 2
 checklist 1
 checkman
 congruencies 1
-checkmate 1
+checkmate 2
 chirosophist 1
 cautioning
 circumferences
