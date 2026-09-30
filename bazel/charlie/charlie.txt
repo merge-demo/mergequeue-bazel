@@ -14722,7 +14722,7 @@ coruscant 2
 comber
 citherns 1
 cithren 1
-city
+city 1
 citybuster
 citicorp
 canamary 2
