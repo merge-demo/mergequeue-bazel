@@ -13854,7 +13854,7 @@ biduous
 bang 2
 bowheads 2
 bowie
-balr
+balr 1
 blatter 1
 beanfeast 2
 buchite 4
