@@ -12573,7 +12573,7 @@ demyship
 disinhume 1
 djagatay 1
 dorsoventral 1
-disinsure
+disinsure 1
 dotonidae 1
 diamonding 3
 daffed 2
