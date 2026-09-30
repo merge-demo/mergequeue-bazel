@@ -12652,7 +12652,7 @@ bestowable 1
 boogeymen 1
 bane
 bellical
-buhrs 1
+buhrs 2
 bec 2
 bolivares
 bunion 1
