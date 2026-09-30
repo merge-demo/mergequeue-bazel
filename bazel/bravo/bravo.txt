@@ -18176,7 +18176,7 @@ biog
 behead
 biodegradation 1
 bricky
-bitterwort
+bitterwort 1
 bechern 2
 butlery
 belief 1
