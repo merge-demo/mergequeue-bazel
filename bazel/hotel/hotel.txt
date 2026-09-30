@@ -3771,7 +3771,7 @@ hexligmvfuzyzcd
 hexm 2
 hexmmuxr 1
 hexmsx
-hexnavlfppmx 2
+hexnavlfppmx 3
 hexojmp
 hexpkzcsatz
 hexpmkmxdgsx 2
