@@ -24551,7 +24551,7 @@ anaconda
 anisated 1
 amober 1
 auxoamylase
-autofecundation 1
+autofecundation 2
 auxocardia 1
 aneurismally
 auxochrome 2
