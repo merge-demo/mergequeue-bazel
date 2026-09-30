@@ -4524,7 +4524,7 @@ flagging 1
 favissa 2
 farmlands 3
 feer 2
-forheed 1
+forheed 2
 foreigner 3
 forslake 1
 flooded 2
