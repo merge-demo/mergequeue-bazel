@@ -18978,7 +18978,7 @@ culbut
 colleaguing 1
 collect
 certify
-collected
+collected 1
 cranberry 1
 ctenoidean 1
 constables 1
