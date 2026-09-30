@@ -19502,7 +19502,7 @@ adenotomy
 aitchpiece 1
 acad 1
 arsonic 2
-anecdotal
+anecdotal 1
 argonautid 1
 argonne
 argons 1
