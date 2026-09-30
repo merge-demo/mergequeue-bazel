@@ -17926,7 +17926,7 @@ coelacanth
 coelacanthidae 1
 coelacanthous
 coelar
-coelastraceous
+coelastraceous 1
 canonics
 coelata
 charring 1
