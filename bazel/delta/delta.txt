@@ -6496,7 +6496,7 @@ descendable
 descendants 1
 dimensioned 3
 dipeptid
-dentellated
+dentellated 1
 disqualification 3
 delignated 2
 disomatous 1
