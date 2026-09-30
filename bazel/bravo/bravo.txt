@@ -2501,7 +2501,7 @@ barger 3
 bardash 1
 bractea 1
 borscht
-beruffled
+beruffled 1
 boccia 3
 blueblack
 beslash
