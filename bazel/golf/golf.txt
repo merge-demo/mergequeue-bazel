@@ -10620,7 +10620,7 @@ ghoul 2
 gunpower 2
 gasping 6
 gentled 3
-gourmandise 4
+gourmandise 5
 gimmickry 2
 gunshop
 gulches
