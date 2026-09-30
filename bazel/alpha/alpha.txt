@@ -17209,7 +17209,7 @@ adeptship 1
 assistantship 2
 automatization
 aspired
-androphagous 1
+androphagous 2
 althaeas 1
 almudes 2
 antivirus 1
