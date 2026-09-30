@@ -6951,7 +6951,7 @@ dioptre 3
 digits 1
 desperados 2
 dorsointercostal 1
-dichasial
+dichasial 1
 didgeridoo
 disimmure 3
 decarbonylated
