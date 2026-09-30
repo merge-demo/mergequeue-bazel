@@ -1891,7 +1891,7 @@ grabber 5
 gatherers 3
 galumph 1
 gooma 3
-gamenesses
+gamenesses 1
 grecale 1
 grubstake 1
 gating 2
