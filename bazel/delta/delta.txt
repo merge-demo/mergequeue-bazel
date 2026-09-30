@@ -2919,7 +2919,7 @@ decwriter
 deltoid 2
 divia
 dashel 3
-dedanite
+dedanite 1
 dedecorous 2
 divide 1
 desmodont
