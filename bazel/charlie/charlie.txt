@@ -19185,7 +19185,7 @@ cymbaeform
 commodatary
 collothun
 collotype 1
-cardiospasm
+cardiospasm 1
 corporally 1
 collotyped
 curries 1
