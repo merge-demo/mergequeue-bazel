@@ -10328,7 +10328,7 @@ demurrers 2
 diagrammers 1
 ditton 1
 diopter
-diopters
+diopters 1
 decumary 2
 delf
 discounter 2
