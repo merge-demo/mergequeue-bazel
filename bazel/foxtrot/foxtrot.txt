@@ -3680,7 +3680,7 @@ friskers 3
 fertilised 2
 foreglow
 finedrawing 1
-fluxweed
+fluxweed 1
 fungible 7
 federalize 6
 freeboots 2
