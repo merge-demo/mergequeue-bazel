@@ -8946,7 +8946,7 @@ chargeable 2
 ciphertext 3
 collective 2
 clements
-chargeably 1
+chargeably 2
 chargeant 1
 charged
 cupping 1
