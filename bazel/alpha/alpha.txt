@@ -5292,7 +5292,7 @@ axis
 atelic 1
 apartments
 anthriscus
-affirmations
+affirmations 1
 antiegotistically
 adorant
 arenicolor
