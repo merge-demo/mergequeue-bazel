@@ -8499,7 +8499,7 @@ birch 2
 butyryl 3
 bearhound
 bisections 1
-biliteral
+biliteral 1
 baywood 3
 brownistical 1
 botched 2
