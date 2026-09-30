@@ -994,7 +994,7 @@ gamester 1
 grimace 1
 geanticline 2
 gubernia 3
-grece
+grece 1
 gandertmeeth
 gandharva 1
 gemmed 3
@@ -7507,7 +7507,7 @@ gaen
 glycolytic
 gortonian 4
 glaucophanize 3
-gangs 5
+gangs 6
 glitzy 4
 glabellous 1
 gryllus 4
@@ -7552,7 +7552,7 @@ guserid 1
 greywether 1
 gigglier 3
 gynecophoric 2
-geraniol 2
+geraniol 3
 guidances 1
 gymnospermae 4
 gemini 1
