@@ -5527,7 +5527,7 @@ aftergrowth
 antipathy 1
 acton 1
 argot
-aluco
+aluco 1
 acetonylidene 1
 afterguard
 anaerobious 1
