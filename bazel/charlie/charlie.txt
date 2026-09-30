@@ -20834,7 +20834,7 @@ crotalus
 cloverleaf
 caudodorsal
 corpulence 1
-composable
+composable 1
 composant 1
 cryptoclastic
 composed 2
