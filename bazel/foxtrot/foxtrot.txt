@@ -10157,7 +10157,7 @@ forbit 3
 forepredicament 2
 feued 1
 frizing 3
-frizzante 4
+frizzante 5
 fishyback 2
 finch 2
 fantad
