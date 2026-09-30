@@ -6338,7 +6338,7 @@ flunkyish
 flunkyize 2
 fuzziness 1
 fidepromission 3
-forefingers 3
+forefingers 4
 ferments
 fumigatorium 3
 fpm 1
