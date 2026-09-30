@@ -1068,7 +1068,7 @@ abuna 1
 askew 3
 abundance 1
 accurtation
-ammoniojarosite
+ammoniojarosite 1
 apparelled
 abundancy 3
 aluminosis 1
