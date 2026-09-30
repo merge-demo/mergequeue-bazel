@@ -7356,7 +7356,7 @@ goldlike 1
 gratify
 gossiped 2
 gossipee 2
-goodyship 2
+goodyship 3
 griffon 2
 glyoxime 2
 generalizers 2
