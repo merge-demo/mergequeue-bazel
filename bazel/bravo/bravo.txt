@@ -17681,7 +17681,7 @@ balancement 3
 bevomits
 birgus 2
 bordage 1
-blackfin 2
+blackfin 3
 blueings
 bonuses 3
 boomlets
