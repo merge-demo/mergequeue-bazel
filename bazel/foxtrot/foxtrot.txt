@@ -9044,7 +9044,7 @@ fountained 1
 flashguns 2
 flies 2
 fundiform 1
-familiar
+familiar 1
 farther 1
 fib 4
 frumentaceous
