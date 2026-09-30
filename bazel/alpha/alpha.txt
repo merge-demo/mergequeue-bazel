@@ -2983,7 +2983,7 @@ antiacid 1
 austerest
 alisma 2
 actinobaccilli 1
-anchusins
+anchusins 1
 audience
 alcyon
 adrenolytic 2
