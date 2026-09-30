@@ -5010,7 +5010,7 @@ consolan 1
 canopic 1
 czarowitz 1
 cartwhip
-carucage
+carucage 1
 counterprove
 carucarius 1
 charivariing 1
