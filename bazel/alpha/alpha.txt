@@ -19141,7 +19141,7 @@ anaerobes 1
 accompany 3
 anthropogony 2
 antiars
-antisepticize 1
+antisepticize 2
 arclike 2
 arcocentrum
 antipathogenic
