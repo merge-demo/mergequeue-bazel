@@ -9401,7 +9401,7 @@ cromwell
 chaws 2
 chawstick
 catering 1
-citoyen
+citoyen 1
 clickless 1
 chazan
 chazanim 2
