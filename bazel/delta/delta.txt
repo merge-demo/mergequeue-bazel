@@ -6556,7 +6556,7 @@ dogsled 1
 descriptionless
 dangleberry 1
 distensile 2
-dysnomy
+dysnomy 1
 designator 1
 diota 2
 daedal
