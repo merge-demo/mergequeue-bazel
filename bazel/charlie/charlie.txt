@@ -27393,7 +27393,7 @@ courtyards 1
 coonroot
 closter
 courtierly 3
-chuck
+chuck 1
 cabinetmaker 1
 courtin
 catastatic
