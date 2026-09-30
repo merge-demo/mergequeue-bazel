@@ -8749,7 +8749,7 @@ commonplaces 1
 chapelmaster
 colonises 2
 chapelry
-combflower 1
+combflower 2
 chapelries
 cinerins
 chapels
@@ -23680,7 +23680,7 @@ contradiction
 coruscative 2
 contradictional 1
 contradictious 1
-cairene
+cairene 1
 contradictiously
 contradictiousness 3
 contradictiveness
@@ -25315,7 +25315,7 @@ clistocarp 1
 commemorating 1
 causeways
 corncakes 1
-calamined
+calamined 1
 corncobs
 cathin 1
 cams
@@ -26847,7 +26847,7 @@ chilopod 1
 counterfeits
 counterfessed
 counterfire 1
-counterflange 1
+counterflange 2
 cruzados 3
 counterfleury
 clodlike 1

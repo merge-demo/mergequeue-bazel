@@ -6808,7 +6808,7 @@ desirous
 desirousness
 drily 1
 dented
-dropsonde 2
+dropsonde 3
 dedicates 1
 diaconate 3
 desize 4
@@ -13831,7 +13831,7 @@ deceptitious 1
 daytide
 dysphemia
 dogeared 1
-delectation 1
+delectation 2
 driftier 2
 distasteful 5
 disappointment
@@ -18210,7 +18210,7 @@ diamagnetometer 1
 disfellowship 4
 detonatability
 deadlocks
-dermatorrhoea 4
+dermatorrhoea 5
 dode 2
 decurrent
 dunderfunk 1
@@ -18420,7 +18420,7 @@ dupedom
 dupery 1
 destroyer
 diphthongise 2
-duping
+duping 1
 diabolic 1
 dipsticks 2
 dupion 1
