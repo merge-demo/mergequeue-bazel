@@ -7172,7 +7172,7 @@ deerkill 1
 desulphurize 1
 depauperate
 depullulation 3
-diplospondylism
+diplospondylism 1
 doves 1
 dubbeltje 1
 disgusts
