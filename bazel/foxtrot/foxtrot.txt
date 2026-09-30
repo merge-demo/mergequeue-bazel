@@ -10415,7 +10415,7 @@ frontlash 1
 flatmen 2
 fallowing 2
 fronter 2
-frontoauricular
+frontoauricular 1
 frontomallar 2
 frontomental 2
 fidibus 3
