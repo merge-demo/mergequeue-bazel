@@ -15314,7 +15314,7 @@ diospyros 2
 dolphinfish
 dolphinlike 1
 decadescent
-dolphins
+dolphins 1
 discountenance
 diagnostics
 design
