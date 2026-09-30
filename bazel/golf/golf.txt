@@ -3141,7 +3141,7 @@ grassplot
 georgemas 2
 germanite 4
 gurgles 2
-georgics
+georgics 1
 glycosyl 1
 gnathal 1
 gnathobasic 1
