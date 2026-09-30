@@ -22629,7 +22629,7 @@ casuarinaceae
 clowning 1
 cabinets
 connotate
-connotation
+connotation 1
 ceratitoid 1
 connotations
 connotative
