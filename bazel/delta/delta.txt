@@ -537,7 +537,7 @@ dermaskeleton
 dama
 damageability 1
 damageably 2
-detonatable
+detonatable 1
 damaged 2
 detort 1
 damageous
