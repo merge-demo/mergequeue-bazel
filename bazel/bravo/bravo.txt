@@ -5929,7 +5929,7 @@ bimetalic 4
 belter
 bufagin
 buyouts 1
-ballistic
+ballistic 1
 bestrowing 2
 beltie
 boogerman 2
