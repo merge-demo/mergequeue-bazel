@@ -18157,7 +18157,7 @@ disavowable 1
 digress
 dump
 disreputably
-dyaster
+dyaster 1
 duplexing 2
 dineuric 1
 dotriacontane 3
