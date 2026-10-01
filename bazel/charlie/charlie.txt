@@ -29775,7 +29775,7 @@ coset
 causticize 1
 criminatory
 crooknosed
-crookshouldered
+crookshouldered 1
 crooksided
 cunjevoi
 crooksterned 1
