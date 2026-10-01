@@ -21393,7 +21393,7 @@ amitroles
 askip
 actiniohematin 2
 askos 1
-aslant
+aslant 1
 aglethead 1
 aevum
 antidraft 1
