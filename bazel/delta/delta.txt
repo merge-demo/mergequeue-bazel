@@ -16371,7 +16371,7 @@ douppioni 1
 delayage 1
 downtown 1
 debar 1
-downtrampling
+downtrampling 1
 downtreading 2
 dicynodont 1
 disserviceable 1
