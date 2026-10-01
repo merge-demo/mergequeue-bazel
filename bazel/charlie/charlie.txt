@@ -17492,7 +17492,7 @@ chapping
 coblentzian 1
 cobleskill 1
 cobloaf 3
-cobola
+cobola 1
 ceratectomy 2
 crucifyfying 2
 contriving
