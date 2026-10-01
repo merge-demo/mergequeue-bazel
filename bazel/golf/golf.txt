@@ -1553,7 +1553,7 @@ grounder 3
 gazetting 3
 gainbirth 3
 gunsels 5
-glaik 1
+glaik 2
 grulla 2
 glimes
 graphitized 1
