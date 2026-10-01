@@ -3088,7 +3088,7 @@ geocline 3
 grits 1
 gipping 3
 geophagism 3
-gemels
+gemels 1
 grubhood 1
 gashliness 3
 ghorkhar 1
