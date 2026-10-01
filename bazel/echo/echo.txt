@@ -4777,7 +4777,7 @@ ebulliometry 3
 excircle 1
 epistler 1
 entomophytous
-establishments
+establishments 1
 exploratory 5
 extracardial 5
 encloister 2
