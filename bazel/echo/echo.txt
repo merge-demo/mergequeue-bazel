@@ -9685,7 +9685,7 @@ essenwood
 elms
 ectoblast 2
 enshielded 3
-espouser
+espouser 1
 espouses 1
 espousing
 esprit 2
