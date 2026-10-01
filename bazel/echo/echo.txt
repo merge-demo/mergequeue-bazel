@@ -6423,7 +6423,7 @@ electrocutes 2
 enlargers 1
 ensiling
 ensilist
-exceptions 2
+exceptions 3
 ensilver 2
 ensisternum
 equilibrating 3
