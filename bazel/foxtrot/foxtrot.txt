@@ -5690,7 +5690,7 @@ ferratin 1
 footpound 1
 folioliferous
 fresnels 3
-factional
+factional 1
 facilitator 4
 flyovers 2
 flype 3
