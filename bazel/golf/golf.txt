@@ -5124,7 +5124,7 @@ gascon 2
 glinting 3
 glaucidium 1
 gainyield 1
-generalissima 1
+generalissima 2
 gandhist 1
 gummas 1
 glaucionetta 2
