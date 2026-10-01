@@ -4319,7 +4319,7 @@ devoutness
 durning
 delimit
 duckhood 1
-dequeue
+dequeue 1
 dronel 2
 diversicolored
 daubster 2
