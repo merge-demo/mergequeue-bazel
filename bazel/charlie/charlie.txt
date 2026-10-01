@@ -9309,7 +9309,7 @@ crankplate 1
 chauffeurship
 chauffeuse 1
 civy
-carcoon 1
+carcoon 2
 cerris
 custos
 chauk 1
