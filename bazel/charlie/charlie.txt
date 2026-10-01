@@ -18832,7 +18832,7 @@ clinkered 1
 contemporaries 1
 codeins 1
 colichemarde
-colicines
+colicines 1
 cultigen 1
 celiac 2
 colicins
