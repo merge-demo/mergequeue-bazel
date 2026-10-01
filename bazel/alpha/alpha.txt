@@ -21390,7 +21390,7 @@ aftergame 5
 antherids 1
 anemochorous 3
 amitroles
-askip
+askip 1
 actiniohematin 2
 askos 1
 aslant 1
