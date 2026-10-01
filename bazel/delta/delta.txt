@@ -6868,7 +6868,7 @@ deadflat 1
 deltic 1
 domesticative
 derivative
-desmopathology
+desmopathology 1
 desmopexia 1
 deheathenize 3
 dreamer 1
