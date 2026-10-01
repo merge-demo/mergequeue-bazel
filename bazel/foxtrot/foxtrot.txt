@@ -11048,7 +11048,7 @@ fascias 3
 funambulator 1
 feels 2
 faunological 1
-flinty
+flinty 1
 fellatrices 2
 fangless 3
 flycatcher 3
