@@ -22958,7 +22958,7 @@ clinodome 1
 consistencies
 choriambi
 consistent 2
-consistently
+consistently 1
 chebacco 2
 consistible
 consisting 1
