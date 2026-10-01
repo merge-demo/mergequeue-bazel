@@ -8147,7 +8147,7 @@ craspedon
 chainlike
 confrontal 2
 chainmaker
-chainman
+chainman 1
 chainmen
 celiomyositis
 cultists 1
