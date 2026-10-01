@@ -6013,7 +6013,7 @@ disapprove 4
 dermatonosus 3
 derogated
 depthways 3
-disoccupy
+disoccupy 1
 deadman 1
 dandered
 drayages
