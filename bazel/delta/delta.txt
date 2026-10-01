@@ -9419,7 +9419,7 @@ dereling 1
 dowerless 2
 dredge 2
 dismountable 2
-dejunkerize
+dejunkerize 1
 diffusions
 diffusive 1
 diffusors 3
