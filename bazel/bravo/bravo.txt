@@ -5600,7 +5600,7 @@ belaboring
 blisters 2
 brough 4
 bulletheaded 2
-battlement
+battlement 1
 blepharal 1
 bewigs 1
 barbitone
