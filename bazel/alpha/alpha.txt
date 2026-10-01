@@ -14420,7 +14420,7 @@ awunctive
 anode
 achromacyte 1
 anthracomancy
-anthracomarti
+anthracomarti 1
 ambulancing 1
 analepsis
 albuminone 1
