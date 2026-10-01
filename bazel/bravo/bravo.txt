@@ -3719,7 +3719,7 @@ bringall 1
 brucella 2
 barnstorms
 battler 1
-battleships
+battleships 1
 barrace 1
 blushiness
 battlesome
