@@ -6873,7 +6873,7 @@ desmopexia 1
 deheathenize 3
 dreamer 1
 dentary 2
-desmorrhexis
+desmorrhexis 1
 deifies 1
 desmoscolecidae 1
 drossless
