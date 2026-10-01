@@ -7755,7 +7755,7 @@ emendable 2
 estopping
 equips 1
 edelweisses
-ethinamate 2
+ethinamate 3
 empasma 1
 eggshells 1
 executable 2
