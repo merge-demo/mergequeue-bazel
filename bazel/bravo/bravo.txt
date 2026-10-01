@@ -8669,7 +8669,7 @@ breechloading 2
 basaltes
 buttermouth 1
 broom
-barbadoes
+barbadoes 1
 bourbonist
 bimastic 3
 bengal
