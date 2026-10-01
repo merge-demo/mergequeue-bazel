@@ -28540,7 +28540,7 @@ credenza 1
 credere 2
 credible
 concealers
-crimogenic
+crimogenic 1
 credibly 2
 creditable 2
 coinfinite 1
