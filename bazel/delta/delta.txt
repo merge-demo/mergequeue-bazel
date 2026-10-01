@@ -12671,7 +12671,7 @@ dridder 1
 disdiplomatize
 dendrobates
 disfavour
-duplicability
+duplicability 1
 dinitrobenzene 2
 dissolute 2
 disleafed 4
