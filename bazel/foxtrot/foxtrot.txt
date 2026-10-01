@@ -9382,7 +9382,7 @@ familiarities 4
 foolhead 3
 flaxseed 2
 franklins 3
-flector
+flector 1
 frenchmen 1
 faffy 1
 footgears 3
