@@ -11316,7 +11316,7 @@ englander
 enrank
 entirety
 eightfold 2
-eagles
+eagles 1
 exalbuminous
 evaporimeter 2
 electrocute 3
