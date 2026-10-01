@@ -29816,7 +29816,7 @@ cochleate 1
 croppy
 cropping 2
 cropplecrown
-crops
+crops 1
 cropshin 2
 cropsick 1
 cropweed 1
