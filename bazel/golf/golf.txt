@@ -2817,7 +2817,7 @@ guardianess 1
 gait 4
 gentlemanlikeness 1
 gossan 3
-gybing 1
+gybing 2
 grenadines 3
 goosehouse 1
 gnathoplasty 4
