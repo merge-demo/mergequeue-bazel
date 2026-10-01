@@ -27888,7 +27888,7 @@ conquians
 crabut
 crabweed
 coreid 1
-crabwise
+crabwise 1
 crabwood
 cracca
 craccus
