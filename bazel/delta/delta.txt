@@ -17577,7 +17577,7 @@ drunk 1
 drunkards 2
 desuperheater 3
 dogbite 1
-drunkenwise
+drunkenwise 1
 dirtiest
 dryopteris 2
 drunker
