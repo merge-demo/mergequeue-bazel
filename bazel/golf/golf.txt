@@ -8669,7 +8669,7 @@ goopy 1
 geyser 2
 glossless 3
 gateado 1
-gritty
+gritty 1
 gres
 gymnosoph 6
 galerum 2
