@@ -534,7 +534,7 @@ dawen
 dalton
 denomination 1
 dermaskeleton
-dama
+dama 1
 damageability 1
 damageably 2
 detonatable 1
