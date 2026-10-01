@@ -11422,7 +11422,7 @@ drossing 2
 dastardy 1
 dockyard 1
 dissuader 4
-demivotary
+demivotary 1
 determinoid
 debug 1
 discloser 2
