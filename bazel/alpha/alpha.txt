@@ -8162,7 +8162,7 @@ algolagnia 3
 adjuster 2
 antimark 1
 abscised
-anachronous
+anachronous 1
 afterchrome
 algological
 algoman 1
