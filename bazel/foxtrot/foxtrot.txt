@@ -4869,7 +4869,7 @@ frabbit 1
 forearm
 froglet 4
 flagellatory
-ferocities
+ferocities 1
 formalness 3
 followable 1
 fulgora 1
