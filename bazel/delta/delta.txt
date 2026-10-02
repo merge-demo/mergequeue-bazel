@@ -5663,7 +5663,7 @@ debe 1
 diopsidic 1
 depigmentate 1
 depigmentation
-depigmentize 1
+depigmentize 2
 dissidence 1
 devilized 1
 dynamite 2
