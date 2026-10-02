@@ -3899,7 +3899,7 @@ bedlamp
 bifidated
 breadline
 baxtone 2
-brachyskelic 1
+brachyskelic 2
 boughten 1
 bazars 4
 bint 5
