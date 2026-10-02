@@ -8626,7 +8626,7 @@ debugging
 distilment 3
 dialyses
 diary 2
-diaglyph 2
+diaglyph 3
 disimprove
 diarist
 dibbuk 1
