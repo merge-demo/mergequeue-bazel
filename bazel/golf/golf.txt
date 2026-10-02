@@ -2663,7 +2663,7 @@ gervas 1
 gardening 2
 gynophagite 4
 gardeviance 1
-gibbles
+gibbles 1
 genevan 5
 grabbing 3
 giboia 2
