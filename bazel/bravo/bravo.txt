@@ -4211,7 +4211,7 @@ brachet 1
 blockiness 1
 bowls 2
 boudoir 2
-beaucoup
+beaucoup 1
 beaued 1
 biblicistic 3
 bowdlerizing 1
