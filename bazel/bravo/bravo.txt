@@ -3095,7 +3095,7 @@ basculation
 bulbils 2
 bromobenzyl
 bambuk
-blindfold
+blindfold 1
 bibliothec
 benzedrine 1
 baculite
