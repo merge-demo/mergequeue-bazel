@@ -6387,7 +6387,7 @@ derog 1
 demeanour 1
 doronicum
 despond 2
-derogate
+derogate 1
 denuclearization 1
 derogates 1
 diglyceride
