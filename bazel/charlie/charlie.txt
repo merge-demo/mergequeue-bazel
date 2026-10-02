@@ -15920,7 +15920,7 @@ cleoid 1
 cleomes 1
 chimbs
 clep 1
-cakemaker
+cakemaker 1
 comitant 1
 countertrippant 1
 cleanly
