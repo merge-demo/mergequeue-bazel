@@ -2306,7 +2306,7 @@ decenters 2
 disaggregation
 digestors 1
 dynamical
-deliberant
+deliberant 1
 decentralising 3
 duckhunting 1
 dhurrie 2
