@@ -16112,7 +16112,7 @@ capacities
 canuck
 cliffs
 creators
-calamints
+calamints 1
 cliffside 2
 cliffsman
 cliffweed
