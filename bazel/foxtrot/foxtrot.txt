@@ -10740,7 +10740,7 @@ felup
 fomentation 1
 footrope 4
 fleeing
-flagstaves 4
+flagstaves 5
 flirter 2
 fletches 4
 forgotten 2
