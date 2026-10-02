@@ -5060,7 +5060,7 @@ aerosteam 1
 aerotaxis 1
 agacant 1
 autoecous
-argo 1
+argo 2
 ablush
 aerotechnical 1
 alchera 3
