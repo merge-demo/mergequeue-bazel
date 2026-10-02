@@ -15147,7 +15147,7 @@ criminosis
 condecent 3
 crumbled 1
 clag 2
-clagged
+clagged 1
 claggum
 cantala 1
 commandries 2
