@@ -7177,7 +7177,7 @@ centreboard 1
 centred
 centref 1
 centreless
-centrepiece 1
+centrepiece 2
 canephoroe
 centrer
 closely 2
