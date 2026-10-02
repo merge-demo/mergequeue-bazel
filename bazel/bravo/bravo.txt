@@ -11431,7 +11431,7 @@ babuma
 boatheader 2
 bairnliest 1
 bluepoint 2
-bluepoints 1
+bluepoints 2
 belzebub
 blueprint 2
 blancmange 3
