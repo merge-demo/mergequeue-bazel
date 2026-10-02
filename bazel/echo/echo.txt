@@ -8931,7 +8931,7 @@ exoskeletal 1
 eteoclus 2
 endosmotically 4
 ericales
-epicanthi 3
+epicanthi 4
 exteroceptive 6
 erythematic 1
 ericas 2
