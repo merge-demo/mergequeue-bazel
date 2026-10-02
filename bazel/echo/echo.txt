@@ -12776,7 +12776,7 @@ elasmobranchiate 4
 enmask 2
 exorcizer 4
 epiceratodus 2
-exordium 1
+exordium 2
 engold 1
 exotism
 earlike
