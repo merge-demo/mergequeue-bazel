@@ -8589,7 +8589,7 @@ farmsteading 1
 forninst 1
 fricative 2
 flexor 2
-firedragon 1
+firedragon 2
 fornix 3
 fanegada 4
 forspent
