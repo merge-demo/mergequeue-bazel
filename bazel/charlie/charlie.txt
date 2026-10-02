@@ -12965,7 +12965,7 @@ continentality 1
 cyanides
 cyanidrosis
 clothes
-cyanids
+cyanids 1
 cyanimide
 cyanine 1
 commemorators
