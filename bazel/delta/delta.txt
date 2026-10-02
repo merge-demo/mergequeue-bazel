@@ -5448,7 +5448,7 @@ divagational
 divineress 1
 detachable 1
 deodorised 2
-deodoriser 4
+deodoriser 5
 deodorization 2
 darsonvalism
 displumes
