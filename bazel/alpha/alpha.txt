@@ -8433,7 +8433,7 @@ alkaline
 ankylostoma
 alkalinity 2
 alkalinities 2
-abactor 1
+abactor 2
 aesthesics 1
 augmentations 1
 angiography
