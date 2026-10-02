@@ -4876,7 +4876,7 @@ fulgora 1
 flails 2
 feuilletonism
 furoic 2
-fourteen
+fourteen 1
 fraughtage 1
 fady 3
 fixes 3
