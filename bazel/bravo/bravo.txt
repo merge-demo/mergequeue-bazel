@@ -12820,7 +12820,7 @@ boomkin
 bibliophobia 1
 bondswoman 1
 barquest 3
-bootes 2
+bootes 3
 baseboard
 burglary
 basiliscine
