@@ -4474,7 +4474,7 @@ bucklers 2
 bustling 2
 becry 1
 becrime 1
-buckthorn
+buckthorn 1
 blockaded
 bunemost 3
 brise 1

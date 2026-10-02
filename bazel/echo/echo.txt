@@ -12845,7 +12845,7 @@ emendated 3
 extinctor 3
 eisteddfods 1
 enumerations
-evangelistship
+evangelistship 1
 efecks
 exoticist
 eudipleural 1
