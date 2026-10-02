@@ -22192,7 +22192,7 @@ counterrate
 contraband
 crematoriums
 cresotate
-connusable
+connusable 1
 characterizer 1
 campanularian
 choicer
