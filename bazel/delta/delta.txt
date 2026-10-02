@@ -1776,7 +1776,7 @@ decadently
 dustheaps
 doorpost 3
 deaving
-decolorization
+decolorization 1
 drydenism
 disregardfully 3
 dorsolum
