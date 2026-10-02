@@ -2433,7 +2433,7 @@ farandola
 foils 1
 flutterable 2
 frazer 1
-fulgourous
+fulgourous 1
 feasters 5
 fullymart 1
 fringillid 2
