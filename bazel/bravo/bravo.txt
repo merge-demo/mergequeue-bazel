@@ -15135,7 +15135,7 @@ brickliner
 brewership 3
 brewhouse 1
 brewhouses 1
-bulked 1
+bulked 2
 benzofuroquinoxaline 1
 blockaderunning
 babine 2
