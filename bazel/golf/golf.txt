@@ -6792,7 +6792,7 @@ gossiping 3
 geront 6
 gymnogyps 1
 gentilitial 3
-gyrostatics 2
+gyrostatics 3
 genal 2
 genros 2
 gondola 1
