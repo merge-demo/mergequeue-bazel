@@ -9634,7 +9634,7 @@ entangleable 1
 equipper 1
 entia 1
 epenthesize 1
-epacris 2
+epacris 3
 espagnole
 elaeagnus 2
 enfrai 2
