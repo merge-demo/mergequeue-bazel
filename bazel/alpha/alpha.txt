@@ -16640,7 +16640,7 @@ ambulanced
 average 2
 aperiodicity
 antiradiation
-acaroid
+acaroid 1
 apert
 arsonation
 asperates
