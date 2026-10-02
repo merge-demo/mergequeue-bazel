@@ -10912,7 +10912,7 @@ footgrip 1
 fi 2
 foilable
 fiscalizing 2
-fullonian
+fullonian 1
 ferrying 2
 franticness 1
 fidgeters 2
