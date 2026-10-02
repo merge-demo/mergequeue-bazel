@@ -9190,7 +9190,7 @@ faroff 1
 frostproofing
 fulfulde 1
 forward 4
-filices
+filices 1
 filenames 1
 fifteenths 3
 frija
