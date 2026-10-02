@@ -2833,7 +2833,7 @@ canonicalization
 cinctures 3
 canonicalized 1
 canonicalizes
-croaked
+croaked 1
 circumventive 1
 congealer 1
 cremor
