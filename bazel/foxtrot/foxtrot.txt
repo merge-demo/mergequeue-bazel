@@ -3962,7 +3962,7 @@ foal 3
 feedbacks 1
 finest 2
 finew 1
-fish 1
+fish 2
 fermentor 3
 fruitcakey 2
 frenziedly
