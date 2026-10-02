@@ -15501,7 +15501,7 @@ deflagrated
 decolorise
 dealers 1
 demodulates 3
-dependableness
+dependableness 1
 dismembers 2
 dogedoms 3
 doncella
