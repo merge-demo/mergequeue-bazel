@@ -5034,7 +5034,7 @@ forepad 1
 flipping 2
 flatbeds 2
 flanneling
-fungoidal 1
+fungoidal 2
 forepaw 2
 ferries 2
 fizz 1
