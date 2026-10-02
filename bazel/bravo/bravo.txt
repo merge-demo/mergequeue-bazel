@@ -2707,7 +2707,7 @@ beblood
 butein
 bottomries 3
 batch
-beadflush 1
+beadflush 2
 bemaul 1
 barnman
 braconids 1
