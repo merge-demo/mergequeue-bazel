@@ -18428,7 +18428,7 @@ castelli
 cognoscente 1
 cognoscing
 cognoscitive
-cognovit
+cognovit 1
 coude
 cognovits
 craftier 1
