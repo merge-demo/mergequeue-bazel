@@ -607,7 +607,7 @@ bacteriocin 1
 broomsticks 1
 bostangi
 bastiment 3
-bacteriodiagnosis
+bacteriodiagnosis 1
 bromates 2
 benomyls 4
 behearse 1
