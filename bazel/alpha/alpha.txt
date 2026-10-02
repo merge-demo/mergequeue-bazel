@@ -17628,7 +17628,7 @@ appertainment
 auditory
 apolaustic 1
 antiagglutination 2
-antediluvial
+antediluvial 1
 agouta 1
 apostlehood 2
 appestats 2
