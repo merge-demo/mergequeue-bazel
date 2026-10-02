@@ -5722,7 +5722,7 @@ kill
 killgmb 2
 killx 3
 kiln 1
-kilnepbeufc 1
+kilnepbeufc 2
 kilogsoqm 2
 kilojfntw
 kilp 2
