@@ -2688,7 +2688,7 @@ canions
 canistel 1
 canjac 2
 cank 1
-circumnavigations
+circumnavigations 1
 chokestrap
 clingfish 1
 canker
