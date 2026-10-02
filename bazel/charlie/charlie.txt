@@ -4132,7 +4132,7 @@ cubed
 chancellor
 cardinalities 2
 cardinally 1
-cardinalship
+cardinalship 1
 cardings 1
 cardioarterial
 cardiocarpum 2
