@@ -16738,7 +16738,7 @@ cloudiness 1
 clouding
 centimeter 1
 coeliorrhoea 1
-cloudlessness
+cloudlessness 1
 campody
 cycloheptane 1
 congregativeness 3
