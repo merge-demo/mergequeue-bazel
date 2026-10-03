@@ -2401,7 +2401,7 @@ electroscopes 1
 ethnotechnics 3
 epicaridan
 electrodeless
-exponentials
+exponentials 1
 ectogenetic 2
 energist 2
 electrodeposition
