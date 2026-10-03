@@ -8386,7 +8386,7 @@ alisp 4
 alisphenoidal 1
 asynapsis 1
 aliter
-archaiser 1
+archaiser 2
 atomechanics
 ality
 apocentricity
