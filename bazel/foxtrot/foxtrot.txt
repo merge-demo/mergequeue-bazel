@@ -9591,7 +9591,7 @@ frizzing 4
 fraternality 1
 fortifications 1
 fishpound 2
-fivestones 1
+fivestones 2
 ferrotyper 2
 forhooy 2
 fothering 2
