@@ -10345,7 +10345,7 @@ glebal 4
 guarana 1
 gaums 3
 gulfweeds 3
-gadgety 2
+gadgety 3
 gruffily
 greenlets 4
 gigabytes
