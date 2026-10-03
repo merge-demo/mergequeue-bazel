@@ -20501,7 +20501,7 @@ anoxybiosis
 arteriolosclerosis 1
 afaint 3
 acrid 1
-arteriomalacia
+arteriomalacia 1
 autoagglutinin 1
 ascertainment
 actinobacilli 3
