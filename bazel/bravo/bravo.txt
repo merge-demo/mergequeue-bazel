@@ -12046,7 +12046,7 @@ bladdernose 1
 brackishness 2
 boilover 1
 bandlessness 2
-boils
+boils 1
 boyo
 blizzardy
 boyology 2
