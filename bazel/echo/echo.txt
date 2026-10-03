@@ -7107,7 +7107,7 @@ equiprobability
 electrophoric 1
 enchainments 2
 epiplankton 3
-evadible 2
+evadible 3
 extemporizing 2
 envaye
 explainability 6
