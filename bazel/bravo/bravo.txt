@@ -8061,7 +8061,7 @@ broodiness 1
 biometrics
 bridecup
 bellypinch 1
-brogue
+brogue 1
 breathing
 borshts 4
 biculturalism 2
