@@ -17822,7 +17822,7 @@ disambiguated 2
 ductilized 2
 ductless 1
 drinkable
-darktown
+darktown 1
 darrell
 ductor
 dowdies
