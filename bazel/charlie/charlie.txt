@@ -3035,7 +3035,7 @@ cantraip
 cantraps 2
 chares
 curlyheads
-capitonidae
+capitonidae 1
 centrales 1
 cantrip
 cantus 2
