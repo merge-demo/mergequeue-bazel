@@ -506,7 +506,7 @@ craggedness 1
 calendaric 1
 cadences 1
 cadencies 2
-cadencing
+cadencing 1
 casitas
 cadenette
 corregidores 1
