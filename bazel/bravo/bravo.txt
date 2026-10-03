@@ -15222,7 +15222,7 @@ brewises 2
 branchiostegal
 beglerbeg 3
 bricklayer 1
-bricklayers
+bricklayers 1
 bummery
 brickle
 bulbospinal 2
