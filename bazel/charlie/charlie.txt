@@ -14428,7 +14428,7 @@ chowsed
 cirripedia 1
 conservable 1
 cirripedial
-centiare
+centiare 1
 carate 2
 crosscrosslet
 charades 1
