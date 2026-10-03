@@ -1739,7 +1739,7 @@ baluba 1
 berogue
 baluch
 bitripinnatifid 2
-broquery
+broquery 1
 baronnes 3
 becollier 1
 buses
