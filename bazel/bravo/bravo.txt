@@ -16535,7 +16535,7 @@ bishops
 budzat 2
 bandeaux 2
 broadpiece
-bisellium
+bisellium 1
 bisonant
 brutely 3
 blindstitch 1
