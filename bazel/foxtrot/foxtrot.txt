@@ -194,7 +194,7 @@ forcut 2
 finitary 3
 factoryship 3
 floatiness 3
-fraudulence
+fraudulence 1
 fusinite 3
 flashily 3
 feuar 3
