@@ -2558,7 +2558,7 @@ dweller 2
 declassification
 derringer 1
 diachrony 2
-declassifies
+declassifies 1
 diplophonic 2
 disequality 2
 dematerialize 3
