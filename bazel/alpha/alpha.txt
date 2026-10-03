@@ -17092,7 +17092,7 @@ arithmetize 1
 apodictive
 aluminite 2
 apodyteria
-adverb
+adverb 1
 apodyterium
 apods
 azotizing 1
