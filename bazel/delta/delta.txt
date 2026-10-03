@@ -3939,7 +3939,7 @@ duopoly 4
 disleal 1
 diaphemetric 3
 deyship
-demagnification
+demagnification 1
 deliberation 2
 defendress 1
 dislikeable 1
