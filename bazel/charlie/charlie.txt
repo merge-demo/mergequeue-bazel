@@ -28286,7 +28286,7 @@ criss 1
 crossbreed 1
 crater
 cachet 2
-crossfiring
+crossfiring 1
 conine
 cephalothoracic
 carabineer 1
