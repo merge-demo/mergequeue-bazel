@@ -2797,7 +2797,7 @@ dugal
 dop 2
 dorsalward
 disharmonize
-decremeter
+decremeter 1
 dicyemida 3
 demarches
 deftnesses 1
