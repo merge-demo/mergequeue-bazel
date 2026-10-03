@@ -16453,7 +16453,7 @@ clochette
 clockbird
 comodato
 caponizes 1
-clocker
+clocker 1
 clockhouse 1
 clockless 1
 cuon
