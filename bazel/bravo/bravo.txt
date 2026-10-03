@@ -2511,7 +2511,7 @@ barguest
 barguests 2
 buzylene
 baria
-bedouse
+bedouse 1
 blameful 2
 bandyman
 baboodom 1
