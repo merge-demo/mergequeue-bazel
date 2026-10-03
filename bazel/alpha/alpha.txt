@@ -9435,7 +9435,7 @@ altar
 altarage 1
 allodies 1
 armbone 1
-anemones
+anemones 1
 apicad 1
 angiosclerotic
 autocinesis
