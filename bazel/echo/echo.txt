@@ -3425,7 +3425,7 @@ erinize 1
 embassadress 2
 exumbral
 elaine
-embassy
+embassy 1
 eustomatous 1
 eriometer 1
 episyllogism 2
