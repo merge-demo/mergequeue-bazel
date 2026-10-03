@@ -12222,7 +12222,7 @@ epigraph
 epilachna 1
 executioneering 1
 enneahedrons 2
-engarb 1
+engarb 2
 episynthetic 1
 excur 2
 ensigns 1
