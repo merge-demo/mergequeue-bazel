@@ -12175,7 +12175,7 @@ exostome 1
 embergoose 2
 excuser 1
 elytron 1
-endpoint 2
+endpoint 3
 exposure 2
 ellipse
 econometrical
