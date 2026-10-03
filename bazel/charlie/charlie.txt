@@ -17113,7 +17113,7 @@ champ
 coadjutor 1
 coadjutors 1
 carduus
-coadjutorship
+coadjutorship 1
 coadjutress 1
 coadjutrix
 coadjuvate
