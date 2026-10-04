@@ -1939,7 +1939,7 @@ chiliarchy
 camelopards 1
 cotterite
 constant
-camelopardus
+camelopardus 1
 cloghad
 counterflashing 1
 camelry 2
