@@ -30216,7 +30216,7 @@ capitoulate
 concentrators 2
 cains
 cursed
-crudity
+crudity 1
 crudities 2
 companions
 countryfied
