@@ -11502,7 +11502,7 @@ bethwack 2
 bombload 4
 blumes 2
 benighting 2
-blunderbuss 1
+blunderbuss 2
 borasqueborate 3
 blunderbusses 2
 boundure 1
