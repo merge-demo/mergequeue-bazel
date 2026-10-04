@@ -6275,7 +6275,7 @@ elimination 1
 evasively 2
 electrofishing 3
 extraepiphyseal
-ecstatica
+ecstatica 1
 enrapt 4
 eurygaean 2
 enrapted 2
