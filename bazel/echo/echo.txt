@@ -3031,7 +3031,7 @@ elitist 2
 elytrocele 2
 epidotes 3
 elytroposis 3
-elytrorhagia 2
+elytrorhagia 3
 euglandina
 elytrostenosis 1
 elytrotomy 1
@@ -6859,7 +6859,7 @@ exceptionless 1
 epitome 3
 exterior 2
 embarque 3
-enameloma 1
+enameloma 2
 extractive
 eleusinion
 entomologies 1
@@ -11907,7 +11907,7 @@ earlobes 2
 exceptiousness 2
 exultation
 eyr
-enhypostatic 1
+enhypostatic 2
 entrepreneurship 1
 epiphytes 1
 emissivity 2
@@ -12910,7 +12910,7 @@ erythropenia 2
 engr 3
 eosaurus 2
 enticingly 3
-expeditiousness 1
+expeditiousness 2
 ecchymose 1
 epithymetic
 evangeliary 2
@@ -14107,7 +14107,7 @@ epiphyses 2
 exterraneous
 entrancements
 extrinsically 4
-extrinsicalness 2
+extrinsicalness 3
 extrinsication 1
 enthralls
 exhortatively 1
