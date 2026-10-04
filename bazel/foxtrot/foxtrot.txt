@@ -2535,7 +2535,7 @@ filamentule 1
 frangibility
 freebee 2
 fados 1
-freeboot 1
+freeboot 2
 fem 5
 functionalistic
 foresightful 3
