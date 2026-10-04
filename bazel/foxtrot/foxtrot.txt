@@ -3553,7 +3553,7 @@ foulsome 4
 filamentary 3
 filament 4
 flannelleaves 1
-fishfall
+fishfall 1
 flagrancy 1
 frowziness 2
 fath 1
