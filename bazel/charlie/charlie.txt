@@ -27756,7 +27756,7 @@ chough
 cowshut 2
 cowskin
 countercommand 1
-cowson
+cowson 1
 criticsm 2
 cowtown 1
 cox 1
