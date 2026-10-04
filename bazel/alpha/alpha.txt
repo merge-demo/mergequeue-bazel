@@ -6000,7 +6000,7 @@ aggrievedly
 albicores 1
 acaridomatia 2
 amoles
-adenectomy
+adenectomy 1
 acapnial
 alimenation
 alhena
