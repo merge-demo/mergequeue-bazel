@@ -4341,7 +4341,7 @@ firns 3
 freespac 1
 fleshings 2
 formicivora
-ficiform
+ficiform 1
 fieriest 2
 fibromatoid 4
 fosslify 1
