@@ -6802,7 +6802,7 @@ afterband 1
 affable
 amyrin 1
 ammonify 1
-airdrome
+airdrome 1
 airdromes 2
 airdrop
 advertizing 1
