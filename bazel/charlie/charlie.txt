@@ -19953,7 +19953,7 @@ commandoes
 ceraunomancy
 commandoman
 canfieldite 1
-canoodled
+canoodled 1
 commandos 1
 colove 1
 cheery
