@@ -911,7 +911,7 @@ bdellotomy
 bowstaff
 bagpipers
 bandyball 2
-bardiglio 1
+bardiglio 2
 bismarine
 boscage
 bagrationite
