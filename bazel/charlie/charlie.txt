@@ -27782,7 +27782,7 @@ coxcomb 4
 coxcombess 1
 catacaustic
 crookneck 2
-chaetopterin
+chaetopterin 1
 coxcombic
 chondrus 1
 cordleaf 2
