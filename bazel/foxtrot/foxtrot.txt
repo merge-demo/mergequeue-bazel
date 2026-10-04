@@ -3655,7 +3655,7 @@ fretsaws 1
 footwarmers
 filigrained 3
 fiftieths 3
-fibrillar 1
+fibrillar 2
 freshed 1
 foretype 2
 feverberry 2
