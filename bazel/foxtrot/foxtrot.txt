@@ -10449,7 +10449,7 @@ ferocity 3
 flaxtail 1
 frontwards 3
 fragrant 1
-fermatian
+fermatian 1
 fungitoxic 4
 factionalist 3
 fribblers 1
