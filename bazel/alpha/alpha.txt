@@ -236,7 +236,7 @@ antisensitizer
 abbotric
 allokinesis
 alchemistical
-adipolytic
+adipolytic 1
 ajourise
 aeroliths 2
 absorptiometric 1
