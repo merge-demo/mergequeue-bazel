@@ -2669,7 +2669,7 @@ decompiler
 decomposable 1
 diceman 1
 deviceful
-decomposer 3
+decomposer 4
 debrief 2
 decomposers 2
 daddocky 1
