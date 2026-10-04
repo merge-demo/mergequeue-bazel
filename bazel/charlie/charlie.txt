@@ -12955,7 +12955,7 @@ chloropal
 consecution
 cyanhydric
 cyanhydrin
-citrean
+citrean 1
 cyanid 1
 collects
 casel
