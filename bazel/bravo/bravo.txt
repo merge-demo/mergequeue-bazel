@@ -11942,7 +11942,7 @@ bayou 1
 boggle 3
 babakoto 2
 blastemas
-boggler
+boggler 1
 bannerol 1
 bogglers 1
 boggling 5
