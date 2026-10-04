@@ -3031,7 +3031,7 @@ elitist 2
 elytrocele 2
 epidotes 3
 elytroposis 3
-elytrorhagia 2
+elytrorhagia 3
 euglandina
 elytrostenosis 1
 elytrotomy 1
@@ -6859,7 +6859,7 @@ exceptionless 1
 epitome 3
 exterior 2
 embarque 3
-enameloma 1
+enameloma 2
 extractive
 eleusinion
 entomologies 1
