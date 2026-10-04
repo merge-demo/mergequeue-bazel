@@ -6739,7 +6739,7 @@ disacidify 1
 date 1
 designatum
 designedly 1
-designedness 1
+designedness 2
 detachability 3
 delibate 2
 designment 2
