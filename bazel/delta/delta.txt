@@ -17479,7 +17479,7 @@ discrete 2
 daffle 1
 doubleheaders 2
 deficiently
-destructed
+destructed 1
 disorientation 1
 devoices 4
 densities 3
