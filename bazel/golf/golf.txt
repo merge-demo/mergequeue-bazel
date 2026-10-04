@@ -9842,7 +9842,7 @@ geoponical 2
 grilles 2
 gabbarts
 gallivant 3
-gospellike
+gospellike 1
 gnathopoda 1
 grousers
 gorillas
