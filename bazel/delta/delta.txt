@@ -11803,7 +11803,7 @@ dosserets 2
 deinodon 1
 discriminating
 dacryuria
-drawbridges
+drawbridges 1
 dimitted
 discriminatively
 despatch
