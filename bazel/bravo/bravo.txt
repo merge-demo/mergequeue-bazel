@@ -13915,7 +13915,7 @@ birdlike 3
 bowstrung
 behavior 1
 bowtell
-barographic 1
+barographic 2
 backpointer 1
 byspell 3
 broadened
@@ -16317,7 +16317,7 @@ belfries
 bespete 1
 brugnatellite 2
 benzoxy
-bluehearted 1
+bluehearted 2
 broomsquire 2
 bulimic 2
 bossing 2
