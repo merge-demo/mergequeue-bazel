@@ -6704,7 +6704,7 @@ gobmouthed
 growable 5
 gromatic 1
 gibbergunyah 1
-gymnosperm
+gymnosperm 1
 grattage 1
 gewgawed 2
 growse 1
