@@ -7582,7 +7582,7 @@ ganglioplexus 2
 generousness 2
 gruffer 4
 gownsmen
-gangism 2
+gangism 3
 grassweed 2
 gledge 2
 gloomful
@@ -9562,7 +9562,7 @@ geophagies 4
 graphical 1
 glamorized 2
 geodynamical 2
-guidage 4
+guidage 5
 groveller 2
 gauteite 2
 gruels 1
