@@ -19904,7 +19904,7 @@ collectives 1
 contriturate 2
 clayish
 comity
-comitia
+comitia 1
 comitial
 colortype
 comitium 1
