@@ -216,7 +216,7 @@ brainpower 2
 biofog 1
 bandicoot 2
 baccy
-banishments
+banishments 1
 bacciferous 2
 britannic 2
 brookless 1
