@@ -64,7 +64,7 @@ faster
 fibrolite 2
 fconv 1
 fabulously 3
-facebar 1
+facebar 2
 facebow 2
 fenchone 1
 feudalization 3
