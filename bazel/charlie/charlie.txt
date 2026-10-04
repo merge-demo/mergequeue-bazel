@@ -12938,7 +12938,7 @@ cia
 crystallised 1
 cyan
 cyanamid
-conspires
+conspires 1
 coextension 2
 chipling
 coaxially 2
