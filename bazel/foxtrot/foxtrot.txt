@@ -6363,7 +6363,7 @@ flang 2
 fullterm 2
 fluoran
 fennish 2
-fluorane 3
+fluorane 4
 francois 2
 florentium 2
 fishtailing 1
