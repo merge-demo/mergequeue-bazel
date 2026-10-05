@@ -8427,7 +8427,7 @@ deliveror
 dialog
 ditties
 dialogers 1
-dexies
+dexies 1
 deflater 2
 devide
 deconcentrator 3
