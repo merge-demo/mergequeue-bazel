@@ -933,7 +933,7 @@ equipping 2
 endowments 4
 endorsements 2
 electrophoretic 5
-ectropion
+ectropion 1
 epilogues 2
 ectropium 1
 eluvia 4
