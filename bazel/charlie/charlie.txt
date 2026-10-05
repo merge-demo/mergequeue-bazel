@@ -21283,7 +21283,7 @@ concessionaire
 concessional
 chausseemeile
 concessions
-concessit
+concessit 1
 craniate
 concessiveness 3
 computerite 1
