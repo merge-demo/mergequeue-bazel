@@ -6441,7 +6441,7 @@ benzothiophene 1
 benzotrichloride 2
 bolection 3
 benzoxyacetic 3
-blanchers 1
+blanchers 2
 ballast 1
 bisulcate 3
 bulldogged 1
