@@ -8514,7 +8514,7 @@ alkylate
 atremate
 alkylbenzenesulfonates 1
 alkylic
-antiphonetic
+antiphonetic 1
 alkylidene 3
 afterburners
 autocoids 1
