@@ -10630,7 +10630,7 @@ diphtheritic 1
 diplonema 2
 deuteric
 detritus
-dunnaged
+dunnaged 1
 diplont
 delisting
 diplonts 2
