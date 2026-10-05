@@ -542,7 +542,7 @@ blit 2
 backwardness 1
 bootboy
 blastema 1
-befriendment 1
+befriendment 2
 biggishness
 burrock 3
 brickiest 2
