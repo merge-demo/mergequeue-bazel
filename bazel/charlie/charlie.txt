@@ -16254,7 +16254,7 @@ childermas 1
 constringency 1
 contraindicate 1
 clinoid
-clinology 1
+clinology 2
 clinometer
 clinometry
 clinometric
