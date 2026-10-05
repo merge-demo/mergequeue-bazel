@@ -21798,7 +21798,7 @@ condue
 conduit 1
 conduplicate 2
 caterwauler
-crumped
+crumped 1
 crunchable 1
 condurangin
 cone 1
