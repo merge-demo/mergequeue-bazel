@@ -4953,7 +4953,7 @@ gestural 2
 glaives 5
 get 4
 gent 1
-galangal 3
+galangal 4
 grangerizing 2
 gamdia 4
 gardens
