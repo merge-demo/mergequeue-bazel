@@ -292,7 +292,7 @@ beaune
 brachiocyllosis 1
 backarrows
 backbar 3
-bedright
+bedright 1
 birkenhead 2
 biolith
 booter 4
