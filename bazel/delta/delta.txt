@@ -18433,7 +18433,7 @@ duplexers
 duplication 1
 dogsbody 1
 dogey 1
-duplicators
+duplicators 1
 duncehood
 daidle 1
 dysphemize 1
