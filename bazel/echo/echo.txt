@@ -11967,7 +11967,7 @@ excystment 2
 encinal 3
 emirs
 ensilages 3
-exothermicity
+exothermicity 1
 endurance 1
 enlist 1
 epithecate 1
