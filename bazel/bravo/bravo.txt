@@ -3542,7 +3542,7 @@ beuniformed 1
 bathycolpic 2
 berseems 4
 belatticed 1
-baroscopic 1
+baroscopic 2
 binode
 blonds 3
 bathylithic
