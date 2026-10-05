@@ -5972,7 +5972,7 @@ deprograms 2
 dropforged 2
 deprome 1
 demisphere 3
-drawling 1
+drawling 2
 disaffectedly 1
 deprostrate
 draughtiest 1
