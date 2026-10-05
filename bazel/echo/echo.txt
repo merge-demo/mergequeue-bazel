@@ -6422,7 +6422,7 @@ engineering 1
 electrocutes 2
 enlargers 1
 ensiling
-ensilist
+ensilist 1
 exceptions 3
 ensilver 2
 ensisternum
