@@ -5919,7 +5919,7 @@ enhaemospore 1
 epiplastron 3
 emphases 1
 explees 3
-ecarinate
+ecarinate 1
 execrators 2
 exaggerativeness
 epitomise
