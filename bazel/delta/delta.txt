@@ -9196,7 +9196,7 @@ diebacks 3
 donk 1
 dehydrogenation 2
 diecious 1
-diectasis
+diectasis 1
 dead 1
 damascenes
 discase
