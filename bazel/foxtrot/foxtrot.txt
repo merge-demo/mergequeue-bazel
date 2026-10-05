@@ -7446,7 +7446,7 @@ foreguidance 2
 firecrest 3
 finner 1
 freemen
-flagginess
+flagginess 1
 forcipation 1
 flutelike
 forcipressure
