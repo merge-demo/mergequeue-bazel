@@ -7368,7 +7368,7 @@ cephalogram 2
 cephaloid 1
 culminates
 cuticles 1
-crepuscle
+crepuscle 1
 cephalology
 cryolites
 cephalom
