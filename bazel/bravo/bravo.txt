@@ -5358,7 +5358,7 @@ bonace 1
 blueweed 2
 besoothement 2
 buyable
-begray
+begray 1
 bromobenzene 1
 barodynamic 2
 barbarisation
