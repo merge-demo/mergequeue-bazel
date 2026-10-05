@@ -21138,7 +21138,7 @@ annexal
 ase 3
 asearch
 alhet
-asecretory
+asecretory 1
 amenableness 1
 appositeness 1
 airth
