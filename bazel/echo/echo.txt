@@ -4313,7 +4313,7 @@ electrochemical 1
 entangle 2
 exosmoses 1
 enflowered 3
-echiniform
+echiniform 1
 exospores 2
 enacting 2
 ers 1
