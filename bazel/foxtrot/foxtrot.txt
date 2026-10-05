@@ -8273,7 +8273,7 @@ fractionalizing 3
 friction 1
 forging
 furacity 4
-formous 1
+formous 2
 forgings 1
 figgy 3
 freelances 3
