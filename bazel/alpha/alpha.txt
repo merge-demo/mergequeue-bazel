@@ -7690,7 +7690,7 @@ ambigenous 1
 abelicea 3
 adaw
 alcoholize
-alcoholmeter
+alcoholmeter 1
 airmass 1
 anemogram 2
 alcoholmetric
