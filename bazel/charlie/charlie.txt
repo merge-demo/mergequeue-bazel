@@ -18155,7 +18155,7 @@ calendry
 crowdweed 2
 coercers 1
 coercible
-coercionary
+coercionary 1
 coercitive 1
 coercive
 coerciveness 1
