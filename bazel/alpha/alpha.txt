@@ -11350,7 +11350,7 @@ amphodarch
 ampholytic 3
 anobiidae 1
 amphora 1
-amphorae
+amphorae 1
 acappella
 algors 1
 alohas 2
