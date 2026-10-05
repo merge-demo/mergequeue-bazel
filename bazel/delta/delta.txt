@@ -18639,7 +18639,7 @@ denarii 1
 dipaschal 3
 dummyism 3
 dutymonger 1
-deactivations
+deactivations 1
 deodorizer 2
 disalignment
 decasyllable 2
