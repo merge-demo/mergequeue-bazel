@@ -2493,7 +2493,7 @@ barge 2
 bergere
 bult 1
 bargelike 1
-beet 1
+beet 2
 bargellos 3
 beswinge 2
 begroans 1
