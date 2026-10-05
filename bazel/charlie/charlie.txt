@@ -22380,7 +22380,7 @@ coniceine 1
 compressible 1
 contaminating 1
 conicle 2
-chessman
+chessman 1
 conidae 1
 champlainic
 conidioid
