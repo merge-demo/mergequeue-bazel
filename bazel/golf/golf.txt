@@ -4121,7 +4121,7 @@ glutamine 3
 gastroduodenostomies 2
 gimleting 3
 gesnerad 4
-geotaxes 4
+geotaxes 5
 gettysburg 2
 gargoyle
 glosts 1
