@@ -468,7 +468,7 @@ cad
 cadamba 1
 cryptocrystalline
 cadaster
-cadasters
+cadasters 1
 cadastral
 cadastration 2
 cadastres
