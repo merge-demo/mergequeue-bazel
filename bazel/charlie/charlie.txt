@@ -2712,7 +2712,7 @@ cankerroot 1
 cauponize
 cankers
 cultivators 1
-comedowns
+comedowns 1
 carbamyl
 coff 1
 combinatorics 1
