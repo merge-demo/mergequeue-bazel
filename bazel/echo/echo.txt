@@ -3450,7 +3450,7 @@ electrosynthetic 1
 equaled 1
 evacuate 1
 eventide 5
-embellisher 1
+embellisher 2
 embellishers 1
 eutelegenic 1
 enchained 2
