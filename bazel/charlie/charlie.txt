@@ -29874,7 +29874,7 @@ collectability 3
 crossbill 1
 crossbite 2
 capiatur
-curriculums 1
+curriculums 2
 crossbow
 crossbows 1
 culgee 1
