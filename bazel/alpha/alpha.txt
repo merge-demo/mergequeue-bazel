@@ -20940,7 +20940,7 @@ assuefaction 1
 anticlassicalness 1
 alimentally 1
 ascarid 1
-ascaridae
+ascaridae 1
 ascarides
 authoresses
 appertains
