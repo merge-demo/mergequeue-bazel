@@ -14137,7 +14137,7 @@ antenumber
 adrostal 2
 antenuptial
 aplasias
-anteoccupation 2
+anteoccupation 3
 anteocular
 anteorbital 1
 augustinian 2
