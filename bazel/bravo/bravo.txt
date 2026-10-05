@@ -9402,7 +9402,7 @@ braider 1
 biophotometer 1
 bullyhuff
 brattach 3
-bathman
+bathman 1
 balustrades 3
 benedictus 2
 bebotch
