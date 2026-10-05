@@ -6553,7 +6553,7 @@ dodgers 1
 descript 1
 descriptionist 2
 dogsled 1
-descriptionless
+descriptionless 1
 dangleberry 1
 distensile 2
 dysnomy 1
