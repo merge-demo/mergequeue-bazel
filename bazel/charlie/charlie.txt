@@ -11840,7 +11840,7 @@ choppiness 1
 cowpuncher
 clancular
 chopstick 1
-chopsticks
+chopsticks 1
 chopunnish
 cakes
 cultch 1
