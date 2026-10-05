@@ -12234,7 +12234,7 @@ deltoidal
 durous 1
 detector 2
 dampers
-deviators 1
+deviators 2
 dysfunctions 1
 disfurnish 1
 deport 1
