@@ -17335,7 +17335,7 @@ anaesthetic 1
 autothermy 2
 aposteme 1
 amidosulphonal 2
-aposteriori
+aposteriori 1
 aerogun 1
 arithmometer
 apostille
