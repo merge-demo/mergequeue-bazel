@@ -17933,7 +17933,7 @@ bearbine 1
 bioclean 3
 bushmaking
 branial
-bibliopoly
+bibliopoly 1
 bushman 1
 bisinuate 2
 benignant 1
