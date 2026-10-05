@@ -5611,7 +5611,7 @@ apastron 3
 armil 1
 anchoritically
 absorptivity 1
-aphototaxis
+aphototaxis 1
 aftervision
 actinomycoma
 afterwale
