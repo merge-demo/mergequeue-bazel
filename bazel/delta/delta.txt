@@ -12222,7 +12222,7 @@ drosophilae
 depel 2
 deride 1
 discoursiveness 3
-deliquesce
+deliquesce 1
 dwarfish 1
 dovecots 4
 disfrocking
