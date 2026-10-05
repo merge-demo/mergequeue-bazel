@@ -30501,7 +30501,7 @@ circumbuccal 1
 cub 2
 chilblains
 cuba
-cubages
+cubages 1
 cubicovariant
 corozos
 cubane
