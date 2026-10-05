@@ -11493,7 +11493,7 @@ choirman
 conspirers 1
 counterflux
 colonizations
-corelysis
+corelysis 1
 choirmasters 1
 cornaceous 1
 charthouse
