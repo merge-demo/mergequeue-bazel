@@ -3110,7 +3110,7 @@ capacitativly
 coldness 2
 can 1
 capacitive
-cenotaphies
+cenotaphies 1
 cyclophrenia 3
 cyclopes 1
 capacitor 1
