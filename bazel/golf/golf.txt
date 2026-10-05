@@ -1404,7 +1404,7 @@ gasified 2
 gausterer
 gearshift 2
 gcd 2
-gangplow 2
+gangplow 3
 grundyite 1
 galvanopsychic 1
 gipsying 3
