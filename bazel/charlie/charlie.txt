@@ -8636,7 +8636,7 @@ chankings
 channel 1
 channelbill 2
 coendou
-couching
+couching 1
 channeling 1
 clubbish 1
 channelize 1
