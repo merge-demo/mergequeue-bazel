@@ -1646,7 +1646,7 @@ daundered 1
 disassembler 1
 deallocate 1
 deobstruct 1
-devotional 1
+devotional 2
 daunter
 dicephalus 1
 darkhaired 1
