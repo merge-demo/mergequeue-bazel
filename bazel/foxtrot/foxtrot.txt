@@ -10378,7 +10378,7 @@ forgivers 1
 fecundities 2
 fertilizable 2
 frontignan 3
-fucate
+fucate 1
 fronting
 fizzle 1
 focus 1
