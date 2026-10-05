@@ -29649,7 +29649,7 @@ cognizer
 chemosterilant
 convulsiveness 2
 cotingid
-crocodylus
+crocodylus 1
 chronol 2
 counteraffirm 3
 croconic
