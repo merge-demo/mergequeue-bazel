@@ -8710,7 +8710,7 @@ atheology 1
 alang
 ankylotome
 actinopod 1
-amygdalopathy
+amygdalopathy 1
 allergin 1
 allergists 1
 allerion 1
