@@ -5199,7 +5199,7 @@ dartoic 2
 debone 4
 dyings 1
 daemon
-doghole
+doghole 1
 decephalization 3
 deathly
 diaheliotropic 2
