@@ -9868,7 +9868,7 @@ chemophysiology 2
 chemoprophyalctic
 cycle 1
 chemoprophylactic
-cruiser 1
+cruiser 2
 coaxer
 candent 1
 chemoreception 1
