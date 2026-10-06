@@ -3205,7 +3205,7 @@ fesels 2
 freeholds
 fairyland
 frosh
-fickle 1
+fickle 2
 fixage 1
 fruits 1
 fiches 2
