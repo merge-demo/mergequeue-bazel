@@ -7294,7 +7294,7 @@ diffusivity
 dollies
 diaxone
 disturbor
-desiccative
+desiccative 1
 doukhobor 1
 devisers
 defecters 2
