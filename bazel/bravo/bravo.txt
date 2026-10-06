@@ -7633,7 +7633,7 @@ backened 1
 biogenies 1
 beeper
 burgling
-bewraps
+bewraps 1
 basilisks
 belesprit
 bewrapt
