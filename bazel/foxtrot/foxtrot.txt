@@ -10418,7 +10418,7 @@ fronter 2
 frontoauricular 1
 frontomallar 2
 frontomental 2
-fidibus 3
+fidibus 4
 folks 4
 foraminifera 1
 flodge 2
