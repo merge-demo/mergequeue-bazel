@@ -2955,7 +2955,7 @@ displayer
 dedit 2
 dediticiancy
 dedogmatize 3
-discounted
+discounted 1
 dedolation
 deseret 1
 destinal 3
