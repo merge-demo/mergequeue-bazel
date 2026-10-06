@@ -1133,7 +1133,7 @@ editorialization 2
 elsa 3
 ecphory
 expunction 1
-enclosed
+enclosed 1
 emblematising
 editorializers 3
 elephantic 2
