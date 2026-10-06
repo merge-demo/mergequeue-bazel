@@ -11792,7 +11792,7 @@ cytosine
 coexecutrices
 contemperate
 chondrosternal 1
-chondrotomy
+chondrotomy 1
 chonk 1
 collaborate 1
 calfhood
