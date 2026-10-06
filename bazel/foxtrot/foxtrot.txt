@@ -5443,7 +5443,7 @@ floatative 2
 foggy 2
 fleering 2
 faunal
-flavorers 1
+flavorers 2
 figurativeness 1
 formulator 1
 famished
