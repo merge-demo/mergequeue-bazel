@@ -2571,7 +2571,7 @@ ferryway 2
 finding 1
 finlike 3
 fumes 3
-forechase
+forechase 1
 ferrocene 3
 fogramity 2
 flongs 2
