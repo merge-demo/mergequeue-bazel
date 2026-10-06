@@ -9391,7 +9391,7 @@ doubleted 1
 diffractiveness 5
 dist 1
 diffranchise 2
-dely
+dely 1
 diadumenus 1
 decrete 1
 durabilities 1
