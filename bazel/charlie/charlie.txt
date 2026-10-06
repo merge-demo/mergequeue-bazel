@@ -16862,7 +16862,7 @@ chiccory 1
 coexists
 crosswort 1
 clubroom
-casebooks 1
+casebooks 2
 clubroots
 clubs 1
 clubstart 4
