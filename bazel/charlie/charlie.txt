@@ -31072,7 +31072,7 @@ cumulene
 cossacks 1
 clinked 2
 cynophile
-clearers
+clearers 1
 ciselure 1
 cumuli 1
 chugger
