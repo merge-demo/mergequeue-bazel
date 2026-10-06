@@ -368,7 +368,7 @@ dayman 1
 droughtiness 1
 detruss 1
 daymares
-disseizes 1
+disseizes 2
 diarists
 discoloured 2
 dasher
