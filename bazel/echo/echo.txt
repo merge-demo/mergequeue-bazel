@@ -349,7 +349,7 @@ exoduses 2
 electrolyzability
 exigible 1
 eaten
-eighty
+eighty 1
 electrodynamic 2
 enchantment 3
 empeirema 1
