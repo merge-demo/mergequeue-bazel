@@ -14430,7 +14430,7 @@ conservable 1
 cirripedial
 centiare 1
 carate 2
-crosscrosslet
+crosscrosslet 1
 charades 1
 capataces
 cirrocumulative 1
