@@ -3547,7 +3547,7 @@ fains 3
 fitweed 1
 forehearth 5
 featherhead 1
-formant
+formant 1
 frightful 2
 foulsome 4
 filamentary 3
