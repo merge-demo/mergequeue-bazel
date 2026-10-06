@@ -2539,7 +2539,7 @@ besnare 1
 brancher
 bs 1
 bilamellar 1
-boerdom 1
+boerdom 2
 begster 2
 birk 2
 backlists 2
