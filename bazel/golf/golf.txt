@@ -6585,7 +6585,7 @@ girons 4
 gimmerpet 1
 gambas 2
 guazzo
-groyne 2
+groyne 3
 goulan
 ghostwrite
 gingivolabial 1
