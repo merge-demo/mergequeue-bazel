@@ -1369,7 +1369,7 @@ acceptance 2
 axisymmetrical
 absorbent 2
 athalline 1
-achylia
+achylia 1
 aguish 3
 acropetally
 antiprotozoal
