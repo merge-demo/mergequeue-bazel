@@ -1360,7 +1360,7 @@ fanning
 fatigue 3
 fossicks 3
 fatiguesome 1
-fragmenting 1
+fragmenting 2
 fishbones 3
 fulminuric 1
 fatiha 3
