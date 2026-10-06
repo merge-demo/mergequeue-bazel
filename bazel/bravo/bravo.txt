@@ -652,7 +652,7 @@ beletter
 bronchocavernous 1
 bynames
 bungles 2
-bkpr
+bkpr 1
 boigid 1
 bacterized 1
 barefacedly 3
