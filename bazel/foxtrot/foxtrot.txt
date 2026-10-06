@@ -10876,7 +10876,7 @@ freestone 2
 flayer 2
 furore
 fullish
-foeman
+foeman 1
 frigorifico 2
 fulgurated 1
 forgathers 2

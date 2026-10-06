@@ -1368,7 +1368,7 @@ amintor 1
 acceptance 2
 axisymmetrical
 absorbent 2
-athalline
+athalline 1
 achylia
 aguish 3
 acropetally
