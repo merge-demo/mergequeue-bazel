@@ -479,7 +479,7 @@ agriotes 2
 abyss 1
 abyssopelagic 1
 actinide 2
-airstream
+airstream 1
 abyssus 1
 abit
 abstriction 3
