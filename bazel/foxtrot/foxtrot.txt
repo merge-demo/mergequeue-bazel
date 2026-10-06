@@ -6299,7 +6299,7 @@ follicle 1
 ferryhouse 3
 fob 1
 falerian 2
-flumes
+flumes 1
 fluminous
 freak
 fluxibility 2
