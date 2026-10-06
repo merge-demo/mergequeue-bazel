@@ -2677,7 +2677,7 @@ barmcloth
 brither 3
 birdcage 2
 bascules 1
-balmlike 2
+balmlike 3
 barnabas
 bales
 barnaby 1
