@@ -3605,7 +3605,7 @@ gargil 2
 gaelicize 3
 galany 3
 guttiform 2
-gnathic
+gnathic 1
 gananciales 1
 gantries 1
 glack
