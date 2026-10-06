@@ -11289,7 +11289,7 @@ eikonogen 1
 evaporates 2
 edp 1
 eimer 4
-enwiden 1
+enwiden 2
 extrascholastic 1
 euphorbine 3
 elbowboard 1
