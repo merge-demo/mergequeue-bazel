@@ -3286,7 +3286,7 @@ bloodiest
 basions
 backstabbed
 bronzes
-beadlery 2
+beadlery 3
 backpacking 2
 balche 2
 baccalaureat 2
