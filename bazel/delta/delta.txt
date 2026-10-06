@@ -8105,7 +8105,7 @@ duodial 2
 dentex 2
 developpes 1
 distributions
-decidable
+decidable 1
 dichogamic 1
 dinosaurs 3
 diabetometer 1
