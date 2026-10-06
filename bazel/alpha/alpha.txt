@@ -23709,7 +23709,7 @@ assyria
 articles 2
 auriphone
 auriphrygia
-auripigment
+auripigment 1
 aurir
 auriscalpia
 auriscopy
