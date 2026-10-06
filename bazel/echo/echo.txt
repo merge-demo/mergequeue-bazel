@@ -4332,7 +4332,7 @@ elytroclasia 3
 expulsive 3
 expansibleness 1
 enactor 4
-epigrammatize
+epigrammatize 1
 entoproct 1
 echoed 1
 eloquence
