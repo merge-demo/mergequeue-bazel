@@ -3070,7 +3070,7 @@ boilerworks
 bullary 2
 breather 3
 blastplate 2
-bating
+bating 1
 badminton 1
 barware 2
 boneblack 3
