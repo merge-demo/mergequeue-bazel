@@ -1156,7 +1156,7 @@ fets 2
 foredestiny 1
 farthingdeal 4
 frays 3
-footfeed 4
+footfeed 5
 fascinator 1
 ferous 1
 flowerless 1
