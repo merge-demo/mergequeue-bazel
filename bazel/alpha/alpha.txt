@@ -9300,7 +9300,7 @@ antitumor 2
 alopecia 1
 alopecias
 alopecoid
-antrectomy
+antrectomy 1
 alophas 1
 alorcinic
 alosa 1
