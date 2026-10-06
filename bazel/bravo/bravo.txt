@@ -9919,7 +9919,7 @@ bedticking 1
 bordelaise
 bauson 2
 bastardice 2
-bituminate
+bituminate 1
 bituminising 1
 bituminized
 burnbeat 1
