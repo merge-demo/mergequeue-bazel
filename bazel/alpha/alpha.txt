@@ -926,7 +926,7 @@ absolves
 absolving
 abstort 1
 astriction
-atomistics
+atomistics 1
 absolvitor 2
 aldolize 1
 alloxy
