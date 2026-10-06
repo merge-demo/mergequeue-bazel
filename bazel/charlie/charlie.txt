@@ -11955,7 +11955,7 @@ collunarium 1
 cachina 1
 chorioallantoic
 chorioallantoid
-chorioallantois
+chorioallantois 1
 centrifugation
 cornbread
 counterculturist
