@@ -8176,7 +8176,7 @@ duple
 deprecate 1
 diacipiperazine 2
 disload
-drapeability 2
+drapeability 3
 druidism 2
 didodecahedral 2
 digitalism 1
