@@ -5065,7 +5065,7 @@ denaturing 2
 duplicand 1
 denaturise 1
 disfigures 1
-dextrogyrate
+dextrogyrate 1
 denaturization 5
 disparaging 2
 desensitizers
