@@ -4171,7 +4171,7 @@ firebox 1
 flocculation 2
 farkleberries 2
 fellowcraft 1
-floerkea
+floerkea 1
 fibrils 4
 faintness 2
 fluophosphate 2
