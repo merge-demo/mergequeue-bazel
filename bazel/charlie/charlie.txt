@@ -15405,7 +15405,7 @@ clapt
 chicane 1
 cautio 2
 cabins 1
-claptraps 1
+claptraps 2
 clapwort
 culbuter 2
 claque
