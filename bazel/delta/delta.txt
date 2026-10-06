@@ -646,7 +646,7 @@ disoccupation 1
 debarration 2
 depolarizer 2
 damnifies 1
-damningly
+damningly 1
 disposals 2
 damnonians 1
 doomfully 1
