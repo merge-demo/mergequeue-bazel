@@ -2678,7 +2678,7 @@ brither 3
 birdcage 2
 bascules 1
 balmlike 2
-barnabas
+barnabas 1
 bales
 barnaby 1
 bluebreast 1
