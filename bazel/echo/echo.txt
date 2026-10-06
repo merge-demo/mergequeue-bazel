@@ -7497,7 +7497,7 @@ earthmover 5
 esterify 2
 endeign 1
 eugenia 2
-epidiascopic
+epidiascopic 1
 effluency 3
 ephor
 encounterer 1
