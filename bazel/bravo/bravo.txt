@@ -1927,7 +1927,7 @@ bisection 2
 bagnio
 balances 2
 bandstring 3
-bathymetric
+bathymetric 1
 brandishes 1
 bigeye 2
 believes 2
