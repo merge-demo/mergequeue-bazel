@@ -2492,7 +2492,7 @@ brachyoura 1
 barge 2
 bergere
 bult 1
-bargelike 1
+bargelike 2
 beet 2
 bargellos 3
 beswinge 2
