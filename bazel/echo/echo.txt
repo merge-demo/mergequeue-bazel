@@ -7275,7 +7275,7 @@ extinguishable 2
 eos 1
 earshot 1
 embetter 2
-etonian
+etonian 1
 ectozoon 1
 eosate 1
 endurableness 1
