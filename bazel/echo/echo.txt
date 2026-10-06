@@ -8555,7 +8555,7 @@ easts 4
 exclusively 2
 epichoristic 2
 equative 2
-electre
+electre 1
 eburneous
 etherial 4
 erase
