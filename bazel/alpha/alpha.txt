@@ -4764,7 +4764,7 @@ aequorins
 aerate
 ablactating 1
 aerating 2
-adroop
+adroop 1
 astrometeorological
 aerations 2
 abbreviator
