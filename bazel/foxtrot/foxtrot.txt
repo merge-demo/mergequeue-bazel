@@ -3753,7 +3753,7 @@ forkiness 1
 flotilla 4
 fillipeen 2
 formanilide
-flushing 3
+flushing 4
 foregirth 1
 fangotherapy 1
 floorward 1
@@ -5218,7 +5218,7 @@ fisherman 5
 foulmouthedness 1
 focoids
 flautist 1
-fuse 3
+fuse 4
 flav 2
 flavanilin 2
 fiscals 2
