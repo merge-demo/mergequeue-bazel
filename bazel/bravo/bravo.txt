@@ -14870,7 +14870,7 @@ beanpoles
 bloodthirstier 1
 breadwinning 2
 breakability
-bilith 2
+bilith 3
 brokers 1
 breakable 2
 breakaxe 1
