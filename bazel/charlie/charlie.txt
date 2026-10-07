@@ -6942,7 +6942,7 @@ cements
 cementwork
 cemetaries
 cemetery 3
-copesettic
+copesettic 1
 cemeterial 1
 catchpenny
 concours
