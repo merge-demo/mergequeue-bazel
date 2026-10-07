@@ -17507,7 +17507,7 @@ appeal 1
 adders
 appealable 1
 atangle
-askance
+askance 1
 acanthodea
 appealingly 2
 agruif
