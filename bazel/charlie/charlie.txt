@@ -28161,7 +28161,7 @@ cranioscopy
 chimerism
 cameos
 craniotomy 1
-craniotopography 1
+craniotopography 2
 craniums 1
 counter 1
 crankcases 1
