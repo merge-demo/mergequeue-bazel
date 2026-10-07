@@ -2817,7 +2817,7 @@ folacins 1
 finlander 2
 flattops 4
 fumigatories 3
-fcomp
+fcomp 1
 fretted 4
 faunae 5
 faveolate 2
