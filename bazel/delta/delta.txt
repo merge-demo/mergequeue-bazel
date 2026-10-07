@@ -16542,7 +16542,7 @@ dyspnoic 2
 draftwoman 2
 detergent
 denar 2
-drivebolt
+drivebolt 1
 deteriorationist
 duos 3
 daza 3
