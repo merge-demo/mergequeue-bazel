@@ -5702,7 +5702,7 @@ disposit 1
 deplenish
 dialup 2
 depleteable
-decapodan 2
+decapodan 3
 ducape
 dichroite 5
 daftlike
