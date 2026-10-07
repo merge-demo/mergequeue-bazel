@@ -7523,7 +7523,7 @@ flentes 3
 fleshbrush 2
 frivoler
 foreboom 4
-foredooms
+foredooms 1
 filterers 3
 foreburton 1
 fameless 3
