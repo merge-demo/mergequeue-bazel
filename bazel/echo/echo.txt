@@ -6029,7 +6029,7 @@ estampedero 1
 erosion 1
 ejects 4
 earns
-eluding
+eluding 1
 extrapituitary 1
 emptily
 ennoblingly 2
