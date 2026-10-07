@@ -4964,7 +4964,7 @@ frets 2
 farmhold 1
 flamers 1
 fictionist
-foxing 2
+foxing 3
 flamy 1
 fan 4
 facepiece 4
