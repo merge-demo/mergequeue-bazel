@@ -9433,7 +9433,7 @@ fausant 3
 filmslide 2
 fireboats 1
 flambant 5
-fraternally
+fraternally 1
 felonsetting 1
 formic
 fraternised
