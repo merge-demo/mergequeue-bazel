@@ -6783,7 +6783,7 @@ angularity 1
 airbusses
 antibias 2
 axometer 1
-arid
+arid 1
 altars 1
 aircraftmen 1
 aircraftsman
