@@ -8435,7 +8435,7 @@ alkalinity 2
 alkalinities 2
 abactor 2
 aesthesics 1
-augmentations 1
+augmentations 2
 angiography
 archology
 aftercost
