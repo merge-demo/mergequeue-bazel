@@ -14957,7 +14957,7 @@ decoloriser 2
 dermatoid 1
 disarmer
 displodes
-dialoger
+dialoger 1
 defrauders 1
 doesn 1
 desiccatory 2
