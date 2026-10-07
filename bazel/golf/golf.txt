@@ -1087,7 +1087,7 @@ groundway 4
 gypsums 1
 gegenion 3
 glares 2
-guarding 3
+guarding 4
 gainfully
 graphicness
 gowdy
