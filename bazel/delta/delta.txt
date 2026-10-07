@@ -1734,7 +1734,7 @@ dyad 2
 dishwiping
 deathify 3
 diobol 1
-deathiness
+deathiness 1
 dasewe 2
 discantus 1
 duckpond
