@@ -813,7 +813,7 @@ fumingly 1
 faun 3
 fenny 2
 frogeyes 2
-formfitting 1
+formfitting 2
 fixatives 2
 fluctuations 2
 fanjet 2
@@ -4634,7 +4634,7 @@ fitters 2
 foxery 4
 fifo 3
 formazyl
-francophilism 2
+francophilism 3
 firked 2
 factorizations 3
 fullnesses 3
@@ -9844,7 +9844,7 @@ foozlers 5
 footcloths 2
 fluellen 5
 foredestine 1
-foxily
+foxily 1
 funnelform 1
 fibrosarcoma 1
 flexanimous 5
@@ -10017,7 +10017,7 @@ fringehead 1
 fringelet 6
 fruitier 1
 fringent 2
-feminacy 4
+feminacy 5
 fringetail 2
 foreplot 2
 fimbles
