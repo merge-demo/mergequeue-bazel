@@ -9508,7 +9508,7 @@ eleutherarch 2
 edenic 1
 exorcisers
 electromotivity
-eruptives
+eruptives 1
 episodic 1
 escrow 1
 escrowing 4
@@ -11703,7 +11703,7 @@ epiphragmal 1
 epileptologist 3
 ephraimitish 1
 epistemologically 3
-erythrolysin 1
+erythrolysin 2
 earscrew 1
 emphatic 2
 escolar 1
