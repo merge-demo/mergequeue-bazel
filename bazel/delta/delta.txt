@@ -10549,7 +10549,7 @@ ddname 1
 derate 1
 doorsills
 diceratidae 1
-diazotate 1
+diazotate 2
 deipotent 1
 dimpling 1
 demiking 4
