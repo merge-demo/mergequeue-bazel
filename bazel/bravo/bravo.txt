@@ -9506,7 +9506,7 @@ biographee 1
 banality
 besots 1
 birthnight 2
-birthplaces
+birthplaces 1
 bogota 3
 backfilled 1
 blackened 6
