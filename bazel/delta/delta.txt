@@ -5944,7 +5944,7 @@ depriment
 deprint 1
 depriorize 2
 disorderedness 1
-deprivable 1
+deprivable 2
 degrader
 departements 2
 dimethylnitrosamine
@@ -8070,7 +8070,7 @@ duchesse 1
 dysacusia 1
 delve 5
 dhooly 3
-dowiness 2
+dowiness 3
 dictyonine 1
 disilicic 1
 disheritment 1
