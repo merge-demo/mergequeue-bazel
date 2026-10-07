@@ -12803,7 +12803,7 @@ diffusedness 2
 dismay 2
 doudle 3
 disconfirm 1
-dismayable
+dismayable 1
 dismayfully
 declension 1
 datagrams 1
