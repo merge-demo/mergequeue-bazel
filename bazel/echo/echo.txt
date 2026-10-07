@@ -1308,7 +1308,7 @@ ellipsis 1
 exhilarated 1
 exumbrellar 2
 effect
-endocardiac
+endocardiac 1
 exopeptidase 4
 effective 2
 euryphagous
