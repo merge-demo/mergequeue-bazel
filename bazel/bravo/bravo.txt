@@ -15207,7 +15207,7 @@ ballistocardiography 2
 beautify 1
 bembex 2
 billhook 1
-brickel
+brickel 1
 bruit
 biometrically 1
 bouldering 2
