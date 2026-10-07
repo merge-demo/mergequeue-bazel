@@ -9157,7 +9157,7 @@ centipedes 1
 conservatives
 charwomen 1
 chase 1
-chaseable
+chaseable 1
 chased 1
 corbeilles
 chases 1
