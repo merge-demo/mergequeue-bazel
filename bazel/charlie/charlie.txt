@@ -4523,7 +4523,7 @@ confederative 1
 catapults
 carbine
 cephalogenesis 1
-carnallite 1
+carnallite 2
 colluvies 1
 churchshot 2
 carnalness
