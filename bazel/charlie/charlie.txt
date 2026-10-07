@@ -22988,7 +22988,7 @@ consolatrix
 console 1
 crain
 crossfire
-chambermaids
+chambermaids 1
 coprinae 1
 companyless
 copist
