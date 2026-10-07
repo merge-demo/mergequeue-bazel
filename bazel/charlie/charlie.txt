@@ -7115,7 +7115,7 @@ canton
 caliculus
 centimetre
 cashmerette 3
-centimetres
+centimetres 1
 cullion 1
 centimo
 centimos
