@@ -17438,7 +17438,7 @@ bunkering
 blackouts 1
 bunkermen 3
 bunkers
-babel 1
+babel 2
 bronchiolus 1
 beard 1
 burler 1
