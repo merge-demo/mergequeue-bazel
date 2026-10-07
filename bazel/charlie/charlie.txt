@@ -26293,7 +26293,7 @@ colorimetric
 countersea
 costmaries 1
 counterdemonstrator
-costoabdominal
+costoabdominal 1
 collegianer
 cultured
 costoapical
