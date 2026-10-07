@@ -2458,7 +2458,7 @@ drydenian
 diaeresis 1
 decipherability 1
 dooryards 1
-dand
+dand 1
 doctrinarily
 deucing 1
 disintegrative
