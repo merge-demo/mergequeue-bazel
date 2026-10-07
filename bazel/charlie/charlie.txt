@@ -8356,7 +8356,7 @@ caseate 3
 chalon
 clonuses 1
 challenges 2
-cohered
+cohered 1
 chalons 2
 coronograph
 chalot 3
