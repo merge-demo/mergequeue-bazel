@@ -8478,7 +8478,7 @@ diametral 2
 diametric 1
 diamide
 diamides
-descanter 1
+descanter 2
 deesis 1
 dapperest 2
 diaminogen
