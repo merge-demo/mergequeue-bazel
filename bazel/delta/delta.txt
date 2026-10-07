@@ -8813,7 +8813,7 @@ diazotype 2
 dromicia 3
 deluding
 disadvise 3
-deratization
+deratization 1
 dolefuller
 douricouli 2
 displacements 2
@@ -9558,7 +9558,7 @@ duellos 2
 diglots 3
 desmatippus
 disenchantment 1
-diglottist 2
+diglottist 3
 duumvir 2
 diallists
 demasculinised 1
