@@ -5646,7 +5646,7 @@ dephlogisticate 1
 dess 3
 detache 1
 disinclose
-dephlogistication
+dephlogistication 1
 darst 1
 displuming 1
 disseveration
