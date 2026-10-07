@@ -4687,7 +4687,7 @@ denationalizing
 demitint
 demitoilet
 deteriorated 4
-demitranslucence 1
+demitranslucence 2
 demits 2
 demitted
 denticulately 5
