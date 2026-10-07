@@ -7847,7 +7847,7 @@ bels
 benamed 2
 biblicality 1
 biblicism 2
-biblicopsychological 2
+biblicopsychological 3
 biblike
 berinse
 bombs 2
