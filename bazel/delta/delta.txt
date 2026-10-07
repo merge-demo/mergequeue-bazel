@@ -15918,7 +15918,7 @@ devilwood 1
 dims
 distileries
 dossmen
-dissemblies
+dissemblies 1
 decamerous 1
 desaminase 2
 downcried 1
