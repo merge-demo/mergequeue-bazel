@@ -112,7 +112,7 @@ faciation 1
 fingertips 2
 faciends 2
 featheredges 3
-fluidization 2
+fluidization 3
 facient 2
 furaldehyde 1
 facilitate 1
