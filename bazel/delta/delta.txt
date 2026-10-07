@@ -15118,7 +15118,7 @@ deleniate 4
 dentist 2
 damningness 2
 disadvantaged
-decremental
+decremental 1
 delawn 1
 degustate
 dubitatively
