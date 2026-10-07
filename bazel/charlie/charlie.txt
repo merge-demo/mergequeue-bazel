@@ -28595,7 +28595,7 @@ creepiness 2
 chammies 1
 creepmouse 1
 creeps 2
-creese
+creese 1
 creeses
 colleague
 cinchonine
