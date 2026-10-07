@@ -10209,7 +10209,7 @@ bootstraps 2
 bondhold
 bloodletter
 belshazzar 3
-blackleg 2
+blackleg 3
 blacklegged 3
 benzo 3
 betattering 1
