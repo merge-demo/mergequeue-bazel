@@ -11754,7 +11754,7 @@ ensurer 3
 easier 3
 entoptoscopy 1
 examinee
-emoted
+emoted 1
 epithelization
 edgerman 1
 ephraim
