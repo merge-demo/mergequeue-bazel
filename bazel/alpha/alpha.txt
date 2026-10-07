@@ -1280,7 +1280,7 @@ acataleptic
 autocorrelate 3
 autosomally 1
 advectitious 1
-affrontee 3
+affrontee 4
 acatamathesia 1
 artinskian 1
 azurean 1
@@ -14551,7 +14551,7 @@ anthropomorphized 1
 anthropomorphology
 atta
 anthropomorphously 1
-arthrozoan 1
+arthrozoan 2
 abner
 anthroponomics
 anthroponomist
@@ -22638,7 +22638,7 @@ antisyndicalism 3
 antiseptics 1
 anticipating 2
 atheisticness 2
-allow
+allow 1
 abraham 1
 atheize 1
 atheizer

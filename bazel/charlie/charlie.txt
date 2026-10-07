@@ -16510,7 +16510,7 @@ cloghead
 carboxyl 1
 cowsharn
 cosmos 2
-calendar 1
+calendar 2
 coinheritance 1
 correlative
 clogmaking 2
@@ -29953,7 +29953,7 @@ crossroad
 cokneyfy 1
 cobwebs 3
 cardinals
-cammocky
+cammocky 1
 colyumist 1
 coggers
 creepier
