@@ -17714,7 +17714,7 @@ discriminable
 durables 1
 dedifferentiation 3
 decanonization
-dubbins
+dubbins 1
 dicarbonate 1
 dubiety 3
 demutization
