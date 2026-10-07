@@ -9091,7 +9091,7 @@ graveyards 1
 glaucomys 1
 glumal 2
 glires 1
-gladiatorism 2
+gladiatorism 3
 goatherds 2
 guajira 1
 glads 3
