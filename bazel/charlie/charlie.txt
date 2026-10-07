@@ -30024,7 +30024,7 @@ crottal
 concentrically
 complaintive
 crottle
-crouch
+crouch 1
 crouchant 1
 chilognathan
 collare
