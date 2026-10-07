@@ -1759,7 +1759,7 @@ featherfew 3
 fluoridates 1
 fn 1
 featheriness 2
-frogface
+frogface 1
 foreslack 3
 forsterite 1
 farfet 4
