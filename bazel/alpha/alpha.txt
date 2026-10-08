@@ -3449,7 +3449,7 @@ abridgment 1
 addibility 1
 arythmias 1
 antroversion 5
-addible
+addible 1
 addicent 1
 antiknocks 2
 addictedness
