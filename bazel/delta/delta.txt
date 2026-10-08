@@ -15686,7 +15686,7 @@ decollator 3
 doric 1
 dopped 2
 detractiveness
-disaffect
+disaffect 1
 dopper 2
 dopperbird 1
 disespouse 1
