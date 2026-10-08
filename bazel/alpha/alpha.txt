@@ -7695,7 +7695,7 @@ airmass 1
 anemogram 2
 alcoholmetric
 acroter
-abaissed
+abaissed 1
 alcoholometer 2
 acidic 1
 apterygial 2
