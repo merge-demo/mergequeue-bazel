@@ -72,10 +72,54 @@ python3 tools/detect_impacted_uv_targets.py --base=HEAD~1 -o uv_targets.json
 `upload_targets.py` to report impacted targets to Trunk (e.g. when `build == 'uv'` in the mergequeue
 config).
 
+### `detect_impacted_buck2_targets.py`
+
+Detects impacted Buck2 targets based on git changes. Uses the Buck2 build graph: changed files are
+mapped to their owning targets with `buck2 uquery "owner(...)"`, then impact is propagated to every
+dependent target with `buck2 uquery "rdeps(root//..., ...)"`. Runs the pinned `buck2/bin/buck2`
+DotSlash file by default, so [`dotslash`](https://dotslash-cli.com) must be on `PATH`.
+
+- Changes to `.buckconfig`, `.buckroot`, `bin/buck2` (a buck2 upgrade), `toolchains/`, or any `.bzl`
+  file impact all targets.
+- Changes to a `BUCK` file impact every target in that package.
+- Deleted files impact every target in their nearest remaining package.
+
+**Usage:**
+
+```bash
+# Check affected targets between a base commit and HEAD
+python3 tools/detect_impacted_buck2_targets.py --base=main
+
+# Check affected targets for uncommitted changes
+python3 tools/detect_impacted_buck2_targets.py --uncommitted
+
+# Check affected targets for specific files
+python3 tools/detect_impacted_buck2_targets.py --files="buck2/alpha/alpha.txt,buck2/bravo/bravo.txt"
+
+# Custom output file
+python3 tools/detect_impacted_buck2_targets.py --base=HEAD~1 -o buck2_targets.json
+```
+
+**Options:**
+
+- `--base BASE`: Base commit/branch for comparison (e.g., 'main', 'HEAD~1')
+- `--head HEAD`: Head commit (default: HEAD)
+- `--files FILES`: Comma-separated list of specific files to check
+- `--uncommitted`: Include uncommitted changes
+- `--untracked`: Include untracked files
+- `-o, --output OUTPUT`: Output file path (default: impacted_targets_json_tmp)
+- `-q, --quiet`: Suppress verbose output
+- `--buck2-dir PATH`: Buck2 project root (default: `buck2/`)
+- `--buck2 PATH`: buck2 executable (default: `buck2/bin/buck2`)
+
+**Output:** Writes a JSON array of impacted target labels (e.g. `root//alpha:alpha`) to the output
+file. Use with `upload_targets.py` to report impacted targets to Trunk (e.g. when `build == 'buck2'`
+in the mergequeue config).
+
 ### `upload_targets.py`
 
 Generic script to upload a JSON array of impacted targets to the Trunk API. Used by the Nx, Turbo,
-and UV PR target actions.
+UV, and Buck2 PR target actions.
 
 ### `upload_glob_targets.py`
 

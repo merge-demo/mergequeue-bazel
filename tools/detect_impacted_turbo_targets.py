@@ -2,13 +2,15 @@
 """
 Detect impacted Turbo targets based on git changes.
 
-This script uses git diff to determine which packages are impacted by changes
-between a base and head commit (or uncommitted changes), then formats them as
-Turbo targets (package-name#task).
+This script uses git diff to determine which packages are directly changed
+between a base and head commit (or uncommitted changes), asks turbo for every
+package that depends on them (`turbo ls --filter=...<package>`), then formats
+them as Turbo targets (package-name#task).
 """
 
 import argparse
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -202,6 +204,50 @@ def map_files_to_packages(changed_files: List[str], turbo_dir: Path) -> Set[str]
     return affected_packages
 
 
+def add_dependent_packages(packages: Set[str], turbo_dir: Path) -> Set[str]:
+    """
+    Expand packages to include every package that depends on them, using
+    turbo's package graph.
+
+    Args:
+        packages: Set of directly changed package names
+        turbo_dir: Path to turbo workspace root
+
+    Returns:
+        Set of package names including all dependents
+    """
+    if not packages:
+        return set()
+
+    turbo_bin = turbo_dir / "node_modules" / ".bin" / "turbo"
+    if not turbo_bin.exists():
+        print(
+            f"Error: {turbo_bin} not found. Run 'npm install' in {turbo_dir} first.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    # "...pkg" selects pkg and every package that depends on it
+    filters = [f"--filter=...{pkg}" for pkg in sorted(packages)]
+    try:
+        result = subprocess.run(
+            [str(turbo_bin), "ls", *filters, "--output=json"],
+            cwd=turbo_dir,
+            capture_output=True,
+            text=True,
+            check=True,
+            env={**os.environ, "TURBO_TELEMETRY_DISABLED": "1"},
+        )
+    except subprocess.CalledProcessError as e:
+        print(f"Error running turbo ls: {e}", file=sys.stderr)
+        if e.stderr:
+            print(e.stderr, file=sys.stderr)
+        sys.exit(1)
+
+    items = json.loads(result.stdout)["packages"]["items"]
+    return {item["name"] for item in items}
+
+
 def format_turbo_targets(packages: Set[str], task: str = "build") -> List[str]:
     """
     Format package names as Turbo targets (package-name#task).
@@ -356,8 +402,9 @@ def main():
         if changed_files:
             print(f"Found {len(changed_files)} changed files")
 
-    # Map files to packages
+    # Map files to packages, then add every package that depends on them
     affected_packages = map_files_to_packages(changed_files, turbo_dir)
+    affected_packages = add_dependent_packages(affected_packages, turbo_dir)
 
     # Format as Turbo targets
     targets = format_turbo_targets(affected_packages, task=args.task)
