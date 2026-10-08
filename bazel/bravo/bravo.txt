@@ -543,7 +543,7 @@ backwardness 1
 bootboy
 blastema 1
 befriendment 1
-biggishness
+biggishness 1
 burrock 3
 brickiest 2
 bunt
