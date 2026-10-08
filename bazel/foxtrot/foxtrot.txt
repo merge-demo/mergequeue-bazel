@@ -5740,7 +5740,7 @@ furnage 2
 fungistatic
 frequentation 1
 fractuosity 2
-fels 3
+fels 4
 figureheadless 2
 fisher 2
 foredeserved 5
