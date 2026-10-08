@@ -8678,7 +8678,7 @@ diaspore
 diaspores 2
 diastalses 2
 dum 1
-dovekey
+dovekey 1
 diastalsis
 diglossia 2
 disgustedness 1
