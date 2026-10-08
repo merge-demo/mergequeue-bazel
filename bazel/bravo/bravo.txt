@@ -17357,7 +17357,7 @@ boardmen 1
 bundler
 boudeuse 3
 bottleneck 1
-badged
+badged 1
 bundles 4
 bipaliidae
 benzantialdoxime 1
