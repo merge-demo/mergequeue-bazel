@@ -16699,7 +16699,7 @@ chocolaty
 cora 2
 clothespins 1
 centroplasm 2
-clothespresses 2
+clothespresses 3
 cire 1
 clothiers 2
 clothings 1
