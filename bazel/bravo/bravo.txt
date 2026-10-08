@@ -3958,7 +3958,7 @@ beachcombers 3
 beachdrops
 biliment
 bowed 2
-bumpiest
+bumpiest 1
 bisulphate 3
 backstays 1
 bratty 3
