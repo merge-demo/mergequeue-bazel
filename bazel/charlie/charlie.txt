@@ -17572,7 +17572,7 @@ coccidiosis 4
 coccidium 1
 coccidology
 coccids
-coccygeal
+coccygeal 1
 coccygean
 cornify
 coccygectomy
