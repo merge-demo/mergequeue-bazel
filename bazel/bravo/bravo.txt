@@ -435,7 +435,7 @@ backscraper
 backset 2
 basename 2
 bernie
-brushless 1
+brushless 2
 brinjaree 2
 betowered
 butanal 2
