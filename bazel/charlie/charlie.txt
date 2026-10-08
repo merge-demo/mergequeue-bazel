@@ -3462,7 +3462,7 @@ causeuse
 comprehends 2
 craniovertebral 1
 capsella
-calyptras
+calyptras 1
 capshore
 capsian
 collectress
