@@ -11664,7 +11664,7 @@ cequi 1
 clerkdoms 1
 cardiopneumatic 1
 cholla 1
-cryogen
+cryogen 1
 criniger
 chollas 2
 choller 1
