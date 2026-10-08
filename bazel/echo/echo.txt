@@ -11696,7 +11696,7 @@ estragons 4
 ecphasis
 entoplastic 1
 exaggeratively 3
-exagitate
+exagitate 1
 effluence 1
 electromer
 epiphragmal 1
