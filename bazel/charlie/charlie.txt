@@ -7007,7 +7007,7 @@ censurability 3
 censurableness 1
 censurably 2
 cutlips
-censure
+censure 1
 censureless
 coexecutant 1
 coddling
