@@ -15497,7 +15497,7 @@ discodactyl
 deceivableness 1
 dispell 3
 desist 1
-deflagrated
+deflagrated 1
 decolorise
 dealers 1
 demodulates 3
