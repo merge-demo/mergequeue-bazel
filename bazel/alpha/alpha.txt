@@ -5177,7 +5177,7 @@ anelastic 3
 amourist 3
 accend 1
 avouching 1
-amnioallantoic
+amnioallantoic 1
 afd 1
 antireticular 2
 anticommunist 1
