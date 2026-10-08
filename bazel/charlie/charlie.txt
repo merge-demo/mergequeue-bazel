@@ -29762,7 +29762,7 @@ conbinas
 centrodorsally
 crookedest 1
 commons
-crookedly
+crookedly 1
 crookedness
 crookery
 crookesite 3
