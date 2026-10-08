@@ -30811,7 +30811,7 @@ cull 3
 contemnible
 consarned 1
 cullage 2
-cullays
+cullays 1
 cullas
 carroty 1
 cytotechnology 1
