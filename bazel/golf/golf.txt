@@ -2124,7 +2124,7 @@ gazabo
 guarantors 4
 galidia 3
 ganodus
-gormaw
+gormaw 1
 guarabu 1
 gazebo 7
 gazeboes 2
