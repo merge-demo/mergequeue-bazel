@@ -12014,7 +12014,7 @@ doctrix
 disenclose
 daint
 diammine
-decimus
+decimus 1
 domicella 2
 distichous
 disendow 2
