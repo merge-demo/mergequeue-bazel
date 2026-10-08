@@ -8732,7 +8732,7 @@ cobriform 1
 chapeled 1
 concion 1
 convalescency
-crenelle
+crenelle 1
 chapelgoing 1
 cockpits
 chapelize
