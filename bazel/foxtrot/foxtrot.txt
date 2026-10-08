@@ -5486,7 +5486,7 @@ flesh 2
 forbids 2
 formes 2
 filchers 4
-feculae
+feculae 1
 floey 3
 fenderless 2
 fricassee 2
