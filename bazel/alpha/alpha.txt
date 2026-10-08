@@ -15744,7 +15744,7 @@ antipatriarchy
 apimania 1
 aurinasal 1
 antipatriot 2
-antipatriotic
+antipatriotic 1
 afterfermentation 3
 allonges 1
 abkary
