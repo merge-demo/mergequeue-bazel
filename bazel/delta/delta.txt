@@ -10633,7 +10633,7 @@ detritus
 dunnaged 1
 diplont
 delisting
-diplonts 2
+diplonts 3
 diplophase
 difficultness 1
 dosology 1
