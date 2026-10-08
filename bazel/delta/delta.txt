@@ -12910,7 +12910,7 @@ dustiness
 desulphuration
 disoblige 2
 disobliger 2
-dognapping
+dognapping 1
 decolorising
 disobliges 1
 demobilization 3
