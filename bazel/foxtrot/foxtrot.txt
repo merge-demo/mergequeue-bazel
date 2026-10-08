@@ -2089,7 +2089,7 @@ frightened 2
 foredefine 5
 fainty 1
 fesapo 3
-filletlike 2
+filletlike 3
 fear 3
 firmers 1
 flavian 2
