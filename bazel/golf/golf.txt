@@ -4232,7 +4232,7 @@ grovel 1
 goloka 1
 gois 3
 gaetuli 5
-gyromagnetic
+gyromagnetic 1
 galvanomagnetism 3
 gynaecological 1
 gabbiness 2
