@@ -14129,7 +14129,7 @@ brass 3
 brachistochrone 2
 brachistochronous 2
 brachystomatous
-brachystomous
+brachystomous 1
 bumblings 2
 bbl
 barre 1
