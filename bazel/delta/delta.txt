@@ -15638,7 +15638,7 @@ deponent 1
 doorstone 1
 daggers 2
 dissembler
-departement 2
+departement 3
 directable 1
 doorstop
 devotionality 1
