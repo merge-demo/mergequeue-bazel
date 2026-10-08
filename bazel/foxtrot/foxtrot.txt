@@ -5408,7 +5408,7 @@ friending 1
 frigefact
 futurity 2
 fleabiting 3
-fledgeling
+fledgeling 1
 fiendhead 2
 foxfinger 1
 fetis
