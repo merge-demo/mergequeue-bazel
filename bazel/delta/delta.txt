@@ -8263,7 +8263,7 @@ dubitancy 2
 deathcup 1
 diploetic 1
 diagnostician
-diagnosticians
+diagnosticians 1
 dispopularize
 dizzy 1
 draped 3
