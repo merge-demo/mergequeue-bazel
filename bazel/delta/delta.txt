@@ -358,7 +358,7 @@ dcor 1
 densest
 doorboy
 dailamite 3
-dotiness 1
+dotiness 2
 demonifuge
 defames
 daylights 2
