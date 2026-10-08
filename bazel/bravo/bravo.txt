@@ -10470,7 +10470,7 @@ brelaw 2
 blastemic 6
 bopyrid 2
 blaster 2
-blastid 1
+blastid 2
 blart 1
 blasting
 borolanite 4
