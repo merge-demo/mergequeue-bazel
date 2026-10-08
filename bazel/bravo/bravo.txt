@@ -12862,7 +12862,7 @@ betrayers 3
 bondslave 1
 behorror 4
 bifoil 1
-birthplace 1
+birthplace 2
 bg 2
 bacchiac
 bangster
