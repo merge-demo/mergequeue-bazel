@@ -16702,7 +16702,7 @@ centroplasm 2
 clothespresses 2
 cire 1
 clothiers 2
-clothings
+clothings 1
 catharpin 1
 crimpling
 clots 1
