@@ -16100,7 +16100,7 @@ auto
 antiscolic 1
 antiscorbutical 1
 acrosphacelus
-antiscrofulous
+antiscrofulous 1
 antiseismic
 antiselene
 acroarthritis
