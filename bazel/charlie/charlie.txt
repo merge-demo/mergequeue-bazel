@@ -31706,7 +31706,7 @@ chondromyxoma 1
 cesuras
 carbuncled 1
 cotyloid 2
-cuspidor
+cuspidor 1
 cephalopodan 1
 counterapse 1
 cusping
