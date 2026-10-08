@@ -1579,7 +1579,7 @@ demand 1
 disposition
 determinatively 1
 desitive 1
-disembody
+disembody 1
 deadlocking
 decipolar 1
 duplicia 2
