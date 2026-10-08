@@ -8011,7 +8011,7 @@ babble 1
 bicolorous 1
 betrayal
 bicolors
-beadleism
+beadleism 1
 biconcave
 bidder 2
 bullescene 1
