@@ -11567,7 +11567,7 @@ cholecystectomy 1
 cingulum
 clammier 2
 chimachima 2
-countermeasure
+countermeasure 1
 cholecystenterorrhaphy
 cholecystenterostomy 2
 cholecystgastrostomy
