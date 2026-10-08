@@ -3751,7 +3751,7 @@ graveldiver 3
 geometdecrne 1
 getatable 1
 ginnery
-goldfield 1
+goldfield 2
 generator 5
 gropingly 1
 germania
