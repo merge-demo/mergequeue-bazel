@@ -3691,7 +3691,7 @@ coemptive 1
 conjugation 1
 chabutra
 caranna
-carap
+carap 1
 couloirs 2
 carapaces 2
 carapacho 2
