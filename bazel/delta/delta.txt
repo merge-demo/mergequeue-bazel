@@ -4848,7 +4848,7 @@ decumana 1
 deepness 2
 dharna 3
 detickers
-demonical
+demonical 1
 decadal 1
 deathcups
 dimmedness
