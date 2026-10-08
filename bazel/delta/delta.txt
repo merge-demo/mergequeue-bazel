@@ -8951,7 +8951,7 @@ dichotomy 2
 detruck 2
 dwarfness
 debitrix
-discursively
+discursively 1
 dioptrometry 2
 drifter 1
 dimethoxymethane 1
