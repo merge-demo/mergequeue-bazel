@@ -3260,7 +3260,7 @@ birder 2
 binormal 3
 bitumens 1
 bolted 1
-basinal 1
+basinal 2
 bushland 3
 broader 1
 boniform 2
