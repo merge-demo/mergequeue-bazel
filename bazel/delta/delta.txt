@@ -8130,7 +8130,7 @@ diabolist 1
 denitrificator 1
 detrusive 2
 du 3
-diabolization
+diabolization 1
 dalk 1
 depilates
 disambiguate
