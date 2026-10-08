@@ -8448,7 +8448,7 @@ choribi 1
 cuttable 1
 chamoisite 1
 chamoline 1
-chamorro
+chamorro 1
 copalcocote 1
 cunei 2
 chromotherapist 3
