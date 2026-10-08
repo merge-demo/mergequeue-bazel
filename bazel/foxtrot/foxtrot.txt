@@ -832,7 +832,7 @@ fanon 5
 fronted 2
 fantailed 4
 fingermark 5
-fermi
+fermi 1
 fashioner
 faddishness
 finestill 4
