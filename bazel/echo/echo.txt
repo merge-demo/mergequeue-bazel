@@ -12859,7 +12859,7 @@ ensile
 exotics 3
 exotoxic 2
 exacerbate 2
-enlarger 1
+enlarger 2
 ecomomist 3
 ensynopticity 2
 expansum
