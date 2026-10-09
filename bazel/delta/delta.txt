@@ -5029,7 +5029,7 @@ dename 1
 denaries
 denarinarii 1
 deluder 3
-dropshots
+dropshots 1
 denaro 5
 dawdy 2
 dejectedness 1
