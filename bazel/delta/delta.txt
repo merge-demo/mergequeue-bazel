@@ -2149,7 +2149,7 @@ downtime
 disturbs 1
 diosmosis 2
 decantist 3
-decaffeinated 1
+decaffeinated 2
 decapitates
 decapitation 1
 deterrable 1
