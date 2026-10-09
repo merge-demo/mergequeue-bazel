@@ -6575,7 +6575,7 @@ ghettos 2
 grassant 1
 grouplet 5
 grappas 5
-glottalization 2
+glottalization 3
 ground 5
 grabblers 1
 gesture 3
