@@ -11570,7 +11570,7 @@ chimachima 2
 countermeasure 1
 cholecystenterorrhaphy
 cholecystenterostomy 2
-cholecystgastrostomy
+cholecystgastrostomy 1
 carburisation
 cholecystic 1
 cholecystis
