@@ -14484,7 +14484,7 @@ acquisition 2
 anthropobiology 1
 apneumatosis 1
 automaton
-anthropocentric
+anthropocentric 1
 absvolt 3
 acetaldehydase
 almoign 1
