@@ -10231,7 +10231,7 @@ doblons 3
 diphthong 2
 defibrination
 desobligeant
-decoys
+decoys 1
 dissolutionist 1
 distresses
 dinophilea 6
