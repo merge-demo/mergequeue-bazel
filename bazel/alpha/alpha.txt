@@ -3728,7 +3728,7 @@ acclivity 2
 almuerzo 1
 appenage 2
 annum
-adespoton
+adespoton 1
 analemmatic 1
 adessenarian 1
 adeste
