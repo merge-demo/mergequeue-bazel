@@ -2945,7 +2945,7 @@ cake 1
 chytrid 2
 cantharides
 coation
-clip
+clip 1
 cantharidian 1
 cycloacetylene
 cantharidize
