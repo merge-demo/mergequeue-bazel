@@ -10896,7 +10896,7 @@ demonologic 2
 doddart 2
 debaters
 desalting
-disculpate
+disculpate 1
 decerebrize 1
 diruption 2
 dereference
