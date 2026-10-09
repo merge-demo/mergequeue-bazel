@@ -23491,7 +23491,7 @@ augmenters 2
 augmentive 2
 augrim
 aggravator 1
-aphorizer
+aphorizer 1
 ambidexterous 3
 ansel 1
 arguendo
