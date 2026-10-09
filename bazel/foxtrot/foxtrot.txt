@@ -570,7 +570,7 @@ faradized
 famine 1
 fussed
 folklorism
-forjudger
+forjudger 1
 falloff 4
 flamier
 fdubs 1
