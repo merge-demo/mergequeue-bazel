@@ -1762,7 +1762,7 @@ extg 3
 embattle 3
 emule 1
 exhbn 2
-epigraphic 4
+epigraphic 5
 eutony
 eyes 1
 ewhow 4
