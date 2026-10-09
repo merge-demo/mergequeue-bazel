@@ -997,7 +997,7 @@ binders 2
 baiera
 boti 1
 bibliology
-bioavailability
+bioavailability 1
 butadiene 2
 baiginet 3
 biparental
