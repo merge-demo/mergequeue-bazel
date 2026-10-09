@@ -3483,7 +3483,7 @@ graptomancy 2
 gourdlike 1
 gallous 1
 gentling 3
-griefful
+griefful 1
 glathsheim 2
 gimper 3
 girny 3
