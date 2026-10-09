@@ -10963,7 +10963,7 @@ firmless 1
 freesias 1
 frigidaire 1
 furors 2
-forgettable
+forgettable 1
 fink 3
 fumaroidal 3
 flappier 2
