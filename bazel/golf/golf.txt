@@ -10148,7 +10148,7 @@ gymslip 2
 glazement 4
 gasohol 2
 grazers
-giddyish
+giddyish 1
 gal 3
 gloried
 glideness 1
