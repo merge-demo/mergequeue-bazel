@@ -28940,7 +28940,7 @@ cribose
 cribrate 1
 cribriform
 cribriformity 2
-convertaplane
+convertaplane 1
 cribs
 conelike 1
 cribworks 1
