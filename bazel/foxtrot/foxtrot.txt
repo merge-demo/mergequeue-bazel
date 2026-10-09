@@ -1811,7 +1811,7 @@ frustules 3
 fanfarade
 flyspecks 4
 fiddler 3
-fastener
+fastener 1
 fractureproof 2
 fissiparous 2
 forane 1
