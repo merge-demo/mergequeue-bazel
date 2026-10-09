@@ -17777,7 +17777,7 @@ anchoring 1
 appals
 antistatic
 afterhours 1
-appointer
+appointer 1
 agapornis 1
 adherently 2
 appointers 1
