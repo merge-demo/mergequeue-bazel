@@ -11038,7 +11038,7 @@ curuba
 chiseler
 cheapens 2
 chiselers
-cantdogs
+cantdogs 1
 calorify
 chiseling 1
 chiseller 1
