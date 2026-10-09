@@ -7659,7 +7659,7 @@ eoliths 2
 enterohelcosis 1
 epiparodos 2
 epicortical
-enterostomy
+enterostomy 1
 esere 3
 educed
 eidouranion 4
