@@ -14285,7 +14285,7 @@ dichrooscope 1
 dibasic 2
 ditolyl 2
 ditremid 1
-disharmonies
+disharmonies 1
 diffusiveness 2
 despectant
 downsitting
