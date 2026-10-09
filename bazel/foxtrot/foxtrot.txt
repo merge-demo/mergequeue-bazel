@@ -5149,7 +5149,7 @@ furbelows
 froom 2
 flatlands 2
 fiberized 4
-flavoprotein
+flavoprotein 1
 facula 1
 fatigued
 flywheels 2
