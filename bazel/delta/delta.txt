@@ -16290,7 +16290,7 @@ degenerescent
 decator 2
 discoloring
 downlink
-desertion
+desertion 1
 downloading 1
 downness
 dermographic 1
