@@ -7529,7 +7529,7 @@ foreburton 1
 fameless 3
 forecast 3
 forestarling 3
-foams
+foams 1
 ferial 5
 ferrocyanhydric 2
 foment 2
