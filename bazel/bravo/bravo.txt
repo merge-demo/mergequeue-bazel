@@ -3905,7 +3905,7 @@ bazars 4
 bint 5
 brockage 3
 bazooka 1
-blunge
+blunge 1
 buckishly 1
 bamboos 1
 bbs
