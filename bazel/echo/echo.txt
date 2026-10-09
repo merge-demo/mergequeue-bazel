@@ -7084,7 +7084,7 @@ euphone 5
 efficiency 3
 enlinked 1
 enshell 2
-entoiling
+entoiling 1
 enunciability
 etymologer 1
 euphemous 1
