@@ -15768,7 +15768,7 @@ antiperistalsis
 antiperistatic
 antiperspirant
 agileness 2
-antiperspirants
+antiperspirants 1
 acronycal 1
 anterolaterally
 atremble
