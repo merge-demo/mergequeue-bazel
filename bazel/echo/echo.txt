@@ -4508,7 +4508,7 @@ executively
 emulators 3
 embryophyta
 encephalographic 2
-ekphorize
+ekphorize 1
 episematic 2
 earlock 1
 enamelling
