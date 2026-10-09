@@ -9041,7 +9041,7 @@ cobberer 1
 charm 2
 charmed 1
 camogie
-charmedly
+charmedly 1
 coax 1
 charmel
 cothe 2
