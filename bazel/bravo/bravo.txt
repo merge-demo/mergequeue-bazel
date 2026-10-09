@@ -6601,7 +6601,7 @@ boninesses 2
 basioccipital 1
 berede 3
 berengaria 4
-bursate
+bursate 1
 bicolourous
 bronchioles 3
 bookful
