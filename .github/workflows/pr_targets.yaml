@@ -22,7 +22,7 @@ jobs:
         with:
           repository: trunk-io/mergequeue-tool
           latest: true
-          preRelease: true
+          preRelease: false
           fileName: mq-*-x86_64-unknown-linux-gnu.tar.gz
           extract: true
 
