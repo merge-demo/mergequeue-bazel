@@ -2672,7 +2672,7 @@ abrasiometer 2
 africa 1
 anticyclonic
 anax 2
-apex
+apex 1
 airpark
 acridiidae
 allochiral 1
