@@ -19591,7 +19591,7 @@ calamaries 2
 columnate
 centimolar 1
 cupseed 1
-columnates
+columnates 1
 columnation
 crinkleroot
 crystaled
