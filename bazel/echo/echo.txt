@@ -5653,7 +5653,7 @@ enforces 2
 endent 1
 endocentric 2
 encouraging 1
-eirene 1
+eirene 2
 epilogation 3
 enforest 3
 epacme 1
