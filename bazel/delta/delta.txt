@@ -8566,7 +8566,7 @@ drys
 deflex 2
 diaphony 3
 diaphysial 1
-diaphonic 1
+diaphonic 2
 divertedly
 denegation 1
 diaphonies 1
