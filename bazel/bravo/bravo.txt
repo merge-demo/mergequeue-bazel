@@ -1836,7 +1836,7 @@ banders
 broadlings 1
 befogging
 barkinji 3
-bandfile
+bandfile 1
 bandh 2
 burdon 3
 brownism 1
