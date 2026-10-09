@@ -8821,7 +8821,7 @@ fossage 1
 fanlight 5
 female 5
 fidel 2
-fearable 2
+fearable 3
 flexured 2
 friss 3
 familiarly 1
