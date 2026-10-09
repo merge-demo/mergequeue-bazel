@@ -3950,7 +3950,7 @@ erogenesis 1
 earthbound 2
 emollients 1
 emoloa 2
-endosymbiosis
+endosymbiosis 1
 emolumental 2
 extemporiser 2
 evader
