@@ -10180,7 +10180,7 @@ ambulatory 3
 additiment
 aluminas 1
 affluent
-apanage
+apanage 1
 ambulatories 2
 ambulatorium
 ahepatokla
