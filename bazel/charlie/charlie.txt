@@ -9842,7 +9842,7 @@ chemiotaxis
 chemiotropic 1
 chemiotropism 1
 crinet 2
-chemisette
+chemisette 1
 chemism
 choosy
 chemisorb
