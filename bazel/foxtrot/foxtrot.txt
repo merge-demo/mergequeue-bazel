@@ -2444,7 +2444,7 @@ fingu 1
 frontwise 2
 foreproduct 1
 fermentable 3
-fermentativeness 3
+fermentativeness 4
 faradize 3
 falus 2
 footbridges 1
