@@ -28763,7 +28763,7 @@ catenary
 cres
 cresc 1
 comparativeness
-cordelier 1
+cordelier 2
 crescendo 1
 crescendoing
 crescendos
