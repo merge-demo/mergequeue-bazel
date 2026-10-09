@@ -3304,7 +3304,7 @@ brisant
 basiradial 2
 bacterioscopic 3
 basirostral
-basiscopic
+basiscopic 1
 bacterial
 bangiales 3
 blepharitic 1
