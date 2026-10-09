@@ -8588,7 +8588,7 @@ fungating 2
 farmsteading 1
 forninst 1
 fricative 2
-flexor 2
+flexor 3
 firedragon 2
 fornix 3
 fanegada 4
