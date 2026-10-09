@@ -10908,7 +10908,7 @@ denazify 1
 disabled 2
 doorplates
 defrayer 1
-deterges 1
+deterges 2
 divulgement 2
 dioeciodimorphous
 dentelated
