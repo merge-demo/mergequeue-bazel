@@ -24854,7 +24854,7 @@ avouchable 2
 atmosphere 1
 anaptyxis 1
 alands
-animates
+animates 1
 artisanal 1
 aberrations 2
 aggrandizements 2
