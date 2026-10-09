@@ -31235,7 +31235,7 @@ craniopathy
 clawhammer 1
 cura 3
 correctness 1
-chetah
+chetah 1
 curable
 curableness 1
 cotyloidal
