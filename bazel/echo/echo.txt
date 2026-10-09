@@ -9661,7 +9661,7 @@ epilogize 2
 excitable 2
 ensearcher 2
 espingole 1
-execrative
+execrative 1
 equaling 2
 editchar
 espino 2
