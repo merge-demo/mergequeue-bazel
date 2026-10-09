@@ -133,7 +133,7 @@ bedimpled
 bedash 1
 boolian 3
 bacin 1
-bourne
+bourne 1
 banister 1
 basidiocarp 1
 biocoenosis 1
