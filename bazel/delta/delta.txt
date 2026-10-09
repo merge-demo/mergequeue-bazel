@@ -3865,7 +3865,7 @@ dopatta
 decastyle 3
 dephlegm
 diomedeidae 2
-deselects
+deselects 1
 disinteresting
 dissceptred 2
 decorationist 2
