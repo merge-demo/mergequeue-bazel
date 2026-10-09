@@ -542,7 +542,7 @@ fussier 5
 fibrobronchitis 5
 familiarity 1
 forewarn 3
-fluvial
+fluvial 1
 fortress
 fragmentising 1
 filicites 1
