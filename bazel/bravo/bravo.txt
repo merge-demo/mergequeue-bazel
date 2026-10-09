@@ -12789,7 +12789,7 @@ bookworm
 bookwright 2
 booleans 2
 booleys 2
-bardy
+bardy 1
 booly 3
 backhanding 2
 betatters 3
