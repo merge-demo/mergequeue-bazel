@@ -3338,7 +3338,7 @@ decapitalization
 definite 1
 definitely
 distrait
-definiteness
+definiteness 1
 dahlin 2
 deergrass 3
 definitiones 2
