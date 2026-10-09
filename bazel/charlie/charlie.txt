@@ -7913,7 +7913,7 @@ cesural
 cetaceans 1
 cetaceum
 calpolli
-clericate
+clericate 1
 collieshangie 1
 cetane
 cetanes
