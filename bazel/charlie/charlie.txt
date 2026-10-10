@@ -148,7 +148,7 @@ crudes
 cabled
 cablegram 1
 cablegrams 1
-cruors
+cruors 1
 clinopyroxene
 cablelaid 4
 cableless
