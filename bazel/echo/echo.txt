@@ -12025,7 +12025,7 @@ exclusive 3
 enaunter 3
 escutellate 2
 exclusiveness 3
-effectuality
+effectuality 1
 enforceability 2
 enamelled 2
 epidialogue
