@@ -8228,7 +8228,7 @@ felines
 festering 3
 fluidize
 floroscope
-fluidally
+fluidally 1
 forficula 3
 fathomableness 2
 fetors 2
