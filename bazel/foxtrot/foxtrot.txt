@@ -594,7 +594,7 @@ fellon
 foreknows 2
 forpet 4
 fossilisation 2
-forints
+forints 1
 feasted 2
 fade 2
 featherdom 2
