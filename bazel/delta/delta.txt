@@ -16167,7 +16167,7 @@ demicanton 3
 desireless 1
 deplasmolysis 3
 declassified
-dovetailwise
+dovetailwise 1
 drainway 1
 drinkery 1
 dowager 1
