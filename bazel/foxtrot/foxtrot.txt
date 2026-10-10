@@ -9293,7 +9293,7 @@ franchisees 2
 foulings
 fairkeeper 1
 fertil 4
-flagons 2
+flagons 3
 fordull 2
 foregoers 4
 foremost 2
