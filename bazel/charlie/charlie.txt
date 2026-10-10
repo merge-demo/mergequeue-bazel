@@ -8941,7 +8941,7 @@ censers
 chemisms
 chargable 2
 combmaker 1
-charge
+charge 1
 chargeable 2
 ciphertext 3
 collective 2
