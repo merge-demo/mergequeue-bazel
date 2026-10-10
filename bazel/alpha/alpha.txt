@@ -1461,7 +1461,7 @@ aegagrus 1
 applewood 1
 aborsive 1
 algid 2
-ann
+ann 1
 alpinery 1
 acclimatizer
 adrenalectomy
