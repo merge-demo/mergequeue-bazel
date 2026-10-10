@@ -5836,7 +5836,7 @@ dowel 1
 divestible 2
 dislimns 3
 dulcitol 1
-dichotomously
+dichotomously 1
 deafforest 2
 destrier 2
 disestablishes 2
