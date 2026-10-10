@@ -1020,7 +1020,7 @@ calas
 colourtype 1
 cohoba 1
 calascione
-cydonia
+cydonia 1
 calastic
 calathea
 calathi
