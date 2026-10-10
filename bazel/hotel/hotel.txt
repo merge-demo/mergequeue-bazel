@@ -3757,7 +3757,7 @@ hexeptrqx 2
 hexfd 4
 hexfon 2
 hexfsj
-hexg 2
+hexg 3
 hexgp 4
 hexgsoj 2
 hexhdfrpfw 1
