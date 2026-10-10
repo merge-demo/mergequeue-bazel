@@ -5892,7 +5892,7 @@ flushes 1
 flaxier 1
 flocker 1
 filaree 1
-fasts
+fasts 1
 frogged 3
 furandi 6
 flockiest 1
