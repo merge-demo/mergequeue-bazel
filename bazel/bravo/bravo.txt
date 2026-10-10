@@ -1140,7 +1140,7 @@ baitfish
 buffeter 2
 ballard
 baiting 2
-baittle
+baittle 1
 baywoods 2
 bodhisat 1
 bridgeway 4
