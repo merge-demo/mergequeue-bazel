@@ -6295,7 +6295,7 @@ enrichener 2
 ectopias 4
 edaphic 2
 enows
-electrotechnology
+electrotechnology 1
 euryscope 1
 ecclesiastry 1
 enduring
