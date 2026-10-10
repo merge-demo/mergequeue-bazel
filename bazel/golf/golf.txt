@@ -283,7 +283,7 @@ gibing 6
 gaslock 1
 gaddish
 groundliness 3
-grubstaked
+grubstaked 1
 globins 2
 geet 1
 gummier 2
