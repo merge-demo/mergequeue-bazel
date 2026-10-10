@@ -9399,7 +9399,7 @@ anthraquinol
 annularity 1
 alquier 2
 aversions
-amenorrhea
+amenorrhea 1
 antipoetic
 aerobated 1
 assessments 3
