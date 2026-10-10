@@ -11628,7 +11628,7 @@ bacterioscopical 2
 barspoon 2
 boatbuilding
 boathook 1
-boathouse
+boathouse 1
 backbends 1
 boffos 3
 blacketeer
