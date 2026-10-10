@@ -11014,7 +11014,7 @@ deboistness
 diasystem 2
 disaligned
 disalliege 3
-deoxidization
+deoxidization 1
 dodona 1
 downbend 2
 doorframe 1
