@@ -2718,7 +2718,7 @@ dvornik
 duci
 derails 1
 decontrolled
-deconvolution
+deconvolution 1
 deconvolve 1
 desmon 2
 decor 2
