@@ -4522,7 +4522,7 @@ carolingian
 confederative 1
 catapults
 carbine
-cephalogenesis 1
+cephalogenesis 2
 carnallite 2
 colluvies 1
 churchshot 2
