@@ -5962,7 +5962,7 @@ bhungini
 begirdles 2
 belvedere
 bluewood 3
-belvedered
+belvedered 1
 blueblossom
 bridaler 1
 benchwarmer 4
