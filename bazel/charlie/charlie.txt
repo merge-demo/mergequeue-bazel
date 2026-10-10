@@ -4726,7 +4726,7 @@ carnie 1
 chlamydospore 1
 creditorship 1
 contested 1
-collages 1
+collages 2
 carpeting
 carpetlayer 1
 carpetmaking 1
