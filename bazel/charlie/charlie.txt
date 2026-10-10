@@ -10847,7 +10847,7 @@ chiopin
 centropomus 1
 cinnoline
 chip
-chipchop
+chipchop 1
 chipewyan
 chiplet 1
 culvert
