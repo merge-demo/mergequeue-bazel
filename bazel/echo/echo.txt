@@ -11981,7 +11981,7 @@ excitations 1
 escapes 4
 eastbound 4
 eulogists
-enveloped
+enveloped 1
 eurylaimidae
 excited 3
 epicure 3
