@@ -13488,7 +13488,7 @@ exposing
 ethmoidal
 eudaemonic 3
 eucalypti 2
-equianharmonic
+equianharmonic 1
 egocentricities 2
 edge 2
 erk 1
