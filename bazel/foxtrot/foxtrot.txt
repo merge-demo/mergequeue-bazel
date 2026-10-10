@@ -2467,7 +2467,7 @@ firstcomer 3
 fireproofing
 fishhood 4
 futility 1
-fuddlement
+fuddlement 1
 footscraper 6
 forcipial 1
 fermillet 1
