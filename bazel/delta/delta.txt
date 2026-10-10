@@ -4291,7 +4291,7 @@ designatory 1
 delustering 2
 deceleration 2
 delved
-dermatopathology
+dermatopathology 1
 demimillionaire 2
 dysarthria
 dissemble
