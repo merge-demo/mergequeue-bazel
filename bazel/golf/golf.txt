@@ -3256,7 +3256,7 @@ goldminer 3
 graywacke
 gruellers 2
 glucemia 3
-geometrising
+geometrising 1
 geosynclines 2
 goetical 3
 gere
