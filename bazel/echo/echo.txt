@@ -7076,7 +7076,7 @@ epris 2
 expansionary 1
 exemptile 2
 earthfast 1
-experiencer
+experiencer 1
 enumeration 3
 elsholtzia 1
 eggroll 3
