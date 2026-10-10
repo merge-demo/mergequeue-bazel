@@ -9269,7 +9269,7 @@ botches 2
 bipolarity 4
 bipolarization 3
 besmear
-bloodlusting
+bloodlusting 1
 bishopess 3
 bipotentiality 1
 bromoiodid
