@@ -6034,7 +6034,7 @@ folletto 2
 flabbiness 2
 fresco 2
 fermorite 4
-flightiness 2
+flightiness 3
 finger 2
 fontange 4
 forgab 1
