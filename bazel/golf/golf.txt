@@ -2744,7 +2744,7 @@ gliadins 3
 guillotine
 gader 3
 gunboats 3
-gaedelian 3
+gaedelian 4
 grooms 2
 genoise 3
 gentiopicrin 1
