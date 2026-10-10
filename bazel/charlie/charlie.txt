@@ -25378,7 +25378,7 @@ cornfields 1
 cheroots 2
 cornflag
 countersiege
-cornflower
+cornflower 1
 cornflowers
 corngrower 1
 cornhole
