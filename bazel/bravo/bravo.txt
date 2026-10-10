@@ -6446,7 +6446,7 @@ ballast 1
 bisulcate 3
 bulldogged 2
 biostratigraphy 1
-borderings
+borderings 1
 bergmannite 3
 bilati
 beothukan 4
