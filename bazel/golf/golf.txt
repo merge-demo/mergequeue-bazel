@@ -5615,7 +5615,7 @@ glochid 4
 geranial 2
 gemology 1
 garnice 4
-gradable 2
+gradable 3
 geophilidae
 gondolet 1
 gymnasium 2
