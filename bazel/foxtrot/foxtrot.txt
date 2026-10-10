@@ -4487,7 +4487,7 @@ flattercap 1
 fermal 4
 fashioned 2
 furthermost 3
-foreloop
+foreloop 1
 fishspear 1
 fluffier 1
 fountainwise 2
