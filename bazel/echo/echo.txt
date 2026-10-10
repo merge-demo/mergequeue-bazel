@@ -12710,7 +12710,7 @@ exonerator 3
 eudiometer
 elmer 2
 everbearer 2
-exonym
+exonym 1
 era 1
 earcockle 1
 energizing 6
