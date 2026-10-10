@@ -18455,7 +18455,7 @@ cogweels 1
 cohabitancy
 calycoideous 2
 cohabitate 2
-cohabitation
+cohabitation 1
 cecograph 2
 cohabited 1
 collational 2
