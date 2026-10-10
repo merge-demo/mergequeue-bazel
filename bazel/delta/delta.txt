@@ -546,7 +546,7 @@ dovyalis
 deliber 3
 dao
 damagers
-damalic 1
+damalic 2
 dextrorotation
 demobilized
 designations 1
