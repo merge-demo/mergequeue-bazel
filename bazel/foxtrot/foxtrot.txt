@@ -5741,7 +5741,7 @@ fungistatic
 frequentation 1
 fractuosity 2
 fels 4
-figureheadless 2
+figureheadless 3
 fisher 2
 foredeserved 5
 farth 3
