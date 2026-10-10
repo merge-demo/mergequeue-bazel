@@ -5446,7 +5446,7 @@ faunal
 flavorers 2
 figurativeness 1
 formulator 1
-famished
+famished 1
 foresummer 2
 feridjee
 furfuration 4
