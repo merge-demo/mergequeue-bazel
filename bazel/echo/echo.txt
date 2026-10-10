@@ -12226,7 +12226,7 @@ engarb 2
 episynthetic 2
 excur 2
 ensigns 1
-epiphanizing
+epiphanizing 1
 extralateral 2
 elevener 1
 entally 1
