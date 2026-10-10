@@ -8936,7 +8936,7 @@ crowds
 catechumenical 3
 catholicizing
 chareter 2
-charette
+charette 1
 censers
 chemisms
 chargable 2
