@@ -3703,7 +3703,7 @@ elec 4
 eluates
 effluvium 1
 epitheliosis 1
-enantiotropic
+enantiotropic 1
 elucidators 2
 embryophore 1
 educations
