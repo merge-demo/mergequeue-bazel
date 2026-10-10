@@ -7143,7 +7143,7 @@ embryomata 1
 ensophic 1
 epicyesis
 eild 1
-exclusions
+exclusions 1
 echar 1
 elan 1
 estanciero 2
