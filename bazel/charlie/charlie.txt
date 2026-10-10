@@ -22521,7 +22521,7 @@ cheekful
 conjuncts 1
 conjunctur
 conjunctures
-conjuration
+conjuration 1
 conjurations 1
 cesar
 conjured
