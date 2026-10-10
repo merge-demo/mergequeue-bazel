@@ -24200,7 +24200,7 @@ autoinfection 3
 alnein
 autolyzate
 autolyzes
-autoloader
+autoloader 1
 autology
 autological
 antiatheist 1
