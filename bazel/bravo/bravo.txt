@@ -13082,7 +13082,7 @@ backblocks
 buffeting 2
 bicorporal 1
 beryls
-bobbling
+bobbling 1
 bassarisk
 basifixed 1
 batteling
