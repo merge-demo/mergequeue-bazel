@@ -20502,7 +20502,7 @@ compassivity
 cwrite 1
 compatibility
 compatibilities 1
-cainism
+cainism 1
 condors
 compatible
 clouts
