@@ -1347,7 +1347,7 @@ azote
 aug 1
 aqueducts
 accelerators 1
-amlet 1
+amlet 2
 aumbries
 accelerometer
 accelerometers
