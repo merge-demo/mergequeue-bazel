@@ -11771,7 +11771,7 @@ chondromucoid 1
 chondropharyngeus
 carpale
 chondroplast
-chondroplasty
+chondroplasty 1
 crystall
 consonantally
 chondroprotein 1
