@@ -17757,7 +17757,7 @@ ducdame 2
 diplocoria 1
 defector 1
 duchan
-diagraph
+diagraph 1
 demythologize 1
 dorsigrade 3
 dwining 1
