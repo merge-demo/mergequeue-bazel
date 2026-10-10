@@ -10330,7 +10330,7 @@ ditton 1
 diopter
 diopters 1
 decumary 2
-delf
+delf 1
 discounter 2
 dioptometer 1
 deoxidized
