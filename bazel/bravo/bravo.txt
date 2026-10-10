@@ -1990,7 +1990,7 @@ bedstand 2
 brachydiagonal 2
 baniya 4
 baning 2
-bandcutter
+bandcutter 1
 bhaiachara 1
 banisher
 banishing
