@@ -14789,7 +14789,7 @@ dockhouse 2
 dilambdodont 2
 deringers 1
 dockyards 1
-docking 2
+docking 3
 dockization
 dockland 2
 doublehandedly
