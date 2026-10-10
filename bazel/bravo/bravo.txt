@@ -8442,7 +8442,7 @@ bavardage
 bootjack
 bouteloua 2
 belinurus
-bals
+bals 1
 bilgeway
 bilgier
 bilharzial 3
