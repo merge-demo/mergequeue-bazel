@@ -2030,7 +2030,7 @@ camises
 cytosin
 camisole
 cautela 2
-camisoles
+camisoles 1
 cosmolabe
 chlamydobacteriaceae 1
 camla 1
