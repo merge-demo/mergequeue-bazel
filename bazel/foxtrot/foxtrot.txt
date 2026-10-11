@@ -1714,7 +1714,7 @@ flighted 1
 fascio
 floats 2
 filicin 3
-fomites 5
+fomites 6
 fortravail 2
 frippet 6
 fibrocyte 1
