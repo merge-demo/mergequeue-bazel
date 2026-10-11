@@ -14811,7 +14811,7 @@ cahill 2
 cytoglobin
 corselette 1
 concitizen
-cytoid
+cytoid 1
 citoyenne 1
 confiscated
 conscious 1
