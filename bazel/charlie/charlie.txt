@@ -22012,7 +22012,7 @@ ceraunite 1
 confiscatable 1
 cynebot 1
 confiscate
-countertrend
+countertrend 1
 crois
 chookies 1
 count 1
