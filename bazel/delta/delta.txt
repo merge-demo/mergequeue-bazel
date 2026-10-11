@@ -12407,7 +12407,7 @@ dominate
 dishelms 3
 disher 1
 durability 2
-disherited 2
+disherited 3
 divet 3
 defibrillator 4
 deamidize
