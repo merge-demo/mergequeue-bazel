@@ -2798,7 +2798,7 @@ ftncmd
 foxtailed 2
 fotch 1
 filao
-fimbriation
+fimbriation 1
 frazzles 1
 filace 2
 fixations 3
