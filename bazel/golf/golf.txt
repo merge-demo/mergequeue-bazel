@@ -9342,7 +9342,7 @@ goldurn 2
 glycuronid 3
 governability 4
 griffs
-gruf
+gruf 1
 geophila 1
 graduate 3
 galleasses 2
