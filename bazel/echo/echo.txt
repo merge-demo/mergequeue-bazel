@@ -3247,7 +3247,7 @@ elul 1
 epidemic 3
 erects 1
 enclitical 1
-encephalotomy
+encephalotomy 1
 eyesore 4
 entrench 1
 episcleral 3
