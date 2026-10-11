@@ -5580,7 +5580,7 @@ allomerism
 attentat 2
 apholate 1
 aftershaft 1
-aftershafted
+aftershafted 1
 acetylcholinic 2
 almagests
 aftershocks 1
