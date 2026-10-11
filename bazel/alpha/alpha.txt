@@ -21884,7 +21884,7 @@ assistance
 agleam 1
 antithesize
 averring 1
-admonitive
+admonitive 1
 assister
 assistful 1
 acalycine
