@@ -10402,7 +10402,7 @@ firstling 1
 forcaria 4
 fertilizer 3
 filesmith 2
-feudalistic
+feudalistic 1
 fringeflower 2
 fossified 2
 fountainously 2
