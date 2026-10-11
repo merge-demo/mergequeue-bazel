@@ -8596,7 +8596,7 @@ diaplases 2
 disk 1
 deprived 1
 dinosaurian 3
-destroying
+destroying 1
 doormaking 2
 deorsumversion 1
 driftland 4
