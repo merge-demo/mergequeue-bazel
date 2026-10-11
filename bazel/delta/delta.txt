@@ -8898,7 +8898,7 @@ dice 1
 diceboard 1
 dazzles
 dilemi 2
-daunomycin
+daunomycin 1
 disbud 2
 dicentras
 dipyramid
