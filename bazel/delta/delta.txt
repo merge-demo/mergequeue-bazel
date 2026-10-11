@@ -6169,7 +6169,7 @@ decrepitness
 derestrict 2
 disputations 5
 derf 1
-dechlorinating
+dechlorinating 1
 debentures
 daimonic
 desoxalate 3
