@@ -8051,7 +8051,7 @@ beshadow 4
 bicorporate 2
 banyai 4
 belleeks
-bacteriohemolysin
+bacteriohemolysin 1
 bicostate 4
 billows 2
 bicrenate
