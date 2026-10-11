@@ -6108,7 +6108,7 @@ freighter 1
 frettation
 filical
 folksinging
-fundmongering
+fundmongering 1
 freebies 2
 firestone 2
 fitchering 4
