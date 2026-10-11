@@ -16438,7 +16438,7 @@ cloakmaker 2
 constrainer 1
 cloakmaking
 cymbaline 1
-cloakroom
+cloakroom 1
 cloakrooms
 conquer 1
 caterwaul
