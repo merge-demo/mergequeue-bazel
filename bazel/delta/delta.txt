@@ -2679,7 +2679,7 @@ dogwatches 1
 decompoundable 3
 diffractional 1
 decompoundly 2
-downstairs
+downstairs 1
 desmoma 2
 decompress 2
 decompresses
