@@ -10929,7 +10929,7 @@ chirognomist
 cerebrates 1
 contd 2
 cimmaron 3
-chirograph
+chirograph 1
 chirographers 2
 crl 2
 consideratively
