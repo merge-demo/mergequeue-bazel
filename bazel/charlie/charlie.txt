@@ -9759,7 +9759,7 @@ collisions 1
 conjunctiva 2
 chelicer 1
 cysts
-chelide
+chelide 1
 csardas 1
 cowheart
 chelydidae 1
