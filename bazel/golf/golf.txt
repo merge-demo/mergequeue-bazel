@@ -1401,7 +1401,7 @@ gaits 3
 ganyie 5
 gallotannin 2
 gasified 3
-gausterer
+gausterer 1
 gearshift 2
 gcd 2
 gangplow 3
