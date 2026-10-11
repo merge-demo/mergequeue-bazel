@@ -9092,7 +9092,7 @@ birds 2
 bushwhacking 4
 bistournage
 biennia
-bridgewater
+bridgewater 1
 bicalcarate 2
 blackthorns 1
 bombax 2
