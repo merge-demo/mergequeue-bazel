@@ -10886,7 +10886,7 @@ exsolve
 exrupeal 2
 emmetropia 1
 eutectic
-extensor 1
+extensor 2
 embryoplastic 3
 esthetic 2
 enchaser 2
