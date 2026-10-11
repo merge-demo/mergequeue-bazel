@@ -16260,7 +16260,7 @@ deforest 1
 deteriorate
 downface
 downstair 2
-duodenocystostomy 2
+duodenocystostomy 3
 dacryolite 2
 dipsaceous 1
 denominationalist 1
