@@ -12286,7 +12286,7 @@ condominial 1
 cumuliform 2
 christianite 1
 clothier
-christianizer
+christianizer 1
 christianizes 1
 christianizing
 christianly 1
