@@ -15639,7 +15639,7 @@ doorstone 1
 daggers 2
 dissembler
 departement 3
-directable 1
+directable 2
 doorstop
 devotionality 1
 diverge
