@@ -3940,7 +3940,7 @@ bassette
 bunch 1
 bristols 3
 behelp 1
-bdellovibrio 1
+bdellovibrio 2
 brushbird 1
 butanes 2
 bea 1
