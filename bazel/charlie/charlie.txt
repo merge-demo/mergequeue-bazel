@@ -17321,7 +17321,7 @@ coarsened
 circumsail
 coarseness 1
 canonizations 1
-chickory 1
+chickory 2
 coarsening 1
 coarsens 1
 coarticulate
