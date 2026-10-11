@@ -19975,7 +19975,7 @@ agamas 3
 angkhak 2
 azans 1
 aborsement 1
-afterclap
+afterclap 1
 armseye 1
 actuators
 abatjour
