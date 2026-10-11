@@ -10444,7 +10444,7 @@ flche 4
 frontstall 1
 forstall
 frizes 2
-fellah
+fellah 1
 ferocity 3
 flaxtail 1
 frontwards 3
