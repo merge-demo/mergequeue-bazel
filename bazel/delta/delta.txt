@@ -13994,7 +13994,7 @@ distortions 1
 delocalise 1
 differentiable 2
 distorts 1
-dolomitising
+dolomitising 1
 dentoid 4
 diphosphide 3
 donary 1
