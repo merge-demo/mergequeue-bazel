@@ -9623,7 +9623,7 @@ diplobacterium 2
 disruption 4
 dowing 2
 dihybridism 1
-dihybrids
+dihybrids 1
 disfunctions 1
 dupers 3
 dihydrochloride 3
