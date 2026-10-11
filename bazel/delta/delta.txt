@@ -16681,7 +16681,7 @@ detach 3
 darnel 2
 drinking 1
 despondent 3
-doruck 1
+doruck 2
 disturbers 4
 diablo 4
 drakelet 2
