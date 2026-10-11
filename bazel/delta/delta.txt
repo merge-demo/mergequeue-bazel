@@ -13708,7 +13708,7 @@ deadfall 1
 dissite 2
 disintermediation 3
 defects
-disengagedness
+disengagedness 1
 dadas 3
 dystrophies 3
 despoiling 1
