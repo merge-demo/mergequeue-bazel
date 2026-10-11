@@ -11012,7 +11012,7 @@ avowter
 arcsine 1
 acetphenetid 2
 amorite
-amoritic
+amoritic 1
 accoil
 alma
 amoritish 2
