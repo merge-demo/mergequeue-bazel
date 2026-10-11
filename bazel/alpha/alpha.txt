@@ -10261,7 +10261,7 @@ adj 1
 akkadist 2
 asyllabia 1
 arcticize
-anemious
+anemious 1
 agricolite
 amelanchier 2
 avarice
