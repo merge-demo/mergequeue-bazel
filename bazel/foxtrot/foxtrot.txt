@@ -4850,7 +4850,7 @@ footfall 1
 fustigate 1
 floor 4
 fickleness 5
-fooless 3
+fooless 4
 flagstick 2
 flagworm 4
 fandangle 2
