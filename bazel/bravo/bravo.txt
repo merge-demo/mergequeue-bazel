@@ -14051,7 +14051,7 @@ bowpot 1
 bricktimber 1
 brachydactylia
 bakehouse 1
-bathhouses
+bathhouses 1
 bicuspidate 1
 brachydactylism 2
 bebusy
