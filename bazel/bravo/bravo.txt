@@ -17684,7 +17684,7 @@ bordage 1
 blackfin 3
 blueings
 bonuses 3
-boomlets
+boomlets 1
 burleycue
 blisterous 1
 burlesquer 2
