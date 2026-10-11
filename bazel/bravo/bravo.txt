@@ -15919,7 +15919,7 @@ byreman 3
 bromoauric
 brazilianite 3
 bromoil
-broaching
+broaching 1
 bruising
 bullhide 1
 bromomania 3
