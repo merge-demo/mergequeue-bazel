@@ -11123,7 +11123,7 @@ awakings
 antiorthodoxly 1
 amperometer
 asswage
-antiaphrodisiac
+antiaphrodisiac 1
 anglomania 1
 assures
 ampersands
