@@ -9104,7 +9104,7 @@ gherkin 1
 gentlehood 6
 grinch 3
 goldwork 2
-geoid
+geoid 1
 garotte 1
 governableness 1
 grumose 2
