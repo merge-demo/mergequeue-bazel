@@ -2666,7 +2666,7 @@ acremen
 acres 1
 atonally
 antiarcha
-antitheft
+antitheft 1
 angiograph 3
 abrasiometer 2
 africa 1
