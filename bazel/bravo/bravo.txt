@@ -15025,7 +15025,7 @@ borderies 1
 bendlet 2
 breeder 1
 breakneck 2
-barhops 1
+barhops 2
 breeders 1
 breedy
 byzantian 1
