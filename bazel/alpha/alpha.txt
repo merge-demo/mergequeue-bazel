@@ -6531,7 +6531,7 @@ ahwal
 asiento 1
 ai
 anomura 3
-acrogynae
+acrogynae 1
 arustle
 antidomestic
 ayacahuite 1
