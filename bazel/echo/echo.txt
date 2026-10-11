@@ -275,7 +275,7 @@ encashed 2
 electroplated 1
 expiries 2
 easterling 4
-exhumers
+exhumers 1
 epigoneion
 enqueue 1
 enantioblastic 4
