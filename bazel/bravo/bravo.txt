@@ -13459,7 +13459,7 @@ broilery 1
 beer 2
 bleeding 3
 bottleman 1
-bulse
+bulse 1
 benzin 1
 bepun
 brayer 2
