@@ -8833,7 +8833,7 @@ bombycids 1
 bedchamber 3
 bible 1
 binotonous 1
-bedeck
+bedeck 1
 brachystaphylic
 boilerman 2
 blackfishes 2
