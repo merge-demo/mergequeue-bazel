@@ -1175,7 +1175,7 @@ educand 2
 emulsive 3
 evanished
 educatability 1
-eident
+eident 1
 educatable 2
 educatedness
 electrolyzable 1
