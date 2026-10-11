@@ -17104,7 +17104,7 @@ cohesive
 ctenophoric 2
 copiable
 coadjudicator 1
-coadjutant
+coadjutant 1
 campement 2
 covotary 1
 commonweal 1
