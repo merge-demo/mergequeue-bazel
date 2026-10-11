@@ -29200,7 +29200,7 @@ cryospheric
 criosphinx
 chromatospheric 1
 criosphinxes
-catrigged
+catrigged 1
 cryostat 2
 cryosurgeon
 cryosurgery 1
