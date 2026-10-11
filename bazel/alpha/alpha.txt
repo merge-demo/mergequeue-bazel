@@ -8971,7 +8971,7 @@ antiscians
 allophyle 1
 arrow 1
 arrythmia
-angiostenosis
+angiostenosis 1
 allophylus 2
 antennular 1
 astounding
