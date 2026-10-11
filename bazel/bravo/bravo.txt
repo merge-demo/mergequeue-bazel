@@ -524,7 +524,7 @@ blennioid 3
 backtracking 1
 backtracks 2
 babies 3
-betrayment
+betrayment 1
 backveld
 beech 1
 bayok 3
