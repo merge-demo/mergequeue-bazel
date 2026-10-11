@@ -1834,7 +1834,7 @@ flexographic 6
 frostnipped 3
 farcicality 1
 funambulate 2
-foreign
+foreign 1
 febricant
 frilly 2
 febricitant 4
