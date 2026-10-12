@@ -3036,7 +3036,7 @@ cantraps 2
 chares
 curlyheads
 capitonidae 1
-centrales 1
+centrales 2
 cantrip
 cantus 2
 cantuta
@@ -17266,7 +17266,7 @@ coalternate 1
 coaltitude 1
 coambulant 2
 constrainers
-compounding
+compounding 1
 cinnamoned
 chronist 1
 coamings 2
