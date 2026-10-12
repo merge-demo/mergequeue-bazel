@@ -22323,7 +22323,7 @@ congregations 1
 conciator
 congregative
 congreso
-congress
+congress 1
 coxarthropathy 2
 calcaria 1
 cylindered
