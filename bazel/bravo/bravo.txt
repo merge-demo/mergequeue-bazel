@@ -12846,7 +12846,7 @@ bedelve 3
 bucketeer 2
 boomster
 boomtown 1
-biestings 2
+biestings 3
 boardbill 3
 beefcake
 boomtowns 2
@@ -17571,7 +17571,7 @@ beaufort 3
 bouses 1
 blackpoll 1
 burgall 2
-biddance
+biddance 1
 burgamot 3
 bootjacks 1
 balante
