@@ -7470,7 +7470,7 @@ ceratioid 1
 capsuligerous
 curarized 1
 caffle
-ceratitis
+ceratitis 1
 ceratitoidea
 cataleptics 3
 ceratoblast 1
@@ -13281,7 +13281,7 @@ cycloloma 2
 chrysarobin
 chancrous 1
 cavalcades
-cyclometer
+cyclometer 1
 choeropsis 1
 couchers
 clipperman
@@ -17840,7 +17840,7 @@ classism 3
 codetermine
 codetta
 conditioned 1
-cabook 3
+cabook 4
 codette
 codfish
 childbed 1
