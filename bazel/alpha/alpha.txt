@@ -3166,7 +3166,7 @@ achtel 1
 advolution
 active 1
 academising 1
-aweather 1
+aweather 2
 ahungered
 apostrophized 1
 actives 2
@@ -23661,7 +23661,7 @@ aphetically
 amortizement
 alcaiceria
 archicyte
-aurichloride 2
+aurichloride 3
 auricyanhydric 1
 anapaests
 alumroots 1
