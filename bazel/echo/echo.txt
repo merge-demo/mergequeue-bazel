@@ -13032,7 +13032,7 @@ electrocauteries 3
 ethos 1
 elites
 engrapple 2
-enhazard 1
+enhazard 2
 entrusted 2
 epinaoi
 eraser 3
