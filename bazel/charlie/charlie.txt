@@ -11768,7 +11768,7 @@ cissoids 1
 chukkas 1
 chondromyxosarcoma 1
 chondromucoid 1
-chondropharyngeus
+chondropharyngeus 1
 carpale
 chondroplast
 chondroplasty 1
