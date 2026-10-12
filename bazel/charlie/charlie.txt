@@ -92,7 +92,7 @@ cabbed 2
 cubics
 cabby
 cabbie
-crenelate
+crenelate 1
 cabbies 1
 cabble
 cabbled 1
