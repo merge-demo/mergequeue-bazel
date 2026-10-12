@@ -5579,7 +5579,7 @@ donatistic 1
 dibber 1
 dustfall 2
 draftable 1
-depended 1
+depended 2
 dolichopellic 1
 dependence 1
 desensitizes
