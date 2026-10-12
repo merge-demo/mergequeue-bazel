@@ -31221,7 +31221,7 @@ cupulate
 crosslets 1
 cupule 2
 convertible 2
-ceratophyte 2
+ceratophyte 3
 ceramicists 1
 cupules
 curvatures
