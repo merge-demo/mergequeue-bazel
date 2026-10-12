@@ -4134,7 +4134,7 @@ cardinalities 2
 cardinally 1
 cardinalship 1
 cardings 1
-cardioarterial
+cardioarterial 1
 cardiocarpum 2
 cardiocele
 chevronelly
