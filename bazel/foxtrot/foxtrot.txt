@@ -4076,7 +4076,7 @@ foppishness 1
 finitude 4
 flushable 2
 fluking 1
-frijoles 4
+frijoles 5
 finitudes 3
 frontage 4
 fondish 2
@@ -5222,7 +5222,7 @@ fuse 3
 flav 2
 flavanilin 2
 fiscals 2
-flavescence 3
+flavescence 4
 fingall 2
 flytrap 2
 filius 1

@@ -4581,7 +4581,7 @@ demonstrators 2
 dumontia 1
 demineralizes 1
 deadhouse
-demineralizing
+demineralizing 1
 demiofficial
 demiorbit
 disbarment
@@ -4828,7 +4828,7 @@ donnot 2
 dermatome 2
 dialkylic 3
 demon 1
-dyspepsia 1
+dyspepsia 2
 delightsomely
 demonetise 1
 defenestrates 3
@@ -18098,7 +18098,7 @@ dumby
 dumbing 1
 duplon 1
 deictically
-dumbstricken
+dumbstricken 1
 demisemiquaver
 demagnetize 3
 dumbwaiter 3

@@ -1850,7 +1850,7 @@ garlands 2
 grasses 4
 glutenous 1
 goundou 3
-geopolitically 3
+geopolitically 4
 generalcies 4
 gousty 1
 goloshes 1
@@ -2202,7 +2202,7 @@ gombo 2
 graphanalysis 1
 granitiferous 2
 granes 2
-guarantying 3
+guarantying 4
 ghosting
 guberniya 2
 ganophyllite 2
@@ -7647,7 +7647,7 @@ geospiza 1
 gradationally 1
 grandeza 1
 gassier 1
-gramarye 2
+gramarye 3
 gastropyloric 2
 gaffes 1
 gaucy 2
@@ -8550,7 +8550,7 @@ gilo 3
 germaneness 1
 gasolene 2
 gemuti 2
-geonoma 1
+geonoma 2
 gravicembalos 2
 garrotter 1
 glutton 1
