@@ -2472,7 +2472,7 @@ bottom 1
 busies
 bifunctional
 benzoiodohydrin 2
-bechalked 1
+bechalked 2
 bultow 5
 bruting
 blurriest 1
@@ -4939,7 +4939,7 @@ beefwoods 1
 beegerite 1
 bootlick 3
 bairnliness
-badchan 1
+badchan 2
 bouncing 3
 bitriseptate 1
 beehive 2
@@ -13683,7 +13683,7 @@ bourgeons 2
 bourignian 1
 bragas 2
 blanketmaker 7
-branched 6
+branched 7
 behaviourism 1
 balanceman 5
 blenchers 1
