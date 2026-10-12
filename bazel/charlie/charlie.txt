@@ -5735,7 +5735,7 @@ cordelling 1
 cakebread 1
 catching 2
 carolean
-cannon
+cannon 1
 catchlight 1
 cultivatability
 cornein
