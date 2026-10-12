@@ -17347,7 +17347,7 @@ anatiferous
 apostleship 1
 abaisse
 apostleships 1
-appeacher
+appeacher 1
 agmas 1
 ares
 ascidiferous
@@ -18129,7 +18129,7 @@ auklet
 anemonol
 abdicated 1
 acapnia
-ableptically 4
+ableptically 5
 allegator 1
 antipsychotic 1
 aerogenic
