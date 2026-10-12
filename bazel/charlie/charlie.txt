@@ -26490,7 +26490,7 @@ copernicanism
 conductory 1
 chuckstone 1
 coopt
-cottager
+cottager 1
 cottagers 3
 cottars 1
 cahuy
