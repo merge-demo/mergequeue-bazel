@@ -4736,7 +4736,7 @@ devi 3
 disremember 1
 demobilising 3
 democracy
-diploneural 2
+diploneural 3
 diethylaminoethanol 3
 democracies
 democrat 1
