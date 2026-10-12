@@ -13884,7 +13884,7 @@ balwarra
 bowlful
 bergamasca 2
 breastworks 2
-bowlike
+bowlike 1
 bowline 3
 bombinating 1
 bacalaos 2
