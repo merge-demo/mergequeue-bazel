@@ -92,7 +92,7 @@ cabbed 2
 cubics
 cabby
 cabbie
-crenelate
+crenelate 1
 cabbies 1
 cabble
 cabbled 1
@@ -2742,7 +2742,7 @@ consorting 1
 cannach
 cannalling 1
 clubhauling 1
-comedietta
+comedietta 1
 cannat
 canned 2
 cannel 1
@@ -12027,7 +12027,7 @@ coheres 2
 choromanic 3
 cajolers 4
 chevreuil
-chorook
+chorook 1
 cyclops
 choroti
 chorous 1
@@ -25934,7 +25934,7 @@ callovian
 ceintures 2
 corticotrophin
 curtsying
-corticous 2
+corticous 3
 cortile 1
 civilisational
 coercion 2
