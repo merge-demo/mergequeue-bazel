@@ -3716,7 +3716,7 @@ barotraumata 2
 bronteon 1
 battlefronts 1
 bringall 1
-brucella 2
+brucella 3
 barnstorms
 battler 1
 battleships 1
@@ -4101,7 +4101,7 @@ boyishness 1
 biassing 1
 ballistics
 baroclinicity 1
-blamableness 1
+blamableness 2
 bicompact
 brachiopode 2
 bodysurfs 1
@@ -15115,7 +15115,7 @@ breviloquent 1
 blimp
 bushhammer 3
 breviradiate 2
-blithely 2
+blithely 3
 bugeyed
 brevit 1
 brevity 3
