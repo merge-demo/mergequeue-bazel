@@ -17398,7 +17398,7 @@ baetylic 1
 bungtown 1
 bosun 3
 blithered
-bungwall
+bungwall 1
 bagre 1
 bacillemia 2
 bejewels 5
