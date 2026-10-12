@@ -4473,7 +4473,7 @@ flueless 3
 flameproof 3
 fazed 1
 fishponds 5
-fishtailed 1
+fishtailed 2
 fibrilled 5
 fishpotter 1
 finicism 1
