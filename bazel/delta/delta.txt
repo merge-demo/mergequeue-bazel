@@ -13768,7 +13768,7 @@ dichotomizing 1
 dumfounder 1
 desiccators 2
 dissonances
-deicide 3
+deicide 4
 dacryolin 1
 drank
 dissoul
@@ -17671,7 +17671,7 @@ dualizes 1
 demarcate
 dualmutef
 dualogue
-disparaged
+disparaged 1
 disrespectability
 dense 1
 disgradulate 1
