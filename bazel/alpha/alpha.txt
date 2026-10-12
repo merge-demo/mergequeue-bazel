@@ -21139,7 +21139,7 @@ ase 3
 asearch
 alhet
 asecretory 1
-amenableness 1
+amenableness 2
 appositeness 1
 airth
 amniorrhea 1
