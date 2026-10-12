@@ -1632,7 +1632,7 @@ disorientated 2
 didymia 1
 deisin 2
 disfranchising
-deliverable 1
+deliverable 2
 difficulty 1
 daylong 1
 dimetrodon 1
@@ -3240,7 +3240,7 @@ discocephalous
 dir 1
 decorativeness
 defenestrating
-danae
+danae 1
 dayside
 derricking 1
 defenseless 1
@@ -5519,7 +5519,7 @@ drummy
 downheaded
 depardieu 1
 dinger 1
-dewdrops 5
+dewdrops 6
 diaxon 1
 denials 1
 departer 1
