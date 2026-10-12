@@ -11390,7 +11390,7 @@ conscienceless
 chloroplatinous 1
 chloroprene
 creature 1
-chloroquine 1
+chloroquine 2
 coronas 2
 camagon 3
 cyclamates 2
@@ -23307,7 +23307,7 @@ consumated 2
 consumating 3
 consumedly 2
 consumeless 1
-corkiness 3
+corkiness 4
 consumer 1
 consumerist 1
 consumes 1
