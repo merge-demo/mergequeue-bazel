@@ -5248,7 +5248,7 @@ advertisements 1
 affied 1
 abjured 2
 applaudingly 2
-affiliable
+affiliable 1
 airscape 1
 addio
 alpenhorn 1
@@ -13488,7 +13488,7 @@ antagonisable 1
 apicifixed 1
 apse 2
 abanic 1
-annihilationist
+annihilationist 1
 annihilationistic 2
 arrobas 1
 airproofs
