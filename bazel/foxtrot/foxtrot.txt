@@ -9511,7 +9511,7 @@ figurers 1
 floppiness 4
 fattrels 1
 faithworthy 3
-frontways
+frontways 1
 footling 4
 finiteness 3
 fringier 2
@@ -10026,7 +10026,7 @@ frogskin 1
 fortune 1
 fibrocystoma
 favors
-fringilline 2
+fringilline 3
 freedom 3
 frothsome 3
 fonted
