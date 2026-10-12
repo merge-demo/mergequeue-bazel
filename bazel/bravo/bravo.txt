@@ -216,7 +216,7 @@ brainpower 2
 biofog 2
 bandicoot 2
 baccy
-banishments
+banishments 1
 bacciferous 2
 britannic 2
 brookless 1
@@ -13934,7 +13934,7 @@ bacteriuria 2
 boxful 1
 blackboys 1
 bleed
-brussels 1
+brussels 2
 bullring 2
 boxhauled 3
 brierberry 2
