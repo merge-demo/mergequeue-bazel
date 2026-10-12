@@ -5010,7 +5010,7 @@ appease 1
 assumptions 1
 abnormalist 1
 awaft 2
-accentuable
+accentuable 1
 avigate
 abv 3
 aerophysics
