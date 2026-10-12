@@ -4727,7 +4727,7 @@ chlamydospore 1
 creditorship 1
 contested 1
 collages 2
-carpeting
+carpeting 1
 carpetlayer 1
 carpetmaking 1
 clubability
@@ -16914,7 +16914,7 @@ clumps
 canavalin
 curst
 clumpst 1
-clumse
+clumse 1
 clumsy 1
 clumsier 3
 cloyer 1
