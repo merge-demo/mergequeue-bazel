@@ -5853,7 +5853,7 @@ buckbrush 2
 baronship 3
 bellmanship 2
 bellmouth 2
-briners 1
+briners 2
 braggingly
 buttstock 3
 batholith 1
