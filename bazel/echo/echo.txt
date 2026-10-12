@@ -2001,7 +2001,7 @@ ekka 1
 enolate 2
 exophoric 2
 ekphorias
-empetrum
+empetrum 1
 experienceless 2
 eryngo 3
 ekron 1
@@ -7684,7 +7684,7 @@ ectocrine 3
 espece 1
 epicuticle 2
 extroversion
-epicuticular 2
+epicuticular 3
 entomotomist 1
 exacta 3
 eustele 2
