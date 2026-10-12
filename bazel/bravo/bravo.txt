@@ -5470,7 +5470,7 @@ behooves
 behooving 3
 bacterioprotein 3
 backiebird 2
-beatless
+beatless 1
 behoved 2
 basting 1
 behoves
