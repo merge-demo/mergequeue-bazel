@@ -7302,7 +7302,7 @@ defecation 2
 donnie 1
 dress 2
 diphthongia 1
-diphthongization 2
+diphthongization 3
 determinated 2
 driftwood 1
 determinately 2
@@ -15609,7 +15609,7 @@ doomster 1
 defaulters 5
 domina 1
 dissentaneous
-decoders
+decoders 1
 diversionist
 dooputty
 doorhead 1
