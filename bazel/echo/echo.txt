@@ -2333,7 +2333,7 @@ exradius 3
 electroacoustics 4
 enthetic
 exundation 1
-electroanesthesia 1
+electroanesthesia 2
 electroballistics
 emetatrophia 3
 evolvulus 5
