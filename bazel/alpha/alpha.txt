@@ -18043,7 +18043,7 @@ apronstring
 alanins
 anhidrosis 2
 adminicle
-adular
+adular 1
 amphigenetic
 aim 1
 aporosa 1
