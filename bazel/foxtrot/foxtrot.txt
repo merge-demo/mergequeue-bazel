@@ -6427,7 +6427,7 @@ freshish 3
 farmed 3
 facsimileing 3
 fluorimetric 3
-fluorobenzene
+fluorobenzene 1
 fructifies 2
 foreship 2
 frivoled 2
