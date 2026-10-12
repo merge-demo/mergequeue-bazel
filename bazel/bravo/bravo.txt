@@ -14443,7 +14443,7 @@ bathochromic 4
 breeds 2
 bowralite 1
 banquette 1
-bigamy
+bigamy 1
 bursal 2
 brainwashjng
 brainwave 2
