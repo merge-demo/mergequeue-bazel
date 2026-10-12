@@ -9928,7 +9928,7 @@ chemotrophic 1
 chemotropically 1
 chempaduk 2
 chemurgical
-chemurgically
+chemurgically 1
 chen 1
 chena 1
 chenar 2
