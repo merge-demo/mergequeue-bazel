@@ -9303,7 +9303,7 @@ deobstruent 3
 dietic 2
 decolorant 2
 dietitians
-dtset
+dtset 1
 diplomat
 dietotherapy 1
 dietotoxic 1
