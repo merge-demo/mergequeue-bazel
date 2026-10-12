@@ -16695,7 +16695,7 @@ acaridan
 abjuration
 asserters 1
 agre 1
-assails 2
+assails 3
 alcaides 4
 aphacic 4
 accompaniment
