@@ -2995,7 +2995,7 @@ felucca 2
 frothing
 fy 2
 fiacres 1
-fetichry 2
+fetichry 3
 firelit 1
 fiance
 fleeciness 2
@@ -10023,7 +10023,7 @@ foreplot 2
 fimbles
 farmerlike 1
 frogskin 1
-fortune
+fortune 1
 fibrocystoma
 favors
 fringilline 2
@@ -10992,7 +10992,7 @@ frostiest 2
 flintiest 1
 foreproffer 1
 foreweep 2
-fatlike 2
+fatlike 3
 furfurol 1
 fumblers 1
 feign 4
