@@ -2005,7 +2005,7 @@ hcsyeo
 hctax 2
 hctb 4
 hctd 2
-hctetpg 1
+hctetpg 2
 hctf 1
 hctg 1
 hctgitvltxzy 4
