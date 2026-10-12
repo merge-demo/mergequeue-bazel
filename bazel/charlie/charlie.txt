@@ -2079,7 +2079,7 @@ campagna 1
 campagne
 conli 2
 campaign 1
-clotheshorses
+clotheshorses 1
 campaigners 3
 campaigns 1
 colostric 1
