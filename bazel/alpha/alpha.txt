@@ -12080,7 +12080,7 @@ anemosis
 architeuthis 1
 anastate
 anastatus 2
-anastigmat
+anastigmat 1
 anastigmatic 1
 alvah 1
 alichel
