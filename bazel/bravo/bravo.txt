@@ -1355,7 +1355,7 @@ bootle 4
 bowers 2
 butylate 1
 bynin 2
-baldakin
+baldakin 1
 bathyhypesthesia 4
 blithen 3
 baldcrown
@@ -16735,7 +16735,7 @@ bucktoothed 4
 bountyless
 bicameralist
 bucku 2
-babehood 2
+babehood 3
 buckwagon
 boodie
 buckwheatlike 2
