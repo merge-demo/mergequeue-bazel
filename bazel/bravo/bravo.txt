@@ -1037,7 +1037,7 @@ busway
 bustiest 1
 boyaus 1
 basanite
-bersil 1
+bersil 2
 boroughmaster
 bailiwick 1
 bridler 2
