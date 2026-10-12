@@ -1849,7 +1849,7 @@ alytes
 amalgamater 2
 admonitorial
 acerolas 2
-agnosy 1
+agnosy 2
 airinesses
 acerous 1
 acertannin
@@ -11385,7 +11385,7 @@ autocephaly 1
 absorptance
 aiguiere 1
 amplication 1
-amplicative
+amplicative 1
 autoelectrolytic
 amplificate
 aftercause 1
