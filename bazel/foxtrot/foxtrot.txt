@@ -7254,7 +7254,7 @@ fissuration 1
 fledglings 2
 fetisheer 4
 fratricidal 3
-foeffment
+foeffment 1
 flares 5
 forecasts 1
 formiate 2
