@@ -9131,7 +9131,7 @@ badgir
 ballgown 3
 biotechnologically
 bathysmal 2
-bowl 1
+bowl 2
 botanists 3
 butyraceous
 blanketed 2
@@ -16452,7 +16452,7 @@ batitinan 2
 boorishly
 bellwine
 bollixed 3
-brushful
+brushful 1
 brushier 2
 bunkoed 1
 barbouillage 1
