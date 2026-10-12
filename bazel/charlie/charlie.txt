@@ -8975,7 +8975,7 @@ cortex 1
 chariot
 continuo
 charioting
-chariotman
+chariotman 1
 collegiately 2
 chondri
 chaplaincy
