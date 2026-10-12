@@ -2364,7 +2364,7 @@ garbed 1
 geniting 2
 gastrotomies 4
 galatians 3
-germanies 2
+germanies 3
 geotectonic
 gravitates 6
 goggler 2
@@ -2497,7 +2497,7 @@ girdlelike 4
 gaucher 4
 golds
 gradienter 2
-gotch 3
+gotch 4
 glunches 3
 geyan 5
 gastroalbuminorrhea 5
@@ -2603,7 +2603,7 @@ generification 2
 gitaligenin 1
 governmentalism 2
 globulariaceae 2
-glottis 2
+glottis 3
 geodete 2
 gemmification 2
 gunpapers 1
@@ -4149,7 +4149,7 @@ gringo 4
 gnars 1
 gymnasts 1
 gibbi 4
-grahamism 3
+grahamism 4
 gigback 2
 glottal 1
 ginkgoaceous 4
