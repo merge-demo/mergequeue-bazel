@@ -175,7 +175,7 @@ abaue
 annoyment
 arizona
 antepagments 1
-abave 1
+abave 2
 anaberoga 1
 allosematic
 apagogical
@@ -17256,7 +17256,7 @@ anesthesis
 alsbachite 2
 aspersory
 apophthegmatical 2
-angostura 1
+angostura 2
 antineuralgic 2
 aaronic 1
 apoplastogamous 3
@@ -17386,7 +17386,7 @@ anthraconecrosis
 assemblee 2
 antifideism 4
 astrean
-archpatron
+archpatron 1
 allay
 aestivated 2
 antalkali 1
@@ -18359,7 +18359,7 @@ attitudinarianism 1
 antiunionist
 araliaceous 2
 algaroba 1
-anisometrope
+anisometrope 1
 assembling
 androgynus 1
 aramaism 2
@@ -21470,7 +21470,7 @@ asperly
 acupuncturation
 autotransplantation
 appendicostomy 1
-amphiprostyle 5
+amphiprostyle 6
 aerophysicist 3
 aspermatic 1
 achter
@@ -24370,7 +24370,7 @@ aromatically 1
 awiggle
 armrack
 appanagist
-agisting 1
+agisting 2
 autoschediastic 1
 antialexin
 ankylomele
