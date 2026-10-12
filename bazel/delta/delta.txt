@@ -9247,7 +9247,7 @@ drawcard 2
 digitaliform 1
 diemakers 3
 duckie
-dehumidifying 1
+dehumidifying 2
 dossils 1
 dimnesses
 docibleness 2
