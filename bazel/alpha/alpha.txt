@@ -12952,7 +12952,7 @@ argillitic 2
 approaches 1
 addictively 1
 archdiocesan 1
-anguineal
+anguineal 1
 anguiped 4
 anginiform 1
 afterhatch
@@ -16915,7 +16915,7 @@ apiol 1
 almswomen 1
 astite 2
 abnormity
-amir
+amir 1
 anchory
 ampullariidae
 apiole 1
@@ -17347,7 +17347,7 @@ anatiferous
 apostleship 1
 abaisse
 apostleships 1
-appeacher
+appeacher 1
 agmas 1
 ares
 ascidiferous
@@ -22498,7 +22498,7 @@ alangin
 arrestor 1
 arecaidin 1
 ata
-anoas 1
+anoas 2
 atabals
 alexandreid 2
 adjudge
