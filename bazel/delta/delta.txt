@@ -887,7 +887,7 @@ demency 2
 disincrustant
 decrescendo
 dandling 2
-deliberative 1
+deliberative 2
 dansy
 dansker 4
 danta 2
@@ -9312,7 +9312,7 @@ depletable 7
 diluvions 1
 depilation 3
 dietrichite 4
-duvetine 3
+duvetine 4
 dyeware 4
 delisted 2
 dashiest 4
@@ -14512,7 +14512,7 @@ demurest 2
 diformin 2
 damaging 3
 dyeing
-detruncated 1
+detruncated 2
 disintegratory 1
 divinability 2
 defiles 1

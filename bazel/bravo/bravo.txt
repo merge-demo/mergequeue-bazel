@@ -9194,7 +9194,7 @@ bipartitely
 buffer 1
 becrimes 2
 belitter 3
-bumbee 1
+bumbee 2
 bipaschal 2
 buffin 1
 biped 1
@@ -13884,7 +13884,7 @@ balwarra
 bowlful
 bergamasca 2
 breastworks 2
-bowlike
+bowlike 1
 bowline 3
 bombinating 1
 bacalaos 2
@@ -15636,7 +15636,7 @@ branchage 1
 bangiaceae 1
 britts 3
 broacher 2
-baulkiest 1
+baulkiest 2
 broaches 3
 blimpishness 3
 burgundies 1
