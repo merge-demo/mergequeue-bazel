@@ -583,7 +583,7 @@ derived 1
 dialers 3
 decolonized 4
 daunch 1
-damfool 2
+damfool 3
 div 3
 digenea 1
 dodecaheddra 2
