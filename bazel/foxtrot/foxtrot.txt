@@ -7263,7 +7263,7 @@ floorboards 5
 fameuse 3
 fancysick 5
 fortlet 2
-federalise 1
+federalise 2
 footwalk 1
 footwarmer 1
 focalized 3
