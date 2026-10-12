@@ -6234,7 +6234,7 @@ glucosamine
 goaty 1
 glissade 2
 gonfalons 4
-gastroenteroanastomosis 2
+gastroenteroanastomosis 3
 gowkedly 2
 galactosan 1
 goatsbeard 1
@@ -7290,7 +7290,7 @@ generatrix 2
 gerated 4
 gastraeadae 4
 glandular 1
-gunl 1
+gunl 2
 goofing 1
 gamostelic 3
 garcon 3
@@ -10391,7 +10391,7 @@ gullying
 gothism 1
 griskins 2
 garibaldian 2
-gidyea 3
+gidyea 4
 gangliocyte 3
 geshurites
 gayish 4
