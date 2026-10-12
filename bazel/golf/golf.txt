@@ -2202,7 +2202,7 @@ gombo 2
 graphanalysis 1
 granitiferous 2
 granes 2
-guarantying 3
+guarantying 4
 ghosting
 guberniya 2
 ganophyllite 2
@@ -8550,7 +8550,7 @@ gilo 3
 germaneness 1
 gasolene 2
 gemuti 2
-geonoma 1
+geonoma 2
 gravicembalos 2
 garrotter 1
 glutton 1
