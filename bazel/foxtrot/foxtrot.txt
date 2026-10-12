@@ -1430,7 +1430,7 @@ floorer 1
 follow 2
 fanwork 2
 fall 3
-fiddled 2
+fiddled 3
 funis 4
 fattishness
 fother 2
@@ -1534,7 +1534,7 @@ foulish 2
 foreshift 3
 foetuses
 fauterer 2
-fauteuil
+fauteuil 1
 fussy 6
 foreteach 4
 farrow 4
@@ -9413,7 +9413,7 @@ floristics 1
 freewheeling 2
 flagpoles 4
 furacana 3
-flammed 3
+flammed 4
 faciendum 1
 franz
 felidae 2
