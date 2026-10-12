@@ -1534,7 +1534,7 @@ foulish 2
 foreshift 3
 foetuses
 fauterer 2
-fauteuil
+fauteuil 1
 fussy 6
 foreteach 4
 farrow 4
@@ -11335,7 +11335,7 @@ formalith 2
 fulvene 1
 fertilisational 3
 forecastors 2
-fermage
+fermage 1
 furlan 1
 foreglimpsed 2
 forswat 4
