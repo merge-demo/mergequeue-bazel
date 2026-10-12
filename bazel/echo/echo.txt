@@ -7757,7 +7757,7 @@ equips 1
 edelweisses
 ethinamate 3
 empasma 1
-eggshells 1
+eggshells 2
 executable 2
 epidiascope 3
 engraff 3
