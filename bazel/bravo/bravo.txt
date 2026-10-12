@@ -1523,7 +1523,7 @@ bulbiform 1
 bdl 1
 bouton 1
 backsword 2
-ballastic 1
+ballastic 2
 ballata 2
 brisked
 batikulin 1
