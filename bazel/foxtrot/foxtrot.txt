@@ -200,7 +200,7 @@ flashily 3
 feuar 3
 foreignism 1
 florin 1
-folletage 3
+folletage 4
 footstock
 freedwoman 4
 ferns 4
@@ -11723,7 +11723,7 @@ fawnskin 1
 flagellator 2
 folkland 4
 fantastically 3
-feudalised 2
+feudalised 3
 forecool 2
 futurition 2
 fashionably 2
