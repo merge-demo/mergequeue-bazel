@@ -873,7 +873,7 @@ falconets 3
 forzando 4
 fourchette 2
 fireworks 1
-folliculose 5
+folliculose 6
 footworks
 florivorous 3
 feverfews 1
@@ -1439,7 +1439,7 @@ faithless 2
 freewheel 1
 fatuism 1
 filasse 4
-firmness 2
+firmness 3
 futhork 2
 fatuitous 1
 foothil
@@ -9115,7 +9115,7 @@ formalins
 furtum 4
 fortresses 1
 fribblish 2
-filters 2
+filters 3
 fantasias 1
 fortifies 2
 fielded 1
