@@ -5839,7 +5839,7 @@ commercia
 categorized
 categorizer
 categorizes
-chromeplated
+chromeplated 1
 cabas
 crawling 1
 chateau
@@ -6682,7 +6682,7 @@ coracomorphic
 chard 3
 cursorial 2
 ceibo
-counterthrust 2
+counterthrust 3
 ceil 1
 clamoring
 celestine
@@ -11613,7 +11613,7 @@ conchotome 1
 cholelithic
 cholelithotomy 2
 chastising
-counterbore
+counterbore 1
 choriambuses 2
 cholelithotrity 1
 crosscurrent

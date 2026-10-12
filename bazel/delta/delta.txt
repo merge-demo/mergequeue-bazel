@@ -1595,7 +1595,7 @@ disinfector 1
 deadwork
 deaerated 1
 dorsum 1
-deaf 4
+deaf 5
 dynamogenous 2
 deafened 2
 doorjambs 1
@@ -9247,7 +9247,7 @@ drawcard 2
 digitaliform 1
 diemakers 3
 duckie
-dehumidifying 1
+dehumidifying 2
 dossils 1
 dimnesses
 docibleness 2
