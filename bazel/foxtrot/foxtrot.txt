@@ -8585,7 +8585,7 @@ frameshift 1
 fullfil 4
 fissionable 5
 fungating 2
-farmsteading 1
+farmsteading 2
 forninst 1
 fricative 3
 flexor 3
