@@ -27364,7 +27364,7 @@ courtal
 courtbred
 chattelization
 courtcraft 1
-colonise 1
+colonise 2
 cetacean
 cloacal
 congee
