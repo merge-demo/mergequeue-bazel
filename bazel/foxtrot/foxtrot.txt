@@ -6717,7 +6717,7 @@ fogless 1
 frounced
 fogo 4
 frescoists 3
-fighters 4
+fighters 5
 feast 1
 forelegs 2
 fogon 2
