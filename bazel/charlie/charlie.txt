@@ -12027,7 +12027,7 @@ coheres 2
 choromanic 3
 cajolers 4
 chevreuil
-chorook
+chorook 1
 cyclops
 choroti
 chorous 1
@@ -15030,7 +15030,7 @@ civilizable
 civilizationally
 citola 2
 chawan 3
-chevrons 1
+chevrons 2
 contemns
 civilized
 civilizee 2
@@ -24367,7 +24367,7 @@ cholinergic 1
 coolest
 cattleless 2
 coned 1
-crosspiece 1
+crosspiece 2
 coolheadedly 1
 conchyle
 coolie 3
