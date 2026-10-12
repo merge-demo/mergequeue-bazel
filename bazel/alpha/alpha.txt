@@ -3363,7 +3363,7 @@ arborescence 2
 adamite 2
 anselmian
 acanthocereus
-acetonation 1
+acetonation 2
 adamitism 2
 anacidity
 akhoond
@@ -14546,7 +14546,7 @@ admirability 1
 arborean
 admass 1
 anthropomorphisms 2
-awanyu
+awanyu 1
 anthropomorphized 1
 anthropomorphology
 atta
