@@ -6117,7 +6117,7 @@ carven 2
 calcitreation
 currane
 cineraria
-countershafting 1
+countershafting 2
 coassisting
 catsups 2
 childhood 2
@@ -27368,7 +27368,7 @@ colonise 2
 cetacean
 cloacal
 congee
-chartographer
+chartographer 1
 courteousness
 courtepy 1
 courter
