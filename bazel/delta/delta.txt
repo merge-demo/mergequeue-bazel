@@ -9444,7 +9444,7 @@ dodgier
 disworkmanship 2
 dibatag 1
 drunkelew 1
-doomfulness 1
+doomfulness 2
 delaw 1
 demode 2
 doppelganger 1
@@ -10013,7 +10013,7 @@ devitalize 1
 dogwood 3
 dactylioglyphtic 2
 declaiming 2
-dreaming 1
+dreaming 2
 deinos 1
 dimple
 diplomas 1
