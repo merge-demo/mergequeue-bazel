@@ -2920,7 +2920,7 @@ chrysoidine
 cantatas
 cantation
 cantatrice
-coverts
+coverts 1
 chestily 1
 chorioids 2
 condylos
@@ -31822,7 +31822,7 @@ cuties
 cacemphaton
 cytotoxic 1
 cutin 1
-cutinisation
+cutinisation 1
 cutinise 2
 coliiformes
 cretic
