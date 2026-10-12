@@ -15609,7 +15609,7 @@ doomster 1
 defaulters 5
 domina 1
 dissentaneous
-decoders
+decoders 1
 diversionist
 dooputty
 doorhead 1
