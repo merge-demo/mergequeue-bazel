@@ -7666,7 +7666,7 @@ fiefdom
 forsteal 3
 forecasting 1
 freeze 1
-foxskin 1
+foxskin 2
 fano 4
 fiesta 1
 fled 6
