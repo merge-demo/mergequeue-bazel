@@ -5010,7 +5010,7 @@ appease 1
 assumptions 1
 abnormalist 1
 awaft 2
-accentuable
+accentuable 1
 avigate
 abv 3
 aerophysics
@@ -12774,7 +12774,7 @@ angiodiascopy 1
 allegiare
 angiogeny
 anyway
-angiohemophilia
+angiohemophilia 1
 anhelous 2
 anachronously 1
 anglophilia 2
