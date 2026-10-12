@@ -5342,7 +5342,7 @@ castalides 1
 cardiopuncture 2
 chertier 1
 castanea 1
-chewy 1
+chewy 2
 cylindroconical
 cynarctomachy
 cyrillaceous 1
@@ -16856,7 +16856,7 @@ clubhouses 1
 clubionidae
 clubland 1
 clubman
-cloveroot 1
+cloveroot 2
 clubmate
 chiccory 1
 coexists
