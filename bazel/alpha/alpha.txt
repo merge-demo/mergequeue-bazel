@@ -9877,7 +9877,7 @@ autosomatognosis
 aeciospore
 azotorrhoea
 autosexing 2
-attid 1
+attid 2
 anamnionata
 asphodelus
 aragonian
@@ -10038,7 +10038,7 @@ ambilateralaterally 4
 annonce 1
 antipatharia 1
 ambiopia
-ambisexuality 2
+ambisexuality 3
 afrasia 1
 acquaints
 antagonizes 1
