@@ -9413,7 +9413,7 @@ floristics 1
 freewheeling 2
 flagpoles 4
 furacana 3
-flammed 3
+flammed 4
 faciendum 1
 franz
 felidae 2
