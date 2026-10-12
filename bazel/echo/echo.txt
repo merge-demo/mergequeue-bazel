@@ -4160,7 +4160,7 @@ eclegm 1
 extracranial 1
 energids 3
 expungement 1
-erythrodermia 3
+erythrodermia 4
 externum 3
 encl 1
 encaustes 2
