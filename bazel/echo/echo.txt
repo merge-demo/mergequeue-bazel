@@ -5338,7 +5338,7 @@ endoscope 4
 endoscopes 2
 equivocalities
 eradicators 1
-egeran 1
+egeran 2
 emmeniopathy 2
 endoscopies 1
 epipodia 2
