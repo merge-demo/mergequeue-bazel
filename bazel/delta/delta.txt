@@ -3564,7 +3564,7 @@ drumlin 2
 defunction 1
 deul
 disfrock
-disseminate
+disseminate 1
 diethylamine 2
 disenchanter 2
 defunctionalize 1
@@ -8169,7 +8169,7 @@ daer
 darger
 diachronically
 dicranum 2
-diacid 2
+diacid 3
 detachment 1
 duellists 3
 duple
