@@ -1488,7 +1488,7 @@ gasher 3
 galaginae 3
 glumly 1
 gunmaker 1
-gymnarchus 2
+gymnarchus 3
 gluconate 1
 galosh 1
 guacamole 2
@@ -4507,7 +4507,7 @@ gypsywise 1
 guzzling 2
 grufted 1
 gyromele 2
-gangliitis 3
+gangliitis 4
 gorgio 1
 gays 2
 grubbers
@@ -5561,7 +5561,7 @@ graysbies 1
 grammel 1
 glucine 3
 glochidiate 1
-gallery
+gallery 1
 grained 1
 goatskin 4
 gambols 2
