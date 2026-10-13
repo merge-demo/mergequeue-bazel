@@ -15896,7 +15896,7 @@ broadband 2
 beswim 1
 behest 1
 buzzbomb 2
-berylate 2
+berylate 3
 bendell 2
 brominize 2
 breezing 4
