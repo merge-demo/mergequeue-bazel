@@ -3965,7 +3965,7 @@ finew 1
 fish 2
 fermentor 3
 fruitcakey 2
-frenziedly
+frenziedly 1
 frightfulness 2
 foreshown 1
 funneled 2
