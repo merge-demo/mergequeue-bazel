@@ -6137,7 +6137,7 @@ celiotomy
 corrobori 1
 chimaeroidei
 cornfactor
-cattycornered
+cattycornered 1
 cattyman 1
 cirl 1
 cinnamylidene 1
@@ -30758,7 +30758,7 @@ cos
 chummy 2
 cuisse
 canonical 2
-composing 3
+composing 4
 cuitlateco
 correctional 3
 chloroauric
