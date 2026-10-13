@@ -6398,7 +6398,7 @@ benzonitrile 2
 behedge 5
 benzophenothiazine 2
 benzophloroglucinol 2
-betting
+betting 1
 benedight 2
 bewake 4
 benzophthalazine 2
