@@ -5553,7 +5553,7 @@ bagnette 1
 barrette 1
 bloodguiltless
 blackeners 2
-brutified 4
+brutified 5
 brominism 2
 bejuggle 1
 bejumbles 1
@@ -7469,7 +7469,7 @@ basebred 3
 betulinic 1
 bipyramidal 2
 betumbled 4
-blitheful 1
+blitheful 2
 balconied 1
 bengals 4
 biomicroscope 6
@@ -10169,7 +10169,7 @@ bignoniaceae 3
 blackfishing 1
 bufferrers
 beroida
-begrime 1
+begrime 2
 badgering 2
 binghi 1
 broomy 3
