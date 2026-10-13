@@ -7985,7 +7985,7 @@ cholecalciferol 1
 chab 2
 celibate 1
 chabasite
-counterclockwise 1
+counterclockwise 2
 chabazite 2
 celiosalpingectomy 1
 chaber 1
@@ -14609,7 +14609,7 @@ crime
 cryptogenous
 confederations
 cystolith 2
-caduca 1
+caduca 2
 cystolithiasis
 cystoma
 cystomas 2
@@ -27328,7 +27328,7 @@ cherubs 1
 curacy
 connexionalism 3
 couranto
-ceint 2
+ceint 3
 courantoes
 calumniator 1
 courants
