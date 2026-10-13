@@ -5073,7 +5073,7 @@ glassful 2
 gonotocont 1
 grapplers 5
 gloxinia 6
-glasshouses 4
+glasshouses 5
 gateaux 2
 gasts 2
 glued
@@ -9758,7 +9758,7 @@ grumpy 5
 grun 3
 geratologic 1
 gemmuliferous
-gien 1
+gien 2
 girls
 gtt 3
 guidon 2
