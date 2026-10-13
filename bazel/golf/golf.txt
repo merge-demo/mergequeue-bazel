@@ -792,7 +792,7 @@ graf 1
 gimlet 2
 gambade 4
 gravata
-garrotting 4
+garrotting 5
 gastroenteritic 3
 gambang 3
 gastrular
@@ -6289,7 +6289,7 @@ governessy 1
 gid 3
 gobbles 2
 glaucescent 5
-ginzoes 3
+ginzoes 4
 grege 2
 gerahs 3
 genistein 3
