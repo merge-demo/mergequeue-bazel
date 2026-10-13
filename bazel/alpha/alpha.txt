@@ -12923,7 +12923,7 @@ arbitral
 assertoric
 ascitb
 angouleme
-armored
+armored 1
 arcidae 1
 angraecum
 angriness
@@ -14631,7 +14631,7 @@ audiogram 1
 accolated
 animalities
 appet 1
-androsphinges
+androsphinges 1
 antiaggressionist
 antienergistic 1
 andouille

@@ -12546,7 +12546,7 @@ brashness 1
 boniness 1
 bellwind 2
 brant 2
-brooklike 3
+brooklike 4
 boning
 bakemeat
 bonitary
@@ -13781,7 +13781,7 @@ baddishly 1
 blessing 5
 bowbent 1
 bowdichia 4
-bloodily
+bloodily 1
 beboppers
 brisa
 blindstorey
