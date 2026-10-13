@@ -11641,7 +11641,7 @@ etoiles 1
 expulses 3
 enddamaged 1
 exactable 5
-extemporising 1
+extemporising 2
 exactas 1
 ergastoplasm 4
 elaterite 1
