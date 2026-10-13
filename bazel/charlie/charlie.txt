@@ -7392,7 +7392,7 @@ consorted 1
 cryoprobe
 cephalopoda
 clodded
-convolvulinolic 1
+convolvulinolic 2
 crusher 1
 cephalopodous
 corporatist 1
@@ -20370,7 +20370,7 @@ comox 1
 cistae
 cuiejos
 compact
-coutures
+coutures 1
 compactability 1
 communisteries 1
 compactable
