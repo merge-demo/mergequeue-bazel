@@ -12483,7 +12483,7 @@ demesne 1
 dislimb 2
 disyllabized 2
 dumky 2
-discontinuations
+discontinuations 1
 disconform
 disillusionising
 disdeceive 1
