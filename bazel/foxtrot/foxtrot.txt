@@ -1522,7 +1522,7 @@ franklinite 3
 fattenable 1
 fauntleroy
 frankability
-flagellaria 4
+flagellaria 5
 freely 3
 faurd 2
 foreseat 1
@@ -3088,7 +3088,7 @@ foreclosing 3
 feroce 6
 fishtails 2
 flitter
-flakeboard 4
+flakeboard 5
 foreboot
 fillmass 2
 fibrinose 2
@@ -8159,7 +8159,7 @@ foreutter 4
 flavoursome 4
 fillercap
 fairishness
-fibulas
+fibulas 1
 fasthold 2
 fribbling 4
 fideicommissor 1
