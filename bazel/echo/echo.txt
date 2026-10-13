@@ -960,7 +960,7 @@ expulser
 embalming 2
 entailments 3
 emanator 2
-euchrone 1
+euchrone 2
 effronteries 3
 epencephalic
 erythroblastotic 1
@@ -7896,7 +7896,7 @@ expertizing 1
 extracurial 1
 edgingly 2
 emancipist 3
-enchantresses
+enchantresses 1
 elephancy 4
 extortionateness 1
 ecotones 1
