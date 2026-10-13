@@ -16326,7 +16326,7 @@ capacitation
 cliquedom
 cliqueier 3
 cretinize
-cliqueyness
+cliqueyness 1
 cytome 1
 cliques 4
 collocalia
@@ -19447,7 +19447,7 @@ compositous
 confederationist
 colostration 1
 colostrous
-colostrum 1
+colostrum 2
 colotomy
 colotomies 1
 cockroach
