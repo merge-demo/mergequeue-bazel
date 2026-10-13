@@ -232,7 +232,7 @@ earwigginess 3
 exsiccation 2
 emmetrope 4
 environs 5
-enhaulse 3
+enhaulse 4
 exceptively 1
 earwigs 1
 exulcerated 1
@@ -12754,7 +12754,7 @@ enterococcal
 epistomian 2
 enfetters 1
 emarginula 4
-electroindustrial 1
+electroindustrial 2
 endoplasm 1
 eidos
 euhemeristically
