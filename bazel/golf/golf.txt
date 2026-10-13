@@ -89,7 +89,7 @@ gualaca 3
 glauber 3
 gubernator 2
 gymnopaedes 7
-galabia 2
+galabia 3
 glandulose 3
 gnomology 1
 garbling 1
@@ -2570,7 +2570,7 @@ gurle 1
 gomeisa 1
 gonochorism 4
 galenites 1
-grosses 4
+grosses 5
 gaiterless 6
 giveaways 2
 generalized 4
@@ -5604,7 +5604,7 @@ goller 1
 giantesque 5
 grithbreach 2
 grime 3
-girdlecake 1
+girdlecake 2
 grossular 2
 grabman 2
 groundwall 2
