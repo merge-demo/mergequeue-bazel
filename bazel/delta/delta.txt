@@ -11870,7 +11870,7 @@ denying 3
 diadems 1
 diffusionist 1
 discussionist 2
-donatress
+donatress 1
 decurrence 4
 discussions 1
 dioptomiter
@@ -15507,7 +15507,7 @@ dogedoms 3
 doncella
 debut 3
 doncy 4
-dondaine 4
+dondaine 5
 desertedly 2
 done 1
 diaries 1
@@ -17118,7 +17118,7 @@ degenerative 1
 drifters
 driftpins 2
 depositary 3
-damara 1
+damara 2
 deacidified 2
 disconcertedly 2
 dislocated 2
