@@ -4383,7 +4383,7 @@ frogfishes 2
 fathomed 1
 fishability 1
 feltwork 1
-flybook 2
+flybook 3
 fixion 4
 fishboats 4
 fonduk
@@ -11091,7 +11091,7 @@ functors 1
 formational 2
 foulard 1
 functus 1
-furivae
+furivae 1
 fessewise 2
 frostwork 1
 flatter 3
