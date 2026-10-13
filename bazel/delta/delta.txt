@@ -3290,7 +3290,7 @@ deterging
 dragoons
 drostden 1
 defibrillatory 3
-dropax 1
+dropax 2
 dissatisfactory 2
 defier
 drogues
@@ -3501,7 +3501,7 @@ depressors 1
 deforces 2
 dimittis
 deforciant
-detention 2
+detention 3
 dislikers 4
 demasculinizing 1
 deforested 1
@@ -15196,7 +15196,7 @@ deeryards 1
 drawlier
 deathfulness 1
 dolefuls
-dotate 1
+dotate 2
 drunkly 2
 disimitate 1
 dolerophanite
