@@ -2668,7 +2668,7 @@ doorkeeper 1
 decompiler
 decomposable 1
 diceman 1
-deviceful
+deviceful 1
 decomposer 4
 debrief 2
 decomposers 2
