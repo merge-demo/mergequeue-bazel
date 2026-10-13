@@ -11627,7 +11627,7 @@ cholera
 counterround
 circumjacent
 choleras
-civilising
+civilising 1
 cervelases 1
 choleriform
 cholerigenous
