@@ -12814,7 +12814,7 @@ aeneolithic
 angioplasty 2
 androgyn
 asseize 2
-angiopressure
+angiopressure 1
 acquaintance
 angiorrhaphy
 angiorrhea 2
