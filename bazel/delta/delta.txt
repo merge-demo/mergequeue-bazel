@@ -1473,7 +1473,7 @@ doublehanded 1
 daze 1
 discerptibility 2
 disinherison 1
-dipropellant 1
+dipropellant 2
 deuteroplasm 2
 dories
 dispulp
@@ -3705,7 +3705,7 @@ dewlaps 1
 dehache 1
 dorsoepitrochlear
 dehypnotize
-dissonant 1
+dissonant 2
 disorganising 1
 desuetude 2
 defiantly
@@ -17623,7 +17623,7 @@ desmodium 1
 disillusionize 2
 disannulled 1
 dinners 1
-dsname 1
+dsname 2
 dsri 1
 defeminization 4
 dispossessory 3
