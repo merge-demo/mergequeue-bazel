@@ -716,7 +716,7 @@ berrendo 1
 badger 2
 breeches 4
 backyard 2
-bogwort
+bogwort 1
 badgerer 1
 blundersome
 booking 2
