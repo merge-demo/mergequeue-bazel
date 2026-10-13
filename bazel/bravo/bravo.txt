@@ -9302,7 +9302,7 @@ bayldonite 1
 bifolia 1
 bloviating 1
 beany
-bawdry 1
+bawdry 2
 baldricked 2
 buzuki 1
 birational 1
@@ -9503,7 +9503,7 @@ bacteria 1
 branchiostegite 3
 birthmark
 biographee 1
-banality
+banality 1
 besots 1
 birthnight 2
 birthplaces 1
