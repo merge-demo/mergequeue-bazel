@@ -6103,7 +6103,7 @@ flossiness 3
 ferrer 2
 frondeur 2
 fortnights 1
-fervidity 3
+fervidity 4
 freighter 1
 frettation
 filical
@@ -6658,7 +6658,7 @@ forenotice 1
 foemanship 2
 fripperer 2
 fecifork 3
-foemen 3
+foemen 4
 forethoughtfully 1
 fullered 3
 frankfold 3
