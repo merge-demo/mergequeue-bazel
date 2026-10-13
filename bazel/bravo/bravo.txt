@@ -1962,7 +1962,7 @@ byplace 2
 bulbous 4
 bombard 1
 ballocks 2
-basilicas
+basilicas 1
 bangkok
 bacteriogenous 1
 bangladesh 3
