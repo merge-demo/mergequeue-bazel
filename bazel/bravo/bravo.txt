@@ -2245,7 +2245,7 @@ bioecology 1
 birdclapper
 bannerwise 1
 bats 1
-blastment 2
+blastment 3
 barbarized 1
 beleaping 1
 bona
@@ -4409,7 +4409,7 @@ bathyseism 1
 beclaw 3
 besieged 2
 balm 1
-brandering 3
+brandering 4
 budapest 1
 balantidiosis 3
 barrators 1
@@ -16179,7 +16179,7 @@ bourgs 2
 bibliomanianism 2
 boeotic 2
 borrowing
-begnawed 3
+begnawed 4
 bramblier 3
 brachylogies
 brothering 3
