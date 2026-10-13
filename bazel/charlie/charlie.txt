@@ -22592,7 +22592,7 @@ connectors
 camellus
 connects
 catawampously
-camelopard
+camelopard 1
 criminogenic 1
 cuffed
 coaevals 4
