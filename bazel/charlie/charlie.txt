@@ -15408,7 +15408,7 @@ cabins 1
 claptraps 2
 clapwort
 culbuter 2
-claque
+claque 1
 candescently 3
 calipering 1
 canneries 3
