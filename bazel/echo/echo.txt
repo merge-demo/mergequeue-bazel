@@ -879,7 +879,7 @@ economically 2
 ectopy 1
 engulfed 1
 ectopistes 2
-ectoplasmatic 2
+ectoplasmatic 3
 expansibly 1
 endship
 euphonies 2
@@ -2159,7 +2159,7 @@ epoxy 1
 esophagostenosis 2
 eyestring 3
 ensorceling 2
-explicandum 5
+explicandum 6
 electropult 2
 elation 1
 euphonise 2
@@ -8367,7 +8367,7 @@ epityphlitis
 erythrosinophile 1
 effrenate 2
 evolutional 2
-estranged 2
+estranged 3
 expeding 1
 eastlins
 epicontinental
@@ -14032,7 +14032,7 @@ elocutionist
 esterase 2
 endopterygotous 4
 extratellurian 2
-extrait 2
+extrait 3
 electroergometer 1
 embiotocoid 2
 exch 1
