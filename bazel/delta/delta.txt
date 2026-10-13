@@ -7053,7 +7053,7 @@ dessertspoon
 distillage 1
 disenthroning
 duramen
-destinezite 2
+destinezite 3
 driveable 3
 dessous 1
 devall 1
@@ -12900,7 +12900,7 @@ disnaturalization
 deviator 1
 dermaptera 2
 disnew 2
-drachmae 1
+drachmae 2
 drawspan 1
 delving
 deorientalize 2

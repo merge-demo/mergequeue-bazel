@@ -790,7 +790,7 @@ gastrospasm 1
 guamuchil 3
 graf 1
 gimlet 2
-gambade 4
+gambade 5
 gravata
 garrotting 5
 gastroenteritic 3
@@ -1576,7 +1576,7 @@ ghegish 3
 gregarinoidea 6
 gluelikeness 3
 gout 3
-gassing 4
+gassing 5
 gismos 4
 gondoliere 2
 globicephala 4

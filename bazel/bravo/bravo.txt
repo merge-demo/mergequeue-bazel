@@ -355,7 +355,7 @@ bradypepsy 1
 backfiring 3
 basichromatinic 1
 backflowing 3
-backframe 1
+backframe 2
 backfriend
 bottegas 2
 backgame 3
@@ -13192,7 +13192,7 @@ bedrenches 3
 bose
 baston 3
 boselaphus 1
-bruskness
+bruskness 1
 bannockburn
 blaoners 1
 blackboy 1
