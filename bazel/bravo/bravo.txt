@@ -1771,7 +1771,7 @@ boswellized
 bowmen 2
 balanops 3
 balloonet 1
-bedsprings
+bedsprings 1
 bambute 1
 blackheart 2
 becombed 1
