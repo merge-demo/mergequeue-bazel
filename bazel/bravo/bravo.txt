@@ -4249,7 +4249,7 @@ beautiful 1
 blowball 1
 bellhanging
 beautihood 1
-berbamine 2
+berbamine 3
 blattariae
 barest 2
 burlers 3
@@ -7787,7 +7787,7 @@ breccia 1
 bluings
 bezzling 1
 biasedly 2
-bargemaster 3
+bargemaster 4
 biography 3
 blessedest
 ballasts
@@ -8195,7 +8195,7 @@ biff
 broadwayite 1
 bifilar
 bifilarly 4
-biflabellate
+biflabellate 1
 blowtorch 1
 biflagelate 1
 bewaring 1
@@ -12146,7 +12146,7 @@ bewormed
 biclavate 1
 barbarianism 1
 broche 2
-begrudgingly 2
+begrudgingly 3
 burdeners
 bedflower 1
 bolled 2
