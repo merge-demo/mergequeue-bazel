@@ -3082,7 +3082,7 @@ capa
 conferrable
 capability 1
 charks 2
-capable 1
+capable 2
 capableness 2
 clayoquot
 challengingly
