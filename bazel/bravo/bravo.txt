@@ -2194,7 +2194,7 @@ bemaddens 3
 bellicosely 3
 barato 1
 buxaceae
-bontebok
+bontebok 1
 baghla 1
 bodword 2
 blockade 1
@@ -17237,7 +17237,7 @@ borsch 2
 biltongs 1
 bulwarked 1
 blanketers 1
-basongo 2
+basongo 3
 bleachhouse
 bulwarking
 brey 2
