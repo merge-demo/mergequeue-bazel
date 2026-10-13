@@ -3769,7 +3769,7 @@ dioptometry 2
 doughlike 4
 dehorted 2
 defatigate 1
-dehorting 2
+dehorting 3
 digitoxin 3
 decompensation
 duckweed 1
@@ -5358,7 +5358,7 @@ decoyed 1
 daraf 1
 diaphoretic 4
 displaced 2
-dentical
+dentical 1
 denticle 1
 dentiferous 3
 dentification 2
@@ -15648,7 +15648,7 @@ desensitizer 1
 downheartedly 5
 dennis 1
 departmentalise
-detacher 2
+detacher 3
 doorward
 doorweed 1
 doover 2
