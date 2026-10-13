@@ -992,7 +992,7 @@ confiscating 3
 cuirie
 calamining 1
 calamint
-cableway
+cableway 1
 cheesed
 cordyl 2
 celiomyodynia
@@ -31930,7 +31930,7 @@ christcross 1
 cyanospiza 1
 caricographer
 czarina
-capturers 1
+capturers 2
 creaturely 2
 churchlike 4
 clitella
