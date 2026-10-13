@@ -454,7 +454,7 @@ formulise 1
 frouze 3
 formulistic 2
 fulminating
-fluctisonous 3
+fluctisonous 4
 ferk 2
 faithlessness 2
 fringeless 5
@@ -6364,7 +6364,7 @@ fullterm 2
 fluoran 1
 fennish 2
 fluorane 4
-francois 2
+francois 3
 florentium 2
 fishtailing 1
 fluorboric
@@ -8360,7 +8360,7 @@ faradmeter 5
 forgot 1
 frontenis 1
 fightable 2
-forking
+forking 1
 flaveria 2
 forkless 3
 freedoms 4
