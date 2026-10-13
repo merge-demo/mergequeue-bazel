@@ -5052,7 +5052,7 @@ gaedown 1
 glycogen 1
 gerefa 6
 gastrohypertonic
-grizzlers 4
+grizzlers 5
 gandering 1
 gisarmes 3
 gassy 1
@@ -6344,7 +6344,7 @@ graptoloidea 2
 goatsucker 1
 graplines 3
 gamic 1
-greentail 2
+greentail 3
 gastrectasis 1
 gonake 2
 gradating 2
@@ -7177,7 +7177,7 @@ galvayne 3
 grabbers 1
 geobotanical 2
 graphitoid 1
-gnawable 3
+gnawable 4
 gloryful 2
 generalship 1
 gospoda 4
