@@ -9422,7 +9422,7 @@ flamines 3
 fliers
 foodstuff 3
 foreteeth 2
-frary 1
+frary 2
 flouriness 1
 frolicly 1
 forlore
@@ -10417,7 +10417,7 @@ fallowing 4
 fronter 3
 frontoauricular 1
 frontomallar 2
-frontomental 2
+frontomental 3
 fidibus 4
 folks 4
 foraminifera 2
