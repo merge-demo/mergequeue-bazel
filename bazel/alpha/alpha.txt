@@ -517,7 +517,7 @@ assonantal
 acidities
 absterge 1
 agomphiasis 2
-abjurations 2
+abjurations 3
 acecaffin 2
 axolemma 2
 abjurement
@@ -6920,7 +6920,7 @@ airspeeds 1
 az 1
 adrent 1
 airt
-actionability
+actionability 1
 aphanozygous
 adibasi 1
 ablepharia 1
