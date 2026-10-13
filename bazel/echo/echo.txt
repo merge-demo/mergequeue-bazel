@@ -77,7 +77,7 @@ earmarkings
 equitation 1
 earmuff 2
 earnable 1
-essayer 2
+essayer 3
 ecclesiology
 earnest 1
 extendable 1
@@ -767,7 +767,7 @@ equilibrist 1
 easternizing 3
 ecoute 1
 exscinding 2
-ecphonema 1
+ecphonema 2
 emotes 2
 echinal 4
 euomphalid
@@ -6124,7 +6124,7 @@ epithalamiast 4
 entremets 3
 enlive 3
 execeptional 2
-emboly 2
+emboly 3
 exceed 1
 exossate 3
 explida
