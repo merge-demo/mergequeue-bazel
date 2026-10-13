@@ -1321,7 +1321,7 @@ foramination 1
 falser 3
 fyttes 1
 famose 6
-flyable 1
+flyable 2
 factionally 1
 frantically 5
 fluxible 1
@@ -6698,7 +6698,7 @@ formicariae 3
 foofaraws
 furrier
 freshwater 2
-flaughtbred 3
+flaughtbred 4
 frequent
 finableness 4
 forecontrive 2
