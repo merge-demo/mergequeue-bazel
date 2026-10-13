@@ -11636,7 +11636,7 @@ cholerine 1
 choleroid
 cholerophobia 1
 camphylene
-cyanamids 2
+cyanamids 3
 cholesteatoma
 concorrezanes 1
 cholesteatomatous
@@ -18244,7 +18244,7 @@ chemicovital
 coffeehouse 1
 coffeehouses 2
 coffeeman
-classico
+classico 1
 coffeepots 2
 colloidize
 coffeeroom

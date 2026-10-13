@@ -9732,7 +9732,7 @@ apocalypticism
 anapestically
 apterygotous 1
 ayen 1
-apiology
+apiology 1
 arcked
 argentina
 amabel 2
@@ -13536,7 +13536,7 @@ albuminization 2
 annotator
 alasas 1
 annotators 1
-arrendator 1
+arrendator 2
 assonant 1
 anacardiaceae
 atwain
@@ -21831,7 +21831,7 @@ auricula
 assiette
 assify 2
 alpen
-assign 2
+assign 3
 absorbedness 2
 assignability 1
 astrodynamics
