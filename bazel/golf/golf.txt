@@ -4887,7 +4887,7 @@ goyim 4
 girderage 3
 gladier 1
 guaranteeing 3
-gleam 2
+gleam 3
 glozes 2
 gyrotheca 3
 gimme 5
@@ -8478,7 +8478,7 @@ geotaxis 2
 gelada 1
 glossingly 1
 gov 3
-ginglymoarthrodial 5
+ginglymoarthrodial 6
 gleyde 4
 gilders 3
 grivets 1
@@ -8842,7 +8842,7 @@ gooses 1
 girrit 1
 gastral 2
 grandparenthood 2
-gardenlike
+gardenlike 1
 girsle 1
 guanay 1
 gablelike 2
