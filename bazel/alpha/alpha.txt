@@ -18626,7 +18626,7 @@ adding 2
 adiathermal 1
 artemisic 5
 adoral
-archaeologic
+archaeologic 1
 archaeological 2
 anilinophile 1
 abyssa 2
