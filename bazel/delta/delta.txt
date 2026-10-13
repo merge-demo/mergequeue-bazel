@@ -16686,7 +16686,7 @@ disturbers 4
 diablo 4
 drakelet 2
 decaspermous 2
-drugging 1
+drugging 2
 dramatically 3
 dowelled 2
 deperdition 1
@@ -17698,7 +17698,7 @@ declamando
 demidevil 3
 dilemmic 1
 dullhearted 3
-dynamometer
+dynamometer 1
 dotal 1
 dwarves 2
 deuteroelastose 1

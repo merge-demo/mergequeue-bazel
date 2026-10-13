@@ -4132,7 +4132,7 @@ foreseen 3
 falsehoods 1
 fornenst 2
 faff 3
-fontanel 1
+fontanel 2
 flywheel 5
 fersmite 2
 fratriage 1
@@ -9370,7 +9370,7 @@ frankfurters 1
 fivers 2
 frayne 2
 frankish
-functionary 1
+functionary 2
 fummle 3
 fastenings 5
 fowk 2
