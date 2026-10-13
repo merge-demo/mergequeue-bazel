@@ -9668,7 +9668,7 @@ flipflop
 foretoken 4
 faldstool 1
 fringe 2
-fouquieria
+fouquieria 1
 foldouts 1
 fourfiusher 3
 frigga 1
