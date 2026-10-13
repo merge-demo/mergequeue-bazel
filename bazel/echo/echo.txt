@@ -8858,7 +8858,7 @@ eremuri 1
 ethnoflora 4
 enerve 3
 escharoid 1
-englue 3
+englue 4
 euorthoptera
 exiler 3
 epilegomenon 1
@@ -11995,7 +11995,7 @@ embryonally 3
 excellently 3
 excitons 1
 embosses 1
-excitosecretory
+excitosecretory 1
 excitovascular 1
 enamouring 2
 exclaiming
