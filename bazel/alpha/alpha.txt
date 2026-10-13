@@ -15318,7 +15318,7 @@ antihierarchy 2
 akimbo
 aidless
 arroba
-antihierarchism
+antihierarchism 1
 aitis
 assignations 1
 amortise 1
