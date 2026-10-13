@@ -384,7 +384,7 @@ ferrymen
 fearer 2
 filicauline 3
 forbid 1
-fairfieldite 1
+fairfieldite 2
 facets 1
 faceoff 4
 fancifully 5
@@ -9226,7 +9226,7 @@ fishbed 3
 foraneous 3
 facts 4
 frayedness 1
-fabulize 2
+fabulize 3
 fidging 2
 flagmaking 5
 flashier 9
@@ -10068,7 +10068,7 @@ flammability 5
 fellowed 1
 friskin 4
 friskiness 2
-frisking 5
+frisking 6
 frisch 2
 friskingly 3
 frisks 3
@@ -11063,7 +11063,7 @@ funambuloes 1
 filled 1
 fixups
 functionated 2
-fogbow 3
+fogbow 4
 fructed 4
 frowner 2
 frameae 2
