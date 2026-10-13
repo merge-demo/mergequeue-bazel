@@ -9069,7 +9069,7 @@ extravascular 3
 erythrocytoschisis 2
 epenthesis
 editorialist
-erythrocytosis
+erythrocytosis 1
 embryogony 1
 ectasia 1
 epistropheus 1
