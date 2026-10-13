@@ -5075,7 +5075,7 @@ grapplers 5
 gloxinia 6
 glasshouses 4
 gateaux 2
-gasts 1
+gasts 2
 glued
 gnarr 2
 griecep 1
@@ -6981,7 +6981,7 @@ gastroepiploic 3
 geswarp 1
 generalism 3
 goof 3
-goofah 2
+goofah 3
 guaniferous 1
 greystone 2
 gebanga 3
