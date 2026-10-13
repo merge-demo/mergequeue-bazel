@@ -26480,7 +26480,7 @@ cotset
 crub 1
 cotsetland 3
 cotswold
-calctuff
+calctuff 1
 curn
 cottae 1
 cubature
