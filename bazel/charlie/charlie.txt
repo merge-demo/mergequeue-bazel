@@ -25979,7 +25979,7 @@ couthie 1
 colonization
 corviser
 corvo
-chamade
+chamade 1
 corvoid 1
 corvorant 1
 cantiga
