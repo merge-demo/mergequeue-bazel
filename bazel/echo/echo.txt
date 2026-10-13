@@ -1172,7 +1172,7 @@ expectancies
 edriophthalmatous
 extramental 2
 educand 3
-emulsive 3
+emulsive 4
 evanished
 educatability 1
 eident 1
@@ -13955,7 +13955,7 @@ extraparliamentary 1
 ectotrophic
 expressless 2
 epimer 2
-endokaryogamy 1
+endokaryogamy 2
 enface 3
 electropoion 1
 escheatage
