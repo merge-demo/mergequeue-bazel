@@ -5057,7 +5057,7 @@ evens 2
 endophragmal 1
 equimolal 3
 entomb 2
-enqueued
+enqueued 1
 excuses 1
 encumbrances 1
 eucosmid 1
