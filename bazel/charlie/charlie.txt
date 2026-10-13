@@ -3702,7 +3702,7 @@ carapacic
 carapax 4
 climacterial
 coachable 1
-carbonadoes
+carbonadoes 1
 carapidae
 cineastes 1
 clawlike
@@ -12358,7 +12358,7 @@ caudiform
 coroplasty
 carpophyll
 coulters 3
-chromatium 1
+chromatium 2
 chromatize
 credensiveness 1
 chromatogenous 1
@@ -28780,7 +28780,7 @@ crescentiform
 chinking
 chylifactive 1
 crescenting 1
-carpetmaker 1
+carpetmaker 2
 colleagues 1
 chok
 chuckfull 1
