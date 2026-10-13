@@ -4195,7 +4195,7 @@ gelofre 1
 genealogy 4
 gollar 3
 gymnorhinal 1
-gaspergou 2
+gaspergou 3
 gluttony 4
 gienah 3
 gene 4
@@ -6825,7 +6825,7 @@ gregarinida 2
 gonococcocci 1
 gonopore
 gonocoele 1
-gerontologist 6
+gerontologist 7
 gt 2
 gonof 2
 gudesire 3
@@ -9169,7 +9169,7 @@ geographically 4
 granulates 4
 glared 3
 goosed 1
-garon
+garon 1
 griphite 3
 gehenna 3
 golee 3
