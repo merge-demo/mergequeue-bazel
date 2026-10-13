@@ -2407,7 +2407,7 @@ chinois 1
 corynite 3
 cremnophobia
 cancellations
-charitableness 2
+charitableness 3
 chutzpadik 1
 cunctation 1
 coruminacan
@@ -12721,7 +12721,7 @@ chuffer
 countercraft 1
 cauliflowers
 chugalug 1
-chugalugged 1
+chugalugged 2
 candidas
 chauvinists 1
 cholecystoileostomy
@@ -13407,7 +13407,7 @@ cicutoxin
 calyptrogen 1
 cidaris
 cheatrie
-carbolating
+carbolating 1
 cymols
 cassida 1
 cleared
@@ -16412,7 +16412,7 @@ cloacae
 cryptanalyzed 1
 cloacaline 1
 cents 2
-connellite 1
+connellite 2
 cholonan 2
 cowage 1
 copart

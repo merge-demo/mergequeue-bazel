@@ -2427,7 +2427,7 @@ gummose 1
 gratification 3
 guardship 4
 gemmological 2
-gemmologist 4
+gemmologist 5
 goalkeeping 3
 grocers 3
 gulper 2
@@ -8760,7 +8760,7 @@ gallate 2
 griming 1
 gonapod 6
 galactagoguic 3
-gawkers
+gawkers 1
 gudefather
 glaumrie 3
 gregarianism 1

@@ -499,7 +499,7 @@ amornings 1
 auriculoventricular
 abjectly 1
 aquavalent 1
-atlantean 2
+atlantean 3
 abjudged 1
 agelacrinitidae 1
 abjudicate
@@ -1705,7 +1705,7 @@ alcyoniform
 accuracies 1
 ada 1
 accursed
-amerikani
+amerikani 1
 accursedness 1
 aborter 1
 accurst 1
@@ -2078,7 +2078,7 @@ aches
 achesoun
 acheulean 3
 accustoms 1
-acumens 1
+acumens 2
 achy 2
 absconds
 airtime 2
