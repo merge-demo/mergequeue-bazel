@@ -11322,7 +11322,7 @@ blub 1
 blickey 2
 blubbed 2
 bootlicker 1
-bursting
+bursting 1
 bhar 2
 breathed 1
 bluntest
