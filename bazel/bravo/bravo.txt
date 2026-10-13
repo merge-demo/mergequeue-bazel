@@ -16655,7 +16655,7 @@ baronies 2
 bucharest 1
 buchloe 1
 bunkoing
-burros
+burros 1
 bloomy
 balconette 1
 buchonite 4
