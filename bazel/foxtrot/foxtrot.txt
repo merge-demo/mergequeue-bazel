@@ -4791,7 +4791,7 @@ flagfishes
 fubsy 2
 forbiddenness
 figurately 3
-fasciculus 4
+fasciculus 5
 fissurellidae 3
 feuillants 2
 fortunetelling 3
@@ -7748,7 +7748,7 @@ fauvist 1
 facer 2
 fanfaronade 1
 flower 2
-flanes 2
+flanes 3
 firearms 3
 foremast 2
 fritters 4
@@ -10186,7 +10186,7 @@ ferryage
 famines 1
 fending
 foggages
-frazing 2
+frazing 3
 faros 1
 flaskful 1
 frog 1
