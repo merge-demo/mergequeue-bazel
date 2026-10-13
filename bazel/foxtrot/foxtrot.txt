@@ -5712,7 +5712,7 @@ flyproof 4
 flush 2
 flavins
 flirt 2
-fixatif 3
+fixatif 4
 footed 2
 flirtatiously 4
 flosculariidae 2
@@ -10315,7 +10315,7 @@ fraenula
 floodlighted 1
 foredoing 2
 fluoridized 4
-faceman 3
+faceman 4
 fortiori 3
 flexible 3
 frondless 4

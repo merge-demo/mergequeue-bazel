@@ -28795,7 +28795,7 @@ cantino 2
 cresegol
 cargo 1
 cresyl
-cresylate
+cresylate 1
 cresylic 2
 cresyls
 cresive
