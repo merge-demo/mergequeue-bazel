@@ -9732,7 +9732,7 @@ apocalypticism
 anapestically
 apterygotous 1
 ayen 1
-apiology
+apiology 1
 arcked
 argentina
 amabel 2
@@ -10893,7 +10893,7 @@ ammonolyzing
 athwarthawse
 ammos
 ammotherapy
-ammu
+ammu 1
 amnesia 2
 amnestied 1
 aimer 2
@@ -15318,7 +15318,7 @@ antihierarchy 2
 akimbo
 aidless
 arroba
-antihierarchism
+antihierarchism 1
 aitis
 assignations 1
 amortise 1
@@ -23387,7 +23387,7 @@ alkoran 1
 alulet 2
 ametabolous
 aigrets
-adventurist 1
+adventurist 2
 audiencia
 aerobacters
 adient 1
