@@ -42,7 +42,7 @@ flick 2
 fervently 1
 finically 3
 fabricators 2
-fabricature 4
+fabricature 5
 figurette 2
 flatuosity 2
 fabroniaceae 2
@@ -668,7 +668,7 @@ feijoa 2
 fishwood 3
 finenesses 1
 fornicatrices 2
-familiarization 5
+familiarization 6
 fresser 1
 fiancing 3
 flitwite 1
@@ -6107,7 +6107,7 @@ fervidity 3
 freighter 1
 frettation
 filical
-folksinging
+folksinging 1
 fundmongering 1
 freebies 2
 firestone 2

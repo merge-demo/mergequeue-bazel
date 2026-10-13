@@ -2915,7 +2915,7 @@ armamentary 1
 advisive
 aerobatics 1
 albugineous 2
-acrostical
+acrostical 1
 acrostichoid 1
 acrostichum
 adoptianism
@@ -15340,7 +15340,7 @@ autodecrements 1
 antispermotoxin 4
 amphicyon 3
 antihistaminic 2
-angiospermatous 2
+angiospermatous 3
 antidogmatism
 antipragmaticism 1
 attorning
