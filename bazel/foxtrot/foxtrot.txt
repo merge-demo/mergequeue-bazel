@@ -1037,7 +1037,7 @@ farmeress 1
 fireling 2
 flerrying
 farmerly 2
-forrel 4
+forrel 5
 ferash 1
 fletcherize 2
 folates 2
@@ -1377,7 +1377,7 @@ fishboat 4
 fatly 1
 floscularia
 februation 1
-formularistic 6
+formularistic 7
 foldy 4
 fancical 3
 flecnodal 2
@@ -7053,7 +7053,7 @@ floater 3
 fimbriae
 functioning 2
 foodful 3
-fulfilled 2
+fulfilled 3
 fribby
 fatalities
 foreknow 1
@@ -10012,7 +10012,7 @@ flavoury 2
 flor 6
 fryer 4
 foollike 2
-flans 3
+flans 4
 fringehead 1
 fringelet 6
 fruitier 1
