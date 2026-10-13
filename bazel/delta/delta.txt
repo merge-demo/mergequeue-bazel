@@ -9698,7 +9698,7 @@ dilactic 2
 dilactone 1
 dilamination
 dilaniate 2
-doubled
+doubled 1
 derelinquish 2
 disconcord 1
 disembroilment 2
@@ -13175,7 +13175,7 @@ diuturnal 1
 disgruntles 2
 displaceability
 disleave 1
-dilly 1
+dilly 2
 display
 displayable 2
 dumaist 2
@@ -15128,7 +15128,7 @@ dogtie 4
 degenerated
 dogtooth 3
 diabetogenous
-delegare 2
+delegare 3
 demographist 6
 dyaus 1
 doddering
@@ -17433,7 +17433,7 @@ dilatorily 3
 disserts 1
 diazoimido 2
 drostdy 1
-diabaterial 2
+diabaterial 3
 dishmop
 droughts 1
 dominium 2
