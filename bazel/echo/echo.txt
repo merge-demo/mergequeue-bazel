@@ -6161,7 +6161,7 @@ enmeshment 3
 enrols
 enmity 4
 eparchean 1
-entracte 2
+entracte 3
 embattles 1
 ethicizes 1
 enmove 3
@@ -6896,7 +6896,7 @@ estruses 2
 extremism 3
 epaulets 2
 evitable
-entomosporium 2
+entomosporium 3
 ethically 3
 ellipsoidal 4
 endangered
