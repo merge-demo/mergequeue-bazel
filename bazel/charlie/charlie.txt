@@ -19061,7 +19061,7 @@ crises 1
 callable
 camb
 colliflower 1
-cruset
+cruset 1
 colligate 1
 colligating
 cookbook
