@@ -2692,7 +2692,7 @@ fawner 2
 frizziness 2
 fervence 1
 fortnightlies 3
-futilize 3
+futilize 4
 ferventness 2
 frighteningness 1
 floodwall
@@ -8563,7 +8563,7 @@ formby 1
 foeture 5
 fumaric 1
 frightment 3
-fanfarons 7
+fanfarons 8
 frownful 1
 fornaxid 1
 foraminule 5
