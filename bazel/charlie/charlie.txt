@@ -9720,7 +9720,7 @@ cankeredly 1
 cimex
 chromotype 1
 cheiranthus 2
-cheirogaleus 1
+cheirogaleus 2
 cheirography 3
 cheirolin
 cymbal 1
@@ -17390,7 +17390,7 @@ coattestator 2
 coattested 2
 coattesting 1
 coaudience
-collegiugia
+collegiugia 1
 cancelled 1
 cobitidae
 crinum 2
