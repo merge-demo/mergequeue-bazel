@@ -8078,7 +8078,7 @@ chiles
 cagayan 1
 capitulum 1
 chaferies
-chafers 1
+chafers 2
 caranx
 chafes
 chafewax 1
@@ -28498,7 +28498,7 @@ caecectomy
 creatureling 1
 creatures 2
 carapo 2
-creatureship
+creatureship 1
 conversibility
 creaturize
 churchanity
