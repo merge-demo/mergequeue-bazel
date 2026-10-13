@@ -4620,7 +4620,7 @@ canescene 1
 chronisotherm
 cangenet 1
 caryotin 1
-cutleria 2
+cutleria 3
 chuprassie 1
 caroline 1
 carolines
@@ -7921,7 +7921,7 @@ cete
 cetera 1
 ceterach
 ceti 1
-cetic
+cetic 1
 cocytus
 chitinization
 cetyl
@@ -23509,7 +23509,7 @@ consolidator
 cric 1
 contestee 1
 chace
-contestingly 1
+contestingly 2
 contestless
 contests 2
 cirratulus 2

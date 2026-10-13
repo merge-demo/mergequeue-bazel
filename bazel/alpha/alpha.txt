@@ -661,7 +661,7 @@ affably 1
 attrist
 abominators 2
 abomine 1
-abondance 1
+abondance 2
 alluvials
 aimara 3
 apostrophation 1
@@ -2405,7 +2405,7 @@ artistdom
 acipenseroidei
 archpapist 1
 asmile 1
-adfix
+adfix 1
 anthrapyridine 1
 antilipase 4
 aphrite 1
@@ -24127,7 +24127,7 @@ acanthi 2
 autogyros 1
 adcon 1
 andiron 1
-autognostic 2
+autognostic 3
 articulus
 acanthocarpous
 anticapitalistic
@@ -25224,7 +25224,7 @@ antiliturgical
 ascogonidium 2
 azadrachta 2
 azafran 2
-angiocyst 3
+angiocyst 4
 acast
 alibangbang 2
 aucht 1
