@@ -17115,7 +17115,7 @@ drepanium 1
 divulging
 disclose
 degenerative 1
-drifters
+drifters 1
 driftpins 2
 depositary 3
 damara 2
