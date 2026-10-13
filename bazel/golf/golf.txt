@@ -6081,7 +6081,7 @@ grinding 2
 gnathostomata 2
 gastrocnemial 3
 gypsography 3
-gph 2
+gph 3
 gnats 4
 glutaeous 1
 gorbit 3
@@ -6966,7 +6966,7 @@ gilgie 2
 gelatinize 4
 galoshed 5
 gorgonise 1
-gigglers 4
+gigglers 5
 granjeno 2
 grinds 2
 glyconeogenesis 1
@@ -8220,7 +8220,7 @@ gasconading 5
 genevois 1
 graphemics 2
 graphically 3
-glutamates 4
+glutamates 5
 glorioso
 graphiological 2
 gemotes 1
