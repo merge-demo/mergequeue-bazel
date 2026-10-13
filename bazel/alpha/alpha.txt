@@ -7746,7 +7746,7 @@ ape
 alectoromorphous 1
 aldermanate 2
 aldermancy
-aldermaness 2
+aldermaness 3
 archisphere 1
 aldermanical 2
 assistency
@@ -12352,7 +12352,7 @@ andian 4
 automatable
 andine 1
 angakut 4
-anding 3
+anding 4
 angiosarcoma 2
 alternateness
 apophysial 1
