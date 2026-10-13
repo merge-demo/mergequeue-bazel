@@ -2524,7 +2524,7 @@ gamogeny 2
 graven 3
 glomeroporphyritic
 gumshield 2
-gradatim 2
+gradatim 3
 gastroenterocolitis 2
 gladite 2
 guttifer 2
@@ -6784,7 +6784,7 @@ gratias 2
 gobbe 1
 gud 2
 glossospasm 2
-gaffsail 2
+gaffsail 3
 galiot 3
 gavyuti 1
 ganglioside 1
