@@ -934,7 +934,7 @@ gelototherapy 4
 gammarine 3
 gingeli 1
 gammerel 1
-graeculus 5
+graeculus 6
 gammerstang 7
 gastropneumatic 2
 gannets 7
@@ -3918,7 +3918,7 @@ galeoid 1
 gravidae 3
 goral
 glossem 1
-geminated 1
+geminated 2
 gnostic
 glens
 glossocarcinoma 2
@@ -4449,7 +4449,7 @@ globigerinidae 2
 gynura
 goyazite 2
 gadsman
-glucuronide 2
+glucuronide 3
 gobby 2
 giobertite 4
 grazierdom 3
@@ -5111,7 +5111,7 @@ guernseyed 2
 glareproof 3
 griskin 2
 grainsmen 1
-grenadine 2
+grenadine 3
 goldeneye
 greesagh 3
 gte 5
