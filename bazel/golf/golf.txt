@@ -1580,7 +1580,7 @@ gassing 4
 gismos 4
 gondoliere 2
 globicephala 4
-gymnura 3
+gymnura 4
 gauntlet 1
 gutteral 2
 gulanganes 2
@@ -2385,7 +2385,7 @@ greenboard 1
 ganisters 1
 gedds 1
 grampa 3
-granddaughterly 1
+granddaughterly 2
 gongoristic 3
 gentianal 5
 gilver 1
