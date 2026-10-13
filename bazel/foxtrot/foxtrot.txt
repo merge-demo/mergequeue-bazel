@@ -45,7 +45,7 @@ fabricators 2
 fabricature 4
 figurette 2
 flatuosity 2
-fabroniaceae 1
+fabroniaceae 2
 fruited 1
 finds 1
 foolhardihood 4
@@ -1460,7 +1460,7 @@ fistulose 1
 featly 1
 faulds
 faultfind 1
-fasciculite 4
+fasciculite 5
 flittern
 flix
 felicitators 5
