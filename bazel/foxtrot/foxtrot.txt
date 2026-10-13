@@ -6646,7 +6646,7 @@ frontes 2
 flees 1
 flintily 3
 formaldehydesulphoxylate
-footpath 3
+footpath 4
 fillip 3
 forevouched 1
 foehnlike 3
