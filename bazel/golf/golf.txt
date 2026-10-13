@@ -640,7 +640,7 @@ gallon
 gonapophysis 1
 gush 2
 gonangial 1
-gabionage 3
+gabionage 4
 guruships 1
 gerodontia 3
 gasometry 4
@@ -8840,7 +8840,7 @@ greegrees 1
 geoprumnon 3
 gooses 1
 girrit 1
-gastral 1
+gastral 2
 grandparenthood 2
 gardenlike
 girsle 1
