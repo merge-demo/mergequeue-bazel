@@ -218,7 +218,7 @@ greys 1
 gooks 3
 girdling 1
 gags 3
-gonoecium 2
+gonoecium 3
 guarder 1
 greatens 5
 gradefinder 5
@@ -8546,7 +8546,7 @@ generates 2
 geranomorph 1
 geodetical 3
 gusla 3
-gilo 3
+gilo 4
 germaneness 1
 gasolene 2
 gemuti 2
@@ -9796,7 +9796,7 @@ galeate 3
 guebre 2
 grutch 1
 galeche 1
-gumfield 1
+gumfield 2
 gitano 2
 glycidic 1
 grylle 2
