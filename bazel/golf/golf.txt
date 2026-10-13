@@ -1642,7 +1642,7 @@ grants 2
 gamobium 4
 glossophytia 1
 gastroxynsis 2
-gourdy 1
+gourdy 2
 gunnera 4
 geom
 greetingly 2
@@ -7953,7 +7953,7 @@ guesdist 3
 gymnospermy
 glumness 1
 getmjlkost 3
-gametogonium
+gametogonium 1
 glimmerite
 gregaloid 2
 gyniolatry 3
@@ -8348,7 +8348,7 @@ geophytic 1
 gnatter
 gnarling 4
 genitalia 1
-greeniest
+greeniest 1
 grins 6
 glittery 3
 genioglossi 5
