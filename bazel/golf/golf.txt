@@ -934,7 +934,7 @@ gelototherapy 4
 gammarine 3
 gingeli 1
 gammerel 1
-graeculus 5
+graeculus 6
 gammerstang 7
 gastropneumatic 2
 gannets 7
@@ -3918,7 +3918,7 @@ galeoid 1
 gravidae 3
 goral
 glossem 1
-geminated 1
+geminated 2
 gnostic
 glens
 glossocarcinoma 2
@@ -4449,7 +4449,7 @@ globigerinidae 2
 gynura
 goyazite 2
 gadsman
-glucuronide 2
+glucuronide 3
 gobby 2
 giobertite 4
 grazierdom 3
@@ -5044,7 +5044,7 @@ gilliflirt 5
 gamekeepers
 glariness 2
 gregarinae 1
-gatch 2
+gatch 3
 grutched 2
 gelechia 2
 guards 2
@@ -5111,7 +5111,7 @@ guernseyed 2
 glareproof 3
 griskin 2
 grainsmen 1
-grenadine 2
+grenadine 3
 goldeneye
 greesagh 3
 gte 5
@@ -5595,7 +5595,7 @@ gownlet 1
 glottogonist 3
 gervais 1
 gurges 4
-garuda
+garuda 1
 ginks 2
 gipsyry
 gravestone
@@ -6721,7 +6721,7 @@ gonid
 gabeler
 gluttonies 3
 gynaecologic 4
-glycolyl 3
+glycolyl 4
 glimed 4
 geer 3
 gride 5
@@ -8002,7 +8002,7 @@ gomarist 3
 gunnies 3
 gorsechat 3
 grabbots
-gratitude 2
+gratitude 3
 geste 2
 gemse
 ghosthood 3
