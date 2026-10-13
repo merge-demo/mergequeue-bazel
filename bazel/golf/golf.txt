@@ -7177,7 +7177,7 @@ galvayne 3
 grabbers 1
 geobotanical 2
 graphitoid 1
-gnawable 3
+gnawable 4
 gloryful 2
 generalship 1
 gospoda 4
