@@ -30937,7 +30937,7 @@ cystoids
 coigns 1
 crotched 2
 culturize
-cleanliness
+cleanliness 1
 culturological 1
 culturologically 1
 cavaliero
