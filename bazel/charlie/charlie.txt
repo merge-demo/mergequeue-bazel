@@ -7640,7 +7640,7 @@ cerements 2
 cucuyo
 coiffing 1
 curettes
-concessionist 1
+concessionist 2
 centralizer
 confinements
 ceremony 1
@@ -15173,7 +15173,7 @@ commendably
 claimant
 cezannesque 2
 claimants
-claimed
+claimed 1
 congeals
 claimer 1
 consumables 2

@@ -4218,7 +4218,7 @@ electroetching 3
 exocardiac
 enghle 2
 emeutes
-egoize 1
+egoize 2
 enwound 2
 extratheistic 1
 emptiers 2
@@ -8467,7 +8467,7 @@ epizootic 1
 epoxyed 2
 epoxies 3
 employed 2
-evangelistaries 2
+evangelistaries 3
 easterlies 2
 eprise
 epimorpha 1
