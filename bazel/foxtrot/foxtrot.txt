@@ -815,7 +815,7 @@ fenny 2
 frogeyes 2
 formfitting 2
 fixatives 2
-fluctuations 2
+fluctuations 3
 fanjet 2
 fastened 6
 flemings 2
@@ -1314,7 +1314,7 @@ flirtation 2
 fluoridised 1
 flookan 2
 flout 2
-fallowness 3
+fallowness 4
 frictionally 1
 fineleaf 3
 foramination 1
@@ -2824,7 +2824,7 @@ faveolate 2
 facie 2
 ficus 2
 fluidly 1
-floorman
+floorman 1
 fishhouse 2
 ferrozirconium 5
 floodlights 2
@@ -7575,7 +7575,7 @@ fanal 3
 felicitous 3
 folliful 2
 flubs 7
-fogram 1
+fogram 2
 flambeaus 2
 filtrate 3
 felicities 2
@@ -10612,7 +10612,7 @@ forseen 1
 fractile 1
 ferity
 franc
-forswearing 3
+forswearing 4
 flumped 1
 forwaste 2
 fleeting 2
