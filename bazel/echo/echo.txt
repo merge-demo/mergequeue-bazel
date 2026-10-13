@@ -9043,7 +9043,7 @@ equiglacial 2
 episcenium
 empyreans 2
 eperotesis
-epibranchial
+epibranchial 1
 ectocyst 4
 erythrocytoblast 3
 explanate 2
