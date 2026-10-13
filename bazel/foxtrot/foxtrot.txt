@@ -9972,7 +9972,7 @@ foun 3
 futureless
 fed 1
 feracity 2
-firelike
+firelike 1
 frigotherapy 4
 facial 3
 fibrosities 3
