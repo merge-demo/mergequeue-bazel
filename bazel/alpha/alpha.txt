@@ -12923,7 +12923,7 @@ arbitral
 assertoric
 ascitb
 angouleme
-armored
+armored 1
 arcidae 1
 angraecum
 angriness
