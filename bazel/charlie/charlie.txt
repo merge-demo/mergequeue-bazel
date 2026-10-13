@@ -14792,7 +14792,7 @@ cytocyst 2
 cytoclasis 1
 caluptra 1
 cytoclastic
-crioboly
+crioboly 1
 cytococci
 choroidal 1
 cytoderm
