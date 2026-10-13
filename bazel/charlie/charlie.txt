@@ -11033,7 +11033,7 @@ crimean
 chirurgeonly 3
 chirurgery
 chis 1
-chiseled 1
+chiseled 2
 curuba
 chiseler
 cheapens 2
