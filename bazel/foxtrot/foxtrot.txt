@@ -5156,7 +5156,7 @@ flywheels 2
 fjords
 flatman
 foreseeingly 2
-formnail 5
+formnail 6
 filtering 2
 frotteur 3
 frankfurter 4
@@ -5192,7 +5192,7 @@ frozenhearted 6
 fruiters 3
 fedifragous
 furmente 4
-frontozygomatic 4
+frontozygomatic 5
 furial 1
 furfurous 4
 flaubert 1
@@ -5448,7 +5448,7 @@ figurativeness 1
 formulator 1
 famished 1
 foresummer 2
-feridjee
+feridjee 1
 furfuration 4
 fanatic 1
 fretsome 3
