@@ -23808,7 +23808,7 @@ chaui
 contravindication 1
 circumvascular 1
 contrawise 1
-contrecoup 1
+contrecoup 2
 contredanse
 contredanses 1
 contreface 2
@@ -29914,7 +29914,7 @@ crosshatching
 crosshaul
 crosshauling 1
 chipper 1
-crossings 1
+crossings 2
 crossite
 contriteness 1
 cinnamenyl
