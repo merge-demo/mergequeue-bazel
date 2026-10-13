@@ -2197,7 +2197,7 @@ buxaceae
 bontebok 1
 baghla 1
 bodword 2
-blockade 1
+blockade 2
 bostonite 1
 bedrivelled 1
 barauna 3
@@ -5846,7 +5846,7 @@ bellyman 1
 biunique
 biogenetical
 balopticon 2
-bellmaking 2
+bellmaking 3
 banquo 2
 bachel 1
 buckbrush 2
@@ -8722,7 +8722,7 @@ berendo
 bended 2
 bemixt
 bimotors
-belonged
+belonged 1
 bruisers 1
 bosc 1
 beagling
