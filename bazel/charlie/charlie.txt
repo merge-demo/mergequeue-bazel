@@ -8004,7 +8004,7 @@ chacate 2
 complainable 2
 chimin
 caravansaries 1
-camphoraceous 1
+camphoraceous 2
 chaccon 2
 chachalakas 1
 chackchiuma
@@ -9996,7 +9996,7 @@ cyclarthrosis 1
 cuprammonia
 cherokee 3
 corodiastole 1
-copartaker
+copartaker 1
 clansmanship 1
 ceremonialists 1
 chalcon 1
@@ -26901,7 +26901,7 @@ credentialism
 counterjumper
 crosne
 contraflexure 1
-colliquativeness
+colliquativeness 1
 copperleaf
 counterlath
 corticospinal
