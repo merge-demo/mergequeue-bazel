@@ -6216,7 +6216,7 @@ benitier 1
 baguio
 benjamin 3
 benjaminite 1
-bound 2
+bound 3
 boletus
 berley
 bypass 2
@@ -12384,7 +12384,7 @@ bombus 2
 bombardelle 1
 bomi 5
 bomos 1
-beloveds
+beloveds 1
 bon 2
 backrope 2
 bonacis 2
@@ -18158,7 +18158,7 @@ bacillicide 1
 basters 3
 byzant 2
 butyryls 4
-boldfacedly 3
+boldfacedly 4
 butyrin
 besonnet 1
 begets
