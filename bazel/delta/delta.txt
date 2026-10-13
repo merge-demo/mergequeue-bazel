@@ -11607,7 +11607,7 @@ dognaped 2
 discontenting
 discontentments 1
 disboweled 3
-discontents
+discontents 1
 discontiguity 1
 discontinuances
 dambonite
@@ -12878,7 +12878,7 @@ demerited 2
 dromond 2
 dismissal 4
 dismissals 1
-dismissed 1
+dismissed 2
 distemperate 1
 dismisses 1
 dismissing 1
@@ -13884,7 +13884,7 @@ dotardy 2
 druthers 3
 distichal 4
 demisable 2
-diadelphia 2
+diadelphia 3
 distichlis 1
 dephased 2
 dimerous 1
@@ -16073,7 +16073,7 @@ desperately 1
 disorderedly
 doughface 2
 doughfaceism 1
-deracialize
+deracialize 1
 dissaving 1
 disintegrous 2
 decontaminate 4
