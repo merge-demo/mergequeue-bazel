@@ -8078,7 +8078,7 @@ chiles
 cagayan 1
 capitulum 1
 chaferies
-chafers 1
+chafers 2
 caranx
 chafes
 chafewax 1
@@ -14068,7 +14068,7 @@ crocodile 1
 coriandrol 2
 chloritoid
 cleruchial 2
-circassic 1
+circassic 2
 capivi 1
 corpuscle
 circe
@@ -28498,7 +28498,7 @@ caecectomy
 creatureling 1
 creatures 2
 carapo 2
-creatureship
+creatureship 1
 conversibility
 creaturize
 churchanity
