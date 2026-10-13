@@ -5503,7 +5503,7 @@ glisten 2
 guttering 6
 glimmery 3
 gigeria 1
-glisteringly 3
+glisteringly 4
 gorblimy 3
 grubble 2
 gerridae 2
@@ -7796,7 +7796,7 @@ glacial 3
 gunung 1
 grainiest 3
 gipseian 1
-greeny 2
+greeny 3
 grubworm 1
 gulleys 2
 gillstoup
