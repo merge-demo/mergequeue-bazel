@@ -12412,7 +12412,7 @@ agendums
 addulce
 amberina 1
 anticomplex 1
-afflictions
+afflictions 1
 androgynal
 alterity 1
 arillode 1
@@ -18835,7 +18835,7 @@ angloid 2
 acervose
 ancientism
 alamodality 2
-ambush 1
+ambush 2
 achromatophil 1
 autumnally 2
 aeriferous 2
