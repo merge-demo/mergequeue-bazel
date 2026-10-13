@@ -4603,7 +4603,7 @@ bedbugs 1
 boden
 bedtick 1
 bedchair 5
-butterine 4
+butterine 5
 bedchairs
 buffers 2
 bellowing
@@ -11062,7 +11062,7 @@ brazilette 2
 bezoar
 butomaceae 3
 blocked 1
-blocker
+blocker 1
 brid 2
 bifoliolate 2
 bankruptlike 2
@@ -16676,7 +16676,7 @@ banalness 1
 brassidic 1
 blocage 1
 banquetings 1
-buckeen
+buckeen 1
 busby 1
 bucker 1
 belait 2
