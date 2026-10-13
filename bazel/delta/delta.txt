@@ -8340,7 +8340,7 @@ dresses 2
 dockmaster 1
 dialectician 1
 dual 1
-decapodous
+decapodous 1
 droopingness 1
 diplois
 dejerate 1
