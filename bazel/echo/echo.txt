@@ -7596,7 +7596,7 @@ ebbet 1
 extricate 2
 epichorion 1
 epicycle 1
-epicyemate 3
+epicyemate 4
 eeyuch 5
 experiments 2
 esogastritis 1
@@ -8028,7 +8028,7 @@ enigmaticalness 3
 exscript 1
 epigonal 5
 ehtanethial
-enoplion
+enoplion 1
 employers 2
 eliminators 1
 emetin
