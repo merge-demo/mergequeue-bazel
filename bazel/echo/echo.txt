@@ -5761,7 +5761,7 @@ emplectite 2
 engirds 2
 electroblasting 3
 eyeglance 1
-extraverted 3
+extraverted 4
 extemporised 1
 endofaradism 2
 enolases 3
@@ -6438,7 +6438,7 @@ edgeweed 1
 ecotypic 2
 ensweeten 1
 exceptioner 2
-exarchy 1
+exarchy 2
 enleen 4
 exhalants 2
 eastering
@@ -10292,7 +10292,7 @@ emulsifiability
 ethylamine 1
 extralite 4
 elevatedly 2
-elapses 1
+elapses 2
 eemis 1
 epidemial 1
 expecters 3
@@ -11562,7 +11562,7 @@ evocator 2
 evoe 3
 ensilaging 2
 exoculating
-erethizon 2
+erethizon 3
 estrange 2
 endites 2
 evernia 2
