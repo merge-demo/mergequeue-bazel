@@ -361,7 +361,7 @@ conservatively 1
 concords 1
 cacodontia 1
 colonialized
-chengal 2
+chengal 3
 cacodoxian 1
 cacodoxical 2
 cyclocoelous 2
@@ -4965,7 +4965,7 @@ clicket 2
 cartmaking
 cartobibliography
 columbia
-cartogram 1
+cartogram 2
 comminate 3
 cartography 1
 cypseli 1
@@ -31723,7 +31723,7 @@ ciselures
 cusses
 comrades
 castilian 1
-crooken
+crooken 1
 cusswords 4
 calorizer
 capernoitie 1
