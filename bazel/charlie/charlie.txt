@@ -14559,7 +14559,7 @@ cysticolous
 cystid
 consociationism 1
 cohogs
-cystidea
+cystidea 1
 cystinosis 1
 cotehardie
 comburendo 2
@@ -19139,7 +19139,7 @@ compartmentalizes
 collocutor
 cogitations 1
 collodion
-crushproof 1
+crushproof 2
 collodionization 1
 collogen 1
 chouses

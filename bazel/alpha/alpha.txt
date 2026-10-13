@@ -5904,7 +5904,7 @@ agglomeration 1
 agglomerative
 abscissions
 arachnologist 1
-apical
+apical 1
 agglutinate
 arenaceous
 arri
@@ -12112,7 +12112,7 @@ anathematisation 3
 anathematise 4
 amour 2
 anathematised 2
-administer 1
+administer 2
 alchemize 2
 antambulacral 2
 accepter
