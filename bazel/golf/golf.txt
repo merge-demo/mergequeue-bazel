@@ -2254,7 +2254,7 @@ goblet 2
 grunted
 geoplanidae 2
 glucokinase 1
-gonimic 1
+gonimic 2
 gey 3
 greeney 1
 geopolitik 2
@@ -7509,7 +7509,7 @@ gortonian 5
 glaucophanize 3
 gangs 6
 glitzy 4
-glabellous 1
+glabellous 2
 gryllus 4
 gubernaculum 2
 grigri 2
@@ -8264,7 +8264,7 @@ gospel 4
 ginglyform 1
 grippingness
 giardiasis 3
-gre 3
+gre 4
 garamond
 gaseosity 5
 gurries
