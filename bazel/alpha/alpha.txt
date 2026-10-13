@@ -692,7 +692,7 @@ ariot 1
 aspern 1
 absorbency
 abortive 1
-afebrile 2
+afebrile 3
 abortiveness
 allegorising 1
 american 1
@@ -8294,7 +8294,7 @@ abacay 1
 auks 1
 alif 1
 applicatorily 1
-andropetalous
+andropetalous 1
 amatively 2
 archapostle 1
 aliferous
