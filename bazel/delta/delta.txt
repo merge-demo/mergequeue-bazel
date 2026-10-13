@@ -3564,7 +3564,7 @@ drumlin 2
 defunction 1
 deul
 disfrock
-disseminate
+disseminate 1
 diethylamine 2
 disenchanter 2
 defunctionalize 1
