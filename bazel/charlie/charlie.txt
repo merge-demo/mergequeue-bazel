@@ -31236,7 +31236,7 @@ clawhammer 1
 cura 3
 correctness 1
 chetah 1
-curable
+curable 1
 curableness 1
 cotyloidal
 coverlid
