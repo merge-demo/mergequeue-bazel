@@ -21682,7 +21682,7 @@ carcharhinus
 cinerarias
 cloths 2
 cheiromegaly
-condistillation 2
+condistillation 3
 conditionable 1
 conditionalism
 coplotting 1
@@ -28195,7 +28195,7 @@ caesar
 crannel 1
 crannequin 2
 crannia 2
-colliquefaction
+colliquefaction 1
 crannied 2
 crannies
 crannying 1
