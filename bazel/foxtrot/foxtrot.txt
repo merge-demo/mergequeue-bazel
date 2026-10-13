@@ -2824,7 +2824,7 @@ faveolate 2
 facie 2
 ficus 2
 fluidly 1
-floorman
+floorman 1
 fishhouse 2
 ferrozirconium 5
 floodlights 2
