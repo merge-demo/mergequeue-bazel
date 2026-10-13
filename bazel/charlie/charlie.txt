@@ -19061,7 +19061,7 @@ crises 1
 callable
 camb
 colliflower 1
-cruset
+cruset 1
 colligate 1
 colligating
 cookbook
@@ -22418,7 +22418,7 @@ conrey
 ceric
 cree
 calends
-conines
+conines 1
 coning 1
 cosiest
 circumduction 1
