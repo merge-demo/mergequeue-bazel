@@ -2507,7 +2507,7 @@ epicanthic 3
 exterminative 3
 electrokinetics
 elasticum
-electroless
+electroless 1
 exsecants 1
 educables
 expansivity 4
@@ -5738,7 +5738,7 @@ engined 2
 ending 3
 excusability 2
 engage
-etymologic
+etymologic 1
 exampless 2
 engineers 1
 engineless 2
@@ -11765,7 +11765,7 @@ excarnation 3
 erysipelous
 epanadiplosis 2
 elusory
-excavating
+excavating 1
 escheatorship 1
 entwisted 1
 elopidae 1
