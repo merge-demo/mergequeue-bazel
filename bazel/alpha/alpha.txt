@@ -3727,7 +3727,7 @@ adequate 3
 acclivity 2
 almuerzo 1
 appenage 2
-annum
+annum 1
 adespoton 1
 analemmatic 1
 adessenarian 1
@@ -24794,7 +24794,7 @@ adoptions 1
 auguster
 appropriable
 avilement 1
-avocation 1
+avocation 2
 adorantes 1
 avions 1
 affair 3

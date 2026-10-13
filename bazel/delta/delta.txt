@@ -3602,7 +3602,7 @@ dodecant
 destituting
 diatonous 3
 degener 2
-declaredness 3
+declaredness 4
 depredations 2
 dripping 2
 dextrogyre 1
@@ -5627,7 +5627,7 @@ duddy
 dei 2
 dozy 2
 desaturation
-depetalize
+depetalize 1
 disorganiser 1
 disprivilege
 detainingly
