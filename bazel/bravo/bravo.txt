@@ -4305,7 +4305,7 @@ blubbers 1
 biliteralism 1
 bushbodies 3
 batiker 1
-boebera 1
+boebera 2
 barly 1
 becalm 2
 becalming 1
@@ -6488,7 +6488,7 @@ bepicture
 bugology
 banxring
 bepiece 1
-bepile 1
+bepile 2
 bolshie 3
 boca 1
 bumbled 2
@@ -14468,7 +14468,7 @@ brakeless 1
 brakeload 2
 bemotto 1
 brakemaker 2
-brakeman 2
+brakeman 3
 builtin 1
 baby
 brakeroot 1
