@@ -6107,7 +6107,7 @@ fervidity 3
 freighter 1
 frettation
 filical
-folksinging
+folksinging 1
 fundmongering 1
 freebies 2
 firestone 2
