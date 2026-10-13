@@ -2164,7 +2164,7 @@ camphoid 2
 choryos
 camphol 3
 campholic
-compilatory 1
+compilatory 2
 coleorhiza 2
 camphols
 contemnor 1
@@ -5557,7 +5557,7 @@ corkscrewy
 catalanganes
 conceptionist 4
 catalatic
-circulatories 1
+circulatories 2
 cycledom 3
 cedre
 comicoprosaic
@@ -14291,7 +14291,7 @@ constrained 1
 crosspieces 2
 circumparallelogram
 circumpentagon
-convexed 1
+convexed 2
 circumplanetary 1
 crone 1
 chrysazin 1
@@ -25979,7 +25979,7 @@ couthie 1
 colonization
 corviser
 corvo
-chamade
+chamade 1
 corvoid 1
 corvorant 1
 cantiga
