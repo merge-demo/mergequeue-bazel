@@ -3506,7 +3506,7 @@ bitterhearted
 bateau 4
 bateleur 1
 barbered 1
-bowerwoman
+bowerwoman 1
 bovista 2
 bouchal
 bulldoggishly 2
@@ -10529,7 +10529,7 @@ blepharoatheroma 2
 break 2
 bipectinate 1
 bacterize 1
-bonks 1
+bonks 2
 bulbocodium
 bibless
 blastophoral 2
