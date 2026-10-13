@@ -13957,7 +13957,7 @@ bacteriofluorescin 1
 backstage 3
 borghese
 barathron 2
-brooders 3
+brooders 4
 bassi 2
 broadening
 boxtop 4
@@ -16422,7 +16422,7 @@ brainache 3
 bedazzling
 bouffes
 bitonal
-bruno 2
+bruno 3
 bryanthus 3
 boroughs 1
 barmiest
