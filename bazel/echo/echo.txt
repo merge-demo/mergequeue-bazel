@@ -1634,7 +1634,7 @@ explanatively 2
 elchee
 exotoxin 1
 ehretiaceae 2
-env 4
+env 5
 entrez 1
 enterobacterium 3
 eyah 1
@@ -3523,7 +3523,7 @@ epilogized 3
 emirates
 eproboscidea 6
 explementary 1
-endow
+endow 1
 encarpi 1
 embodiers
 embodies 2
@@ -5267,7 +5267,7 @@ ensphere
 edginesses
 edificative 1
 euchroic 6
-exsected 2
+exsected 3
 enantiomeride
 extrascriptural 1
 escartelly 2
@@ -5529,7 +5529,7 @@ ectocarpic 2
 excitate 3
 equiformity
 enzymosis 2
-enervation 1
+enervation 2
 ethnically
 enetophobia 2
 enfaces 3
@@ -6437,7 +6437,7 @@ enbaissing 1
 edgeweed 1
 ecotypic 2
 ensweeten 1
-exceptioner 1
+exceptioner 2
 exarchy 1
 enleen 3
 exhalants 2
@@ -7508,7 +7508,7 @@ exocoetidae 2
 extensively 4
 ephrathite 2
 estrins 2
-estall
+estall 1
 eophytic
 endited 1
 eastmost 2
@@ -9489,7 +9489,7 @@ earthquaking 2
 eulogia 2
 electrolithotrity
 eczematoid 2
-entach 1
+entach 2
 enarch 1
 escout
 enstore 1
@@ -10376,7 +10376,7 @@ ethography 2
 excepter 2
 entropion 4
 ethology 1
-ethnogeographer 3
+ethnogeographer 4
 ethologies 2
 electrocataphoretic 1
 explains 2
@@ -13960,7 +13960,7 @@ enface 3
 electropoion 1
 escheatage
 extraparochial 2
-equicurve 2
+equicurve 3
 ectophytic 2
 essoiner
 embezzles 2
