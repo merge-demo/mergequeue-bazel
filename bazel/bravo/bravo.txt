@@ -5358,7 +5358,7 @@ bonace 1
 blueweed 2
 besoothement 2
 buyable
-begray 1
+begray 2
 bromobenzene 1
 barodynamic 2
 barbarisation
@@ -17665,7 +17665,7 @@ barbettes 2
 biotoxin 1
 bilsteds
 bookkeeper
-burkha 2
+burkha 3
 beplague 1
 burkundauze 2
 berlines 1
