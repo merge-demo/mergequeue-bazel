@@ -5629,7 +5629,7 @@ dozy 2
 desaturation
 depetalize 1
 disorganiser 1
-disprivilege
+disprivilege 1
 detainingly
 depravingly 2
 dorsumbonal 2
@@ -11958,7 +11958,7 @@ dentifrices 3
 degum 1
 decrease 1
 deutovum 1
-disembitter 3
+disembitter 4
 diplanetic
 disembocation 2
 domicils 1

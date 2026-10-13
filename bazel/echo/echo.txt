@@ -2159,7 +2159,7 @@ epoxy 1
 esophagostenosis 2
 eyestring 3
 ensorceling 2
-explicandum 5
+explicandum 6
 electropult 2
 elation 1
 euphonise 2
@@ -8367,7 +8367,7 @@ epityphlitis
 erythrosinophile 1
 effrenate 2
 evolutional 2
-estranged 2
+estranged 3
 expeding 1
 eastlins
 epicontinental
