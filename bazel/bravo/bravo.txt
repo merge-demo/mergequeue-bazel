@@ -769,7 +769,7 @@ banket 2
 badmouthed
 burled
 badmouths 1
-bullfrog 1
+bullfrog 2
 boltheads 3
 badnesses
 bradylogia 1
@@ -17517,7 +17517,7 @@ biognosis
 burbot 3
 bleak 2
 beata 2
-bromopicrin
+bromopicrin 1
 bidenticulate 3
 bathukolpic 2
 bhang 2
