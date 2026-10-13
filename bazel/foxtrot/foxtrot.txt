@@ -5484,7 +5484,7 @@ foolscap 2
 furunculoid 1
 flesh 2
 forbids 2
-formes 2
+formes 3
 filchers 4
 feculae 1
 floey 3
@@ -6476,7 +6476,7 @@ farriery 2
 flatboat 1
 fording 3
 fetishists 1
-frosted 3
+frosted 4
 flourlike 3
 fortes 2
 foremessenger 3
