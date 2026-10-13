@@ -29892,7 +29892,7 @@ centrifuges 3
 crosscutting 2
 crosse
 crossed
-crossers
+crossers 1
 crossest
 catalpas 1
 crossette
