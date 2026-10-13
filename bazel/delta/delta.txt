@@ -7865,7 +7865,7 @@ dogbodies 5
 dew 1
 degentilize 3
 diatoric 1
-dewani 2
+dewani 3
 depress
 defrayals 3
 diverseness 4
@@ -15051,7 +15051,7 @@ dyn 1
 dhamma 1
 depressingness 2
 defoliators 1
-dibbukim
+dibbukim 1
 deludher
 demulsify 2
 diskery 1
