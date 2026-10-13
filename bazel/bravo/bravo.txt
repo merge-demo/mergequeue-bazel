@@ -1332,7 +1332,7 @@ bioplastic 2
 balboas
 barrowcoat 2
 brod 2
-botrylle 3
+botrylle 4
 backdrops
 borderlands 2
 balbusard 2
@@ -3911,7 +3911,7 @@ bamboos 1
 bbs
 bassly
 burn 2
-beliquor 1
+beliquor 2
 balaniferous
 birdweed
 banksia 4
