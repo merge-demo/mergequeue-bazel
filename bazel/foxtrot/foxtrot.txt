@@ -2725,7 +2725,7 @@ fimbriated 1
 fusain 2
 frigged
 fleuronne 1
-filmish 1
+filmish 2
 fetation 1
 friezed 1
 fraternization 1
@@ -2824,7 +2824,7 @@ faveolate 2
 facie 2
 ficus 2
 fluidly 1
-floorman
+floorman 1
 fishhouse 2
 ferrozirconium 5
 floodlights 2
@@ -4204,7 +4204,7 @@ ferfathmur 2
 felonries 4
 featherstitch 3
 foothold
-flittermmice 3
+flittermmice 4
 featurish
 froe 2
 fidicinales 2
