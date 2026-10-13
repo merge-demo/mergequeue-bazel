@@ -5057,7 +5057,7 @@ evens 2
 endophragmal 1
 equimolal 3
 entomb 2
-enqueued
+enqueued 1
 excuses 1
 encumbrances 1
 eucosmid 1
@@ -8206,7 +8206,7 @@ earsh 1
 episodically 1
 eviscerates 2
 exuded 2
-enchylematous 3
+enchylematous 4
 empirics 1
 exigeant 3
 epiphany 4
