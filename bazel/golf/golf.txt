@@ -5751,7 +5751,7 @@ gobos 3
 glossolalia 2
 gabbroid 2
 glossolysis 2
-goldweed 3
+goldweed 4
 grecizes 2
 geometrical 3
 gunfighter
@@ -8796,7 +8796,7 @@ ghostess 3
 gulfs 2
 goalless 2
 gymnostomina 4
-greese
+greese 1
 gust 3
 genual
 glistered 1

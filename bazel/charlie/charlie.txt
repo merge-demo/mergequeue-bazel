@@ -5762,7 +5762,7 @@ cate
 catechesis
 catechetic 3
 congenator 1
-chapatti
+chapatti 1
 cottony 1
 concinnating
 catechin
@@ -25057,7 +25057,7 @@ cracovienne 1
 cardiomotility
 corectomy
 coredeemer 1
-coredeems
+coredeems 1
 coree
 coreflexed
 chinked
