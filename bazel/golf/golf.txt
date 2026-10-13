@@ -790,7 +790,7 @@ gastrospasm 1
 guamuchil 3
 graf 1
 gimlet 2
-gambade 4
+gambade 5
 gravata
 garrotting 5
 gastroenteritic 3
@@ -3582,7 +3582,7 @@ glimpsing 2
 greekling
 glumella 1
 gourmandize 1
-galvanisation 2
+galvanisation 3
 gausses 3
 gharnao
 glossa
@@ -8876,7 +8876,7 @@ genappe 1
 guesthouses 3
 greyfly 1
 gregau 2
-guarantine 2
+guarantine 3
 glycerination 6
 greisens 1
 getas 1
