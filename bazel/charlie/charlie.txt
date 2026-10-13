@@ -21328,7 +21328,7 @@ communicableness
 conchol 1
 conchometer
 conchospiral
-cowboys
+cowboys 1
 conchostraca 1
 corotated 1
 computed 1
@@ -22001,7 +22001,7 @@ corticostriate 2
 confirmer
 cibarious
 coalrake
-cinquedea
+cinquedea 1
 cystoscope 2
 congruistic 2
 ceramiaceous 2

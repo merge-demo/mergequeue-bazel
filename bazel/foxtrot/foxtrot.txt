@@ -6203,7 +6203,7 @@ foretops 1
 feebling 3
 frequency
 flagmaker 4
-furbished 4
+furbished 5
 fibroareolar
 farfetched 2
 flisked 4
@@ -8881,7 +8881,7 @@ foujdarry 3
 fibrousness 1
 foul 3
 fogger 2
-finesse 2
+finesse 3
 foulder 3
 fiberizer 2
 flatteners 1
