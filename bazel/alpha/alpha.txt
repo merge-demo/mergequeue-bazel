@@ -9788,7 +9788,7 @@ amicabilities 1
 amperage 1
 amalgamization 1
 anaphase 2
-amalic
+amalic 1
 argosine
 aircrews
 audacity
@@ -14131,7 +14131,7 @@ acraturesis
 antennula 2
 agapae 1
 antiegoistically
-antenodal 1
+antenodal 2
 angelic 2
 antenumber
 adrostal 2
