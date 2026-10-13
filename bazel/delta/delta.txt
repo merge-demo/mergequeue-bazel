@@ -871,7 +871,7 @@ discardable 1
 disprovement 2
 delesseria
 developability 2
-dannebrog 2
+dannebrog 3
 diactinism 1
 defiantness
 dieback 1
@@ -1008,7 +1008,7 @@ darked 1
 darkeys
 daneball
 darkens 2
-disruptions 1
+disruptions 2
 deformeter
 digest
 daffling 2
@@ -16348,7 +16348,7 @@ daylight
 downslide 2
 describent 1
 downslip 2
-decibel 1
+decibel 2
 downslope 2
 disappendancy 2
 desmognathism
