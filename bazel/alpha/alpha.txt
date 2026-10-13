@@ -23192,7 +23192,7 @@ aggressionist
 attest
 attestable 2
 amphibology 1
-artel
+artel 1
 arsonvalization
 abolla 2
 alytarch 1
@@ -24893,7 +24893,7 @@ arterializing
 amblyocarpous 1
 adiponitrile 2
 antiaggression 1
-amurru 2
+amurru 3
 awadhi 3
 arling 2
 awayness 2

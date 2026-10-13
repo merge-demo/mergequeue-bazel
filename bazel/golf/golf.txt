@@ -1380,7 +1380,7 @@ garnetlike 2
 grabbles 2
 gaulin 2
 gorb 3
-gastrostegal 1
+gastrostegal 2
 gravitometer 3
 garnetter 2
 glyconeogenetic 2
@@ -1815,7 +1815,7 @@ gastrotomic
 gulsach 2
 glycine 2
 gastrocolostomy 3
-geodesia 3
+geodesia 4
 gastrovascular 2
 geryoniidae 3
 gthite 3
@@ -9920,7 +9920,7 @@ galiots 2
 glamorizing 2
 groundnut 1
 gratulatorily 1
-growingly 1
+growingly 2
 grata 2
 genevese 2
 girderless 1

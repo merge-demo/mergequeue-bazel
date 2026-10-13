@@ -2754,7 +2754,7 @@ evangelary 3
 elegy 1
 emblematicize
 elegiacally 1
-eighthly 3
+eighthly 4
 exprobate 1
 encoil 2
 excrescently 4
@@ -5273,7 +5273,7 @@ extrascriptural 1
 escartelly 2
 euphuizing 1
 esphresis
-expenseless 1
+expenseless 2
 euphonium 4
 endopods 1
 epistolarily 2
@@ -5919,7 +5919,7 @@ enhaemospore 2
 epiplastron 3
 emphases 1
 explees 3
-ecarinate 1
+ecarinate 2
 execrators 2
 exaggerativeness
 epitomise
@@ -8450,7 +8450,7 @@ etiolate 2
 eponymus 4
 ensand 1
 email 4
-epicier 1
+epicier 2
 elkhorn 1
 eroticomaniacal 2
 epopoeias 1
