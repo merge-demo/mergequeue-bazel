@@ -2044,7 +2044,7 @@ facedown 1
 faucalize
 fireboat 3
 flindosa 2
-forwander 3
+forwander 4
 flatlander
 faunlike
 fogbows 1
@@ -10019,7 +10019,7 @@ fruitier 1
 fringent 2
 feminacy 5
 fringetail 2
-foreplot 2
+foreplot 3
 fimbles
 farmerlike 1
 frogskin 1
