@@ -13261,7 +13261,7 @@ bostanji 2
 bosthoon 1
 bostonian 1
 banderillas
-burglar
+burglar 1
 branchstand 1
 barman 3
 bumbarge
