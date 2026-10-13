@@ -1121,7 +1121,7 @@ belonesite 2
 bairns
 bootful 1
 berne 2
-banquets
+banquets 1
 backwall
 borates 3
 botete 1
