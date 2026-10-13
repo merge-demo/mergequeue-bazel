@@ -3918,7 +3918,7 @@ galeoid 1
 gravidae 3
 goral
 glossem 1
-geminated 1
+geminated 2
 gnostic
 glens
 glossocarcinoma 2
@@ -5111,7 +5111,7 @@ guernseyed 2
 glareproof 3
 griskin 2
 grainsmen 1
-grenadine 2
+grenadine 3
 goldeneye
 greesagh 3
 gte 5
