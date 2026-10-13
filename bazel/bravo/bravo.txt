@@ -6906,7 +6906,7 @@ beshadowed 1
 beauxite 1
 briolette 3
 biplosive 3
-breediness 1
+breediness 2
 betail 1
 baselessness 1
 betta 1
@@ -15041,7 +15041,7 @@ befetter 2
 betiding
 bicuspidal 2
 bandaka
-breenge 4
+breenge 5
 breenger 1
 babushka 1
 breezeway

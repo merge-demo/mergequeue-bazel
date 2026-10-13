@@ -4383,7 +4383,7 @@ frogfishes 2
 fathomed 1
 fishability 1
 feltwork 1
-flybook 2
+flybook 3
 fixion 4
 fishboats 4
 fonduk
@@ -6646,7 +6646,7 @@ frontes 2
 flees 1
 flintily 3
 formaldehydesulphoxylate
-footpath 3
+footpath 4
 fillip 3
 forevouched 1
 foehnlike 3
@@ -9809,7 +9809,7 @@ fattens 1
 foredooming 1
 fleck 5
 faddist 4
-foamy 1
+foamy 2
 fretum
 fidget 1
 fluors 2
@@ -11091,7 +11091,7 @@ functors 1
 formational 2
 foulard 1
 functus 1
-furivae
+furivae 1
 fessewise 2
 frostwork 1
 flatter 3
