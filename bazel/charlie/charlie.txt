@@ -28498,7 +28498,7 @@ caecectomy
 creatureling 1
 creatures 2
 carapo 2
-creatureship
+creatureship 1
 conversibility
 creaturize
 churchanity
