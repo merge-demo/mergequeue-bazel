@@ -12610,7 +12610,7 @@ husmgf 1
 husovam 3
 huspcsmg 4
 huspvay
-huspzt
+huspzt 1
 husq 2
 husquiwuso 1
 husrkpemqo 3
