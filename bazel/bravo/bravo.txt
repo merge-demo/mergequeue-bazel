@@ -2602,7 +2602,7 @@ betterments 1
 barkcutter
 balsameaceous 2
 breastbones
-bifronted 1
+bifronted 2
 bhaiyachara
 borana
 benettle 1
@@ -10929,7 +10929,7 @@ blinkard
 blesbuck 1
 bedlamism 4
 blinkards 4
-bowses
+bowses 1
 basta 2
 beaneries
 beckets
