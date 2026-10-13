@@ -5162,7 +5162,7 @@ enterocoel 2
 emergencies 3
 entogenous 2
 enteroptotic
-extrudability 3
+extrudability 4
 eisell 2
 exilic 4
 exorcizing 1
