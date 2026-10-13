@@ -3077,7 +3077,7 @@ boneblack 3
 barksome 1
 basale 2
 berascaling
-bathetic 3
+bathetic 4
 basalts
 brecciating 1
 basaltware 2
@@ -13666,7 +13666,7 @@ belander 2
 blames 3
 bromethylene 5
 broozled
-barathrum 3
+barathrum 4
 bourdons 2
 bourg 3
 beckoned
@@ -16527,7 +16527,7 @@ bolivia
 brutally
 babbittism 1
 brute 3
-buddling 2
+buddling 3
 bangtailed 2
 bequeathal 3
 birr
