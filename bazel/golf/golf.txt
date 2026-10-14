@@ -33,7 +33,7 @@ gaelicism 2
 geoselenic 1
 gliderport 2
 globose 3
-gouty 5
+gouty 6
 goodlike 5
 gabioned 1
 glutamate 3
@@ -2013,7 +2013,7 @@ galleass 4
 goutify 1
 grubberies 3
 galatian 2
-gars 1
+gars 2
 generalness 6
 gambogic 2
 gums 1
@@ -6274,7 +6274,7 @@ gynandrarchic 3
 galoch 2
 gospelly 2
 gainable 3
-gobble 2
+gobble 3
 gowpen 3
 gierfalcon 4
 gobbled 3

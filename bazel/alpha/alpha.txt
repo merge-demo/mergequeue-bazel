@@ -4835,7 +4835,7 @@ aeroboat 2
 aerobranchia
 appearing 1
 alditol 2
-anglic 1
+anglic 2
 aerocamera
 anthropotheism 1
 anears 2
@@ -6500,7 +6500,7 @@ algaesthesis 2
 amebula
 ahir 2
 alternant 3
-autunian 1
+autunian 2
 affiancing
 animalian 1
 anthemed 4
@@ -11828,7 +11828,7 @@ acetyliodide 1
 antiaristocratic
 alypin
 analyzes 3
-analkalinity 1
+analkalinity 2
 anallagmatic 2
 anallantoidean 5
 acclimature
@@ -15233,7 +15233,7 @@ atole
 afrown
 autometamorphosis
 antiformin 1
-animater 1
+animater 2
 antifouling
 autobasidiomycetes 1
 austere 2
@@ -16102,7 +16102,7 @@ antiscorbutical 1
 acrosphacelus
 antiscrofulous 1
 antiseismic
-antiselene
+antiselene 1
 acroarthritis
 antisemitic
 aphthartodocetism 3
@@ -16261,7 +16261,7 @@ agrees 1
 affixer 1
 arthrocace 1
 agrest 1
-aluta 1
+aluta 2
 alertedly
 arthromere 1
 antitheologizing 5
@@ -24331,7 +24331,7 @@ autopsies 3
 ambrose
 archprophet 2
 abaters
-autoptically 1
+autoptically 2
 aeromancy 3
 attractionally 2
 alpinists
