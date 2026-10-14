@@ -4864,7 +4864,7 @@ bedsitter 1
 batmen
 baudekins 2
 by 3
-beltwise 2
+beltwise 3
 bandcase 2
 baffing 1
 beduncing 1
@@ -11882,7 +11882,7 @@ besmutting 3
 barabora 2
 befouled 1
 brent 2
-boatlip 1
+boatlip 2
 basipterygial 1
 borgh 1
 bockey
