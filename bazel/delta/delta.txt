@@ -3994,7 +3994,7 @@ dampang
 decides
 disintensify
 duplex 2
-devitalise
+devitalise 1
 deputized
 distune 1
 delectating 3
