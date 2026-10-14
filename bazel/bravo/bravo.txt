@@ -1388,7 +1388,7 @@ baculums
 bale 1
 babassu 2
 baleare 1
-bajonado
+bajonado 1
 backjoint
 balearica 2
 balebos 2
@@ -4824,7 +4824,7 @@ beshrouded 1
 bolometer 1
 bedstraw 4
 bedstraws 2
-bedstring
+bedstring 1
 boundedly 2
 beautiless 2
 broadwise 1
@@ -12441,7 +12441,7 @@ bowyang 4
 bedriddenness 2
 bonfire 1
 biphenyl 4
-buller
+buller 1
 bondholders 2
 barrettes 1
 bechase 1
@@ -15841,7 +15841,7 @@ barrows
 besomer 3
 blite 1
 beelol 1
-bratticer 3
+bratticer 4
 benaming
 bromauric 1
 balu
