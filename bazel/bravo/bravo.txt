@@ -6694,7 +6694,7 @@ berlin 1
 browsability 2
 bismuthine 1
 broomstaff 2
-blitter
+blitter 1
 balaamitical 1
 beeishness 1
 bathmotropic 1
