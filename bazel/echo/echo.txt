@@ -9,7 +9,7 @@ electrochronograph 4
 engirding 1
 epidermoid 5
 erigeron 2
-evaporometer 1
+evaporometer 2
 euchologion 2
 emigate 2
 erosivity 1
@@ -1228,7 +1228,7 @@ edwardsiidae 2
 edwin 1
 exorcismal 2
 endoplastular 1
-equvalent 2
+equvalent 3
 estamin 3
 equicaloric 3
 exstemporal 1
@@ -3189,7 +3189,7 @@ egghead 1
 entertainingness 2
 envisagement 3
 eichbergite
-eureka 2
+eureka 3
 embosomed 4
 expounders 1
 emblemize 1
@@ -11121,7 +11121,7 @@ enactments 5
 eutexia 3
 exquisitively
 enwreathing
-eiderdown
+eiderdown 1
 ebullioscopy 2
 erotetic 4
 euthycomi 6

@@ -1305,7 +1305,7 @@ dramatic
 dumpings 1
 diastaltic 2
 decoloured 1
-daubreite
+daubreite 1
 degaussing 3
 dobsons
 dinitro 2
@@ -1575,7 +1575,7 @@ defilades 2
 deadish 1
 dysgenesic 3
 dhanush 1
-demand 1
+demand 2
 disposition
 determinatively 1
 desitive 2
@@ -1717,7 +1717,7 @@ deluged 1
 dornecks 1
 devastate
 dumetose 1
-deasil 2
+deasil 3
 dearness 1
 deaspirate 1
 dispensations 2
@@ -16666,7 +16666,7 @@ dottedness 1
 depressor 1
 destigmatize 2
 dabblers
-deeny 2
+deeny 3
 drains 2
 drageoir 3
 deponer 2
