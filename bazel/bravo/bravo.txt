@@ -11659,7 +11659,7 @@ bilsted 1
 blindfast
 boomless 1
 bedding 1
-bragget
+bragget 1
 beneficience 4
 bribability
 boattail
@@ -13631,7 +13631,7 @@ boundless 2
 bartizaned
 bounds 1
 beggaress 3
-buttressless 3
+buttressless 4
 backspliced 1
 bespecklement 2
 blights
