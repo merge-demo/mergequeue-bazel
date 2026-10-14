@@ -3183,7 +3183,7 @@ graplin
 glycans
 geraniaceae 6
 gazon 3
-griffado 2
+griffado 3
 gabler
 glycyrrhiza 3
 gingelies 3
@@ -8967,7 +8967,7 @@ germless 1
 gastrodidymus
 gridelin 1
 griding 6
-gasped 2
+gasped 3
 galvo 3
 greyhens 4
 greenbul 2
