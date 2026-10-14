@@ -9431,7 +9431,7 @@ anesthetics 1
 abyssobenthonic 4
 aitesis
 amasty 1
-altar
+altar 1
 altarage 1
 allodies 1
 armbone 1
@@ -14025,7 +14025,7 @@ aldamin 1
 abstemious 3
 antebellum
 allutterly
-aht 1
+aht 2
 antebrachial 2
 authorizers 1
 autoing 2

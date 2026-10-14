@@ -4245,7 +4245,7 @@ deltalike 2
 diluvial 1
 disacknowledge
 deltas 2
-dukeling 2
+dukeling 3
 dook
 desipiency 1
 dopaminergic
@@ -4617,7 +4617,7 @@ demipomada 3
 damned 3
 deproceduring
 diazid
-drabbest
+drabbest 1
 deaconship 3
 discharm
 disfranchised 2
