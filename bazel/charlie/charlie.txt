@@ -22283,7 +22283,7 @@ conventionalise 1
 congolese 1
 coincline 2
 circumpolygon
-congoleum
+congoleum 1
 congou 1
 coessentialness 1
 corrasion 1
