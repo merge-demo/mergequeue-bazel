@@ -3935,7 +3935,7 @@ caraguata
 coadventurer
 corpuscular 1
 carburetant
-carbureted 1
+carbureted 2
 carburetest
 carburetion 1
 chichipate
@@ -11890,7 +11890,7 @@ circumferentor
 cecidomyian 1
 coverside
 cationically 1
-chordomesoderm 1
+chordomesoderm 2
 chordotomy 1
 chore
 caviare 1
@@ -30059,7 +30059,7 @@ croups 1
 comparcioner
 crouse
 crousely 3
-croustade
+croustade 1
 curriculum
 cabbagewood 1
 complicating
