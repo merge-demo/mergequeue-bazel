@@ -15081,7 +15081,7 @@ clack 2
 clackama 1
 circumtropical
 chinsed
-clacker
+clacker 1
 clackety
 coexertion
 clacking
