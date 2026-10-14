@@ -4293,7 +4293,7 @@ enteropathogenic 1
 elohim 2
 enlay 1
 enamellers 4
-epicenes 1
+epicenes 2
 escarpments 3
 ectogenous 3
 engs 3
@@ -6161,7 +6161,7 @@ enmeshment 3
 enrols
 enmity 4
 eparchean 1
-entracte 3
+entracte 4
 embattles 1
 ethicizes 1
 enmove 3
