@@ -7329,7 +7329,7 @@ eternises
 enolize 1
 exemplariness 3
 eelshop 2
-ephah 2
+ephah 3
 enact 2
 electrooptics 1
 escaping 1
@@ -12176,7 +12176,7 @@ embergoose 2
 excuser 1
 elytron 1
 endpoint 3
-exposure 2
+exposure 3
 ellipse
 econometrical
 ethmoturbinate 1
@@ -12772,7 +12772,7 @@ erwinia 1
 employable 4
 exorcizement
 encodings 2
-elasmobranchiate 4
+elasmobranchiate 5
 enmask 2
 exorcizer 4
 epiceratodus 2
