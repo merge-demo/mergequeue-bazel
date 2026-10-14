@@ -182,7 +182,7 @@ exploration 1
 elaps 1
 electromotion 1
 electrolier 3
-equipoising
+equipoising 1
 extraformal
 examiner 3
 estrogenic 1
