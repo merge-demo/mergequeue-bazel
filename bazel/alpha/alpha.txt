@@ -6874,7 +6874,7 @@ auripuncture 2
 amalrician
 acetone
 airplaner
-abroma 2
+abroma 3
 aristomonarchy
 airplanist
 airgraph 2
@@ -8869,7 +8869,7 @@ allochlorophyll 1
 antigropelos 1
 allochroic 1
 anticosmetic 2
-aeolodicon
+aeolodicon 1
 allochthon 1
 antlike
 askant
