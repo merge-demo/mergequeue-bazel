@@ -3664,7 +3664,7 @@ bardolater 1
 bangia 5
 bottomchrome 2
 bunsen
-books 2
+books 3
 batsmen 2
 batt 1
 buisson 1
@@ -4630,7 +4630,7 @@ bulletproofed 2
 broadens 3
 bedehouse 1
 broadenings 2
-byrewards 3
+byrewards 4
 bullrushes
 bedehouses 4
 bedemen 2

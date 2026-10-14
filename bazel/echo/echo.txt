@@ -5791,7 +5791,7 @@ enshrines 1
 exchangeability
 extranidal 3
 exhilarating 5
-exterritoriality
+exterritoriality 1
 eolipiles 1
 eucharistical 1
 excl 3
@@ -9799,7 +9799,7 @@ ervils 5
 establishable 3
 eddyroot 2
 establishes 2
-elegiacal 1
+elegiacal 2
 exponentiate 1
 eustace 1
 ebracteolate 1
