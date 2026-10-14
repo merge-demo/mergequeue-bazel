@@ -2739,7 +2739,7 @@ deedful
 darker 1
 dassy 1
 deductibility
-decoration
+decoration 1
 diogenic 1
 decorator
 deliberated 2
