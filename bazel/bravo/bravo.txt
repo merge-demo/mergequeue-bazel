@@ -4746,7 +4746,7 @@ bienseance 4
 bedlar 1
 bazoo
 bibliotic
-blackseed
+blackseed 1
 bord 1
 burbled 1
 bedmate
@@ -8497,7 +8497,7 @@ bafaro 1
 baronne 3
 birch 2
 butyryl 3
-bearhound
+bearhound 1
 bisections 1
 biliteral 1
 baywood 3
