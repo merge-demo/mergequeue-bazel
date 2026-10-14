@@ -334,7 +334,7 @@ dermopterous 1
 disequilibration
 daidlie 4
 dupatta
-dimeran 1
+dimeran 2
 dummyweed 3
 deltaite 2
 denumberment 1
@@ -5729,7 +5729,7 @@ drepanid 1
 demit 1
 deplorabilia 1
 dextrane 1
-deplorability
+deplorability 1
 duals 2
 deplorableness
 disrepair 2

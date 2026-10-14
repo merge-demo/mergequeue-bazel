@@ -1514,7 +1514,7 @@ estantion 3
 empyesis 4
 efts 4
 egad
-elderlies 2
+elderlies 3
 encyclopediac 1
 entomophilous 1
 egalitarians 2
@@ -5919,7 +5919,7 @@ enhaemospore 2
 epiplastron 3
 emphases 1
 explees 3
-ecarinate 2
+ecarinate 3
 execrators 2
 exaggerativeness
 epitomise
