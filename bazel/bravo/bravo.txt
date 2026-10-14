@@ -1434,7 +1434,7 @@ balinghasay 1
 bromeosin 2
 bridling 2
 balister 1
-boycottism 1
+boycottism 2
 balistes 2
 blatherskite
 battologized 1
@@ -12025,7 +12025,7 @@ brot
 bubonidae 3
 boycotted 1
 bletheration
-brachiated
+brachiated 1
 boid 3
 boydekyn
 boydom 1
