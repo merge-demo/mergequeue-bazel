@@ -24904,7 +24904,7 @@ afforestable 1
 abeyancies 2
 accoladed 2
 atavisms
-arimasp
+arimasp 1
 awaiting
 awaitlala
 awakable
