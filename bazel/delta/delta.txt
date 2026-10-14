@@ -2180,7 +2180,7 @@ decarbonisation 1
 decarbonise 2
 despotically
 decarboniser 3
-dobsonfly 1
+dobsonfly 2
 ditching 2
 destine
 decarboxylization 2
@@ -7272,7 +7272,7 @@ dournesses
 defalk 3
 disarrest
 deteriorating 2
-deterioration 1
+deterioration 2
 deuce 1
 data 4
 dear 2
