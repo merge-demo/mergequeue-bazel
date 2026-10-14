@@ -1711,7 +1711,7 @@ gastrograph 3
 gamebag 1
 gazetteerish 4
 gordioidea 6
-glories 1
+glories 2
 gane 5
 grassquit 1
 gastrojejunostomy 3
@@ -1813,7 +1813,7 @@ gatehouses 2
 grueler 2
 gastrotomic
 gulsach 2
-glycine 2
+glycine 3
 gastrocolostomy 3
 geodesia 4
 gastrovascular 2
@@ -2564,7 +2564,7 @@ generalities 2
 grig 3
 grubbies 1
 gain 2
-guilder 3
+guilder 4
 gynecium 2
 gurle 1
 gomeisa 1
