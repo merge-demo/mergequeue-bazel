@@ -1747,7 +1747,7 @@ deathlikeness 1
 dundees 4
 deathliness 2
 deathrates
-deathsman
+deathsman 1
 discrepating
 dumble 1
 derogation
@@ -7990,7 +7990,7 @@ dolichofacial 1
 divestment 1
 delicatessens
 dionaea 1
-dishonoured
+dishonoured 1
 discording
 degummer
 deemsters 3
