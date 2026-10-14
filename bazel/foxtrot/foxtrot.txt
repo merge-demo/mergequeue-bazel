@@ -3079,7 +3079,7 @@ flirters 2
 forches 3
 flowerfly 3
 fatstock 2
-finances 2
+finances 3
 forfeitableness 2
 festology
 familiarizes 1
@@ -3924,7 +3924,7 @@ fine 1
 fineableness
 fumigators
 fusinist 3
-fullage 2
+fullage 3
 frostproof 2
 fustianize 4
 foggage 1
@@ -7950,7 +7950,7 @@ ferreled 1
 flacks 1
 fidejussionary 2
 falk
-foreshock 2
+foreshock 3
 fluidifier
 formoxime 1
 foreshoe 2
