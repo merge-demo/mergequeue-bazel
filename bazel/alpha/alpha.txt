@@ -6267,7 +6267,7 @@ analogion
 agouara 1
 acetoacetic
 amarth
-autarkic
+autarkic 1
 antioptimist 1
 anachronically
 agoutis 2
@@ -20407,7 +20407,7 @@ applewife 1
 acarus 3
 apothegmatize 1
 arson 2
-accommodating 1
+accommodating 2
 acesodynous
 angiosteosis
 acquiescingly 3
