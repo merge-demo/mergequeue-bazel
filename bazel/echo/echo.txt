@@ -8775,7 +8775,7 @@ eradicant
 epineolithic 2
 equilibrity 1
 embossable 1
-enround
+enround 1
 electrodepositable
 elegist
 erections 1
