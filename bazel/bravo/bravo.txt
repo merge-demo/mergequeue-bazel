@@ -14033,7 +14033,7 @@ breezeways
 blindstory 1
 baitylos 2
 believed 1
-bedangled 2
+bedangled 3
 brachiator 1
 brachyaxis
 brachycephali
@@ -14208,7 +14208,7 @@ bleu 2
 bluebottles 2
 boutiques
 bloodstroke 1
-byegaein
+byegaein 1
 bisectional 5
 bradydactylia 1
 bisulfide 1
