@@ -10025,7 +10025,7 @@ farmerlike 1
 frogskin 1
 fortune 1
 fibrocystoma
-favors
+favors 1
 fringilline 3
 freedom 3
 frothsome 3
