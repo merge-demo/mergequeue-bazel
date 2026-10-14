@@ -4868,7 +4868,7 @@ encourages 1
 embusy
 eucatropine 1
 escapable 3
-exorciser
+exorciser 1
 epidermatoid 3
 encoder 4
 episcopable 3
