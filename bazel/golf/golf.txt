@@ -2022,7 +2022,7 @@ gomorrah 1
 gnaeus 3
 galactia 2
 grithman 1
-gauzy 1
+gauzy 2
 galatae 2
 goitrogenicity 7
 groof 2
@@ -5270,7 +5270,7 @@ goatish 4
 gullet 4
 gelsemiums
 glenohumeral 4
-genomes
+genomes 1
 grouted 4
 garnets 3
 guitarfish 1
