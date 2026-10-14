@@ -6587,7 +6587,7 @@ gambas 2
 guazzo
 groyne 4
 goulan
-ghostwrite
+ghostwrite 1
 gingivolabial 1
 gynandrian 2
 gelsemin 5
