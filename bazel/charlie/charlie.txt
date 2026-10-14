@@ -5222,7 +5222,7 @@ cliftonite
 casketed
 caskets
 credens
-casky 2
+casky 3
 clearer 1
 casking
 casks 1
@@ -13066,7 +13066,7 @@ cibarial 2
 ceroxyle
 champaca 1
 cibarian 1
-cibaries
+cibaries 1
 conyrine 2
 cibbaria 2
 cibboria
