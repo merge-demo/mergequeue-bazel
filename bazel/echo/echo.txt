@@ -3739,7 +3739,7 @@ erodability 1
 expedited
 excessiveness 2
 enslaving 2
-encumbers
+encumbers 1
 enfetter 2
 embrocates 1
 erythroid 1
