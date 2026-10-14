@@ -1627,7 +1627,7 @@ egret
 exsanguine 1
 egromancy 3
 egurgitate 1
-egurgitated 2
+egurgitated 3
 euphonon
 eheu
 explanatively 2
@@ -11834,7 +11834,7 @@ equibalance 1
 epirrhematic 1
 epidendric 2
 etiolation 1
-excalcarate 4
+excalcarate 5
 extractible
 equiproducing 1
 elecive 2
@@ -13633,7 +13633,7 @@ euphemization 4
 epilemma 2
 extensions 2
 eggcup
-expansometer 2
+expansometer 3
 engrosses 2
 empeo 2
 extracorporeally
