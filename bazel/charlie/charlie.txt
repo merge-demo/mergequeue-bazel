@@ -12585,7 +12585,7 @@ cauterizing
 circumventable
 chronoisothermal 2
 cellucotton
-chronologer
+chronologer 1
 circularize 1
 chronological
 chronologies 1
@@ -19401,7 +19401,7 @@ colorifics
 colorimeter 2
 colorimetrically 2
 colorimetrics
-chemmy 1
+chemmy 2
 colorimetrist 1
 carinthian 1
 chrysobalanaceae
