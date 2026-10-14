@@ -3054,7 +3054,7 @@ gastromyces 8
 geometridae 6
 gangshag 3
 geometriform 6
-graminicolous 1
+graminicolous 2
 gemmipares
 glyptotheca 1
 gametogenous 2
@@ -5927,7 +5927,7 @@ gimballed 5
 garrison
 gemitorial 2
 globuliform 1
-gaylussacia 4
+gaylussacia 5
 gluishness 1
 geonyctinastic 2
 germy
