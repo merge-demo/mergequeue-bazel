@@ -5305,7 +5305,7 @@ efik 1
 enchest 1
 emulsionize 1
 engrafting 1
-ecmnesia 1
+ecmnesia 2
 endorsable 3
 entopterygoid 2
 excerpt 2
