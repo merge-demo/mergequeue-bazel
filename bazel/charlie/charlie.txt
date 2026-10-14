@@ -7476,7 +7476,7 @@ cataleptics 3
 ceratoblast 1
 ceratodidae 2
 ceratoduses
-centrifugalization
+centrifugalization 1
 capelet 2
 coistrils 3
 cytogenetical 1
