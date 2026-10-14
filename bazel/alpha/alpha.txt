@@ -7945,7 +7945,7 @@ alerse
 agglutinates 1
 alerta 1
 anorak
-annually
+annually 1
 abstractionists
 adp
 alerters 2
