@@ -5507,7 +5507,7 @@ extramundane 3
 endotheliomyxoma 2
 energize 1
 egging 1
-energizers
+energizers 1
 eosinophilia
 elasmosaurus
 esterifiable 2
