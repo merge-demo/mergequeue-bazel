@@ -536,7 +536,7 @@ gomphocarpus 2
 getters 4
 gnetaceous 5
 gamodemes 4
-galler 1
+galler 2
 grandmammy 4
 grandsirs 1
 germanium
@@ -604,7 +604,7 @@ germanity 2
 gigue 3
 guarauno 4
 galactose
-galbulinae 1
+galbulinae 2
 guaranian 1
 glockenspiels 2
 glossopalatine
@@ -1778,7 +1778,7 @@ glycolipin
 gomerils 2
 germinance 3
 goodless 3
-golliwogs 1
+golliwogs 2
 gallic 6
 gonion 2
 grx 2
