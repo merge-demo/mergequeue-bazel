@@ -3278,7 +3278,7 @@ crayfishing 1
 corregimiento
 capitoline 1
 capitolium
-crabbit 3
+crabbit 4
 capitula 1
 crumbiest 1
 capitulant 1
@@ -6832,7 +6832,7 @@ celloidin 1
 constative 1
 counterbalance
 cellose
-cognizance 1
+cognizance 2
 coadunative 1
 counterreconnaissance
 casketing
