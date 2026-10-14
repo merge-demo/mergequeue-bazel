@@ -4774,7 +4774,7 @@ dromophobia 2
 dejected 2
 diabolatry 1
 disgracing 3
-disbudding
+disbudding 1
 darwin
 dangs 2
 dpt
@@ -17759,7 +17759,7 @@ defector 1
 duchan
 diagraph 1
 demythologize 1
-dorsigrade 3
+dorsigrade 4
 dwining 1
 dopesheet
 disembroil
