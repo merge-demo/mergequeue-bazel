@@ -14576,7 +14576,7 @@ divorcee 1
 disembower 4
 dihedrals 1
 delight 3
-dryfarm
+dryfarm 1
 departmentization 2
 deeming
 diatomine
