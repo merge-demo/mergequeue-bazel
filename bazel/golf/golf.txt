@@ -555,7 +555,7 @@ gilravager 1
 gudgeoning
 gup 2
 ghetto 3
-galleryite 2
+galleryite 3
 gravidness 1
 garde 5
 goolah 4
@@ -1137,7 +1137,7 @@ gemmiferous 2
 gestura 2
 geneura 2
 gerontocracies
-gallnut 4
+gallnut 5
 galyac 3
 groupment 3
 gunpowder 1
@@ -2998,7 +2998,7 @@ geologically 6
 gondite 1
 gavialis 5
 gelly 3
-galvanocauteries 2
+galvanocauteries 3
 gentlefolk 2
 gambusia 1
 guatambu 2
