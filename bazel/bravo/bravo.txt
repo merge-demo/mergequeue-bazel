@@ -11178,7 +11178,7 @@ boodleize 1
 bloodsuck 2
 bloomingly 1
 boleti 2
-biometer 4
+biometer 5
 biforin 1
 bloomless 4
 baptisia
@@ -13232,7 +13232,7 @@ brushfires 1
 bosques 3
 bilked
 bossage
-bossdom 3
+bossdom 4
 boastful
 bructeri
 baromacrometer 2
@@ -14479,7 +14479,7 @@ betray 1
 brakie 2
 blastophitic 3
 bramble 1
-brambleberry 4
+brambleberry 5
 brambles 2
 branchy
 botch
