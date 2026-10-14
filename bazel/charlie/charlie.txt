@@ -626,7 +626,7 @@ caenogenetic 1
 costume
 crimpers 1
 circumscript 3
-coralline 1
+coralline 2
 caenostyly
 caesalpinia
 caenostylic 1
@@ -30359,7 +30359,7 @@ cataphysic
 cabaa
 clingstones
 crusaders
-crusado
+crusado 1
 coastways 1
 canonicalizing
 catalog 1
