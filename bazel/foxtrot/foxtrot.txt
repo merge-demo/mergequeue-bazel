@@ -1050,7 +1050,7 @@ flopper 5
 felspathose 2
 foined 2
 floricomous 2
-forensal
+forensal 1
 fringillidae 3
 foraging 1
 fogas 1
@@ -2721,7 +2721,7 @@ fantasts 3
 fiefs 1
 farcicalness 1
 flagitate
-fimbriated 1
+fimbriated 2
 fusain 2
 frigged
 fleuronne 1
