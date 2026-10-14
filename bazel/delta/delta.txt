@@ -4988,7 +4988,7 @@ dempsters 3
 deaerate 1
 demulcents 1
 diphycercy 1
-diseasedly 1
+diseasedly 2
 demulsified 3
 discession 1
 dipsy 3
@@ -7266,7 +7266,7 @@ diableries
 detergers 1
 diamidogen
 delph
-deifier 1
+deifier 2
 dextrally
 dournesses
 defalk 3
@@ -9595,7 +9595,7 @@ defining 4
 divinised 1
 doctordom 1
 dollie 1
-digressional
+digressional 1
 digressive 1
 digressory 2
 dastard 1
@@ -18236,7 +18236,7 @@ dispirem 1
 dungas 2
 doghearted 2
 dungbeck 1
-demioctangular 1
+demioctangular 2
 discussant 1
 drogermen 1
 dishonorable 1
