@@ -5393,7 +5393,7 @@ castes 1
 chrysanthemin
 casteth
 crossbench 2
-castice
+castice 1
 castigable 2
 confederates
 constatation 2
