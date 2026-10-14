@@ -14445,7 +14445,7 @@ duopolist 1
 denies 2
 dindymene 1
 divertibility 3
-diverticle 2
+diverticle 3
 daibutsu 2
 disguisedness
 disruptment 1
@@ -15576,7 +15576,7 @@ diathermize 1
 donzels 1
 doob 1
 diazobenzene 2
-doodab
+doodab 1
 demurrages 2
 dowdyish 4
 dehnstufe 2
