@@ -1068,7 +1068,7 @@ dimeters 2
 decarch
 dorsodynia 6
 doling
-darraign 2
+darraign 3
 dacryocystorhinostomy 2
 depositions 2
 darrein 2
@@ -15942,7 +15942,7 @@ dynamitic 4
 distasting 1
 deprivers 3
 doted 1
-diploplacula 1
+diploplacula 2
 doters 4
 donable 3
 dotes 1
@@ -18357,7 +18357,7 @@ dismantled 1
 departmentalizes 2
 downloaded 2
 duodenocholecystostomy 2
-duodenocholedochotomy 3
+duodenocholedochotomy 4
 depolishing 1
 diaphanoscope
 decency 1
