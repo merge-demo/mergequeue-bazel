@@ -5757,7 +5757,7 @@ depolarize 3
 dextrorsal 1
 decouple 1
 downstroke 1
-diaphany 1
+diaphany 2
 downloads 2
 diazotizability
 droves 1
@@ -17836,7 +17836,7 @@ decurve 3
 dermoblast 1
 definable 2
 dictatorship 4
-disenthrallment
+disenthrallment 1
 dunkirk
 dude
 dyophysitical 3
