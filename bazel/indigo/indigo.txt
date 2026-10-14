@@ -3921,7 +3921,7 @@ ifbenxiv 4
 ifbfemcic 2
 ifbianbtj 3
 ifbinn 2
-ifbjuv 2
+ifbjuv 3
 ifbknlspf 1
 ifbkpu 1
 ifbktys 1
