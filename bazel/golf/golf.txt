@@ -1813,7 +1813,7 @@ gatehouses 2
 grueler 2
 gastrotomic
 gulsach 2
-glycine 2
+glycine 3
 gastrocolostomy 3
 geodesia 4
 gastrovascular 2
@@ -9543,7 +9543,7 @@ gleaners 5
 greenlander 2
 gadaea
 gastrophthisis 2
-gastrocentrous 1
+gastrocentrous 2
 greets 2
 geldability 1
 grouts 4
@@ -10700,7 +10700,7 @@ guardhouse 2
 gobbler 2
 gonadectomies 1
 gucked 1
-germanophobic 1
+germanophobic 2
 garbanzo 3
 gu 1
 grams

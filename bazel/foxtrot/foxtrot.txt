@@ -4365,7 +4365,7 @@ finagle 2
 feebler 4
 foraramina 1
 foreacquaint 3
-fencer 1
+fencer 2
 fuliginously 4
 fise 2
 forb 3
@@ -8471,7 +8471,7 @@ formelt 1
 ferritic 1
 filmsetter 2
 fortin 2
-frondesce 1
+frondesce 2
 factorized 3
 formatter 2
 father 1
@@ -10979,7 +10979,7 @@ firebolt 2
 fleshlier 2
 furmities 2
 fumatory 3
-flatuous 1
+flatuous 2
 floricin 1
 featherpated 1
 fumatoria 2
