@@ -8471,7 +8471,7 @@ formelt 1
 ferritic 1
 filmsetter 2
 fortin 2
-frondesce 1
+frondesce 2
 factorized 3
 formatter 2
 father 1
