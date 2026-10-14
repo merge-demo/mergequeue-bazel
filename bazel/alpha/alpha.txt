@@ -15351,7 +15351,7 @@ antiinsurrectionists 1
 anamniotic
 antikathode
 abatements
-angioparalysis
+angioparalysis 1
 adulterate
 antikenotoxin 3
 abwatt 3
