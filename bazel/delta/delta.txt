@@ -412,7 +412,7 @@ daiquiri 3
 dingle 1
 diriment 1
 diathermia 1
-dominos 4
+dominos 5
 dwelt 3
 destructing
 desulfurise
@@ -2739,7 +2739,7 @@ deedful
 darker 1
 dassy 1
 deductibility
-decoration
+decoration 1
 diogenic 1
 decorator
 deliberated 2
@@ -5126,7 +5126,7 @@ detect 2
 dendrology
 dola
 daubes 1
-dumber 1
+dumber 2
 dendrologous 3
 derivatives 1
 devorative
