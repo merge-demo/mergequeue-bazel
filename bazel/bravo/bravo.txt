@@ -2596,7 +2596,7 @@ blawed 2
 bridgelike
 barkary
 bluestocking 1
-barkbound
+barkbound 1
 bamoth 2
 betterments 1
 barkcutter
@@ -3273,7 +3273,7 @@ basinful 1
 benzines 2
 bewhig 2
 begartered 3
-bethank 1
+bethank 2
 bookkeeps
 basidiophore 1
 bourn
@@ -7387,7 +7387,7 @@ burleys
 braker
 busyworks 1
 boomdas
-busky 1
+busky 2
 beneceptor 1
 botryose
 beton 2
@@ -12215,7 +12215,7 @@ banque
 beld
 bolognas 2
 bolognese 1
-balaenopteridae 1
+balaenopteridae 2
 birdling 3
 besmut 1
 broos 2
@@ -12863,7 +12863,7 @@ bondslave 1
 behorror 4
 bifoil 1
 birthplace 2
-bg 2
+bg 3
 bacchiac
 bangster
 bkpt 4
