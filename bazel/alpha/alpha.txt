@@ -17398,7 +17398,7 @@ afret 3
 archenemy 1
 apothecium 1
 antozonite
-adonized 1
+adonized 2
 antitrope
 aphidophagous 1
 archdioceses
