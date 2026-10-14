@@ -18438,7 +18438,7 @@ albeston
 arbalestrier
 andromania
 arbalists
-adventry 1
+adventry 2
 abrenunciation 2
 arbela 1
 adeline 1
@@ -22703,7 +22703,7 @@ awide
 agneaux 2
 anathema
 athyrid
-archegoniophore
+archegoniophore 1
 airings
 athyrosis 3
 aflight
@@ -25329,7 +25329,7 @@ ampoule 3
 antidotes 1
 archplayer
 aboideaus
-antireactionaries
+antireactionaries 1
 azophenine
 azoprotein 2
 adjustage
