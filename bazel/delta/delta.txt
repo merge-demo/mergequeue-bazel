@@ -15837,7 +15837,7 @@ diablerie 1
 dorsocaudad 2
 dorsocentral 1
 diminishing 1
-dayglow
+dayglow 1
 disfrancnise 4
 disaccredit
 distillers
