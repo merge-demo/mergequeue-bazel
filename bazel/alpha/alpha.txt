@@ -3112,7 +3112,7 @@ actinostereoscopy 3
 azthionium 1
 avowableness 2
 arthrodia
-aequipalpia
+aequipalpia 1
 actinostome 1
 abrachias
 apiculation 2
@@ -8518,7 +8518,7 @@ antiphonetic 1
 alkylidene 3
 afterburners
 autocoids 1
-astronautics 1
+astronautics 2
 actinotrocha 2
 atabal 1
 aborts
@@ -23558,7 +23558,7 @@ aulicism 2
 aries
 antaphroditic
 acetoxime 1
-auloi
+auloi 1
 anthropotomist 2
 abastardize 1
 amphisbaenous 1

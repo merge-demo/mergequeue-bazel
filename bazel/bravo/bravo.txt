@@ -1547,7 +1547,7 @@ ballets 1
 brevetcy 1
 blowtube
 ballgame 3
-ballhooter 3
+ballhooter 4
 backslash 3
 balli
 burmanniaceous
@@ -1954,7 +1954,7 @@ belk 1
 bantoid 1
 babesiasis 2
 bange 1
-boardroom
+boardroom 1
 browns 2
 bronchoscopy
 brachydactyl 3
@@ -3795,7 +3795,7 @@ baubo 2
 bauch 1
 bondoc 2
 baboon 2
-bazzite 3
+bazzite 4
 browsing 1
 bescorched
 balancer 1
