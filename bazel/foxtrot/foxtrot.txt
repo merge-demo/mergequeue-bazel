@@ -6541,7 +6541,7 @@ firebed
 forecover 2
 flytime 1
 flutterboard 2
-faucal 5
+faucal 6
 fluotantalate 1
 flutteriness 1
 flagrate 3
