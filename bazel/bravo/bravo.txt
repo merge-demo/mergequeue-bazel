@@ -649,7 +649,7 @@ begalls 1
 bacteriotherapeutic 1
 bechances
 beletter
-bronchocavernous 1
+bronchocavernous 2
 bynames
 bungles 2
 bkpr 1
@@ -6913,7 +6913,7 @@ betta 1
 becoward 1
 bargoose 1
 badder 1
-bismuths 2
+bismuths 3
 bagheli 1
 brott 1
 bilihumin 2
@@ -7946,7 +7946,7 @@ beclad 3
 bap 2
 bushels 1
 brusher 3
-bicarbureted 1
+bicarbureted 2
 bicarburetted
 binucleated 5
 beanbag 4
@@ -17014,7 +17014,7 @@ bulge 1
 behemoth 2
 braziers 4
 bibliothecarial 1
-bedaubs 1
+bedaubs 2
 bubblish 3
 bulger 2
 boyhood 1
