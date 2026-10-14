@@ -25110,7 +25110,7 @@ complacential 1
 coreplastic
 corepressor
 cubas
-craniologically 1
+craniologically 2
 calomba 4
 chatillon 1
 connotes 2
@@ -30220,7 +30220,7 @@ crudity 1
 crudities 2
 companions
 countryfied
-crudle
+crudle 1
 cruds
 cruel 1
 crueller 1
