@@ -1747,7 +1747,7 @@ deathlikeness 1
 dundees 4
 deathliness 2
 deathrates
-deathsman
+deathsman 1
 discrepating
 dumble 1
 derogation
