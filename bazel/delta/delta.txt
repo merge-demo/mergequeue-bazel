@@ -3948,7 +3948,7 @@ doctorates 3
 donne 1
 delabialization 1
 denigration 1
-delabializing 3
+delabializing 4
 distensibility
 delayable 1
 demes 1
@@ -11447,7 +11447,7 @@ drungar 3
 devaluations
 deadeye 1
 duodenogram 1
-dehaites
+dehaites 1
 degumming 3
 draconis 1
 distorted 1
@@ -13866,7 +13866,7 @@ distempering 1
 distemperoid 2
 distending 4
 drowns 1
-disalike 1
+disalike 2
 dyslexia 2
 dissavage 1
 dipter
