@@ -12549,7 +12549,7 @@ dracocephalum 2
 drugstores 1
 doina 2
 disinflate 2
-dortour
+dortour 1
 droitural 1
 doping
 dropsically 2
@@ -13167,7 +13167,7 @@ dicentrin 1
 damasks 3
 dispiritedly 1
 detonable 1
-dyssystole
+dyssystole 1
 deambulation 2
 dispiteousness 1
 decomposed 2
@@ -16472,7 +16472,7 @@ datiscin 2
 deodorizing 1
 dracone 3
 decelerator 2
-draconian 1
+draconian 2
 disagreeance 1
 douzieme 1
 drumread 4
