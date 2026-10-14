@@ -4960,7 +4960,7 @@ gardens
 grenadierly 3
 guddle 3
 grondwet 3
-gynaecol 4
+gynaecol 5
 gamines 2
 gladioluses 1
 girondist 1
@@ -7502,7 +7502,7 @@ glossodynia 3
 generalization 1
 glial 2
 goals 2
-gamogenesis 3
+gamogenesis 4
 gaen
 glycolytic
 gortonian 5
@@ -7660,7 +7660,7 @@ gool 1
 gnathometer 5
 guachamaca 3
 germane 2
-geira 1
+geira 2
 grounding 3
 geodynamics 3
 gyppery 3
