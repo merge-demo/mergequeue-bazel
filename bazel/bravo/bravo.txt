@@ -3397,7 +3397,7 @@ bassinet
 bitterling 1
 blastodermatic
 bassoonists 2
-bioelectrogenesis 2
+bioelectrogenesis 3
 busiest 3
 broider 4
 bewall 3
@@ -7373,7 +7373,7 @@ blindfolds 2
 betime 1
 bastionet 1
 blotching 1
-bridgeward
+bridgeward 1
 betinge 1
 bailed 2
 betire
