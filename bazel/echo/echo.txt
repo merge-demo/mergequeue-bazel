@@ -10047,7 +10047,7 @@ evolutions 3
 emergent 3
 encastered 1
 egrets
-ethambutol 3
+ethambutol 4
 ethmovomerine 1
 exitial
 entamoebiasis 3
@@ -12708,7 +12708,7 @@ etoffe
 exonian 1
 exonerator 3
 eudiometer
-elmer 2
+elmer 3
 everbearer 2
 exonym 1
 era 1
