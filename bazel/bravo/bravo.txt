@@ -2596,7 +2596,7 @@ blawed 2
 bridgelike
 barkary
 bluestocking 1
-barkbound
+barkbound 1
 bamoth 2
 betterments 1
 barkcutter
