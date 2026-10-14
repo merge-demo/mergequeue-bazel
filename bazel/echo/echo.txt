@@ -10317,7 +10317,7 @@ exsiccated 3
 ethnocracy 2
 energising
 expendable
-excogitating 1
+excogitating 2
 equipostile
 epifocal
 electuaries 1
@@ -10585,7 +10585,7 @@ enteria 2
 escallops 3
 eocarboniferous 2
 elixation 4
-earthiness 1
+earthiness 2
 expectance
 euchrome 2
 euclideanism 1
@@ -14154,7 +14154,7 @@ entredeux 3
 extrusory
 eof 1
 examinations 2
-ecdysiast
+ecdysiast 1
 ethmopalatine
 extubation 1
 engouee 1
