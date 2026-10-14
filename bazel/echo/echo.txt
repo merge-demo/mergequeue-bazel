@@ -5305,7 +5305,7 @@ efik 1
 enchest 1
 emulsionize 1
 engrafting 1
-ecmnesia 1
+ecmnesia 2
 endorsable 3
 entopterygoid 2
 excerpt 2
@@ -6152,7 +6152,7 @@ entheos 1
 evelyn
 ergoplasm
 excommunicant 1
-entozoans 1
+entozoans 2
 epicentre 1
 eaved 2
 earlywood 1
@@ -9764,7 +9764,7 @@ essentialization 3
 essentially 2
 easterner 3
 exigencies 1
-expeditation 2
+expeditation 3
 easinesses 1
 eightballs
 eumelanin
