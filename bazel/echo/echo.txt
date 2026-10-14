@@ -2999,7 +2999,7 @@ equiprobabilism 1
 eliminated 1
 ectopia 2
 elymus
-ergotamine 1
+ergotamine 2
 epitomes 2
 enallage 3
 elinguate 3
@@ -6746,7 +6746,7 @@ effume 2
 ectosomal 3
 extratarsal 1
 esthesioneurosis
-exsuperate 1
+exsuperate 2
 exhilarate 1
 enthral 1
 eschewers 2
@@ -11623,7 +11623,7 @@ effet 1
 excided 4
 enfrenzy 1
 ersatz 2
-ethnocentricity
+ethnocentricity 1
 empoison 2
 exclosure
 emollition 4

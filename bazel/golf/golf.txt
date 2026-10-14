@@ -1234,7 +1234,7 @@ gramy 5
 gruffly 4
 gambler 5
 gonakie 3
-grackles 3
+grackles 4
 guana
 gaufre
 glittered 1
@@ -3763,7 +3763,7 @@ goggle 1
 greenfinch 6
 grumpishness 1
 greycoat 2
-giants 3
+giants 4
 gratifyingly
 glossology 5
 gentian
@@ -5517,7 +5517,7 @@ gloams
 granadillo 3
 glutinously 4
 grudgeons 4
-greencoat 2
+greencoat 3
 glob 3
 gestured 2
 gnetum 2
@@ -6492,7 +6492,7 @@ grit
 graduatical 4
 ghazel 2
 gliming 3
-grooving 4
+grooving 5
 gibbert 5
 grutches 3
 goaltenders 3

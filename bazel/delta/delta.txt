@@ -473,7 +473,7 @@ decopperize 2
 desocialization
 dalapons
 dermititis 1
-dairying 1
+dairying 2
 dilleniaceous 2
 dale
 deutochloride 4
@@ -1518,7 +1518,7 @@ doarium 1
 deked 2
 deaconate
 demigorge 1
-delphinoidea 1
+delphinoidea 2
 downer 4
 discourager 2
 deaconesses 2
@@ -17621,7 +17621,7 @@ ducktails 2
 dsects
 desmodium 1
 disillusionize 2
-disannulled 1
+disannulled 2
 dinners 1
 dsname 2
 dsri 1
