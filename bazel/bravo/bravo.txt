@@ -11178,7 +11178,7 @@ boodleize 1
 bloodsuck 2
 bloomingly 1
 boleti 2
-biometer 4
+biometer 5
 biforin 1
 bloomless 4
 baptisia
@@ -11950,7 +11950,7 @@ bessarabian 4
 brinded 1
 bogyism
 bogyman 2
-broncobusters 1
+broncobusters 2
 bandagers
 birmingham
 bbls
@@ -14479,7 +14479,7 @@ betray 1
 brakie 2
 blastophitic 3
 bramble 1
-brambleberry 4
+brambleberry 5
 brambles 2
 branchy
 botch
