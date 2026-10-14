@@ -1247,7 +1247,7 @@ fastening 3
 frocked 3
 futteret 2
 fama 3
-favella 4
+favella 5
 forevouch
 femalize 2
 fatuate 3
@@ -3480,7 +3480,7 @@ fecundity 2
 fleeches
 fanfares 3
 fingerable 1
-frostfishes 3
+frostfishes 4
 foreseason 1
 fallback 3
 fighteress 1
@@ -8756,7 +8756,7 @@ flogged 2
 followership 4
 fortuuned 3
 forester 3
-fossule 2
+fossule 3
 fiddlers 2
 forwardal 4
 fermentability
