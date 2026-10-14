@@ -1984,7 +1984,7 @@ goring 3
 grubroot 2
 glut 5
 gripes 6
-grudged 2
+grudged 3
 ghastlier 1
 guttable 1
 gonif
@@ -5680,7 +5680,7 @@ gaultheria 4
 galvanographic 2
 glandulous 3
 gallophile 1
-gristliest
+gristliest 1
 greenlandman 4
 gnomonia 2
 gastrophrenic 4
@@ -10727,7 +10727,7 @@ gussets 1
 gloms 1
 gairfish 2
 gassers 1
-gaddi 2
+gaddi 3
 gustard 4
 guergal 1
 gustatorial 2
