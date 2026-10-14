@@ -19903,7 +19903,7 @@ comitatensian 2
 collectives 1
 contriturate 2
 clayish
-comity
+comity 1
 comitia 1
 comitial
 colortype
@@ -20296,7 +20296,7 @@ cercospora
 command 1
 communicatory 2
 communicators 1
-communionable 1
+communionable 2
 cornrows 3
 caracoled 1
 contubernium 2
