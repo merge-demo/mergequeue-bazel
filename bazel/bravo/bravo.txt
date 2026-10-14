@@ -918,7 +918,7 @@ bagrationite 1
 berryless 3
 bivinyl
 biopsychic 4
-belligerently
+belligerently 1
 bagsful 1
 bequirtle
 bazookaman
@@ -3183,7 +3183,7 @@ balkanizing
 basiarachnoiditis 2
 befanned
 bauld 2
-bronchiarctia 2
+bronchiarctia 3
 basically 2
 befriends 1
 basicerite
