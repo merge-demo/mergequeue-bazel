@@ -152,7 +152,7 @@ ghettoized 1
 glunimie
 galactosyl 1
 galvanosurgery 1
-gybe 3
+gybe 4
 glacialize 4
 graphorrhea 5
 guesthouse 4
@@ -4633,7 +4633,7 @@ gyrodactylidae 2
 glucagons 1
 gapa
 girthing 3
-gaudeamus
+gaudeamus 1
 gyrodactylus 3
 grapeshot 2
 gustatorially 1
