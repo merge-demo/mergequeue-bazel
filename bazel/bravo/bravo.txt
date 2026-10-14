@@ -649,7 +649,7 @@ begalls 1
 bacteriotherapeutic 1
 bechances
 beletter
-bronchocavernous 1
+bronchocavernous 2
 bynames
 bungles 2
 bkpr 1
@@ -7946,7 +7946,7 @@ beclad 3
 bap 2
 bushels 1
 brusher 3
-bicarbureted 1
+bicarbureted 2
 bicarburetted
 binucleated 5
 beanbag 4
