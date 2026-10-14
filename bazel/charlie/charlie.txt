@@ -26576,7 +26576,7 @@ commandeered
 clank 2
 concactenated
 coughing
-coughs
+coughs 1
 could 1
 coul
 candleberry
