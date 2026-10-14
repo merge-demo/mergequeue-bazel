@@ -5912,7 +5912,7 @@ kiosayvpcp 2
 kiosektfevpz 2
 kiothp 2
 kiotlctukdb
-kiotmul
+kiotmul 1
 kiovfximi 4
 kiovjyei 1
 kiowkl 2
