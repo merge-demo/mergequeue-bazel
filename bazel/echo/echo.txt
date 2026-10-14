@@ -4868,7 +4868,7 @@ encourages 1
 embusy
 eucatropine 1
 escapable 3
-exorciser
+exorciser 1
 epidermatoid 3
 encoder 4
 episcopable 3
@@ -9951,7 +9951,7 @@ estreat
 excogitable
 estrangelo 2
 eudalene 1
-eucalyptuses 2
+eucalyptuses 3
 evert 2
 ertebolle 2
 eschars 1

@@ -5080,7 +5080,7 @@ fumettes
 frsikets 5
 flagboat 3
 flareback 2
-furnishness 2
+furnishness 3
 fishweir
 flossa 2
 felicitated
@@ -5352,7 +5352,7 @@ feoffee 2
 fleadock 2
 fleahopper
 fructuously
-familyish 1
+familyish 2
 fimbrilla
 finiking 5
 flouncier 1
@@ -10687,7 +10687,7 @@ frumenty
 fungals 5
 footband 5
 fastidiously 2
-forecar 1
+forecar 2
 finnier 2
 fantasizes
 fatherliness 1
