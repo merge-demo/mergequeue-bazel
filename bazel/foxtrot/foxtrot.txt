@@ -5040,7 +5040,7 @@ ferries 2
 fizz 1
 forekeel
 faithbreaker 1
-faconne
+faconne 1
 fulmarus 3
 flapdock 2
 fluvialist 3
@@ -6514,7 +6514,7 @@ facility 3
 filagreeing 3
 forgie 2
 farweltered 2
-fip 1
+fip 2
 failsoft 3
 frotted
 forspread
