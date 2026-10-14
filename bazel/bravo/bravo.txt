@@ -1552,7 +1552,7 @@ backslash 3
 balli
 burmanniaceous
 burlesques
-befiddle
+befiddle 1
 bacchanal 2
 brahminism
 ballies 3
@@ -5316,7 +5316,7 @@ beglerbeglic 2
 blatant 3
 bakalai 1
 burka 2
-behew 2
+behew 3
 brahmaic 3
 beglerbegluc 2
 biannulate
