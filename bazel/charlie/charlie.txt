@@ -3369,7 +3369,7 @@ carrots 1
 capote 1
 cyclohexene 1
 capouches
-cappadocian
+cappadocian 1
 crypted
 capparid
 capparis
