@@ -3480,7 +3480,7 @@ fecundity 2
 fleeches
 fanfares 3
 fingerable 1
-frostfishes 3
+frostfishes 4
 foreseason 1
 fallback 3
 fighteress 1
