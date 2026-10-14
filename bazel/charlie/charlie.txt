@@ -1226,7 +1226,7 @@ commissarial
 calef
 calefacient
 craunched 2
-caudad 2
+caudad 3
 calefactive
 coterell 2
 crzette 1
@@ -2429,7 +2429,7 @@ chastize 2
 cancerigenic 1
 catechol 1
 cancerism
-cystidiums 1
+cystidiums 2
 conemaking 1
 cancerogenic 1
 circumcentral
@@ -22585,7 +22585,7 @@ connectival 1
 connective
 connectively
 clavichordists
-convallariaceous 1
+convallariaceous 2
 catholicate
 connector 1
 connectors
