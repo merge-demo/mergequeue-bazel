@@ -626,7 +626,7 @@ caenogenetic 1
 costume
 crimpers 1
 circumscript 3
-coralline 1
+coralline 2
 caenostyly
 caesalpinia
 caenostylic 1
@@ -13986,7 +13986,7 @@ cypher
 cipherdom 1
 causeur
 cyphered 1
-cipherer 1
+cipherer 2
 cipherhood 2
 ciphering
 ciphertexts 1
