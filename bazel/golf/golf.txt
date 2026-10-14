@@ -1903,7 +1903,7 @@ gaussmeter
 gatteridge 2
 gammaridae 5
 gaucho 2
-generalists 2
+generalists 3
 gerbillus 1
 gamelote 3
 germaniums 3
@@ -6893,7 +6893,7 @@ glibly 2
 goodenia 2
 gestated 2
 gatling
-guyed
+guyed 1
 gitterns 1
 guttiferae 3
 gombay 2
