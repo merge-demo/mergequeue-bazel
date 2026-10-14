@@ -7292,7 +7292,7 @@ dowage 1
 disseized 1
 diffusivity
 dollies
-diaxone
+diaxone 1
 disturbor
 desiccative 2
 doukhobor 1
