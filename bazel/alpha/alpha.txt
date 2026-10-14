@@ -19338,7 +19338,7 @@ arete 1
 automatist 2
 alkaliferous 2
 abluent
-arethusas
+arethusas 1
 alk 2
 aretinian
 anticoagulating 1
