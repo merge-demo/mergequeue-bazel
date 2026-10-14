@@ -287,7 +287,7 @@ febrifacient 1
 footpounds 3
 firbolg
 flagarie 2
-fideism 2
+fideism 3
 fissle 1
 foxfire 5
 fledges 1
@@ -11477,7 +11477,7 @@ froggery
 formular 1
 fuzzle 4
 foothill 1
-ferrite 1
+ferrite 2
 foredescribe 3
 farms 2
 facilities 1
