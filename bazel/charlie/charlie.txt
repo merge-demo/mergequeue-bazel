@@ -25860,7 +25860,7 @@ corruptress 1
 corrupts 1
 corsac 3
 corsacs 2
-connarus 3
+connarus 4
 corsages
 corsairs 1
 chalcid 1
