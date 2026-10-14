@@ -1512,7 +1512,7 @@ ballads 2
 balete 2
 baralipton 1
 bloodmonger
-blackware
+blackware 1
 ballas 1
 baronetised 4
 blacktopping
