@@ -5507,7 +5507,7 @@ extramundane 3
 endotheliomyxoma 2
 energize 1
 egging 1
-energizers
+energizers 1
 eosinophilia
 elasmosaurus
 esterifiable 2
@@ -6909,7 +6909,7 @@ endometria 4
 evaporable
 equipments
 embelif 2
-eucalyn 1
+eucalyn 2
 epiblema 1
 epitrchelia 1
 exudation 7
