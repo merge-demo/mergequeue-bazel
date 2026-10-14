@@ -5531,7 +5531,7 @@ gustier 3
 genear 1
 globalizing 3
 gisants 1
-groggeries 2
+groggeries 3
 gyrovagi 2
 gently 1
 gump 2
@@ -6774,7 +6774,7 @@ graybeards 4
 ganev 4
 garvanzo 4
 ganocephala 4
-gonionia 1
+gonionia 2
 gnosticize 4
 genericness 5
 gamelang 3
