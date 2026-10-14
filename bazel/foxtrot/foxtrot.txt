@@ -803,7 +803,7 @@ fowl 2
 fermate 3
 frizado 1
 flatulently 4
-frowsy 2
+frowsy 3
 flypast
 forgedly 2
 flusher 2
@@ -1025,7 +1025,7 @@ fragmentalize 3
 flatboats 2
 finalists 2
 farinometer 2
-farinose
+farinose 1
 founce 3
 flannelly
 firesafety
@@ -2115,7 +2115,7 @@ flappered
 fellating 1
 furane 2
 fluorometric 1
-freightliner 5
+freightliner 6
 fellation 1
 fluttersome 4
 fellations 1
