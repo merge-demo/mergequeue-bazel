@@ -3384,7 +3384,7 @@ cyclopite 2
 coenact 1
 comfits
 cappings
-coagencies
+coagencies 1
 capple
 cappuccino 2
 chandu
