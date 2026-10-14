@@ -1467,7 +1467,7 @@ gamma 3
 gerousia
 gynocardia 5
 gradualness 1
-guydom 2
+guydom 3
 gasboat 4
 giddiness 3
 gaselier 2
@@ -8016,7 +8016,7 @@ gastronomics 2
 gata 4
 gunstock 1
 gossiper 3
-grandpapa
+grandpapa 1
 grunting 2
 geophysicists 3
 grotesquerie 1
@@ -9589,7 +9589,7 @@ gogmagog 4
 gravelike 4
 gobbed
 gossiphood 1
-gujrati 2
+gujrati 3
 gerbe
 gowds 1
 gedanite 2
