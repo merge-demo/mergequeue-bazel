@@ -3000,7 +3000,7 @@ firelit 1
 fiance
 fleeciness 2
 formaldehyd 3
-fistmele 2
+fistmele 3
 fremontia 2
 flowers 3
 fasciate 3
@@ -8418,7 +8418,7 @@ formalesque
 foistiness 1
 flatfootedly
 freshmanic 4
-formulize 3
+formulize 4
 fierier 4
 flushers 2
 fatheadedly
