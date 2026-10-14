@@ -5945,7 +5945,7 @@ bangalay 2
 bude
 benumbing
 battiness
-beltless
+beltless 1
 benchmarks 2
 biauriculate 1
 brecciate 1
