@@ -6866,7 +6866,7 @@ dryobalanops
 dragnet 1
 deadflat 1
 deltic 1
-domesticative 1
+domesticative 2
 derivative
 desmopathology 1
 desmopexia 1
@@ -11515,7 +11515,7 @@ deputation 1
 drachen 1
 discomfort 1
 dewaterer 4
-diaphragmatic 3
+diaphragmatic 4
 demarch 3
 delies 1
 dismounts 1
@@ -18351,7 +18351,7 @@ degelation
 dyestuff 1
 diallelon 2
 duodene 3
-duodenitis 1
+duodenitis 2
 denominationalism 1
 dismantled 1
 departmentalizes 2

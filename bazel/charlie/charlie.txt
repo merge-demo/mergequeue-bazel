@@ -21670,7 +21670,7 @@ condylure
 compriest 1
 chondria 1
 counterpressure 1
-cimolite
+cimolite 1
 cobalamine 1
 cervicoaxillary 3
 cancered 2
@@ -24123,7 +24123,7 @@ crimples 2
 convertor 1
 claybrained 1
 coenzymes 2
-conveth
+conveth 1
 convex 2
 convexedness 1
 chippage 1
