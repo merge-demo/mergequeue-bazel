@@ -7102,7 +7102,7 @@ flagger 2
 footstick 1
 fickler 2
 figurant 1
-fractionator 3
+fractionator 4
 fripper 1
 flaker 1
 fiddleback 2
@@ -10659,7 +10659,7 @@ fruitiness 3
 fieldworker 4
 flagless 1
 fist 4
-footler 1
+footler 2
 famish 3
 frightable 3
 facultied 1
