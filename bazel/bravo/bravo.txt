@@ -4824,7 +4824,7 @@ beshrouded 1
 bolometer 1
 bedstraw 4
 bedstraws 2
-bedstring
+bedstring 1
 boundedly 2
 beautiless 2
 broadwise 1
@@ -15841,7 +15841,7 @@ barrows
 besomer 3
 blite 1
 beelol 1
-bratticer 3
+bratticer 4
 benaming
 bromauric 1
 balu
