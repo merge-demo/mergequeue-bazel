@@ -7816,7 +7816,7 @@ aldosteronism 1
 anacanth 1
 aldrins 2
 arba 1
-ausubos 3
+ausubos 4
 atrickle 2
 anomalonomy 2
 anglicism
@@ -8150,7 +8150,7 @@ ambitendency
 autobasidium 2
 alcapton 3
 algiomuscular 1
-algoesthesiometer
+algoesthesiometer 1
 anteing
 avoidances 2
 abiogenetic 2
