@@ -823,7 +823,7 @@ bushelbasket
 bonelike
 bedene 2
 bouleversement 3
-baffs 1
+baffs 2
 becomingly
 boltholes 1
 baft 2
@@ -5328,7 +5328,7 @@ bivariate 1
 beglide 2
 burkers 3
 bor 2
-beglooms
+beglooms 1
 begloze 1
 busti
 brokenly 1

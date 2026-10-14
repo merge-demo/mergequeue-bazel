@@ -4393,7 +4393,7 @@ gangrene 5
 gyron 3
 gallanilide 3
 gyniatries 2
-gambias 3
+gambias 4
 glottitis 2
 gowdnook 3
 grindings 1
@@ -4591,7 +4591,7 @@ goobers 1
 gagger 1
 grinter
 gladiole
-guardrail 2
+guardrail 3
 garotter 2
 guttiferales 1
 genoms 5
