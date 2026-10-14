@@ -4853,7 +4853,7 @@ carriageable
 carriageful 2
 clachans 2
 carriages 1
-crosstie
+crosstie 1
 carriagesmith 1
 cinchonicin 1
 carriageway 2
@@ -6983,7 +6983,7 @@ colubrid 2
 cenomanian 1
 calciphobic
 cenosity
-championless 1
+championless 2
 cenotaphy
 contorsive 1
 craighle 2
@@ -28268,7 +28268,7 @@ crassest 1
 conspiratory
 certioration
 considerance
-choroidoiritis 1
+choroidoiritis 2
 cryptogrammic 2
 crassities 2
 crassly 1
@@ -28381,7 +28381,7 @@ coalpits 2
 conversations 1
 craze
 caupones
-crazed 1
+crazed 2
 crazedly
 crazes 1
 crazy 2
@@ -29184,7 +29184,7 @@ criophore 2
 crannogs 1
 chlordiazepoxide 1
 crownband
-cryoscopy 2
+cryoscopy 3
 colloblast
 candock 1
 comparator

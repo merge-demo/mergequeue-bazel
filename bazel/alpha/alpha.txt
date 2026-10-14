@@ -6128,7 +6128,7 @@ alfaquis 1
 ahey
 autocytolytic
 alois 1
-aglypha
+aglypha 1
 analogal 1
 articular 1
 asymtotically 1
@@ -8822,7 +8822,7 @@ allobar 1
 allobaric
 ammonolyses 1
 adolescency
-anthophore
+anthophore 1
 allobrogical
 abidance 1
 absorption 1
@@ -12181,7 +12181,7 @@ alieners 1
 anattos 1
 anatum
 analysable
-anerethisia 2
+anerethisia 3
 amphibali
 aegyptilla 1
 antiflash
@@ -24001,7 +24001,7 @@ acclamations 2
 apsinthion
 autocatalyze
 aeolipile 2
-aquiferous
+aquiferous 1
 autocholecystectomy 1
 apoplectical 1
 autochthon 1
