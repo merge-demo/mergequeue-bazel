@@ -2689,7 +2689,7 @@ granule 1
 gemarist 2
 gigantocyte 3
 genioglossal 2
-gastroenterologists 3
+gastroenterologists 4
 globoids 3
 geoteuthis
 genioglossus 1
@@ -5019,7 +5019,7 @@ gynandrosporous 2
 goiabada 2
 glykopectic 1
 galleypot 3
-governesshood 2
+governesshood 3
 glaucousness 3
 ghouls 2
 giganticidal
@@ -10259,7 +10259,7 @@ galvanoplastically 1
 grownup 2
 gauzelike 2
 guanases 2
-globulitic
+globulitic 1
 goers 2
 galeproof 1
 gregarious 3
