@@ -7054,7 +7054,7 @@ fimbriae
 functioning 2
 foodful 3
 fulfilled 3
-fribby
+fribby 1
 fatalities
 foreknow 1
 flowk 4
