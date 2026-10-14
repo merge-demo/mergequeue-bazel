@@ -11311,7 +11311,7 @@ epoche 1
 excoriator 1
 earthbred 4
 evaporators 2
-ecurie 1
+ecurie 2
 englander
 enrank
 entirety
