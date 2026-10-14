@@ -906,7 +906,7 @@ ferine 2
 fenberry 2
 fanwise 2
 falangism 1
-faddier
+faddier 1
 fadaise 2
 fleabug 3
 fallouts 2
@@ -6903,7 +6903,7 @@ fleme 3
 felafel 1
 fanakalo 2
 flintwood 2
-flosculous 1
+flosculous 2
 februaries 2
 feculence 5
 forswear 1
@@ -9884,7 +9884,7 @@ forgiven 4
 fastuously 3
 forcelessness 2
 flintstone 3
-fewnesses 4
+fewnesses 5
 folksey 1
 flitching 1
 fraghan 4
@@ -10995,7 +10995,7 @@ foreweep 2
 fatlike 3
 furfurol 1
 fumblers 1
-feign 4
+feign 5
 fumbles 1
 fumblingness 4
 fumed 1
