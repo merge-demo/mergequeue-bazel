@@ -2417,7 +2417,7 @@ giddily
 gonochoristic 1
 gomukhi 2
 glariest 2
-ganton 3
+ganton 4
 gyrolith 2
 glaury
 gazel 2
@@ -3619,7 +3619,7 @@ granitification 4
 ghastliness 4
 ghatwazi
 grumblesome 5
-ghauts
+ghauts 1
 galilei 3
 genarcha 3
 ghazi 3
