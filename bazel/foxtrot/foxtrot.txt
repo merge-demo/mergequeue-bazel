@@ -562,7 +562,7 @@ federative
 fallectomy
 forebays 4
 fussbudgets 4
-fallen 3
+fallen 4
 ferny 6
 falling 1
 flichtering 2
@@ -3634,7 +3634,7 @@ ferroinclave 4
 fence 2
 forehalf 4
 filing 3
-fimbristylis 1
+fimbristylis 2
 fuchsines
 foreordination 1
 filiformed 3
@@ -5746,7 +5746,7 @@ fisher 2
 foredeserved 5
 farth 3
 fecket
-fringepod
+fringepod 1
 flyspecking 3
 folate 1
 fill 4
@@ -6815,7 +6815,7 @@ finmark 4
 forams 4
 fungin 1
 forewonted
-freelancer 2
+freelancer 3
 folderols 1
 foveiform
 forepretended 3
@@ -11538,7 +11538,7 @@ flecklessly 1
 frugging 5
 furlable
 fabling 1
-fictionize 2
+fictionize 3
 fards 3
 floeberg 6
 famulary 2

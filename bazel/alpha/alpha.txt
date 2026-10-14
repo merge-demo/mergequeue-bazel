@@ -20108,7 +20108,7 @@ ateliers
 aggur
 auteciousness
 arpeggios 1
-arpen
+arpen 1
 apiologies 1
 arpents 1
 apocholic 3
@@ -21178,7 +21178,7 @@ asepses 1
 anagogical
 assiduate
 arginases
-atomicism
+atomicism 1
 aseptolin 2
 alighted
 adipous 1
@@ -21447,7 +21447,7 @@ aspergill 1
 aldern
 assession 2
 apoferritin
-arillary 2
+arillary 3
 acaricide 1
 antirealistic 1
 anaclasis 2
@@ -23157,7 +23157,7 @@ apatan 1
 attendingly
 aubepine
 attendment
-aposoro 1
+aposoro 2
 attendress
 aciurgy 1
 asteriscus 1
