@@ -13190,7 +13190,7 @@ expiators 2
 expirate 3
 endostracal 2
 echinopsine 2
-eyrar
+eyrar 1
 expiration
 exponentiation
 epaxial 2
