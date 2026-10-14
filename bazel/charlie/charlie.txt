@@ -4711,7 +4711,7 @@ cyathi 3
 costalgia
 chapmen 1
 chugalugging
-carpetbaggism
+carpetbaggism 1
 commuter
 commas
 choenix 1
@@ -22780,7 +22780,7 @@ consecrator
 consecratory 1
 consectary
 cardines 1
-consecutive 4
+consecutive 5
 consecutively 1
 consenescency 2
 coeditor 2
@@ -30359,7 +30359,7 @@ cataphysic
 cabaa
 clingstones
 crusaders
-crusado
+crusado 1
 coastways 1
 canonicalizing
 catalog 1
