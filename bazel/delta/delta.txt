@@ -9384,7 +9384,7 @@ dulosis 3
 depurged 1
 disinflating 2
 diffract 1
-defense
+defense 1
 diffractively 1
 deruralize 1
 doubleted 1
