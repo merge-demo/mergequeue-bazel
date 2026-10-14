@@ -11659,7 +11659,7 @@ bilsted 1
 blindfast
 boomless 1
 bedding 1
-bragget
+bragget 1
 beneficience 4
 bribability
 boattail
