@@ -15777,7 +15777,7 @@ demolishes
 dumka 4
 dorp 1
 diphthongalize 2
-dorpers
+dorpers 1
 dorr
 doomage 2
 deflorations 1
