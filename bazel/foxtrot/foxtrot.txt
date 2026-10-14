@@ -1025,7 +1025,7 @@ fragmentalize 3
 flatboats 2
 finalists 2
 farinometer 2
-farinose
+farinose 1
 founce 3
 flannelly
 firesafety
