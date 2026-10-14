@@ -16049,7 +16049,7 @@ clubmobile 1
 clianthus
 columned 1
 clich
-cliche 1
+cliche 2
 cryopathy
 cliches 1
 click 1
@@ -16794,7 +16794,7 @@ cloverleaves 1
 cloverley
 cycadophyte
 cloverroot 1
-crepitus 1
+crepitus 2
 clovewort
 castling 1
 coauditor
@@ -25720,7 +25720,7 @@ citators 1
 chlormethylic 1
 calctufa
 correspondentship 1
-colophan 2
+colophan 3
 ceruminous 1
 caripeta 2
 conule 1
