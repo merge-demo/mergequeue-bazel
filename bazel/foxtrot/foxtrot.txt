@@ -5946,7 +5946,7 @@ falstaffian 6
 flatwash 2
 foreworld 1
 floodgates 1
-fiercest 5
+fiercest 6
 foolhardily 4
 falseface 2
 freer 6
@@ -6108,7 +6108,7 @@ freighter 1
 frettation
 filical
 folksinging 1
-fundmongering 1
+fundmongering 2
 freebies 2
 firestone 2
 fitchering 4
