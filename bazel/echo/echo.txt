@@ -3305,7 +3305,7 @@ ectopic 4
 ethnos 1
 exegetically
 eridanid 2
-enraged 2
+enraged 3
 envisions 4
 enclose 1
 euplastic 1
@@ -9895,7 +9895,7 @@ empiricists 1
 electrobiologically
 electrologist 1
 endothrix 1
-estimate 5
+estimate 6
 eerily 4
 exponents 4
 eluders
@@ -13892,7 +13892,7 @@ extragastric 4
 elizabethan 5
 empressment 1
 epilimnial 1
-empanada
+empanada 1
 extirpates 2
 extramatrical 3
 exculpating 1

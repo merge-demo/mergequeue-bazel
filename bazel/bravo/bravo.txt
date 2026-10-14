@@ -2525,7 +2525,7 @@ barycenter 2
 bemused
 burmite 1
 brillolette 4
-barid 1
+barid 2
 bronchostenosis 1
 bereaving 3
 burgus
@@ -2718,7 +2718,7 @@ borages
 brutalisation 5
 bogomile 1
 buoyantly
-branching 2
+branching 3
 barnumism 4
 bienne
 blitum 1
