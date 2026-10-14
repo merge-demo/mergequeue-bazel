@@ -12095,7 +12095,7 @@ chout
 culturist 1
 chowanoc
 chowchows 3
-clockwork
+clockwork 1
 chowhound 1
 coapprehend 1
 consume
