@@ -2074,7 +2074,7 @@ dummy 1
 defaced 1
 devolution 2
 disproportionally
-decal
+decal 1
 dodecylic 6
 dilatory 1
 decalage
@@ -13281,7 +13281,7 @@ dimities
 delegalized 3
 drumbeats 2
 distillates 1
-dispraising
+dispraising 1
 dentiloquist 2
 dispraisingly 2
 diversion 4
