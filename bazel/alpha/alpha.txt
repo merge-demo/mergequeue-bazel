@@ -4672,7 +4672,7 @@ aefaldy 1
 armatured
 aljoba
 antrostomus
-armet
+armet 1
 aggravates
 arthriticine
 ataxias
