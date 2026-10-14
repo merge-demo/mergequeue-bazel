@@ -2338,7 +2338,7 @@ alluding 1
 athetoid 1
 absorbed 3
 acieration 2
-apiary
+apiary 1
 acies
 altometer 1
 acanthopod 3
@@ -3482,7 +3482,7 @@ accusable 1
 attapulgite 1
 afterwort 1
 azoths 3
-additions
+additions 1
 absmho
 addititious 3
 athenians 1
@@ -8460,7 +8460,7 @@ abdomens 1
 adaptable 1
 alacreatinine 1
 alkalize 2
-alkalizer 1
+alkalizer 2
 afforested 1
 alkaloid 1
 alkaloids
@@ -20897,7 +20897,7 @@ anglicanly 3
 anteverted 2
 asb
 agoniatites
-asbest 1
+asbest 2
 absenter
 anilopyrin 3
 avowe
