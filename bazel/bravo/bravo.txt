@@ -3696,7 +3696,7 @@ bedesmen 2
 beltis 3
 batterie 2
 breck
-batterman 1
+batterman 2
 bullockman 2
 bindlet 1
 bepinch
@@ -6087,7 +6087,7 @@ baronetising 1
 bulbel 1
 bhd 1
 barricader
-bend 1
+bend 2
 bub 2
 bendee 1
 bullwhips 1
@@ -15602,7 +15602,7 @@ britannically 2
 brashy
 bumpkins 1
 blennophlogosis 4
-blimy 3
+blimy 4
 british
 barwood 1
 britisher
