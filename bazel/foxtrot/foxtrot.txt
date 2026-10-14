@@ -10443,7 +10443,7 @@ fisted
 flche 4
 frontstall 1
 forstall
-frizes 2
+frizes 3
 fellah 1
 ferocity 3
 flaxtail 1
