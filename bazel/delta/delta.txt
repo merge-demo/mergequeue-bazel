@@ -10075,7 +10075,7 @@ dynamo
 deranging
 dehydrogeniser 1
 djalmaite 2
-dangers 2
+dangers 3
 dramshop 3
 dynamogenesis 3
 dauphins 3
@@ -10586,7 +10586,7 @@ decorticate 2
 despotist 2
 diplogenesis 1
 diagonalize 2
-deseam 2
+deseam 3
 dirges 2
 doxographical 2
 dittology 1
