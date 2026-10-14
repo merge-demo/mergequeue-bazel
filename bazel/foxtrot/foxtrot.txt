@@ -1337,7 +1337,7 @@ fervour 2
 fathomlessness 2
 funniment 1
 flichtered 1
-forkable 1
+forkable 2
 financiering 2
 faticableness 3
 felspath 4
@@ -3498,7 +3498,7 @@ fury 3
 ficins 3
 fordays 2
 floorhead 2
-formuliser 1
+formuliser 2
 forpined 5
 finnic 2
 fluctuated 2
@@ -8120,7 +8120,7 @@ foretasting 2
 fretsaw 2
 falisci 6
 forewrought
-fractionate 4
+fractionate 5
 fanaticalness
 foretell 5
 filmiest 1
@@ -9825,7 +9825,7 @@ friar 3
 fremitus 4
 filchingly 6
 fellated 1
-firings 1
+firings 2
 frogs 1
 fouler 1
 fortescue
