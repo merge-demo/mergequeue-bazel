@@ -5531,7 +5531,7 @@ gustier 3
 genear 1
 globalizing 3
 gisants 1
-groggeries 2
+groggeries 3
 gyrovagi 2
 gently 1
 gump 2
@@ -9325,7 +9325,7 @@ giggles 4
 gamesome
 gauffre
 gallipot 2
-gromia
+gromia 1
 gerundially 5
 gigantostracan 2
 grinder 1
