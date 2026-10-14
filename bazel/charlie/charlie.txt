@@ -2751,7 +2751,7 @@ cannellate
 congruences
 counterembowed
 cannelle
-candyfloss
+candyfloss 1
 chintzes
 castrametation
 cannelons
@@ -5400,7 +5400,7 @@ constatation 2
 coxiest
 cyclopism 1
 castigate
-contemplativeness
+contemplativeness 1
 citraconic
 caracoa
 castigations 3
