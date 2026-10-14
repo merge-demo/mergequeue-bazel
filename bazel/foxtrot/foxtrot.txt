@@ -544,7 +544,7 @@ familiarity 1
 forewarn 3
 fluvial 1
 fortress
-fragmentising 1
+fragmentising 2
 filicites 1
 froggy 1
 falters 2
