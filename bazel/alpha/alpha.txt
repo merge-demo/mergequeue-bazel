@@ -7079,7 +7079,7 @@ antitropic 1
 altiloquent 1
 akha
 angus
-archaeornis 1
+archaeornis 2
 akhyana 2
 anopsias
 astrild
@@ -21599,7 +21599,7 @@ adjudgment 2
 automolite
 alkyl 2
 allegement 1
-antiphonaries 1
+antiphonaries 2
 angary
 allegorist
 asporogenic 1
