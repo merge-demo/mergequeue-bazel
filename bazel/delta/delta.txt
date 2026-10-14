@@ -1966,7 +1966,7 @@ divulgatory 3
 debus 3
 decanally 1
 defying
-debused 1
+debused 2
 doohickey 3
 debusing 3
 danger
@@ -4444,7 +4444,7 @@ dithioic 1
 dolos 1
 diapyesis 1
 demesman 2
-depravities
+depravities 1
 declarers
 disentitle 3
 doctrinalism 1
