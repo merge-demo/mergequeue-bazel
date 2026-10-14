@@ -4249,7 +4249,7 @@ aclastic
 adposition 1
 acmispon
 azonium
-armorer 1
+armorer 2
 alchornea 2
 aesculapius 2
 annoyful
@@ -22204,7 +22204,7 @@ astigmometry
 alluviate 1
 algologist
 aegritude
-atrophied 1
+atrophied 2
 astigmoscope 1
 astylar 1
 apostolos 1
