@@ -9487,7 +9487,7 @@ fishwoman 1
 facinorous 4
 ffa 3
 frauleins 2
-formaliter 4
+formaliter 5
 fissiparousness 3
 flatbottom 3
 forbreak 2
@@ -9702,7 +9702,7 @@ frenatae 1
 frenched
 futuramic 2
 furiously 1
-frenchify
+frenchify 1
 fido
 freakful 1
 fremd 3

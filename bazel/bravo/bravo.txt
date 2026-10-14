@@ -2096,7 +2096,7 @@ banshies 3
 bornan
 bronchostomy
 besetment 1
-betrough 1
+betrough 2
 branchihyal 1
 bourkha 1
 borasco
@@ -11289,7 +11289,7 @@ bachelor 2
 blowlamp 2
 blown
 bananas 1
-blowoff
+blowoff 1
 blowouts 1
 bedels
 blowproof 1
