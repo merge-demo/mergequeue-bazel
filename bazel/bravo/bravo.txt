@@ -11643,7 +11643,7 @@ banjoes
 bewonder
 belace 3
 bankerdom 1
-boatloader 1
+boatloader 2
 beigy
 boatmanship 3
 boatmen 1
@@ -16138,7 +16138,7 @@ butylated 2
 broomshank 1
 blotting 1
 broomstraw 2
-bonelessness
+bonelessness 1
 befret
 billowing 1
 botryomycotic
