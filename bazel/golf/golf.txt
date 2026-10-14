@@ -4102,7 +4102,7 @@ gegenschein
 gogglebox 3
 genus 1
 gelechiid 1
-goosemouth 7
+goosemouth 8
 gaulic 1
 gamekeeper 4
 gaufer 2
@@ -10759,7 +10759,7 @@ gut 2
 grasswards
 glycerins 1
 giber 3
-generation 2
+generation 3
 gutbucket 3
 gonfalonierate 2
 ganoin 3
