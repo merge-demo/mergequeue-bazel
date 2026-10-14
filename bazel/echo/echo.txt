@@ -11623,7 +11623,7 @@ effet 1
 excided 4
 enfrenzy 1
 ersatz 2
-ethnocentricity
+ethnocentricity 1
 empoison 2
 exclosure
 emollition 4
