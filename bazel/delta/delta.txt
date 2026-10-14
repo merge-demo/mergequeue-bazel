@@ -4008,7 +4008,7 @@ dysrhythmia 1
 delegate 1
 doorsill
 delegates
-delegateship
+delegateship 1
 dermographism 1
 digressiveness 2
 dibasicity 2
@@ -10302,7 +10302,7 @@ discoglossoid 1
 dearly
 darks 2
 draftmanship 3
-dighting 1
+dighting 2
 deans
 draughting
 dames 2
