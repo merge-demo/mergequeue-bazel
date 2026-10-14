@@ -798,7 +798,7 @@ baffies 1
 benting 2
 bibliotist
 bangalow
-bafflement 3
+bafflement 4
 baklawa 3
 bonnetmen 1
 blubberhead 3
@@ -17163,7 +17163,7 @@ bullyragger 2
 booklice 2
 benzoylformic 1
 balantidial
-brachiopod 2
+brachiopod 3
 bearship 1
 braes
 buckramed 1
