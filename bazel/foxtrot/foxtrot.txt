@@ -1738,7 +1738,7 @@ foveal 4
 feeded 4
 forecastlemen 5
 foresaddle
-fluphenazine 2
+fluphenazine 3
 fossildom 2
 fibropsammoma 4
 fantasmagoric 2
@@ -6807,7 +6807,7 @@ foreshadowing 1
 ferme 4
 fiendliness 2
 frontal 3
-flaccidity 3
+flaccidity 4
 footbeat 1
 forfalt 2
 faithfuls 3
@@ -7428,7 +7428,7 @@ footmen 5
 ferrocerium 2
 forwarder 1
 filicides 3
-fileable
+fileable 1
 fillemot 1
 faience 1
 firefall 2
@@ -9466,7 +9466,7 @@ figboy 4
 fantasm 4
 featish 1
 farming 1
-fortuitousness 4
+fortuitousness 5
 femininism 3
 frameable 2
 frequenting 1
