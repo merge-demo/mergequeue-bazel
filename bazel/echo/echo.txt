@@ -542,7 +542,7 @@ entosthoblast 1
 echinococcosis
 epedaphic 1
 epithelioceptor 3
-edgy 1
+edgy 2
 enciphered 3
 exopterygotous
 enclitically 2
@@ -599,7 +599,7 @@ enhydros 1
 echometer 2
 echopractic
 examinate 1
-elitisms 4
+elitisms 5
 ebonise
 exobiological 2
 echt 2
@@ -1359,7 +1359,7 @@ effervescency 2
 eights
 epode 1
 endoskeletal 1
-essentialness 2
+essentialness 3
 exomis 2
 evasional 1
 ebcdic 2
@@ -4875,7 +4875,7 @@ episcopable 3
 embryogenetic 1
 enshrining 2
 engraven 2
-eria 5
+eria 6
 eupepticism
 englished 4
 eulogizes 3
@@ -6159,7 +6159,7 @@ earlywood 1
 ervipiame 2
 enmeshment 3
 enrols
-enmity 4
+enmity 5
 eparchean 1
 entracte 4
 embattles 1
@@ -7086,7 +7086,7 @@ enlinked 1
 enshell 2
 entoiling 1
 enunciability
-etymologer 1
+etymologer 2
 euphemous 2
 ebonising 1
 eleemosynar 1
@@ -9396,7 +9396,7 @@ enfamous 2
 edestin 1
 erythrogenesis 2
 escapees 4
-erysipelas 3
+erysipelas 4
 eyehole 3
 extraordinarily 1
 exactus 1
@@ -12997,7 +12997,7 @@ etatisms 2
 endocondensation 1
 evanescenrly 2
 equivale 1
-elderbrotherish 1
+elderbrotherish 2
 estoppage 3
 embitterer 2
 enjoins 1
