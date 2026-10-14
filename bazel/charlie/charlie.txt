@@ -25733,7 +25733,7 @@ churchlet 2
 corridas 3
 chedlock 1
 corridors
-corriedale
+corriedale 1
 corrige 1
 corrigenda
 compossibility 1
