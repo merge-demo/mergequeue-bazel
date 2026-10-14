@@ -6232,7 +6232,7 @@ fermentitious 3
 foundationary 2
 ferrimagnetic 2
 fractionating 2
-fluffiness 2
+fluffiness 3
 flexography 1
 flugel 1
 frettingly
@@ -6541,7 +6541,7 @@ firebed
 forecover 2
 flytime 1
 flutterboard 2
-faucal 5
+faucal 6
 fluotantalate 1
 flutteriness 1
 flagrate 3
@@ -7405,7 +7405,7 @@ forbow 1
 foreclose 2
 forestland
 foolisher 5
-falterers 3
+falterers 4
 flavorsomeness 6
 flake 2
 finks 3
