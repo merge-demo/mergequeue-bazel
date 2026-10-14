@@ -3478,7 +3478,7 @@ biennium 2
 boyla 2
 batamote 1
 biosis 1
-batarde 1
+batarde 2
 bullaces 1
 batatas 2
 batavi 5
@@ -5475,7 +5475,7 @@ behoved 2
 basting 1
 behoves
 behoving 3
-battements 4
+battements 5
 basseted 2
 babbitts 1
 behowled
@@ -6161,7 +6161,7 @@ brassiest 1
 bassorin 2
 bethflower 1
 benefit
-benefited 2
+benefited 3
 blackhead 5
 blushful 1
 benefiting
