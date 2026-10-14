@@ -8692,7 +8692,7 @@ demobbed
 desalinizing 1
 dichastasis 1
 deathrate 1
-depolarizing 1
+depolarizing 2
 diethylethanolamine
 diastereoisomerism
 dodges
