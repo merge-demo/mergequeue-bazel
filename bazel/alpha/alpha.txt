@@ -2323,7 +2323,7 @@ acidulate 1
 acidulated
 azuline 3
 acephalism
-acidulously
+acidulously 1
 acidurias
 arteriole 2
 annihil
@@ -8769,7 +8769,7 @@ anticeremonially 1
 allied 3
 allies
 alligated
-acceders 1
+acceders 2
 autoagglutinating
 arctoid
 alligatorfish 1

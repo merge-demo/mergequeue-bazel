@@ -1757,7 +1757,7 @@ diverticular
 dhotis 1
 diphenan 1
 dividend
-diphyllobothrium 3
+diphyllobothrium 4
 deathtrap 1
 devocalization
 drof
@@ -1802,7 +1802,7 @@ debarkment 1
 doohickeys 2
 debarment
 debarrance 2
-duryl 1
+duryl 2
 debarring 2
 drummock 5
 delectible
@@ -6138,7 +6138,7 @@ defatigation
 deratting 3
 draperies 1
 dissector 1
-derbend 3
+derbend 4
 debauch 2
 deploringly 1
 deft 2
@@ -13866,7 +13866,7 @@ distempering 1
 distemperoid 2
 distending 4
 drowns 1
-disalike 1
+disalike 2
 dyslexia 2
 dissavage 1
 dipter
