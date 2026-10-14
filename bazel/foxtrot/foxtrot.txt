@@ -544,7 +544,7 @@ familiarity 1
 forewarn 3
 fluvial 1
 fortress
-fragmentising 1
+fragmentising 2
 filicites 1
 froggy 1
 falters 2
@@ -7119,7 +7119,7 @@ feh 3
 frigid 3
 foundress 2
 feeder
-ferly 2
+ferly 3
 flanging
 familarity 1
 footballs 2
