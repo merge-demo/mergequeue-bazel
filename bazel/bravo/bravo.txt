@@ -5328,7 +5328,7 @@ bivariate 1
 beglide 2
 burkers 3
 bor 2
-beglooms
+beglooms 1
 begloze 1
 busti
 brokenly 1
