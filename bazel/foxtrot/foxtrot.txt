@@ -530,7 +530,7 @@ falconinae 4
 favoredness 3
 fleeces 2
 forfeiter 1
-factitial 3
+factitial 4
 funambulant 3
 folium 2
 falcons 1
@@ -9536,7 +9536,7 @@ freckle 2
 furnace
 fieldmouse
 fruitfullness 5
-financier 3
+financier 4
 favouress 1
 flyted 3
 fuseless 1
