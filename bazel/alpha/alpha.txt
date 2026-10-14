@@ -290,7 +290,7 @@ aguamas
 abdominals 1
 abdominocystic 1
 archness
-ailuro
+ailuro 1
 appunctuation 1
 asphyxiates 1
 abdominogenital 1
@@ -17829,7 +17829,7 @@ appositive
 accusatory 1
 annexed
 amobarbital
-apppetible 2
+apppetible 3
 atmans
 aheap
 albizzia 1
@@ -18714,7 +18714,7 @@ archcritic 3
 amblyopia 1
 argonautic
 appmt 1
-archcrown 3
+archcrown 4
 arointed
 arthrosterigma
 archd 1
