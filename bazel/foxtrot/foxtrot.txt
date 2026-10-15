@@ -5004,7 +5004,7 @@ flaneurs 1
 flanked 4
 formulaically 2
 fledging
-factordom 3
+factordom 4
 fribourg 5
 freelage 5
 flankers 3
@@ -7247,7 +7247,7 @@ foiled 4
 footslogger 5
 flailed 5
 financiery 1
-fatstocks 1
+fatstocks 2
 fluorogen
 foregoing 1
 fissuration 1
@@ -11204,7 +11204,7 @@ fictil 4
 frittata 1
 farads 3
 firer 2
-failles 4
+failles 5
 flamethrowers 1
 fieldsman
 fungosities 4
