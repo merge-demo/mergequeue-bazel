@@ -526,7 +526,7 @@ abjurers 2
 abkari
 amerism 1
 abkhasian 1
-ashtrays 1
+ashtrays 2
 abl
 asperities 2
 ablated
@@ -11130,7 +11130,7 @@ ampersands
 amphanthia 1
 amphanthium 1
 ampherotokous
-arms
+arms 1
 adjutancies 1
 antirationality
 araeometer
@@ -23351,7 +23351,7 @@ achaenocarp 2
 aucaner
 autota 2
 aftertimes 3
-auchenium
+auchenium 1
 auchlet 1
 autolytus 2
 accountrement 2
