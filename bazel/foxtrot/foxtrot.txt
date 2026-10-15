@@ -25,7 +25,7 @@ fashional 5
 fanciest 3
 furiouser 4
 febricula 2
-freeman 1
+freeman 2
 fasciculately 1
 floodlet 5
 fourchee 4
@@ -328,7 +328,7 @@ fornicatory
 fplot 1
 fluxionary 2
 feods 2
-forces 2
+forces 3
 fail 1
 fireplough 2
 faineancy 2
@@ -8204,7 +8204,7 @@ forgeries 3
 fatigated 1
 fictioneer
 feudalities 3
-flaggelated 1
+flaggelated 2
 friezing 3
 forfaulture 3
 francophile 1

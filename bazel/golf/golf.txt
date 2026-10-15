@@ -2651,7 +2651,7 @@ germantown 2
 globulicidal 2
 genetika 2
 gurgeon 1
-gathering 2
+gathering 3
 greatest 2
 guaraguao 1
 gospodipoda 5
@@ -6368,7 +6368,7 @@ getspace
 goldspink 1
 glimmered 4
 glucosone 1
-granolithic 2
+granolithic 3
 grouty
 geotectology 1
 gunarchy 1
@@ -10408,7 +10408,7 @@ gigot
 geejee
 glareworm 1
 graduality 3
-gnotobiotic 2
+gnotobiotic 3
 guidecraft 1
 gutturalness 5
 guttier 2
