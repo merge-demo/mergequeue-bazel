@@ -1703,7 +1703,7 @@ calorist
 calorizing
 cawing
 calosoma
-calotermes
+calotermes 1
 calotype 3
 cyclodiolefine
 calotypic
@@ -3601,7 +3601,7 @@ chauri
 carabine 1
 carabiner
 carabineros
-claik
+claik 1
 carabines
 coprahs 1
 calefaction 1
