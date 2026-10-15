@@ -4016,7 +4016,7 @@ baetuli 3
 boilermaking 1
 butcheries 3
 brevier 2
-beaked
+beaked 1
 beakerman 3
 bellite
 beakermen 2
