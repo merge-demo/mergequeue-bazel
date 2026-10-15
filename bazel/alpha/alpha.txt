@@ -19430,7 +19430,7 @@ alexins
 athwartwise
 authorship 3
 augurial
-argentry
+argentry 1
 abbest
 antiparliamentarist
 argh 1
