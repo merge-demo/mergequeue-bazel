@@ -3886,7 +3886,7 @@ decentred
 deistical 2
 dressages 2
 dismast
-discastle 2
+discastle 3
 dissect
 disp 2
 dyscrasite 1
@@ -16569,7 +16569,7 @@ defensed 1
 deepsome
 dissembly
 draghound 3
-darwinian 1
+darwinian 2
 diplostemony 1
 dragline
 dragman 2
@@ -18365,7 +18365,7 @@ desecrating 2
 duodenoenterostomy 2
 dreamish
 dorse 1
-demulcent 1
+demulcent 2
 denudative 2
 duodenojejunostomies 2
 dillue 3
