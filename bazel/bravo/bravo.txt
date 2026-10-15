@@ -12804,7 +12804,7 @@ barrelhouse 1
 boomable 1
 best 1
 boomah
-boo
+boo 1
 baritonal
 boomboxes 1
 boomed
