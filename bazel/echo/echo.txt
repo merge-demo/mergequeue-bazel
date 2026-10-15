@@ -182,7 +182,7 @@ exploration 1
 elaps 1
 electromotion 1
 electrolier 3
-equipoising 1
+equipoising 2
 extraformal
 examiner 3
 estrogenic 1
@@ -5455,7 +5455,7 @@ enfirm 1
 eaglelike 2
 esthetology 2
 endure 1
-endurer 1
+endurer 2
 enduringly 3
 enterozoic 4
 earthmen 2
@@ -9046,7 +9046,7 @@ eperotesis
 epibranchial 1
 ectocyst 4
 erythrocytoblast 3
-explanate 2
+explanate 3
 epizooty 2
 ebbets
 equalize 3
