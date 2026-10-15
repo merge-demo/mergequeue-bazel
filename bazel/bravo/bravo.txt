@@ -5418,7 +5418,7 @@ behaver 3
 bicollateral 2
 behaving 3
 brainteasers 1
-brakes 3
+brakes 4
 bathylimnetic 2
 boshvarks
 behaviored 2
@@ -14551,7 +14551,7 @@ bdellostomidae 2
 batteryman 1
 banefulness 2
 bollocks 2
-bancales
+bancales 1
 balladeer
 branchlet
 branchman
@@ -17241,7 +17241,7 @@ basongo 3
 bleachhouse
 bulwarking
 brey 2
-bumbelo 1
+bumbelo 2
 bromacetic 2
 beclouding
 ballastage 1
