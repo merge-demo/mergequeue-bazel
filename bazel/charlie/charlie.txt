@@ -15024,7 +15024,7 @@ civilisations 1
 choanoid 1
 countercondemnation 3
 cipollino 1
-circuitable
+circuitable 1
 compunctive 1
 civilizable
 civilizationally
