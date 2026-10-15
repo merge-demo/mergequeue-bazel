@@ -59,7 +59,7 @@ evenblush 2
 earldoms 1
 earless 2
 eyn 1
-early 2
+early 3
 excuss 2
 estuarine 3
 earlier 3
@@ -10879,7 +10879,7 @@ enneapetalous 3
 euxine 2
 equilibrations 2
 eyeful
-edea 1
+edea 2
 empair 1
 esclandre 3
 exsolve 1
@@ -12245,7 +12245,7 @@ eclogue 1
 executress 2
 elshin 2
 exsurge
-endosteal
+endosteal 1
 enchases
 expertized 3
 encommon 2
