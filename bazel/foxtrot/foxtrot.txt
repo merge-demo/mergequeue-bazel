@@ -4274,7 +4274,7 @@ foreyard 2
 fatless 5
 flail 2
 fireward 1
-forehead 1
+forehead 2
 firewater 1
 fictionisation 5
 freehandedly 1
@@ -10049,7 +10049,7 @@ fleshling 2
 fibrosis 2
 fablemonger 6
 fait 2
-flabbiest
+flabbiest 1
 feloniously 4
 familistical 2
 fascinated 4
