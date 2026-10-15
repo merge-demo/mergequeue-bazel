@@ -2811,7 +2811,7 @@ gazettal 1
 grigris 1
 gormless 3
 glottalite
-gloiopeltis 4
+gloiopeltis 5
 gentiobiose 1
 guardianess 1
 gait 4
@@ -6361,7 +6361,7 @@ gollywobbler 1
 gambelli 2
 ganoblast 2
 garnitures 3
-gustables 2
+gustables 3
 gofer 1
 given 2
 getspace
@@ -8101,7 +8101,7 @@ gauzes 3
 glunching 3
 gapeworm 3
 genuine 1
-gainsome 1
+gainsome 2
 gulch 1
 grayhound 2
 gastrochaenidae 2
