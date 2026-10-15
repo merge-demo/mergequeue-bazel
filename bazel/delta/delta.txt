@@ -10780,7 +10780,7 @@ dipterocarpous 3
 dipterocarpus
 delay 3
 divas 1
-dependent
+dependent 1
 dipterus 2
 dotterel 1
 diptychs 2
