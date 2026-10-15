@@ -8127,7 +8127,7 @@ algerienne
 alizarins
 algerines
 algerite 1
-aciduric 1
+aciduric 2
 algernon
 assassinator
 algesiometer
@@ -13510,7 +13510,7 @@ annoy 1
 alister
 annoyance 3
 athenian
-attributal 1
+attributal 2
 annoyances
 anthropopathy
 antefact
@@ -14543,7 +14543,7 @@ armature 1
 anthropomorphised 1
 arimaspian 1
 admirability 1
-arborean
+arborean 1
 admass 1
 anthropomorphisms 2
 awanyu 1
@@ -15690,7 +15690,7 @@ armoury 3
 antiskepticism
 antipacifistic 1
 aplobasalt
-angriest 2
+angriest 3
 antipacifists 2
 antigun 1
 adenosarcomas
@@ -24894,7 +24894,7 @@ amblyocarpous 1
 adiponitrile 2
 antiaggression 1
 amurru 3
-awadhi 3
+awadhi 4
 arling 2
 awayness 2
 awaynesses 1
