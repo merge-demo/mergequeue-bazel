@@ -4630,7 +4630,7 @@ catholical 1
 carolinians 2
 carolitic 1
 carditic
-caoba
+caoba 1
 caroller 2
 carols
 carolus 1
@@ -12369,7 +12369,7 @@ chromatographically
 cuticularize
 chromatolysis 2
 contrastably 2
-conquerable 1
+conquerable 2
 chromatolytic 1
 chromatologies
 chromatopathy 2
@@ -28488,7 +28488,7 @@ craye
 cutability 1
 creativity
 clowns 1
-creatorhood
+creatorhood 1
 creatotoxism
 columellae 2
 chrysophane
