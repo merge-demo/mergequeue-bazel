@@ -13281,7 +13281,7 @@ empierce
 endophragm 1
 estranger 2
 englishable 3
-evict
+evict 1
 eponymize 1
 epignathous
 egregious 1
