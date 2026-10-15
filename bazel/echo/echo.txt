@@ -2782,7 +2782,7 @@ excecate
 elytrous
 eutropic 1
 equipartition 2
-epidiplosis 2
+epidiplosis 3
 eighteenmo 3
 economicalness
 encroach
@@ -12213,7 +12213,7 @@ empiriocritical 1
 ephemera 3
 execute 2
 executed 1
-exceptor 1
+exceptor 2
 extravagancies
 eras 3
 epitrichium
@@ -13281,7 +13281,7 @@ empierce
 endophragm 1
 estranger 2
 englishable 3
-evict
+evict 1
 eponymize 1
 epignathous
 egregious 1
@@ -13544,7 +13544,7 @@ exuviae 2
 emmarbling 2
 erato 3
 epexegetic 3
-engl 1
+engl 2
 esociform
 evildoer 1
 exserted
