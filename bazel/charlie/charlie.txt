@@ -14556,7 +14556,7 @@ cysticercoidal
 cysticercosis
 cysticerus
 cysticolous
-cystid
+cystid 1
 consociationism 1
 cohogs
 cystidea 1
