@@ -1403,7 +1403,7 @@ gallotannin 2
 gasified 3
 gausterer 1
 gearshift 2
-gcd 2
+gcd 3
 gangplow 3
 grundyite 1
 galvanopsychic 1
@@ -3054,7 +3054,7 @@ gastromyces 8
 geometridae 6
 gangshag 3
 geometriform 6
-graminicolous 2
+graminicolous 3
 gemmipares
 glyptotheca 1
 gametogenous 2
@@ -5767,7 +5767,7 @@ gloomy 2
 grapsoid 2
 gymnoplast 3
 gossypose 1
-gonotheca 1
+gonotheca 2
 gravemaker 1
 galera 1
 galactolysis
