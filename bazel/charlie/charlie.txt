@@ -25805,7 +25805,7 @@ cofound
 corrosibleness
 coeltera
 corrosived 1
-corrosively
+corrosively 1
 corrosiveness
 corrosives
 chironomy 1
