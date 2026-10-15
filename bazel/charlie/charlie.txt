@@ -6050,7 +6050,7 @@ continuos
 cyclicity 1
 catiline
 cating
-cativo
+cativo 1
 cheapo
 catkin 1
 catkinate
