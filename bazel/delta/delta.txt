@@ -540,7 +540,7 @@ damageably 2
 detonatable 1
 damaged 2
 detort 1
-damageous
+damageous 1
 deaccessions
 dovyalis
 deliber 3
