@@ -6879,7 +6879,7 @@ genitival
 geed 1
 gaposises 1
 goniatitic 3
-grainman 3
+grainman 4
 goshen 2
 gynandroid 3
 garrotes 5
@@ -7328,7 +7328,7 @@ gossard 2
 greyflies 1
 grievedly 5
 gonfalonier
-glumpiness 1
+glumpiness 2
 guildhall 4
 gosports 4
 grainless 1
@@ -9144,7 +9144,7 @@ gratings 5
 gareh 1
 galvanometric 2
 gaffers
-grammaticalness 2
+grammaticalness 3
 gazeful 5
 grusinian 2
 gearcase 1
