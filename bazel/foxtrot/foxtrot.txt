@@ -3394,7 +3394,7 @@ flappering 4
 fishermen 2
 frivols 3
 filipinos 2
-follicles 4
+follicles 5
 flokite
 frameableness 1
 floramour 4
@@ -10255,7 +10255,7 @@ frokin 4
 filum 1
 felons 1
 frolic 2
-felstone 4
+felstone 5
 fluidglycerate 2
 franklinism 2
 forensics 3
