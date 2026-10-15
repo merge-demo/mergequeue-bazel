@@ -5526,7 +5526,7 @@ departer 1
 devastated 1
 dehistoricize 2
 drama 3
-dematiaceous
+dematiaceous 1
 denotement 1
 directionality 1
 drought 5
@@ -9331,7 +9331,7 @@ disorders 2
 dif 1
 dodos 3
 divekeeper 1
-dactylography 2
+dactylography 3
 diffame 3
 dietted 4
 detracts
