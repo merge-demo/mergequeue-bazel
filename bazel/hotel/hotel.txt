@@ -3288,7 +3288,7 @@ heorqm 1
 heory
 heoslgnt 2
 heosukp 3
-heosw 1
+heosw 2
 heotnwjl 1
 heoto 1
 heotsptupew 1
@@ -13318,7 +13318,7 @@ hvxepbzarfxbxs 4
 hvxfmvp 2
 hvxhgz 1
 hvxjpqjhstqkm
-hvxl
+hvxl 1
 hvxokksxhbxq 2
 hvxqaunhk 5
 hvxrmkgp 1
