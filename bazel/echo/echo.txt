@@ -11026,7 +11026,7 @@ eurite
 ethered 1
 echinostomatidae 2
 elemol 1
-elapoid 3
+elapoid 4
 euhages
 enisle 2
 encurtain
@@ -13548,7 +13548,7 @@ engl 2
 esociform
 evildoer 1
 exserted
-empanoply 1
+empanoply 2
 embroidery
 eateries 3
 exsibilation 1
