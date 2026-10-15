@@ -8227,7 +8227,7 @@ biformity 3
 bifront 2
 bavarian 1
 bhavani 3
-brainfag 1
+brainfag 2
 bifurcated 1
 bifurcately 2
 bifurcating
@@ -16942,7 +16942,7 @@ burrah 1
 balloonlike 2
 bugout 3
 bugs 2
-bugweed 1
+bugweed 2
 blacktopped 2
 bugwort
 banca 3
