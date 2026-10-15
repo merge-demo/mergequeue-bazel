@@ -15299,7 +15299,7 @@ bridgemaster 3
 benediction 1
 bridger
 befrumple
-blanquette
+blanquette 1
 bedrel 2
 bicarinate
 browsed 1
