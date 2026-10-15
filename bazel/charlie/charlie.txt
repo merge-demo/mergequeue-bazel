@@ -16912,7 +16912,7 @@ clumpishness 1
 cohere
 clumps
 canavalin
-curst
+curst 1
 clumpst 1
 clumse 1
 clumsy 1
