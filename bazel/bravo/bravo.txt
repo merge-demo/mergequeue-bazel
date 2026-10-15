@@ -7096,7 +7096,7 @@ bespend 1
 bespew
 biparietal 4
 boucherism 1
-bandfiling 1
+bandfiling 2
 batan 2
 bonking 2
 breadthwise 2
@@ -11525,7 +11525,7 @@ blameworthiness
 boswellism 2
 buckaroos 2
 blunket 2
-blunnen 2
+blunnen 3
 blunt 1
 befuddlements 3
 blunthearted 3
