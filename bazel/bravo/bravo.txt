@@ -497,7 +497,7 @@ backstitch 1
 bahoo 1
 blumed
 biserial
-billhead 3
+billhead 4
 briming 1
 broadway
 besiclometer 2
@@ -15544,7 +15544,7 @@ boxes 1
 bdelloida
 barraclade
 braggadocio 1
-bryozoon
+bryozoon 1
 belyingly
 brique
 bilbos
@@ -16780,7 +16780,7 @@ boswell 1
 batteuse 1
 buddleia 2
 bunkhouses 2
-blockhole 1
+blockhole 2
 buddleias
 brainstem 1
 bicarbonate 1
