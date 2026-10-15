@@ -1347,7 +1347,7 @@ dhobies 1
 daunters 1
 decertified
 daffy 1
-dipentine
+dipentine 1
 demissive
 diploid
 draftsperson 2
@@ -2738,7 +2738,7 @@ diplopterous 4
 deedful
 darker 1
 dassy 1
-deductibility
+deductibility 1
 decoration 1
 diogenic 1
 decorator
@@ -9852,7 +9852,7 @@ downweighted 1
 duocosane 1
 dispapalize 1
 determines
-diluvialist
+diluvialist 1
 demidigested 4
 decorated
 disclander 1
