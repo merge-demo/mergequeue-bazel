@@ -2082,7 +2082,7 @@ dinghy 1
 decalcifies 1
 dartle 2
 dendrography
-drip 1
+drip 2
 demonologies 1
 digressingly 1
 decaliters 2
@@ -4973,7 +4973,7 @@ demarking 2
 dihdroxycholecalciferol 1
 dimethyltryptamine 2
 datos 1
-dissipate
+dissipate 1
 deified 1
 demotists 2
 duncedom 1
@@ -6432,7 +6432,7 @@ derrises 1
 duce 1
 deruinate 1
 derust 5
-decameronic 3
+decameronic 4
 dispathy 3
 dervishism 2
 des 2
@@ -10899,7 +10899,7 @@ desalting
 disculpate 1
 decerebrize 1
 diruption 2
-dereference
+dereference 1
 deployed 2
 disable 1
 deputationize 4
@@ -12493,7 +12493,7 @@ diaphanousness
 disgorge 2
 decinormal
 discomycetes 2
-dana 1
+dana 2
 den
 disillusive 1
 demodulations 1
