@@ -18119,7 +18119,7 @@ coenotypic 1
 coenotrope 2
 coenthrone 1
 colatorium 2
-coenunuri
+coenunuri 1
 coleochaetaceae
 coequal
 coteful
@@ -20649,7 +20649,7 @@ complaisantly 1
 coenenchyma 1
 complant
 chiromancer 1
-complect
+complect 1
 cottierism 1
 collapsible 1
 converser
