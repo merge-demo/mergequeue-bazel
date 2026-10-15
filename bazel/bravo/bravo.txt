@@ -16688,7 +16688,7 @@ bucketmaking 1
 basketfuls 3
 blithehearted 2
 besiege
-bishopship
+bishopship 1
 basilisk 1
 bilaan 1
 babelish 2
