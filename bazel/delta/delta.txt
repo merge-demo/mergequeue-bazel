@@ -9879,7 +9879,7 @@ dace 2
 dimensionally
 dimensioning 1
 dimensum 1
-disangularize 1
+disangularize 2
 diphenyl 2
 dimer 1
 decadency 1
@@ -10609,7 +10609,7 @@ diplomaing
 datapunch 1
 doleritic 1
 drudger 2
-deben 1
+deben 2
 decolorizing 1
 diplomates
 diplomatically 2
@@ -10780,7 +10780,7 @@ dipterocarpous 3
 dipterocarpus
 delay 3
 divas 1
-dependent
+dependent 1
 dipterus 2
 dotterel 1
 diptychs 2
