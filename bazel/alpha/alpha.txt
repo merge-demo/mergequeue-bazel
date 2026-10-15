@@ -11831,7 +11831,7 @@ analyzes 3
 analkalinity 2
 anallagmatic 2
 anallantoidean 5
-acclimature
+acclimature 1
 amitoses 1
 antipedobaptist
 antisociality
@@ -15511,7 +15511,7 @@ antimystically 1
 apathic 2
 antimysticalness 1
 aeroduct
-antimysticism 2
+antimysticism 3
 antimixing
 algum 2
 auxilium 1
@@ -19982,7 +19982,7 @@ abatjour
 aals
 amasta
 armure 1
-armures 1
+armures 2
 arn 2
 antirachitic
 arf 1
