@@ -8043,7 +8043,7 @@ electrodentistry 3
 epibasal 4
 ergs 3
 expilate 2
-ejections 4
+ejections 5
 eggar
 ease 3
 entoconid 1
@@ -9043,7 +9043,7 @@ equiglacial 2
 episcenium
 empyreans 2
 eperotesis
-epibranchial 1
+epibranchial 2
 ectocyst 4
 erythrocytoblast 3
 explanate 3
