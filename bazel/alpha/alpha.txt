@@ -14260,7 +14260,7 @@ antetypes 1
 ashman
 ahypnia 2
 antevert
-anteverting
+anteverting 1
 alphabetizers 1
 americanist 2
 anthdia 1
