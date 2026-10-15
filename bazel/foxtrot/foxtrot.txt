@@ -1003,7 +1003,7 @@ foreplan 2
 formate 1
 foreorder
 fenester 2
-flustrating 2
+flustrating 3
 factorability 4
 forweend
 flashes 1
@@ -1566,7 +1566,7 @@ funning 2
 fortyfold 7
 flights 3
 farcelike 6
-frisca 2
+frisca 3
 filariidae 3
 fissirostres 1
 facially 2
@@ -6735,7 +6735,7 @@ fomalhaut 3
 folliculin 3
 fanny 1
 fuchsinophil 4
-featherbed 2
+featherbed 3
 fluorescent 3
 forspeaking 2
 flamming 6
