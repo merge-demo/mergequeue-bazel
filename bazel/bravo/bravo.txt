@@ -1830,7 +1830,7 @@ bandelette 1
 banderma 2
 banderol 2
 banderole 1
-bindings 1
+bindings 2
 brigading
 banders
 broadlings 1
