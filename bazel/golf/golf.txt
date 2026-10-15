@@ -3954,7 +3954,7 @@ garote 1
 gratuito 3
 galagos 4
 gigge 2
-gallopers
+gallopers 1
 graphomaniac 2
 grice 1
 ganner 1
@@ -4564,7 +4564,7 @@ goosebill 3
 geometrid 1
 grating 2
 goupen 2
-grasscutter 1
+grasscutter 2
 giojoso 2
 greegree 2
 gressible 4
@@ -9033,7 +9033,7 @@ groomer 4
 grillee 1
 gatehouse 2
 golem 6
-gramashes 2
+gramashes 3
 granatum 1
 geomorphogenist 2
 gastrocnemian 1

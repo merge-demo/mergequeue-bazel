@@ -2420,7 +2420,7 @@ disaffects 1
 decima
 decimalism 1
 dueling 2
-decimalization 1
+decimalization 2
 displeases 2
 decimalizes 1
 dehiscent 1
@@ -8938,7 +8938,7 @@ discitis 1
 dichlorodiphenyltrichloroethane 2
 dumpishness 1
 deboshment 2
-damascene 2
+damascene 3
 deceivable 2
 deathblows 1
 dichotically
@@ -12418,7 +12418,7 @@ disheriting 4
 deforms 2
 declivate 5
 dishevelled 2
-dishevelling 1
+dishevelling 2
 delomorphic 1
 dismissingly 2
 doeskins 4
