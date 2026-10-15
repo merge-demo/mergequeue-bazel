@@ -22055,7 +22055,7 @@ conflicting 1
 conflictive
 conflictless
 conflictory
-conflicts
+conflicts 1
 cheltenham 1
 conflow
 casaquin
