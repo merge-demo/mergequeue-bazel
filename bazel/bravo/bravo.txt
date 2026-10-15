@@ -4988,7 +4988,7 @@ bumpoff
 beefers 2
 bouchon
 bombycilla
-breakfasters
+breakfasters 1
 beerpull 1
 beers 2
 beest 1
@@ -8782,7 +8782,7 @@ blurredness 1
 beatnikism
 brecia 3
 bingos
-binh
+binh 1
 bounden
 besets 1
 bini
