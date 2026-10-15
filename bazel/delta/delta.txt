@@ -11495,7 +11495,7 @@ discolorment 1
 discolouring 2
 discolourization 2
 discourt
-discombobulate
+discombobulate 1
 disuniform
 denominator 1
 daps
