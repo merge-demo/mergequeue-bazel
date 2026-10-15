@@ -3603,7 +3603,7 @@ emulable 3
 embowelling 2
 egocentric 2
 esperantism
-exhibits
+exhibits 1
 expostulatingly 2
 epitomically 3
 embows 1
@@ -4121,7 +4121,7 @@ enfoulder 2
 eellike 1
 eire 1
 emplectic 2
-emmets 2
+emmets 3
 ethnographically
 eighthes 1
 earlships 5
@@ -5055,7 +5055,7 @@ entreasure 3
 encaenia 2
 evens 2
 endophragmal 1
-equimolal 3
+equimolal 4
 entomb 2
 enqueued 1
 excuses 1
@@ -5697,7 +5697,7 @@ exomorphism
 euploid 2
 extrarenal 1
 endophasic 2
-erotism 4
+erotism 5
 entrough 1
 expectorants
 eustacies 1
@@ -7635,7 +7635,7 @@ eventfully 1
 engines
 elne
 exactest 2
-extrafascicular 3
+extrafascicular 4
 extratelluric 2
 epicondylic 1
 erected 1
@@ -10827,7 +10827,7 @@ extracultural 2
 eupatorium
 ethnobiology 3
 eupatrids 1
-eluent
+eluent 1
 exemplars 1
 enoptromancy 1
 explodes
@@ -11740,7 +11740,7 @@ enscrolled 3
 examinatory 1
 estrepe
 endochrome 4
-encumbering 3
+encumbering 4
 equivocacies 2
 examinatorial 3
 echopraxia 2
