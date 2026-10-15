@@ -1424,7 +1424,7 @@ firewood
 futchell 3
 forbar 2
 ferreted 3
-fattest
+fattest 1
 finickin
 floorer 1
 follow 2
