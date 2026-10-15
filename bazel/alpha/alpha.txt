@@ -14343,7 +14343,7 @@ alexipharmacum 1
 additamentary 2
 anthoecological
 arithmetic
-anthoecologist 1
+anthoecologist 2
 anthogenetic 2
 anticreation 2
 anthoid
@@ -21215,7 +21215,7 @@ antichronical
 albicore 1
 agnean
 acipenseridae
-ashiest
+ashiest 1
 antipass
 anxiety
 authenticalness 1
@@ -22284,7 +22284,7 @@ astragalotibial 1
 athermic 1
 anisilic 1
 astragalus 1
-astrain
+astrain 1
 antimissile 1
 apostils 1
 ansation 2

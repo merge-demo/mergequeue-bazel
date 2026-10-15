@@ -1830,7 +1830,7 @@ bandelette 1
 banderma 2
 banderol 2
 banderole 1
-bindings 1
+bindings 2
 brigading
 banders
 broadlings 1
@@ -12653,7 +12653,7 @@ boogeymen 1
 bane
 bellical
 buhrs 3
-bec 2
+bec 3
 bolivares
 bunion 1
 bestraddling 2
@@ -16457,7 +16457,7 @@ brushier 2
 bunkoed 1
 barbouillage 1
 bluenoser
-bloodshotten 1
+bloodshotten 2
 bendys 2
 beggable 3
 bejazz 2
