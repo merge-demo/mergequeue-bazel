@@ -1385,7 +1385,7 @@ gravitometer 3
 garnetter 2
 glyconeogenetic 2
 guttular 2
-garniec 2
+garniec 3
 gamily 2
 governs 1
 ganodonta 2
@@ -9922,7 +9922,7 @@ groundnut 1
 gratulatorily 1
 growingly 2
 grata 2
-genevese 2
+genevese 3
 girderless 1
 glebes 2
 greylags 3
@@ -10856,7 +10856,7 @@ garruline 5
 grewsomeness 2
 gweed 4
 gravidation 3
-gweeon 1
+gweeon 2
 growlers 6
 geomagnetician 1
 gyri 2
