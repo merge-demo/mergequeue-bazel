@@ -6337,7 +6337,7 @@ gobstopper 4
 goosenecked 4
 gemots 2
 gametal 1
-gearings 4
+gearings 5
 giglio 1
 genarchaship 3
 graptoloidea 2
@@ -6911,7 +6911,7 @@ glowers 2
 genealogic 1
 ganglioform 2
 geographer 3
-geneserine
+geneserine 1
 gangliglia 3
 gulosity 3
 gestations 4
@@ -9296,7 +9296,7 @@ goyana 3
 gurge 2
 gangliate 4
 galactophagous 1
-gunj 3
+gunj 4
 gi 3
 geodynamicist 1
 grapeline 3

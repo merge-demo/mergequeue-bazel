@@ -11336,7 +11336,7 @@ autoclasis 2
 attaste 1
 antipeptone
 anticodon
-alloquy
+alloquy 1
 anticreeper
 amphitrichate 1
 amphitropous 1
@@ -20772,7 +20772,7 @@ antimasonry
 anaphoria 1
 agoniadin
 airths
-awardee 2
+awardee 3
 artistic 1
 aftercourse
 agynarious 1
