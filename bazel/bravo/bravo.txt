@@ -4883,7 +4883,7 @@ boucl 3
 ballot 5
 bedwarfing 4
 bigotty 2
-bubukle 1
+bubukle 2
 burglarproof 1
 beebee
 biophysical
@@ -14099,7 +14099,7 @@ babbage 2
 blasters 2
 bugged 2
 butsudan
-brekkle 4
+brekkle 5
 bumbaze 1
 brighteyes 1
 birdlore
@@ -17222,7 +17222,7 @@ boucles
 bebannered 2
 bullweed 2
 brulyie 5
-bromindigo 1
+bromindigo 2
 bullwhipping 1
 bullwort 1
 bulrush 1
