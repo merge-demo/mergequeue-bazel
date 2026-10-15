@@ -10627,7 +10627,7 @@ amylo 1
 allergens 3
 amyloclastic
 aponogetonaceae 2
-antiredeposition 4
+antiredeposition 5
 annularly 1
 aggregations 2
 amylogenic 3
@@ -12277,7 +12277,7 @@ ambisexual
 avanyu 1
 agathin 1
 ancylostomiasis 3
-anemotactic 3
+anemotactic 4
 arrame 2
 ancylus 2
 actinodrome 1
