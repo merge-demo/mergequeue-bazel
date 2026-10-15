@@ -986,7 +986,7 @@ gundi 1
 gramercy 2
 gouge 3
 greasebush 1
-glyconin 4
+glyconin 5
 glycogenesis 2
 goldhammer 1
 ganderess 1
@@ -6970,7 +6970,7 @@ gigglers 5
 granjeno 2
 grinds 2
 glyconeogenesis 1
-grasseye 2
+grasseye 3
 grapevine 1
 goodwives 4
 germander 4
@@ -7167,7 +7167,7 @@ gross 2
 glycolylurea 3
 genecor 1
 gorgeret 3
-gangrenescent 1
+gangrenescent 2
 gorgia 1
 girly 2
 gorglin 1
@@ -8926,7 +8926,7 @@ grandparent 1
 galesaur 2
 gaffe 3
 gigi 3
-gladelike
+gladelike 1
 grandiloquous 2
 gwag 2
 globy 5
@@ -10574,7 +10574,7 @@ grecoue 2
 giftedly 2
 gurmukhi
 goffering 3
-gneissitic 2
+gneissitic 3
 gatewoman 3
 grenadiership 2
 grommets 3
