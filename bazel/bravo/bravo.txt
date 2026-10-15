@@ -4427,7 +4427,7 @@ bandleader 2
 becloak 2
 bereavement 1
 boojum 1
-beclog 1
+beclog 2
 becoiffed
 bulkiness
 bludging 1
