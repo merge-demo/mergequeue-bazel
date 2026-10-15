@@ -11336,7 +11336,7 @@ autoclasis 2
 attaste 1
 antipeptone
 anticodon
-alloquy
+alloquy 1
 anticreeper
 amphitrichate 1
 amphitropous 1
