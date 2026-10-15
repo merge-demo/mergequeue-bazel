@@ -2102,7 +2102,7 @@ decalogue 1
 decalvant 1
 definitizing 2
 doses 1
-dynasts 1
+dynasts 2
 dromedary
 dissyllabism 1
 defenseman 1
@@ -11707,7 +11707,7 @@ discourses
 diovular 2
 discoursing 2
 decoagulate
-distritbute
+distritbute 1
 dehumidification 1
 disclaim
 declinator 2
