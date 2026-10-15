@@ -2651,7 +2651,7 @@ germantown 2
 globulicidal 2
 genetika 2
 gurgeon 1
-gathering 3
+gathering 4
 greatest 2
 guaraguao 1
 gospodipoda 5
@@ -5535,7 +5535,7 @@ groggeries 3
 gyrovagi 2
 gently 1
 gump 2
-grassfinch 3
+grassfinch 4
 griefs 4
 gauffers
 guttiferous 3
@@ -9272,7 +9272,7 @@ gastrectasia 4
 grotesqueness 3
 greenhearted 1
 grobian 2
-gesithcund
+gesithcund 1
 gravies 1
 gigabyte 2
 gigglesome 1
@@ -10270,7 +10270,7 @@ getid 3
 grotianism 3
 gempylid 4
 gutturalization
-groaningly 2
+groaningly 3
 galerie 1
 gry 1
 gurnards

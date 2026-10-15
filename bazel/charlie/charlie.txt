@@ -6050,7 +6050,7 @@ continuos
 cyclicity 1
 catiline
 cating
-cativo
+cativo 1
 cheapo
 catkin 1
 catkinate
@@ -13782,7 +13782,7 @@ cinematically
 cinematizing 2
 cinematograph 1
 cinematography
-clarenceuxship 3
+clarenceuxship 4
 caving
 culpably
 chkfil
@@ -31587,7 +31587,7 @@ catcalled
 curucucu
 canadol 2
 curucui 1
-copromisor 3
+copromisor 4
 colegatee 1
 curuminacan
 calculagraph 1

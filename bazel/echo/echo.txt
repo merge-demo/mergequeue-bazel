@@ -422,7 +422,7 @@ essera 2
 exomphalus 1
 entocondyle 1
 ebulliently 1
-elfish
+elfish 1
 exposits 2
 ebulliometer 2
 exacerbation 1
@@ -5697,7 +5697,7 @@ exomorphism
 euploid 2
 extrarenal 1
 endophasic 2
-erotism 4
+erotism 5
 entrough 1
 expectorants
 eustacies 1
@@ -7635,7 +7635,7 @@ eventfully 1
 engines
 elne
 exactest 2
-extrafascicular 3
+extrafascicular 4
 extratelluric 2
 epicondylic 1
 erected 1
@@ -11740,7 +11740,7 @@ enscrolled 3
 examinatory 1
 estrepe
 endochrome 4
-encumbering 3
+encumbering 4
 equivocacies 2
 examinatorial 3
 echopraxia 2
