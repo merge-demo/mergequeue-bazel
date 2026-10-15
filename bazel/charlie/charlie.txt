@@ -10674,7 +10674,7 @@ chymify 1
 cobnuts
 confide
 cholinesterase 3
-chiminage
+chiminage 1
 chimla 2
 chimleys
 chain
@@ -21056,7 +21056,7 @@ computing 2
 conenose 1
 chiam 1
 celoms
-comradely 1
+comradely 2
 comradeliness 2
 comradeship
 caulked
@@ -29611,7 +29611,7 @@ crocheted 1
 crocheter
 crocheteur 1
 codebook
-commutableness 1
+commutableness 2
 columbanian 1
 croci
 crociate 1
