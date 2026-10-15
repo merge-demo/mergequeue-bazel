@@ -755,7 +755,7 @@ gravitater 2
 gestapos 3
 gerim 3
 gunbearer 5
-gerkin
+gerkin 1
 galvanopuncture 1
 gummaker 4
 goutwort 5
