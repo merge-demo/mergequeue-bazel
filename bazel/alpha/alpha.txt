@@ -10880,7 +10880,7 @@ ammonoidean 1
 aerocartography 3
 anaglyphy
 ammonoids 2
-ammonolitic 1
+ammonolitic 2
 assemblage
 archeological 1
 ammonolytic
@@ -20168,7 +20168,7 @@ arranges 2
 alyssum 2
 alc
 absaroka 1
-arrasene
+arrasene 1
 aplectrum
 arrases
 acoelomata

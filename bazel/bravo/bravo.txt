@@ -2738,7 +2738,7 @@ backward 1
 beltline 4
 bullbat 2
 bismutoplagionite 1
-barolo 1
+barolo 2
 bm 1
 bicolored 3
 benab 2
@@ -10803,7 +10803,7 @@ broses 3
 blepharoplastic 2
 bassan 1
 blepharoptosis 1
-blepharosynechia 3
+blepharosynechia 4
 blepharosphincterectomy 2
 bunchberry
 bulldoggy
