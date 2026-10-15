@@ -1403,7 +1403,7 @@ gallotannin 2
 gasified 3
 gausterer 1
 gearshift 2
-gcd 2
+gcd 3
 gangplow 3
 grundyite 1
 galvanopsychic 1
