@@ -2491,7 +2491,7 @@ fernshaw 1
 fordo 2
 forehatch 2
 flavic 2
-freightage 1
+freightage 2
 fawningness 1
 fortunize
 fluters 2
@@ -7967,7 +7967,7 @@ foreshow 1
 flatfoot 4
 fistulous 2
 flajolotite 2
-flagrantly 2
+flagrantly 3
 femic 1
 felicitousness 3
 flaunty 1
@@ -11422,13 +11422,13 @@ few
 furomethyl 1
 furcated 2
 fishings 5
-furfuraceously 2
+furfuraceously 3
 fingerlike 1
 furred 2
 frieze 1
 frowstiest 3
 fettering 2
-forebemoaned
+forebemoaned 1
 founte 1
 fortunetell 1
 fallibleness 1
