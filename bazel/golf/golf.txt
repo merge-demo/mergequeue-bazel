@@ -1336,7 +1336,7 @@ gra 3
 ganoine
 goanese 1
 guslee
-greenhouse 2
+greenhouse 3
 goldsmiths 1
 garishly 2
 galligaskins 3
@@ -9252,7 +9252,7 @@ gueridon 3
 griths 2
 gritted 1
 grittie 2
-gutturality 3
+gutturality 4
 grivna 1
 galeres 5
 grizzel 2
@@ -9405,7 +9405,7 @@ glumiflorae 1
 guatoan 4
 glissandi 7
 gymel 1
-glycerolize 3
+glycerolize 4
 grottoes 1
 gelatose 2
 gaywings 6
