@@ -2196,7 +2196,7 @@ fishworker 2
 feltwort 2
 fastidiosity 2
 felwort 3
-fathearted 2
+fathearted 3
 faciobrachial 1
 fairsome 3
 forestery 6
@@ -4028,7 +4028,7 @@ felicific
 facades 2
 forwean 2
 forefaces
-feute 1
+feute 2
 funerally
 fallible 1
 feudatorial 3
@@ -6998,7 +6998,7 @@ fineries
 freemason 1
 fondly 2
 fluorspar 1
-flop 1
+flop 2
 fondlingly 1
 fraenulum 2
 foozled 2
@@ -8282,7 +8282,7 @@ fluidism
 fortunate 5
 flirting
 farmings 3
-fractious 2
+fractious 3
 feists 1
 flump 2
 forehoof 3
