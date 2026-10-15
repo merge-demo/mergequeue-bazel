@@ -6970,7 +6970,7 @@ gigglers 5
 granjeno 2
 grinds 2
 glyconeogenesis 1
-grasseye 2
+grasseye 3
 grapevine 1
 goodwives 4
 germander 4
@@ -8926,7 +8926,7 @@ grandparent 1
 galesaur 2
 gaffe 3
 gigi 3
-gladelike
+gladelike 1
 grandiloquous 2
 gwag 2
 globy 5
