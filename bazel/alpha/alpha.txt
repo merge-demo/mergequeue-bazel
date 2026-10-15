@@ -3371,7 +3371,7 @@ aliptae
 arcosoliulia
 adterminal
 antiphlogistic
-asternal 2
+asternal 3
 adamsia 2
 adiathermanous
 adamsites
@@ -4245,7 +4245,7 @@ archaic
 antioxidizer 1
 assemblement 3
 autosuggest 1
-aclastic
+aclastic 1
 adposition 1
 acmispon
 azonium
