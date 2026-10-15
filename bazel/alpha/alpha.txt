@@ -103,7 +103,7 @@ annominate 1
 auditories 1
 abarticulation 2
 agyieus 1
-abase
+abase 1
 antedate 1
 asap
 abasedly 1
@@ -10018,7 +10018,7 @@ accusation
 andrenid
 avidya 1
 ambidextrously 1
-autarkikal 2
+autarkikal 3
 avellan
 asyllabical 1
 ambiency
@@ -20454,7 +20454,7 @@ amplifications 2
 aftaba 3
 arteriac
 artistes
-allomorphic 3
+allomorphic 4
 archchaplain 2
 apotropaic 1
 antimilitaristically
