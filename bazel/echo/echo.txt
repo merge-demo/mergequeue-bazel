@@ -3385,7 +3385,7 @@ encyclopaedial
 embannered 2
 emetine 2
 equivokes 2
-eremopteris 2
+eremopteris 3
 ethanethiol 2
 electrotechnics 2
 embarge 1
@@ -6679,7 +6679,7 @@ eyehooks 1
 enhappy 4
 eroticize
 enculturative 4
-epibatus 1
+epibatus 2
 eyas 1
 extraduction 1
 enthalpies 1
