@@ -4988,7 +4988,7 @@ bumpoff
 beefers 2
 bouchon
 bombycilla
-breakfasters
+breakfasters 1
 beerpull 1
 beers 2
 beest 1
@@ -7032,7 +7032,7 @@ bascinet 1
 bitterly 1
 babeship
 bemuzzling 1
-besot
+besot 1
 baronet 2
 boodh 2
 boothian 2
@@ -8782,7 +8782,7 @@ blurredness 1
 beatnikism
 brecia 3
 bingos
-binh
+binh 1
 bounden
 besets 1
 bini
@@ -17650,7 +17650,7 @@ boff 1
 blockish 1
 boris
 britchel 1
-belady 1
+belady 2
 blowier 2
 barrelfish 1
 bonsai
