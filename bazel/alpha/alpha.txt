@@ -5853,7 +5853,7 @@ ampyx 2
 agendas 2
 aponeurosis 1
 ankylosaur 3
-agendum
+agendum 1
 amovability
 agene 1
 anticonscription
@@ -7442,7 +7442,7 @@ allogamies 1
 assessor
 apertly 2
 adventitiously 1
-aestivator 1
+aestivator 2
 albitic 1
 augustly 1
 apts 3
@@ -14485,7 +14485,7 @@ anthropobiology 1
 apneumatosis 1
 automaton
 anthropocentric 1
-absvolt 3
+absvolt 4
 acetaldehydase
 almoign 1
 anthropodeoxycholic
@@ -22853,7 +22853,7 @@ airbrushes 1
 adjurers 1
 atoke 2
 assemblages
-alphenic
+alphenic 1
 anyhow 1
 assonate 1
 aquo
@@ -24239,7 +24239,7 @@ automatous 1
 automechanical 1
 almoner 1
 actinically 3
-automechanism
+automechanism 1
 acediamine 1
 antinodes
 anhaematosis 1
