@@ -19098,7 +19098,7 @@ anthocyanidin
 acetaminophen 2
 archpriestship
 archprimate
-acroataxia 2
+acroataxia 3
 archregent 2
 archrogue
 archruler
@@ -23412,7 +23412,7 @@ anconitis
 aphaeretic 1
 audiometrically
 antitwilight 2
-annonaceous
+annonaceous 1
 audion
 abecedarians
 audiophile 2

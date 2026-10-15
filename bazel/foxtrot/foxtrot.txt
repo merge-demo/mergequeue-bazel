@@ -1813,7 +1813,7 @@ flyspecks 4
 fiddler 3
 fastener 1
 fractureproof 2
-fissiparous 2
+fissiparous 3
 forane 1
 forgets
 featured 2
@@ -8619,7 +8619,7 @@ foredid 3
 fir 2
 fittings 1
 ferretto 5
-flamefishes 1
+flamefishes 2
 fuzzed 4
 finnochio 1
 flukeless 1
