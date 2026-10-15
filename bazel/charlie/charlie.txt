@@ -8109,7 +8109,7 @@ codiniac 1
 coracosteon
 continent 1
 carcer
-chaffron 2
+chaffron 3
 clavicornia
 chaffs
 chaffseed 1
@@ -18170,7 +18170,7 @@ counterleague 1
 careeners
 cutset 1
 coesites
-coessential 1
+coessential 2
 conversional 1
 convivialist 1
 carburize
