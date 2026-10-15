@@ -9329,7 +9329,7 @@ endosiphon
 erugo 1
 encrusted 2
 erugos 2
-escapage 1
+escapage 2
 eruptible 1
 eruption
 eruptional 1
@@ -10882,7 +10882,7 @@ eyeful
 edea 1
 empair 1
 esclandre 3
-exsolve
+exsolve 1
 exrupeal 2
 emmetropia 1
 eutectic

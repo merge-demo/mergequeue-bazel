@@ -8048,7 +8048,7 @@ forestation 5
 faceup 2
 fructiculture 2
 foresteep 4
-flockmaster 3
+flockmaster 4
 feyest 1
 flowerist 1
 frontward 2
@@ -9211,7 +9211,7 @@ firebugs 5
 fertilising 1
 fascinatress 3
 freeborn 2
-fragmentariness
+fragmentariness 1
 fragmentist 4
 foundries 2
 faucals
