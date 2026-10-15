@@ -19982,7 +19982,7 @@ abatjour
 aals
 amasta
 armure 1
-armures 1
+armures 2
 arn 2
 antirachitic
 arf 1
