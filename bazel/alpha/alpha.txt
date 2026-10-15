@@ -14543,7 +14543,7 @@ armature 1
 anthropomorphised 1
 arimaspian 1
 admirability 1
-arborean
+arborean 1
 admass 1
 anthropomorphisms 2
 awanyu 1
@@ -24894,7 +24894,7 @@ amblyocarpous 1
 adiponitrile 2
 antiaggression 1
 amurru 3
-awadhi 3
+awadhi 4
 arling 2
 awayness 2
 awaynesses 1
