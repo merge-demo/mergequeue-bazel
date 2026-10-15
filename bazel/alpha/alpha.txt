@@ -235,7 +235,7 @@ antiritual 1
 antisensitizer
 abbotric
 allokinesis 1
-alchemistical
+alchemistical 1
 adipolytic 1
 ajourise
 aeroliths 2
@@ -23159,7 +23159,7 @@ aubepine
 attendment
 aposoro 2
 attendress
-aciurgy 1
+aciurgy 2
 asteriscus 1
 attends
 acquittance
