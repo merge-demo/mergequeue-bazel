@@ -3247,7 +3247,7 @@ aphidius
 aerogenes
 adductors 1
 antilevelling 1
-accusatorial 2
+accusatorial 3
 aleberry
 agitprop 2
 autisms 1
@@ -12139,7 +12139,7 @@ anatomiser
 adulterates
 anatomize 1
 anopsy
-anatomizer 1
+anatomizer 2
 advisiveness 2
 attacco
 anatopism
