@@ -5925,7 +5925,7 @@ glamourizer 1
 gluepot 2
 gimballed 5
 garrison
-gemitorial 2
+gemitorial 3
 globuliform 1
 gaylussacia 5
 gluishness 1
