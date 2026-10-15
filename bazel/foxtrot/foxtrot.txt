@@ -10672,7 +10672,7 @@ forescent
 feralin
 fivepenny 1
 fairstead 3
-fruitstalk
+fruitstalk 1
 fg 1
 foreset 3
 foresheets 2
