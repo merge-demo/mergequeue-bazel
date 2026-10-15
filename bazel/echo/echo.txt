@@ -535,7 +535,7 @@ echinacea
 evelina 2
 eching 5
 echinidan 2
-expy 1
+expy 2
 enzymologist 1
 eclipsises
 entosthoblast 1
@@ -8718,7 +8718,7 @@ epigaeous 2
 extradicting 2
 eriophyllous 2
 esculapian 2
-emulsifies 3
+emulsifies 4
 equitableness 2
 employee 4
 equitative
@@ -14045,7 +14045,7 @@ eidolons 1
 excandescency 2
 embellishments
 extrathermodynamic 1
-equationism 3
+equationism 4
 emes 1
 excitonic 1
 enterochromaffin 2
