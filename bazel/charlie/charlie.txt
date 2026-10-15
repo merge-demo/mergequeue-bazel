@@ -22477,7 +22477,7 @@ certainest 1
 chignoned
 conjoinedly 1
 claviole 1
-conjointment 2
+conjointment 3
 chromaffin
 conjointness
 chorwat 3
@@ -30545,7 +30545,7 @@ cofferfish 1
 cubicula 1
 costly
 cubicular
-casewood 2
+casewood 3
 celiodynia 1
 cubiculo 1
 cubing
@@ -31779,7 +31779,7 @@ custron 4
 custumal 4
 cut
 collicle
-cutaneously
+cutaneously 1
 counterlighting
 circumspectively
 collegiality
