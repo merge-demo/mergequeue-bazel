@@ -9127,7 +9127,7 @@ discursive
 dingdong 1
 disweapon 2
 didelphoid 3
-disinclines
+disinclines 1
 derisory
 doffs
 detriment 1
