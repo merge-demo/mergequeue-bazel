@@ -17790,7 +17790,7 @@ appointment 3
 alburnous 1
 algomic
 adonia
-ablaze 1
+ablaze 2
 apport
 apportionable
 ampule 1
@@ -20487,7 +20487,7 @@ asg 1
 arcula
 anticorrosively
 admov 1
-aristological 1
+aristological 2
 asterospondylous
 arteriocapillary
 arteriogenesis
