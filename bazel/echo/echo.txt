@@ -9191,7 +9191,7 @@ enchodus
 elates 3
 embryophyte 3
 electrographite 1
-empiricism 1
+empiricism 2
 exotropia 1
 enclasp 1
 egomaniac 1
@@ -13584,7 +13584,7 @@ epoxides 4
 elementally 1
 excern 1
 enteroceptor 2
-endosteomas
+endosteomas 1
 extance
 extemporally 3
 electropotential 2
