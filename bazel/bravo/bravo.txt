@@ -3161,7 +3161,7 @@ bashibazouk 1
 brocket 3
 bashyle 1
 balanopsidales 4
-baka 1
+baka 2
 bilabial 2
 baptisin 1
 bataleur
@@ -13722,7 +13722,7 @@ banqueted 4
 barytocalcite
 braccio 1
 billetwood 2
-backus
+backus 1
 balneatory 2
 boutefeu
 bouteria 1

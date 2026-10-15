@@ -3905,7 +3905,7 @@ carbonous 1
 carbons
 carbonuria 1
 calcined
-clarity
+clarity 1
 contradistinguish 2
 celibacies
 cowheel 1
@@ -9720,7 +9720,7 @@ cankeredly 1
 cimex
 chromotype 1
 cheiranthus 2
-cheirogaleus 2
+cheirogaleus 3
 cheirography 3
 cheirolin
 cymbal 1
@@ -10876,7 +10876,7 @@ canzoni 1
 chippie
 chippier 1
 chippies
-collyba
+collyba 1
 choledocholithiasis 1
 chippiest 2
 chipping
