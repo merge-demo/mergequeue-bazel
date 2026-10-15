@@ -7440,7 +7440,7 @@ daroga 2
 deviate 1
 dancer 3
 drumfire
-disequilibriums
+disequilibriums 1
 densitometry
 disseised 2
 detrivorous
