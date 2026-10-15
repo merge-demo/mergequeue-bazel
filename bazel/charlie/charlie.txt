@@ -813,7 +813,7 @@ caids 1
 cayenne 2
 cucurbits 1
 cooption
-completes
+completes 1
 cytophagy
 cayenned
 contouring 1
@@ -27136,7 +27136,7 @@ chesboll
 countrywide
 countersinks 1
 countersleight 2
-countersnarl
+countersnarl 1
 cataclysmatic 2
 counterspy 1
 counterspies 1
