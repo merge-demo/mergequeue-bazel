@@ -2142,7 +2142,7 @@ adspiration 2
 abbaye
 amortissement 4
 algebraization
-arborized 1
+arborized 2
 achiness 1
 achinesses 3
 aching 1
@@ -9346,7 +9346,7 @@ auditioned
 antineoplastic 2
 adamancies
 angulatogibbous
-anastomoses
+anastomoses 1
 amidating
 antisudoral
 antiprotease 2
@@ -15185,7 +15185,7 @@ archontic 4
 amphimictical 1
 aberrometer
 amil 2
-arctocephalus 1
+arctocephalus 2
 aerostat 1
 aseptically 3
 antifatigue 1
