@@ -9647,7 +9647,7 @@ anticardium
 archantiquary 1
 adobe 1
 aition
-aluminose 2
+aluminose 3
 aluminothermy 2
 acrotarsial 2
 austerity 1
@@ -24851,7 +24851,7 @@ ascidioida 1
 avolitional 1
 avouch 1
 avouchable 2
-atmosphere 1
+atmosphere 2
 anaptyxis 1
 alands
 animates 1
