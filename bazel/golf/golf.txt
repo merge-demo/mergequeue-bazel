@@ -8014,7 +8014,7 @@ gunstocking 3
 gastronomy 5
 gastronomics 2
 gata 4
-gunstock 1
+gunstock 2
 gossiper 3
 grandpapa 1
 grunting 2
@@ -10596,7 +10596,7 @@ gunning 2
 gonzalo 2
 gigmanity
 gigging 3
-gallbladder 2
+gallbladder 3
 grandame 2
 glossmeter 3
 gadidae 4
