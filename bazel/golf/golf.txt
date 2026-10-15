@@ -1522,7 +1522,7 @@ galenian 4
 germiest 2
 geotonic 2
 gangland 2
-grouse 1
+grouse 2
 gavelage 4
 gasoliers 3
 guiro 6
@@ -5484,7 +5484,7 @@ gemellus 1
 guipure 3
 groundskeep 1
 glisk
-gapperi 5
+gapperi 6
 gastruran 3
 grangerising 5
 gemmier 1
