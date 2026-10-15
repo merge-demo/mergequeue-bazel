@@ -4139,7 +4139,7 @@ guiltful 1
 gymnasic 3
 galeidae 3
 genitivally 1
-grapsidae 3
+grapsidae 4
 gentilities 3
 grundy 3
 geochronology 7
@@ -9576,7 +9576,7 @@ granted 2
 gazed 3
 gynecologist 2
 galactoscope 4
-grind 1
+grind 2
 gnus 3
 gingersnap 3
 grovellingly
