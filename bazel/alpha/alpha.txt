@@ -4043,7 +4043,7 @@ actionless 1
 actinobacillotic
 atalan 1
 ailurophilia 4
-abiotrophic 3
+abiotrophic 4
 amyotaxia 1
 allylic 1
 autorotational
@@ -20753,7 +20753,7 @@ apprehensiveness 1
 aruac 1
 aplodontia 1
 amphicrania 3
-austenitic
+austenitic 1
 artilleryship 1
 autotherapy 1
 artillerist 2
@@ -22615,7 +22615,7 @@ athanasianism 1
 athanasianist 1
 aplustra
 aluminizing
-athanasies
+athanasies 1
 antisialagogue 1
 asparaginous 1
 alliterative 1
