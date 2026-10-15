@@ -328,7 +328,7 @@ fornicatory
 fplot 1
 fluxionary 2
 feods 2
-forces 2
+forces 3
 fail 1
 fireplough 2
 faineancy 2
@@ -11304,7 +11304,7 @@ fatwa
 firedog
 formatted 3
 feverfew 2
-firesides 2
+firesides 3
 fraternize 1
 fleabite
 faultfinding 1
