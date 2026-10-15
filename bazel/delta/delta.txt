@@ -7272,7 +7272,7 @@ dournesses
 defalk 3
 disarrest
 deteriorating 2
-deterioration 2
+deterioration 3
 deuce 1
 data 4
 dear 2
@@ -10771,7 +10771,7 @@ dipterygian
 discontiguous 1
 dipteryx
 deinodontidae 3
-dipterocarp 2
+dipterocarp 3
 dipterocarpaceae 1
 dartingly 2
 dipterocarpaceous
