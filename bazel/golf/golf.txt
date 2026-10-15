@@ -2134,7 +2134,7 @@ gen 1
 glumiferous 3
 galla 4
 globosity 1
-gaudete 2
+gaudete 3
 graced 3
 glycoluric 3
 gazellelike 1
@@ -9810,7 +9810,7 @@ guacacoa 1
 grimacer 3
 gorce 1
 grantor 2
-gue 1
+gue 2
 globulinuria
 glossemes 1
 glares 3
