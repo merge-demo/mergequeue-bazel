@@ -382,7 +382,7 @@ fluorides
 faintly
 ferrymen
 fearer 2
-filicauline 3
+filicauline 4
 forbid 1
 fairfieldite 2
 facets 1
@@ -7680,7 +7680,7 @@ fixedness 1
 franchised 1
 flustrate 2
 flourishment 4
-foziest 2
+foziest 3
 fruition 4
 foreturn 1
 flotter 6
@@ -11041,7 +11041,7 @@ ferruminate 2
 fumishing 2
 friendliness 2
 fermented 4
-fumuli 3
+fumuli 4
 fungated 2
 fere 1
 fascias 3
@@ -11440,7 +11440,7 @@ fiducially 2
 fluviose 1
 falteringly 3
 furrily
-firefly 2
+firefly 3
 frae 1
 flushingly 3
 frostless 1
