@@ -1409,7 +1409,7 @@ amidothiazole 1
 adipofibroma 2
 axilemmata 2
 accessioner 2
-accessive 2
+accessive 3
 anoplocephalic 1
 aurichalcum
 awlessness 1
@@ -2701,7 +2701,7 @@ advert 1
 abrasive 2
 araujia
 appalachian 1
-acryl 1
+acryl 2
 alco 3
 acrylates 1
 adjument 1
@@ -7158,7 +7158,7 @@ assistantships 3
 autoregulation 2
 antibiotics 1
 argovian 2
-antiodontalgic 2
+antiodontalgic 3
 aweigh
 alabamide 3
 alabamine
@@ -8720,7 +8720,7 @@ alliaceae 1
 annuities 2
 alleve
 alleviate 2
-anthobian
+anthobian 1
 arachnological 1
 accessed
 anarchial 2
@@ -10439,7 +10439,7 @@ adstipulation 1
 almah
 amethodically 2
 absurdum 1
-aculeolus 3
+aculeolus 4
 ametrope 1
 antshrike 1
 ametropia 1
@@ -22410,7 +22410,7 @@ achenia 1
 astrologaster
 astrologers
 alkylates
-archcorrupter
+archcorrupter 1
 acaulous 2
 acetabular
 astrologically
@@ -23603,7 +23603,7 @@ antitraditionally 1
 analogise 2
 auntie 1
 acroceratidae 1
-anama
+anama 1
 acrasin 1
 atmostea 1
 abubble 1
