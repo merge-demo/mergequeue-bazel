@@ -4988,7 +4988,7 @@ bumpoff
 beefers 2
 bouchon
 bombycilla
-breakfasters
+breakfasters 1
 beerpull 1
 beers 2
 beest 1
