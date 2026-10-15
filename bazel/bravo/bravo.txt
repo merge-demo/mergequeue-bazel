@@ -4602,7 +4602,7 @@ baptise
 bedbugs 1
 boden
 bedtick 1
-bedchair 5
+bedchair 6
 butterine 5
 bedchairs
 buffers 2
@@ -12586,7 +12586,7 @@ boogeyman 2
 balance 2
 bonnnes 3
 bonnocks 1
-bonnwis 4
+bonnwis 5
 bionomist 2
 bonorum 1
 bisector 1
@@ -13261,7 +13261,7 @@ bostanji 2
 bosthoon 1
 bostonian 1
 banderillas
-burglar 1
+burglar 2
 branchstand 1
 barman 3
 bumbarge
