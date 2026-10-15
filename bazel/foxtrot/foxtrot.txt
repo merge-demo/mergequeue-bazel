@@ -4235,7 +4235,7 @@ flab 3
 feistier 1
 felicide 3
 footsies 1
-fowls 3
+fowls 4
 farinosely 2
 formed 2
 fohat 1
@@ -8743,7 +8743,7 @@ flavonols 4
 fortuitous 1
 furrieries 1
 flote
-faussebraie 1
+faussebraie 2
 fala 5
 frizzled 2
 featheriest 3
