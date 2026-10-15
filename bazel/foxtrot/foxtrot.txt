@@ -782,7 +782,7 @@ feil
 farmost 2
 forecovert 3
 fanfolds 4
-fluorines
+fluorines 1
 financing 1
 flunker 1
 fanfaronading
@@ -6447,7 +6447,7 @@ firring 2
 floretty 3
 fisherboat 1
 feltman
-froisse
+froisse 1
 footbaths 2
 feneration 1
 fluotantalic 2

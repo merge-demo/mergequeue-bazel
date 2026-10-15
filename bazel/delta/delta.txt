@@ -4136,7 +4136,7 @@ deliquium 3
 demisolde
 demagnetised
 dianthuses 1
-debye
+debye 1
 deguelin 1
 deliration 2
 delire 1
@@ -12529,7 +12529,7 @@ disinfected 1
 deceivers 2
 denaturizer 1
 desponsories 1
-dispractice 1
+dispractice 2
 dols 3
 decerns 3
 dugout 1
