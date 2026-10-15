@@ -86,7 +86,7 @@ eusporangiate 2
 eclecticize 1
 ephedraceae 5
 electrophysicist 1
-encircling
+encircling 1
 eulysite 3
 ecardine
 earning 1
@@ -10236,7 +10236,7 @@ ethyldichloroarsine 1
 emphraxis 1
 ethylenimine 1
 esperanto 1
-exasperated 1
+exasperated 2
 edituate 2
 epistolist 2
 epigenous 4
@@ -11652,7 +11652,7 @@ equianchorate
 epitaphical 1
 exacting 1
 electroirrigation 3
-eruca 1
+eruca 2
 electivity 2
 eliminations 2
 eburnian 1
