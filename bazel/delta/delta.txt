@@ -6293,7 +6293,7 @@ dermatoplasm 2
 diapositive 1
 deluminize
 deozonizer 1
-decolonization
+decolonization 1
 debatter 2
 dermatorrhagia 1
 drossy 1
@@ -9852,7 +9852,7 @@ downweighted 1
 duocosane 1
 dispapalize 1
 determines
-diluvialist
+diluvialist 1
 demidigested 4
 decorated
 disclander 1
@@ -12219,7 +12219,7 @@ dodoisms
 drapes 3
 disfranchises 1
 drosophilae
-depel 2
+depel 3
 deride 1
 discoursiveness 3
 deliquesce 1
