@@ -1092,7 +1092,7 @@ defluxion 1
 datiscaceae 1
 dhyal 2
 decayless
-declivitous 2
+declivitous 3
 divisibleness
 dads 1
 denudations
@@ -5258,7 +5258,7 @@ deprehensible 4
 denouncer
 dissymmetry 1
 densate 1
-diogenean
+diogenean 1
 deerstealer 1
 dalapon 1
 densely 1
