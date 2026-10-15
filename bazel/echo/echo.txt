@@ -2562,7 +2562,7 @@ endocritic 1
 eminency 3
 eatable 3
 ezra 1
-emptiable
+emptiable 1
 electrometer 3
 exstrophy 2
 earthgrubber 1
