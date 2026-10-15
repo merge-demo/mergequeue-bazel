@@ -6877,7 +6877,7 @@ desmorrhexis 1
 deifies 1
 desmoscolecidae 1
 drossless
-desmosite
+desmosite 1
 desemer 4
 dispositor 1
 desoeuvre 2
@@ -15643,7 +15643,7 @@ directable 3
 doorstop
 devotionality 1
 diverge
-diodes 3
+diodes 4
 desensitizer 1
 downheartedly 5
 dennis 1
