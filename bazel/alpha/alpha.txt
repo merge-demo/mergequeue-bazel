@@ -1687,7 +1687,7 @@ archsee 1
 alouettes
 apperceive 1
 accumbency
-astarte 2
+astarte 3
 accumbent 2
 accumulating 1
 anthracomartian 2
@@ -1969,7 +1969,7 @@ assertions
 acetla 1
 acetoacetate
 alkyls
-alphabetiform
+alphabetiform 1
 absolutism 1
 amphidisk 2
 acetometer
@@ -13596,7 +13596,7 @@ annulosa
 annuls
 adorableness 1
 aboundingly
-actinopterygious 2
+actinopterygious 3
 annunciade 1
 arthropod
 aloneness 1
@@ -16058,7 +16058,7 @@ adenophyma 1
 antirevolution
 antirevolutionist
 antirheumatic
-anaptyxes 1
+anaptyxes 2
 achango 3
 autoradiographic
 antiromantic 4
@@ -17915,7 +17915,7 @@ antimeric 1
 atopy
 aqueousness 2
 apprizers 3
-almaciga 1
+almaciga 2
 apprizing
 appro
 amate

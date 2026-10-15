@@ -2691,7 +2691,7 @@ extendibility
 eudaemonics 2
 engenderment 2
 electrotelegraphy 2
-exhort
+exhort 1
 epispadia 3
 electrotherapeutical 1
 estampie
@@ -7702,7 +7702,7 @@ euphemiser 2
 electrotautomerism
 expoundable 2
 epideistic 3
-enthymematical 1
+enthymematical 2
 eriocaulaceous 2
 effluxion
 estrus 2
