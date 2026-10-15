@@ -11229,7 +11229,7 @@ chlorhydric 1
 chloriamb 1
 chloriambus
 chlorid 1
-chicanos 1
+chicanos 2
 chloridate
 cardol 1
 conturb
@@ -11391,7 +11391,7 @@ chloroplatinous 1
 chloroprene
 creature 1
 chloroquine 2
-coronas 2
+coronas 3
 camagon 3
 cyclamates 2
 cloudlessly 3
@@ -30156,7 +30156,7 @@ crpe 1
 crts
 coccinella 2
 cannstatt 1
-crubeen 1
+crubeen 2
 cruce 1
 crucethouse
 canonise 2
