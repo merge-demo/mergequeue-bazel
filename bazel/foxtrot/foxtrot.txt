@@ -2976,7 +2976,7 @@ frankensteins 1
 fiberize 1
 fewest 6
 fluke 2
-fissiparity 5
+fissiparity 6
 fading 2
 fewterer 5
 francophil 1
@@ -10297,7 +10297,7 @@ factor 2
 frenziedness 3
 forleaving 3
 foundationless 4
-finfoot 2
+finfoot 3
 fervorlessness 1
 fustilugs 2
 futurely 1
