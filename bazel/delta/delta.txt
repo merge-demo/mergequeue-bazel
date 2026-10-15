@@ -5784,7 +5784,7 @@ distributee 1
 doodler 3
 depopulation 2
 denitrize 1
-debeak 2
+debeak 3
 depopulative 2
 dowve 1
 disimitation 5
@@ -12754,7 +12754,7 @@ detroit 2
 dodrans
 dupondii
 dakoits 1
-domesticize 1
+domesticize 2
 deer 4
 dysneuria 1
 dislodgement
