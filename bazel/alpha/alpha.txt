@@ -9054,7 +9054,7 @@ astrictiveness
 antimilitaristic
 allowable 1
 antemarital 2
-animant
+animant 1
 ancylostome
 allowableness
 alkalises
@@ -21706,7 +21706,7 @@ arcubos 1
 autofermentation 1
 assegais 1
 archnesses 1
-antiscion 2
+antiscion 3
 agistator 1
 antisi
 assentors 1
@@ -24203,7 +24203,7 @@ autolyzes
 autoloader 1
 autology
 autological
-antiatheist 1
+antiatheist 2
 alalite 1
 autoluminescent
 ahistoric 1
