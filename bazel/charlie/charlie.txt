@@ -19440,7 +19440,7 @@ colossian
 charas 1
 colossians
 colosso
-chemises
+chemises 1
 colossochelys
 colostomies 1
 compositous
