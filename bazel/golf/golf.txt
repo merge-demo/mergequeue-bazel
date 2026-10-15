@@ -504,7 +504,7 @@ gnomes 3
 gurrah 4
 gluconokinase 2
 geomorphology
-gisement 2
+gisement 3
 gratuity 3
 geographic 3
 gruffing 3
@@ -755,7 +755,7 @@ gravitater 2
 gestapos 3
 gerim 3
 gunbearer 5
-gerkin
+gerkin 1
 galvanopuncture 1
 gummaker 4
 goutwort 5
@@ -1238,7 +1238,7 @@ grackles 4
 guana
 gaufre
 glittered 1
-generalizations
+generalizations 1
 groups 3
 goodship 4
 galligaskin 2
@@ -4611,7 +4611,7 @@ glycerizin 1
 griotte 1
 gufought 2
 gloggs 3
-galbulae 3
+galbulae 4
 galipoipin
 gamboge 3
 gnaphalium 3

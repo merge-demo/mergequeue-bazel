@@ -8255,7 +8255,7 @@ bedesman 1
 bream
 bluegill 4
 bekerchief
-bawdiest
+bawdiest 1
 budgie 1
 broodingly 1
 butterflyfish
@@ -14832,7 +14832,7 @@ beefishness
 backscratching 1
 breadearning 1
 basigamy 2
-basipetally 3
+basipetally 4
 breaded 1
 breaden 1
 breadfruit
@@ -18301,7 +18301,7 @@ buttocker
 bacteriopsonic 1
 buttocks 1
 bermuda 1
-bullockite 3
+bullockite 4
 button 1
 buttonball 2
 basaltoid 2
