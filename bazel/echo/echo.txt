@@ -12245,7 +12245,7 @@ eclogue 1
 executress 2
 elshin 2
 exsurge
-endosteal
+endosteal 1
 enchases
 expertized 3
 encommon 2
