@@ -7146,7 +7146,7 @@ eild 1
 exclusions 1
 echar 1
 elan 1
-estanciero 2
+estanciero 3
 eudaemonism 2
 everyday 2
 endocolitis 1
