@@ -3968,7 +3968,7 @@ fruitcakey 2
 frenziedly 1
 frightfulness 2
 foreshown 1
-funneled 2
+funneled 3
 farcical
 follyproof 7
 fossil 2
@@ -10167,7 +10167,7 @@ frisked
 forebears 1
 fluttered 1
 flobby
-falcer 3
+falcer 4
 forinsecal 2
 friulian 1
 fibroadenia 2
