@@ -5925,7 +5925,7 @@ glamourizer 1
 gluepot 2
 gimballed 5
 garrison
-gemitorial 2
+gemitorial 3
 globuliform 1
 gaylussacia 5
 gluishness 1
@@ -6160,7 +6160,7 @@ grommet 6
 garters 2
 gadfly
 geelbec 1
-goa 3
+goa 4
 gadsbud 2
 gauche
 goadsman 1
