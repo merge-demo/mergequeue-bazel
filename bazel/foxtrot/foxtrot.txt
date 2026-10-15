@@ -5740,7 +5740,7 @@ furnage 2
 fungistatic
 frequentation 1
 fractuosity 2
-fels 4
+fels 5
 figureheadless 3
 fisher 2
 foredeserved 5
@@ -6550,7 +6550,7 @@ forswears 2
 feedboard 3
 flensing 1
 flutterment 2
-flimflammed 1
+flimflammed 2
 fluviolacustrine 3
 fleetly 3
 funereal 1
@@ -6664,7 +6664,7 @@ fullered 3
 frankfold 3
 filemarks 1
 flaringly 1
-foetation 1
+foetation 2
 filt 2
 frontad 7
 figurism 2
@@ -9604,7 +9604,7 @@ filipinize
 fleeceable 4
 fdub 1
 frailest 1
-fragmentitious 2
+fragmentitious 3
 forcipated 3
 fleabugs 2
 fabula 2
