@@ -8764,7 +8764,7 @@ alliant
 allicampane 2
 antiketogen 1
 allicient 2
-anglist 1
+anglist 2
 anticeremonially 1
 allied 3
 allies
@@ -10969,7 +10969,7 @@ apulse 1
 abolitionary 3
 amyridaceae
 amoebobacterieae 2
-amoebocyte
+amoebocyte 1
 amoebogeniae 1
 amoebula 1
 amoy 1
