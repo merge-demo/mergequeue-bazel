@@ -22853,7 +22853,7 @@ airbrushes 1
 adjurers 1
 atoke 2
 assemblages
-alphenic
+alphenic 1
 anyhow 1
 assonate 1
 aquo
