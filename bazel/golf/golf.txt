@@ -9926,7 +9926,7 @@ genevese 3
 girderless 1
 glebes 2
 greylags 3
-geoparallelotropic 1
+geoparallelotropic 2
 gateway 6
 grisailles 2
 granddaddies 3
