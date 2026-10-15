@@ -5849,7 +5849,7 @@ flustrum 1
 fulcrums 6
 flidge
 fitz 2
-farine 2
+farine 3
 fertilisable 1
 fowling 4
 factorially 2
@@ -6224,7 +6224,7 @@ fairgrounds 1
 forlana 3
 fatlings 2
 fargoing 1
-floccules 1
+floccules 2
 focusable 2
 fascinative 3
 formwork 1
@@ -6775,7 +6775,7 @@ farls
 flukiest 3
 falciform 2
 fass 2
-founding 2
+founding 3
 fitcher 2
 fold 1
 fantasy 2
