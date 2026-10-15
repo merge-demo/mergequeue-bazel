@@ -659,7 +659,7 @@ abominations
 abominator 1
 affably 1
 attrist
-abominators 2
+abominators 3
 abomine 1
 abondance 2
 alluvials
@@ -8469,7 +8469,7 @@ alkalosis
 alkalurops 1
 alkamine 3
 alkanet 1
-alkalifies
+alkalifies 1
 actionist
 allicholly 1
 alkanethiol 1
