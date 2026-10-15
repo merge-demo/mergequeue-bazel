@@ -3917,7 +3917,7 @@ aleyrodidae 1
 adjudging 2
 apocarps 2
 autarkik 2
-adjudicated
+adjudicated 1
 apostrophied 1
 adjudication 1
 agglutinin 2
@@ -19814,7 +19814,7 @@ alphabetology 1
 avanters
 arsenous 1
 ansa 2
-armenic 1
+armenic 2
 agapetidae
 axinomancy 1
 armenoid 2
