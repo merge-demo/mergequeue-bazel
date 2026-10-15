@@ -755,7 +755,7 @@ gravitater 2
 gestapos 3
 gerim 3
 gunbearer 5
-gerkin
+gerkin 1
 galvanopuncture 1
 gummaker 4
 goutwort 5
@@ -1238,7 +1238,7 @@ grackles 4
 guana
 gaufre
 glittered 1
-generalizations
+generalizations 1
 groups 3
 goodship 4
 galligaskin 2
