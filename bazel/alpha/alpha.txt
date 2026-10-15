@@ -1969,7 +1969,7 @@ assertions
 acetla 1
 acetoacetate
 alkyls
-alphabetiform
+alphabetiform 1
 absolutism 1
 amphidisk 2
 acetometer
