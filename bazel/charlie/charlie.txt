@@ -4399,7 +4399,7 @@ centimes 1
 clothlike 2
 coheartedness
 cusec 1
-concrew 1
+concrew 2
 cynara
 carinula
 catholics 2
@@ -4510,7 +4510,7 @@ carn
 carnacian 1
 carnaged
 chortling
-cosponsorship 1
+cosponsorship 2
 carnages
 casamarca
 carnalite
