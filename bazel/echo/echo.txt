@@ -9107,7 +9107,7 @@ evasion
 embordered
 erythropsia 2
 electrograving 1
-entwist
+entwist 1
 etruscan 3
 erythropsin 1
 eltrot 2
