@@ -16649,7 +16649,7 @@ checkerwise 1
 closers 4
 closes 2
 closeting 1
-crampit
+crampit 1
 chthonic
 cylindroma
 crusading
