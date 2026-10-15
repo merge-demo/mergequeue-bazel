@@ -9033,7 +9033,7 @@ groomer 4
 grillee 1
 gatehouse 2
 golem 6
-gramashes 2
+gramashes 3
 granatum 1
 geomorphogenist 2
 gastrocnemian 1
