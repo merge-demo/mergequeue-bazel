@@ -4390,7 +4390,7 @@ fonduk
 fishbolts 1
 flechette
 funt 2
-floorshifts 1
+floorshifts 2
 flagged 1
 forbearances 2
 frenums 2
