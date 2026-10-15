@@ -9706,7 +9706,7 @@ cheyennes
 crosscut
 confirmee 2
 calculations
-channelizes 2
+channelizes 3
 chiloncus
 cribwork 1
 cheilodipteridae
@@ -24354,7 +24354,7 @@ cool 2
 cooled 1
 changepocket
 crosshairs
-cavally 2
+cavally 3
 cooley 1
 capitatum
 cirsotome 1
@@ -27872,7 +27872,7 @@ crabbily
 crabbing 1
 crabcatcher
 cytohyaloplasm 1
-concerting 3
+concerting 4
 crabeating
 canchas 1
 craber
