@@ -12274,7 +12274,7 @@ christens 1
 christhood 1
 carburator
 cryptography 1
-classically 2
+classically 3
 carpetbagism
 christy 2
 cardholders
@@ -26113,7 +26113,7 @@ carolin 1
 cadgy
 cressy 3
 coattail
-cosmists
+cosmists 1
 cosmo
 cosmochemical
 consanguineal
@@ -29994,7 +29994,7 @@ choromania 2
 crotaphite 2
 cytinus 2
 crotaphitic
-crotaphytus
+crotaphytus 1
 crotch 2
 citicism 1
 crotcheteer 1
