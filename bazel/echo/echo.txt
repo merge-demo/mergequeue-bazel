@@ -4922,7 +4922,7 @@ encumbrance 4
 extrabureau 1
 english 3
 erythroneocytosis 1
-evolves 1
+evolves 2
 ephyrula
 eyednesses 3
 enterocoelic 3
@@ -7855,7 +7855,7 @@ euconjugatae 1
 epigonium 1
 euraquilo 1
 extractions 3
-epigonous
+epigonous 1
 enlaces 1
 eosines 3
 endopsychic 2
@@ -10584,7 +10584,7 @@ euphroes
 enteria 2
 escallops 3
 eocarboniferous 2
-elixation 4
+elixation 5
 earthiness 1
 expectance
 euchrome 2
