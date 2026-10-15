@@ -212,7 +212,7 @@ earthman
 erythritic 1
 earthslide 1
 endosalpingitis 5
-ehuawa 2
+ehuawa 3
 eyesores 2
 earthwall 1
 entte 1
@@ -9875,7 +9875,7 @@ eleutheropetalous 1
 esthesiology 4
 elementarily
 endothermous 4
-excludingly 5
+excludingly 6
 eden 2
 enstatite 2
 equivalency
@@ -11605,7 +11605,7 @@ equiponderating
 ectolecithal 3
 evonymuses 3
 electroencephalographically 2
-end
+end 1
 evulsions
 ewery
 exciding 5
