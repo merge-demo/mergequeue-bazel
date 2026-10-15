@@ -1101,7 +1101,7 @@ chamaesiphonaceous 1
 calcimined 1
 calciminer
 calcimines 1
-crudeness
+crudeness 1
 calcimining
 choppin 1
 crossbarred 1
@@ -4139,7 +4139,7 @@ cardiocarpum 2
 cardiocele
 chevronelly
 cardiocirrhosis
-cacuminate 1
+cacuminate 2
 consubsistency
 contrarieties
 cardiodilator
@@ -22477,7 +22477,7 @@ certainest 1
 chignoned
 conjoinedly 1
 claviole 1
-conjointment 2
+conjointment 3
 chromaffin
 conjointness
 chorwat 3
@@ -31779,7 +31779,7 @@ custron 4
 custumal 4
 cut
 collicle
-cutaneously
+cutaneously 1
 counterlighting
 circumspectively
 collegiality
