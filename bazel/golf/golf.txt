@@ -2397,7 +2397,7 @@ gobioidei 1
 geminid 4
 geminous 1
 gratinating
-gestating 1
+gestating 2
 gemma 3
 gardeners 1
 gambol
@@ -3910,7 +3910,7 @@ genetrix 3
 gateworks 2
 glaciological 1
 graders 5
-gorgonize 4
+gorgonize 5
 gonotome 3
 grippier 1
 glarily 2
@@ -9557,7 +9557,7 @@ gur 1
 groveled 1
 gridiron 3
 giustina 3
-goster 2
+goster 3
 geophagies 4
 graphical 1
 glamorized 2
