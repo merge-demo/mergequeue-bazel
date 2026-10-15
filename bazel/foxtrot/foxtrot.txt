@@ -1092,7 +1092,7 @@ fastback 3
 farrisite 2
 fleerish 3
 firehalls 1
-figulate 1
+figulate 2
 forthcame 6
 flyings 2
 farruca 2
@@ -1704,7 +1704,7 @@ forprise 3
 fibrinoalbuminous 5
 forestep 1
 fasciolariidae 5
-flourless
+flourless 1
 foodservices 3
 fuselage 1
 faviform 4
@@ -5074,7 +5074,7 @@ fessely 1
 flumps 1
 flamelet 1
 fun 4
-fuligo
+fuligo 1
 fundless 2
 fumettes
 frsikets 5
@@ -6325,7 +6325,7 @@ fiddlery 3
 fumatories 5
 fissipeda 1
 frags 2
-fluidity
+fluidity 1
 fuzzy 1
 flack 2
 futural 2
@@ -9917,7 +9917,7 @@ fleabane 2
 formated 2
 feceris
 fortuitism 2
-formulising 3
+formulising 4
 forsythias 6
 ferromagnetism 1
 furze 1
