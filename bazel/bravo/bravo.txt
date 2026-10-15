@@ -14306,7 +14306,7 @@ bandboxes 3
 bragite 1
 blimps 2
 bluet
-bessi
+bessi 1
 bird
 banners 1
 bourignonism
@@ -17035,7 +17035,7 @@ bayman 1
 braces 1
 bulimus 1
 baler 1
-bimahs 1
+bimahs 2
 binoxide 1
 bishoping 1
 bulkage 3
