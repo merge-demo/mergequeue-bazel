@@ -6110,7 +6110,7 @@ catspaw
 catstane
 catstep
 catstick 1
-ciderkin 1
+ciderkin 2
 cafeterias
 catstitcher
 carven 2
