@@ -1246,7 +1246,7 @@ groff 2
 gonorrhea
 gravures 4
 grogged 3
-galactostasis 3
+galactostasis 4
 gooding
 gonglike 3
 gooroo 1
@@ -1332,7 +1332,7 @@ gary 1
 groundling 5
 gristbite 1
 gignate 1
-gra 3
+gra 4
 ganoine
 goanese 1
 guslee
@@ -9123,7 +9123,7 @@ gobonated 2
 ginward 4
 geopolitics 1
 grummel 3
-gambier 2
+gambier 3
 grandiose 1
 gluily 2
 gavelkinder 2
