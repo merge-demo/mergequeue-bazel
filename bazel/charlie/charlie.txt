@@ -6182,7 +6182,7 @@ crusta
 casehardened 1
 catzerie
 caubeen
-coky
+coky 1
 compoundable 1
 cauboge 1
 caucasian
