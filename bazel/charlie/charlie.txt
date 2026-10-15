@@ -13761,7 +13761,7 @@ comakers 1
 congruities 1
 cinematheques 3
 cutleriales 3
-clodpole
+clodpole 1
 cinematic
 comedienne
 czechoslovakian 1
@@ -17850,7 +17850,7 @@ coniophora 1
 congressive 2
 cochlea
 codfishing 1
-clysterize 1
+clysterize 2
 chrestomathy 2
 cachaemia
 codheaded
@@ -22055,7 +22055,7 @@ conflicting 1
 conflictive
 conflictless
 conflictory
-conflicts
+conflicts 1
 cheltenham 1
 conflow
 casaquin
