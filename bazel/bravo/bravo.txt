@@ -5367,7 +5367,7 @@ birne 2
 begrett 1
 begrim 2
 blithesome
-bethumped 1
+bethumped 2
 begrimed 1
 bandusian
 bedeafened 1
@@ -13719,7 +13719,7 @@ boustrophedon 1
 bloomer 1
 bircher 1
 banqueted 4
-barytocalcite
+barytocalcite 1
 braccio 1
 billetwood 2
 backus 1
