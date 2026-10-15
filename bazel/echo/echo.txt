@@ -3187,7 +3187,7 @@ elaborate
 evinced
 egghead 1
 entertainingness 2
-envisagement 3
+envisagement 4
 eichbergite
 eureka 3
 embosomed 4
@@ -5046,7 +5046,7 @@ endia 2
 equerry 1
 endings 3
 elapsing 2
-emplace 2
+emplace 3
 elaeomargaric 4
 enrolled 1
 eclairs 2
@@ -6317,7 +6317,7 @@ eche 1
 excitants 1
 examined 5
 etang 1
-exorcised 1
+exorcised 2
 eugenolate 2
 exteriorising
 endpapers 2
@@ -13226,7 +13226,7 @@ eductor 3
 epiphytism 1
 eldred
 exheredate 1
-excluders 1
+excluders 2
 exoarteritis 1
 exanthalose 1
 enlightenedness 4
@@ -14005,7 +14005,7 @@ extraregarding 4
 endogen 2
 extraregularly 2
 expirers
-exiling 3
+exiling 4
 exsertile 2
 elderbrotherly
 extrasocial 1
