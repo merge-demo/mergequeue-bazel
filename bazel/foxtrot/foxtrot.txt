@@ -189,7 +189,7 @@ featherless 3
 furnarius 1
 flier 4
 factorable 1
-flimsies 2
+flimsies 3
 forcut 2
 finitary 3
 factoryship 3
@@ -9820,7 +9820,7 @@ fluorenyl 4
 freddy
 fennoman 1
 freudist 1
-foretrysail 1
+foretrysail 2
 friar 3
 fremitus 4
 filchingly 6

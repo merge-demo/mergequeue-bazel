@@ -17835,7 +17835,7 @@ burst 1
 booksellers
 breezeful 2
 burster 1
-blutwurst
+blutwurst 1
 bastardizing 3
 bitterhead 1
 barabara 3
@@ -18232,7 +18232,7 @@ butterflied 2
 bounteously
 bienniums
 blathering
-balistarius 2
+balistarius 3
 besweatered 1
 butterflower 2
 bleinerite
