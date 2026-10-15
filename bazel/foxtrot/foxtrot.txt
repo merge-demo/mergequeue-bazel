@@ -5785,7 +5785,7 @@ faunated
 foreheads 2
 fulgurant 1
 fribble 4
-family 3
+family 4
 fevertwig 5
 flambee 1
 frett 1
@@ -8019,7 +8019,7 @@ fatbirds 2
 fontina
 fellmongered 3
 forestage
-frivolled 3
+frivolled 4
 fae 3
 ferie 1
 froebelian 1
