@@ -24835,7 +24835,7 @@ cruciate 1
 coracobrachial
 clipeus 1
 calcimeter
-coracobrachialis
+coracobrachialis 1
 combite 1
 cosheries 2
 coracoclavicular 1
