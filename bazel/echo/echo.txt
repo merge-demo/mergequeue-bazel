@@ -5858,7 +5858,7 @@ ekaha 1
 eulerian 6
 embergeese 1
 engramme 2
-epicarpal 1
+epicarpal 2
 engrammes 2
 extensors 3
 edwardine 1
@@ -7952,7 +7952,7 @@ eolopile 1
 equivocatory 1
 estragol 1
 ensilation 3
-expounds 2
+expounds 3
 epimanikion 1
 epimeres
 electrostenolysis 1
@@ -11241,7 +11241,7 @@ entrenchment 1
 epithetize 2
 englyns 1
 eely 1
-exceptionably
+exceptionably 1
 effulgently 1
 excisemanship 2
 enclothe 1
