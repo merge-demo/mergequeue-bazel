@@ -4461,7 +4461,7 @@ gommelin
 grandsire 2
 generics
 giocoso 6
-gip
+gip 1
 gpd 6
 gleba 3
 gladiatorship 1
