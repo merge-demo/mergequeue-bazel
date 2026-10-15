@@ -2299,7 +2299,7 @@ decennoval 2
 deflux 2
 decentering 1
 discomfortableness 1
-daidled 1
+daidled 2
 drips 1
 dirtplate 4
 decenters 3
@@ -3489,7 +3489,7 @@ defoliate 2
 defoliations 1
 descending 1
 disjunct 3
-debilitant 2
+debilitant 3
 dichroscope
 decelerating 1
 dehydrochlorination
