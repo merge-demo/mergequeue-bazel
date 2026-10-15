@@ -5046,7 +5046,7 @@ endia 2
 equerry 1
 endings 3
 elapsing 2
-emplace 2
+emplace 3
 elaeomargaric 4
 enrolled 1
 eclairs 2
@@ -6317,7 +6317,7 @@ eche 1
 excitants 1
 examined 5
 etang 1
-exorcised 1
+exorcised 2
 eugenolate 2
 exteriorising
 endpapers 2
