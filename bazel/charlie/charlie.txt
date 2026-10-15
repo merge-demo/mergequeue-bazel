@@ -670,7 +670,7 @@ creatins 1
 caestuses 1
 caesura 1
 cybernated 1
-caesurae 1
+caesurae 2
 caesuric 1
 caf
 cinefilm 1
@@ -10495,7 +10495,7 @@ childwife
 canities
 childwite 4
 chile 3
-chyle
+chyle 1
 chileanization 1
 caballeria
 chileans
@@ -12670,7 +12670,7 @@ chuckle 1
 chucklehead
 calmly
 conjugateness
-chuckleheaded 3
+chuckleheaded 4
 cumaceous
 causelessness 2
 chuckleheadedness
@@ -31645,7 +31645,7 @@ curvograph 3
 cancelier 1
 curvometer 1
 cheeker
-carduelis
+carduelis 1
 conscripttion 2
 curvulate 1
 cuscohygrin
