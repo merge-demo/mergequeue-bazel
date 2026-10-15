@@ -4380,7 +4380,7 @@ deflagrate 1
 druggeting 2
 demigriffin 3
 disfranchisement 3
-drused 2
+drused 3
 demasting 1
 dematerialisation 3
 dematerialised 2
@@ -10780,7 +10780,7 @@ dipterocarpous 3
 dipterocarpus
 delay 3
 divas 1
-dependent
+dependent 1
 dipterus 2
 dotterel 1
 diptychs 2
@@ -11495,7 +11495,7 @@ discolorment 1
 discolouring 2
 discolourization 2
 discourt
-discombobulate
+discombobulate 1
 disuniform
 denominator 1
 daps
