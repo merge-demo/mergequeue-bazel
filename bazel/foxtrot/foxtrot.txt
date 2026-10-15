@@ -3981,7 +3981,7 @@ flaunch 3
 fingerers 3
 feed 2
 fono 1
-florissant 4
+florissant 5
 freehanded 3
 falkland 2
 friendlier 1
@@ -6321,7 +6321,7 @@ facadal 4
 floreted 3
 flunkey 1
 frilal 1
-fiddlery 3
+fiddlery 4
 fumatories 5
 fissipeda 1
 frags 2
@@ -7611,7 +7611,7 @@ fossula 3
 felty 1
 ferroglass 1
 fastly 3
-fees 1
+fees 2
 funipendulous 1
 fescenninity 1
 ferganite
