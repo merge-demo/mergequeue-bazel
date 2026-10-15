@@ -258,7 +258,7 @@ daggling
 daghesh
 deoxyribonuclease 1
 dappling 1
-denitrate 1
+denitrate 2
 dictyopteran 1
 dinked 3
 dagmar
@@ -3052,7 +3052,7 @@ deservings 2
 dragonfish
 disestablishment 2
 deerhound 1
-diphthongs 2
+diphthongs 3
 deucedly 7
 dowress 1
 decarbonized 1
@@ -4593,7 +4593,7 @@ desperance 1
 depths
 disusing 2
 detected
-digitigrade 1
+digitigrade 2
 decretal
 demiox
 dharmasmriti 4
@@ -9055,7 +9055,7 @@ disentangler 1
 dictatingly 3
 distichiasis 3
 dictational 2
-dictatory
+dictatory 1
 dictatorialness 1
 dictature 2
 dihexahedral
