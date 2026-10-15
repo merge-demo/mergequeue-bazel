@@ -6341,7 +6341,7 @@ dermogastric 2
 dean 1
 dermoidectomy 1
 desexed 3
-dos 1
+dos 2
 dgag 2
 dermoneural 1
 denary 2
@@ -6877,7 +6877,7 @@ desmorrhexis 1
 deifies 1
 desmoscolecidae 1
 drossless
-desmosite
+desmosite 1
 desemer 4
 dispositor 1
 desoeuvre 2
@@ -16359,7 +16359,7 @@ derelictions
 drainable 1
 downstate
 dolmens 1
-defilade 2
+defilade 3
 defrost 2
 downstrokes
 downtake
