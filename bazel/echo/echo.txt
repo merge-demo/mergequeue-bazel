@@ -4121,7 +4121,7 @@ enfoulder 2
 eellike 1
 eire 1
 emplectic 2
-emmets 2
+emmets 3
 ethnographically
 eighthes 1
 earlships 5
@@ -5055,7 +5055,7 @@ entreasure 3
 encaenia 2
 evens 2
 endophragmal 1
-equimolal 3
+equimolal 4
 entomb 2
 enqueued 1
 excuses 1
@@ -10827,7 +10827,7 @@ extracultural 2
 eupatorium
 ethnobiology 3
 eupatrids 1
-eluent
+eluent 1
 exemplars 1
 enoptromancy 1
 explodes
