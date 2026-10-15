@@ -2455,7 +2455,7 @@ cancri 1
 charivaried 1
 coacervation
 cancrid 1
-cruzeiro 2
+cruzeiro 3
 capelline 1
 cancrine 3
 cicatrix 2
@@ -17078,7 +17078,7 @@ centrodesmose
 crambambulee
 coevolving 2
 codetermination
-coachwise
+coachwise 1
 cully 2
 coachwright
 coact 1
@@ -31240,7 +31240,7 @@ curable 1
 curableness 1
 cotyloidal
 coverlid
-curacaos
+curacaos 1
 coracler 3
 classification
 curace 1
