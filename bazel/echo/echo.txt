@@ -13719,7 +13719,7 @@ elementarity 3
 epicarid 4
 elatine
 endnote 1
-extratemporal 1
+extratemporal 2
 esteemed 3
 educating 2
 elfhood
