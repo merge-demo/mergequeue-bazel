@@ -11128,7 +11128,7 @@ anglomania 1
 assures
 ampersands
 amphanthia 1
-amphanthium
+amphanthium 1
 ampherotokous
 arms
 adjutancies 1
@@ -17531,7 +17531,7 @@ apophthegmatist 1
 amalings 1
 appeasements
 arrogantness 1
-aroints
+aroints 1
 advantages 2
 adelomorphous
 agraphias
@@ -17790,7 +17790,7 @@ appointment 3
 alburnous 1
 algomic
 adonia
-ablaze 1
+ablaze 2
 apport
 apportionable
 ampule 1
@@ -17966,7 +17966,7 @@ absolutes
 arsyl
 approvedly
 antiempirical 1
-anisodactyle
+anisodactyle 1
 allodialism
 anthropophysiography 1
 allothigene
@@ -20487,7 +20487,7 @@ asg 1
 arcula
 anticorrosively
 admov 1
-aristological 1
+aristological 2
 asterospondylous
 arteriocapillary
 arteriogenesis
