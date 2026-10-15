@@ -5588,7 +5588,7 @@ essentiality 1
 endostome
 evocators 3
 eugenists 3
-enfants 1
+enfants 2
 evulsion 2
 enfiled 3
 expediences 4
@@ -13214,7 +13214,7 @@ empyreal 4
 expressibility 2
 expiringly 1
 empressement 1
-embroglios
+embroglios 1
 embosser 1
 expiscation 1
 enrheum 2
