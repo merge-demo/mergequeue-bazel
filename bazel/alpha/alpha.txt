@@ -1969,7 +1969,7 @@ assertions
 acetla 1
 acetoacetate
 alkyls
-alphabetiform
+alphabetiform 1
 absolutism 1
 amphidisk 2
 acetometer
@@ -13596,7 +13596,7 @@ annulosa
 annuls
 adorableness 1
 aboundingly
-actinopterygious 2
+actinopterygious 3
 annunciade 1
 arthropod
 aloneness 1
@@ -15497,7 +15497,7 @@ anywhere 1
 alaudidae
 antimission 4
 although 1
-animetta
+animetta 1
 antimissionary 1
 androconia 2
 antipyretic 1
@@ -17915,7 +17915,7 @@ antimeric 1
 atopy
 aqueousness 2
 apprizers 3
-almaciga 1
+almaciga 2
 apprizing
 appro
 amate
