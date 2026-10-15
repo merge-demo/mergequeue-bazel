@@ -462,7 +462,7 @@ enanthesis 1
 expediteness
 evector 1
 ecclesia 2
-enumerable 1
+enumerable 2
 eucommia 1
 ecclesiarchy 3
 extoll 2
@@ -3295,7 +3295,7 @@ eperlan 1
 embattlement
 elapidae 1
 eremitish
-effeminization 3
+effeminization 4
 emailed 1
 equalise 1
 exhibitively 3
