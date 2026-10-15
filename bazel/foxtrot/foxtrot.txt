@@ -7543,7 +7543,7 @@ ferroboron 5
 fringillaceous 1
 forespake 2
 fallacious 3
-foreboder 3
+foreboder 4
 fuzils 3
 foretake 1
 fructokinase 1
@@ -11558,7 +11558,7 @@ friskful 1
 fusile 1
 flytier 1
 fulgurator 1
-fulmar 4
+fulmar 5
 futhermore 1
 fixature 4
 finnickiest 3
