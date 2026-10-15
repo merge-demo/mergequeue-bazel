@@ -4016,7 +4016,7 @@ baetuli 3
 boilermaking 1
 butcheries 3
 brevier 2
-beaked
+beaked 1
 beakerman 3
 bellite
 beakermen 2
@@ -16588,7 +16588,7 @@ belling 1
 bubastid
 backorder
 blightingly 1
-bubby 1
+bubby 2
 belligerencies 3
 benedictory 2
 brachiocrural 1
