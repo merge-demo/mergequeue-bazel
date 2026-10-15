@@ -8127,7 +8127,7 @@ algerienne
 alizarins
 algerines
 algerite 1
-aciduric 1
+aciduric 2
 algernon
 assassinator
 algesiometer
@@ -10543,7 +10543,7 @@ amidoplastid 2
 amidoxyl
 australopithecinae 1
 anagrammatize 2
-amids 1
+amids 2
 apolarity
 aphids
 ascaris 1
