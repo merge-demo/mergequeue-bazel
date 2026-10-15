@@ -2683,7 +2683,7 @@ acridity 1
 aerobee 1
 acridities
 acrydium
-acridness
+acridness 1
 anencephalia 2
 acridone 1
 accentually
@@ -10561,7 +10561,7 @@ automatism 3
 antibacchic 1
 algaesthesia
 amyelic 2
-amyelous 1
+amyelous 2
 agt 1
 aposematically
 alphamerical
