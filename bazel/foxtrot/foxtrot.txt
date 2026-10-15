@@ -8999,7 +8999,7 @@ foursquareness 3
 faustian
 fourteener 1
 frangibleness 2
-fourteenths 1
+fourteenths 2
 froren 3
 flatirons
 forra 4
@@ -10439,7 +10439,7 @@ fluxional 1
 frontspieces 3
 fleet 4
 fwd 1
-fisted
+fisted 1
 flche 4
 frontstall 1
 forstall
@@ -11038,7 +11038,7 @@ frontolysis 3
 fancies
 flanerie 1
 ferruminate 2
-fumishing 1
+fumishing 2
 friendliness 2
 fermented 4
 fumuli 3
