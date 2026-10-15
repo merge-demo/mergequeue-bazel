@@ -10695,7 +10695,7 @@ chymotrypsinogen 2
 creedalism 1
 coilsmith
 canthari 1
-cisgangetic
+cisgangetic 1
 companionless 1
 chin 1
 commoned
@@ -25805,7 +25805,7 @@ cofound
 corrosibleness
 coeltera
 corrosived 1
-corrosively
+corrosively 1
 corrosiveness
 corrosives
 chironomy 1
