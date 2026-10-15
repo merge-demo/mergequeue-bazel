@@ -4698,7 +4698,7 @@ boorga
 bedimming
 borotungstic 3
 bordereaux 2
-birlings 3
+birlings 4
 bedimple 1
 bulllike 2
 bluegown 3
@@ -9520,7 +9520,7 @@ brontephobia
 bulliform 1
 birthstool
 birthwort 1
-bitnet
+bitnet 1
 brandreth 2
 breviger 1
 bakerdom 2
@@ -11933,7 +11933,7 @@ bogeymen
 brut 1
 bawke
 betweens 1
-bolivianos 1
+bolivianos 2
 begirdling
 boggard 2
 blindfoldly 2
@@ -17222,7 +17222,7 @@ boucles
 bebannered 2
 bullweed 2
 brulyie 5
-bromindigo 1
+bromindigo 2
 bullwhipping 1
 bullwort 1
 bulrush 1
