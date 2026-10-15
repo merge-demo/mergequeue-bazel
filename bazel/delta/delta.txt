@@ -1642,7 +1642,7 @@ domify
 devertebrated 1
 daydrudge 2
 dealkylate 3
-daundered 1
+daundered 2
 disassembler 1
 deallocate 1
 deobstruct 1
@@ -2961,7 +2961,7 @@ deseret 3
 destinal 3
 dotingness 1
 diegesis
-diplasiasmus 3
+diplasiasmus 4
 deduces 1
 droil 1
 dolt 1
