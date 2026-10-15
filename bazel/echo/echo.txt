@@ -6726,7 +6726,7 @@ endosepsis 3
 echimys 2
 epicenters 1
 equines
-espaliers
+espaliers 1
 epithecal
 evaginable 2
 emunge
@@ -9916,7 +9916,7 @@ ectrodactylous 2
 epideictical 1
 extensionist 2
 electromagnetics 1
-exude 3
+exude 4
 exoculated 2
 enskies 4
 extravertive 2
