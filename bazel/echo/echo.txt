@@ -2725,7 +2725,7 @@ enolase
 earwigged 3
 eightyfold 1
 esquamulose 2
-evaporated 1
+evaporated 2
 electrovalent 2
 electrowinning 2
 exaggerators
@@ -4373,7 +4373,7 @@ epotation
 eggars 2
 excrescence 1
 embody 1
-emphlysis 3
+emphlysis 4
 eritrean 3
 esoenteritis 1
 exotically 2
@@ -6669,7 +6669,7 @@ enterology 1
 epactal 2
 enterologic
 epanastrophe 4
-exhaled 5
+exhaled 6
 enteromegalia 2
 enteroneuritis 2
 effectuates 1
