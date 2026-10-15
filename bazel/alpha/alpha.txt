@@ -6346,7 +6346,7 @@ attractable 3
 accorded
 astarboard 1
 agrestial 2
-archduchess
+archduchess 1
 agrestic
 agrestical 1
 awapuhi 1
@@ -18191,7 +18191,7 @@ ammonocarbonous
 anapneic 2
 aquiclude 3
 alumnol 1
-adventurement 4
+adventurement 5
 ampelis
 aquicolous 2
 aphanomyces 1
