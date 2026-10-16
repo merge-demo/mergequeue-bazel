@@ -9450,7 +9450,7 @@ cheat
 comprehensor 1
 cheatableness 2
 cheated
-cubits 1
+cubits 2
 characterisation 1
 cheater 1
 cheatery 2
@@ -23856,7 +23856,7 @@ cookmaid 2
 caimitillo 1
 contrives
 control 1
-controling
+controling 1
 controllable 1
 controllably 1
 controller
@@ -27766,7 +27766,7 @@ coxa
 caryophylleous
 cuttlefishes 2
 cupronickel 2
-craw 1
+craw 2
 coxae 1
 coeloscope 1
 coxalgy 1
