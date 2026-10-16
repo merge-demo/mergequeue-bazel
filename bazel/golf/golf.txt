@@ -5362,7 +5362,7 @@ gonopod 4
 gnomon 4
 generalisation 4
 gyrencephalate 1
-goiters 2
+goiters 3
 glees 5
 gormands 1
 ganoses
@@ -10705,7 +10705,7 @@ garbanzo 3
 gu 1
 grams
 gumma 1
-gunship
+gunship 1
 gismondine 3
 gastrolytic 1
 gutnic 2
