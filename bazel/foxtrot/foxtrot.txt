@@ -3299,7 +3299,7 @@ fungilliform 2
 filopodium 6
 fiddlestick
 frambesia 1
-farsight
+farsight 1
 fivescore 2
 flounces 3
 ferrelled 3
