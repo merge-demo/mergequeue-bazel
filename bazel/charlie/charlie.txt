@@ -6709,7 +6709,7 @@ clovery
 charcia
 celadon
 complexionally
-cutidure 1
+cutidure 2
 celadonite 1
 coleen
 celaeno
@@ -11184,7 +11184,7 @@ chloralized 2
 commissioners
 chloralosed
 chloralum 1
-chlorambucil
+chlorambucil 1
 contrasting
 chloramin 1
 chloramphenicol
