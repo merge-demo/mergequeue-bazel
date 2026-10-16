@@ -8419,7 +8419,7 @@ diallelus 2
 deflower 2
 dysphasic
 drowned
-diallings
+diallings 1
 dovefoot
 deliracy
 disciplines 1
