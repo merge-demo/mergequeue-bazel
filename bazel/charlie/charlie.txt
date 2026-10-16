@@ -4519,7 +4519,7 @@ carnalize 2
 counterexposition 1
 carnalized 1
 carolingian
-confederative 1
+confederative 2
 catapults
 carbine
 cephalogenesis 2
@@ -27507,7 +27507,7 @@ cuban 2
 covariate 1
 covariates
 covassal
-cove 2
+cove 3
 coadunate 1
 courtzilite 1
 coved
