@@ -7169,7 +7169,7 @@ centranth 1
 centrarchid 1
 centrarchoid 1
 clar 1
-compare 2
+compare 3
 centraxonial 1
 centre 1
 clinoaxis
