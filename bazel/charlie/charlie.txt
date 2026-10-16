@@ -7169,7 +7169,7 @@ centranth 1
 centrarchid 1
 centrarchoid 1
 clar 1
-compare 2
+compare 3
 centraxonial 1
 centre 1
 clinoaxis
@@ -9418,7 +9418,7 @@ ctenophoral 1
 cartsale 1
 chazzenim
 consition 1
-cossetting
+cossetting 1
 chazzens 1
 che 1
 catalogue
@@ -22263,7 +22263,7 @@ cycas
 curiums
 conglobed 2
 conglobes
-conglomerate
+conglomerate 1
 carolling
 cylices 1
 calzoons 1
@@ -25726,7 +25726,7 @@ caripeta 2
 conule 1
 corresponding
 crated
-corresponsion 3
+corresponsion 4
 carphosiderite 1
 corresponsively
 churchlet 2
@@ -27813,7 +27813,7 @@ crudelity
 coxswains 2
 containerizes 1
 coprophagia
-coxwains 1
+coxwains 2
 coze
 casette
 contraire 2
