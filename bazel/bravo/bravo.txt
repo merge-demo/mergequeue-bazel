@@ -2188,7 +2188,7 @@ backflash 4
 briscola 1
 bararite 2
 barathea 3
-barbellate
+barbellate 1
 bibbled
 bemaddens 3
 bellicosely 3
