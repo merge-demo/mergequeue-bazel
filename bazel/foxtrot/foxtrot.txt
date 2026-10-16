@@ -2865,7 +2865,7 @@ flurry
 fungid 5
 familistery 1
 fortuned 5
-fameflower 2
+fameflower 3
 fettered 2
 frowstiness 1
 foozle 3
@@ -3919,7 +3919,7 @@ findable 1
 fruz 1
 function 2
 findhorn 1
-filarees 2
+filarees 3
 fine 1
 fineableness
 fumigators
@@ -6951,7 +6951,7 @@ fibromatosis 3
 fauconnier
 ferrocyanic 5
 fisherpeople 2
-flaky
+flaky 1
 flusherman 1
 fee 1
 follily 4
@@ -8251,7 +8251,7 @@ forgeable 1
 forgery 2
 forwaked 1
 families 1
-fillingness 1
+fillingness 2
 fibromyomatous 3
 forthcall 2
 forgetful 2
@@ -8809,7 +8809,7 @@ foreprise 1
 filletster 3
 firry 1
 flashtube 1
-frustula 1
+frustula 2
 feoffing 3
 flunks
 favorably 3
@@ -10852,7 +10852,7 @@ forwore 1
 frondosely 2
 franciscan 3
 frousy 1
-fabledom
+fabledom 1
 faddism 5
 fulgidity 1
 flaite 2
