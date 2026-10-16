@@ -9345,7 +9345,7 @@ differences 2
 dryad 2
 destroyable
 dunces 2
-differentiability
+differentiability 1
 differentiae 2
 deliquescing 3
 darkle 2
