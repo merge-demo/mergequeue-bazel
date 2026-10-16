@@ -7455,7 +7455,7 @@ angulare 1
 arenicola 3
 antimoniferous
 albizzias
-ahold
+ahold 1
 albocarbon
 ashplants
 antireligionist
@@ -16753,7 +16753,7 @@ amianthiform 1
 anteaters 2
 antiorthodox 2
 antikamnia 3
-aphanitic 2
+aphanitic 3
 aphetize 1
 armours
 adiposity 2
