@@ -1522,7 +1522,7 @@ franklinite 3
 fattenable 1
 fauntleroy 1
 frankability
-flagellaria 5
+flagellaria 6
 freely 3
 faurd 2
 foreseat 1
