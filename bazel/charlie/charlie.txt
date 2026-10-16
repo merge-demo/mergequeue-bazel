@@ -26521,7 +26521,7 @@ cottonocracy 2
 cottonseed 1
 clotheshorse 2
 chalcedonies 2
-cottonseeds
+cottonseeds 1
 camomile 1
 cymarose 1
 cephalopodic
