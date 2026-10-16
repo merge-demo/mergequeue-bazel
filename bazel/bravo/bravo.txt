@@ -1725,7 +1725,7 @@ balsamorrhiza 3
 burkei 2
 breakerman 1
 balsams 2
-beseechingness 1
+beseechingness 2
 bruise
 bismutite 1
 bibliokelpt 2
@@ -2051,7 +2051,7 @@ bouet 1
 bumbaste
 biogeny
 bondwomen 3
-brine
+brine 1
 banksmen 1
 bucketed 1
 banlieu 5
@@ -6920,7 +6920,7 @@ bilihumin 2
 bagoong 3
 balky
 brainwater 2
-beshaming 1
+beshaming 2
 beshivered 2
 bariolage 1
 brassed 2
