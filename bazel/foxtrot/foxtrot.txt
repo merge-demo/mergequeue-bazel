@@ -10490,7 +10490,7 @@ frostroot 2
 floe 4
 freshment 1
 frillery
-favouringly
+favouringly 1
 frot 3
 froth 2
 formulatory 2
