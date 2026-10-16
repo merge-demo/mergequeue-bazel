@@ -6880,7 +6880,7 @@ drossless
 desmosite 1
 desemer 4
 dispositor 1
-desoeuvre 2
+desoeuvre 3
 dewlight
 drailed 1
 destriers 1
@@ -18543,7 +18543,7 @@ dekalitre 1
 durmast 2
 dirging
 durndest 3
-deraignment 1
+deraignment 2
 disharmonizing 2
 deviltries
 denuding
