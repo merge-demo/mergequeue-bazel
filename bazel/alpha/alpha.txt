@@ -2722,7 +2722,7 @@ acrimonious 1
 acrindoline 1
 allamonti 1
 asteriae 1
-arak 1
+arak 2
 anabasin 1
 acritan 1
 acrite 3
@@ -16753,7 +16753,7 @@ amianthiform 1
 anteaters 2
 antiorthodox 2
 antikamnia 3
-aphanitic 2
+aphanitic 3
 aphetize 1
 armours
 adiposity 2
