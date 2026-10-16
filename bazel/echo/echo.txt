@@ -403,7 +403,7 @@ ectoproctan 1
 eriphyle 3
 equivocator 2
 emotiveness
-ebonized
+ebonized 1
 enfolden 2
 epact
 eutrophic 1
@@ -11279,7 +11279,7 @@ eyeleteer 3
 enmass 2
 eschewal 4
 exterrestrial 2
-evaporability
+evaporability 1
 emanating 3
 enwrapped
 ectoplasy 1

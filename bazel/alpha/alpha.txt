@@ -661,7 +661,7 @@ affably 1
 attrist
 abominators 3
 abomine 1
-abondance 2
+abondance 3
 alluvials
 aimara 3
 apostrophation 1
@@ -1887,7 +1887,7 @@ arrector 3
 ashkoko 2
 autocolony 3
 acetanilid 1
-anogenic
+anogenic 1
 abutments
 annard 4
 aetiological
@@ -4292,7 +4292,7 @@ adrenosterone 2
 adrenocorticotrophic
 ammonolysis 1
 afterstain 1
-albuminosis 1
+albuminosis 2
 adrenocorticotropic
 anthracolithic 1
 astructive 1
@@ -6279,7 +6279,7 @@ attirement 1
 angaries 1
 agrace 1
 amortising 3
-alliterational 1
+alliterational 2
 agral 1
 adiposities
 agramed 2
@@ -7594,7 +7594,7 @@ alce
 assibilate
 asininities
 alcedinidae
-anderson
+anderson 1
 autoretardation
 airiferous
 algonquins
@@ -12007,7 +12007,7 @@ adela
 aftergrind
 antitradition 1
 astromancy 1
-anarchist 1
+anarchist 2
 anarchists 2
 anarcho
 antisophistry
@@ -19993,7 +19993,7 @@ ammonified 1
 alexipharmacon
 arnberry
 adenotome
-alkanol 1
+alkanol 2
 archikaryon 2
 aulu
 address 1
