@@ -30444,7 +30444,7 @@ csmp
 crimpled
 csp 2
 csw
-ct
+ct 1
 catharized 2
 crow 1
 chlorine 1
