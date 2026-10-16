@@ -97,7 +97,7 @@ cabbies 1
 cabble
 cabbled 1
 cabbler 2
-chars
+chars 1
 cabdriving 1
 corydora
 cabecudo
