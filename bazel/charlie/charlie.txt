@@ -4044,7 +4044,7 @@ convolutely 1
 cardamine
 catarrhinian 2
 covido 1
-cicada
+cicada 1
 cowpox 2
 catechism 1
 cardamom
@@ -14904,7 +14904,7 @@ cytost
 conceit 1
 conveys 3
 counterpray
-curding
+curding 1
 compactness 1
 coenogamete 1
 continuedly
