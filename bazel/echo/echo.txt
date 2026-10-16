@@ -2841,7 +2841,7 @@ eleostearic 5
 endoubt 1
 enseat 2
 electroluminescent
-explicans 2
+explicans 3
 evenhanded 3
 enaluron 2
 elephantiasis 1
@@ -11334,7 +11334,7 @@ evenglow 2
 erenach 1
 eneid 3
 erudite 4
-encephalomeric 1
+encephalomeric 2
 eventual 2
 eozoic 1
 emusifying 3
@@ -13817,7 +13817,7 @@ embolo 4
 elucidative 2
 effervescingly 1
 electrophilic 1
-earworm 1
+earworm 2
 extracystic 2
 equiarticulate
 entomolite 1
@@ -14039,7 +14039,7 @@ exch 1
 ecclesiasticalism 2
 escoting 1
 eyeline 1
-elektra 1
+elektra 2
 enliven 4
 eidolons 1
 excandescency 2

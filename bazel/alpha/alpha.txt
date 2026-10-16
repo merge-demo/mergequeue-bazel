@@ -1837,7 +1837,7 @@ acerbated
 acerbates
 autoformation 1
 aulacocarpous
-acerber 2
+acerber 3
 angiohydrotomy 1
 adrienne
 acerbityacerose 2
@@ -10150,7 +10150,7 @@ ambroid 1
 arboraceous 1
 ambrosiaceae
 adoptabilities 3
-ambrosias
+ambrosias 1
 argine
 ambrosiate
 affords
@@ -17254,7 +17254,7 @@ atop 1
 arthroclisis
 anesthesis
 alsbachite 2
-aspersory
+aspersory 1
 apophthegmatical 2
 angostura 2
 antineuralgic 2
