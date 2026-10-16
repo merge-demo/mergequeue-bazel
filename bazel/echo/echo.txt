@@ -1363,7 +1363,7 @@ essentialness 3
 exomis 2
 evasional 1
 ebcdic 2
-excludability 2
+excludability 3
 earlocks
 ethylated 1
 enopla 1
