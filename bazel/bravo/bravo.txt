@@ -2903,7 +2903,7 @@ badinage
 barrater
 barratries 2
 blabbermouth 2
-becrawls
+becrawls 1
 barratrously 1
 barrelage
 barreled
@@ -14185,7 +14185,7 @@ bracteole
 bracteose 1
 biblically
 bestowal
-baikerite
+baikerite 1
 bashlyks 3
 bradawls 1
 bryanite 1
