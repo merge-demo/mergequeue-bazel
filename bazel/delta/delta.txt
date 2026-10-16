@@ -4517,7 +4517,7 @@ downtrend 2
 deputies 1
 discircumspection 2
 demies
-dosimetric
+dosimetric 1
 demifigure 1
 decentres 2
 disinflated 3
@@ -9238,7 +9238,7 @@ drosophilidae 1
 debarkation 2
 disilluded 1
 discolour 4
-decorament
+decorament 1
 dollface 1
 divined 1
 disinsectization 1
@@ -15081,7 +15081,7 @@ doghood
 doghouse 3
 dogie 1
 doglegs 2
-dicycle 2
+dicycle 3
 deboshed 1
 doglike 2
 dekabrist 2
