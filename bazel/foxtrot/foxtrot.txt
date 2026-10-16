@@ -8855,7 +8855,7 @@ fator
 figeter 2
 fluidities 2
 flickers 2
-fatty
+fatty 1
 ferrotypes
 forebye 2
 facioscapulohumeral 2
