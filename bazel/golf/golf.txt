@@ -5173,7 +5173,7 @@ glyceride 2
 glb 5
 gastratrophia 3
 geckotian 4
-gossipred 1
+gossipred 2
 gesticulator 2
 glossocomon 4
 guavas 4
@@ -5775,7 +5775,7 @@ garbel 3
 gade 2
 graphites 3
 glycogenolysis 1
-goorals 2
+goorals 3
 guzzler 3
 guyandot
 goldbird
