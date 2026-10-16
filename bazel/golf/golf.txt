@@ -5637,7 +5637,7 @@ gasps 2
 geisenheimer 3
 grandparentage 3
 gyrators 1
-genicular 2
+genicular 3
 grunth 2
 gloomily 4
 gloomings 4
@@ -9208,7 +9208,7 @@ ginhound 3
 greenyard 3
 gripping 3
 gelandesprung 3
-glycocin 1
+glycocin 2
 guayule 3
 goshawful 3
 geologists 5
@@ -10139,7 +10139,7 @@ guerrila 3
 gurgling 4
 gazolyte
 guller 2
-glareless
+glareless 1
 greenier 2
 grudges 2
 granophyric 4
