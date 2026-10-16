@@ -1335,7 +1335,7 @@ dauke
 dorsigerous 2
 disorder 1
 dault 2
-docetic
+docetic 1
 dysteleologically 1
 departure 1
 daundering 1
@@ -9088,7 +9088,7 @@ drubbed 2
 devance 1
 discernable 2
 devotedly 1
-depickle 1
+depickle 2
 decongestants 3
 dunted
 desynaptic 1
