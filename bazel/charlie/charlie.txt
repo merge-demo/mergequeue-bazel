@@ -13501,7 +13501,7 @@ calpack 2
 cylindrocylindric
 curiatii 1
 counterfeiter 3
-coughroot
+coughroot 1
 craniad
 cylindroconoidal
 cylindrodendrite 1
@@ -23561,7 +23561,7 @@ cionectomy
 cacopathy 3
 climature 1
 chancelled 1
-conviviality
+conviviality 1
 continuality
 conchiolin 1
 continuancy
