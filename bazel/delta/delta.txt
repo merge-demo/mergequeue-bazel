@@ -3915,7 +3915,7 @@ doggerelize 2
 discommunity
 decumbiture 1
 designating 5
-discomedusan
+discomedusan 1
 disherits 2
 dekameters 1
 decumani 1
@@ -7410,7 +7410,7 @@ domesday 1
 discussed 1
 downgone
 dischargee 1
-detoxication
+detoxication 1
 detoxicator
 detoxifier
 draperess 1
@@ -9640,7 +9640,7 @@ dihydroergotamine 2
 destructs 1
 derogatorily
 diplexer 2
-dissight 1
+dissight 2
 dipoles 2
 dexterous 2
 dihydrostreptomycin
