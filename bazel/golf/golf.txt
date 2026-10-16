@@ -1326,7 +1326,7 @@ gested 2
 gheleem 3
 genies 1
 gieing 1
-gazaboes 3
+gazaboes 4
 garroter 3
 gary 1
 groundling 5
@@ -3648,7 +3648,7 @@ gonadotropic 1
 genearch 2
 ghostdom 2
 gardenin 5
-gipsylike
+gipsylike 1
 gaffkya 1
 genotypicity 2
 ghettoes 3
