@@ -644,7 +644,7 @@ archibenthos 1
 abolitionizing 4
 abollae 3
 aboma 4
-abomasum 2
+abomasum 3
 abomasus 1
 alkylize
 abominably
@@ -10682,7 +10682,7 @@ arrhythmy 1
 acetylized
 analogical
 agamae 1
-aminoacetophenetidine 2
+aminoacetophenetidine 3
 aminoanthraquinone 1
 apodictically
 aminoazo 2
@@ -19389,7 +19389,7 @@ anchoretical 2
 administratrix 1
 amuser
 argentan
-axisymmetry
+axisymmetry 1
 aerobacter 1
 autochrome 1
 anacrisis
@@ -24277,7 +24277,7 @@ asphaltlike 1
 arylating 1
 airsickness
 aussies 1
-amphotericin 1
+amphotericin 2
 autocar
 abnormalising
 autopelagic 1

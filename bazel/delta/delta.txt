@@ -10035,7 +10035,7 @@ demist
 deck 1
 disordain
 decemfoliolate 1
-dynactinometer 1
+dynactinometer 2
 deratize 1
 dazedly 2
 dissipater
@@ -15867,7 +15867,7 @@ dialdehyde 1
 dismalize 4
 devilship 2
 deiced 2
-disrating
+disrating 1
 defecated 1
 daft 3
 demonesses 2
@@ -18043,7 +18043,7 @@ dullbrained 5
 donna 1
 dauted 2
 dullification 2
-dambrod
+dambrod 1
 dulling 1
 dermestoid 2
 derail 1

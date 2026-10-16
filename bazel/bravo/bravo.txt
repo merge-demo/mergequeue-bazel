@@ -12462,7 +12462,7 @@ bondmen 4
 bullyrock 1
 bondminder 3
 bookroom
-bawdrick
+bawdrick 1
 bierbalk 2
 bondship 2
 bondsman 1
@@ -15036,7 +15036,7 @@ brachyceric
 badon 2
 bacteriol
 babite 2
-binapthyl 3
+binapthyl 4
 befetter 2
 betiding
 bicuspidal 2
@@ -15968,7 +15968,7 @@ bogsucker
 bufotenin 2
 brutish
 bronchocephalitis 2
-bronchoconstriction
+bronchoconstriction 1
 baptistries 4
 blennorrhagic 1
 benjy 1

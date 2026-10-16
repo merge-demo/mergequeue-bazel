@@ -7053,7 +7053,7 @@ cytaster
 condonations 1
 cack
 centennially
-corroborant 1
+corroborant 2
 centennials
 caribes
 caisson 1
@@ -15878,7 +15878,7 @@ chamal 1
 cadaverize 1
 cleidocostal
 cleidoic 4
-chiromance
+chiromance 1
 cherts
 cleidomancy
 cleidorrhexis
