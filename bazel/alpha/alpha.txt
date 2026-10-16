@@ -2459,7 +2459,7 @@ americana 1
 adipic 1
 acnemia
 argumentum 1
-adiaphoral 2
+adiaphoral 3
 acnes
 amperemeter 1
 acnida 1
@@ -20230,7 +20230,7 @@ albugo 2
 aeolodion
 athetosis
 arricciato 2
-acquiesces 1
+acquiesces 2
 applicator
 apetaly 1
 areroscope 2
