@@ -1693,7 +1693,7 @@ gros 2
 gastroenteritis
 glycerolysis 1
 gunrunning 4
-girting 6
+girting 7
 guadagnini 4
 gester 3
 gluts 1
@@ -2184,7 +2184,7 @@ goosegirl 3
 guacos 3
 galvanocauterization 2
 galea 3
-goniostat
+goniostat 1
 goldfinches 2
 glistening 2
 gebbie 3
@@ -2688,7 +2688,7 @@ geniculation 4
 granule 1
 gemarist 2
 gigantocyte 3
-genioglossal 2
+genioglossal 3
 gastroenterologists 4
 globoids 3
 geoteuthis
