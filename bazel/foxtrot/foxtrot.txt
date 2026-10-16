@@ -684,7 +684,7 @@ feathercut
 fairish
 featlier 2
 filmically
-flapper
+flapper 1
 filmcards 1
 ferlie
 fanweed 4
@@ -3862,7 +3862,7 @@ fisticuffer 2
 furthermore 2
 fineless 1
 fract 5
-fiberglas 3
+fiberglas 4
 formicary 1
 fiberscope 4
 forgiveable 3
@@ -4574,7 +4574,7 @@ fainaigued
 fisting
 faithfulness
 flattest 2
-frictionize 2
+frictionize 3
 frutices 4
 flaunted 3
 fossilized 6
@@ -10009,7 +10009,7 @@ flee 2
 flatwork 4
 fantod 4
 flavoury 2
-flor 6
+flor 7
 fryer 4
 foollike 2
 flans 4
@@ -10635,7 +10635,7 @@ foremark
 fusc 5
 frankness 2
 fiddlededee 2
-frogstool 4
+frogstool 5
 filtrability 2
 facultate 3
 fegatella 2
