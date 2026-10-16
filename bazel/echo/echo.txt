@@ -6295,7 +6295,7 @@ enrichener 2
 ectopias 4
 edaphic 2
 enows
-electrotechnology 1
+electrotechnology 2
 euryscope 1
 ecclesiastry 1
 enduring
@@ -7351,7 +7351,7 @@ expulsing 2
 exile 3
 erinaceus
 eunomian 1
-environmentalism 3
+environmentalism 4
 euchlorophyceae 3
 edibile 1
 eriophyes 1
@@ -8511,7 +8511,7 @@ eugeosyncline
 etherialized 2
 ethnologer 2
 erectility
-equal 1
+equal 2
 eosinlike 2
 equalises
 erectness 1

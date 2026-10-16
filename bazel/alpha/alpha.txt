@@ -2585,7 +2585,7 @@ acquaintanceship
 acidophilus 1
 acquisible
 aggeration
-acquaintanceships
+acquaintanceships 1
 asymmetrocarpous 1
 archbishop
 aspiratory 1
@@ -8728,7 +8728,7 @@ autohybridization
 aread 1
 alleviated 1
 abnormalizing 1
-abscind 2
+abscind 3
 accusatival
 aliya 2
 antiteetotalism
