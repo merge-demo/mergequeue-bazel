@@ -6778,7 +6778,7 @@ datatype 2
 demoralizer
 detestably
 diathermic 1
-desilvers 1
+desilvers 2
 demultiplex 2
 demoniacal 1
 daeva
@@ -12307,7 +12307,7 @@ discreating 1
 disgruntlement 2
 driblet 3
 denitration 1
-demigrate 2
+demigrate 3
 desynchronize
 diphosphate
 diaconia 1
