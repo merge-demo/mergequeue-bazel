@@ -902,7 +902,7 @@ coagulating
 contrapuntalist
 cajolery 3
 caproic 3
-crimple
+crimple 1
 chloroacetophenone
 cajoles
 cajoling
@@ -22390,7 +22390,7 @@ copy
 conidium
 conifer 1
 coniferae
-castrato
+castrato 1
 coniferin 1
 coniferophyte
 cuppier

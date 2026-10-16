@@ -6339,7 +6339,7 @@ gemots 2
 gametal 1
 gearings 5
 giglio 1
-genarchaship 3
+genarchaship 4
 graptoloidea 2
 goatsucker 1
 graplines 3
@@ -9529,7 +9529,7 @@ guanaco 1
 gemellion 3
 garden 3
 guanabano 4
-groupist 3
+groupist 4
 genipapada 2
 guar 4
 grs 3
