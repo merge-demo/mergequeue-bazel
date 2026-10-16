@@ -606,7 +606,7 @@ bacteriochlorophyll 1
 bacteriocin 1
 broomsticks 1
 bostangi
-bastiment 3
+bastiment 4
 bacteriodiagnosis 1
 bromates 2
 benomyls 4
@@ -2294,7 +2294,7 @@ businessese
 bizet 2
 beanball 2
 backrest 1
-bromidic 2
+bromidic 3
 botryomyces 4
 betokened
 budgerygah 2
@@ -15968,7 +15968,7 @@ bogsucker
 bufotenin 2
 brutish
 bronchocephalitis 2
-bronchoconstriction
+bronchoconstriction 1
 baptistries 4
 blennorrhagic 1
 benjy 1
