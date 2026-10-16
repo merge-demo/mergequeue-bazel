@@ -11767,7 +11767,7 @@ buckwheat 3
 bouquets
 bocasin 1
 bookshops 6
-boccarella
+boccarella 1
 bodings 3
 boccaro
 bobsleding 2
@@ -17313,7 +17313,7 @@ baths 1
 blazons
 bumpkin
 bumpology
-borschts 2
+borschts 3
 bumptious 2
 boltstrake 2
 blanketweed 2
