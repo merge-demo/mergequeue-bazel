@@ -12537,7 +12537,7 @@ disowning 3
 disinfecting 4
 denormalized
 disinfections
-decrowned
+decrowned 1
 decani 2
 diffeomorphic 2
 dissolutive
