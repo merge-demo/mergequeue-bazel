@@ -6530,7 +6530,7 @@ berakah 2
 breadstuff
 bosnisch 1
 bewelcome 1
-bavarois 1
+bavarois 2
 beaming 2
 blameable 1
 backplanes 1
@@ -10055,7 +10055,7 @@ bugbanes 3
 backwatered 1
 bizygomatic 2
 boarhound 1
-bokos 2
+bokos 3
 basidiolichen
 burglarious
 bizones 1
