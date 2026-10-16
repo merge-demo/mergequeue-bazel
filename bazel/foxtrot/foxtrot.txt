@@ -2424,7 +2424,7 @@ flabellifoliate 1
 fobbed 3
 festivities 4
 fatigate 5
-freemasons 1
+freemasons 2
 fractur 4
 frizzle 2
 fingered
@@ -4240,7 +4240,7 @@ farinosely 2
 formed 2
 fohat 1
 firepinks 2
-fireplace
+fireplace 1
 fiendishness 3
 fraist 2
 fussification 3
