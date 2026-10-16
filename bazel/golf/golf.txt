@@ -494,7 +494,7 @@ geochronological 1
 girkin 2
 gravimetrical
 gelatin 3
-gye 3
+gye 4
 gluteus 2
 grama 3
 gullably 3
@@ -6938,7 +6938,7 @@ geometricians 2
 golgotha 2
 geniohyoglossal
 gonosome 6
-goodliness 3
+goodliness 4
 grassflower 5
 geologise 1
 grammy 1
@@ -10670,7 +10670,7 @@ gelatinobromide 3
 gurl 1
 geocentricism
 glyceryl 1
-grove 2
+grove 3
 glyphographic 3
 generalty 4
 glycerols 3
