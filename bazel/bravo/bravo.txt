@@ -404,7 +404,7 @@ bwana 1
 backlit
 betipple
 bailor 3
-brigadier
+brigadier 1
 backlogged 2
 bearcat 1
 babbled 3
@@ -5627,7 +5627,7 @@ backlashing 1
 baptistery 2
 bima 2
 blarina
-bridelike 3
+bridelike 4
 belate
 babbittess 1
 belating 1
@@ -6336,7 +6336,7 @@ buffalofishes
 benzein 2
 bellyfish
 blinks 1
-benzenediazonium
+benzenediazonium 1
 bosominess 2
 burgher 3
 billsticking 3
@@ -7053,7 +7053,7 @@ bedazzlement
 bespangle 2
 bespangling
 bespate
-brickbatted 1
+brickbatted 2
 basset
 bezzant
 bennetweed 1
@@ -7235,7 +7235,7 @@ boondock 1
 bestrown 1
 bathochromatic
 barbarity
-ballplayers 1
+ballplayers 2
 bimanual 1
 bipartible 1
 brankiest 1
@@ -7636,7 +7636,7 @@ burgling
 bewraps 1
 basilisks
 belesprit
-bewrapt
+bewrapt 1
 bewreck 1
 befreckle 2
 biodynamic
@@ -14007,7 +14007,7 @@ bipyridine 2
 bemouth 2
 buy 2
 bracelet 3
-bracer 2
+bracer 3
 barrelfuls 1
 backbenchers 2
 briquet 6
@@ -16124,7 +16124,7 @@ brookweed 2
 brool 1
 buprestid
 beardtongue 1
-broomballer 1
+broomballer 2
 blasphemers 3
 biologic 3
 badarian 2
