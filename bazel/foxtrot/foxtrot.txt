@@ -8578,7 +8578,7 @@ foxhole 2
 fornication 2
 forest 2
 feigner
-fossilize
+fossilize 1
 fornicatrix 1
 fieldman 3
 frameshift 2
@@ -9574,7 +9574,7 @@ frescos 2
 farsi 2
 fleeciest 4
 freebooter
-freebootery 1
+freebootery 2
 forestiera 1
 freebooting 1
 freed 3
