@@ -14569,7 +14569,7 @@ curtailment
 cryptorchid 1
 catholicism 1
 cystidium
-candescent 1
+candescent 2
 cenobite
 cyath
 cystiform
@@ -21502,7 +21502,7 @@ compartimento 1
 concourse 2
 cliqueless
 confessions 2
-calycle
+calycle 1
 climacterical 1
 celestialize 2
 concresce
