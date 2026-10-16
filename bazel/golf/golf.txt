@@ -2190,7 +2190,7 @@ glistening 2
 gebbie 3
 guardians 2
 gecarcinian 2
-greasepaint 3
+greasepaint 4
 gecarcinidae 2
 gynaecologist 3
 garrotte 1
@@ -6868,7 +6868,7 @@ graphics 1
 gorbal 3
 guaranty 6
 globosities 1
-galaxies 1
+galaxies 2
 gymsia 3
 gluteoinguinal 1
 gauntlets 2
@@ -8264,7 +8264,7 @@ gospel 4
 ginglyform 1
 grippingness
 giardiasis 3
-gre 4
+gre 5
 garamond
 gaseosity 5
 gurries
@@ -9240,7 +9240,7 @@ gravigrade 3
 grahamite 1
 grist 3
 guanase 1
-growthiness 2
+growthiness 3
 glucagon 5
 gyroceran 1
 gemeled 3
@@ -10357,7 +10357,7 @@ glaur 2
 grouseberry 3
 gelate 4
 garretmaster 1
-gynic 5
+gynic 6
 gonidiospore 6
 gastrothecal 3
 gnashing
@@ -10791,7 +10791,7 @@ gawky 1
 gesellschaften 2
 glycocoll 2
 gutterspout 3
-ghostlily 2
+ghostlily 3
 grandfatherhood 1
 gadoidea 2
 geochronologic 1
