@@ -3145,7 +3145,7 @@ georgics 1
 glycosyl 1
 gnathal 1
 gnathobasic 1
-gnast 2
+gnast 3
 galumphing 4
 garial
 grangousier 1
@@ -7814,7 +7814,7 @@ gravidas 1
 gooiest 1
 garneter 2
 glagol 5
-gestion 3
+gestion 4
 guanche 3
 gangplank 6
 graisse 1

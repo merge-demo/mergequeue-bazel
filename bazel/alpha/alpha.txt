@@ -3276,7 +3276,7 @@ anisoptera
 adornos 1
 acute
 acutely
-ascomycetal 1
+ascomycetal 2
 acutest 2
 authorcraft
 anticipator 2
@@ -7791,7 +7791,7 @@ academias 3
 aphidicide 1
 albolith 1
 aldazine 3
-antithrombic
+antithrombic 1
 aldoheptose 2
 aldoketene
 analecta
@@ -14702,7 +14702,7 @@ apepsia 3
 avos 4
 archetypic 1
 armholes 1
-ageism 2
+ageism 3
 antibacchii 1
 antibacchius 1
 amphitricha 2
