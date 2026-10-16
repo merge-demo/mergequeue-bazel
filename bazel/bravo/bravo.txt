@@ -15191,7 +15191,7 @@ bellowsmaker 1
 bloater 2
 breastplough 2
 blunted 1
-brushman
+brushman 1
 blockheadedness
 bryce 1
 brick 1
