@@ -13239,7 +13239,7 @@ cyclocoelic 2
 cyclode
 catastrophe 1
 cyclodiene 1
-cycloganoid
+cycloganoid 1
 cummin
 crossbencher 2
 climbable
