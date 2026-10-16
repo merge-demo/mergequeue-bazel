@@ -28777,7 +28777,7 @@ clocked 1
 compensate 1
 coacervated
 crescentiform
-chinking
+chinking 1
 chylifactive 1
 crescenting 1
 carpetmaker 2
