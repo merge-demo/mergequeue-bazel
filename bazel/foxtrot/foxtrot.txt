@@ -3564,7 +3564,7 @@ flexibility 2
 formularise 1
 filarian 1
 fattily 2
-fluoryl 3
+fluoryl 4
 filaricidal 1
 filariids 3
 forechoice 3
@@ -9709,7 +9709,7 @@ fremd 3
 frenchly 1
 fafaronade 2
 fissionability
-festinate 1
+festinate 2
 floatable 2
 footmanry 4
 faunch 2
