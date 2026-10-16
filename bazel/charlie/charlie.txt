@@ -1309,7 +1309,7 @@ calibers
 colunar 2
 calibrated
 calibrater 1
-calibrates 1
+calibrates 2
 cloison 1
 catchwater
 calibrating 1
