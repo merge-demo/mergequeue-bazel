@@ -1963,7 +1963,7 @@ gastrohepatic 1
 grated 4
 grasser 1
 gulonic 4
-grossing
+grossing 1
 gaultherin 1
 gaunch 2
 gangers 2
@@ -9549,7 +9549,7 @@ geldability 1
 grouts 4
 grouze 2
 gelatined 2
-glume 1
+glume 2
 gastornithidae 4
 groved 4
 greenskeeper 2
