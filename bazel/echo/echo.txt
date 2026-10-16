@@ -1781,7 +1781,7 @@ everliving 2
 euphonous 4
 effractor 3
 escalloping 1
-eyesight 4
+eyesight 5
 epigenic 4
 enormities 1
 eparchs 2
@@ -5942,7 +5942,7 @@ eftest 1
 ethmonasal 2
 enheart 1
 enhearten 2
-echinoderes 2
+echinoderes 3
 exantlation 3
 endobronchially 3
 exhilaration 2
@@ -9458,7 +9458,7 @@ epicism 2
 erythron 5
 egests 1
 exegetes 1
-eschrufe 1
+eschrufe 2
 escopeta 2
 euphemistical 3
 evulgate 1
