@@ -25809,7 +25809,7 @@ corrosively 1
 corrosiveness
 corrosives
 chironomy 1
-calcars 3
+calcars 4
 corrosivity
 colophonate 1
 cinclidotus 2
@@ -28573,7 +28573,7 @@ calamistrum 2
 caddised
 creeds 3
 creedsman
-criticizes
+criticizes 1
 creeker
 creekfish 1
 creekfishes
