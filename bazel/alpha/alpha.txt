@@ -2935,7 +2935,7 @@ ablactation 2
 acrotism 2
 acrotrophic
 airplay 1
-aesthetician 2
+aesthetician 3
 acrux 1
 acta
 acediamin 1
@@ -17964,7 +17964,7 @@ am 1
 approvance 1
 absolutes
 arsyl
-approvedly
+approvedly 1
 antiempirical 1
 anisodactyle 1
 allodialism
@@ -23853,7 +23853,7 @@ ataraxy
 atalantis 1
 amices 2
 ascanian 1
-autarchic 1
+autarchic 2
 arrowweed
 autarchically
 ashlaring 3
