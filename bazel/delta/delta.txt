@@ -884,7 +884,7 @@ daguerrean 1
 dripproof 1
 dieting 2
 demency 2
-disincrustant
+disincrustant 1
 decrescendo
 dandling 2
 deliberative 2
@@ -14136,7 +14136,7 @@ decasualised 1
 disanimate 1
 diol
 desacralize
-diapason 1
+diapason 2
 disulfiram
 doyst
 disulfonic
@@ -15716,7 +15716,7 @@ dissava
 dorbel
 dorbugs
 defeatist
-dorcastry 3
+dorcastry 4
 diadermic
 doucet 1
 doria 2
