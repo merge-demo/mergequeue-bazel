@@ -6393,7 +6393,7 @@ derogates 1
 diglyceride
 dixie 3
 derogating
-derogative
+derogative 1
 derogator 1
 derogatory 3
 dooja
@@ -6463,7 +6463,7 @@ diaereses
 deafeningly 1
 dodecanoic 3
 desalinator 1
-disclaimer 4
+disclaimer 5
 disperge 2
 departmentalising 4
 diploes
@@ -15840,7 +15840,7 @@ diminishing 1
 dayglow 1
 disfrancnise 4
 disaccredit
-distillers
+distillers 1
 disprovable 1
 dhurry 3
 dorsolumbar
@@ -16754,7 +16754,7 @@ draught 1
 distal 2
 draughtboard
 daub 2
-draughtier 3
+draughtier 4
 divulsive 1
 decastylos 2
 darg 1
