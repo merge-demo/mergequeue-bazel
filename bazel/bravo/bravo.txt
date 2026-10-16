@@ -2188,7 +2188,7 @@ backflash 4
 briscola 1
 bararite 2
 barathea 3
-barbellate
+barbellate 1
 bibbled
 bemaddens 3
 bellicosely 3
@@ -5353,7 +5353,7 @@ billionaires 1
 bloodlines 1
 begorah 2
 brevicipitidae
-bacteriogenic
+bacteriogenic 1
 bonace 1
 blueweed 2
 besoothement 2
