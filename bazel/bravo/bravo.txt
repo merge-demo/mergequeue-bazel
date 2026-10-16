@@ -7636,7 +7636,7 @@ burgling
 bewraps 1
 basilisks
 belesprit
-bewrapt
+bewrapt 1
 bewreck 1
 befreckle 2
 biodynamic
