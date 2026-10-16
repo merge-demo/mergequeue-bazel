@@ -2075,7 +2075,7 @@ filibuster 2
 feudalisation
 famishes 1
 foremasthand 2
-felicity 2
+felicity 3
 fructidor 1
 fusibleness 1
 freeform 3
@@ -6789,7 +6789,7 @@ foredevised 3
 floridean 1
 fallaciousness 4
 foldaway 3
-feretory 4
+feretory 5
 ferryman 1
 farfal 3
 forethink 6
