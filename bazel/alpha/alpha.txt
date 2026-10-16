@@ -19389,7 +19389,7 @@ anchoretical 2
 administratrix 1
 amuser
 argentan
-axisymmetry
+axisymmetry 1
 aerobacter 1
 autochrome 1
 anacrisis
