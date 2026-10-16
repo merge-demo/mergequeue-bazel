@@ -7791,7 +7791,7 @@ academias 3
 aphidicide 1
 albolith 1
 aldazine 3
-antithrombic
+antithrombic 1
 aldoheptose 2
 aldoketene
 analecta
