@@ -4574,7 +4574,7 @@ fainaigued
 fisting
 faithfulness
 flattest 2
-frictionize 2
+frictionize 3
 frutices 4
 flaunted 3
 fossilized 6
@@ -9128,7 +9128,7 @@ furdle 2
 funambulated 2
 faulkner
 frizzers 1
-forepoint 2
+forepoint 3
 foldboating 3
 frusta
 fooner 3
@@ -10009,7 +10009,7 @@ flee 2
 flatwork 4
 fantod 4
 flavoury 2
-flor 6
+flor 7
 fryer 4
 foollike 2
 flans 4
@@ -11665,7 +11665,7 @@ forepale 2
 foxskins 2
 functionalized 2
 fluavil 1
-fructiform 4
+fructiform 5
 fresne 1
 frwy 1
 fluorochrome 1
