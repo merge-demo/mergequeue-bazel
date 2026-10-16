@@ -11902,7 +11902,7 @@ ananepionic 1
 axoplasms 2
 autoantitoxin
 arylated
-addable 1
+addable 2
 ananym 1
 ananism 2
 ananite 1
