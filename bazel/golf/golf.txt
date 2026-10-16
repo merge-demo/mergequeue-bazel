@@ -750,7 +750,7 @@ genae 1
 galvanoplasty 3
 grovers 2
 gansa 2
-gastrohysterorrhaphy 2
+gastrohysterorrhaphy 3
 gravitater 2
 gestapos 3
 gerim 3
@@ -2847,7 +2847,7 @@ gayment 4
 gamodesmy 2
 glyoxaline 4
 gether 1
-genu 2
+genu 3
 grillers 2
 gastrosophy 1
 gynaecic 2
