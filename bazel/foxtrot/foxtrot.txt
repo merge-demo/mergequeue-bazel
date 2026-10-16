@@ -1893,7 +1893,7 @@ flybrush 2
 fishable 2
 fingerflower 2
 fontanelle 4
-fumbling 2
+fumbling 3
 fustilarian 3
 foism 3
 fruitless 2
