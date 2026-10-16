@@ -9644,7 +9644,7 @@ embost 1
 espartos 4
 enhydritic 1
 especialness 1
-esperantido 2
+esperantido 3
 extrapatriarchal 1
 enclosing 2
 emissaries 4
@@ -12305,7 +12305,7 @@ etheostomidae 1
 electronegative
 eerock 2
 equilucent
-exerce 1
+exerce 2
 equimultiple
 exceptious 2
 extramarginal
