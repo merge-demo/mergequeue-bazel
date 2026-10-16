@@ -2924,7 +2924,7 @@ electrocardiographically 1
 elfland 1
 entelodon 1
 elflocks 3
-encaustic 3
+encaustic 4
 endermic 1
 epiphyseolysis 1
 elfwife
@@ -5339,7 +5339,7 @@ endoscopes 2
 equivocalities 1
 eradicators 1
 egeran 2
-emmeniopathy 2
+emmeniopathy 3
 endoscopies 1
 epipodia 2
 endoskeletons 3
@@ -6414,7 +6414,7 @@ equilocation 1
 enanguish 1
 espaliered 1
 expugn 1
-ethinyls 2
+ethinyls 3
 ensiled
 embezzler 3
 endopod 1
