@@ -4517,7 +4517,7 @@ downtrend 2
 deputies 1
 discircumspection 2
 demies
-dosimetric
+dosimetric 1
 demifigure 1
 decentres 2
 disinflated 3
