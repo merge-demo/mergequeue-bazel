@@ -19516,7 +19516,7 @@ colporteurs
 colposcopy 1
 crocodiles 1
 cornstook 1
-colstaff 3
+colstaff 4
 cnidogenous 1
 congresswoman 1
 chasid 1
@@ -29275,7 +29275,7 @@ caliginousness
 counterplease
 cryptocerata 2
 chemis 1
-cryptocerous
+cryptocerous 1
 confessarius
 clamoured
 conceptualising 1
