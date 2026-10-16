@@ -1283,7 +1283,7 @@ desmids 2
 dossil 1
 dermoptera
 deti
-distressfully 2
+distressfully 3
 dandyism 1
 disking
 datsuns 3
@@ -5525,7 +5525,7 @@ denials 1
 departer 1
 devastated 1
 dehistoricize 2
-drama 3
+drama 4
 dematiaceous 1
 denotement 1
 directionality 1
@@ -10971,7 +10971,7 @@ duodrama 2
 disaffinity 2
 disaffirmance 1
 dheri 5
-dictyosiphon 1
+dictyosiphon 2
 disaffirmation
 decidedness 1
 disaffirming 4
@@ -15645,7 +15645,7 @@ devotionality 1
 diverge
 diodes 4
 desensitizer 1
-downheartedly 5
+downheartedly 6
 dennis 1
 departmentalise
 detacher 3

@@ -5989,7 +5989,7 @@ cathine
 cathinine 1
 cathion 1
 confessionaries 1
-cathodal
+cathodal 1
 cathode
 chatelainry
 cathodes 1
@@ -15087,7 +15087,7 @@ coexertion
 clacking
 clacks 1
 clad
-confated
+confated 1
 characterizations
 cladanthous 1
 cladding
@@ -17925,7 +17925,7 @@ coefficients 2
 coelacanth
 coelacanthidae 1
 coelacanthous
-coelar
+coelar 1
 coelastraceous 1
 canonics
 coelata

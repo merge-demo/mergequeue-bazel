@@ -1425,7 +1425,7 @@ apostatizing 2
 axletrees 3
 accidencies 1
 accidentalism 1
-accidential 1
+accidential 2
 accidently
 accinge
 anhimidae 1
@@ -22231,7 +22231,7 @@ astonish 1
 amerindians 1
 autonomical 2
 annualize
-astonishedly 2
+astonishedly 3
 abnaki 2
 asterismal 1
 antiquing 2
@@ -25106,7 +25106,7 @@ antimonarchists 4
 argumentation
 apothegms 1
 abaptistum
-annealed
+annealed 1
 axilemmas
 adenological 2
 aotearoa 2
