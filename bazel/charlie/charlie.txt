@@ -3855,7 +3855,7 @@ chapeaux 1
 carbondale
 coinsure
 contemplates
-cincha
+cincha 1
 carbonemia 1
 coccolith
 cavilled
@@ -14729,7 +14729,7 @@ canamary 2
 closen 1
 culler
 coursy
-cowering 1
+cowering 2
 cityfied
 citifying
 cityfolk 1
