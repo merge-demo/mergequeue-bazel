@@ -5405,7 +5405,7 @@ firehouses 1
 fusarole 3
 fennel 1
 friending 1
-frigefact
+frigefact 1
 futurity 2
 fleabiting 3
 fledgeling 1
