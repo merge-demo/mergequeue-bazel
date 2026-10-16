@@ -796,7 +796,7 @@ flea
 floosy 5
 fustanelle 2
 fantasticalness
-forcible 1
+forcible 2
 flautists 2
 frisk 1
 fowl 2
@@ -3622,7 +3622,7 @@ fableland 2
 fundal 3
 factories 1
 fogus 3
-fanwort 2
+fanwort 3
 fenagler 1
 figurize 3
 filibusterers 2
@@ -6209,7 +6209,7 @@ farfetched 2
 flisked 4
 fakeries 3
 fairest 1
-flaring 1
+flaring 2
 foragement 1
 frumpishness 4
 fudder 2
@@ -6263,7 +6263,7 @@ febronianism
 fanteague 1
 flota 2
 fadingly 2
-fluxer 4
+fluxer 5
 forewisdom 3
 fingerwork 2
 frisian 1
@@ -9872,7 +9872,7 @@ fluviomarine 4
 fosh 4
 fibroneuroma 1
 felinophobe 1
-frickle 2
+frickle 3
 ferrel 1
 frontager 3
 furilic 4
@@ -10684,7 +10684,7 @@ formularising 5
 fibriform 2
 foretelling 2
 frumenty
-fungals 5
+fungals 6
 footband 5
 fastidiously 2
 forecar 2
