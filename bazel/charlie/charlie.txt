@@ -1309,7 +1309,7 @@ calibers
 colunar 2
 calibrated
 calibrater 1
-calibrates 1
+calibrates 2
 cloison 1
 catchwater
 calibrating 1
@@ -14570,7 +14570,7 @@ cryptorchid 1
 catholicism 1
 cystidium
 candescent 2
-cenobite
+cenobite 1
 cyath
 cystiform
 clockmutch 1
