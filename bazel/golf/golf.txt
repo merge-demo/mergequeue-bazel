@@ -1264,7 +1264,7 @@ geneki 1
 griffes 2
 gapper 2
 glutinosity 4
-guib 2
+guib 3
 grimaces 3
 galvanologist 1
 garran 2
@@ -1839,7 +1839,7 @@ gullah 5
 gingiva 2
 gatekeeper 1
 grizel
-grassy 2
+grassy 3
 glummer 3
 gabbier
 gatekeepers 3
@@ -6902,7 +6902,7 @@ gangliomata 6
 graftonite 2
 groundspeed 2
 greillade 3
-gooders 3
+gooders 4
 goodheartedness
 goody 2
 giganticide 3
@@ -7556,7 +7556,7 @@ geraniol 3
 guidances 3
 gymnospermae 4
 gemini 2
-gillotype
+gillotype 1
 gedeckt 2
 gelatiniferous 1
 grounded 2
@@ -9643,7 +9643,7 @@ griddling 1
 grubstakes 1
 grewsomest 1
 glycyrize 4
-guestmaster 4
+guestmaster 5
 glumales 5
 gorsiest
 gowfer 3
