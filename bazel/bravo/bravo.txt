@@ -5248,7 +5248,7 @@ begass 1
 bitless 1
 backmost 1
 blastocyst
-begats 1
+begats 2
 bolters 2
 bastes 1
 bothsided 4
