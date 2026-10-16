@@ -790,7 +790,7 @@ electrobus 1
 equiponderance 4
 encaged 2
 exadverso 1
-endosulfan
+endosulfan 1
 earthmaking
 exodus
 epeira 2
@@ -961,7 +961,7 @@ embalming 2
 entailments 3
 emanator 2
 euchrone 2
-effronteries 3
+effronteries 4
 epencephalic
 erythroblastotic 1
 enhearse 2
@@ -1955,7 +1955,7 @@ ejaculatory 1
 erdvark 1
 elishah 1
 ejectively 2
-enfierce 1
+enfierce 2
 encompany 2
 endarchy 1
 engrossingly 1
@@ -11373,7 +11373,7 @@ eruciform
 emanatively 2
 eathly 1
 epicureans 1
-equiparation 1
+equiparation 2
 evenness 1
 endocrin
 exalters 1
@@ -13155,7 +13155,7 @@ experting
 ectally 6
 elderwoman
 epicoelian 2
-epiphonema
+epiphonema 1
 epistlar 1
 endergonic 3
 eugenist 3
