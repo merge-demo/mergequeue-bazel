@@ -3817,7 +3817,7 @@ adiathetic 2
 adiating
 addends
 adiation 1
-arugolas 1
+arugolas 2
 adib 2
 allanite 1
 adiel 3
@@ -15213,7 +15213,7 @@ antifeudalistic 3
 antifeudalization 2
 autolaryngoscopy
 ankyroid
-affiancer 1
+affiancer 2
 androtauric
 antifibrinolysin 1
 antifibrinolysis 1
