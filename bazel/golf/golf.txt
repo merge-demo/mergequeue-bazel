@@ -4334,7 +4334,7 @@ galeopsis 1
 gingered 1
 gaugeable 2
 guss 2
-guilds
+guilds 1
 garrulity 1
 gingerline 2
 glomerular 2
@@ -6170,7 +6170,7 @@ gazetteers 1
 groveling 4
 goal 3
 griffithite 2
-galactophore
+galactophore 1
 goniatite 3
 gigantolite 2
 gunmanship 3
