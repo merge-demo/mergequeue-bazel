@@ -4884,7 +4884,7 @@ carroch 1
 connivers
 carrollite 1
 carromed 1
-carroon 1
+carroon 2
 collied 2
 catheterising
 callosum
@@ -21092,7 +21092,7 @@ communard
 cramoisie
 cornfed
 conand 2
-connivence 2
+connivence 3
 conarial
 conarium 1
 champacol
@@ -28833,7 +28833,7 @@ crestline
 chasings 1
 creta
 counterorator 1
-chirographic
+chirographic 1
 commander
 comte 2
 cretaceously 1
