@@ -8015,7 +8015,7 @@ acromiothoracic
 anemometry 2
 alexandrian
 automonstration 2
-alexandrina 5
+alexandrina 6
 adenomatome 2
 aggravations 3
 autoceptive 1
@@ -10886,7 +10886,7 @@ archeological 1
 ammonolytic
 aitches 3
 anticult
-allonymously
+allonymously 1
 amphib 1
 afrits
 ammonolyzing
@@ -22678,7 +22678,7 @@ ateuchi 1
 atherosclerosis 2
 advancer 1
 atherosclerotic 5
-acerbic 1
+acerbic 2
 absent
 angulation 1
 aeronomic 1

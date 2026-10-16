@@ -6745,7 +6745,7 @@ exungulate
 effume 2
 ectosomal 3
 extratarsal 1
-esthesioneurosis
+esthesioneurosis 1
 exsuperate 2
 exhilarate 1
 enthral 1
@@ -11220,7 +11220,7 @@ exocrinology 2
 enkindling 2
 enthronised 1
 elohism 2
-enosis 3
+enosis 4
 encomimiums 2
 eophyton 1
 eradiated 2
