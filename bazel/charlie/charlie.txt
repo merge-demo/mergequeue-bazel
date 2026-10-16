@@ -2914,7 +2914,7 @@ chonicrite
 colourableness 2
 cantara 1
 cantare 1
-counterseal
+counterseal 1
 concaulescence
 chrysoidine
 cantatas
