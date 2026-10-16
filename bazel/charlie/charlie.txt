@@ -5928,7 +5928,7 @@ coloplication
 catharist
 catharistic 1
 choctaws 1
-crumbcloth 1
+crumbcloth 2
 chenilles
 calcrete 1
 coppernosed 2
@@ -30881,7 +30881,7 @@ culpeo
 compar
 culpose
 considerability 3
-cypselid
+cypselid 1
 culsdesac
 chrysanthous 2
 conjegates 1
