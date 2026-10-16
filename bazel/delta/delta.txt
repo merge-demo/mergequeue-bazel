@@ -2924,7 +2924,7 @@ dedecorous 2
 divide 1
 desmodont
 duodecimomos
-dedicant
+dedicant 1
 dichotic
 downbeat 4
 desulphuret 3
@@ -7868,7 +7868,7 @@ diatoric 1
 dewani 3
 depress
 defrayals 3
-diverseness 4
+diverseness 5
 dewatered 2
 diffluence 4
 distemonous
@@ -8690,7 +8690,7 @@ devilfishes 4
 deraigned 1
 demobbed
 desalinizing 1
-dichastasis 1
+dichastasis 2
 deathrate 1
 depolarizing 2
 diethylethanolamine
