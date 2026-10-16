@@ -5055,7 +5055,7 @@ entreasure 3
 encaenia 2
 evens 2
 endophragmal 1
-equimolal 4
+equimolal 5
 entomb 2
 enqueued 1
 excuses 1
@@ -9373,7 +9373,7 @@ eulogistic 3
 esseda 4
 escalloped 3
 ethylates 3
-excerptible 1
+excerptible 2
 excresce 1
 escalope 1
 erlking 3
