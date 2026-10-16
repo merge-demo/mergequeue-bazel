@@ -4519,7 +4519,7 @@ carnalize 2
 counterexposition 1
 carnalized 1
 carolingian
-confederative 1
+confederative 2
 catapults
 carbine
 cephalogenesis 2
@@ -12307,7 +12307,7 @@ cephalocyst
 crosswind 1
 christies 2
 christlessness 1
-conductively
+conductively 1
 christlike 1
 carafon 2
 christmasy 1
@@ -28022,7 +28022,7 @@ coltish
 crayons
 comedic
 coxarthritis
-craisey 1
+craisey 2
 consorts 1
 captivators
 celebret
