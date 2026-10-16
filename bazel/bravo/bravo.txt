@@ -369,7 +369,7 @@ backhand
 backhandedness
 brinjarry 1
 balkily 6
-brewery 1
+brewery 2
 brachypodous 1
 bovarist 1
 backhauls
@@ -6336,7 +6336,7 @@ buffalofishes
 benzein 2
 bellyfish
 blinks 1
-benzenediazonium
+benzenediazonium 1
 bosominess 2
 burgher 3
 billsticking 3
@@ -7235,7 +7235,7 @@ boondock 1
 bestrown 1
 bathochromatic
 barbarity
-ballplayers 1
+ballplayers 2
 bimanual 1
 bipartible 1
 brankiest 1
@@ -11104,7 +11104,7 @@ bakongo
 berengena
 bidpai
 blomstrandine 2
-blond 2
+blond 3
 brazing 3
 benzazine 1
 byard
