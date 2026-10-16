@@ -3248,7 +3248,7 @@ flameholder 4
 fictioner 1
 furbisher 1
 forestay 3
-forestish
+forestish 1
 fictionized 2
 frankheartness
 fictionizing 3
@@ -5704,7 +5704,7 @@ fungitoxicity
 fubsiest 1
 frasse 4
 fracturableness 3
-flipperling 4
+flipperling 5
 flawlessly 3
 furious 4
 foremilks 2
