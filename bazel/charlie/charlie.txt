@@ -13734,7 +13734,7 @@ cinders
 cindy 3
 collusive 1
 cine 2
-cineangiocardiography
+cineangiocardiography 1
 cineangiography 1
 coonties 2
 crushing 1
@@ -14373,7 +14373,7 @@ circumventing 2
 circumvention 1
 circumventions
 camphor
-circumventor
+circumventor 1
 conveyorized
 ceriomyces
 callously
