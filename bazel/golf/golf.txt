@@ -351,7 +351,7 @@ gutwort 2
 gingerin 4
 grade 1
 gilet 2
-gantlets 5
+gantlets 6
 gley 1
 graphed 2
 gasogenic 4
@@ -5704,7 +5704,7 @@ grandnephews 1
 glossemic 1
 glaciometer 1
 gorilline 3
-gesundheit
+gesundheit 1
 gomavel 2
 glossies 2
 glossiest 3
@@ -5720,7 +5720,7 @@ gpad 2
 ganglioneuron 2
 gestning 4
 gelts 1
-guardeen 5
+guardeen 6
 guttule 1
 ghillies 1
 glamberry 3
