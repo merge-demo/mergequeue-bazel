@@ -12510,7 +12510,7 @@ countergauger 4
 charmer 1
 coachmaking
 cassino 1
-chrysorin
+chrysorin 1
 corimelaenidae
 chromopsia
 chromoptometer 1
