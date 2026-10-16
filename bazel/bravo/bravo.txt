@@ -4113,7 +4113,7 @@ botulinum
 beardy 1
 blanchimeter 2
 bearding 2
-bonita
+bonita 1
 balminess
 beslimer
 beards
@@ -9805,7 +9805,7 @@ bowdlerization
 barrels 1
 balawa 1
 beamy 1
-biternately
+biternately 1
 blanketer 1
 babuls 3
 bressummer 4
@@ -11180,7 +11180,7 @@ bloomingly 1
 boleti 2
 biometer 5
 biforin 1
-bloomless 4
+bloomless 5
 baptisia
 bartering
 bacteriocidal 4
@@ -15576,7 +15576,7 @@ brist 3
 bombproof 2
 bristled 1
 bakhtiari 2
-biomagnetism
+biomagnetism 1
 burlaps
 banlieue 1
 biopsychical 1
@@ -16990,7 +16990,7 @@ batrachoid
 biplanar 3
 bacteriotoxin
 bulbiest 3
-buettneria
+buettneria 1
 boulle 1
 becks 3
 bulblike 2
@@ -17897,7 +17897,7 @@ bushelers 2
 bescurvy
 bushelfuls 1
 belabour 4
-bonytail
+bonytail 1
 buginese
 bushelling 1
 boopis 3
