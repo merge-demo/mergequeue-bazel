@@ -641,7 +641,7 @@ athamantin
 adherend 2
 abolitionized 1
 archibenthos 1
-abolitionizing 4
+abolitionizing 5
 abollae 3
 aboma 4
 abomasum 3
@@ -14584,7 +14584,7 @@ anthropoidean 1
 anthropophilous 2
 afterdated 1
 anthropophobia 2
-anthroposociology
+anthroposociology 1
 altarlet
 aborally 1
 adoretus

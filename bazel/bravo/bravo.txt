@@ -2212,7 +2212,7 @@ blobs 1
 badineur 1
 bawties 2
 bung 2
-bandgap 1
+bandgap 2
 barbara
 barbary 2
 baculiferous
@@ -3652,7 +3652,7 @@ bepierce 1
 buffoon 1
 batrachian 1
 bifrontal
-bailiffwick 3
+bailiffwick 4
 booboo 1
 balloonfishes 1
 bergut 1
@@ -15645,7 +15645,7 @@ buffone 1
 barrenest 1
 bulkheads
 burred 2
-belemnid
+belemnid 1
 benzoazurine
 broadcast 4
 broadcaster 2
