@@ -9208,7 +9208,7 @@ bipeds
 bipeltate 3
 bipennate 4
 bedlamize
-brunches
+brunches 1
 bevor 4
 baldrics 1
 built
@@ -17531,7 +17531,7 @@ burdenous 2
 bleep 2
 bulbocapnine
 bides 3
-bibliotherapies
+bibliotherapies 1
 bee 1
 bobadilish 1
 braggat
