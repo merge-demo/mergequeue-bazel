@@ -7211,7 +7211,7 @@ geotectonics 4
 give 2
 geocratic 1
 gape 2
-gorgosaurus 1
+gorgosaurus 2
 galenism 4
 gorillalike 1
 gamesters 3
