@@ -1721,7 +1721,7 @@ ejective 2
 evang 3
 eyeground 1
 epornitically 4
-encephaloid 2
+encephaloid 3
 endangium 2
 exsanguination 2
 enginery 1
@@ -4871,7 +4871,7 @@ escapable 3
 exorciser 1
 epidermatoid 3
 encoder 4
-episcopable 3
+episcopable 4
 embryogenetic 1
 enshrining 2
 engraven 2
