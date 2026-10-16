@@ -1558,7 +1558,7 @@ callisaurus 1
 callisteia 2
 callistephus
 callisthenic
-cossid
+cossid 1
 cenotaphic
 communising 2
 chemostat 3
