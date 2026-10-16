@@ -284,7 +284,7 @@ gaslock 1
 gaddish
 groundliness 3
 grubstaked 1
-globins 2
+globins 3
 geet 2
 gummier 2
 glossophora 3
@@ -797,7 +797,7 @@ gastroenteritic 3
 gambang 3
 gastrular
 grazer 1
-gonia 2
+gonia 3
 goldbeater 1
 gambe
 gourmanderie 1
@@ -2385,7 +2385,7 @@ greenboard 1
 ganisters 1
 gedds 1
 grampa 3
-granddaughterly 2
+granddaughterly 3
 gongoristic 3
 gentianal 5
 gilver 1
