@@ -5881,7 +5881,7 @@ extravagence 3
 engraver 1
 expalpate 2
 entree
-engysseismology 2
+engysseismology 3
 ethiops 2
 episyntheton 1
 estamp
@@ -9050,7 +9050,7 @@ explanate 3
 epizooty 2
 ebbets
 equalize 3
-emptier 1
+emptier 2
 erythrocytolysis 4
 eelier 2
 enhypostasis 3
@@ -9529,7 +9529,7 @@ enantiotropy
 esemplasy 1
 extremities 3
 educationese
-earthworm 2
+earthworm 3
 enteradenology
 emboldened 2
 englutting 1
