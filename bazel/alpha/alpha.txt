@@ -2746,7 +2746,7 @@ askr 3
 attent 1
 alfurese
 arrestant 1
-acrostolia
+acrostolia 1
 amebian 1
 amnion 5
 artarin 3
@@ -4868,7 +4868,7 @@ aerodynamical
 aerodynamically
 astrolater 1
 appoggiatura 3
-apopetalous 1
+apopetalous 2
 amphibiology
 aloma 1
 anucleated
