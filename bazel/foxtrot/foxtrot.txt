@@ -3221,7 +3221,7 @@ foods 1
 fogman 1
 feloness 1
 fluework 3
-floorshift 1
+floorshift 2
 firmisternous 2
 fougade 1
 flexibly 3
