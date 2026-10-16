@@ -961,7 +961,7 @@ embalming 2
 entailments 3
 emanator 2
 euchrone 2
-effronteries 3
+effronteries 4
 epencephalic
 erythroblastotic 1
 enhearse 2
@@ -13155,7 +13155,7 @@ experting
 ectally 6
 elderwoman
 epicoelian 2
-epiphonema
+epiphonema 1
 epistlar 1
 endergonic 3
 eugenist 3
