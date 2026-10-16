@@ -4664,7 +4664,7 @@ brothier 2
 bedframes
 bouncers 2
 broomed 1
-bowdlerizes 3
+bowdlerizes 4
 baldwin
 burnettized 2
 balayeuse 1
