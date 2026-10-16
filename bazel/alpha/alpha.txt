@@ -1706,7 +1706,7 @@ accuracies 1
 ada 1
 accursed
 amerikani 1
-accursedness 1
+accursedness 2
 aborter 1
 accurst 1
 authorisable 1
@@ -21145,7 +21145,7 @@ airth
 amniorrhea 1
 ambiens
 affinitative
-aseismatic 1
+aseismatic 2
 arabella
 acquittal 1
 agriochoeridae
