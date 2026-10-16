@@ -3602,7 +3602,7 @@ fourniture 5
 flank 2
 filers 3
 fructification 3
-felinity 1
+felinity 2
 floorway 4
 files 1
 fiddle
@@ -9399,7 +9399,7 @@ fidgeter 6
 forbye 3
 fibreglass 4
 fondu 3
-frenum 2
+frenum 3
 ficaria 3
 forequoted 2
 finickiness 4
