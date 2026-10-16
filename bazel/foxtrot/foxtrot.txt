@@ -5435,7 +5435,7 @@ fashion 3
 frolickly 6
 forseek 1
 fitchery 1
-fusobteria 1
+fusobteria 2
 femur 1
 filterable 1
 flexuosely 6
@@ -5956,7 +5956,7 @@ feretories 3
 floodlight 3
 forthinking 3
 furzes 3
-fearlessly 2
+fearlessly 3
 favonius 2
 frenchification 3
 frailly 2
