@@ -1680,7 +1680,7 @@ deanthropomorphization 1
 deappetizing 1
 docksides 1
 dearborn
-dumortierite 3
+dumortierite 4
 dearest
 derides 3
 dyne
@@ -6899,7 +6899,7 @@ drabber 1
 diabasic 1
 desolatingly 1
 duniewassal 3
-desolation 1
+desolation 2
 dovetailer
 darkness 2
 dryhouse 1
