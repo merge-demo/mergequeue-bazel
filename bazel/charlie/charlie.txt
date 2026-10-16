@@ -17925,7 +17925,7 @@ coefficients 2
 coelacanth
 coelacanthidae 1
 coelacanthous
-coelar
+coelar 1
 coelastraceous 1
 canonics
 coelata
