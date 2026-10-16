@@ -8876,7 +8876,7 @@ baisakh 4
 biocycle
 biocycles
 biocidal 1
-biocide
+biocide 1
 bookcases 1
 bioclimatic 1
 bowwoman
