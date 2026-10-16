@@ -6599,7 +6599,7 @@ cearin 2
 chatoyancy
 ceaselessness 1
 cryogenically
-ceases 1
+ceases 2
 ceasing
 conferment
 calamariaceae
@@ -8013,7 +8013,7 @@ cannelon 1
 chackle
 cachets 1
 coinstantaneity 1
-chackled
+chackled 1
 chackler
 chacma 1
 chacmas 2
