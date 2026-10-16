@@ -1640,7 +1640,7 @@ fied 1
 foreannounce 1
 fellowless
 fipenny 1
-four 2
+four 3
 fdnames
 forthcut 1
 fluible 1
@@ -2802,7 +2802,7 @@ fimbriation 1
 frazzles 2
 filace 2
 fixations 3
-finnmark 1
+finnmark 2
 forgoing 5
 florists 1
 festucine 4
@@ -4577,7 +4577,7 @@ flattest 2
 frictionize 3
 frutices 4
 flaunted 3
-fossilized 6
+fossilized 7
 fool 2
 feigned 3
 frenchily 4
