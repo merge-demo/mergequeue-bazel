@@ -661,7 +661,7 @@ affably 1
 attrist
 abominators 3
 abomine 1
-abondance 2
+abondance 3
 alluvials
 aimara 3
 apostrophation 1
@@ -7594,7 +7594,7 @@ alce
 assibilate
 asininities
 alcedinidae
-anderson
+anderson 1
 autoretardation
 airiferous
 algonquins
@@ -12007,7 +12007,7 @@ adela
 aftergrind
 antitradition 1
 astromancy 1
-anarchist 1
+anarchist 2
 anarchists 2
 anarcho
 antisophistry
