@@ -3299,7 +3299,7 @@ fungilliform 2
 filopodium 6
 fiddlestick
 frambesia 1
-farsight
+farsight 1
 fivescore 2
 flounces 3
 ferrelled 3
@@ -6195,7 +6195,7 @@ frothier 3
 fluavile
 flubbed 5
 feudum 4
-foreread 1
+foreread 2
 fairgoing 3
 flaxes 3
 fulgurate 1
