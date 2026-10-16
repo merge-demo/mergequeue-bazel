@@ -2746,7 +2746,7 @@ askr 3
 attent 1
 alfurese
 arrestant 1
-acrostolia
+acrostolia 1
 amebian 1
 amnion 5
 artarin 3
