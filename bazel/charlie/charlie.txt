@@ -8191,7 +8191,7 @@ checkoff 2
 conficient
 chairmender
 chairpersons 2
-chairway 1
+chairway 2
 cryptogamian 1
 conjunctivae 1
 chairwarmer
@@ -31846,7 +31846,7 @@ cutlassfishes 2
 confusive 1
 cutleriaceous 2
 cutleries 1
-cutlers
+cutlers 1
 cutlet 1
 cashable 1
 cutline 1

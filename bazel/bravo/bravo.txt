@@ -5515,7 +5515,7 @@ bagatine
 bludgeoned 1
 baklava 2
 bemurmured 2
-bobowler 1
+bobowler 2
 benefactive 1
 begnawn 3
 blotted 1
@@ -17114,7 +17114,7 @@ breadseller 2
 bacteric
 bombazeen 1
 bulletproofing 2
-blowhard 2
+blowhard 3
 britchka 1
 bifold 1
 beseeming 1
@@ -17490,7 +17490,7 @@ buprestis 2
 briskening 2
 bragwort 1
 biteless
-biscotin
+biscotin 1
 betes 1
 bioecologist 1
 buqshas 1

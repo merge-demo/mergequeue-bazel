@@ -3221,7 +3221,7 @@ foods 1
 fogman 1
 feloness 1
 fluework 3
-floorshift 1
+floorshift 2
 firmisternous 2
 fougade 1
 flexibly 3
@@ -11245,7 +11245,7 @@ frontispieces 1
 fucivorous 2
 funmaking 2
 flit 1
-flakeless 3
+flakeless 4
 famble 1
 faciest 2
 featherwork
