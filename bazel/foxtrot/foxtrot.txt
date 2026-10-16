@@ -564,7 +564,7 @@ forebays 4
 fussbudgets 5
 fallen 4
 ferny 6
-falling 1
+falling 2
 flichtering 2
 faradized
 famine 1
@@ -717,7 +717,7 @@ faming 4
 foreladies 2
 freeness 1
 flincher 2
-fired 2
+fired 3
 flagroot 4
 famous 2
 florigens 1
@@ -5149,7 +5149,7 @@ furbelows
 froom 2
 flatlands 2
 fiberized 4
-flavoprotein 2
+flavoprotein 3
 facula 1
 fatigued
 flywheels 2
