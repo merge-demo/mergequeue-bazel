@@ -3059,7 +3059,7 @@ canvasado
 canvasbacks 1
 canvasers
 coralroot
-cumaldehyde
+cumaldehyde 1
 coperiodic 2
 capriola
 cyclopterous 1
@@ -3466,7 +3466,7 @@ calyptras 1
 capshore
 capsian
 collectress
-ceruses 2
+ceruses 3
 chullpa
 capsicums
 capsid

@@ -5244,7 +5244,7 @@ docetistic 2
 destructuralize 1
 denoting 1
 duplification 4
-deeping 1
+deeping 2
 denouement 1
 denouements 2
 denounce 2
@@ -6243,7 +6243,7 @@ desiccator 2
 dizaine 2
 dermatatrophia 2
 dammer 2
-discretely 2
+discretely 3
 dodonaena 2
 denationalisation
 diabolize
@@ -7478,7 +7478,7 @@ dragooned 1
 diosma 1
 dunderpates 1
 darkheartedness 4
-dovish 3
+dovish 4
 dignosce
 discoverably 3
 demobbing 1
@@ -8419,7 +8419,7 @@ diallelus 2
 deflower 2
 dysphasic
 drowned
-diallings
+diallings 1
 dovefoot
 deliracy
 disciplines 1
