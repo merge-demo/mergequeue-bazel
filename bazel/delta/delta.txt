@@ -15252,7 +15252,7 @@ dissociate 4
 dingmaul 1
 disbursal 3
 demipriest
-depressanth
+depressanth 1
 dogsleep
 derotremate 1
 domicile 2
