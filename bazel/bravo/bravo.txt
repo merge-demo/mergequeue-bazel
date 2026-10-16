@@ -3565,7 +3565,7 @@ bathysophical 2
 bathysphere 1
 bigmouths 3
 boliviano 1
-bathythermograph
+bathythermograph 1
 bathkol 1
 bipartite 2
 bathmat
@@ -5791,7 +5791,7 @@ becrawling 2
 bromization
 bedlamic 1
 bombyliidae 4
-bryozoan 2
+bryozoan 3
 batfish 2
 bimetallism 2
 berengelite 2
