@@ -4784,7 +4784,7 @@ encloister 2
 extend 2
 endosporously 3
 emeried
-epencephalon
+epencephalon 1
 extrarhythmical 2
 emboite 1
 erosiveness 3
