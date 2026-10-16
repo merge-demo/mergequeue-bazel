@@ -4496,7 +4496,7 @@ entozoal 1
 endolabyrinthitis 1
 encephalomyelopathy 3
 encenter 1
-ensilage 1
+ensilage 2
 endolithic 2
 encephalartos 2
 encephalasthenia
@@ -10906,7 +10906,7 @@ electromuscular 2
 eastlander 1
 eanlings
 eudemian 3
-easternize 2
+easternize 3
 enterokinase 1
 enfin 1
 encephalocoele 6
