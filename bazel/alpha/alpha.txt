@@ -2894,7 +2894,7 @@ augustest
 areographically 3
 acrosomes
 autolimnetic
-aneurysms 1
+aneurysms 2
 anapsid
 ammoniureted 1
 awkwardest 2
@@ -19432,7 +19432,7 @@ authorship 3
 augurial
 argentry 1
 abbest
-antiparliamentarist
+antiparliamentarist 1
 argh 1
 anlaute
 aphelilions 1
