@@ -2165,7 +2165,7 @@ goldish 1
 gastropulmonary 1
 gaudies 3
 graphostatics 3
-georgian 5
+georgian 6
 gharris 1
 gerontine 2
 gdinfo
@@ -6154,7 +6154,7 @@ gnapweed 3
 gallification 1
 grammar 1
 gowiddie 3
-generalizing 1
+generalizing 2
 gyre 2
 grommet 6
 garters 2
