@@ -8872,7 +8872,7 @@ degustation
 doziness 2
 depthwise
 diffeomorphism 2
-debituminize 2
+debituminize 3
 deflexure 3
 domiciliating 1
 dicacity 1
@@ -12582,7 +12582,7 @@ dipterological 2
 denotation
 dispersoid 3
 dromedaries 1
-diamantoid 1
+diamantoid 2
 denominators 2
 disintegrator 3
 deifications
@@ -15118,7 +15118,7 @@ deleniate 4
 dentist 2
 damningness 2
 disadvantaged
-decremental 1
+decremental 2
 delawn 1
 degustate
 dubitatively
