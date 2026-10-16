@@ -2973,7 +2973,7 @@ archenteron
 axtree 1
 aulostomi 1
 actiniomorpha 1
-addisoniana
+addisoniana 1
 actinisms
 arginine
 actinium 2
