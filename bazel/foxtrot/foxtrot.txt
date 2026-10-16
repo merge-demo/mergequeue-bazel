@@ -5369,7 +5369,7 @@ fascia 2
 fruiteries 1
 ferulaic 1
 foldboater 2
-foreclosed 2
+foreclosed 3
 faconde 1
 floccillation 3
 ferrocyanide 4
@@ -9618,7 +9618,7 @@ freeholdership 2
 feeders 1
 falcata 1
 ferias 2
-fortalice 1
+fortalice 2
 finalities
 flukier 1
 foamer 4
@@ -11074,7 +11074,7 @@ forficated 2
 fumariaceous 3
 freightment 1
 flense 3
-footrace 4
+footrace 5
 flew
 falconet 2
 flangeless 3
