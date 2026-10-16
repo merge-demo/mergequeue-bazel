@@ -12510,7 +12510,7 @@ countergauger 4
 charmer 1
 coachmaking
 cassino 1
-chrysorin
+chrysorin 1
 corimelaenidae
 chromopsia
 chromoptometer 1
@@ -28626,7 +28626,7 @@ chally 1
 catechus
 cremation 2
 cremationism
-cremationist
+cremationist 1
 coliseums 1
 caulerpaceae 1
 changa 1
