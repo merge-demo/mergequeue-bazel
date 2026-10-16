@@ -1593,7 +1593,7 @@ entires 4
 enumerator 2
 eucaines 3
 eff 2
-estopped 1
+estopped 2
 erogenetic 2
 embay 3
 euphonetics 1
