@@ -544,7 +544,7 @@ ablative 2
 anatomopathological
 ambitioned 1
 able
-autoplasmotherapy
+autoplasmotherapy 1
 amphicoelian
 almners 1
 ablend 1
@@ -3902,7 +3902,7 @@ angoumian 2
 agaphite
 adjoinedly 1
 aryanize 1
-analphabetism 2
+analphabetism 3
 apprises 1
 adjoiner 1
 allioniaceae 1
@@ -11837,7 +11837,7 @@ antipedobaptist
 antisociality
 abas 1
 appulsion
-analoga 1
+analoga 2
 analogy 1
 analogic 2
 anteposition 1
