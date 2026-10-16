@@ -2841,7 +2841,7 @@ eleostearic 5
 endoubt 1
 enseat 2
 electroluminescent
-explicans 2
+explicans 3
 evenhanded 3
 enaluron 2
 elephantiasis 1
@@ -13817,7 +13817,7 @@ embolo 4
 elucidative 2
 effervescingly 1
 electrophilic 1
-earworm 1
+earworm 2
 extracystic 2
 equiarticulate
 entomolite 1
