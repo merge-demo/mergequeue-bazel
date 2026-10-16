@@ -2351,7 +2351,7 @@ audubonistic 1
 abet
 anarithia
 aftercare 2
-agitative
+agitative 1
 artifact 2
 awalt 1
 alizari
@@ -18065,7 +18065,7 @@ arrenotokous 1
 areolate 1
 aranga
 apterial
-apterygidae
+apterygidae 1
 apterygiformes 2
 almsgiver 1
 arace
@@ -19253,7 +19253,7 @@ atmolyzer
 automatonta 1
 agitatedly 3
 arecoline 1
-ared 2
+ared 3
 airbuses 1
 arefact 4
 areg 1
