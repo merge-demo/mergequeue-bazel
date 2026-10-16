@@ -4546,7 +4546,7 @@ bathroot
 bater 1
 bool
 bedabble 4
-beagles 2
+beagles 3
 barricadoed
 biggening 2
 behavioristic 1
@@ -15576,7 +15576,7 @@ brist 3
 bombproof 2
 bristled 1
 bakhtiari 2
-biomagnetism
+biomagnetism 1
 burlaps
 banlieue 1
 biopsychical 1
