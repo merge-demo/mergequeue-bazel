@@ -2289,7 +2289,7 @@ granulocytopoiesis 1
 geitonogamy 1
 gonostyle
 geomoroi 2
-grange 1
+grange 2
 granulosa
 gynarchy 2
 galante 1
@@ -7553,7 +7553,7 @@ greywether 2
 gigglier 3
 gynecophoric 2
 geraniol 3
-guidances 2
+guidances 3
 gymnospermae 4
 gemini 2
 gillotype
