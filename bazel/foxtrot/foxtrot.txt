@@ -3288,7 +3288,7 @@ fiddlefaced 1
 fiddlerfish 2
 fraticellian 3
 ferrites
-faunology 1
+faunology 2
 fluidrams
 ferrimagnetically 3
 foreknowable 2
@@ -3564,7 +3564,7 @@ flexibility 2
 formularise 1
 filarian 1
 fattily 2
-fluoryl 3
+fluoryl 4
 filaricidal 1
 filariids 3
 forechoice 3
@@ -9235,7 +9235,7 @@ forpining 1
 frivolism 2
 frillback 1
 fetuses 4
-floccus 1
+floccus 2
 ficin 2
 feminate 3
 fissioning 2
@@ -9709,7 +9709,7 @@ fremd 3
 frenchly 1
 fafaronade 2
 fissionability
-festinate 1
+festinate 2
 floatable 2
 footmanry 4
 faunch 2
