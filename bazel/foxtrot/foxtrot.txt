@@ -1640,7 +1640,7 @@ fied 1
 foreannounce 1
 fellowless
 fipenny 1
-four 2
+four 3
 fdnames
 forthcut 1
 fluible 1
@@ -10985,7 +10985,7 @@ featherpated 1
 fumatoria 2
 freesilverism 3
 fumbled 1
-farde 2
+farde 3
 forecatharping 1
 fausen 2
 frostiest 2
