@@ -4546,7 +4546,7 @@ bathroot
 bater 1
 bool
 bedabble 4
-beagles 2
+beagles 3
 barricadoed
 biggening 2
 behavioristic 1
@@ -8030,7 +8030,7 @@ ballerine 1
 browband 1
 bicorn
 bourrelet 1
-blanque
+blanque 1
 boatman 4
 buckbeans 2
 busked 1
