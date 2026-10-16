@@ -9774,7 +9774,7 @@ hozsst 1
 hozt 3
 hoztafyriq 3
 hoztvafs 1
-hozu 1
+hozu 2
 hozun 1
 hozv 1
 hozwwa 3
@@ -10721,7 +10721,7 @@ hrornfym 2
 hros 2
 hrozzhyrqe
 hrpbiazxbfkytnnq 2
-hrpbwoy
+hrpbwoy 1
 hrpcaefasg
 hrpcqwmwr
 hrpdbctuzghxxgeg 2
