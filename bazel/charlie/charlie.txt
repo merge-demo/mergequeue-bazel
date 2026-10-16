@@ -11196,7 +11196,7 @@ chloranemic 1
 chuffs
 chloranhydride 1
 chloranil
-carrying 2
+carrying 3
 carosse
 chloranthaceae
 chloranthaceous 4
@@ -16597,7 +16597,7 @@ cardinality
 chapeaus 1
 catacomb 1
 circumoesophagal 2
-cosponsorships 1
+cosponsorships 2
 circut 3
 clonos 3
 clonothrix
@@ -23084,7 +23084,7 @@ conspirant 1
 conspiration
 confocal
 conspirative 1
-conspirators 1
+conspirators 2
 carotid 2
 carraways
 conspiratress 1
