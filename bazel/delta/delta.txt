@@ -1588,7 +1588,7 @@ disenthralled 2
 deadness
 dairyman
 deadpanned 2
-deadpans
+deadpans 1
 depayse
 daikering
 disinfector 1
@@ -10440,7 +10440,7 @@ diodon
 delace 3
 disglorify
 disinterring 3
-diphenyls 1
+diphenyls 2
 dispowder
 doglegging
 disfigurative 2
