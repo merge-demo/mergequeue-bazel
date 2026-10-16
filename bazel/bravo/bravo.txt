@@ -4515,7 +4515,7 @@ bandolero 2
 blankest 2
 brigadiership 1
 barricaded 2
-burnsides 2
+burnsides 3
 batata 1
 balushai
 becudgels
@@ -5248,7 +5248,7 @@ begass 1
 bitless 1
 backmost 1
 blastocyst
-begats 1
+begats 2
 bolters 2
 bastes 1
 bothsided 4
@@ -15396,7 +15396,7 @@ boisseau 2
 bannerlike 1
 brighten 2
 becket 1
-brainwork 1
+brainwork 2
 brightish 2
 bebelted 1
 bescoundrel 1
