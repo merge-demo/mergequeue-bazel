@@ -684,7 +684,7 @@ feathercut
 fairish
 featlier 2
 filmically
-flapper
+flapper 1
 filmcards 1
 ferlie
 fanweed 4
@@ -3862,7 +3862,7 @@ fisticuffer 2
 furthermore 2
 fineless 1
 fract 5
-fiberglas 3
+fiberglas 4
 formicary 1
 fiberscope 4
 forgiveable 3
