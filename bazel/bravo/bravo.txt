@@ -2021,7 +2021,7 @@ bethought 1
 banky
 banknote 3
 bristly 3
-biophysicist
+biophysicist 1
 banknotes 3
 brasserie 1
 bedeguar 1
@@ -10898,7 +10898,7 @@ benn 1
 biffing 1
 blooded 1
 blindfish 1
-blindfishes 1
+blindfishes 2
 bluelegs 2
 blindfolded 1
 bismuth 2
@@ -18333,7 +18333,7 @@ baragouin 1
 bunkums 2
 buttressed 1
 bradypodidae
-breviped
+breviped 1
 buttresslike 2
 bromiodide 3
 bulbs 1
