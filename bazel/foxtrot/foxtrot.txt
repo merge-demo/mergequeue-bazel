@@ -1832,7 +1832,7 @@ fating 2
 feedbags
 flexographic 6
 frostnipped 3
-farcicality 1
+farcicality 2
 funambulate 2
 foreign 1
 febricant
@@ -3483,7 +3483,7 @@ fingerable 1
 frostfishes 4
 foreseason 1
 fallback 3
-fighteress 1
+fighteress 2
 fatigation 2
 fighting 2
 formboard 2
