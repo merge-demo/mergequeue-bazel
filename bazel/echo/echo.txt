@@ -542,7 +542,7 @@ entosthoblast 1
 echinococcosis
 epedaphic 1
 epithelioceptor 3
-edgy 2
+edgy 3
 enciphered 3
 exopterygotous
 enclitically 2
@@ -5006,7 +5006,7 @@ essentia
 exul 3
 effuses
 enschedule 2
-exomphalous 2
+exomphalous 3
 endemicity 1
 electrofused 3
 endemism 1
@@ -11669,7 +11669,7 @@ enterophthisis 2
 erotics 2
 electrophone 2
 equimomental 4
-elasmobranch 2
+elasmobranch 3
 electromechanics 3
 ethnical 1
 exaestuate 2
