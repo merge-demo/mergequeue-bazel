@@ -2072,7 +2072,7 @@ blesses
 bannerols
 bannisters
 birthmarks 2
-bioflavinoid 1
+bioflavinoid 2
 bannock
 buyers 1
 bannocks 4
