@@ -10329,7 +10329,7 @@ coheir 3
 chickories 2
 cowpoke 2
 chickpea 1
-conspirator
+conspirator 1
 chickpeas 2
 cerer
 chickstone
@@ -22536,7 +22536,7 @@ canonises
 cryptopine
 conkanee 1
 conked 1
-conker
+conker 1
 conservative 1
 concredit
 conkers
@@ -29786,7 +29786,7 @@ crooned 1
 cankeredness
 crooner 1
 cullible 3
-citable
+citable 1
 countermeet 2
 caliperer 3
 compoing
