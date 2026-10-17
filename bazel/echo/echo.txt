@@ -5935,7 +5935,7 @@ especially
 eurytopicity
 exoenzymic 3
 embuskin 2
-ephemeron 2
+ephemeron 3
 excursive 3
 exclave 1
 eftest 1
@@ -9329,7 +9329,7 @@ endosiphon
 erugo 1
 encrusted 2
 erugos 2
-escapage 2
+escapage 3
 eruptible 1
 eruption
 eruptional 1
@@ -11398,7 +11398,7 @@ empennages 3
 ergamine 1
 eyebree 3
 epichoric 4
-euxanthone 2
+euxanthone 3
 erpetoichthys
 escaladed 4
 extrinsical 2
