@@ -24245,7 +24245,7 @@ calcarea 2
 chuffest 2
 convulsant 1
 convulse
-convulsedly
+convulsedly 1
 compulsiveness
 circuity 2
 chorion

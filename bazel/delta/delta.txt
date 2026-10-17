@@ -2709,7 +2709,7 @@ detailedness 3
 demitrain
 deconsideration 2
 decontaminating
-diatessaron
+diatessaron 1
 dortiness 1
 dejectly 1
 decontaminators 1
