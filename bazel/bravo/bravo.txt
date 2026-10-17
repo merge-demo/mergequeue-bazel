@@ -2223,7 +2223,7 @@ bridgebote 2
 barbarianizing 4
 bandog 1
 bevesselled 3
-barbarically 1
+barbarically 2
 blandiloquous 1
 barbequing
 bourage
@@ -3826,7 +3826,7 @@ baumier 1
 baun 4
 beetleweed 2
 baure 2
-botonny 2
+botonny 3
 bausond 2
 birthland 1
 bautta 1
@@ -9970,7 +9970,7 @@ bivalvian
 bivariant 1
 baddock
 bivascular
-bismuthyl
+bismuthyl 1
 binodous
 brahmic
 berbery 1
