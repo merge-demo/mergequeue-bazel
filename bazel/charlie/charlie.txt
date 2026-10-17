@@ -10699,7 +10699,7 @@ cisgangetic 1
 companionless 1
 chin 1
 commoned
-colonitis
+colonitis 1
 complementarism
 chinafy 1
 cuapinole 1
@@ -14420,7 +14420,7 @@ cirri 2
 cogit 1
 cirribranch 2
 cirriferous
-colonialism
+colonialism 1
 courtezan 2
 confidentially 1
 cirriped 1
