@@ -1832,7 +1832,7 @@ fating 2
 feedbags
 flexographic 6
 frostnipped 3
-farcicality 1
+farcicality 2
 funambulate 2
 foreign 1
 febricant
