@@ -13439,7 +13439,7 @@ disreputability 2
 desolater 1
 deposing 1
 dumpily 1
-disengagements
+disengagements 1
 dihexagonal 2
 dardanium 1
 disreputableness 1
@@ -16578,7 +16578,7 @@ dragoman
 dissimilarities 4
 diatonically 2
 dragomanate
-disharmonic 2
+disharmonic 3
 decompile 1
 disclaims 4
 daman 1
