@@ -9880,7 +9880,7 @@ gastrochaena 4
 gladdens 2
 gerygone 3
 garble 1
-gustless
+gustless 1
 guanin 6
 gagate 2
 ghoom
