@@ -807,7 +807,7 @@ detections 3
 disingenious 1
 dangerously 4
 dactyliomancy
-diabrotic 2
+diabrotic 3
 deduced 1
 dangerousness
 distention
@@ -5204,7 +5204,7 @@ decephalization 3
 deathly
 diaheliotropic 2
 detruncating 1
-devoid 2
+devoid 3
 diazoamino
 denitrifier 3
 denizenation 1
