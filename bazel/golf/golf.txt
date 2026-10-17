@@ -5571,7 +5571,7 @@ gussies
 granuloblast 1
 globous 1
 georgical 1
-gadus 1
+gadus 2
 goffle 4
 gephyrophobia 3
 glycerizine 3
@@ -6337,7 +6337,7 @@ gobstopper 5
 goosenecked 4
 gemots 2
 gametal 1
-gearings 5
+gearings 6
 giglio 1
 genarchaship 4
 graptoloidea 2
