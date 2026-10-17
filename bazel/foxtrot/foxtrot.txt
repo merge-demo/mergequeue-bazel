@@ -1824,7 +1824,7 @@ featureliness 2
 furrows 6
 figureheadship 2
 fellahin 3
-firebreaks 1
+firebreaks 2
 feudalize 1
 fractured
 flabellum 3
@@ -9081,7 +9081,7 @@ frixion 2
 frolicsomeness 1
 flavors 2
 formably 2
-fehmic 6
+fehmic 7
 frication 1
 figging 3
 foundryman 4
