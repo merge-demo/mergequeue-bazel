@@ -2206,7 +2206,7 @@ guarantying 4
 ghosting
 guberniya 2
 ganophyllite 2
-glucolipide 2
+glucolipide 3
 gossipiness 4
 gutturalised 4
 golach 2
@@ -4371,7 +4371,7 @@ gemstone 1
 gliriformia 2
 gravestead 3
 glossata 3
-globules 2
+globules 3
 gharries 2
 gumbotil 4
 ginglymostoma 1
@@ -9169,7 +9169,7 @@ geographically 4
 granulates 4
 glared 3
 goosed 1
-garon 1
+garon 2
 griphite 3
 gehenna 3
 golee 3

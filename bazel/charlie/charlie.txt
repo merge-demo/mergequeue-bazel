@@ -3899,7 +3899,7 @@ carbonizers 1
 concn
 chylificatory 1
 carbonizing
-carbonometer
+carbonometer 1
 chondrin 1
 carbonous 1
 carbons
@@ -30109,7 +30109,7 @@ crowhop 1
 cushewbird 1
 colcothar 1
 christdom
-crowhopper 2
+crowhopper 3
 chadacryst 1
 chousing 1
 camister 1
