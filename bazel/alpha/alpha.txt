@@ -1569,7 +1569,7 @@ antilogism
 anglicizes 1
 accost 1
 arbuscule
-aecidium 2
+aecidium 3
 aristolochine
 antiketogenic 1
 abduction 1
@@ -7242,7 +7242,7 @@ alange 1
 antigonococcic 3
 arthrectomies 1
 alangium 3
-anchors 1
+anchors 2
 auditive 1
 alanines
 alannah 1
@@ -10521,7 +10521,7 @@ apprentice 2
 attacks
 aromatites
 abusing 1
-articled
+articled 1
 allantoidea 1
 ascomycetous 1
 amidol

@@ -12674,7 +12674,7 @@ disfavour
 duplicability 1
 dinitrobenzene 2
 dissolute 2
-disleafed 4
+disleafed 5
 dermatophone 4
 diffrangibility 2
 disleaved 1
@@ -15586,7 +15586,7 @@ doodlers 2
 doodlesack 4
 demeanors 4
 dentolingual 1
-deconcatenate
+deconcatenate 1
 drying 3
 determinedly 2
 dool 2
@@ -18083,7 +18083,7 @@ desultorious 1
 devolatilise
 duke 1
 dumbbell 1
-dimenhydrinate 1
+dimenhydrinate 2
 denominating
 discontinuer 2
 dandriffs 3
