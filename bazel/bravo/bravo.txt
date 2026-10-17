@@ -13533,7 +13533,7 @@ bootleg
 binucleolate 2
 ballutes 2
 bepainted 1
-besnowed 1
+besnowed 2
 beatermen 1
 bouffancy 3
 beggarlice 2
@@ -16860,7 +16860,7 @@ balkline 4
 biomaterial 1
 beam 2
 bigger
-buffing
+buffing 1
 breards
 bufflehead
 breekums
