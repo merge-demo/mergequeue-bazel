@@ -515,7 +515,7 @@ denaturalize
 dinkey 2
 droddum 2
 descended 1
-demicadence 2
+demicadence 3
 dallier 1
 dup 3
 denuclearizes
@@ -7379,7 +7379,7 @@ detn 3
 defibrillating
 dowagerism 1
 dwine
-dadayag 3
+dadayag 4
 demilunes 2
 deselect 3
 discount 1
@@ -12772,7 +12772,7 @@ dotardly 2
 drawfiling 1
 donative 2
 disloyalist 1
-disloyally 2
+disloyally 3
 disloyalty 1
 decrepity
 doored 1
