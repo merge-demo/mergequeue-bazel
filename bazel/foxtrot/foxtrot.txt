@@ -2939,7 +2939,7 @@ fencing 1
 floccipend 3
 farfetch 5
 fluellite 3
-flyoff 2
+flyoff 3
 filialness 1
 facier 2
 fooleries 2
@@ -5861,7 +5861,7 @@ farthingale 2
 forestem 2
 formidableness 1
 furanes 8
-filanders 2
+filanders 3
 feminology 2
 funebre 1
 farding 4
