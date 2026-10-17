@@ -687,7 +687,7 @@ contributory 2
 caffeic 1
 caffeina 1
 caffeines
-cobblerless
+cobblerless 1
 compensable 1
 caffeinic
 caffeins 1
@@ -23093,7 +23093,7 @@ curiality 1
 constablery 1
 carefulness
 cowgate 1
-chkalik 1
+chkalik 2
 clysmian
 corymbs
 constablewick
@@ -28793,7 +28793,7 @@ clarinettist 1
 confederatio
 cantino 2
 cresegol
-cargo 1
+cargo 2
 cresyl
 cresylate 1
 cresylic 2
