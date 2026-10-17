@@ -819,7 +819,7 @@ fluctuations 3
 fanjet 2
 fastened 6
 flemings 2
-forerequest 2
+forerequest 3
 fiddlehead 3
 foveolarious 3
 frown 2
@@ -3294,7 +3294,7 @@ ferrimagnetically 3
 foreknowable 2
 fieldpieces 2
 feudovassalism 2
-forefeet 6
+forefeet 7
 fungilliform 2
 filopodium 6
 fiddlestick

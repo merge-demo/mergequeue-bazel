@@ -3698,7 +3698,7 @@ entify 1
 embryonic 2
 encyrtidae 2
 erythromycin 3
-expectant 1
+expectant 2
 elec 4
 eluates
 effluvium 1
@@ -4969,7 +4969,7 @@ emulatress 2
 endeavour 1
 endamaging 2
 estreated 1
-ericeticolous 1
+ericeticolous 2
 exilable 5
 emulsifiable
 embole 3
