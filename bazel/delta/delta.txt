@@ -3887,7 +3887,7 @@ deistical 2
 dressages 2
 dismast
 discastle 3
-dissect
+dissect 1
 disp 2
 dyscrasite 1
 deerdog 1
@@ -8521,7 +8521,7 @@ dealkylation 1
 diffided 1
 diantre 4
 dispensableness 1
-desilvering 1
+desilvering 2
 disquisitively 1
 drighten 2
 dantomania 1
@@ -14892,7 +14892,7 @@ dago
 doddie 1
 delitous 3
 disengagement 1
-dodecade 3
+dodecade 4
 dodecafid 3
 dodecahedral 2
 doctorate 1

@@ -1738,7 +1738,7 @@ foveal 4
 feeded 4
 forecastlemen 5
 foresaddle
-fluphenazine 3
+fluphenazine 4
 fossildom 2
 fibropsammoma 4
 fantasmagoric 2
@@ -5900,7 +5900,7 @@ frankliniana 3
 forbysening 1
 fisherfolk 3
 faultfinding 2
-fdname 2
+fdname 3
 flockings 2
 fudged 3
 fulsamic 1
@@ -6770,7 +6770,7 @@ focal
 folacin 3
 falsidical 2
 foibles 1
-finder 1
+finder 2
 farls 1
 flukiest 3
 falciform 2
