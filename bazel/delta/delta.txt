@@ -853,7 +853,7 @@ drizzling 1
 deteriorator 1
 duralumin
 duotone 3
-decrudescence 3
+decrudescence 4
 dank 2
 delightful 3
 damenization
