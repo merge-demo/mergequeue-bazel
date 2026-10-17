@@ -5679,7 +5679,7 @@ firebrands 2
 freeloader 1
 flingy 4
 funded 2
-fiddlestring 2
+fiddlestring 3
 flings 2
 freestyle
 fishwife
