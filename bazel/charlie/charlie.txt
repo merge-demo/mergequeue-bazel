@@ -12423,7 +12423,7 @@ chanceably
 compositae
 chromidrosis
 chromyl
-chroming
+chroming 1
 cullay
 chromiole
 chromism
