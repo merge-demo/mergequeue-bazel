@@ -5149,7 +5149,7 @@ dasyurid 1
 dendrophilous 2
 densation 1
 dadoed
-doggiest
+doggiest 1
 denebola
 dulbert 3
 disburdened
@@ -15968,7 +15968,7 @@ dune 1
 dea 3
 dissocial
 dialogize 3
-dasein 1
+dasein 2
 dukhn 2
 dotkin
 dudish 3
