@@ -4765,7 +4765,7 @@ erotesis
 enclaves 4
 entrepreneurs 1
 epichondrotic 4
-euthermic 2
+euthermic 3
 evanishing
 embarrass 3
 eyren
@@ -12912,7 +12912,7 @@ eosaurus 2
 enticingly 4
 expeditiousness 2
 ecchymose 2
-epithymetic
+epithymetic 1
 evangeliary 2
 energetically
 ethnographical 1
