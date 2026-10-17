@@ -4581,7 +4581,7 @@ fossilized 7
 fool 2
 feigned 3
 frenchily 4
-fingery
+fingery 1
 flippance 2
 forestwards 2
 fibrinokinase 4
@@ -9554,7 +9554,7 @@ fotched
 fursemide 2
 floreated 2
 filigraned 4
-forgone
+forgone 1
 factabling 1
 foller 4
 frederik 2
