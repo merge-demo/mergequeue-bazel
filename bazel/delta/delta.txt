@@ -12732,7 +12732,7 @@ distrustfully 2
 disoxidate 2
 diazotizing 1
 dislive
-defectoscope 1
+defectoscope 2
 dislluminate 1
 dubbings 3
 difference
@@ -16721,7 +16721,7 @@ distributedly 1
 drammock 2
 drypoint 1
 disadvised 3
-dewily
+dewily 1
 drammocks 1
 descriptively 1
 dicey
