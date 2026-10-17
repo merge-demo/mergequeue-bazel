@@ -3004,7 +3004,7 @@ epitomes 2
 enallage 3
 elinguate 3
 enfield 3
-eleatic 2
+eleatic 3
 eleoblast 2
 evaluate
 extine 3
@@ -3594,7 +3594,7 @@ extracellularly 3
 excelsin 1
 emydes 2
 eventerate
-exhibitable 2
+exhibitable 3
 euclea 2
 egocerus 3
 exemplifies 4
@@ -10945,7 +10945,7 @@ embalmer 2
 exdie 1
 editorializer
 equability 2
-eggnogs 2
+eggnogs 3
 eggbeater 4
 epipelagic 2
 ends
