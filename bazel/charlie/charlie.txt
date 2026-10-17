@@ -15192,7 +15192,7 @@ citromyces
 conditionalities 1
 cornicle
 counterclaimed
-clairecole
+clairecole 1
 cholesterin 2
 clairecolle 1
 catamneses
