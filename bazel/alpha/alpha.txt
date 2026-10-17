@@ -3210,7 +3210,7 @@ actuality 2
 actualization 1
 actualness
 allochromatic 2
-axopetal
+axopetal 1
 adderbolt 2
 acoumetry 2
 alstonine
@@ -23389,7 +23389,7 @@ ametabolous
 aigrets
 adventurist 2
 audiencia
-aerobacters
+aerobacters 1
 adient 1
 antimephitic
 antefix 2
