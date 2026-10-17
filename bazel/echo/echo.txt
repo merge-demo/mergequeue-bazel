@@ -1593,7 +1593,7 @@ entires 4
 enumerator 2
 eucaines 3
 eff 2
-estopped 1
+estopped 2
 erogenetic 2
 embay 3
 euphonetics 1
@@ -2925,7 +2925,7 @@ elfland 1
 entelodon 1
 elflocks 3
 encaustic 4
-endermic 1
+endermic 2
 epiphyseolysis 1
 elfwife
 examinationist 1
@@ -6449,7 +6449,7 @@ eucryphiaceous 1
 eastern 1
 epithetician
 equatorial 3
-epeirogenetic 1
+epeirogenetic 2
 ecophene 1
 embarrassing 3
 endangerments 2
