@@ -4114,7 +4114,7 @@ arbuscles
 admonitorily
 admonitrix 1
 alkalinize 1
-admrx 2
+admrx 3
 archetypist 2
 appendectomies 3
 adnascent
@@ -15285,7 +15285,7 @@ acetimetry 2
 afterdinner 2
 antigravitate
 annale 2
-alleviator 1
+alleviator 2
 agamically 1
 awalim
 amorality 2
@@ -22489,7 +22489,7 @@ adyton 1
 asweat 1
 aristarchy 2
 asweve
-alchemistic 1
+alchemistic 2
 aswirl 1
 ammoniacum
 at
