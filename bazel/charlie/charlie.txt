@@ -18,7 +18,7 @@ chevance 1
 chaenomeles 1
 cows
 corkmaking 2
-caught
+caught 1
 cabaletta 1
 cestas 3
 cardplaying 1
@@ -664,7 +664,7 @@ caesious 2
 caespitose
 caespitosely
 cinemize 1
-crownal 2
+crownal 3
 caestus
 creatins 1
 caestuses 1
@@ -1577,7 +1577,7 @@ cartographer 1
 callo 1
 crawlway
 cyders
-commonwealthism
+commonwealthism 1
 cuddle 1
 circumundulate
 callop 1
@@ -7018,7 +7018,7 @@ cosingular 1
 centage 2
 cavort 2
 centals 1
-coolies 3
+coolies 4
 chock 1
 centaur
 centaurdom 1
@@ -9887,7 +9887,7 @@ chemosynthesis 1
 chemosynthetic 1
 chemosmoses 1
 chemosmotic 1
-consumptible
+consumptible 1
 calpacks 1
 caleches 1
 clays 1
@@ -26825,7 +26825,7 @@ crystallise
 correctingly 2
 conspiring
 counterexcitement
-counterexercise
+counterexercise 1
 commeasuring 2
 cyclometry 2
 counterextension 1
@@ -27825,7 +27825,7 @@ curcuma
 chariotee
 circaea 1
 cozed
-cozey 1
+cozey 2
 cozeier 1
 cozen
 cachinnate 2
@@ -29227,7 +29227,7 @@ crippling 4
 cripplingly
 cryptaesthesia
 conflictual 1
-cryptamnesia
+cryptamnesia 1
 chattingly
 cryptamnesic 2
 cryptanalytically 3
@@ -31482,7 +31482,7 @@ chalcedonous 1
 chiropteran 1
 curricling 1
 currycomb
-cartoon
+cartoon 1
 currycombing 1
 carpolite 1
 costa 2

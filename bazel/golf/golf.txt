@@ -2733,7 +2733,7 @@ gonopodium 3
 grided
 genitor 3
 gullyhole
-gauntry 3
+gauntry 4
 gripeful
 gorlois 3
 geniture 1
@@ -4409,7 +4409,7 @@ grides 4
 gumdigger 2
 ghoulishness 3
 gurdwara
-ganggang 3
+ganggang 4
 galantine 1
 grevillea 1
 goozle 2
@@ -9670,7 +9670,7 @@ gastroscopy 1
 gascons 3
 gowaned 2
 gorgonaceous 3
-globalist 3
+globalist 4
 gruelers 1
 glossography 6
 graphologies 5
@@ -10283,7 +10283,7 @@ gervase 3
 guarantorship 1
 gonimoblast 2
 guitar 3
-gaumish 2
+gaumish 3
 grotesquery 2
 grecque 4
 gourmet 4
@@ -10615,7 +10615,7 @@ gotraja 2
 goy 2
 guildite 4
 gunpoints 5
-gloomiest 2
+gloomiest 3
 ghoul 2
 gunpower 2
 gasping 6
@@ -10774,7 +10774,7 @@ gibblegable 2
 glycyl 1
 gutt 3
 gunny 1
-gerenuk 1
+gerenuk 2
 ghole 2
 genialness 4
 gonadectomy 1

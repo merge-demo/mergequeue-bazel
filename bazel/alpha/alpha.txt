@@ -573,7 +573,7 @@ airscrew 1
 acusector
 actinulae
 apioidal 1
-advowry 1
+advowry 2
 ashantee 1
 ashlers
 adpromissor
@@ -3210,7 +3210,7 @@ actuality 2
 actualization 1
 actualness
 allochromatic 2
-axopetal
+axopetal 1
 adderbolt 2
 acoumetry 2
 alstonine
@@ -6969,7 +6969,7 @@ aberrator 1
 adores
 aith 1
 anniversarily
-aithochroi 1
+aithochroi 2
 acceleratingly 1
 amphicribral
 alumnae
@@ -11583,7 +11583,7 @@ albinoism 1
 anacephalize 2
 amanitin 1
 aiery 1
-amylopsin 1
+amylopsin 2
 anacharis 1
 arriver
 abilities 1
@@ -11785,7 +11785,7 @@ analeptic 2
 anabasis
 adenoidectomies 1
 analgesics
-anthropophagous 1
+anthropophagous 2
 allargando
 apportion
 aslake 1
@@ -20759,7 +20759,7 @@ autotherapy 1
 artillerist 2
 aetosaur 1
 aguishness
-anthologizes 1
+anthologizes 2
 autopsychic
 artillerists
 adnescent
@@ -23389,7 +23389,7 @@ ametabolous
 aigrets
 adventurist 2
 audiencia
-aerobacters
+aerobacters 1
 adient 1
 antimephitic
 antefix 2
