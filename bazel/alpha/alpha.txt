@@ -6037,7 +6037,7 @@ agility
 auxotrophic
 antemortal 1
 agilities 1
-attorneyship 1
+attorneyship 2
 abecedaire 1
 amidofluoride
 acyesis 1
