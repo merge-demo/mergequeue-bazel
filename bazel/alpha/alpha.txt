@@ -8343,7 +8343,7 @@ abrenunciate 4
 argolet
 alymphia 3
 apocrypha 2
-alcippe 1
+alcippe 2
 aneurysm 3
 amini 1
 archdapifer 2
@@ -11341,7 +11341,7 @@ anticreeper
 amphitrichate 1
 amphitropous 1
 anargyros 2
-amphiumidae 2
+amphiumidae 3
 alcoholimeter
 alegar 3
 aposthume 1
@@ -18161,7 +18161,7 @@ aquascope 1
 alltud 2
 ashberry
 aquate 2
-aquatic 1
+aquatic 2
 aquatics
 aquatile 1
 arhats 2
@@ -19934,7 +19934,7 @@ armors 1
 aqueous 2
 apophyge 1
 artistically 2
-acle 2
+acle 3
 armouchiquois
 ammine 2
 armour 1
@@ -21407,7 +21407,7 @@ abkar
 almswoman 2
 acrogenously 1
 agueproof 1
-alamoth
+alamoth 1
 ambulantes 2
 apartheid
 asoka 2
