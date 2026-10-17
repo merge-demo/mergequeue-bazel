@@ -8137,7 +8137,7 @@ garderobe 2
 gaspergous 1
 gynaeolater 2
 gulfed 3
-gloat
+gloat 1
 glowflies 2
 granulators
 gripper 1
