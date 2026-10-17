@@ -2261,7 +2261,7 @@ encell 1
 epauletted 1
 electragy 2
 electress
-excessive 1
+excessive 2
 epitomist
 exla 3
 electret
@@ -3834,7 +3834,7 @@ emerald 1
 elasticities 2
 emerge 1
 ecart 1
-escapology 2
+escapology 3
 emerged 3
 edulcorated
 echinostomiasis 1
