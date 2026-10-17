@@ -7995,7 +7995,7 @@ clottedness 1
 chablis 1
 coelarium
 crannog 1
-chabouk
+chabouk 1
 crankshaft
 chabuk 2
 chabuks 2
@@ -15192,7 +15192,7 @@ citromyces
 conditionalities 1
 cornicle
 counterclaimed
-clairecole
+clairecole 1
 cholesterin 2
 clairecolle 1
 catamneses
@@ -28721,7 +28721,7 @@ creolizing 1
 cleanish
 currance
 creophagia
-creosol 1
+creosol 2
 creosote 1
 casasia 2
 curran 1
