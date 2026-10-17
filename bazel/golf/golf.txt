@@ -6871,7 +6871,7 @@ globosities 1
 galaxies 2
 gymsia 3
 gluteoinguinal 1
-gauntlets 2
+gauntlets 3
 glucoprotein 2
 geaster
 galeas 3
@@ -9796,7 +9796,7 @@ galeate 3
 guebre 2
 grutch 1
 galeche 1
-gumfield 2
+gumfield 3
 gitano 2
 glycidic 1
 grylle 2
