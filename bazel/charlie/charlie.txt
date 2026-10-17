@@ -14533,7 +14533,7 @@ cnidophore
 cysted
 cysteinic
 cysteins 1
-cyclolith 1
+cyclolith 2
 cystelcosis 1
 cosmologic
 cistercian 1
@@ -23063,7 +23063,7 @@ consound 1
 conspecies 1
 crenotherapy
 cotula 3
-conspecific
+conspecific 1
 conspection 1
 coccosphere 1
 conspectus 1
@@ -30516,7 +30516,7 @@ cubbyhouse
 cubbing
 codein
 cubbishness 1
-choiring 1
+choiring 2
 cubbyu 2
 cameoed 1
 cubdom 3

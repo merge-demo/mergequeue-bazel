@@ -9652,7 +9652,7 @@ epicycles 3
 espy 5
 espial 2
 electrocoagulation 5
-escrows
+escrows 1
 espinal
 electrogalvanic 1
 expressmen 2
@@ -13274,7 +13274,7 @@ etches 2
 electrohomeopathy 1
 earner 4
 eolation 1
-eyeshield
+eyeshield 1
 exploded 5
 englifier 4
 empierce
