@@ -1537,7 +1537,7 @@ calliope 1
 concertos
 celtomaniac 2
 calliopsis
-chutes
+chutes 1
 callipash 1
 coorieing
 callipees 1
@@ -10361,7 +10361,7 @@ classing
 chided
 chiders
 colorbreed 2
-cedarbird 1
+cedarbird 2
 chilies
 cahoots 2
 chief
@@ -15147,7 +15147,7 @@ criminosis
 condecent 3
 crumbled 1
 clag 2
-clagged 1
+clagged 2
 claggum
 cantala 1
 commandries 2
