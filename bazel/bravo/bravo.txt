@@ -7645,7 +7645,7 @@ bankroller
 bullwhip
 bahar
 barranca 1
-bairnteem 4
+bairnteem 5
 bourgeoisitic 2
 balanidae
 bilabiate 1
@@ -8554,7 +8554,7 @@ brainlike 1
 bassaris 3
 berylline
 brauneberger 1
-brachysm 1
+brachysm 2
 brachiofacial
 billfishes 1
 bradypode
@@ -14407,7 +14407,7 @@ bemocked 4
 bisischiadic
 brainpan 2
 brainpans
-bandaid 1
+bandaid 2
 bisley
 blastulas 1
 blighting

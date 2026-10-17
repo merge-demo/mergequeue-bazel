@@ -3901,7 +3901,7 @@ decreases 2
 diduce 2
 daphnite 3
 desilicated
-deja 2
+deja 3
 dejection
 devested
 derivation 4
@@ -10920,7 +10920,7 @@ diapir 2
 disabuses 3
 dispondaic 1
 dazzlement 4
-disacceptance
+disacceptance 1
 dannock 1
 disaccomodate 2
 dromons 3
