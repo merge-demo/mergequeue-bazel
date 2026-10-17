@@ -8075,7 +8075,7 @@ fessing 3
 falbala 2
 forestral 4
 forestries 2
-firebrats 1
+firebrats 2
 furnitures
 fondness 1
 fumigating 3
@@ -9679,7 +9679,7 @@ formulating 3
 facty 3
 femoral 3
 fingerroot 1
-functorial 1
+functorial 2
 filch 4
 filosofe 1
 fanit 2
