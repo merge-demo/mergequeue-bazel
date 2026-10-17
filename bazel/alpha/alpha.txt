@@ -23535,7 +23535,7 @@ anthracitization 3
 assagai 1
 accipenser
 auksinas
-allotropy 2
+allotropy 3
 andalusite
 aldeia 3
 amidocapric 1
@@ -24137,7 +24137,7 @@ anthesteria 2
 asconia 1
 autographer 2
 afterpart
-argolid 4
+argolid 5
 ammoreslinol 1
 autographometer 1
 autoheader 1
