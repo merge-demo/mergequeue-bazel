@@ -679,7 +679,7 @@ dampness 2
 dextrosuria 1
 diacetylene 1
 despairs
-dampproof
+dampproof 1
 dampproofing 2
 dyspepsy 2
 determinist 1
@@ -4898,7 +4898,7 @@ discreditableness
 dishmonger 1
 discage
 diluting 2
-deigns
+deigns 1
 diminuendo 1
 dialogist 1
 demonologer
@@ -18395,7 +18395,7 @@ decelerations 1
 dauncy 3
 dingo
 disheveled 1
-demagogy
+demagogy 1
 duolog 1
 duologues 2
 doubtedly 3
