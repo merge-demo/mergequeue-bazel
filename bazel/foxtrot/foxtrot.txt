@@ -4360,7 +4360,7 @@ fourflusher 5
 fu 4
 fellows 2
 forewomen 3
-foresleeve
+foresleeve 1
 finagle 2
 feebler 4
 foraramina 1
