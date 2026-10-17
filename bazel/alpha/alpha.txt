@@ -19907,7 +19907,7 @@ armlike 1
 armlock 1
 armonicas
 autoconvection
-armoracia
+armoracia 1
 albertite 1
 akuammin
 adonises 1
