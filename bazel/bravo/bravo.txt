@@ -8833,7 +8833,7 @@ bombycids 1
 bedchamber 3
 bible 1
 binotonous 1
-bedeck 1
+bedeck 2
 brachystaphylic
 boilerman 2
 blackfishes 2
@@ -10847,7 +10847,7 @@ betone 3
 blickie
 blickies 1
 blighia 1
-britskas 2
+britskas 3
 bloodlike
 belauds 1
 blastomycetic 3
@@ -13429,7 +13429,7 @@ bensell 3
 brightsome
 belowstairs
 bundestag 5
-blunts
+blunts 1
 baryglossia 2
 buncombes 2
 bibliotheca 1
