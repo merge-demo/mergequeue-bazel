@@ -977,7 +977,7 @@ dared 1
 denudes 2
 doodah 2
 daredeviltry
-darers 3
+darers 4
 dargah 2
 dargo 4
 ding 2
@@ -11421,7 +11421,7 @@ dialogite
 drossing 2
 dastardy 1
 dockyard 1
-dissuader 4
+dissuader 5
 demivotary 1
 determinoid
 debug 1
