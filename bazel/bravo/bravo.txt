@@ -5963,7 +5963,7 @@ begirdles 2
 belvedere
 bluewood 3
 belvedered 1
-blueblossom
+blueblossom 1
 bridaler 1
 benchwarmer 4
 barothermohygrogram
@@ -13270,7 +13270,7 @@ bullydom 2
 blitzkriegs 2
 boswellian 1
 boswelliana 3
-barrulet 1
+barrulet 2
 boulders
 beng
 bowge 2
