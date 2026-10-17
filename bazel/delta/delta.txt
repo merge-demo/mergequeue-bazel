@@ -10744,7 +10744,7 @@ disavow 3
 depriver
 drad
 dun 2
-delocalisation 3
+delocalisation 4
 donship 4
 disarranged
 disinfects 1
@@ -11244,7 +11244,7 @@ detoxifies 1
 deltidium 1
 disannulment 2
 deckers 5
-devitrifiable 2
+devitrifiable 3
 dysbulic
 duodecimo 3
 damnatory
@@ -11320,7 +11320,7 @@ dost 2
 dalan 1
 dinichthys
 dinner
-discepts
+discepts 1
 diffidentness 2
 dystocias 1
 dunite 1
@@ -13058,7 +13058,7 @@ deccennia 1
 dispatched
 devaster
 duckish 1
-disesteeming 3
+disesteeming 4
 dispatches 2
 drillings 1
 dimethylsulfoxide 2
