@@ -11845,7 +11845,7 @@ barbedness 3
 bellowed 1
 beento 1
 braggest 1
-bondswomen
+bondswomen 1
 benote 2
 beperiwigged
 barytocelestine 1
@@ -16980,7 +16980,7 @@ binit 1
 bulb
 blankard
 blandishers 1
-behears 1
+behears 2
 bonser 2
 bulby 1
 bidens
