@@ -804,7 +804,7 @@ fermate 3
 frizado 1
 flatulently 4
 frowsy 3
-flypast
+flypast 1
 forgedly 2
 flusher 2
 florilege 2
@@ -1287,7 +1287,7 @@ frigs 4
 factitiously 2
 foins
 footlocker 2
-fossoria
+fossoria 1
 fastuousness 3
 fluctuous 3
 flarfishes 1
@@ -1735,7 +1735,7 @@ foreshore 5
 floriferous 1
 freedman
 foveal 4
-feeded 4
+feeded 5
 forecastlemen 5
 foresaddle
 fluphenazine 4
@@ -7226,7 +7226,7 @@ fiver 1
 foreground 2
 footpad 1
 farfetchedness 4
-fatidically 2
+fatidically 3
 favellidia
 feodary
 flaxboard 1
@@ -9751,7 +9751,7 @@ ferijee 5
 frequentest 1
 foraminifer 5
 feldspar 2
-functionalities 4
+functionalities 5
 frapp 3
 fallacies 1
 falchion
