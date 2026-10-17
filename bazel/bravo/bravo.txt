@@ -2726,7 +2726,7 @@ betrothals 1
 bloodstanch 2
 balandrana 1
 brasen
-betaken
+betaken 1
 beladies 3
 barognosis 1
 betters
