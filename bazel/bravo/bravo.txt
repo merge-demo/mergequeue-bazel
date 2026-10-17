@@ -9976,7 +9976,7 @@ brahmic
 berbery 1
 barrenness
 bivector
-biventer 2
+biventer 3
 backseat 2
 bayonetting 3
 blackwashing 1
@@ -12148,7 +12148,7 @@ barbarianism 1
 broche 2
 begrudgingly 3
 burdeners
-bedflower 1
+bedflower 2
 bolled 2
 bemuzzle
 bisognio 1
