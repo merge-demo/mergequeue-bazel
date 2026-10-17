@@ -2343,7 +2343,7 @@ acies 1
 altometer 1
 acanthopod 3
 acyetic 1
-apprehend
+apprehend 1
 albeit 1
 autocrat 1
 aciform
@@ -13146,7 +13146,7 @@ animalillio 2
 arracacia 3
 adenostemonous 1
 androgametangium
-anathematizing 2
+anathematizing 3
 anthelions 1
 anticomment
 admissions 1
