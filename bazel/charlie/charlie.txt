@@ -9361,7 +9361,7 @@ chauvin
 close 1
 catery 2
 countertree
-chauvinism
+chauvinism 1
 chauvinist 1
 chauvinistic 1
 cumbrance
