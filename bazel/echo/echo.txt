@@ -5072,7 +5072,7 @@ enrage 2
 enamellar 1
 exemplum 2
 eyelid 3
-editorialized 3
+editorialized 4
 endoaortitis 2
 endoappendicitis
 entoolitic 1
@@ -5450,7 +5450,7 @@ endseal 1
 endshake 2
 elfishly
 egretta 1
-easterly
+easterly 1
 enfirm 1
 eaglelike 2
 esthetology 2
