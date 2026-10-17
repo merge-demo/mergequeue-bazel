@@ -18242,7 +18242,7 @@ alleluja 2
 aptyalia 1
 antiprofiteering 1
 adherescent 1
-arbiters 1
+arbiters 2
 affidavit
 agoras 1
 alsoon
@@ -25121,7 +25121,7 @@ acrosarc 1
 anhistic 2
 areography 2
 axinite 2
-axiolite
+axiolite 1
 alimentiveness 4
 asterial 1
 antiascetic

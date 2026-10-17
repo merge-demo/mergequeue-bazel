@@ -256,7 +256,7 @@ greenlandic 3
 geologizing 2
 ghostlike 1
 gambrelled
-glamorous 3
+glamorous 4
 guao 2
 gemless 2
 glaires 1
@@ -8512,7 +8512,7 @@ ginglymus 1
 grouchingly 2
 grownups 2
 geomedical 1
-go 6
+go 7
 goshdarn 3
 gramaphone
 gametophyte 2
@@ -9906,7 +9906,7 @@ gonytheca 3
 girleen
 golding 4
 glaucophyllous 2
-geeks 4
+geeks 5
 galloons 4
 guaranine 2
 gaveling 2
