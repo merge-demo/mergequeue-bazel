@@ -5737,7 +5737,7 @@ deplore 2
 deplorer 1
 deplumated
 disposes 4
-deemer
+deemer 1
 dolls
 deplumes 2
 dentation 1
@@ -6516,7 +6516,7 @@ doxological 1
 descends 1
 deviability 4
 dialectic 2
-dircaean 2
+dircaean 3
 dynel 1
 descension
 dereligion
@@ -11167,7 +11167,7 @@ derringers 2
 depletes 1
 dottily 2
 devicefulness 2
-duraplasty
+duraplasty 1
 distressful 2
 dichromic 4
 disbanded 2
@@ -14892,7 +14892,7 @@ dago
 doddie 1
 delitous 3
 disengagement 1
-dodecade 3
+dodecade 4
 dodecafid 3
 dodecahedral 2
 doctorate 1
