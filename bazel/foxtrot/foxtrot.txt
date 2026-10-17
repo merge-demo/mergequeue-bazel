@@ -4466,7 +4466,7 @@ freeloads 3
 febricity 2
 fishplate
 feste 2
-fate 5
+fate 6
 fishpole 2
 fishpoles 3
 flueless 3
