@@ -2990,7 +2990,7 @@ fezzed 3
 favosite 1
 fluvanna 2
 fallway 2
-fadings 3
+fadings 4
 felucca 2
 frothing
 fy 2
@@ -8752,7 +8752,7 @@ faintise 2
 frankfort 3
 freddo 5
 forbiddable 1
-flogged 2
+flogged 3
 followership 4
 fortuuned 3
 forester 4
