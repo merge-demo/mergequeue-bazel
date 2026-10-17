@@ -2072,7 +2072,7 @@ blesses
 bannerols
 bannisters
 birthmarks 2
-bioflavinoid 1
+bioflavinoid 2
 bannock
 buyers 1
 bannocks 4
@@ -17421,7 +17421,7 @@ bunk 2
 begrudged 4
 bipersonal 4
 byerite
-bushbaby 1
+bushbaby 2
 blindest 2
 bestriding 1
 bassoon 1
