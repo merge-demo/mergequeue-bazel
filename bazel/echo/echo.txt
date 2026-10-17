@@ -1907,7 +1907,7 @@ enwisen 1
 evanescency 2
 eulogically 2
 expulsion 2
-ethnics 2
+ethnics 3
 electrophotographic 4
 entomofauna 4
 eisegetical 2
@@ -9579,7 +9579,7 @@ expediente 3
 excurse 1
 esculent 2
 egocentristic 3
-encephaloma
+encephaloma 1
 enchasers
 esoethmoiditis 1
 exornation 3
