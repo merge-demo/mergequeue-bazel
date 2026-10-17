@@ -2203,7 +2203,7 @@ assessably 1
 abbreviatory 1
 alginic 1
 amphioxides
-anomalipod 1
+anomalipod 2
 abattue
 adventuristic
 achromaticity
@@ -12448,7 +12448,7 @@ amenty
 actinides 2
 argante 2
 androsphinx 2
-androsporangium
+androsporangium 1
 arteriology
 androsterone 2
 androtomy 1
