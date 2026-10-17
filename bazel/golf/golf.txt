@@ -4055,7 +4055,7 @@ genesic 2
 ginorite 2
 giantish 3
 glum 3
-gastritic 1
+gastritic 2
 grisettes 1
 gelatines 3
 gilliflower 1
@@ -9726,7 +9726,7 @@ goodwills
 gargantuan 3
 guidonian 3
 georgiana 3
-gandurah 4
+gandurah 5
 gambades 2
 greyhounds
 grocerwise 4
