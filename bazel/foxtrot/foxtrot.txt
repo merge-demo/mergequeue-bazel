@@ -2920,7 +2920,7 @@ featherweights 1
 frumpiness 2
 fantastical 1
 flutiest 4
-fanciable
+fanciable 1
 fumigations 3
 fortressing 3
 footmark 2
