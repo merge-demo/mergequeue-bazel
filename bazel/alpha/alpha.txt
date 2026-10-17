@@ -4492,7 +4492,7 @@ adventual
 agromyzidae
 arundo 2
 adventured 1
-adventuresome 1
+adventuresome 2
 agyrate
 aprocta 2
 adventuresomes 1
@@ -22393,7 +22393,7 @@ aspartyl
 abohm 1
 autoaspiration
 astrograph
-astrographer 1
+astrographer 2
 assemblywomen 1
 aldehydes
 augites 1
