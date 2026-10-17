@@ -7109,7 +7109,7 @@ enchainments 3
 epiplankton 3
 evadible 3
 extemporizing 2
-envaye
+envaye 1
 explainability 6
 episcenia 1
 excerpting 1
