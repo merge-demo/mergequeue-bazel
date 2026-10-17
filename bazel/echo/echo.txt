@@ -1364,7 +1364,7 @@ exomis 2
 evasional 1
 ebcdic 2
 excludability 3
-earlocks
+earlocks 1
 ethylated 1
 enopla 1
 exemplupla 1
