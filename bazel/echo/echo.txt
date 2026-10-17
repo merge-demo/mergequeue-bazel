@@ -5359,7 +5359,7 @@ evidentness 1
 encharm 3
 epiphyte 3
 epituberculous 2
-exasperation
+exasperation 1
 endosteoma 2
 essentialism 1
 exerts 2
@@ -13316,7 +13316,7 @@ exembryonate 2
 ecphore 2
 englishmen 2
 exorcisms 4
-explosively 2
+explosively 3
 explosiveness 3
 equipt
 electromyograph 1
