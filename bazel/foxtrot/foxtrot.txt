@@ -4609,7 +4609,7 @@ footnoting 3
 fistwise 3
 fit 1
 fontally
-fringilliform 1
+fringilliform 2
 fitchee 1
 fibrocalcareous 4
 filagrees
@@ -5987,7 +5987,7 @@ floricultural 1
 faitour 3
 flutebird 1
 floorboard 1
-fixures 1
+fixures 2
 flashness 3
 floorcloths 1
 fumid 1
@@ -6558,7 +6558,7 @@ foretack
 flamless
 furrings 2
 flibbertigibbets 4
-flysches 6
+flysches 7
 flattened 5
 feaked 1
 fluxile 4
