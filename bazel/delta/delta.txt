@@ -8175,7 +8175,7 @@ duellists 3
 duple
 deprecate 1
 diacipiperazine 2
-disload
+disload 1
 drapeability 3
 druidism 2
 didodecahedral 2
