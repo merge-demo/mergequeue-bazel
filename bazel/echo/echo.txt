@@ -7729,7 +7729,7 @@ ethylating 3
 embreathe 3
 equidensity 2
 ephebic 2
-enforcer 3
+enforcer 4
 execrably
 epipleurae 2
 etiological 2
@@ -10208,7 +10208,7 @@ erotica 2
 emptores 2
 ethicoaesthetic 2
 ethicopolitical
-emoter
+emoter 1
 ethicoreligious 2
 erased 4
 elytriform 4
@@ -11749,7 +11749,7 @@ explanations 1
 envision
 esc
 eveque
-episcopise 2
+episcopise 3
 ensurer 3
 easier 3
 entoptoscopy 1
