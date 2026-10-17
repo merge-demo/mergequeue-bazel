@@ -4386,7 +4386,7 @@ carinas
 chrysene
 carinate
 carinated
-chologenetic
+chologenetic 1
 carination
 caring 1
 ceriph
@@ -14367,7 +14367,7 @@ cliquishly 2
 circumvallating
 corkwoods
 crepitant 1
-circumvallation 1
+circumvallation 2
 circumvented
 circumventing 2
 circumvention 1
@@ -26450,7 +26450,7 @@ cotoros
 cellulase 1
 calligraph
 cotorture
-corymbosely 1
+corymbosely 2
 chorography
 crowbars 2
 calli
