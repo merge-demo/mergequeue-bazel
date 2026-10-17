@@ -7644,7 +7644,7 @@ equichangeable
 enviousness
 encephalous 2
 ensconce 1
-elixirs
+elixirs 1
 enhungered 1
 euphemious 4
 extrabold 2
@@ -11710,7 +11710,7 @@ escolar 1
 enfolding
 eventualities 3
 exaltation
-erenow 4
+erenow 5
 explanator 2
 enterocoele 2
 endocarditis 3
