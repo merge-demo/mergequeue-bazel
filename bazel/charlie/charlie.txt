@@ -29154,7 +29154,7 @@ cacodorous 1
 crioceras 1
 crioceratite
 cinefaction
-crioceratitic 1
+crioceratitic 2
 companionably 1
 chirruping
 cheque
@@ -30109,7 +30109,7 @@ crowhop 1
 cushewbird 1
 colcothar 1
 christdom
-crowhopper 2
+crowhopper 3
 chadacryst 1
 chousing 1
 camister 1
