@@ -14910,7 +14910,7 @@ abrosias 1
 arnoldist 2
 aburagiri
 ankaratrite 3
-ambassadress 3
+ambassadress 4
 afflictive
 anticlerical
 anticlericalism 3
@@ -18754,7 +18754,7 @@ archearl
 andrew 1
 archebanc
 archebancs 1
-alkine 4
+alkine 5
 amylocoagulase 2
 aguilarite
 ascocarpous 2
@@ -23516,7 +23516,7 @@ atomization 2
 amicus
 august 2
 antidemocracy 1
-ammoniaemia 1
+ammoniaemia 2
 augustine 3
 arsenicating
 adda
