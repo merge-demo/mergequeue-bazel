@@ -2339,7 +2339,7 @@ athetoid 1
 absorbed 3
 acieration 2
 apiary 1
-acies
+acies 1
 altometer 1
 acanthopod 3
 acyetic 1
