@@ -17632,7 +17632,7 @@ burgomastership 1
 burgundy 3
 bishareen
 burhel
-bombic
+bombic 1
 bisson 3
 bisie 2
 bickerers 1
