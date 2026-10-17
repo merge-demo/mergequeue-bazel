@@ -11589,7 +11589,7 @@ arriver
 abilities 1
 alps 1
 apodes 2
-andorra
+andorra 1
 autosite 2
 acicularly 2
 algebras 1
