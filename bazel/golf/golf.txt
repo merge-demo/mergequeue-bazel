@@ -8668,7 +8668,7 @@ grapy 3
 goopy 1
 geyser 2
 glossless 3
-gateado 1
+gateado 2
 gritty 1
 gres 1
 gymnosoph 6
