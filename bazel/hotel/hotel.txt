@@ -3773,7 +3773,7 @@ hexmmuxr 2
 hexmsx
 hexnavlfppmx 3
 hexojmp
-hexpkzcsatz
+hexpkzcsatz 1
 hexpmkmxdgsx 2
 hexq
 hexqp 3
