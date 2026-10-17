@@ -5580,7 +5580,7 @@ dibber 1
 dustfall 2
 draftable 1
 depended 2
-dolichopellic 1
+dolichopellic 2
 dependence 1
 desensitizes
 dependingly
