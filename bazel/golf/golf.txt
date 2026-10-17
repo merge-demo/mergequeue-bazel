@@ -1343,7 +1343,7 @@ galligaskins 3
 glycosine 2
 growingupness 2
 garlandless 1
-ganocephalan 1
+ganocephalan 2
 guillotiner 2
 greenalite 1
 galvanist 7
@@ -1500,7 +1500,7 @@ glengarry 5
 gasterolichenes 4
 grainier 2
 guittonian 6
-gonopores 4
+gonopores 5
 garners 3
 garotted 4
 goutish 2
