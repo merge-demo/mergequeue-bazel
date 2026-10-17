@@ -2021,7 +2021,7 @@ bethought 1
 banky
 banknote 3
 bristly 3
-biophysicist
+biophysicist 1
 banknotes 3
 brasserie 1
 bedeguar 1
@@ -5963,7 +5963,7 @@ begirdles 2
 belvedere
 bluewood 3
 belvedered 1
-blueblossom
+blueblossom 1
 bridaler 1
 benchwarmer 4
 barothermohygrogram
@@ -10898,7 +10898,7 @@ benn 1
 biffing 1
 blooded 1
 blindfish 1
-blindfishes 1
+blindfishes 2
 bluelegs 2
 blindfolded 1
 bismuth 2
@@ -13270,7 +13270,7 @@ bullydom 2
 blitzkriegs 2
 boswellian 1
 boswelliana 3
-barrulet 1
+barrulet 2
 boulders
 beng
 bowge 2
