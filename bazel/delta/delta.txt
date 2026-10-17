@@ -4965,7 +4965,7 @@ demoted 2
 demotes 2
 disomus
 demotions
-deferent 3
+deferent 4
 dysmeromorph 2
 daystar 1
 discreated 3
@@ -17497,7 +17497,7 @@ dwarf
 depolish 1
 drudgers 2
 drudges
-ditheists
+ditheists 1
 drudgism
 dispope 1
 dicasts
