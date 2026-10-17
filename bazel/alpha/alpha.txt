@@ -965,7 +965,7 @@ abstain 3
 abstainer 2
 ameland 4
 angoras 1
-abstainers
+abstainers 1
 abstaining
 abstains
 antiserum 1
