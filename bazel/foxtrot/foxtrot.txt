@@ -1832,7 +1832,7 @@ fating 2
 feedbags
 flexographic 6
 frostnipped 3
-farcicality 1
+farcicality 2
 funambulate 2
 foreign 1
 febricant
@@ -3483,7 +3483,7 @@ fingerable 1
 frostfishes 4
 foreseason 1
 fallback 3
-fighteress 1
+fighteress 2
 fatigation 2
 fighting 2
 formboard 2
@@ -6242,7 +6242,7 @@ fiji
 forerunnership 2
 factotums 1
 farmerish 1
-fouettee 2
+fouettee 3
 felloes 1
 freewheelers 1
 farmtown 2
@@ -6706,7 +6706,7 @@ fenner 3
 flingers 6
 flaggily 3
 faubourg
-faintheartedly 1
+faintheartedly 2
 fundamentalism 1
 frontrunner 1
 frustrations 1
@@ -8035,7 +8035,7 @@ fitment 3
 fimble
 faroese 1
 footstools 2
-felsites 2
+felsites 3
 ferroalloy 1
 faunally 3
 fanfoot 4

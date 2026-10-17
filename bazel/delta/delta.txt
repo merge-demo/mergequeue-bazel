@@ -5737,7 +5737,7 @@ deplore 2
 deplorer 1
 deplumated
 disposes 4
-deemer
+deemer 1
 dolls
 deplumes 2
 dentation 1
@@ -11167,7 +11167,7 @@ derringers 2
 depletes 1
 dottily 2
 devicefulness 2
-duraplasty
+duraplasty 1
 distressful 2
 dichromic 4
 disbanded 2
@@ -11425,7 +11425,7 @@ dissuader 4
 demivotary 1
 determinoid
 debug 1
-discloser 3
+discloser 4
 disclosive 1
 disclosure
 diplomaed
@@ -11977,7 +11977,7 @@ delundung 1
 disaffirm 2
 disembowelments 2
 dermatalgia 1
-disparition
+disparition 1
 dismission 1
 denominated 1
 disembowels 3
@@ -14947,7 +14947,7 @@ discoursively 1
 dodman 3
 dodoma 3
 demonised 1
-drugman
+drugman 1
 dendrocalamus 2
 depr 3
 deoperculate 2
