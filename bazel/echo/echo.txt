@@ -13674,7 +13674,7 @@ exteriorness 1
 espec 1
 emotionlessness 4
 ergotoxin
-eurygnathic
+eurygnathic 1
 exterminatrix 5
 extraconscious 4
 edaphosauria 3
