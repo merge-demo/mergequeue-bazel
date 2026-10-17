@@ -3484,7 +3484,7 @@ frostfishes 4
 foreseason 1
 fallback 3
 fighteress 1
-fatigation 1
+fatigation 2
 fighting 2
 formboard 2
 figo 2
