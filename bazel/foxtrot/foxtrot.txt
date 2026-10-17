@@ -2555,7 +2555,7 @@ finlandization 1
 fluvicoline 5
 fleerer 4
 flimp 5
-ferricyanide
+ferricyanide 1
 ferrihydrocyanic 3
 fervency 1
 freshmanship 1
@@ -5508,7 +5508,7 @@ fanjets 2
 fleshliest 3
 fiddlies 5
 faroelite 1
-fleshliness 5
+fleshliness 6
 faceteness 1
 fw 1
 flacker 1
@@ -9615,7 +9615,7 @@ feteritas 2
 firemaster 3
 forlet 2
 freeholdership 2
-feeders 1
+feeders 2
 falcata 1
 ferias 2
 fortalice 2

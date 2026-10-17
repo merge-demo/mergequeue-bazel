@@ -14409,7 +14409,7 @@ diversify
 drossed 1
 diversification 2
 disporous 2
-diarch
+diarch 1
 diversified
 devils 1
 diversifier 1
@@ -16378,7 +16378,7 @@ disserviceable 1
 detray
 downturn
 downturns 2
-domy 3
+domy 4
 downway
 disdain 1
 drunkery 1
