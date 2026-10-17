@@ -2920,7 +2920,7 @@ featherweights 1
 frumpiness 2
 fantastical 1
 flutiest 4
-fanciable
+fanciable 1
 fumigations 3
 fortressing 3
 footmark 2
@@ -10487,7 +10487,7 @@ fervencies 3
 floggable 3
 felsosphaerite 3
 frostroot 2
-floe 4
+floe 5
 freshment 1
 frillery
 favouringly 1
