@@ -5450,7 +5450,7 @@ endseal 1
 endshake 2
 elfishly
 egretta 1
-easterly
+easterly 1
 enfirm 1
 eaglelike 2
 esthetology 2
