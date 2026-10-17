@@ -510,7 +510,7 @@ filicite 2
 faking 1
 fumify
 figgle 3
-fassaite 1
+fassaite 2
 feodum 2
 fishbone 2
 fakirs
@@ -6549,7 +6549,7 @@ fluttering
 forswears 2
 feedboard 3
 flensing 1
-flutterment 2
+flutterment 3
 flimflammed 2
 fluviolacustrine 3
 fleetly 3
@@ -8554,7 +8554,7 @@ formulisation 1
 friaries 2
 famulus 5
 fred 2
-frenchwise 4
+frenchwise 5
 fluorographic 1
 fleered 1
 formulizing 3
