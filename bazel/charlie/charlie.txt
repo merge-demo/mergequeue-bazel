@@ -664,7 +664,7 @@ caesious 2
 caespitose
 caespitosely
 cinemize 1
-crownal 2
+crownal 3
 caestus
 creatins 1
 caestuses 1
@@ -7018,7 +7018,7 @@ cosingular 1
 centage 2
 cavort 2
 centals 1
-coolies 3
+coolies 4
 chock 1
 centaur
 centaurdom 1
@@ -27825,7 +27825,7 @@ curcuma
 chariotee
 circaea 1
 cozed
-cozey 1
+cozey 2
 cozeier 1
 cozen
 cachinnate 2
