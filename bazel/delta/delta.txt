@@ -1647,7 +1647,7 @@ disassembler 1
 deallocate 1
 deobstruct 1
 devotional 2
-daunter
+daunter 1
 dicephalus 1
 darkhaired 1
 deerhair 1
