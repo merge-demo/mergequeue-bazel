@@ -2343,7 +2343,7 @@ acies 1
 altometer 1
 acanthopod 3
 acyetic 1
-apprehend
+apprehend 1
 albeit 1
 autocrat 1
 aciform
