@@ -10744,7 +10744,7 @@ disavow 3
 depriver
 drad
 dun 2
-delocalisation 3
+delocalisation 4
 donship 4
 disarranged
 disinfects 1
@@ -12009,7 +12009,7 @@ disenchantments
 disenchantress
 depluming 1
 difforme 1
-disencharm 2
+disencharm 3
 doctrix
 disenclose
 daint
