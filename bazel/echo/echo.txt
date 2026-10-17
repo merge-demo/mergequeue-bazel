@@ -12714,7 +12714,7 @@ exonym 1
 era 1
 earcockle 1
 energizing 6
-exophasic
+exophasic 1
 exalted 2
 exophthalmia 2
 embloom 2
