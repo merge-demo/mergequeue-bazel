@@ -15442,7 +15442,7 @@ clarification 1
 clarifier 2
 clarifiers
 chiefry
-clarifying
+clarifying 1
 clarin 2
 cleaved
 clarinet
@@ -28274,7 +28274,7 @@ crassities 2
 crassly 1
 crassulaceae 1
 crataeva
-champlain 1
+champlain 2
 cratches 1
 curtnesses 2
 cratchins
