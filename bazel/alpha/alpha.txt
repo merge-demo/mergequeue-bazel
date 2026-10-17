@@ -1460,7 +1460,7 @@ acclimatising 2
 aegagrus 1
 applewood 1
 aborsive 1
-algid 2
+algid 3
 ann 1
 alpinery 1
 acclimatizer
@@ -22571,7 +22571,7 @@ archetypical 2
 affeeror 1
 agentess 1
 addicts
-anisoleucocytosis 3
+anisoleucocytosis 4
 ateliotic 1
 atelo 1
 atelocephalous
