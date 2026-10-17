@@ -679,7 +679,7 @@ dampness 2
 dextrosuria 1
 diacetylene 1
 despairs
-dampproof
+dampproof 1
 dampproofing 2
 dyspepsy 2
 determinist 1
