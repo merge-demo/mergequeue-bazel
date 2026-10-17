@@ -22499,7 +22499,7 @@ arrestor 1
 arecaidin 1
 ata
 anoas 2
-atabals
+atabals 1
 alexandreid 2
 adjudge
 atacamenan
