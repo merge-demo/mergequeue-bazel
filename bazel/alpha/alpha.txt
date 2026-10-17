@@ -12414,7 +12414,7 @@ amberina 1
 anticomplex 1
 afflictions 1
 androgynal
-alterity 1
+alterity 2
 arillode 1
 androgyne 1
 androgynia
@@ -17703,7 +17703,7 @@ aganippe 1
 axhead 1
 antiquities 1
 applejohn
-analogice
+analogice 1
 antidotism 1
 apples 3
 applewoman
@@ -17950,7 +17950,7 @@ amalgamation
 ahind
 appropinquity 2
 akoulalion 1
-authorling
+authorling 1
 auspicated
 appropriateness 1
 appropriating 2
