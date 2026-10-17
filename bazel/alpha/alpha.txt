@@ -10558,7 +10558,7 @@ adenoidism 2
 aviator
 alien
 automatism 3
-antibacchic 1
+antibacchic 2
 algaesthesia
 amyelic 2
 amyelous 2
@@ -14684,7 +14684,7 @@ aggressively
 aerothermodynamics 3
 antiaristocracies 2
 attendees
-arauna
+arauna 1
 agaricine 1
 antarctically 1
 arteriectasis 1
