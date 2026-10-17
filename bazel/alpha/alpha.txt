@@ -102,7 +102,7 @@ acknow
 annominate 1
 auditories 1
 abarticulation 2
-agyieus 1
+agyieus 2
 abase 1
 antedate 1
 asap
@@ -18996,7 +18996,7 @@ adenomalacia 1
 affectationist 2
 allocating
 abominated 2
-adigei
+adigei 1
 arciferous
 archliar 1
 archmachine 1
@@ -21092,7 +21092,7 @@ alleyite
 anomural
 aylesbury
 automobility 1
-ascolichen 1
+ascolichen 2
 archenemies 1
 accomplement 1
 archwise 1
