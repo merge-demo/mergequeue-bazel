@@ -5366,7 +5366,7 @@ fettles 3
 flanken 1
 feebleness 3
 fascia 2
-fruiteries 1
+fruiteries 2
 ferulaic 1
 foldboater 2
 foreclosed 3
@@ -10173,7 +10173,7 @@ friulian 1
 fibroadenia 3
 frizzy 3
 fizzwater 2
-foresightedly 2
+foresightedly 3
 fastings 2
 fleishig
 formalism 1
