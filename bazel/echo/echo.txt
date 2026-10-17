@@ -5728,7 +5728,7 @@ engenders 3
 extravagantes 2
 electrorefining 2
 ergotaminine
-engild 3
+engild 4
 engilding 5
 empirism 3
 euphuistical 3
@@ -7963,7 +7963,7 @@ epitomate 1
 encephalonarcosis 5
 equisetic 2
 explainingly 1
-evaniidae 4
+evaniidae 5
 epimerized 2
 ephebus 2
 enclisis 1
@@ -9705,7 +9705,7 @@ eventuated 4
 entoptoscopic
 essay
 epistomata 1
-embargo 4
+embargo 5
 erethism 1
 empyrical 5
 envapor 3
@@ -12738,7 +12738,7 @@ etiolin 2
 eradication
 elderberry 5
 elaeodochon
-esprove 6
+esprove 7
 enthelminthes 1
 embryography 2
 exceeds

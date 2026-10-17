@@ -1329,7 +1329,7 @@ gieing 1
 gazaboes 4
 garroter 3
 gary 1
-groundling 5
+groundling 6
 gristbite 1
 gignate 1
 gra 4
@@ -8137,7 +8137,7 @@ garderobe 2
 gaspergous 1
 gynaeolater 2
 gulfed 3
-gloat
+gloat 1
 glowflies 2
 granulators
 gripper 1
@@ -10527,7 +10527,7 @@ geodesical 1
 gratiola 4
 gibs 2
 gulix 3
-grallic 1
+grallic 2
 galeorchis 3
 gilly 1
 gadsbodikins 4
