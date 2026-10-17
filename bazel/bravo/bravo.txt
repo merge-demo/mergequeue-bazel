@@ -17277,7 +17277,7 @@ braguette 1
 brite 4
 bumfuzzle 1
 baubles 4
-blotched
+blotched 1
 bumkin 2
 beating 2
 burseed 1
