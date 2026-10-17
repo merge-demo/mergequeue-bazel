@@ -5161,7 +5161,7 @@ befreight
 befountained 1
 borosilicic
 baddish
-baguette 4
+baguette 5
 burbank
 broiler 1
 butles 3
@@ -11876,7 +11876,7 @@ battleplane 1
 bouillons 1
 boedromion 4
 bovovaccine 1
-brevirostrate 3
+brevirostrate 4
 buggies 2
 besmutting 3
 barabora 2
