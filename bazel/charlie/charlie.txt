@@ -10895,7 +10895,7 @@ chiral
 clerids
 cardstock 1
 contortioned 1
-chiralgia 1
+chiralgia 2
 contiguousness
 chirapsia 1
 causson
@@ -28063,7 +28063,7 @@ colonalgia 3
 cloriodid
 conversions 1
 crampette 1
-constituter 1
+constituter 2
 cramping 2
 crampingly 4
 crampish
