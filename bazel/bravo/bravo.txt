@@ -6797,7 +6797,7 @@ batten 2
 berthed 2
 birdeye 1
 berther 2
-bradypodoid
+bradypodoid 1
 bluehearts
 buprestidan 1
 bradylalia 4
@@ -8710,7 +8710,7 @@ brauneria 2
 barchans
 bimethyls 2
 bimillenium 1
-bimillionaire 2
+bimillionaire 3
 buoyancies 1
 battish 3
 bubblingly
