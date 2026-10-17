@@ -28189,7 +28189,7 @@ crankpins
 colipyuria
 churchman
 cranks
-corpulent
+corpulent 1
 crannage
 caesar
 crannel 1
