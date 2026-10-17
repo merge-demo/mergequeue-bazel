@@ -8733,7 +8733,7 @@ embrowd 1
 explodable 1
 equities 1
 equivalenced 1
-equivalent 1
+equivalent 2
 ensiles
 equivaluer 4
 exposited 1
