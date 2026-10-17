@@ -1905,7 +1905,7 @@ cambresine 1
 cuir 1
 calumnia 1
 cambric
-cartonnage
+cartonnage 1
 cambricleaf 1
 colobus 1
 curs
