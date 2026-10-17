@@ -3793,7 +3793,7 @@ firstlings 2
 fissurella 1
 filming 2
 firnification 3
-flannelling 2
+flannelling 3
 frugivora 3
 formativeness 3
 fortranh 2
@@ -5013,7 +5013,7 @@ folksier 3
 fathered
 flashtester 4
 faith 1
-fissive 1
+fissive 2
 filmcard 3
 flaneur 2
 frescoes 2
