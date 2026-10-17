@@ -18660,7 +18660,7 @@ conourish 2
 corporales 2
 cointensity 2
 cointer
-cointerest
+cointerest 1
 cointerred
 cointerring 2
 cointersecting
