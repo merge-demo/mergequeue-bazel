@@ -3130,7 +3130,7 @@ craterid
 cristatella 2
 cape
 chequerboard 2
-capeadores 1
+capeadores 2
 capelan 1
 capelans
 chromid 1
