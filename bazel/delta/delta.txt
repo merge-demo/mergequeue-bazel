@@ -3901,7 +3901,7 @@ decreases 2
 diduce 2
 daphnite 3
 desilicated
-deja 2
+deja 3
 dejection
 devested
 derivation 4
@@ -7191,7 +7191,7 @@ dermatologies
 dossed 2
 denuclearizing 4
 djibbah 1
-detachedness
+detachedness 1
 dashingly 2
 doryanthes 1
 disguised

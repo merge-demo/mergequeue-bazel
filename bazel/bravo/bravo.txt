@@ -8554,7 +8554,7 @@ brainlike 1
 bassaris 3
 berylline
 brauneberger 1
-brachysm 1
+brachysm 2
 brachiofacial
 billfishes 1
 bradypode
@@ -14407,7 +14407,7 @@ bemocked 4
 bisischiadic
 brainpan 2
 brainpans
-bandaid 1
+bandaid 2
 bisley
 blastulas 1
 blighting
@@ -16769,7 +16769,7 @@ buddhaship 1
 bandar 1
 barbas 2
 buddhist 1
-beheadlined 1
+beheadlined 2
 behemothic
 bigamously
 boyuna
