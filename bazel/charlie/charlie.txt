@@ -5443,7 +5443,7 @@ coldly 1
 castoreum 1
 caftaned 2
 castorite 1
-castra
+castra 1
 castrates
 covertical 2
 classic 1
@@ -18660,7 +18660,7 @@ conourish 2
 corporales 2
 cointensity 2
 cointer
-cointerest
+cointerest 1
 cointerred
 cointerring 2
 cointersecting
