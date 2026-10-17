@@ -5528,7 +5528,7 @@ elritch 3
 ectocarpic 2
 excitate 3
 equiformity
-enzymosis 2
+enzymosis 3
 enervation 2
 ethnically
 enetophobia 2
@@ -11507,7 +11507,7 @@ exoergic 3
 echinopanax 3
 exhibited 3
 expended 1
-electromyogram 1
+electromyogram 2
 emendate 1
 engouled 3
 eunuchize 1
