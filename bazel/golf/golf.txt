@@ -2448,7 +2448,7 @@ gemmulation 2
 graniferous
 gotched 2
 glycohemia 1
-ghoulish
+ghoulish 1
 globally 4
 gastraeum 2
 ghettoed 1
@@ -8046,7 +8046,7 @@ gossipers
 gan 3
 galempung 2
 galleries 2
-gravicembali 2
+gravicembali 3
 gravat 2
 gastrulas 3
 gunzian 5
@@ -10768,7 +10768,7 @@ graminin 2
 gorhen 3
 gimbals 5
 gallium 3
-glamourie 2
+glamourie 3
 geranyl 2
 gibblegable 2
 glycyl 1
