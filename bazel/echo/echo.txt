@@ -1905,7 +1905,7 @@ eximiousness 1
 encashes
 enwisen 1
 evanescency 2
-eulogically 1
+eulogically 2
 expulsion 2
 ethnics 2
 electrophotographic 4
@@ -10289,7 +10289,7 @@ empemata 3
 enteromycosis 1
 escorial 1
 emulsifiability
-ethylamine 1
+ethylamine 2
 extralite 4
 elevatedly 3
 elapses 2
