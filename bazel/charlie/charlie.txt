@@ -23063,7 +23063,7 @@ consound 1
 conspecies 1
 crenotherapy
 cotula 3
-conspecific
+conspecific 1
 conspection 1
 coccosphere 1
 conspectus 1
