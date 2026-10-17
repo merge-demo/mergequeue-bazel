@@ -6799,7 +6799,7 @@ cerinthian 1
 cowshard 1
 capless
 celioscope
-cella
+cella 1
 cellarage 1
 cellared 1
 chamoix 1
@@ -20435,7 +20435,7 @@ callousing 1
 corycavine
 chirpiness 1
 comparableness
-comparably
+comparably 1
 cionotome
 comparascope 1
 comminuting 1

@@ -7037,7 +7037,7 @@ gigameter 1
 gaudish 4
 gooseberry 2
 gimbaled 2
-gramash
+gramash 1
 greenweed 3
 glacially 2
 galilees 3
@@ -10113,7 +10113,7 @@ gaskets 3
 gabe 1
 gauderies 4
 grummels 3
-granado 1
+granado 2
 guetre 4
 gropers 3
 glairin 1
