@@ -4781,7 +4781,7 @@ cowlings 1
 carpoidea
 chalcidid
 carpolith 2
-confides
+confides 1
 clitellus 2
 carpology 1
 corrosibility 1
@@ -26532,7 +26532,7 @@ crankism 3
 cassias
 cottonwick 3
 cottonwoods 2
-cottrel
+cottrel 1
 cottus 1
 cotunnite 1
 concreteness
