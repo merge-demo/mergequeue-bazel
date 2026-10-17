@@ -2420,7 +2420,7 @@ containerize
 chimneys 1
 culicine
 cancer 1
-cancerated
+cancerated 1
 coyed 1
 cambeva
 corroborators 1
@@ -10361,7 +10361,7 @@ classing
 chided
 chiders
 colorbreed 2
-cedarbird 1
+cedarbird 2
 chilies
 cahoots 2
 chief
