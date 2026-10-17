@@ -6296,7 +6296,7 @@ genistein 3
 gullable 1
 gobies 2
 guiser 2
-gallify 2
+gallify 3
 gasogenes 3
 gobiid 4
 gobylike 2
@@ -6731,7 +6731,7 @@ gastronephritis
 gonidic 1
 genes 2
 gauges 2
-gyrostats 4
+gyrostats 5
 glomerate 4
 globulimeter 4
 geyseral 3

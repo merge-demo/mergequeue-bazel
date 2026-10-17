@@ -3931,7 +3931,7 @@ dinsome 2
 dearomatize 2
 dogfoot 1
 deference
-dekes
+dekes 1
 derivationally 2
 drisheen
 douser 1
@@ -10600,7 +10600,7 @@ dunderbolt 1
 dominus 1
 diploidize 2
 doorman 1
-diploma 2
+diploma 3
 decasyllabon 3
 dolorogenic 1
 domitable 3
@@ -16660,7 +16660,7 @@ daiva 1
 drogoman 1
 degums
 dahabeah 3
-dattock 1
+dattock 2
 drainpipes
 dottedness 1
 depressor 1
