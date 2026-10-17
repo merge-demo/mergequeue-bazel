@@ -670,7 +670,7 @@ decapitalize 1
 damped 2
 desquamated 2
 dukely
-deafen 4
+deafen 5
 dudgeons
 dodecastylar 2
 donnard 1
