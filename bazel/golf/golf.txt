@@ -2381,7 +2381,7 @@ george 4
 galloots 2
 ghiordes
 gadwall 2
-greenboard 1
+greenboard 2
 ganisters 1
 gedds 1
 grampa 3
@@ -5595,7 +5595,7 @@ gownlet 1
 glottogonist 3
 gervais 1
 gurges 4
-garuda 1
+garuda 2
 ginks 2
 gipsyry 1
 gravestone
