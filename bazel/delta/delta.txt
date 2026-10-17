@@ -7055,7 +7055,7 @@ disenthroning
 duramen
 destinezite 3
 driveable 3
-dessous 1
+dessous 2
 devall 1
 doodad 3
 durst 4
