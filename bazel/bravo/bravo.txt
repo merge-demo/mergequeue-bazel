@@ -6408,7 +6408,7 @@ banewort 1
 bibliothecaire 2
 benzopyrazolone
 barquentine
-benzopyrene
+benzopyrene 1
 benzopyrylium 1
 backcourt
 breastweed
