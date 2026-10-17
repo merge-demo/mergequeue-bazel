@@ -9315,7 +9315,7 @@ custos
 chauk 1
 calodaemon 2
 catagmatic
-chaukidari 3
+chaukidari 4
 castrate
 chullo 1
 chaulmaugra 1
@@ -26823,7 +26823,7 @@ contumelies 1
 counterestablishment 2
 crystallise
 correctingly 2
-conspiring
+conspiring 1
 counterexcitement
 counterexercise 1
 commeasuring 2
@@ -29518,7 +29518,7 @@ cryste
 counterattired 1
 caprimulgidae
 cristiform 1
-cristino
+cristino 1
 crackerberry
 cristobalite
 cerebrums 1
