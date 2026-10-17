@@ -3563,7 +3563,7 @@ berkeleyite 2
 bien
 bathysophical 2
 bathysphere 1
-bigmouths 3
+bigmouths 4
 boliviano 1
 bathythermograph 1
 bathkol 1
@@ -5514,7 +5514,7 @@ brahmas
 bagatine
 bludgeoned 1
 baklava 2
-bemurmured 2
+bemurmured 3
 bobowler 2
 benefactive 1
 begnawn 3

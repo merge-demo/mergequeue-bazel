@@ -782,7 +782,7 @@ epitheliliums 1
 ecroulement 1
 emden 1
 emydidae
-enolizing 4
+enolizing 5
 extramedullary 2
 eolotropic 2
 emotionalization
@@ -2279,7 +2279,7 @@ endothys
 electricize
 emphasizes 4
 electriferous 2
-energumen 2
+energumen 3
 epitaphist 2
 epilating 3
 elongated 1
@@ -7507,7 +7507,7 @@ ephraimite 1
 exocoetidae 2
 extensively 4
 ephrathite 2
-estrins 3
+estrins 4
 estall 1
 eophytic
 endited 1
@@ -9586,7 +9586,7 @@ exornation 3
 energiser 1
 emplacing 1
 emulator 2
-epihippus 2
+epihippus 3
 enterohemorrhage 1
 esophagalgia 1
 esophagean 1
@@ -11986,7 +11986,7 @@ eurylaimidae
 excited 3
 epicure 3
 excitedly 1
-eulytin
+eulytin 1
 empeine 3
 ententes 5
 emergence
