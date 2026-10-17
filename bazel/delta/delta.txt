@@ -10744,7 +10744,7 @@ disavow 3
 depriver
 drad
 dun 2
-delocalisation 3
+delocalisation 4
 donship 4
 disarranged
 disinfects 1
@@ -11320,7 +11320,7 @@ dost 2
 dalan 1
 dinichthys
 dinner
-discepts
+discepts 1
 diffidentness 2
 dystocias 1
 dunite 1
