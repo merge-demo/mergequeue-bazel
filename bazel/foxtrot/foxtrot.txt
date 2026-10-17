@@ -162,7 +162,7 @@ factualness
 fow 4
 fullbodied 2
 freezers
-fabes 10
+fabes 11
 faradopalpation 2
 fictionary 2
 felaheen 1
@@ -4610,7 +4610,7 @@ fistwise 3
 fit 1
 fontally
 fringilliform 2
-fitchee 1
+fitchee 2
 fibrocalcareous 4
 filagrees
 ferring 1
