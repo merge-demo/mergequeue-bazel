@@ -17160,7 +17160,7 @@ antalkaline 1
 apology 1
 apologiae 1
 asarone
-adenogenesis
+adenogenesis 1
 affreightment 2
 amphigenesis
 apologists
@@ -25254,7 +25254,7 @@ adjudicate
 azygote 1
 armfuls
 antimonopolization 1
-actuaries 1
+actuaries 2
 amenity 1
 auriform 3
 adulatress
