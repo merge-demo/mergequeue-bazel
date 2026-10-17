@@ -11047,7 +11047,7 @@ disannuller 1
 dialogues 1
 dichroic 1
 disentanglements 2
-dyophysite 1
+dyophysite 2
 disincarcerate 1
 disannuls
 dysenteries 2
@@ -15406,7 +15406,7 @@ derisions 1
 desperacy 2
 digestedness
 deforestation 3
-detoxify
+detoxify 1
 dragonet 1
 djebel 1
 disanoint
