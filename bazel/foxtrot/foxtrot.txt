@@ -1496,7 +1496,7 @@ fient 2
 forebodingness
 forestology
 freebooters 1
-formamido 2
+formamido 3
 fastens 4
 fermentatory 3
 fetchingly 1
@@ -2135,7 +2135,7 @@ faujdar
 fuchsite 1
 fosterling 3
 flagstone
-fluer 3
+fluer 4
 fidepromissor 2
 filtered 4
 fuligulinae
@@ -9348,7 +9348,7 @@ frankalmoign 2
 filibustrous 1
 fellowly 2
 futurize
-frankenstein 3
+frankenstein 4
 franker
 fastidiousness 1
 fireguard 2

@@ -13115,7 +13115,7 @@ cooner
 cotys
 catstone
 cycadofilicales 1
-cycadofilices 1
+cycadofilices 2
 commonsensibly
 cannikins 2
 coronographic
@@ -21627,7 +21627,7 @@ condescensive 2
 callout
 condescensively 1
 condescensiveness 1
-clearwater 1
+clearwater 2
 cancelli 1
 condescent 1
 cocciform
@@ -23574,7 +23574,7 @@ continuation 2
 continuatively
 continuativeness 2
 continuator 2
-cathodical
+cathodical 1
 continue 2
 coulthard 1
 continued 1
