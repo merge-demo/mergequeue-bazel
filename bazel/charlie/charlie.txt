@@ -5932,7 +5932,7 @@ crumbcloth 2
 chenilles
 calcrete 1
 coppernosed 2
-cowgirl 1
+cowgirl 2
 catharizing 1
 catharping 2
 correlating
@@ -6569,7 +6569,7 @@ caxtonian 1
 caza 1
 cazimi 1
 chamois 1
-crossability 1
+crossability 2
 chondrofetal
 cazique
 cyanhidrosis 1
