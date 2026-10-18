@@ -1310,7 +1310,7 @@ adtevac
 activators
 agamous 1
 arginase
-anangular 2
+anangular 3
 amyelia 1
 atomized 1
 athanor
@@ -21109,7 +21109,7 @@ aerobiont 1
 aclydes 1
 arkoses 1
 ascothoracica 1
-acritude 1
+acritude 2
 aerographer 1
 ascribable 1
 ahum
@@ -24873,7 +24873,7 @@ anthropometrical 1
 avow 1
 avowably 1
 adenographer
-alighting
+alighting 1
 archrebel
 aseptic 1
 avowedly 1
