@@ -16969,7 +16969,7 @@ discreet 1
 didepsid
 dree 2
 dreepy 3
-docentship 3
+docentship 4
 dayan 1
 drometer
 drencher 2
@@ -18088,7 +18088,7 @@ denominating
 discontinuer 2
 dandriffs 3
 dumbest
-draftage
+draftage 1
 dumbfounderment 2
 dumbfounding
 denatures
