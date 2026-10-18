@@ -1051,7 +1051,7 @@ gerardias 4
 gorgonin 2
 gompholobium 2
 ganglioid 2
-ganglioma
+ganglioma 1
 gangliomas 6
 ganglionate 2
 ganglionated 2
@@ -2782,7 +2782,7 @@ glottochronological 3
 gristly 1
 gabies 6
 gangwayed 4
-governably
+governably 1
 glassie 2
 gelee
 gantlope
@@ -7958,7 +7958,7 @@ glimmerite
 gregaloid 2
 gyniolatry 3
 gloucester 4
-gulas 3
+gulas 4
 grandfathers
 gangster 2
 gaboons

@@ -682,7 +682,7 @@ despairs
 dampproof 1
 dampproofing 2
 dyspepsy 2
-determinist 1
+determinist 2
 doumaist 2
 distend 4
 distributes 1
@@ -4350,7 +4350,7 @@ desyl
 dendrodic 2
 dysphagic 5
 delead
-demersal 2
+demersal 3
 demanganization 1
 deliberator 2
 dishonourableness 3
@@ -5684,7 +5684,7 @@ deplace 1
 dermatine
 damayanti 1
 devests 2
-dipl 5
+dipl 6
 disrobe 1
 dentelliere 2
 dawdled 2
