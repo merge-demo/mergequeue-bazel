@@ -4725,7 +4725,7 @@ datatypes
 dunt 2
 desperateness 1
 disnaturalize
-dolente 2
+dolente 3
 diamondwise 2
 diffareation 3
 disrelish 1
@@ -4741,7 +4741,7 @@ diethylaminoethanol 3
 democracies
 democrat 1
 dawdles 1
-douar 2
+douar 3
 dogbody 2
 depraves 1
 dsnames
@@ -16557,7 +16557,7 @@ draggier 2
 diacritics 2
 destinies 1
 disendows 3
-dyscrased 2
+dyscrased 3
 delomorphous 2
 dodecarchy
 dishallow 2

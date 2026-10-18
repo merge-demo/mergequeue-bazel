@@ -662,7 +662,7 @@ grihyasutra 4
 gallantries
 goodheartedly 3
 goury 3
-gilour 1
+gilour 2
 galgulidae 1
 glint 4
 geropiga 2
@@ -1071,7 +1071,7 @@ gomphiasis 2
 gradus 1
 gasserian 1
 glossic 2
-gangplows 1
+gangplows 2
 geomalic
 gist 4
 glaucoma 3
@@ -1431,7 +1431,7 @@ gemologists 1
 gn 4
 gargle 5
 gynoeciumcia 2
-gelatinising 2
+gelatinising 3
 gorcock 2
 genitourinary 2
 gats 2
@@ -4541,7 +4541,7 @@ gumwoods 2
 gills
 graminiform 1
 gerbille 1
-gigantomachia 1
+gigantomachia 2
 gawp 2
 gmelinite 5
 gingering
@@ -10753,7 +10753,7 @@ globulin 5
 gorsebird
 grovelers 3
 gerodontics 2
-germinator 1
+germinator 2
 gerald 4
 gut 2
 grasswards

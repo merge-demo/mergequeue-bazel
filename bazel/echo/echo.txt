@@ -4064,7 +4064,7 @@ ex 2
 enringing 1
 evangelised 1
 encyclopaedism 1
-embroils 2
+embroils 3
 epitheca
 enamelers 3
 ecstasize 1
@@ -6010,7 +6010,7 @@ ethrog 2
 equiexcellency
 expanding 2
 epilated 4
-enjoinders
+enjoinders 1
 expatiatingly 3
 enjoiner 3
 excubant 1
@@ -6832,7 +6832,7 @@ ectosarcs 1
 elix 1
 enl 1
 equestriennes 1
-ethnogenic 1
+ethnogenic 2
 emmenology 3
 epicranial 3
 exoticism 2
@@ -13161,7 +13161,7 @@ endergonic 3
 eugenist 3
 ereptase 1
 ethnicize 1
-euryalus 1
+euryalus 2
 escapisms 1
 espiegleries 2
 earclip 2
