@@ -8208,7 +8208,7 @@ glutethimide 3
 gravid 2
 gladlier 1
 gigabit
-glycerolyses 1
+glycerolyses 2
 gelatinise 1
 geometricize 1
 grandfatherless 1
