@@ -7236,7 +7236,7 @@ filature 4
 fridays 1
 fleetings 3
 flanderkin
-fb 2
+fb 3
 fecial 3
 flashback 3
 famishing
@@ -11357,7 +11357,7 @@ flustrine 2
 fuchsin 1
 forfended 3
 furmenty 1
-foreassign 6
+foreassign 7
 fizzes 2
 frousier 1
 flayed 2

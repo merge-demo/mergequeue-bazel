@@ -1456,7 +1456,7 @@ amortize 2
 acclimatise 1
 acclimatised
 acclimatiser 2
-acclimatising 2
+acclimatising 3
 aegagrus 1
 applewood 1
 aborsive 1
@@ -16644,7 +16644,7 @@ acaroid 1
 apert
 arsonation
 asperates
-archelaus 1
+archelaus 2
 apraxic 3
 aigremore
 asyndeta 1

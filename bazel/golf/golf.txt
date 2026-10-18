@@ -5442,7 +5442,7 @@ glossoepiglottidean 3
 germanly 6
 greenness 3
 glauconiidae 4
-garottes 1
+garottes 2
 glyptodon 4
 glyptodontoid 4
 glebae 3
@@ -5821,7 +5821,7 @@ guanidin 2
 grasshopperish 1
 gastrodisk
 gurjara 5
-glowering 4
+glowering 5
 glowingly 3
 glows 4
 grinny 6
@@ -8162,7 +8162,7 @@ gooey 2
 granuloblastic 1
 granulocyte 3
 gerontal
-galbanum 4
+galbanum 5
 generalissimo 3
 grager
 gironde 1
@@ -9178,7 +9178,7 @@ gripment 2
 grimacers 7
 grypotherium 2
 gooral
-gridlock 2
+gridlock 3
 gliss
 greenstick 1
 glavering 3
