@@ -5105,7 +5105,7 @@ grav 3
 gomerec
 grittier 1
 gunman 5
-garboards
+garboards 1
 guilelessly
 guernseyed 2
 glareproof 3
