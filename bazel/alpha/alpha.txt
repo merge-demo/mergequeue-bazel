@@ -206,7 +206,7 @@ anthradiquinone 1
 admissability 5
 abbatie 1
 abbe
-amides
+amides 1
 abbey
 archapostate 1
 aleshot
@@ -1456,7 +1456,7 @@ amortize 2
 acclimatise 1
 acclimatised
 acclimatiser 2
-acclimatising 2
+acclimatising 3
 aegagrus 1
 applewood 1
 aborsive 1
@@ -10659,7 +10659,7 @@ adenase 2
 anteromedian 1
 arborolater 2
 amylose
-achree
+achree 1
 africans 1
 angiotribe
 acuminous
