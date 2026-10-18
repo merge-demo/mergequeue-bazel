@@ -7839,7 +7839,7 @@ figulated
 forepaws 3
 flingdust 1
 foveolets 3
-furcellate 4
+furcellate 5
 fractionisation 1
 fungify 3
 favorite 2
@@ -9494,7 +9494,7 @@ forbreak 2
 floatman 3
 florets 2
 fibdom 1
-functionalism 2
+functionalism 3
 faveoluli 2
 frazzling 2
 folkishness 3
@@ -10994,7 +10994,7 @@ foreproffer 1
 foreweep 2
 fatlike 3
 furfurol 1
-fumblers 1
+fumblers 2
 feign 5
 fumbles 1
 fumblingness 4
