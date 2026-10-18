@@ -3768,7 +3768,7 @@ flippantness 1
 faultlessly 2
 fortressed 3
 frizettes 1
-furoate 1
+furoate 2
 failure 1
 fibula
 fellmonger 6
