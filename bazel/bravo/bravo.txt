@@ -7370,7 +7370,7 @@ bighting
 beautifications 2
 boluses
 blindfolds 2
-betime 1
+betime 2
 bastionet 1
 blotching 1
 bridgeward 1
