@@ -3245,7 +3245,7 @@ aready
 abram 1
 aphidius
 aerogenes
-adductors 1
+adductors 2
 antilevelling 1
 accusatorial 3
 aleberry
@@ -3593,7 +3593,7 @@ abada 2
 antipodagron 1
 agelessly
 adelomorphic
-adsorbing 1
+adsorbing 2
 adamhood
 amputating 1
 antimonite
@@ -4042,7 +4042,7 @@ admiralties 1
 actionless 1
 actinobacillotic
 atalan 1
-ailurophilia 4
+ailurophilia 5
 abiotrophic 4
 amyotaxia 1
 allylic 1
@@ -20585,7 +20585,7 @@ arthrodymic
 aristotelian 1
 alkoxy
 assimilations 1
-administerings 3
+administerings 4
 amniote
 androgonium 1
 arthrodirous
@@ -22129,7 +22129,7 @@ agentries 2
 adorno 1
 antihierarchically 1
 anerythroplastic 1
-asterozoa 2
+asterozoa 3
 annalist 2
 ampongue
 ancestries 1

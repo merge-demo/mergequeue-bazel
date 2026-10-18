@@ -111,7 +111,7 @@ ganguela 3
 grammarianism 1
 gadolinia 3
 gaugers 2
-gardenership 3
+gardenership 4
 grosz 2
 goatfish 3
 gadroon 2
@@ -419,7 +419,7 @@ gymmal 1
 gabion 2
 glomeration 2
 greatened 1
-greatcoated 3
+greatcoated 4
 gegger 3
 galbanums 2
 genophobia 3
@@ -760,7 +760,7 @@ galvanopuncture 1
 gummaker 4
 goutwort 5
 groupings 2
-gladsomer 1
+gladsomer 2
 gawkily 5
 geometrically 7
 graywether 1
@@ -2248,7 +2248,7 @@ grifts 3
 glottology 1
 gefulltefish 2
 galax 2
-gonidiogenous 1
+gonidiogenous 2
 gehlenite
 goblet 2
 grunted
@@ -4204,7 +4204,7 @@ grandfather 2
 gnathopod 5
 gosmore 1
 glotum 3
-gatchwork 1
+gatchwork 2
 greying 8
 ges 1
 geod 1
@@ -7614,7 +7614,7 @@ gerenda
 garpike 3
 gilbertite 4
 gubernacula 3
-glacialist 1
+glacialist 2
 gracefuller 3
 gallerying 2
 gracilariidae 1
