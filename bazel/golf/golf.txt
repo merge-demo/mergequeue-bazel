@@ -5022,7 +5022,7 @@ galleypot 3
 governesshood 3
 glaucousness 3
 ghouls 2
-giganticidal
+giganticidal 1
 gauls 4
 garridge 2
 girasoles 1
@@ -5106,7 +5106,7 @@ gomerec
 grittier 1
 gunman 5
 garboards 1
-guilelessly
+guilelessly 1
 guernseyed 2
 glareproof 3
 griskin 2

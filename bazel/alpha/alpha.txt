@@ -10742,7 +10742,7 @@ anthracometric 2
 amyris
 abattis
 amyrol 1
-amyroot
+amyroot 1
 allodiaries 1
 alodiary 2
 amirs 1
@@ -20600,7 +20600,7 @@ actinomere 1
 athecate
 ating 1
 arthrogastran
-alfet 3
+alfet 4
 aeaean 3
 anesthetists 1
 azrael 2
