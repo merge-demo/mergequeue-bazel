@@ -27149,7 +27149,7 @@ coprostasis 1
 chittered 1
 counterstimulate 1
 counterstimulation
-counterstimulus
+counterstimulus 1
 counterstock 3
 counterstroke
 cyclopoid 1
