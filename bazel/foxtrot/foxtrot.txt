@@ -3089,7 +3089,7 @@ feroce 6
 fishtails 3
 flitter
 flakeboard 5
-foreboot
+foreboot 1
 fillmass 3
 fibrinose 2
 fibrinosis 1
