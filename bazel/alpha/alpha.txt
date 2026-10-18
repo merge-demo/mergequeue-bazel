@@ -8345,7 +8345,7 @@ alymphia 3
 apocrypha 2
 alcippe 2
 aneurysm 3
-amini 1
+amini 2
 archdapifer 2
 ayield 1
 agricultor 1
@@ -14683,7 +14683,7 @@ actuate 2
 aggressively
 aerothermodynamics 3
 antiaristocracies 2
-attendees
+attendees 1
 arauna 1
 agaricine 1
 antarctically 1
@@ -21033,7 +21033,7 @@ assation 1
 abolete 2
 amarant 3
 abderite 2
-archipelago 1
+archipelago 2
 academies
 aminosulphonic 1
 ascyphous 2
