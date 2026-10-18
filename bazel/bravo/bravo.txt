@@ -936,7 +936,7 @@ bagwigged
 bagwyn 1
 bustier 1
 bagwork 1
-baker
+baker 1
 brumby 1
 bahadur 1
 beverage
@@ -11528,7 +11528,7 @@ blunket 2
 blunnen 3
 blunt 1
 befuddlements 3
-blunthearted 3
+blunthearted 4
 botanized 2
 bilateralness 1
 biosystematist 1
