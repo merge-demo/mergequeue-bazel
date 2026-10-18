@@ -4629,7 +4629,7 @@ caroling
 catholical 1
 carolinians 2
 carolitic 1
-carditic
+carditic 1
 caoba 1
 caroller 2
 carols
@@ -11984,7 +11984,7 @@ chorioptic
 choripetalae
 cleuk 3
 choripetalous
-chirality
+chirality 1
 cognizee 2
 chorisis
 chlorins
