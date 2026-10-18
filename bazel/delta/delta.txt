@@ -3459,7 +3459,7 @@ defluent
 debyes 1
 disassociating
 doffed 2
-dictyoxylon
+dictyoxylon 1
 doigte 1
 defluvium 1
 demimark
