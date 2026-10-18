@@ -2012,7 +2012,7 @@ decadrachma
 decadrachmae 2
 dumbed 1
 dourer
-dimorphic 3
+dimorphic 4
 desugars 2
 decaedron 4
 decaffeinate 1
@@ -8238,7 +8238,7 @@ diadochite 1
 diadochokinesia
 diadoumenos 1
 dowly
-diaene
+diaene 1
 diaeretic 3
 detoxicated
 diageotropic 2
