@@ -8318,7 +8318,7 @@ diaka 1
 despeed
 dapper
 duskly 2
-diapausing 1
+diapausing 2
 dyakish 1
 dg
 dialcohol 1
@@ -11853,7 +11853,7 @@ discurre 1
 dislikable
 discursify 3
 deplumed 1
-donatively 2
+donatively 3
 domineered 2
 dbl 1
 dissociableness 1
@@ -11899,7 +11899,7 @@ daguerreotypic 2
 disdein 2
 dardani 1
 doubleheader
-dephlegmate
+dephlegmate 1
 disbecome 1
 disdenominationalize 1
 dishonorableness 1
