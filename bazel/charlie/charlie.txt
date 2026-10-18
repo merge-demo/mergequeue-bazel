@@ -7302,7 +7302,7 @@ crisis
 cepaceous 3
 cepe
 crossroads
-cepes 1
+cepes 2
 civ 1
 conchitis 1
 clincher
@@ -22659,7 +22659,7 @@ crossgrainedness 2
 counterdecision 1
 ciderlike
 caseworms
-conocarpus 2
+conocarpus 3
 conocephalum 1
 conocuneus 1
 coderiving 1
