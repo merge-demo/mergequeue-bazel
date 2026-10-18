@@ -1980,7 +1980,7 @@ gnomonical 1
 gimbal 5
 geology
 geranic 3
-goring 3
+goring 4
 grubroot 2
 glut 5
 gripes 6
@@ -10097,7 +10097,7 @@ galahs 2
 gastropods
 garrulus 6
 ghostwrote 4
-galactodensimeter 4
+galactodensimeter 5
 grammarian 2
 gekkonoid 4
 gonfaloniership 1
