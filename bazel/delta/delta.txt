@@ -2804,7 +2804,7 @@ deftnesses 1
 duodecahedral 2
 dint 2
 drypoints 1
-dari
+dari 1
 decresc 1
 desalination 1
 delphinus 2
