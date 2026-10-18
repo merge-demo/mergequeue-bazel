@@ -7315,7 +7315,7 @@ favelloid 2
 fleeched 1
 foaminess 1
 ferromolybdenum 2
-fixation 3
+fixation 4
 foraying 3
 frognose 2
 foralite
@@ -7734,7 +7734,7 @@ fretty
 furs 2
 forsaken 1
 flamelike 2
-formalizations 2
+formalizations 3
 flicky 2
 fireshine 3
 filmographies 3
