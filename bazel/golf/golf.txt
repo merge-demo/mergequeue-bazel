@@ -2541,7 +2541,7 @@ gained 4
 guessive 1
 generalise 2
 gynandrous 3
-graciously 5
+graciously 6
 glorifying 1
 gallfly 1
 gael 1
@@ -7731,7 +7731,7 @@ glaciolacustrine 4
 gashly 4
 graecomania 1
 gruiform 4
-graecophil
+graecophil 1
 guilfat 2
 gittern 2
 grassroots
