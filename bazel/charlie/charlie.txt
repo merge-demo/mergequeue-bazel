@@ -2119,7 +2119,7 @@ circumnuclear 2
 captivator
 campanular
 campanulariae
-campanularidae
+campanularidae 1
 campanulatae 1
 campanulate
 chondrosarcomata
@@ -4434,7 +4434,7 @@ commoner
 choke
 carisa
 cabilliau 2
-concertina
+concertina 1
 calcographer 1
 cleistogamically 4
 chamoising 1
@@ -19114,7 +19114,7 @@ caracoler 1
 collyweston
 commonalty
 collywobbles
-columbeia
+columbeia 1
 completeness
 chondriomite
 collobrierite 1

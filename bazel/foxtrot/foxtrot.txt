@@ -5001,7 +5001,7 @@ fettle 1
 flood 4
 faured 1
 flaneurs 1
-flanked 4
+flanked 5
 formulaically 2
 fledging
 factordom 4
@@ -8371,7 +8371,7 @@ forklike 1
 forswornness 1
 finickily 3
 foundations
-foliage 4
+foliage 5
 fossilological 1
 forlain 3
 fatten 2
