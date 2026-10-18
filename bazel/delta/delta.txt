@@ -2643,7 +2643,7 @@ dispose 3
 decolors 1
 duopsonies 4
 decolouration 1
-daedalean 2
+daedalean 3
 denunciated 2
 dogmatism 1
 decempeda 4
@@ -3459,7 +3459,7 @@ defluent
 debyes 1
 disassociating
 doffed 2
-dictyoxylon
+dictyoxylon 1
 doigte 1
 defluvium 1
 demimark
@@ -13629,7 +13629,7 @@ disship 1
 disshiver 1
 deletory 2
 dissiliency 1
-dissilient 2
+dissilient 3
 dolichurus 4
 dermatobia
 dissyllabic 3
@@ -14745,7 +14745,7 @@ demiwivern 3
 dinheiro 1
 denticular 1
 downcasts 1
-decrepitating 2
+decrepitating 3
 deceptional
 delimitative
 diazide 2
