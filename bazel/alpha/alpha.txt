@@ -3148,7 +3148,7 @@ aurin 2
 accordion 1
 actioner 2
 alcaid
-actiones 1
+actiones 2
 abrazitic 1
 alkalifiable 1
 arrectary 1
@@ -8134,7 +8134,7 @@ algesiometer
 algidity 1
 autocatharsis 1
 algidities
-algidness 1
+algidness 2
 agriologist 1
 aeronautics
 afft
@@ -19078,7 +19078,7 @@ archprelatical
 armenize
 aholt 3
 ambassadors
-apishness
+apishness 1
 arthur
 allegoric 1
 arabine 1
