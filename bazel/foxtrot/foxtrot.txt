@@ -882,7 +882,7 @@ forold 3
 flyaways 1
 faventine 1
 flamfew 2
-fingerlet
+fingerlet 1
 furfooz 3
 foundationlessness 3
 forestlike 3
@@ -1496,7 +1496,7 @@ fient 2
 forebodingness
 forestology
 freebooters 1
-formamido 2
+formamido 3
 fastens 4
 fermentatory 3
 fetchingly 1
@@ -2135,7 +2135,7 @@ faujdar
 fuchsite 1
 fosterling 3
 flagstone
-fluer 3
+fluer 4
 fidepromissor 2
 filtered 4
 fuligulinae
@@ -6004,7 +6004,7 @@ feldsher
 fez 1
 floorwise
 featishness 3
-fusty 2
+fusty 3
 foolscaps 4
 felspars 1
 flacon 2
@@ -9348,7 +9348,7 @@ frankalmoign 2
 filibustrous 1
 fellowly 2
 futurize
-frankenstein 3
+frankenstein 4
 franker
 fastidiousness 1
 fireguard 2
@@ -9512,7 +9512,7 @@ floppiness 4
 fattrels 1
 faithworthy 3
 frontways 1
-footling 4
+footling 5
 finiteness 3
 fringier 2
 finiglacial 2
