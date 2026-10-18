@@ -1976,7 +1976,7 @@ glairs 3
 garnishments 2
 glamor 2
 gallamine
-gnomonical
+gnomonical 1
 gimbal 5
 geology
 geranic 3
