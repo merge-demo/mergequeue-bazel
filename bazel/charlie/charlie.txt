@@ -15708,7 +15708,7 @@ clavicles 1
 cannas
 clavicorn 2
 clavicornes
-clavicotomy
+clavicotomy 1
 clavicular
 clavicularium 3
 claviculate
