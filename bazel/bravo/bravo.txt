@@ -4048,7 +4048,7 @@ backbreaker 1
 bedolt 1
 brisure
 bumperette 2
-blanch
+blanch 1
 bannerets 3
 becolme
 babbie 1
@@ -12004,7 +12004,7 @@ bohunk 2
 branta 1
 blusteration 1
 bootstrapped 2
-bohunks
+bohunks 1
 beverly 1
 beneficeless
 boyard
