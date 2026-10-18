@@ -6848,7 +6848,7 @@ anchistopoda
 airlift
 airlifting
 airlifts 2
-antiparliamentary
+antiparliamentary 1
 adjectival
 airline 3
 acridophagus 1
@@ -8831,7 +8831,7 @@ allocate 4
 adelina 1
 anglophobes
 autoimmunization 2
-asthmatics
+asthmatics 1
 accentors 1
 allocations
 amyosthenia
@@ -10220,7 +10220,7 @@ amebean
 architecure 1
 antibalm
 aiguilletted
-admortization 1
+admortization 2
 araban
 asiarchate
 amebicide 1
@@ -18826,7 +18826,7 @@ assumptiveness 2
 adhibit 2
 archfiend
 apprize
-aroma 3
+aroma 4
 archflamen
 archfoe 1
 ancestresses 4
@@ -18892,7 +18892,7 @@ archiepiscopal
 automatons
 actification
 aboiteaus 3
-abridge
+abridge 1
 archigastrula 1
 archigonic 2
 astalk
