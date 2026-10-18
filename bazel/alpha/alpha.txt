@@ -10472,7 +10472,7 @@ appredicate
 amicably
 amphipodous 1
 amical 1
-amarettos
+amarettos 1
 attachments 1
 answerableness 1
 anaxagorize
@@ -12597,7 +12597,7 @@ anesone 1
 ashthroat
 apexes
 anacatadidymus
-anesthesimeter 2
+anesthesimeter 3
 axiomatizations
 aktistete 2
 anesthesiology 2
@@ -15386,7 +15386,7 @@ afforcement 3
 atterrate 4
 antisepticised
 antilift 2
-achlamydeous 2
+achlamydeous 3
 autopsy
 atoner 1
 axiomatize 3
