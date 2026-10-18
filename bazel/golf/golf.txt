@@ -283,7 +283,7 @@ gibing 6
 gaslock 1
 gaddish
 groundliness 3
-grubstaked 1
+grubstaked 2
 globins 3
 geet 2
 gummier 2
@@ -4578,7 +4578,7 @@ gracefully 2
 girellidae 3
 grotesqueries 2
 gurts 2
-greenhorns 2
+greenhorns 3
 gluelike
 gyrencephala 5
 gravicembalo 3
@@ -5442,7 +5442,7 @@ glossoepiglottidean 3
 germanly 6
 greenness 3
 glauconiidae 4
-garottes 1
+garottes 2
 glyptodon 4
 glyptodontoid 4
 glebae 3
@@ -5486,7 +5486,7 @@ groundskeep 1
 glisk
 gapperi 6
 gastruran 3
-grangerising 5
+grangerising 6
 gemmier 1
 gluttery 3
 glyster 5
@@ -9178,7 +9178,7 @@ gripment 2
 grimacers 7
 grypotherium 2
 gooral
-gridlock 2
+gridlock 3
 gliss
 greenstick 1
 glavering 3
