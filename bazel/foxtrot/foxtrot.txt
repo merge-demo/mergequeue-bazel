@@ -1087,7 +1087,7 @@ fam 4
 finkel 2
 fellatrixes 6
 fudgy 3
-fishling 2
+fishling 3
 fastback 3
 farrisite 2
 fleerish 3
@@ -2575,7 +2575,7 @@ forechase 1
 ferrocene 3
 fogramity 3
 flongs 2
-ferrocyanate 8
+ferrocyanate 9
 ferroelectric 4
 fingerbreadth 3
 fattier 3
