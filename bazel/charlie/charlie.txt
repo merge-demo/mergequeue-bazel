@@ -2050,7 +2050,7 @@ corrections 1
 cropper 1
 capitalizer
 chicomecoatl 2
-cypresses
+cypresses 1
 cruelize
 colonial
 camoudie 1
