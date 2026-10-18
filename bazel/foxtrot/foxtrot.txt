@@ -2170,7 +2170,7 @@ friskest 3
 frontiers 3
 folkmoot 1
 falsities
-felonwort 2
+felonwort 3
 falutin 1
 flatterdock 5
 fraudproof 2
@@ -6432,7 +6432,7 @@ fructifies 2
 foreship 2
 frivoled 2
 frogeye 5
-fluoaluminate 3
+fluoaluminate 4
 fainted 3
 frictionable
 flatcap
@@ -7487,7 +7487,7 @@ florally 2
 faultlessness 3
 faltered 1
 flatuses 5
-fluor 4
+fluor 5
 fourbagger 3
 fluellin 2
 frolicful 1
