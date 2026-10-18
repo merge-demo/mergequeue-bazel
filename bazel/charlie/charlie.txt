@@ -17919,7 +17919,7 @@ coeducationalize 1
 crude 1
 coef 3
 chromosphere 1
-contractibility
+contractibility 1
 coeff 1
 coefficients 2
 coelacanth
