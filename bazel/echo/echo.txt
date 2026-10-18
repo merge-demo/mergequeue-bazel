@@ -5136,7 +5136,7 @@ encysted
 electrosensitive 1
 emanatistic 1
 epilogic 1
-eobiont
+eobiont 1
 estray 2
 exsanguinous 2
 endocoele 1
