@@ -10554,7 +10554,7 @@ deipotent 1
 dimpling 2
 demiking 5
 dauw 3
-diplocardiac
+diplocardiac 1
 diplocarpon 2
 discoidea
 diplocaulescent 2
