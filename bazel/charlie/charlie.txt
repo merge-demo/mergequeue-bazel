@@ -6569,7 +6569,7 @@ caxtonian 1
 caza 1
 cazimi 1
 chamois 1
-crossability 1
+crossability 2
 chondrofetal
 cazique
 cyanhidrosis 1
