@@ -4347,7 +4347,7 @@ caricatural
 caricature 1
 chud 1
 caricaturing
-caricaturist
+caricaturist 1
 contaminator
 cooptation
 chimeras
@@ -6342,7 +6342,7 @@ cuffing 1
 cuprosilicon
 cause 2
 caused 1
-cyllosis 3
+cyllosis 4
 causey 1
 calesin
 causerie 1
