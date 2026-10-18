@@ -6753,7 +6753,7 @@ bendability 3
 berreaves 2
 berret 2
 berrettas 3
-bloodred
+bloodred 1
 barongs 2
 barracudina 1
 bufonid
@@ -7315,7 +7315,7 @@ betels 1
 beamiest 3
 bethanking 1
 bigotish 1
-bethankit 1
+bethankit 2
 bethel 3
 brehon 1
 blunter 1
@@ -13086,7 +13086,7 @@ bobbling 1
 bassarisk
 basifixed 1
 batteling
-backfurrow 4
+backfurrow 5
 baalath 2
 buggering 2
 bodyguard
