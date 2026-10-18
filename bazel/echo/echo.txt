@@ -5334,7 +5334,7 @@ eliminability
 endosclerite 2
 extrahepatic 2
 eurybathic 2
-endoscope 4
+endoscope 5
 endoscopes 2
 equivocalities 1
 eradicators 1
