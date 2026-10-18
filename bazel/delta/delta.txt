@@ -1690,7 +1690,7 @@ dottel 1
 dephysicalization 2
 decrementless 1
 dehumanisation 3
-delineator 3
+delineator 4
 debonnaire 1
 dismissive 3
 dears 1
@@ -14716,7 +14716,7 @@ despumate 1
 doats
 dirking
 dobby 1
-doby 1
+doby 2
 distender 1
 disposableness 1
 doblon 1
