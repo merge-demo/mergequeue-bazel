@@ -1234,7 +1234,7 @@ equicaloric 3
 exstemporal 1
 extremal 4
 eme 1
-extrascripturality
+extrascripturality 1
 epit 2
 enneastyle 3
 eel 1
@@ -6583,7 +6583,7 @@ ensuant 2
 enterectomy 1
 enterer 2
 eulogious 1
-excusive 2
+excusive 3
 eccritic 6
 embattled 1
 epimedium 2
