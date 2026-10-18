@@ -1765,7 +1765,7 @@ bamboozling 2
 bilanders 1
 brachman
 burdie
-bamboula 1
+bamboula 2
 banterer 4
 boswellized
 bowmen 2
@@ -4166,7 +4166,7 @@ brinsell 2
 bracteal
 beastlily 2
 beclown
-barrow 1
+barrow 2
 boylas 3
 bradypus 2
 beastling 2
@@ -8545,7 +8545,7 @@ brantcorn
 brawlis 1
 billeted 2
 bilabe 1
-boweries
+boweries 1
 bankrider 3
 bastinading 1
 billety 3

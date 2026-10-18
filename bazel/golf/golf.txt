@@ -2782,7 +2782,7 @@ glottochronological 3
 gristly 1
 gabies 6
 gangwayed 4
-governably
+governably 1
 glassie 2
 gelee
 gantlope
@@ -9966,7 +9966,7 @@ glyptic 2
 googols 2
 gipsyfy 1
 galvayned 1
-goldi 2
+goldi 3
 greisen 1
 gozell 1
 gomorrean 1
