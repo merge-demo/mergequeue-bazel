@@ -2872,7 +2872,7 @@ disposure
 dangle
 disjointedness 1
 doveling
-disgenius 2
+disgenius 3
 deepest 3
 denticles 2
 dictyopteris 2
@@ -5062,7 +5062,7 @@ denaturants
 docilely 1
 dueller 1
 denaturing 2
-duplicand 1
+duplicand 2
 denaturise 1
 disfigures 1
 dextrogyrate 1
