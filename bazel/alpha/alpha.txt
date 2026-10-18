@@ -14209,7 +14209,7 @@ autolavage 1
 appliableness
 admissible 2
 avion 3
-asylums 1
+asylums 2
 adulterous 1
 aedeagal 1
 actiniarian 1
@@ -20581,7 +20581,7 @@ acidulates
 arthrocleisis 3
 abear 2
 atomizer
-arthrodymic
+arthrodymic 1
 aristotelian 1
 alkoxy
 assimilations 1
@@ -24655,7 +24655,7 @@ absurdness 2
 avengeful 1
 adventureship 1
 adenoiditis 2
-achaemenidae 1
+achaemenidae 2
 avenida 3
 aveniform 2
 astatic
