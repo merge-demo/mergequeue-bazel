@@ -5750,7 +5750,7 @@ fringepod 1
 flyspecking 3
 folate 1
 fill 4
-filliping
+filliping 1
 forelive
 footlessness 8
 flyswatter
@@ -7540,7 +7540,7 @@ forecastlehead 2
 five 1
 filemaking 3
 ferroboron 5
-fringillaceous 1
+fringillaceous 2
 forespake 2
 fallacious 3
 foreboder 4
