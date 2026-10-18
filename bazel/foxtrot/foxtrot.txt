@@ -8188,7 +8188,7 @@ faddle 1
 fraught 3
 flourishable 4
 furores 1
-flockbed 5
+flockbed 6
 foghorn
 forewings 2
 flossed 1
@@ -9206,7 +9206,7 @@ foreknown 3
 faceplate 2
 fucus 4
 fledged 3
-fumously 1
+fumously 2
 firebugs 5
 fertilising 1
 fascinatress 3
