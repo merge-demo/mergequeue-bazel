@@ -2554,7 +2554,7 @@ acorus 3
 acosmism 1
 assizing 2
 acosmist 2
-athecata 1
+athecata 2
 aircoach 4
 atrophy 1
 aftertrial 2
@@ -6216,7 +6216,7 @@ avirulent
 annexer
 activable
 amphioxis
-audile
+audile 1
 amyluria
 alchemise
 adjutantship 2
@@ -7161,7 +7161,7 @@ argovian 2
 antiodontalgic 3
 aweigh
 alabamide 3
-alabamine
+alabamine 1
 armillaria 4
 alkalinizes
 alabarch
