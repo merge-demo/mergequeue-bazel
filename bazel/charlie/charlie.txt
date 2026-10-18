@@ -16363,7 +16363,7 @@ clistothecium
 chastening 2
 clit 1
 clitch
-clite
+clite 1
 counterplea
 clites
 cleridae
@@ -24535,7 +24535,7 @@ copemate 2
 copending
 colonialist 3
 calorizes 2
-copenetrate 1
+copenetrate 2
 copenhagen
 copepod
 copepoda
