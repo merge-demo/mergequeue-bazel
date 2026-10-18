@@ -3459,7 +3459,7 @@ defluent
 debyes 1
 disassociating
 doffed 2
-dictyoxylon
+dictyoxylon 1
 doigte 1
 defluvium 1
 demimark
@@ -8611,7 +8611,7 @@ dibatis 2
 dystaxia 2
 diapsida
 dyskinetic 1
-deathin
+deathin 1
 douanier 1
 dyarchy 4
 deadbeat 3
@@ -13629,7 +13629,7 @@ disship 1
 disshiver 1
 deletory 2
 dissiliency 1
-dissilient 2
+dissilient 3
 dolichurus 4
 dermatobia
 dissyllabic 3
@@ -17999,7 +17999,7 @@ disseminator 1
 deporture 2
 dentelle
 dyers 5
-dulcified 2
+dulcified 3
 dulcifluous 1
 defaitisme 3
 dulcigenic
