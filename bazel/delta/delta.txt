@@ -7891,7 +7891,7 @@ dewdamp
 dapson 1
 dioestrus 1
 dewdrop 3
-dewdropper 1
+dewdropper 2
 dogteeth
 drillet 3
 dooryard
