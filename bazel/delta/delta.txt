@@ -3990,7 +3990,7 @@ delators
 delaware 1
 deleaded 1
 delectability 1
-dampang
+dampang 1
 decides
 disintensify
 duplex 2
@@ -10627,7 +10627,7 @@ diplomats 1
 dysporomorph 1
 drawfile 1
 diphtheritic 1
-diplonema 2
+diplonema 3
 deuteric
 detritus
 dunnaged 1
@@ -14109,7 +14109,7 @@ dystrophic 1
 distrustingly
 dubbers 1
 disturb 1
-disturbance
+disturbance 1
 dominican 1
 divestitive 1
 demipronation 1
