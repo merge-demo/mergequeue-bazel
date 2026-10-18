@@ -3593,7 +3593,7 @@ carabidae 1
 checkle 2
 chrisoms 1
 carabidan
-carabidoid
+carabidoid 1
 carabids
 cappy 1
 colorist 1
@@ -20138,7 +20138,7 @@ commissary
 canham 1
 cleverly 2
 coccidiomorpha
-commission
+commission 1
 chasteners 2
 commissional 2
 commissioned
@@ -27722,7 +27722,7 @@ chivage
 couhage
 cowpats 1
 compliable
-cowpen
+cowpen 1
 cowper
 complexively 1
 cosmotheism
