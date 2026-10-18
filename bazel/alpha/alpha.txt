@@ -589,7 +589,7 @@ amanitins 4
 aesthophysiology 1
 acriflavine 1
 arytenoidal 1
-ampleness
+ampleness 1
 abnormalcies 1
 adrenalectomies 2
 adjure
@@ -6110,7 +6110,7 @@ alkanal
 agleaf
 aglee 2
 antidotary
-albata
+albata 1
 agouty 2
 avianized 3
 aglycon
