@@ -2648,7 +2648,7 @@ endamoebiasis
 eunuchising 2
 edh 1
 eupneic 1
-ergophobiac
+ergophobiac 1
 enchondromata 3
 electroresection 3
 expansion 2
@@ -2674,7 +2674,7 @@ ejurate 3
 epitomizing 1
 emong 1
 electrosurgery
-enventual 4
+enventual 5
 epididymovasostomy 1
 egotist 4
 esophagism 1
@@ -10511,7 +10511,7 @@ esoanhydride 5
 extirpations 1
 effigy 4
 exemplifications 5
-electrometry 3
+electrometry 4
 effusing 4
 entreatingly 4
 euboean 1
@@ -10706,7 +10706,7 @@ excusable
 eugonic 3
 eggheaded 3
 epithecicia 1
-embrangled 1
+embrangled 2
 eugubine 1
 entoderm 1
 epiphanised
@@ -12174,7 +12174,7 @@ excusefully 5
 exostome 2
 embergoose 2
 excuser 1
-elytron 1
+elytron 2
 endpoint 3
 exposure 3
 ellipse
