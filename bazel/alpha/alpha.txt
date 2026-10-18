@@ -2543,7 +2543,7 @@ acool
 acroterteria 2
 addda 2
 assumingness
-acopyrine 1
+acopyrine 2
 acopon 2
 atrabiliar
 acor
@@ -4215,7 +4215,7 @@ awakenings 1
 autogenous 2
 adoration 1
 adoratory 2
-agatelike 2
+agatelike 3
 adorer
 andhra 1
 acquisita
@@ -9120,7 +9120,7 @@ allusions 1
 allusive
 awreak 1
 asonant 4
-autism 5
+autism 6
 allhallow
 abhorring
 alky
@@ -22216,7 +22216,7 @@ antiman 1
 advised
 antepaschal 2
 anthropophagism
-argumentativeness 2
+argumentativeness 3
 astogeny
 aglutition
 arrestees 3
