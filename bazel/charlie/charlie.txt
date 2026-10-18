@@ -11283,7 +11283,7 @@ chloroamide 1
 chloroamine
 chloroaurate 1
 chloroaurite 1
-chlorobenzene
+chlorobenzene 1
 centripetency
 chlorocalcite
 chlorochromates 1
@@ -30326,7 +30326,7 @@ clifflet 2
 countervairy 2
 chantors
 confrater
-consonantizing
+consonantizing 1
 constructions
 chiragra
 cruorin 1
