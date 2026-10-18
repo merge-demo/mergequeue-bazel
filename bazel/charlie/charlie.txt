@@ -3353,7 +3353,7 @@ contrasty 2
 caponizer 1
 caponizing
 caponniere
-capons
+capons 1
 caporal
 caporals 1
 condyle
