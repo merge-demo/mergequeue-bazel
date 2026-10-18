@@ -22922,7 +22922,7 @@ comforting
 chromosomic
 consigned
 consignee
-consignify
+consignify 1
 cantorous 1
 countersalient
 chob 1
