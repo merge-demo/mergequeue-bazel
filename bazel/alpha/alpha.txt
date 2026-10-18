@@ -233,7 +233,7 @@ anis 1
 anhungered
 antiritual 1
 antisensitizer
-abbotric
+abbotric 1
 allokinesis 1
 alchemistical 1
 adipolytic 1
@@ -17267,7 +17267,7 @@ apoplex
 adamantoid 3
 anemometrographic 1
 aporhyolite
-allanites
+allanites 1
 autobiographal 1
 asserting 2
 aporias 1
