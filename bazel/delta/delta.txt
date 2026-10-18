@@ -4436,7 +4436,7 @@ demiluster 4
 damoetas
 drones 2
 despairfulness 2
-desultory
+desultory 1
 doubtingness 1
 demesgne 1
 dudleyite 1
