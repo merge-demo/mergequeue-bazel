@@ -5742,7 +5742,7 @@ frequentation 1
 fractuosity 2
 fels 5
 figureheadless 3
-fisher 2
+fisher 3
 foredeserved 5
 farth 3
 fecket
