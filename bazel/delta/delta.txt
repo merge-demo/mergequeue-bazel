@@ -11587,7 +11587,7 @@ disconnector 3
 demicannon 2
 denotable 2
 dollarfish 3
-devillike 1
+devillike 2
 disconsent 1
 diphthongised
 dithering
@@ -13114,7 +13114,7 @@ doraskean
 deathy
 dispericraniate 4
 disenvelop 4
-discoverability 3
+discoverability 4
 diaphototropism 1
 dethyroidism
 decompositions
