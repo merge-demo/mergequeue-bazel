@@ -10865,7 +10865,7 @@ cardosanto
 carpetbaggers
 counterinsult
 connectedness 3
-chippers
+chippers 1
 coefficient 3
 chippewas
 chippy
@@ -13839,7 +13839,7 @@ cauchemar
 cingula 2
 chazzan
 chorei 1
-chronogenetic 2
+chronogenetic 3
 cheapie
 contiguously
 carina
@@ -26410,7 +26410,7 @@ chlorprophenpyridamine 1
 coticing 2
 cotidal 1
 cotylar 1
-cotyledonal 1
+cotyledonal 2
 cotyledonary
 catalyzing
 cotyledons
@@ -27311,7 +27311,7 @@ cremates 2
 cattiness
 coupon
 cornbrash
-cowal
+cowal 1
 concatenating
 couponless 1
 coupons
