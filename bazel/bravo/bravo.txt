@@ -7690,7 +7690,7 @@ belemnites 3
 bacchanalization 2
 bromonaphthalene
 bridging 3
-bhagavat 2
+bhagavat 3
 bivouacking
 bookrack 1
 bigamized
@@ -10528,7 +10528,7 @@ briton
 blepharoatheroma 2
 break 2
 bipectinate 1
-bacterize 1
+bacterize 2
 bonks 2
 bulbocodium
 bibless
