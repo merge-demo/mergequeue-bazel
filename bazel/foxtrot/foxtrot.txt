@@ -4803,7 +4803,7 @@ fooling 1
 flaggy
 formicated 1
 foaly 2
-foreshowed 2
+foreshowed 3
 facetted 1
 forfeiting
 fraudful 3
@@ -11497,7 +11497,7 @@ fashery 1
 furunculous
 furzeling 4
 furzy 3
-fastest
+fastest 1
 flammable 4
 flouncy 2
 fluently 1
