@@ -13611,7 +13611,7 @@ bedsonias 1
 bemuddle 1
 bounceback 1
 blowsy 2
-bouncier 1
+bouncier 2
 batteried
 barra
 begladding 2
@@ -16281,7 +16281,7 @@ brassate 1
 benim 1
 browsick 1
 browst
-barogram 2
+barogram 3
 brickmaker 1
 bromoketone
 brinjaul 1
@@ -17833,7 +17833,7 @@ banjara 3
 bursitos
 burst 1
 booksellers
-breezeful 2
+breezeful 3
 burster 1
 blutwurst 1
 bastardizing 3
