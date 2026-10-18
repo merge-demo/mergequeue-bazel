@@ -11029,7 +11029,7 @@ chirrupper
 combustor 1
 chirt 2
 chirurgeon
-crimean
+crimean 1
 chirurgeonly 3
 chirurgery
 chis 1
