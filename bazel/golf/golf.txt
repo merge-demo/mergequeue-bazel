@@ -151,7 +151,7 @@ gasthauser 2
 ghettoized 1
 glunimie
 galactosyl 1
-galvanosurgery 1
+galvanosurgery 2
 gybe 4
 glacialize 4
 graphorrhea 5
@@ -9531,7 +9531,7 @@ garden 3
 guanabano 4
 groupist 4
 genipapada 2
-guar 4
+guar 5
 grs 3
 gristliness 1
 guacico 1
