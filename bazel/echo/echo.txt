@@ -6958,7 +6958,7 @@ election 2
 entourage 2
 empt 2
 enounces 2
-entozoologically 2
+entozoologically 3
 entrain 2
 enantiomorphy 3
 elicitate 1
@@ -9297,7 +9297,7 @@ edited 2
 earlish 4
 electroreceptive 1
 entomolegist 4
-erthen 4
+erthen 5
 eumorphous
 ekistic 1
 enkennel 3
@@ -13518,7 +13518,7 @@ epitimesis 1
 error 2
 embowels 1
 eccles 2
-eumolpides
+eumolpides 1
 externomedian
 evillest 2
 exscinds 3
