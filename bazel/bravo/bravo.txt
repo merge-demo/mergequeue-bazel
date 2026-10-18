@@ -11894,7 +11894,7 @@ boerhavia 1
 becrown 4
 boethian
 boffins
-brackmard 1
+brackmard 2
 boffs 1
 bondholding
 bankmen 3
@@ -12159,7 +12159,7 @@ biclinium
 blaff 2
 beaumontia
 balneum 1
-beeps
+beeps 1
 blaine
 beclasped 1
 blarneyed
