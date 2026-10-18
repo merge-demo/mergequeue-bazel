@@ -8277,7 +8277,7 @@ canadianisms 1
 chalcus
 chaldean
 chiver
-caucused
+caucused 1
 caricetum
 contravariant
 councillary
@@ -13944,7 +13944,7 @@ cynoxylon
 cinquains
 counterrevolutionize 1
 cinquanter
-cinque 2
+cinque 3
 cinquecentist
 coquetries 2
 crowl 3
@@ -30267,7 +30267,7 @@ caging
 camisia 1
 caelum 1
 crumen 1
-cloudscape 1
+cloudscape 2
 crumenal 1
 cherte
 crumhorn
