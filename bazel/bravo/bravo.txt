@@ -1106,7 +1106,7 @@ brownback 2
 bairnish
 bairnly 1
 branky 1
-barkstone 3
+barkstone 4
 bromines 2
 bedimmed 1
 boatload
@@ -8545,7 +8545,7 @@ brantcorn
 brawlis 1
 billeted 2
 bilabe 1
-boweries
+boweries 1
 bankrider 3
 bastinading 1
 billety 3
