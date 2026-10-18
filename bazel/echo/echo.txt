@@ -775,7 +775,7 @@ egger 1
 ecrase 2
 enclitic 1
 escort
-extense
+extense 1
 eremophilous 1
 experimental 1
 epitheliliums 1
@@ -13928,7 +13928,7 @@ evincingly 3
 extranational 2
 erective 2
 endomysial
-endorhinitis
+endorhinitis 1
 extraneous 1
 extraneousness
 elytrorrhagia 2
