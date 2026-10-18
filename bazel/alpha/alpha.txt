@@ -14060,7 +14060,7 @@ autocatalytic
 antechoirs 1
 axostyle
 antecolic
-antecornu
+antecornu 1
 antecourt 2
 antecubital 1
 antecurvature
