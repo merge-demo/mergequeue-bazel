@@ -8831,7 +8831,7 @@ allocate 4
 adelina 1
 anglophobes
 autoimmunization 2
-asthmatics
+asthmatics 1
 accentors 1
 allocations
 amyosthenia
