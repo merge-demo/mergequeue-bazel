@@ -8356,7 +8356,7 @@ caseate 3
 chalon
 clonuses 1
 challenges 2
-cohered 1
+cohered 2
 chalons 2
 coronograph
 chalot 3
@@ -15622,7 +15622,7 @@ clauber
 cupressaceae
 claucht
 claude 1
-cochins
+cochins 1
 cholesterinemia 1
 claudetites
 coupleress 1
@@ -15708,7 +15708,7 @@ clavicles 1
 cannas
 clavicorn 2
 clavicornes
-clavicotomy
+clavicotomy 1
 clavicular
 clavicularium 3
 claviculate

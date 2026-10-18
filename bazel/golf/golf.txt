@@ -3197,7 +3197,7 @@ grigs 2
 geotropy
 guardant 1
 glossolabiolaryngeal 3
-gametoid
+gametoid 1
 gambian 4
 ganglial 5
 gooier 1
@@ -6895,7 +6895,7 @@ gestated 2
 gatling
 guyed 1
 gitterns 1
-guttiferae 3
+guttiferae 4
 gombay 2
 guglio 4
 gangliomata 6
@@ -10310,7 +10310,7 @@ gonorrheal 1
 gilling
 gildsman
 goralog 3
-gleaner 4
+gleaner 5
 guichet 4
 gnathions
 gujarati 1
