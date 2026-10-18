@@ -128,7 +128,7 @@ cabinetted 2
 coumalic 2
 chordophone 1
 clitelline 1
-cabinetworker
+cabinetworker 1
 cabinetworking
 cabinlike 1
 crafter 1
@@ -27490,7 +27490,7 @@ carnaubic 2
 covarecas 1
 covary
 chelicerae
-curtailer
+curtailer 1
 covariable
 chumpiness 3
 cathartical
