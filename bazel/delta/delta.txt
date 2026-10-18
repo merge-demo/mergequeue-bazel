@@ -2643,7 +2643,7 @@ dispose 3
 decolors 1
 duopsonies 4
 decolouration 1
-daedalean 2
+daedalean 3
 denunciated 2
 dogmatism 1
 decempeda 4
