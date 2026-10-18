@@ -11075,7 +11075,7 @@ billy
 bacaba 1
 bioral 2
 blockiest 1
-bevelling 4
+bevelling 5
 blocking 1
 borborygmic 1
 benzimidazole
@@ -12339,7 +12339,7 @@ bombilation 2
 bombilla
 bluefins 2
 bonifaces
-bodysuits
+bodysuits 1
 breakfasting 1
 bookmarker
 bombillas
@@ -12556,7 +12556,7 @@ bonity 3
 balsam 2
 boroughlet 1
 bragi
-bemocks 2
+bemocks 3
 bardane 1
 bonk 1
 begrudging 1
