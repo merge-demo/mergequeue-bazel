@@ -4552,7 +4552,7 @@ empales 5
 encephalospinal 3
 ecclesiastic 1
 elevatedness 1
-externize
+externize 1
 euphyllopoda
 enureses 1
 epitheliogenetic 1
@@ -5346,7 +5346,7 @@ endoskeletons 3
 endosmic 5
 evaders 1
 embaphium
-ethenyl 2
+ethenyl 3
 emendicate 1
 endosmoses 2
 explicit 2
