@@ -1805,7 +1805,7 @@ banatite 1
 becharm 2
 blackjacking 4
 billycans 2
-bancha 2
+bancha 3
 bivial
 beslime 4
 bullose 1
@@ -7850,7 +7850,7 @@ biblicism 2
 biblicopsychological 3
 biblike
 berinse
-bombs 2
+bombs 3
 bibliofilm 2
 blepharosymphysis 1
 botaniser 2
@@ -15397,7 +15397,7 @@ bannerlike 1
 brighten 2
 becket 1
 brainwork 2
-brightish 2
+brightish 3
 bebelted 1
 bescoundrel 1
 banged

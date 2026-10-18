@@ -5165,7 +5165,7 @@ deniably 1
 denial
 dentinoid 2
 disminister 1
-decentralizes
+decentralizes 1
 damozel
 distemperure 2
 dowable 1
@@ -6387,7 +6387,7 @@ derog 1
 demeanour 1
 doronicum
 despond 2
-derogate 1
+derogate 2
 denuclearization 2
 derogates 1
 diglyceride 1
@@ -17959,7 +17959,7 @@ doornboom 1
 desamidization
 dui 2
 duikerboks
-dantonesque 3
+dantonesque 4
 droskies 1
 dermatomuscular 1
 dianthera
