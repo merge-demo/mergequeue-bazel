@@ -4867,7 +4867,7 @@ emblematizing
 encourages 1
 embusy
 eucatropine 1
-escapable 3
+escapable 4
 exorciser 1
 epidermatoid 3
 encoder 4
@@ -4998,7 +4998,7 @@ envy 3
 extirpative 1
 equinia 1
 engraphic 4
-earthgall 1
+earthgall 2
 exencephalia
 ebonises
 exiguous 2
@@ -13949,7 +13949,7 @@ enduement
 exterioration 2
 eschews
 elaborateness 3
-eudeve 4
+eudeve 5
 entoire
 extraparliamentary 1
 ectotrophic
