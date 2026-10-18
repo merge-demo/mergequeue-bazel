@@ -4222,7 +4222,7 @@ cardsharp 1
 chlorites 1
 cavaliered
 chinatown 1
-care
+care 1
 citeable
 coerect 1
 coronated 2
