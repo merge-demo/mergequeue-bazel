@@ -22304,7 +22304,7 @@ congree
 commandant
 congregable 1
 congreganist
-crooks
+crooks 1
 congregant
 castanean
 congregated 1
