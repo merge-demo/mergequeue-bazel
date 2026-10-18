@@ -2464,7 +2464,7 @@ barandos 1
 balaklava 5
 baphomet 1
 bereason
-bibliophilism
+bibliophilism 1
 binotic 2
 bigram 2
 baresthesia 1
@@ -5423,7 +5423,7 @@ bathylimnetic 2
 boshvarks
 behaviored 2
 betravel 3
-behaviorists 1
+behaviorists 2
 behavioural 3
 brachioradial 1
 biweeklies 1
