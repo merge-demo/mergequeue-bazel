@@ -8611,7 +8611,7 @@ dibatis 2
 dystaxia 2
 diapsida
 dyskinetic 1
-deathin
+deathin 1
 douanier 1
 dyarchy 4
 deadbeat 3
@@ -17999,7 +17999,7 @@ disseminator 1
 deporture 2
 dentelle
 dyers 5
-dulcified 2
+dulcified 3
 dulcifluous 1
 defaitisme 3
 dulcigenic
