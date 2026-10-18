@@ -2020,7 +2020,7 @@ gums 1
 gauzewing 1
 gomorrah 1
 gnaeus 3
-galactia 2
+galactia 3
 grithman 1
 gauzy 2
 galatae 2
@@ -5220,7 +5220,7 @@ gripsacks 2
 guttae 3
 groundsheet 1
 gale 2
-gleamless 2
+gleamless 3
 gleed 1
 gramophone 2
 germinant 6
@@ -5713,7 +5713,7 @@ glossinas 2
 gertrude 3
 glowbard 2
 gurneyite 4
-gerres 4
+gerres 5
 gloveress 2
 gimmaled 3
 gpad 2

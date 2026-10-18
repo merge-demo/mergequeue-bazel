@@ -498,7 +498,7 @@ flickered 3
 foretokens 3
 frieseite 4
 fiumara 3
-forcleave 1
+forcleave 2
 fakery 1
 flaxweed 2
 foreconsider 1
@@ -975,7 +975,7 @@ flannelmouth 1
 foxhound 3
 fusion 1
 fardelet 4
-futtah
+futtah 1
 fleshhood 2
 famelic 2
 friarbird 3
@@ -3977,7 +3977,7 @@ founders 1
 focalise 1
 forfends
 fingerer
-flaunch 3
+flaunch 4
 fingerers 3
 feed 2
 fono 1
@@ -7327,7 +7327,7 @@ frampold 2
 fulcrum
 feathered
 focimeter 2
-federally 2
+federally 3
 fiddleheaded
 forechamber 3
 foraminiferal 5
@@ -8055,7 +8055,7 @@ frontward 2
 fellahs 1
 flash 2
 fluidises 1
-falconnoid 3
+falconnoid 4
 foredevote 2
 felicitates
 fluidisation 5
