@@ -2397,7 +2397,7 @@ disownment
 disguisements
 diplontic 1
 dismantlement 3
-dayakker 1
+dayakker 2
 deciduity
 daver
 deciduoma 1
@@ -4655,7 +4655,7 @@ delineable 3
 drysalter
 dislodging 2
 decem 2
-dualisms
+dualisms 1
 deliming
 demiss 1
 dryopithecid 2
@@ -8634,7 +8634,7 @@ denatured 2
 diarrhea 2
 dows 2
 decarchy 5
-diarrhoeal 2
+diarrhoeal 3
 dephysicalize
 diarrhoetic 2
 diarthric 1

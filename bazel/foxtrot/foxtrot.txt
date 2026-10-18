@@ -3441,7 +3441,7 @@ forniciform 1
 forwards 1
 frederica 2
 foreside 2
-fieriness 3
+fieriness 4
 fierte 3
 fifed 2
 flerried 2
@@ -8266,7 +8266,7 @@ feldspars 4
 fistulated 2
 fulltime 2
 fructuose 1
-forgettably 1
+forgettably 2
 fixers 2
 faverole 5
 fractionalizing 3

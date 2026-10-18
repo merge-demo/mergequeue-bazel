@@ -12638,7 +12638,7 @@ anfract 1
 ameliorating 2
 anfractuose 2
 anchusin 2
-absorbable
+absorbable 1
 antitraditionalist 1
 anfractuosity 1
 authentications 2
@@ -23288,7 +23288,7 @@ adipogenous 1
 abactinally
 adnumber
 antship
-averroist 1
+averroist 2
 anglophobic
 augurs 1
 adventitia
