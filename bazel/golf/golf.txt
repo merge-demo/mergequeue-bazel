@@ -3817,7 +3817,7 @@ grippal 2
 gaudily 1
 gouaree 2
 gaul 2
-gygis 1
+gygis 2
 gibstaff 5
 greyhound 1
 gratefulness 4
@@ -5115,7 +5115,7 @@ grenadine 5
 goldeneye
 greesagh 3
 gte 5
-glathsheimr 5
+glathsheimr 6
 ginnel 2
 gourmander 4
 glycocholic 2
@@ -8662,7 +8662,7 @@ gonocalycine 3
 gliders
 growthless
 glycohaemia 4
-gladys 3
+gladys 4
 gerip 4
 grapy 3
 goopy 1
