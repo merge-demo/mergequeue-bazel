@@ -678,7 +678,7 @@ fizzier 3
 fireman 1
 filemot 2
 floccing 1
-funkier 3
+funkier 4
 flannelmouths 2
 feathercut
 fairish
@@ -5382,7 +5382,7 @@ flutists 2
 fleche 2
 forelady 3
 folliculate 6
-flechettes 2
+flechettes 3
 flecked
 forkhead
 fleckering 1
@@ -6013,7 +6013,7 @@ foo 3
 fidiculae 1
 ferroelectrically 1
 fellowman 4
-fibrinoplastin 2
+fibrinoplastin 3
 forthrightness 2
 fiducinales 2
 forepoled
