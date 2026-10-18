@@ -20648,7 +20648,7 @@ arthrosis
 anapterygota 1
 aeromagnetic 1
 adderwort 1
-albumen 1
+albumen 2
 arthrospore
 arthrostome
 arthrostomy 1
@@ -23713,7 +23713,7 @@ auripigment 1
 aurir
 auriscalpia
 auriscopy
-aurist 1
+aurist 2
 aurists 1
 assentiveness
 aloewood
