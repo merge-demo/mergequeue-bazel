@@ -2657,7 +2657,7 @@ bellying 3
 bable 1
 bribeable 2
 barling 3
-bluestone 1
+bluestone 2
 bertholletia 3
 barghest
 breechloader 1
