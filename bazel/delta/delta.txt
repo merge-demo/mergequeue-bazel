@@ -11782,7 +11782,7 @@ disported 2
 debellate 2
 deoxidising
 discrested 1
-default
+default 1
 dined
 dermutation 1
 discretion 1
