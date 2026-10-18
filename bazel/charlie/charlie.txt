@@ -180,7 +180,7 @@ caban 1
 cabombaceae
 cicale 1
 caboodle 1
-cheefullest
+cheefullest 1
 caboodles 1
 cystoscopies
 cotinga 1
@@ -4222,7 +4222,7 @@ cardsharp 1
 chlorites 1
 cavaliered
 chinatown 1
-care
+care 1
 citeable
 coerect 1
 coronated 2
@@ -28828,7 +28828,7 @@ confiserie 2
 clinostat 2
 congrue 2
 crestal 1
-churchwards 2
+churchwards 3
 crestline
 chasings 1
 creta
