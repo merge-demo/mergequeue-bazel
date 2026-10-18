@@ -12428,7 +12428,7 @@ bond 3
 bipinnatifid 2
 bless 5
 bondar 2
-bockerel 4
+bockerel 5
 bastardly
 bonderize
 belabored
