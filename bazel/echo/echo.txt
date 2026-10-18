@@ -245,7 +245,7 @@ exhumer 4
 elate
 enjoyments
 elaborative 2
-easer 1
+easer 2
 electroluminescence 4
 easy 3
 epionychium 2
@@ -4225,7 +4225,7 @@ emptiers 2
 emptiness 1
 emptio 4
 externship
-emptor 2
+emptor 3
 eccyclema 3
 eggeater 2
 evagination
@@ -5136,7 +5136,7 @@ encysted
 electrosensitive 1
 emanatistic 1
 epilogic 1
-eobiont
+eobiont 1
 estray 2
 exsanguinous 2
 endocoele 1
