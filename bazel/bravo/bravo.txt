@@ -4048,7 +4048,7 @@ backbreaker 1
 bedolt 1
 brisure
 bumperette 2
-blanch
+blanch 1
 bannerets 3
 becolme
 babbie 1
