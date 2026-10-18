@@ -4117,7 +4117,7 @@ alkalinize 1
 admrx 3
 archetypist 2
 appendectomies 3
-adnascent
+adnascent 1
 adnate 2
 absolvent 1
 alecithic
@@ -8831,7 +8831,7 @@ allocate 4
 adelina 1
 anglophobes
 autoimmunization 2
-asthmatics
+asthmatics 1
 accentors 1
 allocations
 amyosthenia
@@ -10601,7 +10601,7 @@ amylan
 aphorismatic 2
 attomy 1
 anorthographically 1
-amylases
+amylases 1
 amylate 2
 aglyphodontia 1
 anthropozoic
@@ -17438,7 +17438,7 @@ apozema 1
 apozymase
 argemony
 ahrendahronon
-awald 1
+awald 2
 appoints
 app
 antirun 3
@@ -23784,7 +23784,7 @@ agrements 1
 austemper 1
 aspermia
 auster 1
-attirer 2
+attirer 3
 autohemolysis 1
 atheistic 2
 antimallein 1
