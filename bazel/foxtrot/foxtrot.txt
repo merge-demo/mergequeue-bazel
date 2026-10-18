@@ -7236,7 +7236,7 @@ filature 4
 fridays 1
 fleetings 3
 flanderkin
-fb 2
+fb 3
 fecial 3
 flashback 3
 famishing
@@ -7839,7 +7839,7 @@ figulated
 forepaws 3
 flingdust 1
 foveolets 3
-furcellate 4
+furcellate 5
 fractionisation 1
 fungify 3
 favorite 2
@@ -10994,7 +10994,7 @@ foreproffer 1
 foreweep 2
 fatlike 3
 furfurol 1
-fumblers 1
+fumblers 2
 feign 5
 fumbles 1
 fumblingness 4
@@ -11357,7 +11357,7 @@ flustrine 2
 fuchsin 1
 forfended 3
 furmenty 1
-foreassign 6
+foreassign 7
 fizzes 2
 frousier 1
 flayed 2
