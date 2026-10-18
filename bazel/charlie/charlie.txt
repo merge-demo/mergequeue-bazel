@@ -2383,7 +2383,7 @@ canarine 1
 canarium
 centers 1
 canarsee 2
-cuj 1
+cuj 2
 cassie 1
 caqueteuses
 cumbly 1
@@ -11675,7 +11675,7 @@ cholo 1
 chaver 1
 cholocyanine
 cinematographic
-crossroading 1
+crossroading 2
 convell
 chololithic
 cholones 1
@@ -17914,7 +17914,7 @@ coediting
 coeditors
 cocoanuts 2
 coedits
-coeducationalism 1
+coeducationalism 2
 coeducationalize 1
 crude 1
 coef 3
@@ -27030,7 +27030,7 @@ counterposting 1
 counterpotence
 cantilated 2
 counterpotency 1
-counterpotent
+counterpotent 1
 constance 1
 centenarian
 cajuela
