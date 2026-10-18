@@ -24334,7 +24334,7 @@ abaters
 autoptically 2
 aeromancy 3
 attractionally 2
-alpinists
+alpinists 1
 adjurors 1
 aquaducts 2
 autoracemization 3
