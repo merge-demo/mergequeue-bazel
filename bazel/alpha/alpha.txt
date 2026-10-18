@@ -10877,7 +10877,7 @@ argolian
 ammono 2
 ammonoidea 1
 ammonoidean 1
-aerocartography 3
+aerocartography 4
 anaglyphy
 ammonoids 2
 ammonolitic 2
@@ -21930,7 +21930,7 @@ accommodator
 associationalist 3
 abakas
 amphimorula
-associationistic
+associationistic 1
 amalett
 associations 1
 adaptional 2
