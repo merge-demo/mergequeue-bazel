@@ -16624,7 +16624,7 @@ clos 2
 clodknocker 1
 curiologic
 closable 1
-closeable
+closeable 1
 closecross 2
 closed 1
 closefistedly 2
@@ -20360,7 +20360,7 @@ comoedus
 comolecule 1
 carbonite
 crassness
-cuirass
+cuirass 1
 comose 1
 comourn 1
 chaffcutter
@@ -23557,7 +23557,7 @@ contingentness 2
 criollos
 cathead
 contact
-cionectomy
+cionectomy 1
 cacopathy 3
 climature 1
 chancelled 1
