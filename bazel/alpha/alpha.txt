@@ -3593,7 +3593,7 @@ abada 2
 antipodagron 1
 agelessly
 adelomorphic
-adsorbing 1
+adsorbing 2
 adamhood
 amputating 1
 antimonite
@@ -22129,7 +22129,7 @@ agentries 2
 adorno 1
 antihierarchically 1
 anerythroplastic 1
-asterozoa 2
+asterozoa 3
 annalist 2
 ampongue
 ancestries 1

@@ -189,7 +189,7 @@ diaplasma 3
 daedalous 1
 divulgated 2
 defilable 1
-decontamination 1
+decontamination 2
 daemony 1
 deforesting 3
 debitumenize
@@ -4723,7 +4723,7 @@ deflexionize 1
 disputatively 1
 datatypes
 dunt 2
-desperateness
+desperateness 1
 disnaturalize
 dolente 2
 diamondwise 2
@@ -5857,7 +5857,7 @@ dentaries
 dermatocoptic 2
 deprecable 1
 deprecating 1
-doorbrand
+doorbrand 1
 desolations
 diachoresis 1
 domal
@@ -8567,7 +8567,7 @@ deflex 2
 diaphony 3
 diaphysial 1
 diaphonic 2
-divertedly
+divertedly 1
 denegation 1
 diaphonies 1
 diaphoreses 1
@@ -15211,7 +15211,7 @@ disingenuously 2
 derepress 2
 dermohemal 2
 disfigurement
-durzee 1
+durzee 2
 debutants 1
 diazine 2
 dendrobium 1
