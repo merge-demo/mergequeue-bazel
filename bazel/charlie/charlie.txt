@@ -128,7 +128,7 @@ cabinetted 2
 coumalic 2
 chordophone 1
 clitelline 1
-cabinetworker
+cabinetworker 1
 cabinetworking
 cabinlike 1
 crafter 1
