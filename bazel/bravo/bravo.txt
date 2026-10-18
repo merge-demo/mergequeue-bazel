@@ -214,7 +214,7 @@ bradyesthesia 2
 banditries
 brainpower 2
 biofog 2
-bandicoot 2
+bandicoot 3
 baccy
 banishments 1
 bacciferous 2
@@ -17139,7 +17139,7 @@ buckwheater 2
 basophilous
 bothropic 4
 barbera
-brab 2
+brab 3
 baselike 3
 bestial 1
 bullier 1
