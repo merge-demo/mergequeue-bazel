@@ -2280,7 +2280,7 @@ fulmineous
 fragging 3
 fluorocarbons 3
 fibrochondrosteal 1
-floored
+floored 1
 fends 1
 filator 4
 fraudlessly
@@ -2768,7 +2768,7 @@ feddans 2
 festinance
 festoonery 3
 foretellable 3
-familistere
+familistere 1
 fuddlebrained 2
 forgivingness
 featness
@@ -2977,7 +2977,7 @@ fiberize 1
 fewest 6
 fluke 2
 fissiparity 6
-fading 2
+fading 3
 fewterer 5
 francophil 1
 fewtrils 3
@@ -11737,7 +11737,7 @@ filibustered 2
 flatland 1
 futwa 3
 fete 3
-floramor 3
+floramor 4
 frights 2
 fathom 3
 foliiform 2
