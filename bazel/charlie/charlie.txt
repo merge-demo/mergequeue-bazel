@@ -11630,7 +11630,7 @@ choleras
 civilising 1
 cervelases 1
 choleriform
-cholerigenous
+cholerigenous 1
 chelicerate 2
 cholerine 1
 choleroid
