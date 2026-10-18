@@ -7733,7 +7733,7 @@ autoplastic 1
 arbours
 aloadae 1
 aculeolate 1
-archdeceiver 2
+archdeceiver 3
 aldehyde 5
 antiprudential 1
 awfuller 1
@@ -11545,7 +11545,7 @@ anabiotic 2
 autosauria
 antihypertensive 1
 androdioecism 1
-acheweed 1
+acheweed 2
 abscessed
 apathus 1
 assewer
@@ -16796,7 +16796,7 @@ artamus
 agnoete
 aphorismos 1
 avatars 1
-autopore 2
+autopore 3
 aphorist 2
 ailuropus
 autoportraiture 2
