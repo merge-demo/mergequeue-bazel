@@ -16697,7 +16697,7 @@ cosuitor 1
 culla
 chocolaty
 cora 2
-clothespins 1
+clothespins 2
 centroplasm 2
 clothespresses 4
 cire 1
@@ -18901,7 +18901,7 @@ collaborative
 collaboratively 1
 clomping 1
 clothworker
-collaborator 2
+collaborator 3
 collaborators
 closehauled 2
 cosigner 1
