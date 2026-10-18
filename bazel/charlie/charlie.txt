@@ -3081,7 +3081,7 @@ cap
 capa
 conferrable
 capability 1
-charks 2
+charks 3
 capable 2
 capableness 2
 clayoquot
@@ -10776,7 +10776,7 @@ callitriche 1
 consequents
 casinet 1
 chinkara 1
-chinker 2
+chinker 3
 chinkerinchee
 chinky 2
 ctenidia 2
@@ -26911,7 +26911,7 @@ cubiform 2
 carpogonial
 counterlatration 2
 counterlaw
-chauffers
+chauffers 1
 counterlegislation 1
 counterly 1
 creeshie
@@ -29595,7 +29595,7 @@ croaking
 consociation
 croape
 croat 1
-carbogelatin
+carbogelatin 1
 chimars
 croatan 1
 confrontational 2

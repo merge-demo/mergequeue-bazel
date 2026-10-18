@@ -156,7 +156,7 @@ foremostly 2
 favus
 falls 4
 fulfillers 1
-fibbery 2
+fibbery 3
 factionalism 2
 factualness
 fow 4
@@ -3580,7 +3580,7 @@ fellowmen
 frenchism 3
 fogie 1
 flamboyance
-fencelet 1
+fencelet 2
 faradises 4
 foremention 1
 filemaker 3
@@ -3605,7 +3605,7 @@ fructification 3
 felinity 2
 floorway 4
 files 1
-fiddle
+fiddle 1
 filesniff
 freijo 6
 fazing 2
@@ -4505,7 +4505,7 @@ ferrovanadium 2
 flour
 fisnoga 3
 flouncing 4
-flogging 2
+flogging 3
 felinae 3
 flattop 1
 forblow 1
@@ -10417,7 +10417,7 @@ fallowing 4
 fronter 3
 frontoauricular 1
 frontomallar 2
-frontomental 3
+frontomental 4
 fidibus 4
 folks 4
 foraminifera 2
@@ -11526,7 +11526,7 @@ foreremembered 2
 fab
 furtiveness 2
 frena 4
-foxfeet 4
+foxfeet 5
 fuselages 3
 fuselike 1
 forecaddie 4
