@@ -5967,7 +5967,7 @@ blueblossom
 bridaler 1
 benchwarmer 4
 barothermohygrogram
-bosslet 3
+bosslet 4
 begripe 2
 bellarmine 1
 bemaddened 1
@@ -15640,7 +15640,7 @@ baulkiest 2
 broaches 3
 blimpishness 3
 burgundies 1
-batterable 1
+batterable 2
 buffone 1
 barrenest 1
 bulkheads
