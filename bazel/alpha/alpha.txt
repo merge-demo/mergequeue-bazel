@@ -1680,7 +1680,7 @@ acculturation
 acculturize
 anarchoindividualist 1
 ancienty 2
-acrologism 1
+acrologism 2
 abloom 1
 accum
 archsee 1
@@ -23891,7 +23891,7 @@ archscoundrel 1
 actively
 arthritics 2
 asiphonate
-authentic 1
+authentic 2
 authentically 3
 aquaemanalia 1
 anthelae 2
