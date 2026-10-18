@@ -357,7 +357,7 @@ graphed 2
 gasogenic 4
 gorefish 1
 gangrenous 4
-gunsmith 1
+gunsmith 2
 goniometrical 3
 guyer 1
 galoped 3
@@ -9553,7 +9553,7 @@ glume 2
 gastornithidae 4
 groved 4
 greenskeeper 2
-gur 1
+gur 2
 groveled 1
 gridiron 3
 giustina 3
