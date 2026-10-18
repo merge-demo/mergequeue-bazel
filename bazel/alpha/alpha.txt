@@ -4117,7 +4117,7 @@ alkalinize 1
 admrx 3
 archetypist 2
 appendectomies 3
-adnascent
+adnascent 1
 adnate 2
 absolvent 1
 alecithic
