@@ -8828,7 +8828,7 @@ abidance 1
 absorption 1
 atturn 2
 allocate 4
-adelina 1
+adelina 2
 anglophobes
 autoimmunization 2
 asthmatics 1
