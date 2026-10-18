@@ -1234,7 +1234,7 @@ equicaloric 3
 exstemporal 1
 extremal 4
 eme 1
-extrascripturality
+extrascripturality 1
 epit 2
 enneastyle 3
 eel 1
@@ -2934,7 +2934,7 @@ elfwort 1
 erigenia
 elian 3
 enervated 1
-exacinate 1
+exacinate 2
 equicostate
 encystation 1
 elias 3
@@ -5182,7 +5182,7 @@ electroosmotic
 euphorbiaceae
 extrapolate 1
 electromedical 3
-endoenzyme 4
+endoenzyme 5
 epitrochoid 2
 entresol 2
 elytrorrhaphy 1
@@ -5781,7 +5781,7 @@ expose
 embossments 1
 esophagomalacia 2
 emaciation 2
-eddying 1
+eddying 2
 endozoic 4
 endues 3
 ensalada 1
@@ -6583,7 +6583,7 @@ ensuant 2
 enterectomy 1
 enterer 2
 eulogious 1
-excusive 2
+excusive 3
 eccritic 6
 embattled 1
 epimedium 2
