@@ -2928,7 +2928,7 @@ glitter
 gabbled 1
 geocerite 4
 gubernation 2
-greenheaded 2
+greenheaded 3
 gallons 3
 glabreity 1
 gulley 2
@@ -7796,7 +7796,7 @@ glacial 3
 gunung 1
 grainiest 3
 gipseian 1
-greeny 4
+greeny 5
 grubworm 1
 gulleys 2
 gillstoup
@@ -10713,7 +10713,7 @@ gracioso 2
 guywire
 gerbera 6
 germinated 2
-gushily 2
+gushily 3
 gaumless
 grate 2
 gearwheel 3
