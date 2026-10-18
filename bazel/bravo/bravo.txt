@@ -2603,7 +2603,7 @@ barkcutter
 balsameaceous 2
 breastbones
 bifronted 2
-bhaiyachara
+bhaiyachara 1
 borana
 benettle 1
 bunglesome
@@ -11192,7 +11192,7 @@ borean 1
 bronchiloquy
 boulevardiers
 bicyclists 1
-brooching
+brooching 1
 boththridia 2
 bereavers 4
 bloopers 2
@@ -16595,7 +16595,7 @@ brachiocrural 1
 brinjarries 3
 bubblement 2
 bubbler 1
-bubblers
+bubblers 1
 bullshitting 1
 brawny 2
 bubbletop 3
