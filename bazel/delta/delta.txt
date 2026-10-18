@@ -13844,7 +13844,7 @@ dross 2
 displaces 1
 donee
 distaves 2
-dern
+dern 1
 dioxide
 differency
 dystaxias 3
