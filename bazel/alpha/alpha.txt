@@ -348,7 +348,7 @@ abends 1
 anacephalaeosis
 aberdeen
 aberduvine 1
-ambos
+ambos 1
 allodification 1
 azocyanide 1
 argasidae 1
@@ -12259,7 +12259,7 @@ aselgeia
 amblypoda 1
 arteriosympathectomy
 archcupbearer 2
-ancientest 2
+ancientest 3
 anciently 3
 ancile 3
 alshain 2
@@ -15418,7 +15418,7 @@ asomatophyte 2
 accentor
 avaricious
 antilogic 1
-antilogistic
+antilogistic 1
 amastia
 antilope 1
 antiloquy
