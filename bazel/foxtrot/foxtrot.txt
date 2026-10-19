@@ -1462,7 +1462,7 @@ faulds
 faultfind 1
 fasciculite 5
 flittern
-flix
+flix 1
 felicitators 5
 font 3
 flavorings
