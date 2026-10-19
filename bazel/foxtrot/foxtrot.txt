@@ -483,7 +483,7 @@ fakeer 3
 fissiparism 3
 fretting 1
 featherleaf 2
-fetiferous
+fetiferous 1
 fullbacks 2
 foremastman
 finalisms
@@ -3066,7 +3066,7 @@ foregone 4
 fractionalization 1
 fibril 1
 fuzing 2
-filtratable 1
+filtratable 2
 fairily 4
 fluorin
 fusils 2
