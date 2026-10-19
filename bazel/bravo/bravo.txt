@@ -17683,7 +17683,7 @@ birgus 3
 bordage 1
 blackfin 3
 blueings
-bonuses 3
+bonuses 4
 boomlets 1
 burleycue
 blisterous 1
