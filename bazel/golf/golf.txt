@@ -3706,7 +3706,7 @@ ghostier 3
 galah 5
 geodetically 2
 glumelike 2
-ghostish 3
+ghostish 4
 gelatigenous 2
 gracilescent 2
 gussying 4
@@ -6791,7 +6791,7 @@ ganglioside 1
 gossiping 3
 geront 6
 gymnogyps 1
-gentilitial 3
+gentilitial 4
 gyrostatics 3
 genal 2
 genros 2
@@ -8320,7 +8320,7 @@ glod 4
 gephyrocercy
 glacon 1
 gladnesses 3
-gazelle 1
+gazelle 2
 glaucodot 5
 gilenyer 1
 greenslade 2
@@ -8537,7 +8537,7 @@ girliness 2
 grallatory 6
 gravette 1
 gaufrette 3
-goniatitidae 1
+goniatitidae 2
 gallwort 1
 gith 3
 gourmand 3
