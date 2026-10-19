@@ -4700,7 +4700,7 @@ carpenters
 charlock
 carpet
 carpetbag 2
-carpetbagger 2
+carpetbagger 3
 carpetbaggery
 chantage
 conchometry 1
@@ -19374,7 +19374,7 @@ cere
 crossarms 3
 compunctiously 2
 coloraturas 1
-carnivoracity 1
+carnivoracity 2
 colorature 2
 celesta
 colorblind
@@ -25519,7 +25519,7 @@ coronaled 1
 coronalled
 coronals 1
 coronamen
-coronate 1
+coronate 2
 calp
 corrosible 1
 calibrators
