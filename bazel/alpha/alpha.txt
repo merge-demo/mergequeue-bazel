@@ -795,7 +795,7 @@ abristle
 alabandine 1
 abroach 2
 airdock 1
-abrogate
+abrogate 1
 allergies 3
 antagonisation 2
 archilithic 2
@@ -18066,7 +18066,7 @@ areolate 1
 aranga
 apterial
 apterygidae 1
-apterygiformes 2
+apterygiformes 3
 almsgiver 1
 arace
 apterygota 1
