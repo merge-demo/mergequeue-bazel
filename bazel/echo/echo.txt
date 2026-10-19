@@ -282,7 +282,7 @@ enantioblastic 4
 endognath
 ectocuniform
 esquired 1
-erik 2
+erik 3
 extrametropolitan 2
 effeminisation 2
 easterners 3
@@ -8849,7 +8849,7 @@ endocellular 2
 eremitism 4
 euploidy 5
 ecuelling
-epitheloid
+epitheloid 1
 enkernel 1
 ecospecifically 1
 esthesiometer 3
@@ -14099,7 +14099,7 @@ extricably 1
 egbo 2
 enjoyer 2
 ericad 1
-exorcize 2
+exorcize 3
 eustatically 1
 enzymically 2
 extendedness 2

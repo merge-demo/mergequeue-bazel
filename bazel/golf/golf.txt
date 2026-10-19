@@ -7146,7 +7146,7 @@ guayaba
 greenfly 4
 gile 2
 gore 2
-gorebill 3
+gorebill 4
 gordioid 2
 gearboxes 1
 gored 1
@@ -10836,7 +10836,7 @@ greengrocery 2
 greenbackism 3
 grayhead 2
 generality 2
-gyrofrequency 2
+gyrofrequency 3
 genethlialogical 3
 gyrograph 2
 guttar 1
