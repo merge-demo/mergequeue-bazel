@@ -2906,7 +2906,7 @@ degratia 1
 doughs 1
 decurvature 2
 duello
-decus 1
+decus 2
 doblones
 decarbonizing 2
 decuss 1
@@ -6529,7 +6529,7 @@ dekameter 1
 diffracting 1
 deschool 1
 dirtbird 1
-dreggily 2
+dreggily 3
 distomiasis 2
 discourages 1
 descort 1
@@ -12270,7 +12270,7 @@ dobermans 2
 disglut 1
 dysgonic
 dehortation 1
-dishwater
+dishwater 1
 dataflow 4
 dispatriated
 discrepancy 2
@@ -16214,7 +16214,7 @@ dowf 1
 daren 2
 dextroamphetamine 1
 dermatotherapy 1
-dowsets 1
+dowsets 2
 densitometer 3
 dowitchers
 determinedness 2
