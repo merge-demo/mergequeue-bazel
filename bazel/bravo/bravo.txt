@@ -6561,7 +6561,7 @@ berberi
 breastrope 3
 bout 4
 biohazard 2
-berberid
+berberid 1
 bricked
 bundoc 3
 bedevilled 1
