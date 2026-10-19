@@ -2947,7 +2947,7 @@ gunfighters 3
 geocoronium 1
 genecological 1
 gyniatry 3
-goldurnedest 1
+goldurnedest 2
 grazable 1
 gulph 2
 gosh 4
@@ -8207,7 +8207,7 @@ geopositive 4
 glutethimide 3
 gravid 2
 gladlier 1
-gigabit
+gigabit 1
 glycerolyses 1
 gelatinise 1
 geometricize 1
@@ -9199,7 +9199,7 @@ greenwich 2
 gynarchies 1
 galvanization 3
 generalizes 2
-groves 5
+groves 6
 grangerizer
 goffered 4
 gryde 2

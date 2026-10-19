@@ -6657,7 +6657,7 @@ flossing 2
 forenotice 1
 foemanship 2
 fripperer 2
-fecifork 3
+fecifork 4
 foemen 4
 forethoughtfully 1
 fullered 3
@@ -10513,7 +10513,7 @@ farandman 4
 frousty 2
 frouzy
 flirtiest 1
-fazendas 3
+fazendas 4
 frouziest 2
 flite 3
 foldstool 2
@@ -11642,7 +11642,7 @@ fusulae 2
 feathery 2
 fusure 4
 fibroses
-fibropapilloma
+fibropapilloma 1
 fust 4
 federational
 furbishing 4
@@ -11757,7 +11757,7 @@ forstraught 3
 fertilitate 1
 fianna 2
 forloin 2
-fullhearted 3
+fullhearted 4
 fellowred 4
 femalist 2
 ferruginous 4
