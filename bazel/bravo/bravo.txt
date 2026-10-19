@@ -2130,7 +2130,7 @@ banty 2
 betangle 2
 bribery 2
 bantu 1
-bantus
+bantus 1
 bandon
 bewield 4
 blandfordia 2
