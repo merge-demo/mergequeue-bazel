@@ -656,7 +656,7 @@ gravimetry 2
 glower 3
 gantryman 5
 genecologically
-galeated 3
+galeated 4
 gunkhole 3
 grihyasutra 4
 gallantries
@@ -736,7 +736,7 @@ giantlikeness 1
 gollywog 2
 gonoplasm 1
 galvanoglyph 2
-gerbillinae 1
+gerbillinae 2
 gar 4
 goniometric 3
 gnawer 2
