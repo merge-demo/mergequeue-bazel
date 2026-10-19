@@ -796,7 +796,7 @@ exodus
 epeira 2
 eurytopic
 encephalography 1
-enter 1
+enter 2
 euplotid
 existability 2
 extravisceral
@@ -3484,7 +3484,7 @@ emblaze 4
 emblazed
 enserfment 1
 emblazers 1
-erke
+erke 1
 emblazes 1
 envies
 evelight 1
