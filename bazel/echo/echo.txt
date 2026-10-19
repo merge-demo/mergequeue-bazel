@@ -6330,7 +6330,7 @@ ejusd 1
 enrolls 2
 eumycetes 1
 equijacent 2
-embowed 1
+embowed 2
 enrut 1
 euclidean 2
 ens
