@@ -3840,7 +3840,7 @@ carbomethoxyl 2
 carbon 2
 carbonaceous 4
 cuter
-cleavability
+cleavability 1
 ceratite 2
 carbonarist 2
 carbonatation
