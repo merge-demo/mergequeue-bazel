@@ -12752,7 +12752,7 @@ dislocatory 3
 drivecap 3
 detroit 2
 dodrans
-dupondii
+dupondii 1
 dakoits 1
 domesticize 2
 deer 4
