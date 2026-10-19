@@ -6240,7 +6240,7 @@ galactosan 1
 goatsbeard 1
 guestimate 1
 gavotting 2
-galloway 2
+galloway 3
 glue 3
 glucosidase 1
 gonne 3
@@ -8637,7 +8637,7 @@ gradal 2
 greyish 3
 gemsbok 2
 guttered 4
-grip 1
+grip 2
 gladdy 2
 grantee 3
 greaseproofness 5
