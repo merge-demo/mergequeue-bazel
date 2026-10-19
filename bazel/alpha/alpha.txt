@@ -8794,7 +8794,7 @@ acescence
 atwind
 alcidae
 alliterates 3
-await
+await 1
 actious
 apodixis
 alliterationist
