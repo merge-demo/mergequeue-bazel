@@ -696,7 +696,7 @@ gaspereaus
 grunters 1
 galoshe 3
 gimmals 2
-goldney
+goldney 1
 genteelness 2
 gowlan 6
 grass 4
@@ -7846,7 +7846,7 @@ guttide 1
 grisoutine 2
 grovelled 1
 gtc 1
-geoglossaceae
+geoglossaceae 1
 gun 5
 guhayna 4
 gond 2
