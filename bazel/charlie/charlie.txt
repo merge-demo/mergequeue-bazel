@@ -12525,7 +12525,7 @@ chromosomally 1
 celoscope
 cornercap 1
 collophore 1
-chromospheric 1
+chromospheric 2
 colytic
 committitur
 cadjan 1
@@ -12661,7 +12661,7 @@ clergywomen 1
 convinces
 chucky
 chuckies
-cubation 1
+cubation 2
 cacophthalmia 1
 cider
 cargued 1
@@ -17613,7 +17613,7 @@ coccoidal
 coccolite
 counterresolution 1
 calabashes
-cardiodysneuria
+cardiodysneuria 1
 cavilingness
 columelliform 2
 catamite 1
