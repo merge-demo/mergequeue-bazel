@@ -1090,7 +1090,7 @@ accommodateness
 agra 3
 abusefully 1
 abusefulness 1
-arabinose
+arabinose 1
 antiegoism 3
 aminomyelin 1
 aroint
@@ -18127,7 +18127,7 @@ anteversion 1
 aquanauts 1
 auklet
 anemonol
-abdicated 1
+abdicated 2
 acapnia
 ableptically 5
 allegator 1
@@ -20830,7 +20830,7 @@ archdisturber
 arundiferous 1
 avouter 1
 adpao
-allurers 1
+allurers 2
 arupa 3
 armoried 1
 aruspicy

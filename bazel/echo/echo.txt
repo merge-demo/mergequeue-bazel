@@ -5609,7 +5609,7 @@ essexite 4
 evaporate
 ectognatha 8
 equalization 5
-epidendrum 3
+epidendrum 4
 elutions 1
 enfold 3
 ethyl 1
@@ -5782,7 +5782,7 @@ embossments 1
 esophagomalacia 2
 emaciation 2
 eddying 2
-endozoic 4
+endozoic 5
 endues 3
 ensalada 1
 englanders 2
