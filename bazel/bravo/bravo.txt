@@ -4350,7 +4350,7 @@ bechignoned 2
 bacchanalize
 balzacian
 bemercy 1
-bushwalking 1
+bushwalking 2
 bely
 blowze 1
 bonspiels
@@ -5162,7 +5162,7 @@ befountained 1
 borosilicic
 baddish
 baguette 5
-burbank
+burbank 1
 broiler 1
 butles 3
 bluebead 1
@@ -7337,7 +7337,7 @@ bootstrapping 3
 bunglers 2
 bacteririum
 balaenoptera 1
-bocklogged 2
+bocklogged 3
 bullidae 2
 bilbies
 bunker
@@ -14577,7 +14577,7 @@ buri 2
 buggyman 2
 brandisite 5
 boyar 2
-brandling 2
+brandling 3
 bayardly
 bority 1
 binomy 2
