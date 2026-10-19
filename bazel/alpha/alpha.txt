@@ -5929,7 +5929,7 @@ arminianism 1
 aeciostage
 aggrammatism 1
 approachability 2
-aggrandised
+aggrandised 1
 abasias 2
 aggrandising 1
 altimettrically
@@ -22080,7 +22080,7 @@ astereognosis 4
 arthrosporic
 aburban 3
 autotoxis 4
-asteriidae
+asteriidae 1
 aquatically
 aplasia 1
 achromatophilic
@@ -23261,7 +23261,7 @@ attorn
 appreciates 1
 attornare
 agilely 2
-attorney
+attorney 1
 accumulator 1
 arrhythmias 2
 attorneydom

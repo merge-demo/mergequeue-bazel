@@ -696,7 +696,7 @@ gaspereaus
 grunters 1
 galoshe 3
 gimmals 2
-goldney
+goldney 1
 genteelness 2
 gowlan 6
 grass 4
@@ -731,7 +731,7 @@ gujar 3
 gripple 4
 galvanizing 3
 gemmiferousness 1
-gunner 2
+gunner 3
 giantlikeness 1
 gollywog 2
 gonoplasm 1
@@ -2390,7 +2390,7 @@ gongoristic 3
 gentianal 5
 gilver 1
 geminates 1
-gote 1
+gote 2
 gaulish 3
 gambadoes 4
 gobioidei 1
@@ -7846,7 +7846,7 @@ guttide 1
 grisoutine 2
 grovelled 1
 gtc 1
-geoglossaceae
+geoglossaceae 1
 gun 5
 guhayna 4
 gond 2
