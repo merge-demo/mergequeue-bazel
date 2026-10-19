@@ -7361,7 +7361,7 @@ cephalodymus
 cephalodiscid 1
 cephalodiscida 2
 cephalodiscus
-curtains
+curtains 1
 cephalodium 1
 cephalofacial 1
 cephalogram 2
