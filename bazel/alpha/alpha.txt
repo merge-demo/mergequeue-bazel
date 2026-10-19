@@ -11185,7 +11185,7 @@ ascaricide
 amphicarpium 2
 aluconidae
 apocalyptist 2
-alterius
+alterius 1
 apian
 amphicarpogenous
 amphichroic 1
@@ -15838,7 +15838,7 @@ antipyonin
 antithrombin
 alert
 antipyretics 1
-antipyrin 2
+antipyrin 3
 accustomedness
 alinota 1
 antipyrine
@@ -18778,7 +18778,7 @@ archelogy
 archelon 3
 ally
 archemastry
-airdrops 1
+airdrops 2
 absinthol 1
 apotropaism
 alebench 2
@@ -21518,7 +21518,7 @@ acridinium 1
 akund
 ambiances 3
 adds 1
-asphyxia 1
+asphyxia 2
 abreid 1
 antagonized
 arretine 1
