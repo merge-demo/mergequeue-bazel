@@ -1344,7 +1344,7 @@ elemin 1
 explosives
 eelspear 4
 effeminising
-effeminize
+effeminize 1
 effeminizing 2
 exhibitionize 1
 ervil 5
