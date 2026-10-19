@@ -885,7 +885,7 @@ flamfew 2
 fingerlet 1
 furfooz 3
 foundationlessness 3
-forestlike 3
+forestlike 4
 fatheads 4
 featural 2
 flatheads 3
@@ -1579,7 +1579,7 @@ favorer 3
 foresty 2
 ferrash 4
 fleecelike
-fourstrand
+fourstrand 1
 falsettist
 fibrinogen 1
 filespec 2
@@ -5944,7 +5944,7 @@ fichtean 5
 foggers 3
 falstaffian 6
 flatwash 2
-foreworld 1
+foreworld 2
 floodgates 1
 fiercest 6
 foolhardily 4
