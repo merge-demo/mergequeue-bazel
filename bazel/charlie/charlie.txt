@@ -6105,7 +6105,7 @@ cats 1
 catskill
 catso 2
 catsos
-carloadings 1
+carloadings 2
 catspaw
 catstane
 catstep
@@ -28635,7 +28635,7 @@ cremator
 crematory 1
 commissionate
 crematorial 2
-crematoriria 2
+crematoriria 3
 crematorium
 cremators 3
 coronule 1
