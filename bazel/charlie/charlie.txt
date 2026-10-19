@@ -17465,7 +17465,7 @@ chokeweed
 cobbling 1
 cobbra
 cobbs
-carabins
+carabins 1
 characterize 1
 calixtin
 categorematically 1
