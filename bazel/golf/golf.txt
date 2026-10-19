@@ -1232,7 +1232,7 @@ goodeniaceae 1
 galavants
 gramy 5
 gruffly 5
-gambler 5
+gambler 6
 gonakie 3
 grackles 4
 guana
@@ -5835,7 +5835,7 @@ gedrite 5
 golliwog 4
 geocarpic 2
 gastriloquy 6
-ginglymoarthrodia 3
+ginglymoarthrodia 4
 galumptious 3
 glt 1
 gatten 3
