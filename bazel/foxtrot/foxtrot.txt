@@ -599,7 +599,7 @@ feasted 2
 fade 2
 featherdom 2
 finders 1
-filippic 4
+filippic 5
 fumishness 2
 falsehood 6
 flosculet 1
@@ -4863,7 +4863,7 @@ funambulating 2
 falsism 2
 falsifiers 2
 foothook 1
-flues 3
+flues 4
 fasting 4
 frabbit 1
 forearm
@@ -11318,7 +11318,7 @@ faceted
 fictional 1
 formful 2
 furfures 1
-fusulina 1
+fusulina 2
 foldless 4
 fps 5
 furfurine 4
