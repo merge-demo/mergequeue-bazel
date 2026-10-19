@@ -7849,7 +7849,7 @@ biblicality 1
 biblicism 2
 biblicopsychological 3
 biblike
-berinse
+berinse 1
 bombs 3
 bibliofilm 2
 blepharosymphysis 1
@@ -11372,7 +11372,7 @@ bustic 1
 bromouracil
 berairou 2
 bayness 2
-bibliographies
+bibliographies 1
 blousy 2
 bitingness 1
 beteela 3
@@ -15891,7 +15891,7 @@ baulea 2
 brominate 3
 bene
 barbarism 1
-bromination
+bromination 1
 broadband 2
 beswim 1
 behest 1
