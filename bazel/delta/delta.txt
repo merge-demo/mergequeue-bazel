@@ -9044,7 +9044,7 @@ dehort 1
 disillusioniser 2
 dictaen 1
 diplomatist 1
-dictamina
+dictamina 1
 dernier 1
 drinkproof
 dictaphones 3
