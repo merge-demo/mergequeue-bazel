@@ -10715,7 +10715,7 @@ depit 1
 dormin
 digitalize 1
 demurs
-dippier 1
+dippier 2
 dipping
 depersonalizing 2
 dentes 1
@@ -10849,7 +10849,7 @@ darkest 1
 distant 1
 dipleurobranchiate 1
 dauntingly
-dimerized
+dimerized 1
 displays 2
 dirged 3
 dirgelike
