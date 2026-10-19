@@ -4281,7 +4281,7 @@ anneslia 1
 acilius 3
 adrench 1
 adrenergic 1
-allegate 2
+allegate 3
 adrenin
 addu 2
 adrenitis 1
@@ -17328,7 +17328,7 @@ apostaxis 1
 apostem
 anticapital 2
 armigeral 2
-acetylsalicylic
+acetylsalicylic 1
 archfounder 1
 animalcules 1
 anaesthetic 1
