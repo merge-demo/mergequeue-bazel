@@ -10452,7 +10452,7 @@ archispore 1
 araba 1
 amiability 1
 amiableness 1
-antiautolysin
+antiautolysin 1
 aswooned 1
 aspalax 4
 auxosubstance 3
@@ -16935,7 +16935,7 @@ aceturic 1
 axels 1
 agamis
 alfa
-anemometrical 2
+anemometrical 3
 akuammine 1
 affectable 1
 anhima 1
