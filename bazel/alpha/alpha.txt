@@ -14755,7 +14755,7 @@ antibusing 1
 antenoon
 anticachectic 1
 anticalcimine 1
-accurateness
+accurateness 1
 archdukedom 2
 antically
 anticalligraphic 1
@@ -19228,7 +19228,7 @@ ardours
 ardu
 adonian
 aerosiderolite
-aliners
+aliners 1
 amygdophenin 1
 awabi 1
 adventurish 2
