@@ -10349,7 +10349,7 @@ dioptrical
 duhr 4
 diorama 1
 daroo 1
-diophantine
+diophantine 1
 driftpiece 3
 dowsing 2
 dentata 1
