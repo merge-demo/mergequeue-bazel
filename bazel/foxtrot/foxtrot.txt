@@ -297,7 +297,7 @@ fraenums 2
 forebar 2
 fistnotes
 flambeed 4
-floosies 1
+floosies 2
 frappeing 1
 fiddlesticks 1
 faeryland 2
@@ -1729,7 +1729,7 @@ formican 4
 foreordainment 1
 filiality 1
 featherbird 3
-feoffors 2
+feoffors 3
 forfare 2
 foreshore 5
 floriferous 1
@@ -3287,7 +3287,7 @@ farewells 1
 fiddlefaced 1
 fiddlerfish 2
 fraticellian 3
-ferrites
+ferrites 1
 faunology 2
 fluidrams
 ferrimagnetically 3
@@ -3297,7 +3297,7 @@ feudovassalism 2
 forefeet 7
 fungilliform 2
 filopodium 7
-fiddlestick
+fiddlestick 1
 frambesia 1
 farsight 1
 fivescore 2
@@ -3997,7 +3997,7 @@ fibres 2
 fraulein 1
 friarling 4
 february 1
-fairydom 1
+fairydom 2
 felicitation 2
 frontlessness 3
 formability 5
@@ -4136,7 +4136,7 @@ fontanel 2
 flywheel 5
 fersmite 2
 fratriage 1
-fipples 2
+fipples 3
 floscule 2
 firca 2
 foisted 2
@@ -5074,7 +5074,7 @@ fessely 1
 flumps 1
 flamelet 1
 fun 4
-fuligo 1
+fuligo 2
 fundless 2
 fumettes
 frsikets 5
@@ -8537,7 +8537,7 @@ foreseeing
 foremisgiving 3
 fard 2
 fulgid 3
-farctate 2
+farctate 3
 flacourtia
 fished 2
 flapped

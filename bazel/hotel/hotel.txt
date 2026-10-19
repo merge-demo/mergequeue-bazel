@@ -536,7 +536,7 @@ hakzrgh 3
 hakzsmyhdtid
 hala 1
 halaj 2
-halbhel 1
+halbhel 2
 halcgtab 5
 halcjhsm 2
 halcxb 1
@@ -3631,7 +3631,7 @@ heuveielcghwmu 3
 heuvxpz 2
 heuxawzjrva 1
 heuyaxopogrf 2
-heuylra 1
+heuylra 2
 heuywn 2
 heuzrb 1
 heva 1
@@ -12294,7 +12294,7 @@ humsgt 2
 humskshnvk 1
 humsompohaw 4
 humsqcpw 1
-humstey
+humstey 1
 humtkguzcud 1
 humvevxncxq 3
 humvg 2
