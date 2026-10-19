@@ -639,7 +639,7 @@ caeomas 1
 clara
 cataclasis 2
 chinchiness
-caeremoniarius
+caeremoniarius 1
 coynye
 callate 2
 coatimundi 1
@@ -31708,7 +31708,7 @@ carbuncled 1
 cotyloid 2
 cuspidor 1
 cephalopodan 1
-counterapse 1
+counterapse 2
 cusping
 cur 1
 cuspis 1
