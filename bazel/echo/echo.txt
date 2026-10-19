@@ -162,7 +162,7 @@ enunciations 3
 earthly 2
 enriched
 exequy 2
-earmarked 1
+earmarked 2
 eelbobber
 expiring 2
 expressive 3
@@ -5407,7 +5407,7 @@ ethylidene 4
 evicted 1
 envolupen 1
 evocatory
-endotheliomas 1
+endotheliomas 2
 excercise 3
 explicators
 esquiline 2
@@ -9311,7 +9311,7 @@ entelechy
 ecus
 electroori 2
 erucivorous 1
-eructance 1
+eructance 2
 empoverish 4
 extendability 1
 extralegal 2
@@ -11058,7 +11058,7 @@ encomimia 2
 exuberating 2
 emporial 4
 elegit 1
-electrostereotype
+electrostereotype 1
 europium
 expressionistically 1
 epipharynx 2
