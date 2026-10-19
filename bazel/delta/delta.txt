@@ -4086,7 +4086,7 @@ domestication
 delightfulness 1
 discant 3
 danize
-delignification
+delignification 1
 demurringly 1
 decimalizing 3
 delimed 2
@@ -13659,7 +13659,7 @@ decentralizationist 1
 dandyishly 1
 disjoins 1
 doucin 2
-degases
+degases 1
 dissymmetric 1
 degender
 dampy
@@ -15559,7 +15559,7 @@ donnick 1
 donnock 3
 diazoles
 donought 1
-deathlessly 2
+deathlessly 3
 discriminatingly 2
 donovan 4
 dons 2
@@ -16172,7 +16172,7 @@ drainway 1
 drinkery 1
 dowager 1
 dits 2
-demospongiae 1
+demospongiae 2
 dowagers 1
 dispersions 2
 dertra
