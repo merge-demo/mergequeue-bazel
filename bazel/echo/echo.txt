@@ -6727,7 +6727,7 @@ echimys 2
 epicenters 1
 equines
 espaliers 1
-epithecal
+epithecal 1
 evaginable 2
 emunge
 enuresis 2
@@ -11137,7 +11137,7 @@ everly
 exclaimer 2
 embanked 2
 eutrophication 2
-externalised 4
+externalised 5
 expiating 1
 eutropous 1
 evocation 3
