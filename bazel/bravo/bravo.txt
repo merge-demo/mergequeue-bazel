@@ -3185,7 +3185,7 @@ befanned
 bauld 2
 bronchiarctia 3
 basically 2
-befriends 1
+befriends 2
 basicerite
 basicity 1
 baloneys 1
@@ -9423,7 +9423,7 @@ bookholder 1
 bulimulidae 2
 birgand 3
 brunoniaceae 3
-burnetize 2
+burnetize 3
 bedirties 2
 bourride 3
 birkeniidae 3
@@ -12162,7 +12162,7 @@ balneum 1
 beeps 1
 blaine
 beclasped 1
-blarneyed
+blarneyed 1
 boletaceae 2
 byrled 2
 brabbler 1
