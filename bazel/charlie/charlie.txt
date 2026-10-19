@@ -31267,7 +31267,7 @@ curatess 1
 cliency 3
 curation 2
 cutworks
-curative
+curative 1
 curativeness 2
 curatorium 2
 charkha
