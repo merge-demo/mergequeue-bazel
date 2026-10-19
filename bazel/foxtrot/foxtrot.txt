@@ -1176,7 +1176,7 @@ flavopurpurin 2
 forcer 2
 filicineae 2
 fraying
-friponerie 1
+friponerie 2
 focalize
 funder 1
 funaria 3
@@ -8674,7 +8674,7 @@ funariaceous 3
 flexuous 3
 fistuliform 3
 floured 4
-ferroprint 2
+ferroprint 3
 forth 2
 freesia 1
 flatfooted 3
