@@ -4365,7 +4365,7 @@ espichellite 1
 espadrille 1
 enamours 1
 episperm 3
-euphrasia
+euphrasia 1
 ectropionized 2
 escadrille 2
 equimolar 4
@@ -6610,7 +6610,7 @@ episcopalians
 enterocyst 1
 ebonised 2
 etcher 2
-entreating
+entreating 1
 enterocleisis 2
 electrician 4
 enquicken 4
