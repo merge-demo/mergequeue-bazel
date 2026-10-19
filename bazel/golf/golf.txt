@@ -1891,7 +1891,7 @@ grabber 6
 gatherers 3
 galumph 1
 gooma 3
-gamenesses 1
+gamenesses 2
 grecale 1
 grubstake 1
 gating 2
@@ -7207,7 +7207,7 @@ gony 2
 grasshopperdom 1
 gaditan 3
 greenthumbed
-geotectonics 4
+geotectonics 5
 give 2
 geocratic 1
 gape 2
@@ -7781,7 +7781,7 @@ gralline 4
 gadman
 gray 1
 getaway
-greasily 1
+greasily 2
 goosishly 1
 gemmative 3
 grudgeful 3
