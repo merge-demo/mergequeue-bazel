@@ -5814,7 +5814,7 @@ gloveman 2
 gumtrees 2
 growthy 6
 glover 2
-glochines
+glochines 1
 genos 3
 glave 3
 guanidin 2
@@ -6204,7 +6204,7 @@ grandmontine 3
 gushiness 2
 graddan
 gamboler 3
-genecologist 3
+genecologist 4
 governmentalize 1
 grabbings 4
 glyptographic 3
@@ -9228,7 +9228,7 @@ gleaning 3
 gardenmaking
 glouting 3
 gooserumped
-grison 1
+grison 2
 gynecopathy 3
 grisons 2
 grandees 1
