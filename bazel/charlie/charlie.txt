@@ -13423,7 +13423,7 @@ chlorinates 2
 counterturn 1
 cydippe 1
 cofeatures 2
-cydonian
+cydonian 1
 confederator 1
 cydonium 2
 cie
@@ -16654,7 +16654,7 @@ chthonic
 cylindroma
 crusading
 campoo 1
-criers 1
+criers 2
 closky
 clupeoid 1
 chilopods 1
