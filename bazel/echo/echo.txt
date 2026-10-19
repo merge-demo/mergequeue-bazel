@@ -2160,7 +2160,7 @@ esophagostenosis 2
 eyestring 3
 ensorceling 2
 explicandum 6
-electropult 2
+electropult 3
 elation 1
 euphonise 3
 enrib
@@ -7751,7 +7751,7 @@ exterritorially 1
 emergents 3
 englify 1
 ensure 1
-emendable 3
+emendable 4
 estopping
 equips 1
 edelweisses
@@ -9996,7 +9996,7 @@ enterprises 1
 externality 2
 epichile 3
 etched 1
-editor
+editor 1
 enteropexy 2
 efford 3
 ethnotechnography 1
@@ -13419,7 +13419,7 @@ exploring 3
 ensnaringly 4
 expressional 3
 erupted
-eikones 1
+eikones 2
 ebionitic 1
 ectogenic 2
 excitingly 3

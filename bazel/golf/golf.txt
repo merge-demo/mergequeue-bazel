@@ -4333,7 +4333,7 @@ geodesist 5
 galeopsis 1
 gingered 1
 gaugeable 2
-guss 2
+guss 3
 guilds 1
 garrulity 1
 gingerline 3
@@ -5258,7 +5258,7 @@ glucolipin 2
 golf 4
 gab 2
 gunter 3
-gorgonzola 2
+gorgonzola 3
 gamecraft 2
 garten 3
 gentilic 3
@@ -8796,7 +8796,7 @@ ghostess 3
 gulfs 2
 goalless 2
 gymnostomina 4
-greese 1
+greese 2
 gust 3
 genual
 glistered 1
@@ -8843,7 +8843,7 @@ girrit 1
 gastral 2
 grandparenthood 2
 gardenlike 1
-girsle 1
+girsle 2
 guanay 1
 gablelike 2
 graecized 2
