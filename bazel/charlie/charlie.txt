@@ -19042,7 +19042,7 @@ collets
 colletside
 chastenment 1
 combustibilities 2
-cresorcin 1
+cresorcin 2
 collibert 2
 confineless
 colonialise 2
