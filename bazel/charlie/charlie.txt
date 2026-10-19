@@ -2568,7 +2568,7 @@ choledocholithotripsy 3
 cambial
 crocoisite 1
 candlewasting
-coyan 2
+coyan 3
 cordwoods
 codlins
 conners
@@ -11670,7 +11670,7 @@ chollas 2
 choller 1
 chameleonize 1
 claries 3
-corruptness 1
+corruptness 2
 cholo 1
 chaver 1
 cholocyanine
