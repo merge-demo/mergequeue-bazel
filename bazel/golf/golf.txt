@@ -4056,7 +4056,7 @@ ginorite 2
 giantish 3
 glum 3
 gastritic 2
-grisettes 1
+grisettes 2
 gelatines 3
 gilliflower 1
 grocery
@@ -9236,7 +9236,7 @@ genethlialogic 2
 goliard
 grisly 1
 glagolitic 3
-gravigrade 3
+gravigrade 4
 grahamite 1
 grist 3
 guanase 1
