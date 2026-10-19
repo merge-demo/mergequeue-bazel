@@ -697,7 +697,7 @@ banjo 2
 baddie 2
 betimber 1
 bathtubs 1
-bathetically 1
+bathetically 2
 baddies
 boral 2
 bade
@@ -4051,7 +4051,7 @@ bumperette 2
 blanch 1
 bannerets 3
 becolme
-babbie 1
+babbie 2
 bulgers
 bearcats 2
 beamingly
@@ -7956,7 +7956,7 @@ bicched 2
 bribegiving 1
 bicentric 1
 beebees
-bardier 2
+bardier 3
 bum
 beauteousness 1
 bilineate
