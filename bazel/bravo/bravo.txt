@@ -1981,7 +1981,7 @@ bandlimiting 1
 brezhnev
 biotopes 1
 bulrushy 1
-bani
+bani 1
 bevelers 2
 blea 1
 bimbo
@@ -7143,7 +7143,7 @@ barefoot 1
 bogglingly 2
 boxiana 3
 babylonism 1
-besra 1
+besra 2
 berhymes 4
 bullyboys 1
 bawling 1
@@ -14410,7 +14410,7 @@ brainpans
 bandaid 2
 bisley
 blastulas 1
-blighting
+blighting 1
 barnstorm
 belieffulness
 branchiocardiac 1
