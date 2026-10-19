@@ -515,7 +515,7 @@ amassment 1
 angiorrhagia
 assonantal
 acidities
-absterge 1
+absterge 2
 agomphiasis 2
 abjurations 3
 acecaffin 2
@@ -8057,7 +8057,7 @@ apatornis
 autonavigator 1
 antidotical
 archcity 2
-aefaldness 2
+aefaldness 3
 authentical
 assailable 1
 appropriators 1
@@ -13056,7 +13056,7 @@ anhydrotic 1
 abidances 1
 ancillas 1
 auspicious
-anakinetic 3
+anakinetic 4
 aradid 1
 anhysteretic 2
 agrologist
