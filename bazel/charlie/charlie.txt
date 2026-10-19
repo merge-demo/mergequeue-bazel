@@ -6105,7 +6105,7 @@ cats 1
 catskill
 catso 2
 catsos
-carloadings 1
+carloadings 2
 catspaw
 catstane
 catstep
@@ -15787,7 +15787,7 @@ chelaship
 corruptibly 1
 colonized 3
 clearable
-clearance 1
+clearance 2
 clearances 2
 commensurately 1
 counterfeitness 2
