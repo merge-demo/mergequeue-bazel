@@ -459,7 +459,7 @@ anklebone
 antimodernly 1
 alchemised
 abipon 2
-abir 2
+abir 3
 aberia 1
 azadirachta 2
 americanizes 3
@@ -5356,7 +5356,7 @@ afformative 2
 abuseful
 affrayers 2
 affraying
-affrays 2
+affrays 3
 admeasured
 affranchise
 adiadokokinesi
