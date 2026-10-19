@@ -823,7 +823,7 @@ authoritatively
 additur 1
 anisogeny 1
 abstruse 4
-ammiral 3
+ammiral 4
 abs 1
 aitchbone 1
 ammophila 1
@@ -17204,7 +17204,7 @@ apomorphia 2
 ahmadi 1
 acropetal 1
 agonist 1
-aphodus
+aphodus 1
 adeptship 1
 assistantship 2
 automatization
