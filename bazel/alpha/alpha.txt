@@ -5222,7 +5222,7 @@ affector 1
 accoast 2
 affeerer
 aum 1
-ankerite
+ankerite 1
 almendron 1
 ampulated 1
 agrias
@@ -6542,7 +6542,7 @@ ayah
 animateness
 ayahuasca
 ampliative 1
-admedial 1
+admedial 2
 ariste 2
 ayapana 1
 auxetically
@@ -9371,7 +9371,7 @@ alphitomorphous 2
 acetolytic
 ateliosis 2
 alphol
-amphopeptone 1
+amphopeptone 2
 acture
 antilobium 1
 attack
@@ -10874,7 +10874,7 @@ ammoniuret
 archcozener 1
 antiproteolysis
 argolian
-ammono 2
+ammono 3
 ammonoidea 1
 ammonoidean 1
 aerocartography 4
@@ -20252,7 +20252,7 @@ attender 1
 acropodia 1
 amphiblastula
 archisymbolical 3
-accumber 2
+accumber 3
 antinomian 2
 alluvio
 anauxite 4
