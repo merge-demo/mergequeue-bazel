@@ -991,7 +991,7 @@ fishing 1
 flustering 2
 frivoller
 flyaway 2
-formyl 2
+formyl 3
 fondlings 2
 forritsome
 fontanges 1
@@ -3526,7 +3526,7 @@ flyweight 6
 fleetingly 3
 fernland 6
 figures 2
-feelingless 2
+feelingless 3
 foreact 4
 fasciculi 3
 foresting 1
@@ -8984,7 +8984,7 @@ fourragere 3
 flutter 1
 fermila 1
 fiefdoms 4
-foreshadower 1
+foreshadower 2
 frontally 2
 fourrageres
 fox 3
