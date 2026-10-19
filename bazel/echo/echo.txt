@@ -3307,7 +3307,7 @@ exegetically
 eridanid 2
 enraged 3
 envisions 4
-enclose 1
+enclose 2
 euplastic 1
 emanational 2
 enrichingly 2
@@ -9943,7 +9943,7 @@ ebraick 4
 estral 3
 evermore 2
 exoccipital 2
-electrogenetic 3
+electrogenetic 4
 episodal 2
 epididymitis 3
 esophagoptosis
