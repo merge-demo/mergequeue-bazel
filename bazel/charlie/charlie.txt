@@ -1961,7 +1961,7 @@ capitols 2
 counterwill 2
 cumulose
 cyprinodont 2
-camerae
+camerae 1
 curbless
 cameral 1
 citizenship
@@ -3840,7 +3840,7 @@ carbomethoxyl 2
 carbon 2
 carbonaceous 4
 cuter
-cleavability
+cleavability 1
 ceratite 2
 carbonarist 2
 carbonatation
@@ -5826,7 +5826,7 @@ currish
 categorise 2
 categorised
 chansonnier
-cultivated
+cultivated 1
 cochlearia 1
 chemicopharmaceutical 1
 cuemanship 2
@@ -15222,7 +15222,7 @@ clubmen 1
 clayton
 chinkers 2
 claiver
-crucigerous 2
+crucigerous 3
 ceromancy 1
 claywares
 caam
@@ -17886,7 +17886,7 @@ codivine 2
 codline 2
 calcigerous
 controlled 1
-codling 2
+codling 3
 classlessness 1
 coguardian
 codman
@@ -19042,7 +19042,7 @@ collets
 colletside
 chastenment 1
 combustibilities 2
-cresorcin 1
+cresorcin 2
 collibert 2
 confineless
 colonialise 2
@@ -23184,7 +23184,7 @@ coiffure
 constrainingly
 cubbyhole
 constraints
-confervaceous
+confervaceous 1
 cardioscope 2
 constrict 1
 clamative
@@ -27583,7 +27583,7 @@ cerargyrite
 covetous 1
 choffer
 choucroute 3
-climacium
+climacium 1
 cheeriest
 covetously
 covibrate
@@ -31799,7 +31799,7 @@ cutcherry
 cutcherries
 cutdowns 1
 chromochalcographic 3
-cutely 2
+cutely 3
 chanabal 1
 cuteness 6
 cutenesses 2
