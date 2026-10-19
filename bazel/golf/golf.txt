@@ -2093,7 +2093,7 @@ gawk 1
 gratingly 1
 gozzard 3
 gerberia 4
-guerillaism 1
+guerillaism 2
 geobotanist 2
 galvanizer 1
 gerontes 1
@@ -7161,7 +7161,7 @@ glistering 2
 geometrise
 guans 2
 gaffs 2
-glycid 3
+glycid 4
 gauming 1
 gross 2
 glycolylurea 3
