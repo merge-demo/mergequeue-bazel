@@ -9179,7 +9179,7 @@ dogship
 defensing 2
 duelled 1
 desoxycinchonine
-decalog
+decalog 1
 diptych 2
 dialyse 3
 doors
