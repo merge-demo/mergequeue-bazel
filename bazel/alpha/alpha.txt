@@ -13640,7 +13640,7 @@ acoelomous 1
 artefacts
 ampollosity 1
 antituberculous
-anticum
+anticum 1
 anesthesia
 abeam
 automa
