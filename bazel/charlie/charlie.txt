@@ -1961,7 +1961,7 @@ capitols 2
 counterwill 2
 cumulose
 cyprinodont 2
-camerae
+camerae 1
 curbless
 cameral 1
 citizenship
@@ -5826,7 +5826,7 @@ currish
 categorise 2
 categorised
 chansonnier
-cultivated
+cultivated 1
 cochlearia 1
 chemicopharmaceutical 1
 cuemanship 2
@@ -31799,7 +31799,7 @@ cutcherry
 cutcherries
 cutdowns 1
 chromochalcographic 3
-cutely 2
+cutely 3
 chanabal 1
 cuteness 6
 cutenesses 2
