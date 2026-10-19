@@ -3628,7 +3628,7 @@ apollos
 adenodynia 1
 apotheces
 antral 2
-arcade 2
+arcade 3
 aggelation
 attic 1
 amerindian 1
@@ -11185,7 +11185,7 @@ ascaricide
 amphicarpium 2
 aluconidae
 apocalyptist 2
-alterius
+alterius 1
 apian
 amphicarpogenous
 amphichroic 1
@@ -13326,7 +13326,7 @@ accompanied
 apace 1
 atmosphered
 asbestus 2
-anisopod 1
+anisopod 2
 ataraxias
 ancient 1
 agree
