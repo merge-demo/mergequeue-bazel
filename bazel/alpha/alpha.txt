@@ -6720,7 +6720,7 @@ anathematic
 ainaleh
 anthropoclimatologist
 arachic 1
-atomisms 1
+atomisms 2
 araneous
 acardia 2
 auxinic 1
@@ -9538,7 +9538,7 @@ altiloquence 1
 advehent
 academia
 arenig
-altimeters 1
+altimeters 2
 aspidomancy 1
 anthema 1
 alchemistry
@@ -24606,7 +24606,7 @@ actless
 assortive 2
 aquaplaner
 absolve 1
-avalent
+avalent 1
 avalon 1
 autoeroticism
 affich
