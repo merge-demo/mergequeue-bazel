@@ -328,7 +328,7 @@ galactocele 1
 gymnopaedic 1
 guised
 guitguit 4
-galactogenetic 2
+galactogenetic 3
 gappiest 2
 guarantee 2
 gravigrada 2
@@ -8269,7 +8269,7 @@ garamond
 gaseosity 5
 gurries
 gara 3
-geopolitist
+geopolitist 1
 galenite 3
 glissaded 1
 groundless 4
