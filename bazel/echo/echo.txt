@@ -6170,7 +6170,7 @@ ethnomusicological 3
 elans
 evolvent 2
 enneagonal 2
-etymologizable 2
+etymologizable 3
 enrolling 1
 endorachis 2
 enigua 2
@@ -8093,7 +8093,7 @@ equicrural 4
 electrooculogram 3
 exosporium 2
 extraprovincial 1
-epiphragm 2
+epiphragm 3
 enlargedness 1
 encover 2
 extrasyphilitic 1
@@ -11440,7 +11440,7 @@ echovirus 3
 ennedra 2
 emblic 3
 edibility 2
-eligibility 1
+eligibility 2
 esthacyte 1
 evese 1
 entomostraca 1
