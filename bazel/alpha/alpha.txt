@@ -3410,7 +3410,7 @@ auxil 1
 abridgeable
 adarme
 adatis
-afterpain
+afterpain 1
 antiecclesiastical 1
 ascitical 2
 adaxial 1
@@ -18127,7 +18127,7 @@ anteversion 1
 aquanauts 1
 auklet
 anemonol
-abdicated 1
+abdicated 2
 acapnia
 ableptically 5
 allegator 1
@@ -20830,7 +20830,7 @@ archdisturber
 arundiferous 1
 avouter 1
 adpao
-allurers 1
+allurers 2
 arupa 3
 armoried 1
 aruspicy
