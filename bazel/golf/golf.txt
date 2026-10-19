@@ -517,7 +517,7 @@ glissandos
 gustily 1
 guruship 1
 gallbladders 3
-guaranteers 5
+guaranteers 6
 gaieties 3
 guinde 3
 gigsman 5
@@ -5531,7 +5531,7 @@ gustier 3
 genear 1
 globalizing 3
 gisants 1
-groggeries 4
+groggeries 5
 gyrovagi 2
 gently 2
 gump 2
@@ -8424,7 +8424,7 @@ greenbacker 5
 gauntree
 gratifiable 5
 guaco 1
-gelsemium 1
+gelsemium 2
 gilten
 ghetchoo 3
 girondism 2
