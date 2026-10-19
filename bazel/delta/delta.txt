@@ -10490,7 +10490,7 @@ dendrodra
 disordeine 2
 diphthonging 3
 diphthongisation 2
-deisticalness
+deisticalness 1
 dozent
 dalar 2
 daglock 3
