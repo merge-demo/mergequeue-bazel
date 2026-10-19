@@ -6566,7 +6566,7 @@ cretaceous
 caxton
 confluence
 caxtonian 1
-caza 1
+caza 2
 cazimi 1
 chamois 1
 crossability 2
@@ -25370,7 +25370,7 @@ cornettist 1
 cornetto 1
 committent 1
 causticization 1
-chartographical
+chartographical 1
 corneule
 comprising
 champs 2
