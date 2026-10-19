@@ -5125,7 +5125,7 @@ azotite 1
 admonisher
 accosting 1
 acquainting
-amenia 1
+amenia 2
 arrantly 1
 aestivating 2
 aestive
@@ -11551,7 +11551,7 @@ apathus 1
 assewer
 auxiliarly 2
 aper
-appositions
+appositions 1
 adenophyllous
 aulas
 anabolism 1
@@ -21071,7 +21071,7 @@ anticeremonialist 3
 airports 1
 autophony
 apohyal 1
-anteposthumous 1
+anteposthumous 2
 architectures
 acalypha 1
 auricularia 1
