@@ -625,7 +625,7 @@ falsifier 5
 foveolet 6
 floaty 1
 falsifying 1
-falunian 1
+falunian 2
 fertilisation 4
 fanum 1
 fauster 2
@@ -1329,7 +1329,7 @@ fatherly
 fartherer 2
 feest 2
 features 4
-frogginess 3
+frogginess 4
 fendering 5
 fbi 3
 fellani
