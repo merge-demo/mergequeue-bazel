@@ -7730,7 +7730,7 @@ bhisties 2
 berake 1
 boldheartedness 1
 bhojpuri 2
-brim 3
+brim 4
 bhokra 2
 bonaventure
 bunglingly 3
@@ -8009,7 +8009,7 @@ bodle
 bleakish 2
 babble 1
 bicolorous 1
-betrayal
+betrayal 1
 bicolors
 beadleism 1
 biconcave
@@ -14241,7 +14241,7 @@ beteach 3
 bradytrophic 2
 bousoukis
 britzkas 2
-bradley 3
+bradley 4
 bareka 2
 brocades
 beckiron 2
@@ -16787,7 +16787,7 @@ bicarbonate 1
 begari 1
 blindfolding 1
 budger 1
-bagasse 2
+bagasse 3
 bulltoad 1
 budgerow
 bowdlerizer
