@@ -11212,7 +11212,7 @@ expilation 1
 exostracism 1
 endover 2
 electrotonicity 1
-experimentalist
+experimentalist 1
 epibolies 2
 evangeliaries
 endocycle
@@ -11413,7 +11413,7 @@ epithelioglandular
 effendi 2
 epileptogenous 3
 evergreen 1
-exsputory 1
+exsputory 2
 evergreens 4
 everydayness 1
 everyhow 4
@@ -14004,7 +14004,7 @@ eustacy 2
 extraregarding 4
 endogen 2
 extraregularly 2
-expirers
+expirers 1
 exiling 4
 exsertile 2
 elderbrotherly
