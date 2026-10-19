@@ -2553,7 +2553,7 @@ forewarningly 2
 forequarter 3
 finlandization 1
 fluvicoline 5
-fleerer 4
+fleerer 5
 flimp 5
 ferricyanide 1
 ferrihydrocyanic 3
@@ -5886,7 +5886,7 @@ fangas 1
 flinted 1
 forehear
 ferrichloride 1
-furnishings 4
+furnishings 5
 flocculent 1
 flushes 1
 flaxier 1
@@ -11684,7 +11684,7 @@ feru
 feminines 1
 felids 3
 fusarial 3
-forelands 3
+forelands 4
 finikin
 flare 1
 flyleaves 3
