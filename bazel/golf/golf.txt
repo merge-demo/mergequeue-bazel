@@ -804,7 +804,7 @@ gourmanderie 1
 gambeered 2
 glauke 1
 greenlandite 2
-genets 2
+genets 3
 glucosane 1
 ghurry 1
 gastrocolic 3
@@ -5142,7 +5142,7 @@ goblinesque 2
 gutturine 2
 gentlehearted 5
 goldylocks 2
-gyps 2
+gyps 3
 glaucophanite 1
 goldcrest 4
 gimpiest 1
@@ -5726,7 +5726,7 @@ ghillies 1
 glamberry 3
 glendale 1
 glossocele 3
-graian 1
+graian 2
 gaduin 3
 gummoses 1
 grandmother 4
