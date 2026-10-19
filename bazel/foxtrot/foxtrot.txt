@@ -3341,7 +3341,7 @@ forchase 2
 fameworthy 1
 fruggan 2
 fullmouthedly 1
-fandom 2
+fandom 3
 fulcra 3
 flon 2
 forsung 1
@@ -4192,7 +4192,7 @@ foretokening 4
 firebug 3
 flagstones
 fado 2
-flickertail 1
+flickertail 2
 fishet 2
 fibrocaseous 2
 foliating 3
@@ -4392,7 +4392,7 @@ flechette 1
 funt 2
 floorshifts 2
 flagged 1
-forbearances 2
+forbearances 3
 frenums 2
 fishbowls
 flexive 3
@@ -4817,7 +4817,7 @@ fasciolaria 2
 fancifulness 2
 flinching 3
 floatiest 4
-fullwords 1
+fullwords 2
 faena
 fellowshipping 1
 falsen 3
