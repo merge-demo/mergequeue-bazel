@@ -2924,7 +2924,7 @@ dedecorous 2
 divide 1
 desmodont
 duodecimomos
-dedicant 1
+dedicant 2
 dichotic
 downbeat 4
 desulphuret 3
@@ -12233,7 +12233,7 @@ doweling
 deltoidal 1
 durous 1
 detector 2
-dampers
+dampers 1
 deviators 2
 dysfunctions 1
 disfurnish 1
