@@ -2935,7 +2935,7 @@ canterburian
 cladosporium 1
 curlpaper 1
 custumals
-cryptoprocta
+cryptoprocta 1
 cantering 1
 canthal 1
 curling 2
@@ -8423,7 +8423,7 @@ cultrirostral 1
 chamfer 1
 cabirean
 chamfers
-chamfrain
+chamfrain 1
 calvaria
 carilloneur
 cradock
@@ -12588,7 +12588,7 @@ cellucotton
 chronologer 1
 circularize 1
 chronological
-chronologies 1
+chronologies 2
 coalternative 1
 chantecler 2
 cercle 1

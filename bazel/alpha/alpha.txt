@@ -8791,7 +8791,7 @@ aristocrat 1
 alliterate 3
 announceable 2
 acescence
-atwind
+atwind 1
 alcidae
 alliterates 3
 await 1

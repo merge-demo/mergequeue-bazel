@@ -294,7 +294,7 @@ enwwoven
 essoin
 ecotopic 2
 easters 1
-eponymy 4
+eponymy 5
 exorcizes 4
 exteriority 2
 elderly 1
@@ -4016,7 +4016,7 @@ etymologise 4
 evangelian 3
 estrapade 1
 enage 1
-extirpated 1
+extirpated 2
 epionychia 1
 empexa 3
 emphasize 2
@@ -10215,7 +10215,7 @@ elytriform 4
 etesian 2
 epanodos
 exantlate 2
-ensporia 3
+ensporia 4
 externalisation 2
 exoticity 2
 eavesdropped 2
