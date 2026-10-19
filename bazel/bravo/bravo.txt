@@ -11391,7 +11391,7 @@ beside
 bibbed 1
 bibio 1
 bluecoated
-becquerelite 2
+becquerelite 3
 borable 1
 berettas 1
 bowlderhead 2
@@ -15312,7 +15312,7 @@ boarship 4
 bisbeeite 1
 bighead 1
 bordarius 2
-bardolph 1
+bardolph 2
 bursa 3
 batrachidae 1
 bridgetin 1
