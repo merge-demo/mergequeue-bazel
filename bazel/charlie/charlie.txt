@@ -12626,7 +12626,7 @@ chroococcaceae 1
 cynanthropy 2
 chopines 1
 chroococcales 1
-chroococcoid
+chroococcoid 1
 charcoalist
 cacafuego 1
 cicatrisation 1
@@ -15472,7 +15472,7 @@ certification 1
 censorate
 correption
 clarist 1
-clarities
+clarities 1
 coasts
 calyculi 2
 cayapa
@@ -26711,7 +26711,7 @@ colourful 1
 caenogenetically
 counterattestation
 cheepy
-counterattraction 1
+counterattraction 2
 carvacrol 1
 countercompany 2
 counterattractive
