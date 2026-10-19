@@ -51,7 +51,7 @@ glaucolite 1
 guemal 5
 geometrine 2
 gelatinousness 5
-glucosidic 4
+glucosidic 5
 goofball 1
 gatherum 5
 gibbon 1
@@ -8148,7 +8148,7 @@ gnatsnap 4
 goatling 1
 granulet
 gorgonising 3
-gemsboks 4
+gemsboks 5
 gallies 1
 granulization 3
 gliff 1
