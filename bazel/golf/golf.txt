@@ -6875,7 +6875,7 @@ gauntlets 3
 glucoprotein 2
 geaster
 galeas 3
-genitival
+genitival 1
 geed 1
 gaposises 1
 goniatitic 3
