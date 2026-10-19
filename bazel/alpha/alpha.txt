@@ -5614,7 +5614,7 @@ absorptivity 2
 aphototaxis 1
 aftervision
 actinomycoma 1
-afterwale
+afterwale 1
 amnesics 1
 afterward 3
 afterwise
