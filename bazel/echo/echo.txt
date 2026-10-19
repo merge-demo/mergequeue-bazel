@@ -2707,7 +2707,7 @@ elaeopten 2
 electrothermal
 ephippial 3
 emulsoidal 2
-exteriorise 2
+exteriorise 3
 essed 5
 ericolin 2
 elderwort 1
@@ -10814,7 +10814,7 @@ eighteenth 1
 exoplasm
 eunuchism 1
 endoprocta 1
-everlastingly 2
+everlastingly 3
 euodic 1
 entrepots 1
 euonymy
