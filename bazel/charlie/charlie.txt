@@ -27750,7 +27750,7 @@ corkscrews
 connecters
 cowshed 2
 cowsheds
-cowshot 1
+cowshot 2
 camorristi 1
 chough
 cowshut 2
