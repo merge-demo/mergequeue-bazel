@@ -1708,7 +1708,7 @@ flourless 1
 foodservices 3
 fuselage 1
 faviform 4
-feasibly 4
+feasibly 5
 fashionmonger 5
 flighted 1
 fascio
@@ -2802,7 +2802,7 @@ fimbriation 1
 frazzles 2
 filace 2
 fixations 3
-finnmark 2
+finnmark 3
 forgoing 5
 florists 1
 festucine 4
@@ -3745,7 +3745,7 @@ fiscally
 fosse 1
 foujdary 4
 fourierian 2
-flavorousness 4
+flavorousness 5
 fluoroscopists 3
 fake 1
 fulcral 1
@@ -11491,7 +11491,7 @@ furtively 4
 furud 2
 flamboyant
 flotant
-faddisms 4
+faddisms 5
 fructuousness 3
 fashery 1
 furunculous
