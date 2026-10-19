@@ -774,7 +774,7 @@ euomphalid
 egger 1
 ecrase 2
 enclitic 1
-escort
+escort 1
 extense 1
 eremophilous 1
 experimental 1
@@ -2160,7 +2160,7 @@ esophagostenosis 2
 eyestring 3
 ensorceling 2
 explicandum 6
-electropult 2
+electropult 3
 elation 1
 euphonise 3
 enrib
@@ -7751,7 +7751,7 @@ exterritorially 1
 emergents 3
 englify 1
 ensure 1
-emendable 3
+emendable 4
 estopping
 equips 1
 edelweisses
@@ -10595,7 +10595,7 @@ eucone 2
 eucopepoda 1
 electrotechnic 1
 eucosmidae
-ecstasis 1
+ecstasis 2
 expensing 1
 englobing 1
 evernioid 1
@@ -13419,7 +13419,7 @@ exploring 3
 ensnaringly 4
 expressional 3
 erupted
-eikones 1
+eikones 2
 ebionitic 1
 ectogenic 2
 excitingly 3
@@ -13914,7 +13914,7 @@ entortill
 extorter 4
 ectoderm 2
 eburnated 3
-extramoral 1
+extramoral 2
 electee 3
 empathy 3
 epimerizing 5
