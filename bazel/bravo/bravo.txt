@@ -3476,7 +3476,7 @@ bagworms
 blotlessness 1
 biennium 2
 boyla 2
-batamote 1
+batamote 2
 biosis 1
 batarde 2
 bullaces 1
@@ -5658,7 +5658,7 @@ belderroot 1
 bodgie 1
 beleaguering 2
 bongar 1
-badgeless 2
+badgeless 3
 beleapt 2
 belection
 brining
@@ -14626,7 +14626,7 @@ bacteriologic 1
 bibliomanism 1
 brantness
 brants
-bararesque
+bararesque 1
 branular 1
 babyishly 1
 basiparaplastin 1
