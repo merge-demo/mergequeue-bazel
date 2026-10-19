@@ -3154,7 +3154,7 @@ baser 1
 brazen 2
 blanda 1
 besetter 1
-biddie 1
+biddie 2
 bayete 1
 bashers 3
 bashibazouk 1
@@ -4652,7 +4652,7 @@ ballistically
 bedews 1
 broadgage 2
 brunhild 2
-breakfastless
+breakfastless 1
 beltmaking 2
 bhikhari 2
 briquetted 2
@@ -10916,7 +10916,7 @@ bombers 1
 blindstories 2
 brede
 blindweed 4
-blindworm 3
+blindworm 4
 backscratcher 3
 blackamoor
 beshiver
@@ -12350,7 +12350,7 @@ bobfly 2
 brimful
 broideries 2
 bathyplankton
-bombing
+bombing 1
 beautifies
 buttoned 1
 benzoxyphenanthrene 1
@@ -17112,7 +17112,7 @@ burghmote 1
 braconniere 2
 breadseller 2
 bacteric
-bombazeen 1
+bombazeen 2
 bulletproofing 2
 blowhard 3
 britchka 1
@@ -17683,7 +17683,7 @@ birgus 3
 bordage 1
 blackfin 3
 blueings
-bonuses 3
+bonuses 4
 boomlets 1
 burleycue
 blisterous 1
