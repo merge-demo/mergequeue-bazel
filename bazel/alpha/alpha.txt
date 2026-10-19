@@ -136,7 +136,7 @@ aulostoma 1
 abasic 1
 anachueta
 alcarraza 3
-amused
+amused 1
 afterwitted
 amyotrophic
 amoebid 2
@@ -21986,7 +21986,7 @@ avantgarde 2
 antireligiosity 2
 assume
 araneidal 1
-apophis 1
+apophis 2
 anthography 1
 assumers
 aircrewmen 1

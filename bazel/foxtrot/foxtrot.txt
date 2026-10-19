@@ -4388,7 +4388,7 @@ fixion 4
 fishboats 5
 fonduk
 fishbolts 1
-flechette
+flechette 1
 funt 2
 floorshifts 2
 flagged 1
@@ -8938,7 +8938,7 @@ filosus 3
 faultfinder 2
 funambulist 4
 fuddling 1
-flaggiest 1
+flaggiest 2
 frustule 1
 footsoreness 2
 fanmaking 2
