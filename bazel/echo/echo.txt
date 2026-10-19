@@ -7512,7 +7512,7 @@ estall 1
 eophytic
 endited 1
 eastmost 2
-electrosynthesis 4
+electrosynthesis 5
 ethylate 1
 epibatholithic 4
 electrodepositor 2
@@ -10227,7 +10227,7 @@ elzevirian 1
 elaborates 2
 extruders
 evansite 5
-epanorthosis
+epanorthosis 1
 errsyn
 experiences 4
 embedded 1
