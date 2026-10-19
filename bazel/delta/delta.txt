@@ -11843,7 +11843,7 @@ decrement 1
 dustbin 2
 discure 2
 discriminates 1
-disponee 1
+disponee 2
 disgorger 1
 dawing 2
 deuteroprism
@@ -12752,7 +12752,7 @@ dislocatory 3
 drivecap 3
 detroit 2
 dodrans
-dupondii
+dupondii 1
 dakoits 1
 domesticize 2
 deer 4
