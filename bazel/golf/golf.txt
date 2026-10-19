@@ -731,7 +731,7 @@ gujar 3
 gripple 4
 galvanizing 3
 gemmiferousness 1
-gunner 2
+gunner 3
 giantlikeness 1
 gollywog 2
 gonoplasm 1
@@ -2390,7 +2390,7 @@ gongoristic 3
 gentianal 5
 gilver 1
 geminates 1
-gote 1
+gote 2
 gaulish 3
 gambadoes 4
 gobioidei 1
