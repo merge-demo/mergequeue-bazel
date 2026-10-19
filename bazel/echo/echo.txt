@@ -1940,7 +1940,7 @@ eyeleted 2
 enabled
 echinulate 3
 estoppal
-eurypterid
+eurypterid 1
 elaphe 1
 essenical 1
 ejected 2
