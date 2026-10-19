@@ -1121,7 +1121,7 @@ dashed 1
 dicentra 1
 dipnoid 1
 dermopathy 4
-dumpfile 1
+dumpfile 2
 dryfist 2
 dashee
 dasheen 1
@@ -10683,7 +10683,7 @@ digoxin 2
 derationalize 4
 dreadlessness
 denunciating 1
-demorage
+demorage 1
 disendower 1
 disapprover 1
 drownproofing 1
