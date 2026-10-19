@@ -6380,7 +6380,7 @@ biozone 1
 belgium 1
 benzoglycolic 2
 benzoglyoxaline 1
-bastioned 1
+bastioned 2
 benzohydrol 1
 benzoylated 1
 becuna 1
@@ -7764,7 +7764,7 @@ blessings
 bethwine 1
 balibuntl 3
 biajaiba
-bialate
+bialate 1
 bidonville
 berain 2
 bezante 1
