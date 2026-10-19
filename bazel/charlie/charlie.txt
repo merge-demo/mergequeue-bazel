@@ -27020,7 +27020,7 @@ contoid
 chimneypot 1
 counterpoints 2
 cataleptiform 3
-contestable
+contestable 1
 chronical 2
 counterpoison
 cara
