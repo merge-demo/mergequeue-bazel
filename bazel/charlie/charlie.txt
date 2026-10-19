@@ -15787,7 +15787,7 @@ chelaship
 corruptibly 1
 colonized 3
 clearable
-clearance 1
+clearance 2
 clearances 2
 commensurately 1
 counterfeitness 2
