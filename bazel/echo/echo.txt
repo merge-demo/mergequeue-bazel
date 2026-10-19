@@ -7512,7 +7512,7 @@ estall 1
 eophytic
 endited 1
 eastmost 2
-electrosynthesis 4
+electrosynthesis 5
 ethylate 1
 epibatholithic 4
 electrodepositor 2
