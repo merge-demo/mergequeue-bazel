@@ -8987,7 +8987,7 @@ countersignature 1
 compartment 1
 charism 1
 charismata
-chokecherry 1
+chokecherry 2
 consuete 1
 charismatic
 collationer 2
@@ -13130,7 +13130,7 @@ cytogenies 2
 coverless
 cudgelled
 cicatrice 1
-colocolo
+colocolo 1
 cicatrices
 cicatricle 1
 chamberdeacon
@@ -14379,7 +14379,7 @@ ceriomyces
 callously
 citrus 1
 clicky 2
-circumvest
+circumvest 1
 circumvoisin
 contrapletal 1
 circumvolution
