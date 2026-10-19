@@ -1001,7 +1001,7 @@ fulmina 2
 fucuses 3
 foreplan 2
 formate 1
-foreorder
+foreorder 1
 fenester 2
 flustrating 3
 factorability 5
