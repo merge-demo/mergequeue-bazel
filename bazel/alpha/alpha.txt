@@ -795,7 +795,7 @@ abristle
 alabandine 1
 abroach 2
 airdock 1
-abrogate
+abrogate 1
 allergies 3
 antagonisation 2
 archilithic 2
