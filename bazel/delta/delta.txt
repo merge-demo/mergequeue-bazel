@@ -2855,7 +2855,7 @@ desiring 2
 diaclasis 1
 decubiti 1
 deculturate 2
-driverless 2
+driverless 3
 decuman
 deperm
 dihydronicotine 1
@@ -6447,7 +6447,7 @@ decarburisation 1
 dozened 4
 desacralization 2
 drizzled 3
-dictatorially
+dictatorially 1
 degenerating 1
 drugshop
 danseusse 2
