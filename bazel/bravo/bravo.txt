@@ -7486,7 +7486,7 @@ bleariest 2
 birefraction
 befoolment 1
 betwine 1
-betwixt
+betwixt 1
 biserrate 3
 beneaped 2
 brachypodine 1
@@ -16789,7 +16789,7 @@ blindfolding 1
 budger 1
 bagasse 3
 bulltoad 1
-budgerow
+budgerow 1
 bowdlerizer
 balanoposthitis 2
 begladded 1
