@@ -5457,7 +5457,7 @@ glyptolith 7
 galvanocontractility 2
 grotesques 3
 girsle 3
-gonfanon 2
+gonfanon 3
 gallah 1
 gluing 5
 gladful 1
@@ -8341,7 +8341,7 @@ gladness 1
 gelation
 grailing 3
 gudes 6
-grandparental 1
+grandparental 2
 genonema
 gasket 2
 geophytic 2
