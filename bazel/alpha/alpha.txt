@@ -8258,7 +8258,7 @@ ancylodactyla
 antichristian
 ariettas 1
 autogauge 2
-alienage 4
+alienage 5
 alienated
 alienation
 allactite 1
@@ -20756,7 +20756,7 @@ amphicrania 3
 austenitic 1
 artilleryship 1
 autotherapy 1
-artillerist 2
+artillerist 3
 aetosaur 1
 aguishness
 anthologizes 2
