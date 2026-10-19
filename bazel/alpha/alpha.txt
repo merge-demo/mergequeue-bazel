@@ -13511,7 +13511,7 @@ alister
 annoyance 3
 athenian
 attributal 2
-annoyances
+annoyances 1
 anthropopathy
 antefact
 appeasing 1
@@ -24695,7 +24695,7 @@ adelopod
 angiogenic
 adelphi 1
 antiracial 2
-avgas
+avgas 1
 aerobiotic 4
 amusedly
 abevacuation
