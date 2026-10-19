@@ -99,7 +99,7 @@ gadge 2
 gynobaseous 1
 goldthread 4
 goodnaturedness 2
-glassily 2
+glassily 3
 greengill 3
 gadgetry
 geezer 2
@@ -431,7 +431,7 @@ garnishees 2
 grapeys 4
 galeage 1
 goober 4
-gair
+gair 1
 guests 1
 glucic 3
 gamosepalous 8
@@ -4972,7 +4972,7 @@ granita 3
 gainst 5
 growze 3
 gauziest 6
-ganancias
+ganancias 1
 goldic
 gymnogen 3
 gawker 3
