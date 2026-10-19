@@ -5221,7 +5221,7 @@ guttae 3
 groundsheet 1
 gale 2
 gleamless 3
-gleed 1
+gleed 2
 gramophone 2
 germinant 6
 glyptologist 1
@@ -6181,7 +6181,7 @@ glandiferous 1
 gynecomastia
 givens
 glistened 2
-greenhead 2
+greenhead 3
 goliaths 5
 gambodic 5
 gallotannate 2
