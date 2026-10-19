@@ -5826,7 +5826,7 @@ currish
 categorise 2
 categorised
 chansonnier
-cultivated
+cultivated 1
 cochlearia 1
 chemicopharmaceutical 1
 cuemanship 2
