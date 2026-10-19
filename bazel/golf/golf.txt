@@ -192,7 +192,7 @@ glede 1
 garbage 4
 gager 2
 governessdom 2
-gastronomic
+gastronomic 1
 gaggery 3
 greenage 4
 gambone 1
@@ -3011,7 +3011,7 @@ goldenknop 3
 gorgoniacean 4
 gaps 1
 goatherdess 3
-guildsmen 1
+guildsmen 2
 geomancy 3
 garnered 1
 grumbled 1
