@@ -7432,7 +7432,7 @@ fileable 1
 fillemot 1
 faience 1
 firefall 2
-floperoo 2
+floperoo 3
 forevalue 1
 firstship 3
 forcibility 1
