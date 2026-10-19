@@ -4642,7 +4642,7 @@ epithalamic 1
 enchytraeid 2
 emceing 1
 enchytraeus 2
-eupad 1
+eupad 2
 eradicative 3
 endoabdominal 4
 eulogical 4
@@ -12964,7 +12964,7 @@ exodoi 2
 exclusion 3
 equipartile 1
 epicyclical 3
-excommunicated
+excommunicated 1
 expected 2
 eucharises 3
 embathe 2
