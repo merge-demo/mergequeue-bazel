@@ -9495,7 +9495,7 @@ attemperate 3
 antivenins
 alternatively 2
 alternativeness
-acaleph
+acaleph 1
 alternatives 2
 angioblast 1
 alternifoliate 2
@@ -23568,7 +23568,7 @@ archpresbyterate 1
 akamnik
 amminochloride
 antarala
-aumakua 1
+aumakua 2
 awardees 1
 arnotto 1
 anapnometer 3
