@@ -7235,7 +7235,7 @@ equinecessary 4
 ells 2
 eh 2
 estolide 2
-esplanades 1
+esplanades 2
 elpasolite 1
 electropercussive 3
 enguard 4
@@ -9054,7 +9054,7 @@ emptier 2
 erythrocytolysis 4
 eelier 3
 enhypostasis 3
-ephyrae 2
+ephyrae 3
 evocatively 2
 etnean
 epicyclic 1
