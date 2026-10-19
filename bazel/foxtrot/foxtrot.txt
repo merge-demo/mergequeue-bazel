@@ -381,7 +381,7 @@ froes 2
 fluorides
 faintly
 ferrymen
-fearer 2
+fearer 3
 filicauline 4
 forbid 1
 fairfieldite 2
@@ -11492,7 +11492,7 @@ furud 2
 flamboyant
 flotant
 faddisms 4
-fructuousness 2
+fructuousness 3
 fashery 1
 furunculous
 furzeling 4
