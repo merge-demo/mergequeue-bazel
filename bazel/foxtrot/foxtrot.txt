@@ -3066,7 +3066,7 @@ foregone 4
 fractionalization 1
 fibril 1
 fuzing 2
-filtratable 1
+filtratable 2
 fairily 4
 fluorin
 fusils 2
