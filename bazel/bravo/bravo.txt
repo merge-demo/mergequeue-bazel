@@ -1985,7 +1985,7 @@ bani
 bevelers 2
 blea 1
 bimbo
-believably 1
+believably 2
 bedstand 2
 brachydiagonal 2
 baniya 4
@@ -7093,7 +7093,7 @@ bawdiness 1
 bespell 1
 bespelled 2
 bespend 1
-bespew
+bespew 1
 biparietal 4
 boucherism 1
 bandfiling 2
