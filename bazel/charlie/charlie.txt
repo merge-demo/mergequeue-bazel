@@ -8423,7 +8423,7 @@ cultrirostral 1
 chamfer 1
 cabirean
 chamfers
-chamfrain
+chamfrain 1
 calvaria
 carilloneur
 cradock
