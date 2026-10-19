@@ -15310,7 +15310,7 @@ archeol
 anthracite
 adapters 1
 amperages 1
-antihero
+antihero 1
 amphoriskos
 azulejo 1
 anticonscriptive 2
