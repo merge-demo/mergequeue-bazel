@@ -6709,7 +6709,7 @@ bermensch 1
 brith
 bermes 1
 bourgeoisify
-bagaudae 1
+bagaudae 2
 biked 3
 blurted 2
 brawler 1
@@ -9878,7 +9878,7 @@ bitterender 3
 ballooning 1
 bapt 3
 bemingling 1
-baffed 1
+baffed 2
 bismer 1
 blockers 1
 bewhisper 2
@@ -13053,7 +13053,7 @@ bulder 1
 bordroom
 botchier 3
 borinqueno 1
-balling 1
+balling 2
 barf 2
 blizzard 1
 borecoles

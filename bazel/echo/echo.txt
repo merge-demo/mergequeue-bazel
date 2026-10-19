@@ -5973,7 +5973,7 @@ eruc 1
 erythrose 2
 euflavine 2
 epicondylitis 1
-expectorates
+expectorates 1
 enframing 3
 enigma 3
 egotism 2
@@ -11933,7 +11933,7 @@ epithelia 4
 equestrienne 2
 ericineous 2
 excessively 1
-ecole 2
+ecole 3
 espousals 3
 endamebas 2
 exchanges 3
