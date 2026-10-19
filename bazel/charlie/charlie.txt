@@ -2698,7 +2698,7 @@ chaperone 4
 carriable 3
 cankereat
 cankered 1
-codders 1
+codders 2
 cephalosporium 1
 cording
 cubitopalmar 2
@@ -6105,7 +6105,7 @@ cats 1
 catskill
 catso 2
 catsos
-carloadings 1
+carloadings 2
 catspaw
 catstane
 catstep
@@ -6395,7 +6395,7 @@ car
 cribbers
 cilantro 1
 cautery
-cauteries
+cauteries 1
 cauterisation 1
 couche 2
 cauterise 1
@@ -15787,7 +15787,7 @@ chelaship
 corruptibly 1
 colonized 3
 clearable
-clearance 1
+clearance 2
 clearances 2
 commensurately 1
 counterfeitness 2
