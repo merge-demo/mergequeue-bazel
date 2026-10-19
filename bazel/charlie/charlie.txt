@@ -19681,7 +19681,7 @@ combaron 1
 combasou 1
 combat 2
 criminal
-combatable 1
+combatable 2
 chroma 1
 chrismale
 combatant
