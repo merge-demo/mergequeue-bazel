@@ -2226,7 +2226,7 @@ bevesselled 3
 barbarically 2
 blandiloquous 1
 barbequing
-bourage
+bourage 1
 barricos 2
 buddler 2
 bassoons 3
@@ -3959,7 +3959,7 @@ beachdrops 1
 biliment
 bowed 3
 bumpiest 1
-bisulphate 3
+bisulphate 4
 backstays 1
 bratty 3
 boltspreet 1
