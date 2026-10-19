@@ -4897,7 +4897,7 @@ backspeer 2
 bomarea
 beechwood 1
 bright
-bourbons 1
+bourbons 2
 belaud 1
 blackeyes 1
 bolderian
@@ -8728,7 +8728,7 @@ bosc 1
 beagling
 behests 3
 behinder 3
-barycentre 3
+barycentre 4
 brontozoum 1
 birchen 1
 binal 1
@@ -16641,7 +16641,7 @@ brember 1
 balza 1
 buccolabial 2
 bucconinae 2
-buccopharyngeal 3
+buccopharyngeal 4
 bucculae 6
 butyr
 bloused 2
