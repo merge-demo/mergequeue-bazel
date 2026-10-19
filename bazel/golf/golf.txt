@@ -4236,7 +4236,7 @@ gyromagnetic 1
 galvanomagnetism 3
 gynaecological 1
 gabbiness 3
-gobbing 4
+gobbing 5
 gastornis 1
 gynaeconitis 4
 geysers
@@ -6984,7 +6984,7 @@ goof 3
 goofah 3
 guaniferous 1
 greystone 3
-gebanga 3
+gebanga 4
 guirlande 2
 gauntries 1
 gushiest 2
