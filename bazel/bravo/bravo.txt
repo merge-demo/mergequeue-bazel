@@ -4063,7 +4063,7 @@ bskt 1
 beamroom 1
 baragnosis
 blitzkrieged 1
-beams
+beams 1
 bean 1
 boldness 4
 begottenness 1
@@ -9723,7 +9723,7 @@ backslapped
 buildingless 2
 bioenergetics 3
 boatie 6
-byssoid
+byssoid 1
 buckskin 1
 bedragglement 4
 bissonata 1
