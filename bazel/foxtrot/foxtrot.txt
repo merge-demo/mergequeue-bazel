@@ -2951,7 +2951,7 @@ flaked 1
 furloughs 1
 fungological 2
 froths 3
-fevered 2
+fevered 3
 flitchen 2
 furnacing
 franklinian 2
@@ -4628,7 +4628,7 @@ fally 2
 flavory 1
 fullams 3
 fitout 5
-fitchered 4
+fitchered 5
 foolfish 1
 fitters 3
 foxery 4
