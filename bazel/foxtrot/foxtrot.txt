@@ -991,7 +991,7 @@ fishing 1
 flustering 2
 frivoller
 flyaway 2
-formyl 2
+formyl 3
 fondlings 2
 forritsome
 fontanges 1
@@ -1708,7 +1708,7 @@ flourless 1
 foodservices 3
 fuselage 1
 faviform 4
-feasibly 4
+feasibly 5
 fashionmonger 5
 flighted 1
 fascio
@@ -3526,7 +3526,7 @@ flyweight 6
 fleetingly 3
 fernland 6
 figures 2
-feelingless 2
+feelingless 3
 foreact 4
 fasciculi 3
 foresting 1
@@ -3745,7 +3745,7 @@ fiscally
 fosse 1
 foujdary 4
 fourierian 2
-flavorousness 4
+flavorousness 5
 fluoroscopists 3
 fake 1
 fulcral 1
@@ -3779,7 +3779,7 @@ fluxing 2
 francize
 fascistically 1
 flowed
-fiducial 3
+fiducial 4
 forehold 2
 fibrocystic
 futilous 2
@@ -8984,7 +8984,7 @@ fourragere 3
 flutter 1
 fermila 1
 fiefdoms 4
-foreshadower 1
+foreshadower 2
 frontally 2
 fourrageres
 fox 3

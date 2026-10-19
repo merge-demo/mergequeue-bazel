@@ -3840,7 +3840,7 @@ carbomethoxyl 2
 carbon 2
 carbonaceous 4
 cuter
-cleavability
+cleavability 1
 ceratite 2
 carbonarist 2
 carbonatation
@@ -14615,7 +14615,7 @@ cystoma
 cystomas 2
 corpusculum 1
 cystometer
-cystomyoma 1
+cystomyoma 2
 coadore 2
 cystomyxoma 5
 chillum 1
@@ -23184,7 +23184,7 @@ coiffure
 constrainingly
 cubbyhole
 constraints
-confervaceous
+confervaceous 1
 cardioscope 2
 constrict 1
 clamative
@@ -26369,7 +26369,7 @@ cellulitis
 chrysanilin
 coteaux
 coted 1
-cling 1
+cling 2
 cans
 coteen 1
 cotele
