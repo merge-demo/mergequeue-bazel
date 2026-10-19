@@ -131,7 +131,7 @@ dyspathetic
 demiurgus 2
 descendental 2
 dingier 2
-deadcenter
+deadcenter 1
 drumsticks 1
 drawbench
 deviascope 4
@@ -1529,7 +1529,7 @@ diagnosable 2
 dowsabel
 diglucoside 5
 decontaminations 2
-doatish 1
+doatish 2
 diddlers 2
 denture
 dieugard 4
@@ -10752,7 +10752,7 @@ dhoon 1
 decessor 1
 dipsie
 declared 2
-decarboxylize 2
+decarboxylize 3
 drainspout
 drools 1
 discomfiture 1
