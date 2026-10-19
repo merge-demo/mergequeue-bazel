@@ -1092,7 +1092,7 @@ abusefully 1
 abusefulness 1
 arabinose 1
 antiegoism 3
-aminomyelin 1
+aminomyelin 2
 aroint
 abuses 1
 aphyllies 1
@@ -9906,7 +9906,7 @@ acetonization 3
 acceptive
 amateur
 antidotal 1
-arietid
+arietid 1
 amateurishness 2
 aspergillaceae 1
 airsheet
@@ -11602,7 +11602,7 @@ anachronismatical 1
 achamoth
 agars 1
 afright 1
-anachronize 1
+anachronize 2
 animalish
 albuminuria 4
 allothigenic 1
