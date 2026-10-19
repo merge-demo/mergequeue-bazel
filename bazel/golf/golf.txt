@@ -711,7 +711,7 @@ galvanically 3
 glossatorial 3
 grapholite 2
 grossify
-gooranut 4
+gooranut 5
 galvanised 1
 germanistic 1
 gawn 2
@@ -3156,7 +3156,7 @@ greedygut
 gets 1
 geoscientists 2
 geochronologically 3
-gellant 1
+gellant 2
 gavotte 3
 glowered 3
 ginnings 1
@@ -4097,7 +4097,7 @@ grasshop
 grasped 1
 glucolipid
 gimel 3
-gobernadora 4
+gobernadora 5
 gegenschein
 gogglebox 3
 genus 1
@@ -4718,7 +4718,7 @@ galchic 3
 gifting 2
 gelatia 2
 giraffes 4
-generis 1
+generis 2
 gastraeas 2
 guzmania 5
 guanacos 4
@@ -8537,7 +8537,7 @@ girliness 2
 grallatory 6
 gravette 1
 gaufrette 3
-goniatitidae 1
+goniatitidae 2
 gallwort 1
 gith 3
 gourmand 3
@@ -8687,7 +8687,7 @@ glacification 4
 germanious 3
 galactophygous 2
 greediest 1
-grandfilial 1
+grandfilial 2
 garths 2
 gannetry 4
 grassily 2
@@ -9033,7 +9033,7 @@ groomer 4
 grillee 1
 gatehouse 2
 golem 6
-gramashes 3
+gramashes 4
 granatum 1
 geomorphogenist 2
 gastrocnemian 1
