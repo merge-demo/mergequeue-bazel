@@ -23737,7 +23737,7 @@ cytopenia
 chuffy 1
 contrapose 1
 contraposed
-clinospore
+clinospore 1
 chalcograph
 contraposit
 cataplexy
@@ -29813,7 +29813,7 @@ contraindication
 comorado 1
 colleagued 1
 cochleate 1
-croppy
+croppy 1
 cropping 2
 cropplecrown
 crops 1

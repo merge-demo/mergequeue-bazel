@@ -2354,7 +2354,7 @@ gainturn 2
 guavaberry 3
 ghazal 4
 grundified 1
-glandes 3
+glandes 4
 geraty 2
 georgette 1
 gelosie 2
@@ -10836,7 +10836,7 @@ greengrocery 2
 greenbackism 3
 grayhead 2
 generality 2
-gyrofrequency 1
+gyrofrequency 2
 genethlialogical 3
 gyrograph 2
 guttar 1
