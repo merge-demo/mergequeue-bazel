@@ -3602,7 +3602,7 @@ carabine 1
 carabiner
 carabineros
 claik 1
-carabines
+carabines 1
 coprahs 1
 calefaction 1
 carabinier 4
@@ -8004,7 +8004,7 @@ chacate 2
 complainable 2
 chimin
 caravansaries 1
-camphoraceous 2
+camphoraceous 3
 chaccon 2
 chachalakas 1
 chackchiuma
