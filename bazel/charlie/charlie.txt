@@ -9159,7 +9159,7 @@ charwomen 1
 chase 1
 chaseable 1
 chased 1
-corbeilles
+corbeilles 1
 chases 1
 chashitsu 1
 chasm 1
