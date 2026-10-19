@@ -3576,7 +3576,7 @@ epidesmine 1
 emboscata 6
 exclusionary 1
 ectoglia
-electrometallurgist 2
+electrometallurgist 3
 embosoming 3
 euchlaena 2
 encraal 1
