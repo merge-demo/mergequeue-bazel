@@ -25568,7 +25568,7 @@ coroutines 1
 clericum
 corp
 corpn
-corpora
+corpora 1
 corporacy 2
 corporacies
 calcic
