@@ -996,7 +996,7 @@ drupes
 disavowedly
 dekadarchy
 daringness 3
-dit 1
+dit 2
 darings 1
 dithematic 1
 darius 1
@@ -3904,7 +3904,7 @@ desilicated
 deja 3
 dejection
 devested
-derivation 4
+derivation 5
 dejects 1
 drake 1
 dejeration 4
@@ -10699,7 +10699,7 @@ danelaw 3
 doublewords
 dipodic 2
 dipodid 4
-deleble 1
+deleble 2
 destained 1
 depastured
 dawting 2

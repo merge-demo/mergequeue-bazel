@@ -6853,7 +6853,7 @@ hkcfkgw 1
 hkcgapin 2
 hkchlaxrojhsn 2
 hkciembj 3
-hkcj
+hkcj 1
 hkcjmfhgfcx
 hkcotvupkx 5
 hkcpbzvbek 3
@@ -13221,7 +13221,7 @@ hvpprvgf 1
 hvpqdsdtsasnjz 1
 hvprlioyelty 3
 hvpudxnwcubid 1
-hvpxcqtgmkd 1
+hvpxcqtgmkd 2
 hvpxggv 2
 hvqawjyyv 1
 hvqbadqy 3
