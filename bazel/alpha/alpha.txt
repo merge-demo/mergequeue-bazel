@@ -3446,7 +3446,7 @@ addendums 1
 archaized
 adder
 abridgment 2
-addibility 1
+addibility 2
 arythmias 1
 antroversion 5
 addible 1
@@ -11887,7 +11887,7 @@ anamorphoscope
 apophlegmatism 1
 arrears 2
 ankylenteron 1
-anamorphosis
+anamorphosis 1
 accurre
 acetarious 1
 archvagabond 3
@@ -14129,7 +14129,7 @@ antennifer 1
 antefixes
 acraturesis
 antennula 2
-agapae 1
+agapae 2
 antiegoistically
 antenodal 2
 angelic 3

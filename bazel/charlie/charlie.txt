@@ -3840,7 +3840,7 @@ carbomethoxyl 2
 carbon 2
 carbonaceous 4
 cuter
-cleavability
+cleavability 1
 ceratite 2
 carbonarist 2
 carbonatation
@@ -19042,7 +19042,7 @@ collets
 colletside
 chastenment 1
 combustibilities 2
-cresorcin 1
+cresorcin 2
 collibert 2
 confineless
 colonialise 2
@@ -23184,7 +23184,7 @@ coiffure
 constrainingly
 cubbyhole
 constraints
-confervaceous
+confervaceous 1
 cardioscope 2
 constrict 1
 clamative

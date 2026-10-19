@@ -1344,7 +1344,7 @@ elemin 1
 explosives
 eelspear 4
 effeminising
-effeminize
+effeminize 1
 effeminizing 2
 exhibitionize 1
 ervil 5
@@ -4331,7 +4331,7 @@ esture 2
 elytroclasia 3
 expulsive 4
 expansibleness 2
-enactor 4
+enactor 5
 epigrammatize 1
 entoproct 1
 echoed 2
