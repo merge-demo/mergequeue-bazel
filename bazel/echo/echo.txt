@@ -8849,7 +8849,7 @@ endocellular 2
 eremitism 4
 euploidy 5
 ecuelling
-epitheloid
+epitheloid 1
 enkernel 1
 ecospecifically 1
 esthesiometer 3
