@@ -3538,7 +3538,7 @@ fly 5
 fissipalmation
 flexuoseness 1
 feud 1
-fitchets 4
+fitchets 5
 floundering
 figuriste 2
 flicked 1
@@ -9330,7 +9330,7 @@ freath 4
 fathoming 2
 flane 1
 fewmets 4
-fromward 2
+fromward 3
 ferromagnesian 2
 frangulic 1
 forjudge
