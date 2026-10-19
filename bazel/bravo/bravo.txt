@@ -1618,7 +1618,7 @@ ballots 2
 ballottement
 backlotter 3
 baronage 1
-bahamian
+bahamian 1
 byelorussians
 ballottines 1
 bathwort 2
@@ -7032,7 +7032,7 @@ bascinet 1
 bitterly 1
 babeship
 bemuzzling 1
-besot 1
+besot 2
 baronet 2
 boodh 2
 boothian 2
@@ -12691,7 +12691,7 @@ biaswise 3
 bear
 bungarus 2
 boroughmongering 1
-benchless 1
+benchless 2
 baldachini
 baianism
 backhander 1
