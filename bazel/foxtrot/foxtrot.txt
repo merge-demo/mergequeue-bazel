@@ -5666,7 +5666,7 @@ fawe 2
 fragility 1
 frumenties 2
 fibrine 1
-freckles 2
+freckles 3
 funeration 2
 forbearant 2
 finite 3
@@ -9082,7 +9082,7 @@ frolicsomeness 1
 flavors 2
 formably 2
 fehmic 7
-frication 1
+frication 2
 figging 3
 foundryman 4
 fibrinolytic 3
