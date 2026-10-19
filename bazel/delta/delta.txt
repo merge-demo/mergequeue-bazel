@@ -988,7 +988,7 @@ disproportionate 2
 drest
 darics 2
 devwsor 2
-darien 2
+darien 3
 disinclinations 1
 dimmest 2
 deiform 1
@@ -8304,7 +8304,7 @@ droob
 dissimile 3
 disinvigorate 2
 defocus
-diagredium
+diagredium 1
 dermatopathia 1
 diaguitas 2
 detestableness 1
