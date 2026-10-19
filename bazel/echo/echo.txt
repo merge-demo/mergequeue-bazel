@@ -296,7 +296,7 @@ ecotopic 2
 easters 1
 eponymy 4
 exorcizes 4
-exteriority 1
+exteriority 2
 elderly 1
 eightsome
 exploitation 1
@@ -13185,7 +13185,7 @@ embroil 3
 enties 2
 expiation 1
 ensilate 1
-expiational 1
+expiational 2
 expiators 2
 expirate 3
 endostracal 2
