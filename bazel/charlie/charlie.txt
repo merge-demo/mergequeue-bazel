@@ -12353,7 +12353,7 @@ chemotic 2
 coracohyoid 2
 cholent
 crack
-chloroanaemia
+chloroanaemia 1
 caudiform
 coroplasty
 carpophyll
