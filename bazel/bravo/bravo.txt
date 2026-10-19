@@ -7400,7 +7400,7 @@ bombesin 1
 bradshaw 2
 behaviours 1
 bookbinders 1
-bromated 2
+bromated 3
 betrayed 1
 bequeathment 3
 bimarginate 3
@@ -14315,7 +14315,7 @@ bragly 2
 broachers 2
 bye
 biznaga 1
-boatowner
+boatowner 1
 blubbing
 barefit 3
 brahmachari 2
