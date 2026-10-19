@@ -10916,7 +10916,7 @@ bombers 1
 blindstories 2
 brede
 blindweed 4
-blindworm 3
+blindworm 4
 backscratcher 3
 blackamoor
 beshiver
