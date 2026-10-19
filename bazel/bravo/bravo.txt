@@ -9141,7 +9141,7 @@ biotical
 bobwhite
 bespreads 2
 beanstalks
-beguilingness
+beguilingness 1
 booklouse 2
 bruted 1
 banksides
