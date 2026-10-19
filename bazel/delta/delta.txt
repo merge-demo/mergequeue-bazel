@@ -10780,7 +10780,7 @@ dipterocarpous 3
 dipterocarpus
 delay 3
 divas 1
-dependent 1
+dependent 2
 dipterus 2
 dotterel 1
 diptychs 2
@@ -17539,7 +17539,7 @@ drumbles 1
 depudorate 1
 drumfishes
 drumhead 1
-disvaluing
+disvaluing 1
 decolour 3
 disassimilation 3
 dynamiter
