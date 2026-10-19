@@ -10490,7 +10490,7 @@ dendrodra
 disordeine 2
 diphthonging 3
 diphthongisation 2
-deisticalness
+deisticalness 1
 dozent
 dalar 2
 daglock 3
@@ -15525,7 +15525,7 @@ desensitize 2
 dongola 1
 drams 1
 decrew 2
-doni 1
+doni 2
 diopsides 2
 deliquesced
 disaffection 1
