@@ -814,7 +814,7 @@ faun 3
 fenny 2
 frogeyes 2
 formfitting 2
-fixatives 2
+fixatives 3
 fluctuations 3
 fanjet 2
 fastened 6
@@ -3599,7 +3599,7 @@ flapjacks
 fussle 2
 fairbanks 1
 fourniture 5
-flank 2
+flank 3
 filers 3
 fructification 3
 felinity 2
@@ -8307,7 +8307,7 @@ freestyler 5
 fusspots 1
 forenames 2
 forepole 3
-foregame 3
+foregame 4
 fraternising 1
 fountaining 4
 foursome 1

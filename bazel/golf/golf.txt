@@ -9392,7 +9392,7 @@ genotypic 1
 gesticulating 2
 grosshead 3
 grossly 6
-grosso 5
+grosso 6
 gowans 2
 gabriel 6
 grizzled 3
@@ -10050,7 +10050,7 @@ gadflies 3
 geomorphologist
 gondoliers
 ginn 3
-gueridons 2
+gueridons 3
 gasking 2
 garnering 1
 gongman 1
