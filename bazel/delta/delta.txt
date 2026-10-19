@@ -2124,7 +2124,7 @@ decancellate 1
 dominator 3
 decancellated 1
 disciplinarian
-debaser
+debaser 1
 decipher
 decandria 2
 didst 2
@@ -3047,7 +3047,7 @@ disrealize 2
 diluent 1
 deerfly 1
 diazoate 2
-deerfood 2
+deerfood 3
 deservings 2
 dragonfish
 disestablishment 2

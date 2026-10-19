@@ -3576,7 +3576,7 @@ epidesmine 1
 emboscata 6
 exclusionary 1
 ectoglia
-electrometallurgist 2
+electrometallurgist 3
 embosoming 3
 euchlaena 2
 encraal 1
@@ -11058,7 +11058,7 @@ encomimia 2
 exuberating 2
 emporial 4
 elegit 1
-electrostereotype
+electrostereotype 1
 europium
 expressionistically 1
 epipharynx 2
