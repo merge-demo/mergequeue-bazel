@@ -10765,7 +10765,7 @@ befuddlers 2
 bywords 1
 befrill 3
 boatsmen 1
-blepharadenitis
+blepharadenitis 1
 blepharanthracosis 3
 bromaurate
 barkingly
@@ -11015,7 +11015,7 @@ bladelike 3
 bargello 1
 bullyrags
 bp 1
-bromoethylene 2
+bromoethylene 3
 brassia
 breading 3
 bottleholder
@@ -12140,7 +12140,7 @@ bikukulla 1
 beteem
 buddhahood 1
 bloomkin
-bolero
+bolero 1
 bivoltine 4
 bewormed
 biclavate 1
