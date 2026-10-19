@@ -8207,7 +8207,7 @@ geopositive 4
 glutethimide 3
 gravid 2
 gladlier 1
-gigabit
+gigabit 1
 glycerolyses 1
 gelatinise 1
 geometricize 1
