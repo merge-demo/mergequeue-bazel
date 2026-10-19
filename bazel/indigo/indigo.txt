@@ -10944,7 +10944,7 @@ isheg
 ishferl 2
 ishht 1
 ishhug 2
-ishijljmlgngbiuc
+ishijljmlgngbiuc 1
 ishjhutf 6
 ishkden
 ishkopfmny 3
@@ -14904,7 +14904,7 @@ izxwbal 1
 izxxegyhb 1
 izxxkseiphmm 1
 izxzo 2
-izyczy 1
+izyczy 2
 izydce 3
 izygfbsmkpyggk 4
 izygfcupac 2
