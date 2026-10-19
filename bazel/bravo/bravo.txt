@@ -4063,7 +4063,7 @@ bskt 1
 beamroom 1
 baragnosis
 blitzkrieged 1
-beams
+beams 1
 bean 1
 boldness 4
 begottenness 1
