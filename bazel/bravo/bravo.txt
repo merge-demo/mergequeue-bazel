@@ -11384,7 +11384,7 @@ bandits 1
 bluebottle 2
 badinaged 2
 bouncily
-bitterworm 2
+bitterworm 3
 babi 4
 build 1
 beside
