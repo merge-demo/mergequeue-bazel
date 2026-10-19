@@ -991,7 +991,7 @@ fishing 1
 flustering 2
 frivoller
 flyaway 2
-formyl 2
+formyl 3
 fondlings 2
 forritsome
 fontanges 1
@@ -1329,7 +1329,7 @@ fatherly
 fartherer 2
 feest 2
 features 4
-frogginess 3
+frogginess 4
 fendering 5
 fbi 3
 fellani
@@ -3526,7 +3526,7 @@ flyweight 6
 fleetingly 3
 fernland 6
 figures 2
-feelingless 2
+feelingless 3
 foreact 4
 fasciculi 3
 foresting 1
