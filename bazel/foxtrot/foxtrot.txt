@@ -485,7 +485,7 @@ fretting 1
 featherleaf 2
 fetiferous 1
 fullbacks 2
-foremastman
+foremastman 1
 finalisms
 fromwards 2
 fireflies 3
