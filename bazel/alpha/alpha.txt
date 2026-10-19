@@ -6832,7 +6832,7 @@ ascula 1
 aquiculturist
 aeromarine 3
 airified 2
-airiness
+airiness 1
 arecales 1
 atmolyses 1
 anacamptometer
@@ -11175,7 +11175,7 @@ amphibologies 1
 aftermaths
 amphibolous 3
 amia 1
-amphibrachic 1
+amphibrachic 2
 amphicarpaea
 amphicarpia 2
 autallotriomorphic 2
@@ -24635,7 +24635,7 @@ alloxuric
 alcyonacea 1
 aveloz 3
 autoheterodyne 2
-aralkyl 1
+aralkyl 2
 ambassador
 antischolastically
 avena 4
