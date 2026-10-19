@@ -5772,7 +5772,7 @@ gravemaker 2
 galera 1
 galactolysis
 garbel 3
-gade 2
+gade 3
 graphites 3
 glycogenolysis 1
 goorals 3
@@ -9429,7 +9429,7 @@ garbline 2
 glorify 2
 gobia 1
 galliot 1
-gouramis 2
+gouramis 3
 gemmate 5
 garroted
 glandulation 2
