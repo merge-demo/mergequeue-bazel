@@ -2610,7 +2610,7 @@ bunglesome
 barkey 1
 briers 2
 barkery 4
-behn
+behn 1
 barkhan 1
 batman 1
 blastoderm 1
@@ -2776,7 +2776,7 @@ baronetize 4
 ballistocardiographic
 benzeneazobenzene 1
 bedcase 2
-brachyurous 4
+brachyurous 5
 backbencher 1
 barong 2
 befilch 4
@@ -4897,7 +4897,7 @@ backspeer 2
 bomarea
 beechwood 1
 bright
-bourbons 1
+bourbons 2
 belaud 1
 blackeyes 1
 bolderian
@@ -8728,7 +8728,7 @@ bosc 1
 beagling
 behests 3
 behinder 3
-barycentre 3
+barycentre 4
 brontozoum 1
 birchen 1
 binal 1
@@ -15247,7 +15247,7 @@ blooddrop
 bulgarophil 1
 blackfire 2
 butterfingers 3
-bumpsy 1
+bumpsy 2
 beveler 1
 bridelope
 boardman
@@ -16641,7 +16641,7 @@ brember 1
 balza 1
 buccolabial 2
 bucconinae 2
-buccopharyngeal 3
+buccopharyngeal 4
 bucculae 6
 butyr
 bloused 2
@@ -17780,7 +17780,7 @@ base 1
 braiders 2
 burrhead 4
 burrheaded 1
-bedcovers 2
+bedcovers 3
 burrheadedness 2
 baroneted 1
 blinkered 1
