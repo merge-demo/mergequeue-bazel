@@ -1135,7 +1135,7 @@ flexures 1
 flippers 2
 filberts 2
 forefends 2
-flockling 3
+flockling 4
 fimbriodentate 3
 flagrance 1
 florulas 2
@@ -7330,7 +7330,7 @@ focimeter 2
 federally 3
 fiddleheaded
 forechamber 3
-foraminiferal 5
+foraminiferal 6
 fogs 4
 fidgetingly 1
 foible
