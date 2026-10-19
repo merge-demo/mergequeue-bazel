@@ -4652,7 +4652,7 @@ ballistically
 bedews 1
 broadgage 2
 brunhild 2
-breakfastless
+breakfastless 1
 beltmaking 2
 bhikhari 2
 briquetted 2
@@ -12350,7 +12350,7 @@ bobfly 2
 brimful
 broideries 2
 bathyplankton
-bombing
+bombing 1
 beautifies
 buttoned 1
 benzoxyphenanthrene 1
@@ -17112,7 +17112,7 @@ burghmote 1
 braconniere 2
 breadseller 2
 bacteric
-bombazeen 1
+bombazeen 2
 bulletproofing 2
 blowhard 3
 britchka 1
