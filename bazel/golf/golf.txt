@@ -2661,7 +2661,7 @@ gangliectomy 2
 gourde 1
 gervas 2
 gardening 2
-gynophagite 5
+gynophagite 6
 gardeviance 1
 gibbles 1
 genevan 5
@@ -3644,7 +3644,7 @@ gluconeogenic 5
 goldest 3
 gauntleted 1
 gillnetting 1
-gonadotropic 1
+gonadotropic 2
 genearch 2
 ghostdom 2
 gardenin 5
@@ -4589,7 +4589,7 @@ glim 3
 galloper 3
 goobers 1
 gagger 1
-grinter
+grinter 1
 gladiole
 guardrail 3
 garotter 2
