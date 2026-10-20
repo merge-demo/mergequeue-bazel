@@ -22888,7 +22888,7 @@ applicabilities 2
 atomology 2
 auras
 afb 1
-atonable 1
+atonable 2
 atonalistic
 atone 1
 amhran 1
