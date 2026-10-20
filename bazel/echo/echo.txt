@@ -4132,7 +4132,7 @@ emplecton 2
 exuberancy 3
 employability 2
 evenly
-electrovalence 2
+electrovalence 3
 employe 2
 estado 1
 etamin 1
@@ -4489,7 +4489,7 @@ encastrement 1
 encaustically 5
 emotionalizing 1
 efferent 1
-erth
+erth 1
 enceinte
 entozoology 4
 entozoal 1
