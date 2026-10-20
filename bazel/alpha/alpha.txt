@@ -493,7 +493,7 @@ aueto 1
 abjections 1
 abjective 2
 actinosoma 1
-aweless
+aweless 1
 arquebuses 2
 amornings 1
 auriculoventricular
@@ -923,7 +923,7 @@ acanthopteri
 absolvatory 3
 aestuary 1
 absolves
-absolving
+absolving 1
 abstort 1
 astriction
 atomistics 1
