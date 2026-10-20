@@ -3776,7 +3776,7 @@ captress
 ciconia
 chloroethylene 3
 carbazic 1
-carbazylic
+carbazylic 1
 chlorpikrin
 cheerios
 civilist
