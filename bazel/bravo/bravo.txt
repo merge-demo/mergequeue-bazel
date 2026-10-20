@@ -3027,7 +3027,7 @@ branglement
 bopping 2
 burgesses
 bartizans
-beigel 2
+beigel 3
 belee 2
 beckons
 brimmers
@@ -11770,7 +11770,7 @@ bookshops 6
 boccarella 1
 bodings 3
 boccaro
-bobsleding 2
+bobsleding 3
 bocce
 bugbears 2
 beefheaded 3

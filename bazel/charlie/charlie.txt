@@ -3776,7 +3776,7 @@ captress
 ciconia
 chloroethylene 3
 carbazic 1
-carbazylic
+carbazylic 1
 chlorpikrin
 cheerios
 civilist
@@ -28680,7 +28680,7 @@ contaminates 2
 constitutes
 corone
 crenelations 1
-coplanar 4
+coplanar 5
 convergently
 cannophori 2
 crenelee
