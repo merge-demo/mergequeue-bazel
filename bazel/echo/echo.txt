@@ -458,7 +458,7 @@ escapements 3
 erf
 eunuchal 1
 eveners
-enanthesis 1
+enanthesis 2
 expediteness
 evector 1
 ecclesia 2
@@ -4262,7 +4262,7 @@ escambio 1
 emulousness 4
 eaux 2
 eumeristic 3
-expolish 1
+expolish 2
 expendible 4
 expressways 1
 equidiagonal 2
@@ -4562,7 +4562,7 @@ encephalotome 2
 edomite 5
 ethics
 epionynychia 1
-euphony 3
+euphony 4
 epagoge 3
 echinodermal
 emberizidae 3
