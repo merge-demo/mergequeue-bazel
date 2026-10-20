@@ -7516,7 +7516,7 @@ deuteranomaly
 deuteranope
 deuterate 3
 deuteration 1
-denucleate 2
+denucleate 3
 demarcator 2
 desulfurized 3
 digitalizing
@@ -11779,7 +11779,7 @@ dexamethasone 1
 distally
 dogblow 2
 disported 3
-debellate 2
+debellate 3
 deoxidising
 discrested 1
 default 1
@@ -13181,7 +13181,7 @@ displayable 2
 dumaist 2
 depositive 2
 dhava 1
-dongolas
+dongolas 1
 diazole 3
 dovetailed 2
 demoralize 1

@@ -9077,7 +9077,7 @@ befits 2
 blankminded 4
 buzzwigs
 boylikeness 3
-bioscopy 4
+bioscopy 5
 bioscopic 1
 bioastronautical 1
 bedecorate 3
@@ -14381,7 +14381,7 @@ bettors 2
 braincap 1
 brachiferous 1
 braincase
-blastomycosis 2
+blastomycosis 3
 braincraft 1
 buckish 1
 birsle 1
