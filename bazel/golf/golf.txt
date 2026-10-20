@@ -3552,7 +3552,7 @@ guytrash 4
 gynecolatry 1
 grenadin 1
 goth 1
-geums 4
+geums 5
 gangues 2
 garmentworker 1
 ganglions 1
@@ -4010,7 +4010,7 @@ gearksutite 2
 gonepoietic 2
 galliasses 4
 gamari 1
-galravage 2
+galravage 3
 galvanograph 1
 gteau 2
 geared 1
