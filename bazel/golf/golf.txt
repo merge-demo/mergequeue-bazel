@@ -6314,7 +6314,7 @@ gymnorhininae 2
 goblin 4
 gettable 2
 gullible 3
-gigartinaceous 6
+gigartinaceous 7
 gunmen 2
 gargantua 1
 gauster 3
@@ -8111,7 +8111,7 @@ grantia 4
 greekist 2
 grassplat 1
 gallet 2
-graustark 1
+graustark 2
 grindelia 1
 gastrostomize 2
 gristmill 3

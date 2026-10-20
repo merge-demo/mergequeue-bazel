@@ -3653,7 +3653,7 @@ carageens 1
 chromatography 1
 caraibe 3
 caraipa
-chronometrical
+chronometrical 1
 caraipi 1
 carlish
 cucumiform
@@ -17585,7 +17585,7 @@ coccygine
 creme 1
 colloxylin
 comprehendingly
-coccygomorph 1
+coccygomorph 2
 coccygomorphae 1
 cougnar 3
 coccin 1
