@@ -5997,7 +5997,7 @@ foreplays 1
 fawny 3
 fluidrachm 4
 fidia 4
-fireproof
+fireproof 1
 foliole
 fictioneering 4
 feldsher
