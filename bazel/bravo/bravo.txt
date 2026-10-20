@@ -6925,7 +6925,7 @@ beshivered 2
 bariolage 1
 brassed 2
 beshouting 3
-broadleaf 1
+broadleaf 2
 baradari 3
 brahmahood
 beshow 1
@@ -17157,7 +17157,7 @@ bintangor 3
 brushmaking 1
 bullion 1
 balkanization 1
-bullyrag 1
+bullyrag 2
 butcherly 1
 bullyragger 2
 booklice 2

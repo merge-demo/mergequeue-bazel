@@ -2012,7 +2012,7 @@ ektenes 1
 expeditious 4
 endmatcher
 excitableness 1
-epilate 1
+epilate 2
 ektexine 2
 elabor 1
 epibenthic
@@ -13593,7 +13593,7 @@ eisegesis 2
 edriophthalmian 3
 exarteritis 3
 electropyrometer 4
-expulsory
+expulsory 1
 ectad
 exiledom 5
 eyeblink
