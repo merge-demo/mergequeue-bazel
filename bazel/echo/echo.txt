@@ -618,7 +618,7 @@ eclaircissement 1
 epeus 1
 ey 1
 echeneidoid 2
-enchant 1
+enchant 2
 enneaeteric
 empyreumatic 2
 epipaleolithic 2
@@ -4309,7 +4309,7 @@ extirpation 1
 epicarides 2
 ejectment 2
 exaltedness 1
-electrochemical 1
+electrochemical 2
 entangle 2
 exosmoses 1
 enflowered 3
@@ -4452,7 +4452,7 @@ egghot
 effervesces
 emicate 2
 echards 4
-edifices 3
+edifices 4
 encarnalized
 exalts 1
 epidermal 3
