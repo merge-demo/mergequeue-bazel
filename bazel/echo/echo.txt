@@ -9048,7 +9048,7 @@ ectocyst 4
 erythrocytoblast 3
 explanate 3
 epizooty 2
-ebbets
+ebbets 1
 equalize 3
 emptier 2
 erythrocytolysis 4
