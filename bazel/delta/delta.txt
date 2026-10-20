@@ -6959,7 +6959,7 @@ deiphobus 2
 debussyanize
 dribble 3
 distomian
-dioptases
+dioptases 1
 dicaryon 1
 discouragedly 1
 disentrancement 1
@@ -15392,7 +15392,7 @@ domiciliated 1
 demineralizer 2
 detectivism 2
 domification
-distoma 1
+distoma 2
 dissemblance 2
 decempedate 2
 dendrochronological 1
