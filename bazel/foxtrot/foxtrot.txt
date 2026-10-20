@@ -8829,7 +8829,7 @@ feucht 2
 frigorimeter 2
 fluidible 1
 flushgate 1
-forespoke 6
+forespoke 7
 fricandoes
 flagellulae 4
 frakfurt 3
@@ -9180,7 +9180,7 @@ filmize
 fashionmonging 1
 fenagles
 fusses 3
-fracturing 2
+fracturing 3
 filicide 3
 frenchiness 3
 foolify 2
