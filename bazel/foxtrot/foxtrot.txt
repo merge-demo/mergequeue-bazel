@@ -10614,7 +10614,7 @@ ferity
 franc
 forswearing 4
 flumped 1
-forwaste 2
+forwaste 3
 fleeting 2
 flatnesses 2
 frugalities 1
@@ -10707,7 +10707,7 @@ flavedo 3
 frutescence 2
 fetter 2
 forbare 1
-forecount 3
+forecount 4
 forbore 3
 frumpishly 2
 fanciness
