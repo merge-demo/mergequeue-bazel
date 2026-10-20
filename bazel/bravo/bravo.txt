@@ -1687,7 +1687,7 @@ berdaches 2
 bates 4
 bahera 1
 bunty
-bedumbing 1
+bedumbing 2
 benzalphthalide 2
 beseeches 1
 bohea 1
@@ -10458,7 +10458,7 @@ bathmic
 blason 1
 blasphemed 2
 blasphemes 1
-blasphemies
+blasphemies 1
 blasphemous 3
 blasphemousness
 bismarckian 1
@@ -13144,7 +13144,7 @@ boroughmonger 1
 blaspheme 1
 basileis 1
 bankrupts
-borowolframic 1
+borowolframic 2
 borracha
 barometrograph 2
 borrachio

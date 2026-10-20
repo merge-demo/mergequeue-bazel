@@ -3444,7 +3444,7 @@ foreside 2
 fieriness 4
 fierte 3
 fifed 2
-flerried 2
+flerried 3
 frontals 2
 feminising 2
 fulmines 2
@@ -5182,7 +5182,7 @@ fictions 3
 flameflower 2
 feeding 3
 flued 2
-flatulentness 6
+flatulentness 7
 flangeway 4
 futter
 fibs 1
@@ -5646,7 +5646,7 @@ frumpiest 2
 fianchetto 3
 forgetter 3
 fie
-fillers 1
+fillers 2
 fud 3
 forethinking 2
 fulguration
