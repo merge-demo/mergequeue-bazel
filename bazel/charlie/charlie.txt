@@ -1341,7 +1341,7 @@ calyces 3
 cathartin
 calycifloral
 cascabels 2
-calyciflorate
+calyciflorate 1
 contranatural 1
 caliciform
 calycinal 1
@@ -16646,7 +16646,7 @@ closer 2
 chlorophyllose 1
 chrysler 2
 checkerwise 1
-closers 4
+closers 5
 closes 2
 closeting 1
 crampit 1
