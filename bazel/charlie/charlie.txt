@@ -149,7 +149,7 @@ cabled
 cablegram 1
 cablegrams 1
 cruors 1
-clinopyroxene
+clinopyroxene 1
 cablelaid 4
 cableless
 cablelike 2
