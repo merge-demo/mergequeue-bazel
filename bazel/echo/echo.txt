@@ -4063,7 +4063,7 @@ epipodial 5
 ex 2
 enringing 1
 evangelised 1
-encyclopaedism 1
+encyclopaedism 2
 embroils 3
 epitheca
 enamelers 3
@@ -4517,7 +4517,7 @@ esthesiophysiology
 elsewhat 2
 enforcing 1
 exterminator 3
-encephalomas 2
+encephalomas 3
 escudo 1
 encephalomeningocele 2
 evenglome
@@ -11528,7 +11528,7 @@ eserin 2
 extractable 6
 elegantly 2
 evincing 1
-entoblast 2
+entoblast 3
 esophagus 2
 evincive 3
 excavationist 2
