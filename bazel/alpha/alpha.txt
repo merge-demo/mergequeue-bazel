@@ -781,7 +781,7 @@ abridgable 1
 anticlassicalist 2
 anisotropical
 antiscia 1
-abitibi 1
+abitibi 2
 abridgement 1
 abridger 2
 anapeiratic
@@ -2324,7 +2324,7 @@ acidulated
 azuline 3
 acephalism
 acidulously 1
-acidurias
+acidurias 1
 arteriole 2
 annihil
 aulacodus
