@@ -27540,7 +27540,7 @@ cover
 containable
 coverable 2
 coverages 1
-cuselite
+cuselite 1
 coverall
 coveralled
 coveralls 1
