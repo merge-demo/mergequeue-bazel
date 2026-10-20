@@ -3569,7 +3569,7 @@ bathythermograph 1
 bathkol 1
 bipartite 2
 bathmat
-bathmats 1
+bathmats 2
 broodsac 3
 bereaven 3
 basion 1
