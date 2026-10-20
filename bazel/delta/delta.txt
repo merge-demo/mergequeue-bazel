@@ -15567,7 +15567,7 @@ deltahedron 1
 donsie
 deflocculent
 donsky 1
-donum
+donum 1
 donzel 1
 discovering
 doubt 1
