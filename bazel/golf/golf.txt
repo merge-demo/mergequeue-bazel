@@ -1751,7 +1751,7 @@ glessite 1
 goric 1
 glass
 guesses 2
-gamesman
+gamesman 1
 guernseys 4
 gaullism 1
 gastropexy 2
@@ -9701,7 +9701,7 @@ gropple 3
 galloflavin
 gasses 5
 geon 1
-gazet 3
+gazet 4
 granola 3
 ghostlier 3
 gruffier 4
