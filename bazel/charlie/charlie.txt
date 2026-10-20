@@ -10391,7 +10391,7 @@ column
 chield
 conemaker 4
 chierete 1
-chievance 1
+chievance 2
 chieve 2
 chifferobe 1
 causalgia
@@ -23010,7 +23010,7 @@ cirrhus
 convection 2
 consolute 1
 calash
-companioned 1
+companioned 2
 convenable
 consomm
 camels 3
