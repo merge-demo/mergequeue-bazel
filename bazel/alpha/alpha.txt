@@ -2273,7 +2273,7 @@ aluminous 2
 adjectitious 1
 attempers 2
 acidaspis 2
-acider 1
+acider 2
 anaphoric 4
 azimech
 acidy
@@ -5735,7 +5735,7 @@ antiedemic
 avoucher 1
 agrostographies 1
 augusta 1
-aminoacetone
+aminoacetone 1
 ambrosia 1
 amentiferous 1
 arteriostrepsis 2
@@ -17614,7 +17614,7 @@ ascended 1
 almandite
 apperceptionism
 anoura 1
-alkalizate
+alkalizate 1
 afforced
 appersonation 2
 appersonification 1
