@@ -3758,7 +3758,7 @@ foregirth 1
 fangotherapy 1
 floorward 1
 fingallian 2
-familiarising
+familiarising 1
 fibers 4
 flambeing 2
 folliculina 8
@@ -6686,7 +6686,7 @@ fairways 2
 fogdom
 fogfruit 4
 fibrins 1
-fruiteress
+fruiteress 1
 flatterable 6
 flintlock 4
 flexura 7
@@ -9921,7 +9921,7 @@ formulising 4
 forsythias 6
 ferromagnetism 1
 furze 1
-friesian 1
+friesian 2
 fittable 4
 friezer 4
 fiercely
@@ -10717,7 +10717,7 @@ fructified 2
 fascistize 1
 filagree 1
 fringelike 2
-faenus 1
+faenus 2
 flam 1
 flotsams 2
 fideisms
