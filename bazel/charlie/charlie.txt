@@ -13147,7 +13147,7 @@ cacan
 crackability 1
 cicatrising
 cystoflagellata 2
-cicatrisive
+cicatrisive 1
 cicatrizate 1
 caudicle
 canalize 2
@@ -23747,7 +23747,7 @@ contrapposto
 contrappostos
 contraproposal 2
 contraption 1
-contraptions
+contraptions 1
 contraptious 1
 capacitator 2
 compressional 3
