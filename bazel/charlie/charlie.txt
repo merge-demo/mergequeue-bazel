@@ -1784,7 +1784,7 @@ calvarial
 calvaries 2
 calvarium 1
 calved 1
-calvin 1
+calvin 2
 cithern
 commutators
 comdr 1
@@ -3423,7 +3423,7 @@ conditotoria 1
 centon 1
 cedarware
 caprificate
-canyon 2
+canyon 3
 caprifig
 constructionally 2
 caprifole
@@ -18659,7 +18659,7 @@ crafty 1
 conourish 2
 corporales 2
 cointensity 2
-cointer
+cointer 1
 cointerest 1
 cointerred
 cointerring 2
