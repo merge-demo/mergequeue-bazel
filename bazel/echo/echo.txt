@@ -327,7 +327,7 @@ entoperipheral 3
 enticer 4
 enameling
 elfship 3
-euboic 2
+euboic 3
 eastling 2
 escapee 1
 eruditionist 1
@@ -4507,7 +4507,7 @@ encephalitic 1
 executively
 emulators 3
 embryophyta
-encephalographic 3
+encephalographic 4
 ekphorize 1
 episematic 2
 earlock 1
