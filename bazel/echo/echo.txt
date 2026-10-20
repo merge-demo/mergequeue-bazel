@@ -831,7 +831,7 @@ epitheton
 entrecote
 epop 3
 exulate 1
-ectiris 3
+ectiris 4
 etamines 2
 ectocarpus 2
 eriophorum 1
@@ -3541,7 +3541,7 @@ epigonichthyidae 1
 embolectomy 2
 enicuridae 1
 emboli 2
-ergastulum
+ergastulum 1
 embolimeal
 ecumenism 2
 emuscation 1
