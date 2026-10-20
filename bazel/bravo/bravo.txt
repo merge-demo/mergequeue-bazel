@@ -3560,7 +3560,7 @@ byronish 3
 brushy 2
 battleground 1
 berkeleyite 2
-bien
+bien 1
 bathysophical 2
 bathysphere 1
 bigmouths 4
@@ -14187,7 +14187,7 @@ biblically
 bestowal
 baikerite 1
 bashlyks 4
-bradawls 1
+bradawls 2
 bryanite 1
 boxerism
 bag 1
