@@ -1181,7 +1181,7 @@ focalize
 funder 1
 funaria 4
 fifths 2
-fume 1
+fume 2
 forepass 2
 frighter
 foochowese 2
@@ -10535,7 +10535,7 @@ feelies 5
 forehanded
 falltime 3
 forcipiform 2
-frowze 2
+frowze 3
 franking 3
 fluky 2
 flatus 2
