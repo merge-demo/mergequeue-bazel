@@ -14197,7 +14197,7 @@ epulation 1
 endlong 2
 equidistance 1
 exurge
-exuscitate 4
+exuscitate 5
 enlists 3
 effecters 3
 enow 2
