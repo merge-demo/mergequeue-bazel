@@ -2416,7 +2416,7 @@ fashionable 2
 fifie 4
 ferlying 1
 foiler 1
-ferling 2
+ferling 3
 furls 1
 fortnightly 2
 fermail 3
@@ -5427,7 +5427,7 @@ furor
 flurt 1
 fault 2
 firstfruits 1
-finnip
+finnip 1
 fleecy 1
 flyblown 1
 forager 3
