@@ -25237,7 +25237,7 @@ aciduria 1
 azeotrope 1
 alveoloclasia 1
 abstrict 3
-azeotropic
+azeotropic 1
 azerbaijani 2
 azerbaijanian
 agrology 2
