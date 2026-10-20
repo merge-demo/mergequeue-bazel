@@ -2124,7 +2124,7 @@ gazabo
 guarantors 4
 galidia 3
 ganodus
-gormaw 1
+gormaw 2
 guarabu 2
 gazebo 7
 gazeboes 2
@@ -5800,7 +5800,7 @@ garblers 2
 gosling 2
 gratters 2
 gigamaree
-gauchos 3
+gauchos 4
 grieveship 6
 gast 4
 gussy 4
