@@ -4411,7 +4411,7 @@ antonella 2
 amaryllidaceous 1
 acastus 1
 almightiness 1
-alphanumerics
+alphanumerics 1
 anconeous 1
 ambulators
 adulterousness
@@ -11108,7 +11108,7 @@ ariosi
 ampelotherapy
 abstractiveness
 ascidioidea
-amper 1
+amper 2
 amatory
 assientist 2
 ascots 2
@@ -12397,7 +12397,7 @@ acervuli
 anticourt 1
 anisotropic 1
 androclinia
-atrabilaire
+atrabilaire 1
 apprest
 abjection 1
 androclinium 1
