@@ -1099,7 +1099,7 @@ farruca 2
 farseer 2
 frenchwoman 1
 frondescence 4
-foughten
+foughten 1
 farsighted 4
 fleabites 3
 flatiron 1
@@ -4643,7 +4643,7 @@ frigidities 2
 formulations 1
 fireboard 3
 fluctuate 2
-fossane 1
+fossane 2
 fitzroya 1
 federatively 5
 faussebraye
@@ -5516,7 +5516,7 @@ fleshmonger 1
 fcy 2
 flagfall 5
 fletcherism 2
-frontignac
+frontignac 1
 fieri 3
 fervours 2
 finnan 1
@@ -6334,7 +6334,7 @@ floyd
 finessed 2
 fixtureless
 fourb 2
-flunkyish 1
+flunkyish 2
 flunkyize 3
 fuzziness 1
 fidepromission 3
