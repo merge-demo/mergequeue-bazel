@@ -7291,7 +7291,7 @@ aerotropic 2
 abominableness
 alaska 1
 alaskaite 1
-asexualising
+asexualising 1
 alaskas 2
 alaskite 1
 alastor 2
@@ -11687,7 +11687,7 @@ anaerobation 2
 antiquist 3
 acrocentric
 anaerobion 1
-apocrisiary
+apocrisiary 1
 anaerobiont 2
 anaerobiosis 1
 anaerobiotic
