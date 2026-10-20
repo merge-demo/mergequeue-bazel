@@ -5764,7 +5764,7 @@ flited 2
 frontate 3
 foge 3
 freckliness 2
-foehns 2
+foehns 3
 finebent 2
 finings 3
 fulth 1
@@ -8682,7 +8682,7 @@ flaunters 2
 fryers
 funiculate 1
 furicane 2
-flapless 1
+flapless 2
 fathomable 1
 forthgaze 2
 forthgo 3
@@ -8908,7 +8908,7 @@ foumart 1
 falciparum 2
 forayer 2
 fartherance 1
-filthify 3
+filthify 4
 filister 3
 founded 1
 foutra
