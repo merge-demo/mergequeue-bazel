@@ -12029,7 +12029,7 @@ effectuality 1
 enforceability 2
 enamelled 3
 epidialogue
-exclusivistic
+exclusivistic 1
 exclusivity 2
 effluents 1
 excogitated 3
@@ -12382,7 +12382,7 @@ exhausted 3
 essenize
 energiatye 3
 emendates 3
-etholide
+etholide 1
 embace 3
 euphemia
 eelbob
