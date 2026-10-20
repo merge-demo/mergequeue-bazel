@@ -9128,7 +9128,7 @@ dingdong 1
 disweapon 2
 didelphoid 3
 disinclines 1
-derisory
+derisory 1
 doffs
 detriment 1
 disdiaclasis
