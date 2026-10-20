@@ -7362,7 +7362,7 @@ cephalodiscid 1
 cephalodiscida 2
 cephalodiscus
 curtains 1
-cephalodium 1
+cephalodium 2
 cephalofacial 1
 cephalogram 2
 cephaloid 2
@@ -9953,7 +9953,7 @@ consumable 2
 chenopod 2
 colocasia
 catacombic
-criollo
+criollo 1
 chiro 2
 chenopods
 cajuputs
@@ -28843,7 +28843,7 @@ coastwaiter
 cretan
 cymotrichy 3
 cretefaction
-callisection
+callisection 1
 creticism 1
 coturnix 3
 cretics
