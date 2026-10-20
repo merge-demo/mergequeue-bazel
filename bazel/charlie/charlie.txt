@@ -261,7 +261,7 @@ cachemic 1
 coemploy
 cities
 cassiduloidea 1
-cachepot 1
+cachepot 2
 chillies 1
 condensing
 caches 2
@@ -11187,7 +11187,7 @@ chloralum 1
 chlorambucil 1
 contrasting
 chloramin 1
-chloramphenicol
+chloramphenicol 1
 caperwort
 chilopodous
 chloranemia
@@ -29396,7 +29396,7 @@ cryptozygy
 cannele 1
 cryptozygosity 1
 cryptozygous
-crozle
+crozle 1
 chanter
 chorographic
 cryptozoic
