@@ -3471,7 +3471,7 @@ defoamer
 dryer 1
 despotisms 3
 dishlike 3
-duodecimally
+duodecimally 1
 dashboards
 disavowance
 dehydroffrozen 1
