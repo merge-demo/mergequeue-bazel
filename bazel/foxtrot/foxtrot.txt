@@ -429,7 +429,7 @@ frockmaker 5
 fairship 2
 feal 4
 flitting 1
-fogmen 2
+fogmen 3
 fairway 1
 fulminate 3
 fragilariaceae 1
@@ -9333,7 +9333,7 @@ fewmets 4
 fromward 3
 ferromagnesian 2
 frangulic 1
-forjudge
+forjudge 1
 flichter 1
 fishless 1
 facelessness 2
