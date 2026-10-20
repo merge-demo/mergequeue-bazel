@@ -18836,7 +18836,7 @@ colicines 1
 cultigen 1
 celiac 2
 colicins
-corvisor
+corvisor 1
 cytogene 1
 colicroot
 colicwort 1
