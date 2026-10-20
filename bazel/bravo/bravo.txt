@@ -5093,7 +5093,7 @@ baselines 2
 bowellike 1
 bejuco 1
 blazoning 1
-befittingness
+befittingness 1
 behoof 1
 boundedness 2
 beflag
