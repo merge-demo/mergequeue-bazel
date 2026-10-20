@@ -10409,7 +10409,7 @@ enchiriridia 3
 earthshaking 4
 eiresione
 eleolite 1
-exorbitance 1
+exorbitance 2
 entresalle 4
 excreted 1
 exposit 3
@@ -10830,7 +10830,7 @@ eupatrids 1
 eluent 1
 exemplars 1
 enoptromancy 2
-explodes
+explodes 1
 engine 1
 electrocuting 2
 execrates 1
