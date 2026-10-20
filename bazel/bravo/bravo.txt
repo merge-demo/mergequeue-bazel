@@ -4287,7 +4287,7 @@ basurale 2
 boggish
 brabbled 1
 bembecidae 4
-bathyscaph 2
+bathyscaph 3
 battledore 2
 bacterious 1
 bebreech 4
@@ -12787,7 +12787,7 @@ bookwards 1
 byronite
 bookworm
 bookwright 2
-booleans 2
+booleans 3
 booleys 2
 bardy 1
 booly 3
@@ -14414,7 +14414,7 @@ blighting 1
 barnstorm
 belieffulness
 branchiocardiac 1
-blowline 4
+blowline 5
 bypath 1
 brainstems
 brainstone 1
