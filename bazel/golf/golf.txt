@@ -10312,7 +10312,7 @@ gildsman
 goralog 3
 gleaner 5
 guichet 4
-gnathions
+gnathions 1
 gujarati 1
 gametic 3
 girondin
