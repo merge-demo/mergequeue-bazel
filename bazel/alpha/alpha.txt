@@ -2233,7 +2233,7 @@ achromatosis 1
 akinesia 1
 achromobacter 1
 acyrological
-achromoderma 2
+achromoderma 3
 abovesaid
 amygdalolith
 articulability 1
@@ -15519,7 +15519,7 @@ amenorrhoeal 2
 alabastrum 2
 aspectual 2
 asparkle
-andronitis 1
+andronitis 2
 aspermous 1
 antimodern 1
 antimodernistic 3
@@ -18492,7 +18492,7 @@ abdominal 3
 anisosepalous 2
 anthropoidal 2
 amphicondylous 1
-allotype 2
+allotype 3
 amias
 arborea
 arrhenoid 1
