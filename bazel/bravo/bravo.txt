@@ -11610,7 +11610,7 @@ barche 3
 boarspear 4
 balloter 2
 burns 1
-bevels 1
+bevels 2
 bacauan 1
 blacks
 bizant
@@ -13327,7 +13327,7 @@ botchily 3
 boundlessly 1
 becrimson 3
 botella 2
-botels 1
+botels 2
 bebrave 2
 buss
 barometry 1
