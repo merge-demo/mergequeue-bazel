@@ -94,7 +94,7 @@ astrolatry 4
 abandoning 1
 accessional 2
 arruague 1
-abandonment
+abandonment 1
 accelerator 1
 antipriestcraft
 abaptiston 2
@@ -7658,7 +7658,7 @@ alectorides 1
 alcmene
 alcogene 1
 algocyan
-atheists
+atheists 1
 antiphilosophical 1
 allopalladium 1
 alday
@@ -22929,7 +22929,7 @@ atrematous
 apprentices
 arachnids 1
 anatoxins 2
-ahriman 1
+ahriman 2
 antimodel
 alcoholising 2
 adverbialize 1
