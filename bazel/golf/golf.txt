@@ -2493,7 +2493,7 @@ gibbetwise 5
 genitalic 2
 grandity 2
 glossier 4
-girdlelike 4
+girdlelike 5
 gaucher 4
 golds
 gradienter 2
@@ -4696,7 +4696,7 @@ graecism
 goglet 2
 glissader 3
 girted 2
-galactoside 2
+galactoside 3
 guarapucu 5
 grego 2
 guaranteeship
