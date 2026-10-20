@@ -1048,7 +1048,7 @@ expeditions 2
 exadversum 4
 etchareottine
 excisable 1
-eyeless 1
+eyeless 2
 endoskeleton 1
 eqpt
 edgar 2
