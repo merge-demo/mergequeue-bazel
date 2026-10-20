@@ -2004,7 +2004,7 @@ fautor 2
 fours 3
 feeze 3
 fimicolous 1
-furmity
+furmity 1
 funnelled 2
 feezes
 forejudge 4
@@ -11027,7 +11027,7 @@ femororotulian 2
 floriferously 1
 festal 3
 furzery 1
-fuming 1
+fuming 2
 foresights 1
 fora 1
 filiferous 4
