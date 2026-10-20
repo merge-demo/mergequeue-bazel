@@ -3753,7 +3753,7 @@ forkiness 1
 flotilla 4
 fillipeen 2
 formanilide
-flushing 4
+flushing 5
 foregirth 1
 fangotherapy 1
 floorward 1
@@ -11054,7 +11054,7 @@ fangless 3
 flycatcher 3
 frictionizing 1
 funambulatory 2
-funambule 1
+funambule 2
 fondaco 2
 fedia
 flamenship 3
