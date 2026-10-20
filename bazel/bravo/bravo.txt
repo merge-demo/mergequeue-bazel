@@ -1030,7 +1030,7 @@ bailiaries
 bargainwise 2
 bailieries 2
 botargos
-bailiffs 1
+bailiffs 2
 blennorrhea
 billons
 busway 1
@@ -3214,7 +3214,7 @@ basidiospore 3
 basidiosporous 2
 buckbush 3
 batiked
-bodiless 2
+bodiless 3
 bedights 1
 bonnyvis 3
 bathtub
@@ -9963,7 +9963,7 @@ blattidae 2
 brevirostral 1
 bawdy 1
 ballottine 2
-blairmorite 3
+blairmorite 4
 bivalents 2
 bivalvia 1
 bivalvian
@@ -14814,7 +14814,7 @@ burritos
 bedim
 bulborectal 1
 breachful 3
-briefcases 2
+briefcases 3
 breadbasket 1
 bearability 2
 budges 1
