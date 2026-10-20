@@ -4580,7 +4580,7 @@ borborus 3
 bedaubing 1
 beltlines 1
 bloodstone 4
-belial 2
+belial 3
 biddelian
 beats
 bedazement 2
@@ -13728,7 +13728,7 @@ boutefeu
 bouteria 1
 buns
 boutylka
-boutique 1
+boutique 2
 beachfront
 bouto 1
 barehanded 2
