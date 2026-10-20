@@ -2510,7 +2510,7 @@ bottonhook 2
 barguest
 barguests 2
 buzylene
-baria
+baria 1
 bedouse 1
 blameful 2
 bandyman
@@ -9451,7 +9451,7 @@ bronchodilatation 2
 bathymeter
 basaltine 1
 bemedaled 2
-bashes 3
+bashes 4
 birma
 busted 1
 biggins 2
@@ -14414,7 +14414,7 @@ blighting 1
 barnstorm
 belieffulness
 branchiocardiac 1
-blowline 3
+blowline 4
 bypath 1
 brainstems
 brainstone 1
