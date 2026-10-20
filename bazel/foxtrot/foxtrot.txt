@@ -4441,7 +4441,7 @@ frenghi 2
 fraiser 1
 fei 2
 falsary 2
-fovent 2
+fovent 3
 flogmaster 2
 fumishly 4
 fledgier 2
@@ -11518,7 +11518,7 @@ fibrolipomatous
 finalis 3
 fissidactyl 4
 fireflaught 2
-filmsetting
+filmsetting 1
 forleave 1
 ferruler 2
 fistic 1
