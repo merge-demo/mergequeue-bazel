@@ -22871,7 +22871,7 @@ collapsable 1
 conservatoires 1
 conservator
 conservatory 1
-conservatorial
+conservatorial 1
 climatologist
 conservatorium 1
 crystograph 2
@@ -27740,7 +27740,7 @@ cowpoxes 1
 consortium 2
 chuprassi 1
 champagnizing 2
-cowry
+cowry 1
 cowrie 1
 cowries 1
 calina
