@@ -9738,7 +9738,7 @@ bistephanic 1
 bastinades 2
 bistered 1
 bisters 3
-baidak
+baidak 1
 bruce 4
 bossies 2
 burdocks 4
@@ -15562,7 +15562,7 @@ bluehead 1
 bewilder 2
 bouget
 biliprasin 3
-bromlite 2
+bromlite 3
 bescent 1
 beast 1
 bussy 1
@@ -18119,7 +18119,7 @@ bloodlettings 1
 buskin 1
 butcherer 1
 blobbier
-bureaucrats
+bureaucrats 1
 boll 4
 ballyrag 1
 bistouries 3
