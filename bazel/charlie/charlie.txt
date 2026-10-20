@@ -5484,7 +5484,7 @@ cellar 1
 casuistries
 casus
 cat
-catabaptist 1
+catabaptist 2
 contos 3
 catabases
 capoc 1
@@ -27915,7 +27915,7 @@ coenobium 2
 correal 3
 cionoptosis
 crackerjacks 1
-crackers 2
+crackers 3
 cradlemaking 1
 consolidates 2
 cracket 1
