@@ -3492,7 +3492,7 @@ disjunct 3
 debilitant 3
 dichroscope
 decelerating 1
-dehydrochlorination
+dehydrochlorination 1
 dorosacral 2
 decompressed 1
 deflator 1
