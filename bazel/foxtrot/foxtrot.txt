@@ -60,7 +60,7 @@ flauntier 1
 forebless 2
 foresight 5
 friskily 1
-faster 2
+faster 3
 fibrolite 2
 fconv 2
 fabulously 3
@@ -7410,7 +7410,7 @@ flavorsomeness 6
 flake 3
 finks 3
 flinging 2
-furan 1
+furan 2
 forereport 2
 forceless 3
 fasciolar 3
