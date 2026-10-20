@@ -9333,7 +9333,7 @@ fewmets 4
 fromward 3
 ferromagnesian 2
 frangulic 1
-forjudge
+forjudge 1
 flichter 1
 fishless 1
 facelessness 2
