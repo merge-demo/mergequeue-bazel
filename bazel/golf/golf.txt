@@ -2510,7 +2510,7 @@ genderer 3
 geniohyoglossus 4
 grenado 1
 guiled 2
-giffgaff 2
+giffgaff 3
 ghoulie 5
 graeme 3
 grieflessness 1
@@ -4706,7 +4706,7 @@ girts 3
 gazelline 2
 gettered 1
 gynomonecious 2
-gise 4
+gise 5
 granges 3
 gooder 3
 gibbsite 2
@@ -6393,7 +6393,7 @@ gamest 4
 gamgia 1
 garston 2
 gettings 1
-gohila 2
+gohila 3
 gasproof 1
 glassworks 1
 gonotyl 2

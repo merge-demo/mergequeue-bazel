@@ -2842,7 +2842,7 @@ endoubt 1
 enseat 2
 electroluminescent
 explicans 3
-evenhanded 3
+evenhanded 4
 enaluron 2
 elephantiasis 1
 elymi 1
@@ -3317,7 +3317,7 @@ enosist 1
 extrapyramidal 3
 enthraller
 emanatism
-euphorias 3
+euphorias 4
 explanatoriness
 equipaga 1
 embassade 5
