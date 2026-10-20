@@ -3091,7 +3091,7 @@ bronteana 4
 bonitas 2
 boithrin 1
 butylene 4
-basculation
+basculation 1
 bulbils 3
 bromobenzyl
 bambuk
@@ -6350,7 +6350,7 @@ blossoming
 bragger 3
 beadiness 1
 blastogranitic 2
-biophysicists
+biophysicists 1
 batsmanship 2
 benzylic 3
 benziminazole 1
@@ -15167,7 +15167,7 @@ biochemists
 befingers
 bah
 backsaw 2
-bejeling 4
+bejeling 5
 backstay 3
 bronziest 1
 besmutted 1
