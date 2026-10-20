@@ -4612,7 +4612,7 @@ fontally
 fringilliform 2
 fitchee 2
 fibrocalcareous 4
-filagrees
+filagrees 1
 ferring 1
 flowmanostat
 folsom 4
@@ -8065,7 +8065,7 @@ fairies 1
 fosterers
 formentation
 facetting 3
-folial 3
+folial 4
 forestful 3
 freezes 3
 frigger 1
