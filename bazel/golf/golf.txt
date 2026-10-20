@@ -5153,7 +5153,7 @@ geologised 2
 ganoidei 6
 gratins 5
 greek 2
-glomerulitis 1
+glomerulitis 2
 genetmoil 2
 gazania 1
 glazers 1
@@ -6699,7 +6699,7 @@ gainsayer 3
 guttler 2
 grint 6
 gibbet 4
-gulae 3
+gulae 4
 gobmouthed
 growable 5
 gromatic 1
@@ -10422,7 +10422,7 @@ graphiology 3
 gum 6
 gandhi 2
 gluiness 1
-gyneolatry 4
+gyneolatry 5
 geologician 2
 goney 3
 gardbrace 2
