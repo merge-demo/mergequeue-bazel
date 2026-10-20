@@ -4190,7 +4190,7 @@ delocalize 3
 dermoreaction 2
 decrustation 2
 dretch 1
-dextrorotatary
+dextrorotatary 1
 denigrators 2
 dicyclica 2
 discharger 3
