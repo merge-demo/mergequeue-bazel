@@ -3636,7 +3636,7 @@ degging 4
 devices 1
 deglamorizing
 doubtlessly 5
-disrespectfulness 1
+disrespectfulness 2
 deglazed
 discoblastic 1
 deglazing 1
@@ -17355,7 +17355,7 @@ dropberry 2
 deprogrammers 3
 dropforge 3
 dorsicommissure 2
-dropforger
+dropforger 1
 drophead
 ditchbur 1
 darksomeness 1
@@ -17460,7 +17460,7 @@ delegatee
 drove
 drovers
 dereism 1
-drownd 1
+drownd 2
 docents 4
 dipleurogenesis 4
 drowning 3
