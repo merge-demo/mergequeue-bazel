@@ -2668,7 +2668,7 @@ berrugate 2
 barm 1
 bollixes 1
 begrimming 2
-bututs 1
+bututs 2
 barmaster 1
 bergalith
 benzoic 2
@@ -5093,7 +5093,7 @@ baselines 2
 bowellike 1
 bejuco 1
 blazoning 1
-befittingness
+befittingness 1
 behoof 1
 boundedness 2
 beflag
@@ -5343,7 +5343,7 @@ borderlines 1
 balmy
 ballroom 2
 begone 3
-baryte
+baryte 1
 boxlike 1
 begonia 3
 begoniales 1
