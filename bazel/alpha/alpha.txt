@@ -3514,7 +3514,7 @@ angiotome 2
 antimeristem 4
 aeroyacht 1
 addlepated 1
-addles
+addles 1
 autumnian 1
 antierysipelas
 addn
@@ -14609,7 +14609,7 @@ antidepressants
 anthropurgic
 anthroxanic 2
 arrogative 1
-antipolemist
+antipolemist 1
 amenorrhoeic
 anththeridia 1
 andragogy 2
