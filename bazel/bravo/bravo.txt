@@ -4171,7 +4171,7 @@ boylas 3
 bradypus 2
 beastling 2
 bullswool 2
-beastlings 2
+beastlings 3
 bulgy
 beastman
 barracoutas 1
@@ -7097,7 +7097,7 @@ bespew 1
 biparietal 4
 boucherism 1
 bandfiling 2
-batan 2
+batan 3
 bonking 2
 breadthwise 2
 butterlike 3
