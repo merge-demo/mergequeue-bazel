@@ -6522,7 +6522,7 @@ craftsmen 1
 ceraunogram
 cronkness 1
 conrectorship
-catharticalness 3
+catharticalness 4
 caviller
 chemins 1
 cavillous
@@ -11927,7 +11927,7 @@ cohanim
 cruces 1
 cosmochemistry 1
 choreoid
-crocidolite 1
+crocidolite 2
 chorepiscopal 2
 chorepiscope 1
 catheterize 1
@@ -18287,7 +18287,7 @@ convexes
 coffret
 chiming 1
 coffrets
-clarifiable 1
+clarifiable 2
 coffs
 cofighter 1
 cellmate
