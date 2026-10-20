@@ -1096,7 +1096,7 @@ cantboard
 calciform
 centesimos
 calcifugal
-calcifugous
+calcifugous 1
 chamaesiphonaceous 1
 calcimined 1
 calciminer
