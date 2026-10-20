@@ -1806,7 +1806,7 @@ anthropomorphous
 afterend 1
 allamanda 1
 acephalist 1
-anonymousness 1
+anonymousness 2
 adumbratively 1
 acephalocyst 1
 alveloz 1
@@ -13716,7 +13716,7 @@ augmenter 2
 antileak 1
 alibis
 aeroperitonia
-alertly 2
+alertly 3
 avant
 anomatheca
 anomia
