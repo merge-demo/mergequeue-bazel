@@ -264,7 +264,7 @@ equisegmented 4
 easylike
 eastabout 1
 eerisome 1
-easted 1
+easted 2
 exclamational 1
 expiry 1
 expressivism
@@ -3716,7 +3716,7 @@ embryotega 2
 etherialise 1
 embryotegae 4
 eweries 2
-embryotome 1
+embryotome 2
 exhalatory 5
 eeten
 exculpated 3
@@ -11338,7 +11338,7 @@ encephalomeric 2
 eventual 2
 eozoic 1
 emusifying 3
-eve
+eve 1
 exorcistical 3
 epixylous 6
 evea 1
