@@ -1184,7 +1184,7 @@ brawliest 1
 breth 1
 beanfest 1
 baked 2
-blepharydatis 2
+blepharydatis 3
 bibliothetic 2
 bakelite 1
 bakemeats 1
@@ -13456,7 +13456,7 @@ bottlemaker 1
 begotten 1
 burgs 4
 broilery 1
-beer 2
+beer 3
 bleeding 3
 bottleman 1
 bulse 1
@@ -16438,7 +16438,7 @@ barque 3
 benzdioxtriazine 2
 balsamy 1
 babblement 1
-brushback 4
+brushback 5
 bortz 1
 butt 3
 bladesmith 1
