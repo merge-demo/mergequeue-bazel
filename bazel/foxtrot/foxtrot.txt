@@ -2025,7 +2025,7 @@ fathomage 1
 fradicin 3
 frogger 4
 fantasticly 1
-faineant
+faineant 1
 feigners
 fluoridation
 flosses 1
@@ -2771,7 +2771,7 @@ foretellable 3
 familistere 1
 fuddlebrained 2
 forgivingness
-featness
+featness 1
 festinated 2
 festinating 1
 festination 1
