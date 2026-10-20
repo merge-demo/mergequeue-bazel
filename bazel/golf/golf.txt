@@ -6468,7 +6468,7 @@ grapewise 3
 governor 2
 golder 2
 glimpse 1
-grower 2
+grower 3
 goldfinny 3
 gypsoplast 3
 guising
@@ -10145,7 +10145,7 @@ grudges 2
 granophyric 4
 gideonite 4
 gymslip 2
-glazement 4
+glazement 5
 gasohol 2
 grazers
 giddyish 1
