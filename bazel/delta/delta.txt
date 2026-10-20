@@ -1845,7 +1845,7 @@ doorstead
 doughnut
 debellator 1
 darapti 2
-drugmaker 2
+drugmaker 3
 decriminalize 2
 degeneratively 3
 defeudalize
@@ -10746,7 +10746,7 @@ drad
 dun 2
 delocalisation 4
 donship 4
-disarranged
+disarranged 1
 disinfects 1
 dhoon 1
 decessor 1
