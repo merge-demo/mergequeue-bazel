@@ -2924,7 +2924,7 @@ dedecorous 2
 divide 1
 desmodont
 duodecimomos
-dedicant 2
+dedicant 3
 dichotic
 downbeat 4
 desulphuret 3
@@ -4056,7 +4056,7 @@ disposingly 1
 delicately 1
 denier 1
 darknesses 1
-domicil
+domicil 1
 dismissible 1
 delicatessen
 dynam
@@ -6959,7 +6959,7 @@ deiphobus 2
 debussyanize
 dribble 3
 distomian
-dioptases
+dioptases 1
 dicaryon 1
 discouragedly 1
 disentrancement 1
@@ -15392,7 +15392,7 @@ domiciliated 1
 demineralizer 2
 detectivism 2
 domification
-distoma 1
+distoma 2
 dissemblance 2
 decempedate 2
 dendrochronological 1
