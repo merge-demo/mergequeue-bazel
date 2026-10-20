@@ -3670,7 +3670,7 @@ deglutitious 1
 degold 3
 decathlon
 disinhibition
-decomposite
+decomposite 1
 dysteleological 1
 degorge 1
 degradative 1
@@ -4686,7 +4686,7 @@ delectableness
 denationalizing
 demitint
 demitoilet
-deteriorated 4
+deteriorated 5
 demitranslucence 3
 demits 2
 demitted
@@ -8980,7 +8980,7 @@ dispeller 1
 dahoon 1
 discophora 3
 deficience 2
-disconanthous 1
+disconanthous 2
 duodenotomy 2
 depopulators 2
 digastric 2
@@ -14382,7 +14382,7 @@ divan 1
 dipolsphene 4
 doley 1
 divans 2
-debatably 1
+debatably 2
 distributivity
 dysentery 1
 durian 3
@@ -18009,7 +18009,7 @@ delouses 3
 dungon 1
 diplex
 denitrated 1
-disgallant 2
+disgallant 3
 doroscentral
 damping
 dulcitude 3
