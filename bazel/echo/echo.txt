@@ -691,7 +691,7 @@ ebriated 2
 esteros 1
 epithelial 1
 ecol 2
-ethnogeny
+ethnogeny 1
 earlesss 2
 enchronicle 2
 earthed 5
@@ -2110,7 +2110,7 @@ enclosable 1
 enterolysis 2
 elasmothere 1
 euphoniously 1
-ebullioscope 1
+ebullioscope 2
 emulge 1
 excretory 1
 elastica 1
@@ -9207,7 +9207,7 @@ endarterectomy 1
 embound 2
 episcopes
 epikleses 2
-empannel
+empannel 1
 epiderm
 erotylidae 1
 enlarges 2
@@ -10246,7 +10246,7 @@ eucalypteol 1
 exculpates 2
 ethylic 2
 ectoretina 2
-electrums 1
+electrums 2
 enflowering 2
 eo
 exactingly 2
