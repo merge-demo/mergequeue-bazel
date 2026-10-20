@@ -6031,7 +6031,7 @@ asbestosis 2
 appomattox
 ambiversive
 animalcular
-anatomists
+anatomists 1
 arioso
 agility
 auxotrophic
@@ -11047,7 +11047,7 @@ amort
 amortizable 1
 algic 2
 assibilation 3
-abnormalcy
+abnormalcy 1
 amortizes 2
 arecaceae 4
 araneid 1
@@ -25179,7 +25179,7 @@ avera
 amnionic 3
 angrite
 axoneure 1
-anticonventionalist 1
+anticonventionalist 2
 axonia 2
 aleochara
 assahy
