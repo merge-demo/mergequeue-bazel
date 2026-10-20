@@ -18287,7 +18287,7 @@ convexes
 coffret
 chiming 1
 coffrets
-clarifiable 1
+clarifiable 2
 coffs
 cofighter 1
 cellmate
