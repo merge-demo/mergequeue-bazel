@@ -842,7 +842,7 @@ goalage 1
 glareolidae 3
 geonim 1
 gwine 1
-geezers 5
+geezers 6
 gernitz 2
 gratulated 1
 glimpsed 4
@@ -5297,7 +5297,7 @@ guatemala 2
 gemitores 2
 gossoons
 glyoxilin 3
-glacialism 2
+glacialism 3
 granitical
 graveling 1
 geometries 5
@@ -9737,7 +9737,7 @@ googolplex 2
 guying
 grummet 2
 gable 3
-gibbetting 1
+gibbetting 2
 genuflector
 gambir 2
 gordiidae 4
