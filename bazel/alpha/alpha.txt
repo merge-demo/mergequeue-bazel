@@ -9037,7 +9037,7 @@ ailanthus 1
 abusively 2
 allotropical
 allotropically 1
-allotropies 3
+allotropies 4
 allots 1
 ashamedly 2
 adrostral
@@ -11698,7 +11698,7 @@ angulating 1
 anaesthesis 1
 abeltree 1
 appearanced
-anaesthetically
+anaesthetically 1
 anthropomantic 1
 aruspex 2
 anaesthetization 4
