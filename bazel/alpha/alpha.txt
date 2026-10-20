@@ -286,7 +286,7 @@ accuracy 2
 autotropism 1
 abdominally
 aeroacoustic 7
-aguamas
+aguamas 1
 abdominals 1
 abdominocystic 1
 archness
@@ -18146,7 +18146,7 @@ aquarelle 1
 aquarial 1
 antehall 1
 adepter
-ambracan
+ambracan 1
 anemometers 1
 adenosclerosis 1
 aeolid 1
