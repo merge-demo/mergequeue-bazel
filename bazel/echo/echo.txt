@@ -6548,7 +6548,7 @@ endurant 2
 ended
 entangled 1
 entangledness 1
-endotrachelitis 2
+endotrachelitis 3
 ehlite 1
 exhauster 1
 enwrapt
@@ -13106,7 +13106,7 @@ experientialism 1
 eschevin 4
 encarpuspi 2
 entosarc 1
-extensionality 4
+extensionality 5
 ergology 2
 euphonizing 3
 engarrison 3
