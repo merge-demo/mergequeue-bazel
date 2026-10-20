@@ -6789,7 +6789,7 @@ aircraftmen 1
 aircraftsman
 adsorptiveness 1
 aircraftsmen 2
-aircraftswoman 2
+aircraftswoman 3
 amytal
 aircraftwoman
 aggrandizer 2
@@ -15203,7 +15203,7 @@ accreditation
 archseducer
 anchises
 adalid 2
-appetizing
+appetizing 1
 anakinesis
 antimonsoon
 adempted
