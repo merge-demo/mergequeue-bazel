@@ -5343,7 +5343,7 @@ borderlines 1
 balmy
 ballroom 2
 begone 3
-baryte
+baryte 1
 boxlike 1
 begonia 3
 begoniales 1
