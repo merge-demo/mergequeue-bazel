@@ -420,7 +420,7 @@ bibliophagic 4
 bidcock 3
 beamer
 bromocamphor 2
-backpedal
+backpedal 1
 backpedaling 2
 backpiece 5
 backplane 2
@@ -14525,7 +14525,7 @@ butterburr 3
 blockage 1
 blackcurrant
 betrail 1
-branchiogenous 2
+branchiogenous 3
 branchiomere 3
 baikie 4
 bibliogony 1
@@ -17307,7 +17307,7 @@ bumped 2
 burrowed 1
 blobber
 beechier 2
-boreholes 2
+boreholes 3
 bumpers
 baths 1
 blazons
