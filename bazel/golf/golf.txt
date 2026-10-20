@@ -2020,7 +2020,7 @@ gums 1
 gauzewing 1
 gomorrah 1
 gnaeus 3
-galactia 3
+galactia 4
 grithman 1
 gauzy 2
 galatae 2
@@ -10410,7 +10410,7 @@ glareworm 1
 graduality 3
 gnotobiotic 3
 guidecraft 1
-gutturalness 5
+gutturalness 6
 guttier 2
 gatecrashers 2
 gadgetries 5
