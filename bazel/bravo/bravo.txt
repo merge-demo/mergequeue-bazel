@@ -10474,7 +10474,7 @@ blastid 2
 blart 1
 blasting
 borolanite 4
-blastings 4
+blastings 5
 blastocele 2
 boomers
 batodendron 1
