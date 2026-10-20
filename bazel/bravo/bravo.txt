@@ -4038,7 +4038,7 @@ bom 1
 butled 2
 beamed 2
 bedrock 1
-beamers 1
+beamers 2
 beamfilling 2
 beeware 1
 bivalvous 2
