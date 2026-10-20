@@ -6922,7 +6922,7 @@ cementatory 1
 chlorobromomethane 1
 curvirostres 1
 charros
-cementer
+cementer 1
 cementification
 cyborgs 1
 cementin
@@ -28959,7 +28959,7 @@ crickey 1
 cricket
 converso 1
 cricketers
-chuckler 1
+chuckler 2
 cicindelid 1
 countervengeance 1
 cigaret
