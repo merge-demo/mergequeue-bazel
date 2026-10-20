@@ -5587,7 +5587,7 @@ bel 1
 bemedalled 1
 behoovingly
 basinasal
-boulanger
+boulanger 1
 bela 1
 beluchi 1
 burgonets 3
