@@ -6922,7 +6922,7 @@ cementatory 1
 chlorobromomethane 1
 curvirostres 1
 charros
-cementer
+cementer 1
 cementification
 cyborgs 1
 cementin
