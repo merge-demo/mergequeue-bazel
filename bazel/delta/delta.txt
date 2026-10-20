@@ -7673,7 +7673,7 @@ debell 3
 deviance
 dimples 2
 deviancy 1
-dogcatcher 1
+dogcatcher 2
 disquantity 1
 difform 2
 deviated
@@ -12278,7 +12278,7 @@ disgorged 1
 disendowed
 drawing 3
 distrusting 1
-degreasing 2
+degreasing 3
 dromedarist 2
 diazomethane
 disgospel 2
