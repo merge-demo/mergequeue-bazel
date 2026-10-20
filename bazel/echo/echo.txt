@@ -1920,7 +1920,7 @@ envault
 ectorhinal 1
 ernst 2
 emptional 1
-electropneumatically
+electropneumatically 1
 eisteddfod
 eluting
 exemplary 1
@@ -4129,7 +4129,7 @@ ecardinal 1
 endosarc 1
 electrorefine
 emplecton 2
-exuberancy 2
+exuberancy 3
 employability 2
 evenly
 electrovalence 2
@@ -7084,7 +7084,7 @@ euphone 6
 efficiency 3
 enlinked 2
 enshell 2
-entoiling 1
+entoiling 2
 enunciability
 etymologer 2
 euphemous 2
