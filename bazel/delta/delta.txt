@@ -9413,7 +9413,7 @@ diamin 1
 diffusible 2
 demagoguism 1
 diffusibleness 3
-diffusing
+diffusing 1
 deuteranomalous
 dereling 1
 dowerless 2
