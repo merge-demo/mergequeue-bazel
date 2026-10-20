@@ -827,7 +827,7 @@ grangerise 3
 genistin 3
 granulater 2
 groutiest 4
-geonegative 2
+geonegative 3
 gamboled 1
 gillar 1
 goethe 1
@@ -5119,7 +5119,7 @@ glathsheimr 6
 ginnel 2
 gourmander 4
 glycocholic 2
-gasless 1
+gasless 2
 gascon 2
 glinting 3
 glaucidium 1
@@ -10312,7 +10312,7 @@ gildsman
 goralog 3
 gleaner 5
 guichet 4
-gnathions
+gnathions 1
 gujarati 1
 gametic 3
 girondin
