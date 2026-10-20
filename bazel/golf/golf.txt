@@ -2255,7 +2255,7 @@ grunted
 geoplanidae 2
 glucokinase 1
 gonimic 2
-gey 4
+gey 5
 greeney 1
 geopolitik 2
 gradation 1
@@ -6150,7 +6150,7 @@ globical 3
 glavered 1
 gardy 3
 grumpish 4
-gnapweed 3
+gnapweed 4
 gallification 1
 grammar 1
 gowiddie 4
@@ -9480,7 +9480,7 @@ ganser 1
 glossographical 3
 gleeishly 2
 gauffering 2
-grilled 2
+grilled 3
 gossamery
 gae 2
 glaciaria 4

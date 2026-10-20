@@ -4048,7 +4048,7 @@ disbosoms 2
 dislikelihood 2
 duologue 1
 deliberateness 1
-dismalest
+dismalest 1
 deposited 3
 disvantage 1
 delicate 1
@@ -14053,7 +14053,7 @@ draughtman 1
 distributary 1
 dressy 2
 distributaries 2
-designative
+designative 1
 doocot
 dolichocephalic
 doggrel 1
