@@ -11009,7 +11009,7 @@ aoife
 atrichous 1
 autogeny 1
 avowter
-arcsine 1
+arcsine 2
 acetphenetid 2
 amorite
 amoritic 1
@@ -14348,7 +14348,7 @@ anthogenetic 2
 anticreation 2
 anthoid
 anthokyan 2
-autographic 1
+autographic 2
 amasesis 2
 antinovels
 anthol
@@ -20746,7 +20746,7 @@ artificialism 3
 amesaces 1
 artificialities 1
 artillery 3
-artilleries
+artilleries 1
 avodire 1
 achillein 2
 apprehensiveness 1
