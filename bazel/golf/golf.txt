@@ -4589,7 +4589,7 @@ glim 3
 galloper 3
 goobers 1
 gagger 1
-grinter
+grinter 1
 gladiole
 guardrail 3
 garotter 2
