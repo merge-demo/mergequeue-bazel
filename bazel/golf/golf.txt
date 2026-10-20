@@ -588,7 +588,7 @@ gabfest 3
 gorilloid 2
 garron 3
 greaseball 5
-garthman 3
+garthman 4
 gallinaceae 5
 gallinacean 2
 galesaurus 3
@@ -5608,7 +5608,7 @@ girdlecake 2
 grossular 2
 grabman 2
 groundwall 2
-goldseed 4
+goldseed 5
 grisping 3
 guayroto 1
 glochid 4
