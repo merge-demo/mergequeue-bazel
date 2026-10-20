@@ -18119,7 +18119,7 @@ bloodlettings 1
 buskin 1
 butcherer 1
 blobbier
-bureaucrats
+bureaucrats 1
 boll 4
 ballyrag 1
 bistouries 3
