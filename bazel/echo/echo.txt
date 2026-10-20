@@ -34,7 +34,7 @@ eanling 2
 ear
 endosporia
 enumerated 4
-estimableness
+estimableness 1
 epidemiological 4
 electrothermic 2
 eloping 1
@@ -7454,7 +7454,7 @@ elohimic 1
 enfile
 ecchondrotome 1
 effusions 1
-emboliform 2
+emboliform 3
 ephestia 1
 enregistering 1
 emphatical 1

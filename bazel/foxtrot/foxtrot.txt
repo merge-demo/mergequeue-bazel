@@ -2863,7 +2863,7 @@ foresails 3
 figworm 2
 flurry
 fungid 5
-familistery 1
+familistery 2
 fortuned 5
 fameflower 3
 fettered 2
@@ -5764,7 +5764,7 @@ flited 2
 frontate 3
 foge 3
 freckliness 2
-foehns 2
+foehns 3
 finebent 2
 finings 3
 fulth 1
