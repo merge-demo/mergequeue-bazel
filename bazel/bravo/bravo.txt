@@ -9979,7 +9979,7 @@ bivector
 biventer 3
 backseat 2
 bayonetting 3
-blackwashing 1
+blackwashing 2
 bulkin 1
 bizarrerie
 bield 1
