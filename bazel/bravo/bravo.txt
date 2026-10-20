@@ -1937,7 +1937,7 @@ beeway 2
 beworms 1
 bacteriophage
 bandwidth 2
-bandworm 1
+bandworm 2
 blunderers
 boogiewoogie 1
 baylet 1
@@ -2395,7 +2395,7 @@ bazar 5
 brinks
 bilaterality
 bardocucullus
-betowel
+betowel 1
 blinkering 1
 bromoiodide 1
 besmirch 1
