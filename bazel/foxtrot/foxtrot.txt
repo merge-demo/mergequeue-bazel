@@ -4253,7 +4253,7 @@ fireplug 4
 firepot 6
 foreflank 1
 fructoside 5
-forebooms 2
+forebooms 3
 flots 2
 frangipanni
 floridians 5
@@ -8976,7 +8976,7 @@ fourpence 2
 farcist 2
 flavine
 fourpenny 1
-fernless
+fernless 1
 fableist 2
 fabricate 3
 flabellarium 5
@@ -11130,7 +11130,7 @@ farle 3
 footmarks 3
 furuncular 1
 flaggery 3
-formylated
+formylated 1
 forumize 1
 foreallot 1
 fanega 2

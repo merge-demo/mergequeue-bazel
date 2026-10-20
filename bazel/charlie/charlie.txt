@@ -11181,7 +11181,7 @@ comburimeter
 cymbocephalic 2
 chloralize 1
 chloralized 2
-commissioners
+commissioners 1
 chloralosed
 chloralum 1
 chlorambucil 1
@@ -14809,7 +14809,7 @@ cornsack 2
 cytogenic 1
 cahill 2
 cytoglobin
-corselette 1
+corselette 2
 concitizen
 cytoid 1
 citoyenne 1
@@ -27669,7 +27669,7 @@ cerium 1
 cytoarchitecturally 2
 clavicornate 2
 capeworks 1
-caliver
+caliver 1
 cowhided 2
 criminative 1
 cowhides
