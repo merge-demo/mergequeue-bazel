@@ -1915,7 +1915,7 @@ chaumer
 cambuca
 cambuscan 1
 came
-camel
+camel 1
 comforted
 cameleer 2
 culverins 1
@@ -16700,7 +16700,7 @@ cora 2
 clothespins 2
 centroplasm 2
 clothespresses 4
-cire 1
+cire 2
 clothiers 2
 clothings 1
 catharpin 1
@@ -22321,7 +22321,7 @@ congregationalist 1
 circumnavigated 2
 congregations 1
 conciator
-congregative
+congregative 1
 congreso
 congress 1
 coxarthropathy 2
@@ -22752,7 +22752,7 @@ centralism 1
 carucated 2
 conscionableness 1
 chais 1
-consciously 2
+consciously 3
 consciousness
 conscive
 cholanthrene 1
