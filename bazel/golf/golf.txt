@@ -5571,7 +5571,7 @@ gussies
 granuloblast 1
 globous 1
 georgical 1
-gadus 2
+gadus 3
 goffle 4
 gephyrophobia 3
 glycerizine 3
@@ -9345,7 +9345,7 @@ griffs
 gruf 1
 geophila 1
 graduate 3
-galleasses 2
+galleasses 3
 goliad 7
 gunnysacks 1
 ghaznevid 2

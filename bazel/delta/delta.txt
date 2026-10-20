@@ -4706,13 +4706,13 @@ disheveling 1
 ducklar
 demivambrace 2
 dorsicollar 1
-darkling 2
+darkling 3
 drusean
 diminutivize 2
 defoliates 1
 dermonecrotic
 designingly 1
-daybreak
+daybreak 1
 datiscaceous
 demivirgin 2
 demivol
@@ -15737,7 +15737,7 @@ disintegrates 2
 dewools 1
 disbuds 2
 doris 2
-dorsomedial
+dorsomedial 1
 diaxonic 1
 disyntheme
 dater 2
