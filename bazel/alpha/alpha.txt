@@ -6680,7 +6680,7 @@ ailurophilic
 affirmation 2
 ailuropoda
 abp
-acoustic
+acoustic 1
 ailurus
 ailweed 1
 appassionatamente 2
