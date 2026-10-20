@@ -1803,7 +1803,7 @@ bridgewall
 bananivorous
 banatite 1
 becharm 2
-blackjacking 4
+blackjacking 5
 billycans 2
 bancha 3
 bivial
@@ -6099,7 +6099,7 @@ buyout 2
 biobibliographies 2
 behusband
 bendies
-bends 2
+bends 3
 bendwise 1
 begay
 balaneutics
@@ -14164,7 +14164,7 @@ bilifaction 1
 beadleship 4
 belgophile 2
 bulbomedullary 1
-bolded 2
+bolded 3
 bivalvular
 badaud 2
 bobbiner 3
