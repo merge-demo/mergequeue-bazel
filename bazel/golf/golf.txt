@@ -1950,7 +1950,7 @@ gauged 2
 grovet 4
 goclenian 3
 germicides 4
-glucosidal
+glucosidal 1
 gorbellied 2
 glutetei 4
 gruft 6
@@ -7609,7 +7609,7 @@ grus 3
 grabhook 2
 grabouche 3
 gripsack
-gigolo 4
+gigolo 5
 gerenda
 garpike 3
 gilbertite 4
@@ -8203,7 +8203,7 @@ gentlemanlike 1
 galwegian 2
 gabbed 3
 gracilaria 3
-geopositive 4
+geopositive 5
 glutethimide 3
 gravid 2
 gladlier 1
@@ -9465,7 +9465,7 @@ gauntness 3
 grassiest 4
 gluish 2
 guaharibo 4
-gabriella 1
+gabriella 2
 glaciate 2
 grumbling 4
 gaseously 2

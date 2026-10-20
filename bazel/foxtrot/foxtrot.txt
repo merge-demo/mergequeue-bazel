@@ -3444,7 +3444,7 @@ foreside 2
 fieriness 4
 fierte 3
 fifed 2
-flerried 2
+flerried 3
 frontals 2
 feminising 2
 fulmines 2
@@ -5182,7 +5182,7 @@ fictions 3
 flameflower 2
 feeding 3
 flued 2
-flatulentness 6
+flatulentness 7
 flangeway 4
 futter
 fibs 1
@@ -7010,7 +7010,7 @@ functor
 frison 2
 frittered
 fondues 4
-forestress 1
+forestress 2
 frescoist 5
 fictionistic 1
 fusees
@@ -7460,7 +7460,7 @@ frumpier 1
 filipendulous 4
 funditores 3
 fantasists 1
-fumeuse 2
+fumeuse 3
 fudges 2
 frutilla 2
 fossarian 2
