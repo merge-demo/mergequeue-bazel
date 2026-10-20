@@ -5120,7 +5120,7 @@ collectivity
 circumrenal 2
 casebox 3
 cased 2
-cisatlantic 1
+cisatlantic 2
 convulsionism 1
 casefy 2
 corneter
@@ -18836,7 +18836,7 @@ colicines 1
 cultigen 1
 celiac 2
 colicins
-corvisor
+corvisor 1
 cytogene 1
 colicroot
 colicwort 1
