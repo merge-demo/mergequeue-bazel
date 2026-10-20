@@ -17510,7 +17510,7 @@ bedip
 bystanders 1
 blockout 1
 backspeir 1
-burbolt 2
+burbolt 3
 blight 1
 beauseant 1
 biognosis
