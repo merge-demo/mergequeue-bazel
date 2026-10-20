@@ -22792,7 +22792,7 @@ atlantid 3
 asaphid
 atlantides
 audibility 1
-atlantite
+atlantite 1
 arthrodic 1
 arrowheaded 1
 antigenically
