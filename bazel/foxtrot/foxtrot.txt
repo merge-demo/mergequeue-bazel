@@ -6258,7 +6258,7 @@ flummeries 4
 fld 3
 fedoras
 flatfooting 1
-fearing 1
+fearing 2
 febronianism
 fanteague 1
 flota 2
@@ -7757,7 +7757,7 @@ franciscanism 2
 fisticuffery 2
 favillous 2
 flabelliform 2
-forsaker 2
+forsaker 3
 foremasts 2
 foremean 3
 fasciately 2
