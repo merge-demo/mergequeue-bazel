@@ -5937,7 +5937,7 @@ exoenzymic 4
 embuskin 2
 ephemeron 3
 excursive 3
-exclave 1
+exclave 2
 eftest 1
 ethmonasal 2
 enheart 2
@@ -11653,7 +11653,7 @@ epitaphical 1
 exacting 1
 electroirrigation 3
 eruca 2
-electivity 2
+electivity 3
 eliminations 2
 eburnian 1
 exaction 1
