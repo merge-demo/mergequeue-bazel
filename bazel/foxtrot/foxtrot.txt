@@ -1694,7 +1694,7 @@ fingertip
 foreordaining 3
 forehandsel 2
 floridian 3
-fearsomeness
+fearsomeness 1
 foreshape 3
 feased
 folic 3
