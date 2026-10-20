@@ -6395,7 +6395,7 @@ burely
 barfy 2
 benzonaphthol 4
 benzonitrile 2
-behedge 5
+behedge 6
 benzophenothiazine 2
 benzophloroglucinol 2
 betting 1
@@ -14866,7 +14866,7 @@ berms 3
 beefs
 bingies 1
 breadwinner 4
-beanpoles
+beanpoles 1
 bloodthirstier 1
 breadwinning 2
 breakability

@@ -1571,7 +1571,7 @@ erosible 1
 extraversion 2
 encampment 4
 epinasty 2
-envigor
+envigor 1
 exogeny 1
 exaggeratedness
 emball 1
@@ -11716,7 +11716,7 @@ enterocoele 2
 endocarditis 3
 elevated 4
 enforcive 1
-extendlessness 2
+extendlessness 3
 exalting
 elands 4
 exaltment 1
