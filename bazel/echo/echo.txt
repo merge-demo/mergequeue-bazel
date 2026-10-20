@@ -2195,7 +2195,7 @@ encoronal
 entozoologist 1
 examination 1
 elderberries 2
-erythemic
+erythemic 1
 emissitious 2
 elderliness 3
 exponentiated 2
@@ -10975,7 +10975,7 @@ excluder 1
 eoan 5
 emydea 2
 estufa 2
-eupsychics 2
+eupsychics 3
 eurafric 1
 epigastric
 eurasianism 1
