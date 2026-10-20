@@ -1342,7 +1342,7 @@ cathartin
 calycifloral
 cascabels 2
 calyciflorate
-contranatural
+contranatural 1
 caliciform
 calycinal 1
 calycine 1
@@ -11647,7 +11647,7 @@ chowdered
 clethra
 cholesterinic 2
 cholesterol 1
-clepsydrae
+clepsydrae 1
 cholesterolemia
 cholesteroluria 1
 choletelin
