@@ -3092,7 +3092,7 @@ capably 1
 cerecloth 2
 capacify 1
 cowpat 1
-centare
+centare 1
 contrabandist
 capacious 2
 capaciousness 1
@@ -25682,7 +25682,7 @@ centupled
 corregimientos
 chaucerianism 1
 correl 1
-coolaman 2
+coolaman 3
 correlatable 1
 cathedrae
 consigns 1
@@ -27137,7 +27137,7 @@ countrywide
 countersinks 1
 countersleight 2
 countersnarl 1
-cataclysmatic 2
+cataclysmatic 3
 counterspy 1
 counterspies 1
 coverage
