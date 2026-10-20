@@ -12787,7 +12787,7 @@ bookwards 1
 byronite
 bookworm
 bookwright 2
-booleans 2
+booleans 3
 booleys 2
 bardy 1
 booly 3
