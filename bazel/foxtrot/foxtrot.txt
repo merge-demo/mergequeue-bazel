@@ -1999,7 +1999,7 @@ fogging 2
 fedora 2
 fide 2
 feere 3
-flipper 4
+flipper 5
 fautor 2
 fours 3
 feeze 3
@@ -2359,7 +2359,7 @@ friarly 2
 funerary 3
 favel 2
 femineity 2
-frightener 2
+frightener 3
 fanhouse 4
 feres 2
 floatstone
@@ -5180,7 +5180,7 @@ flatfeet 2
 flatulencies
 fictions 3
 flameflower 2
-feeding 3
+feeding 4
 flued 2
 flatulentness 7
 flangeway 4
