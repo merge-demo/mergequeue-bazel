@@ -10217,7 +10217,7 @@ groundneedle 1
 generaliser 4
 grippers 2
 guzzled 2
-guile 5
+guile 6
 gyrectomies 5
 galluses
 groundsel 1
