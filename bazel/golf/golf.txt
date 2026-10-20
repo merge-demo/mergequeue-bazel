@@ -636,7 +636,7 @@ geodetic 3
 grottowork 2
 gardencraft 1
 gallomaniac 4
-gallon
+gallon 1
 gonapophysis 1
 gush 3
 gonangial 1
@@ -3539,7 +3539,7 @@ gunkholed 1
 gibbsites 2
 gumbotils 1
 gapo 1
-glucogene 1
+glucogene 2
 gilt 2
 grogginess 6
 gantangs 2
@@ -4327,7 +4327,7 @@ grubless 7
 gravidity 2
 gymnic 1
 gymnemic 7
-gloeosporiose 3
+gloeosporiose 4
 gawks 1
 geodesist 5
 galeopsis 1
@@ -7263,7 +7263,7 @@ gammas 2
 gromyl 3
 gormand 1
 gibbus 2
-gemmingia 2
+gemmingia 3
 gormandised 3
 geissolomataceous 1
 graduators 4
