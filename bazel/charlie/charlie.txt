@@ -10365,7 +10365,7 @@ cedarbird 2
 chilies
 cahoots 2
 chief
-chiefage 1
+chiefage 2
 chiefery 3
 cyatholith
 chiefest 1
@@ -16160,7 +16160,7 @@ crenulated 1
 climatometer
 climaxed 1
 ctf 1
-censing
+censing 1
 climaxing 1
 consequence
 cytotrophoblastic 2
