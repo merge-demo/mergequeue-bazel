@@ -13982,7 +13982,7 @@ disciplinant 2
 deoxidation 2
 distorter 1
 druggister 2
-distorters
+distorters 1
 distress
 dystonias
 distorting
