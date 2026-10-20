@@ -2367,7 +2367,7 @@ bebeeru 2
 barcone 1
 backwraps 3
 banshie 1
-brakemen 2
+brakemen 3
 belabors 2
 barcoo 2
 beslab
@@ -14014,7 +14014,7 @@ briquet 6
 bracery 2
 blankeel 1
 belaboured 1
-belemnoidea 2
+belemnoidea 3
 barriguda
 braceros 2
 butcherbroom 3
@@ -17601,7 +17601,7 @@ bacteriostatically
 baseballs 3
 burggrave 2
 burghbote
-brandished 2
+brandished 3
 bristling 1
 burgherage 1
 beguine 1
