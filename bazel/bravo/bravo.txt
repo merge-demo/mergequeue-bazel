@@ -2672,7 +2672,7 @@ bututs 2
 barmaster 1
 bergalith
 benzoic 2
-brutus
+brutus 1
 barmcloth
 brither 3
 birdcage 2
@@ -17450,7 +17450,7 @@ bunkie 1
 bandwork
 buffi 2
 boccies 2
-baltis 2
+baltis 3
 bunking 2
 babeldom 1
 browny 2
