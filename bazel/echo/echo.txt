@@ -12489,7 +12489,7 @@ eyestones 2
 educatory 1
 enneadic 1
 electrifying 4
-electroosmosis
+electroosmosis 1
 enomania
 escarbuncle 2
 esophagotomy 2
