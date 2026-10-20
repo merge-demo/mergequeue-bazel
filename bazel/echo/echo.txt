@@ -10853,7 +10853,7 @@ euphotic 2
 entailable 1
 equitability 1
 eructation 1
-ereption 3
+ereption 4
 euphemian 1
 electrolyzed 2
 enlivenments 1
@@ -11366,7 +11366,7 @@ exigency 2
 ethnohistory 1
 exotropic 2
 electrodesiccation 2
-evenforth
+evenforth 1
 eryopid 4
 edificator 1
 eruciform
