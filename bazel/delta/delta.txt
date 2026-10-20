@@ -3492,7 +3492,7 @@ disjunct 3
 debilitant 3
 dichroscope
 decelerating 1
-dehydrochlorination
+dehydrochlorination 1
 dorosacral 2
 decompressed 1
 deflator 1
@@ -11112,7 +11112,7 @@ do 1
 discernibility 1
 dulled 3
 dorhawk 4
-dotless 2
+dotless 3
 dissertator 2
 disarticulating
 disarticulation 3
@@ -11654,7 +11654,7 @@ discordable
 discordance 4
 dedenda 1
 discordancy
-deregulating 4
+deregulating 5
 discordancies 2
 discordant 1
 dialling 2

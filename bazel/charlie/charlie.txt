@@ -1535,7 +1535,7 @@ crookkneed 1
 clepe 1
 calliope 1
 concertos
-celtomaniac 2
+celtomaniac 3
 calliopsis
 chutes 1
 callipash 1
@@ -11868,7 +11868,7 @@ cassapanca 1
 chorals 2
 chomage 1
 chorasmian
-crispiness
+crispiness 1
 chordaceae 1
 chordacentrous
 colonialising
