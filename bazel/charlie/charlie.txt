@@ -6036,7 +6036,7 @@ curarize
 coraciiform
 cleg
 cyanide
-catholyte
+catholyte 1
 cathouse 1
 carryable 1
 cathouses
