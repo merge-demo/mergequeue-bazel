@@ -8828,7 +8828,7 @@ familiarly 1
 feucht 2
 frigorimeter 2
 fluidible 1
-flushgate
+flushgate 1
 forespoke 6
 fricandoes
 flagellulae 4
