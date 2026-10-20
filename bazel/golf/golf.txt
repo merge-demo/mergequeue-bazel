@@ -1351,7 +1351,7 @@ geoside 3
 glomerulus 4
 galloner 5
 gangrenes 2
-garnisheement 4
+garnisheement 5
 glorifier 1
 gervao 4
 gitalin 2
@@ -1952,7 +1952,7 @@ goclenian 3
 germicides 4
 glucosidal 1
 gorbellied 2
-glutetei 4
+glutetei 5
 gruft 6
 gustoso 2
 gastrilegous 1
@@ -2418,7 +2418,7 @@ gonochoristic 1
 gomukhi 2
 glariest 2
 ganton 4
-gyrolith 2
+gyrolith 3
 glaury
 gazel 2
 goaled 2
@@ -9709,7 +9709,7 @@ greased 2
 gyarung 2
 gallinuline 1
 geminal 2
-grugous 2
+grugous 3
 gasoliery 2
 goodish 2
 gruyere 3
