@@ -6805,7 +6805,7 @@ ammonify 1
 airdrome 2
 airdromes 2
 airdrop
-advertizing 1
+advertizing 2
 apart
 amiga 2
 airdropping
