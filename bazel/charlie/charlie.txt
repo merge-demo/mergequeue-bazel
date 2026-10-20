@@ -12197,7 +12197,7 @@ chinotto
 clangula 3
 chaoticness 1
 chrysobalanus
-chrysoberyl
+chrysoberyl 1
 chrysobull 1
 cinchonising 2
 chrysocarpous 1
@@ -26329,7 +26329,7 @@ chasteness 1
 choleromania 2
 costs
 caddices
-chevrone 1
+chevrone 2
 costumed 1
 chlore
 coccygomorphic

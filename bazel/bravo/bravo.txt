@@ -4208,7 +4208,7 @@ becater 1
 bonged 3
 beatuti
 brachet 1
-blockiness 1
+blockiness 2
 bowls 2
 boudoir 2
 beaucoup 1
@@ -4979,7 +4979,7 @@ breech 1
 barbecueing 3
 beladied
 basement 3
-bluebeardism
+bluebeardism 1
 belleric
 beermaker
 beermaking 1
@@ -5002,7 +5002,7 @@ boodling
 buda 2
 barukhzy 2
 beetewk 3
-barways 1
+barways 2
 biliousness 2
 bemail 1
 beethovenian
