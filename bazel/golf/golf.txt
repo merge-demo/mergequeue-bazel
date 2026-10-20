@@ -6682,7 +6682,7 @@ glitters 1
 guard 3
 garmentless 3
 giantism 2
-gastroscopies 4
+gastroscopies 5
 graptolithida 4
 gallflies 3
 gimlets 2
@@ -7951,7 +7951,7 @@ goodyish 3
 gymnurinae 1
 guesdist 3
 gymnospermy
-glumness 1
+glumness 2
 getmjlkost 4
 gametogonium 1
 glimmerite
