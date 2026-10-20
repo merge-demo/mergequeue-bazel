@@ -5916,7 +5916,7 @@ kiotmul 1
 kiovfximi 4
 kiovjyei 2
 kiowkl 2
-kiown 2
+kiown 3
 kiowscvmktss 1
 kiowvys 2
 kioxhap 3
@@ -10052,7 +10052,7 @@ kpre 1
 kprempmpscvzscc 2
 kprfall 1
 kprfddfgkxbpewiy
-kprjclraf 1
+kprjclraf 2
 kprkgwrxr 2
 kprnrpuf 3
 kprnrw
