@@ -13914,7 +13914,7 @@ binoculate 2
 birdlike 3
 bowstrung
 behavior 1
-bowtell
+bowtell 1
 barographic 2
 backpointer 1
 byspell 3
