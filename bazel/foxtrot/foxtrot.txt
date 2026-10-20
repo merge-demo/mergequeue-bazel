@@ -3942,7 +3942,7 @@ fischerite
 forebrain 4
 firmamental 4
 fraple 1
-ferrocyanogen 2
+ferrocyanogen 3
 falsehearted 1
 furrowed 1
 fireboxes 1
@@ -10677,7 +10677,7 @@ fg 1
 foreset 3
 foresheets 2
 fleuretty 1
-fortuneless 3
+fortuneless 4
 fringilla 4
 fecks 3
 formularising 5
