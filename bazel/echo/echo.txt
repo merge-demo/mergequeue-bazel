@@ -7135,7 +7135,7 @@ epiplexis
 extrabranchial 4
 employees
 electrophysiologically 1
-epithesis 1
+epithesis 2
 energic 1
 envious 1
 expelling
@@ -7468,7 +7468,7 @@ embattling
 ellerian 3
 eavesdroppers 2
 ephemerid 3
-ewe 1
+ewe 2
 escobadura 2
 ephemeridae 2
 ephemeroptera
@@ -12449,7 +12449,7 @@ exhumate 1
 egoisms 3
 elusoriness
 esquire 3
-evacuative 1
+evacuative 2
 eighteen 2
 enlimn
 effectuate
