@@ -6587,7 +6587,7 @@ excusive 3
 eccritic 6
 embattled 1
 epimedium 2
-enorthotrope
+enorthotrope 1
 electricity 1
 emigrates 1
 erysimum 2
