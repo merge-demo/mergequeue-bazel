@@ -998,7 +998,7 @@ enquiring 2
 exorbital 1
 earthwork 4
 edaphosaurus 2
-explosibility
+explosibility 1
 encapsules
 euthanasic 1
 enterocinetic
