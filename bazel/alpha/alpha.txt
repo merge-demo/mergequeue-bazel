@@ -663,7 +663,7 @@ abominators 3
 abomine 1
 abondance 3
 alluvials
-aimara 3
+aimara 4
 apostrophation 1
 abonnement 2
 artesian 3
@@ -7807,7 +7807,7 @@ aldolization 4
 anconei
 aldolized 1
 aldolizing 2
-aldols 3
+aldols 4
 aldose
 aldoside 3
 aldosterone 3
