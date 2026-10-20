@@ -1543,7 +1543,7 @@ frundel 2
 festival 3
 fauvette 2
 flowcontrol 3
-fishbowl 3
+fishbowl 4
 fauvism 2
 funk
 fause 3
@@ -10543,7 +10543,7 @@ festivous 5
 fossilised 3
 fauchard 3
 featherier 4
-fieldpiece 1
+fieldpiece 2
 frowziest 1
 frowzled 4
 firebases 1

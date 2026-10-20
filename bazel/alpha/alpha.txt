@@ -591,7 +591,7 @@ acriflavine 1
 arytenoidal 1
 ampleness 1
 abnormalcies 1
-adrenalectomies 2
+adrenalectomies 3
 adjure
 abnormalized 2
 anatomical 1
@@ -10017,7 +10017,7 @@ ambidextral 1
 accusation
 andrenid 1
 avidya 1
-ambidextrously 1
+ambidextrously 2
 autarkikal 3
 avellan
 asyllabical 1
@@ -16540,7 +16540,7 @@ aquation 4
 apabhramsa 1
 axletree 3
 appress
-acutorsion 1
+acutorsion 2
 apache 1
 attained
 apadana 1
@@ -19563,7 +19563,7 @@ alexipharmic 2
 aegyrite
 anchorable
 autointoxicant
-aglisten 2
+aglisten 3
 argutation 2
 azotobacterieae
 akpek

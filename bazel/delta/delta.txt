@@ -9413,7 +9413,7 @@ diamin 1
 diffusible 2
 demagoguism 1
 diffusibleness 3
-diffusing
+diffusing 1
 deuteranomalous
 dereling 1
 dowerless 2
@@ -15451,7 +15451,7 @@ dewanship 2
 deboners
 dominule 4
 dissociability
-dowelling 1
+dowelling 2
 domite 1
 doggery
 dacus 3
