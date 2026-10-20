@@ -1571,7 +1571,7 @@ erosible 1
 extraversion 2
 encampment 4
 epinasty 2
-envigor
+envigor 1
 exogeny 1
 exaggeratedness
 emball 1
