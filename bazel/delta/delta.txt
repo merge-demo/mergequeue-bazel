@@ -3636,7 +3636,7 @@ degging 4
 devices 1
 deglamorizing
 doubtlessly 5
-disrespectfulness 1
+disrespectfulness 2
 deglazed
 discoblastic 1
 deglazing 1
@@ -3914,7 +3914,7 @@ dekagramme 1
 doggerelize 2
 discommunity
 decumbiture 1
-designating 5
+designating 6
 discomedusan 1
 disherits 2
 dekameters 1
@@ -17355,7 +17355,7 @@ dropberry 2
 deprogrammers 3
 dropforge 3
 dorsicommissure 2
-dropforger
+dropforger 1
 drophead
 ditchbur 1
 darksomeness 1

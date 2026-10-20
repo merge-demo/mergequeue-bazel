@@ -825,7 +825,7 @@ eral 3
 excrescent
 extremest
 extradecretal 3
-encrust
+encrust 1
 ectypography 1
 epitheton
 entrecote
@@ -4075,7 +4075,7 @@ engorgement 2
 esquimau 2
 expositorily 1
 exospheric 1
-enforcement 2
+enforcement 3
 erratical 2
 encrusting 2
 eremian 2

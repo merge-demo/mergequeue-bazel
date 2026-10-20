@@ -1694,7 +1694,7 @@ fingertip
 foreordaining 3
 forehandsel 2
 floridian 3
-fearsomeness
+fearsomeness 1
 foreshape 3
 feased
 folic 3
@@ -7705,7 +7705,7 @@ friend 1
 flexes 1
 firth 2
 flipped 1
-firm 1
+firm 2
 fleawort 1
 fossa 2
 fidessa 6
@@ -8504,7 +8504,7 @@ fervorless 3
 farnovian 4
 fiuman 4
 fanaticising 2
-forbearance 2
+forbearance 3
 forminate 4
 forming 1
 formless 3
@@ -11753,7 +11753,7 @@ fuzees 2
 faultfinders 2
 fuzzier 1
 fuzziest 3
-forstraught 3
+forstraught 4
 fertilitate 1
 fianna 2
 forloin 4

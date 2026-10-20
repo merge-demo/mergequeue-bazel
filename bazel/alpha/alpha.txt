@@ -12017,7 +12017,7 @@ alpha
 amphithalmi
 amara 3
 antigravitation 3
-apostrophize
+apostrophize 1
 anaretical 2
 arc 1
 arboret 2
@@ -24650,7 +24650,7 @@ avenant 1
 avenary
 avenge
 abnegated 1
-actinomycin 1
+actinomycin 2
 absurdness 2
 avengeful 1
 adventureship 1
