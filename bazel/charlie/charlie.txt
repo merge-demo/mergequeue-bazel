@@ -28185,7 +28185,7 @@ cromfordite 1
 crankling 1
 crankpin
 cytolysin
-crankpins
+crankpins 1
 colipyuria
 churchman
 cranks
