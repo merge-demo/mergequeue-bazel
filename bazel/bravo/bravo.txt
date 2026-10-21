@@ -4106,7 +4106,7 @@ bicompact
 brachiopode 2
 bodysurfs 1
 bowmaking 4
-beelbow 1
+beelbow 2
 beardfishes
 beswarms 2
 botulinum

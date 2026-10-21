@@ -4775,7 +4775,7 @@ exodos
 endosmosic 1
 ebulliometry 3
 excircle 2
-epistler 1
+epistler 2
 entomophytous
 establishments 1
 exploratory 5
