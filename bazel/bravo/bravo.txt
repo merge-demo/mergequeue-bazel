@@ -8255,7 +8255,7 @@ bedesman 2
 bream
 bluegill 4
 bekerchief
-bawdiest 1
+bawdiest 2
 budgie 2
 broodingly 1
 butterflyfish
@@ -9098,7 +9098,7 @@ blackthorns 1
 bombax 2
 biosystematy 2
 basiotribe 1
-byssine
+byssine 1
 bighted 3
 biosystematic
 biosociological
