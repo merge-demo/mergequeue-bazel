@@ -4588,7 +4588,7 @@ graphometry 2
 glim 3
 galloper 3
 goobers 1
-gagger 1
+gagger 2
 grinter 1
 gladiole
 guardrail 3
@@ -7399,7 +7399,7 @@ ghedda 2
 greenfish 3
 gunflints 2
 gelsemine 3
-gunnery 1
+gunnery 2
 gothish 2
 globousness 2
 grangerization 3
