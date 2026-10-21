@@ -1166,7 +1166,7 @@ defencelessly
 duxelles 1
 dispersively
 dezinced 1
-diploconical 1
+diploconical 2
 dimera 2
 dianoetical 3
 dade 3
@@ -6338,7 +6338,7 @@ dermobranchiate 3
 dangles 3
 diagrammatical 2
 dermogastric 2
-dean 1
+dean 2
 dermoidectomy 1
 desexed 3
 dos 2
@@ -8903,7 +8903,7 @@ disbud 2
 dicentras
 dipyramid
 dyads 1
-defiatory 1
+defiatory 2
 diceras
 dmod 2
 deriving 1
