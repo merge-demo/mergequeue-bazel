@@ -7873,7 +7873,7 @@ cessed
 cesser 1
 cesses 1
 criticism
-cuttle
+cuttle 1
 cipolin
 cessible 1
 copperplate 3
@@ -10113,7 +10113,7 @@ chevage
 careened 1
 columnwise
 cheval 1
-chevalet 2
+chevalet 3
 chevalets
 chevalier
 centeredness
@@ -15645,7 +15645,7 @@ clauses
 coattends 2
 craniotympanic 3
 cartilaginification 1
-clausthalite
+clausthalite 1
 claustral 1
 claustration 1
 characinoid 5
@@ -17738,7 +17738,7 @@ crockard
 charterable
 crimeless
 creagh 1
-caved
+caved 1
 cocoons 3
 cocopan 1
 cocoroot
@@ -20178,7 +20178,7 @@ chinenses
 curvaceously
 commixtion
 commixture
-commo
+commo 1
 commendatary
 caramelization 1
 chappie 1

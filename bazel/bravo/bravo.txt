@@ -4966,7 +4966,7 @@ bonaveria
 boltless
 bolases 1
 beerbachite
-budgers
+budgers 1
 beraked 1
 baculere 1
 bucconidae 1
@@ -6910,7 +6910,7 @@ breediness 3
 betail 1
 baselessness 1
 betta 1
-becoward 1
+becoward 2
 bargoose 1
 badder 1
 bismuths 3
@@ -13390,7 +13390,7 @@ botocudo 1
 berried
 brumaire
 botone 1
-bourgeoned
+bourgeoned 1
 bialys 1
 blanche 2
 brushing 1
