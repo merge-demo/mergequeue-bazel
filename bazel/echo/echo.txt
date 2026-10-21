@@ -274,7 +274,7 @@ electrostatic
 encashed 3
 electroplated 1
 expiries 2
-easterling 4
+easterling 5
 exhumers 1
 epigoneion
 enqueue 1
@@ -5029,7 +5029,7 @@ encamp 1
 erogeneity 3
 eggplants
 epithelioblastoma 1
-endogastric 1
+endogastric 2
 enders
 expelled
 evangelistics 1
@@ -8622,7 +8622,7 @@ enframe 3
 electrodynamometer 2
 elinguating 1
 ectal 4
-equilibrates 4
+equilibrates 5
 exonerators
 ethylamide
 egol 3
@@ -13949,7 +13949,7 @@ enduement
 exterioration 2
 eschews
 elaborateness 3
-eudeve 5
+eudeve 6
 entoire 1
 extraparliamentary 1
 ectotrophic
