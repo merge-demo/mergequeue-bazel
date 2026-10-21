@@ -158,7 +158,7 @@ falls 4
 fulfillers 1
 fibbery 3
 factionalism 2
-factualness
+factualness 1
 fow 4
 fullbodied 2
 freezers
