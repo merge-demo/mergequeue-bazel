@@ -1878,7 +1878,7 @@ gyrostabilized 2
 gleir 2
 graptolithina 2
 graveled 1
-gambles 5
+gambles 6
 gazehound 2
 growlery 2
 guffaw 3
@@ -3624,7 +3624,7 @@ galilei 3
 genarcha 3
 ghazi 3
 grubber 2
-gweducs 3
+gweducs 4
 guttatim 3
 gogos 2
 grewhound 3
@@ -7314,7 +7314,7 @@ genet 3
 gutturally 6
 guze 2
 gravelling 2
-gangly 4
+gangly 5
 goar 4
 gymnosophy 2
 genys 3
@@ -10436,7 +10436,7 @@ gesneraceous 3
 gomphodont 2
 geobiologic 1
 gumdigging 2
-gumdrop 1
+gumdrop 2
 gelseminine 2
 gumly 5
 gruffs 3
