@@ -2523,7 +2523,7 @@ coehorn
 candleball
 candleberries
 candlebomb
-candlefish 1
+candlefish 2
 corporeal
 chaldaical 2
 candlefishes 1
@@ -4814,7 +4814,7 @@ catalase
 carlist 4
 carposporous
 carpsucker
-cavalierish
+cavalierish 1
 concaving 1
 connotive 2
 chem 1
@@ -11837,7 +11837,7 @@ choppier
 cados
 choppiest 2
 choppiness 1
-cowpuncher
+cowpuncher 1
 clancular
 chopstick 1
 chopsticks 1
@@ -31100,7 +31100,7 @@ cuneately 1
 cuneatic
 cuneiform
 cuneiformist
-columnarity
+columnarity 1
 chiggerweed
 cunenei 1
 coue
