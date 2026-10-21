@@ -7093,7 +7093,7 @@ fingerstall 1
 forgeability 1
 fungicide 2
 foolproof 2
-foolproofness 2
+foolproofness 3
 ferret 1
 fibulare 3
 frocking 2
