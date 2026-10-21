@@ -1097,7 +1097,7 @@ divisibleness
 dads 1
 denudations
 darvon 2
-darwesh 1
+darwesh 2
 demotist 1
 drillers 3
 douce 1
@@ -6116,7 +6116,7 @@ divvied 1
 defalcate 1
 duplexs
 december
-derays
+derays 1
 deranges
 dualin 1
 detrimental
