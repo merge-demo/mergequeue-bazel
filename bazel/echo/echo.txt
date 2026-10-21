@@ -6333,7 +6333,7 @@ equijacent 2
 embowed 2
 enrut 1
 euclidean 2
-ens
+ens 1
 emmenagogue 2
 elenchtic 4
 ensanguine 3
