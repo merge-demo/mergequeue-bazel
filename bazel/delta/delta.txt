@@ -1005,7 +1005,7 @@ doubleprecision 1
 dark 1
 dinkeys
 darked 2
-darkeys
+darkeys 1
 daneball
 darkens 2
 disruptions 2
