@@ -1605,7 +1605,7 @@ attouchement
 accoutre 1
 aminobenzamide 1
 accoutrement 2
-angioclast 1
+angioclast 2
 albanian 1
 accoutres 2
 accredit 1
@@ -19894,7 +19894,7 @@ armistices 1
 atresia 1
 adelantados 1
 avenaceous 2
-anthropocentrism 1
+anthropocentrism 2
 antiliberalism
 anaphylactogen
 armyworms 2
@@ -20236,7 +20236,7 @@ apetaly 1
 areroscope 2
 achromatic
 arriere
-axin
+axin 1
 arriet 1
 abstracting
 altschin
@@ -23047,7 +23047,7 @@ attaches 1
 ascitan 1
 attacheship 4
 administrating
-astrology
+astrology 1
 abaft
 antewar
 alumium
