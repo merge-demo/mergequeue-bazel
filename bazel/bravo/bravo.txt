@@ -1230,7 +1230,7 @@ barkers 2
 bala 1
 bedabbled 3
 balabos 2
-bashfully 1
+bashfully 2
 barrabkie 4
 balachong
 bambacciata
@@ -10819,7 +10819,7 @@ blessedness 2
 blesser 1
 bowered 1
 blurb 2
-befriz
+befriz 1
 bromate 1
 boxtree 1
 bider 2
@@ -15429,7 +15429,7 @@ beflout 1
 benetted 1
 bludgeoner
 bota 1
-bifurcations 2
+bifurcations 3
 boxthorns
 battledoring
 brilliancies 1
