@@ -590,7 +590,7 @@ fardh 3
 forerunners
 fivefold
 floorless 1
-fellon
+fellon 1
 foreknows 2
 forpet 4
 fossilisation 2
@@ -2781,7 +2781,7 @@ furriest 4
 festooneries 3
 flunkyite 1
 festivally 4
-fourieristic 3
+fourieristic 4
 flareboard 3
 floppier 4
 fiction 2
