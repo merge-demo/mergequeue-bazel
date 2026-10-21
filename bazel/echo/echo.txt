@@ -3548,7 +3548,7 @@ emuscation 1
 estriols 1
 enfoeffment
 exothermic 1
-exanthematous 1
+exanthematous 2
 ergographic 3
 entozoon 2
 emboweled 3
