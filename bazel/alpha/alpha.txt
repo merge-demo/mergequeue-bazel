@@ -10845,7 +10845,7 @@ antitrypsin 3
 ankaramite
 ammoniated 2
 ammoniating
-antioxygenator
+antioxygenator 1
 ammoniation 3
 ammonic
 ammonical 1
@@ -13381,7 +13381,7 @@ ankerhold
 annie
 annalistic
 antiinflammatory 1
-ankylodontia
+ankylodontia 1
 assumption 1
 ankyloglossia
 auditress 1
