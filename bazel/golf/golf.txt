@@ -4588,7 +4588,7 @@ graphometry 2
 glim 3
 galloper 3
 goobers 1
-gagger 1
+gagger 2
 grinter 1
 gladiole
 guardrail 3
