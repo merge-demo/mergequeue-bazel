@@ -811,7 +811,7 @@ criticisable
 caid
 caids 1
 cayenne 2
-cucurbits 1
+cucurbits 2
 cooption
 completes 1
 cytophagy
@@ -11723,7 +11723,7 @@ crotalism 1
 cirrhotic 1
 chondrioma
 churlhood
-chondriomere 1
+chondriomere 2
 chondriosphere 1
 connaturally 1
 cacophony

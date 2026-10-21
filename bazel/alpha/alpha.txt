@@ -2665,7 +2665,7 @@ adiadochokinesis
 acremen
 acres 1
 atonally
-antiarcha
+antiarcha 1
 antitheft 1
 angiograph 3
 abrasiometer 2
@@ -17967,7 +17967,7 @@ arsyl
 approvedly 1
 antiempirical 1
 anisodactyle 1
-allodialism
+allodialism 1
 anthropophysiography 1
 allothigene
 authenticate
