@@ -3637,7 +3637,7 @@ glottalize 1
 gigantal 3
 gld 3
 grouching 4
-gedder 4
+gedder 5
 gro 1
 gastroenterological 2
 gluconeogenic 5
@@ -6250,7 +6250,7 @@ goatstone
 gaum 6
 goatweed 2
 guerrillaism 3
-genitures 5
+genitures 6
 gelfomino 4
 goave 4
 greats 1
@@ -7518,7 +7518,7 @@ gemstones 3
 giggling 1
 gloomfully 3
 glossopharyngeal 2
-glitch 2
+glitch 3
 guessable 1
 glottalized
 gat 1
