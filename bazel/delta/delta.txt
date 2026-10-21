@@ -16346,7 +16346,7 @@ dichord 1
 dovetails 1
 daylight
 downslide 2
-describent 1
+describent 2
 downslip 2
 decibel 2
 downslope 2
