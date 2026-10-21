@@ -642,7 +642,7 @@ frithsoken 2
 falx 3
 further 2
 fallbacks 4
-fluocarbonate 2
+fluocarbonate 3
 fireclays 4
 fortitudinous 3
 fictionalization 2
@@ -2908,7 +2908,7 @@ floorcloth 2
 find 2
 febricide 1
 fibrose 1
-fimbricate 1
+fimbricate 2
 featuring 3
 feudalists 2
 fractionising 3
@@ -8063,7 +8063,7 @@ frustrate 2
 flammably 2
 fairies 1
 fosterers
-formentation
+formentation 1
 facetting 3
 folial 4
 forestful 3
@@ -8557,7 +8557,7 @@ fred 2
 frenchwise 5
 fluorographic 1
 fleered 1
-formulizing 3
+formulizing 4
 flapdoodle 4
 formby 1
 foeture 5
@@ -9428,7 +9428,7 @@ frolicly 1
 forlore
 frescoer 3
 fulsomeness 1
-fenman 1
+fenman 2
 fausant 3
 filmslide 2
 fireboats 1

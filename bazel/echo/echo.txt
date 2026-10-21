@@ -1255,7 +1255,7 @@ elsewheres 1
 exposition 1
 episomal 3
 evaluation 2
-endopleuritic 2
+endopleuritic 3
 enmanche 1
 eelfare 1
 encrinite 2
@@ -2890,7 +2890,7 @@ endew 2
 empark 1
 eleutherozoan 1
 ental
-elevable 1
+elevable 2
 embraceor 2
 electrionic 3
 echoizing 2
@@ -12802,7 +12802,7 @@ extensional
 exostosis 4
 exarchist 3
 exostra 4
-ebullition 2
+ebullition 3
 engraves 4
 elementary
 exostrae 2
