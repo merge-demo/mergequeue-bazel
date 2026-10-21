@@ -1653,7 +1653,7 @@ ectomorphism 1
 exsecting 5
 enshielding
 exanthine 3
-eiders 3
+eiders 4
 epilemmal
 eidograph 5
 eclogues 1
@@ -4827,7 +4827,7 @@ escape 1
 erugate 2
 estrogenicity 1
 embrangle 4
-encomiastically 3
+encomiastically 4
 extols 1
 emulously 2
 encomic
@@ -9970,7 +9970,7 @@ estuosity
 edibleness 2
 endophagy 1
 erythromelalgia
-esugarization 3
+esugarization 4
 endowers 4
 entonement 1
 entreatment
@@ -13685,7 +13685,7 @@ ewelease 1
 equalizes 1
 externalistic 4
 euphorbium
-explorativeness 1
+explorativeness 2
 externalities 3
 externalization 4
 eupractic 1
