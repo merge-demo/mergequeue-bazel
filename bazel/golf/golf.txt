@@ -902,7 +902,7 @@ gobioid 4
 gusseted 1
 goosebird
 gez 1
-gelatinizability 2
+gelatinizability 3
 genome 2
 guahivo 1
 genteeler 1
@@ -2457,7 +2457,7 @@ gemologist 3
 glacionatant 3
 groping 2
 gloaming 3
-gaiting 3
+gaiting 4
 gemot 5
 goniac 1
 gabrielrache 2
