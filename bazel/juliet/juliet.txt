@@ -9234,7 +9234,7 @@ joprqclt 3
 jops 4
 jopsampff 2
 jopsgrmvarci
-jopshkstsbrk
+jopshkstsbrk 1
 joptitarm 2
 joptsksofvjb 1
 joptv
