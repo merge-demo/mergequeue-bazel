@@ -6333,7 +6333,7 @@ equijacent 2
 embowed 2
 enrut 1
 euclidean 2
-ens
+ens 1
 emmenagogue 2
 elenchtic 4
 ensanguine 3
@@ -11846,7 +11846,7 @@ excalceation 2
 excalibur 1
 esophagectasia 2
 erythrophore 3
-euconic 2
+euconic 3
 excandescent 2
 explemental 2
 erythrochroic 4
