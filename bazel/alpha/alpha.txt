@@ -191,7 +191,7 @@ abbacomes
 acolapissa 2
 anakes
 abbasi
-abbasside 2
+abbasside 3
 advertizable 1
 altostratus 1
 ashtray
@@ -11869,7 +11869,7 @@ analphabete 2
 amphibium 2
 angelus
 acyanopsia 1
-awink 1
+awink 2
 acceptedly
 ancerata 2
 asperous 1
@@ -21579,7 +21579,7 @@ aspirating 3
 aspiration 2
 aspiree
 anhang
-aspirer 2
+aspirer 3
 aspirers 3
 alliterator
 abboccato
