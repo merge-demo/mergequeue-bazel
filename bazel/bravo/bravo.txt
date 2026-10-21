@@ -609,7 +609,7 @@ bostangi
 bastiment 4
 bacteriodiagnosis 1
 bromates 2
-benomyls 4
+benomyls 5
 behearse 2
 bacterid 4
 birdcages
@@ -768,7 +768,7 @@ bygoing 1
 banket 3
 badmouthed
 burled
-badmouths 1
+badmouths 2
 bullfrog 2
 boltheads 3
 badnesses
@@ -15605,7 +15605,7 @@ blennophlogosis 4
 blimy 4
 british
 barwood 1
-britisher
+britisher 1
 blijver 2
 blandishingly
 britishhood
