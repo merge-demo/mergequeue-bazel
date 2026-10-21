@@ -1208,7 +1208,7 @@ devilhood 2
 datana 1
 discounting 1
 denasalizing
-disordination 2
+disordination 3
 datapac 3
 decrepitated 1
 deleterious 3
@@ -9346,7 +9346,7 @@ dryad 2
 destroyable
 dunces 2
 differentiability 1
-differentiae 2
+differentiae 3
 deliquescing 3
 darkle 2
 dismembering 1
