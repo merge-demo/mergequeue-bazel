@@ -1346,7 +1346,7 @@ breeziness 2
 bacule 1
 baldachin 2
 bristliest
-bhaiachari
+bhaiachari 1
 bibliotherapist 1
 brauronia 2
 baldachino 1
@@ -6029,7 +6029,7 @@ bablah
 bloated 2
 boathead
 bollard 4
-bemartyr 3
+bemartyr 4
 buttstrap 1
 blacktail 1
 bemuddlement 2
