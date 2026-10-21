@@ -11461,7 +11461,7 @@ burgware 3
 bravos
 bundlers 1
 bandsmen
-basophilia 1
+basophilia 2
 begemming 1
 bedoctor 1
 blintze 1
@@ -14474,7 +14474,7 @@ baby
 brakeroot 1
 braky 2
 boatyards 3
-bakunda
+bakunda 1
 betray 1
 brakie 2
 blastophitic 3
