@@ -1685,7 +1685,7 @@ envassal 1
 essentialist 1
 electrothermancy 1
 ellan
-esophagi
+esophagi 1
 eddoes
 elaioleucite
 eyebright 3
@@ -9970,7 +9970,7 @@ estuosity
 edibleness 2
 endophagy 1
 erythromelalgia
-esugarization 3
+esugarization 4
 endowers 4
 entonement 1
 entreatment
