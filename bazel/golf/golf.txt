@@ -1624,7 +1624,7 @@ gametogenesis 2
 gastralgy 3
 gaunted 5
 giblet
-gastralgia 1
+gastralgia 2
 gastreas 2
 glaucosuria 4
 gyrinid
@@ -9801,7 +9801,7 @@ gitano 2
 glycidic 1
 grylle 2
 gonothecal
-gobstick 2
+gobstick 3
 gewgaw 3
 gunneraceae 1
 geognosies 2
