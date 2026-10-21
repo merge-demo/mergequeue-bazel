@@ -4718,7 +4718,7 @@ everybody 1
 epilog 1
 ecstrophy
 esthematology 1
-epanaphora 4
+epanaphora 5
 electroencephalographs
 enmuffle 3
 entrammel 1
@@ -9650,7 +9650,7 @@ enclosing 2
 emissaries 4
 epicycles 3
 espy 5
-espial 2
+espial 3
 electrocoagulation 5
 escrows 1
 espinal
