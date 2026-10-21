@@ -7504,7 +7504,7 @@ glial 2
 goals 2
 gamogenesis 4
 gaen
-glycolytic
+glycolytic 1
 gortonian 5
 glaucophanize 3
 gangs 6
