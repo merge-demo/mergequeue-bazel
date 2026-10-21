@@ -2960,7 +2960,7 @@ dedolation
 deseret 3
 destinal 3
 dotingness 1
-diegesis
+diegesis 1
 diplasiasmus 4
 deduces 1
 droil 1
@@ -6534,7 +6534,7 @@ distomiasis 2
 discourages 1
 descort 1
 differentiators
-debruise
+debruise 1
 dosa
 dolorimetry 1
 deraign 1
