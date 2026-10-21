@@ -2153,7 +2153,7 @@ baptisms 1
 breakless 1
 badgers 3
 baptistic 1
-breakbone
+breakbone 1
 behaviourist 1
 balliage 2
 baptistry 1
@@ -4106,7 +4106,7 @@ bicompact
 brachiopode 2
 bodysurfs 1
 bowmaking 4
-beelbow 1
+beelbow 2
 beardfishes
 beswarms 2
 botulinum

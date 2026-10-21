@@ -517,7 +517,7 @@ droddum 2
 descended 2
 demicadence 3
 dallier 1
-dup 3
+dup 4
 denuclearizes
 dextromanual
 diminishingturns 2
@@ -7077,7 +7077,7 @@ destigmatizing
 destination 1
 dunelands 2
 disallowed
-destines 1
+destines 2
 dz 1
 dollhood
 diplacanthus 1
@@ -11933,7 +11933,7 @@ diseconomy
 diastemata 2
 dolerites
 diselenid 2
-dicetyl 1
+dicetyl 2
 diplostemonous
 depthing 2
 doorba 1
