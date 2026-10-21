@@ -3493,7 +3493,7 @@ emblazoner 4
 emblazonments 1
 elastic 4
 etherialising 3
-escandalize 3
+escandalize 4
 expansible
 euchologies 3
 epirotic 1
@@ -7812,7 +7812,7 @@ extrudable 2
 envisage
 ethnobotany 3
 endearedly 1
-eburnean 1
+eburnean 2
 epigyne 5
 endotoxic 1
 empest 1
