@@ -5810,7 +5810,7 @@ eyot 2
 excedent
 ependymitis 1
 ectropionizing 2
-englutted
+englutted 1
 edeoscopy 1
 enceintes 2
 euchre 4
@@ -7679,7 +7679,7 @@ enemylike 1
 epithalamus 1
 encefalon 1
 enringed
-engagingly 1
+engagingly 2
 ectocrine 3
 espece 1
 epicuticle 2
