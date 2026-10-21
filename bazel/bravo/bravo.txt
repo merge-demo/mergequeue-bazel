@@ -3283,7 +3283,7 @@ benzols 3
 bandaite
 babbler 2
 bloodiest 1
-basions
+basions 1
 backstabbed
 bronzes
 beadlery 3
