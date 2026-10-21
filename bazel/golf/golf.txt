@@ -568,7 +568,7 @@ gravamem 3
 gadinine 4
 glucosazone 2
 gallian 1
-gitoxigenin 1
+gitoxigenin 2
 gluneamie
 gorgerins
 gormandiser 2
@@ -3829,7 +3829,7 @@ gavialoid 1
 gulancha 5
 gorblimey 1
 grumbly 2
-genealogies 4
+genealogies 5
 geodaesia 2
 gorger 3
 girosol
