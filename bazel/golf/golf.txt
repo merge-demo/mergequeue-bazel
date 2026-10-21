@@ -3262,7 +3262,7 @@ goetical 4
 gere 1
 gereagle 1
 gleeful 4
-gauze 2
+gauze 3
 geotropically 3
 galagala 1
 gaut 1
@@ -7131,7 +7131,7 @@ gorals 4
 genealogize 4
 gastrocystic 2
 goran 2
-gynecoid 2
+gynecoid 3
 grinderman 2
 gorbelly 2
 gyttja 3
@@ -8775,7 +8775,7 @@ glaserite 1
 gatherable 2
 gentilism 2
 glyceryls 5
-goosish 3
+goosish 4
 gravel 1
 gazpachos 1
 globalize 4

@@ -4422,7 +4422,7 @@ caryophyllus 1
 cares
 curite
 cartisane
-cheeks
+cheeks 1
 concettist
 caryopilite 2
 caryopsis
@@ -31561,7 +31561,7 @@ curtain 2
 cheesemongery
 centrals 2
 cariamae
-cowlicks
+cowlicks 1
 cauliflower
 cortine
 curtainless
