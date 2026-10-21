@@ -3564,7 +3564,7 @@ entrefer 5
 embolize 3
 eupeptic 1
 epididymal 2
-entocone 3
+entocone 4
 embolomalerism 1
 enervator 1
 exceeder
@@ -11023,7 +11023,7 @@ eurypterus 2
 emption 4
 eclectism 4
 eurite
-ethered 1
+ethered 2
 echinostomatidae 2
 elemol 1
 elapoid 5
@@ -12983,7 +12983,7 @@ erminette 3
 etheling 3
 evicke 2
 exposals 3
-emotion 3
+emotion 4
 ensnarls 1
 entice
 expectorant 2

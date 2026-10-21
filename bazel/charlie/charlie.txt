@@ -843,7 +843,7 @@ clydesdale
 chidingness 1
 cainian
 cainish
-contaminated
+contaminated 1
 carburation 1
 cainite 2
 charbroils
@@ -3610,7 +3610,7 @@ carabiniere
 carabinieri
 cotrespasser
 choosable
-caraboa
+caraboa 1
 caaba
 cinques
 circle 2
