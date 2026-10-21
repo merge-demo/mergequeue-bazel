@@ -18085,7 +18085,7 @@ anconeal
 aptiana 2
 aptychus 4
 aptitude
-aptnesses
+aptnesses 1
 autohypnotization 1
 anises 1
 amuletic 1
