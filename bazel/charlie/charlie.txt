@@ -5679,7 +5679,7 @@ catarrhs 1
 coburgher 1
 catasarka 2
 catasetum 1
-chested
+chested 1
 ching 1
 communionist 1
 cephalodymia 1
@@ -15083,7 +15083,7 @@ circumtropical
 chinsed
 clacker
 clackety
-coexertion
+coexertion 1
 clacking
 clacks 1
 clad
@@ -27561,7 +27561,7 @@ coverlets 1
 circumambiently
 consumation 1
 coverlids
-clairce 2
+clairce 3
 coverslip 1
 covertly 1
 colloquialist
