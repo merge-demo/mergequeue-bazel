@@ -7093,7 +7093,7 @@ fingerstall 1
 forgeability 1
 fungicide 2
 foolproof 2
-foolproofness 2
+foolproofness 3
 ferret 1
 fibulare 3
 frocking 2
@@ -10344,7 +10344,7 @@ filicoid
 fezziwig 2
 fidding 2
 formicaries 1
-fibreware 2
+fibreware 3
 forswore
 flatmate 2
 flamiest 6
