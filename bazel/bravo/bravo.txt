@@ -7760,7 +7760,7 @@ barytas 5
 buckeyed 1
 biacid 1
 basoko 2
-blessings
+blessings 1
 bethwine 1
 balibuntl 3
 biajaiba
@@ -16241,7 +16241,7 @@ brownest 2
 bednighted
 brownies 1
 bricklining 2
-beluga 5
+beluga 6
 browniest 2
 blackguardize 3
 beamlet
