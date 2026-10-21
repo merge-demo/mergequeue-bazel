@@ -972,7 +972,7 @@ jatd
 jatdbnsl 2
 jatdlozyo 3
 jatdyiw 3
-jatedazgps
+jatedazgps 1
 jatejxaai 2
 jatffl 1
 jatfj 2
