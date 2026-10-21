@@ -5715,7 +5715,7 @@ engallant 1
 enlargedly 1
 exameter 2
 exogastric 3
-emeu
+emeu 1
 evilest 6
 eozoon 1
 excitonutrient 7
@@ -5802,7 +5802,7 @@ expressions 2
 englobed 4
 enneahedral
 envelopment 2
-extirp 2
+extirp 3
 englut 2
 emhpasizing 2
 encored 1
@@ -11536,7 +11536,7 @@ echnida 4
 evite
 estrone 2
 emissi
-epidotiferous 2
+epidotiferous 3
 epiphytical 2
 eviting 2
 evangeline 2
