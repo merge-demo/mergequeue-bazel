@@ -28244,7 +28244,7 @@ colchyte
 crare 1
 crashed 1
 confronting
-cursors
+cursors 1
 crasher 1
 crashers 1
 crashes 1
