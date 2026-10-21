@@ -1165,7 +1165,7 @@ galactometry 4
 gnetums 3
 guffin
 gaol 2
-gulls 1
+gulls 2
 grinners 4
 galliney
 grogs 1
@@ -3245,7 +3245,7 @@ gynecologists 5
 gerasene 5
 gesturer 4
 gutti 2
-gigantism 1
+gigantism 2
 geratologous 3
 guidership 6
 gametophytic 2
@@ -10161,7 +10161,7 @@ grandstands 2
 gabs 4
 gallnuts 4
 guide 3
-glueyness 2
+glueyness 3
 gigglement 2
 guidebooky 3
 gemlich 1
