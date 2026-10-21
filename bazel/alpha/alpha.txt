@@ -5425,7 +5425,7 @@ afortiori 2
 apocatastasis 1
 afoul 2
 afray
-athrocytosis 2
+athrocytosis 3
 antisymmetrical
 anticensoriousness 2
 arcosolia
@@ -10474,7 +10474,7 @@ amphipodous 1
 amical 1
 amarettos 1
 attachments 1
-answerableness 1
+answerableness 2
 anaxagorize
 annotating
 anticlimactically 2
