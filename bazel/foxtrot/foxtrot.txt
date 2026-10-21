@@ -3475,7 +3475,7 @@ forswearer 3
 flaccidly 4
 firmisternial 4
 figgiest 1
-fraternisation 2
+fraternisation 3
 fecundity 2
 fleeches
 fanfares 3
@@ -6073,7 +6073,7 @@ fetterbush 1
 faba 1
 funicule
 flavoring 2
-floristically 2
+floristically 3
 feringhee 1
 ferrivorous
 funker 6
@@ -8732,7 +8732,7 @@ fole 2
 forlie 1
 fordoing 1
 foredecks
-flocculator 1
+flocculator 2
 fella 2
 footlog 4
 fellatee 3
