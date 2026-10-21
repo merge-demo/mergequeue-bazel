@@ -7375,7 +7375,7 @@ adnomination 2
 azolitmin
 afrete
 athrocyte
-antipapist 1
+antipapist 2
 amitosis 1
 alienate
 arsyversy
@@ -23690,7 +23690,7 @@ auriculoparietal
 auriculotemporal 2
 auriferous
 appreciational 1
-axlike 3
+axlike 4
 aurify 1
 aurific 1
 aceology 2
@@ -25370,7 +25370,7 @@ azotic 1
 azotize 1
 adaptative
 azotoluene 3
-azotorrhea
+azotorrhea 1
 awarded 4
 actualisation 2
 absolutists 1
