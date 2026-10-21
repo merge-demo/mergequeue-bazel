@@ -1259,7 +1259,7 @@ endopleuritic 2
 enmanche 1
 eelfare 1
 encrinite 2
-emperors 3
+emperors 4
 enrobe 4
 ecclesiarch 3
 eversive 1
@@ -1524,7 +1524,7 @@ examens 1
 exaggeratedly 1
 everywhere
 etch
-extracalendar 2
+extracalendar 3
 ettarre 2
 emmetropism 1
 egesta 3
