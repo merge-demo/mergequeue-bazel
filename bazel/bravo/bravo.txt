@@ -11214,7 +11214,7 @@ beaker
 boder
 burkes 2
 batterfang 4
-brazenness 1
+brazenness 2
 bracts 2
 bf 1
 bezesteen 4
