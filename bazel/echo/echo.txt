@@ -13015,7 +13015,7 @@ expatiated
 efflate 3
 expedience 2
 engrossment 4
-exotropism
+exotropism 1
 elopement
 epopee
 endochondral 1
