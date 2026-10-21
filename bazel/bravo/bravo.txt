@@ -517,7 +517,7 @@ backstromite 2
 boart
 bu 1
 backtender 4
-ballyhooing 3
+ballyhooing 4
 backtenter 2
 beggingwise
 blennioid 3
@@ -2416,7 +2416,7 @@ butterwort
 bummalo 5
 benzpinacone 2
 bareca
-barefaced 1
+barefaced 2
 bombacaceous
 baulk 3
 bonete 1
@@ -3486,7 +3486,7 @@ ballan 1
 buzzsaw
 bidar 2
 biscuiting 3
-bugeye 2
+bugeye 3
 bactericides
 breaststrokes 4
 bedimples 1
@@ -15739,7 +15739,7 @@ brochophony 1
 brocht 1
 brochure
 balisier 1
-babblishly
+babblishly 1
 brock
 bombsight 2
 bryonies 2

@@ -2455,7 +2455,7 @@ ghettoed 1
 geographers 2
 gemologist 3
 glacionatant 3
-groping 2
+groping 3
 gloaming 3
 gaiting 4
 gemot 5
@@ -8069,7 +8069,7 @@ geomagnetism 5
 ghain 2
 genteelish 2
 gesning 1
-gentlewoman 2
+gentlewoman 3
 granivore 4
 gasconader 1
 grannam 2
@@ -10065,7 +10065,7 @@ gelofer 2
 gimmal 3
 gyneconitis 2
 grabens 2
-goblinize 1
+goblinize 2
 gumshoed 2
 gonomere
 gorgerin 2
