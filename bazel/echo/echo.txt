@@ -46,7 +46,7 @@ eardropper 2
 euchromosome 1
 earflap 1
 expender 1
-enzyms 3
+enzyms 4
 excites 3
 exciton 2
 electroretinograph 2
@@ -4774,7 +4774,7 @@ existent 3
 exodos
 endosmosic 1
 ebulliometry 3
-excircle 2
+excircle 3
 epistler 2
 entomophytous
 establishments 1
@@ -10078,7 +10078,7 @@ ensepulcher 2
 exode 1
 ethnologists 3
 endoparasitism
-epipolize
+epipolize 1
 englishing
 epinglette 1
 escharine 2

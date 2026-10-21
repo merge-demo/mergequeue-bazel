@@ -9710,7 +9710,7 @@ frenchly 1
 fafaronade 2
 fissionability
 festinate 2
-floatable 2
+floatable 3
 footmanry 4
 faunch 2
 facework 2
@@ -9955,7 +9955,7 @@ flanche 3
 frantic
 frigiddaria 2
 favor
-frigidly 2
+frigidly 3
 foundation 1
 forthfigured 2
 facias 1
