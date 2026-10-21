@@ -1073,7 +1073,7 @@ farrago 2
 franchisement 3
 frizer 4
 flichters 1
-foreswear 2
+foreswear 3
 feriae 3
 farreachingly 2
 fernleaf 1
@@ -2879,7 +2879,7 @@ ferlies 3
 fetterlock 1
 flatfish 3
 forewing 2
-foxship 2
+foxship 3
 frisettes 2
 fantasize 2
 fogies
