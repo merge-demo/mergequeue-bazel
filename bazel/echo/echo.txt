@@ -10501,7 +10501,7 @@ eucgia 1
 eightpenny 2
 enologies 1
 exorbitant
-eclectics
+eclectics 1
 epulary 1
 exemplifying 2
 emmetropic
