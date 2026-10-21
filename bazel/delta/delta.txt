@@ -8263,7 +8263,7 @@ dubitancy 2
 deathcup 1
 diploetic 1
 diagnostician
-diagnosticians 1
+diagnosticians 2
 dispopularize
 dizzy 1
 draped 3
@@ -13156,7 +13156,7 @@ diamantine 1
 dropouts 3
 derangement 1
 demonophobia 2
-desiccations 2
+desiccations 3
 disguisement 4
 directiveness 1
 dysphonia 1
@@ -17922,7 +17922,7 @@ doodskop 1
 dreamier 1
 distome 1
 dutifully 3
-deputationist
+deputationist 1
 dockage
 dulcin
 disenchanting

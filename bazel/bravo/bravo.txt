@@ -8049,7 +8049,7 @@ bicornuate 3
 bicornute 1
 beshadow 5
 bicorporate 2
-banyai 4
+banyai 5
 belleeks
 bacteriohemolysin 1
 bicostate 4
@@ -9226,7 +9226,7 @@ bastnasite 4
 biordinal 1
 batussi 1
 bladebone
-balanoid
+balanoid 1
 bipinnarias 2
 bipinnated
 bipinnatipartite 2
@@ -17915,7 +17915,7 @@ barton
 badly 3
 bushidos
 bractless 2
-broadaxes 1
+broadaxes 2
 bahmanid 2
 belton 3
 befortune
