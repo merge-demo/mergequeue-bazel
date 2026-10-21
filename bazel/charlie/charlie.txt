@@ -8539,7 +8539,7 @@ chancellors 1
 califates
 chancellorship
 chancellorships
-capillaire 1
+capillaire 2
 calathidium
 chancels 3
 chancemen 2
@@ -11532,7 +11532,7 @@ chokiest 1
 choking
 cooptions 2
 cordovans
-crossosoma 1
+crossosoma 2
 catagenesis
 chola 1
 costoxiphoid 1
