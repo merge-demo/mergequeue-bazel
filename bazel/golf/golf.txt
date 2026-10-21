@@ -552,7 +552,7 @@ gastromelus 1
 geisotherm 2
 gd 2
 gilravager 1
-gudgeoning
+gudgeoning 1
 gup 2
 ghetto 3
 galleryite 3
@@ -4109,7 +4109,7 @@ gaufer 2
 gudget 1
 glorification 1
 goneoclinic 1
-gipsywort
+gipsywort 1
 gulgul 3
 gratifiedly 3
 gilder 4
@@ -10018,7 +10018,7 @@ gudewife 3
 galopade 5
 girgashite 2
 gaffer 1
-glastonbury
+glastonbury 1
 graybeard 2
 ghostlet 5
 grf 4
