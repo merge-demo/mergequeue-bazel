@@ -10881,7 +10881,7 @@ aerocartography 4
 anaglyphy
 ammonoids 2
 ammonolitic 2
-assemblage
+assemblage 1
 archeological 1
 ammonolytic
 aitches 3
@@ -12372,7 +12372,7 @@ andrea 2
 andreaeales 1
 andreas 2
 anhematopoiesis 1
-acclimating 2
+acclimating 3
 antecommunion 4
 andrena 2
 anopluriform
