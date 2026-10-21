@@ -5123,7 +5123,7 @@ desexes 1
 durango 1
 durwaun 2
 detect 2
-dendrology
+dendrology 1
 dola
 daubes 1
 dumber 2
