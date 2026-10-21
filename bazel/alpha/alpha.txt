@@ -7345,7 +7345,7 @@ africander 2
 afford
 architectural
 albe 2
-actinoelectric 2
+actinoelectric 3
 awmbrie 3
 ariole 2
 anglesite 1
@@ -24100,7 +24100,7 @@ arrtez 1
 autoette
 antigenicity 1
 autofrettage
-autogamic 3
+autogamic 4
 armament
 afreets 1
 autolaryngoscopic 1
