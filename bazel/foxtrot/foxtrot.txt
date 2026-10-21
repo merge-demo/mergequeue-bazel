@@ -11251,7 +11251,7 @@ faciest 2
 featherwork
 funnels 5
 fourer 3
-funny
+funny 1
 fundamentality
 flagellants 1
 frumaryl 3
