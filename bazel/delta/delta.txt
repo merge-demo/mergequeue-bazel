@@ -5884,7 +5884,7 @@ drago
 depreciation 4
 deoxygenization 1
 dryopians 3
-deforceor
+deforceor 1
 depredate
 depersonalised 1
 depredated 1
