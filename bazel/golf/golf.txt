@@ -264,7 +264,7 @@ gizmo 3
 glyph 1
 gumminess
 grapta 1
-graziery
+graziery 1
 geoplagiotropism 2
 grenada 2
 gnomon 6
