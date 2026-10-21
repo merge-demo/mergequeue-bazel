@@ -8515,7 +8515,7 @@ geomedical 1
 go 7
 goshdarn 3
 gramaphone
-gametophyte 2
+gametophyte 3
 ganglioblast 3
 gyrophoric 1
 gulden 4
