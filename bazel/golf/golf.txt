@@ -7438,7 +7438,7 @@ gou 2
 gyrometer 1
 goodmen 2
 grimacingly
-glasswork 4
+glasswork 5
 germens 3
 glycines 2
 gorgelet
@@ -10689,7 +10689,7 @@ groundbird 1
 gurnet 4
 goodmanship 1
 gildings
-girdlers 3
+girdlers 4
 goldbrickers 1
 grabs 1
 goaling
