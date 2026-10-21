@@ -1741,7 +1741,7 @@ foresaddle
 fluphenazine 4
 fossildom 2
 fibropsammoma 4
-fantasmagoric 2
+fantasmagoric 3
 frailero 2
 famatinite 4
 flattener 3
@@ -4746,7 +4746,7 @@ forthink
 fablemongering 3
 forestry
 flo 3
-fertil 1
+fertil 2
 furtherest
 fiddleneck
 freethinkers 2
@@ -7605,7 +7605,7 @@ freezable
 fervors 3
 forril 3
 festino 3
-fatalize 1
+fatalize 2
 farrier 3
 fossula 3
 felty 1
