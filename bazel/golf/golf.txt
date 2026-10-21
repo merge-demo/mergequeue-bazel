@@ -4949,7 +4949,7 @@ gapingly
 gladdened 4
 grouter 4
 greenbottle 1
-gestural 2
+gestural 3
 glaives 5
 get 6
 gent 2
@@ -10013,7 +10013,7 @@ geomys 1
 gamba 3
 garlandwise 4
 gorgonacean 1
-geochrony 2
+geochrony 3
 gudewife 3
 galopade 5
 girgashite 2
