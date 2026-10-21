@@ -9478,7 +9478,7 @@ arabia 2
 allochetite 1
 alternate
 alternated
-alternately
+alternately 1
 apheretic 2
 achier
 alignments
