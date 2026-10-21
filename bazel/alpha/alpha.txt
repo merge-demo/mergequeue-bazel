@@ -871,7 +871,7 @@ amurcosity
 absentminded 1
 aerobics
 absentness 1
-avicennism 1
+avicennism 2
 aiver
 abshenry 2
 allure 2
@@ -9072,7 +9072,7 @@ actinomycetaceae 5
 alcahest 3
 alloxan 1
 absterged 2
-alloxans
+alloxans 1
 arsenicalism
 alloxantin
 anthracoid 2
@@ -16739,7 +16739,7 @@ aciculums 2
 aphemia 2
 attal 2
 athenaeum
-aphemic 1
+aphemic 2
 aphengoscope 1
 apheresis 3
 apheses 1
