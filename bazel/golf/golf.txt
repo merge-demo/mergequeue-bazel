@@ -6087,7 +6087,7 @@ glutaeous 1
 gorbit 3
 guttie 2
 gibbled 2
-grisset 2
+grisset 3
 gadroons 3
 grume 5
 gonococcoid 2
@@ -10528,7 +10528,7 @@ gratiola 4
 gibs 2
 gulix 3
 grallic 2
-galeorchis 3
+galeorchis 4
 gilly 1
 gadsbodikins 4
 gonal 4
