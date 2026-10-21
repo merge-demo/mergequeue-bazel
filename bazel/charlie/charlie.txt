@@ -13358,7 +13358,7 @@ chasers 1
 centaurium 1
 ceration 2
 coformulator 1
-ciphony 1
+ciphony 2
 consubstantiationist
 capon 1
 czarism
@@ -15786,7 +15786,7 @@ conveniently 1
 chelaship
 corruptibly 1
 colonized 3
-clearable
+clearable 1
 clearance 2
 clearances 2
 commensurately 1
