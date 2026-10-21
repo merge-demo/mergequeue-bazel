@@ -765,7 +765,7 @@ buba 5
 bat 2
 brushcut 2
 bygoing 1
-banket 2
+banket 3
 badmouthed
 burled
 badmouths 1
