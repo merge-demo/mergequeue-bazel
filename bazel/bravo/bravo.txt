@@ -11079,7 +11079,7 @@ bevelling 5
 blocking 1
 borborygmic 1
 benzimidazole
-biomorphic
+biomorphic 1
 billeter
 bedwarfs 1
 broil
