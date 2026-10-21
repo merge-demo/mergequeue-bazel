@@ -12812,7 +12812,7 @@ doubty
 dismail
 democratising
 dismal 2
-dialogs 1
+dialogs 2
 dorsomedian 3
 decreptitude 4
 dehydrogenized 3
@@ -14392,7 +14392,7 @@ detainable 4
 dephlogisticated 3
 dolicholus 2
 divaricator 3
-divast 2
+divast 3
 doubtable
 divebomb 2
 dogmatists 2
@@ -18588,7 +18588,7 @@ dewool 1
 duskness
 dust 2
 delphian 1
-dustbins 2
+dustbins 3
 dustcart 1
 devocalisation 2
 distance 2
