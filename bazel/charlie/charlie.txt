@@ -15083,7 +15083,7 @@ circumtropical
 chinsed
 clacker
 clackety
-coexertion
+coexertion 1
 clacking
 clacks 1
 clad
