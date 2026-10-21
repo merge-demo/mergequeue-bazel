@@ -2546,7 +2546,7 @@ declaredly
 declares 1
 dimaris 3
 daneworts 2
-diplococcus
+diplococcus 1
 declaring 1
 dwined
 declasses
@@ -5771,7 +5771,7 @@ depolymerize
 deadpay 2
 davened
 depolished 2
-deaconed
+deaconed 1
 depolishes 3
 depoliticized
 donia 3
