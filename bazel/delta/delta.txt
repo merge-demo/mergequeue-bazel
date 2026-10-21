@@ -2546,7 +2546,7 @@ declaredly
 declares 1
 dimaris 3
 daneworts 2
-diplococcus
+diplococcus 1
 declaring 1
 dwined
 declasses
