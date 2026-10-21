@@ -19955,7 +19955,7 @@ commandoman
 canfieldite 1
 canoodled 1
 commandos 1
-colove 1
+colove 2
 cheery
 cofferlike
 commandry 2
@@ -28198,7 +28198,7 @@ crannia 2
 colliquefaction 1
 crannied 2
 crannies
-crannying 1
+crannying 2
 carpincho
 compiler
 crannock
@@ -30340,7 +30340,7 @@ celsitude 1
 cruppering 1
 crura
 complexionably
-crural 1
+crural 2
 counterattacks
 crurogenital
 cruroinguinal
