@@ -642,7 +642,7 @@ frithsoken 2
 falx 3
 further 2
 fallbacks 4
-fluocarbonate 2
+fluocarbonate 3
 fireclays 4
 fortitudinous 3
 fictionalization 2
@@ -8215,7 +8215,7 @@ frijolito
 faze 3
 forage 4
 funicles 2
-fauvists 4
+fauvists 5
 fruticulose 1
 florence 3
 forfending 1
@@ -8557,7 +8557,7 @@ fred 2
 frenchwise 5
 fluorographic 1
 fleered 1
-formulizing 3
+formulizing 4
 flapdoodle 4
 formby 1
 foeture 5
