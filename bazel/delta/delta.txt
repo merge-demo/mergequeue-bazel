@@ -5771,7 +5771,7 @@ depolymerize
 deadpay 2
 davened
 depolished 2
-deaconed
+deaconed 1
 depolishes 3
 depoliticized
 donia 3
