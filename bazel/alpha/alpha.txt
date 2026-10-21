@@ -2356,7 +2356,7 @@ artifact 2
 awalt 1
 alizari
 archontate 1
-advertised 1
+advertised 2
 assigning 1
 adytta
 acyloins 4
@@ -21531,7 +21531,7 @@ auxoaction 1
 antiphase
 amarantite
 asphyxiating 2
-athapaskan
+athapaskan 1
 asphyxiation 2
 avenging
 asphyxiator 2
