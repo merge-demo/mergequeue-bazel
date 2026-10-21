@@ -2546,7 +2546,7 @@ declaredly
 declares 1
 dimaris 3
 daneworts 2
-diplococcus
+diplococcus 1
 declaring 1
 dwined
 declasses
@@ -3143,7 +3143,7 @@ domesticity 2
 duringly 2
 defaulted 1
 defaultless
-depauperization
+depauperization 1
 downfolded 1
 defaults 1
 decked
@@ -14030,7 +14030,7 @@ door 1
 distraught 1
 defensiveness 1
 distraughtly 1
-disappearances 2
+disappearances 3
 draggy
 details
 damonico
@@ -14902,7 +14902,7 @@ duodenojejunostomy 2
 divata
 deploys 1
 disanimating 3
-dictyonina
+dictyonina 1
 drogue 2
 dolph 2
 dodecane 1

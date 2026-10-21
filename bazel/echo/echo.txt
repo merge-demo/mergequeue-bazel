@@ -168,7 +168,7 @@ expiring 2
 expressive 3
 elses 2
 escallop 1
-enticed 5
+enticed 6
 echinostome
 echidna 1
 earthmaker 2
@@ -2577,7 +2577,7 @@ etrogs 3
 electron 2
 elastins 3
 exenteration 3
-escapeful 1
+escapeful 2
 ethchlorvynol 2
 everest
 evaporator
@@ -9322,7 +9322,7 @@ eruditical 2
 estrangedness 1
 ensilaged 2
 estop 2
-erudition 1
+erudition 2
 erinys
 eurythmic 2
 endosiphon
@@ -9554,7 +9554,7 @@ electrolysed 2
 embeam
 eupatoriaceous 2
 earls 7
-eskualdun 5
+eskualdun 6
 elevations 1
 eslisor
 eatberry 3
@@ -11121,7 +11121,7 @@ enactments 5
 eutexia 3
 exquisitively
 enwreathing
-eiderdown 1
+eiderdown 2
 ebullioscopy 2
 erotetic 4
 euthycomi 6

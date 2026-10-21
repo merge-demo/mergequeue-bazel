@@ -532,7 +532,7 @@ geeldikkop 2
 galipoidin 7
 guzzles 3
 galleins 2
-gomphocarpus 2
+gomphocarpus 3
 getters 5
 gnetaceous 5
 gamodemes 4
@@ -1792,7 +1792,7 @@ guiba 2
 guaycuruan 2
 galliambic
 gastrorrhea 2
-graecizes 3
+graecizes 4
 goutiest 4
 gonadial 2
 genealogizer 3
@@ -9962,7 +9962,7 @@ gritless 4
 guarrau 1
 gogglers 2
 glegness 1
-glyptic 2
+glyptic 3
 googols 2
 gipsyfy 1
 galvayned 1

@@ -3590,7 +3590,7 @@ chagrinned
 carabaos 1
 carabeen
 carabidae 1
-checkle 2
+checkle 3
 chrisoms 1
 carabidan
 carabidoid 1
@@ -3981,7 +3981,7 @@ coonjine 2
 carceag
 camanay 1
 carcel 2
-cheerfulness
+cheerfulness 1
 carangoid 1
 carcels 2
 chuumnapm 1
@@ -6697,7 +6697,7 @@ celtophobia
 ceilometer 1
 couac
 ceylonite 1
-ceils
+ceils 1
 compound 1
 counterquestion 1
 coathangers 4
@@ -9054,7 +9054,7 @@ cervantist
 charmingest
 chepster 1
 charmingness
-charmless 2
+charmless 3
 charmlessly 3
 charmonium 1
 charms 2

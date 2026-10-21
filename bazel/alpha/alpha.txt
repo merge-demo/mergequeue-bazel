@@ -2072,7 +2072,7 @@ apostematous 2
 acheronian
 asdics 1
 achroous 1
-acherontical
+acherontical 1
 advisors
 aches
 achesoun
@@ -4865,7 +4865,7 @@ amoebous 1
 arkwright
 aerodermectasia 2
 aerodynamical 1
-aerodynamically
+aerodynamically 1
 astrolater 1
 appoggiatura 3
 apopetalous 2
@@ -24362,7 +24362,7 @@ atopen
 amylene
 autoroute
 anuses 1
-autorrhaphy
+autorrhaphy 1
 anisocoria
 ammoresinol 1
 autos
