@@ -2644,7 +2644,7 @@ glossosteresis 2
 geniality 2
 genetics 8
 gastrolysis 3
-gudgeoned 6
+gudgeoned 7
 glow 2
 garg 1
 germantown 2
@@ -4238,7 +4238,7 @@ gynaecological 1
 gabbiness 3
 gobbing 5
 gastornis 1
-gynaeconitis 4
+gynaeconitis 5
 geysers
 gaillard 1
 gynandria 1
@@ -6712,7 +6712,7 @@ grittle 4
 gardenize 2
 goosey 4
 goup 3
-gypsine 1
+gypsine 2
 gassings 4
 guid 1
 ginglyni 3
