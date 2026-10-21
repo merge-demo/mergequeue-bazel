@@ -2956,7 +2956,7 @@ exploiters 1
 epagomenal 2
 endoplast
 etrogim 3
-encamped
+encamped 1
 eliminant 1
 ennoblers 6
 ethid 3
