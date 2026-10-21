@@ -2777,7 +2777,7 @@ cableman
 cannie 1
 cagui 2
 cannier 2
-canning 1
+canning 2
 cannings 1
 chiccories
 cannister
@@ -7502,7 +7502,7 @@ crozier
 ceratopsian
 calapitte 2
 clitoric
-ceratopteridaceae
+ceratopteridaceae 1
 carnac
 capron
 chorioepithelioma 1
@@ -8370,7 +8370,7 @@ capercailye
 chalumeaux
 chalutzim 1
 chama 1
-coworkers
+coworkers 1
 chondroplastic 1
 chamacea
 chamacoco
@@ -15190,7 +15190,7 @@ claire
 coloristic 1
 citromyces
 conditionalities 1
-cornicle
+cornicle 1
 counterclaimed
 clairecole 1
 cholesterin 2
@@ -18657,7 +18657,7 @@ countermeasures
 clearheaded
 crafty 1
 conourish 2
-corporales 2
+corporales 3
 cointensity 2
 cointer 1
 cointerest 1
@@ -20975,7 +20975,7 @@ capeskins
 charbroil 1
 compromitment 1
 clavariaceae 1
-compromitted
+compromitted 1
 crumbling 1
 cany
 cancerroot
@@ -24690,7 +24690,7 @@ copperskin 2
 ciderist 1
 coppersmith 1
 coppersmithing 1
-copperware 3
+copperware 4
 copperwing
 cladodes
 cruelest
@@ -28913,7 +28913,7 @@ cryable
 cholestane
 cotans 1
 cryanesthesia 1
-criant
+criant 1
 carbonigenous
 corke 1
 cuphea 2
@@ -30829,7 +30829,7 @@ conveyance
 clarigold 2
 cullionly
 cullisance 1
-cotterel
+cotterel 1
 cannibalish
 colicweed 2
 consonances
