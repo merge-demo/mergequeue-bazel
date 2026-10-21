@@ -6426,7 +6426,7 @@ grotto
 grasswidowhood
 goitrogenic 3
 galibi 3
-garbing 3
+garbing 4
 glossopteris 2
 golaseccan 4
 glassman 2
@@ -8721,7 +8721,7 @@ girosols 3
 guazuma 3
 gonys 2
 greenrooms 1
-garlics 3
+garlics 4
 glossectomy 7
 gynoecia 2
 goldenly
