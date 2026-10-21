@@ -1837,7 +1837,7 @@ disharmonious
 debarbarize 1
 daylilies 2
 debeige 3
-douzepers
+douzepers 1
 downwarp 1
 declinograph 1
 dewberry 1
@@ -13533,7 +13533,7 @@ doumas
 diving 2
 disassociated
 disseisee
-dortiship 1
+dortiship 2
 donorship 1
 defterdar 2
 disaccharose 1
@@ -14029,7 +14029,7 @@ distraite 3
 door 1
 distraught 1
 defensiveness 1
-distraughtly 1
+distraughtly 2
 disappearances 3
 draggy
 details
