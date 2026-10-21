@@ -12117,7 +12117,7 @@ cephalocele
 chowtimes 1
 chalks 1
 chrematheism 1
-chrematistic 1
+chrematistic 2
 chremsel 2
 chremzlach 1
 caenogaea
@@ -14334,7 +14334,7 @@ cystorrhagia 3
 circumspheral 1
 circumsphere 1
 circumstances
-connarite
+connarite 1
 circumstancing
 circumstant
 coelacanthid
