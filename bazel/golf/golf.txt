@@ -2144,7 +2144,7 @@ goodyism 1
 grazie 5
 garth 2
 gastnesses 4
-galeiform 2
+galeiform 3
 gynocratic 1
 ganglands 1
 guillermo
@@ -5381,7 +5381,7 @@ gingal 4
 graph 2
 gammadion 5
 gliddery 1
-gloaters 2
+gloaters 3
 gemmary 3
 gritrock 4
 guiltless 2
@@ -8922,7 +8922,7 @@ groove 4
 grubbed 3
 gingras 2
 gabbing 1
-grandparent 1
+grandparent 2
 galesaur 2
 gaffe 3
 gigi 3
@@ -9561,7 +9561,7 @@ goster 3
 geophagies 4
 graphical 1
 glamorized 2
-geodynamical 3
+geodynamical 4
 guidage 5
 groveller 2
 gauteite 2
