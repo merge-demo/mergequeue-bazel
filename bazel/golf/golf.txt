@@ -5307,7 +5307,7 @@ gromil 5
 glycerite 2
 gigmanism 2
 glycerolate 3
-gymnadeniopsis 2
+gymnadeniopsis 3
 glyceroxide 1
 glycide 1
 glabrous 3
@@ -9659,7 +9659,7 @@ gladeye 4
 gratton 2
 gult 1
 gyroidally 2
-gastrojejunostomies 4
+gastrojejunostomies 5
 grueled 4
 ghana 1
 guipures 3
