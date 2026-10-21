@@ -6271,7 +6271,7 @@ endplate 1
 excipule 1
 epistapedial 1
 eelcatcher 2
-elimination 1
+elimination 2
 evasively 2
 electrofishing 3
 extraepiphyseal
