@@ -449,7 +449,7 @@ gynecotelic
 glandlike 1
 garliclike 2
 gloating 1
-graphologic 1
+graphologic 2
 gaping
 galeid 3
 genny 2
@@ -5214,7 +5214,7 @@ gieseckite 2
 geogenesis 2
 grottesco 3
 grimful 1
-geometricism 4
+geometricism 5
 guiler 3
 gripsacks 2
 guttae 3
