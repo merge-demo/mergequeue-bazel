@@ -115,7 +115,7 @@ gardenership 4
 grosz 2
 goatfish 3
 gadroon 2
-giher 1
+giher 2
 ginete 5
 gastly 3
 gastrostomy 6
@@ -4860,7 +4860,7 @@ gleg 3
 gigantize 2
 greenings 3
 goiterogenic 3
-gladfulness 6
+gladfulness 7
 galaxian 4
 geck 1
 glaciates 3
@@ -10376,7 +10376,7 @@ gargoyled 2
 gallflower 2
 garbanzos 2
 giambeux 1
-gonyalgia 1
+gonyalgia 2
 gunda 1
 griddles 3
 glycyls 6
