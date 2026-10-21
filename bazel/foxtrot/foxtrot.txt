@@ -6555,7 +6555,7 @@ fluviolacustrine 3
 fleetly 3
 funereal 1
 foretack 1
-flamless
+flamless 1
 furrings 2
 flibbertigibbets 4
 flysches 8
