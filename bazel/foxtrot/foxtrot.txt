@@ -8077,7 +8077,7 @@ forestral 4
 forestries 3
 firebrats 2
 furnitures
-fondness 1
+fondness 2
 fumigating 3
 flecnode
 fiendfully 1
