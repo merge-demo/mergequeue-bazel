@@ -13696,7 +13696,7 @@ bindery
 besmottered 1
 bushes 3
 boskages
-basibranchiate 1
+basibranchiate 2
 bourder
 backsliders
 buchanan
@@ -17818,7 +17818,7 @@ becompass
 belord
 brocade 3
 brachistocephalous 2
-berengarian 1
+berengarian 2
 backbit
 boddle 1
 berkowitz 1
