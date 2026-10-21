@@ -28913,7 +28913,7 @@ cryable
 cholestane
 cotans 1
 cryanesthesia 1
-criant
+criant 1
 carbonigenous
 corke 1
 cuphea 2
