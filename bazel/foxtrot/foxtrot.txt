@@ -2559,7 +2559,7 @@ ferricyanide 1
 ferrihydrocyanic 3
 fervency 1
 freshmanship 1
-feedsman 3
+feedsman 4
 fiduciaries 3
 fanti 3
 fimbriatum 1
@@ -10991,7 +10991,7 @@ fausen 2
 frostiest 2
 flintiest 1
 foreproffer 1
-foreweep 2
+foreweep 3
 fatlike 3
 furfurol 1
 fumblers 2
