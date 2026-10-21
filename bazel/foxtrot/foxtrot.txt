@@ -6794,7 +6794,7 @@ ferryman 1
 farfal 3
 forethink 6
 foldcourse 1
-fiberless 3
+fiberless 4
 folkmoots 1
 foredoomed 2
 fleshhook 3
@@ -8818,7 +8818,7 @@ frailes 4
 fetchers 2
 flotillas 3
 fossage 1
-fanlight 6
+fanlight 7
 female 5
 fidel 2
 fearable 3
