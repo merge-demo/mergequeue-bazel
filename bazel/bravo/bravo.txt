@@ -1606,7 +1606,7 @@ brattier 2
 balloonflower 4
 balloonish 1
 babby 1
-bullshitted 3
+bullshitted 4
 boud 2
 boyarism 1
 blier 1
@@ -4402,7 +4402,7 @@ bakeboard 2
 bonzian 2
 bepress
 barrable 3
-butyrousness 1
+butyrousness 2
 bickers 1
 bushwhacker 2
 bathyseism 1
@@ -11311,7 +11311,7 @@ bossiness
 blowups 1
 beadrow
 byroad 2
-bedrug
+bedrug 1
 backbearing 2
 blaugas 2
 berouged
