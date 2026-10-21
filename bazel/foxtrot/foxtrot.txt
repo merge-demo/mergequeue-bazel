@@ -590,7 +590,7 @@ fardh 3
 forerunners
 fivefold
 floorless 1
-fellon
+fellon 1
 foreknows 2
 forpet 4
 fossilisation 2
