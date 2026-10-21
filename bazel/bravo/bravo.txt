@@ -8235,7 +8235,7 @@ bergschrund 3
 bekilted 1
 bifurcation 3
 benzophenone 2
-bourgeoise 1
+bourgeoise 2
 basketry 1
 biga 2
 bigae 2
@@ -8386,7 +8386,7 @@ bijwoner 1
 beanie 4
 bothriocidaris 4
 bauchle 1
-bikers 1
+bikers 2
 becalmment 2
 bredi
 biplanal 2
@@ -17518,7 +17518,7 @@ burbot 3
 bleak 2
 beata 2
 bromopicrin 1
-bidenticulate 4
+bidenticulate 5
 bathukolpic 2
 bhang 2
 biograph 1
