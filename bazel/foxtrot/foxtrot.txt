@@ -2169,7 +2169,7 @@ fractioned 3
 friskest 3
 frontiers 3
 folkmoot 1
-falsities
+falsities 1
 felonwort 3
 falutin 1
 flatterdock 5
@@ -10735,7 +10735,7 @@ feminized 4
 furfuramid 2
 frustratory 5
 focuses 1
-flat 3
+flat 4
 felup
 fomentation 1
 footrope 5
