@@ -2878,7 +2878,7 @@ endomorphic 2
 elder 5
 epitympa
 effable 2
-estoppels 3
+estoppels 4
 eleutherophobia 2
 elaphomycetaceae
 easygoingness 1
@@ -2956,7 +2956,7 @@ exploiters 1
 epagomenal 2
 endoplast
 etrogim 3
-encamped
+encamped 1
 eliminant 1
 ennoblers 6
 ethid 3
@@ -10501,7 +10501,7 @@ eucgia 1
 eightpenny 2
 enologies 1
 exorbitant
-eclectics
+eclectics 1
 epulary 1
 exemplifying 2
 emmetropic
