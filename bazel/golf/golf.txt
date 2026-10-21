@@ -3763,7 +3763,7 @@ goggle 1
 greenfinch 7
 grumpishness 1
 greycoat 2
-giants 4
+giants 5
 gratifyingly
 glossology 5
 gentian
@@ -5143,7 +5143,7 @@ gutturine 2
 gentlehearted 5
 goldylocks 2
 gyps 3
-glaucophanite 1
+glaucophanite 2
 goldcrest 4
 gimpiest 1
 gallinaginous 1
@@ -7219,7 +7219,7 @@ grimliness 3
 gloze 3
 grater 3
 gonial 4
-gratin 4
+gratin 5
 globosite 4
 gymnocarpous 1
 gizzen 3
@@ -8284,7 +8284,7 @@ grinderies 2
 gamestress 1
 graphotype
 grapier 4
-gusseting 3
+gusseting 4
 glossographer 1
 globule 2
 graping 2
