@@ -2094,7 +2094,7 @@ botoyan 4
 bloodbeat 2
 banshies 3
 bornan
-bronchostomy
+bronchostomy 1
 besetment 1
 betrough 2
 branchihyal 1
