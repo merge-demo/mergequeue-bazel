@@ -547,7 +547,7 @@ deliber 3
 dao
 damagers
 damalic 2
-dextrorotation
+dextrorotation 1
 demobilized
 designations 1
 dialyzing 2
@@ -4088,7 +4088,7 @@ discant 3
 danize
 delignification 1
 demurringly 1
-decimalizing 3
+decimalizing 4
 delimed 2
 disquisitory 3
 diphysitism 2
@@ -6250,7 +6250,7 @@ diabolize
 dermatic 3
 dermatitises 1
 drupe 2
-dermatoconiosis 1
+dermatoconiosis 2
 dermatodynia 3
 demisability 1
 disown 1
@@ -8526,7 +8526,7 @@ disquisitively 2
 drighten 2
 dantomania 1
 disaccharides 3
-diapause
+diapause 1
 diapauses 2
 donaries 1
 decarburize
@@ -18015,7 +18015,7 @@ damping
 dulcitude 3
 dacryocystalgia 4
 duteous 3
-desmoneoplasm 2
+desmoneoplasm 3
 disgorges 1
 dulcose 1
 dutuburi 1
