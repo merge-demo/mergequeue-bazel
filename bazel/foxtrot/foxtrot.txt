@@ -5674,7 +5674,7 @@ flancards 1
 friended 4
 fuzz 1
 firking 5
-fountains
+fountains 1
 firebrands 2
 freeloader 1
 flingy 4
