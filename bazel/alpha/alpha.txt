@@ -11665,7 +11665,7 @@ ambuling 1
 antineutral 1
 aryepiglottidean 1
 apocatastatic 1
-anticarnivorous
+anticarnivorous 1
 acoria
 argyrodite 1
 alphosises 2
@@ -18544,7 +18544,7 @@ arcticwards 3
 amidine
 arrises 2
 attitudes 2
-arborway 1
+arborway 2
 arbota 1
 arbour 1
 arboured 1
