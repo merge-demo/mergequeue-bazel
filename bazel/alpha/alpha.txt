@@ -5089,7 +5089,7 @@ aes 1
 autosepticemia 1
 aeschynomenous 1
 aesculaceous 2
-alliancer 1
+alliancer 2
 andrenidae
 acyclic 2
 agonies 2
@@ -15725,7 +15725,7 @@ antipastos
 aureolin 1
 archaeocyathus 1
 acromania
-anaesthesiologist
+anaesthesiologist 1
 antipathetic 3
 antimodernism
 autostability 3
@@ -24100,7 +24100,7 @@ arrtez 1
 autoette
 antigenicity 1
 autofrettage
-autogamic 3
+autogamic 4
 armament
 afreets 1
 autolaryngoscopic 1

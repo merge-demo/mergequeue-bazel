@@ -7851,7 +7851,7 @@ divesting 2
 diprotodon
 divertise 3
 donnered 3
-duomos 1
+duomos 2
 dukery 2
 disproving 1
 devove 3
@@ -13661,7 +13661,7 @@ disjoins 1
 doucin 2
 degases 1
 dissymmetric 1
-degender
+degender 1
 dampy
 devises 2
 disturbances 1

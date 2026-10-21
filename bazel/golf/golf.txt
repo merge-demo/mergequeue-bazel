@@ -2083,7 +2083,7 @@ glancing 4
 gyrocompasses 2
 gringos 1
 guilefully 2
-gawgaw 2
+gawgaw 3
 goldenseal 3
 gillian 1
 governments 3
@@ -2135,7 +2135,7 @@ glumiferous 3
 galla 4
 globosity 1
 gaudete 3
-graced 3
+graced 4
 glycoluric 3
 gazellelike 1
 gaviae 3
