@@ -8222,7 +8222,7 @@ diadkokinesia 2
 diadochi 2
 ductible
 depigment 2
-deossify
+deossify 1
 dados 2
 dipus
 disspreading 2
@@ -11777,7 +11777,7 @@ dehydrogenize 1
 drawplate
 dexamethasone 1
 distally
-dogblow 2
+dogblow 3
 disported 3
 debellate 3
 deoxidising
@@ -14104,7 +14104,7 @@ deciduitis 1
 distritos 7
 debitor 2
 dolomization 1
-dystrophia
+dystrophia 1
 dystrophic 1
 distrustingly
 dubbers 1
