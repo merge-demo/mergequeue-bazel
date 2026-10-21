@@ -6668,7 +6668,7 @@ acarol
 autosign 2
 ailsyte
 anthropotoxin 2
-asteam 1
+asteam 2
 ailuridae 2
 aneurilemmic 3
 archvillain
@@ -9510,7 +9510,7 @@ absolved 2
 alterocentric 2
 atamascos
 altezza 2
-acronychous 1
+acronychous 2
 azophenylene 2
 acierating
 antimaterialist

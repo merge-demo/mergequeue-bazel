@@ -3900,7 +3900,7 @@ equivote 3
 echeneis 2
 eternal 2
 entomotomy
-electrotonus
+electrotonus 1
 extraboldface 1
 eminencies 2
 evendown
