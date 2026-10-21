@@ -6061,7 +6061,7 @@ catlike
 crowns 1
 catling 2
 catlings
-cairds 2
+cairds 3
 catlins
 craftsperson
 cryptoporticus
