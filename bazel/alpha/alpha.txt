@@ -4523,7 +4523,7 @@ acloud 1
 aggerose 4
 adverbiation
 atticism 1
-anthoxanthin 1
+anthoxanthin 2
 adversatively 2
 ambushed 2
 amylin 1
@@ -8094,7 +8094,7 @@ algal 2
 algalia 1
 anolytes 1
 algarroba 2
-alantin 2
+alantin 3
 autarchoglossa 2
 adnexed 3
 alcabala
@@ -17356,7 +17356,7 @@ aerophagy
 amidin
 arias 2
 adansonia
-abstracts
+abstracts 1
 agoramania 1
 ampuls
 apostrophes 2
@@ -20152,7 +20152,7 @@ arraying 1
 areaway
 arrays
 agdistis 2
-acutilinguae
+acutilinguae 1
 arrand
 arrangeable 1
 arrangement 3
