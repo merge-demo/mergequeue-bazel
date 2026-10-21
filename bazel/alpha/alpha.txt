@@ -15313,7 +15313,7 @@ amperages 1
 antihero 1
 amphoriskos
 azulejo 1
-anticonscriptive 2
+anticonscriptive 3
 antihierarchy 2
 akimbo
 aidless
