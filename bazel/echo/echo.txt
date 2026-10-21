@@ -2117,7 +2117,7 @@ elastica 1
 extrapolator 3
 elastically 1
 eurycephalous 1
-edenite 1
+edenite 2
 exudes 2
 emberiza 4
 effete 2
@@ -5969,7 +5969,7 @@ elains 3
 effate 2
 enhunger 5
 emissary 1
-eruc 1
+eruc 2
 erythrose 2
 euflavine 2
 epicondylitis 1

@@ -1193,7 +1193,7 @@ admissibly
 attendance
 avellaneous 1
 afforest 1
-autogravure
+autogravure 1
 antimedically 1
 acanthodes 3
 alcoholise
@@ -10477,7 +10477,7 @@ attachments 1
 answerableness 1
 anaxagorize
 annotating
-anticlimactically 1
+anticlimactically 2
 amice
 anatriptic 1
 algomian 2
@@ -19426,7 +19426,7 @@ analysts 1
 actinians 1
 aahing
 afterstate
-alexins
+alexins 1
 athwartwise
 authorship 3
 augurial
