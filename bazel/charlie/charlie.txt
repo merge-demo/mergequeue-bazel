@@ -5843,7 +5843,7 @@ chromeplated 1
 cabas
 crawling 1
 chateau
-cateye
+cateye 1
 catel
 coelongated
 catelectrode 2
@@ -6943,7 +6943,7 @@ cementwork
 cemetaries
 cemetery 3
 copesettic 1
-cemeterial 1
+cemeterial 2
 catchpenny
 concours
 ceratinous 1

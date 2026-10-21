@@ -9638,7 +9638,7 @@ depass 4
 despot 2
 dihydroergotamine 2
 destructs 1
-derogatorily
+derogatorily 1
 diplexer 2
 dissight 2
 dipoles 2
@@ -15122,7 +15122,7 @@ decremental 2
 delawn 1
 degustate
 dubitatively
-dipolarization 3
+dipolarization 4
 dogstones 2
 dogtie 4
 degenerated
