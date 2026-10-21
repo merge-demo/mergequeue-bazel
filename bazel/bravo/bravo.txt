@@ -3479,7 +3479,7 @@ boyla 2
 batamote 2
 biosis 1
 batarde 2
-bullaces 1
+bullaces 2
 batatas 2
 batavi 6
 ballan 1
@@ -11956,7 +11956,7 @@ birmingham 1
 bbls
 brothelry
 bostons 1
-bogymen
+bogymen 1
 bogland 1
 budgerigah 2
 bytalk 2
