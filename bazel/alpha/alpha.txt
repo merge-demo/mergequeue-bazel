@@ -8094,7 +8094,7 @@ algal 2
 algalia 1
 anolytes 1
 algarroba 2
-alantin 2
+alantin 3
 autarchoglossa 2
 adnexed 3
 alcabala
@@ -17356,7 +17356,7 @@ aerophagy
 amidin
 arias 2
 adansonia
-abstracts
+abstracts 1
 agoramania 1
 ampuls
 apostrophes 2
