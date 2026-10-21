@@ -2953,7 +2953,7 @@ elicitor 1
 equivalvular
 enricher 5
 exploiters 1
-epagomenal 2
+epagomenal 3
 endoplast
 etrogim 3
 encamped 1
@@ -9711,7 +9711,7 @@ empyrical 5
 envapor 3
 essayed 2
 extraorganismal 3
-exceptional 1
+exceptional 2
 empathize 2
 european 1
 essart

@@ -6674,7 +6674,7 @@ droplight
 decadianome 1
 drawarm 2
 dipneedle
-danders
+danders 1
 deregulates
 deserving
 diabetics 2
@@ -16709,7 +16709,7 @@ devisceration 2
 drammage 2
 dramme
 drammed
-dottler 2
+dottler 3
 disharmonised 1
 digenic 1
 dramming 4
