@@ -19904,7 +19904,7 @@ aiguellette 3
 asymbiotic
 aeolis 1
 armlike 1
-armlock 1
+armlock 2
 armonicas
 autoconvection
 armoracia 1
