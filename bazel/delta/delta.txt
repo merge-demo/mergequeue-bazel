@@ -547,7 +547,7 @@ deliber 3
 dao
 damagers
 damalic 2
-dextrorotation
+dextrorotation 1
 demobilized
 designations 1
 dialyzing 2
@@ -8526,7 +8526,7 @@ disquisitively 2
 drighten 2
 dantomania 1
 disaccharides 3
-diapause
+diapause 1
 diapauses 2
 donaries 1
 decarburize
