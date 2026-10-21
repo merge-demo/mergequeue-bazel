@@ -9384,7 +9384,7 @@ flaxseed 2
 franklins 3
 flector 1
 frenchmen 1
-faffy 2
+faffy 3
 footgears 3
 firkins 1
 flatways 1
@@ -11489,7 +11489,7 @@ firmity 6
 fiercened 2
 furtively 4
 furud 2
-flamboyant
+flamboyant 1
 flotant
 faddisms 5
 fructuousness 3
