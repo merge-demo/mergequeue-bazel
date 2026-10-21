@@ -3981,7 +3981,7 @@ coonjine 2
 carceag
 camanay 1
 carcel 2
-cheerfulness
+cheerfulness 1
 carangoid 1
 carcels 2
 chuumnapm 1
@@ -9054,7 +9054,7 @@ cervantist
 charmingest
 chepster 1
 charmingness
-charmless 2
+charmless 3
 charmlessly 3
 charmonium 1
 charms 2
