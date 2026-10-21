@@ -11352,7 +11352,7 @@ bluebeard 2
 buff 1
 buntings 1
 bobooti
-baa
+baa 1
 bigwigs 2
 bogydom
 befame 2
@@ -17598,7 +17598,7 @@ burgers 2
 becurtained 3
 bivalency 2
 bacteriostatically
-baseballs 3
+baseballs 4
 burggrave 2
 burghbote
 brandished 3
