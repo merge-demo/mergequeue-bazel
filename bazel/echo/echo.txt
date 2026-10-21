@@ -205,7 +205,7 @@ elater
 ehretia 2
 exprobratory 2
 epidermolysis 3
-erinaceous
+erinaceous 1
 elaphure 2
 earthshaker 1
 earthman
@@ -8246,7 +8246,7 @@ epistatic 2
 empyrosis 2
 episodial 1
 epistaxis 2
-epistemically 2
+epistemically 3
 enjoyingly 1
 engirded
 epistena 1
