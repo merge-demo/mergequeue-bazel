@@ -9721,7 +9721,7 @@ biramose 1
 bankbook 1
 backslapped
 buildingless 2
-bioenergetics 3
+bioenergetics 4
 boatie 6
 byssoid 1
 buckskin 1
