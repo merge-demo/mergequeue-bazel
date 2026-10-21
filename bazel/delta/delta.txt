@@ -10033,7 +10033,7 @@ demodulation 1
 detailer 1
 demist
 deck 1
-disordain
+disordain 1
 decemfoliolate 1
 dynactinometer 2
 deratize 1
