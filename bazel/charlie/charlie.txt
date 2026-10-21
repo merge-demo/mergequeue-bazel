@@ -24990,7 +24990,7 @@ catawamptious
 clavicytherium
 cordax 1
 carnivora 2
-castoff
+castoff 1
 cordeau
 cordel
 comae
