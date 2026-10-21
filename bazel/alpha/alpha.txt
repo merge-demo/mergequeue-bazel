@@ -9575,7 +9575,7 @@ accentuate
 atheism
 algorithmic 2
 autoionization
-antepileptic
+antepileptic 1
 amuse
 aspersors 1
 altruists
