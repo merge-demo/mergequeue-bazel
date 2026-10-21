@@ -5905,7 +5905,7 @@ damsel 1
 diploptera
 dyscrasy 3
 depressed 2
-disaccustomed 1
+disaccustomed 2
 dandyisms 2
 dispender
 danicism 1
@@ -6674,7 +6674,7 @@ droplight
 decadianome 1
 drawarm 2
 dipneedle
-danders
+danders 1
 deregulates
 deserving
 diabetics 2
