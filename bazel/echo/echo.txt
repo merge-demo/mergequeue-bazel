@@ -1896,7 +1896,7 @@ eclat 2
 epurate 2
 eptatretidae 3
 entrepeneur 1
-eyrant 2
+eyrant 3
 erasability 2
 equiseta 1
 extrovert 2
@@ -6980,7 +6980,7 @@ eugenesic 3
 electrophototherapy 1
 epipodiale 6
 excipular 1
-eying
+eying 1
 epistolar 2
 endostylic 4
 ephectic 3
@@ -7984,7 +7984,7 @@ eirack 1
 embox 1
 estab 1
 eliminand
-enomaniac 2
+enomaniac 3
 epidermous 2
 expenselessness 3
 epineuneuria 3
@@ -8065,7 +8065,7 @@ earnests 3
 epiphegus 1
 enwombed 2
 emgalla
-eteocles 3
+eteocles 4
 epigones 1
 ectodermal 3
 exteriorly 1
@@ -8902,7 +8902,7 @@ epistrophic 1
 embitter 3
 emeroids 1
 ergomaniac 3
-eragrostis
+eragrostis 1
 electrophori 2
 eyers 1
 ergostat 3
