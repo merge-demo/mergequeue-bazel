@@ -2498,7 +2498,7 @@ acolyth
 aculei
 acolythate 2
 ardella
-autoserum
+autoserum 1
 austrasian
 acolhuan
 absciss 1
@@ -3095,7 +3095,7 @@ ascidian 1
 autorail 5
 actinopteri
 attemper 3
-accentuated 1
+accentuated 2
 ambling 1
 antechambers 2
 amsterdam 1
@@ -7064,7 +7064,7 @@ alkahestical 1
 acalephes
 adhibited
 asporogenous
-arthropathy
+arthropathy 1
 ameiotic
 allocation
 anthramin 2
@@ -14650,7 +14650,7 @@ advisee 2
 anthropogeographer 1
 aurichalcite 2
 atle 1
-antianaphylaxis 1
+antianaphylaxis 2
 autoparasitism
 anakinetomer
 artinesses
@@ -18917,7 +18917,7 @@ angiocardiographic 1
 archimime 3
 allopathetically 2
 alarmism 2
-actinomycetales 1
+actinomycetales 2
 archimperialist 1
 assemblies 2
 adroiter 1
@@ -20297,7 +20297,7 @@ aquatinted 1
 arround 1
 auditual 1
 arbute 1
-arrouse 2
+arrouse 3
 abhorrers 1
 austria 3
 arrowbush
