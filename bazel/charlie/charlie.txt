@@ -6415,7 +6415,7 @@ cerebromedullary 1
 calcareosiliceous
 coulterneb 1
 copsing
-compurgatorial
+compurgatorial 1
 collocationable 1
 condemningly 2
 cautioner 1
@@ -20370,7 +20370,7 @@ comox 1
 cistae
 cuiejos
 compact
-coutures 1
+coutures 2
 compactability 1
 communisteries 1
 compactable
@@ -24111,7 +24111,7 @@ conformation 2
 conference
 convertiplane 1
 convertise
-convertism 1
+convertism 2
 convertite 1
 comfortless
 convertive 3
