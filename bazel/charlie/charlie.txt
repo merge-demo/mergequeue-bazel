@@ -11031,7 +11031,7 @@ chirt 2
 chirurgeon
 crimean 1
 chirurgeonly 3
-chirurgery
+chirurgery 1
 chis 1
 chiseled 2
 curuba
