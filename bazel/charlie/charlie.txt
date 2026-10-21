@@ -4814,7 +4814,7 @@ catalase
 carlist 4
 carposporous
 carpsucker
-cavalierish
+cavalierish 1
 concaving 1
 connotive 2
 chem 1
