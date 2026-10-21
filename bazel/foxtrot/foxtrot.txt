@@ -2101,7 +2101,7 @@ facture 3
 finetop 2
 favorless 1
 frument 2
-fayence
+fayence 1
 fermentate 4
 fluming 3
 feminist 6
