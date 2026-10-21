@@ -6722,7 +6722,7 @@ bechalks 1
 beshrouding 2
 brakesmen
 bushtit
-burrowers 1
+burrowers 2
 breadboxes 1
 boredoms
 buhlwork 2
@@ -8107,7 +8107,7 @@ bug 3
 blasphemer 2
 beltmaker
 botonn 3
-besieging 1
+besieging 2
 bloodhound 4
 bidiagonal
 balsamodendron 4
