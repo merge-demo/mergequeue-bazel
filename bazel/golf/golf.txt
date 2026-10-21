@@ -552,7 +552,7 @@ gastromelus 1
 geisotherm 2
 gd 2
 gilravager 1
-gudgeoning
+gudgeoning 1
 gup 2
 ghetto 3
 galleryite 3
