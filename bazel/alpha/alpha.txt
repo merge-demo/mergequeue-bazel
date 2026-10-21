@@ -3963,7 +3963,7 @@ adjutant 1
 anesthetic 1
 adjutator 1
 adjute 1
-aqueity
+aqueity 1
 apologer 1
 adjutrice 2
 ambassage
@@ -7345,7 +7345,7 @@ africander 2
 afford
 architectural
 albe 2
-actinoelectric 2
+actinoelectric 3
 awmbrie 3
 ariole 2
 anglesite 1
@@ -8048,7 +8048,7 @@ antimoniureted
 alfaje
 alfaki
 alfalfas
-aer
+aer 1
 anapaest 2
 algesia 2
 alfaqui 1
@@ -24100,7 +24100,7 @@ arrtez 1
 autoette
 antigenicity 1
 autofrettage
-autogamic 3
+autogamic 4
 armament
 afreets 1
 autolaryngoscopic 1
