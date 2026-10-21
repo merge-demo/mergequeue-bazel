@@ -6721,7 +6721,7 @@ bionic 1
 bechalks 1
 beshrouding 2
 brakesmen
-bushtit
+bushtit 1
 burrowers 2
 breadboxes 1
 boredoms
@@ -12970,7 +12970,7 @@ bipennated 1
 bombycillidae 1
 bandersnatch
 branchery 2
-biplicity 1
+biplicity 2
 backcountry 3
 browntop 2
 booziness 1
