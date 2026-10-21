@@ -790,7 +790,7 @@ folkloric 1
 footworn 2
 fatality 3
 froster 1
-forensicality 4
+forensicality 5
 flipe 1
 flea
 floosy 5
