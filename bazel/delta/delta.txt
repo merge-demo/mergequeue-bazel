@@ -14912,7 +14912,7 @@ dodecapartite 3
 dodecaphonic
 diverts 2
 dodecaphonism
-demibastion 1
+demibastion 2
 dehumidifiers
 destructive 3
 dodecarch 2
@@ -15109,7 +15109,7 @@ dowdiness 4
 doctorship 5
 dadaist
 dogmatize 2
-dogplate 2
+dogplate 3
 dacryoblenorrhea 1
 dreamwise 3
 deromanticize 2
