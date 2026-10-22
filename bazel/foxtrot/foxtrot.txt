@@ -2045,7 +2045,7 @@ faucalize
 fireboat 3
 flindosa 2
 forwander 4
-flatlander
+flatlander 1
 faunlike
 fogbows 1
 fascicule 2
