@@ -3643,7 +3643,7 @@ botchery 1
 billheads 2
 bioplasm 1
 batoon 1
-biconjugate 1
+biconjugate 2
 backsettler 1
 batophobia 1
 benzdioxazine 2
@@ -4288,7 +4288,7 @@ boggish
 brabbled 1
 bembecidae 4
 bathyscaph 3
-battledore 2
+battledore 3
 bacterious 1
 bebreech 4
 bigeminy
@@ -11710,7 +11710,7 @@ bonneted 3
 bobcoat 3
 bobeche 1
 benchmarked 2
-buddah 2
+buddah 3
 brazenfaced
 bahnung 2
 bumkins
