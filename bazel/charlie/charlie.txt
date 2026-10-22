@@ -9541,7 +9541,7 @@ cricotracheotomy 3
 calaththi
 checkrein 1
 checkroll 2
-compathy 1
+compathy 2
 checkrope
 cumulant
 conoy
@@ -25254,7 +25254,7 @@ cork
 corkage 1
 canoodler
 cocreates
-culmigenous 1
+culmigenous 2
 corkages 2
 corkboard 2
 conventionalized

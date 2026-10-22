@@ -2250,7 +2250,7 @@ deceitfulness 1
 debase
 dinoflagellatae 3
 dungeonlike 2
-drummed
+drummed 1
 diploses 2
 diapyetic
 deceiving 1
@@ -7112,7 +7112,7 @@ desynchronizing
 demonstratable 1
 destroy 2
 divisionally 2
-dollops 1
+dollops 2
 dietical 2
 dolthead 1
 diagnostic 2
@@ -12911,7 +12911,7 @@ desulphuration
 disoblige 2
 disobliger 2
 dognapping 1
-decolorising
+decolorising 1
 disobliges 1
 demobilization 4
 duff
