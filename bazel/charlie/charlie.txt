@@ -3714,7 +3714,7 @@ carara 1
 cheneaux 1
 carat
 computability 1
-changos
+changos 1
 coconspirator
 circuituously
 caratacus
@@ -4983,7 +4983,7 @@ cartoonist
 chrysomonadina 1
 cassettes
 cartouche
-curmudgeon
+curmudgeon 1
 cust
 costrel
 chiclero 1
@@ -14110,7 +14110,7 @@ chimerically 1
 constitutionality 1
 caldarium 1
 charruan
-crystallophobia
+crystallophobia 1
 circuits
 clochan
 cardioneural
@@ -24745,7 +24745,7 @@ couril 2
 coprophagist
 corroboree 1
 complying
-coprophagous 1
+coprophagous 2
 chymified
 coprophilism
 crepitaculum 2
@@ -26648,7 +26648,7 @@ countdown
 counted
 colourfully 1
 countenanced
-cyrenian
+cyrenian 1
 countenancer 1
 carbazine 1
 consensus 2
@@ -31668,7 +31668,7 @@ crinkliness
 cushaws
 caseins
 consumed
-cochurchwarden 1
+cochurchwarden 2
 civies
 cushy 2
 cyclarthrodial
