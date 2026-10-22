@@ -5475,7 +5475,7 @@ appetitive 2
 afterlife 1
 alepine 1
 absorbs 1
-actinophone
+actinophone 1
 afterbirth 2
 antiutilitarian
 atmospheres 2
