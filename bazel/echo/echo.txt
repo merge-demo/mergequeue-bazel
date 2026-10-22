@@ -5263,7 +5263,7 @@ expungers 3
 endophyllum 2
 exospherical 3
 embarcadero 2
-ensphere
+ensphere 1
 edginesses
 edificative 1
 euchroic 7
@@ -7804,7 +7804,7 @@ embiotocidae 4
 epigastrium 1
 epigastrocele 1
 epigee
-escapism
+escapism 1
 endaze
 excyst 6
 electromagnetize 2
@@ -8710,7 +8710,7 @@ enjoyed 2
 esthesiogenic 6
 elastometry 3
 enhallow 1
-electroencephalograph 1
+electroencephalograph 2
 equisided 3
 equisignal 2
 erethitic 1
@@ -12276,7 +12276,7 @@ everduring 1
 exemplarism 4
 exempli
 endotoxin 1
-embodier 1
+embodier 2
 evocatrix 2
 everlasting 1
 eggplant 2
