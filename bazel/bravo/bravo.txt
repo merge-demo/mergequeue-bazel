@@ -7704,7 +7704,7 @@ besin
 behavioral 2
 bhangi 2
 bhara 2
-bharal
+bharal 1
 basaltiform
 bhat
 burglaries 2
