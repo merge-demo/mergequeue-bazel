@@ -305,7 +305,7 @@ dreed 1
 demisheath
 depolarized 2
 dayanim 2
-daybeacon 1
+daybeacon 2
 dealbate 1
 daybed 2
 devchar
