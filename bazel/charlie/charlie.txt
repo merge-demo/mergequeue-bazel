@@ -7478,7 +7478,7 @@ ceratodidae 2
 ceratoduses
 centrifugalization 1
 capelet 2
-coistrils 3
+coistrils 4
 cytogenetical 1
 ceratoglossal
 ceratohyal 2
@@ -29282,7 +29282,7 @@ conceptualising 1
 collenchymatous
 ceinte
 cryptoclimate
-checking
+checking 1
 cryptococci 1
 caulophylline
 clout 2
