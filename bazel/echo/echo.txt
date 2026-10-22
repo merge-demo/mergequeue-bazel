@@ -9042,7 +9042,7 @@ exocyclic 1
 equiglacial 2
 episcenium
 empyreans 2
-eperotesis
+eperotesis 1
 epibranchial 2
 ectocyst 4
 erythrocytoblast 3
