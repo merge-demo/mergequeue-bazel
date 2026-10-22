@@ -4173,7 +4173,7 @@ cardiomelanosis
 contradivide 1
 cholecystotomies 3
 cardiometer 3
-cardiometric 1
+cardiometric 2
 cardiomyomalacia 1
 cardiomyopathy
 camshaft
