@@ -154,7 +154,7 @@ depopulates 2
 displacency
 dewtry 1
 defog 1
-dadenhudd 1
+dadenhudd 2
 dimercurion 2
 deprivations
 depasturable 3
