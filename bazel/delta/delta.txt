@@ -17996,7 +17996,7 @@ dulcification 2
 dropforging 1
 dislodgeable 1
 disseminator 1
-deporture 2
+deporture 3
 dentelle
 dyers 5
 dulcified 3
