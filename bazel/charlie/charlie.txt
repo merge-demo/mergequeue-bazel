@@ -9505,7 +9505,7 @@ checkerbloom 2
 calyciform
 checkery 1
 checkering 2
-consignifying
+consignifying 1
 cataphysical 1
 checkerist
 collet 2
@@ -24201,7 +24201,7 @@ cantabrize
 catbriers
 convoyed
 convoying 1
-carboxypeptidase
+carboxypeptidase 1
 convoked
 centigram
 convolutedly 1

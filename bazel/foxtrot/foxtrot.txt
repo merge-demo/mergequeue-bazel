@@ -1543,7 +1543,7 @@ frundel 2
 festival 3
 fauvette 2
 flowcontrol 3
-fishbowl 4
+fishbowl 5
 fauvism 2
 funk
 fause 3
@@ -4630,7 +4630,7 @@ fullams 3
 fitout 5
 fitchered 5
 foolfish 1
-fitters 3
+fitters 4
 foxery 4
 fifo 3
 formazyl
