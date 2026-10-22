@@ -6322,7 +6322,7 @@ dermestid 2
 dermatoneural
 dextrogyration 3
 deject
-debit
+debit 1
 disseminating
 defensorship
 dermic 4
