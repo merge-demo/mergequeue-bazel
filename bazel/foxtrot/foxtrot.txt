@@ -476,7 +476,7 @@ ferroprussiate
 feateous 3
 fumble 1
 fanciers 1
-foreclosures 2
+foreclosures 3
 fleetful
 fuseau 4
 fakeer 3
@@ -822,7 +822,7 @@ flemings 3
 forerequest 3
 fiddlehead 3
 foveolarious 3
-frown 2
+frown 3
 felinely 1
 ferrets
 flummox 2
@@ -4221,7 +4221,7 @@ finnish 1
 firefighting 1
 flute 1
 feelingful 3
-frenal 1
+frenal 2
 fornicator
 fireflirt 2
 foolishest 2
@@ -8039,7 +8039,7 @@ felsites 3
 ferroalloy 1
 faunally 3
 fanfoot 4
-fieldie 1
+fieldie 2
 favoured 1
 folksay 2
 fredricite 3
@@ -9668,7 +9668,7 @@ flipflop
 foretoken 4
 faldstool 1
 fringe 2
-fouquieria 1
+fouquieria 2
 foldouts 1
 fourfiusher 3
 frigga 1

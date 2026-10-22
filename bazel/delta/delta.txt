@@ -154,7 +154,7 @@ depopulates 2
 displacency
 dewtry 1
 defog 1
-dadenhudd 1
+dadenhudd 2
 dimercurion 2
 deprivations
 depasturable 3
@@ -1095,7 +1095,7 @@ decayless
 declivitous 3
 divisibleness
 dads 1
-denudations
+denudations 1
 darvon 2
 darwesh 2
 demotist 1
@@ -3920,7 +3920,7 @@ disherits 2
 dekameters 1
 decumani 1
 dekapode 2
-duo 4
+duo 5
 dermopathic
 dahlsten
 decan 2
@@ -6596,7 +6596,7 @@ devotary
 dhooti 2
 dubious
 delimits
-desegmentation
+desegmentation 1
 dynamiters 1
 denigratory
 damoiselle 2
@@ -7049,7 +7049,7 @@ decivilization 1
 dictum
 desserts
 dykage 1
-dessertspoon
+dessertspoon 1
 distillage 1
 disenthroning
 duramen 1
@@ -8717,7 +8717,7 @@ dodecylene 1
 disenfranchisements 1
 dorsonuchal
 diathermy 1
-decastere 2
+decastere 3
 demonstrate 3
 decorousness
 demoting
@@ -17996,7 +17996,7 @@ dulcification 2
 dropforging 1
 dislodgeable 1
 disseminator 1
-deporture 2
+deporture 3
 dentelle
 dyers 5
 dulcified 3
