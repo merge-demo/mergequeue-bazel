@@ -27663,7 +27663,7 @@ cowers
 cowgrass 1
 cowhage 2
 cowhand
-cowherb
+cowherb 1
 cowherds 2
 cerium 1
 cytoarchitecturally 2
