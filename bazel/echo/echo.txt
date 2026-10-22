@@ -5388,7 +5388,7 @@ enuresises 4
 executiveship 2
 erogeny 2
 extradotal 3
-endothecial 2
+endothecial 3
 equator
 elaterids
 egers
@@ -7190,7 +7190,7 @@ eucharistize 2
 ecthymatous 2
 enwomb 3
 epharmonic 1
-emforth
+emforth 1
 eryopsid 5
 ethnomanic 3
 exuviability 4
