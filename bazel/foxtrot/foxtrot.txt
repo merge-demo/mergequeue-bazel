@@ -5658,7 +5658,7 @@ flinch
 flagleaf 4
 fatted 3
 feck 2
-fishnets 2
+fishnets 3
 finedraw 1
 fermium 5
 financially 2
