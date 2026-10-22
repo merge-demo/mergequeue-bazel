@@ -80,7 +80,7 @@ dobbin 2
 disfavorer 2
 damning 1
 direcly
-deescalating 2
+deescalating 3
 dumb 1
 deploying 2
 disqualifiable 1
@@ -11128,7 +11128,7 @@ darin
 disassimilative
 disinherits 2
 disassociate
-disassociates 1
+disassociates 2
 disasters
 dimerize 2
 dorlach 4
@@ -18221,7 +18221,7 @@ dynamistic
 drainerman 1
 dzungar 2
 debarked 1
-dogra 1
+dogra 2
 duneland 1
 dunelike 2
 doeglic
