@@ -2465,7 +2465,7 @@ balaklava 5
 baphomet 1
 bereason
 bibliophilism 1
-binotic 2
+binotic 3
 bigram 2
 baresthesia 1
 bottom 1
@@ -8786,7 +8786,7 @@ binh 1
 bounden
 besets 1
 bini
-beraking 1
+beraking 2
 bettering
 berakoth 3
 biniou
@@ -12719,7 +12719,7 @@ bookishness 1
 boxty
 breviate 2
 barrenwort 4
-beaux
+beaux 1
 barging
 ballant
 booklear 2
@@ -12765,7 +12765,7 @@ booksellerism
 banderilleros 2
 bookselling 1
 bescreened
-boloney 1
+boloney 2
 bookshop 2
 betoyan 1
 bonanza 4

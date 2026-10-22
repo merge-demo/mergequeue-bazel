@@ -1666,7 +1666,7 @@ circularities
 calool
 calophyllum 2
 comminutor
-chettik
+chettik 1
 colport
 consuetitude 2
 conferees 1
@@ -2463,7 +2463,7 @@ carpers 1
 coffeeberry
 cancrinite
 cancrisocial
-cancroid 2
+cancroid 3
 clientele
 contuse 3
 crystallitic
@@ -23090,7 +23090,7 @@ carraways
 conspiratress 1
 conspire
 curiality 1
-constablery 1
+constablery 2
 carefulness
 cowgate 1
 chkalik 2
@@ -31573,7 +31573,7 @@ curtal
 cuddles 1
 cobdenism
 curtalaxes
-coho 2
+coho 3
 curtate 3
 curtein
 chilion
