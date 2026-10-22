@@ -7709,7 +7709,7 @@ cermets
 commissar
 cern
 cavaliership
-cityward
+cityward 1
 croquet
 cerniture
 cernuous
@@ -26798,7 +26798,7 @@ conant
 counterdoctrine 3
 chromogenic 1
 clamping 1
-counterdogmatism 1
+counterdogmatism 2
 counterdrive
 countered 1
 cypselomorph 1
