@@ -14591,7 +14591,7 @@ cystocarcinoma 1
 cystocele 2
 cystocolostomy
 cystodynia 1
-cystoelytroplasty 2
+cystoelytroplasty 3
 chromene
 carpophaga
 cystoepithelioma
