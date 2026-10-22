@@ -29822,7 +29822,7 @@ cropsick 1
 cropweed 1
 calorimeters 1
 casekeeper 1
-criminalese 1
+criminalese 2
 cytons
 croquets
 concussively 1
