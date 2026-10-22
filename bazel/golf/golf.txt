@@ -2617,7 +2617,7 @@ glossolabial
 geiger 3
 goutte 4
 garabato 3
-galluot 1
+galluot 2
 glisters 1
 genesial 2
 genesitic 6
@@ -4717,7 +4717,7 @@ gigged 1
 galchic 3
 gifting 2
 gelatia 2
-giraffes 4
+giraffes 5
 generis 2
 gastraeas 2
 guzmania 5
