@@ -891,7 +891,7 @@ capitare 2
 cajaputs 1
 cazibi 1
 cajeput 1
-climaxes 1
+climaxes 2
 cajeputole 1
 cajeputs
 census 1
@@ -12897,7 +12897,7 @@ churnmilk 1
 cecidomyiidous
 churns 2
 churoyan
-churrasco
+churrasco 1
 claviol 1
 churred
 cervix
@@ -29312,7 +29312,7 @@ cryptogam
 chilitis 1
 carbazin 2
 cryptogame 2
-cryptogamy 2
+cryptogamy 3
 cryptogamic
 cryptogamical
 cryptogamist 1
