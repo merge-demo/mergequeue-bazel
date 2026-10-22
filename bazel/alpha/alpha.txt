@@ -645,7 +645,7 @@ abolitionizing 5
 abollae 4
 aboma 4
 abomasum 3
-abomasus 1
+abomasus 2
 alkylize
 abominably
 abominate
@@ -24589,7 +24589,7 @@ airmails 1
 availing
 amapondo
 apollyon
-abrogators
+abrogators 1
 admixture 1
 aumaga 3
 ammobium 2
