@@ -8206,7 +8206,7 @@ gracilaria 3
 geopositive 5
 glutethimide 3
 gravid 2
-gladlier 1
+gladlier 2
 gigabit 1
 glycerolyses 1
 gelatinise 1
@@ -10710,7 +10710,7 @@ gismondine 3
 gastrolytic 1
 gutnic 2
 gracioso 2
-guywire
+guywire 1
 gerbera 6
 germinated 2
 gushily 3
