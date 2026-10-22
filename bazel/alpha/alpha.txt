@@ -4255,7 +4255,7 @@ aesculapius 2
 annoyful
 akhlame
 alumen 1
-abime
+abime 1
 abaka
 anencephaly 3
 atavism
@@ -14063,7 +14063,7 @@ antecolic
 antecornu 1
 antecourt 2
 antecubital 1
-antecurvature
+antecurvature 1
 afshah
 abdiel
 anted
