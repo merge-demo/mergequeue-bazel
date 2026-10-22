@@ -7642,7 +7642,7 @@ befreckle 2
 biodynamic
 bewry 5
 bankroller
-bullwhip
+bullwhip 1
 bahar
 barranca 1
 bairnteem 5
