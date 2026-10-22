@@ -5282,7 +5282,7 @@ affirmable 2
 asiaticism 1
 affirmably
 aplysia
-achaetous
+achaetous 1
 anchor 1
 arnica 3
 assisan 3
