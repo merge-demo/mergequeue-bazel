@@ -8941,7 +8941,7 @@ esophagitis 1
 exothecium 1
 extrasensuous 1
 emotiomotor 2
-extrovertive
+extrovertive 1
 erigerons 2
 echoers 4
 enables
