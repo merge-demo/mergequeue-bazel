@@ -96,7 +96,7 @@ dripper
 delater 2
 depark 1
 demibrute 2
-dictyoceratine 2
+dictyoceratine 3
 dreadfulness 3
 daffery
 dactylosymphysis 1
@@ -11876,7 +11876,7 @@ discussions 1
 dioptomiter
 delicat 4
 disdained 1
-disdainer
+disdainer 1
 dongon 2
 distrouble
 dihelium 1
