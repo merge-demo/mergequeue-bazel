@@ -4030,7 +4030,7 @@ antihemolytic 1
 administrational
 administrative 2
 affixion
-administratively 2
+administratively 3
 administratrices 1
 antiarin 1
 admirable 1
@@ -4495,7 +4495,7 @@ adventured 1
 adventuresome 2
 agyrate
 aprocta 2
-adventuresomes 1
+adventuresomes 2
 adventuress
 adventuresses 1
 avidiously
