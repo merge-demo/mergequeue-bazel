@@ -13547,7 +13547,7 @@ cort 1
 calorisator 1
 cathartically
 cymaphyte
-cymaphytic
+cymaphytic 1
 cymaphytism
 cymar 1
 cymarin 1
@@ -26692,7 +26692,7 @@ counteragitate 1
 counteralliance
 cyanosed 1
 counterannouncement 1
-counterarch 1
+counterarch 2
 compulsative 1
 chende 1
 cloisters
