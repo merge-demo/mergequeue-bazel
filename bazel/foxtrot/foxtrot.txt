@@ -825,7 +825,7 @@ foveolarious 3
 frown 3
 felinely 1
 ferrets
-flummox 2
+flummox 3
 fannia 5
 forbecause 3
 fanon 5
@@ -9615,7 +9615,7 @@ feteritas 2
 firemaster 3
 forlet 2
 freeholdership 2
-feeders 2
+feeders 3
 falcata 1
 ferias 2
 fortalice 3
@@ -11494,7 +11494,7 @@ flotant
 faddisms 5
 fructuousness 3
 fashery 1
-furunculous
+furunculous 1
 furzeling 4
 furzy 3
 fastest 1
