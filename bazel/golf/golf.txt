@@ -1318,7 +1318,7 @@ galilee 1
 gorging
 geullah 4
 gargler 2
-goolde 4
+goolde 5
 greeting 6
 gargoyley 2
 grimier 1
@@ -2777,7 +2777,7 @@ granulitic 3
 grabbled 1
 garbs 2
 garnished 6
-gelotometer 1
+gelotometer 2
 glottochronological 3
 gristly 1
 gabies 7
@@ -7053,7 +7053,7 @@ galenic 1
 glassworkers 2
 gastropathic 2
 gladrags 4
-gyrinus 3
+gyrinus 4
 gazy 5
 groutite 1
 gunite 5
