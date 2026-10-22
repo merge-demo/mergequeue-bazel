@@ -8105,7 +8105,7 @@ binocularity
 bourbon 3
 bug 3
 blasphemer 2
-beltmaker
+beltmaker 1
 botonn 3
 besieging 2
 bloodhound 4
