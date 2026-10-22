@@ -366,7 +366,7 @@ finspot 2
 fungales 1
 foredenounce 2
 fibrolipoma 2
-facsim 4
+facsim 5
 fluids
 flowerily 2
 fattiness 2
@@ -483,7 +483,7 @@ fakeer 3
 fissiparism 3
 fretting 1
 featherleaf 2
-fetiferous 1
+fetiferous 2
 fullbacks 2
 foremastman 1
 finalisms
@@ -2045,7 +2045,7 @@ faucalize
 fireboat 3
 flindosa 2
 forwander 4
-flatlander
+flatlander 1
 faunlike
 fogbows 1
 fascicule 2
@@ -2907,7 +2907,7 @@ fouettes 1
 floorcloth 2
 find 2
 febricide 1
-fibrose 1
+fibrose 2
 fimbricate 2
 featuring 3
 feudalists 2
@@ -8597,7 +8597,7 @@ flocculus
 feower 3
 freehold 2
 fainters 5
-floodmark 2
+floodmark 3
 foam 2
 farmplace 1
 frequence 3
