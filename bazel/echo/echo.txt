@@ -5236,7 +5236,7 @@ endolysin 2
 eparchy
 eretrian 1
 equipluve 2
-equilibrate 2
+equilibrate 3
 endomitosis 2
 endomorphy 1
 exta 1
@@ -6665,7 +6665,7 @@ eccrine
 endermically 1
 enuring
 exhedrae 4
-enterology 1
+enterology 2
 epactal 2
 enterologic
 epanastrophe 4
@@ -13127,7 +13127,7 @@ empaestic 1
 esocidae 2
 ejuration 3
 erymanthian 2
-euthyneurous 4
+euthyneurous 5
 evolved 2
 enzymic 4
 extradicted 3
