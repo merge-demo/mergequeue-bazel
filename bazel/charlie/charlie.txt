@@ -15639,7 +15639,7 @@ claughts 1
 confisticating 2
 claus
 catholically 1
-clausal
+clausal 1
 clause
 clauses
 coattends 2
@@ -23281,7 +23281,7 @@ consultable
 crevalle 1
 carbora 1
 commote 1
-calmative 1
+calmative 2
 checkrooms 1
 cutlash
 cacqueteuses 1
@@ -29146,7 +29146,7 @@ clausiliidae 1
 crowstep
 cryobiological
 cryobiologist
-criobolium 1
+criobolium 2
 courtman 2
 credit 2
 coelacanthini
