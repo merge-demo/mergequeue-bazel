@@ -9087,7 +9087,7 @@ eyrer 3
 equitangential
 expulse 3
 endoscopic 1
-exponential 4
+exponential 5
 equipollent 3
 epicolic
 euryalae
@@ -11994,7 +11994,7 @@ excitometabolic 2
 embryonally 3
 excellently 3
 excitons 1
-embosses 1
+embosses 2
 excitosecretory 1
 excitovascular 1
 enamouring 2

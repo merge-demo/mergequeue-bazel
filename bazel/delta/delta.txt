@@ -349,7 +349,7 @@ dilligrout
 disinsection
 dropling 4
 daybreaks 3
-diplostichous 2
+diplostichous 3
 dreamt
 daygoing
 desiccation 3
@@ -14421,7 +14421,7 @@ desmotomy
 diversisporous 1
 dhoul 1
 deindividuate 1
-doctus 1
+doctus 2
 datedness 1
 depreciatory 2
 demeter
