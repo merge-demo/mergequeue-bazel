@@ -1361,7 +1361,7 @@ epode 1
 endoskeletal 1
 essentialness 3
 exomis 2
-evasional 1
+evasional 2
 ebcdic 2
 excludability 3
 earlocks 1
@@ -5026,7 +5026,7 @@ escalop 3
 encapsule 3
 enfoncee 2
 encamp 1
-erogeneity 3
+erogeneity 4
 eggplants
 epithelioblastoma 1
 endogastric 2
@@ -5236,7 +5236,7 @@ endolysin 2
 eparchy
 eretrian 1
 equipluve 2
-equilibrate 2
+equilibrate 3
 endomitosis 2
 endomorphy 1
 exta 1
@@ -6665,7 +6665,7 @@ eccrine
 endermically 1
 enuring
 exhedrae 4
-enterology 1
+enterology 2
 epactal 2
 enterologic
 epanastrophe 4
@@ -8833,7 +8833,7 @@ elsin 6
 egyptology 3
 endarteritis 2
 estrones 1
-erectopatent 3
+erectopatent 4
 entophytic
 equiprobabilist 3
 eternities 2
@@ -13127,7 +13127,7 @@ empaestic 1
 esocidae 2
 ejuration 3
 erymanthian 2
-euthyneurous 4
+euthyneurous 5
 evolved 2
 enzymic 4
 extradicted 3
