@@ -5427,7 +5427,7 @@ disordained 1
 deltidial 2
 dissolves 1
 diplomatics 1
-disc 2
+disc 3
 denuder 3
 dermolysis
 douched 2
@@ -5564,7 +5564,7 @@ diffusionism
 depascent 1
 debilitation
 disrepute 2
-depasture
+depasture 1
 depatriate 3
 dispergation 2
 doornails 4
