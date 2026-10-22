@@ -580,7 +580,7 @@ brutishly 2
 blessers
 birdie 2
 bibliolatry 1
-baconize 1
+baconize 2
 baconweed
 bierkeller 1
 bonjour 3
@@ -2940,7 +2940,7 @@ barrelmaker 2
 blissfully 3
 bamboozlement 1
 boules 1
-brassavola 2
+brassavola 3
 bracketed 2
 barrelwise 2
 barretor 1
@@ -6630,7 +6630,7 @@ bakshishing
 beneception
 bergy
 bergylt 3
-berginization
+berginization 1
 branchipodidae 1
 bicycloheptane 2
 baseheartedness
@@ -12844,7 +12844,7 @@ birkies 2
 baresarks
 bedelve 3
 bucketeer 2
-boomster
+boomster 1
 boomtown 1
 biestings 3
 boardbill 3
