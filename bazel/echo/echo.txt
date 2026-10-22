@@ -4804,7 +4804,7 @@ encode 5
 exitance 2
 ensnarements 2
 encoding 2
-effectivity 1
+effectivity 2
 embrocate 2
 ergasterion 1
 enbusshe 3
