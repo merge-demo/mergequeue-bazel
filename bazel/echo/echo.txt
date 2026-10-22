@@ -11108,7 +11108,7 @@ encage 1
 entune 6
 emulated 1
 emblemish 1
-eutaenia 2
+eutaenia 3
 etheostomoid 1
 enchasing 2
 escudero
@@ -13700,7 +13700,7 @@ elizabeth 2
 enteroclysis 3
 extrajudicially 3
 externe
-excursionize 2
+excursionize 3
 epitaxy 2
 expiatist 1
 ermanaric 2
