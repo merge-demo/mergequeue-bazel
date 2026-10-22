@@ -244,7 +244,7 @@ gestatorium 1
 germanomaniac 3
 golpe 4
 gulaman 2
-gaspereau 1
+gaspereau 2
 gaiter 2
 goajiro 2
 groot 2
@@ -4649,7 +4649,7 @@ gunlocks 4
 gaudy 2
 guerinet 2
 glossitic 3
-guttersnipish 1
+guttersnipish 2
 griggles 2
 graphometer 3
 gastrodialysis 2
