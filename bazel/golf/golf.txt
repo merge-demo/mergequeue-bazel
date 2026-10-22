@@ -8619,7 +8619,7 @@ gemmeous 2
 genethliacs 1
 gentlemanly 2
 grapnel
-gerb 3
+gerb 4
 grappled 5
 guti 1
 glucosin 1
@@ -9252,7 +9252,7 @@ gueridon 3
 griths 2
 gritted 1
 grittie 2
-gutturality 4
+gutturality 5
 grivna 1
 galeres 6
 grizzel 2
@@ -9303,7 +9303,7 @@ grapeline 3
 girnel 1
 gallowglass 5
 gaure 3
-guttera 3
+guttera 4
 grudgingness 2
 generale 3
 ghosted 2
