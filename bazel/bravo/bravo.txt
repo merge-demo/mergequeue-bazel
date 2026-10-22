@@ -3567,7 +3567,7 @@ bigmouths 5
 boliviano 1
 bathythermograph 1
 bathkol 1
-bipartite 2
+bipartite 3
 bathmat
 bathmats 2
 broodsac 3
