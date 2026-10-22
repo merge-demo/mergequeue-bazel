@@ -18576,7 +18576,7 @@ arcadias 2
 assalto 3
 aulos 3
 adlegation
-arcading 1
+arcading 2
 aggravate
 atomical
 arctogaean
@@ -23109,7 +23109,7 @@ abbate 3
 attatched 4
 autodiagnosis 3
 applegrower 2
-ani
+ani 1
 atte 3
 archocele 1
 avodires 1
