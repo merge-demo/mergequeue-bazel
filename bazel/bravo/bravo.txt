@@ -325,7 +325,7 @@ boule
 burg 3
 beneficially 1
 backcross 1
-bewept
+bewept 1
 backdates
 beplaster
 boiloffs 2
@@ -12653,7 +12653,7 @@ boogeymen 1
 bane
 bellical
 buhrs 3
-bec 3
+bec 4
 bolivares
 bunion 1
 bestraddling 2
