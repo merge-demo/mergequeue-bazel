@@ -2993,7 +2993,7 @@ fallway 2
 fadings 4
 felucca 2
 frothing
-fy 2
+fy 3
 fiacres 1
 fetichry 3
 firelit 1
@@ -4676,7 +4676,7 @@ filicinean 2
 fearsome 1
 flatnose
 figurante 2
-flaunched 4
+flaunched 5
 flections 3
 flexibilities 2
 frighten 3
