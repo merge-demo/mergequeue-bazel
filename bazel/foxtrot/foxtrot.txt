@@ -1006,7 +1006,7 @@ fenester 2
 flustrating 3
 factorability 5
 forweend
-flashes 1
+flashes 2
 fluorapatite 3
 fluoborid 5
 feeblest
@@ -3697,7 +3697,7 @@ footman 1
 flourishes 1
 flaying 3
 furnacer 3
-financiered
+financiered 1
 freshener
 finicking 3
 follying 2
