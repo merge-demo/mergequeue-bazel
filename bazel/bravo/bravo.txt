@@ -5511,7 +5511,7 @@ baryton
 bewares 3
 birding 1
 brahmas
-bagatine
+bagatine 1
 bludgeoned 1
 baklava 2
 bemurmured 3
