@@ -1722,7 +1722,7 @@ accusatives 1
 avidly 1
 auricomous 1
 anglicanum 2
-archtraitor 3
+archtraitor 4
 antediluvian
 aporia 2
 abases 2
@@ -5282,7 +5282,7 @@ affirmable 2
 asiaticism 1
 affirmably
 aplysia
-achaetous
+achaetous 1
 anchor 1
 arnica 3
 assisan 3
@@ -8978,7 +8978,7 @@ astounding
 amphilogy
 andy 1
 arboreally 2
-allophones 1
+allophones 2
 allophonically 2
 alloplast
 appetisse
@@ -21630,7 +21630,7 @@ acetometrically 1
 anisomerous
 assayable
 afterpotential 1
-argyroneta
+argyroneta 1
 assayed 2
 aphonous 3
 amorist

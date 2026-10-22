@@ -10923,7 +10923,7 @@ cornu
 chirognomy
 cerement 1
 chirognomic 2
-chirognomically
+chirognomically 1
 chuppahs 1
 chirognomist
 cerebrates 1
@@ -20797,7 +20797,7 @@ complotter
 carwitchet
 complotting 1
 complutensian 2
-cartelized 2
+cartelized 3
 compo
 counterstream 1
 compoed 1
@@ -22114,7 +22114,7 @@ caickle
 confounder 1
 carbanilic 1
 chowing
-confounders
+confounders 1
 cripplers 1
 confounding 1
 confoundment
@@ -28517,7 +28517,7 @@ credal
 chihuahua
 chevronel 3
 coitus 3
-creddock
+creddock 1
 chavicine 1
 carapaced 1
 credences 2
