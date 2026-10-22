@@ -3740,7 +3740,7 @@ caravanserial
 companeros 1
 caravel
 confuse
-caravels
+caravels 1
 cosen
 caraway 2
 caraways
