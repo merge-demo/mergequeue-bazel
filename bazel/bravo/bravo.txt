@@ -1931,7 +1931,7 @@ bathymetric 1
 brandishes 1
 bigeye 2
 believes 2
-bosquets 2
+bosquets 3
 baahling 1
 beeway 2
 beworms 1
@@ -8329,7 +8329,7 @@ buhlbuhl
 bronx
 babish 3
 bindwood 1
-bigheartedness
+bigheartedness 1
 benedictionale 1
 basin 2
 bradoon 1
@@ -8427,7 +8427,7 @@ baignet
 bilbo 2
 bandsawed 1
 bleachyard 1
-blessed
+blessed 1
 bellehood
 bildar
 bullshot 2
@@ -14494,7 +14494,7 @@ bridgings 1
 brachycranic
 bradyspermatism
 bramia
-brissotin 1
+brissotin 2
 bonetail
 bran 4
 bolivarite 2
