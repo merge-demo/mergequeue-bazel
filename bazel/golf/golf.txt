@@ -2710,7 +2710,7 @@ gasolenes 2
 granularity 3
 gingers 1
 geek 3
-genip 3
+genip 4
 gilbertese 3
 genyplasty 1
 glashan 3
@@ -5580,7 +5580,7 @@ gconvert
 guars
 glare 2
 gaz 4
-gesticulacious 3
+gesticulacious 4
 gelilah 5
 goutier 2
 greenroom 2
