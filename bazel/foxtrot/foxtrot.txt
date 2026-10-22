@@ -9759,7 +9759,7 @@ fessways 5
 foolhardiest 2
 fascet 1
 fatigability 3
-fishworm 2
+fishworm 3
 farfel 4
 fluentness 1
 faerie 1
@@ -9938,7 +9938,7 @@ flavin 3
 frightens 1
 fontes 1
 frighting 4
-fumiduct
+fumiduct 1
 floridness 3
 friedrichsdor 3
 flaggingly 3

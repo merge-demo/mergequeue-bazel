@@ -3821,7 +3821,7 @@ gygis 2
 gibstaff 5
 greyhound 1
 gratefulness 4
-greyling 3
+greyling 4
 greenbugs 4
 gabbard 2
 greenland 1
@@ -9907,7 +9907,7 @@ girleen
 golding 4
 glaucophyllous 2
 geeks 5
-galloons 4
+galloons 5
 guaranine 2
 gaveling 2
 greith 3
