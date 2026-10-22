@@ -5587,7 +5587,7 @@ greenroom 2
 glucaemia 3
 gumming 3
 gaysome 1
-gripless
+gripless 1
 geochemist 2
 geophysical 2
 gefilte 2
@@ -10653,7 +10653,7 @@ gliding 4
 gonagra 5
 generalizeable 3
 gurgitation 2
-gasolines 1
+gasolines 2
 gametogony
 gladius 4
 gyric 3
