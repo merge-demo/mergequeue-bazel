@@ -3829,7 +3829,7 @@ expletory 2
 emended 4
 ecu 2
 emending 2
-escribano 6
+escribano 7
 emerald 1
 elasticities 2
 emerge 1
@@ -11862,7 +11862,7 @@ excavator 3
 enlace 3
 excave 4
 eructated 3
-extancy 1
+extancy 2
 elutes 1
 exceeded 2
 endosperm 3
