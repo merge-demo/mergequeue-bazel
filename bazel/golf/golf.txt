@@ -1308,7 +1308,7 @@ garget 4
 gibbousness 1
 goodie 4
 gamekeeping 2
-ginglymoid 2
+ginglymoid 3
 gateward 2
 gibbered 2
 groomers 1
@@ -6605,7 +6605,7 @@ gastrohyperneuria 2
 guerillas 2
 galeass 1
 grenadiers 4
-gigolos
+gigolos 1
 graphalloy 2
 good 1
 gurglets 1
@@ -9712,7 +9712,7 @@ geminal 2
 grugous 3
 gasoliery 2
 goodish 2
-gruyere 3
+gruyere 4
 gasterosteidae 1
 glutinant 3
 gratefully 3
