@@ -9541,7 +9541,7 @@ cricotracheotomy 3
 calaththi
 checkrein 1
 checkroll 2
-compathy 1
+compathy 2
 checkrope
 cumulant
 conoy
