@@ -2087,7 +2087,7 @@ felicitator 1
 fudger 2
 frightened 2
 foredefine 5
-fainty 1
+fainty 2
 fesapo 4
 filletlike 3
 fear 3
@@ -2603,7 +2603,7 @@ feoffed 2
 fancily
 foresheet 1
 ferromanganese 2
-ferrometer
+ferrometer 1
 filagreed 1
 ferronatrite 2
 follis 2
@@ -3635,7 +3635,7 @@ fence 3
 forehalf 4
 filing 4
 fimbristylis 2
-fuchsines
+fuchsines 1
 foreordination 1
 filiformed 3
 footmaker 1
@@ -5973,7 +5973,7 @@ fortifiable 2
 fantaisie 3
 fisk 1
 filleter 2
-fanwright 1
+fanwright 2
 ferguson
 favism
 firkin 6
@@ -11538,7 +11538,7 @@ flecklessly 1
 frugging 5
 furlable
 fabling 1
-fictionize 3
+fictionize 4
 fards 3
 floeberg 6
 famulary 2
