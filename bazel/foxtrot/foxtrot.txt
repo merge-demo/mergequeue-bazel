@@ -822,7 +822,7 @@ flemings 3
 forerequest 3
 fiddlehead 3
 foveolarious 3
-frown 2
+frown 3
 felinely 1
 ferrets
 flummox 2
@@ -1509,7 +1509,7 @@ focusers 1
 factionary 1
 ferruminating 2
 florigen 4
-filmmaking 1
+filmmaking 2
 foulards 3
 foci 1
 filibeg 1
@@ -8468,7 +8468,7 @@ formel 3
 furiant 3
 foresinger 2
 formelt 1
-ferritic 1
+ferritic 2
 filmsetter 2
 fortin 2
 frondesce 2
