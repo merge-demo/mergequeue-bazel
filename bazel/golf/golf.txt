@@ -4183,7 +4183,7 @@ gemmule 1
 gaslit 2
 gainful
 gyrocompass 2
-geographical 2
+geographical 3
 gaggles 3
 gundogs 2
 gauds 1
