@@ -1827,7 +1827,7 @@ gainspeaker 1
 grummeter 1
 geebong 1
 guiltiest 5
-golandause 1
+golandause 2
 grushie 3
 granat 3
 gratility 1
@@ -5587,7 +5587,7 @@ greenroom 2
 glucaemia 3
 gumming 3
 gaysome 1
-gripless
+gripless 1
 geochemist 2
 geophysical 2
 gefilte 2
@@ -7629,7 +7629,7 @@ gunpaper 2
 greyly
 graft 1
 gyal 1
-glossoepiglottic 2
+glossoepiglottic 3
 gunkholing 4
 girlies 4
 ghoster 1
@@ -10653,7 +10653,7 @@ gliding 4
 gonagra 5
 generalizeable 3
 gurgitation 2
-gasolines 1
+gasolines 2
 gametogony
 gladius 4
 gyric 3
