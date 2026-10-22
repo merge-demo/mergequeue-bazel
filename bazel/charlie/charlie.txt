@@ -449,7 +449,7 @@ concrete 1
 cactiform
 communications 1
 cactoid 1
-combind
+combind 1
 crocodilean 1
 cactus 2
 copying 2
@@ -11722,7 +11722,7 @@ chondrinous
 crotalism 1
 cirrhotic 1
 chondrioma
-churlhood
+churlhood 1
 chondriomere 2
 chondriosphere 1
 connaturally 1
@@ -17157,7 +17157,7 @@ counterdemonstration
 chrysopee 1
 coeloms
 caftan
-customary 1
+customary 2
 countermount
 coagents 3
 coaggregate 2
@@ -19892,7 +19892,7 @@ cominformist 1
 cominformists 1
 confederal
 coming 4
-conched 1
+conched 2
 comings
 comism
 capel 2
