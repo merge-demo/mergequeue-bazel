@@ -619,7 +619,7 @@ deadrize 3
 disintegrating 5
 deadhand 3
 derelinquendi 1
-disgracefulness 2
+disgracefulness 3
 definientia 4
 disinhumed 1
 determinantal 2
@@ -2269,7 +2269,7 @@ durax
 dyewoods 1
 decemfoliate 1
 dogmas 2
-decempedal 1
+decempedal 2
 demotion
 dominiums 4
 decemplex 2
@@ -11969,7 +11969,7 @@ disembogued 1
 diarian 1
 deceases
 disembowel 1
-deliciate 1
+deliciate 2
 dictionaries 3
 diducing 1
 disemboweling
