@@ -8600,7 +8600,7 @@ destroying 1
 doormaking 2
 deorsumversion 1
 driftland 4
-dewan
+dewan 1
 dissatisfied
 driller 2
 dispunitive
