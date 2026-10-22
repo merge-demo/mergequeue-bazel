@@ -10740,7 +10740,7 @@ chincof 1
 ciliium
 chauffeurs
 counterplotted 1
-countercheer
+countercheer 1
 coppet
 chondriosomal 1
 chindee
@@ -12887,7 +12887,7 @@ corrugations
 cowslip 2
 churlishness
 churm 1
-churn 1
+churn 2
 canvased
 cowbarn 1
 conducted 1
@@ -26798,7 +26798,7 @@ conant
 counterdoctrine 3
 chromogenic 1
 clamping 1
-counterdogmatism 1
+counterdogmatism 2
 counterdrive
 countered 1
 cypselomorph 1
@@ -27081,7 +27081,7 @@ counterreplied
 clypeastroida 1
 cladocerous 2
 counterreplies 1
-counterreprisal
+counterreprisal 1
 counterrevolutionary 2
 cauterize 2
 chivaring
