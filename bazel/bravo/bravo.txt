@@ -14593,7 +14593,7 @@ boletuses 1
 broncobuster
 bellyband
 betrumpet 2
-behorn 3
+behorn 4
 brangled
 beanies
 brank 1
@@ -16949,7 +16949,7 @@ banca 3
 biographic 4
 baganda
 baliti 2
-berceuse 2
+berceuse 3
 blackbeard 3
 benzalaniline
 borax 3
