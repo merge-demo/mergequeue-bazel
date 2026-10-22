@@ -2990,7 +2990,7 @@ campesino 2
 canticles
 conquerableness 1
 conceptualistically
-cantilating
+cantilating 1
 cantilene 1
 cantilever 2
 cantilevered 1
@@ -24527,7 +24527,7 @@ cope 1
 cappers
 capillus
 coetaneously 1
-copehan
+copehan 1
 copeia
 copelata 1
 copeman 1
