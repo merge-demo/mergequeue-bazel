@@ -7746,7 +7746,7 @@ cerotypes
 confirmedly
 cerous 2
 cerrial
-cecidology 1
+cecidology 2
 certain 1
 cuteys
 conservatism 2
@@ -16899,7 +16899,7 @@ clumber
 clump 1
 contemper 1
 caline 1
-cycadean
+cycadean 1
 cloistress 1
 conhydrine 2
 clumpiest 1
