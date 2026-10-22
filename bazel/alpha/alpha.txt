@@ -8360,7 +8360,7 @@ anthypophoretic 2
 architectonic 2
 alipin 1
 abbie 1
-apophylaxis 3
+apophylaxis 4
 antecloset 1
 afforestment
 alipterion 2
@@ -15956,7 +15956,7 @@ ascensor 2
 andantes 1
 antiquarianize 2
 anachronism
-antiquaries
+antiquaries 1
 antiquartan 1
 americas
 amylase
@@ -16084,7 +16084,7 @@ arteritis 1
 autocoenobium 2
 apocrita
 antischolasticism 2
-audibleness
+audibleness 1
 amharic 3
 anita 1
 amenta 2
@@ -17587,7 +17587,7 @@ arriero
 abay 2
 airpost 1
 appendicular 1
-antiapostle 1
+antiapostle 2
 archorrhea 1
 amenities
 ancillaries 1

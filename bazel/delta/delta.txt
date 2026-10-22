@@ -4660,7 +4660,7 @@ deliming
 demiss 1
 dryopithecid 2
 demivolt 1
-disprobative
+disprobative 1
 demissory
 demystify
 deus 3
@@ -8587,7 +8587,7 @@ dimercury 2
 diaphtherin
 dulcifies 1
 durative 1
-demihake 4
+demihake 5
 digressionary 3
 devourer 2
 daphnioid

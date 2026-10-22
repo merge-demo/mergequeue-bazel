@@ -727,7 +727,7 @@ famuli 1
 frustrater 3
 fana 1
 feoffment 3
-fluxion 5
+fluxion 6
 feministics 1
 fragmentate
 fertilizes 4
@@ -4769,7 +4769,7 @@ fieldstrip 1
 fingal 1
 footwalls 4
 feif 1
-filipino 2
+filipino 3
 faikes 1
 falsifiability 1
 flowe 2
@@ -9897,7 +9897,7 @@ freckly 2
 ferreters 2
 friendlessness
 fancier 5
-fornices 3
+fornices 4
 fritts 2
 frogskins 3
 forepeaks 4
