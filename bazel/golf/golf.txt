@@ -1378,7 +1378,7 @@ glugglug 2
 garotters 2
 garnetlike 2
 grabbles 2
-gaulin 2
+gaulin 3
 gorb 3
 gastrostegal 2
 gravitometer 3
@@ -1398,7 +1398,7 @@ glycosemia 1
 germanize 4
 grecize 2
 gaits 3
-ganyie 5
+ganyie 6
 gallotannin 2
 gasified 3
 gausterer 1
@@ -4999,7 +4999,7 @@ gymnospermal 2
 gallantize 2
 gyrenes 2
 gingelis 2
-germanization 2
+germanization 3
 genom 1
 ganof 4
 gurgoyl 1
@@ -5455,7 +5455,7 @@ gingivitis 2
 gaea 4
 glyptolith 7
 galvanocontractility 2
-grotesques 3
+grotesques 4
 girsle 3
 gonfanon 3
 gallah 1
@@ -8480,7 +8480,7 @@ glossingly 1
 gov 3
 ginglymoarthrodial 6
 gleyde 5
-gilders 3
+gilders 4
 grivets 1
 glaze 2
 glands 3
