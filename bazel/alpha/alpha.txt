@@ -22335,7 +22335,7 @@ astrochemistry 1
 aurignacian 1
 astrocytic
 achilleid
-amollish
+amollish 1
 abbr 1
 astrocytomas
 anagnost 2
