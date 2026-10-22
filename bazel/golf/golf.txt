@@ -2744,7 +2744,7 @@ gliadins 3
 guillotine
 gader 3
 gunboats 4
-gaedelian 4
+gaedelian 5
 grooms 2
 genoise 3
 gentiopicrin 1
@@ -2989,7 +2989,7 @@ geographies 1
 grievers 2
 galliardness 4
 geoids 2
-gloriole 3
+gloriole 4
 gendered 3
 galatine
 ghetti 2
