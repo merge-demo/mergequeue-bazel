@@ -957,7 +957,7 @@ engraffing 3
 equilibristic 3
 ecumenicism 2
 expulser
-embalming 2
+embalming 3
 entailments 3
 emanator 2
 euchrone 2
@@ -2250,7 +2250,7 @@ electioneer 2
 elaphurine 1
 elections 4
 elevatory 1
-exocolitis 1
+exocolitis 2
 effluve 1
 endoplasma 4
 elector
@@ -8836,7 +8836,7 @@ estrones 1
 erectopatent 3
 entophytic
 equiprobabilist 3
-eternities 1
+eternities 2
 egyptologic 3
 enjeopardy 1
 encrypt 4
@@ -12053,7 +12053,7 @@ excoriating 1
 egestions 1
 enlivenment 3
 excoriation
-enwwove 1
+enwwove 2
 excoriations 3
 epiclike 4
 electrostenolytic 4
