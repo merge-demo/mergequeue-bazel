@@ -4715,7 +4715,7 @@ fluidram 1
 forefeels 1
 forlese 3
 fucales 3
-fathomless
+fathomless 1
 firesideship 1
 fantasticate 2
 frettage 1
@@ -6588,7 +6588,7 @@ foaling 1
 franseria 1
 friary 3
 flunkeyism
-feltness 5
+feltness 6
 frounce 2
 foamflower 4
 flammulation
@@ -7915,7 +7915,7 @@ futchel 4
 footeite 1
 ferd 4
 footslog 2
-fletching 1
+fletching 2
 foreseer 1
 foresees
 fonder 1
