@@ -2550,7 +2550,7 @@ gilliver 2
 glusid 3
 gapeseeds 2
 gweduc
-generalistic 2
+generalistic 3
 gaudier 4
 glen 6
 gumption 3
@@ -5643,7 +5643,7 @@ gloomily 4
 gloomings 4
 graveward 4
 gunyang
-germanics 5
+germanics 6
 gubernacular 3
 geyserine 2
 gingalls
@@ -9690,7 +9690,7 @@ granuliform 4
 gruellings 3
 gruesome 3
 galeod 2
-gasp
+gasp 1
 grassworm 1
 gregale
 gratifying 5
