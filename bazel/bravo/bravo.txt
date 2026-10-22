@@ -8427,7 +8427,7 @@ baignet
 bilbo 2
 bandsawed 1
 bleachyard 1
-blessed
+blessed 1
 bellehood
 bildar
 bullshot 2
