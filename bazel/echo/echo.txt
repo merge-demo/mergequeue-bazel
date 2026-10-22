@@ -4726,7 +4726,7 @@ ensuance 2
 englishism 1
 enciphering 3
 enrapture
-eulogism 2
+eulogism 3
 engerminate 1
 executonis
 epigean 3
@@ -5044,7 +5044,7 @@ epichindrotic
 epidendron 3
 endia 2
 equerry 1
-endings 3
+endings 4
 elapsing 2
 emplace 3
 elaeomargaric 4
@@ -8941,7 +8941,7 @@ esophagitis 1
 exothecium 1
 extrasensuous 1
 emotiomotor 2
-extrovertive
+extrovertive 1
 erigerons 2
 echoers 4
 enables
