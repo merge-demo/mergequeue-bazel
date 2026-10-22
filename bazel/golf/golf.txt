@@ -2166,7 +2166,7 @@ gastropulmonary 1
 gaudies 3
 graphostatics 3
 georgian 6
-gharris 1
+gharris 2
 gerontine 2
 gdinfo
 gnomide 4
@@ -7212,7 +7212,7 @@ give 3
 geocratic 1
 gape 2
 gorgosaurus 2
-galenism 4
+galenism 5
 gorillalike 1
 gamesters 3
 grimliness 3

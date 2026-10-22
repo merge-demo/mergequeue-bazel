@@ -619,7 +619,7 @@ forebemoan 2
 forelimb 3
 funnies 1
 frame
-facesaving 2
+facesaving 3
 falconelle 2
 falsifier 5
 foveolet 6
@@ -7822,7 +7822,7 @@ forenote 1
 fastness 2
 feltyflier 4
 fleamy 4
-fashionableness 1
+fashionableness 2
 fowlerite
 fleshen 2
 fritterers 1
