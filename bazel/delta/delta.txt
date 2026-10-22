@@ -16441,7 +16441,7 @@ diachyma 1
 drabbler
 datum
 difflugia 2
-downtimes
+downtimes 1
 dunnesses
 dacoities
 drabbling
