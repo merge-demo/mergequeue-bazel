@@ -10019,7 +10019,7 @@ andrenid 1
 avidya 1
 ambidextrously 2
 autarkikal 3
-avellan
+avellan 1
 asyllabical 1
 ambiency
 adiposogenital 1
@@ -14906,7 +14906,7 @@ acceptilate 3
 anticker 4
 anticking
 asseth
-abrosias 1
+abrosias 2
 arnoldist 2
 aburagiri
 ankaratrite 3
@@ -18576,7 +18576,7 @@ arcadias 2
 assalto 3
 aulos 3
 adlegation
-arcading 1
+arcading 2
 aggravate
 atomical
 arctogaean
@@ -23109,7 +23109,7 @@ abbate 3
 attatched 4
 autodiagnosis 3
 applegrower 2
-ani
+ani 1
 atte 3
 archocele 1
 avodires 1
