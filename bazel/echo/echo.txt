@@ -3978,7 +3978,7 @@ empaistic 4
 exilarch
 embroglio 1
 empale 1
-empalers 1
+empalers 2
 eyepit 1
 empall 1
 excurvation 4
@@ -8122,7 +8122,7 @@ encephalothlipsis 2
 electrovection
 embellish
 episarkine 3
-ethnology 1
+ethnology 2
 epiural 3
 extracalicular
 epididymite 2
@@ -13863,7 +13863,7 @@ equitably 2
 extraparental 1
 extroverts 3
 encyst 1
-endgame 5
+endgame 6
 extraneity 2
 ethiop 4
 executancy 1
