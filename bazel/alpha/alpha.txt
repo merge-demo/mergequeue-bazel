@@ -8582,7 +8582,7 @@ anthropoclimatology
 actinouranium
 allegorised
 anisogenous 1
-ademption 1
+ademption 2
 allasch
 anticus 1
 ammanite 1
@@ -10885,7 +10885,7 @@ assemblage 1
 archeological 1
 ammonolytic
 aitches 3
-anticult
+anticult 1
 allonymously 2
 amphib 1
 afrits
