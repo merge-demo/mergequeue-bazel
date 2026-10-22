@@ -826,7 +826,7 @@ frown 2
 felinely 1
 ferrets
 flummox 2
-fannia 4
+fannia 5
 forbecause 3
 fanon 5
 fronted 2
@@ -4011,7 +4011,7 @@ forfeited 4
 flunk 3
 fingerprint 1
 ferric 1
-furazolidone 1
+furazolidone 2
 fluorosis 1
 fishery 1
 forleft 1
@@ -4172,7 +4172,7 @@ flocculation 2
 farkleberries 2
 fellowcraft 1
 floerkea 1
-fibrils 5
+fibrils 6
 faintness 2
 fluophosphate 2
 foreaccounting 4
@@ -11319,7 +11319,7 @@ fictional 1
 formful 2
 furfures 1
 fusulina 2
-foldless 4
+foldless 5
 fps 5
 furfurine 4
 funebrious 1
