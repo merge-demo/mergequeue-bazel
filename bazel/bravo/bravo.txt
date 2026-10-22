@@ -12719,7 +12719,7 @@ bookishness 1
 boxty
 breviate 2
 barrenwort 4
-beaux
+beaux 1
 barging
 ballant
 booklear 2
