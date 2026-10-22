@@ -2359,7 +2359,7 @@ cumin
 calinda 4
 ccw
 canamo 2
-cranesbill
+cranesbill 1
 chaetognathous 4
 cicer 1
 canap 1
@@ -28967,7 +28967,7 @@ cricketlike
 coercibility
 crickle 1
 chandrakanta
-charlatanical 1
+charlatanical 2
 cricoarytenoid 1
 corroborated 1
 cheilotomy
