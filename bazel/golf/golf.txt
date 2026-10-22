@@ -416,7 +416,7 @@ gelder 4
 gneu 1
 gymnogynous 2
 gymmal 1
-gabion 2
+gabion 3
 glomeration 3
 greatened 1
 greatcoated 4
@@ -3402,7 +3402,7 @@ gnatling 2
 gorkun 2
 galbe 2
 glaciable 2
-gyroscopic 3
+gyroscopic 4
 gainor 1
 guttulate
 gymnoceratous 3

@@ -1856,7 +1856,7 @@ bandie 1
 bandied 1
 bilinear 1
 bandikai 2
-batrachoplasty 3
+batrachoplasty 4
 biparty 4
 bimetalism 2
 bandiness 1
@@ -5486,7 +5486,7 @@ bindi 1
 boxed
 bardic 1
 byliny
-bootyless 1
+bootyless 2
 beelines 2
 bobbled
 beydom 1
@@ -6107,7 +6107,7 @@ benedicks 1
 benedicta 1
 bletonism 1
 buhlworks 3
-beid 4
+beid 5
 buntline 2
 blepharodyschroia
 benedictinism 1
@@ -10196,7 +10196,7 @@ boars 3
 beaverlike
 blackies 1
 bottomlessness 2
-bemuslined 1
+bemuslined 2
 benty
 bachelorwise 2
 blackjack 1
