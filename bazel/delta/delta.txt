@@ -3172,7 +3172,7 @@ discharges
 dunnock
 dyothelete
 dipsas 3
-defecator 1
+defecator 2
 daneflower
 defect 3
 degusting
@@ -13563,7 +13563,7 @@ decussation 2
 dissension
 dichotomising 1
 dogmatisation
-dyas 1
+dyas 2
 dissensualize 1
 dissentation 1
 dissented 1
