@@ -1558,7 +1558,7 @@ grulla 2
 glimes
 graphitized 2
 gainset 2
-gonydeal 3
+gonydeal 4
 gibe 1
 gaspers 5
 galliardise 5
@@ -7432,7 +7432,7 @@ gordolobo 2
 galbulidae 1
 galactogogue 4
 greable 2
-gynecophore 4
+gynecophore 5
 guanins 1
 gou 2
 gyrometer 1
@@ -8159,7 +8159,7 @@ gauntly 1
 graftages 3
 gloomless 4
 gooey 2
-granuloblastic 1
+granuloblastic 2
 granulocyte 3
 gerontal
 galbanum 5
