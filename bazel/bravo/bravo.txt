@@ -17175,7 +17175,7 @@ bar 2
 boggin 1
 bulletproof 1
 bullnose 2
-beewinged
+beewinged 1
 bullnoses 2
 bacchuslike
 bullnut 2
