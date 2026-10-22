@@ -12228,7 +12228,7 @@ aegirite
 anchorages 1
 anchorlike 1
 archradical
-actinodermatitis 2
+actinodermatitis 3
 anchoret 1
 aminish 2
 anchorets 1
