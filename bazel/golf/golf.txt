@@ -3509,7 +3509,7 @@ gesticulations 2
 grueller 1
 gentiin 1
 girlish 1
-gagman 2
+gagman 3
 gagee 4
 gregg 3
 gallimaufries 6
@@ -7052,7 +7052,7 @@ gliffing 2
 galenic 1
 glassworkers 2
 gastropathic 2
-gladrags 3
+gladrags 4
 gyrinus 3
 gazy 5
 groutite 1
@@ -7167,7 +7167,7 @@ gross 2
 glycolylurea 3
 genecor 1
 gorgeret 3
-gangrenescent 2
+gangrenescent 3
 gorgia 1
 girly 2
 gorglin 1
