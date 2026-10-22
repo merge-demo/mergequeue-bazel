@@ -14063,7 +14063,7 @@ antecolic
 antecornu 1
 antecourt 2
 antecubital 1
-antecurvature
+antecurvature 1
 afshah
 abdiel
 anted
