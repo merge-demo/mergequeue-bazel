@@ -2603,7 +2603,7 @@ feoffed 2
 fancily
 foresheet 1
 ferromanganese 2
-ferrometer
+ferrometer 1
 filagreed 1
 ferronatrite 2
 follis 2
@@ -5973,7 +5973,7 @@ fortifiable 2
 fantaisie 3
 fisk 1
 filleter 2
-fanwright 1
+fanwright 2
 ferguson
 favism
 firkin 6
@@ -11538,7 +11538,7 @@ flecklessly 1
 frugging 5
 furlable
 fabling 1
-fictionize 3
+fictionize 4
 fards 3
 floeberg 6
 famulary 2
