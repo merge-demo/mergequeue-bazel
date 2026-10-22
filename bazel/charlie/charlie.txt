@@ -25636,7 +25636,7 @@ consolamentum 1
 clankum 1
 corsair 1
 cannula 3
-closestool
+closestool 1
 corpulentness 2
 converginerved 2
 corpuscularian 1
