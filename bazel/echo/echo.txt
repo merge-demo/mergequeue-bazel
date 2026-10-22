@@ -8811,7 +8811,7 @@ embelin 2
 entempest 1
 epistolize 2
 entomostracous 3
-erat
+erat 1
 ethoxy 1
 ethnobotanist 1
 effleurage 5
