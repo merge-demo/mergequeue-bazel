@@ -13509,7 +13509,7 @@ cylindrograph 1
 compilers 1
 chisel 1
 chrysocolla 2
-comitiva 1
+comitiva 2
 cylindroid 1
 ceratites
 caudillos
