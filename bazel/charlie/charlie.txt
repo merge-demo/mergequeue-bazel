@@ -19058,7 +19058,7 @@ cuprite
 chariots 1
 colliery
 crises 1
-callable
+callable 1
 camb
 colliflower 1
 cruset 1
@@ -24680,7 +24680,7 @@ coppering
 commentary 1
 christie
 copperize 1
-copens 1
+copens 2
 coauthered 1
 camacey 1
 coppersidesman 1
@@ -29822,7 +29822,7 @@ cropsick 1
 cropweed 1
 calorimeters 1
 casekeeper 1
-criminalese 1
+criminalese 2
 cytons
 croquets
 concussively 1
