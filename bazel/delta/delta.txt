@@ -10754,7 +10754,7 @@ dipsie
 declared 2
 decarboxylize 5
 drainspout
-drools 1
+drools 2
 discomfiture 1
 dipsomaniac
 dietotherapeutics
@@ -14221,7 +14221,7 @@ diswit 1
 dacryon 1
 dartingness 2
 dinocerata 3
-delubrubra
+delubrubra 1
 die 4
 dormer 1
 ditalini 3
