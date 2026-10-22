@@ -7437,7 +7437,7 @@ forevalue 1
 firstship 3
 forcibility 1
 forcibleness 3
-filosa 2
+filosa 3
 furnacite 2
 francophone 4
 freckliest 2
