@@ -13699,7 +13699,7 @@ dosimeter
 duecento 2
 disulphuric 3
 dialkyl 1
-danegeld
+danegeld 1
 diatomiferous 1
 diplasion
 demetrian 1
