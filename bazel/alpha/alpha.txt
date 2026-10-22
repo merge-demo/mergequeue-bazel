@@ -15956,7 +15956,7 @@ ascensor 2
 andantes 1
 antiquarianize 2
 anachronism
-antiquaries
+antiquaries 1
 antiquartan 1
 americas
 amylase
