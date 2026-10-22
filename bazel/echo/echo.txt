@@ -5263,7 +5263,7 @@ expungers 3
 endophyllum 2
 exospherical 3
 embarcadero 2
-ensphere
+ensphere 1
 edginesses
 edificative 1
 euchroic 7
