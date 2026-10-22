@@ -1561,7 +1561,7 @@ autoportrait 1
 aconin 3
 airwoman
 agonize
-autosensitized
+autosensitized 1
 attaintment 1
 antidrag
 accorporation
@@ -15001,7 +15001,7 @@ arilli
 arrests
 aweband 1
 agamospermy 1
-algology 1
+algology 2
 affusedaffusing 2
 automatized 1
 anticosmetics 1
@@ -23136,7 +23136,7 @@ attemptive 1
 antipapacy
 aortism 1
 agglomerations 1
-agnominal
+agnominal 1
 aaronitic
 aggressor 1
 accouple 1
@@ -23952,7 +23952,7 @@ acrology
 antiscepticism 1
 abadejo
 anepiploic 2
-autoanalytic
+autoanalytic 1
 anseriformes
 actinophonic
 acetylsalicylate
