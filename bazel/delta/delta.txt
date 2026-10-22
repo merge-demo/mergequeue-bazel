@@ -734,7 +734,7 @@ dandiacally
 dandydom 1
 dacryosolenitis 1
 dealcoholization 2
-drabby
+drabby 1
 dishabilitation 2
 dandie
 doubtless 1
@@ -6364,7 +6364,7 @@ deco 3
 dermotropic
 dastardliness 2
 derms 1
-diacatholicon 1
+diacatholicon 2
 defined 2
 dioc 2
 ducula 4
@@ -18542,7 +18542,7 @@ diphthonged 1
 dekalitre 1
 durmast 2
 dirging
-durndest 3
+durndest 4
 deraignment 2
 disharmonizing 2
 deviltries
