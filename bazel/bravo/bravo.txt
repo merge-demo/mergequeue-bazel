@@ -5835,7 +5835,7 @@ baigneuse 3
 bengaline 1
 bellyful 3
 bestrews 3
-boor 2
+boor 3
 beadier
 barbermonger 1
 blacklisted 1
@@ -10665,7 +10665,7 @@ butcherdom 4
 bleaty 1
 bleating 1
 bibliognostic 2
-bluejoint 1
+bluejoint 2
 bejesus 1
 bipunctual
 biotics
@@ -14321,7 +14321,7 @@ barefit 3
 brahmachari 2
 blacklist 1
 brahmana
-balloonful 2
+balloonful 3
 bookboard 1
 bikini
 bounciness 5
