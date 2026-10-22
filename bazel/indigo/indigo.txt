@@ -3491,7 +3491,7 @@ iesquttq 1
 iesr
 iessc 2
 iestchykds 4
-iestq
+iestq 1
 iesuemtka
 iesuprlqci 1
 ieswgnnh 1
@@ -9378,7 +9378,7 @@ iovbo
 iovccnlxxkskzd
 iovcmo 3
 iovcoorrglb 3
-iovdgnpjmmogav
+iovdgnpjmmogav 1
 iovdnpbhp 2
 iovdzpurlq 1
 ioveemlxqx 1
