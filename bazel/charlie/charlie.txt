@@ -17978,7 +17978,7 @@ chipboard 1
 coelococcus 1
 charioteers
 coelodont
-comet 1
+comet 2
 claymores 2
 coelom 1
 coeloma
