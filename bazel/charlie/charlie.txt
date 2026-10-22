@@ -4173,7 +4173,7 @@ cardiomelanosis
 contradivide 1
 cholecystotomies 3
 cardiometer 3
-cardiometric 1
+cardiometric 2
 cardiomyomalacia 1
 cardiomyopathy
 camshaft
@@ -14105,7 +14105,7 @@ cementless 2
 conjugated
 circuiting 1
 circuition 1
-circuitman 1
+circuitman 2
 chimerically 1
 constitutionality 1
 caldarium 1
@@ -29802,7 +29802,7 @@ crop
 carniolan 1
 crophead 2
 cytomitome
-coinsures
+coinsures 1
 cretionary
 croplands
 cropless 2
