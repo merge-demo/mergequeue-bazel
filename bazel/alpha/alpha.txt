@@ -5025,7 +5025,7 @@ assessory
 angiohyalinosis
 adinvention 2
 aerophobic 3
-aerophor 1
+aerophor 2
 antithermic 1
 arrode 1
 aerophotos 1
@@ -24071,7 +24071,7 @@ astonishments 1
 autodidactic 4
 albumenised
 athrough 1
-absurdly 2
+absurdly 3
 autodynes
 autodrome 1
 anabaena

@@ -2261,7 +2261,7 @@ geopolitik 2
 gradation 1
 glasswort
 gipons 4
-glarry 6
+glarry 7
 gospeller 3
 gangrel 4
 grandpaternal 4
@@ -8596,7 +8596,7 @@ genealogical 2
 guerdonless 1
 gestic 3
 gibbeting 2
-geothermometer 4
+geothermometer 5
 gaufrettes 2
 glucose 4
 geometrizing 1
@@ -8755,7 +8755,7 @@ greenish 2
 gluhwein 2
 grisgris
 goodlihead 3
-gamene
+gamene 1
 gallate 2
 griming 1
 gonapod 6
