@@ -12911,7 +12911,7 @@ desulphuration
 disoblige 2
 disobliger 2
 dognapping 1
-decolorising
+decolorising 1
 disobliges 1
 demobilization 4
 duff
