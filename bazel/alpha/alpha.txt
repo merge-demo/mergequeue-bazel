@@ -10832,7 +10832,7 @@ antithenar 1
 animoso 2
 abyssal
 anisogamete 1
-agape 1
+agape 2
 amphibryous 1
 arm
 addresser 1
@@ -14223,7 +14223,7 @@ allomorph 2
 arapahite 2
 agglutinant 1
 abrahamic 1
-aeroscopic
+aeroscopic 1
 arent 1
 anisaldehyde
 arbuscula
@@ -22809,7 +22809,7 @@ atloid 1
 atloidean
 arousals
 astonished 1
-adsorbates 2
+adsorbates 3
 atma
 atman 1
 acotyledon 2
