@@ -1980,7 +1980,7 @@ extraperitoneal 2
 ecstatically 3
 ekasilicon 1
 elachistaceous 2
-euthamia
+euthamia 1
 earthen 1
 etherialize 1
 exteriorate 3
@@ -7411,7 +7411,7 @@ electoral 2
 echinochloa 1
 epenetic 1
 everglade 3
-explosion
+explosion 1
 ensculpture 2
 entasia 4
 exsanguineous
