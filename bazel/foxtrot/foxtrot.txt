@@ -11599,7 +11599,7 @@ fideicommissary 5
 forced
 fraternal
 febrifugal
-forlornly
+forlornly 1
 for 3
 fetch 3
 forcarve 3
