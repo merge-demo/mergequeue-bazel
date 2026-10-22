@@ -4983,7 +4983,7 @@ cartoonist
 chrysomonadina 1
 cassettes
 cartouche
-curmudgeon
+curmudgeon 1
 cust
 costrel
 chiclero 1
@@ -26648,7 +26648,7 @@ countdown
 counted
 colourfully 1
 countenanced
-cyrenian
+cyrenian 1
 countenancer 1
 carbazine 1
 consensus 2
