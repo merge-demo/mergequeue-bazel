@@ -1791,7 +1791,7 @@ banago 2
 buzzy 3
 brimming 2
 beaconed
-beglads 2
+beglads 3
 blancmanger 3
 bemuse 5
 botanizer
@@ -6111,7 +6111,7 @@ beid 4
 buntline 2
 blepharodyschroia
 benedictinism 1
-brickfield 3
+brickfield 4
 benedictionary 1
 bucolical
 briolet 1
@@ -17175,7 +17175,7 @@ bar 2
 boggin 1
 bulletproof 1
 bullnose 2
-beewinged
+beewinged 1
 bullnoses 2
 bacchuslike
 bullnut 2
