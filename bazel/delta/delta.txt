@@ -2893,7 +2893,7 @@ dinoceratid 1
 draper 1
 didunculidae
 detainers 2
-deerlike 1
+deerlike 2
 decurion
 dispensatories
 demented
@@ -7052,7 +7052,7 @@ dykage 1
 dessertspoon
 distillage 1
 disenthroning
-duramen
+duramen 1
 destinezite 3
 driveable 3
 dessous 2
@@ -7427,7 +7427,7 @@ docetism 1
 destructibility 2
 detractions 2
 detrainment 1
-detraque 1
+detraque 2
 deathsmen 1
 detrect 1
 detrench 3
