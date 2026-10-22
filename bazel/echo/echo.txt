@@ -1083,7 +1083,7 @@ embeddable 3
 epistolic 1
 echinology
 elective 2
-edification
+edification 1
 evaluators 2
 exfigure
 earock 2
@@ -5577,7 +5577,7 @@ epicardial 1
 enfilade 1
 experimentations 1
 excriminate 3
-extraovular 2
+extraovular 3
 enfilades 4
 escutcheoned 1
 eerinesses 5
@@ -8195,7 +8195,7 @@ eons 3
 exergual 2
 empowered 2
 excalfaction
-episiotomies
+episiotomies 1
 episkeletal 1
 eequinoctium 1
 enroots 1
@@ -9109,7 +9109,7 @@ erythropsia 2
 electrograving 1
 entwist 1
 etruscan 4
-erythropsin 1
+erythropsin 2
 eltrot 3
 experientialist 1
 exploding 1
