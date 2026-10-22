@@ -10295,7 +10295,7 @@ besmircher
 basiglandular 1
 bosporian 1
 bladewise 4
-bladygrass 2
+bladygrass 3
 baluchithere 4
 bisme 2
 blennostasis 1
@@ -13530,7 +13530,7 @@ bra 3
 burdening
 baling 1
 bootleg
-binucleolate 2
+binucleolate 3
 ballutes 2
 bepainted 1
 besnowed 2
