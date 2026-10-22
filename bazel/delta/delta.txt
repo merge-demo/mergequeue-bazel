@@ -13718,7 +13718,7 @@ discoids
 defends 1
 doorplate 1
 divalent 2
-dejecta 1
+dejecta 2
 demulsion 2
 dissociations 1
 directoire 2
