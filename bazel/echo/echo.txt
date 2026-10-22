@@ -10017,7 +10017,7 @@ emotiomuscular 1
 electrode 2
 eurhythmical 1
 electrodiagnostically 1
-extrorsal
+extrorsal 1
 electrodiagnostic 4
 expellable 1
 ethanal
