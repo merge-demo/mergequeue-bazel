@@ -1721,7 +1721,7 @@ fibrocyte 1
 flashflood 2
 feastfully 1
 forayers 3
-foist 2
+foist 3
 felonies 3
 feastraw 1
 fledgling 2
@@ -5166,7 +5166,7 @@ formicidae 1
 funambulism 2
 forz
 flatness 1
-fadged 1
+fadged 2
 faceting 3
 flatted 5
 flatteringness 3
@@ -9097,7 +9097,7 @@ frisure
 fenlander 2
 frankist 2
 forespeaker 4
-featy 2
+featy 3
 falsification 1
 fossilise
 flourisher 2
