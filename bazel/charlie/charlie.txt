@@ -9373,7 +9373,7 @@ chavender 1
 confirmment 1
 compart
 chavicin 2
-chomp
+chomp 1
 chiot 3
 chavicol 2
 cautelousness 1
@@ -14270,7 +14270,7 @@ circumnavigation 1
 clefted 1
 chickaree
 coelia
-circumnavigator 2
+circumnavigator 3
 cyclometrical 4
 coitophobia 2
 cannabin
