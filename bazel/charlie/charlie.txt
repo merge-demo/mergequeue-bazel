@@ -14630,7 +14630,7 @@ calumet
 cystophore
 cistophorus 2
 coadjustment 1
-cystophotography
+cystophotography 1
 coxier 2
 captans
 checkmating 1
