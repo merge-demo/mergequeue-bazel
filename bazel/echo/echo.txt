@@ -5127,7 +5127,7 @@ exited 1
 endoclinal 2
 eternals 3
 endocoelar
-eupanorthidae 3
+eupanorthidae 4
 ectozoan 2
 epitomical 1
 emuls 1
@@ -7535,7 +7535,7 @@ efficacity
 entelechial 1
 epidermically 1
 extinguised 1
-echiuroid 3
+echiuroid 4
 endungeon 3
 eaceworm 1
 ecuelle

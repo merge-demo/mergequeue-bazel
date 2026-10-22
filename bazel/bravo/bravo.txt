@@ -320,7 +320,7 @@ backbones 1
 backbrand 2
 bluming
 backcap 3
-backchats
+backchats 1
 boule
 burg 3
 beneficially 1
@@ -11544,7 +11544,7 @@ bananist
 balladries 3
 budless
 bordellos
-blurredly
+blurredly 1
 beatifying 1
 basotho 2
 beauteously 1
