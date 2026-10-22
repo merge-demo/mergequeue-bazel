@@ -1038,7 +1038,7 @@ antirentism
 absurder 1
 anaphylactoid
 auberge 1
-aeronautically 1
+aeronautically 2
 alcoholophilia 1
 absurdity 1
 assonances
@@ -1636,7 +1636,7 @@ anonang
 abnet
 adenophoreus 1
 aerenterectasia 1
-accroaching
+accroaching 1
 anaclitic
 accroides 2
 accruable 1
@@ -5112,7 +5112,7 @@ aesthetic 1
 astomous
 archsacrificator 1
 agami
-aestheticism 2
+aestheticism 3
 aestheticist 1
 almoin
 atherosclerotically 1
@@ -23610,7 +23610,7 @@ abubble 1
 animator
 acmite
 aked
-allochthonous
+allochthonous 1
 aimed 3
 auntish 1
 auntly 1
