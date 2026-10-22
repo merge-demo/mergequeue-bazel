@@ -9799,7 +9799,7 @@ digesters
 dillydally 1
 dejectile 1
 diapaused 1
-discanonize
+discanonize 1
 debcle
 disrupture
 dillymen
