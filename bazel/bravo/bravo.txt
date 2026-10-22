@@ -6537,7 +6537,7 @@ backplanes 1
 bagel 1
 bhagat 2
 breezy 1
-bioecologies
+bioecologies 1
 bookkeeping
 browningesque 1
 banisters 3
@@ -11165,7 +11165,7 @@ bailee
 bushgoat 3
 bugfish 1
 biquadratic 1
-bloodworthy 1
+bloodworthy 2
 belched 2
 blearily
 blooey 2
@@ -14055,7 +14055,7 @@ bathhouses 1
 bicuspidate 1
 brachydactylism 3
 bebusy
-bottlebird
+bottlebird 1
 brachydodromous 3
 boc
 boding
