@@ -2591,7 +2591,7 @@ gargling 3
 gametogeny 3
 generant 3
 generate 1
-guitars 2
+guitars 3
 gypsiferous 2
 generated 1
 gazetteerage
@@ -2941,7 +2941,7 @@ gaeldom 1
 geocyclic 1
 gnat 2
 gorsy 2
-glideless
+glideless 1
 gynaecocracies 1
 gunfighters 3
 geocoronium 1

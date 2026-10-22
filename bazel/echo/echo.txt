@@ -5247,7 +5247,7 @@ edify
 equestrianism 3
 equinely 1
 entier 4
-erythrogen 5
+erythrogen 6
 encinder 5
 endoparasitica 2
 etiotropically
@@ -5640,7 +5640,7 @@ elysium 2
 esophoria 5
 enforceable 2
 ectocarpous 1
-encitadel 1
+encitadel 2
 enlisters
 egalitarianism 3
 ensconcing 2
@@ -10774,7 +10774,7 @@ euchloric
 examiners 2
 enchodontoid 2
 embryomas 2
-eumemorrhea 1
+eumemorrhea 2
 englishwoman 3
 entrapped 3
 epharmony
