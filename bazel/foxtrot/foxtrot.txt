@@ -2347,7 +2347,7 @@ fer 2
 firecoat 1
 featherstitching 1
 ferae 3
-fairyship 4
+fairyship 5
 fronton 3
 fetations 2
 filmable 2
