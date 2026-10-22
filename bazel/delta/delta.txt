@@ -3961,7 +3961,7 @@ dibranchia 1
 demonolatrously 4
 dowieite 1
 dapped 1
-dialyser 1
+dialyser 2
 dodecapetalous
 dispensatorily 1
 delaminating
@@ -5253,7 +5253,7 @@ dynamogenously 2
 devalued 1
 denouncement 2
 denouncements
-digladiate
+digladiate 1
 deprehensible 4
 denouncer
 dissymmetry 1
@@ -9057,7 +9057,7 @@ distichiasis 3
 dictational 2
 dictatory 1
 dictatorialness 2
-dictature 2
+dictature 3
 dihexahedral
 dorsals 3
 dictyodromous 2
