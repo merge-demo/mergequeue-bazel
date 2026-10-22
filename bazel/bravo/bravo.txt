@@ -7115,7 +7115,7 @@ birdsong 3
 boldnesses 1
 basso 2
 bespotting 3
-bespouse 1
+bespouse 2
 booties 2
 backstick 1
 backsets 1
@@ -7642,7 +7642,7 @@ befreckle 2
 biodynamic
 bewry 5
 bankroller
-bullwhip
+bullwhip 1
 bahar
 barranca 1
 bairnteem 5
