@@ -3481,7 +3481,7 @@ expediters 3
 expuition 2
 emblanch 1
 emblaze 4
-emblazed
+emblazed 1
 enserfment 1
 emblazers 1
 erke 1
@@ -10948,7 +10948,7 @@ equability 2
 eggnogs 3
 eggbeater 4
 epipelagic 2
-ends
+ends 1
 ecbolic 3
 eupnoea 1
 extenuatory 1
