@@ -8407,7 +8407,7 @@ foreking
 fictively 5
 frauder 3
 fuseboard 3
-fm 2
+fm 3
 filcher 2
 futhark 3
 form 3
@@ -9340,7 +9340,7 @@ facelessness 2
 fetichistic 2
 felinities 3
 frothy 2
-fleawood 2
+fleawood 3
 fortypenny 2
 fecaloid 2
 fatuitousness
