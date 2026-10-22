@@ -7798,7 +7798,7 @@ analecta
 antigalactic
 aldol 1
 assured 1
-afterfall 3
+afterfall 4
 apaestically 3
 accidentarily 1
 antimatrimonial
@@ -10621,7 +10621,7 @@ antiopiumist
 amylic 1
 anacahuite 1
 awin 1
-arride
+arride 1
 amylidene 2
 amylo 1
 allergens 3
@@ -15191,7 +15191,7 @@ aseptically 3
 antifatigue 1
 antifebrin 1
 apologized
-antisynod
+antisynod 1
 alunogen 1
 antifederalism 3
 assentient 1
