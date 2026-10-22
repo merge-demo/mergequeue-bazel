@@ -1378,7 +1378,7 @@ glugglug 2
 garotters 2
 garnetlike 2
 grabbles 2
-gaulin 2
+gaulin 3
 gorb 3
 gastrostegal 2
 gravitometer 3
@@ -7312,7 +7312,7 @@ ganglion 1
 gyrostatic 1
 genet 3
 gutturally 6
-guze 2
+guze 3
 gravelling 2
 gangly 5
 goar 4
