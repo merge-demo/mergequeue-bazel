@@ -3030,7 +3030,7 @@ dermapteran 1
 deeper
 dealings 3
 dies 1
-dismantling 1
+dismantling 2
 deepfreeze 2
 dilettantish 2
 deepgoing 3
@@ -4621,7 +4621,7 @@ drabbest 1
 deaconship 3
 discharm
 disfranchised 2
-deaness 4
+deaness 5
 divaricating 2
 dawsoniaceae 1
 disagglomeration
@@ -13699,7 +13699,7 @@ dosimeter
 duecento 2
 disulphuric 3
 dialkyl 1
-danegeld
+danegeld 1
 diatomiferous 1
 diplasion
 demetrian 1
@@ -18270,7 +18270,7 @@ daydreamt 3
 decibels 1
 duckboards 3
 diseuse 3
-demonian 4
+demonian 5
 dustcloths 1
 dunkled 3
 discipline 4
