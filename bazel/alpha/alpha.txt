@@ -74,7 +74,7 @@ anticreative 1
 accessaryship
 alanine
 antiremonstrant
-aristo 2
+aristo 3
 abalienate
 abalienated
 abalienating 2
@@ -4545,7 +4545,7 @@ abranchial 2
 aliptes 1
 axotomous 4
 advertence 2
-advertently 1
+advertently 2
 adverting
 appertise
 advertisers
@@ -7016,7 +7016,7 @@ appreciatorily 1
 annomination 1
 arcae 3
 ajava 2
-antipatharian
+antipatharian 1
 antisemitism 1
 arsenophagy
 ajitter 1
