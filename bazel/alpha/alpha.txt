@@ -377,7 +377,7 @@ alin 4
 adustive 3
 azures 2
 abetters 1
-abettor
+abettor 1
 asphaltite 1
 abhenry 2
 abhinaya 2
@@ -11724,7 +11724,7 @@ appraisal
 anagyrine 2
 anagyris 1
 anaglyph
-annulism
+annulism 1
 anisopleural 2
 anaglyphs 1
 anaglypta 2
