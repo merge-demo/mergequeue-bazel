@@ -1790,7 +1790,7 @@ debarbarization
 dilation
 desmoscolex
 dilemma
-debark 1
+debark 2
 dropseed 3
 drawknife 1
 debarking 3
