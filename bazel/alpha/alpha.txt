@@ -6566,7 +6566,7 @@ aider 1
 antiaggressive 1
 auksinu 2
 awk 1
-abjunctive 1
+abjunctive 2
 aidful 1
 aiding
 adenanthera 2
