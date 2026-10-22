@@ -2081,7 +2081,7 @@ grandbaby 3
 gamblers 4
 glancing 4
 gyrocompasses 2
-gringos 1
+gringos 2
 guilefully 2
 gawgaw 3
 goldenseal 3
@@ -9021,7 +9021,7 @@ gritstone 1
 grasswidow 1
 ghent 4
 gneissose 4
-geog 1
+geog 2
 gobletful 2
 gnathophorous
 gravenstein 1

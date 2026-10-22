@@ -7986,7 +7986,7 @@ chab 2
 celibate 1
 chabasite
 counterclockwise 2
-chabazite 2
+chabazite 3
 celiosalpingectomy 1
 chaber 1
 cucullately 1
@@ -31825,7 +31825,7 @@ cutin 1
 cutinisation 1
 cutinise 2
 coliiformes
-cretic
+cretic 1
 cutinised
 cloggy 2
 cammas 2
