@@ -3284,7 +3284,7 @@ ficoidal
 fiddlecome 1
 fracedinous
 farewells 1
-fiddlefaced 1
+fiddlefaced 2
 fiddlerfish 2
 fraticellian 3
 ferrites 1
@@ -11603,7 +11603,7 @@ forlornly 1
 for 3
 fetch 3
 forcarve 3
-frough 1
+frough 2
 frack 2
 forewinning 2
 fulgour 5
