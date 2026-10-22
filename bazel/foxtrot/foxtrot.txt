@@ -7662,7 +7662,7 @@ foreguess 1
 flammant 1
 foretopsail 4
 fittywise 4
-fiefdom
+fiefdom 1
 forsteal 3
 forecasting 1
 freeze 1
@@ -11309,7 +11309,7 @@ fraternize 1
 fleabite
 faultfinding 1
 fossilogist 1
-favorability 2
+favorability 3
 furfuralcohol 2
 freebees 6
 flathat 1
