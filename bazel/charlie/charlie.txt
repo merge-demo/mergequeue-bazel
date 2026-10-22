@@ -11160,7 +11160,7 @@ clamours 1
 castrations 2
 chlamydosaurus
 chlamydoselachidae 2
-chlamydozoan 1
+chlamydozoan 2
 chlamyphore 1
 carroting 1
 chlamyphorus
@@ -20459,7 +20459,7 @@ comparers
 clatteringly
 comparing 1
 comparisons
-comparted 1
+comparted 2
 customhouse
 compartimenti 1
 chimley

@@ -2677,7 +2677,7 @@ electrosurgery
 enventual 5
 epididymovasostomy 1
 egotist 4
-esophagism 1
+esophagism 2
 electrotactic 1
 eyra 2
 emmanuel 2
@@ -3982,7 +3982,7 @@ empalers 2
 eyepit 1
 empall 1
 excurvation 4
-empanelling 1
+empanelling 2
 empanels 1
 enfamish 2
 ecumene 2
@@ -13060,7 +13060,7 @@ elaidic 1
 egueiite 2
 evaluations 1
 euphonized 1
-expermentized
+expermentized 1
 emus 1
 eucaine 3
 embankment 2
