@@ -16839,7 +16839,7 @@ drawloom
 dungari 2
 dorestane 1
 discontinual
-determinativeness 3
+determinativeness 4
 discharity 1
 dozes
 depreciations 4
