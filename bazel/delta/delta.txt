@@ -14563,7 +14563,7 @@ develope 2
 decomposition 2
 divisor 1
 digitalein 2
-deckels
+deckels 1
 desalinize 2
 divergenge 1
 dondine 1
