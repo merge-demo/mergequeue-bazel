@@ -3523,7 +3523,7 @@ batfowl 2
 batfowled 2
 bassists 2
 batfowls 1
-bestore
+bestore 1
 bulbocavernosus 2
 brookites
 blackroot 7
@@ -3983,7 +3983,7 @@ becrawl 2
 beaconless 1
 bensil 1
 bicycles 1
-beglew 1
+beglew 2
 buyback 1
 beslur 1
 bonyfish
@@ -4152,7 +4152,7 @@ backbend
 beastily 3
 brenda 1
 beastish 3
-bowbells 2
+bowbells 3
 beastlier 1
 barkening
 brawled 1
@@ -15936,7 +15936,7 @@ bromphenol 3
 backbitten 2
 bathroomed 2
 blattering 2
-being
+being 1
 burgh 1
 bromuret 1
 bromus 2
@@ -16915,7 +16915,7 @@ baddy 2
 bonducs
 buggered
 bowse
-bereaver 3
+bereaver 4
 buggers 1
 buggy 2
 bakshi 1
