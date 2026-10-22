@@ -3829,7 +3829,7 @@ filose 3
 ferrier 1
 furnitureless 4
 foreflap 2
-filterableness 2
+filterableness 3
 facette 3
 fairyism 2
 fluoridisation 1
@@ -4981,7 +4981,7 @@ flyway 3
 feebleheartedly 2
 flammule 2
 fatidic 3
-flanch 1
+flanch 2
 formalize 4
 ferrugination 2
 forwarders 3
