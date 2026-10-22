@@ -3559,7 +3559,7 @@ defunct
 descendence
 discredence 1
 derivably 1
-dawcock
+dawcock 1
 drumlin 2
 defunction 1
 deul
@@ -17386,7 +17386,7 @@ dialoguing 1
 dammar
 demesgnes 2
 disrudder 4
-doeth 1
+doeth 2
 dribblers 1
 decollimate
 dividual 1
