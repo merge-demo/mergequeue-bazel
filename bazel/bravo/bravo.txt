@@ -5206,7 +5206,7 @@ befuddled 1
 befuddler
 boxberries
 beleaguers 1
-befuddling
+befuddling 1
 beautyship 1
 ballistophobia 2
 bumpkinet 1
@@ -8893,7 +8893,7 @@ bouchons
 bowser 2
 blissfulness 1
 barbarousness
-biocoenotic 2
+biocoenotic 3
 biodegradability 1
 biodegradable
 becassocked 1
