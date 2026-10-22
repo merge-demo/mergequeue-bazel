@@ -1573,7 +1573,7 @@ encampment 4
 epinasty 2
 envigor 1
 exogeny 1
-exaggeratedness
+exaggeratedness 1
 emball 1
 egises 2
 euosmite 4
@@ -6786,7 +6786,7 @@ extramural 5
 entire 2
 epithumetic 2
 engluts 1
-enjoys 2
+enjoys 3
 entireness
 ethologic 2
 evading 4
