@@ -7031,7 +7031,7 @@ blunting 2
 bascinet 1
 bitterly 1
 babeship
-bemuzzling 1
+bemuzzling 2
 besot 2
 baronet 2
 boodh 2
@@ -10147,7 +10147,7 @@ blackdamp 2
 bellhanger 2
 blackener 2
 billette 2
-blackens 2
+blackens 3
 bakalei
 blackfeet 2
 brakeage
@@ -11844,7 +11844,7 @@ bahuvrihi
 barbedness 4
 bellowed 1
 beento 1
-braggest 1
+braggest 2
 bondswomen 1
 benote 2
 beperiwigged

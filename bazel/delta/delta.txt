@@ -1060,7 +1060,7 @@ deas
 disobliging
 dutra 3
 darner 2
-dipterad 2
+dipterad 3
 darners 1
 darning 3
 dewooled 2
@@ -10853,7 +10853,7 @@ dimerized 1
 displays 2
 dirged 3
 dirgelike
-dirgeman
+dirgeman 1
 debts 3
 dirgy 1
 doggedly 4
@@ -15443,7 +15443,7 @@ dominionism 1
 dihydroxy 3
 dominionist 1
 dominions 1
-delocalising 1
+delocalising 2
 doorway 1
 dominique
 despairingly 2
@@ -16562,7 +16562,7 @@ delomorphous 2
 dodecarchy
 dishallow 2
 doctorly
-descensories 3
+descensories 4
 draggletailed 2
 deuteromycetes
 defensed 1
@@ -18010,7 +18010,7 @@ dungon 1
 diplex
 denitrated 1
 disgallant 4
-doroscentral
+doroscentral 1
 damping
 dulcitude 3
 dacryocystalgia 4

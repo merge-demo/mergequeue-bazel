@@ -1038,7 +1038,7 @@ antirentism
 absurder 1
 anaphylactoid
 auberge 1
-aeronautically 1
+aeronautically 2
 alcoholophilia 1
 absurdity 1
 assonances
@@ -1636,7 +1636,7 @@ anonang
 abnet
 adenophoreus 1
 aerenterectasia 1
-accroaching
+accroaching 1
 anaclitic
 accroides 2
 accruable 1
@@ -4030,7 +4030,7 @@ antihemolytic 1
 administrational
 administrative 2
 affixion
-administratively 2
+administratively 3
 administratrices 1
 antiarin 1
 admirable 1
@@ -4495,7 +4495,7 @@ adventured 1
 adventuresome 2
 agyrate
 aprocta 2
-adventuresomes 1
+adventuresomes 2
 adventuress
 adventuresses 1
 avidiously
@@ -7490,7 +7490,7 @@ abhorrences 3
 albumenisation
 anaptychi 2
 arsmetrik 1
-albumeniser 2
+albumeniser 3
 albumenization 1
 albumenized 2
 autopathography 1
@@ -17176,7 +17176,7 @@ aralie
 anthracoxen 2
 ajog
 anaerobian 1
-apolunes 1
+apolunes 2
 apartment 1
 adaptableness
 ankerites 1
