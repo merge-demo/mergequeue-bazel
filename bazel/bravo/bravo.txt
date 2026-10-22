@@ -5235,7 +5235,7 @@ basaltic 2
 boneheaded 5
 bicentenary 2
 bimastoid 1
-bullyragged 1
+bullyragged 2
 basophils 2
 beaky 3
 bunkmate 2
@@ -15279,7 +15279,7 @@ bahiaite
 biochemics
 bosk 3
 bullying 2
-belles 1
+belles 2
 bastian 1
 bridewell
 blister 1
@@ -15857,7 +15857,7 @@ bindingly 2
 beno 1
 battered 1
 bloodstainedness
-babiism 1
+babiism 2
 bloomsburian 2
 boilermakers
 bodybuild 2
