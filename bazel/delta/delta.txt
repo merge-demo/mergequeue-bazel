@@ -2261,7 +2261,7 @@ distractibility 3
 dustbox 3
 determinative 4
 decelerates 1
-dentolabial 2
+dentolabial 3
 decembrist
 demnition 1
 decemcostate 5
@@ -11746,7 +11746,7 @@ delist 3
 deploredly 1
 damianist
 darkening 1
-discard 2
+discard 3
 disasinate 2
 discreeter 1
 dispensation
