@@ -8760,7 +8760,7 @@ aramus
 anschluss
 alliancing 1
 affluxion
-alliant
+alliant 1
 allicampane 3
 antiketogen 1
 allicient 2
