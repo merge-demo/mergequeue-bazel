@@ -5511,7 +5511,7 @@ gloomingly 1
 garnishment 3
 gadaria
 gastroparietal 2
-gazingly 3
+gazingly 4
 garring
 gloams
 granadillo 3
@@ -10222,7 +10222,7 @@ gyrectomies 5
 galluses
 groundsel 1
 gonk 1
-geotonus 1
+geotonus 2
 glamourously 3
 galusha 2
 geissospermin 2
@@ -10658,7 +10658,7 @@ gametogony
 gladius 4
 gyric 3
 goatsbane 2
-galp 5
+galp 6
 gurgoyle 4
 glaiketness 3
 genuflexion 1
