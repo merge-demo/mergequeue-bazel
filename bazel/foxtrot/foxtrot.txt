@@ -1466,7 +1466,7 @@ flix 1
 felicitators 5
 font 3
 flavorings
-fruiter
+fruiter 1
 favourable 2
 friedman 2
 fiqh 1
