@@ -483,7 +483,7 @@ fakeer 3
 fissiparism 3
 fretting 1
 featherleaf 2
-fetiferous 1
+fetiferous 2
 fullbacks 2
 foremastman 1
 finalisms
@@ -2907,7 +2907,7 @@ fouettes 1
 floorcloth 2
 find 2
 febricide 1
-fibrose 1
+fibrose 2
 fimbricate 2
 featuring 3
 feudalists 2
