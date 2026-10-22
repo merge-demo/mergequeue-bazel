@@ -483,7 +483,7 @@ fakeer 3
 fissiparism 3
 fretting 1
 featherleaf 2
-fetiferous 1
+fetiferous 2
 fullbacks 2
 foremastman 1
 finalisms
@@ -2907,7 +2907,7 @@ fouettes 1
 floorcloth 2
 find 2
 febricide 1
-fibrose 1
+fibrose 2
 fimbricate 2
 featuring 3
 feudalists 2
@@ -9891,7 +9891,7 @@ fraghan 4
 frits 4
 friskier 2
 folliculous 1
-foliaceousness
+foliaceousness 1
 fibrofatty 2
 freckly 2
 ferreters 2
@@ -10973,7 +10973,7 @@ foreadapt 1
 forthright 2
 focaloid 3
 foremilk 2
-firstborn
+firstborn 1
 finland 4
 firebolt 2
 fleshlier 2
