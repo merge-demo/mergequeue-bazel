@@ -2084,7 +2084,7 @@ gyrocompasses 2
 gringos 2
 guilefully 2
 gawgaw 3
-goldenseal 3
+goldenseal 4
 gillian 1
 governments 3
 gubbertush 1
@@ -10234,7 +10234,7 @@ gobbet 1
 gunless 1
 guillotinist 1
 glutaraldehyde 4
-ginzo 1
+ginzo 2
 gonophorous 5
 gastroptosis 1
 grape 6

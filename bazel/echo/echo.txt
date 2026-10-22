@@ -2378,7 +2378,7 @@ egba 1
 episteme 1
 electrocolloidal 2
 edulcoration 2
-exhaustable 1
+exhaustable 2
 electroconvulsive 3
 empoisonment 1
 engorged 3
@@ -7811,7 +7811,7 @@ electromagnetize 2
 extrudable 2
 envisage
 ethnobotany 3
-endearedly 1
+endearedly 2
 eburnean 2
 epigyne 5
 endotoxic 1
@@ -10017,7 +10017,7 @@ emotiomuscular 1
 electrode 2
 eurhythmical 1
 electrodiagnostically 1
-extrorsal
+extrorsal 1
 electrodiagnostic 4
 expellable 1
 ethanal
