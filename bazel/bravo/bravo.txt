@@ -5708,7 +5708,7 @@ bebeast 1
 bemuzzles 3
 boilingly 2
 beliefless
-badman
+badman 1
 beliers 3
 blemishing
 belies
@@ -17812,7 +17812,7 @@ bursarial 2
 blypes 1
 bursaries 1
 bursars 2
-bursch
+bursch 1
 bianisidine 1
 becompass
 belord
