@@ -4407,7 +4407,7 @@ camisas 1
 carinulate
 concavation
 cacophonously
-champain
+champain 1
 ciconioid 2
 changeably
 carioles
@@ -21505,7 +21505,7 @@ confessions 2
 calycle 1
 climacterical 1
 celestialize 2
-concresce
+concresce 1
 concrescence
 cephalohumeral 2
 concrescive 1

@@ -161,7 +161,7 @@ guaiaretic 4
 gardenmaker 4
 geophagy 3
 gamond 1
-graniticoline 2
+graniticoline 3
 gunwhale 1
 grandson 2
 glassworm 5
@@ -1936,7 +1936,7 @@ galactosuria 3
 goalkeepers 2
 greaseless 2
 gushy 4
-greeve 2
+greeve 3
 guttiness 4
 galopades
 glorifiers 2
@@ -9059,7 +9059,7 @@ gaffle 1
 gimcracky 3
 grilse 2
 glossitis 1
-grimaced 2
+grimaced 3
 gulose 5
 genoese 2
 gis 5
@@ -10129,7 +10129,7 @@ gipsyhead 3
 guffer 2
 glaziers 1
 guggle 4
-glottologic 3
+glottologic 4
 gaby 1
 guglet 6
 goldenhair
