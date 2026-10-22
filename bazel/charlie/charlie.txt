@@ -29802,7 +29802,7 @@ crop
 carniolan 1
 crophead 2
 cytomitome
-coinsures
+coinsures 1
 cretionary
 croplands
 cropless 2
