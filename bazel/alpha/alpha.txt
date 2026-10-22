@@ -17579,7 +17579,7 @@ alienees
 antioptimistical 1
 appendiceal
 appendicectomy 1
-agonostomus 1
+agonostomus 2
 anthropopathite 2
 antebath 1
 appendicectomies 3
@@ -22335,7 +22335,7 @@ astrochemistry 1
 aurignacian 1
 astrocytic
 achilleid
-amollish
+amollish 1
 abbr 1
 astrocytomas
 anagnost 2
