@@ -6484,7 +6484,7 @@ ectodactylism 2
 endometriosis 2
 embolismus
 eurypteroidea 2
-ensoul 2
+ensoul 3
 ensouled 1
 ecru 2
 evolutes
@@ -9361,7 +9361,7 @@ escalating 3
 escalations
 enkindle
 expectedly 1
-earmindedness
+earmindedness 1
 escalator 1
 excommunicable 3
 ergonomics 2
