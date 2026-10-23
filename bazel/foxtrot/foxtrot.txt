@@ -4151,7 +4151,7 @@ foramina 2
 fulk 3
 felonry
 flexed 4
-fatling 5
+fatling 6
 fenchyl 2
 feezed 3
 fireboy 1
@@ -5134,7 +5134,7 @@ flashings 2
 fulgently
 flashlight 1
 frizzly 5
-foreadvise 1
+foreadvise 2
 fellas 1
 flashover 4
 frivolous 1
@@ -6107,7 +6107,7 @@ fervidity 4
 freighter 1
 frettation 1
 filical
-folksinging 1
+folksinging 2
 fundmongering 2
 freebies 2
 firestone 3
@@ -8066,7 +8066,7 @@ fosterers
 formentation 1
 facetting 3
 folial 4
-forestful 3
+forestful 4
 freezes 3
 frigger 1
 forestial 1
