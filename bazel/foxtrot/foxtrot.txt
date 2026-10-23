@@ -1784,7 +1784,7 @@ freewill 2
 firefanging 2
 freckledness 1
 fishgarth
-feathertop 1
+feathertop 2
 frogmen 3
 flabra 2
 flutina 1
@@ -8336,7 +8336,7 @@ fontlet 1
 ferrotyping 3
 firmament 3
 fatherlike 2
-flapperish
+flapperish 1
 fittiest 3
 fair 2
 foundling 1
@@ -11310,7 +11310,7 @@ fleabite
 faultfinding 1
 fossilogist 1
 favorability 3
-furfuralcohol 2
+furfuralcohol 3
 freebees 6
 flathat 1
 femorocaudal 3

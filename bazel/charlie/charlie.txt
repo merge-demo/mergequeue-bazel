@@ -4153,7 +4153,7 @@ chronologists 1
 cardiogram
 cardiographer
 cardiographic
-creels 2
+creels 3
 cardiographies
 cardiohepatic
 cardioid 1
@@ -8322,7 +8322,7 @@ columnated
 chalkone
 chalkos 3
 chalkotheke 1
-chalkpit 1
+chalkpit 2
 chalkrail 1
 circumflect 1
 catechizable 2
@@ -24484,7 +24484,7 @@ copaiba 4
 copaifera 1
 cupfuls 2
 clr
-courtliness 1
+courtliness 2
 circovarian 1
 clavis 1
 copaivic 2
