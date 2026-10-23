@@ -7954,7 +7954,7 @@ foreshock 3
 fluidifier
 formoxime 1
 foreshoe 2
-foreshortened 4
+foreshortened 5
 fenerate 3
 fozier 1
 foreshot 1
