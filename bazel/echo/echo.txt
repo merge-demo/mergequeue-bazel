@@ -2794,7 +2794,7 @@ elementalize 1
 ephori 2
 elementaloid 2
 emperil 1
-essang 3
+essang 4
 encoronate 1
 eluded 3
 embelic 4
@@ -8516,7 +8516,7 @@ eosinlike 2
 equalises
 erectness 2
 executorial 1
-enwrapping 1
+enwrapping 2
 enclave
 ecuadoran 2
 exopterygote 3
