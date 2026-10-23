@@ -24882,7 +24882,7 @@ coralist
 coralita 2
 coralla
 clavodeltoid
-corallian
+corallian 1
 corallidae
 corallidomous 1
 chestful
