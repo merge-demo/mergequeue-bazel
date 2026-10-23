@@ -3391,7 +3391,7 @@ disconfirmed
 desolator 1
 disperser 2
 dorey
-defleaed 1
+defleaed 2
 dicotyledons 2
 damnum 1
 ditremidae 1
@@ -8295,7 +8295,7 @@ digitation
 doombook 4
 dialyzer 1
 diagrams 3
-dentin 1
+dentin 2
 db
 dracontian 1
 demivolts 1
@@ -14685,7 +14685,7 @@ debauchee 3
 dolent 1
 djuka 1
 diaskeuast
-dk 1
+dk 2
 dkg 2
 dkl 2
 deadener
