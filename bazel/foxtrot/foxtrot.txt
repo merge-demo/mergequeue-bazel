@@ -1175,7 +1175,7 @@ fascintatingly 1
 flavopurpurin 2
 forcer 2
 filicineae 3
-fraying
+fraying 1
 friponerie 2
 focalize
 funder 1
@@ -3277,7 +3277,7 @@ freit 6
 furciferine 1
 fifteenthly 4
 fireburn 1
-fomenting 5
+fomenting 6
 flatware 3
 feelings
 ficoidal
@@ -4395,7 +4395,7 @@ flagged 1
 forbearances 3
 frenums 2
 fishbowls
-flexive 3
+flexive 4
 forky 5
 fisheyes 4
 forecomingness 1
