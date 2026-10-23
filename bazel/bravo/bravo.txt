@@ -1902,7 +1902,7 @@ birny
 bandolerismo 1
 buckayros 1
 bandoleros 2
-barouche 1
+barouche 2
 bandor 2
 baaskaap 2
 bifidate 1
@@ -13030,7 +13030,7 @@ berger 2
 bordeaux 2
 bz 3
 blancard 2
-biennials 1
+biennials 2
 besteading
 blackberry 2
 bucking
