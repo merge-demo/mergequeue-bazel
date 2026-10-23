@@ -24820,7 +24820,7 @@ crosiers 1
 conductivity 2
 coquitlam 1
 cor
-corabecan 2
+corabecan 3
 closkey
 complications 2
 corach 1
@@ -25307,7 +25307,7 @@ cassoulet
 cornbinks
 comities
 coidentity 2
-chaplainship
+chaplainship 1
 cornbole 2
 cornbottle 1
 contrade
@@ -31326,7 +31326,7 @@ cornix
 cureless 3
 corypha
 curelessness 2
-coadjument 1
+coadjument 2
 curers
 clubber 2
 cures
