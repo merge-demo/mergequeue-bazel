@@ -2437,7 +2437,7 @@ cancerophobe 1
 cancerophobia 1
 cancerous
 celtophil 1
-cancerously 1
+cancerously 2
 coolth 1
 cancerousness
 cardiotonic
@@ -30259,7 +30259,7 @@ caingang 1
 crumble 1
 crumbles 1
 crumblet 3
-crumbliest
+crumbliest 1
 claqueurs
 counternaiant 1
 chevies
