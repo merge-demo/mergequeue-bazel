@@ -10641,7 +10641,7 @@ excavate 3
 endozoa 3
 eques 1
 enchilada 3
-eudemonistic 1
+eudemonistic 2
 eudemonics 2
 equivalencies 1
 epinephrine 3
@@ -13423,7 +13423,7 @@ eikones 3
 ebionitic 1
 ectogenic 2
 excitingly 3
-expressionists 5
+expressionists 6
 eventuality
 expressionlessness
 etchimin 5
