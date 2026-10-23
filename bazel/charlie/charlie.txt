@@ -9869,7 +9869,7 @@ chemoprophyalctic
 cycle 1
 chemoprophylactic
 cruiser 2
-coaxer 1
+coaxer 2
 candent 2
 chemoreception 1
 chemoreceptive 2
@@ -30893,7 +30893,7 @@ cultellus 1
 culter
 culti 1
 cultic
-chandelier 2
+chandelier 3
 caecity 1
 cultigens 1
 cultish 2
