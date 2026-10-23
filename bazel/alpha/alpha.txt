@@ -6212,7 +6212,7 @@ aurorae 2
 azygoses
 ascendency 1
 acetnaphthalide 1
-avirulent
+avirulent 1
 annexer
 activable
 amphioxis
