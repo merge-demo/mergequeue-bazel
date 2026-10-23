@@ -5004,7 +5004,7 @@ genom 1
 ganof 4
 gurgoyl 1
 gastrelcosis 4
-ginger 4
+ginger 5
 grisliest 1
 glamoured 2
 germanic 3
@@ -5826,7 +5826,7 @@ glowingly 3
 glows 4
 grinny 6
 geometrize 3
-gorgeable 4
+gorgeable 5
 gaupus 3
 glissades 1
 greggle 2
@@ -6642,7 +6642,7 @@ gruss 1
 grittiest 2
 gyrodyne 1
 gateman 3
-gropes 1
+gropes 2
 gambusias 2
 gunnysack 4
 gondolas 2
