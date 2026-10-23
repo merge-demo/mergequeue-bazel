@@ -10531,7 +10531,7 @@ bipectinate 1
 bacterize 2
 bonks 2
 bulbocodium
-bibless
+bibless 1
 blastophoral 2
 bootikin 1
 backlash 2
