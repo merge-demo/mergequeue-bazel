@@ -8325,7 +8325,7 @@ chalkotheke 1
 chalkpit 1
 chalkrail 1
 circumflect 1
-catechizable 1
+catechizable 2
 chalkworker
 challah
 centriciput
@@ -13218,7 +13218,7 @@ cyclings
 cupelled 2
 cyclism
 choanoflagellida 2
-cyclitic 1
+cyclitic 2
 commesso 1
 conscribe
 cyclization 1
@@ -21148,7 +21148,7 @@ chao
 calchaquian 2
 crampfishes 3
 celsia 2
-conceiting
+conceiting 1
 cressier 1
 couches 2
 czardom

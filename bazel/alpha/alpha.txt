@@ -5161,7 +5161,7 @@ agrammatica
 affreux
 anatomizing 1
 aetobatidae
-ancien
+ancien 1
 antidoting
 aphoria 1
 anamorphism 2
@@ -22518,7 +22518,7 @@ aggros
 autodidactically 1
 apeiron
 affectlessness 3
-atatschite 1
+atatschite 2
 angiospermous
 ataunto
 antelopian
