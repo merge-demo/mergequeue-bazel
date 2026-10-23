@@ -1298,7 +1298,7 @@ bacterioprecipitin 1
 beltings 1
 bate 1
 binational 1
-balanorrhagia 3
+balanorrhagia 4
 balanta
 bescorn 1
 bottine
@@ -8939,7 +8939,7 @@ biogenesist
 bloodflower
 betocsin 1
 bluejay 1
-biogenetic
+biogenetic 1
 bibliographers
 bucare 2
 blennothorax 1
