@@ -3227,7 +3227,7 @@ demoniac 3
 defenceable 1
 dekle 1
 doftberry 1
-defencive 3
+defencive 4
 dents
 defend 2
 dikast 3
