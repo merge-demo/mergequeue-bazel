@@ -5916,7 +5916,7 @@ beden
 backswordmen
 batswing
 blitzkrieg 4
-butterroot
+butterroot 1
 belast
 berber 1
 belowground 1
@@ -8645,7 +8645,7 @@ biloxi
 barbells
 bestream 1
 bitterish 3
-benshea 4
+benshea 5
 bunjara 2
 bilsh 5
 bitumen 2
