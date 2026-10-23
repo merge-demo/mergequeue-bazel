@@ -10638,7 +10638,7 @@ diplophase
 difficultness 1
 dosology 1
 deviously
-dulias
+dulias 1
 draying 2
 drey
 duncery 2
