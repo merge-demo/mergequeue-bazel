@@ -3797,7 +3797,7 @@ emcumbering 1
 eyewater 1
 electroneutral 3
 eclaircise 1
-eradicatory 1
+eradicatory 2
 erect 2
 epilogs 1
 estonia 4
@@ -12424,7 +12424,7 @@ eyeletted 2
 envisionment
 epistyle
 erythrocytometry 1
-experient
+experient 1
 eyer 1
 ergometer 1
 effude 1
