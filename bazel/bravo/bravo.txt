@@ -10737,7 +10737,7 @@ bossship 4
 baramika 4
 bangiaceous 3
 boron 2
-birdbrained 1
+birdbrained 2
 baldberry 2
 beggarism 1
 blennophobia 2
@@ -12099,7 +12099,7 @@ bostrychoid 1
 brujeria 1
 banefully 3
 bagpudding 1
-barristress
+barristress 1
 boldfaced 3
 boldfacedness 2
 boldfacing 4
@@ -15738,7 +15738,7 @@ beclogged 3
 brochophony 1
 brocht 1
 brochure
-balisier 1
+balisier 2
 babblishly 1
 brock
 bombsight 2
