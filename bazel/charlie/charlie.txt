@@ -6538,7 +6538,7 @@ cauliculi 2
 cavitated
 consulter
 changefulness 1
-cavity
+cavity 1
 cavitied 1
 cavorted
 cavorting 2
@@ -31330,7 +31330,7 @@ coadjument 1
 curers
 clubber 2
 cures
-compotation 3
+compotation 4
 curets
 callisthenics
 cinematographers
