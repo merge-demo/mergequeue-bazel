@@ -1658,7 +1658,7 @@ graculus
 grammates 1
 gonnardite 1
 geratic 2
-gladder 4
+gladder 5
 greenhouses 4
 graftage 2
 gastrocnemii 1
@@ -2884,7 +2884,7 @@ gibbing 2
 genuflex 4
 glyptal 2
 gemsbucks 1
-golkakra 2
+golkakra 3
 gynaeceum 2
 groggier 4
 gallerylike 1
