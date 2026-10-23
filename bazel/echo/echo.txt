@@ -2708,7 +2708,7 @@ electrothermal
 ephippial 3
 emulsoidal 2
 exteriorise 3
-essed 6
+essed 7
 ericolin 2
 elderwort 1
 electrophoresing 1
@@ -4091,7 +4091,7 @@ esthetophore 4
 emboil 2
 equitant 1
 enjambement 3
-erotophobia
+erotophobia 1
 exteriorize
 epiphonemae 1
 empathized 3
