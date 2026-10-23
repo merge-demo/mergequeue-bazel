@@ -376,7 +376,7 @@ golundauze 2
 gavot 3
 gaoled
 glaive 1
-gentiles 5
+gentiles 6
 glossophagine 2
 goto 2
 gansy 4
@@ -1150,7 +1150,7 @@ guava 2
 goners 2
 gantelope 1
 genitors 3
-gantlet 1
+gantlet 2
 grocer 3
 gled 5
 gantleted 2
@@ -5723,7 +5723,7 @@ gelts 1
 guardeen 6
 guttule 1
 ghillies 1
-glamberry 3
+glamberry 4
 glendale 1
 glossocele 3
 graian 2
