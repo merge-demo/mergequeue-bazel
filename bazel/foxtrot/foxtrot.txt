@@ -2679,7 +2679,7 @@ foremelt 1
 feasing 5
 ferulaceous 3
 ferular 4
-foreimpression 2
+foreimpression 3
 fireshaft 1
 feruled 4
 ferulic
@@ -4536,7 +4536,7 @@ finickiest 2
 fictive 3
 fissirostrate 2
 fusser 2
-fissura 1
+fissura 2
 frugal 2
 forwardsearch 3
 fractionized 1
