@@ -2158,7 +2158,7 @@ disassemble 1
 downfall 1
 dicecup 3
 decalcomanias
-decapodal 1
+decapodal 2
 dawn 3
 draggletailedly 2
 del 2
@@ -3281,7 +3281,7 @@ duodecillionth 1
 doublethought 1
 dominie
 departs 1
-defibrillated
+defibrillated 1
 dominants 1
 dalles
 doty 2
