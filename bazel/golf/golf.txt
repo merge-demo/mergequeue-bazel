@@ -3141,7 +3141,7 @@ grassplot
 georgemas 2
 germanite 4
 gurgles 2
-georgics 1
+georgics 2
 glycosyl 1
 gnathal 1
 gnathobasic 1
@@ -8254,7 +8254,7 @@ graphological 2
 gluttonising 1
 gastroblennorrhea 2
 ginmill 4
-graphologists 2
+graphologists 3
 grainery 1
 glimpser 1
 gyropigeon 2
