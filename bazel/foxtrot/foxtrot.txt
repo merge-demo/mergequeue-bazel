@@ -1337,7 +1337,7 @@ fervour 2
 fathomlessness 2
 funniment 1
 flichtered 2
-forkable 2
+forkable 3
 financiering 2
 faticableness 3
 felspath 4
@@ -5407,7 +5407,7 @@ fennel 1
 friending 2
 frigefact 1
 futurity 2
-fleabiting 3
+fleabiting 4
 fledgeling 1
 fiendhead 2
 foxfinger 1
