@@ -23572,7 +23572,7 @@ caughnawaga 1
 chaffweed 1
 continuation 2
 continuatively 1
-continuativeness 2
+continuativeness 3
 continuator 3
 cathodical 1
 continue 2
@@ -23717,7 +23717,7 @@ conjunctural
 chessmen 1
 cothurned 1
 cyclomyarian 1
-condensance
+condensance 1
 converted
 contraltos
 cera
@@ -30813,7 +30813,7 @@ consarned 1
 cullage 2
 cullays 1
 cullas
-carroty 1
+carroty 2
 cytotechnology 1
 cochleary 2
 conchologize

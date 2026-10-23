@@ -786,7 +786,7 @@ enolizing 5
 extramedullary 2
 eolotropic 2
 emotionalization
-electrobus 1
+electrobus 2
 equiponderance 4
 encaged 2
 exadverso 1
@@ -4135,7 +4135,7 @@ evenly
 electrovalence 3
 employe 2
 estado 1
-etamin 1
+etamin 2
 epigene 1
 epicanthus 3
 ejacula 1
@@ -12912,7 +12912,7 @@ eosaurus 2
 enticingly 4
 expeditiousness 3
 ecchymose 2
-epithymetic 1
+epithymetic 2
 evangeliary 2
 energetically
 ethnographical 1

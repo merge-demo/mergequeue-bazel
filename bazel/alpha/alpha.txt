@@ -5661,7 +5661,7 @@ andabatarian 1
 aeschylean 1
 again 2
 adorsed 1
-aquapuncture
+aquapuncture 1
 amylaceous 2
 asphalts
 againsay
@@ -21512,7 +21512,7 @@ adiaphanous
 alluvium
 axolotls
 antityrosinase
-asphalter 1
+asphalter 2
 aceituna
 acridinium 2
 akund
@@ -23093,7 +23093,7 @@ amitotically
 almirah 1
 aumoniere
 asyzygetic 1
-attalea
+attalea 1
 aquafer
 algicidal 4
 attargul 1
