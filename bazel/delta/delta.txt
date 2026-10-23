@@ -669,7 +669,7 @@ divorcement
 decapitalize 1
 damped 2
 desquamated 2
-dukely
+dukely 1
 deafen 5
 dudgeons
 dodecastylar 2
@@ -16365,7 +16365,7 @@ downstrokes
 downtake
 duodecane
 dewret
-downthrown 1
+downthrown 2
 denaturation 3
 douppioni 2
 delayage 1
