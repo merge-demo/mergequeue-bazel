@@ -2465,7 +2465,7 @@ amperemeter 1
 acnida 1
 arabizes
 airily 2
-antiperthite
+antiperthite 1
 apprehendingly 1
 acoasm 2
 acetin 2
@@ -7276,7 +7276,7 @@ aurantiaceae 2
 assn 1
 alarmingness
 algovite 5
-alarmist
+alarmist 1
 anginas 1
 alarodian 1
 animas
@@ -11606,7 +11606,7 @@ anachronize 3
 animalish
 albuminuria 4
 allothigenic 1
-annoyancer 1
+annoyancer 2
 arseniureted
 appassionate 1
 anacyclus 3
@@ -25158,7 +25158,7 @@ apophylactic
 appendice
 almug 2
 atomicity 1
-aphanipterous
+aphanipterous 1
 abduce 1
 aret 1
 axman 1
