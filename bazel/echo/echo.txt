@@ -8818,7 +8818,7 @@ effleurage 5
 eyewort 2
 erd 1
 eyehook 2
-eagers 2
+eagers 3
 erechtheum 1
 erechtites
 euphemist 2
@@ -12963,7 +12963,7 @@ emictory 2
 exodoi 2
 exclusion 3
 equipartile 1
-epicyclical 3
+epicyclical 4
 excommunicated 1
 expected 2
 eucharises 3

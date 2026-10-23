@@ -6448,7 +6448,7 @@ floretty 3
 fisherboat 1
 feltman
 froisse 1
-footbaths 2
+footbaths 3
 feneration 1
 fluotantalic 2
 forweary 4
@@ -6859,7 +6859,7 @@ faradizes 1
 fierasferidae 1
 foliose 6
 flachery 2
-flittingly 2
+flittingly 3
 foliot 1
 floribunda 1
 fasces 2
@@ -10605,7 +10605,7 @@ flabbergasting 2
 freeby 4
 feudalizable
 flaxwoman 2
-forerunner 2
+forerunner 3
 farceurs
 flative 2
 forseen 1
