@@ -2230,7 +2230,7 @@ bourage 1
 barricos 2
 buddler 2
 bassoons 3
-barbarise 2
+barbarise 3
 barbarised 2
 benzazimide 2
 barbarising 1
@@ -6283,7 +6283,7 @@ bemoat 3
 bulgar
 benthoses 2
 bacteriolysin
-backwashes
+backwashes 1
 blockhouses
 blastie 1
 backgrounds 1
