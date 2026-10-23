@@ -626,7 +626,7 @@ gallisin 1
 gunslingers 7
 gillie 6
 geophysicist 3
-gigartina 3
+gigartina 4
 glide 1
 gradatory 3
 guenepe 4
@@ -5290,7 +5290,7 @@ glister 4
 grenier 1
 glibnesses 2
 glyceria 5
-grangerite 1
+grangerite 2
 genialize 1
 guardsmen 1
 guatemala 2
