@@ -1909,7 +1909,7 @@ gamelote 3
 germaniums 3
 groundable
 gowd
-grails
+grails 1
 golland 1
 grelot 2
 gaudiest 1
