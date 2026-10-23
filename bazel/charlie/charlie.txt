@@ -15727,7 +15727,7 @@ clavolet 1
 cumulonimbus
 chapel 2
 clawed 1
-clawer
+clawer 1
 cubbishly
 clawers 2
 clawing
