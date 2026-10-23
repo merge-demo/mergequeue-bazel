@@ -1010,7 +1010,7 @@ ganga 2
 gangamopteris 1
 givers 2
 gangava 2
-groundward 3
+groundward 4
 gynobase 4
 ghassanid 2
 gilse 3
@@ -7337,7 +7337,7 @@ galega 2
 gossamers 4
 galloglass 2
 geochronometric 3
-gibby 1
+gibby 2
 glareole 3
 ghee 2
 groggery
