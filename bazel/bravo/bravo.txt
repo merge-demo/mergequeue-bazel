@@ -3759,7 +3759,7 @@ battues 2
 bourdis 5
 batture 1
 bielded 1
-barasingha 2
+barasingha 3
 blackening 3
 biocontrol 2
 basialveolar 1
@@ -10552,7 +10552,7 @@ blathery 1
 blackprint 1
 baretta 2
 blathers 1
-bazookamen
+bazookamen 1
 biomicroscopy 2
 bivinyls
 bermudians 2
@@ -17532,7 +17532,7 @@ bleep 2
 bulbocapnine
 bides 3
 bibliotherapies 1
-bee 1
+bee 2
 bobadilish 1
 braggat
 burdensome 1
