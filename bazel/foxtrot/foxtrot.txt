@@ -5134,7 +5134,7 @@ flashings 2
 fulgently
 flashlight 1
 frizzly 5
-foreadvise 1
+foreadvise 2
 fellas 1
 flashover 4
 frivolous 1
@@ -8597,7 +8597,7 @@ flocculus
 feower 3
 freehold 2
 fainters 5
-floodmark 4
+floodmark 5
 foam 2
 farmplace 1
 frequence 3
