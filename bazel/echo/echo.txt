@@ -5251,7 +5251,7 @@ erythrogen 6
 encinder 5
 endoparasitica 2
 etiotropically
-endopathic 4
+endopathic 5
 endopelvic 1
 encyclopaedist 1
 endoperidium
@@ -13939,7 +13939,7 @@ extraofficial 1
 earnestly 1
 expertship 1
 endromis 3
-eleutheri 1
+eleutheri 2
 ethylthioethane 1
 exotery 3
 employments 1
