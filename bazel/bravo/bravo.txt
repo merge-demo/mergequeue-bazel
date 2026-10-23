@@ -4454,7 +4454,7 @@ behinds
 bailment
 beached 1
 bestuur 2
-becomed 1
+becomed 2
 bungs
 becometh 1
 becomingness 2
@@ -4682,7 +4682,7 @@ blondest 1
 blindcat 2
 bignesses 2
 buckstay 1
-blastoid
+blastoid 1
 bediapering
 benedictively
 boxiness
