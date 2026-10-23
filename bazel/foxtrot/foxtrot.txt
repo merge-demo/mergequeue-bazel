@@ -31,7 +31,7 @@ floodlet 5
 fourchee 4
 fieldmen 6
 fibrolitic 1
-fibrocyst
+fibrocyst 1
 fabricates 4
 fabricator 3
 formularize 3
