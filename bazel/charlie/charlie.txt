@@ -6490,7 +6490,7 @@ chromoscope 2
 cavekeeper
 cavelet 2
 confiner 1
-cambodia 1
+cambodia 2
 cavelike
 cavemen
 cavernal
@@ -10533,7 +10533,7 @@ chylifying
 chamoises 1
 carlylesque
 ceratozamia 1
-competitions
+competitions 1
 chyliform
 chilina
 cordonazo
