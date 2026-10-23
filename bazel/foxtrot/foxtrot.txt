@@ -3634,7 +3634,7 @@ ferroinclave 4
 fence 3
 forehalf 4
 filing 4
-fimbristylis 2
+fimbristylis 3
 fuchsines 1
 foreordination 1
 filiformed 3
@@ -7954,7 +7954,7 @@ foreshock 3
 fluidifier
 formoxime 1
 foreshoe 2
-foreshortened 4
+foreshortened 5
 fenerate 3
 fozier 1
 foreshot 1
