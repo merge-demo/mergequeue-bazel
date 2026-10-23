@@ -669,7 +669,7 @@ divorcement
 decapitalize 1
 damped 2
 desquamated 2
-dukely
+dukely 1
 deafen 5
 dudgeons
 dodecastylar 2
@@ -3672,7 +3672,7 @@ decathlon
 disinhibition
 decomposite 1
 dysteleological 1
-degorge 1
+degorge 2
 degradative 1
 degraded 1
 degradement 1
@@ -8782,7 +8782,7 @@ dialoguer
 deuterodome
 diazins 2
 dulcifying 1
-declarators 1
+declarators 2
 defeat 2
 defrocking
 dictaphone
@@ -11093,7 +11093,7 @@ doppelkummel
 demonetisation 2
 dirt 2
 denitrified 1
-deink
+deink 1
 dandyling 2
 decentness 1
 dundreary 1
