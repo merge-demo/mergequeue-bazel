@@ -673,7 +673,7 @@ giddify 3
 geoaesthesia 1
 gript 2
 giterne 1
-grapelet 5
+grapelet 6
 gelosine 3
 gooney 1
 gynecomaniac 3
@@ -4239,7 +4239,7 @@ gabbiness 3
 gobbing 5
 gastornis 1
 gynaeconitis 5
-geysers
+geysers 1
 gaillard 1
 gynandria 1
 gladiators 3
@@ -7382,7 +7382,7 @@ glomerule 3
 gilthead 4
 glyptograph 5
 gallach
-gynostemia 2
+gynostemia 3
 groupable 4
 gastromalacia 3
 gamelike 2
