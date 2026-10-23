@@ -995,7 +995,7 @@ alsikes 1
 acceptavit 1
 additives 2
 abstractest 1
-adequacy 1
+adequacy 2
 abstraction
 apostoless 1
 abstractional 2
@@ -24129,7 +24129,7 @@ adcon 1
 andiron 1
 autognostic 3
 articulus
-acanthocarpous
+acanthocarpous 1
 anticapitalistic
 autografting 2
 autogram
