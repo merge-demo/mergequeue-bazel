@@ -12230,7 +12230,7 @@ chrysophyte
 chromonemic 1
 chrysopid 2
 chrysopidae 2
-chrysoprase 2
+chrysoprase 3
 chrysoprasus
 chasmic
 counteradvice 2
@@ -29861,7 +29861,7 @@ crossbars 1
 cerianthid 1
 compatience
 conflates
-columellar
+columellar 1
 cowslipped 2
 candys 1
 callow 1
