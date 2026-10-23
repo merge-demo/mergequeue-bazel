@@ -6233,7 +6233,7 @@ enterclose 2
 execs 2
 ellipsoid
 erasure
-exodist
+exodist 1
 enophthalmus 2
 enorm 1
 explorement
