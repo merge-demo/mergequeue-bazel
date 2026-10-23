@@ -7235,7 +7235,7 @@ decertify 2
 dolorous 2
 damnified 2
 detectible 4
-detection 3
+detection 4
 diamantiferous 2
 deadlight 1
 disparatum
@@ -11710,7 +11710,7 @@ decoagulate
 distritbute 1
 dehumidification 1
 disclaim
-declinator 2
+declinator 3
 disprobabilization 5
 dashy 1
 discourteousness
