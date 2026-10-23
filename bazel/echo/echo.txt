@@ -620,7 +620,7 @@ ey 1
 echeneidoid 2
 enchant 2
 enneaeteric
-empyreumatic 2
+empyreumatic 3
 epipaleolithic 2
 evincement 1
 eclamptic 1
@@ -4172,7 +4172,7 @@ escaloped 2
 echiurida 2
 enacted 2
 etuve 1
-editorializes
+editorializes 1
 epitheliolysin
 emanant 2
 encallow 2
