@@ -3608,7 +3608,7 @@ calefaction 1
 carabinier 4
 carabiniere
 carabinieri
-cotrespasser
+cotrespasser 1
 choosable
 caraboa 1
 caaba
@@ -10389,7 +10389,7 @@ chiel 1
 coapts 2
 column
 chield
-conemaker 4
+conemaker 5
 chierete 1
 chievance 2
 chieve 2
@@ -10839,7 +10839,7 @@ collagens 2
 chlordane
 chiolite
 chionablepsia
-chionaspis 1
+chionaspis 2
 chionodoxa
 candlepower
 circumcising
@@ -29535,7 +29535,7 @@ cerealist
 crith 1
 crithidia 1
 crithomancy 1
-critic
+critic 1
 criticality
 criticalness 3
 coendured 1
