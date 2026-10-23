@@ -9526,7 +9526,7 @@ congruencies 1
 checkmate 2
 chirosophist 1
 cautioning
-circumferences
+circumferences 1
 cultriform
 checkpointed 2
 chemitypies
@@ -22727,7 +22727,7 @@ consacre
 consanguine 1
 coinsured 1
 chevise 2
-consanguinean 2
+consanguinean 3
 caballeros 1
 consanguineous 1
 consanguineously
@@ -27901,7 +27901,7 @@ compurgation 1
 concreting
 crackajack
 carbanilide 1
-crackbrained 1
+crackbrained 2
 carpognia
 crackbrainedness 3
 centeses
