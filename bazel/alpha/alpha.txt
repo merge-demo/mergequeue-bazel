@@ -14056,7 +14056,7 @@ agitpropist 1
 altazimuth
 autopilots
 anchorate
-autocatalytic
+autocatalytic 1
 antechoirs 1
 axostyle
 antecolic
