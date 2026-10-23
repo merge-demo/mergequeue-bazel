@@ -24129,7 +24129,7 @@ adcon 1
 andiron 1
 autognostic 3
 articulus
-acanthocarpous
+acanthocarpous 1
 anticapitalistic
 autografting 2
 autogram
