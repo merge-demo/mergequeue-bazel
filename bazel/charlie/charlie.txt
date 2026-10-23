@@ -17293,7 +17293,7 @@ coappearance 1
 coappeared
 coappearing 1
 contaminable 2
-cruor
+cruor 1
 chardock
 colloids
 casual
@@ -25940,7 +25940,7 @@ civilisational
 coercion 2
 cortin
 collaborativeness 1
-cinerary 2
+cinerary 3
 cortina 1
 cortinarious
 cortinarius
