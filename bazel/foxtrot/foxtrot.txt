@@ -8864,7 +8864,7 @@ frenzily 1
 fot 5
 florideous 3
 foreshorten 3
-fictious 1
+fictious 2
 freeholder 1
 folia 2
 fleuron
@@ -10180,7 +10180,7 @@ formalism 1
 feebly 5
 farce
 foxchop 4
-fetologies 2
+fetologies 3
 furdel 2
 ferryage
 famines 1
@@ -11196,7 +11196,7 @@ fidgetily 2
 freechurchism 2
 fungoids 3
 fixating
-foremanship 1
+foremanship 2
 fippence 5
 futuric 2
 fasciolae 1
