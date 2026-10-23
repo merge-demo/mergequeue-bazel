@@ -2708,7 +2708,7 @@ electrothermal
 ephippial 3
 emulsoidal 2
 exteriorise 3
-essed 6
+essed 7
 ericolin 2
 elderwort 1
 electrophoresing 1
@@ -2890,7 +2890,7 @@ endew 2
 empark 1
 eleutherozoan 1
 ental
-elevable 2
+elevable 3
 embraceor 2
 electrionic 3
 echoizing 2
@@ -4091,7 +4091,7 @@ esthetophore 4
 emboil 2
 equitant 1
 enjambement 3
-erotophobia
+erotophobia 1
 exteriorize
 epiphonemae 1
 empathized 3
@@ -9514,7 +9514,7 @@ escrow 1
 escrowing 4
 esculents
 esculin 3
-expansively
+expansively 1
 essences 2
 evenhead 3
 eugenesis 1

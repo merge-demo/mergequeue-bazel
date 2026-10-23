@@ -7151,7 +7151,7 @@ aktistetae
 aku
 akule
 appalto 2
-assignation
+assignation 1
 al
 archaeus 2
 assistantships 3
@@ -8831,7 +8831,7 @@ allocate 4
 adelina 2
 anglophobes
 autoimmunization 2
-asthmatics 2
+asthmatics 3
 accentors 1
 allocations
 amyosthenia
@@ -10517,7 +10517,7 @@ amidogen
 amidoguaiacol 1
 awabakal 3
 automacy
-apprentice 2
+apprentice 3
 attacks
 aromatites
 abusing 2
