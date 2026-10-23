@@ -8719,7 +8719,7 @@ chapati 1
 candids
 cathexion 1
 chilindre 2
-chapatties
+chapatties 1
 chapattis 1
 codify 1
 connectant 3
@@ -13001,7 +13001,7 @@ curpel 2
 cyanochroia 1
 cyanocobalamin 1
 cyanocobalamine 1
-cyanoderma
+cyanoderma 1
 catchland 1
 cantrap 1
 cyanoethylation 1
@@ -16054,7 +16054,7 @@ cryopathy
 cliches 1
 click 1
 clicked 1
-clicker 1
+clicker 2
 corneitis 1
 clickers
 cosigns
@@ -29746,7 +29746,7 @@ crooch
 conjoining 2
 cactales 1
 croodle
-challenged
+challenged 1
 cheder 1
 colpheg 1
 confessory
