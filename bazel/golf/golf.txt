@@ -8016,7 +8016,7 @@ gastronomics 2
 gata 4
 gunstock 2
 gossiper 3
-grandpapa 1
+grandpapa 2
 grunting 2
 geophysicists 3
 grotesquerie 1
@@ -10265,7 +10265,7 @@ galeproof 1
 gregarious 4
 guinness 4
 greyback 1
-gumbos 2
+gumbos 3
 getid 3
 grotianism 3
 gempylid 4

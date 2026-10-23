@@ -1463,7 +1463,7 @@ aborsive 1
 algid 3
 ann 1
 alpinery 2
-acclimatizer
+acclimatizer 1
 adrenalectomy
 amphipneustic 1
 acquaintancy 1
@@ -4074,7 +4074,7 @@ anisosthenic 1
 aldrin
 admits 1
 admittance 1
-admitted
+admitted 1
 agitpunkt
 ardoise
 ampliation 3
@@ -15849,7 +15849,7 @@ antipyrotic 1
 aglobulism
 antiplanet 1
 antihylist 1
-anatomiless 1
+anatomiless 2
 almochoden 1
 antiplastic
 animalness
@@ -17749,7 +17749,7 @@ autocab 1
 aversation 1
 ameiurus
 adumbration
-antispasis 1
+antispasis 2
 applique 1
 appliques 2
 antinarcotics 1

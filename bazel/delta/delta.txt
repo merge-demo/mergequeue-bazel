@@ -8822,7 +8822,7 @@ devolatilising 1
 dysphotic 1
 dodecagonal
 divination 1
-dib 3
+dib 4
 dyspraxia
 dibbing 1
 deliberates 1
@@ -9293,7 +9293,7 @@ decreation 2
 dismarketed
 dulcimore 1
 displode 2
-dietetics 1
+dietetics 2
 defilading 2
 dog 1
 diethylstilboestrol 1
@@ -10638,7 +10638,7 @@ diplophase
 difficultness 1
 dosology 1
 deviously
-dulias
+dulias 1
 draying 2
 drey
 duncery 2
