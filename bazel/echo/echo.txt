@@ -5237,7 +5237,7 @@ eparchy
 eretrian 1
 equipluve 2
 equilibrate 3
-endomitosis 2
+endomitosis 3
 endomorphy 1
 exta 1
 ekebergite 1
