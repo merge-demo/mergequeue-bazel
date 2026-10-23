@@ -2549,7 +2549,7 @@ bonaci
 beltways
 bloodberry 2
 bardel 1
-barylalia
+barylalia 1
 beleaped 1
 blens 3
 bactrian
@@ -4426,7 +4426,7 @@ batule 1
 bandleader 2
 becloak 2
 bereavement 1
-boojum 1
+boojum 2
 beclog 2
 becoiffed
 bulkiness
