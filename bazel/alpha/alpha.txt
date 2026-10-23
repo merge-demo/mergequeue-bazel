@@ -611,7 +611,7 @@ antelopine 2
 autoeducative 1
 arboriform
 abodes
-aboideau 2
+aboideau 3
 aboil 1
 aahed
 assumedly
@@ -9677,7 +9677,7 @@ amnionia
 anacahuita 1
 algolagnic 2
 acis
-auspicy
+auspicy 1
 antimodernist
 absenting 2
 antespring 1
@@ -17847,7 +17847,7 @@ almique 4
 appreciated 1
 appreciatingly 1
 appreciativ 2
-ate 1
+ate 2
 acleistous 2
 atrede
 aside 1

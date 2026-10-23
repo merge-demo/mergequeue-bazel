@@ -4680,7 +4680,7 @@ demythologization
 diplomatize 1
 demythologizer
 duodecimal 4
-discretionally 1
+discretionally 2
 dees
 delectableness
 denationalizing
@@ -7235,7 +7235,7 @@ decertify 2
 dolorous 2
 damnified 2
 detectible 4
-detection 3
+detection 4
 diamantiferous 2
 deadlight 1
 disparatum
@@ -7803,7 +7803,7 @@ dishelmed 2
 discographies 3
 devolves 2
 dactyloid 2
-decile
+decile 1
 daylighted 1
 diathetic 1
 diplospondylic 5
