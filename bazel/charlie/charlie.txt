@@ -935,7 +935,7 @@ consecration
 cols
 caking 1
 collagist 4
-chazzanut
+chazzanut 1
 cakravartin
 cal
 calaba
@@ -28508,7 +28508,7 @@ crebrisulcate 2
 cooeys 1
 coteau
 canny
-crebrous
+crebrous 1
 creche 3
 creda
 cavillingness 1
