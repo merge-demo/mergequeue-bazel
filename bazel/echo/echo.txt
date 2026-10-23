@@ -3468,7 +3468,7 @@ eductive 2
 ethnol 2
 exceptionableness
 ensepulchering 2
-enamels
+enamels 1
 enthronement 1
 ebionism 2
 ekhimi
@@ -6233,7 +6233,7 @@ enterclose 2
 execs 2
 ellipsoid
 erasure
-exodist
+exodist 1
 enophthalmus 2
 enorm 1
 explorement
