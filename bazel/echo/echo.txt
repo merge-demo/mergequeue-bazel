@@ -13671,7 +13671,7 @@ endorsors 1
 erratum 2
 epistolizable
 exteriorness 1
-espec 1
+espec 2
 emotionlessness 4
 ergotoxin
 eurygnathic 1
