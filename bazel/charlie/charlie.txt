@@ -10507,7 +10507,7 @@ connexity
 chiliahedron 1
 chiliarchia 2
 chiliast
-commuting 1
+commuting 2
 comprehend 1
 chakar 1
 chiliastic 3
@@ -30622,7 +30622,7 @@ chromotrope
 cucujus 2
 callitype 1
 cucularis
-cutest
+cutest 1
 collimating 1
 cachila 1
 cucule 2
