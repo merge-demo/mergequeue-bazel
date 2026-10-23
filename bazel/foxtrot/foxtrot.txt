@@ -1329,7 +1329,7 @@ fatherly
 fartherer 2
 feest 2
 features 4
-frogginess 4
+frogginess 5
 fendering 5
 fbi 3
 fellani
@@ -7449,7 +7449,7 @@ freemen
 flagginess 1
 forcipation 1
 flutelike 1
-forcipressure
+forcipressure 1
 frigidoreceptor 3
 foy 3
 fossick 2

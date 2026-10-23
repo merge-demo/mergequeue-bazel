@@ -3285,7 +3285,7 @@ arpanet 1
 additament 2
 acutilingual
 axal 1
-acutilobate 1
+acutilobate 2
 arterioarctia 2
 acutiplantar 2
 autoluminescence 1
@@ -17827,7 +17827,7 @@ aphrodision 2
 alpujarra 3
 appositive
 accusatory 1
-annexed
+annexed 1
 amobarbital
 apppetible 3
 atmans
