@@ -2357,7 +2357,7 @@ canals 4
 cylindrocellular 1
 cumin
 calinda 4
-ccw
+ccw 1
 canamo 2
 cranesbill 1
 chaetognathous 4
@@ -31549,7 +31549,7 @@ copse 1
 culled
 conjobble 1
 cyriological 2
-cycliae
+cycliae 1
 curt
 curtailed 1
 curtailedly 1
