@@ -14589,7 +14589,7 @@ correlated 1
 classroom
 cystocarcinoma 1
 cystocele 2
-cystocolostomy
+cystocolostomy 1
 cystodynia 1
 cystoelytroplasty 3
 chromene
