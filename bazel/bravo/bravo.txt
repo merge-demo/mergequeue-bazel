@@ -5916,7 +5916,7 @@ beden
 backswordmen
 batswing
 blitzkrieg 4
-butterroot
+butterroot 1
 belast
 berber 1
 belowground 1
