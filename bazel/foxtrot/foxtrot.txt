@@ -3286,7 +3286,7 @@ fracedinous
 farewells 1
 fiddlefaced 2
 fiddlerfish 2
-fraticellian 3
+fraticellian 4
 ferrites 2
 faunology 2
 fluidrams
@@ -9801,7 +9801,7 @@ fodge 2
 floweret
 fuds 2
 followup 2
-fretten 2
+fretten 3
 firedamps 3
 fragmentary 2
 flowoff 1
