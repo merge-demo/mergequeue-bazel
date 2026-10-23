@@ -3145,7 +3145,7 @@ bronchography 1
 bleat
 briskly 4
 brachiating 2
-basenjis 3
+basenjis 4
 biphase 1
 baseplug 2
 basepoint 3
@@ -16073,7 +16073,7 @@ bhotia 2
 brethren 3
 bannered 1
 bronzewing 1
-bio
+bio 1
 bcd
 bullionism 2
 blitzbuggy 1
