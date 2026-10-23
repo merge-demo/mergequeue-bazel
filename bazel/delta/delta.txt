@@ -14558,7 +14558,7 @@ detents 2
 divisions 1
 divisive 1
 divisively 1
-diners
+diners 1
 develope 2
 decomposition 2
 divisor 1
