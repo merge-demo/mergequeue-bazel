@@ -2363,7 +2363,7 @@ gaoloring 3
 garbed 1
 geniting 2
 gastrotomies 4
-galatians 3
+galatians 4
 germanies 3
 geotectonic
 gravitates 6
@@ -5349,7 +5349,7 @@ glegly 3
 galactosemia 2
 gulfier 3
 galvanoplastical 4
-glyconic
+glyconic 1
 grandiloquently 3
 glycopeptide 1
 galivant 3
@@ -6108,7 +6108,7 @@ gnetales 3
 gude 2
 gastrogenous 2
 guffy 1
-geogen 1
+geogen 2
 guessworker 1
 gravities 1
 goodby 3

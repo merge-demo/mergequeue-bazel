@@ -622,7 +622,7 @@ enchant 2
 enneaeteric
 empyreumatic 3
 epipaleolithic 2
-evincement 1
+evincement 2
 eclamptic 1
 efficacious 3
 extuberate 1
@@ -1302,7 +1302,7 @@ escuages 1
 explicatively 3
 ericophyte 1
 efface 2
-equalized
+equalized 1
 effacers
 ellipsis 1
 exhilarated 1
@@ -5622,7 +5622,7 @@ euthanatize
 evibrate 3
 enhedge 2
 enfolders
-epimacus 3
+epimacus 4
 emigratory 1
 enfoldings 3
 elevators 1
