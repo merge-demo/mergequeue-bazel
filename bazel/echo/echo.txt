@@ -1489,7 +1489,7 @@ embolium 1
 embarrased 3
 empathic 3
 etui 2
-epizootically 2
+epizootically 3
 effused 2
 extemporaneously
 elasmobranchii 2
@@ -4269,7 +4269,7 @@ equidiagonal 2
 epityphlon 3
 escutcheons 4
 experiment 1
-endometrium 3
+endometrium 4
 electrodispersive 2
 evertile 2
 exclusivism 1
@@ -6636,7 +6636,7 @@ enterogenous
 edificant 2
 eartagged 2
 excitator 2
-empyreumata 4
+empyreumata 5
 enantiomeric 2
 encraty 4
 elephantlike

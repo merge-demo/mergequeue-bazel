@@ -1741,7 +1741,7 @@ baluch
 bitripinnatifid 2
 broquery 1
 baronnes 3
-becollier 1
+becollier 2
 buses 1
 biome
 biretta 1
@@ -2594,7 +2594,7 @@ brittlely 2
 barytophyllite 3
 blawed 2
 bridgelike
-barkary
+barkary 1
 bluestocking 1
 barkbound 1
 bamoth 2
