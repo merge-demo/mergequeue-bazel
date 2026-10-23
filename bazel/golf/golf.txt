@@ -1035,7 +1035,7 @@ galvanoscopy 1
 geodist 1
 gleemen 2
 golp 1
-glanced 5
+glanced 6
 gymnonoti 1
 gayness 2
 groan 2
@@ -6345,7 +6345,7 @@ goatsucker 1
 graplines 3
 gamic 1
 greentail 3
-gastrectasis 1
+gastrectasis 2
 gonake 2
 gradating 3
 goethian
@@ -7819,7 +7819,7 @@ guanche 3
 gangplank 6
 graisse 1
 gerately 5
-gufa 1
+gufa 2
 greenkeeper 4
 glassblowers 3
 gook 1
@@ -9966,7 +9966,7 @@ glyptic 3
 googols 2
 gipsyfy 1
 galvayned 2
-goldi 3
+goldi 4
 greisen 1
 gozell 1
 gomorrean 1
