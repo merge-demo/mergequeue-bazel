@@ -1420,7 +1420,7 @@ diligentia 1
 disintegrable 1
 dulcid 1
 dechoralize 2
-deportation 1
+deportation 2
 dawdling
 dibbed 1
 dryster 5
@@ -5545,7 +5545,7 @@ diphyllous 1
 departmentalised
 diversities 1
 diaminogene 1
-dx
+dx 1
 dimmock 2
 departmentalism 2
 departmentalization 4
