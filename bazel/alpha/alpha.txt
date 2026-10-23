@@ -4601,7 +4601,7 @@ advising
 antechapel 3
 altercate 1
 arbith
-apersee
+apersee 1
 accoying 2
 astragalonavicular 1
 adlumine 2
@@ -4695,7 +4695,7 @@ areola
 aegicrania 1
 aegilops 2
 abolishing 1
-aegina
+aegina 1
 aeginetan
 aegipan 1
 agonisingly 3
@@ -24438,7 +24438,7 @@ autotelegraph
 autotelism 1
 antipharmic 1
 appendiculariidae 1
-antiutilitarianism 2
+antiutilitarianism 3
 autoanticomplement 1
 acropora
 autotetraploid 1

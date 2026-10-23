@@ -1853,7 +1853,7 @@ camass 2
 camasses
 channelly
 counterproposition 1
-cheerers
+cheerers 1
 cyrillaceae
 chundari 1
 cysticle
@@ -18868,7 +18868,7 @@ choroid 1
 chaines
 colinear
 chelodina 2
-chadars 1
+chadars 2
 colinearity
 churchified 1
 colinus 1
