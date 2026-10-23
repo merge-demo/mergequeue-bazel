@@ -9745,7 +9745,7 @@ gagroot 1
 gablewise 4
 gambes 3
 gorged 1
-glutens
+glutens 1
 glendover 5
 geckoes 2
 gird 1
