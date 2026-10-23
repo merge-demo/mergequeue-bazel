@@ -9869,7 +9869,7 @@ chemoprophyalctic
 cycle 1
 chemoprophylactic
 cruiser 2
-coaxer 1
+coaxer 2
 candent 2
 chemoreception 1
 chemoreceptive 2
