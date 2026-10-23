@@ -7582,7 +7582,7 @@ covariation
 cerebral 1
 cerebralism 1
 coneighboring
-cerebrals
+cerebrals 1
 cardiopericarditis
 cerebrated
 cosmopolite
@@ -18045,7 +18045,7 @@ clairseacher
 coenamors
 chiromancy
 condensational 3
-carats 1
+carats 2
 cellated 1
 coenamourment
 chiffonniers
