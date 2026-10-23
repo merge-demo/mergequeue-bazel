@@ -7612,7 +7612,7 @@ agau
 asylum 3
 arrhythmical
 alchemy 1
-angiomata 2
+angiomata 3
 alchemic
 antiviral 3
 alchemies
@@ -15883,7 +15883,7 @@ asplenium 1
 attributed 3
 antiportable 1
 aclemon 1
-adenoid
+adenoid 1
 acrophony
 abutter
 anglers
