@@ -1344,7 +1344,7 @@ betwixen
 balconies 2
 breeziness 2
 bacule 1
-baldachin 3
+baldachin 4
 bristliest
 bhaiachari
 bibliotherapist 1
@@ -11772,7 +11772,7 @@ bodings 3
 boccaro
 bobsleding 3
 bocce
-bugbears 2
+bugbears 3
 beefheaded 3
 burgled 1
 boilerhouse 2
@@ -15384,7 +15384,7 @@ bekick 1
 burgensic 2
 bloodbath
 brevete 3
-barghests
+barghests 1
 bowsed
 basicytoparaplastin 3
 blackfish 2
@@ -16799,7 +16799,7 @@ beyrichite 2
 bioassayed 1
 berycoidean 1
 budgies
-bellerophontidae 2
+bellerophontidae 3
 budging
 budh 2
 bronc 1
