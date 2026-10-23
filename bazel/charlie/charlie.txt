@@ -15727,7 +15727,7 @@ clavolet 1
 cumulonimbus
 chapel 2
 clawed 1
-clawer
+clawer 1
 cubbishly
 clawers 2
 clawing
@@ -20007,7 +20007,7 @@ commencer 1
 commencing
 commenda 2
 coloslossuses
-crim 1
+crim 2
 cheweler 1
 cinemelodrama 1
 cocorico
