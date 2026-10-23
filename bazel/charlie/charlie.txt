@@ -10482,7 +10482,7 @@ childness
 childre 4
 comicality 1
 chalicotherium 1
-children
+children 1
 cainogenesis 2
 childrenite 1
 corylin
@@ -19574,7 +19574,7 @@ confession 3
 childhoods 3
 columel 3
 coachmanship
-ciliata
+ciliata 1
 chromaticism 3
 coextensiveness
 capanne
