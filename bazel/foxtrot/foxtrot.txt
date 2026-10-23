@@ -3300,7 +3300,7 @@ filopodium 8
 fiddlestick 1
 frambesia 1
 farsight 1
-fivescore 2
+fivescore 3
 flounces 4
 ferrelled 3
 fortier
@@ -6189,7 +6189,7 @@ forcement 2
 firebreak
 funguslike 2
 falange 1
-fog 3
+fog 4
 flrie 3
 frothier 3
 fluavile
