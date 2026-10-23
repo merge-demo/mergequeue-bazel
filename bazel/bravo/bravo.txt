@@ -7062,7 +7062,7 @@ batara 1
 barracks
 bannerette
 briquetting
-bespeak
+bespeak 1
 bodyless 2
 biggings
 bimorphs 1
