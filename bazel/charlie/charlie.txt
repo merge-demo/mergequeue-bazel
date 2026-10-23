@@ -3486,7 +3486,7 @@ capsizes
 capsizing
 capernaitish 2
 capsomere 1
-capsomers
+capsomers 1
 capstan
 capstans 1
 capstone 1
@@ -8615,7 +8615,7 @@ changeful
 changefully 2
 copolymerism
 changeless
-cynosural 1
+cynosural 2
 curtness 2
 complementaries 1
 cohesionless 1

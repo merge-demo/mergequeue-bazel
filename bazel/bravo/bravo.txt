@@ -2773,7 +2773,7 @@ bookit
 been 3
 baroneting
 baronetize 4
-ballistocardiographic
+ballistocardiographic 1
 benzeneazobenzene 1
 bedcase 2
 brachyurous 5
@@ -16955,7 +16955,7 @@ benzalaniline
 borax 3
 burdensomely
 buick
-buildings 2
+buildings 3
 blunder 3
 bloodstained 2
 begirded 5
