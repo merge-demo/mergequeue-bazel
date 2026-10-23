@@ -4865,7 +4865,7 @@ falsifiers 3
 foothook 1
 flues 4
 fasting 4
-frabbit 1
+frabbit 2
 forearm
 froglet 4
 flagellatory
