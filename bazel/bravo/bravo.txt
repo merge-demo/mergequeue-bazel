@@ -3952,7 +3952,7 @@ barbeiro
 beaminess 2
 brocatel 2
 barhal 1
-bastardizations
+bastardizations 1
 borborygm 2
 beachcombers 4
 beachdrops 1
