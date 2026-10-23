@@ -7807,7 +7807,7 @@ bicephalous 1
 bogman 1
 biface 2
 bark 1
-bronzy 1
+bronzy 2
 bursautee 1
 bibbing 1
 befooled 2
@@ -9246,7 +9246,7 @@ bedouinism 2
 bothersomeness 3
 balewort 1
 bracteiform 3
-byplay 2
+byplay 3
 bullfrogs
 brownie 2
 broncholithiasis
