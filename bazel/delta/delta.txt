@@ -378,7 +378,7 @@ daimiate
 daimiel 4
 davallia
 daimyo 4
-dawdlers 1
+dawdlers 2
 dihydrated 1
 dreadness 2
 daimios 1
@@ -6587,7 +6587,7 @@ demythologizes 2
 dampen
 dowfart 1
 dyschroa 2
-discubation 4
+discubation 5
 disfiguring 3
 dearie 2
 ditched 3

@@ -3741,7 +3741,7 @@ bukshi
 battologising 1
 battologize
 bronchiocele 2
-beardom 4
+beardom 5
 bookmaking 2
 britska 3
 bribers
@@ -6927,7 +6927,7 @@ brassed 2
 beshouting 3
 broadleaf 2
 baradari 3
-brahmahood
+brahmahood 1
 beshow 1
 birdeen 2
 batching 2
@@ -17113,7 +17113,7 @@ braconniere 2
 breadseller 2
 bacteric
 bombazeen 2
-bulletproofing 2
+bulletproofing 3
 blowhard 4
 britchka 1
 bifold 1
