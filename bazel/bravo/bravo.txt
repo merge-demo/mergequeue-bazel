@@ -1146,7 +1146,7 @@ bodhisat 1
 bridgeway 4
 ballasting
 balladized 3
-baiza
+baiza 1
 baizas 1
 bespin
 beseech
