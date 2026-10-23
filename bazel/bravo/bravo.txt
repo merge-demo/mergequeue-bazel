@@ -8824,7 +8824,7 @@ bristle
 binomenclature 1
 binomially 2
 blondness 1
-binomials 2
+binomials 3
 betoya 1
 blunthead 1
 bractlets 1
@@ -11891,7 +11891,7 @@ blitzing
 bethumping 3
 brulyies 3
 boerhavia 1
-becrown 4
+becrown 5
 boethian
 boffins
 brackmard 3
