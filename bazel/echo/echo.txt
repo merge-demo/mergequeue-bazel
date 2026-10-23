@@ -7068,7 +7068,7 @@ embolic 3
 entwines 1
 epinikian
 enzymolytic 1
-excitomuscular
+excitomuscular 1
 encompassed 1
 enumerability 3
 entry 3
