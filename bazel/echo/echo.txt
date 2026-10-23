@@ -3527,7 +3527,7 @@ endow 1
 encarpi 1
 embodiers
 embodies 2
-elevens 1
+elevens 2
 essential
 embassage 3
 ekes 2
@@ -11847,7 +11847,7 @@ excalibur 1
 esophagectasia 2
 erythrophore 3
 euconic 3
-excandescent 2
+excandescent 3
 explemental 2
 erythrochroic 4
 endocrinopathy
