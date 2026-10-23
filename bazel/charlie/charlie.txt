@@ -12574,7 +12574,7 @@ celestially 1
 chronogrammatic 1
 chronogrammatically
 cheetah
-cenospecifically 1
+cenospecifically 2
 chronogrammic 2
 chronograph 1
 chronographer
@@ -22882,7 +22882,7 @@ coordinator 1
 conserve 1
 costae 1
 conserver
-cassaba
+cassaba 1
 ceratoid 2
 conservers
 colposcope 2
