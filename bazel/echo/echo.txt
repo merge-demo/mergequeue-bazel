@@ -329,7 +329,7 @@ enameling
 elfship 3
 euboic 3
 eastling 2
-escapee 1
+escapee 2
 eruditionist 1
 escots
 engaze 1
@@ -9431,7 +9431,7 @@ enaliosauria
 epistemonical
 effeminised 2
 eyeshades 2
-eggshell
+eggshell 1
 escheats
 exiture 2
 enamber 1
@@ -11351,7 +11351,7 @@ estrildine
 eth
 eveline 6
 equidifferent 1
-epitrochlear 2
+epitrochlear 3
 equiparate
 evenfall 1
 ennerve 2

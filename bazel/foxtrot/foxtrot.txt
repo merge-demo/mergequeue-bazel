@@ -2617,7 +2617,7 @@ formalistic 3
 fountainless 1
 frivol 5
 filigreed 2
-flutework 1
+flutework 2
 ferio 1
 farandmen 3
 foraminated 1
@@ -5140,7 +5140,7 @@ flashover 4
 frivolous 1
 fawns 2
 fructure 1
-flasker 3
+flasker 4
 furless 5
 foretooth 1
 floccular
