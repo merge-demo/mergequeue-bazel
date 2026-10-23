@@ -3501,7 +3501,7 @@ floorhead 2
 formuliser 2
 forpined 5
 finnic 2
-fluctuated 2
+fluctuated 3
 fended 1
 federary 2
 figurable 2
@@ -9183,7 +9183,7 @@ fusses 3
 fracturing 3
 filicide 3
 frenchiness 3
-foolify 2
+foolify 3
 formicaria 1
 fraena 4
 faroff 1
@@ -10401,7 +10401,7 @@ flyspecked
 firstling 1
 forcaria 4
 fertilizer 3
-filesmith 2
+filesmith 3
 feudalistic 1
 fringeflower 2
 fossified 2
