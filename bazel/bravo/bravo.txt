@@ -11973,7 +11973,7 @@ bipack
 bogong
 biod
 bacchical
-bogtrotting 1
+bogtrotting 2
 batfowler
 bombastry 1
 bimillenary 2
