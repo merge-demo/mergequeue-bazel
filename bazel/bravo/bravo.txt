@@ -1873,7 +1873,7 @@ backy 1
 biostatics
 bougeron 2
 bandit 1
-beshrew 1
+beshrew 2
 bretwaldadom
 balant 1
 brooded 1
@@ -11432,7 +11432,7 @@ boatheader 3
 bairnliest 1
 bluepoint 2
 bluepoints 2
-belzebub
+belzebub 1
 blueprint 2
 blancmange 4
 blazingly 1
