@@ -8618,7 +8618,7 @@ equilateral 1
 eriogonum 1
 equilibrant 3
 extractively 2
-enframe 3
+enframe 4
 electrodynamometer 2
 elinguating 1
 ectal 4
@@ -10794,7 +10794,7 @@ elaborating 1
 emoting 3
 euskera 1
 esterases 1
-eluviation
+eluviation 1
 epitactic 2
 encumber 2
 engrafts 1
