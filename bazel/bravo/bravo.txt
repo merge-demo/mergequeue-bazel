@@ -8593,7 +8593,7 @@ batteau 2
 buhrmill 2
 baldacchino 1
 behind 3
-burgees
+burgees 1
 billionism 1
 bolos 2
 billionth 3
