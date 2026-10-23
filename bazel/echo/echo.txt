@@ -7188,7 +7188,7 @@ eyedness 1
 elytroptosis 3
 eucharistize 2
 ecthymatous 2
-enwomb 3
+enwomb 4
 epharmonic 1
 emforth 1
 eryopsid 5
@@ -8925,7 +8925,7 @@ egestive 2
 essive 1
 epiphanies 1
 errhine 3
-eudaemonist 3
+eudaemonist 4
 erical 3
 exoskeletal 2
 eteoclus 2
@@ -12753,7 +12753,7 @@ equivoque 5
 enterococcal
 epistomian 2
 enfetters 1
-emarginula 4
+emarginula 5
 electroindustrial 3
 endoplasm 1
 eidos
