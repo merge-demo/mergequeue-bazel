@@ -2469,7 +2469,7 @@ deciphering 1
 dunghill
 destrudo 1
 decipium
-diphase 2
+diphase 3
 diplodocus 2
 dipyre 4
 decision 2
@@ -5246,7 +5246,7 @@ denoting 1
 duplification 4
 deeping 2
 denouement 1
-denouements 2
+denouements 3
 denounce 3
 disputativeness
 dynamogenously 2
