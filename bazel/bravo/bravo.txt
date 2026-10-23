@@ -1344,7 +1344,7 @@ betwixen
 balconies 2
 breeziness 2
 bacule 1
-baldachin 2
+baldachin 3
 bristliest
 bhaiachari
 bibliotherapist 1
@@ -3965,7 +3965,7 @@ bratty 3
 boltspreet 1
 banyan 2
 bondon 1
-brittlewood 2
+brittlewood 3
 bawtie
 bantlings 2
 bestsellers 2
