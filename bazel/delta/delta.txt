@@ -8190,7 +8190,7 @@ decalcified 2
 disbind 1
 deywoman 1
 dermalith 1
-diaconal
+diaconal 1
 disenorm
 dauby 2
 diaconica 2
