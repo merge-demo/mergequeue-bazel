@@ -25732,7 +25732,7 @@ corresponsively
 churchlet 2
 corridas 3
 chedlock 1
-corridors
+corridors 1
 corriedale 1
 corrige 2
 corrigenda
