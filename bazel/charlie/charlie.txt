@@ -29535,7 +29535,7 @@ cerealist
 crith 1
 crithidia 1
 crithomancy 1
-critic
+critic 1
 criticality
 criticalness 3
 coendured 1
