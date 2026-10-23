@@ -576,7 +576,7 @@ apioidal 1
 advowry 2
 ashantee 1
 ashlers
-adpromissor
+adpromissor 1
 aerobioscope 1
 antiquarian
 abn
@@ -12036,7 +12036,7 @@ anarthrously
 anarthrousness
 avionics
 anas 1
-athumia 2
+athumia 3
 anasa 3
 aralkylated 1
 arteriosclerosis
