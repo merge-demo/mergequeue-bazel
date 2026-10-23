@@ -6392,7 +6392,7 @@ cautelously 2
 crocodylidae 2
 cyclopaedically 1
 car
-cribbers
+cribbers 1
 cilantro 1
 cautery
 cauteries 1
@@ -22872,7 +22872,7 @@ conservatoires 1
 conservator
 conservatory 1
 conservatorial 1
-climatologist
+climatologist 1
 conservatorium 1
 crystograph 2
 conservators

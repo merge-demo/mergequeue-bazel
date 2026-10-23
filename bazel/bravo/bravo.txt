@@ -2289,7 +2289,7 @@ beearn 4
 barbequed
 barber 3
 bordrag 2
-blype
+blype 1
 businessese
 bizet 2
 beanball 2
@@ -16924,7 +16924,7 @@ buggier
 bushboy
 bombardon 4
 beeve 2
-bussu
+bussu 1
 beudanite 2
 baloch 5
 bugginess 1
