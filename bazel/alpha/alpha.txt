@@ -910,7 +910,7 @@ aliases 1
 appenzell 2
 aircrafts
 alibiing
-albitization 2
+albitization 3
 absolutest
 argyrose
 actinopterygii 2
@@ -6366,7 +6366,7 @@ anticonventionalism
 assertedly
 amoeba 1
 akhund 1
-anamorphote
+anamorphote 1
 anecdotists 2
 ametrometer 1
 agriculturist 4
@@ -13525,7 +13525,7 @@ armada 2
 alberich 2
 azeotropism 2
 amoebida 1
-amputated 1
+amputated 2
 annotative 2
 amaurotic
 accuses 1
