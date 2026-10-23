@@ -11286,7 +11286,7 @@ ectoplasy 1
 extraversive 2
 eutaxy 2
 eikonogen 1
-evaporates 2
+evaporates 3
 edp 1
 eimer 5
 enwiden 2
@@ -13717,7 +13717,7 @@ ecologies 1
 eliciting 1
 elementarity 3
 epicarid 4
-elatine
+elatine 1
 endnote 1
 extratemporal 1
 esteemed 3
