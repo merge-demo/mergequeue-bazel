@@ -6171,7 +6171,7 @@ disputations 5
 derf 1
 dechlorinating 1
 debentures
-daimonic
+daimonic 1
 desoxalate 3
 derfly 3
 deric 1
@@ -14703,7 +14703,7 @@ dioecisms 2
 dorsoposterior 1
 devilling 1
 dismarketing 1
-dendroceratine
+dendroceratine 1
 dimensionality 2
 diphylleia 1
 dotlike
