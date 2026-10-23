@@ -2364,7 +2364,7 @@ decessit 1
 decerebrating 2
 daikon
 disagreeably 3
-dechemicalize
+dechemicalize 1
 doctorfish 5
 dechloridation 1
 dechloridize 1
@@ -5450,7 +5450,7 @@ detachable 1
 deodorised 2
 deodoriser 6
 deodorization 2
-darsonvalism
+darsonvalism 1
 displumes
 deodorize 1
 duplexes
@@ -10316,7 +10316,7 @@ dionize 2
 dioon 1
 dependability 1
 diophysite 2
-dealates 1
+dealates 2
 darwinite 1
 diphthongic 1
 dunkling 2
@@ -14677,7 +14677,7 @@ darioles 1
 djin 3
 disrespondency 1
 describe 1
-dowers 2
+dowers 3
 doxies 1
 dieselize 1
 disagrees 3
@@ -15360,7 +15360,7 @@ domesticality 2
 decreased 1
 doment 1
 devicefully
-dicerous 2
+dicerous 3
 domestically 2
 dofunny
 doddle 1

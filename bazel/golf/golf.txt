@@ -131,7 +131,7 @@ gersum 5
 glacises 1
 granulize 2
 gageable 5
-guerdonable 1
+guerdonable 2
 geryonid 1
 guelf 4
 gadwalls 3
@@ -916,7 +916,7 @@ grittiness 2
 gosport 2
 gemeinschaften 2
 galt 3
-gametophoric 2
+gametophoric 3
 gorbet 5
 gated 1
 gnashes 3
@@ -4260,7 +4260,7 @@ gazella 2
 geumatophobia 1
 gradometer 2
 galravitch 2
-generationism
+generationism 1
 gypsuming 3
 goniopholis 4
 gubbo 1
@@ -7953,7 +7953,7 @@ guesdist 3
 gymnospermy
 glumness 2
 getmjlkost 4
-gametogonium 1
+gametogonium 2
 glimmerite
 gregaloid 2
 gyniolatry 3

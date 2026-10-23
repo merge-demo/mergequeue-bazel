@@ -10647,7 +10647,7 @@ buist 3
 bleakness
 bleaks
 browd 2
-bichlorides
+bichlorides 1
 bewash
 brunissure 2
 belt 1
@@ -14884,7 +14884,7 @@ bastard 2
 breakfronts 2
 butlerage 2
 breaking
-busera 2
+busera 3
 barkeep 1
 breakings 1
 bovicide
