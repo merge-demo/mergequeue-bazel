@@ -5719,7 +5719,7 @@ gimmaled 3
 gpad 2
 ganglioneuron 2
 gestning 5
-gelts 1
+gelts 2
 guardeen 6
 guttule 1
 ghillies 1
@@ -8373,7 +8373,7 @@ grandstander 3
 gemelled 3
 glides 2
 glutael 1
-gladsomeness 4
+gladsomeness 5
 ganoid 2
 granites 4
 genro 1
