@@ -5481,7 +5481,7 @@ catpipe
 colic 1
 conductances
 cellar 1
-casuistries
+casuistries 1
 casus
 cat
 catabaptist 2
