@@ -5674,7 +5674,7 @@ antilens 1
 amphidromia
 amphistomatic
 againward 1
-aggrace 1
+aggrace 2
 ardeid 1
 agal
 agalactic 1
@@ -15186,7 +15186,7 @@ amphimictical 1
 aberrometer
 amil 2
 arctocephalus 2
-aerostat 1
+aerostat 2
 aseptically 3
 antifatigue 1
 antifebrin 1
