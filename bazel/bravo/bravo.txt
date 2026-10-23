@@ -15200,7 +15200,7 @@ brickbat 2
 buttonholed
 blackstrap 2
 borish
-branchiosauria 3
+branchiosauria 4
 brickbatting 2
 brickcroft
 ballistocardiography 2
@@ -17807,7 +17807,7 @@ backstroked 1
 bacterizing
 brave 2
 banghy 1
-begani 1
+begani 2
 bursarial 2
 blypes 1
 bursaries 1
