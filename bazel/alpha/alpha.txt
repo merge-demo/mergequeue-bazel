@@ -1746,7 +1746,7 @@ assoria 1
 accusor 1
 annerre
 accustomation 2
-armouring 1
+armouring 2
 adelaster
 armpit 2
 accustomedly 1
@@ -17529,7 +17529,7 @@ afar
 apteroid 1
 apophthegmatist 1
 amalings 1
-appeasements
+appeasements 1
 arrogantness 1
 aroints 1
 advantages 2
