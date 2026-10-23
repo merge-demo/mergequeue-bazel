@@ -3608,7 +3608,7 @@ calefaction 1
 carabinier 4
 carabiniere
 carabinieri
-cotrespasser
+cotrespasser 1
 choosable
 caraboa 1
 caaba
