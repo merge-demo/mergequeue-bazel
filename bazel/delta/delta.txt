@@ -2115,7 +2115,7 @@ doab 2
 disinheritances 1
 duddies 2
 despoilment 2
-decameron 2
+decameron 3
 digraph
 decamethonium
 decametric 1
@@ -8430,7 +8430,7 @@ dialogers 1
 dexies 1
 deflater 3
 devide
-deconcentrator 3
+deconcentrator 4
 deported
 deliver 2
 dolia 1
@@ -9140,7 +9140,7 @@ didie 3
 didies 1
 didym 2
 devirgination 2
-didymate
+didymate 1
 depressives
 dandering
 didynamian 2
