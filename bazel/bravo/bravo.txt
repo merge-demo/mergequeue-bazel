@@ -15384,7 +15384,7 @@ bekick 1
 burgensic 2
 bloodbath
 brevete 3
-barghests
+barghests 1
 bowsed
 basicytoparaplastin 3
 blackfish 2
