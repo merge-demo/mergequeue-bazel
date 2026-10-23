@@ -28154,7 +28154,7 @@ craniometrist
 craniopathic 2
 craniopharyngeal 2
 code 2
-craniorhachischisis
+craniorhachischisis 1
 countercheck 2
 cranioschisis
 cranioscopy
