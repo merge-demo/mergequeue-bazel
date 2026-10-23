@@ -11865,7 +11865,7 @@ birdsall 1
 bakshished
 biotaxy
 bodonid 2
-bromic 1
+bromic 2
 barming 5
 bodrage 4
 boysenberries 1
@@ -11949,7 +11949,7 @@ boggling 5
 bessarabian 4
 brinded 1
 bogyism
-bogyman 2
+bogyman 3
 broncobusters 2
 bandagers
 birmingham 1
@@ -14158,7 +14158,7 @@ bracked 2
 brackened 3
 bromochloromethane 1
 buckboard 1
-blacken 1
+blacken 2
 beseeched 1
 bilifaction 1
 beadleship 4
@@ -16257,7 +16257,7 @@ boosted 2
 bedighted
 bilithon 1
 brownness 2
-bandboxy 1
+bandboxy 2
 blackit 2
 brownnose 2
 bereavements

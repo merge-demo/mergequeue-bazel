@@ -2679,7 +2679,7 @@ foremelt 1
 feasing 5
 ferulaceous 3
 ferular 4
-foreimpression 2
+foreimpression 3
 fireshaft 1
 feruled 4
 ferulic
@@ -3760,7 +3760,7 @@ floorward 1
 fingallian 2
 familiarising 1
 fibers 4
-flambeing 2
+flambeing 3
 folliculina 8
 fertilizability 3
 funnily 5
@@ -11484,7 +11484,7 @@ facilities 1
 figural 2
 finnmarks 1
 furthest 1
-flittering 3
+flittering 4
 firmity 7
 fiercened 2
 furtively 4
