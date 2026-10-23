@@ -4970,7 +4970,7 @@ comminate 3
 cartography 1
 cypseli 1
 cartographic
-cartographical 1
+cartographical 2
 cartographically
 carton 3
 cartoner 1
