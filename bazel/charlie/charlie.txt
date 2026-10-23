@@ -17293,7 +17293,7 @@ coappearance 1
 coappeared
 coappearing 1
 contaminable 2
-cruor
+cruor 1
 chardock
 colloids
 casual
