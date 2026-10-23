@@ -8782,7 +8782,7 @@ dialoguer
 deuterodome
 diazins 2
 dulcifying 1
-declarators 1
+declarators 2
 defeat 2
 defrocking
 dictaphone
@@ -10522,7 +10522,7 @@ dipyridyl 1
 dichter 2
 duper 2
 daughter 1
-denominationalize 2
+denominationalize 3
 diplantidian
 drynaria 2
 diplarthrism 2
@@ -11093,7 +11093,7 @@ doppelkummel
 demonetisation 2
 dirt 2
 denitrified 1
-deink
+deink 1
 dandyling 2
 decentness 1
 dundreary 1
@@ -14080,7 +14080,7 @@ distributress 1
 dietics
 despin 2
 district
-districting 1
+districting 2
 defoaming 1
 decarnate 2
 doree 3
