@@ -24882,7 +24882,7 @@ coralist
 coralita 2
 coralla
 clavodeltoid
-corallian
+corallian 1
 corallidae
 corallidomous 1
 chestful
@@ -26863,7 +26863,7 @@ countergabion 1
 coccagee 2
 cassoon 2
 countergirded
-contest
+contest 1
 counterguard
 counterguerilla 1
 courtless
@@ -30187,7 +30187,7 @@ cogue
 carbonising
 ceramist
 cerotype 1
-cornuses
+cornuses 1
 christ 1
 chondroglossus
 crucifixions
