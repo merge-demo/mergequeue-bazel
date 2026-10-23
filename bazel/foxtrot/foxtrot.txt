@@ -287,7 +287,7 @@ febrifacient 2
 footpounds 3
 firbolg
 flagarie 2
-fideism 3
+fideism 4
 fissle 1
 foxfire 5
 fledges 1
@@ -6110,7 +6110,7 @@ filical
 folksinging 1
 fundmongering 2
 freebies 2
-firestone 2
+firestone 3
 fitchering 4
 flotson 2
 frightenedly 3
@@ -11667,7 +11667,7 @@ functionalized 2
 fluavil 1
 fructiform 5
 fresne 1
-frwy 1
+frwy 2
 fluorochrome 1
 faade 2
 flames 3
