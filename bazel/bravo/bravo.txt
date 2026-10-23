@@ -1002,7 +1002,7 @@ butadiene 2
 baiginet 3
 biparental
 brichen 1
-bronchiocrisis
+bronchiocrisis 1
 barbarizes 1
 bitangent 1
 blain 2
@@ -3655,7 +3655,7 @@ bifrontal
 bailiffwick 4
 booboo 1
 balloonfishes 1
-bergut 1
+bergut 2
 batsman 1
 barrelsful 1
 besetting 4
@@ -14834,7 +14834,7 @@ breadearning 1
 basigamy 2
 basipetally 5
 breaded 1
-breaden 1
+breaden 2
 breadfruit
 breadfruits 1
 bristler 2
