@@ -1070,7 +1070,7 @@ edgrow 1
 encephaloscope 4
 enormous 2
 ead 6
-ensanguining
+ensanguining 1
 edhs
 esculic 4
 envergure 4
@@ -6521,7 +6521,7 @@ englerophoenix 5
 estimative 1
 execration 1
 ephemeric 2
-englishes 1
+englishes 2
 ephemeris 1
 egomaniacal
 enrollment
