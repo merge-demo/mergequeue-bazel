@@ -3486,7 +3486,7 @@ capsizes
 capsizing
 capernaitish 2
 capsomere 1
-capsomers
+capsomers 1
 capstan
 capstans 1
 capstone 1
