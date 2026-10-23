@@ -8336,7 +8336,7 @@ fontlet 1
 ferrotyping 3
 firmament 3
 fatherlike 2
-flapperish
+flapperish 1
 fittiest 3
 fair 2
 foundling 1
