@@ -8593,7 +8593,7 @@ batteau 2
 buhrmill 2
 baldacchino 1
 behind 3
-burgees
+burgees 1
 billionism 1
 bolos 2
 billionth 3
@@ -9997,7 +9997,7 @@ bossism 1
 bivocalized 2
 bombings 3
 buffos
-bivoluminous 1
+bivoluminous 2
 bivouaced 1
 bivouacked 3
 balaphon
@@ -11713,7 +11713,7 @@ benchmarked 2
 buddah 3
 brazenfaced
 bahnung 2
-bumkins
+bumkins 1
 befop 1
 bolsterwork 1
 bosselated 1
