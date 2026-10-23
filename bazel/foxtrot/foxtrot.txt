@@ -3300,7 +3300,7 @@ filopodium 8
 fiddlestick 1
 frambesia 1
 farsight 1
-fivescore 2
+fivescore 3
 flounces 4
 ferrelled 3
 fortier
