@@ -7680,7 +7680,7 @@ epithalamus 1
 encefalon 1
 enringed
 engagingly 2
-ectocrine 3
+ectocrine 4
 espece 1
 epicuticle 2
 extroversion
@@ -8602,7 +8602,7 @@ embranglement 1
 equidistribution 1
 esu
 exect
-eutaxic 1
+eutaxic 2
 equidiurnal 2
 eelpouts 2
 executor 5
@@ -10682,7 +10682,7 @@ epikouros 1
 elatedness 2
 erioglaucine
 elaterins 2
-effetmen 1
+effetmen 2
 enterpriser 2
 expectoration 2
 enveloper
