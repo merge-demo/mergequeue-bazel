@@ -1192,7 +1192,7 @@ antemortem
 admissibly
 attendance
 avellaneous 1
-afforest 1
+afforest 2
 autogravure 1
 antimedically 1
 acanthodes 3
@@ -1531,7 +1531,7 @@ asturian 1
 autopathic 3
 accomplisher 1
 angelican 2
-arthrodesis
+arthrodesis 1
 aegithalos
 archetto
 accomplishes 1
@@ -7880,7 +7880,7 @@ alveola 2
 alecup
 alefs 1
 ambary 1
-astringes 1
+astringes 2
 abby
 astatizing 5
 applicators 1
@@ -11939,7 +11939,7 @@ alcaligenes 1
 anaphases 1
 anaphe 1
 apperception 3
-apexing 2
+apexing 3
 ancille
 always
 archduchies 1
