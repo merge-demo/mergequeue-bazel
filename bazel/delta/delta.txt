@@ -6099,7 +6099,7 @@ dendrometer 1
 deracinating
 domiciliar 2
 deracination 3
-divinising 2
+divinising 3
 decurring 1
 dictyostele
 diatheses 2
@@ -10038,7 +10038,7 @@ decemfoliolate 1
 dynactinometer 2
 deratize 1
 dazedly 2
-dissipater
+dissipater 1
 depair
 daughterling
 dubieties

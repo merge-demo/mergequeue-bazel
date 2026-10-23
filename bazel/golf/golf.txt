@@ -1309,7 +1309,7 @@ gibbousness 1
 goodie 4
 gamekeeping 2
 ginglymoid 3
-gateward 2
+gateward 3
 gibbered 2
 groomers 1
 gas
@@ -7653,7 +7653,7 @@ gaffes 1
 gaucy 2
 girdler 1
 gopherwood 3
-gunsmithery 6
+gunsmithery 7
 graded 1
 gorgonlike
 gool 2
