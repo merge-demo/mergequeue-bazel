@@ -460,7 +460,7 @@ gonopoietic 2
 gerberas 3
 gastroanastomosis 1
 grubbier
-greenside 1
+greenside 2
 granadine 1
 glop 1
 gearset 2
@@ -2388,7 +2388,7 @@ grampa 3
 granddaughterly 3
 gongoristic 4
 gentianal 5
-gilver 1
+gilver 2
 geminates 1
 gote 2
 gaulish 3
