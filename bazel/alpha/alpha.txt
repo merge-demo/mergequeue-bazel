@@ -436,7 +436,7 @@ arendalite 1
 abilao 2
 abilitable 1
 ability
-abilla
+abilla 1
 anicular 1
 abilo 1
 acinetinan 1
@@ -14056,7 +14056,7 @@ agitpropist 1
 altazimuth
 autopilots
 anchorate
-autocatalytic
+autocatalytic 1
 antechoirs 1
 axostyle
 antecolic
