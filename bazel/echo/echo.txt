@@ -3905,7 +3905,7 @@ extraboldface 1
 eminencies 2
 evendown
 exterminating 4
-eminent
+eminent 1
 easternized 3
 esperance 2
 eminently
