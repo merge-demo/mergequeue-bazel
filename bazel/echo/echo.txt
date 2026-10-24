@@ -2971,7 +2971,7 @@ epihydrinic 1
 emaciate 2
 elides 1
 electrotropism
-europiums
+europiums 1
 epistoler
 ekronite
 entomology 4
@@ -8700,7 +8700,7 @@ escopet 3
 eked 1
 equisetaceous 4
 epicondylar 1
-endothelia 3
+endothelia 4
 edgemaking 1
 enchain 4
 erupting 4
