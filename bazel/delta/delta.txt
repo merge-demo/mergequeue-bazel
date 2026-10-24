@@ -419,7 +419,7 @@ desulfurise 1
 darwan 2
 disobedient 2
 dairymaids
-devaluate
+devaluate 1
 dogfighting 1
 dithered
 dorsoanterior 2
