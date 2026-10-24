@@ -3113,7 +3113,7 @@ becher
 birdlime 1
 baseburner 1
 basecourt 2
-betokener 1
+betokener 2
 boosting 3
 boneset 1
 baselevel 1
