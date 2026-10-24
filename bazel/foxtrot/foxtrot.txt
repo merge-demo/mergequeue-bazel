@@ -7411,7 +7411,7 @@ flake 3
 finks 3
 flinging 2
 furan 2
-forereport 2
+forereport 3
 forceless 3
 fasciolar 3
 flagellariaceae 4
@@ -8840,7 +8840,7 @@ fossilogy
 fload 2
 fashionability 4
 felichthys 3
-firmest 1
+firmest 2
 fettstein 3
 fieldwork 1
 flecks 4
@@ -11324,7 +11324,7 @@ fps 5
 furfurine 4
 funebrious 1
 faujasite
-formals 1
+formals 2
 fuseplug 3
 frailejon 4
 foalhood 2
