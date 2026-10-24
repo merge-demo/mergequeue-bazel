@@ -612,7 +612,7 @@ flavorless 1
 fragaria 2
 floodways 1
 fleshes 1
-forehand 3
+forehand 4
 folly 5
 farrantly 2
 forebemoan 2
@@ -3490,7 +3490,7 @@ formboard 3
 figo 2
 favillae 1
 fumaroid 1
-fibbed 1
+fibbed 2
 figshell 1
 foe 2
 flankard 2
