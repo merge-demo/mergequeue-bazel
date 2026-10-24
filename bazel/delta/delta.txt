@@ -5386,7 +5386,7 @@ defrayal 2
 demagogically 1
 duotype 3
 dentirostral 5
-drumbeating 1
+drumbeating 2
 deceptory
 dribbler
 downless 1
@@ -13789,7 +13789,7 @@ determinations 1
 docoglossa 1
 defections
 disturbedly
-disenchants
+disenchants 1
 dion 2
 dissuasion 1
 depravedly 3
@@ -16443,7 +16443,7 @@ datum
 difflugia 2
 downtimes 1
 dunnesses
-dacoities
+dacoities 1
 drabbling
 doubler 2
 drabler 2
@@ -18348,7 +18348,7 @@ duodenate 1
 duodenation 1
 depurge 3
 degelation
-dyestuff 1
+dyestuff 2
 diallelon 3
 duodene 3
 duodenitis 2
