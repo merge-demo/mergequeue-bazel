@@ -12902,7 +12902,7 @@ dermaptera 2
 disnew 2
 drachmae 2
 drawspan 1
-delving
+delving 1
 deorientalize 2
 disobeying 2
 delineative
