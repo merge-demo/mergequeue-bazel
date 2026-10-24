@@ -6004,7 +6004,7 @@ diagraphics 1
 diamagnetize 1
 diagrammitically 2
 depthlessness 5
-diobols
+diobols 1
 demonetization 5
 dacite 2
 delimiting 2
