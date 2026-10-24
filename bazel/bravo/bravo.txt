@@ -3783,7 +3783,7 @@ beldamship 2
 bestubble 2
 benchland 1
 blundering 1
-boatsmanship
+boatsmanship 1
 bitterbush 3
 brujas 2
 binitarian
@@ -7754,7 +7754,7 @@ babuism 2
 bursarship
 balcon
 babylonian 1
-byronist
+byronist 1
 bravure 2
 barytas 5
 buckeyed 1
@@ -9156,7 +9156,7 @@ biotypic 1
 boubou 2
 biotypology 1
 balneotherapeutics 3
-biotites 2
+biotites 3
 bolometric 2
 basil 2
 blowback 1
@@ -14272,7 +14272,7 @@ bouillon 1
 bigotry
 begrudger 2
 blending 1
-brag 3
+brag 4
 bannut 3
 bodices 2
 benzazole 2
