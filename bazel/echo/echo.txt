@@ -1362,7 +1362,7 @@ endoskeletal 1
 essentialness 4
 exomis 2
 evasional 2
-ebcdic 2
+ebcdic 3
 excludability 3
 earlocks 1
 ethylated 1
