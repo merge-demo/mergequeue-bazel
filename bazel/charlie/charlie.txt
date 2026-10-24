@@ -1150,7 +1150,7 @@ caryopsides 1
 calcivorous
 chapmanship
 countermark 2
-calcography 2
+calcography 3
 culturology
 calcsinter 2
 chinnam 2
@@ -10258,7 +10258,7 @@ chicaners 2
 convallarin 1
 chicanes 1
 chicano 2
-coimmense 1
+coimmense 2
 crocodilidae 1
 chicaric 1
 cathexis
@@ -11924,7 +11924,7 @@ calculabilities 1
 crestfallenness
 cerites 2
 cohanim
-cruces 1
+cruces 2
 cosmochemistry 1
 choreoid
 crocidolite 2
