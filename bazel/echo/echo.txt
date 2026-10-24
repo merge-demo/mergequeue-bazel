@@ -4269,7 +4269,7 @@ equidiagonal 2
 epityphlon 3
 escutcheons 4
 experiment 1
-endometrium 4
+endometrium 5
 electrodispersive 2
 evertile 2
 exclusivism 1
