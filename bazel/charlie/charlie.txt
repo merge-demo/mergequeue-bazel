@@ -24577,7 +24577,7 @@ chook
 copycat
 copycats 1
 citywide
-copycatting
+copycatting 1
 creedite 1
 cyclopaedias
 calembour 1
