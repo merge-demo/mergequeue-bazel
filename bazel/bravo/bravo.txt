@@ -11957,7 +11957,7 @@ bbls
 brothelry
 bostons 1
 bogymen 1
-bogland 1
+bogland 2
 budgerigah 2
 bytalk 2
 bogled 2
