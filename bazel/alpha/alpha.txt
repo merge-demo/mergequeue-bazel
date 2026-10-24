@@ -1825,7 +1825,7 @@ assignable
 aethered 1
 aceraceous 1
 acerae 3
-arcual 2
+arcual 3
 angling
 acerate
 acerated 1
@@ -15499,7 +15499,7 @@ antimission 4
 although 1
 animetta 1
 antimissionary 2
-androconia 2
+androconia 3
 antipyretic 1
 avijja 1
 attntrp 1
@@ -24636,7 +24636,7 @@ alcyonacea 1
 aveloz 3
 autoheterodyne 2
 aralkyl 2
-ambassador
+ambassador 1
 antischolastically
 avena 4
 agouti 1

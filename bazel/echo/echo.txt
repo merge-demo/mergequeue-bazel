@@ -4906,7 +4906,7 @@ empoisons 4
 exoperidium
 ecchymoses
 enculturation
-ergatandromorph 4
+ergatandromorph 5
 epispastic 2
 extrapolates 1
 essenis 2
@@ -7962,7 +7962,7 @@ evangels
 epitomate 1
 encephalonarcosis 5
 equisetic 2
-explainingly 1
+explainingly 2
 evaniidae 5
 epimerized 2
 ephebus 2
