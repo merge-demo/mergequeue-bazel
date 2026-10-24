@@ -5337,7 +5337,7 @@ eurybathic 2
 endoscope 5
 endoscopes 2
 equivocalities 1
-eradicators 1
+eradicators 2
 egeran 2
 emmeniopathy 3
 endoscopies 1
@@ -6100,7 +6100,7 @@ enlightenedly 2
 enlistments 4
 erasion 3
 elastomeric
-encomienda 5
+encomienda 6
 electionary 1
 eugenic 2
 eulachon 2
@@ -10424,7 +10424,7 @@ epileptical 1
 educators 1
 emoters 2
 extusion 1
-earlduck 3
+earlduck 4
 echinate 1
 ethrogim 1
 ehatisaht
@@ -12359,7 +12359,7 @@ endorsers 1
 excrescencies 3
 exflect 2
 endower
-enteromyiasis 4
+enteromyiasis 5
 epicleidium
 emerod
 expoliate 1
