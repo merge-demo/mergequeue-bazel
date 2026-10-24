@@ -2508,7 +2508,7 @@ dilaters
 declamatory 2
 dateable 1
 decibar
-dendrochronology
+dendrochronology 1
 drysaltery
 displeasingly 1
 discussionism 3
@@ -5552,7 +5552,7 @@ departmentalization 4
 departmentalized
 deuteronomy 1
 debilitate 1
-dorper 2
+dorper 3
 departmentally
 discomfits 2
 depancreatize 1
@@ -5638,7 +5638,7 @@ dogtrick
 dephycercal 2
 demounting 2
 demythologised 1
-decadents 1
+decadents 2
 dephlegmation
 dastards 1
 dephlegmedness
@@ -7349,7 +7349,7 @@ disprejudice 1
 deterrent 3
 dodunk 2
 detersiveness 2
-disunions 2
+disunions 3
 detestation 3
 decomponent 1
 detestations 3
@@ -9331,7 +9331,7 @@ disorders 2
 dif 1
 dodos 3
 divekeeper 1
-dactylography 4
+dactylography 5
 diffame 3
 dietted 4
 detracts
@@ -15199,7 +15199,7 @@ dolefuls
 dotate 2
 drunkly 2
 disimitate 1
-dolerophanite
+dolerophanite 1
 disproperty 2
 durr 1
 decants 1
@@ -15490,7 +15490,7 @@ drag 2
 daymen 3
 diapery
 disbands 1
-denunciant
+denunciant 1
 donator 3
 detergence
 discodactyl
