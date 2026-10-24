@@ -193,7 +193,7 @@ decontamination 2
 daemony 1
 deforesting 3
 debitumenize
-dealfish
+dealfish 1
 daemons
 daemonurgist
 defecant
@@ -4525,7 +4525,7 @@ downdraught
 detroiter
 demigauntlet 2
 doting 2
-disclosing 1
+disclosing 2
 decussis 2
 dendrite 1
 decern 3
@@ -5228,7 +5228,7 @@ denunciations 1
 deputy 1
 denominations 3
 desired 1
-dicty 1
+dicty 2
 dine 1
 depolarisation 1
 dusun 2
