@@ -759,7 +759,7 @@ asperation
 attuning 2
 apogalacteum 1
 abrasively 1
-abrazite
+abrazite 1
 antirevolutionaries
 antipolitically
 aviarists
@@ -12180,7 +12180,7 @@ acetification
 alieners 1
 anattos 1
 anatum
-analysable
+analysable 1
 anerethisia 3
 amphibali
 aegyptilla 1
@@ -12722,7 +12722,7 @@ agnamed 2
 anelectric 2
 allograft 2
 angeluses 1
-anger 4
+anger 5
 adiaphoresis 2
 acrasieae 1
 adversifolious 2
