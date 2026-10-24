@@ -7374,7 +7374,7 @@ findy
 forbidals 2
 fasted 3
 featous 2
-foobar 4
+foobar 5
 forbiddenly 3
 fuage
 florideae 3
@@ -8548,7 +8548,7 @@ figs
 fumaroles 1
 fortification 4
 flatweed 3
-formulated 2
+formulated 3
 forgainst 3
 formulisation 1
 friaries 3
