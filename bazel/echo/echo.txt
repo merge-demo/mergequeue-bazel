@@ -1449,7 +1449,7 @@ ejectivity
 etypical 3
 entoparasite 2
 extensile 2
-existential 3
+existential 4
 engineeringly 1
 euphuisms 1
 enarbour 2
@@ -11853,7 +11853,7 @@ erythrochroic 4
 endocrinopathy
 eulogized 3
 expenders 3
-excarnificate 2
+excarnificate 3
 entoproctous 2
 ecdysone 1
 excaudate 2
