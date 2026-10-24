@@ -8246,7 +8246,7 @@ diaglyphic
 desmopelmous 1
 dell 2
 davainea
-ductus
+ductus 1
 distrito 6
 diagnosed 1
 diagnostical 2
@@ -18422,7 +18422,7 @@ destroyer
 diphthongise 2
 duping 1
 diabolic 1
-dipsticks 2
+dipsticks 3
 dupion 1
 disendowing 2
 duplation
