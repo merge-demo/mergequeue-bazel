@@ -1890,7 +1890,7 @@ daktylos
 deicate 2
 deboss 3
 detractive 2
-debouche 1
+debouche 2
 disbench 1
 disconcertingness 2
 digladiator 3
@@ -16892,7 +16892,7 @@ dossman
 dreamhole
 dreamy 1
 dipladenia 2
-discriminations 2
+discriminations 3
 decilitre 3
 doubletone 1
 distortable
