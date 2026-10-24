@@ -10839,7 +10839,7 @@ fulfullment 2
 functionless
 fontanels 3
 flamefish 2
-furoin
+furoin 1
 fishpool 2
 forficate 1
 flaminian 4
