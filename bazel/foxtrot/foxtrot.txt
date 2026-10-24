@@ -1169,7 +1169,7 @@ fallals 3
 fungistatically 1
 fascine 3
 ferreous 4
-fishmeals 1
+fishmeals 2
 furring 2
 fascintatingly 1
 flavopurpurin 2
@@ -11578,7 +11578,7 @@ furzechat 2
 fundatrix 1
 fanleaf 1
 fluence 3
-fruitlike 2
+fruitlike 3
 foretalking 1
 fthm
 fusionist 2

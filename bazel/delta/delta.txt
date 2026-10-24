@@ -5318,7 +5318,7 @@ dentallia
 dentaphone 3
 demivolte 2
 decorators 2
-dreamers 1
+dreamers 2
 discomposing 1
 dentate 4
 disrange
@@ -10521,7 +10521,7 @@ dipyrenous 1
 dipyridyl 1
 dichter 2
 duper 2
-daughter 1
+daughter 2
 denominationalize 3
 diplantidian
 drynaria 2
@@ -13461,7 +13461,7 @@ disillusionment 1
 disguiseless 1
 despotism 3
 disrobement 1
-dowdiest 3
+dowdiest 4
 disrober 3
 douzaine 2
 danseur
@@ -16661,7 +16661,7 @@ drogoman 1
 degums
 dahabeah 3
 dattock 2
-drainpipes
+drainpipes 1
 dottedness 1
 depressor 1
 destigmatize 2
