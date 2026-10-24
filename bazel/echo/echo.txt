@@ -5127,7 +5127,7 @@ exited 1
 endoclinal 2
 eternals 3
 endocoelar
-eupanorthidae 4
+eupanorthidae 5
 ectozoan 2
 epitomical 1
 emuls 1
