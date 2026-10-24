@@ -3501,7 +3501,7 @@ birdcall 2
 batched 2
 batcher 1
 bargemen 1
-bogging 2
+bogging 3
 bitterhearted
 bateau 5
 bateleur 1
