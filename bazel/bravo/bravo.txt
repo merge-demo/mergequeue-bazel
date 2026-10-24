@@ -4661,7 +4661,7 @@ buildable 2
 barlows
 bedford 2
 brothier 2
-bedframes
+bedframes 1
 bouncers 2
 broomed 1
 bowdlerizes 4
