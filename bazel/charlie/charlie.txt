@@ -2577,7 +2577,7 @@ complementative
 candlewright
 candling
 cynically
-campaniles
+campaniles 1
 candollea 1
 candolleaceae 1
 candolleaceous 2
@@ -24686,7 +24686,7 @@ camacey 1
 coppersidesman 1
 cambrics 1
 corimelaena 1
-copperskin 2
+copperskin 3
 ciderist 1
 coppersmith 1
 coppersmithing 1
