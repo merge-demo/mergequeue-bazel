@@ -9547,7 +9547,7 @@ cumulant
 conoy
 checkrowed 1
 checkrower
-checkrowing 1
+checkrowing 2
 consummatively 1
 checkrows 1
 computational 1
@@ -27896,7 +27896,7 @@ crachoir 1
 cupeled 1
 cracinae 1
 changuinan 1
-crepes
+crepes 1
 compurgation 1
 concreting
 crackajack
@@ -31675,7 +31675,7 @@ cyclarthrodial
 casked 1
 coth 1
 cushiness 1
-cushing 2
+cushing 3
 cushion 1
 cushioned 1
 cushionet
