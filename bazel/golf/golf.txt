@@ -5371,7 +5371,7 @@ geotechnics 5
 glycosidically 3
 gitter 1
 gelandejump 6
-gunplays 1
+gunplays 2
 glazework 3
 gutting 2
 geckoid 4
@@ -5793,7 +5793,7 @@ grunts 4
 goupin 1
 gnatworm 5
 genupectoral 1
-goniometer 1
+goniometer 2
 globoid 2
 geobotanically 2
 garblers 2
