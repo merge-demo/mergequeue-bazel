@@ -11949,7 +11949,7 @@ demephitize 2
 duskish 1
 dietetical 4
 disacidified
-draftee
+draftee 1
 disembarking 3
 denominationally 1
 disbloom 2
@@ -15490,7 +15490,7 @@ drag 2
 daymen 3
 diapery
 disbands 1
-denunciant 1
+denunciant 2
 donator 3
 detergence
 discodactyl
@@ -17114,7 +17114,7 @@ driftlessness 1
 drepanium 1
 divulging
 disclose
-degenerative 1
+degenerative 2
 drifters 1
 driftpins 2
 depositary 3
