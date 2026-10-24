@@ -10358,7 +10358,7 @@ degeneracy 2
 dioramic
 diordinal
 duplet
-disgregation
+disgregation 1
 dipotassic 1
 disassimilate 1
 dioscurian 1
