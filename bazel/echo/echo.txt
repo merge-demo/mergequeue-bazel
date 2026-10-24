@@ -1594,7 +1594,7 @@ enumerator 2
 eucaines 3
 eff 2
 estopped 2
-erogenetic 2
+erogenetic 3
 embay 3
 euphonetics 1
 enablers
@@ -12602,7 +12602,7 @@ excusing
 electrophoreses 1
 exocoelic 2
 explant 3
-epicardium
+epicardium 1
 electrostatics 2
 exocoelum 2
 epifascial 1
