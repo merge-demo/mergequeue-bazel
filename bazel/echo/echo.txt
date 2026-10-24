@@ -4533,7 +4533,7 @@ encephalomyelitis 2
 entalent
 eery
 enrange 2
-entrepreneurial 3
+entrepreneurial 4
 ectotheca 4
 erucin 2
 encephalomyocarditis 2
@@ -8164,7 +8164,7 @@ eczemas
 emarcid 2
 emprosthotonus 2
 extrapolated
-endobatholithic 2
+endobatholithic 3
 ephippium
 entrepas 3
 engyscope 1
@@ -12523,7 +12523,7 @@ existimation 2
 embarcation 4
 eunicid 1
 epicalyx
-ezan 1
+ezan 2
 etymologized 4
 euphemy 2
 emissaria 2
