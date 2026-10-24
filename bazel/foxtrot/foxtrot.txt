@@ -7664,7 +7664,7 @@ foretopsail 4
 fittywise 4
 fiefdom 1
 forsteal 3
-forecasting 1
+forecasting 2
 freeze 1
 foxskin 3
 fano 4
