@@ -13493,7 +13493,7 @@ cylindrelloid 2
 cryptographic
 cylindrenchyma
 cylindric 1
-cylindrically
+cylindrically 1
 cylindricity 1
 cylindricule 2
 cylindriform 2
