@@ -5926,7 +5926,7 @@ aggrades
 accademia 2
 auge
 arminianism 1
-aeciostage
+aeciostage 1
 aggrammatism 1
 approachability 2
 aggrandised 1
@@ -10646,7 +10646,7 @@ amusias 1
 amyloleucite 1
 afterwrath 1
 archiepiscopality
-amylolysis 2
+amylolysis 3
 antitragic
 accusator 1
 amylom 3
@@ -12851,7 +12851,7 @@ antefuture 1
 angiotonic 1
 almoravide 2
 abjunction
-apinch 1
+apinch 2
 angiotripsy
 angiotrophic 1
 antiepicenter 2

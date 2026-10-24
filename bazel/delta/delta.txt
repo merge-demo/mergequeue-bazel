@@ -3937,7 +3937,7 @@ drisheen
 douser 1
 duopoly 5
 disleal 2
-diaphemetric 3
+diaphemetric 4
 deyship 1
 demagnification 1
 deliberation 2
@@ -12332,7 +12332,7 @@ disgulf
 dionaeaceae 3
 decametre 1
 daff 4
-dracontites 2
+dracontites 3
 disemployed 1
 dinos 3
 dragonne 3
@@ -13598,7 +13598,7 @@ dieffenbachia 3
 dissertate 1
 discerping 2
 dreariest
-dendritic 1
+dendritic 2
 doodia 1
 dissertational 1
 dentinal 1
