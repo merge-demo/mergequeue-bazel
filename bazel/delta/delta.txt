@@ -13461,7 +13461,7 @@ disillusionment 1
 disguiseless 1
 despotism 3
 disrobement 1
-dowdiest 3
+dowdiest 4
 disrober 3
 douzaine 2
 danseur
@@ -16661,7 +16661,7 @@ drogoman 1
 degums
 dahabeah 3
 dattock 2
-drainpipes
+drainpipes 1
 dottedness 1
 depressor 1
 destigmatize 2
