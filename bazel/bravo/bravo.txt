@@ -15675,7 +15675,7 @@ beholder 1
 braggiest 1
 bepuzzlement 1
 babool 1
-badgemen
+badgemen 1
 broadling
 bulbilis 1
 blowzy 1
@@ -17443,7 +17443,7 @@ bronchiolus 1
 beard 1
 burler 1
 balsawood
-birdnester
+birdnester 1
 bewearying 2
 brocage 2
 bunkie 1
