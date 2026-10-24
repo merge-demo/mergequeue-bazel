@@ -555,7 +555,7 @@ backwind 3
 backwinded 3
 balladmongering 1
 burdens 3
-bucco
+bucco 1
 backcasts 2
 backwoods 2
 balladling 1
@@ -10965,7 +10965,7 @@ branchiostegous 4
 bucketshop 1
 birdcatcher 1
 blissful 3
-bughead 2
+bughead 3
 bookcase 3
 blissom 1
 balden
@@ -14498,7 +14498,7 @@ brissotin 2
 bonetail
 bran 4
 bolivarite 2
-brancard
+brancard 1
 briarroot 2
 bahan 3
 branchiomeric 2
