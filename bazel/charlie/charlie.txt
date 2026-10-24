@@ -14614,7 +14614,7 @@ cystolithiasis
 cystoma
 cystomas 2
 corpusculum 1
-cystometer
+cystometer 1
 cystomyoma 2
 coadore 2
 cystomyxoma 5
@@ -29511,7 +29511,7 @@ coevality
 crystallurgy
 ceruminiferous 3
 companion 3
-coroniform 4
+coroniform 5
 crushed
 chithe 1
 cryste
