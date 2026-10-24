@@ -6557,7 +6557,7 @@ descriptionless 1
 dangleberry 1
 distensile 2
 dysnomy 1
-designator 2
+designator 3
 diota 2
 daedal
 deity 2
@@ -18660,7 +18660,7 @@ deflagrability 1
 daishikis 1
 dvigu 1
 dwayberry 2
-descendance 2
+descendance 3
 diligently 1
 dioptral
 danaide 1
