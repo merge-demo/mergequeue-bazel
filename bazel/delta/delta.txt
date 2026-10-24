@@ -15490,7 +15490,7 @@ drag 2
 daymen 3
 diapery
 disbands 1
-denunciant 1
+denunciant 2
 donator 3
 detergence
 discodactyl
