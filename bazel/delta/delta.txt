@@ -4108,7 +4108,7 @@ deviational 2
 displumed 1
 departments 2
 diplomyelia 1
-deline 3
+deline 4
 dishonourably 1
 dissoluteness
 drivelled 1
@@ -7191,7 +7191,7 @@ dermatologies
 dossed 2
 denuclearizing 4
 djibbah 1
-detachedness 1
+detachedness 2
 dashingly 2
 doryanthes 1
 disguised
@@ -11550,7 +11550,7 @@ discommoned 3
 dextrinase 4
 detective
 dcolletage 2
-denationalised 2
+denationalised 3
 downland 5
 desorbs
 discompanied 2
@@ -17037,7 +17037,7 @@ diabolicalness
 doberman
 dressline 1
 dumas
-divinityship 1
+divinityship 2
 discumber 3
 denning 3
 draftily 3

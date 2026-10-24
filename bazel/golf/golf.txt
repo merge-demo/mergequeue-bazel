@@ -559,7 +559,7 @@ galleryite 3
 gravidness 1
 garde 5
 goolah 5
-gazometer
+gazometer 1
 galempong 2
 getfd 2
 growls 1
@@ -709,7 +709,7 @@ guebucu 5
 gimbawawed 2
 galvanically 3
 glossatorial 3
-grapholite 2
+grapholite 3
 grossify
 gooranut 5
 galvanised 1
@@ -5548,7 +5548,7 @@ gad 6
 grumbles 4
 gamecocks
 guardlike 3
-globigerinae 2
+globigerinae 3
 guarnerius 2
 gourd 7
 glutition 2
@@ -8967,7 +8967,7 @@ germless 1
 gastrodidymus
 gridelin 1
 griding 6
-gasped 3
+gasped 4
 galvo 3
 greyhens 4
 greenbul 2
@@ -10373,7 +10373,7 @@ gullets 4
 generators 3
 giddied 2
 gargoyled 2
-gallflower 2
+gallflower 3
 garbanzos 2
 giambeux 1
 gonyalgia 2
