@@ -3490,7 +3490,7 @@ girny 4
 gilts 6
 grudger 5
 gynandromorphism 2
-gemul 3
+gemul 4
 gewgawry 1
 gyrfalcon 3
 gigantological 6
@@ -10662,7 +10662,7 @@ galp 6
 gurgoyle 4
 glaiketness 3
 genuflexion 1
-glottologist 1
+glottologist 2
 guric 5
 grog 1
 granitization
