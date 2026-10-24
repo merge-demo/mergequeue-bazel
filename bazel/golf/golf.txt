@@ -807,7 +807,7 @@ greenlandite 2
 genets 3
 glucosane 2
 ghurry 1
-gastrocolic 3
+gastrocolic 4
 guetar 1
 grazeable
 goldenrods 3
@@ -4833,7 +4833,7 @@ glacieret 6
 gouaches 1
 garookuh 3
 glacierist 3
-graphemes 4
+graphemes 5
 glaciers 2
 gowns 3
 gymnothorax 2
@@ -6624,7 +6624,7 @@ granivorous 2
 glegnesses 5
 gonaduct 3
 guiling 2
-gonalgia 6
+gonalgia 7
 gallinipper 3
 gradatively
 galanga 2
