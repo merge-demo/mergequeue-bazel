@@ -1274,7 +1274,7 @@ beclouds
 bawdyhouses 3
 bogtrotter 4
 broderie 1
-balanitis 2
+balanitis 3
 bassarid 1
 blowsiest
 bloke 1
@@ -7782,7 +7782,7 @@ bhagavata
 biarchy
 biarcuate 1
 biarticulate 2
-barrulee 1
+barrulee 2
 breccia 1
 bluings
 bezzling 1
@@ -10270,7 +10270,7 @@ blacktongue 1
 byroniana 2
 blacktops 3
 blastoporphyritic 1
-barking
+barking 1
 beholden 1
 bogard 4
 blacktree 5
@@ -13461,7 +13461,7 @@ bleeding 3
 bottleman 1
 bulse 1
 benzin 1
-bepun
+bepun 1
 brayer 2
 bottlenest 4
 bottlenose 1
