@@ -3680,7 +3680,7 @@ balearian 1
 burnies 3
 brigantinebrigantines
 basiophthalmite 1
-baste 2
+baste 3
 bucketful 2
 bally 1
 belfather
@@ -7534,7 +7534,7 @@ butterbill 1
 bromometrically 2
 baronga
 branchiopallial
-bernicle
+bernicle 1
 bevoiled 2
 becco 1
 besmoothing 2
