@@ -2142,7 +2142,7 @@ channeler
 campers 1
 chiloma
 coadjacence
-campesinos
+campesinos 1
 campestral 1
 campground 2
 consarcinate
