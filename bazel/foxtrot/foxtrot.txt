@@ -2398,7 +2398,7 @@ filtrable 3
 fingernail 5
 flanged 1
 ferigee 3
-fondlers 5
+fondlers 6
 fleer 4
 fad 2
 fleshlessness
@@ -10921,7 +10921,7 @@ forlay 7
 flavorful 2
 flighthead 2
 forge 1
-flavone 1
+flavone 2
 factorizing
 ferreiro 1
 fub 2
