@@ -2788,7 +2788,7 @@ amyxorrhoea 1
 acetum
 adequateness 2
 acrogamous 1
-acrogen 1
+acrogen 2
 aspirated
 ashthroat 1
 acrolein 1
@@ -14869,7 +14869,7 @@ aphotic
 anticyclone 1
 arthroempyema 2
 ankylodactylia
-armer 3
+armer 4
 anticyclones 4
 abaculi 1
 anticynical 3
