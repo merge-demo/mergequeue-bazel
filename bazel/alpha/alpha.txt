@@ -14625,7 +14625,7 @@ abstractively 5
 anesthetize 1
 adapid
 anabaptist 1
-antiaditis
+antiaditis 1
 antiadministration 1
 audiogram 1
 accolated
@@ -22437,7 +22437,7 @@ astrometry 2
 agric 2
 animalising 1
 astrometric 2
-astronaut 1
+astronaut 2
 apollinian 1
 asmodeus
 aphoruridae 1
@@ -24181,7 +24181,7 @@ anthozoa 1
 achroodextrinase 1
 awakens 2
 autokinesy 1
-allentiacan
+allentiacan 1
 autokinesis
 arythmia 2
 apteryxes 1
