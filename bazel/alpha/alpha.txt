@@ -2875,7 +2875,7 @@ adaptation 1
 achromatin
 amygdales 1
 acrophonetic
-avengingly 2
+avengingly 3
 acrophonic
 astrol
 aubrite 1
@@ -4723,7 +4723,7 @@ acrotisms
 alphard 1
 aeluropodous
 aenach
-aphrodistic 3
+aphrodistic 4
 addaxes 1
 affricate
 adawe
@@ -12212,7 +12212,7 @@ astronautical 3
 allodge
 asgard
 andaman
-autobiographic 2
+autobiographic 3
 anchieutectic
 abience 2
 arteriectasia 2
@@ -17481,7 +17481,7 @@ appar 1
 actinoidea 1
 apparat 1
 antidiabetic
-antigonus
+antigonus 1
 apparats
 apparatus
 appareling 3
@@ -17995,7 +17995,7 @@ approximative 2
 approximativeness 1
 allods 1
 approximator 2
-appt
+appt 1
 arteriotomy
 aggrandise
 alemonger
