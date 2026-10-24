@@ -1250,7 +1250,7 @@ efficiently 4
 earthshock 1
 ethylidyne 2
 epigrammatise
-eelcake 1
+eelcake 2
 elsewheres 1
 exposition 1
 episomal 3
@@ -2071,7 +2071,7 @@ evilly 2
 eudialyte 3
 elanet
 elanus 2
-enantiopathia
+enantiopathia 1
 extravenate 1
 encampments 2
 enthusiasm 3
@@ -12525,7 +12525,7 @@ eunicid 1
 epicalyx
 ezan 1
 etymologized 4
-euphemy 1
+euphemy 2
 emissaria 2
 enhalos 2
 eugeny

@@ -718,7 +718,7 @@ foreladies 2
 freeness 1
 flincher 2
 fired 3
-flagroot 4
+flagroot 5
 famous 2
 florigens 1
 featherlet 4
@@ -6713,7 +6713,7 @@ frustrations 1
 folksily 3
 flame 4
 felted 1
-fogless 2
+fogless 3
 frounced
 fogo 4
 frescoists 3
