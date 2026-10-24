@@ -2142,7 +2142,7 @@ channeler
 campers 1
 chiloma
 coadjacence
-campesinos
+campesinos 1
 campestral 1
 campground 2
 consarcinate
@@ -13045,7 +13045,7 @@ cyanuramide 2
 coefficiently 1
 cyanuric
 cyanurin 1
-chowsing 1
+chowsing 2
 cyanurine 1
 ciao
 cyaphenine 1
@@ -20236,7 +20236,7 @@ carpels 1
 commonsensically
 commonweals
 catechismal
-commorancies
+commorancies 1
 commorient 1
 commorse 1
 costeen 1
