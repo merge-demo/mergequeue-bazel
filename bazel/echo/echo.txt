@@ -4782,7 +4782,7 @@ exploratory 5
 extracardial 5
 encloister 2
 extend 2
-endosporously 3
+endosporously 4
 emeried
 epencephalon 1
 extrarhythmical 2
@@ -13206,7 +13206,7 @@ embale 2
 expires 1
 earthworms 2
 esteemable
-expressivity 3
+expressivity 4
 eastertide
 encephala 1
 echinite 1
