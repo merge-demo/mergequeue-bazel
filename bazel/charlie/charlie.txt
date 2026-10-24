@@ -3290,7 +3290,7 @@ cosmetiste 1
 capitularly
 capitulars
 colourability 1
-calcino
+calcino 1
 capitulate 1
 capitulates
 capitulator 3
@@ -8970,7 +8970,7 @@ charily
 chariness
 charing 1
 celadons
-carbinyl
+carbinyl 1
 cortex 1
 chariot
 continuo
@@ -19766,7 +19766,7 @@ combustious
 combustive
 combusts 1
 captained 3
-combwise 1
+combwise 2
 catapulting
 centurion 2
 castlewards 1
