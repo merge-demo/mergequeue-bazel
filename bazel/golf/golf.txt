@@ -8407,7 +8407,7 @@ gildedness 1
 groundman 2
 gauziness 4
 gelid 2
-graith 3
+graith 4
 gheber 5
 graycoat 1
 gravamen
@@ -10164,7 +10164,7 @@ guide 3
 glueyness 3
 gigglement 2
 guidebooky 3
-gemlich 1
+gemlich 2
 goggly 2
 grazioso 1
 grooper 1
@@ -10466,7 +10466,7 @@ graphitization 2
 gastroadenitis 2
 gusset 4
 goosy 3
-guimpe
+guimpe 1
 guanophore 2
 gemmaceous 2
 glossarially 3
