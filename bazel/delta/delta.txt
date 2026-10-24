@@ -7072,7 +7072,7 @@ dexterical
 dayak
 dolts
 deposits
-destigmatization
+destigmatization 1
 destigmatizing
 destination 1
 dunelands 2
@@ -10928,7 +10928,7 @@ dobsonflies 1
 droplike
 dropcloth 2
 diclytra
-disunionism
+disunionism 1
 disaccustomedness
 draymen
 dromioid 2
