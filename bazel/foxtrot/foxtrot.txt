@@ -3566,7 +3566,7 @@ filarian 1
 fattily 3
 fluoryl 4
 filaricidal 1
-filariids 3
+filariids 4
 forechoice 3
 flagellative 2
 foody 4
@@ -10546,7 +10546,7 @@ featherier 4
 fieldpiece 2
 frowziest 1
 frowzled 4
-firebases 1
+firebases 2
 fresh
 falding 1
 fibration
