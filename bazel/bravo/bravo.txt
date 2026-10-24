@@ -3808,7 +3808,7 @@ beatrice
 befleck 1
 bronchoplegia 3
 bauhinias
-baul 1
+baul 2
 barrington 2
 boreas
 burgeoning 1
@@ -8563,7 +8563,7 @@ balkanized 1
 bhuts 2
 bastionary 2
 bearskin
-billfolds 2
+billfolds 3
 ballaton 1
 bringing 1
 bearlike 1
