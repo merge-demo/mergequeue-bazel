@@ -11642,7 +11642,7 @@ expulses 4
 enddamaged 1
 exactable 5
 extemporising 3
-exactas 1
+exactas 2
 ergastoplasm 4
 elaterite 1
 epileptogenic 2
