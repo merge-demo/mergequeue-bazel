@@ -946,7 +946,7 @@ directives 1
 dewed
 dures 2
 darb 1
-deserters 1
+deserters 2
 darby 1
 diapnoic 1
 dependantly 2
@@ -18332,7 +18332,7 @@ dreng 1
 dryas 1
 didachist
 duodecimfid 2
-dalarnian 3
+dalarnian 4
 dizziest 1
 disrupted
 duodecimole 1
@@ -18363,7 +18363,7 @@ diaphanoscope
 decency 1
 desecrating 2
 duodenoenterostomy 2
-dreamish
+dreamish 1
 dorse 1
 demulcent 2
 denudative 2
