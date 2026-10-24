@@ -5133,7 +5133,7 @@ callosity
 casehardening 1
 candida 1
 casey
-caseic
+caseic 1
 chrysographer 1
 cholecyanin
 cyberneticists 1
@@ -10452,7 +10452,7 @@ coppernose 1
 complimentable 1
 citification
 commorant 1
-cheapside 1
+cheapside 2
 charlottesville
 cosurety 1
 chilblained 2
