@@ -1199,7 +1199,7 @@ fluoroscopy 1
 fleech 3
 fears 1
 fascistization 2
-foxproof
+foxproof 1
 fountainlike 2
 fleckled 3
 fleckiness 3
@@ -8546,7 +8546,7 @@ forehatchway 2
 flusterate 3
 figs
 fumaroles 1
-fortification 3
+fortification 4
 flatweed 3
 formulated 2
 forgainst 3
