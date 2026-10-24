@@ -2335,7 +2335,7 @@ foreimagine
 fconvert 1
 feoffer 2
 fiberous
-faultier 2
+faultier 3
 falsetto 2
 feoffs 1
 fasciole 2
@@ -5173,7 +5173,7 @@ flatteringness 3
 flustered 2
 fetalization
 federarie 2
-favour 1
+favour 2
 farsakh 3
 flatulency
 flatfeet 2
@@ -7338,7 +7338,7 @@ felting 2
 friendliest 2
 flourishy 5
 formularised 1
-foraminose
+foraminose 1
 foraminulate 2
 fought 2
 flabbily 2
