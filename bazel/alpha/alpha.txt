@@ -3607,7 +3607,7 @@ arabicize 1
 agora 1
 adendritic 2
 akenbold
-adenylic
+adenylic 1
 avichi
 adatom
 adenitis 1
