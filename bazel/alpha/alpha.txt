@@ -4591,7 +4591,7 @@ adviser
 autonomize 1
 apparatchiki
 androcentric
-affinitatively 1
+affinitatively 2
 angolar 2
 acetylic
 amphibious
@@ -5619,7 +5619,7 @@ amnesics 1
 afterward 3
 afterwise
 afterwit
-afterwork 1
+afterwork 2
 agathodemon 2
 apinage 1
 aint
