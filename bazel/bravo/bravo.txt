@@ -378,7 +378,7 @@ borings 6
 backhoe 2
 bake 2
 backhooker 4
-bemoans 3
+bemoans 4
 backhouses
 baseballdom 1
 brachyurus 1
@@ -3113,7 +3113,7 @@ becher
 birdlime 1
 baseburner 1
 basecourt 2
-betokener 1
+betokener 2
 boosting 3
 boneset 1
 baselevel 1
