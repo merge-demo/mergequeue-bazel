@@ -3245,7 +3245,7 @@ falern 1
 forewarnings 1
 flinthearted 2
 flameholder 5
-fictioner 1
+fictioner 2
 furbisher 1
 forestay 3
 forestish 1
@@ -7130,7 +7130,7 @@ frotteurs 1
 feckful 1
 friszka 6
 footboy 2
-fossette 2
+fossette 3
 footboys 4
 floodgate 2
 fairling
@@ -9545,7 +9545,7 @@ feudalizing 1
 frist 3
 findfault 1
 fullers 4
-forche 4
+forche 5
 foliated 1
 fyrd 2
 fishwives 1
