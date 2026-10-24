@@ -8453,7 +8453,7 @@ diamagnetism 3
 dredging 1
 diamant 2
 ditrochee 1
-deflexed 2
+deflexed 3
 dooxidize 3
 dextro 2
 decrowns
