@@ -2716,7 +2716,7 @@ barnstorming 2
 besmearing 3
 borages
 brutalisation 5
-bogomile 2
+bogomile 3
 buoyantly
 branching 3
 barnumism 4
@@ -10403,7 +10403,7 @@ breaker 1
 blanketlike
 brimborion
 blankets 1
-bhoot 2
+bhoot 3
 blobbiness 2
 brisement 1
 blankish 3
@@ -11722,7 +11722,7 @@ bobierrite 3
 balaenid
 bobjerom 2
 bioelectricity 2
-boorish
+boorish 1
 backpacker
 behung 1
 buzzword 2

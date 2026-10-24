@@ -11023,7 +11023,7 @@ amorph
 athelia
 amorpha
 ascensiontide 1
-anarthropodous 2
+anarthropodous 3
 amorphia 1
 aerobion 1
 agomphious 1
@@ -24181,7 +24181,7 @@ anthozoa 1
 achroodextrinase 1
 awakens 2
 autokinesy 1
-allentiacan
+allentiacan 1
 autokinesis
 arythmia 2
 apteryxes 1
