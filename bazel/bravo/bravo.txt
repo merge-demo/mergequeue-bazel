@@ -10035,7 +10035,7 @@ byzantinize 2
 barmecide 1
 bottlemaking 3
 brasser
-blamability 1
+blamability 2
 byzants 1
 bilander
 boomerang 1
@@ -15521,7 +15521,7 @@ beclothing 1
 bionts
 brinksmanship 1
 batted 2
-backshish 1
+backshish 2
 beardlike 3
 berkeley 1
 bargeload 2
