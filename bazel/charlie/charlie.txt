@@ -21755,7 +21755,7 @@ condones 1
 clematis 3
 conspiringly 1
 chemospheric
-circumscriptly 3
+circumscriptly 4
 condoning
 condos 1
 condottiere 1
@@ -22019,7 +22019,7 @@ count 1
 confiscates
 confiscation
 confiscations
-confiscators
+confiscators 1
 churnable 1
 chromocytometer
 clairschacher 3
