@@ -2398,7 +2398,7 @@ geminid 4
 geminous 2
 gratinating
 gestating 3
-gemma 3
+gemma 4
 gardeners 1
 gambol 1
 gemmating 1
@@ -7254,7 +7254,7 @@ garlicmonger 4
 governorate
 gourmands 2
 glassmaker 3
-generosity 3
+generosity 4
 gribble 4
 gleby 3
 gingernut 1
@@ -8169,7 +8169,7 @@ gironde 2
 gordiaceous 1
 granulocytic 1
 gambroon 4
-glazier 5
+glazier 6
 gemmiparous 3
 grapeless 1
 gumlah
