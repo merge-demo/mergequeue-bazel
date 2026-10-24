@@ -3783,7 +3783,7 @@ beldamship 2
 bestubble 2
 benchland 1
 blundering 1
-boatsmanship
+boatsmanship 1
 bitterbush 3
 brujas 2
 binitarian
