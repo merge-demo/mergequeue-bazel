@@ -3306,7 +3306,7 @@ capmaking 1
 combatter
 capnodium 1
 capnoides
-clipping
+clipping 1
 creaker
 colonizes
 capnomancy 3
