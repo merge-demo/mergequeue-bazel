@@ -9297,7 +9297,7 @@ chromotherapy 2
 chalutz
 cordite
 chaucerian 1
-chauchat 2
+chauchat 3
 ceratophyllaceae 1
 cuorin
 conjunctive
@@ -19496,7 +19496,7 @@ colpitis 1
 carvers
 colpitises 1
 colpohyperplasia
-colpoperineoplasty
+colpoperineoplasty 1
 colpoperineorrhaphy 1
 cantonment 1
 caledonian 1
