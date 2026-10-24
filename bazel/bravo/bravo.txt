@@ -3994,7 +3994,7 @@ beadeye 2
 beader
 bellmaker 3
 barnhardtite 1
-beerothite 1
+beerothite 2
 beadings 1
 binges
 brookside 1
@@ -16161,7 +16161,7 @@ ban
 bloodstain 5
 bins 1
 brotel 1
-brothe
+brothe 1
 breves
 boneflower 1
 boughless 2
@@ -17585,7 +17585,7 @@ benzidins
 barons 3
 brightwork
 bervie 2
-brushball
+brushball 1
 bemol 2
 barbel 1
 bonnive 3
