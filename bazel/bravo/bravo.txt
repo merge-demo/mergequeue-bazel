@@ -9229,7 +9229,7 @@ bladebone
 balanoid 1
 bipinnarias 2
 bipinnated
-bipinnatipartite 2
+bipinnatipartite 3
 butyrals 2
 bow
 bipinnatisect 1
