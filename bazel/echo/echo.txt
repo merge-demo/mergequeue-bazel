@@ -3859,7 +3859,7 @@ entreasured 3
 emerizing 1
 engrieve 1
 emerods
-epitomator
+epitomator 1
 emersed
 estivator 2
 eggcupful 2
@@ -6909,7 +6909,7 @@ endometria 4
 evaporable 1
 equipments
 embelif 2
-eucalyn 2
+eucalyn 3
 epiblema 1
 epitrchelia 1
 exudation 7
