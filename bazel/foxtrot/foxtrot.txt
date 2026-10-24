@@ -5678,7 +5678,7 @@ fountains 1
 firebrands 2
 freeloader 1
 flingy 4
-funded 2
+funded 3
 fiddlestring 3
 flings 2
 freestyle
@@ -11047,7 +11047,7 @@ fere 1
 fascias 3
 funambulator 1
 feels 2
-faunological 1
+faunological 2
 flinty 1
 fellatrices 2
 fangless 3
