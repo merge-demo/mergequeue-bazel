@@ -10796,7 +10796,7 @@ chinny
 creedist 2
 conditionals
 chinnier
-chinniest
+chinniest 1
 chino 2
 clorargyrite 1
 cohelpership
@@ -22560,7 +22560,7 @@ commotion
 connatural
 connaturality 2
 cultelli 2
-connectibility
+connectibility 1
 cryptanalysis 1
 connaturalize 2
 chg 1

@@ -6004,7 +6004,7 @@ diagraphics 1
 diamagnetize 1
 diagrammitically 2
 depthlessness 5
-diobols
+diobols 1
 demonetization 5
 dacite 2
 delimiting 2
@@ -12817,7 +12817,7 @@ dorsomedian 3
 decreptitude 4
 dehydrogenized 3
 downhaul 1
-dyemaking 1
+dyemaking 2
 daubs
 devolutive
 deliquiesce
@@ -16795,7 +16795,7 @@ dissenters
 dreeing 1
 disconsonant 1
 difficult 2
-devaluated
+devaluated 1
 drawcut 1
 drawee
 disboscation 1
