@@ -15230,7 +15230,7 @@ antiflux 2
 anticlergy
 antiforeignism 3
 atole
-afrown
+afrown 1
 autometamorphosis
 antiformin 1
 animater 2
