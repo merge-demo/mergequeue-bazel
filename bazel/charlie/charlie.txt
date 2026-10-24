@@ -22019,7 +22019,7 @@ count 1
 confiscates
 confiscation
 confiscations
-confiscators
+confiscators 1
 churnable 1
 chromocytometer
 clairschacher 3
