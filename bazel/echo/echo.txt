@@ -3584,7 +3584,7 @@ embossage 2
 embossed 2
 enbibe 5
 embossing 5
-emulsifications 2
+emulsifications 3
 embossman 1
 esophagoplegia
 enchantery 1
@@ -5962,7 +5962,7 @@ exudence 1
 erethismic 4
 ettled 5
 eczema 2
-enhypostatize 1
+enhypostatize 2
 encrinoidea 2
 encoffin 2
 elains 3
