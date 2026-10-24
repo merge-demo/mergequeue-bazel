@@ -4266,7 +4266,7 @@ beaverkin 3
 bosnian
 beaverskin 3
 bishophood
-branded 1
+branded 2
 beaverteen
 braidings
 bebay
