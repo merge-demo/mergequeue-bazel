@@ -22273,7 +22273,7 @@ conglomeration 1
 conglomerations 1
 conglomeritic
 conglutinant 1
-crossopodia
+crossopodia 1
 codlings
 congoes 1
 conor 3
@@ -31015,7 +31015,7 @@ countersconce 1
 citrocola 1
 coumalin
 cumic 5
-campanian
+campanian 1
 cumyl
 congos
 clead

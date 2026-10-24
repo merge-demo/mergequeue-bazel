@@ -2859,7 +2859,7 @@ faddish 2
 feltyfare 5
 fisty 1
 finable 2
-foresails 3
+foresails 4
 figworm 2
 flurry
 fungid 5
@@ -7252,7 +7252,7 @@ fluorogen
 foregoing 1
 fissuration 2
 fledglings 2
-fetisheer 4
+fetisheer 5
 fratricidal 3
 foeffment 1
 flares 5

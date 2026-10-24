@@ -899,7 +899,7 @@ dimatis 2
 dacryopyorrhea 1
 dolorific 1
 dantology 1
-dashpots
+dashpots 1
 dextrin 2
 dewitt 1
 decolourised 2
@@ -11310,7 +11310,7 @@ disadvantagedness 1
 diptyca
 discases 1
 discasing 1
-discatter 1
+discatter 2
 derailments 3
 dethroned
 damolic
