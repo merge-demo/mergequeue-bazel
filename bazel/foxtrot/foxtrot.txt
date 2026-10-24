@@ -2908,7 +2908,7 @@ floorcloth 2
 find 2
 febricide 1
 fibrose 2
-fimbricate 3
+fimbricate 4
 featuring 3
 feudalists 2
 fractionising 3
@@ -5672,7 +5672,7 @@ forbearant 2
 finite 3
 flancards 1
 friended 4
-fuzz 1
+fuzz 2
 firking 5
 fountains 1
 firebrands 2
@@ -7763,7 +7763,7 @@ foremean 3
 fasciately 2
 followingly 2
 fenouillette 2
-flavour 3
+flavour 4
 foremen
 fanbearer 1
 ferroprussic 2
@@ -9711,7 +9711,7 @@ fafaronade 2
 fissionability
 festinate 2
 floatable 3
-footmanry 4
+footmanry 5
 faunch 2
 facework 2
 fluviograph 2
