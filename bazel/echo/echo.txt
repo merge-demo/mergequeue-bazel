@@ -4269,7 +4269,7 @@ equidiagonal 2
 epityphlon 3
 escutcheons 4
 experiment 1
-endometrium 4
+endometrium 5
 electrodispersive 2
 evertile 2
 exclusivism 1
@@ -12209,7 +12209,7 @@ emoluments 4
 execrator 3
 emeraude 4
 enthroning 3
-empiriocritical 2
+empiriocritical 3
 ephemera 3
 execute 2
 executed 1
