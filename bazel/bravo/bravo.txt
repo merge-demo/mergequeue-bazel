@@ -3285,7 +3285,7 @@ babbler 2
 bloodiest 1
 basions 1
 backstabbed
-bronzes
+bronzes 1
 beadlery 3
 backpacking 2
 balche 2
@@ -18176,7 +18176,7 @@ biog 1
 behead
 biodegradation 1
 bricky
-bitterwort 1
+bitterwort 2
 bechern 2
 butlery
 belief 2
