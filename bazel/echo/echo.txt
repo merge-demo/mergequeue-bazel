@@ -3905,7 +3905,7 @@ extraboldface 1
 eminencies 2
 evendown
 exterminating 4
-eminent
+eminent 1
 easternized 3
 esperance 2
 eminently
@@ -11497,7 +11497,7 @@ extravertively 2
 erbium 4
 emulgens 3
 enlistees
-eidolic 2
+eidolic 3
 electrophotometer 3
 evigilation 2
 emenders 3
@@ -11891,7 +11891,7 @@ earthily 1
 emotivism 1
 excentric 1
 eumeromorphic 1
-entrepot 1
+entrepot 2
 emits 3
 except 3
 escheatment
