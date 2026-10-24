@@ -3306,7 +3306,7 @@ capmaking 1
 combatter
 capnodium 1
 capnoides
-clipping
+clipping 1
 creaker
 colonizes
 capnomancy 3
@@ -3778,7 +3778,7 @@ chloroethylene 3
 carbazic 1
 carbazylic 1
 chlorpikrin
-cheerios
+cheerios 1
 civilist
 carbazole 1
 carbeen 1
