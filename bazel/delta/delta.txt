@@ -16443,7 +16443,7 @@ datum
 difflugia 2
 downtimes 1
 dunnesses
-dacoities
+dacoities 1
 drabbling
 doubler 2
 drabler 2
