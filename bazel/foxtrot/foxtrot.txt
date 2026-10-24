@@ -5516,7 +5516,7 @@ fleshmonger 1
 fcy 2
 flagfall 5
 fletcherism 2
-frontignac 1
+frontignac 2
 fieri 4
 fervours 2
 finnan 1
