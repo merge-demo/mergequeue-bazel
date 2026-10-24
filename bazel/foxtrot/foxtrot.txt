@@ -698,7 +698,7 @@ farmstead 2
 forenotion 1
 farcemeat 2
 ferromagnetic 2
-futilitarianism
+futilitarianism 1
 fascioloid 1
 forehard 2
 fragrancy 2
@@ -769,7 +769,7 @@ fanciless 1
 foliicolous 2
 forestaff 1
 fragrance 2
-fallows 1
+fallows 2
 fandangos 2
 fandoms 4
 frivolized 2
@@ -2916,7 +2916,7 @@ freetrader 2
 fomentations 3
 fulham 2
 foregahger 2
-featherweights 1
+featherweights 2
 frumpiness 2
 fantastical 2
 flutiest 4
@@ -8053,7 +8053,7 @@ feyest 1
 flowerist 1
 frontward 2
 fellahs 1
-flash 2
+flash 3
 fluidises 1
 falconnoid 5
 foredevote 2
