@@ -15230,7 +15230,7 @@ antiflux 2
 anticlergy
 antiforeignism 3
 atole
-afrown
+afrown 1
 autometamorphosis
 antiformin 1
 animater 2
@@ -15493,7 +15493,7 @@ ajhar 2
 aiming 2
 anandria 1
 affluentness 1
-anywhere 1
+anywhere 2
 alaudidae
 antimission 4
 although 1
