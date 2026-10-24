@@ -9132,7 +9132,7 @@ crystalline
 crossfall 1
 confluxibleness 1
 chartophylacia 1
-cerebra
+cerebra 1
 chartophylacium
 chartreux
 centration
@@ -10537,7 +10537,7 @@ competitions 1
 chyliform
 chilina
 cordonazo
-citizenhood 1
+citizenhood 2
 cardon
 cirsocele
 cymbocephaly 1
