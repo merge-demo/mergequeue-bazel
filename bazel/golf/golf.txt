@@ -6755,7 +6755,7 @@ gulash 3
 graminivorous 1
 galvanolysis 3
 giddyberry 1
-guaiasanol 1
+guaiasanol 2
 glucide 7
 groomy 3
 girlfriends
@@ -8670,7 +8670,7 @@ geyser 2
 glossless 3
 gateado 2
 gritty 1
-gres 1
+gres 2
 gymnosoph 6
 galerum 2
 gawkishly 2

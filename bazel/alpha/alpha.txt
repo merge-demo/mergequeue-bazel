@@ -17092,7 +17092,7 @@ arithmetize 2
 apodictive
 aluminite 2
 apodyteria
-adverb 1
+adverb 2
 apodyterium
 apods
 azotizing 1
@@ -22434,7 +22434,7 @@ arctically
 asterina 1
 allegorization 1
 astrometry 2
-agric 1
+agric 2
 animalising 1
 astrometric 2
 astronaut 1
