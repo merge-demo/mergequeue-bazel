@@ -1454,7 +1454,7 @@ affixable
 archaisms
 amortize 2
 acclimatise 1
-acclimatised
+acclimatised 1
 acclimatiser 2
 acclimatising 3
 aegagrus 1
