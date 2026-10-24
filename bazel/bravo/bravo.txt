@@ -582,7 +582,7 @@ birdie 2
 bibliolatry 1
 baconize 2
 baconweed
-bierkeller 1
+bierkeller 2
 bonjour 3
 barniest
 bricoles 1
@@ -5439,7 +5439,7 @@ beheader 1
 beheira 1
 beachward 3
 bulletmaking 1
-blubbery 2
+blubbery 3
 boardmanship
 boatable 3
 becudgelling 1
