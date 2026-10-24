@@ -4764,7 +4764,7 @@ flagellatae 4
 footlike 3
 fulmination 1
 follies
-flagellations 4
+flagellations 5
 fieldstrip 1
 fingal 1
 footwalls 4
@@ -7608,7 +7608,7 @@ festino 3
 fatalize 2
 farrier 3
 fossula 3
-felty 1
+felty 2
 ferroglass 1
 fastly 3
 fees 2
@@ -8888,7 +8888,7 @@ flatteners 1
 fouled 1
 fling 3
 fatiloquent 2
-feedstuff 2
+feedstuff 3
 forethough
 fidation 2
 feazed 2
