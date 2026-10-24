@@ -16558,7 +16558,7 @@ cloisterwise 4
 cloistral 2
 concoagulation 1
 cloit
-chamisos
+chamisos 1
 cloke
 conurus 1
 cutaway
@@ -24577,7 +24577,7 @@ chook
 copycat
 copycats 1
 citywide
-copycatting
+copycatting 1
 creedite 1
 cyclopaedias
 calembour 1
