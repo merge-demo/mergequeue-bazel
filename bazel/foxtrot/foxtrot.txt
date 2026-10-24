@@ -768,7 +768,7 @@ fibreboard
 fanciless 1
 foliicolous 2
 forestaff 1
-fragrance 1
+fragrance 2
 fallows 1
 fandangos 2
 fandoms 4
