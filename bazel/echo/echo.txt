@@ -4088,7 +4088,7 @@ ethylbenzene 1
 ecthymata
 euthymy
 esthetophore 4
-emboil 2
+emboil 3
 equitant 1
 enjambement 3
 erotophobia 1
@@ -6173,7 +6173,7 @@ enneagonal 2
 etymologizable 3
 enrolling 1
 endorachis 2
-enigua 2
+enigua 3
 elephantiac 2
 enneagons
 enthrallment 1
@@ -7942,7 +7942,7 @@ emitter 2
 eatery 3
 extrastapedial
 endosmosis 2
-exudates 2
+exudates 3
 exptl 1
 exordia 1
 epimandibular 1
@@ -9064,7 +9064,7 @@ exordial 3
 eyases
 electrotherapeutics 2
 entergogenic 2
-extrality 2
+extrality 3
 extravascular 3
 erythrocytoschisis 2
 epenthesis
