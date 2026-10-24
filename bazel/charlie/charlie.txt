@@ -670,7 +670,7 @@ creatins 1
 caestuses 1
 caesura 1
 cybernated 1
-caesurae 2
+caesurae 3
 caesuric 1
 caf
 cinefilm 1
@@ -5577,7 +5577,7 @@ copr
 censused 2
 cofactor 1
 catalyses 2
-catalyte
+catalyte 1
 cyclopean
 cabalassou
 cyniatria
