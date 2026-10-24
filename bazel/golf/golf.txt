@@ -3717,7 +3717,7 @@ grifters 3
 goes 4
 ghostland 2
 gabbling 1
-gaugership
+gaugership 1
 grumpier 1
 ghostly 1
 gaura 4
@@ -6049,7 +6049,7 @@ gyppers 2
 gnathitis 3
 gragers 1
 ganevs 1
-gastradenitis 4
+gastradenitis 5
 guerre 5
 gallocyanin 5
 gymnocarpic 4
