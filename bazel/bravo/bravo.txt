@@ -4901,7 +4901,7 @@ bourbons 2
 belaud 1
 blackeyes 1
 bolderian
-biguttate
+biguttate 1
 bandurrias 1
 bobac
 burrowstown
@@ -8981,7 +8981,7 @@ benzazide 1
 bitting
 biologics 5
 busybodyish 5
-bedstands
+bedstands 1
 bioluminescence
 bewhite 2
 brender 1
