@@ -4167,7 +4167,7 @@ disincorporate 2
 deliveress 2
 dentirostrate 1
 dunkers 2
-damner 1
+damner 2
 desipience 1
 durneder 2
 dunstable 3
@@ -6541,7 +6541,7 @@ deraign 1
 describability 3
 dobra 1
 dulciloquy 1
-degradedness 3
+degradedness 4
 dichlorhydrin 1
 described 3
 dolous 3
@@ -9376,7 +9376,7 @@ dockages 3
 demonstrance 2
 dunlin
 depulse 3
-dottels 4
+dottels 5
 demasted 1
 dentirostres 1
 dautie 1
