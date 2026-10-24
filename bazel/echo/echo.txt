@@ -1426,7 +1426,7 @@ etherified 3
 essenced
 ebrious 1
 endpiece 2
-entodermal 1
+entodermal 2
 epipodialia
 entoretina
 erythrocytolytic 2
@@ -5290,7 +5290,7 @@ espinillo 1
 etaerio 2
 exactor
 entreatable 3
-evened
+evened 1
 editors 2
 ecumenicity 1
 endopodite 2
@@ -5695,7 +5695,7 @@ esurience
 evangelicals 1
 exomorphism
 euploid 2
-extrarenal 1
+extrarenal 2
 endophasic 3
 erotism 5
 entrough 1
