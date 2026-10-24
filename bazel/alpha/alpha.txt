@@ -8676,7 +8676,7 @@ allocution 1
 anemology 1
 alleleu
 allelic 1
-allelism 1
+allelism 2
 axonemal
 argyrite
 almes
@@ -12521,7 +12521,7 @@ anemometrographically
 alfilaria 1
 arteriorrhagia 1
 azoturia 4
-aerography 1
+aerography 2
 anticreator
 avidities 3
 anemony
