@@ -718,7 +718,7 @@ foreladies 2
 freeness 1
 flincher 2
 fired 3
-flagroot 4
+flagroot 5
 famous 2
 florigens 1
 featherlet 4
@@ -2983,7 +2983,7 @@ francophil 1
 fewtrils 3
 follower
 flanned
-freethinker 1
+freethinker 2
 ferrels 4
 fellies 3
 fezzed 3
@@ -6713,7 +6713,7 @@ frustrations 1
 folksily 3
 flame 4
 felted 1
-fogless 2
+fogless 3
 frounced
 fogo 4
 frescoists 3
@@ -11129,7 +11129,7 @@ fishtail 1
 farle 3
 footmarks 3
 furuncular 1
-flaggery 3
+flaggery 4
 formylated 1
 forumize 1
 foreallot 1
