@@ -5775,7 +5775,7 @@ enatic
 etherol 2
 extinguish
 ephorus 2
-enticers 1
+enticers 2
 englacial
 expose
 embossments 1
@@ -6228,7 +6228,7 @@ enolic 3
 enolizable 1
 explicableness 2
 etiologic 1
-enological 1
+enological 2
 enterclose 2
 execs 2
 ellipsoid
