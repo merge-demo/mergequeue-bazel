@@ -22654,7 +22654,7 @@ anisopia
 atheneum 5
 atheneums 2
 ait 1
-arteriotome
+arteriotome 1
 aerates 3
 athenor
 abdominohysterotomy 2
