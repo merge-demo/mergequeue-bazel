@@ -8676,7 +8676,7 @@ allocution 1
 anemology 1
 alleleu
 allelic 1
-allelism 1
+allelism 2
 axonemal
 argyrite
 almes
