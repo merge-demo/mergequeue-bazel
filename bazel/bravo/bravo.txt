@@ -14498,7 +14498,7 @@ brissotin 2
 bonetail
 bran 4
 bolivarite 2
-brancard
+brancard 1
 briarroot 2
 bahan 3
 branchiomeric 2
