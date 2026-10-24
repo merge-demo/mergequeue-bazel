@@ -8569,7 +8569,7 @@ glomeli 2
 gainliest
 grat 2
 growths 5
-gastrocnemius
+gastrocnemius 1
 glabriety 5
 griqua 3
 gravity 4
