@@ -1969,7 +1969,7 @@ electroceramic 1
 energism 4
 eighth 1
 expressively 5
-eppy
+eppy 1
 exenterated 5
 eastland 2
 eventration 1
@@ -12308,7 +12308,7 @@ equilucent
 exerce 2
 equimultiple
 exceptious 2
-extramarginal
+extramarginal 1
 epanisognathous 3
 endotracheitis 2
 equimolecular 3
