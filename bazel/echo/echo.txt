@@ -1195,7 +1195,7 @@ estimation
 eroded 1
 elenge 1
 entirities
-espathate 4
+espathate 5
 enlute 1
 educationist 2
 eurypyga 1
@@ -4852,7 +4852,7 @@ endothecium 1
 entranceway 1
 encashing 5
 encountering 2
-eros 1
+eros 2
 ethical 3
 ecize 2
 exhalate 1
@@ -7476,7 +7476,7 @@ eigne 2
 extrafocal
 electronographic 2
 eyess 2
-extracivically
+extracivically 1
 ephetae 1
 effulged 1
 ephetic 1
