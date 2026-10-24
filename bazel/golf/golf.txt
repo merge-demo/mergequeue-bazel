@@ -2262,7 +2262,7 @@ gradation 1
 glasswort
 gipons 4
 glarry 7
-gospeller 3
+gospeller 4
 gangrel 4
 grandpaternal 4
 glamoury 1
@@ -5960,7 +5960,7 @@ grangerize 3
 glanduligerous 3
 gensengs 1
 graylag 1
-geodesics 3
+geodesics 4
 gazogenes 2
 galactopathy 1
 grubs 2
