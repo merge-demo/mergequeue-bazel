@@ -4116,7 +4116,7 @@ gilder 4
 glycerogelatin 2
 giraffish 2
 genapper 4
-gimleteyed 2
+gimleteyed 3
 glutamine 3
 gastroduodenostomies 2
 gimleting 3
@@ -4853,7 +4853,7 @@ graupels 3
 grush 1
 geoffroyin 4
 generalidad 5
-gritter 4
+gritter 5
 gunnel 3
 gnomonics 1
 gleg 3
@@ -6264,7 +6264,7 @@ gobber 1
 gazettes 2
 goateed 2
 guitarlike
-gregariousness 6
+gregariousness 7
 guttural
 ghostiest
 gconv 3
