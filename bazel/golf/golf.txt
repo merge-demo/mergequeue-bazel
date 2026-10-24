@@ -5138,7 +5138,7 @@ gnatflower 1
 gaumed 6
 gallweed
 glomera 2
-goblinesque 2
+goblinesque 3
 gutturine 2
 gentlehearted 5
 goldylocks 2
@@ -7105,7 +7105,7 @@ gendarmery 1
 globalists 4
 goosier 1
 germinational 2
-gestates 1
+gestates 2
 goosiest 3
 gasterotrichan 3
 granger 1
