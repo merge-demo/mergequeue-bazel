@@ -6670,7 +6670,7 @@ distinctio 2
 deserved 1
 disesteemer 1
 deservers 3
-droplight
+droplight 1
 decadianome 1
 drawarm 2
 dipneedle
@@ -10868,7 +10868,7 @@ drogherman
 disyoke 3
 deindustrialize
 daekon 2
-disedge 3
+disedge 4
 dirity 5
 daised 1
 dirked 2
@@ -16025,7 +16025,7 @@ doublespeak 2
 deamidization 1
 digitiform 3
 dumped 1
-doppia
+doppia 1
 drent 1
 decompensated 2
 duryodhana 1
@@ -17630,7 +17630,7 @@ dispossessory 3
 daisybush 1
 dromornis 2
 dtd 2
-dielectrical 2
+dielectrical 3
 dicranterian
 discourteously 1
 dtente 1
