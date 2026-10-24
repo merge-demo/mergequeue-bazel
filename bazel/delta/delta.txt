@@ -2508,7 +2508,7 @@ dilaters
 declamatory 2
 dateable 1
 decibar
-dendrochronology
+dendrochronology 1
 drysaltery
 displeasingly 1
 discussionism 3
@@ -5638,7 +5638,7 @@ dogtrick
 dephycercal 2
 demounting 2
 demythologised 1
-decadents 1
+decadents 2
 dephlegmation
 dastards 1
 dephlegmedness
@@ -11880,7 +11880,7 @@ disdainer 1
 dongon 2
 distrouble
 dihelium 1
-diallagoid 3
+diallagoid 4
 disdainfulness 1
 delations 3
 deflagrating
@@ -16025,7 +16025,7 @@ doublespeak 2
 deamidization 1
 digitiform 3
 dumped 1
-doppia
+doppia 1
 drent 1
 decompensated 2
 duryodhana 1
