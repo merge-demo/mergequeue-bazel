@@ -7037,7 +7037,7 @@ gigameter 1
 gaudish 4
 gooseberry 2
 gimbaled 2
-gramash 2
+gramash 3
 greenweed 3
 glacially 2
 galilees 3
@@ -10302,7 +10302,7 @@ galliard 1
 gulpier 2
 galactosidase 2
 girasol 1
-gault 4
+gault 5
 granulations 1
 getsul 1
 gullygut 5
