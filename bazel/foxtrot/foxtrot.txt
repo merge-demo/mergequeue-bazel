@@ -817,7 +817,7 @@ formfitting 2
 fixatives 3
 fluctuations 3
 fanjet 2
-fastened 6
+fastened 7
 flemings 3
 forerequest 3
 fiddlehead 3
@@ -4110,7 +4110,7 @@ finitely 3
 fratery 6
 felicitously 2
 foresightless 1
-fungusy 2
+fungusy 3
 frostation
 fergusonite 1
 featherbrain 2
