@@ -5306,7 +5306,7 @@ fatwood 1
 fretters 2
 french 1
 flain 1
-fernwort 2
+fernwort 3
 fulyie 4
 fucaceous 6
 farrierlike 3
@@ -10058,7 +10058,7 @@ faradonervous
 flannelled 2
 fleyed 1
 foretaste 3
-flyball 2
+flyball 3
 foamiest
 forwardness 2
 fiercly 2
