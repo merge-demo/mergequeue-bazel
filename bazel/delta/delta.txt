@@ -193,7 +193,7 @@ decontamination 2
 daemony 1
 deforesting 3
 debitumenize
-dealfish
+dealfish 1
 daemons
 daemonurgist
 defecant
