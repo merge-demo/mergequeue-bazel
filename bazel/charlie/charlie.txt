@@ -8547,7 +8547,7 @@ corance
 conoscente
 chainbreak 1
 chancery
-chances
+chances 1
 chancewise
 chanche 2
 cycloaddition
