@@ -5577,7 +5577,7 @@ copr
 censused 2
 cofactor 1
 catalyses 2
-catalyte
+catalyte 1
 cyclopean
 cabalassou
 cyniatria
