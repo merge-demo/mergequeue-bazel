@@ -1962,7 +1962,7 @@ byplace 2
 bulbous 4
 bombard 1
 ballocks 2
-basilicas 1
+basilicas 2
 bangkok
 bacteriogenous 1
 bangladesh 3
@@ -15477,7 +15477,7 @@ bairam
 brims 1
 brindisi
 barbitalism
-bromo
+bromo 1
 beignet 1
 bihai 2
 bans
@@ -16557,7 +16557,7 @@ blackplate 2
 brachypinacoid 2
 bleary
 brutishness
-brewed 1
+brewed 2
 blockheadism
 bandster 1
 bruzz 1
