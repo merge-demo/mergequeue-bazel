@@ -2547,7 +2547,7 @@ gallfly 1
 gael 1
 geothermal 3
 gilliver 2
-glusid 3
+glusid 4
 gapeseeds 2
 gweduc
 generalistic 3
@@ -8837,7 +8837,7 @@ gm 3
 gunne 2
 gadabout 1
 greegrees 1
-geoprumnon 3
+geoprumnon 4
 gooses 1
 girrit 1
 gastral 2
@@ -10769,7 +10769,7 @@ gorhen 3
 gimbals 5
 gallium 3
 glamourie 3
-geranyl 2
+geranyl 3
 gibblegable 2
 glycyl 1
 gutt 3
