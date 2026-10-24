@@ -3285,7 +3285,7 @@ babbler 2
 bloodiest 1
 basions 1
 backstabbed
-bronzes
+bronzes 1
 beadlery 3
 backpacking 2
 balche 2
