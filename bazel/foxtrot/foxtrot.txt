@@ -2568,7 +2568,7 @@ filicidal 1
 fluidification 4
 fetishry 4
 ferryway 2
-finding 2
+finding 3
 finlike 3
 fumes 3
 forechase 1
@@ -9475,7 +9475,7 @@ fasciculated 4
 fyces 3
 forearmed 2
 fand 2
-floors 3
+floors 4
 fraudulent 4
 fraudulentness 3
 ferreting 6
