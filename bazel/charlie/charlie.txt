@@ -4492,7 +4492,7 @@ carmagnole
 ceremonials
 carmaker 1
 circumscriptions 1
-call
+call 1
 carmalum 1
 carmanians
 combing
@@ -8618,7 +8618,7 @@ changeless
 cynosural 2
 curtness 2
 complementaries 1
-cohesionless 1
+cohesionless 2
 changelessness
 changelings 1
 changement 1
