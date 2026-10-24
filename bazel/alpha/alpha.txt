@@ -10148,7 +10148,7 @@ ardilla
 allopelagic 1
 ambroid 1
 arboraceous 1
-ambrosiaceae
+ambrosiaceae 1
 adoptabilities 3
 ambrosias 1
 argine
@@ -19542,7 +19542,7 @@ admiration 1
 apnea 2
 argulus 1
 argument 1
-arabidopsis 1
+arabidopsis 2
 argumental 1
 autecious 2
 anesthesiant 1
@@ -20546,7 +20546,7 @@ assuasive 1
 arterialising 2
 abbotcy
 antra 1
-arna 1
+arna 2
 absenteeship 2
 arthral
 amesace
