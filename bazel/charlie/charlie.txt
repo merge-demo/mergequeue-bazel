@@ -12388,7 +12388,7 @@ chevroned 1
 cnidophobia
 culebra
 chromatopsia
-chromatoptometer
+chromatoptometer 1
 chromatoptometry
 couch 2
 cobalticyanic 1
