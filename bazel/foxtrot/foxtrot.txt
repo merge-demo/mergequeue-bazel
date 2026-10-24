@@ -5151,7 +5151,7 @@ flatlands 2
 fiberized 4
 flavoprotein 3
 facula 1
-fatigued
+fatigued 1
 flywheels 2
 fjords
 flatman
