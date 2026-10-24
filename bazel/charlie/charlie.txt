@@ -605,7 +605,7 @@ capsicin 1
 cadweed
 competitorship
 cadwell 2
-cinerarium 2
+cinerarium 3
 caracal
 cacotrophy
 councilwomen
@@ -5190,7 +5190,7 @@ concordatum
 cocentric 1
 cashiered 1
 chenopodium 1
-cashiering
+cashiering 1
 cashierment 1
 cashkeeper
 crows 1
