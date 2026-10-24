@@ -8787,7 +8787,7 @@ gange 3
 golems 3
 greenswarded 2
 greenware 3
-giveth 2
+giveth 3
 greenwoods 5
 gospodar 2
 geophilus 2
