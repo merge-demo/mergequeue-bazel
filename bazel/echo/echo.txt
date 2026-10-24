@@ -2682,7 +2682,7 @@ electrotactic 1
 eyra 2
 emmanuel 2
 earhead 3
-emborder 4
+emborder 5
 electrotechnician 2
 exports
 eogaean 1
@@ -10931,7 +10931,7 @@ eulogies 2
 echinops 1
 euphuize
 eupyrion 2
-eupittone 1
+eupittone 2
 enteritis 2
 exams 2
 elephantry
