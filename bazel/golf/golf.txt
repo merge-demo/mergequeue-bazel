@@ -6057,7 +6057,7 @@ giesel 3
 gunate 1
 geyerite 2
 grungy
-grislier 5
+grislier 6
 glovemen 3
 glycemia 4
 griddle 1
@@ -6980,7 +6980,7 @@ groundsman 1
 gastroepiploic 3
 geswarp 1
 generalism 3
-goof 4
+goof 5
 goofah 3
 guaniferous 1
 greystone 3
