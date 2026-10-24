@@ -8068,7 +8068,7 @@ biculturalism 2
 billeters 1
 bicursal 3
 bailments
-bicuspid 1
+bicuspid 2
 bruxism 2
 brast
 burrobrush 2
@@ -15961,7 +15961,7 @@ bethrall 3
 birota 2
 bronchoalveolar 2
 bronchoblennorrhea
-backwoodsmen
+backwoodsmen 1
 bedlamising 1
 bungee 1
 bogsucker
@@ -17407,7 +17407,7 @@ butoxyl
 balsamic 1
 bunyan 2
 blini 2
-buninahua 1
+buninahua 2
 balaenoidean 1
 borating
 balldress 1
