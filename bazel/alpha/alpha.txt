@@ -2416,7 +2416,7 @@ apprehensibility 1
 adance
 antismut
 apeptic 2
-azygos 1
+azygos 2
 argemone 1
 afterfeed 2
 aftertime
@@ -3348,7 +3348,7 @@ antipolyneuritic 2
 adamantinoma
 adamantness 4
 actinochemical 1
-aphthongia 2
+aphthongia 3
 adamantoblast
 archery 2
 amblystoma
@@ -11277,7 +11277,7 @@ amdahl
 aminoformic 1
 amphirhinal 1
 antiprecipitin 1
-amphimixes 1
+amphimixes 2
 adamant 2
 acalycinous 2
 aloofly
