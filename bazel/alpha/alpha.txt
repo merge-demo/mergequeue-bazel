@@ -10915,7 +10915,7 @@ amosite 2
 anhydric
 availably 1
 airtight 1
-amnions
+amnions 1
 assurors 1
 amnios
 anvilling
