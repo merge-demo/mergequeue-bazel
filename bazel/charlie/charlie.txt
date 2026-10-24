@@ -3995,7 +3995,7 @@ cerotene
 carchariid 1
 clerisy
 carchariidae
-carcharioid 1
+carcharioid 2
 congredient
 carcharodont 1
 correctify 3
@@ -15860,7 +15860,7 @@ cuadra 2
 circumscrive 1
 closures 1
 circumclude 2
-carbonisation
+carbonisation 1
 cachaca 2
 comstockery
 calisthenical 1
