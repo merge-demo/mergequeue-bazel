@@ -24670,7 +24670,7 @@ cola
 cute
 carpospore
 copperbottom
-copperer
+copperer 1
 curare
 copperhead
 constructionism
@@ -30071,7 +30071,7 @@ cotice 1
 commandress 1
 crouth 1
 cellule 1
-conversational 2
+conversational 3
 chattanoogan 2
 crowbait
 centuriate
