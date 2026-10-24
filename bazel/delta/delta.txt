@@ -15899,7 +15899,7 @@ dorcatherium 2
 dosis 2
 deepeningly 1
 dossel 2
-dossels
+dossels 1
 disclaiming 1
 drench 1
 dossennus
@@ -18385,7 +18385,7 @@ duodenums 1
 dysphagia 2
 denter
 dimorphite 3
-damsons 3
+damsons 4
 deepfreezing
 dorrs
 divulgers 1
