@@ -4415,7 +4415,7 @@ caryophyllaceae
 chaperoned 2
 cuvies
 caryophyllin 2
-consecutiveness
+consecutiveness 1
 ceruloplasmin 1
 cytogenetics 1
 caryophyllus 1
@@ -4796,7 +4796,7 @@ carpool
 craning 1
 carpopedal 1
 cladoniaceous 1
-couteau
+couteau 1
 carpophyte
 covariables 2
 carpopodite 2
@@ -17504,7 +17504,7 @@ cobourg
 cueca 1
 coinitial
 cobridgehead 1
-chrysostomic
+chrysostomic 1
 chimneyhead 1
 coburg
 cobweb 2
