@@ -5866,7 +5866,7 @@ catenating 2
 catenation 2
 catenative 3
 capomo 1
-compositorial 1
+compositorial 2
 catenoid 1
 catenulate
 cacozyme 1
@@ -6891,7 +6891,7 @@ consortiums
 celtis 1
 celtish
 celtism
-celtium
+celtium 1
 cotyla
 clockroom 2
 contingencies
@@ -8748,7 +8748,7 @@ chapelling
 commonplaces 1
 chapelmaster
 colonises 2
-chapelry
+chapelry 1
 combflower 2
 chapelries
 cinerins
