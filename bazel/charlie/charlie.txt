@@ -22849,7 +22849,7 @@ conservancy
 coutelle 2
 conservant 1
 conservate
-catfaces
+catfaces 1
 circumcise
 combustibly 1
 conservational 1
@@ -27322,7 +27322,7 @@ circumciser
 coupstick 2
 coupure 1
 courage 1
-courageous
+courageous 1
 courager 1
 cherubs 1
 curacy
