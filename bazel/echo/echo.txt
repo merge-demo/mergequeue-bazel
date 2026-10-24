@@ -9749,7 +9749,7 @@ emerick
 enneahedron 2
 euhedral 1
 ectogenesis 3
-enrobing 1
+enrobing 2
 eucharist 1
 exfoliatory 2
 epyllion 2
