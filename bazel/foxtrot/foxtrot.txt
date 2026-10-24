@@ -769,7 +769,7 @@ fanciless 1
 foliicolous 2
 forestaff 1
 fragrance 2
-fallows 1
+fallows 2
 fandangos 2
 fandoms 4
 frivolized 2
@@ -853,7 +853,7 @@ farforthly 5
 flexing
 fellness 2
 farenheit 3
-fantasmal 3
+fantasmal 4
 fundus 1
 fantasms 1
 forsloth 5
@@ -2916,7 +2916,7 @@ freetrader 2
 fomentations 3
 fulham 2
 foregahger 2
-featherweights 1
+featherweights 2
 frumpiness 2
 fantastical 2
 flutiest 4
@@ -7374,7 +7374,7 @@ findy
 forbidals 2
 fasted 3
 featous 2
-foobar 4
+foobar 5
 forbiddenly 3
 fuage
 florideae 3
@@ -8548,7 +8548,7 @@ figs
 fumaroles 1
 fortification 4
 flatweed 3
-formulated 2
+formulated 3
 forgainst 3
 formulisation 1
 friaries 3
@@ -10726,7 +10726,7 @@ foldboat 1
 forcedly 1
 fimbria 2
 fuder 5
-frustrating 2
+frustrating 3
 fairing 3
 fingerless 3
 frustrative
