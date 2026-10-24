@@ -992,7 +992,7 @@ goldhammer 1
 ganderess 1
 gamester 1
 grimace 1
-geanticline 2
+geanticline 3
 gubernia 3
 grece 1
 gandertmeeth
@@ -2290,7 +2290,7 @@ geitonogamy 1
 gonostyle
 geomoroi 2
 grange 2
-granulosa
+granulosa 1
 gynarchy 2
 galante 1
 gumihan 2
