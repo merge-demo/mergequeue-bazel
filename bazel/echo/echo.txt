@@ -5851,7 +5851,7 @@ engrailed 1
 elsewards 1
 epizoicide
 engrainer 1
-electrocratic 1
+electrocratic 2
 engraining 3
 enwoven 2
 ekaha 1
@@ -6734,7 +6734,7 @@ enuresis 2
 entertake 2
 exstimulate 3
 exhumed 4
-eonism 1
+eonism 2
 exstill 1
 entete 1
 eurytherm 6
@@ -12930,7 +12930,7 @@ erasmus 2
 expatiates
 expatiating 1
 electable 3
-esses 2
+esses 3
 embracery 3
 erigible 3
 expatriate 1
