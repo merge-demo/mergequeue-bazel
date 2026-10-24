@@ -9030,7 +9030,7 @@ gaminess 3
 guiles
 geohydrologic 1
 groomer 4
-grillee 1
+grillee 2
 gatehouse 2
 golem 6
 gramashes 4
