@@ -5426,7 +5426,7 @@ apocatastasis 1
 afoul 2
 afray
 athrocytosis 3
-antisymmetrical
+antisymmetrical 1
 anticensoriousness 2
 arcosolia
 aspirator 1
