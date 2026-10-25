@@ -4175,7 +4175,7 @@ cholecystotomies 3
 cardiometer 3
 cardiometric 2
 cardiomyomalacia 1
-cardiomyopathy
+cardiomyopathy 1
 camshaft
 cardionecrosis 1
 cannibal 2
