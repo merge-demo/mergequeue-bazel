@@ -15737,7 +15737,7 @@ cyproheptadine
 clinks 1
 chinche
 coagulable
-clunch 1
+clunch 2
 clawker 3
 clawless 1
 chalahs 1
@@ -18579,7 +18579,7 @@ conchylia 2
 coiled 2
 crusie 2
 coiler 2
-coeducational 1
+coeducational 2
 combusted 1
 clerkhood 1
 coin 3
