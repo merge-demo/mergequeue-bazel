@@ -2563,7 +2563,7 @@ eminency 3
 eatable 3
 ezra 1
 emptiable 1
-electrometer 3
+electrometer 4
 exstrophy 2
 earthgrubber 1
 electrometrical 1
@@ -3435,7 +3435,7 @@ embogue 1
 electrophobia 2
 ennuyant 3
 ecalcavate 1
-errand
+errand 1
 exolete
 exemplar 2
 ecliptic

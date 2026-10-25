@@ -175,7 +175,7 @@ gorgoneion 6
 groggily 2
 goliathize 2
 goniometry 2
-gluteoperineal
+gluteoperineal 1
 guesting 3
 gradgrind 2
 golfer 1
@@ -492,7 +492,7 @@ gasifiers 1
 grunions
 geochronological 1
 girkin 2
-gravimetrical
+gravimetrical 1
 gelatin 3
 gye 4
 gluteus 2
@@ -7247,7 +7247,7 @@ glabella 2
 gelatinisation 1
 goriness 3
 galvanometrically 1
-germanocentric 4
+germanocentric 5
 getah 1
 gangion 4
 garlicmonger 4
