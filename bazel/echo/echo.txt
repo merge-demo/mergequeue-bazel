@@ -9270,7 +9270,7 @@ errhines 4
 encyclopedize
 extraclassroom
 erron 1
-empathies 1
+empathies 2
 electrotellurograph 2
 externalist 2
 exogamous 1
@@ -9969,7 +9969,7 @@ eloquently 1
 estuosity
 edibleness 2
 endophagy 1
-erythromelalgia
+erythromelalgia 1
 esugarization 4
 endowers 4
 entonement 1
