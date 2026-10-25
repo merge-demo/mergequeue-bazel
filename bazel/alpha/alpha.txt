@@ -19805,7 +19805,7 @@ armatures 1
 albation 3
 anarchal 5
 arcane 1
-averrer
+averrer 1
 ast 2
 atrail 3
 arrah

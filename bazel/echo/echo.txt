@@ -3893,7 +3893,7 @@ enfeebled 1
 eclipsis 1
 eyeletting 1
 executers
-endodontic
+endodontic 1
 emigration 2
 egressive 2
 equivote 3
