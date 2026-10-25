@@ -14268,7 +14268,7 @@ demulceate 2
 deb 1
 deviances 2
 dithion
-dithionous
+dithionous 1
 dephilosophize
 devotionate 1
 depaganize 1
