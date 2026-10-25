@@ -14288,7 +14288,7 @@ ditremid 1
 disharmonies 1
 diffusiveness 2
 despectant
-downsitting
+downsitting 1
 ditrichotomous 1
 ditriglyphic 3
 delating 2
