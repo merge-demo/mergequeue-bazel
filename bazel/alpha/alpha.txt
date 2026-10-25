@@ -14603,7 +14603,7 @@ alhandal 1
 anthoceros 3
 antidiphtherin 1
 anticline 2
-aliency 1
+aliency 2
 aviational 2
 antidepressants
 anthropurgic
@@ -15009,7 +15009,7 @@ agamogenesis 1
 anticouncil
 archrepresentative
 antenati 1
-anticourtier
+anticourtier 1
 anticovenanter 1
 assishness 3
 amtmen
