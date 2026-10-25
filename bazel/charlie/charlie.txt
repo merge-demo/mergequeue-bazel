@@ -3564,7 +3564,7 @@ capturable
 catechized
 capture 2
 captured
-captures 1
+captures 2
 capturing 2
 curricular 2
 capuan 1
@@ -7738,7 +7738,7 @@ ceroplastic
 ceroplastics
 cyanocrystallin 1
 cerosin 1
-cerote
+cerote 1
 chastises 2
 cerotin 3
 chorogi
@@ -17053,7 +17053,7 @@ coaches 1
 caprylin
 cornroot 1
 cibaria 2
-coperose
+coperose 1
 coachfellow 2
 coachy 1
 coaching
@@ -29678,7 +29678,7 @@ croft
 claybank 1
 cathars 1
 cornucopiate 2
-crofters 1
+crofters 2
 cainozoic
 crofts 2
 covering
