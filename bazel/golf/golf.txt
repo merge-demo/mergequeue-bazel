@@ -4653,7 +4653,7 @@ guttersnipish 2
 griggles 2
 graphometer 3
 gastrodialysis 2
-gaonic 1
+gaonic 2
 gasconade 5
 gummosis 2
 gamori 3
@@ -6723,7 +6723,7 @@ gluttonies 4
 gynaecologic 4
 glycolyl 6
 glimed 4
-geer 3
+geer 4
 gride 5
 graphitic 3
 gigs 3
@@ -10298,7 +10298,7 @@ galvanomagnet 2
 gigantically 3
 gorges 2
 gridded
-galliard 1
+galliard 2
 gulpier 2
 galactosidase 2
 girasol 1
