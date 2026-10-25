@@ -8614,7 +8614,7 @@ guider 1
 grauwacke
 greeds 2
 glutaminase 2
-gerrymanderer
+gerrymanderer 1
 gemmeous 2
 genethliacs 1
 gentlemanly 2
@@ -9553,7 +9553,7 @@ glume 2
 gastornithidae 4
 groved 4
 greenskeeper 2
-gur 2
+gur 3
 groveled 1
 gridiron 3
 giustina 4
