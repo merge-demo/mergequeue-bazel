@@ -8483,7 +8483,7 @@ cynegetic 2
 champerties 1
 chalaze 1
 champertor
-carbolxylol
+carbolxylol 1
 champertous
 cephalomotor
 champy 2
@@ -9461,7 +9461,7 @@ cheatry
 collumelliaceous
 chirayta 1
 cheats 1
-confract
+confract 1
 chebec 2
 counterinsurgent
 chebecs 2
@@ -17051,7 +17051,7 @@ counterdistinction
 conventually
 coaches 1
 caprylin
-cornroot
+cornroot 1
 cibaria 2
 coperose
 coachfellow 2
@@ -23236,7 +23236,7 @@ controversialize 1
 construer
 cyamus
 cardiatomy
-coalitionist
+coalitionist 1
 cohobation 1
 construes
 ciceroning 2
@@ -29014,7 +29014,7 @@ crimeful
 crimelessness
 crozzly
 crimeproof 2
-chickasaws 1
+chickasaws 2
 charlatanship 1
 charlemagne 2
 ceorlish
