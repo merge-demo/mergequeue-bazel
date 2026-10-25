@@ -5877,7 +5877,7 @@ film 2
 feyer 2
 fluctuation 2
 festine 3
-fecund
+fecund 1
 fistfight
 fates 2
 flexity 3
