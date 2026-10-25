@@ -2757,7 +2757,7 @@ foreparts 5
 fights 1
 festerment 3
 footway 1
-feis 2
+feis 3
 flanges 1
 fortescure
 fascisms 2
@@ -3159,7 +3159,7 @@ forehill 5
 fakir 1
 funduline 1
 forbearing
-fibromyotomy 3
+fibromyotomy 4
 feuding 3
 fibromuscular 2
 farmer
