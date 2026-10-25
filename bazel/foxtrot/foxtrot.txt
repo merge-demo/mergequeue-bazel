@@ -2743,7 +2743,7 @@ fiercer 3
 fragmentarily 2
 fellinic 3
 fesses 2
-flaunche 4
+flaunche 5
 facetiation 3
 friendlily 3
 festally 3
@@ -4768,7 +4768,7 @@ flagellations 5
 fieldstrip 1
 fingal 1
 footwalls 4
-feif 1
+feif 2
 filipino 3
 faikes 1
 falsifiability 1
@@ -8329,7 +8329,7 @@ forelouper 1
 furnished 3
 fautorship 2
 flytraps 3
-fusate 2
+fusate 3
 facade 2
 forisfamiliation 1
 fontlet 1
@@ -10580,7 +10580,7 @@ fragmental 2
 forks 3
 furfurals 2
 filiation
-francophobe 2
+francophobe 3
 feeblebrained 2
 fanteeg 2
 forwarn 1
