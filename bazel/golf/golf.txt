@@ -1169,7 +1169,7 @@ gulls 2
 grinners 4
 galliney
 grogs 1
-graftdom 1
+graftdom 2
 grift 8
 groatsworth
 glyptographer 1
@@ -4296,7 +4296,7 @@ gregos 2
 gigantesque 3
 grousing 2
 gumlike 2
-gabfests 3
+gabfests 4
 granulate 2
 glyptotherium 4
 goboes 3
