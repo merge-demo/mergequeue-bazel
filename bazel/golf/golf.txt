@@ -3472,7 +3472,7 @@ gaveler 1
 geometers 3
 gudgeons 7
 gowl 2
-gelatinated 1
+gelatinated 2
 gastrologer 1
 glazing
 genoa 3
@@ -6631,7 +6631,7 @@ galanga 2
 gruntingly 3
 glassine 5
 gaed 4
-goncalo
+goncalo 1
 gyrectomy 5
 geminating 3
 globulysis 2
