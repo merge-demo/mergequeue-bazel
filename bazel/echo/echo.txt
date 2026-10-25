@@ -13513,7 +13513,7 @@ erotology 1
 exteriorization 1
 electrocauterization
 elbert 1
-earcap
+earcap 1
 epitimesis 1
 error 2
 embowels 1
