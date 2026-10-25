@@ -5220,7 +5220,7 @@ distortedness
 decursion 3
 denominate 1
 decadent 1
-deek 1
+deek 2
 desmosis 2
 declination 1
 declaimers 2
@@ -5387,7 +5387,7 @@ demagogically 1
 duotype 3
 dentirostral 5
 drumbeating 2
-deceptory
+deceptory 1
 dribbler
 downless 1
 decorative
@@ -9688,7 +9688,7 @@ defamatory 1
 doorcase 1
 dipneusti
 dispense 1
-daphnias 1
+daphnias 2
 devilward 2
 ditting
 dungbred 1
