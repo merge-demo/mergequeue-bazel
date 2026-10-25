@@ -23859,7 +23859,7 @@ control 1
 controling 1
 controllable 1
 controllably 1
-controller
+controller 1
 churner 3
 costophrenic 2
 controlless
