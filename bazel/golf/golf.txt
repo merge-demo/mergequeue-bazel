@@ -1359,7 +1359,7 @@ garlion 1
 guhr 5
 guess 3
 gesturers
-garmentmaker 1
+garmentmaker 2
 grafting 3
 gemmel 3
 gelogenic 5
@@ -1798,7 +1798,7 @@ gonadial 2
 genealogizer 3
 gastroscopist 5
 gavelled 2
-gasterosteid 1
+gasterosteid 2
 glossolaly 3
 gutterblood 5
 gelatinotype 3
@@ -5304,7 +5304,7 @@ geometries 6
 glycerin 2
 gamelan 1
 gromil 5
-glycerite 2
+glycerite 3
 gigmanism 2
 glycerolate 3
 gymnadeniopsis 3
