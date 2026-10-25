@@ -15261,7 +15261,7 @@ beach 1
 brecken 2
 bisharin
 blueblaw 2
-bestrewed
+bestrewed 1
 bridesmaid 2
 bridesmaids 2
 blunges
@@ -17702,7 +17702,7 @@ banbury 1
 behove 3
 bismosol
 butteriness 1
-biont 2
+biont 3
 beanos 3
 braconid 2
 bankeress 2
