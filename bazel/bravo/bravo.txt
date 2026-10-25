@@ -1338,7 +1338,7 @@ borderlands 2
 balbusard 2
 beggarliness
 burlap 2
-brayed 2
+brayed 3
 butterbump 1
 betwixen
 balconies 2
@@ -2732,7 +2732,7 @@ barognosis 2
 betters
 bellypiece
 batholitic
-baroko 1
+baroko 2
 bubastite
 backward 1
 beltline 5
@@ -12836,7 +12836,7 @@ busuuti 2
 buccula 1
 balers 2
 bacterins
-basinerved 1
+basinerved 2
 brushoff
 barracan 4
 bodily
