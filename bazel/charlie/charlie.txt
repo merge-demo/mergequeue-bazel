@@ -14853,7 +14853,7 @@ cytomorphological
 cyton 2
 cytone
 chorda
-cadette
+cadette 1
 chess 1
 cartmaker
 cytopathic 1
@@ -24138,7 +24138,7 @@ cadbote 1
 cretins
 cooties 2
 compeers 1
-colascione
+colascione 1
 convicinity
 cattabu
 charon 1
@@ -29185,7 +29185,7 @@ crannogs 1
 chlordiazepoxide 1
 crownband
 cryoscopy 3
-colloblast
+colloblast 1
 candock 1
 comparator
 cityless
