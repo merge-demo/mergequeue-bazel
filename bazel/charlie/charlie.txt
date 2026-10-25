@@ -1011,7 +1011,7 @@ capuche 1
 caca
 calanque 1
 calantas 2
-chromocenter 1
+chromocenter 2
 chondroid
 calapite
 caprelline 1
@@ -5709,7 +5709,7 @@ catberry
 catbirds
 copyist
 codding 1
-catboats
+catboats 1
 catcall
 catcaller 1
 carburising 3
@@ -16428,7 +16428,7 @@ crispature 1
 chervil 2
 corsned
 conjecturer 2
-cloaklet 2
+cloaklet 3
 culbert
 cowichan
 citrange 2
