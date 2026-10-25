@@ -5601,7 +5601,7 @@ formulary 2
 fmt 1
 flyer
 forfar 3
-fingerwise 2
+fingerwise 3
 federal
 frontonasal 1
 flageolet 4
