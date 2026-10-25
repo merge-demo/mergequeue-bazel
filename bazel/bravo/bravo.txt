@@ -4797,7 +4797,7 @@ bedroll 4
 bedrooms 2
 bruckle 2
 bandicoots 3
-bedrugged 5
+bedrugged 6
 bedrugs 2
 bemeans 1
 brakesman 2
@@ -10210,7 +10210,7 @@ bondhold
 bloodletter
 belshazzar 3
 blackleg 3
-blacklegged 3
+blacklegged 4
 benzo 3
 betattering 2
 boyd 1
@@ -12108,7 +12108,7 @@ bleb 1
 boldhearted 1
 beclip 3
 beg
-bultey 2
+bultey 3
 beloid 1
 burbler 1
 backstop 3
@@ -14144,7 +14144,7 @@ brachium 2
 brattiness 3
 buriable 1
 brachyuran 2
-bollox 1
+bollox 2
 bezant 1
 bracingly 2
 bayed 3

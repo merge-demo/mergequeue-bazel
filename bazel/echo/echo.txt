@@ -12215,7 +12215,7 @@ execute 2
 executed 1
 exceptor 2
 extravagancies
-eras 3
+eras 4
 epitrichium
 elachistaceae 1
 epigraph
@@ -12836,7 +12836,7 @@ emboss
 eccentrics
 exothermically 3
 eloignment 2
-erythrolysis 6
+erythrolysis 7
 eupomatia 2
 ern 2
 ecphorization 2
@@ -13457,7 +13457,7 @@ expropriator 4
 eringo 1
 epenthetic
 electrolyse
-equilibrize 1
+equilibrize 2
 ensuingly 3
 encopresis 5
 eatanswill 2
