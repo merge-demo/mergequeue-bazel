@@ -2949,7 +2949,7 @@ foxberries 8
 fac 5
 flaked 1
 furloughs 2
-fungological 2
+fungological 3
 froths 3
 fevered 3
 flitchen 2
