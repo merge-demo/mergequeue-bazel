@@ -7966,7 +7966,7 @@ galvanotaxis 1
 glossina 1
 goniatitid 2
 gynecologic 4
-getups
+getups 1
 grippy 1
 glandiform 3
 grandiosity 4
