@@ -10560,7 +10560,7 @@ bezoardic 1
 bespeech
 baptisteries 1
 bullheaded 1
-blatiform
+blatiform 1
 biotelemetric 3
 biffies
 blats 2
