@@ -3053,7 +3053,7 @@ federalists 1
 franchising 1
 forficiform 1
 fetichize 3
-forceput 2
+forceput 3
 fibred 1
 fibrefill 5
 fenestra 1
@@ -5601,7 +5601,7 @@ formulary 2
 fmt 1
 flyer
 forfar 3
-fingerwise 2
+fingerwise 3
 federal
 frontonasal 1
 flageolet 4
