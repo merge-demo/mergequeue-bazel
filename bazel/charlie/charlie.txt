@@ -9124,7 +9124,7 @@ charters 2
 cryptograms 3
 cindered 1
 chartist 1
-chartless
+chartless 1
 caricatured
 chartography
 chartographic 1
