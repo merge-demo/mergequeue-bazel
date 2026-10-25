@@ -6143,7 +6143,7 @@ ereptic 1
 espringal
 enfacement 2
 enlodge 1
-episkotister 2
+episkotister 3
 estuary 2
 endocystitis 1
 enlodgement 1
@@ -11042,7 +11042,7 @@ eliminator 5
 eurythmics
 epiphenomena 1
 endotrophic
-epigonichthys 3
+epigonichthys 4
 enterrologist
 establish 4
 euroaquilo 2
