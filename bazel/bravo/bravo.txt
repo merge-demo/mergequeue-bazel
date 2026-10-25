@@ -2370,7 +2370,7 @@ banshie 1
 brakemen 3
 belabors 2
 barcoo 2
-beslab
+beslab 1
 bemoisten 1
 besplash 1
 bardcraft
@@ -4807,7 +4807,7 @@ bedside 4
 bedsonia 3
 bedsore 3
 bakers 1
-bemirrorment 1
+bemirrorment 2
 belvederes 1
 believableness 2
 baboons 1
@@ -14865,7 +14865,7 @@ bechalking 1
 berms 3
 beefs
 bingies 1
-breadwinner 4
+breadwinner 5
 beanpoles 1
 bloodthirstier 1
 breadwinning 2
@@ -17929,7 +17929,7 @@ bisti
 buhr 3
 bottega
 bushmaker
-bearbine 2
+bearbine 3
 bioclean 3
 bushmaking
 branial
