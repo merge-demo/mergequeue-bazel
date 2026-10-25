@@ -4760,7 +4760,7 @@ allogamy 3
 attemperation 3
 aequor
 altitudes 2
-aequorins
+aequorins 1
 aerate
 ablactating 1
 aerating 2
