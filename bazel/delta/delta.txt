@@ -1664,7 +1664,7 @@ deamidation
 deaminase 1
 digitize 1
 daws 2
-daw 2
+daw 3
 dextraural
 deamination 1
 deaminize 3
