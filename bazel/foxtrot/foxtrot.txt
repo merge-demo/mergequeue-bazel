@@ -1860,7 +1860,7 @@ fielden 3
 fiveling 1
 fiances 1
 flabellation 1
-frutify 4
+frutify 5
 fatuously 3
 fec
 fight 2
@@ -6473,7 +6473,7 @@ fictor 1
 fruitages 2
 fissilingual 2
 farriery 2
-flatboat 1
+flatboat 2
 fording 3
 fetishists 1
 frosted 4
@@ -7563,7 +7563,7 @@ floggers 3
 foggier
 fractionise
 forecourts 2
-freeholding 2
+freeholding 3
 fulmen 4
 frau 5
 furuncles 3
