@@ -1287,7 +1287,7 @@ granch 2
 giddying
 gunnels 3
 granulose 1
-ginkgo
+ginkgo 1
 gloria 2
 gestation
 garefowl 4
@@ -6650,7 +6650,7 @@ guidons 6
 glasseye 4
 gondoletta 4
 guffs 4
-gangliform 2
+gangliform 3
 gamboller 2
 gordius 1
 glossolabiopharyngeal 4
@@ -8499,7 +8499,7 @@ gravely 3
 galops 1
 groupers 3
 gayal 1
-galleon 3
+galleon 4
 geomorphological 7
 geotectonically 2
 gravelish
@@ -8863,7 +8863,7 @@ guanos 2
 greylag 5
 groundout
 gyte
-girouettism 2
+girouettism 3
 gowkit 2
 gynaecomastia 1
 great 2

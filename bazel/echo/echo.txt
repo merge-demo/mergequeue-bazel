@@ -2178,7 +2178,7 @@ epizoan
 eructate 3
 endocyclic 2
 evanescently 3
-elbowy 2
+elbowy 3
 elbowpiece 2
 elbows 1
 explores 1
@@ -4229,7 +4229,7 @@ emptor 3
 eccyclema 3
 eggeater 2
 evagination
-emotionalize 1
+emotionalize 2
 extrathecal 3
 emprizes 3
 epicycloid 2
@@ -5351,7 +5351,7 @@ emendicate 1
 endosmoses 2
 explicit 2
 enjewel
-emim 3
+emim 4
 everglades 1
 exsertion 2
 endospore 2
