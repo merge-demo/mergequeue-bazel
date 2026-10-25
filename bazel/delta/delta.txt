@@ -1227,7 +1227,7 @@ demiassignation 1
 deleads 1
 dulcinist 1
 dextrines
-dialyzers
+dialyzers 1
 diapasonal 4
 dermatoskeleton 3
 dreggier 2
@@ -12448,7 +12448,7 @@ discontinue
 douching 2
 dislocable
 diastematic
-dishrags 1
+dishrags 2
 dishtowels 3
 detrital 4
 dishumanize 3
@@ -15742,7 +15742,7 @@ diaxonic 1
 disyntheme
 dater 2
 dicht
-drubbly 2
+drubbly 3
 dicyanine 2
 dogshore 4
 dorm 1

@@ -2133,7 +2133,7 @@ bantu 1
 bantus 1
 bandon
 bewield 4
-blandfordia 2
+blandfordia 3
 botrychium 1
 backup
 blahlaut 4
@@ -3312,7 +3312,7 @@ butleress
 basisidia
 bedwell
 bothering 1
-basisphenoidal 1
+basisphenoidal 2
 barbut 1
 basitemporal 2
 beguilers 2
@@ -9191,7 +9191,7 @@ bunolophodont 2
 bobbinwork 1
 bipartisanship
 bipartitely
-buffer 1
+buffer 2
 becrimes 2
 belitter 3
 bumbee 2

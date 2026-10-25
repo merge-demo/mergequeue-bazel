@@ -29648,7 +29648,7 @@ cattishly 1
 cognizer
 chemosterilant
 convulsiveness 2
-cotingid
+cotingid 1
 crocodylus
 chronol 2
 counteraffirm 3
@@ -31840,7 +31840,7 @@ cutises
 cutiterebra 1
 controverse 1
 coloss
-cutlasses
+cutlasses 1
 congealed
 cutlassfishes 2
 confusive 1
