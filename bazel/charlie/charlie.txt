@@ -19069,7 +19069,7 @@ cecropia 3
 commutual
 colligative 2
 carmela
-collimate 1
+collimate 2
 coeds
 chiefess
 cabalism 1
@@ -20786,7 +20786,7 @@ complimenter 1
 complimentingly
 corkmaker
 complin 2
-cranioplasty
+cranioplasty 1
 concessively 2
 complines
 complins
@@ -28351,7 +28351,7 @@ cymbalers
 califate 1
 counteragent
 colaphize 1
-clanned 2
+clanned 3
 crawberry 1
 crawdad
 crawdads 1
