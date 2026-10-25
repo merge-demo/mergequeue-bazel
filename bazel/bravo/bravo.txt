@@ -9578,7 +9578,7 @@ bisdiapason 1
 binary 2
 bicapsular 2
 bandlimits 3
-bisectors 4
+bisectors 5
 bisectrices
 busybodyness
 bullheadedness 2
@@ -14979,7 +14979,7 @@ beaufet 2
 breathseller 2
 breba 4
 brewmaster
-boatfalls 1
+boatfalls 2
 breccial
 boatly 2
 breccias 1
