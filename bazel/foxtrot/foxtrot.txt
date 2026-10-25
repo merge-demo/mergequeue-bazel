@@ -632,7 +632,7 @@ fauster 2
 frowstier 2
 flyways
 flagmen 1
-falsity 2
+falsity 3
 faltboat 1
 flugelmen 1
 faltere 1
@@ -5072,7 +5072,7 @@ flapping 1
 folders 1
 fessely 1
 flumps 1
-flamelet 1
+flamelet 2
 fun 4
 fuligo 2
 fundless 2
@@ -5441,7 +5441,7 @@ filterable 1
 flexuosely 6
 floatative 2
 foggy 2
-fleering 2
+fleering 3
 faunal 1
 flavorers 3
 figurativeness 1
@@ -5755,7 +5755,7 @@ forelive 1
 footlessness 10
 flyswatter 1
 filipiniana 1
-figmental 1
+figmental 2
 forpass 1
 frise 3
 flocking
