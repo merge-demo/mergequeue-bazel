@@ -490,7 +490,7 @@ ecclesiologically 1
 exchanging
 expunged 1
 egregiously 1
-eucaryotic 2
+eucaryotic 3
 epiphylline 3
 eccrisis 1
 enregistered
@@ -5393,7 +5393,7 @@ equator
 elaterids
 egers
 emeroid 2
-elateridae
+elateridae 1
 encorbellment 1
 elamitic
 extuberant 1
