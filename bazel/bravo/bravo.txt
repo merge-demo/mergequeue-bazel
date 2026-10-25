@@ -14098,7 +14098,7 @@ blot
 babbage 2
 blasters 2
 bugged 2
-butsudan
+butsudan 1
 brekkle 5
 bumbaze 1
 brighteyes 1
