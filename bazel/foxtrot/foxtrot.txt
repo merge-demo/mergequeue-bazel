@@ -7277,7 +7277,7 @@ freesheet 1
 figuring 4
 fiants 2
 freshment 1
-femereil
+femereil 1
 fibrilations 5
 fossilism 2
 filefish
@@ -10382,7 +10382,7 @@ fucate 1
 fronting
 fizzle 2
 focus 1
-furoid 1
+furoid 2
 feedable
 feared 3
 frangipanis 4
