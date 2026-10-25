@@ -2605,7 +2605,7 @@ eirenicon
 essaying 1
 embassies 3
 elysian 2
-electropathy 2
+electropathy 3
 electropathology
 electrophysiological 1
 eunectes 2
@@ -4556,7 +4556,7 @@ externize 1
 euphyllopoda
 enureses 1
 epitheliogenetic 1
-emplaned 2
+emplaned 3
 embarkation 1
 encephalotome 2
 edomite 5

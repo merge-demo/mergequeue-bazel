@@ -2165,7 +2165,7 @@ ferrous 1
 fingerberry 2
 felony
 foreignership 2
-fractioned 3
+fractioned 4
 friskest 3
 frontiers 3
 folkmoot 1
@@ -7040,7 +7040,7 @@ forehandedly 4
 fonticulus 1
 flapmouthed 2
 foreganger 2
-feinting 3
+feinting 4
 fontinas 2
 forepromise 3
 figura 3
