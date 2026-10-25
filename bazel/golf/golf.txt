@@ -6426,7 +6426,7 @@ grotto
 grasswidowhood
 goitrogenic 3
 galibi 4
-garbing 4
+garbing 5
 glossopteris 2
 golaseccan 4
 glassman 2
@@ -8735,7 +8735,7 @@ globin 2
 geraniaceous 3
 gismo 5
 groundenell 1
-grubby 4
+grubby 5
 gambit 3
 glucosuric 2
 garrets

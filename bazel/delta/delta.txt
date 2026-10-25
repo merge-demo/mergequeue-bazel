@@ -6009,7 +6009,7 @@ demonetization 5
 dacite 2
 delimiting 2
 decohere
-disapprove 4
+disapprove 5
 dermatonosus 4
 derogated
 depthways 3
@@ -14250,7 +14250,7 @@ diter 1
 diluter
 ditertiary 1
 disyokes 2
-dreadnoughts
+dreadnoughts 1
 dooms 1
 dithecal 1
 dither 1
