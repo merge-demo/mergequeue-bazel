@@ -3988,7 +3988,7 @@ azilut 3
 adman
 antiquatedness 3
 atheticize
-admeasurer 1
+admeasurer 2
 adumbrant 1
 admeasuring
 adulterant
@@ -5325,7 +5325,7 @@ anilao 2
 accra 3
 afflicter
 afflicting 1
-afflictingly 3
+afflictingly 4
 afflictionless 2
 abranchian 2
 ambulante
@@ -21529,7 +21529,7 @@ asphyxias
 anticlassically 2
 auxoaction 1
 antiphase
-amarantite
+amarantite 1
 asphyxiating 2
 athapaskan 1
 asphyxiation 2
