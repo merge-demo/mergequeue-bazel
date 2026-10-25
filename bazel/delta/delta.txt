@@ -3820,7 +3820,7 @@ dysphemistic 2
 denigrative 3
 donkey 1
 dialyzator
-dienes 1
+dienes 2
 dicier 1
 disjecting 1
 duplexed 2
@@ -3981,7 +3981,7 @@ decontaminates 1
 dunstone 1
 drugless 2
 dustman 1
-decontaminator 2
+decontaminator 3
 disquixote
 delatinize 2
 delation 1
