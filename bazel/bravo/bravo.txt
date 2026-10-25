@@ -626,7 +626,7 @@ bronchoaspergillosis 1
 betterness 3
 biscuitmaking 2
 blinds 2
-bacteriologists 3
+bacteriologists 4
 breird 5
 burnoose 2
 bacteriophages 3
@@ -3775,7 +3775,7 @@ baysmelt
 beswitch
 bioenvironmental
 betatrons 5
-batwomen 2
+batwomen 3
 brevipennate 1
 beetlestock 3
 batz
@@ -14910,7 +14910,7 @@ brachets 3
 blastemal 2
 beknotting 1
 butterflylike 1
-breastbeam 1
+breastbeam 2
 burut
 bungerly 3
 bitthead 1
