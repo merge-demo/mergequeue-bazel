@@ -1402,7 +1402,7 @@ davies 2
 duotriode
 dayless 1
 decephalize 1
-diorites
+diorites 1
 daviesite
 deleted 1
 demilitarize 2
