@@ -16212,7 +16212,7 @@ clinginess 1
 cuit
 craniopagus
 clinging
-clingingly
+clingingly 1
 clinia
 condensations 1
 clinicopathological
