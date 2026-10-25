@@ -932,7 +932,7 @@ aldolize 1
 alloxy
 animous 1
 appeasably 3
-absonous
+absonous 1
 absorb 1
 adulterously 1
 attracted 1
@@ -10276,7 +10276,7 @@ anhydrated 1
 acidific 1
 ars 1
 ameliorates
-adenotyphoid 1
+adenotyphoid 2
 algins
 allice 2
 adhort
@@ -16489,7 +16489,7 @@ anviltops 2
 altesse
 anxietude 1
 adipocele 2
-arquated 1
+arquated 2
 antioxidant 2
 ampholyte 1
 anxiously 1
