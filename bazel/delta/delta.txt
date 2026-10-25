@@ -16632,7 +16632,7 @@ dexterousness 2
 debiteuse 2
 deathbeds 2
 dragstaff 2
-drone 2
+drone 3
 designation 2
 dilettantes 1
 dragsters 4
