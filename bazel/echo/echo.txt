@@ -3733,7 +3733,7 @@ embrittling 4
 embryulcia 2
 embryulculci 1
 exercitorial 3
-extravagantness 2
+extravagantness 3
 enfranchise 2
 erodability 1
 expedited
@@ -4085,7 +4085,7 @@ elve 2
 eucrasy 1
 eutherian 1
 ethylbenzene 1
-ecthymata
+ecthymata 1
 euthymy
 esthetophore 4
 emboil 3
