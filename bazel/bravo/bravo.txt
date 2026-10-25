@@ -2370,7 +2370,7 @@ banshie 1
 brakemen 3
 belabors 2
 barcoo 2
-beslab
+beslab 1
 bemoisten 1
 besplash 1
 bardcraft
@@ -8269,7 +8269,7 @@ botte
 belittlement
 bigas 3
 bigbury 1
-buttstrapped 1
+buttstrapped 2
 bigemina 1
 berberian 1
 barosma 2
@@ -11466,7 +11466,7 @@ begemming 1
 bedoctor 1
 blintze 1
 bluewoods 2
-billposter 1
+billposter 2
 bluffable 2
 blicky 1
 bialveolar

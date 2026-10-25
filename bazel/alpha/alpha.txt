@@ -5869,7 +5869,7 @@ akamatsu 1
 agenizing 1
 agennesis 3
 agential
-allopatrically
+allopatrically 1
 adolph 4
 agenting
 agentives
@@ -19805,7 +19805,7 @@ armatures 1
 albation 3
 anarchal 5
 arcane 1
-averrer
+averrer 1
 ast 2
 atrail 3
 arrah

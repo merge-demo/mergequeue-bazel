@@ -1917,7 +1917,7 @@ dissenterism 1
 dances 5
 debriefings 2
 debris 1
-debrominate 1
+debrominate 2
 diandrian 1
 disapprobations 3
 dacryd 4
@@ -11476,7 +11476,7 @@ dekaliter 2
 dishier 2
 diplodia 1
 dicarboxylic 1
-deployments
+deployments 1
 disaccharid 1
 discoideae
 despatchers 1
@@ -12206,7 +12206,7 @@ disflesh
 disfoliage 2
 disrelate 1
 disfoliaged
-distich 1
+distich 2
 descendibility
 disherent 2
 disfortune 3

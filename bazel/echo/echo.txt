@@ -3893,7 +3893,7 @@ enfeebled 1
 eclipsis 1
 eyeletting 1
 executers
-endodontic
+endodontic 1
 emigration 2
 egressive 2
 equivote 3
@@ -6081,7 +6081,7 @@ emydinae 2
 ecumenicalism 4
 erotization 2
 exposer 3
-evenhandedly
+evenhandedly 1
 eluant
 enfever 2
 edinburgh 1
@@ -8329,7 +8329,7 @@ epidictic 2
 endogamies
 eriocaulaceae 4
 electrodeposit 1
-enciphers 2
+enciphers 3
 elev 1
 expressibly
 endured 2
