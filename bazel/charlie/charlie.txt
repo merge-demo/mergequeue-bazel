@@ -9124,7 +9124,7 @@ charters 2
 cryptograms 3
 cindered 1
 chartist 1
-chartless
+chartless 1
 caricatured
 chartography
 chartographic 1
@@ -20581,7 +20581,7 @@ competent 1
 competentness 2
 classmates 3
 competible 1
-cyclothem
+cyclothem 1
 causation 1
 competing
 churchish
@@ -20894,7 +20894,7 @@ coart
 cosmognosis
 colonnades 1
 carbarn
-cheesiness 2
+cheesiness 3
 comprehender 3
 coolamon 1
 carnivallike 2
