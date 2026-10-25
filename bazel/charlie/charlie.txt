@@ -4413,7 +4413,7 @@ changeably
 carioles
 caryophyllaceae
 chaperoned 2
-cuvies
+cuvies 1
 caryophyllin 2
 consecutiveness 1
 ceruloplasmin 1
@@ -5841,7 +5841,7 @@ categorizer
 categorizes
 chromeplated 1
 cabas
-crawling 1
+crawling 2
 chateau
 cateye 1
 catel

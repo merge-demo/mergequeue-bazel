@@ -2087,7 +2087,7 @@ demonologies 1
 digressingly 1
 decaliters 3
 dichopodial
-decalitre
+decalitre 1
 dunlop 1
 dinornithid 1
 disappearance 1
@@ -14634,7 +14634,7 @@ discipliner 1
 dusk 1
 divulsing 1
 divulsion 7
-divvy 1
+divvy 2
 derating 6
 depressing 2
 diallel 1
