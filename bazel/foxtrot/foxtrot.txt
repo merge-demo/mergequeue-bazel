@@ -352,7 +352,7 @@ fawniest 5
 formagenic 2
 fetes 3
 famulative 2
-flaggelate 2
+flaggelate 3
 fivish 1
 factions
 forfeiture 4
@@ -1126,7 +1126,7 @@ farthings 5
 forlornness 4
 fubs 4
 footprints
-fitted 5
+fitted 6
 foreguts 1
 flog 3
 falseheartedness 2
@@ -1654,7 +1654,7 @@ frike 5
 forethoughtfulness 2
 firoloida 1
 farmerette 2
-focalises 2
+focalises 3
 federate
 fuddledness 2
 fealty
@@ -5495,7 +5495,7 @@ fiduciarily 3
 friseurs 3
 fossed 3
 fretwork 4
-forbarred 1
+forbarred 2
 fratching 3
 foraged 2
 fleshy 4
@@ -9171,7 +9171,7 @@ feat 3
 foveole 2
 folded 2
 federations 1
-formalizable 2
+formalizable 3
 fooyung 1
 fadednyess 2
 figulines 5
@@ -10773,7 +10773,7 @@ feretrum 3
 fashious 3
 fascisticize 2
 finials 3
-fulgentness 3
+fulgentness 4
 fanaticize 2
 flittermice 2
 films 2
