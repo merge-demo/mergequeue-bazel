@@ -2329,7 +2329,7 @@ falbalas
 frillings 1
 fecula
 fenzelia 3
-feod
+feod 1
 firestopping 4
 foreimagine
 fconvert 1
