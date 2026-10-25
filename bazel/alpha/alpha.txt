@@ -3256,7 +3256,7 @@ acupuncturator
 acupuncture
 abonne 2
 acupunctured
-armagnacs
+armagnacs 1
 acupuncturing 2
 antivenomous
 acupuncturist 3
@@ -18318,7 +18318,7 @@ apotheoses
 anaesthetizing 2
 asor 1
 arachnoidea
-antinial 1
+antinial 2
 arachnology
 ancistrocladus
 amoinder

@@ -30090,7 +30090,7 @@ comptrol
 cephalophorous 1
 chordoid 1
 crowder 1
-cmdg
+cmdg 1
 crowdy 2
 crowdies
 confecture 1
