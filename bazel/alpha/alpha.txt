@@ -2252,7 +2252,7 @@ armigeri 1
 antiager 3
 avatara 1
 axel 1
-ampherotoky 1
+ampherotoky 2
 achuete 2
 astrography
 antinoise
@@ -12205,7 +12205,7 @@ assistive 1
 ancestorially
 alcoholisation
 ancestral
-antlerite
+antlerite 1
 ancestry
 autocue 3
 astronautical 4
