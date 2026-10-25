@@ -11081,7 +11081,7 @@ borborygmic 1
 benzimidazole
 biomorphic 1
 billeter
-bedwarfs 1
+bedwarfs 2
 broil
 baobabs 1
 blockmaker 3
@@ -12697,7 +12697,7 @@ baianism
 backhander 1
 bushmaster 1
 bibulously
-blastophthoric 1
+blastophthoric 2
 bibliographically 5
 bowet 2
 booker 2

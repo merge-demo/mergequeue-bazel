@@ -673,7 +673,7 @@ fresser 1
 fiancing 4
 flitwite 1
 fidgety 4
-focalised 1
+focalised 2
 fizzier 3
 fireman 1
 filemot 2
@@ -2097,7 +2097,7 @@ forerehearsed
 fell 4
 fissipalmate 1
 forebodies 4
-facture 3
+facture 4
 finetop 2
 favorless 1
 frument 2
@@ -3734,7 +3734,7 @@ fierasferid 2
 fistulas 1
 fittiness 3
 finales 3
-furling 1
+furling 2
 fillips 1
 flics 1
 flexibilty 1
