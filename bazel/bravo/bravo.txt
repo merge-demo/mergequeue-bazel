@@ -2370,7 +2370,7 @@ banshie 1
 brakemen 3
 belabors 2
 barcoo 2
-beslab
+beslab 1
 bemoisten 1
 besplash 1
 bardcraft
