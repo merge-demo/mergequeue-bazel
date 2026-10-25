@@ -4748,7 +4748,7 @@ forestry
 flo 3
 fertil 2
 furtherest
-fiddleneck
+fiddleneck 1
 freethinkers 2
 farcies
 feuillage 2
@@ -5327,7 +5327,7 @@ foregather 3
 fifteen 2
 fumarole 3
 feasts 1
-filial 1
+filial 2
 fant 2
 forcepslike 2
 foulmouthedly 1
@@ -9570,7 +9570,7 @@ figureless 2
 final 2
 fluter 2
 freebie 2
-frescos 2
+frescos 3
 farsi 2
 fleeciest 4
 freebooter

@@ -11923,7 +11923,7 @@ cuds 3
 calculabilities 1
 crestfallenness
 cerites 2
-cohanim
+cohanim 1
 cruces 2
 cosmochemistry 1
 choreoid
@@ -19585,7 +19585,7 @@ columelliaceae 1
 columels
 columna
 columnal
-camphors
+camphors 1
 columnarian 1
 calamaries 2
 columnate
@@ -27215,7 +27215,7 @@ camisade 2
 compositive 2
 chondrogenetic 2
 countervair 1
-coprocessor 1
+coprocessor 2
 countervallation 1
 countervalue
 coxarthrocace 1
