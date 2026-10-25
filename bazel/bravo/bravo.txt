@@ -4210,7 +4210,7 @@ beatuti 1
 brachet 1
 blockiness 2
 bowls 2
-boudoir 2
+boudoir 3
 beaucoup 2
 beaued 1
 biblicistic 3
@@ -11626,7 +11626,7 @@ bosket 3
 boatage 1
 bacterioscopical 2
 barspoon 2
-boatbuilding
+boatbuilding 1
 boathook 1
 boathouse 1
 backbends 1
