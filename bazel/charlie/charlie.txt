@@ -9568,7 +9568,7 @@ closeted 4
 checkwork 1
 cosmologist
 checkwriter
-concurrence
+concurrence 1
 cascading
 cheddar
 commentating 3
