@@ -2346,7 +2346,7 @@ bones 4
 bastinade 1
 biolysis
 belligerency 1
-bachelorlike
+bachelorlike 1
 barbula
 bardiness 1
 barbulate
@@ -9083,7 +9083,7 @@ bioastronautical 1
 bedecorate 3
 ballistocardiograph 1
 biosensor 4
-bearishness 3
+bearishness 4
 binominated 3
 biosynthesize 1
 benzonitrol 2
@@ -15909,7 +15909,7 @@ bethumb
 barbaralalia 6
 bromized
 basified
-bromizing
+bromizing 1
 bounces
 behooped 2
 bipinnatisected 2
