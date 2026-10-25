@@ -9269,7 +9269,7 @@ erred 1
 errhines 4
 encyclopedize
 extraclassroom
-erron
+erron 1
 empathies 1
 electrotellurograph 2
 externalist 2
@@ -13761,7 +13761,7 @@ exodontist 2
 ethnize 2
 encloak 2
 exosperm 2
-evermo 3
+evermo 4
 entea 1
 extispicious 2
 extoling
