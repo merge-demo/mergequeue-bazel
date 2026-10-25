@@ -7381,7 +7381,7 @@ gestor 1
 glomerule 3
 gilthead 4
 glyptograph 5
-gallach
+gallach 1
 gynostemia 3
 groupable 4
 gastromalacia 3
@@ -8759,7 +8759,7 @@ gamene 1
 gallate 2
 griming 1
 gonapod 6
-galactagoguic 3
+galactagoguic 4
 gawkers 1
 gudefather
 glaumrie 3
@@ -8859,7 +8859,7 @@ gastness 1
 gypsiologist 1
 gneisses 1
 guardfully 3
-guanos 2
+guanos 3
 greylag 5
 groundout
 gyte

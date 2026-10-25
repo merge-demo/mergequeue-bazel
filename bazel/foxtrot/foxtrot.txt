@@ -7882,7 +7882,7 @@ foredates 3
 flannelbush 3
 forerun 3
 fname 2
-factiousness 2
+factiousness 3
 franklinia 1
 foreruns 4
 flacket 2
@@ -11711,7 +11711,7 @@ frameless 2
 flaw 1
 fanfish 1
 fiancailles 3
-frowns 3
+frowns 4
 furriered 4
 forebitter 3
 ferruled 1
