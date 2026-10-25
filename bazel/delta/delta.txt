@@ -1981,7 +1981,7 @@ dau
 downcastly 1
 dragbar 2
 dupondidii
-disvalue 5
+disvalue 6
 dopant 1
 discostate
 debuted 3
