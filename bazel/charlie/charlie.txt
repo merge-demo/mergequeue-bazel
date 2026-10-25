@@ -10688,7 +10688,7 @@ chimneyless 2
 counterdefender 1
 chimneylike
 chastisement
-chimneyman 2
+chimneyman 3
 chimneypiece 1
 chimopelagic
 chymotrypsinogen 2
@@ -25712,7 +25712,7 @@ corresponded 2
 correspondence 2
 correspondences 1
 correspondency
-correspondent
+correspondent 1
 composedness
 correspondential
 correspondently
