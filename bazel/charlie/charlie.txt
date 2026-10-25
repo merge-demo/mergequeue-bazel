@@ -7093,7 +7093,7 @@ centetid 1
 centiar
 centiares
 copita
-curvidentate 1
+curvidentate 2
 coquetoon
 centiday
 cannikin
@@ -16907,7 +16907,7 @@ ceyssatite 2
 clumping
 clumpish 1
 cinquecentism 2
-capitano 2
+capitano 3
 clumpishness 1
 cohere
 clumps
@@ -20136,7 +20136,7 @@ commiserations
 callicebus 1
 commissary
 canham 1
-cleverly 2
+cleverly 3
 coccidiomorpha
 commission 1
 chasteners 2
@@ -29572,7 +29572,7 @@ critling 1
 coadunating
 critters 5
 crittur
-cardiokinetic 2
+cardiokinetic 3
 consular
 crivetz
 constraint 1
