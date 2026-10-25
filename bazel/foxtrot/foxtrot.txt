@@ -5383,7 +5383,7 @@ fleche 2
 forelady 3
 folliculate 6
 flechettes 3
-flecked
+flecked 1
 forkhead
 fleckering 1
 franco
