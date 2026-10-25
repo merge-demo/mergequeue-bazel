@@ -7446,7 +7446,7 @@ foreguidance 3
 firecrest 4
 finner 1
 freemen
-flagginess 1
+flagginess 2
 forcipation 1
 flutelike 2
 forcipressure 1
@@ -10224,7 +10224,7 @@ frogmarch 2
 flowerful 1
 flossier 1
 frighted 1
-franconian 3
+franconian 4
 finespun 3
 formolit 1
 frabous 1
