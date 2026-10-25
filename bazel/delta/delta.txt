@@ -276,7 +276,7 @@ dhotee
 degermed 2
 doradilla 3
 daguerreotyped
-daguerreotyping
+daguerreotyping 1
 digitonin
 dreadnaught 1
 docken 1
