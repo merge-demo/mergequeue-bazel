@@ -5681,7 +5681,7 @@ flingy 4
 funded 3
 fiddlestring 3
 flings 2
-freestyle
+freestyle 1
 fishwife
 flinkite 2
 flint 5
