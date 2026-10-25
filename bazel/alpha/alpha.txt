@@ -6991,7 +6991,7 @@ antineutrally
 accipitral
 arsenite 1
 apochromat
-ayuntamiento
+ayuntamiento 1
 assentatious 1
 assaulters 1
 acceptilating 2
@@ -15053,7 +15053,7 @@ antidemoniac
 antidepressant 1
 antidetonating
 actuose 2
-antidicomarian 1
+antidicomarian 2
 axiomatizing 3
 ascetically 1
 aletaster 1
@@ -19123,7 +19123,7 @@ algorithm 1
 anisylidene 1
 aphoristic
 archwag 1
-archways 3
+archways 4
 arceuthobium 1
 anciens 2
 arcifera 2
