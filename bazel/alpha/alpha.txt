@@ -19874,7 +19874,7 @@ antigone 3
 annist 1
 ahorse 1
 achaemenidian
-adenopharyngitis
+adenopharyngitis 1
 arightly
 armillate 2
 armine 1
