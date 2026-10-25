@@ -2720,7 +2720,7 @@ fathomer 1
 fantasts 3
 fiefs 1
 farcicalness 1
-flagitate
+flagitate 1
 fimbriated 2
 fusain 2
 frigged
@@ -4433,7 +4433,7 @@ footpick 1
 fishily 2
 fatigues
 farinaceously 1
-fishiness 1
+fishiness 2
 fenbank 2
 fluigramme 3
 frogwort 1
@@ -5079,7 +5079,7 @@ fundless 2
 fumettes
 frsikets 6
 flagboat 3
-flareback 2
+flareback 3
 furnishness 3
 fishweir
 flossa 3
@@ -10258,7 +10258,7 @@ frolic 2
 felstone 5
 fluidglycerate 2
 franklinism 2
-forensics 4
+forensics 5
 fostership
 fistulatome 2
 flutier 3
@@ -10841,7 +10841,7 @@ fontanels 3
 flamefish 2
 furoin 1
 fishpool 2
-forficate 1
+forficate 2
 flaminian 4
 fortified 3
 fumblingly 2
