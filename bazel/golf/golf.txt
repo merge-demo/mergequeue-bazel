@@ -515,7 +515,7 @@ geneticism
 gleamiest 5
 glissandos
 gustily 1
-guruship 1
+guruship 2
 gallbladders 3
 guaranteers 7
 gaieties 3
@@ -3429,7 +3429,7 @@ gerrymander 1
 gorgons
 goldwater 3
 gerrymanders 2
-guilts 3
+guilts 4
 genitofemoral 2
 goldenrod 3
 gers 4
@@ -4082,7 +4082,7 @@ gentleman 4
 gratifications 2
 gim 2
 gambolling 7
-gerundively 1
+gerundively 2
 groining 3
 gletscher 4
 grifted
