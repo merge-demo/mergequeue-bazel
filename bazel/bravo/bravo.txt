@@ -16002,7 +16002,7 @@ bronchophony 2
 bayoneting 2
 bibionidae 1
 braced 2
-bronchoplasty 1
+bronchoplasty 2
 backstitching 2
 bronchorrhaphy 1
 bronchorrhea
@@ -17358,7 +17358,7 @@ bundler
 boudeuse 3
 bottleneck 1
 badged 2
-bundles 4
+bundles 5
 bipaliidae 1
 benzantialdoxime 1
 brombenzene 1
