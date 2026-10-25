@@ -2561,7 +2561,7 @@ barters 2
 blackie 3
 bathofloric 2
 baryon 2
-brio
+brio 1
 baryphonia
 bootie 1
 bronzesmith
@@ -17823,7 +17823,7 @@ backbit
 boddle 1
 berkowitz 1
 bunkerman 1
-bursiculate 2
+bursiculate 3
 bursitis 3
 bestialise 4
 benzbitriazole 1
