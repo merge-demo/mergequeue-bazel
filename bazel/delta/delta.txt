@@ -12487,7 +12487,7 @@ discontinuations 1
 disconform
 disillusionising
 disdeceive 1
-decimalize
+decimalize 1
 disillusionments
 diaphanousness
 disgorge 2
@@ -18566,7 +18566,7 @@ dyslexic 4
 defortify
 decentration
 dush 2
-dusked
+dusked 1
 ditchdigger
 dissimilitude
 dusky
