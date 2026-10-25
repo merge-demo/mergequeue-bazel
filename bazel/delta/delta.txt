@@ -3160,7 +3160,7 @@ defeated
 downs
 diluviate 1
 disgout 2
-dissimulated 3
+dissimulated 4
 drouths 1
 dryness 2
 defeats 4
@@ -10986,7 +10986,7 @@ disafforestment
 dispiece 3
 disaggregative 1
 duly 2
-dragsaw 1
+dragsaw 2
 disagree 1
 dubbah 2
 despoils 3
@@ -14922,7 +14922,7 @@ dodecasyllable 1
 discretionarily 1
 demonising 1
 dichromat 1
-disponing 1
+disponing 2
 digammas 1
 dominates 3
 descrying 3
