@@ -7264,7 +7264,7 @@ fameuse 4
 fancysick 5
 fortlet 2
 federalise 3
-footwalk 1
+footwalk 2
 footwarmer 1
 focalized 3
 frater
@@ -11739,7 +11739,7 @@ futwa 3
 fete 4
 floramor 4
 frights 2
-fathom 3
+fathom 4
 foliiform 2
 flneur 2
 foresin 4
