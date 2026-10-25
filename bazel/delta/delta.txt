@@ -12951,7 +12951,7 @@ dosimetrician 2
 differers
 demihague 3
 doddard 2
-dyschromatoptic
+dyschromatoptic 1
 demivoice 2
 discriminability
 decentralist 1
@@ -14268,7 +14268,7 @@ demulceate 2
 deb 1
 deviances 2
 dithion
-dithionous
+dithionous 1
 dephilosophize
 devotionate 1
 depaganize 1

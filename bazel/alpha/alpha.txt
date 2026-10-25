@@ -13471,7 +13471,7 @@ annexational
 areaways 1
 alette 2
 annexationism 1
-annexationist 3
+annexationist 4
 annexations
 acrylyl 2
 annexion
@@ -16687,7 +16687,7 @@ apexed 2
 aortoclasia 2
 antichurch
 arefaction 3
-avie
+avie 1
 aph
 antilogical
 aggers
@@ -17306,7 +17306,7 @@ azido
 apostacize 1
 amrelle 1
 audiometer 2
-auguste
+auguste 1
 actors
 apeirophobia 2
 autocollimator 1
@@ -19619,7 +19619,7 @@ antireformist
 adversariness 2
 antistrophize
 attritional
-absorbingly
+absorbingly 1
 airheads 1
 apposing 1
 arikara 1
