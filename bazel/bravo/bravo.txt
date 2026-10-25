@@ -1045,7 +1045,7 @@ benzothiopyran
 blockhead
 brachycephalization 3
 brasswork 6
-bailiwicks 2
+bailiwicks 3
 bolete 1
 babyhouse 3
 becost
@@ -4128,7 +4128,7 @@ bearhug 1
 babirousa 2
 bilicyanin 1
 burmanniaceae 1
-bearish
+bearish 1
 bigoniac 1
 belltopper
 broths 2
@@ -7683,7 +7683,7 @@ blackmailing 1
 brachydactylous 2
 bumblebee 1
 bereareft 1
-backfilling 1
+backfilling 2
 bezzo 1
 bhabar 1
 belemnites 3
