@@ -21972,7 +21972,7 @@ configures 2
 coxcombry 1
 confinable
 confine 1
-comports 1
+comports 2
 confined 1
 cadging
 confinedly 1
