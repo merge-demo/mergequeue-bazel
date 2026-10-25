@@ -6921,7 +6921,7 @@ az 1
 adrent 2
 airt
 actionability 1
-aphanozygous
+aphanozygous 1
 adibasi 3
 ablepharia 1
 argyranthemous
