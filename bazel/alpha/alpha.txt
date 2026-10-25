@@ -12208,7 +12208,7 @@ ancestral
 antlerite
 ancestry
 autocue 3
-astronautical 3
+astronautical 4
 allodge
 asgard
 andaman
