@@ -15611,7 +15611,7 @@ antineuritic 2
 antineutralism 1
 argyles 1
 attritive
-antineutrino
+antineutrino 1
 ametria
 aftermatter
 antineutrons
