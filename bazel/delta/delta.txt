@@ -5719,7 +5719,7 @@ despotic
 deltoids 1
 disusance 1
 dispansive 2
-dermoossification 1
+dermoossification 2
 dictyoid
 dried 1
 dipneumonous 1
@@ -10945,7 +10945,7 @@ diallist 1
 deuterocone 1
 dispenses
 disforestation 2
-doublethinking 1
+doublethinking 2
 dorsoradial 2
 digressions 1
 disadvance 3
