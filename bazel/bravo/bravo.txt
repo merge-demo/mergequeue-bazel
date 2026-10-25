@@ -5502,7 +5502,7 @@ briefly 2
 boort 1
 bringdown 3
 boatswains
-bawty 1
+bawty 2
 beingness 1
 brandade 4
 beethovian 2
@@ -9315,7 +9315,7 @@ birchwood 1
 baccaras 2
 bromidrosis 2
 bindweb
-barcaroles 1
+barcaroles 2
 birdbander 1
 blockholer
 beggaries
@@ -10926,7 +10926,7 @@ biclinia 1
 barth 2
 bourrees 1
 blinkard
-blesbuck 1
+blesbuck 2
 bedlamism 4
 blinkards 4
 bowses 1
