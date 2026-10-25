@@ -12616,7 +12616,7 @@ estancieros 3
 epitonium 3
 ectethmoid 2
 endostoma 1
-enriches
+enriches 1
 effectualness 1
 epigenetically 3
 erasmian
