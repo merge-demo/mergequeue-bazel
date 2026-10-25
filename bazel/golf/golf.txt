@@ -4016,7 +4016,7 @@ gteau 2
 geared 2
 gilbertian 4
 girlishness 3
-guttula 3
+guttula 4
 gildable 4
 gentrification 4
 gesticulated 3
@@ -8449,7 +8449,7 @@ goldbricks 2
 glaciarium 1
 goonch 2
 gratuitant 3
-glossograph 1
+glossograph 2
 grenatite 3
 guaguanche 3
 globulariaceous 2
@@ -9052,7 +9052,7 @@ grateful 2
 granulomatous
 gyrates 2
 gnatcatcher 4
-girasole 1
+girasole 2
 girlism 1
 gryllos
 gaffle 1
