@@ -668,7 +668,7 @@ exudative 2
 eclipsed 2
 equivocacy 1
 eclipses 2
-eudaemonistic 2
+eudaemonistic 3
 ephraimitic 2
 entoparasitic 2
 epilogate 1
@@ -8283,7 +8283,7 @@ epitaphian 1
 ejection 5
 expensively 2
 ectoplasmic 2
-ellagate 3
+ellagate 4
 exemplification 5
 epitaxies 1
 epitaxis 1
