@@ -454,7 +454,7 @@ formulise 1
 frouze 3
 formulistic 3
 fulminating
-fluctisonous 4
+fluctisonous 5
 ferk 3
 faithlessness 2
 fringeless 5
@@ -5681,7 +5681,7 @@ flingy 4
 funded 3
 fiddlestring 3
 flings 2
-freestyle
+freestyle 1
 fishwife
 flinkite 2
 flint 5
