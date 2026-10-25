@@ -2565,7 +2565,7 @@ brio
 baryphonia
 bootie 1
 bronzesmith
-banzai
+banzai 1
 baris
 bodefulness
 bearleap
