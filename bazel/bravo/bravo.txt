@@ -4936,7 +4936,7 @@ beefsteak 1
 beeftongue 1
 biers
 beefwoods 1
-beegerite 2
+beegerite 3
 bootlick 3
 bairnliness
 badchan 2
@@ -9179,7 +9179,7 @@ biparasitic
 bogy 1
 boudoirs 1
 babblesome 2
-benzophenanthrazine 1
+benzophenanthrazine 2
 balsaminaceous 2
 balladical
 biparentally 5
