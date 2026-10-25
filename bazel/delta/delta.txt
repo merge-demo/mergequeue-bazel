@@ -2490,7 +2490,7 @@ deckel
 deporte
 debased 2
 ditchdown 1
-dirigent 1
+dirigent 2
 deckhand 3
 dovekies 1
 duckwing 3
@@ -17298,7 +17298,7 @@ denigrated 4
 dandyish 2
 dromometer 3
 defoul 1
-decrypts 3
+decrypts 4
 disrelated 2
 dubitation 2
 dronage
