@@ -1889,7 +1889,7 @@ flamboyantize 4
 faradizing
 frs 6
 fraidycat 1
-flybrush 2
+flybrush 3
 fishable 2
 fingerflower 2
 fontanelle 4
@@ -4783,7 +4783,7 @@ flagelliform 2
 fever 3
 folie 2
 flagellula 3
-flickeringly 2
+flickeringly 3
 fauve
 filigrain 4
 flageolets 4
@@ -5178,7 +5178,7 @@ farsakh 3
 flatulency
 flatfeet 2
 flatulencies
-fictions 3
+fictions 4
 flameflower 2
 feeding 4
 flued 3
@@ -7615,7 +7615,7 @@ fees 2
 funipendulous 1
 fescenninity 1
 ferganite
-forefeelingly 2
+forefeelingly 3
 frogging 1
 foreffelt
 folioed 3
@@ -8354,7 +8354,7 @@ fulminates 2
 forkier 3
 fumewort 4
 forcy 2
-familiars 1
+familiars 2
 foveolated 1
 faradmeter 5
 forgot 1
@@ -11073,7 +11073,7 @@ fractionated 3
 forficated 2
 fumariaceous 4
 freightment 1
-flense 3
+flense 4
 footrace 5
 flew
 falconet 2
