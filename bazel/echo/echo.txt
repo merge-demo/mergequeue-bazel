@@ -6267,7 +6267,7 @@ enamine 1
 ethnogeographical 1
 entered 2
 erecter
-endplate 1
+endplate 2
 excipule 1
 epistapedial 1
 eelcatcher 2
@@ -8488,7 +8488,7 @@ electrodissolution 2
 eydent 2
 expansions 1
 externally 2
-endball 3
+endball 4
 exculpation 3
 eleemosynariness 3
 evolutive
