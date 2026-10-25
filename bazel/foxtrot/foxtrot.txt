@@ -5079,7 +5079,7 @@ fundless 2
 fumettes
 frsikets 6
 flagboat 3
-flareback 2
+flareback 3
 furnishness 3
 fishweir
 flossa 3
@@ -10841,7 +10841,7 @@ fontanels 3
 flamefish 2
 furoin 1
 fishpool 2
-forficate 1
+forficate 2
 flaminian 4
 fortified 3
 fumblingly 2
