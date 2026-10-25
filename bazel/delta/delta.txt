@@ -1981,7 +1981,7 @@ dau
 downcastly 1
 dragbar 2
 dupondidii
-disvalue 5
+disvalue 6
 dopant 1
 discostate
 debuted 3
@@ -5625,7 +5625,7 @@ discouraging 3
 deathwatches 1
 duddy
 dei 2
-dozy 2
+dozy 3
 desaturation
 depetalize 1
 disorganiser 1
@@ -12688,7 +12688,7 @@ diviners
 diacids
 duane 3
 derogations 1
-dyslexics 4
+dyslexics 5
 dreadfully 2
 drury 2
 dracaena 2
