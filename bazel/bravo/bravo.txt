@@ -4797,7 +4797,7 @@ bedroll 4
 bedrooms 2
 bruckle 2
 bandicoots 3
-bedrugged 5
+bedrugged 6
 bedrugs 2
 bemeans 1
 brakesman 2
