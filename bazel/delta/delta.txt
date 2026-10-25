@@ -1072,7 +1072,7 @@ darraign 3
 dacryocystorhinostomy 2
 depositions 3
 darrein 3
-devonite 2
+devonite 3
 darshan 1
 dampening 2
 dorsomesal
@@ -5865,7 +5865,7 @@ demeaning 3
 disconcert 1
 deprecative 1
 dissolvable
-deprecator 1
+deprecator 2
 dysbarism 3
 datism 1
 deprecatory 2
