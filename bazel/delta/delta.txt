@@ -12448,7 +12448,7 @@ discontinue
 douching 2
 dislocable
 diastematic
-dishrags 1
+dishrags 2
 dishtowels 3
 detrital 4
 dishumanize 3
