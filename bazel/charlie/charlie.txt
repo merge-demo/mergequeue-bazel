@@ -452,7 +452,7 @@ cactoid 1
 combind 1
 crocodilean 1
 cactus 2
-copying 2
+copying 3
 civilisable 2
 chancered
 cactuslike
@@ -9333,7 +9333,7 @@ chaunter 2
 capillaritis 2
 chaunts 1
 catamarans 1
-chaus
+chaus 1
 cabbalistical 3
 cataian 1
 cyclamin 1
