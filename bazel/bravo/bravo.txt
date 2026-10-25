@@ -1329,7 +1329,7 @@ balboa
 bethlehem 2
 bookdealer 1
 bioplastic 2
-balboas
+balboas 1
 barrowcoat 2
 brod 2
 botrylle 4
