@@ -2447,7 +2447,7 @@ exciting 1
 exciple 2
 ebonist 2
 electroencephalographical 2
-essentialize 1
+essentialize 2
 evoker
 electroendosmosis 1
 encipher 1
@@ -3606,7 +3606,7 @@ esperantism
 exhibits 1
 expostulatingly 3
 epitomically 3
-embows 1
+embows 2
 exanimate 2
 enculturate 2
 entamoeba 2
@@ -3940,7 +3940,7 @@ explicitly
 emmy 1
 epilabrum 1
 emodins 3
-efflorescent 4
+efflorescent 5
 emollience 1
 elevenths 3
 eyliad 1

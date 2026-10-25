@@ -260,7 +260,7 @@ bacillariaceous
 bedfellow 1
 bacillarieae 4
 bacillariophyta 3
-buckwasher 1
+buckwasher 2
 beroe 2
 bacilli 2
 bothros
@@ -5951,7 +5951,7 @@ biauriculate 1
 brecciate 1
 bawdily 1
 beltman
-belts
+belts 1
 backstitches 3
 bloodspilling 3
 beadlike 2
@@ -17557,7 +17557,7 @@ brisket
 buret 2
 burets 3
 blowfishes 2
-bedirtied 3
+bedirtied 4
 bashkir 1
 bellonion 2
 buccellarius 1
@@ -17702,7 +17702,7 @@ banbury 1
 behove 3
 bismosol
 butteriness 1
-biont 2
+biont 3
 beanos 3
 braconid 2
 bankeress 2
