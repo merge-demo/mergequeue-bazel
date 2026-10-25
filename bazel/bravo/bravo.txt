@@ -2561,7 +2561,7 @@ barters 2
 blackie 3
 bathofloric 2
 baryon 2
-brio
+brio 1
 baryphonia
 bootie 1
 bronzesmith
@@ -7228,7 +7228,7 @@ baconist 1
 bisporous 2
 basses
 bestridden 2
-bluesides 1
+bluesides 2
 blueberry 2
 bestrides 2
 boondock 1
