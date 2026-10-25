@@ -6606,7 +6606,7 @@ floodway 1
 fingerstone 2
 fascioliasis 1
 flagrante 7
-frogfish 2
+frogfish 3
 fundholder 4
 flapperism 1
 forestaffs 2
@@ -7264,7 +7264,7 @@ fameuse 4
 fancysick 5
 fortlet 2
 federalise 3
-footwalk 2
+footwalk 3
 footwarmer 1
 focalized 3
 frater
