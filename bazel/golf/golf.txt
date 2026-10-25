@@ -2664,7 +2664,7 @@ gardening 2
 gynophagite 7
 gardeviance 1
 gibbles 1
-genevan 5
+genevan 6
 grabbing 3
 giboia 2
 gadgets 2
@@ -10655,7 +10655,7 @@ generalizeable 3
 gurgitation 2
 gasolines 2
 gametogony
-gladius 4
+gladius 5
 gyric 3
 goatsbane 2
 galp 6
