@@ -430,7 +430,7 @@ backscatter
 backscattered 1
 backscattering 1
 bandobust 2
-borecole 1
+borecole 2
 backscraper
 backset 2
 basename 2
@@ -2191,7 +2191,7 @@ barathea 4
 barbellate 1
 bibbled
 bemaddens 3
-bellicosely 3
+bellicosely 4
 barato 1
 buxaceae
 bontebok 1
@@ -2241,7 +2241,7 @@ boucle 1
 begoggled 3
 brigid 2
 bijective
-bioecology 1
+bioecology 2
 birdclapper
 bannerwise 1
 bats 1
