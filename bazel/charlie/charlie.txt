@@ -21450,7 +21450,7 @@ cornerpiece 2
 conspectuity
 calcination
 carotic 2
-cloaking
+cloaking 1
 comediennes
 chelingos
 concoctive 1
