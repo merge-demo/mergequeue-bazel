@@ -1369,7 +1369,7 @@ fatima 2
 fruticeous 2
 flaxdrop 2
 filecard 2
-flenser 1
+flenser 2
 fatiscent 2
 fullword
 filicology
@@ -2329,7 +2329,7 @@ falbalas
 frillings 1
 fecula
 fenzelia 3
-feod
+feod 1
 firestopping 4
 foreimagine
 fconvert 1
@@ -7578,7 +7578,7 @@ flubs 7
 fogram 2
 flambeaus 2
 filtrate 3
-felicities 2
+felicities 3
 factual 1
 fleshquake
 ferrules 4
@@ -8089,7 +8089,7 @@ flusterated 2
 forejudged 3
 forenews
 faunistic 4
-foyboat 3
+foyboat 4
 fulminated 3
 foveolae 6
 funkiest 1
