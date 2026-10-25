@@ -3389,7 +3389,7 @@ eremopteris 3
 ethanethiol 2
 electrotechnics 3
 embarge 1
-espier 1
+espier 2
 enteropneustal
 estimator 1
 equivocally 1
@@ -6858,7 +6858,7 @@ etherification
 exceptionless 1
 epitome 3
 exterior 2
-embarque 4
+embarque 5
 enameloma 3
 extractive
 eleusinion
@@ -10850,7 +10850,7 @@ envineyard
 enchase 1
 eisteddfodau 2
 euphotic 2
-entailable 1
+entailable 2
 equitability 1
 eructation 2
 ereption 4
