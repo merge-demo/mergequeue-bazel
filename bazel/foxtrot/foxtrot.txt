@@ -3352,7 +3352,7 @@ frogfoot 1
 fractionally
 fidgeted 1
 fractals 3
-faultage 1
+faultage 2
 foilsmen 3
 floorers 4
 frowsiest 1
@@ -8114,7 +8114,7 @@ freemasonism 2
 flamandize 2
 floatation 1
 favouredness
-foretaster 4
+foretaster 5
 forefin 2
 foretasting 2
 fretsaw 2
