@@ -4934,7 +4934,7 @@ akaroa 2
 archdapifership 1
 auncel 4
 asexuals 4
-antimonide
+antimonide 1
 almsfolk
 atame 1
 alluvivia 2
@@ -9348,7 +9348,7 @@ adamancies
 angulatogibbous
 anastomoses 1
 amidating
-antisudoral
+antisudoral 1
 antiprotease 2
 anguishful 1
 austringer 1
