@@ -7270,7 +7270,7 @@ codbank 1
 chaldese
 centuplicate 1
 centuplicating
-civility 1
+civility 2
 chucking 1
 centuplication 2
 calciocarnotite
@@ -14212,7 +14212,7 @@ circumferential 1
 circumferentially 1
 circinately 1
 cawnie 1
-circumfluence 2
+circumfluence 3
 catline 2
 cytinaceae 1
 chattation
@@ -27423,7 +27423,7 @@ courtside
 couscous 1
 castilloa
 caddying
-couscousou
+couscousou 1
 creamed 2
 casserole 2
 cousinage
@@ -29255,7 +29255,7 @@ cryptobranch 1
 cryptobranchia
 cryptobranchiata 1
 clambakes
-chondroma 3
+chondroma 4
 cutlas
 choices
 cryptobranchiate 2
