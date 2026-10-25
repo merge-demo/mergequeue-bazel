@@ -9654,7 +9654,7 @@ freezy
 fubbed 2
 fromage 2
 foredivine 1
-fletcher 4
+fletcher 5
 fregata 2
 faunist 1
 freyalite 4
@@ -10606,7 +10606,7 @@ freeby 4
 feudalizable
 flaxwoman 2
 forerunner 3
-farceurs
+farceurs 1
 flative 2
 forseen 1
 fractile 1
