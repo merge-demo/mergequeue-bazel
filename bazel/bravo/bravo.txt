@@ -10024,7 +10024,7 @@ blondeness
 brabagious
 bixin
 blackfoot 1
-brachycnemic 2
+brachycnemic 3
 badgered 1
 booklets 2
 bummock 4
@@ -14098,7 +14098,7 @@ blot
 babbage 2
 blasters 2
 bugged 2
-butsudan
+butsudan 1
 brekkle 5
 bumbaze 1
 brighteyes 1
