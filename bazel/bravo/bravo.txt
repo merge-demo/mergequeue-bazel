@@ -4423,7 +4423,7 @@ bypassing 2
 becloaks 3
 blackfriars 2
 batule 1
-bandleader 2
+bandleader 3
 becloak 2
 bereavement 1
 boojum 2
@@ -8335,7 +8335,7 @@ basin 2
 bradoon 1
 bights 2
 blickeys
-bown
+bown 1
 bonamano
 bemuddled 1
 brulot
