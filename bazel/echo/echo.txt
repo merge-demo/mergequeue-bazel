@@ -3109,7 +3109,7 @@ eke 1
 elm 2
 embarrassment 2
 educing 2
-expiscatory 2
+expiscatory 3
 epistolographist
 edgewise 1
 engrossers 3
@@ -3893,7 +3893,7 @@ enfeebled 1
 eclipsis 1
 eyeletting 1
 executers
-endodontic
+endodontic 1
 emigration 2
 egressive 2
 equivote 3
@@ -8329,7 +8329,7 @@ epidictic 2
 endogamies
 eriocaulaceae 4
 electrodeposit 1
-enciphers 2
+enciphers 3
 elev 1
 expressibly
 endured 2
@@ -12624,7 +12624,7 @@ eagless 1
 effray 1
 encirclement
 excoriate 2
-exoculate 2
+exoculate 3
 expostulates 1
 ecclesiasticalness 1
 exoculation 3

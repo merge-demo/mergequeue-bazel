@@ -1700,7 +1700,7 @@ gluts 1
 galactopoietic 1
 geitjie 3
 gelatination 3
-gastightness 1
+gastightness 2
 grudgefulness 2
 gryposis 4
 glyptodont
@@ -3196,7 +3196,7 @@ geotilla 2
 grigs 3
 geotropy
 guardant 1
-glossolabiolaryngeal 4
+glossolabiolaryngeal 5
 gametoid 1
 gambian 4
 ganglial 5
@@ -5458,7 +5458,7 @@ galvanocontractility 2
 grotesques 4
 girsle 3
 gonfanon 4
-gallah 1
+gallah 2
 gluing 5
 gladful 1
 goethite
@@ -8516,7 +8516,7 @@ go 7
 goshdarn 3
 gramaphone
 gametophyte 3
-ganglioblast 3
+ganglioblast 4
 gyrophoric 1
 gulden 4
 gyromitra
