@@ -8064,7 +8064,7 @@ glenoidal 3
 granitiform 4
 geomancer 5
 gastrostomus 2
-granitite 1
+granitite 2
 geomagnetism 5
 ghain 2
 genteelish 2
@@ -8714,7 +8714,7 @@ gnathonical 2
 grassflat 3
 gastrodisc 1
 growler 1
-guaranteing 2
+guaranteing 3
 golosh 1
 gnathonic 2
 girosols 3
