@@ -26902,7 +26902,7 @@ counterjumper
 crosne
 contraflexure 1
 colliquativeness 1
-copperleaf
+copperleaf 1
 counterlath
 corticospinal
 counterlathed 1
