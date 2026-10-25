@@ -7780,7 +7780,7 @@ devoice 1
 duvet 3
 dadburned
 decolourising 4
-devoir
+devoir 1
 destabilizing 2
 devoirs 2
 dholes 2
@@ -15771,7 +15771,7 @@ dornicks 2
 datival
 dornock
 dornocks 1
-desanded
+desanded 1
 diffugient
 demolishes
 dumka 4
