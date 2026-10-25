@@ -2757,7 +2757,7 @@ foreparts 5
 fights 1
 festerment 3
 footway 1
-feis 2
+feis 3
 flanges 1
 fortescure
 fascisms 2
