@@ -430,7 +430,7 @@ backscatter
 backscattered 1
 backscattering 1
 bandobust 2
-borecole 1
+borecole 2
 backscraper
 backset 2
 basename 2
