@@ -1741,7 +1741,7 @@ genotypes 1
 glike
 gunsmiths 1
 geogonical 3
-gastronosus 1
+gastronosus 2
 gnarrs 1
 gammon 3
 glibber 3
