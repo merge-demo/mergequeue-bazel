@@ -17101,7 +17101,7 @@ aile
 aptera 1
 antipopulism 1
 ameliorator 2
-anatomic
+anatomic 1
 atropa 2
 agoranome 1
 anticlea 1
