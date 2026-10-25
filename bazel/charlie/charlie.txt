@@ -7767,7 +7767,7 @@ certificates 3
 ceraunia
 certifications 1
 commissurotomy 1
-certificative
+certificative 1
 certificatory
 certifier 1
 certifiers 1
