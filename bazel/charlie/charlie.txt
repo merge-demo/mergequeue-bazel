@@ -8297,7 +8297,7 @@ carlism 1
 crummable
 chalicotheriidae
 cephalohumeralis 1
-chantress 1
+chantress 2
 courtyard 1
 chalina 2
 coonskin 3
@@ -12449,7 +12449,7 @@ chromocollotype 1
 chromocratic 1
 capetonian 2
 chromoctye 2
-chromodermatosis
+chromodermatosis 1
 chromogen
 chromogene
 chromogenesis 3
@@ -28061,7 +28061,7 @@ cramp
 cramped 1
 colonalgia 3
 cloriodid 1
-conversions 1
+conversions 2
 crampette 1
 constituter 2
 cramping 2
