@@ -1269,7 +1269,7 @@ friation 4
 faineants 1
 fibroblast 3
 formicide 3
-flabbergasts 1
+flabbergasts 2
 figurine 4
 foresaw
 fleys 3
@@ -5461,7 +5461,7 @@ forevow 1
 firearmed 2
 falsifiable 1
 fatalisms 3
-fley
+fley 1
 foxed 4
 flem 2
 farkleberry 3
