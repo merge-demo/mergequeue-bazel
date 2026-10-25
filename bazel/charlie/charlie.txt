@@ -21719,7 +21719,7 @@ corcir
 cigars 1
 chaffering 1
 condo 2
-condoled
+condoled 1
 condolence 1
 calyptro
 condolent 3
