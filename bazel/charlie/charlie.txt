@@ -3812,7 +3812,7 @@ chalkier 1
 chorioid
 carbohydride
 carbohydrogen
-carboy
+carboy 1
 celestes
 carboys
 cyathoid
@@ -10827,7 +10827,7 @@ coragio
 chintses 3
 chintz
 chaperons 3
-chintze 2
+chintze 3
 cystal
 chintzy 1
 califs 1
