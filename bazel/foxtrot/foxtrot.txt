@@ -8412,7 +8412,7 @@ filcher 2
 futhark 3
 form 3
 fluoroscopes 5
-fullerboard
+fullerboard 1
 folksy 2
 formalesque
 foistiness 1
