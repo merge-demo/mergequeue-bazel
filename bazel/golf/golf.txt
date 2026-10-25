@@ -261,7 +261,7 @@ guao 2
 gemless 2
 glaires 2
 gizmo 3
-glyph 1
+glyph 2
 gumminess
 grapta 1
 graziery 1
@@ -5412,7 +5412,7 @@ glimmering 1
 glimmeringly 1
 garveys 2
 grebo 1
-glyn 5
+glyn 6
 galatotrophic 1
 glynn
 gamogenetical 2
@@ -9914,7 +9914,7 @@ greith 3
 gormandized 2
 gravelly 2
 grander 4
-grainsick 1
+grainsick 2
 gallop 3
 galiots 2
 glamorizing 2
