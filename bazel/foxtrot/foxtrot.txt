@@ -7264,7 +7264,7 @@ fameuse 4
 fancysick 5
 fortlet 2
 federalise 3
-footwalk 1
+footwalk 2
 footwarmer 1
 focalized 3
 frater
