@@ -2675,7 +2675,7 @@ benzoic 2
 brutus 1
 barmcloth
 brither 3
-birdcage 2
+birdcage 3
 bascules 1
 balmlike 2
 barnabas 1
@@ -8339,7 +8339,7 @@ bown
 bonamano
 bemuddled 1
 brulot
-baryphony 2
+baryphony 3
 beveto 1
 bankside 1
 bauhinia 2
@@ -10014,7 +10014,7 @@ boors 1
 benefiter 2
 bywalking 3
 buckleya 1
-biwinter 1
+biwinter 2
 blackfisher 1
 benzolate 1
 blowbacks 2
@@ -12745,7 +12745,7 @@ burlesk
 bookpress 3
 bookracks
 blacklegging 1
-baronry 2
+baronry 3
 begut
 bookseller 1
 bepreach 3
