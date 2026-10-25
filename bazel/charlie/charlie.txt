@@ -6430,7 +6430,7 @@ cautious
 cautiously 2
 cannoneers 1
 cloister 2
-cav 1
+cav 2
 corah 2
 curvinervate
 cavayard
@@ -24224,7 +24224,7 @@ clippings
 callistemon
 contakia
 candled 3
-caponised 1
+caponised 2
 craped 3
 convolvulaceae
 convolvulaceous
@@ -29414,7 +29414,7 @@ cinemese 1
 chairperson
 crisic 1
 crispated 1
-crispbread 2
+crispbread 3
 circassian
 crispens 1
 crispers
@@ -31522,7 +31522,7 @@ curser 1
 cursers
 curship 3
 coadjuvant 1
-cornutin 1
+cornutin 2
 cursing
 coelenteron
 cursitate 2
