@@ -6673,7 +6673,7 @@ broughtas
 burghs
 busto 1
 babbles 1
-berytidae
+berytidae 1
 boblet
 bergh 2
 brachiata 2
@@ -15812,7 +15812,7 @@ brokenheartedly 1
 binder
 buddha 1
 beggarwise 1
-bibacious 1
+bibacious 2
 bullied 1
 balas 3
 beaconing

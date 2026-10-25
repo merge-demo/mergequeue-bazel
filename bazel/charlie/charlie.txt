@@ -30955,7 +30955,7 @@ corsesque 1
 culverkey 3
 culvers
 culverwort
-cum
+cum 1
 cants
 cumay 1
 currack 2

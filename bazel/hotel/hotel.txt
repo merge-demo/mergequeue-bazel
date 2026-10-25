@@ -186,7 +186,7 @@ hadtarfnmdrnv 1
 hadulum 3
 haduq
 hadvb
-hadvtrtloc 3
+hadvtrtloc 4
 hadw 2
 hadwfaocq 1
 hadwsshqfgs 2
@@ -12236,7 +12236,7 @@ hulre 2
 hulroaidjl 1
 hulrvpgo 3
 hulrxc 2
-huls 2
+huls 3
 hulsd 3
 hult 2
 hultbnxkzmgyoj 5
@@ -14690,7 +14690,7 @@ hzkkmrpsbks 2
 hzknsv 1
 hzko 2
 hzkq 4
-hzkr
+hzkr 1
 hzkrhwvp 3
 hzktr 2
 hzkxb 1

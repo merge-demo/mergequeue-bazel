@@ -2293,7 +2293,7 @@ formulable 2
 flotation
 foreface 3
 fistulizing 2
-flagelliferous 3
+flagelliferous 4
 fenestrae 3
 foreword 4
 fenestrated 3
@@ -10782,7 +10782,7 @@ flagstaffs 3
 fth 3
 feuars 1
 footsoldiers 5
-fudge 1
+fudge 2
 fanned 4
 freinage
 factualistic 2

@@ -2178,7 +2178,7 @@ epizoan
 eructate 3
 endocyclic 2
 evanescently 3
-elbowy 2
+elbowy 3
 elbowpiece 2
 elbows 1
 explores 1
@@ -6964,7 +6964,7 @@ enantiomorphy 3
 elicitate 1
 embrocado 3
 entraining
-earwig 3
+earwig 4
 entrainment 3
 entrains
 emissaryship 1
@@ -8858,7 +8858,7 @@ eremuri 2
 ethnoflora 4
 enerve 3
 escharoid 1
-englue 4
+englue 5
 euorthoptera
 exiler 3
 epilegomenon 1
