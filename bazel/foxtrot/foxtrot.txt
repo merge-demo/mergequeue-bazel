@@ -244,7 +244,7 @@ fetials 3
 fopship 3
 fannel 4
 fostress 2
-fleshed 2
+fleshed 3
 formalising 3
 furmint 2
 fibrillous 1
@@ -7355,7 +7355,7 @@ foredone 2
 forastero 2
 flimsiest 4
 filles
-forbad
+forbad 1
 faeces 5
 fat 3
 forbborne 3
@@ -10470,7 +10470,7 @@ frostfish 3
 forcite 2
 frostbitten
 frosty 3
-feuillet 5
+feuillet 6
 fantasticality 4
 frostily 1
 fluorate 4
