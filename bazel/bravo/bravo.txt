@@ -2400,7 +2400,7 @@ blinkering 1
 bromoiodide 1
 besmirch 1
 brotherhood 1
-bards
+bards 1
 bardship 1
 backaching 1
 biocoenoses 1
@@ -6039,7 +6039,7 @@ bemurmur 1
 bondwoman 2
 butyral
 bemurmure 2
-bemurmuring 2
+bemurmuring 3
 bittier 5
 bemuses 2
 bol 1
