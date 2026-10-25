@@ -9054,7 +9054,7 @@ astrictiveness
 antimilitaristic
 allowable 1
 antemarital 2
-animant 1
+animant 2
 ancylostome
 allowableness
 alkalises
@@ -13852,7 +13852,7 @@ anostraca
 anotherguess 2
 anotherkins
 administrator
-antilapsarian
+antilapsarian 1
 agapemonian 1
 assecurator 2
 athletics 2
@@ -23777,7 +23777,7 @@ arpenteur
 abannition
 actinocarpic
 asgmt
-accursing 2
+accursing 3
 austausch 1
 abdest 1
 agrements 2
