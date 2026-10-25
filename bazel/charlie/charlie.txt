@@ -4951,7 +4951,7 @@ cartilagineous
 collatable 3
 chirotes
 cleeked
-conduct 2
+conduct 3
 cartilagines
 chancroids
 cartilaginoid 1
@@ -12372,7 +12372,7 @@ contrastably 2
 conquerable 2
 chromatolytic 1
 chromatologies
-chromatopathy 2
+chromatopathy 3
 celebe 1
 chromatophil
 chromatophile 1
@@ -22683,7 +22683,7 @@ conopidae
 cheaper
 cinnyl
 conopophagidae
-conglobate
+conglobate 1
 circar 2
 conorhinus
 cyananthrol 1
