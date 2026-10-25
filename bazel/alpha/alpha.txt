@@ -872,7 +872,7 @@ absentminded 1
 aerobics
 absentness 1
 avicennism 2
-aiver
+aiver 1
 abshenry 2
 allure 2
 absinthiated
@@ -19551,7 +19551,7 @@ aramayoite
 accede 1
 adjacency
 ariana 2
-alifs
+alifs 1
 antinationalistically 2
 actinobacillus
 arguments 2
@@ -20367,7 +20367,7 @@ anaphalantiasis 1
 asahel
 antesignani
 arsenopyrite 1
-arsenostyracol
+arsenostyracol 1
 aldermanlike 1
 amyous
 admeasure
