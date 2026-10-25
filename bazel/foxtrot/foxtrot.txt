@@ -7358,7 +7358,7 @@ filles
 forbad
 faeces 5
 fat 3
-forbborne 2
+forbborne 3
 freshen 3
 feudalism 4
 forby 2
