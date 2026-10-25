@@ -10782,7 +10782,7 @@ flagstaffs 3
 fth 3
 feuars 1
 footsoldiers 5
-fudge 1
+fudge 2
 fanned 4
 freinage
 factualistic 2
