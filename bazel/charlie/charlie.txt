@@ -9124,7 +9124,7 @@ charters 2
 cryptograms 3
 cindered 1
 chartist 1
-chartless
+chartless 1
 caricatured
 chartography
 chartographic 1
@@ -17798,7 +17798,7 @@ centroclinal 1
 cysterethism 1
 conjunctivitis
 codeclination 1
-codecs 1
+codecs 2
 cellularly
 codefendant 1
 codeina 1
@@ -20581,7 +20581,7 @@ competent 1
 competentness 2
 classmates 3
 competible 1
-cyclothem
+cyclothem 1
 causation 1
 competing
 churchish
@@ -25257,7 +25257,7 @@ cocreates
 culmigenous 2
 corkages 2
 corkboard 2
-conventionalized
+conventionalized 1
 chachapuya
 corker
 corkers
