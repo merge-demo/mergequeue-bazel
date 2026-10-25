@@ -4770,7 +4770,7 @@ aerations 2
 abbreviator
 avaunt 1
 anthologizing
-aftermath
+aftermath 1
 asterionella
 acarology 1
 anaretic
@@ -13073,7 +13073,7 @@ allmouths 2
 arsonous 1
 acidimetry 1
 aniconic 1
-aniconism 1
+aniconism 2
 anicut 1
 alamodes
 adenines
