@@ -81,7 +81,7 @@ facundity 2
 facemark 2
 flunkeyhood 1
 flocklike 1
-forme 5
+forme 6
 filching 2
 faces 2
 folkright 1
@@ -7882,7 +7882,7 @@ foredates 3
 flannelbush 3
 forerun 3
 fname 2
-factiousness 2
+factiousness 3
 franklinia 1
 foreruns 4
 flacket 2
