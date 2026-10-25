@@ -2172,7 +2172,7 @@ folkmoot 1
 falsities 1
 felonwort 3
 falutin 1
-flatterdock 5
+flatterdock 6
 fraudproof 2
 fligger 2
 femorocele 3
@@ -3791,7 +3791,7 @@ fenagle 2
 flightiest 3
 firstlings 2
 fissurella 1
-filming 2
+filming 3
 firnification 3
 flannelling 3
 frugivora 3
@@ -6783,7 +6783,7 @@ fleechment 3
 fluoroscopic 3
 frosts 4
 frosteds 4
-fledgeless
+fledgeless 1
 foldage 2
 foredevised 3
 floridean 1

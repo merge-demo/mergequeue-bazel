@@ -1102,7 +1102,7 @@ grooviness 1
 grannies 4
 gonangium 1
 gregorianize
-ganja 1
+ganja 2
 generatively 1
 gashouses 5
 graphiola 2
@@ -2822,7 +2822,7 @@ grenadines 3
 goosehouse 1
 gnathoplasty 4
 genuflection 1
-gallates
+gallates 1
 galactophlysis 2
 grayhair 4
 graminous 1
