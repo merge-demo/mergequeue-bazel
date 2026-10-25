@@ -13872,7 +13872,7 @@ expo
 etamine 3
 exosmosis 1
 emollient
-endolymphangial
+endolymphangial 1
 extradited 3
 extradomestic 2
 ecchymoma 2
