@@ -9494,7 +9494,7 @@ enarch 1
 escout
 enstore 1
 equipondious 1
-escry 1
+escry 2
 escribientes 2
 escrime 2
 eschatologically 2
@@ -13579,7 +13579,7 @@ evasions 1
 echidnas 2
 escheating 2
 enjoinder 4
-embroiders 1
+embroiders 2
 epoxides 4
 elementally 1
 excern 1
