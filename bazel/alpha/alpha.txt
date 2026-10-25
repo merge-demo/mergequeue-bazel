@@ -1237,7 +1237,7 @@ acarid 1
 accord 1
 addorsed 3
 anarthropod 2
-avian
+avian 1
 asexualizing
 acaridean 2
 angelical 5
