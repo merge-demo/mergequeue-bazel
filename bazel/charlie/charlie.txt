@@ -19487,7 +19487,7 @@ colourist 1
 colourless 1
 ceruleum 1
 colourman
-colpenchyma
+colpenchyma 1
 closet 1
 colpindach 1
 canzonets 1
@@ -31432,7 +31432,7 @@ curlylocks
 cadew
 colback
 concinnated 1
-clotho
+clotho 1
 curmudgeonish
 curmudgeonly 3
 colitoxemia
