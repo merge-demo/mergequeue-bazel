@@ -1815,7 +1815,7 @@ awnings
 alackaday 1
 akoasma 1
 adduct 1
-antiketogenesis 1
+antiketogenesis 2
 acephalus
 azotaemia 2
 atridean
@@ -21514,7 +21514,7 @@ axolotls
 antityrosinase
 asphalter 2
 aceituna
-acridinium 2
+acridinium 3
 akund
 ambiances 3
 adds 1
