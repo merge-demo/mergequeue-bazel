@@ -10606,7 +10606,7 @@ freeby 4
 feudalizable
 flaxwoman 2
 forerunner 3
-farceurs
+farceurs 1
 flative 2
 forseen 1
 fractile 1
