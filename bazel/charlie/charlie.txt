@@ -18235,7 +18235,7 @@ concessionary
 chartings 1
 coffeegrower 1
 cantinas 2
-carbonari 1
+carbonari 2
 coffeegrowing
 cladothrix 3
 cuss 2
