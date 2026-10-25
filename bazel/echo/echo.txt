@@ -5366,7 +5366,7 @@ exerts 2
 exosepsis 2
 evilspeaking 2
 expatriations 3
-evzones
+evzones 1
 endocline 1
 epicrystalline 2
 encoring 1
