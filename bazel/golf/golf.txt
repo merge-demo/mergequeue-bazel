@@ -7740,7 +7740,7 @@ gutturopalatine
 grenelle 1
 gauloiserie 4
 guld 2
-grenadier 2
+grenadier 3
 gynecicgynecidal 1
 glycinin
 georama 1
@@ -8381,7 +8381,7 @@ guisards 1
 gerundival 1
 gingerbread 1
 guns 3
-glucid 2
+glucid 3
 gasterosteiform 3
 ginner 3
 grillading 4
