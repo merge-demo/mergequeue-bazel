@@ -8335,7 +8335,7 @@ basin 2
 bradoon 1
 bights 2
 blickeys
-bown
+bown 1
 bonamano
 bemuddled 1
 brulot
