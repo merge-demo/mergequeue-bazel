@@ -5931,7 +5931,7 @@ familic 3
 frats 1
 fructiferous 4
 flannelflower 3
-fineable
+fineable 1
 flaughts
 flubdubs
 forestaysail 2
