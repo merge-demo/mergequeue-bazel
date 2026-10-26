@@ -7865,7 +7865,7 @@ bullation
 beauclerc 1
 bibliologies
 brains 1
-bedboard 1
+bedboard 2
 brachiation 1
 baldachinos 2
 bibliologist 3
@@ -11780,7 +11780,7 @@ barcas 3
 benefactrixes 1
 boccie 1
 backstring 1
-baron
+baron 1
 bluefish 1
 bobberies 2
 bocconia 1
