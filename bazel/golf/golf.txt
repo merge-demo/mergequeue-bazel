@@ -5732,7 +5732,7 @@ gummoses 1
 grandmother 4
 gantline 1
 gallant 3
-gaskins
+gaskins 1
 globoseness 3
 guanyl 5
 grieshuckle 2
@@ -7790,7 +7790,7 @@ graying 2
 guapena 3
 grayling 5
 galivanted 2
-guessers 3
+guessers 4
 girnal 2
 glacial 3
 gunung 1
