@@ -4198,7 +4198,7 @@ gymnorhinal 1
 gaspergou 3
 gluttony 4
 gienah 3
-gene 5
+gene 6
 graphomania 2
 grandfather 2
 gnathopod 5
@@ -5156,7 +5156,7 @@ greek 2
 glomerulitis 2
 genetmoil 2
 gazania 1
-glazers 1
+glazers 2
 geldant 1
 grouch 3
 gibus 2
@@ -5584,7 +5584,7 @@ gesticulacious 4
 gelilah 5
 goutier 2
 greenroom 2
-glucaemia 3
+glucaemia 4
 gumming 3
 gaysome 1
 gripless 1
@@ -7953,7 +7953,7 @@ guesdist 3
 gymnospermy
 glumness 2
 getmjlkost 4
-gametogonium 2
+gametogonium 3
 glimmerite
 gregaloid 2
 gyniolatry 3
@@ -10578,7 +10578,7 @@ gneissitic 3
 gatewoman 3
 grenadiership 2
 grommets 3
-goads
+goads 1
 garnisher 2
 grilly 2
 gymnogene
