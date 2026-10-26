@@ -9394,7 +9394,7 @@ diffranchise 3
 dely 1
 diadumenus 1
 decrete 1
-durabilities 1
+durabilities 2
 decadic
 discontentive 1
 dissoluble 2
