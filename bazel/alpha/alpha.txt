@@ -7907,7 +7907,7 @@ avouched 1
 azodiphenyl
 adenography
 abandum 2
-anorthoscope
+anorthoscope 1
 atropines 2
 annexitis 1
 abacas
@@ -9297,7 +9297,7 @@ aloose 1
 alop
 axunge 1
 antitumor 2
-alopecia 1
+alopecia 2
 alopecias
 alopecoid
 antrectomy 1
