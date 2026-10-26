@@ -1,6 +1,6 @@
 a
 acanthurus 1
-aerobacteriologically 2
+aerobacteriologically 3
 aa 1
 antichretic
 aahs 1
@@ -12820,7 +12820,7 @@ angiorrhaphy
 angiorrhea 2
 armorwise
 ammocoetid 2
-angioscope
+angioscope 1
 angiosymphysis
 anopia
 antiatoms
