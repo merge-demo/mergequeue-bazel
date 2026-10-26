@@ -5561,7 +5561,7 @@ enfeoffing
 episcopant 2
 enfeoffment 1
 exestuate
-exhaustedly
+exhaustedly 1
 ethions 3
 enfettering 2
 enophthalmos
