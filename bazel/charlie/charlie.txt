@@ -16300,7 +16300,7 @@ clypeate
 conspicuous 3
 caraco
 clypeated
-clypeiform
+clypeiform 1
 clypeola 1
 clypeolar
 clypeus
