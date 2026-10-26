@@ -102,7 +102,7 @@ cabdriving 1
 corydora
 cabecudo
 capellet 1
-cabeliau 3
+cabeliau 4
 cabestro 1
 cabestros
 chalinidae
@@ -10722,7 +10722,7 @@ cincher
 chinch
 chinchayote 1
 choise 1
-cytoarchitecture 1
+cytoarchitecture 2
 corncake
 cataloger
 clammersome 3
@@ -15863,7 +15863,7 @@ circumclude 2
 carbonisation 1
 cachaca 2
 comstockery
-calisthenical 1
+calisthenical 2
 cobcab 1
 compends 2
 cleeking
