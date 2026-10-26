@@ -4321,7 +4321,7 @@ florescence 1
 forequarters 3
 fluyt
 factive 1
-fet 2
+fet 3
 flamethrower 1
 funditor 4
 fructiferousness 3
