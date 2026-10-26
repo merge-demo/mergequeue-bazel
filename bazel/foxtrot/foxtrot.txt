@@ -2016,7 +2016,7 @@ fannell 1
 fardels 1
 feetfirst 2
 fireworky 3
-fractionizing 1
+fractionizing 2
 furlongs 3
 freshens 3
 farmers 5
@@ -10962,7 +10962,7 @@ fallfish
 firmless 1
 freesias 1
 frigidaire 2
-furors 2
+furors 3
 forgettable
 fink 3
 fumaroidal 4

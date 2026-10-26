@@ -8152,7 +8152,7 @@ elleck 2
 eliminative 2
 elmy 2
 eclectically 3
-erudit
+erudit 1
 echeveria 2
 episcopate 2
 expulsions 3
@@ -11502,7 +11502,7 @@ electrophotometer 3
 evigilation 2
 emenders 3
 endocrinous 1
-exsecant 1
+exsecant 2
 exoergic 3
 echinopanax 3
 exhibited 3
