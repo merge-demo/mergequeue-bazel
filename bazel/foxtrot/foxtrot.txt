@@ -5533,7 +5533,7 @@ fankle 4
 feticides 2
 feynesses 1
 fossettes 1
-fleurettee
+fleurettee 1
 fluemen 1
 floating 5
 fleshful 1
@@ -10410,7 +10410,7 @@ firsts 3
 fusileers 2
 flandan 1
 forewarm 3
-fluorinated 3
+fluorinated 4
 frontlash 1
 flatmen 2
 fallowing 4
