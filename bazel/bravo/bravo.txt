@@ -3407,7 +3407,7 @@ berascaled 1
 bryophytic
 burghership 1
 byrrus 1
-bedsores 1
+bedsores 2
 blushing 1
 bulletmaker 1
 bastardism 1
@@ -9367,7 +9367,7 @@ birdhouse 3
 breezed 2
 barramundi 4
 bullety 2
-birdies
+birdies 1
 boondocker 2
 butterflying 1
 brimse 2
