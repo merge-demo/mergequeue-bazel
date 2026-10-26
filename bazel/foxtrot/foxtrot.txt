@@ -3460,7 +3460,7 @@ fantasist 1
 fifteens 1
 frauds 2
 fifties 1
-fiftieth 1
+fiftieth 2
 florilegia 3
 figeater 2
 floriate 3
@@ -6606,7 +6606,7 @@ floodway 1
 fingerstone 2
 fascioliasis 1
 flagrante 7
-frogfish 3
+frogfish 4
 fundholder 4
 flapperism 1
 forestaffs 2
@@ -8883,7 +8883,7 @@ foul 4
 fogger 2
 finesse 3
 foulder 3
-fiberizer 2
+fiberizer 3
 flatteners 1
 fouled 1
 fling 3
