@@ -2318,7 +2318,7 @@ forbysen 6
 fens 1
 fluctuates
 furrowless 3
-frangipane 3
+frangipane 4
 fritter 1
 fensive
 faulkland 3
@@ -7034,7 +7034,7 @@ fontal 3
 freakout 1
 fulmining 5
 fougasse 3
-fontful 2
+fontful 3
 fantassin 3
 forehandedly 4
 fonticulus 1
