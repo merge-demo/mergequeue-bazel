@@ -8338,7 +8338,7 @@ geomagnetics
 gentes 4
 greeneries 4
 gladness 1
-gelation
+gelation 1
 grailing 3
 gudes 6
 grandparental 2
