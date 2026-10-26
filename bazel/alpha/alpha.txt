@@ -12820,7 +12820,7 @@ angiorrhaphy
 angiorrhea 2
 armorwise
 ammocoetid 2
-angioscope
+angioscope 1
 angiosymphysis
 anopia
 antiatoms
