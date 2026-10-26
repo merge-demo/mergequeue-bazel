@@ -4153,7 +4153,7 @@ felonry
 flexed 4
 fatling 6
 fenchyl 2
-feezed 3
+feezed 4
 fireboy 1
 flying 4
 fiendishly 2
@@ -4755,7 +4755,7 @@ feuillage 2
 fulldo 3
 flag 3
 forestalment 2
-flammiferous
+flammiferous 1
 furloughing 4
 flagellariaceous 3
 fleecily 3
@@ -9594,7 +9594,7 @@ fishpound 4
 fivestones 2
 ferrotyper 2
 forhooy 2
-fothering 3
+fothering 4
 flanger 5
 flagellant 2
 finalism 1
