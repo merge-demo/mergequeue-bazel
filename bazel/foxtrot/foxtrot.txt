@@ -9117,7 +9117,7 @@ fortresses 1
 fribblish 2
 filters 3
 fantasias 1
-fortifies 2
+fortifies 3
 fielded 1
 fleeceflower 4
 floridly 4
@@ -11158,7 +11158,7 @@ force 3
 figged
 frowy 1
 fungation 2
-fungia 5
+fungia 6
 fremdness 2
 flyblowing 2
 fungian
