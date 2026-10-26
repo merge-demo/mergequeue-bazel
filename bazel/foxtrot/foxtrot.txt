@@ -4755,7 +4755,7 @@ feuillage 2
 fulldo 3
 flag 3
 forestalment 2
-flammiferous
+flammiferous 1
 furloughing 4
 flagellariaceous 3
 fleecily 3
