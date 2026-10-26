@@ -14078,7 +14078,7 @@ araneids
 antedates
 antedating 4
 angrier 2
-astur
+astur 1
 amphisbaenic 1
 ablegation 1
 anapests 1
@@ -18022,7 +18022,7 @@ ablesse 1
 adjoin 2
 aesculaceae 1
 antithetical 1
-ascaridia
+ascaridia 1
 april
 abadia 2
 arborescent
