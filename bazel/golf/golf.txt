@@ -6175,7 +6175,7 @@ goniatite 3
 gigantolite 2
 gunmanship 3
 goyin 3
-grandstanded 2
+grandstanded 3
 guillotinement 1
 glandiferous 1
 gynecomastia
@@ -6886,7 +6886,7 @@ garrotes 5
 garfish
 gregarina 2
 gelatinoid
-graticulate 3
+graticulate 4
 glis 1
 gannet 6
 glibly 2
@@ -9864,7 +9864,7 @@ galaxy 1
 guaneide 4
 gharri 4
 guanethidine 1
-gallbush 6
+gallbush 7
 galyacs 1
 gastroenterologist 2
 geikielite 3
