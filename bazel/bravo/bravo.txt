@@ -5357,7 +5357,7 @@ bacteriogenic 1
 bonace 1
 blueweed 2
 besoothement 2
-buyable
+buyable 1
 begray 2
 bromobenzene 1
 barodynamic 2
