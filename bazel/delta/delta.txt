@@ -3465,7 +3465,7 @@ defluvium 1
 demimark
 dang 1
 defoamed 1
-diacetylmorphine 2
+diacetylmorphine 3
 damozels 3
 defoamer
 dryer 1
@@ -15070,7 +15070,7 @@ doggonest 1
 doggoning 2
 detant 1
 dislady 2
-difunctional 1
+difunctional 2
 dogget 1
 doggrelize 1
 dottrels 1
