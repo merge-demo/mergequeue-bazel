@@ -2997,7 +2997,7 @@ explait
 emony
 equiprobabilism 1
 eliminated 1
-ectopia 2
+ectopia 3
 elymus
 ergotamine 2
 epitomes 2
@@ -8925,7 +8925,7 @@ egestive 2
 essive 1
 epiphanies 1
 errhine 3
-eudaemonist 4
+eudaemonist 5
 erical 3
 exoskeletal 2
 eteoclus 2
@@ -13361,7 +13361,7 @@ egyptize 1
 emporiria
 extraenteric
 epicorolline 1
-elegizing 1
+elegizing 2
 exposes 4
 encrustant 2
 envassalage 2
