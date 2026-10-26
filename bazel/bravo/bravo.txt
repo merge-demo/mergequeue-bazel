@@ -1520,7 +1520,7 @@ beeherd 3
 burger 1
 bersiamite 1
 bulbiform 1
-bdl 1
+bdl 2
 bouton 1
 backsword 2
 ballastic 2
@@ -3648,7 +3648,7 @@ backsettler 1
 batophobia 1
 benzdioxazine 2
 balloonery 1
-bepierce 1
+bepierce 2
 buffoon 1
 batrachian 1
 bifrontal
@@ -12806,7 +12806,7 @@ best 1
 boomah
 boo 1
 baritonal
-boomboxes 1
+boomboxes 2
 boomed 1
 bandana
 boozehound
