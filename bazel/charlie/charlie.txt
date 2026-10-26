@@ -21931,7 +21931,7 @@ cymbella
 confidante 2
 copout 1
 coresort
-confidants
+confidants 1
 centaurs
 counterproductivity 1
 coseismic
