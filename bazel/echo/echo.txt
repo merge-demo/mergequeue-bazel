@@ -3346,7 +3346,7 @@ elaeodendron 2
 erythrin 1
 euphroe
 equiangular 1
-emphemeralness 3
+emphemeralness 4
 expensefully 4
 endodermis 2
 ecdyses 4
@@ -9887,7 +9887,7 @@ electrotelethermometer 4
 editorial
 eugenicist 2
 esthiomene 2
-extenuatingly
+extenuatingly 1
 exiles 1
 ectophloic 2
 estimable 1
