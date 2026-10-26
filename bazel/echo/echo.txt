@@ -1345,7 +1345,7 @@ explosives
 eelspear 4
 effeminising 1
 effeminize 1
-effeminizing 2
+effeminizing 3
 exhibitionize 1
 ervil 6
 exsect 1
@@ -4835,7 +4835,7 @@ executory 4
 excipient 3
 encomiumia 5
 encompassment 3
-embira 1
+embira 2
 excusation 3
 episiotomy 2
 echard 3
