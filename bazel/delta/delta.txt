@@ -5981,7 +5981,7 @@ darcy 1
 doctorlike 1
 decimetres 1
 doubledamn 1
-deckswabber
+deckswabber 1
 debord
 decuples
 dragons 1
@@ -13648,7 +13648,7 @@ dolce 5
 def 1
 dissimilars 3
 dorize 1
-dequantitate
+dequantitate 1
 diedral 1
 dissimilate 1
 depletion 2
