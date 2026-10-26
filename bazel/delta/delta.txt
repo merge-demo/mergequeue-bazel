@@ -5559,7 +5559,7 @@ depancreatize 1
 drawrod 1
 drainermen 1
 deoxygenized 2
-demicolumn 1
+demicolumn 2
 diffusionism
 depascent 1
 debilitation
