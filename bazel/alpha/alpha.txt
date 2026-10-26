@@ -3031,7 +3031,7 @@ actinolitic 1
 anthropogenesis 2
 antimeson
 aland 1
-actinomeric
+actinomeric 1
 apotheosise 2
 amtrac 3
 amphinucleus 1
@@ -20779,7 +20779,7 @@ agynarious 2
 aeroplankton 1
 alkylation 3
 antitoxins 2
-acerbating 1
+acerbating 2
 artistry 1
 aquarium 1
 ableness
@@ -23768,7 +23768,7 @@ auspice 1
 authenticated
 asouth 2
 aerohydroplane 1
-amorphozoa 2
+amorphozoa 3
 asplenioid 2
 aposporic
 ararauna 1
