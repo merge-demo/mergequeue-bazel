@@ -2562,7 +2562,7 @@ blackie 3
 bathofloric 2
 baryon 2
 brio 1
-baryphonia
+baryphonia 1
 bootie 1
 bronzesmith
 banzai 1
@@ -14285,7 +14285,7 @@ bewraying 1
 bubbleless
 bruiters 4
 braggy 1
-bibliophilic 3
+bibliophilic 4
 braggier 3
 bontok 1
 bullpates
