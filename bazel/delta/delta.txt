@@ -6661,7 +6661,7 @@ diastimeter
 desertlessly 3
 dungaree 1
 deserts
-deserve 2
+deserve 3
 depreciatoriness 1
 disembodiments 1
 divertissant
@@ -18112,7 +18112,7 @@ dahlia 1
 debarrass 1
 depetticoat 5
 dammed
-demythologizations
+demythologizations 1
 duplicate
 deterrer
 devisors 1
