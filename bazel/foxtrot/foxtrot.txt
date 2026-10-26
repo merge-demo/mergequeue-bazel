@@ -2506,7 +2506,7 @@ flerry 4
 fudging 3
 fainthearted 2
 faction 1
-farted
+farted 1
 facinorousness
 fluxgraph
 fatihah
