@@ -2429,7 +2429,7 @@ deceived 2
 disaffiliation 3
 dane 3
 decimates 1
-desmohemoblast 3
+desmohemoblast 4
 dropkick 3
 dusken 4
 dihydronaphthalene
@@ -3336,7 +3336,7 @@ definish 1
 decolored 2
 decapitalization
 definite 1
-definitely 1
+definitely 2
 distrait
 definiteness
 dahlin 3
