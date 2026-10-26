@@ -3677,7 +3677,7 @@ degradative 2
 degraded 1
 degradement 1
 dozing 1
-depsid 1
+depsid 2
 disrupt
 decimalisation
 discalced 3
@@ -16248,7 +16248,7 @@ downcoming 2
 deke 2
 disulfids 2
 desmidian 1
-demodulate 2
+demodulate 3
 dodecylphenol 2
 downcry 1
 dieciously 2
