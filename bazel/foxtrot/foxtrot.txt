@@ -1748,7 +1748,7 @@ flattener 3
 featheredged 2
 fanzines 3
 forejudgment 3
-feldspathoidal 2
+feldspathoidal 3
 forehent 4
 fashioning 2
 fusels 3
