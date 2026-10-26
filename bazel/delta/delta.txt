@@ -3336,7 +3336,7 @@ definish 1
 decolored 2
 decapitalization
 definite 1
-definitely
+definitely 1
 distrait
 definiteness
 dahlin 3
@@ -10588,7 +10588,7 @@ diplogenesis 1
 diagonalize 2
 deseam 3
 dirges 2
-doxographical 2
+doxographical 3
 dittology 1
 displants 5
 domestic 2
