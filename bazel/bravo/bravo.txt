@@ -1520,7 +1520,7 @@ beeherd 3
 burger 1
 bersiamite 1
 bulbiform 1
-bdl 1
+bdl 2
 bouton 1
 backsword 2
 ballastic 2
