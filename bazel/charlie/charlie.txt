@@ -11356,7 +11356,7 @@ confirm 1
 cestuy 2
 corollate 1
 chlorophyceae 1
-convenee
+convenee 1
 cressweed 1
 cotemporary
 chlorophyllase
@@ -14136,7 +14136,7 @@ connexion
 circularization 1
 chartology 1
 conversably
-circularizes
+circularizes 1
 choriambs 1
 circularly
 circularness 1
@@ -20893,7 +20893,7 @@ compregnate
 coart
 cosmognosis
 colonnades 1
-carbarn
+carbarn 1
 cheesiness 3
 comprehender 3
 coolamon 1
