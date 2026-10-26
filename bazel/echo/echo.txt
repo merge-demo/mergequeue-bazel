@@ -3033,7 +3033,7 @@ epidotes 3
 elytroposis 3
 elytrorhagia 3
 euglandina
-elytrostenosis 2
+elytrostenosis 3
 elytrotomy 1
 emeer 2
 eggfish 1
@@ -5773,7 +5773,7 @@ enigmatization
 engystomatidae 1
 enatic
 etherol 2
-extinguish
+extinguish 1
 ephorus 2
 enticers 2
 englacial

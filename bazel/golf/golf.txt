@@ -796,7 +796,7 @@ garrotting 5
 gastroenteritic 3
 gambang 3
 gastrular
-grazer 1
+grazer 2
 gonia 3
 goldbeater 1
 gambe
@@ -1950,7 +1950,7 @@ gauged 2
 grovet 5
 goclenian 3
 germicides 4
-glucosidal 1
+glucosidal 2
 gorbellied 2
 glutetei 5
 gruft 6
