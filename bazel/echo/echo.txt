@@ -4254,7 +4254,7 @@ emulant 3
 earwiggy 1
 elucidator 2
 emulations 4
-echograph
+echograph 1
 exporters 1
 expiree 4
 escarping 1
@@ -5636,7 +5636,7 @@ energistic
 europe 1
 epistemology 2
 enteroscopy 1
-elysium 2
+elysium 3
 esophoria 5
 enforceable 2
 ectocarpous 1

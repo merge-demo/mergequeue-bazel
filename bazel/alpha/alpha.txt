@@ -639,7 +639,7 @@ aesc 1
 anemological 1
 athamantin
 adherend 2
-abolitionized 1
+abolitionized 2
 archibenthos 1
 abolitionizing 5
 abollae 4
@@ -15416,7 +15416,7 @@ afterschool 3
 angiocholitis
 asomatophyte 2
 accentor
-avaricious
+avaricious 1
 antilogic 1
 antilogistic 1
 amastia
@@ -24514,7 +24514,7 @@ acroconidium 1
 auxanogram 1
 auxanometer 5
 aloins
-ayubite 1
+ayubite 2
 auxeses 1
 altercative
 antispreader
