@@ -1799,7 +1799,7 @@ bananaland
 blowen 1
 bluegum 3
 benzyls 3
-bridgewall
+bridgewall 1
 bananivorous
 banatite 1
 becharm 2
@@ -2609,7 +2609,7 @@ benettle 1
 bunglesome
 barkey 1
 briers 2
-barkery 4
+barkery 5
 behn 1
 barkhan 1
 batman 1
