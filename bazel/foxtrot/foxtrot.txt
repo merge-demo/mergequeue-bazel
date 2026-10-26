@@ -1400,7 +1400,7 @@ fatnesses 3
 furaciousness 1
 fatshedera 2
 foodlessness 4
-forges
+forges 1
 fatsia
 formy 3
 fatsoes 5
@@ -10423,7 +10423,7 @@ folks 4
 foraminifera 2
 flodge 2
 fumous 1
-fetterer 3
+fetterer 4
 forfex 1
 feetage 5
 finnesko 2
