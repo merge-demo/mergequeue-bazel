@@ -3756,7 +3756,7 @@ carbamide
 cooperationist 1
 copunctal 2
 confusingly 1
-cephalomenia 2
+cephalomenia 3
 carbamyls
 carpodetus 1
 carbamine 3
@@ -12141,7 +12141,7 @@ caraunda 2
 chrysalid 1
 coronet
 chrysalida 1
-cascarilla 2
+cascarilla 3
 chrysaline 1
 chromophilous
 chrysalis 2
@@ -28045,7 +28045,7 @@ crambes 2
 crambidae 1
 chemosynthetically
 crambos
-crambus
+crambus 1
 cramel
 corsie 1
 crammed 1
