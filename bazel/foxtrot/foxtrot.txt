@@ -5272,7 +5272,7 @@ fockle 2
 fabricable 2
 fomenter 2
 foresightedness 1
-ferricyanate 7
+ferricyanate 8
 flavours 1
 fimbriate
 feelinglessly 3
@@ -6791,7 +6791,7 @@ fallaciousness 4
 foldaway 3
 feretory 6
 ferryman 1
-farfal 3
+farfal 4
 forethink 6
 foldcourse 1
 fiberless 4
