@@ -9655,7 +9655,7 @@ cafuso 1
 cheesebox 2
 cheeseburgers
 cheesecake 1
-crees 2
+crees 3
 clyfaker
 cheesecloth
 cheesecloths
@@ -12984,7 +12984,7 @@ cirrhopetalum
 clamation
 conspirer 3
 cyanmethemoglobin
-calenturish
+calenturish 1
 cyano
 crystallogenesis
 cyanoacetate 1
@@ -27059,7 +27059,7 @@ counterpropagandize 2
 counterprophet 1
 collegially
 conceptualization
-counterproposal 1
+counterproposal 2
 caplock
 croupily 1
 clerking 2
