@@ -6903,7 +6903,7 @@ graftonite 2
 groundspeed 2
 greillade 4
 gooders 4
-goodheartedness
+goodheartedness 1
 goody 2
 giganticide 3
 geomalism 2
