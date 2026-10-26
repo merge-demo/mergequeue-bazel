@@ -840,7 +840,7 @@ fractures 2
 freckened 2
 freedoot 3
 fervorous 2
-forebows 1
+forebows 2
 free 1
 floutingly 1
 fragilities 1
@@ -7006,7 +7006,7 @@ foreaccustom 5
 fruitwoman 1
 flexions 1
 filla 2
-functor
+functor 1
 frison 2
 frittered
 fondues 4
