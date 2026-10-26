@@ -1535,7 +1535,7 @@ gravaminous 3
 galileo 3
 giraffesque 5
 gracilariid 2
-gery 1
+gery 2
 grype 2
 gulfiest 2
 grandiloquence 4
@@ -7799,7 +7799,7 @@ gipseian 1
 greeny 5
 grubworm 1
 gulleys 2
-gillstoup
+gillstoup 1
 gingerwork 4
 glycolipine 1
 gargoylish
