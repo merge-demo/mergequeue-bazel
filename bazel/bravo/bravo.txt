@@ -94,7 +94,7 @@ becked 3
 bumpity 1
 babied 4
 bumaloe 2
-bloodstock 1
+bloodstock 2
 bisyllabism 3
 boddhisattva 2
 bonsoir 2
@@ -2138,7 +2138,7 @@ botrychium 1
 backup
 blahlaut 4
 baptisias 3
-bonehead
+bonehead 1
 bricksetter 2
 burnishes
 bediapered 1
