@@ -19573,7 +19573,7 @@ crepiness 1
 confession 3
 childhoods 3
 columel 3
-coachmanship
+coachmanship 1
 ciliata 1
 chromaticism 3
 coextensiveness
