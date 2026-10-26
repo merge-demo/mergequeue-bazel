@@ -7075,7 +7075,7 @@ aker 2
 amdt 2
 antifeministic
 apogeal 1
-antitropic 1
+antitropic 2
 altiloquent 1
 akha
 angus
@@ -8196,7 +8196,7 @@ antependium 1
 alhambraic 2
 asteria 1
 apogeotropically
-alhenna 1
+alhenna 2
 alia 1
 atavist 1
 aln 1
@@ -14660,7 +14660,7 @@ antiannexation 1
 angioplany 1
 antiannexationist
 antianopheline
-akim 1
+akim 2
 antorbital 2
 antianthropomorphism 2
 aphodian 2
