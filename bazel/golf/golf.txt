@@ -281,7 +281,7 @@ groin
 guillochee 2
 gibing 6
 gaslock 1
-gaddish
+gaddish 1
 groundliness 4
 grubstaked 3
 globins 3
@@ -3175,7 +3175,7 @@ geosphere 3
 gapless 3
 guerilla 1
 geochronologist 2
-growthful 2
+growthful 3
 guardiancy 2
 germina
 geotechnic 1
@@ -10074,7 +10074,7 @@ gossampine 3
 guerrillas 3
 guesdism 2
 groomish 4
-gigman 2
+gigman 3
 galivanting 6
 glore
 gudgeon 2
