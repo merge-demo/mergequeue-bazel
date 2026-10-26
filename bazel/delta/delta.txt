@@ -5725,7 +5725,7 @@ dried 1
 dipneumonous 1
 decastich 3
 dysthymia 1
-drepanid 1
+drepanid 2
 demit 1
 deplorabilia 1
 dextrane 1
@@ -13665,7 +13665,7 @@ degender 1
 dampy
 devises 2
 disturbances 1
-demisemitone 1
+demisemitone 2
 dissymmetrically
 danseurs
 discoursive
