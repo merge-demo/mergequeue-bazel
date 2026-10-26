@@ -16961,7 +16961,7 @@ demihorse 4
 dullness
 downcurve 2
 dredgeful 3
-disintegrate
+disintegrate 1
 discerp
 dithery 2
 dredgers
