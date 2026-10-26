@@ -5495,7 +5495,7 @@ deadest 4
 devoiced
 dorsiventrality 2
 deoxidize
-doryphoros
+doryphoros 1
 deoxygenated
 depaints 2
 divestitures 2
