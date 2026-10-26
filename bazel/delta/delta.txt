@@ -3375,7 +3375,7 @@ deflagrable 1
 desophistication 3
 dialling 2
 decolor
-disrestore
+disrestore 1
 dynagraph 2
 dithionate 1
 deflagrator 1
@@ -10567,7 +10567,7 @@ disleaf
 davach 2
 dermatomycosis 1
 digammate
-dashiki 3
+dashiki 4
 denote
 dislikes 1
 disequilibrium 2
@@ -15407,7 +15407,7 @@ desperacy 2
 digestedness
 deforestation 4
 detoxify 1
-dragonet 1
+dragonet 2
 djebel 1
 disanoint
 dolichoprosopic

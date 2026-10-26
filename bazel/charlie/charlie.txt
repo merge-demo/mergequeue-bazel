@@ -11465,7 +11465,7 @@ chocolates
 chocolatiere
 cobras 1
 concentred 4
-choctaw
+choctaw 1
 choga
 chogset
 cussed 1
@@ -12697,7 +12697,7 @@ courtesied 1
 countermarch 3
 cassone 1
 conventioneer
-chudders
+chudders 1
 clingingness
 countervail 2
 crape 1
