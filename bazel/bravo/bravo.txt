@@ -12478,7 +12478,7 @@ brawniness 1
 bondstone
 burntness 1
 bather
-bagpiped 2
+bagpiped 3
 buphthalmos 1
 bone 2
 bejaundice 1
