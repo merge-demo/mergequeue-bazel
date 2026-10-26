@@ -1111,7 +1111,7 @@ calcine 1
 coherently 1
 candareen 1
 cytherea
-cheeser
+cheeser 1
 calciner 1
 chomer
 clamworm 1
@@ -15345,7 +15345,7 @@ caracter
 clanking 1
 chlorimetry 1
 curvilineal 1
-coldfinch
+coldfinch 1
 clankingly 1
 cornfloor 1
 clankless 1
