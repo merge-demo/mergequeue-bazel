@@ -2672,7 +2672,7 @@ cardiatrophia
 cephalocereus 1
 canille 4
 canine 1
-consuetudinary
+consuetudinary 1
 canines
 caning
 caniniform 1
@@ -3201,7 +3201,7 @@ capillarectasia 1
 cyrtograph
 cawquaw 3
 carmetta 1
-chinoiserie
+chinoiserie 1
 caboclos
 capilli 1
 capilliculture
