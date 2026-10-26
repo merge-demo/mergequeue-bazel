@@ -6281,7 +6281,7 @@ fearnought 2
 fakirism 1
 forceful 3
 fluidounce 5
-factory
+factory 1
 fluigram 1
 filestatus 5
 forepoling 1
