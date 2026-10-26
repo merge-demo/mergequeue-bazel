@@ -4952,7 +4952,7 @@ greenbottle 1
 gestural 3
 glaives 5
 get 6
-gent 2
+gent 3
 galangal 4
 grangerizing 2
 gamdia 5
@@ -7018,7 +7018,7 @@ giddybrain 1
 gladdener 1
 gasthauses 3
 goondie 2
-goons 2
+goons 3
 gamostely 1
 gavel 1
 gummer 2
