@@ -2139,7 +2139,7 @@ fluer 4
 fidepromissor 2
 filtered 4
 fuligulinae
-flaws 4
+flaws 5
 finfoots 1
 fumette 4
 fameful 4
@@ -6281,7 +6281,7 @@ fearnought 2
 fakirism 1
 forceful 3
 fluidounce 5
-factory
+factory 1
 fluigram 1
 filestatus 5
 forepoling 1
