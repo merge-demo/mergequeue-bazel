@@ -7898,7 +7898,7 @@ cesta 2
 catafalque
 cestidae 1
 cestodes 1
-copatron
+copatron 1
 coronize
 capitulary 3
 carouses 1
@@ -14490,7 +14490,7 @@ ciseaux
 courante 2
 cising 2
 cisium
-cisjurane
+cisjurane 1
 cisleithan
 cislunar
 cismontanism
@@ -21833,7 +21833,7 @@ constructionists 1
 cleaner 2
 confabs 1
 confabulate 1
-cimbal 1
+cimbal 2
 connivery 1
 calcium 1
 claithes 2

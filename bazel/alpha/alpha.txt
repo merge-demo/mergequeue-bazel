@@ -3114,7 +3114,7 @@ avowableness 2
 arthrodia
 aequipalpia 1
 actinostome 1
-abrachias
+abrachias 1
 apiculation 2
 anatoly
 angiokinesis
@@ -7516,7 +7516,7 @@ albuminimeter 1
 albuminiparous 1
 acromial
 agnomina 1
-aphagias 1
+aphagias 2
 aldebaran 1
 anfracture
 alnitham 2
