@@ -10456,7 +10456,7 @@ cheapside 2
 charlottesville
 cosurety 1
 chilblained 2
-chilcat 2
+chilcat 3
 coprostanol
 chelophore 2
 child
@@ -16173,7 +16173,7 @@ chromosantonin 1
 caskanet
 climbingfish
 collinearly
-chechen 1
+chechen 2
 chaunting 1
 clime 2
 counterpenalty
@@ -24949,7 +24949,7 @@ cystine 2
 chummiest 1
 corbicula 1
 corbiculate 1
-cellulolytic
+cellulolytic 1
 campaniform
 corbiculum 1
 corbie

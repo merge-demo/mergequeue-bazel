@@ -11623,7 +11623,7 @@ dreamlessness 4
 downweed
 diapnoe 1
 defectionist 1
-discontinuities
+discontinuities 1
 dicatalexis 3
 discontinuously 1
 drop 2
@@ -17541,7 +17541,7 @@ drumfishes
 drumhead 1
 disvaluing 1
 decolour 3
-disassimilation 3
+disassimilation 4
 dynamiter
 drumliest 2
 desisting 2
