@@ -6003,7 +6003,7 @@ amoles
 adenectomy 1
 acapnial
 alimenation
-alhena
+alhena 1
 angelica
 anemophilous 3
 apparence
@@ -7787,7 +7787,7 @@ aghast 1
 acetaminol 3
 affenpinscher 1
 absinthine 2
-academias 3
+academias 4
 aphidicide 1
 albolith 1
 aldazine 4
@@ -24986,7 +24986,7 @@ awes 3
 algorisms
 awestrike
 awfu 1
-arnotta 2
+arnotta 3
 archicoele
 awhape
 awheft
