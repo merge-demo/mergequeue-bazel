@@ -7762,7 +7762,7 @@ gabeller 4
 gentisin 1
 geogony 2
 graithly 1
-guatemalans 1
+guatemalans 2
 gilpey 1
 gluttonously 4
 gangan 4
@@ -10091,7 +10091,7 @@ grainland 3
 gonads 2
 gypsies 3
 grub
-guyot
+guyot 1
 gresil 4
 galahs 2
 gastropods
