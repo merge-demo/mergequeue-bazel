@@ -20182,7 +20182,7 @@ commo 1
 commendatary
 caramelization 1
 chappie 1
-cowlick 1
+cowlick 2
 commodata
 commodate 1
 clerics
@@ -23293,7 +23293,7 @@ consultantship 1
 chondrology 1
 clitoriditis
 consultary
-consultatively
+consultatively 1
 clarksville 1
 ceiled 1
 coumarin

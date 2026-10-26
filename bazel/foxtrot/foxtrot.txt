@@ -695,7 +695,7 @@ fobs 1
 familism 3
 firebolted 1
 farmstead 2
-forenotion 1
+forenotion 2
 farcemeat 2
 ferromagnetic 2
 futilitarianism 1
@@ -6014,7 +6014,7 @@ fidiculae 1
 ferroelectrically 1
 fellowman 4
 fibrinoplastin 3
-forthrightness 2
+forthrightness 3
 fiducinales 2
 forepoled
 fetich 2
@@ -8305,7 +8305,7 @@ fosterage 2
 faultiness 5
 freestyler 5
 fusspots 1
-forenames 2
+forenames 3
 forepole 3
 foregame 4
 fraternising 1
