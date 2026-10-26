@@ -11690,7 +11690,7 @@ anaerobion 1
 apocrisiary 1
 anaerobiont 2
 anaerobiosis 1
-anaerobiotic
+anaerobiotic 1
 anaerobium 1
 avanti
 anaphylactic
