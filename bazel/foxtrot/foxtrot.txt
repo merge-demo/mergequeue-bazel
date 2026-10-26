@@ -7667,7 +7667,7 @@ forsteal 3
 forecasting 2
 freeze 1
 foxskin 3
-fano 4
+fano 5
 fiesta 1
 fled 6
 forehandedness 3
