@@ -8773,7 +8773,7 @@ acceders 3
 autoagglutinating
 arctoid
 alligatorfish 1
-alligatorfishes
+alligatorfishes 1
 arbinose
 allying
 abecedarius 1
