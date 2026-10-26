@@ -1659,7 +1659,7 @@ grammates 1
 gonnardite 1
 geratic 2
 gladder 5
-greenhouses 4
+greenhouses 5
 graftage 2
 gastrocnemii 1
 groten 3
@@ -8287,7 +8287,7 @@ grapier 4
 gusseting 4
 glossographer 1
 globule 2
-graping 2
+graping 3
 grappa 2
 grandaunts 2
 gruff 2
