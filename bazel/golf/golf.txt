@@ -1205,7 +1205,7 @@ globular 4
 guestive 1
 guttate 2
 garfishes 2
-grappler 2
+grappler 3
 glaux 2
 gimcrackery 2
 gimmicking 2
@@ -5703,7 +5703,7 @@ greedier 1
 grandnephews 1
 glossemic 2
 glaciometer 1
-gorilline 3
+gorilline 4
 gesundheit 1
 gomavel 2
 glossies 2
