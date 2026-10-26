@@ -5773,7 +5773,7 @@ enigmatization
 engystomatidae 1
 enatic
 etherol 2
-extinguish 1
+extinguish 2
 ephorus 2
 enticers 2
 englacial
@@ -7968,7 +7968,7 @@ epimerized 2
 ephebus 2
 enclisis 1
 ectozoic 2
-epimers 3
+epimers 4
 encyclopaedia 2
 epileptiform 2
 equilobed 1
@@ -8175,7 +8175,7 @@ emballonurine 1
 ethmosphenoid 3
 episcopized
 equanimity 1
-euchromatin 2
+euchromatin 3
 extemporalness 3
 expedientist 1
 evelong 2

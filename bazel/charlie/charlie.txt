@@ -5139,7 +5139,7 @@ cholecyanin
 cyberneticists 1
 cherimolla
 casein
-caseinate 1
+caseinate 2
 canvaser 2
 chaprassi 4
 caseinogen
@@ -22538,7 +22538,7 @@ conkanee 1
 conked 2
 conker 1
 conservative 1
-concredit
+concredit 1
 conkers
 coking
 corpulency 2
