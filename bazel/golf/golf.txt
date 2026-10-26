@@ -6903,7 +6903,7 @@ graftonite 2
 groundspeed 2
 greillade 4
 gooders 4
-goodheartedness
+goodheartedness 1
 goody 2
 giganticide 3
 geomalism 2
@@ -7058,7 +7058,7 @@ gazy 5
 groutite 1
 gunite 5
 garava 1
-gunther 2
+gunther 3
 geikia 2
 gesellschaft 2
 galyaks 3

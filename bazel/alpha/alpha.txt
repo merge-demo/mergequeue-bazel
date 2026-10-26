@@ -10861,7 +10861,7 @@ autochthonousness 1
 aryan 1
 ammonifies 2
 arapaho 1
-acholias 2
+acholias 3
 arctiidae
 ammonion
 ammonitess 3
@@ -19326,7 +19326,7 @@ astacus 2
 amplexation 1
 areostyle 1
 areotectonics 1
-ambrein
+ambrein 1
 aminodiphenyl 2
 anaspidacea 1
 afield
