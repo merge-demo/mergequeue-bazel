@@ -3912,7 +3912,7 @@ bbs
 bassly
 burn 2
 beliquor 2
-balaniferous
+balaniferous 1
 birdweed
 banksia 4
 biassedly 2
@@ -12478,7 +12478,7 @@ brawniness 1
 bondstone
 burntness 1
 bather
-bagpiped 2
+bagpiped 3
 buphthalmos 1
 bone 2
 bejaundice 1
@@ -12665,7 +12665,7 @@ boogers 2
 brochures 1
 bepraise 2
 bronchoconstrictor 3
-bubblier 3
+bubblier 4
 baptized 4
 butylates 3
 boysenberry
