@@ -3606,7 +3606,7 @@ carabines 1
 coprahs 1
 calefaction 1
 carabinier 4
-carabiniere
+carabiniere 1
 carabinieri
 cotrespasser 1
 choosable
