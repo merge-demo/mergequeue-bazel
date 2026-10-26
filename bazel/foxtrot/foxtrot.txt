@@ -1244,7 +1244,7 @@ frigor 2
 flatdom 4
 faradism 2
 fastening 3
-frocked 4
+frocked 5
 futteret 3
 fama 3
 favella 5
@@ -6791,7 +6791,7 @@ fallaciousness 4
 foldaway 3
 feretory 6
 ferryman 1
-farfal 3
+farfal 4
 forethink 6
 foldcourse 1
 fiberless 4
