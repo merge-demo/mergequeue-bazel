@@ -1799,7 +1799,7 @@ bananaland
 blowen 1
 bluegum 3
 benzyls 3
-bridgewall
+bridgewall 1
 bananivorous
 banatite 1
 becharm 2
