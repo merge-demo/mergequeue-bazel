@@ -11488,7 +11488,7 @@ discoloration 2
 discolorations 3
 discolored
 dar
-doest 1
+doest 2
 defalcations
 deads
 discolorment 1
@@ -18084,7 +18084,7 @@ devolatilise
 duke 1
 dumbbell 1
 dimenhydrinate 2
-denominating
+denominating 1
 discontinuer 2
 dandriffs 3
 dumbest
