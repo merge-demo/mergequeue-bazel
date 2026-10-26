@@ -955,7 +955,7 @@ fabrile
 frondation 4
 fruitling
 farceuses 2
-flenched
+flenched 1
 facetiousness 4
 fluorids 2
 frape
@@ -3741,7 +3741,7 @@ flexibilty 1
 fecundates 2
 fillmore 2
 forwear 4
-fiscally
+fiscally 1
 fosse 1
 foujdary 4
 fourierian 2
