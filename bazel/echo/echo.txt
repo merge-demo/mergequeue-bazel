@@ -5788,7 +5788,7 @@ ensalada 1
 englanders 2
 engleim 1
 enshrines 1
-exchangeability
+exchangeability 1
 extranidal 3
 exhilarating 6
 exterritoriality 1
@@ -8249,7 +8249,7 @@ epistaxis 2
 epistemically 3
 enjoyingly 1
 engirded 1
-epistena 1
+epistena 2
 electrodiplomatic 3
 episternal 3
 entoloma 1
