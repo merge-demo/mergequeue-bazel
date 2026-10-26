@@ -5436,7 +5436,7 @@ equid 1
 emigrants 1
 eightsman 2
 example 1
-elsewhither 1
+elsewhither 2
 electronvolt 3
 endowment
 ectene 3
@@ -9863,7 +9863,7 @@ enragedly 3
 exuberation 2
 exhibitionistic 3
 eucalyptian 1
-expedite 1
+expedite 2
 expletiveness 5
 eupepsy 1
 erostrate 3
