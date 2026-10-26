@@ -29960,7 +29960,7 @@ creepier
 crosstown
 carcinologist 1
 crosstrack
-crosstree
+crosstree 1
 crossway 1
 crossways 1
 cetid 4
