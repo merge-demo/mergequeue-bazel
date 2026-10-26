@@ -7579,7 +7579,7 @@ alcaldia 1
 altaite 2
 allegiant
 autoclastic 2
-alcalizate
+alcalizate 1
 alcanna
 acardiac
 ascophyllum 1
@@ -11239,7 +11239,7 @@ ascorbate
 aliunde 2
 alismaceous
 algebar 2
-amphigories
+amphigories 1
 appenders
 allthing
 amphikaryotic
