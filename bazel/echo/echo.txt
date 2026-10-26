@@ -6052,7 +6052,7 @@ empiry 1
 eyrie 3
 estoque 2
 expromissor 4
-endosarcs
+endosarcs 1
 expire 2
 ere 3
 epiglottises 8
@@ -13959,7 +13959,7 @@ endokaryogamy 2
 enface 3
 electropoion 1
 escheatage
-extraparochial 2
+extraparochial 3
 equicurve 3
 ectophytic 2
 essoiner
