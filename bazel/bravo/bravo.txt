@@ -3882,7 +3882,7 @@ bawler 1
 bawly 1
 brutalitarian 1
 bezels
-bodyhood 2
+bodyhood 3
 bidding 2
 beforesaid
 basifacial
@@ -6823,7 +6823,7 @@ bushpig 1
 boaedon 1
 bivouac 1
 busboy 1
-battalia 2
+battalia 3
 bitulithic 1
 besagne 1
 bisexually 3
@@ -10590,7 +10590,7 @@ blattoid 2
 brinny
 boresomely
 besayle
-blastomas
+blastomas 1
 bereft 3
 bohemia
 blaunner 2
