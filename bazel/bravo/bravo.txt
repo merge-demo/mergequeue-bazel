@@ -9198,7 +9198,7 @@ bumbee 2
 bipaschal 2
 buffin 1
 biped 2
-bipedal 1
+bipedal 2
 beggared 1
 bogo 1
 backhauling 1
@@ -14295,7 +14295,7 @@ biporous 1
 beamsman 1
 blennorhea 1
 billbergia 1
-braggish
+braggish 1
 bugloss 1
 borocitrate 1
 blaver
