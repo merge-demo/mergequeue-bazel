@@ -2431,7 +2431,7 @@ dane 3
 decimates 1
 desmohemoblast 3
 dropkick 3
-dusken 3
+dusken 4
 dihydronaphthalene
 decimating 3
 dacrya 1
@@ -15086,7 +15086,7 @@ deboshed 1
 doglike 2
 dekabrist 2
 dufrenite
-delicti 2
+delicti 3
 domitian
 dedicative 3
 dumping 2
