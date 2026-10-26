@@ -9140,7 +9140,7 @@ footropes
 frothi 1
 flopover 2
 fluing 5
-fuzee
+fuzee 1
 fruitarian 1
 fractionalized 2
 forjudging 6
@@ -10250,7 +10250,7 @@ ferronickel 2
 forebow 4
 flavedos 4
 froideur 1
-froise 2
+froise 3
 frokin 4
 filum 1
 felons 1
@@ -11756,7 +11756,7 @@ fuzziest 3
 forstraught 4
 fertilitate 1
 fianna 2
-forloin 4
+forloin 5
 fullhearted 4
 fellowred 4
 femalist 2

@@ -7082,7 +7082,7 @@ angus
 archaeornis 2
 akhyana 2
 anopsias
-astrild 1
+astrild 2
 agaricin 1
 annectant 1
 aperture 1
@@ -8821,7 +8821,7 @@ anoesia
 allobar 1
 allobaric
 ammonolyses 1
-adolescency
+adolescency 1
 anthophore 1
 allobrogical
 abidance 1
