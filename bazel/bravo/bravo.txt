@@ -4593,7 +4593,7 @@ bowsprit 1
 bigaroons 2
 bilker
 baloskionaceae 2
-ballbuster 1
+ballbuster 2
 bedazzles 3
 bedazzlingly 2
 bibliopolery 1
@@ -5400,7 +5400,7 @@ babelic 2
 begulf 3
 blastomycotic
 bakshish 1
-begummed 1
+begummed 2
 biolite 1
 barbacoa 2
 behallow 2
@@ -17289,7 +17289,7 @@ bugala 3
 bummack
 bikeways 3
 brechan
-backlighting 1
+backlighting 2
 bleachers 6
 bedegar 2
 benzinduline 2

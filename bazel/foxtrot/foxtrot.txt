@@ -6033,7 +6033,7 @@ floreating 4
 folletto 2
 flabbiness 3
 fresco 2
-fermorite 6
+fermorite 7
 flightiness 3
 finger 2
 fontange 5
@@ -8591,7 +8591,7 @@ fricative 3
 flexor 3
 firedragon 2
 fornix 3
-fanegada 4
+fanegada 5
 forspent
 flocculus
 feower 3
@@ -9065,7 +9065,7 @@ fribbleism 1
 fractionation 1
 forenent 1
 folding 3
-fiant 1
+fiant 2
 friesish 2
 funnellike 4
 fenter 2
