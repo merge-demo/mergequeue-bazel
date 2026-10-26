@@ -9394,7 +9394,7 @@ diffranchise 3
 dely 1
 diadumenus 1
 decrete 1
-durabilities 1
+durabilities 2
 decadic
 discontentive 1
 dissoluble 2
@@ -18067,7 +18067,7 @@ dulness 1
 dysphemism 1
 diabetics 2
 dogskin 1
-dongs
+dongs 1
 dungol 2
 dulocracy
 dissuasory
