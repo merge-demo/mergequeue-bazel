@@ -7404,7 +7404,7 @@ annulus
 amusiveness 1
 affinage 3
 antrum
-adversus 2
+adversus 3
 alarmists
 astrogate
 anchithere 1
@@ -12671,7 +12671,7 @@ angareb 3
 angel 1
 angela
 artemis 2
-anthodium 2
+anthodium 3
 arsenicize
 ameliorated
 abroad
@@ -20831,7 +20831,7 @@ arundiferous 1
 avouter 1
 adpao
 allurers 2
-arupa 3
+arupa 4
 armoried 1
 aruspicy
 axilla
