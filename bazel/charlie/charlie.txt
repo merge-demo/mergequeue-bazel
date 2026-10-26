@@ -12795,7 +12795,7 @@ chunder 3
 chung 2
 camassia
 chunga
-calomel
+calomel 1
 computes 3
 confronted 1
 crooknecks 2
@@ -28876,7 +28876,7 @@ crevet
 crevette 1
 creviced 1
 chorus
-cussers
+cussers 1
 crevices 2
 combo
 coventries 1
