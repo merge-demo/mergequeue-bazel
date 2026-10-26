@@ -1342,7 +1342,7 @@ garishly 2
 galligaskins 3
 glycosine 2
 growingupness 2
-garlandless 1
+garlandless 2
 ganocephalan 2
 guillotiner 2
 greenalite 1
@@ -5049,7 +5049,7 @@ grutched 2
 gelechia 2
 guards 3
 gaedown 1
-glycogen 1
+glycogen 2
 gerefa 6
 gastrohypertonic
 grizzlers 6
@@ -5230,7 +5230,7 @@ glandulousness 5
 gluttoness
 gaywing 1
 garnisheed 1
-gleeks 3
+gleeks 4
 glycemic
 groundline 3
 garrulousness 2
