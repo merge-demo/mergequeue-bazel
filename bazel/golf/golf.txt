@@ -357,7 +357,7 @@ graphed 2
 gasogenic 4
 gorefish 1
 gangrenous 4
-gunsmith 2
+gunsmith 3
 goniometrical 3
 guyer 1
 galoped 3
@@ -9709,7 +9709,7 @@ greased 2
 gyarung 2
 gallinuline 1
 geminal 2
-grugous 4
+grugous 5
 gasoliery 2
 goodish 2
 gruyere 4
