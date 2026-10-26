@@ -2777,7 +2777,7 @@ festinating 1
 festination 1
 fodgel 2
 forgettery 3
-furriest 4
+furriest 5
 festooneries 3
 flunkyite 1
 festivally 4
@@ -3969,7 +3969,7 @@ frenziedly 1
 frightfulness 2
 foreshown 1
 funneled 3
-farcical
+farcical 1
 follyproof 8
 fossil 2
 footsteps 3

@@ -3079,7 +3079,7 @@ anhydrous 3
 abidingly 2
 associators 2
 atocia 1
-antjar 2
+antjar 3
 anthrarufin 3
 affiliations 1
 amberous
@@ -10940,7 +10940,7 @@ admin 1
 atwin 1
 acquainted
 arched
-amoebaeum 1
+amoebaeum 2
 athogen 1
 amoebalike 1
 amoebas 1
@@ -16094,7 +16094,7 @@ avitaminotic 1
 aerenchyma 1
 antipool 1
 atomises
-antiscientific
+antiscientific 1
 ande
 auto
 antiscolic 1

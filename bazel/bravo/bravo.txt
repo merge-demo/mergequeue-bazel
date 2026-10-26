@@ -4813,7 +4813,7 @@ believableness 2
 baboons 1
 badmouth 1
 branchia 1
-breekless
+breekless 1
 bedspring
 bulgaria 3
 benedicite 2
@@ -6291,7 +6291,7 @@ bentonite 2
 bents 1
 benu 3
 benumbed 5
-benumbingly 1
+benumbingly 2
 benumbs 1
 besodden 3
 brigalow
