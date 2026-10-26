@@ -10704,7 +10704,7 @@ destained 1
 depastured
 dawting 2
 dah 2
-dryworker
+dryworker 1
 dowcote 1
 dipodomys
 dipolar 1
@@ -14195,7 +14195,7 @@ disbranching 1
 diapensiaceous
 disuses
 disutility 1
-disutilize 2
+disutilize 3
 doldrum 1
 dramatists 3
 dicer
@@ -16961,7 +16961,7 @@ demihorse 4
 dullness
 downcurve 2
 dredgeful 3
-disintegrate
+disintegrate 1
 discerp
 dithery 2
 dredgers
