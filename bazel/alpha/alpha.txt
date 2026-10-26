@@ -21998,7 +21998,7 @@ antiperiodic 2
 act 1
 assuming 2
 assumingly
-assummon 1
+assummon 2
 assumptious 3
 assumptiousness 1
 achondroplastic 2
@@ -23193,7 +23193,7 @@ attest
 attestable 2
 amphibology 1
 artel 1
-arsonvalization
+arsonvalization 1
 abolla 2
 alytarch 1
 anisotonic 2
