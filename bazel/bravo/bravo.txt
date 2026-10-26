@@ -6589,7 +6589,7 @@ bluff
 betons 2
 blastular 2
 bere 1
-butterbox 2
+butterbox 3
 brotula 1
 beetlers 4
 bacharach 2
@@ -7216,7 +7216,7 @@ bestraddled 2
 bongrace 1
 bauta 1
 bute 4
-bituminised
+bituminised 1
 beshear 5
 balearic 1
 bestrew
@@ -7470,7 +7470,7 @@ betulinic 1
 bipyramidal 2
 betumbled 4
 blitheful 2
-balconied 1
+balconied 2
 bengals 4
 biomicroscope 6
 bowne 2
