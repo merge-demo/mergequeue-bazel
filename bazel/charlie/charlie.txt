@@ -2201,7 +2201,7 @@ campions
 contemporaneously
 calcaneus 2
 cample
-campimetry
+campimetry 1
 cordyline 2
 cornamute
 campo 4
