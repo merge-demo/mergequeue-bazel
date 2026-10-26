@@ -12421,7 +12421,7 @@ bonbons
 batell
 barker
 bareboats 2
-bushiness 1
+bushiness 2
 bureaux 2
 banisterine
 bond 3
