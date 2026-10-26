@@ -2654,7 +2654,7 @@ amygdalic
 acre 1
 amount 2
 afoam
-aquamarine 1
+aquamarine 2
 ammochaeta 1
 acreage
 anamirta 2
@@ -17154,7 +17154,7 @@ aproctia
 apollinarian 4
 apollo 1
 apollonian
-author 2
+author 3
 apollonic 2
 antalkaline 1
 apology 2
