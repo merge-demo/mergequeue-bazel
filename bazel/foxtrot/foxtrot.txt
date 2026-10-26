@@ -4744,7 +4744,7 @@ forerank 3
 faldfee 2
 forthink
 fablemongering 3
-forestry
+forestry 1
 flo 3
 fertil 2
 furtherest
