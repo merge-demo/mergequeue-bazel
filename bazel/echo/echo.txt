@@ -720,7 +720,7 @@ eosinate 2
 enneaspermous 1
 enabler 2
 economise 1
-eschaunge
+eschaunge 1
 ensnare
 extremital 3
 eidolism 2
@@ -6413,7 +6413,7 @@ exes 2
 equilocation 1
 enanguish 1
 espaliered 1
-expugn 1
+expugn 2
 ethinyls 3
 ensiled
 embezzler 3
@@ -10071,7 +10071,7 @@ editorially 3
 entitlement 2
 ethanolamine
 ephemeralness
-equidense 2
+equidense 3
 ethanolysis 1
 excretion 2
 ensepulcher 2
