@@ -1141,7 +1141,7 @@ gallnut 5
 galyac 4
 groupment 3
 gunpowder 1
-genion 1
+genion 2
 granddam 1
 gypsologist 2
 gander 3
@@ -4279,7 +4279,7 @@ gramineousness 4
 greenwithe 2
 geoform 2
 goon 2
-gantleting 2
+gantleting 3
 gramophones
 gusto
 garnishing 3
