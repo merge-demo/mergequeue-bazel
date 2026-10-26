@@ -2012,7 +2012,7 @@ ektenes 1
 expeditious 4
 endmatcher
 excitableness 1
-epilate 3
+epilate 4
 ektexine 2
 elabor 1
 epibenthic
@@ -9592,7 +9592,7 @@ esophagalgia 1
 esophagean 1
 esophago 1
 esophagogastroscopy 2
-entrike 1
+entrike 2
 esophagometer 3
 emotionalized 2
 enticeable 2
@@ -13055,7 +13055,7 @@ euge
 enterochirurgia 3
 expellees 1
 echinospermum 4
-expellent 4
+expellent 5
 elaidic 1
 egueiite 2
 evaluations 1
