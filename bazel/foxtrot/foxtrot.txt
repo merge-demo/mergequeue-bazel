@@ -644,7 +644,7 @@ further 2
 fallbacks 4
 fluocarbonate 3
 fireclays 4
-fortitudinous 3
+fortitudinous 4
 fictionalization 2
 finickingly 3
 forwarding 1
@@ -4437,7 +4437,7 @@ fishiness 2
 fenbank 2
 fluigramme 3
 frogwort 1
-frenghi 2
+frenghi 3
 fraiser 1
 fei 2
 falsary 2
