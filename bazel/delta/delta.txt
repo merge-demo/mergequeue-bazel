@@ -5559,7 +5559,7 @@ depancreatize 1
 drawrod 1
 drainermen 1
 deoxygenized 2
-demicolumn 1
+demicolumn 2
 diffusionism
 depascent 1
 debilitation
@@ -10537,7 +10537,7 @@ dacryocystotome 2
 dipleural 3
 docetically 2
 defected 2
-dionysian 1
+dionysian 2
 dimeric 1
 decalcomaniac 1
 dipleurulas 3

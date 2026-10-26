@@ -7919,7 +7919,7 @@ cetane
 cetanes
 cete 1
 cetera 1
-ceterach
+ceterach 1
 ceti 1
 cetic 1
 cocytus
@@ -13135,7 +13135,7 @@ cicatrices
 cicatricle 1
 chamberdeacon
 copastorate
-cicatricula
+cicatricula 1
 cicatricule 1
 cicatrisant 1
 chipmucks 1
@@ -30252,7 +30252,7 @@ cruller
 chubbedness 2
 conglobately
 crumb
-crumbed 1
+crumbed 2
 chooky 1
 corm 1
 caingang 1

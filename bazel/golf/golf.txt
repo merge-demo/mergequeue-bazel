@@ -2017,7 +2017,7 @@ gars 2
 generalness 6
 gambogic 2
 gums 1
-gauzewing 1
+gauzewing 2
 gomorrah 1
 gnaeus 3
 galactia 4
@@ -2618,7 +2618,7 @@ geiger 3
 goutte 4
 garabato 4
 galluot 2
-glisters 1
+glisters 2
 genesial 2
 genesitic 6
 gymnastics 3
@@ -4246,7 +4246,7 @@ gladiators 3
 grovelling
 gumptionless 7
 gloats 2
-gunsling 5
+gunsling 6
 gasteralgia 3
 garrisoning 1
 gilty 2
@@ -7594,7 +7594,7 @@ glycosaemia 4
 gambians 2
 gunfought 4
 grab 2
-guanamine 1
+guanamine 2
 gullibility 1
 gorkhali 4
 guarantied 4
@@ -7737,7 +7737,7 @@ gittern 2
 grassroots
 gloea
 gutturopalatine
-grenelle 1
+grenelle 2
 gauloiserie 4
 guld 2
 grenadier 3
