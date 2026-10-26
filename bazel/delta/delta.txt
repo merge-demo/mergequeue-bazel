@@ -3980,7 +3980,7 @@ dindling 1
 decontaminates 1
 dunstone 1
 drugless 2
-dustman 1
+dustman 2
 decontaminator 3
 disquixote
 delatinize 2
