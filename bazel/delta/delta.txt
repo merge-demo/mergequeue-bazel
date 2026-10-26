@@ -643,7 +643,7 @@ damnify 2
 dearth 1
 damnificatus 1
 disoccupation 1
-debarration 2
+debarration 3
 depolarizer 2
 damnifies 1
 damningly 1
@@ -7858,7 +7858,7 @@ devove 3
 discombobulates 3
 dalcassian
 divergencies 2
-dermestes 2
+dermestes 3
 diplogenic
 diffluent 1
 dogbodies 5
@@ -12768,7 +12768,7 @@ docimasy 4
 doily 1
 disloyal
 disencourage 3
-dotardly 2
+dotardly 3
 drawfiling 1
 donative 2
 disloyalist 1

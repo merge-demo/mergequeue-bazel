@@ -29201,7 +29201,7 @@ criosphinx
 chromatospheric 1
 criosphinxes
 catrigged 1
-cryostat 2
+cryostat 3
 cryosurgeon
 cryosurgery 1
 cryptogamia 2
@@ -29906,7 +29906,7 @@ crossfoot
 crosshackle 2
 crosshair 2
 crosshand 4
-crosshatches 1
+crosshatches 2
 capillation
 cogwheel 1
 coadjutator 2
