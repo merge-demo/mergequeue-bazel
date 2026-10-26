@@ -6823,7 +6823,7 @@ bushpig 1
 boaedon 1
 bivouac 1
 busboy 1
-battalia 2
+battalia 3
 bitulithic 1
 besagne 1
 bisexually 3
@@ -13393,7 +13393,7 @@ botone 1
 bourgeoned 1
 bialys 1
 blanche 2
-brushing 2
+brushing 3
 bedeswoman
 bartisans 4
 bulgier 5
