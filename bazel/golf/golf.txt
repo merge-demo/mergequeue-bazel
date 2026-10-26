@@ -2616,7 +2616,7 @@ gowf 3
 glossolabial
 geiger 3
 goutte 4
-garabato 3
+garabato 4
 galluot 2
 glisters 1
 genesial 2
@@ -9052,7 +9052,7 @@ grateful 2
 granulomatous
 gyrates 2
 gnatcatcher 4
-girasole 2
+girasole 3
 girlism 1
 gryllos
 gaffle 1
