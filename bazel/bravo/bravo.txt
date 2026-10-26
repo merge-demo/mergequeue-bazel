@@ -5250,7 +5250,7 @@ backmost 1
 blastocyst 1
 begats 2
 bolters 2
-bastes 1
+bastes 2
 bothsided 4
 begazing
 bimasty 1
