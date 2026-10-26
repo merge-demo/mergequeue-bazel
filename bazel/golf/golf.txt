@@ -47,7 +47,7 @@ gableboard 6
 groats 3
 graperies 3
 gangue 1
-glaucolite 1
+glaucolite 2
 guemal 5
 geometrine 2
 gelatinousness 6
