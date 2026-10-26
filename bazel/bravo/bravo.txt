@@ -526,7 +526,7 @@ backtracks 2
 babies 3
 betrayment 1
 backveld
-beech 1
+beech 2
 bayok 3
 blasthole 1
 bafflingness 3
