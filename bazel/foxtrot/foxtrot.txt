@@ -678,7 +678,7 @@ fizzier 3
 fireman 2
 filemot 2
 floccing 1
-funkier 4
+funkier 5
 flannelmouths 2
 feathercut
 fairish
@@ -1676,7 +1676,7 @@ flatworm
 fieldmice 2
 fragmentation 2
 folioing 4
-fleshless 1
+fleshless 2
 festa 3
 fieldward 2
 finishing 1
