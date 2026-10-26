@@ -47,7 +47,7 @@ gableboard 6
 groats 3
 graperies 3
 gangue 1
-glaucolite 1
+glaucolite 2
 guemal 5
 geometrine 2
 gelatinousness 6
@@ -1963,7 +1963,7 @@ gastrohepatic 2
 grated 4
 grasser 1
 gulonic 4
-grossing 1
+grossing 2
 gaultherin 1
 gaunch 2
 gangers 2
@@ -8135,7 +8135,7 @@ gallygaskins 1
 gazabos 2
 garderobe 2
 gaspergous 1
-gynaeolater 2
+gynaeolater 3
 gulfed 3
 gloat 1
 glowflies 2

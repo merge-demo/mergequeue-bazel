@@ -6419,7 +6419,7 @@ atelene 1
 agronomists
 antieducationally 1
 arapaimas
-agrostemma 2
+agrostemma 3
 acrogamy 1
 agrostography 3
 algesthesis 1
@@ -13698,7 +13698,7 @@ apollinarianism
 anomaloflorous 2
 archaistic 2
 amentaceous 2
-anomalogonatous 1
+anomalogonatous 2
 anomalon 1
 antipasto 1
 auxochromism 1
@@ -16803,7 +16803,7 @@ autoportraiture 2
 aphorize 2
 abos 2
 aphorizes 1
-aphorizing 1
+aphorizing 2
 ancienter 1
 approve 1
 anlet

@@ -15568,7 +15568,7 @@ donsie 1
 deflocculent
 donsky 1
 donum 1
-donzel 1
+donzel 2
 discovering
 doubt 1
 divelled 2
@@ -16119,7 +16119,7 @@ designators 1
 doulocracy 3
 doum 2
 douma 4
-didynamy
+didynamy 1
 discrowned 4
 disharmonise 2
 doup 2
