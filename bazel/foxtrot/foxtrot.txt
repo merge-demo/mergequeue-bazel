@@ -4246,7 +4246,7 @@ fraist 2
 fussification 3
 flanky 1
 frogmouths 2
-fracases 4
+fracases 5
 freakishness 4
 fatting 3
 fireplug 4
@@ -7124,7 +7124,7 @@ flanging
 familarity 1
 footballs 2
 flinchers 3
-footboard 1
+footboard 2
 footboards 1
 frotteurs 1
 feckful 1
