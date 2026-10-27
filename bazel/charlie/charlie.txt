@@ -7209,7 +7209,7 @@ coffeehousing
 centring 1
 centrings 1
 clivia
-cavaedia
+cavaedia 1
 centriole
 chalazogam 1
 confiture
