@@ -3686,7 +3686,7 @@ cooking
 coleopterological 2
 carangin 1
 chunderous 2
-chromicize 2
+chromicize 3
 coemptive 1
 conjugation 1
 chabutra
@@ -5457,7 +5457,7 @@ castrensial 2
 castrum
 cerebellopontile
 christianness
-casualism 1
+casualism 2
 casualist 1
 curvesome 1
 casuals
@@ -23605,7 +23605,7 @@ corycian 2
 centumviral 1
 contortedness 2
 commissionating 2
-chronothermometer
+chronothermometer 1
 contortion
 contortional 1
 contortionate
