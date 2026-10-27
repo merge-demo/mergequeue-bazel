@@ -8519,7 +8519,7 @@ gametophyte 3
 ganglioblast 4
 gyrophoric 1
 gulden 4
-gyromitra
+gyromitra 1
 grecian
 grues 2
 gressorious 2
