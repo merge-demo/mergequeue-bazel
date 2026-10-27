@@ -5357,7 +5357,7 @@ disblame
 decoyed 2
 daraf 2
 diaphoretic 4
-displaced 2
+displaced 3
 dentical 1
 denticle 1
 dentiferous 3
@@ -8743,7 +8743,7 @@ dedicated 2
 diatomeae 1
 diatomicity 2
 duetted
-downright 2
+downright 3
 dinting 1
 defocusses
 deescalations
@@ -13090,7 +13090,7 @@ dustlessness 1
 deutocarbonate 3
 displicency 1
 diastyle 1
-dispensatory
+dispensatory 1
 detrain 2
 develed
 dispensatress 5
@@ -18517,7 +18517,7 @@ demisavage 3
 dissilition 1
 durbars 4
 dissonate 2
-diau
+diau 1
 dured 3
 decollated 2
 disparting
