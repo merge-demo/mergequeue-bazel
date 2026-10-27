@@ -2420,7 +2420,7 @@ excusively
 epipetalous 3
 episcopalianize 2
 ensorcell 3
-events 2
+events 3
 entrail 1
 ecraseur 2
 emplection
@@ -6390,7 +6390,7 @@ embars 1
 enshrinements 1
 endovaccination 1
 electrotyper
-ephebe 2
+ephebe 3
 expenseful 2
 earthward 3
 emulsor 1
