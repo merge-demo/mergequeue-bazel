@@ -10596,7 +10596,7 @@ dolorimeter
 documented
 decoctible
 diploidic 1
-dunderbolt 2
+dunderbolt 3
 dominus 1
 diploidize 2
 doorman 1
@@ -11623,7 +11623,7 @@ dreamlessness 4
 downweed
 diapnoe 1
 defectionist 1
-discontinuities 1
+discontinuities 2
 dicatalexis 3
 discontinuously 1
 drop 2
