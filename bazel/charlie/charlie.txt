@@ -13593,7 +13593,7 @@ coproite 1
 crankest 2
 chiffer 2
 cimices
-cimicide
+cimicide 1
 cene
 cimiciform 1
 chickens
@@ -26157,7 +26157,7 @@ cosmonautical
 countdowns
 cosmonautically
 creekside
-cervelat 1
+cervelat 2
 cosmonauts
 cosmoplastic 3
 cosmopoietic
