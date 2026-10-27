@@ -10710,7 +10710,7 @@ belap
 blenk 4
 blennadenitis 1
 backsetting 1
-blennemesis 1
+blennemesis 2
 bullets
 backswimmer 2
 blennenteria 4
