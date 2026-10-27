@@ -7469,7 +7469,7 @@ factures 3
 furciferous 4
 fordableness 1
 fathership 2
-featless
+featless 1
 floodproof 3
 fawning 2
 flashpan 2
