@@ -10504,7 +10504,7 @@ exorbitant
 eclectics 1
 epulary 1
 exemplifying 2
-emmetropic
+emmetropic 1
 etwee 1
 electricans 2
 esoanhydride 5
