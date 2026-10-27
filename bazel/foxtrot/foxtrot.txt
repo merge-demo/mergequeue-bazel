@@ -4825,7 +4825,7 @@ forties
 footbath 1
 frostbiter
 fibrinuria
-fumish 3
+fumish 4
 flume 6
 fracticipita 5
 faunus 2
@@ -9068,7 +9068,7 @@ folding 3
 fiant 2
 friesish 2
 funnellike 4
-fenter 2
+fenter 3
 forbruise 4
 foxfires
 foederis 4
