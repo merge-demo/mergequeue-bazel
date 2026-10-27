@@ -8,7 +8,7 @@ endecha 1
 electrochronograph 4
 engirding 1
 epidermoid 6
-erigeron 3
+erigeron 4
 evaporometer 2
 euchologion 2
 emigate 2
@@ -3543,7 +3543,7 @@ enicuridae 1
 emboli 2
 ergastulum 1
 embolimeal
-ecumenism 2
+ecumenism 3
 emuscation 1
 estriols 1
 enfoeffment
