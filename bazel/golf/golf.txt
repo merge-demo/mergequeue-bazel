@@ -1991,7 +1991,7 @@ gonif
 galician 3
 goschens 4
 gryphaea 1
-gams
+gams 1
 glyptical 3
 gaurian 2
 gasting
@@ -8395,7 +8395,7 @@ gyroscopically 5
 gaucherie 2
 gawby 1
 grebe 3
-gizzards 1
+gizzards 2
 gulping 1
 grippes 3
 giantry 2
@@ -9789,7 +9789,7 @@ gruntles 2
 granter 2
 galley 1
 galvanotropic 1
-gruntling 4
+gruntling 5
 gazook 1
 gruppo 4
 galeate 3
