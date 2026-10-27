@@ -7627,7 +7627,7 @@ cerebrose 1
 campanula
 chargers 1
 calathisci
-calcarated 1
+calcarated 2
 cerebrospinal
 chaetotaxy 2
 cevadilline 1
@@ -18848,7 +18848,7 @@ chapt 2
 cathecting 1
 curvilinearity
 corymbiform 2
-coliforms 1
+coliforms 2
 codisjunct 2
 communicational 4
 chaetophoraceae 1
@@ -21898,7 +21898,7 @@ checkstrap
 classificational
 congregate 1
 corpusculated 2
-chamberwoman
+chamberwoman 1
 confervae 2
 conferval 2
 combe
@@ -23196,7 +23196,7 @@ cromlechs 1
 constricted 1
 cobby
 carpomania
-constricting 1
+constricting 2
 constriction
 coelomic 1
 constrictive 1
@@ -28768,7 +28768,7 @@ crescendo 1
 crescendoing
 crescendos
 crescentade 1
-cussing 1
+cussing 2
 circulator
 crescentader
 cleaving 1
@@ -29764,7 +29764,7 @@ crookedest 1
 commons
 crookedly 1
 crookedness
-crookery
+crookery 1
 crookesite 3
 crookheaded 2
 crooking 2
