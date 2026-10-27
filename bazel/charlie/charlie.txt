@@ -8842,7 +8842,7 @@ charact 1
 cutouts 2
 charactered
 capitalist
-costocoracoid
+costocoracoid 1
 charactery
 characterial 1
 crassamentum 3
@@ -26213,7 +26213,7 @@ chapatis 2
 cosplendour 1
 conidiophore 3
 caramelised 1
-cosponsoring
+cosponsoring 1
 cosponsors
 cossack 3
 cessant
