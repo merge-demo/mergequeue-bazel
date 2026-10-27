@@ -306,7 +306,7 @@ demisheath
 depolarized 2
 dayanim 2
 daybeacon 2
-dealbate 1
+dealbate 2
 daybed 2
 devchar
 disembowelment 2
@@ -6835,7 +6835,7 @@ decayed 1
 deceptivity 1
 discoidal 4
 desmidiology 3
-dandyishy
+dandyishy 1
 dethroner
 diorthotic
 dvorak 2
