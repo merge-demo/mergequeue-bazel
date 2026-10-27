@@ -7300,7 +7300,7 @@ explodent 3
 exoascaceae 3
 ejicient 2
 enclitics
-exlex
+exlex 1
 elechi 3
 engird 1
 excheat 4
