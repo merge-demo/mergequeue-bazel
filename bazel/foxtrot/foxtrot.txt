@@ -1093,7 +1093,7 @@ farrisite 2
 fleerish 4
 firehalls 2
 figulate 2
-forthcame 6
+forthcame 7
 flyings 2
 farruca 2
 farseer 2
@@ -3349,7 +3349,7 @@ flench 1
 furuncle 1
 fidge
 frogfoot 1
-fractionally
+fractionally 1
 fidgeted 1
 fractals 3
 faultage 2
