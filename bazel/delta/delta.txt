@@ -9307,7 +9307,7 @@ dtset 1
 diplomat
 dietotherapy 1
 dietotoxic 1
-detersive 1
+detersive 2
 depletable 7
 diluvions 1
 depilation 3
