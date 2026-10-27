@@ -10687,7 +10687,7 @@ chalk
 chimneyless 2
 counterdefender 1
 chimneylike
-chastisement
+chastisement 1
 chimneyman 3
 chimneypiece 1
 chimopelagic
@@ -17546,7 +17546,7 @@ cocautioner 4
 coccaceae
 crucifix 1
 cohoshes
-colloid
+colloid 1
 coccaceous 2
 coccal 1
 conducible 1
