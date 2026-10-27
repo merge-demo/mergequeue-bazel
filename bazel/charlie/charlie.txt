@@ -5484,7 +5484,7 @@ cellar 1
 casuistries 1
 casus
 cat
-catabaptist 2
+catabaptist 3
 contos 3
 catabases
 capoc 1
@@ -7638,7 +7638,7 @@ coreveller 1
 collarets
 cerements 2
 cucuyo
-coiffing 1
+coiffing 2
 curettes 1
 concessionist 2
 centralizer
