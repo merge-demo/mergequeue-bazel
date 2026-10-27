@@ -18039,7 +18039,7 @@ aggressors 1
 appraisement
 aproctous 1
 aproneer 1
-apronstring
+apronstring 1
 alanins
 anhidrosis 2
 adminicle 1
