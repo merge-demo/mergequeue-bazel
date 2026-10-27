@@ -9903,7 +9903,7 @@ duka 2
 deformational 2
 dimes 1
 dimetallic
-dimeter 3
+dimeter 4
 dermatauxe 3
 discophorous 2
 dimethylbenzene 1
