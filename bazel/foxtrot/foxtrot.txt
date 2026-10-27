@@ -6814,7 +6814,7 @@ faithfuls 3
 finmark 4
 forams 4
 fungin 1
-forewonted
+forewonted 1
 freelancer 3
 folderols 1
 foveiform
@@ -11376,7 +11376,7 @@ fruitade 1
 faute 1
 furnacelike 1
 firetraps 5
-fosters 3
+fosters 4
 furnaces 4
 ferromagneticism
 flashlamp 4
