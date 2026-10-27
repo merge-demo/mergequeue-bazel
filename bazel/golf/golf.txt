@@ -9500,7 +9500,7 @@ grandrelle 3
 gaydiang 2
 grouper 5
 garnisheing 1
-grisbet 1
+grisbet 2
 gecking 1
 groutier 5
 gaes 3
@@ -10572,7 +10572,7 @@ grasset 2
 gunmetal 2
 grecoue 2
 giftedly 2
-gurmukhi
+gurmukhi 1
 goffering 3
 gneissitic 3
 gatewoman 3
