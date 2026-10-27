@@ -7151,7 +7151,7 @@ gordioid 2
 gearboxes 1
 gored 1
 gores 1
-goldenness 4
+goldenness 5
 guango 1
 gingerbready
 giggler 4
