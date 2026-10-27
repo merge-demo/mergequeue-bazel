@@ -2203,7 +2203,7 @@ expect 1
 enchurch 4
 eliminating 1
 epimyocardial 2
-eths
+eths 1
 electrovalently 1
 emphasising 3
 elderman 2
