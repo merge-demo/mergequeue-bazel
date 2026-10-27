@@ -3266,7 +3266,7 @@ fluorinate 1
 fittit 1
 fuzed 3
 foreknowledge 2
-freestanding 1
+freestanding 2
 fibrosity 4
 forthrightly 4
 faradizer 1
@@ -7262,7 +7262,7 @@ fustet 1
 floorboards 5
 fameuse 4
 fancysick 6
-fortlet 2
+fortlet 3
 federalise 3
 footwalk 3
 footwarmer 1
@@ -10476,7 +10476,7 @@ frostily 1
 fluorate 4
 forwearying 3
 fordid 2
-flegm 1
+flegm 2
 fluitant 4
 fatness 5
 frutescent 6
@@ -11009,7 +11009,7 @@ feuillemorte 3
 famelessness 2
 funkia 1
 fabliaux 3
-fusuma 3
+fusuma 4
 farmery 1
 fumet 3
 forcipate 2
@@ -11400,7 +11400,7 @@ functionlessness 1
 frosk 2
 feater
 forksmith
-forestership 1
+forestership 2
 flumdiddle 4
 forcemeat 1
 fisticuffing 2
