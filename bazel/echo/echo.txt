@@ -5850,7 +5850,7 @@ epiblastema
 engrailed 1
 elsewards 1
 epizoicide
-engrainer 1
+engrainer 2
 electrocratic 2
 engraining 3
 enwoven 2
@@ -8825,7 +8825,7 @@ euphemist 2
 exomologesis 5
 erectable 4
 exclusionist 3
-endocolpitis 3
+endocolpitis 4
 elaborately 3
 erecters 1
 erectile 2
