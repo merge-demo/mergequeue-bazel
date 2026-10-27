@@ -8882,7 +8882,7 @@ bioclimatic 1
 bowwoman
 bioclimatician
 bioclimatology 1
-bathwater 1
+bathwater 2
 bavoso 1
 blabber 4
 bussed 1
@@ -11160,7 +11160,7 @@ breveted
 boronia 1
 bumelia 1
 brutalised
-bloodwite 1
+bloodwite 2
 bailee
 bushgoat 3
 bugfish 1
@@ -12186,7 +12186,7 @@ barbarisms 1
 bolivians 1
 bolk 2
 bolly 1
-beretta 1
+beretta 2
 bargir 2
 besit 2
 brevis 1

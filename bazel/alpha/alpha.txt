@@ -7970,7 +7970,7 @@ alethopteis 2
 afterword 4
 acritical 1
 amatungula 3
-alethopteroid 3
+alethopteroid 4
 archidium 1
 alethoscope
 amulae 1
@@ -8369,7 +8369,7 @@ alypum 1
 amarelle 1
 aliquots 2
 aisled 1
-acediast
+acediast 1
 alismal 1
 abnegators 2
 anthrylene
@@ -15157,7 +15157,7 @@ auriscopic 1
 acetanisidide 1
 antegarden 2
 aggregating 1
-antievolution
+antievolution 1
 autocatalysis 2
 anteconsonantal 1
 antievolutionist 1
