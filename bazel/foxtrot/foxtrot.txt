@@ -9000,7 +9000,7 @@ faustian
 fourteener 1
 frangibleness 2
 fourteenths 2
-froren 3
+froren 4
 flatirons
 forra 4
 firethorn 3
@@ -9347,7 +9347,7 @@ fatuitousness
 frankalmoign 2
 filibustrous 1
 fellowly 2
-futurize
+futurize 1
 frankenstein 4
 franker
 fastidiousness 1
