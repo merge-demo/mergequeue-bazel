@@ -2291,7 +2291,7 @@ chlorapatite 2
 concertgoer 2
 canaglia 1
 canaigre
-canaille
+canaille 1
 canailles 1
 cymoid
 chargeship
@@ -25055,7 +25055,7 @@ corecipient 1
 corectome 1
 cracovienne 2
 cardiomotility 1
-corectomy
+corectomy 1
 coredeemer 1
 coredeems 1
 coree
