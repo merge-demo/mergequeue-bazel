@@ -24546,7 +24546,7 @@ auxin 1
 antinucleon 1
 angekkok 2
 autosauri 1
-auxinically
+auxinically 1
 anaconda
 anisated 1
 amober 1
