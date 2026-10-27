@@ -6407,7 +6407,7 @@ benzil 3
 banewort 1
 bibliothecaire 2
 benzopyrazolone
-barquentine
+barquentine 1
 benzopyrene 1
 benzopyrylium 1
 backcourt 1
