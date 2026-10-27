@@ -2414,7 +2414,7 @@ bare
 bareback
 butterwort
 bummalo 5
-benzpinacone 3
+benzpinacone 4
 bareca
 barefaced 2
 bombacaceous 1
@@ -2744,7 +2744,7 @@ bicolored 3
 benab 2
 bonneting
 bukeyef 2
-barology
+barology 1
 barolong
 boroughship
 barometers 2
@@ -7402,7 +7402,7 @@ behaviours 1
 bookbinders 1
 bromated 3
 betrayed 2
-bequeathment 3
+bequeathment 4
 bimarginate 3
 bedgown 2
 boatings 2
