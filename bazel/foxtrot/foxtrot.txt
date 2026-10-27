@@ -1718,7 +1718,7 @@ fomites 6
 fortravail 2
 frippet 6
 fibrocyte 1
-flashflood 2
+flashflood 3
 feastfully 2
 forayers 3
 foist 3
@@ -10502,7 +10502,7 @@ flyback 1
 frottola 1
 federalizations 2
 fortuities 3
-feodality 4
+feodality 5
 featherback 1
 frotton 1
 fum
