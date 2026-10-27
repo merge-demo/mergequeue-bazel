@@ -7684,7 +7684,7 @@ ectocrine 4
 espece 1
 epicuticle 3
 extroversion
-epicuticular 3
+epicuticular 4
 entomotomist 1
 exacta 4
 eustele 3
@@ -11774,7 +11774,7 @@ echeneididae 4
 exanthems 3
 eyelast 4
 esquireship 2
-ericetum
+ericetum 1
 excorticating 2
 exappendiculate 2
 empover 1
