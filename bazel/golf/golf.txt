@@ -2866,7 +2866,7 @@ gratifier 1
 guser 3
 gullish 3
 genuflects 3
-glanduliform 4
+glanduliform 5
 glossiphonidae 4
 geol 3
 guilefulness 2
@@ -6097,7 +6097,7 @@ gneiss
 grotesquely 2
 glengarries 3
 goosebeak 1
-gullibly 2
+gullibly 3
 gryphosaurus 1
 gigahertz 5
 gnessic 6
