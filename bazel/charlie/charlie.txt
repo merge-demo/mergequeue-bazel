@@ -11498,7 +11498,7 @@ choirmasters 1
 cornaceous 1
 charthouse
 classmen 1
-calumnies 4
+calumnies 5
 costless 1
 chokage 1
 chairer
@@ -24436,7 +24436,7 @@ caroli 1
 coopers 3
 coops 1
 coparty 2
-catchpole
+catchpole 1
 cooptate
 coopting 1
 coopts 1

@@ -563,7 +563,7 @@ excommunicatory 2
 encrimson 1
 echinomys 1
 entrained 2
-erythrene 4
+erythrene 5
 escolars 1
 endoperitonitis 2
 effeminating 3
@@ -9660,7 +9660,7 @@ enters
 epilogize 2
 excitable 2
 ensearcher 2
-espingole 1
+espingole 2
 execrative 1
 equaling 2
 editchar
