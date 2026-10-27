@@ -4410,7 +4410,7 @@ beclaw 4
 besieged 2
 balm 1
 brandering 5
-budapest 1
+budapest 2
 balantidiosis 3
 barrators 1
 bitstone 4
@@ -11582,7 +11582,7 @@ behindsight
 bounced 1
 bathers 1
 bighorns 1
-brooklime 2
+brooklime 3
 becomma 5
 badgeman
 baggageman
@@ -12901,7 +12901,7 @@ bursectomy 2
 brachigerous
 byssogenous 2
 bureaucratese 3
-boot 2
+boot 3
 big 1
 bhandari
 bootees 2
