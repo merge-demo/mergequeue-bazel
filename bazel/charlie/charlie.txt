@@ -11518,7 +11518,7 @@ cratonic 2
 clipsheet
 clinkstone 2
 congelifraction
-chokerman 1
+chokerman 2
 chalones
 chokers
 chokes 1
@@ -31543,7 +31543,7 @@ crystallizability
 cursoriness
 cursorious
 coffeecake
-cursorius 2
+cursorius 3
 cleveites 1
 copse 1
 culled

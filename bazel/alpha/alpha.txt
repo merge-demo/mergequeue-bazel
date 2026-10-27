@@ -1934,7 +1934,7 @@ anacardiaceous
 attentional
 aotus 2
 acetylid 1
-acetylizable 3
+acetylizable 4
 aversive 1
 anamirtin
 acetylization 2
@@ -2322,7 +2322,7 @@ acidulant 1
 acidulate 1
 acidulated
 azuline 3
-acephalism
+acephalism 1
 acidulously 1
 acidurias 1
 arteriole 2
@@ -12075,7 +12075,7 @@ aerogen 1
 anhalamine
 airspeed
 anastasimon 1
-anastasius
+anastasius 1
 anemosis
 architeuthis 1
 anastate
