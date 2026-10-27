@@ -4325,7 +4325,7 @@ coeliotomy 1
 cestracion 1
 chytridiales
 concertstck
-caribe
+caribe 1
 cauterised
 caribed
 calyphyomy 2
@@ -14536,7 +14536,7 @@ cysteins 1
 cyclolith 2
 cystelcosis 1
 cosmologic
-cistercian 1
+cistercian 2
 choppy
 cistercianism 1
 cisternae 3
@@ -31916,7 +31916,7 @@ cuzceno
 cwierc 1
 comparators 1
 carbolineate
-coleopttera
+coleopttera 1
 cotyledonar 1
 channeller 1
 czardas 3
