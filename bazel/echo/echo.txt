@@ -6591,7 +6591,7 @@ enorthotrope 1
 electricity 1
 emigrates 1
 erysimum 2
-enhuile 2
+enhuile 3
 enwind 2
 exolemma 3
 emove 2
@@ -7782,7 +7782,7 @@ etymologies 2
 endophytal 1
 etherizer 3
 explorator 1
-epiblemata
+epiblemata 1
 epiproct 2
 eupatridae 4
 electrologists
@@ -12168,7 +12168,7 @@ excusably 3
 enswathing
 entertainments 2
 ethaldehyde
-estrado 2
+estrado 3
 electric
 excusefully 5
 exostome 2
@@ -12912,7 +12912,7 @@ eosaurus 2
 enticingly 4
 expeditiousness 3
 ecchymose 2
-epithymetic 2
+epithymetic 3
 evangeliary 2
 energetically
 ethnographical 1
