@@ -2349,7 +2349,7 @@ belligerency 1
 bachelorlike 1
 barbula
 bardiness 1
-barbulate
+barbulate 1
 barbulyie 1
 barbwire 2
 barbwires
@@ -13472,7 +13472,7 @@ borstall 4
 baronethood 1
 bottomers 1
 bottoming 2
-betweenness
+betweenness 1
 balderdash
 benefic
 bradyseismism 4
