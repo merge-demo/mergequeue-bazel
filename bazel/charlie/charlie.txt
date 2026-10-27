@@ -31664,7 +31664,7 @@ cush 2
 cushag 1
 collineation
 cushats
-crinkliness
+crinkliness 1
 cushaws
 caseins
 consumed
