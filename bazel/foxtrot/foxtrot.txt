@@ -5489,7 +5489,7 @@ filchers 5
 feculae 1
 floey 3
 fenderless 2
-fricassee 2
+fricassee 3
 friezy 2
 fiduciarily 3
 friseurs 3
@@ -6546,7 +6546,7 @@ fluotantalate 1
 flutteriness 1
 flagrate 4
 fluttering
-forswears 2
+forswears 3
 feedboard 3
 flensing 1
 flutterment 3
@@ -10387,7 +10387,7 @@ feedable
 feared 3
 frangipanis 4
 fatalist 2
-friller 1
+friller 2
 forecatching 2
 fusoid 4
 flags 4
