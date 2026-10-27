@@ -10476,7 +10476,7 @@ frostily 1
 fluorate 4
 forwearying 3
 fordid 2
-flegm 1
+flegm 2
 fluitant 4
 fatness 5
 frutescent 6
@@ -11009,7 +11009,7 @@ feuillemorte 3
 famelessness 2
 funkia 1
 fabliaux 3
-fusuma 3
+fusuma 4
 farmery 1
 fumet 3
 forcipate 2
