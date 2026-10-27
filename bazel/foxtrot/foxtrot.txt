@@ -1836,7 +1836,7 @@ farcicality 2
 funambulate 2
 foreign 1
 febricant
-frilly 2
+frilly 3
 febricitant 4
 frictions 2
 fore 3
@@ -2905,7 +2905,7 @@ farsightedly 1
 flows 2
 fouettes 1
 floorcloth 2
-find 2
+find 3
 febricide 1
 fibrose 2
 fimbricate 5
@@ -7035,7 +7035,7 @@ freakout 1
 fulmining 5
 fougasse 3
 fontful 3
-fantassin 3
+fantassin 4
 forehandedly 4
 fonticulus 1
 flapmouthed 2
