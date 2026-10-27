@@ -4540,7 +4540,7 @@ fissura 1
 frugal 2
 forwardsearch 3
 fractionized 1
-felinophile 1
+felinophile 2
 fissured 2
 fiscalify 2
 frontier 4
@@ -7261,7 +7261,7 @@ formiate 2
 fustet 1
 floorboards 5
 fameuse 4
-fancysick 5
+fancysick 6
 fortlet 2
 federalise 3
 footwalk 3

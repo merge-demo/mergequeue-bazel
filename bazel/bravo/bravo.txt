@@ -1730,7 +1730,7 @@ bruise
 bismutite 1
 bibliokelpt 2
 balthasar 2
-baltheus 1
+baltheus 2
 burse 2
 blends 1
 baltimore 2
@@ -9457,7 +9457,7 @@ busted 1
 biggins 2
 blepharophryplasty 2
 banya
-bipunctal 1
+bipunctal 2
 bores
 barbarian
 birn 4
