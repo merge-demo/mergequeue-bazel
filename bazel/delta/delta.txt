@@ -11450,7 +11450,7 @@ duodenogram 1
 dehaites 1
 degumming 3
 draconis 1
-distorted 1
+distorted 2
 desertless 1
 diverted 1
 discobolos 1
@@ -18634,7 +18634,7 @@ duty
 dutiability 2
 disdains 2
 downtroddenness 1
-dutied 2
+dutied 3
 denarii 1
 dipaschal 3
 dummyism 3
