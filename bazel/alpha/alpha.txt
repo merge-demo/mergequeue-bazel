@@ -1934,7 +1934,7 @@ anacardiaceous
 attentional
 aotus 2
 acetylid 1
-acetylizable 3
+acetylizable 4
 aversive 1
 anamirtin
 acetylization 2
@@ -2322,7 +2322,7 @@ acidulant 1
 acidulate 1
 acidulated
 azuline 3
-acephalism
+acephalism 1
 acidulously 1
 acidurias 1
 arteriole 2
@@ -21832,7 +21832,7 @@ assiette
 assify 2
 alpen 1
 assign 3
-absorbedness 2
+absorbedness 3
 assignability 1
 astrodynamics 1
 atoningly 2

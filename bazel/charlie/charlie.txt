@@ -1303,7 +1303,7 @@ calgary
 caliban 2
 cunea 1
 calaverite 3
-caliber 3
+caliber 4
 compulsatory
 calibers
 colunar 2
@@ -11518,7 +11518,7 @@ cratonic 2
 clipsheet
 clinkstone 2
 congelifraction
-chokerman 1
+chokerman 2
 chalones
 chokers
 chokes 1
@@ -12586,7 +12586,7 @@ circumventable
 chronoisothermal 2
 cellucotton
 chronologer 1
-circularize 1
+circularize 2
 chronological
 chronologies 2
 coalternative 1
@@ -31543,7 +31543,7 @@ crystallizability
 cursoriness
 cursorious
 coffeecake
-cursorius 2
+cursorius 3
 cleveites 1
 copse 1
 culled

@@ -3942,7 +3942,7 @@ bristols 3
 behelp 1
 bdellovibrio 2
 brushbird 1
-butanes 2
+butanes 3
 bea 1
 beautification 2
 bariums 1
@@ -8835,7 +8835,7 @@ bible 1
 binotonous 1
 bedeck 2
 brachystaphylic
-boilerman 2
+boilerman 3
 blackfishes 2
 behen 1
 bastant 1
@@ -14884,7 +14884,7 @@ bastard 2
 breakfronts 2
 butlerage 2
 breaking
-busera 3
+busera 4
 barkeep 1
 breakings 1
 bovicide
