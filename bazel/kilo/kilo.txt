@@ -9193,7 +9193,7 @@ kopjp 1
 kopjw 1
 kopk 1
 kopkdu 1
-kopkprchd 2
+kopkprchd 3
 kopmbp 3
 kopmmf 1
 kopmpo
@@ -12284,7 +12284,7 @@ kulgwmdzp 2
 kulhb 1
 kulhblpvh 3
 kulheetommsa 3
-kuljpy
+kuljpy 1
 kuljqxrmia
 kuljws 3
 kuljyp 2
