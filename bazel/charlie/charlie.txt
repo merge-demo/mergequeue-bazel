@@ -4325,7 +4325,7 @@ coeliotomy 1
 cestracion 1
 chytridiales
 concertstck
-caribe
+caribe 1
 cauterised
 caribed
 calyphyomy 2
@@ -14536,7 +14536,7 @@ cysteins 1
 cyclolith 2
 cystelcosis 1
 cosmologic
-cistercian 1
+cistercian 2
 choppy
 cistercianism 1
 cisternae 3
@@ -18848,7 +18848,7 @@ chapt 2
 cathecting 1
 curvilinearity
 corymbiform 2
-coliforms 1
+coliforms 2
 codisjunct 2
 communicational 4
 chaetophoraceae 1
@@ -23196,7 +23196,7 @@ cromlechs 1
 constricted 1
 cobby
 carpomania
-constricting 1
+constricting 2
 constriction
 coelomic 1
 constrictive 1
@@ -29764,7 +29764,7 @@ crookedest 1
 commons
 crookedly 1
 crookedness
-crookery
+crookery 1
 crookesite 3
 crookheaded 2
 crooking 2
