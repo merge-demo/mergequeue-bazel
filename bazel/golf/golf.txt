@@ -1090,7 +1090,7 @@ glares 3
 guarding 4
 gainfully
 graphicness
-gowdy
+gowdy 1
 goularo 3
 gormandizers 2
 genitives 3
