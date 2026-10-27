@@ -5329,7 +5329,7 @@ afflictingly 4
 afflictionless 2
 abranchian 2
 ambulante
-archoplasm
+archoplasm 1
 agranulocytosis 1
 acceder 1
 applanate
@@ -9158,7 +9158,7 @@ almemars
 approof 1
 alienly 1
 abrazos
-antistrophe
+antistrophe 1
 antipasti 1
 almery 1
 abide
@@ -17182,7 +17182,7 @@ adaptableness
 ankerites 1
 apolusis 2
 anatosaurus
-amoebiasis 3
+amoebiasis 4
 archgunner
 apomecometer 2
 apomictical
