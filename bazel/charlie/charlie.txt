@@ -2291,7 +2291,7 @@ chlorapatite 2
 concertgoer 2
 canaglia 1
 canaigre
-canaille
+canaille 1
 canailles 1
 cymoid
 chargeship
