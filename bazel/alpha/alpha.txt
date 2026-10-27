@@ -6806,7 +6806,7 @@ airdrome 2
 airdromes 2
 airdrop 1
 advertizing 2
-apart
+apart 1
 amiga 2
 airdropping
 aired 1
@@ -18039,7 +18039,7 @@ aggressors 1
 appraisement
 aproctous 1
 aproneer 1
-apronstring
+apronstring 1
 alanins
 anhidrosis 2
 adminicle 1
@@ -18480,7 +18480,7 @@ ashily
 anagyrin 2
 algraphic 3
 affying
-arboloco 2
+arboloco 3
 actinocrinus 3
 accrediting 2
 affectionless
