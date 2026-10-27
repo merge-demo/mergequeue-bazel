@@ -2284,7 +2284,7 @@ geissoloma 1
 geissolomataceae 3
 geissospermine 6
 genecologic 2
-glimpses 2
+glimpses 3
 granulocytopoiesis 1
 geitonogamy 1
 gonostyle
@@ -4630,7 +4630,7 @@ grister
 gutium 2
 gourmandism 3
 gyrodactylidae 3
-glucagons 1
+glucagons 2
 gapa
 girthing 3
 gaudeamus 2
@@ -7899,7 +7899,7 @@ guildsman 2
 gameful 3
 grandams 3
 gusty 1
-generic 1
+generic 2
 gramophonic 2
 gruelling
 gametangium 2
