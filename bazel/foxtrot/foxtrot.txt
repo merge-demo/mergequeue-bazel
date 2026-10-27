@@ -4392,7 +4392,7 @@ flechette 1
 funt 2
 floorshifts 2
 flagged 1
-forbearances 3
+forbearances 4
 frenums 2
 fishbowls
 flexive 4
