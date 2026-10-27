@@ -3605,7 +3605,7 @@ fructification 3
 felinity 2
 floorway 4
 files 1
-fiddle 1
+fiddle 2
 filesniff
 freijo 7
 fazing 2
@@ -6963,7 +6963,7 @@ fendy 3
 foisting 2
 feloniously 1
 firecracker
-frizzler 3
+frizzler 4
 flindosy 3
 flexographically 2
 faintling 1
@@ -8078,7 +8078,7 @@ forestries 3
 firebrats 2
 furnitures
 fondness 2
-fumigating 3
+fumigating 4
 flecnode
 fiendfully 1
 ferrochromium 1
