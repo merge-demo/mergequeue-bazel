@@ -4030,7 +4030,7 @@ cholericness
 carcinophagous 3
 carcinopolypus
 chloroformization 2
-carcinosarcoma 1
+carcinosarcoma 2
 coloreds
 chloralide 1
 chinanta
@@ -11183,7 +11183,7 @@ chloralize 1
 chloralized 2
 commissioners 1
 chloralosed
-chloralum 1
+chloralum 2
 chlorambucil 1
 contrasting
 chloramin 1
