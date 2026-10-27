@@ -12544,7 +12544,7 @@ appendicate 1
 adiapneustia 2
 androgonial 2
 augurers
-anemotaxis
+anemotaxis 1
 anemotropism 2
 accersition
 antiphlogistian 1
