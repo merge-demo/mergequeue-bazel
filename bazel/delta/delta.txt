@@ -4257,7 +4257,7 @@ destructible
 dineros 2
 danseuses
 deltohedron 2
-dogvanes
+dogvanes 1
 delubra 1
 deluce
 delude 2
