@@ -6366,7 +6366,7 @@ dastardliness 2
 derms 1
 diacatholicon 2
 defined 2
-dioc 2
+dioc 3
 ducula 4
 demurrable 3
 dietary 1
@@ -9256,7 +9256,7 @@ dyer
 dementis 2
 dochmii
 dieresis 3
-dihydrazone
+dihydrazone 1
 disemic
 debite 1
 digitalic 1
