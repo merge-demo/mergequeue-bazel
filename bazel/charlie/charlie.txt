@@ -8905,7 +8905,7 @@ charbonnier
 coldheartedly 1
 crumby 1
 compassing
-chancellery
+chancellery 1
 chaetitidae 2
 charuk
 charbroiled 1
@@ -24383,7 +24383,7 @@ cosmoramic
 coolness 3
 coolnesses
 cytochemical
-cools 2
+cools 3
 cardiophrenia
 coolung 1
 coolweed
