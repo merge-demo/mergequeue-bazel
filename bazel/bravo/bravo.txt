@@ -13472,7 +13472,7 @@ borstall 4
 baronethood 1
 bottomers 1
 bottoming 2
-betweenness
+betweenness 1
 balderdash
 benefic
 bradyseismism 4
