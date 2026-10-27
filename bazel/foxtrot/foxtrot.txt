@@ -6199,7 +6199,7 @@ foreread 2
 fairgoing 3
 flaxes 3
 fulgurate 1
-foretops 1
+foretops 2
 feebling 3
 frequency
 flagmaker 4
