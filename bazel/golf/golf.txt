@@ -2984,7 +2984,7 @@ geognosy 2
 geognostically 1
 grenadian 2
 guayules 2
-gaolering 5
+gaolering 6
 geographies 1
 grievers 2
 galliardness 4
@@ -5845,7 +5845,7 @@ gendarmes 2
 gruiformes
 ghettoing 4
 geroderma 1
-graffito
+graffito 1
 glycolaldehyde 4
 gedact
 galvanoplastic 3
@@ -6369,7 +6369,7 @@ goldspink 1
 glimmered 4
 glucosone 1
 granolithic 3
-grouty
+grouty 1
 geotectology 1
 gunarchy 1
 gossaniferous 4
