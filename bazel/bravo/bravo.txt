@@ -5501,7 +5501,7 @@ brechites 1
 briefly 3
 boort 1
 bringdown 3
-boatswains
+boatswains 1
 bawty 2
 beingness 1
 brandade 4
