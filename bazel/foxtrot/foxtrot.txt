@@ -7317,7 +7317,7 @@ foaminess 1
 ferromolybdenum 2
 fixation 4
 foraying 3
-frognose 2
+frognose 3
 foralite
 foram 3
 franchisers 3
@@ -8256,7 +8256,7 @@ fibromyomatous 3
 forthcall 3
 forgetful 2
 fogdog 1
-facily 5
+facily 6
 frateries 2
 freud 4
 forgetfulness 2
