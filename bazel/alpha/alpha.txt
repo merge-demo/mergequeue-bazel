@@ -21500,7 +21500,7 @@ anosia 1
 axles 1
 aspersoriums 1
 asperugo
-arrhal
+arrhal 1
 asperula
 ambulatoria 2
 asperulous

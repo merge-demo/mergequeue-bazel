@@ -1021,7 +1021,7 @@ geophilous 3
 gymnure 4
 guttle 1
 glanduliferous 2
-gully 2
+gully 3
 geognostic 3
 geodetician 4
 ganger 1
@@ -3237,7 +3237,7 @@ goldenwing 3
 galoot 3
 greatish 4
 getatability 3
-gally 2
+gally 3
 graffage 1
 gazement 1
 gormandizer 3
@@ -4792,7 +4792,7 @@ gizz 2
 gorgoniaceous 3
 gentlewomanly 3
 gizzard 4
-glimmerings 1
+glimmerings 2
 gizzern 1
 glycogenize 2
 gjedost 3
@@ -4820,7 +4820,7 @@ gein 1
 grapewort 2
 grubstreet 1
 gastrosopher
-glady 1
+glady 2
 gamophagia 1
 gursh 3
 glassen 2
@@ -7334,7 +7334,7 @@ gosports 4
 grainless 1
 gossamered 3
 galega 2
-gossamers 4
+gossamers 5
 galloglass 2
 geochronometric 3
 gibby 2
