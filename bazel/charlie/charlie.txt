@@ -23196,7 +23196,7 @@ cromlechs 1
 constricted 1
 cobby
 carpomania
-constricting 1
+constricting 2
 constriction
 coelomic 1
 constrictive 1
@@ -29764,7 +29764,7 @@ crookedest 1
 commons
 crookedly 1
 crookedness
-crookery
+crookery 1
 crookesite 3
 crookheaded 2
 crooking 2
