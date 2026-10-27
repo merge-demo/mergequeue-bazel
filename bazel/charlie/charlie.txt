@@ -20293,7 +20293,7 @@ communicating 1
 communicative 1
 countrie
 cercospora
-command 1
+command 2
 communicatory 2
 communicators 1
 communionable 2
@@ -20534,7 +20534,7 @@ crumpling 1
 clarkia 1
 cipherable
 costerdom 1
-colorability 2
+colorability 3
 clayware
 copepodan 1
 compelling 2
