@@ -17956,7 +17956,7 @@ dugs 1
 dugway
 deaerator 2
 doornboom 1
-desamidization
+desamidization 1
 dui 2
 duikerboks
 dantonesque 4
