@@ -2984,7 +2984,7 @@ geognosy 2
 geognostically 1
 grenadian 2
 guayules 2
-gaolering 5
+gaolering 6
 geographies 1
 grievers 2
 galliardness 4
@@ -3245,7 +3245,7 @@ gynecologists 5
 gerasene 5
 gesturer 4
 gutti 2
-gigantism 2
+gigantism 3
 geratologous 3
 guidership 6
 gametophytic 3
@@ -3278,7 +3278,7 @@ grades 4
 gashest 2
 grayback 1
 gayatri 2
-gordiacea 2
+gordiacea 3
 gluteofemoral 2
 gutty 1
 ghawazee 2
@@ -6369,7 +6369,7 @@ goldspink 1
 glimmered 4
 glucosone 1
 granolithic 3
-grouty
+grouty 1
 geotectology 1
 gunarchy 1
 gossaniferous 4
@@ -7947,7 +7947,7 @@ got 1
 galleons 2
 glycerol 4
 glaziery 3
-goodyish 3
+goodyish 4
 gymnurinae 1
 guesdist 3
 gymnospermy
