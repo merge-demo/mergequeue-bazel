@@ -17705,7 +17705,7 @@ catan
 cockroaches 1
 cozing
 cockscombed
-cockscombs
+cockscombs 1
 coco 3
 cocoach
 cte 1

@@ -1009,7 +1009,7 @@ darkeys 1
 daneball
 darkens 2
 disruptions 2
-deformeter
+deformeter 1
 digest
 daffling 3
 dypnone 1
