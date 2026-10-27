@@ -9911,7 +9911,7 @@ disneyland 1
 doorsteps 1
 decretorial
 debarred 2
-dimethylsulphoxide 4
+dimethylsulphoxide 5
 dekarch 2
 dislock 1
 dimethoxy 1
@@ -10621,7 +10621,7 @@ diplomatists 4
 domer 2
 discogastrula 1
 deaminized 2
-diauli
+diauli 1
 decompressing 2
 diplomats 1
 dysporomorph 1

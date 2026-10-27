@@ -844,7 +844,7 @@ aerosols 2
 acesodyne
 anam
 abscission 2
-absconce
+absconce 1
 abscond
 absconded
 apperceptive 2
@@ -7909,7 +7909,7 @@ adenography
 abandum 2
 anorthoscope 1
 atropines 2
-annexitis 1
+annexitis 2
 abacas
 ascella 3
 afforestation 1
