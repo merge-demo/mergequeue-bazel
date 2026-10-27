@@ -1125,7 +1125,7 @@ enarm
 endopterygotic 1
 epacts 2
 elhi 3
-eikons 3
+eikons 4
 environage 1
 edition 2
 endere 1
@@ -3474,7 +3474,7 @@ ebionism 2
 ekhimi
 eversporting
 evocable 2
-expiative 3
+expiative 4
 eleutherosepalous 1
 ennuis 2
 expediters 3
@@ -4323,7 +4323,7 @@ enacture
 exfodiation 2
 egranulose 1
 empowering 4
-extraterritoriality
+extraterritoriality 1
 enterable
 endothelioid 1
 entrenches 1

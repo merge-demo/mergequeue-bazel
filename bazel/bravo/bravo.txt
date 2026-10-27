@@ -9026,7 +9026,7 @@ busheler 1
 barbershop
 burnouts
 boldface
-brev 2
+brev 3
 biophagism 4
 biophilous 2
 biophysic
@@ -10860,7 +10860,7 @@ burroughs 1
 backhands 2
 blimbing 2
 bouzouki 2
-bangtails 2
+bangtails 3
 bay
 britishers
 beelzebubian 1
