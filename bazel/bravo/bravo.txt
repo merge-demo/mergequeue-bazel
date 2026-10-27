@@ -11167,7 +11167,7 @@ bugfish 1
 biquadratic 1
 bloodworthy 2
 belched 2
-blearily
+blearily 1
 blooey 2
 bloomed 1
 baloghia
