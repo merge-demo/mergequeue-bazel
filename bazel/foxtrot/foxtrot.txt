@@ -3266,7 +3266,7 @@ fluorinate 1
 fittit 1
 fuzed 3
 foreknowledge 2
-freestanding 1
+freestanding 2
 fibrosity 4
 forthrightly 4
 faradizer 1
@@ -4834,7 +4834,7 @@ firepower 2
 flinthead 1
 fleay 1
 fainer 2
-foil 3
+foil 4
 finlet
 fatagaga 3
 factorylike
@@ -11400,7 +11400,7 @@ functionlessness 1
 frosk 2
 feater
 forksmith
-forestership 1
+forestership 2
 flumdiddle 4
 forcemeat 1
 fisticuffing 2
