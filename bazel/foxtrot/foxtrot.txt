@@ -1846,7 +1846,7 @@ flaccid 5
 feloid 2
 febrile 1
 forrue 3
-fcs 2
+fcs 3
 fibrinogenically 2
 fluidizer 1
 farthermore 2
@@ -10816,7 +10816,7 @@ festilogy 4
 flisk 3
 fuddler 2
 ferrocalcite 2
-florimania 1
+florimania 2
 ferniest 2
 fulciment 2
 fs 3

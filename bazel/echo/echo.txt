@@ -1263,7 +1263,7 @@ emperors 4
 enrobe 4
 ecclesiarch 3
 eversive 1
-eking
+eking 1
 electrocystoscope 1
 equalness 2
 eclated 3
@@ -1635,7 +1635,7 @@ elchee 1
 exotoxin 1
 ehretiaceae 2
 env 5
-entrez 1
+entrez 2
 enterobacterium 3
 eyah 1
 embliss 1
@@ -11799,7 +11799,7 @@ endorsingly
 exasperatedly 2
 eversion 3
 entrees 1
-electrocatalysis 2
+electrocatalysis 3
 exasperater 2
 engrid 2
 ewerer 3
