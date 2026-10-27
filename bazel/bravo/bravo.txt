@@ -9004,7 +9004,7 @@ besmuts 1
 biometries
 bion
 byon 3
-brasqued 3
+brasqued 4
 bionditional 3
 bionics 2
 brachyprosopic
@@ -14332,7 +14332,7 @@ brahmanize 1
 benched 2
 bracers 3
 brahmapootra 2
-borehole 2
+borehole 3
 bumf
 baits 1
 brahmin 1
