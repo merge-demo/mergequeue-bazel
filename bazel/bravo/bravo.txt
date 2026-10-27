@@ -447,7 +447,7 @@ benzolize 1
 besugar 2
 bristlebird 3
 bronchotetany 1
-backslaps 4
+backslaps 5
 bellonian 4
 bravoed 1
 backslide
@@ -6721,7 +6721,7 @@ bionic 2
 bechalks 1
 beshrouding 2
 brakesmen
-bushtit 1
+bushtit 2
 burrowers 2
 breadboxes 1
 boredoms
@@ -7919,7 +7919,7 @@ bibliosoph 1
 bibliotaphe 3
 bibliothecae
 bibliothecarian 5
-bungalows 1
+bungalows 2
 batoka 1
 butic 1
 baseline 2
