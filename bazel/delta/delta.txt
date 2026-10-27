@@ -17375,7 +17375,7 @@ dropmeal 4
 declined
 dipleurula 1
 droppers
-diurnalness 1
+diurnalness 2
 dropping 2
 disframe 2
 declaims 3
