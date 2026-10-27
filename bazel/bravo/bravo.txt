@@ -14676,7 +14676,7 @@ bloc 2
 bullwhack 3
 brassages 1
 brassard 2
-briefing 3
+briefing 4
 brassart
 brassarts 1
 brassbounder
