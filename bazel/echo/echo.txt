@@ -3565,7 +3565,7 @@ embolize 3
 eupeptic 1
 epididymal 2
 entocone 4
-embolomalerism 1
+embolomalerism 2
 enervator 1
 exceeder
 equoid 1
