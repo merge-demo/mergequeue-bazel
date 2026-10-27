@@ -5820,7 +5820,7 @@ deformism 3
 deposito 1
 depositor
 daytime 6
-deleatur 2
+deleatur 3
 dichronous
 dishful 1
 dysraphia 4
@@ -9106,7 +9106,7 @@ defile 1
 doundake
 dryish 4
 didal 1
-didascalic 1
+didascalic 2
 dogface 1
 dobbing 1
 dormins 2
