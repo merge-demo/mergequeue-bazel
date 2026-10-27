@@ -7684,7 +7684,7 @@ ectocrine 4
 espece 1
 epicuticle 3
 extroversion
-epicuticular 3
+epicuticular 4
 entomotomist 1
 exacta 4
 eustele 3
