@@ -4324,7 +4324,7 @@ factive 1
 fet 3
 flamethrower 1
 funditor 4
-fructiferousness 3
+fructiferousness 4
 fretworked 3
 foddering 3
 fauces 4
@@ -10746,7 +10746,7 @@ fletches 5
 forgotten 2
 frustum 3
 frutage 4
-faithlessly 5
+faithlessly 6
 footraces 2
 frutex 1
 fruticetum 4
@@ -11424,7 +11424,7 @@ furcated 2
 fishings 6
 furfuraceously 4
 fingerlike 1
-furred 2
+furred 3
 frieze 1
 frowstiest 3
 fettering 2
