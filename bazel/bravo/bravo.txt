@@ -11750,7 +11750,7 @@ backed
 bobstays
 berreaving 2
 bobtail 2
-bobtailed 2
+bobtailed 3
 bothria 2
 bobwhites 4
 bargees 1
@@ -17017,7 +17017,7 @@ bibliothecarial 1
 bedaubs 2
 bubblish 3
 bulger 2
-boyhood 1
+boyhood 2
 belier
 bersim 1
 bulgiest
