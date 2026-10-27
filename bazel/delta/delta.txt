@@ -2638,7 +2638,7 @@ desalter 3
 decoloring 2
 disavowed
 diogenes 1
-deforce 2
+deforce 3
 dispose 3
 decolors 1
 duopsonies 4
