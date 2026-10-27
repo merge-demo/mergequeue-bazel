@@ -12622,7 +12622,7 @@ directs 1
 dargsman 1
 decupled
 derning 1
-disyoking 1
+disyoking 2
 degradational 1
 disjasked 3
 disjaskit 1
@@ -15809,7 +15809,7 @@ dorser 1
 doxantha 1
 diestrus 2
 dorsi
-debosh
+debosh 1
 dorsibranchiata 5
 distinctor 3
 didymitis 1
