@@ -7848,7 +7848,7 @@ entomotaxy 3
 epigonic 1
 expletive 4
 excardination 1
-encrinoid 3
+encrinoid 4
 extirpationist 5
 essentialized 1
 euconjugatae 1
@@ -12393,7 +12393,7 @@ electrolyze 2
 eucleidae
 earn 1
 estriol 3
-encephalology 2
+encephalology 3
 ephemerida
 exposures 1
 exhibition 3
