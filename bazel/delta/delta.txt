@@ -15369,7 +15369,7 @@ deflowerment
 dazing 1
 domesticator 2
 decylene
-dehumidifies 2
+dehumidifies 3
 diobolon 1
 deciliters 2
 difformity
@@ -16193,7 +16193,7 @@ dowdily 2
 droseras 1
 dihydrol 2
 duodiodepentode 3
-dominic 2
+dominic 3
 drupetum 2
 draconic 3
 dialector 1
