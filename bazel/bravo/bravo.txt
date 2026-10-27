@@ -5747,7 +5747,7 @@ bungler 2
 buckjump 2
 balaghat
 biophysics
-beaverroot 1
+beaverroot 2
 bellbinder 2
 budgeree
 bullous 2
@@ -8874,7 +8874,7 @@ biddings
 bandoras 2
 baisakh 4
 biocycle 1
-biocycles
+biocycles 1
 biocidal 1
 biocide 1
 bookcases 1
@@ -13220,7 +13220,7 @@ barundi 1
 bosom 4
 blemmyes
 botryoidal
-bosomed 2
+bosomed 3
 beading 3
 buzzers 1
 breatheableness
@@ -16180,7 +16180,7 @@ bibliomanianism 3
 boeotic 2
 borrowing
 begnawed 4
-bramblier 3
+bramblier 4
 brachylogies
 brothering 3
 brotherred 2
@@ -17847,7 +17847,7 @@ bacteriaceous 1
 burthens 2
 burthensome 2
 burtonization 2
-blockheadedly 2
+blockheadedly 3
 burundians 1
 burushaski 1
 ballistocardiogram

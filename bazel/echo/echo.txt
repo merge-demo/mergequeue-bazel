@@ -1263,7 +1263,7 @@ emperors 4
 enrobe 4
 ecclesiarch 3
 eversive 1
-eking
+eking 1
 electrocystoscope 1
 equalness 2
 eclated 3
@@ -1635,7 +1635,7 @@ elchee 1
 exotoxin 1
 ehretiaceae 2
 env 5
-entrez 1
+entrez 2
 enterobacterium 3
 eyah 1
 embliss 1
@@ -4824,7 +4824,7 @@ enduro 2
 epidosite 2
 eccoproticophoric 6
 escape 1
-erugate 2
+erugate 3
 estrogenicity 1
 embrangle 4
 encomiastically 4
@@ -5850,7 +5850,7 @@ epiblastema
 engrailed 1
 elsewards 1
 epizoicide
-engrainer 1
+engrainer 2
 electrocratic 2
 engraining 3
 enwoven 2
@@ -8825,7 +8825,7 @@ euphemist 2
 exomologesis 5
 erectable 4
 exclusionist 3
-endocolpitis 3
+endocolpitis 4
 elaborately 3
 erecters 1
 erectile 2
@@ -11799,7 +11799,7 @@ endorsingly
 exasperatedly 2
 eversion 3
 entrees 1
-electrocatalysis 2
+electrocatalysis 3
 exasperater 2
 engrid 2
 ewerer 3
