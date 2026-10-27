@@ -19990,7 +19990,7 @@ achromatinic 1
 arnatto 1
 arugola 1
 ammonified 1
-alexipharmacon
+alexipharmacon 1
 arnberry
 adenotome
 alkanol 2
@@ -22826,7 +22826,7 @@ armsful 1
 atmolysis
 atmolyzation 2
 atmolyze 2
-atmologic
+atmologic 1
 anisotropous 1
 alterability
 albopannin
