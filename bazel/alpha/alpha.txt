@@ -12794,7 +12794,7 @@ angiomas
 acquits
 anoestrous 1
 angiomyosarcoma
-airbrushed 3
+airbrushed 4
 astakiwi 1
 antihemolysin
 angioneurosis 3
@@ -21581,7 +21581,7 @@ aspiree
 anhang
 aspirer 3
 aspirers 3
-alliterator
+alliterator 1
 abboccato
 anthoclinium 1
 archprotopope 1

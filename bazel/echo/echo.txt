@@ -6985,7 +6985,7 @@ epistolar 2
 endostylic 5
 ephectic 3
 erian 4
-ecthlipses 1
+ecthlipses 2
 eyebrows 2
 ensaint 2
 ecophysiology 4
@@ -8587,7 +8587,7 @@ endemial
 electrotherapeutic 2
 encompassing 2
 epigrammatism 1
-egall 1
+egall 2
 ergatomorph 6
 equidimensional 2
 equidist 1
