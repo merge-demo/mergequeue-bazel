@@ -2234,7 +2234,7 @@ akinesia 1
 achromobacter 1
 acyrological
 achromoderma 3
-abovesaid
+abovesaid 1
 amygdalolith
 articulability 1
 allows
@@ -11649,7 +11649,7 @@ altricial
 anacruses
 anaculture 2
 aortitis
-anacusic 2
+anacusic 3
 anadems
 autointellectual
 anadenia
