@@ -844,7 +844,7 @@ aerosols 2
 acesodyne
 anam
 abscission 2
-absconce
+absconce 1
 abscond
 absconded
 apperceptive 2
