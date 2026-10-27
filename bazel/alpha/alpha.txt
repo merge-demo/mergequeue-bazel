@@ -1033,7 +1033,7 @@ aphlaston 5
 absume 2
 absurd 1
 anesthesiologist 1
-animators 1
+animators 2
 antirentism
 absurder 1
 anaphylactoid
@@ -1816,7 +1816,7 @@ alackaday 1
 akoasma 1
 adduct 1
 antiketogenesis 2
-acephalus
+acephalus 1
 azotaemia 2
 atridean
 adolesced 1
@@ -4969,7 +4969,7 @@ anthraciferous 3
 aerobranchiate
 astrobiologist 1
 autophone 2
-abluted
+abluted 1
 agenizes
 aeronat 1
 aeronaut 2
@@ -5935,7 +5935,7 @@ aggrandising 1
 altimettrically
 afterglows 2
 aggrandize 3
-althaea 1
+althaea 2
 affinity 1
 aggrandizement
 aetiologist
@@ -12524,7 +12524,7 @@ azoturia 4
 aerography 2
 anticreator
 avidities 3
-anemony
+anemony 1
 anaspida 1
 anguillidae 1
 anemopathy
