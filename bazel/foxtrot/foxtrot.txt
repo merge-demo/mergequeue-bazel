@@ -9296,7 +9296,7 @@ fertil 4
 flagons 3
 fordull 2
 foregoers 4
-foremost 2
+foremost 3
 fabrikoid 2
 fruticeta 2
 flukey 2
@@ -11271,7 +11271,7 @@ flatters 4
 furanoid 1
 fricandeaus 2
 fantasticism 2
-familiarizer 1
+familiarizer 2
 furlane 1
 fractionary 3
 friskets 2
