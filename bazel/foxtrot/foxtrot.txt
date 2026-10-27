@@ -5453,7 +5453,7 @@ furfuration 4
 fanatic 1
 fretsome 3
 fleeter 3
-fermentatively 3
+fermentatively 4
 flex 4
 fusionless 2
 firefighter 1
@@ -6217,7 +6217,7 @@ fluctuating 3
 frugalist 5
 fluctuational 2
 factioneer 1
-fluegelhorn 1
+fluegelhorn 2
 foalfoot 1
 forefence 1
 fairgrounds 2
@@ -6868,7 +6868,7 @@ ferritungstite
 fattiest 2
 farewell 1
 fiery
-flasks
+flasks 1
 friability 2
 flourished
 flioma 3
