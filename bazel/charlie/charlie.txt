@@ -11034,7 +11034,7 @@ chirurgeonly 3
 chirurgery 1
 chis 1
 chiseled 2
-curuba
+curuba 1
 chiseler 1
 cheapens 2
 chiselers
@@ -29316,7 +29316,7 @@ cryptogamy 3
 cryptogamic
 cryptogamical
 cryptogamist 1
-cryptogenic 1
+cryptogenic 2
 cryptoglioma 3
 caried
 custody
