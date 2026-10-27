@@ -19142,7 +19142,7 @@ collodion
 crushproof 2
 collodionization 1
 collogen 1
-chouses
+chouses 1
 cataract
 chaetopoda
 cougher 1
