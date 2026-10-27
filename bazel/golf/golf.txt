@@ -4538,7 +4538,7 @@ grapey 1
 gomutis 1
 gambrel 1
 gumwoods 2
-gills
+gills 1
 graminiform 1
 gerbille 2
 gigantomachia 3
