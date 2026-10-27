@@ -3556,7 +3556,7 @@ flannelleaves 1
 fishfall 1
 flagrancy 1
 frowziness 2
-fath 1
+fath 2
 flaggelating 3
 filaments 1
 fistule 5
@@ -6199,7 +6199,7 @@ foreread 2
 fairgoing 3
 flaxes 3
 fulgurate 1
-foretops 1
+foretops 2
 feebling 3
 frequency
 flagmaker 4
@@ -7371,7 +7371,7 @@ fortunous 6
 feedlots 1
 flyness 2
 findy
-forbidals 2
+forbidals 3
 fasted 3
 featous 2
 foobar 5
@@ -8435,7 +8435,7 @@ floweriness 8
 foppish 3
 forpine 2
 fictitiously 2
-facsimilize 2
+facsimilize 3
 felonsetter 4
 febronian 3
 fique 2
@@ -9584,7 +9584,7 @@ forensic 3
 floreta 2
 frontopontine 1
 fizzed 1
-fichus
+fichus 1
 friableness 3
 fusteric 3
 frizzing 4
@@ -11189,7 +11189,7 @@ fluorophosphate 2
 fullgrownness 2
 frontiersman 2
 fusobacteria 1
-foetalization 2
+foetalization 3
 fungoes 4
 flotorial 2
 fidgetily 2
@@ -11375,7 +11375,7 @@ fibropolypus 3
 fruitade 1
 faute 1
 furnacelike 1
-firetraps 4
+firetraps 5
 fosters 3
 furnaces 4
 ferromagneticism
@@ -11574,7 +11574,7 @@ fusilladed
 fluctigerous 4
 fusillading 1
 feuage 2
-furzechat 2
+furzechat 3
 fundatrix 1
 fanleaf 1
 fluence 3

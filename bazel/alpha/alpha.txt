@@ -1380,7 +1380,7 @@ afterking
 avestruz 1
 acceptee
 actinomycotic 2
-acceptilated
+acceptilated 1
 aevia
 artinite 1
 acceptilation
@@ -3220,7 +3220,7 @@ abstersion
 aphis 1
 ashlar
 actuating 1
-alpist 1
+alpist 2
 activation 1
 azaserine 1
 actuation 1
