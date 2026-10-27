@@ -4325,7 +4325,7 @@ coeliotomy 1
 cestracion 1
 chytridiales
 concertstck
-caribe
+caribe 1
 cauterised
 caribed
 calyphyomy 2
@@ -14536,7 +14536,7 @@ cysteins 1
 cyclolith 2
 cystelcosis 1
 cosmologic
-cistercian 1
+cistercian 2
 choppy
 cistercianism 1
 cisternae 3
@@ -21169,7 +21169,7 @@ concelebration 1
 concenter 1
 concentering 1
 compasses 2
-concento
+concento 1
 concolor
 chemicobiological
 concentrated 1
@@ -26671,7 +26671,7 @@ churly 1
 cottonweed
 chemoautotrophic 1
 cobus
-carotins 2
+carotins 3
 counteractively
 cardiectomy
 cavish 1
@@ -31916,7 +31916,7 @@ cuzceno
 cwierc 1
 comparators 1
 carbolineate
-coleopttera
+coleopttera 1
 cotyledonar 1
 channeller 1
 czardas 3
