@@ -7415,7 +7415,7 @@ detoxicator
 detoxifier
 draperess 1
 directress
-disapproved 1
+disapproved 2
 devest 4
 decarbonylating 2
 dunness 1
@@ -8333,7 +8333,7 @@ disenactment 1
 dialectal 1
 draftier 1
 duim 1
-darkishness
+darkishness 1
 damoclean 1
 ditrigonally 3
 dresses 2
@@ -11628,7 +11628,7 @@ dicatalexis 3
 discontinuously 1
 drop 2
 discontinuousness 1
-disconula 1
+disconula 2
 disconvenience 2
 dauphin 5
 discommodiousness 2

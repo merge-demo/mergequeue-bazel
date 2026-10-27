@@ -2558,7 +2558,7 @@ chaucerism 2
 candleshrift
 capitalizations
 cecidiology
-committeewoman 1
+committeewoman 2
 chinol 1
 castellanship
 candlesticks
@@ -24647,7 +24647,7 @@ charcoals 1
 cerebrating
 copolymer
 copolymerization 2
-copolymerize
+copolymerize 1
 cossas 2
 cruciated 2
 copolymerized
