@@ -16547,7 +16547,7 @@ columellate
 clappermaclaw 1
 cloistering
 comal
-croupes
+croupes 1
 chirm 1
 cloisterly
 cloisterlike 1
@@ -31092,7 +31092,7 @@ censed 3
 cund
 conjecturality 1
 cundeamor 1
-cundum 1
+cundum 2
 cundums
 cundurango
 cuneal
