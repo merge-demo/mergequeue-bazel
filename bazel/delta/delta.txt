@@ -9992,7 +9992,7 @@ dasyatidae 3
 dimness
 decisiveness 1
 dermatographism
-dysacousma 2
+dysacousma 3
 debriefs 1
 disopinion
 dimoric 2
@@ -12651,7 +12651,7 @@ downers
 dysury 2
 desmocytoma
 disker 2
-dystomic 1
+dystomic 2
 disgusted 1
 dumplings 1
 dextroses 3
@@ -13252,7 +13252,7 @@ disharmonical 1
 decentralisation
 dispositions 1
 drowner 1
-dispositively
+dispositively 1
 diuretics 3
 drant 1
 disdainfully
