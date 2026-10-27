@@ -9398,7 +9398,7 @@ durabilities 2
 decadic
 discontentive 2
 dissoluble 2
-diffusate 1
+diffusate 2
 dipnoous
 deploring 1
 djinni 1
@@ -12682,7 +12682,7 @@ disjointure 2
 disepalous 1
 dentalize 3
 demiheavenly 2
-dogger 1
+dogger 2
 desexualize 2
 diviners
 diacids
@@ -13745,7 +13745,7 @@ derm 1
 dissolutional 2
 dissolutionism
 dissolvableness 2
-dissolvative 2
+dissolvative 3
 dissolve 4
 daffadillies 2
 dalis
