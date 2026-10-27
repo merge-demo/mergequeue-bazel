@@ -1960,7 +1960,7 @@ debunks
 disedify 2
 divinatory 1
 dermohumeral 2
-disyllabism
+disyllabism 1
 deburr
 divulgatory 3
 debus 3
@@ -16921,7 +16921,7 @@ deoxidate 4
 dreamsy
 displeasingness 1
 devisability 1
-dobber
+dobber 1
 doless 2
 dzerin 2
 dianthaceae 1
