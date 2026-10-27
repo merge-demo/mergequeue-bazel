@@ -207,7 +207,7 @@ greyest 2
 gaius 2
 glug 2
 gambiers
-gentleness 2
+gentleness 3
 graphing 1
 gliadines 1
 gallish 2
@@ -5200,7 +5200,7 @@ gabble 2
 gharial 2
 gleamingly 9
 garroters 3
-gaviiformes 2
+gaviiformes 3
 gastrologically 5
 gabbiest 2
 gnosticizer 2
@@ -6573,7 +6573,7 @@ goumier 1
 gastropod 1
 ghettos 2
 grassant 2
-grouplet 6
+grouplet 7
 grappas 5
 glottalization 3
 ground 5
