@@ -1642,7 +1642,7 @@ fellowless
 fipenny 1
 four 5
 fdnames
-forthcut 1
+forthcut 2
 fluible 1
 flamboyantly 4
 furbelowed 3
@@ -7085,7 +7085,7 @@ fedayeen 2
 foolish 4
 ferryboats 3
 fascinating 2
-fleapit
+fleapit 1
 forespeech 2
 factious 2
 fusional 3
