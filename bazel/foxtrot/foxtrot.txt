@@ -8751,7 +8751,7 @@ fortunes 1
 faintise 2
 frankfort 3
 freddo 5
-forbiddable 1
+forbiddable 2
 flogged 3
 followership 4
 fortuuned 3
@@ -11638,7 +11638,7 @@ frontless 2
 fustoc 5
 fussily 1
 friscal 2
-fusulae 2
+fusulae 3
 feathery 2
 fusure 4
 fibroses
