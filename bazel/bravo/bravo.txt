@@ -11221,7 +11221,7 @@ bezesteen 4
 borghalpenny
 bespeaker 1
 bisilicate 2
-blotty 2
+blotty 3
 buckets 3
 battakhin
 barmskin 1
@@ -13401,7 +13401,7 @@ birles 1
 beaver 1
 bigwiggism 1
 botryllus 1
-bucketer 2
+bucketer 3
 brachyceral 3
 batonistic 2
 brachycome 2
@@ -15500,7 +15500,7 @@ bodega 6
 bringeth 1
 brushiness 1
 botanophilist 3
-brynhild 1
+brynhild 2
 blist 3
 barbes 1
 bebar 3
