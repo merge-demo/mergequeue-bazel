@@ -1037,7 +1037,7 @@ gleemen 2
 golp 1
 glanced 6
 gymnonoti 1
-gayness 2
+gayness 3
 groan 2
 glassfuls 6
 gabardine 4
@@ -7277,7 +7277,7 @@ gangsa 2
 gleaming 2
 gwerziou 2
 gavelman 1
-glassblowing
+glassblowing 1
 galactolipin 3
 glossotomies
 greencloth 1
@@ -9493,7 +9493,7 @@ grundlov 5
 group 2
 gland 2
 germanophobist 2
-gnosiological
+gnosiological 1
 gammoner
 gynophoric 3
 grandrelle 3
