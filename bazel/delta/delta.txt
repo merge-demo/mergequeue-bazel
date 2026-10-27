@@ -3182,7 +3182,7 @@ defectible 1
 defecting 2
 dezincified 2
 distaff 1
-doltishness
+doltishness 1
 depolarizes 2
 devotionalness 2
 dimitting 2
@@ -16828,7 +16828,7 @@ dissociable 2
 disring 2
 dendrodus 2
 diaphanoscopy 1
-deprecatingly 1
+deprecatingly 2
 drumbeat 3
 drillbit 2
 darbukka

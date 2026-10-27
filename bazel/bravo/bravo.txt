@@ -3984,7 +3984,7 @@ beaconless 1
 bensil 1
 bicycles 1
 beglew 2
-buyback 1
+buyback 2
 beslur 1
 bonyfish
 believer 2
@@ -7773,7 +7773,7 @@ biallyl 1
 breach 3
 bianca 3
 bellum
-birchman 1
+birchman 2
 biangulate 2
 baluchitheria 1
 biangulous 3
@@ -10302,7 +10302,7 @@ blennostasis 1
 biffs 3
 bucayo 2
 blae 1
-bestudding 2
+bestudding 3
 blaeberries 3
 bebothered 3
 blepharoplasty 1
