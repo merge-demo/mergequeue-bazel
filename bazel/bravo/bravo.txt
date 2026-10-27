@@ -9624,7 +9624,7 @@ bishopstool
 bishopweed 3
 bobbinets 1
 bestir
-benison
+benison 1
 barterers 1
 blatti
 bryozoum 1
