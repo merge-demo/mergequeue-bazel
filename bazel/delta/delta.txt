@@ -5147,7 +5147,7 @@ deletion
 drills
 dasyurid 1
 dendrophilous 2
-densation 1
+densation 2
 dadoed
 doggiest 1
 denebola
@@ -14238,7 +14238,7 @@ disembargo 2
 ditchers 2
 deathwards
 disproportionably 3
-derivatist
+derivatist 1
 diluendo
 ditchless 1
 ditchwater 2
