@@ -16441,7 +16441,7 @@ babblement 1
 brushback 5
 bortz 1
 butt 3
-bladesmith 1
+bladesmith 2
 buttonholder
 bestick 3
 betrace 4
