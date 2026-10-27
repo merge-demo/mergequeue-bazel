@@ -10308,7 +10308,7 @@ frondeurs 4
 forecourt 2
 feaze 1
 foss 2
-footcandles
+footcandles 1
 forewarning 3
 fiaunt 1
 fraenula
