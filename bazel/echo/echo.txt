@@ -2943,7 +2943,7 @@ epistomal
 egyptian 4
 etchings 4
 embank 3
-evaporatively 2
+evaporatively 3
 erythrasma
 elliptical 1
 embarrassments 3
@@ -5950,7 +5950,7 @@ ergoism 2
 enhelm 4
 elysia 2
 euphonising 1
-espalier 3
+espalier 4
 effluviography 3
 educatee
 enjoyably
@@ -12333,7 +12333,7 @@ efs 1
 elaidate 3
 eulogizers 3
 erythroglucin
-effusiometer 1
+effusiometer 2
 emanators
 exerted 2
 encumbrous 1
