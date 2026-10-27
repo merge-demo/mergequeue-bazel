@@ -9238,7 +9238,7 @@ brighter
 bipyramid
 bring 3
 bipyridyl
-biangulated 1
+biangulated 2
 bubale 1
 broadsides
 bacterioidal 4
@@ -16392,7 +16392,7 @@ brummy 1
 byth
 brumous
 brumstane
-brunch
+brunch 1
 brunched 2
 brunching 1
 bemeaning 2
@@ -17098,7 +17098,7 @@ bullet 1
 bulleted
 byepath 1
 bequeather
-bulletheadedness
+bulletheadedness 1
 baptornis
 bayard
 bromian 1
