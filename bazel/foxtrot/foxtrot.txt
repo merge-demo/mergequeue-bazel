@@ -4825,7 +4825,7 @@ forties
 footbath 1
 frostbiter
 fibrinuria
-fumish 3
+fumish 4
 flume 6
 fracticipita 5
 faunus 2
@@ -5729,7 +5729,7 @@ feculent 2
 ferulas 2
 frontis
 farced 1
-ferule 2
+ferule 3
 fleuronnee
 fungous 1
 fuzzball 1
@@ -9068,7 +9068,7 @@ folding 3
 fiant 2
 friesish 2
 funnellike 4
-fenter 2
+fenter 3
 forbruise 4
 foxfires
 foederis 4
@@ -11635,7 +11635,7 @@ ferren 3
 flyability
 fustiness
 frontless 2
-fustoc 4
+fustoc 5
 fussily 1
 friscal 2
 fusulae 2
