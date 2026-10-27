@@ -1061,7 +1061,7 @@ edged 2
 eidolon 3
 edger 2
 edgeshot 2
-edgeway
+edgeway 1
 embalmment
 exterritorial 3
 enshrouded 3
@@ -3410,7 +3410,7 @@ epitomize
 embarkment 1
 embarks
 equipage 1
-exteroceptor 3
+exteroceptor 4
 equilibrium 1
 elohist
 em 1
