@@ -22826,7 +22826,7 @@ armsful 1
 atmolysis
 atmolyzation 2
 atmolyze 2
-atmologic
+atmologic 1
 anisotropous 1
 alterability
 albopannin
