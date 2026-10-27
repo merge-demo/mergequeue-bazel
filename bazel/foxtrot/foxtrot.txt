@@ -2937,7 +2937,7 @@ furazane 2
 frustums 1
 fencing 1
 floccipend 3
-farfetch 5
+farfetch 6
 fluellite 3
 flyoff 3
 filialness 1
@@ -4429,7 +4429,7 @@ folkmotes 2
 feulamort 1
 farand 2
 forfeit 1
-footpick 1
+footpick 2
 fishily 2
 fatigues
 farinaceously 1
@@ -8807,7 +8807,7 @@ fixedly 2
 forgers 3
 foreprise 1
 filletster 3
-firry 1
+firry 2
 flashtube 1
 frustula 2
 feoffing 3
@@ -9838,7 +9838,7 @@ faden 3
 fribbler 2
 friskle 3
 foreappointment 2
-fricace
+fricace 1
 fricandeaux 2
 foozlers 6
 footcloths 2
@@ -10145,7 +10145,7 @@ fissile 1
 frontlet 2
 fitter 2
 fashed 1
-fabricant 1
+fabricant 2
 falcidian
 foresing 4
 fief 6
