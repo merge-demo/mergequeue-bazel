@@ -2349,7 +2349,7 @@ belligerency 1
 bachelorlike 1
 barbula
 bardiness 1
-barbulate
+barbulate 1
 barbulyie 1
 barbwire 2
 barbwires
