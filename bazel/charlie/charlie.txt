@@ -15387,7 +15387,7 @@ concentered
 cricketed 3
 cen 2
 clappe 1
-conidiiferous 2
+conidiiferous 3
 clapper 1
 clapperclaw
 cloragen 2
@@ -18110,7 +18110,7 @@ causing
 craneman 2
 coenomonoecism 1
 coenospecies 1
-coenospecifically
+coenospecifically 1
 chicory 2
 coenosteum 1
 cacopharyngia 1
