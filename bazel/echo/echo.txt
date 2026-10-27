@@ -2598,7 +2598,7 @@ enantioblastous 2
 eruginous
 eighteenthly
 ensnarl 1
-exhilarator 2
+exhilarator 3
 empididae 1
 erythroblastosis 1
 eirenicon
@@ -10000,7 +10000,7 @@ editor 1
 enteropexy 2
 efford 3
 ethnotechnography 1
-etching 3
+etching 4
 electrotest
 eteostic 2
 elemicin 3
@@ -10929,7 +10929,7 @@ entomologising 2
 epipteric
 eulogies 2
 echinops 1
-euphuize
+euphuize 1
 eupyrion 2
 eupittone 2
 enteritis 2

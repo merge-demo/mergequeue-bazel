@@ -1841,7 +1841,7 @@ bandh 2
 burdon 3
 brownism 1
 brython 1
-birken 1
+birken 2
 bandhook 2
 balladromic 3
 bandicoy 2
@@ -16392,7 +16392,7 @@ brummy 1
 byth
 brumous
 brumstane
-brunch
+brunch 1
 brunched 2
 brunching 1
 bemeaning 2
