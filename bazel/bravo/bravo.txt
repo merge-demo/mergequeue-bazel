@@ -2909,7 +2909,7 @@ barrelage
 barreled
 barreleyes
 barrelet 2
-bookend 2
+bookend 3
 batuque 2
 botanical 1
 bundies 1
@@ -8883,7 +8883,7 @@ bowwoman
 bioclimatician
 bioclimatology 1
 bathwater 1
-bavoso
+bavoso 1
 blabber 4
 bussed 1
 bioclimatologically 1
