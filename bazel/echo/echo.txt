@@ -1036,7 +1036,7 @@ epinicion 1
 ethyls
 edentulate 1
 edeodynia 1
-edeomania 1
+edeomania 2
 enhamper
 enhydris 5
 emberizinae 1
@@ -3207,7 +3207,7 @@ elopes 2
 elops 2
 elicit 4
 emission 2
-epiphanized 2
+epiphanized 3
 everything 2
 extruding 4
 embioptera 2
@@ -12459,7 +12459,7 @@ explorate 5
 exfiltrate
 equilibrial
 electrolysing 1
-exhuming 1
+exhuming 2
 epifaunal
 enthronization 2
 elegiac 1
