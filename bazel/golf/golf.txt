@@ -5192,7 +5192,7 @@ gorer
 gangliglions 2
 gumboots 2
 gonystylaceous 1
-guativere
+guativere 1
 gracility 2
 geognosist 2
 gleamily
@@ -5200,7 +5200,7 @@ gabble 2
 gharial 2
 gleamingly 9
 garroters 3
-gaviiformes 2
+gaviiformes 3
 gastrologically 5
 gabbiest 2
 gnosticizer 2
@@ -7076,7 +7076,7 @@ goyle 4
 gynandrarchy 4
 gunnage 6
 guelphic 4
-giottesque 3
+giottesque 4
 glaces 2
 gestalter 2
 gourounut 1
@@ -9726,7 +9726,7 @@ goodwills
 gargantuan 3
 guidonian 3
 georgiana 3
-gandurah 6
+gandurah 7
 gambades 2
 greyhounds
 grocerwise 4
