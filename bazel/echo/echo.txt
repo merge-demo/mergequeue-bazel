@@ -1263,7 +1263,7 @@ emperors 4
 enrobe 4
 ecclesiarch 3
 eversive 1
-eking
+eking 1
 electrocystoscope 1
 equalness 2
 eclated 3
