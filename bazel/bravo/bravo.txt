@@ -6220,7 +6220,7 @@ bound 3
 boletus
 berley
 bypass 2
-beakful
+beakful 1
 benne
 bennes
 beveling 2
