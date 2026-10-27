@@ -2121,7 +2121,7 @@ decamethonium
 decametric 2
 decanal 2
 decancellate 1
-dominator 3
+dominator 4
 decancellated 1
 disciplinarian
 debaser 1
@@ -5807,7 +5807,7 @@ dacker 1
 deepnesses 3
 decoupled 2
 deposers
-discouragement 2
+discouragement 3
 dissuade 3
 deposit 1
 divine 2
