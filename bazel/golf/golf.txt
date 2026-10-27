@@ -3505,7 +3505,7 @@ gussied 3
 gynospore 1
 gestical 3
 gesticulant 2
-gesticulations 2
+gesticulations 3
 grueller 1
 gentiin 1
 girlish 2
@@ -3792,7 +3792,7 @@ gibber 1
 gaslightness 2
 gibberellin 2
 grandmotherhood 5
-gaffing 3
+gaffing 4
 greenhew 1
 goffers 2
 geodetics 2
@@ -10100,7 +10100,7 @@ ghostwrote 4
 galactodensimeter 5
 grammarian 2
 gekkonoid 4
-gonfaloniership 1
+gonfaloniership 2
 gasoscope 2
 glottid 3
 gazetteer 2
