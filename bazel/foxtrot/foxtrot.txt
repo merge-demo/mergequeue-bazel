@@ -7429,7 +7429,7 @@ ferrocerium 3
 forwarder 1
 filicides 3
 fileable 1
-fillemot 1
+fillemot 2
 faience 1
 firefall 2
 floperoo 3
@@ -8191,7 +8191,7 @@ furores 2
 flockbed 6
 foghorn
 forewings 2
-flossed 1
+flossed 2
 frenate 3
 furtherances 1
 faldetta 5
@@ -10116,7 +10116,7 @@ frithstool 2
 fritniency 4
 fare 1
 foreknee 3
-fe 2
+fe 3
 feckly 2
 fulciform 2
 fortuitus 3
