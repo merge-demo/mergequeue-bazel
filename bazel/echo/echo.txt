@@ -1061,7 +1061,7 @@ edged 2
 eidolon 3
 edger 2
 edgeshot 2
-edgeway
+edgeway 1
 embalmment
 exterritorial 3
 enshrouded 3
