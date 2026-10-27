@@ -9659,7 +9659,7 @@ crees 3
 clyfaker
 cheesecloth
 cheesecloths
-cheesecutter
+cheesecutter 1
 cognizably 1
 concursus
 cheeselep
@@ -18052,7 +18052,7 @@ chiffonniers
 coalitional
 cardiolysis
 coendidae
-coendure
+coendure 1
 coendures 1
 coenenchym
 casualness 1
