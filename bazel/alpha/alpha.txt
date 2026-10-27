@@ -9186,7 +9186,7 @@ anstoss
 aetobatus 1
 almohades 2
 almon 1
-atheisms 1
+atheisms 2
 anga
 almonage 1
 angina 1
@@ -22325,7 +22325,7 @@ antitetanolysin 5
 ableeze 1
 arterials
 algaeologist
-autopsychology
+autopsychology 1
 astrobiologies
 adret 1
 alrighty 1
