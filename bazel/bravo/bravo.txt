@@ -988,7 +988,7 @@ bayano 3
 birlie
 bewitch 2
 bourdon 1
-bipalium 1
+bipalium 2
 blinger
 baycuru
 baidarka
@@ -5660,7 +5660,7 @@ beleaguering 2
 bongar 1
 badgeless 3
 beleapt 2
-belection
+belection 1
 brining
 belecture
 burbush 1
