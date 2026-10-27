@@ -6752,7 +6752,7 @@ beround
 bendability 3
 berreaves 2
 berret 2
-berrettas 3
+berrettas 4
 bloodred 1
 barongs 2
 barracudina 1
