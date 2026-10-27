@@ -6407,7 +6407,7 @@ benzil 3
 banewort 1
 bibliothecaire 2
 benzopyrazolone
-barquentine
+barquentine 1
 benzopyrene 1
 benzopyrylium 1
 backcourt 1
@@ -14708,7 +14708,7 @@ blunderer
 bucked 3
 brattice 1
 bratticing 2
-beggarweed 2
+beggarweed 3
 bescorching
 brelan 1
 brattie 2
