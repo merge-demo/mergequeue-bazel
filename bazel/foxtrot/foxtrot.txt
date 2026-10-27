@@ -3345,7 +3345,7 @@ fandom 3
 fulcra 3
 flon 2
 forsung 1
-flench 1
+flench 2
 furuncle 1
 fidge
 frogfoot 1
@@ -11423,7 +11423,7 @@ furomethyl 2
 furcated 2
 fishings 6
 furfuraceously 4
-fingerlike 1
+fingerlike 2
 furred 3
 frieze 1
 frowstiest 3

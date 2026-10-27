@@ -3275,7 +3275,7 @@ bewhig 2
 begartered 3
 bethank 2
 bookkeeps
-basidiophore 1
+basidiophore 2
 bourn
 brattle 1
 bastardising 2
@@ -5540,7 +5540,7 @@ belaites 3
 bromomenorrhea 2
 blowziest 2
 bergamot 2
-bhava
+bhava 1
 biopsies
 blockline 2
 breastfeeding
