@@ -17135,7 +17135,7 @@ dematerialise
 divvers 1
 drunkenness
 dero
-decuries 1
+decuries 2
 decine 2
 dipygi
 devarshi
