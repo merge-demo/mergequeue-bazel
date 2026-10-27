@@ -3151,7 +3151,7 @@ baseplug 2
 basepoint 3
 behavers 1
 baser 1
-brazen 2
+brazen 3
 blanda 1
 besetter 1
 biddie 2
@@ -4461,7 +4461,7 @@ becomingness 2
 becoresh 2
 bouchee 2
 believable 1
-bankruptly 1
+bankruptly 2
 biurea 1
 becram 1
 braid 1
@@ -5169,7 +5169,7 @@ bluebead 1
 bordereau 4
 befretting
 befume 3
-blellum 3
+blellum 4
 buoyage 1
 befriended 2
 bellbind 3
