@@ -5548,7 +5548,7 @@ diaminogene 1
 dx 1
 dimmock 2
 departmentalism 2
-departmentalization 4
+departmentalization 5
 departmentalized
 deuteronomy 1
 debilitate 1
@@ -12236,7 +12236,7 @@ detector 2
 dampers 1
 deviators 2
 dysfunctions 1
-disfurnish 1
+disfurnish 2
 deport 1
 disfurnished 1
 dangerless
