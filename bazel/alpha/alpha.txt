@@ -1033,7 +1033,7 @@ aphlaston 5
 absume 2
 absurd 1
 anesthesiologist 1
-animators 1
+animators 2
 antirentism
 absurder 1
 anaphylactoid
@@ -4969,7 +4969,7 @@ anthraciferous 3
 aerobranchiate
 astrobiologist 1
 autophone 2
-abluted
+abluted 1
 agenizes
 aeronat 1
 aeronaut 2

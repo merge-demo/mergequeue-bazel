@@ -4230,7 +4230,7 @@ bilharziasis 1
 beauteous
 beauti 1
 beauty
-brachyphalangia 1
+brachyphalangia 2
 bracing 2
 brumstone 3
 bocaccios 3
@@ -4691,7 +4691,7 @@ bicrons 1
 besoin 3
 bipartile 3
 breakthroughes 1
-babyishness
+babyishness 1
 broadcloth 1
 butylenes
 boorga 2
@@ -15776,7 +15776,7 @@ bedecks 1
 beauing 1
 billethead 2
 backstrokes
-backhandedly
+backhandedly 1
 besonio 1
 begowned 1
 bimester 2
