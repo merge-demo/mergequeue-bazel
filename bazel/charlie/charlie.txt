@@ -15393,7 +15393,7 @@ clapperclaw
 cloragen 2
 clappered 2
 chitchatting 2
-clappers
+clappers 1
 cutinization 2
 cordoban 1
 clapping
