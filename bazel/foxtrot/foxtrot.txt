@@ -5473,7 +5473,7 @@ funniness 3
 frequentness 4
 flemishes 1
 flensed 3
-frillers 3
+frillers 4
 flensers 1
 fallation
 fidelities 4
@@ -8933,7 +8933,7 @@ flu 4
 fountain 1
 fragged 3
 fossicker 1
-flueman 2
+flueman 3
 filosus 3
 faultfinder 3
 funambulist 4
