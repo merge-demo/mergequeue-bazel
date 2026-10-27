@@ -4993,7 +4993,7 @@ admissibleness 1
 aeropathy
 arthritides
 aerope 2
-acinetae
+acinetae 1
 aeroperitoneum 3
 alburnum 1
 animadverting 2
@@ -7688,7 +7688,7 @@ amassed
 antepyretic 3
 ambigenous 1
 abelicea 3
-adaw
+adaw 1
 alcoholize 1
 alcoholmeter 1
 airmass 1
@@ -24301,7 +24301,7 @@ aftertaste 2
 althaein
 ablepsy 4
 anthrasilicosis
-autophotoelectric 1
+autophotoelectric 2
 autopilot
 autoincrement 1
 autoplagiarism 2
