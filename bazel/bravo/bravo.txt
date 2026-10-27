@@ -1972,7 +1972,7 @@ bangled 2
 bangles 1
 beleave 1
 bias 1
-bloodsucking 2
+bloodsucking 3
 begoniaceous 2
 bangos 1
 blubberman 2
@@ -3883,7 +3883,7 @@ bawly 1
 brutalitarian 1
 bezels
 bodyhood 3
-bidding 2
+bidding 3
 beforesaid
 basifacial
 bawneen 2
@@ -10710,7 +10710,7 @@ belap
 blenk 4
 blennadenitis 1
 backsetting 1
-blennemesis 1
+blennemesis 2
 bullets
 backswimmer 2
 blennenteria 4
