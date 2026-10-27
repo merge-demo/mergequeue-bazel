@@ -8370,7 +8370,7 @@ beryllia 1
 babu 3
 brachygraphic
 baronetized 1
-byhand 1
+byhand 2
 bicarpellate
 bija 2
 bijasal 5
@@ -11078,7 +11078,7 @@ blockiest 1
 bevelling 5
 blocking 1
 borborygmic 1
-benzimidazole
+benzimidazole 1
 biomorphic 1
 billeter
 bedwarfs 2
