@@ -2944,7 +2944,7 @@ filialness 1
 facier 2
 fooleries 2
 flukiness 1
-freezed 6
+freezed 7
 foxberries 8
 fac 5
 flaked 1
@@ -6532,7 +6532,7 @@ finecomb 2
 fluting 3
 freakishly 4
 flasque 2
-foetid 4
+foetid 5
 floccose 4
 frailish 4
 flutist 3
