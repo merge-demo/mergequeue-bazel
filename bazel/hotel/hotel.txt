@@ -8669,7 +8669,7 @@ hofmbx
 hofmcssysnp 2
 hofmlo
 hofmps 3
-hofmvb 3
+hofmvb 4
 hofofeldig 2
 hofooqqt 2
 hofpovhzhlkl 1
