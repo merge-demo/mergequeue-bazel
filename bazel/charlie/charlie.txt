@@ -31524,7 +31524,7 @@ curship 3
 coadjuvant 1
 cornutin 2
 cursing
-coelenteron
+coelenteron 1
 cursitate 2
 creirgist
 coadjute
