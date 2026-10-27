@@ -4954,7 +4954,7 @@ flamencos 1
 funtumia 2
 fevertwitch 1
 fraunch 1
-flameout 3
+flameout 4
 foreappoint 5
 fourflushers 1
 flameouts 2
@@ -7523,7 +7523,7 @@ flentes 3
 fleshbrush 2
 frivoler
 foreboom 5
-foredooms 1
+foredooms 2
 filterers 3
 foreburton 2
 fameless 3
@@ -8801,7 +8801,7 @@ frizzlier
 frontosphenoidal 3
 fulfills 2
 flancard 1
-fecundation 4
+fecundation 5
 foxie 1
 fixedly 2
 forgers 3
