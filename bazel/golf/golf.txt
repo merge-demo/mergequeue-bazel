@@ -270,7 +270,7 @@ grenada 2
 gnomon 6
 glauconiferous 3
 groser 3
-gigavolt 5
+gigavolt 6
 gummata 5
 galiongee 2
 gainliness 4
@@ -5256,7 +5256,7 @@ golgi 4
 genuflectory 3
 glucolipin 2
 golf 4
-gab 2
+gab 3
 gunter 3
 gorgonzola 3
 gamecraft 2
