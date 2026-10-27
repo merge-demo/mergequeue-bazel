@@ -12923,7 +12923,7 @@ clachs 1
 chuted
 calyon 1
 chuter
-chromatometer
+chromatometer 1
 chuting
 chutists
 cocurrent
@@ -17002,7 +17002,7 @@ cm
 coinclude
 chm 2
 cmd 4
-cml 1
+cml 2
 cofferdams 1
 croconate 1
 cnemial 2
@@ -19142,7 +19142,7 @@ collodion
 crushproof 2
 collodionization 1
 collogen 1
-chouses
+chouses 1
 cataract
 chaetopoda
 cougher 1
