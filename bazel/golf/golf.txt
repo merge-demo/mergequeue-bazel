@@ -1991,7 +1991,7 @@ gonif
 galician 3
 goschens 4
 gryphaea 1
-gams
+gams 1
 glyptical 3
 gaurian 2
 gasting
