@@ -1804,7 +1804,7 @@ freeboard 3
 fores 3
 ferninst 1
 forbesite
-folkmots 2
+folkmots 3
 flak 2
 flaithship 4
 frustules 3
@@ -2670,7 +2670,7 @@ fittonia
 fluoridating 2
 fertilise 2
 fistular
-fylfots
+fylfots 1
 fertilizational 1
 funeral
 fallowed 1
