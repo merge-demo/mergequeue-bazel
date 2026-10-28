@@ -584,7 +584,7 @@ dialers 3
 decolonized 4
 daunch 1
 damfool 4
-div 3
+div 4
 digenea 1
 dodecaheddra 2
 diwata 3
@@ -4465,7 +4465,7 @@ deceits 1
 diceplay 3
 duress 1
 demy 1
-decahydrated 1
+decahydrated 2
 dovetailing
 demiangel 1
 diazotization
@@ -15301,7 +15301,7 @@ delusory 1
 dwamish 2
 dolores 2
 dispenditure 1
-dermatophytic
+dermatophytic 1
 dolorimetrically
 dochter 4
 delusional 3
