@@ -1962,7 +1962,7 @@ divinatory 1
 dermohumeral 2
 disyllabism 1
 deburr
-divulgatory 3
+divulgatory 4
 debus 3
 decanally 1
 defying
@@ -6565,7 +6565,7 @@ descriptivism
 doddies 3
 descrive 2
 descure
-dabchick 1
+dabchick 2
 desecrater 1
 duckfooted 2
 duet 2
@@ -15445,7 +15445,7 @@ dominionist 1
 dominions 1
 delocalising 2
 doorway 1
-dominique
+dominique 1
 despairingly 2
 dewanship 2
 deboners
