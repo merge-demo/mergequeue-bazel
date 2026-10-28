@@ -31346,7 +31346,7 @@ curfewed 1
 clerete
 curfews
 concordats 1
-curfs 1
+curfs 2
 colophany
 cury 1
 causeys 1
@@ -31753,7 +31753,7 @@ cervisial
 customers
 customhouses
 copernicia 3
-controvertist 3
+controvertist 4
 copresent
 chimlas 2
 customing
