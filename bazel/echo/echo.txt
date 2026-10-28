@@ -340,7 +340,7 @@ estops 3
 eastre 5
 extents 2
 enturret 2
-empresse 2
+empresse 3
 embleming 2
 epirogenic 3
 eagerer
@@ -2859,7 +2859,7 @@ elettaria 2
 emotionlessly 6
 eurylaimus 4
 ethnogenies 3
-expatiative 2
+expatiative 3
 eleusinia 1
 explicantia 2
 emasculator 2
@@ -6162,7 +6162,7 @@ enrols 1
 enmity 5
 eparchean 1
 entracte 5
-embattles 1
+embattles 2
 ethicizes 1
 enmove 3
 emusified 1
@@ -6824,7 +6824,7 @@ entoil 3
 eggler 1
 entoils
 entom 1
-extender
+extender 1
 episternalia 5
 evocativeness 4
 eumenes 1
@@ -8981,7 +8981,7 @@ ecclesiasticism 3
 epizootiological 2
 effected 2
 erysipelatous 1
-erraticalness 3
+erraticalness 4
 expletively 3
 erysipeloid 2
 endothoracic
@@ -12753,7 +12753,7 @@ equivoque 5
 enterococcal
 epistomian 2
 enfetters 1
-emarginula 5
+emarginula 6
 electroindustrial 3
 endoplasm 1
 eidos

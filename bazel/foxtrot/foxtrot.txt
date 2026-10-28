@@ -1081,7 +1081,7 @@ federates 4
 farrel 2
 figuresome 3
 flameproofer 2
-faculae 3
+faculae 4
 fontinalaceous
 fam 4
 finkel 2
@@ -1853,7 +1853,7 @@ farthermore 2
 fruiterers 1
 febriphobia
 februarius 1
-flemishing
+flemishing 1
 fringefoot 3
 fencibles 2
 fielden 3
@@ -3542,7 +3542,7 @@ fitchets 5
 floundering
 figuriste 2
 flicked 1
-fyke 2
+fyke 3
 fains 3
 fitweed 1
 forehearth 6
@@ -4602,7 +4602,7 @@ freezing 2
 freest
 filmist 2
 fistula 1
-fistulina 1
+fistulina 2
 forbbore
 fighter 4
 footnoting 3
@@ -5556,7 +5556,7 @@ foraminiferous 1
 flirtish 1
 flexuously 3
 fram 2
-fluffiest 2
+fluffiest 3
 forecited 4
 fluorite 2
 fascicle 1
@@ -7671,7 +7671,7 @@ fano 5
 fiesta 1
 fled 6
 forehandedness 3
-fellingbird 1
+fellingbird 2
 forwardest 1
 flowering 1
 fishergirl 2
@@ -8608,7 +8608,7 @@ familiarism 1
 flatworks 3
 fillagreing 2
 farseeingness 3
-fetcher 4
+fetcher 5
 fenceress
 faradisms 3
 flappiest 1
@@ -8618,7 +8618,7 @@ floury 2
 foredid 3
 fir 2
 fittings 1
-ferretto 5
+ferretto 6
 flamefishes 2
 fuzzed 4
 finnochio 1
@@ -9727,7 +9727,7 @@ flexile 3
 flaccidness 3
 frenchwomen 1
 frenetical 3
-fideicommissioner
+fideicommissioner 1
 frigorifical 2
 factful 2
 forgathered 4
