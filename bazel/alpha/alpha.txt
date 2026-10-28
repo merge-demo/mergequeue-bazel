@@ -4718,7 +4718,7 @@ arghoul
 abush 2
 aetheling 1
 antedawn 2
-allographic 4
+allographic 5
 acrotisms
 alphard 1
 aeluropodous
@@ -13091,7 +13091,7 @@ alienize
 autognosis 1
 acronical 2
 ascus
-anil 1
+anil 2
 anilau 1
 allen
 almucantar
