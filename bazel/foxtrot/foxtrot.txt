@@ -8103,7 +8103,7 @@ flasklet
 factorist 2
 fumacious
 farceur 4
-floodplain 2
+floodplain 3
 foret 4
 fragilaria 1
 formalized 2
@@ -9038,7 +9038,7 @@ flux 2
 fowlfoot 1
 fared 3
 faultful 2
-fowlings
+fowlings 1
 fluvious
 fountained 3
 flashguns 2
