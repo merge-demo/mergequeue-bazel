@@ -603,7 +603,7 @@ auricularly 1
 archbishoprics 2
 autoeducation
 arisen
-algonquians 3
+algonquians 4
 antarctic 2
 aphasic 2
 alexic 1
@@ -14659,7 +14659,7 @@ antiangular 5
 antiannexation 1
 angioplany 1
 antiannexationist
-antianopheline
+antianopheline 1
 akim 2
 antorbital 2
 antianthropomorphism 2

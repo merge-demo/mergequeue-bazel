@@ -743,7 +743,7 @@ breathy 1
 boneshaw 3
 bannerman 4
 bushmanship 1
-badigeon 2
+badigeon 3
 beadsman
 bechatter
 boric
@@ -6585,7 +6585,7 @@ berdash 2
 booming
 birotation
 blotter 1
-bluff
+bluff 1
 betons 2
 blastular 2
 bere 1
