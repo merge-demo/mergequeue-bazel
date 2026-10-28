@@ -21467,7 +21467,7 @@ counterplotting
 concomitance 1
 concomitant 1
 concommitant
-concommitantly
+concommitantly 1
 calculation
 conconscious
 cowyard
@@ -28489,7 +28489,7 @@ cutability 1
 creativity
 clowns 1
 creatorhood 2
-creatotoxism
+creatotoxism 1
 columellae 2
 chrysophane
 caromed

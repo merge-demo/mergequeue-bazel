@@ -3599,7 +3599,7 @@ flapjacks
 fussle 2
 fairbanks 1
 fourniture 5
-flank 3
+flank 4
 filers 3
 fructification 3
 felinity 2
