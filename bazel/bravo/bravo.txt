@@ -7359,7 +7359,7 @@ befogs
 bethroot
 blackbirds 5
 bamboche 3
-bigmouthed 1
+bigmouthed 2
 bethump 1
 betides
 bego 2
