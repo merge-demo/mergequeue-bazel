@@ -1671,7 +1671,7 @@ fearedness 5
 fluidizes
 fathometer 2
 frypan 2
-faucets 1
+faucets 2
 flatworm
 fieldmice 2
 fragmentation 2
