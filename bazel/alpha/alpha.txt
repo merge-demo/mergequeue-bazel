@@ -6426,7 +6426,7 @@ algesthesis 1
 antivenom 1
 agrostologic 1
 antiresonance
-amorado 1
+amorado 2
 attempering 1
 alnascharism
 antefixa
@@ -15681,7 +15681,7 @@ alderling 1
 atoneable 1
 amygdalectomy 2
 andamentos
-aphetic
+aphetic 1
 alehoof 1
 adsignify 1
 atrazine 2
