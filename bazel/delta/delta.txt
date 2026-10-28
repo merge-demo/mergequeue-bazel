@@ -5701,7 +5701,7 @@ dialysed 1
 disposit 1
 deplenish
 dialup 2
-depleteable 1
+depleteable 2
 decapodan 3
 ducape
 dichroite 5
