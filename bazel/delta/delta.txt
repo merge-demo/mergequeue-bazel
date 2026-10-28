@@ -6601,7 +6601,7 @@ dynamiters 1
 denigratory
 damoiselle 2
 dirdum 3
-dephlegmated
+dephlegmated 1
 doubtsome 1
 desegregated 1
 desegregates 5
@@ -10556,7 +10556,7 @@ demiking 5
 dauw 3
 diplocardiac 1
 diplocarpon 2
-discoidea
+discoidea 1
 diplocaulescent 2
 diplocephalus 1
 drearisomeness 1
@@ -16795,7 +16795,7 @@ dissenters
 dreeing 1
 disconsonant 1
 difficult 2
-devaluated 1
+devaluated 2
 drawcut 1
 drawee
 disboscation 1
@@ -17486,7 +17486,7 @@ densities 3
 drubbers 1
 disbody 2
 drubble 3
-deletery 2
+deletery 3
 diaschisis
 drubly 1
 divinise 1
