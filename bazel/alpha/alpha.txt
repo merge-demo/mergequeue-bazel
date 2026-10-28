@@ -6444,7 +6444,7 @@ aguavina 1
 actinologous 1
 archsacrificer 1
 agudist
-arsonite
+arsonite 1
 acolous 1
 agueweeds
 alphitomancy 1
@@ -21373,7 +21373,7 @@ annuluses 1
 asyngamy
 antiabrin 1
 analyzing 2
-asyntactic
+asyntactic 1
 anglophilism
 adesmy
 alkalization
