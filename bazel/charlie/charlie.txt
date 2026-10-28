@@ -1012,7 +1012,7 @@ caca
 calanque 1
 calantas 2
 chromocenter 2
-chondroid
+chondroid 1
 calapite
 caprelline 1
 calappidae 1
