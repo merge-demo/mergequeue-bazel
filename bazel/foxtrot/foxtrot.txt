@@ -1493,7 +1493,7 @@ flunkeyish 2
 furanose 2
 foundering 3
 fient 2
-forebodingness
+forebodingness 1
 forestology
 freebooters 1
 formamido 3
@@ -4855,7 +4855,7 @@ flagstick 2
 flagworm 4
 fandangle 2
 feramorz 2
-fittedness 2
+fittedness 3
 florida 3
 flivvers 1
 fairwater 1
