@@ -10110,7 +10110,7 @@ euphausiacea 3
 entities 3
 ethereality 3
 epiboly 1
-etherealization
+etherealization 1
 earthlike
 extrusible 2
 endorses 3
