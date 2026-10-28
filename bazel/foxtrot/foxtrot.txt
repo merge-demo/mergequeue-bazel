@@ -1065,7 +1065,7 @@ farolito 2
 flustration 3
 fiberboard 3
 ferriages 1
-frontons
+frontons 1
 farrage 3
 ferroelectricity 2
 furziest 3
