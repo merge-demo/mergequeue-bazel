@@ -8748,7 +8748,7 @@ dinting 1
 defocusses
 deescalations
 diatomist
-dover 2
+dover 3
 dot 1
 debadge 2
 diaporesis 1
