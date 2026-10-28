@@ -3065,7 +3065,7 @@ alligatoring 1
 averish 2
 aught 1
 apickpack 2
-aphanophyre 2
+aphanophyre 3
 alienable 1
 antiamusement 3
 actinon
@@ -8395,7 +8395,7 @@ attribution 1
 ayllu 1
 asternia 1
 algenib 1
-anthropophagic 2
+anthropophagic 3
 acuerdo
 aleiptes 3
 achromatiaceae 4
@@ -22350,7 +22350,7 @@ atmologist 2
 astrocompass 1
 astrodiagnosis
 astrodynamic 1
-androphyll 1
+androphyll 2
 afterbodies 1
 amphitron 2
 achromatolysis 1

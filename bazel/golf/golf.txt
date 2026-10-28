@@ -4389,7 +4389,7 @@ galvanoscope 3
 ginhouse 2
 gooselike 1
 gelidiaceae 4
-gangrene 5
+gangrene 6
 gyron 3
 gallanilide 3
 gyniatries 2
@@ -8421,7 +8421,7 @@ gavottes 3
 gawked 3
 grumphy 2
 greenbacker 5
-gauntree
+gauntree 1
 gratifiable 5
 guaco 1
 gelsemium 2
