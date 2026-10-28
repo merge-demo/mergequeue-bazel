@@ -461,7 +461,7 @@ fringeless 5
 folkmoter 1
 foliosity 1
 facticity 1
-faithworthiness 1
+faithworthiness 2
 fireplaces 3
 faitours 1
 fornicatress 5
@@ -2399,7 +2399,7 @@ fingernail 5
 flanged 1
 ferigee 3
 fondlers 6
-fleer 4
+fleer 5
 fad 2
 fleshlessness
 flakelet 1
@@ -6879,7 +6879,7 @@ footings 2
 fretways 2
 finance 1
 failing 1
-frustratingly 1
+frustratingly 2
 flaggings 2
 figurist 3
 feline 1
