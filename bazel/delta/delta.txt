@@ -10237,7 +10237,7 @@ distresses
 dinophilea 7
 discontinuance 1
 depute 3
-dealfishes 1
+dealfishes 2
 donkeyish
 demulsibility 5
 dinosauria 2
@@ -13309,7 +13309,7 @@ demographics 2
 demorphinization 3
 dispropriate 1
 dysprosia 2
-devant
+devant 1
 disproves 1
 disprovide
 dispurse 1
