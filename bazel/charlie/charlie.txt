@@ -8723,7 +8723,7 @@ chapatties 1
 chapattis 1
 codify 1
 connectant 3
-chapbook 2
+chapbook 3
 carbonylating
 caconym 1
 chape 3
@@ -12991,7 +12991,7 @@ cyanoacetate 1
 cobenignity 1
 currencies
 cyanoaurate 2
-characeous
+characeous 1
 cyanoauric
 cyanobenzene 1
 crepitating
@@ -13279,7 +13279,7 @@ curates 1
 cyclolysis
 cycloloma 2
 chrysarobin
-chancrous 1
+chancrous 2
 cavalcades
 cyclometer 1
 choeropsis 1
@@ -27641,7 +27641,7 @@ circumplect
 chillier 1
 cowbind
 cypriot 1
-caurale 1
+caurale 2
 cowbinds
 clapperclawer 1
 cracksman
@@ -27913,7 +27913,7 @@ coelostat 1
 cracker
 coenobium 2
 correal 3
-cionoptosis
+cionoptosis 1
 crackerjacks 1
 crackers 3
 cradlemaking 1
