@@ -9302,7 +9302,7 @@ geodynamicist 1
 grapeline 3
 girnel 1
 gallowglass 5
-gaure 3
+gaure 4
 guttera 4
 grudgingness 2
 generale 3
@@ -9775,7 +9775,7 @@ gonochorismus 3
 giantess 1
 geic 5
 gean 4
-gelidities 4
+gelidities 5
 globetrotter
 ganza 2
 grunt 4
