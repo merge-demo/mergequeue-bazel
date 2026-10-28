@@ -1572,7 +1572,7 @@ fissirostres 1
 facially 2
 farcetta 3
 fegary 3
-fooster
+fooster 1
 favored 4
 feasibilities
 favorer 3
@@ -7418,7 +7418,7 @@ flagellariaceae 4
 floreate 4
 fasciculation 3
 fey 2
-figgum
+figgum 1
 fille 2
 falconers 2
 fawnlike 2
@@ -8737,7 +8737,7 @@ fella 2
 footlog 4
 fellatee 3
 faultsman 3
-finchery 4
+finchery 5
 forehands 1
 flavonols 4
 fortuitous 1
@@ -9316,7 +9316,7 @@ fantasies 2
 footrest 3
 finnicky
 fatback 2
-formicicide 2
+formicicide 3
 fromages 5
 fluxility 2
 francolite 2
