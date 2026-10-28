@@ -9509,7 +9509,7 @@ dinarzade
 disapproval 1
 diggable 2
 digged 3
-deuterostome 1
+deuterostome 2
 demonstrational 5
 dighted
 dighter 1
