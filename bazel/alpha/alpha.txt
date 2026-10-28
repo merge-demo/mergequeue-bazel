@@ -3733,7 +3733,7 @@ analemmatic 1
 adessenarian 1
 adeste
 afterpressure 2
-antesternum 2
+antesternum 3
 affectionate 2
 adevism 2
 adfected
@@ -6521,7 +6521,7 @@ ahull 2
 ascomata 1
 anacrustic 1
 airward 1
-acerbities 1
+acerbities 2
 amicableness 2
 ahunt 3
 azocyclic
@@ -11467,7 +11467,7 @@ angioglioma 4
 amula
 amulas 2
 archexorcist
-acone
+acone 1
 armaments 2
 aloemodin 1
 afterturn 3
@@ -24290,7 +24290,7 @@ autophytic
 agister 2
 albespyne
 acquist
-aluminographic 2
+aluminographic 3
 apparent
 autophytograph 2
 aeroporotomy 1
