@@ -670,7 +670,7 @@ decapitalize 1
 damped 2
 desquamated 2
 dukely 1
-deafen 5
+deafen 6
 dudgeons
 dodecastylar 2
 donnard 1
@@ -3560,7 +3560,7 @@ descendence
 discredence 1
 derivably 1
 dawcock 1
-drumlin 2
+drumlin 3
 defunction 1
 deul
 disfrock
