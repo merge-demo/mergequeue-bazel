@@ -15228,7 +15228,7 @@ brickle
 bulbospinal 2
 bricklike 2
 beclose 2
-blennoid 3
+blennoid 4
 backstrip 1
 bucketing 1
 balneal 1
