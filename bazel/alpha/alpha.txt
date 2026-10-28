@@ -1853,7 +1853,7 @@ agnosy 2
 airinesses
 acerous 1
 acertannin
-allseed
+allseed 1
 awn 2
 antitabetic 2
 acerval 4
@@ -6308,7 +6308,7 @@ attenuant
 abvolt
 adjectively
 aute 1
-animative 1
+animative 2
 ambulances
 aggress
 artsman 2
@@ -11157,7 +11157,7 @@ alkide 2
 addictive
 analgesis 1
 aromatizer 1
-adsorb 2
+adsorb 3
 amphiboles 2
 affliction 2
 axometric 1
@@ -17728,7 +17728,7 @@ applicableness
 asilid
 aristarchian
 amylogenesis
-ambilaterality
+ambilaterality 1
 ambosexous
 archdespot 1
 applications 3
