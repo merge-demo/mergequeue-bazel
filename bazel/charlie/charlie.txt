@@ -5329,7 +5329,7 @@ cochleated 4
 chariotway
 cynodont 2
 cassowary
-cassowaries
+cassowaries 1
 carotidean 1
 commonty 1
 cassumunar
