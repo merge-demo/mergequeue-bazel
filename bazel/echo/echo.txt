@@ -4940,7 +4940,7 @@ eudemons 1
 extradictable 1
 endamoebas 2
 endamoebidae 3
-equations 7
+equations 8
 endangitis 2
 expertised 2
 endarteteria 1
@@ -6176,7 +6176,7 @@ endorachis 2
 enigua 3
 elephantiac 2
 enneagons
-enthrallment 1
+enthrallment 2
 ectoparasitic 1
 embronze 1
 evagation 1
