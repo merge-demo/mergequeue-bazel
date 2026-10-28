@@ -7206,7 +7206,7 @@ bestiarian 2
 bestiarist
 bestock 1
 bestow 3
-bestowment
+bestowment 1
 burgee
 briary
 breaching 2
