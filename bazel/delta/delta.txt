@@ -878,7 +878,7 @@ dieback 1
 deuteronomistic 1
 dummerer 1
 diagnostication
-dori 1
+dori 2
 dermotherm 2
 daguerrean 1
 dripproof 1
@@ -2327,7 +2327,7 @@ diacetyls 3
 delectations 1
 denizens 2
 didna 4
-disseizin 3
+disseizin 4
 dilapidate 1
 determinists 2
 decke 1
@@ -4438,7 +4438,7 @@ drones 2
 despairfulness 2
 desultory 1
 doubtingness 1
-demesgne 1
+demesgne 2
 dudleyite 1
 dithioic 2
 dolos 1
@@ -17322,7 +17322,7 @@ disquisition
 desirers 2
 dodecanal 1
 doa 5
-dignifying 2
+dignifying 3
 drooled
 drooly
 doorstep 2
