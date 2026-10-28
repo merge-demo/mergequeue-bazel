@@ -1745,7 +1745,7 @@ decumaria 1
 deathlessness 1
 deathlikeness 1
 dundees 4
-deathliness 2
+deathliness 3
 deathrates
 deathsman 1
 discrepating
@@ -2752,7 +2752,7 @@ dewcup 1
 decorist
 dragged
 durum 6
-demilancer 1
+demilancer 2
 disfeatured 2
 defeaters
 decorticated 1
@@ -4416,7 +4416,7 @@ dastur 1
 disassembled 3
 dementation 3
 dementedly 3
-dementholize 2
+dementholize 3
 disseated 2
 demiatheism
 dementia 3
@@ -14097,7 +14097,7 @@ distritbuting 3
 debasedness 2
 debauchery 3
 dingy 2
-displace 1
+displace 2
 dinotheres 3
 delinquence 2
 deciduitis 1
