@@ -289,7 +289,7 @@ aeroacoustic 7
 aguamas 1
 abdominals 1
 abdominocystic 1
-archness
+archness 1
 ailuro 1
 appunctuation 1
 asphyxiates 1
@@ -19078,7 +19078,7 @@ archprelatical 2
 armenize
 aholt 3
 ambassadors
-apishness 1
+apishness 2
 arthur
 allegoric 1
 arabine 1
