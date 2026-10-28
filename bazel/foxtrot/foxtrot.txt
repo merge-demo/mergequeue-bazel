@@ -1119,7 +1119,7 @@ farthing 1
 foresay 2
 fluffing 2
 feverishness 3
-fractional
+fractional 1
 fibrillary 3
 filiates 8
 farthings 5
@@ -9085,7 +9085,7 @@ fehmic 7
 frication 2
 figging 3
 foundryman 4
-fibrinolytic 3
+fibrinolytic 4
 farcied 4
 famed 1
 fords 3

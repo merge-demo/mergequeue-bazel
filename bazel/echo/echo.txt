@@ -433,7 +433,7 @@ excuse
 exarchies 2
 eburin 3
 exobiologists 3
-ec 2
+ec 3
 ecardines
 extravagate 3
 ernest 2
@@ -12527,7 +12527,7 @@ ezan 2
 etymologized 4
 euphemy 2
 emissaria 2
-enhalos 2
+enhalos 3
 eugeny
 enneacontahedron 1
 exoskeleton 1
