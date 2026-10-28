@@ -2752,7 +2752,7 @@ enditing 1
 erythrocyte 1
 evangelary 3
 elegy 1
-emblematicize
+emblematicize 1
 elegiacally 1
 eighthly 4
 exprobate 1
@@ -4863,7 +4863,7 @@ excellences 4
 epigne 1
 ephydriad 1
 expertise 3
-emblematizing
+emblematizing 1
 encourages 1
 embusy
 eucatropine 1
