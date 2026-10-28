@@ -11130,7 +11130,7 @@ disinherits 2
 disassociate
 disassociates 2
 disasters
-dimerize 2
+dimerize 3
 dorlach 4
 doupioni 1
 dumbfound 1
