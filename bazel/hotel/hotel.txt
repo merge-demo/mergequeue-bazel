@@ -2969,7 +2969,7 @@ heip 5
 heipaycwfne 1
 heipkeitysvm 2
 heiplm 3
-heipsccxys 2
+heipsccxys 3
 heiptg 2
 heir 2
 heirira 1
@@ -3439,7 +3439,7 @@ herki 2
 herlyfjnfj 1
 hermoshudpv 2
 hermrvmymk
-hermsnmhul 1
+hermsnmhul 2
 hermspzkgp 2
 herncf 2
 herntokri 1
