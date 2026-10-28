@@ -2986,7 +2986,7 @@ bootless 3
 banda
 botts 2
 buat 2
-burrel 3
+burrel 4
 barroom 4
 barruly 3
 bedumb
@@ -7368,7 +7368,7 @@ bootikins 1
 biliation 1
 bighting
 beautifications 2
-boluses
+boluses 1
 blindfolds 3
 betime 2
 bastionet 1
@@ -7921,7 +7921,7 @@ bibliothecae
 bibliothecarian 5
 bungalows 2
 batoka 1
-butic 1
+butic 2
 baseline 2
 butanone 1
 bowlders
@@ -14339,7 +14339,7 @@ brahmin 1
 behowl 1
 boxkeeper 2
 burnable 3
-brahminists 2
+brahminists 3
 brahmoism
 brahmsian 2
 barbicanage 1
@@ -17895,7 +17895,7 @@ bivium 3
 boundable
 bushelers 2
 bescurvy
-bushelfuls 1
+bushelfuls 2
 belabour 4
 bonytail 1
 buginese

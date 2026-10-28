@@ -2642,7 +2642,7 @@ acrania 2
 arius 2
 actresses
 acranial
-alcaaba 2
+alcaaba 3
 aphthic
 amiloun 1
 aethalia
@@ -6426,7 +6426,7 @@ algesthesis 1
 antivenom 1
 agrostologic 1
 antiresonance
-amorado 1
+amorado 2
 attempering 1
 alnascharism
 antefixa
@@ -14139,7 +14139,7 @@ antenuptial
 aplasias
 anteoccupation 3
 anteocular
-anteorbital 1
+anteorbital 2
 augustinian 2
 animalize
 antibodies
@@ -15681,7 +15681,7 @@ alderling 1
 atoneable 1
 amygdalectomy 2
 andamentos
-aphetic
+aphetic 1
 alehoof 1
 adsignify 1
 atrazine 2
@@ -18254,7 +18254,7 @@ arabica 2
 aerogel 2
 accentuator 2
 achromous
-agush 1
+agush 2
 archont
 arachnomorphae 1
 arabiyeh
