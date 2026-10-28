@@ -4225,7 +4225,7 @@ chinatown 1
 care 1
 citeable
 coerect 1
-coronated 2
+coronated 3
 carecloth 2
 cadetcy 1
 cared
