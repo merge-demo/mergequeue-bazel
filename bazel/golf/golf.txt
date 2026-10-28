@@ -2445,7 +2445,7 @@ gekkones 2
 gimels 4
 grillage
 gemmulation 2
-graniferous
+graniferous 1
 gotched 2
 glycohemia 1
 ghoulish 1
@@ -9375,7 +9375,7 @@ garnishry 2
 gloved 2
 galenobismutite 2
 gobelin 1
-glaymore 4
+glaymore 5
 gelatinized 2
 geneserin
 graciosity 5
