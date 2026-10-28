@@ -6556,7 +6556,7 @@ fleetly 3
 funereal 1
 foretack 1
 flamless 1
-furrings 2
+furrings 3
 flibbertigibbets 4
 flysches 8
 flattened 5
@@ -11044,7 +11044,7 @@ fermented 5
 fumuli 5
 fungated 2
 fere 2
-fascias 3
+fascias 4
 funambulator 1
 feels 2
 faunological 2
