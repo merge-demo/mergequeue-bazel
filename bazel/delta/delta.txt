@@ -2677,7 +2677,7 @@ decomposure 1
 digne 3
 dogwatches 1
 decompoundable 3
-diffractional 1
+diffractional 2
 decompoundly 2
 downstairs 1
 desmoma 2
@@ -7165,7 +7165,7 @@ desulphurised
 demonize 1
 dollyman 1
 decompose 3
-dispersement 1
+dispersement 2
 diductor 1
 drawboring 1
 deerkill 1

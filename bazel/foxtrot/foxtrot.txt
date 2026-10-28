@@ -5060,7 +5060,7 @@ fishline 2
 fosses
 foveated
 fezes 5
-freir 1
+freir 2
 foreseers 2
 fullmouth 1
 frsiket 1
@@ -11585,7 +11585,7 @@ fusionist 2
 fusions
 freity 1
 floscular 4
-fissional 2
+fissional 3
 foregallery 6
 fussbudgety 1
 fevers 3
