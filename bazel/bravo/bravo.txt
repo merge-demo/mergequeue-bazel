@@ -4429,7 +4429,7 @@ bereavement 1
 boojum 2
 beclog 2
 becoiffed
-bulkiness
+bulkiness 1
 bludging 1
 beclogs 1
 bretonian
@@ -13642,7 +13642,7 @@ bellbine 2
 bolsons
 brachycephal 2
 buckras 3
-bhumidar 2
+bhumidar 3
 bouquetiere
 backsplice
 bladder 3
