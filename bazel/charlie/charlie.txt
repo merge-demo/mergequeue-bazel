@@ -9481,7 +9481,7 @@ crojik 1
 check 2
 communizing
 checkage 1
-capsulized
+capsulized 1
 checkback
 checkbite
 checkbits
@@ -28894,7 +28894,7 @@ crewet
 culminations 1
 campit 2
 complanar
-cyclospondylic 1
+cyclospondylic 2
 crewing
 cutwal 1
 calendarer 1
