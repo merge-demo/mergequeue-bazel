@@ -2506,7 +2506,7 @@ gubbin 2
 gigacycle 2
 garlanding 6
 gittith 3
-genderer 3
+genderer 4
 geniohyoglossus 4
 grenado 1
 guiled 2
@@ -9024,7 +9024,7 @@ gneissose 4
 geog 2
 gobletful 2
 gnathophorous
-gravenstein 1
+gravenstein 2
 galvanothermy 4
 gaminess 3
 guiles 1
