@@ -3618,7 +3618,7 @@ anomaloscope 1
 adenoacanthoma
 adenocarcinomas 4
 adenochondroma 2
-antipellagric 1
+antipellagric 2
 adenochrome
 abnumerable 1
 allopathies
@@ -15512,7 +15512,7 @@ apathic 2
 antimysticalness 1
 aeroduct
 antimysticism 3
-antimixing
+antimixing 1
 algum 2
 auxilium 1
 amenorrhoeal 2
