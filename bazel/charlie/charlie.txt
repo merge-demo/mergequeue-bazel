@@ -9481,7 +9481,7 @@ crojik 1
 check 2
 communizing
 checkage 1
-capsulized
+capsulized 1
 checkback
 checkbite
 checkbits
