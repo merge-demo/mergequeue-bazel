@@ -7165,7 +7165,7 @@ desulphurised
 demonize 1
 dollyman 1
 decompose 3
-dispersement 1
+dispersement 2
 diductor 1
 drawboring 1
 deerkill 1
