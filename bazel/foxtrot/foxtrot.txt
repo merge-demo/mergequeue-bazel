@@ -2932,7 +2932,7 @@ fumier 2
 flagonless 3
 flyboy 2
 fingian 2
-farinha 5
+farinha 6
 furazane 2
 frustums 1
 fencing 1
@@ -3700,7 +3700,7 @@ furnacer 3
 financiered 1
 freshener
 finicking 3
-follying 2
+follying 3
 fiddleys 8
 filioque 3
 fleur 4
@@ -5623,7 +5623,7 @@ foster 1
 facund 1
 foetor 2
 fernery 4
-forepassed 3
+forepassed 4
 fireboot 2
 fuci 5
 flyless 3
@@ -6413,7 +6413,7 @@ frasera 4
 flyboat 1
 flisky 4
 fetches 2
-fitchet 5
+fitchet 6
 flaking 1
 forescene 2
 fairm
@@ -6556,7 +6556,7 @@ fleetly 3
 funereal 1
 foretack 1
 flamless 1
-furrings 2
+furrings 3
 flibbertigibbets 4
 flysches 8
 flattened 5
@@ -7844,7 +7844,7 @@ fractionisation 1
 fungify 3
 favorite 2
 fligged 2
-focusing 1
+focusing 2
 fatiguable
 fellen 3
 findings 2
@@ -10327,7 +10327,7 @@ frondose 1
 focometer 3
 frustrated 3
 fikey 1
-friendless 1
+friendless 2
 foxinesses 1
 fraternise 1
 forrarder 1
@@ -10360,7 +10360,7 @@ frontcourt 2
 fructus 2
 folkmote 2
 foreschooling 1
-fragrances
+fragrances 1
 foreboard 1
 feldspathization 2
 francium 2
@@ -10438,7 +10438,7 @@ frontsman 2
 fluxional 2
 frontspieces 4
 fleet 4
-fwd 1
+fwd 2
 fisted 1
 flche 4
 frontstall 1
@@ -11044,7 +11044,7 @@ fermented 5
 fumuli 5
 fungated 2
 fere 2
-fascias 3
+fascias 4
 funambulator 1
 feels 2
 faunological 2
