@@ -2504,7 +2504,7 @@ borscht
 beruffled 1
 boccia 3
 blueblack
-beslash
+beslash 1
 bassetite 1
 bottonhook 2
 barguest
