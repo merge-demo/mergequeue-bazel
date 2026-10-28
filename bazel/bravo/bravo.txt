@@ -9029,7 +9029,7 @@ boldface 1
 brev 3
 biophagism 4
 biophilous 2
-biophysic
+biophysic 1
 biophysiography 3
 balibuntal
 biophysiology 1
@@ -10168,7 +10168,7 @@ bloodfins 1
 bignoniaceae 3
 blackfishing 1
 bufferrers
-beroida
+beroida 1
 begrime 2
 badgering 2
 binghi 1
