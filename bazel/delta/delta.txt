@@ -15633,7 +15633,7 @@ dowl
 doghouses 1
 detumescent 2
 displacement 2
-derth
+derth 1
 deponent 1
 doorstone 1
 daggers 2
