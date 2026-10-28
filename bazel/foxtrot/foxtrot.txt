@@ -10235,7 +10235,7 @@ fleshly
 fadedness
 fibrillations 6
 flakers 3
-frond
+frond 1
 fluxmeter 4
 finickingness 3
 frust 2
