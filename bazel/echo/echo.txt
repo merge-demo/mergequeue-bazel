@@ -13735,7 +13735,7 @@ enterostomies 3
 editable 3
 encephalomeningitis 6
 extinctions 1
-enantiopathic
+enantiopathic 1
 euphorbia 3
 ententophil
 ectoenzym
