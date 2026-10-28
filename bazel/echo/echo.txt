@@ -6104,7 +6104,7 @@ encomienda 6
 electionary 1
 eugenic 2
 eulachon 2
-elasmosaur 1
+elasmosaur 2
 ebullience 1
 evanesce 1
 epifauna 5
@@ -6503,7 +6503,7 @@ ensurance 4
 ensuring 3
 equators 1
 enswathement 2
-elementariness 1
+elementariness 2
 embowered 2
 evidently
 ephelis 1

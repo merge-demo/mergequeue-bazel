@@ -9748,7 +9748,7 @@ bistipulate 2
 bistort 1
 bedarkened 3
 bistorts 1
-beetlehead 1
+beetlehead 2
 bistred 1
 beknights 2
 bradylexia 3
@@ -11120,7 +11120,7 @@ bolivian 2
 bloodcurdling 3
 bloodcurdlingly 5
 booboos 1
-bloodies
+bloodies 1
 bloodiness
 blooding 1
 balanic 2
@@ -14274,7 +14274,7 @@ begrudger 2
 blending 1
 brag 4
 bannut 3
-bodices 2
+bodices 3
 benzazole 2
 brogan 1
 braggarts 2
