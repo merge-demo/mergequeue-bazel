@@ -738,7 +738,7 @@ drabby 1
 dishabilitation 2
 dandie
 doubtless 1
-depeche
+depeche 1
 dandier 1
 drybrained
 dreaminess
@@ -4511,7 +4511,7 @@ demiculverin 1
 dodgiest 1
 divulsed
 demidistance 1
-diaphane 1
+diaphane 2
 diabetogenic 3
 downtrend 2
 deputies 1
