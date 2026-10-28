@@ -6740,7 +6740,7 @@ date 1
 designatum
 designedly 1
 designedness 2
-detachability 3
+detachability 4
 delibate 2
 designment 2
 destitutely 1
@@ -8230,7 +8230,7 @@ diadochy
 dablet
 divers 1
 damasked 2
-dissectors 2
+dissectors 3
 dulcor
 diorism
 diadochic 1
@@ -16795,7 +16795,7 @@ dissenters
 dreeing 1
 disconsonant 1
 difficult 2
-devaluated 1
+devaluated 2
 drawcut 1
 drawee
 disboscation 1
@@ -17486,7 +17486,7 @@ densities 3
 drubbers 1
 disbody 2
 drubble 3
-deletery 2
+deletery 3
 diaschisis
 drubly 1
 divinise 1
