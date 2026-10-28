@@ -14435,7 +14435,7 @@ brachygraphy
 besmirchment
 birdshots 2
 bowldery 1
-bewailment
+bewailment 1
 boggled
 blackbeetle 1
 bingee 1
@@ -18290,7 +18290,7 @@ biblioclast 1
 backwashing
 bowless 1
 buttinski 1
-bourout 1
+bourout 2
 buttled
 bonspells
 buttock 4

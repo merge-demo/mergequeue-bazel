@@ -7460,7 +7460,7 @@ drivable 1
 debating 1
 denude 1
 doctoral
-dubhgall 1
+dubhgall 2
 distalia 1
 detruding 3
 disulphid 3
@@ -15218,7 +15218,7 @@ dendrobium 1
 dybbukim 4
 dolichocranial 1
 duopolistic 1
-dolichopsyllidae
+dolichopsyllidae 1
 dolichosauri 1
 dameworts 1
 dracaenaceae 2

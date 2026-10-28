@@ -8047,7 +8047,7 @@ fourteenthly
 forestation 5
 faceup 2
 fructiculture 2
-foresteep 4
+foresteep 5
 flockmaster 4
 feyest 1
 flowerist 1
@@ -10563,7 +10563,7 @@ flumadiddle 2
 filmily 1
 framable 4
 formylate 1
-feracities 3
+feracities 4
 florins 5
 founds 2
 fertilizations 1
