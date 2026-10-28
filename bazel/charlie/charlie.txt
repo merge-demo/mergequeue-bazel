@@ -8169,7 +8169,7 @@ conduceability 1
 chairborne 2
 cabined 1
 copartners 1
-choriomas 2
+choriomas 3
 cardiovisceral 1
 chairing
 carpetbagging
@@ -18438,7 +18438,7 @@ cogonal 1
 cogovernor
 cellularity
 chokey 2
-carboxylate 2
+carboxylate 3
 capillitial 1
 crystalloblastic
 centrale
@@ -22899,7 +22899,7 @@ considerably 2
 compreg 1
 coalizing
 considerate 2
-codiaeum 1
+codiaeum 2
 cephalometer 1
 consideration
 considerations 1
@@ -24353,7 +24353,7 @@ circumflex 1
 cool 2
 cooled 1
 changepocket
-crosshairs
+crosshairs 1
 cavally 3
 cooley 1
 capitatum
@@ -28006,7 +28006,7 @@ caprid 2
 crined
 craniopuncture 2
 cachexia
-craigmontite 1
+craigmontite 2
 colossi
 craik
 cinnamoyl 1
