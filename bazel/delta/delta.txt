@@ -9244,7 +9244,7 @@ divined 1
 disinsectization 1
 dislegitimate 2
 drawcard 2
-digitaliform 2
+digitaliform 3
 diemakers 3
 duckie
 dehumidifying 2
