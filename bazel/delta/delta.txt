@@ -9342,7 +9342,7 @@ despouse 2
 dressers 1
 differenced 2
 differences 2
-dryad 2
+dryad 3
 destroyable
 dunces 2
 differentiability 1
@@ -17938,7 +17938,7 @@ dufterdar 1
 dys 4
 duftite 1
 disamenity 1
-deve 1
+deve 2
 durras 1
 dugento 2
 devouress 1
