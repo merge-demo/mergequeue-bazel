@@ -11053,7 +11053,7 @@ arecaceae 4
 araneid 1
 anoesis 1
 autoput 1
-aunter
+aunter 1
 alacreatinin
 amotions
 aubade
@@ -12268,7 +12268,7 @@ anticks 2
 asimen 2
 ancylopod
 acneiform 1
-acrider
+acrider 1
 anatropous 2
 antiecclesiastic
 alnico
