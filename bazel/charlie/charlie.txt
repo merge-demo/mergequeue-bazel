@@ -16202,7 +16202,7 @@ counterreligion 1
 cline 1
 clines 1
 caudexes 1
-clinger
+clinger 1
 crankness
 crossbeak 1
 clingfishes
