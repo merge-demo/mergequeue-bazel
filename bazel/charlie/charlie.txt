@@ -12562,7 +12562,7 @@ craddy 2
 chronique
 contingency 1
 commerceless 2
-chronocarator 1
+chronocarator 2
 citrine 2
 cuckoldy
 chronocyclegraph
@@ -28197,7 +28197,7 @@ crannequin 2
 crannia 2
 colliquefaction 1
 crannied 2
-crannies
+crannies 1
 crannying 2
 carpincho
 compiler
