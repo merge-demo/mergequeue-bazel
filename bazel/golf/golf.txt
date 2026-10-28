@@ -756,7 +756,7 @@ gestapos 3
 gerim 3
 gunbearer 5
 gerkin 2
-galvanopuncture 2
+galvanopuncture 3
 gummaker 4
 goutwort 5
 groupings 2
