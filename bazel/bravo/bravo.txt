@@ -3547,7 +3547,7 @@ binode
 blonds 3
 bathylithic
 bipinnaria 1
-bathymetry 1
+bathymetry 2
 bathymetrical 2
 biggonet 1
 bathing
