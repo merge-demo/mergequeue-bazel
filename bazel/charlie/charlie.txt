@@ -8422,7 +8422,7 @@ cckw
 cultrirostral 1
 chamfer 1
 cabirean
-chamfers
+chamfers 1
 chamfrain 1
 calvaria
 carilloneur
