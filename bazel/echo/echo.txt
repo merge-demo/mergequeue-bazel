@@ -1535,7 +1535,7 @@ eyeable 1
 egg 3
 ethmoid 2
 endosternum 2
-exradio 2
+exradio 3
 episcopised 1
 egoisticalness 2
 evoke 1
@@ -2863,7 +2863,7 @@ expatiative 2
 eleusinia 1
 explicantia 2
 emasculator 2
-eventognath 3
+eventognath 4
 exsuscitate 1
 eleutherian 1
 epidemicalness 4
@@ -6638,7 +6638,7 @@ eartagged 2
 excitator 2
 empyreumata 5
 enantiomeric 2
-encraty 4
+encraty 5
 elephantlike
 enzymologies 2
 enterohydrocele 2
