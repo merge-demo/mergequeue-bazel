@@ -4139,7 +4139,7 @@ dianthuses 1
 debye 1
 deguelin 2
 deliration 2
-delire 1
+delire 2
 documentary
 deadworks 2
 decimator
@@ -14718,7 +14718,7 @@ dirking
 dobby 2
 doby 2
 distender 1
-disposableness 2
+disposableness 3
 doblon 1
 dobos 1
 drumlier 3
