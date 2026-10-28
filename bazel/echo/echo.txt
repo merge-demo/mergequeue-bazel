@@ -820,7 +820,7 @@ ectypal
 ectype 1
 enwrite 3
 epizoa 1
-erythrinidae 1
+erythrinidae 2
 eral 3
 excrescent
 extremest
@@ -9722,7 +9722,7 @@ elementarism 4
 embryol 1
 escopette 4
 external 1
-epicoelar 2
+epicoelar 3
 extraterritorial
 ethylhydrocupreine 1
 essedones 4
