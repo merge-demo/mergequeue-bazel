@@ -3449,7 +3449,7 @@ brigade 3
 basto 1
 baguios 2
 bucklandite 2
-bibliolatrous 1
+bibliolatrous 2
 bathylite
 bovine 2
 basts 2
@@ -10735,7 +10735,7 @@ backspierer 2
 bharata 1
 bossship 4
 baramika 4
-bangiaceous 3
+bangiaceous 4
 boron 2
 birdbrained 2
 baldberry 2
