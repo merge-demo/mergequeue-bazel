@@ -4067,7 +4067,7 @@ ghastlily 2
 guanines 4
 gear 6
 galbulus
-gileno
+gileno 1
 gaddingly 2
 groomsman 4
 gladliest
@@ -4626,7 +4626,7 @@ gillhooter 1
 germanyl 1
 gruys 4
 glost 5
-grister
+grister 1
 gutium 2
 gourmandism 3
 gyrodactylidae 3
@@ -7162,7 +7162,7 @@ geometrise
 guans 2
 gaffs 2
 glycid 4
-gauming 2
+gauming 3
 gross 2
 glycolylurea 3
 genecor 1
@@ -8804,7 +8804,7 @@ garryaceae 4
 glacious 6
 greet 2
 gadid 3
-gandhian 1
+gandhian 2
 glimpsers 4
 grandchildren 4
 gelatinochloride 2

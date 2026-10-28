@@ -12571,7 +12571,7 @@ chronogeneous
 combinedness 1
 chronogram
 celestially 1
-chronogrammatic 1
+chronogrammatic 2
 chronogrammatically
 cheetah
 cenospecifically 2
@@ -18340,7 +18340,7 @@ cogitability
 cestraciontes
 culminant 2
 cogitabund 1
-cheviot 1
+cheviot 2
 cogitabundity
 cogitabundly
 cogitabundous 1
@@ -18970,7 +18970,7 @@ catouse
 collator
 chorotega 1
 couldna
-clumped
+clumped 1
 collators 1
 coenobitic 1
 ciseleur 1
