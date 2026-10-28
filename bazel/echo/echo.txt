@@ -13938,7 +13938,7 @@ eyestalk 1
 extraofficial 1
 earnestly 2
 expertship 1
-endromis 3
+endromis 4
 eleutheri 2
 ethylthioethane 3
 exotery 3
@@ -14185,7 +14185,7 @@ exesion 2
 eyght 3
 excogitative 6
 ewound 1
-extracapsular
+extracapsular 1
 experrection 2
 eranthis 1
 enqueues 5
