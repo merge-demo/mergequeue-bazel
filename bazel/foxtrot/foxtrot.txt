@@ -965,7 +965,7 @@ formalizer 2
 fillagreed 5
 foundership 2
 fizzles 2
-fardage 2
+fardage 3
 farded 3
 foyers 1
 forride 3
@@ -5739,7 +5739,7 @@ fathoms 2
 furnage 2
 fungistatic 1
 frequentation 1
-fractuosity 2
+fractuosity 3
 fels 5
 figureheadless 3
 fisher 3
