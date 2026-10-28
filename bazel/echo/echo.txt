@@ -2646,7 +2646,7 @@ eximiously 4
 electroreduction 2
 endamoebiasis
 eunuchising 2
-edh 1
+edh 2
 eupneic 1
 ergophobiac 1
 enchondromata 3
@@ -8326,7 +8326,7 @@ excursional 2
 essonites 4
 episthotonos 3
 epidictic 2
-endogamies
+endogamies 1
 eriocaulaceae 4
 electrodeposit 1
 enciphers 3
