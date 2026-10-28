@@ -898,7 +898,7 @@ gueparde 4
 glutathione 1
 geognost 4
 grassfire
-gobioid 4
+gobioid 5
 gusseted 1
 goosebird
 gez 1
@@ -3118,7 +3118,7 @@ gumdrops 4
 gomuti 2
 gymnocidium 3
 gastful 1
-guffaws 2
+guffaws 3
 gullage
 gurglet 4
 grees
@@ -10075,7 +10075,7 @@ guerrillas 3
 guesdism 2
 groomish 4
 gigman 3
-galivanting 6
+galivanting 7
 glore
 gudgeon 2
 grobianism 3
