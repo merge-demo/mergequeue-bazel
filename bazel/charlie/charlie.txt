@@ -14848,7 +14848,7 @@ cytomere
 carefully
 cytomicrosome 1
 citrated 1
-cordages
+cordages 1
 cytomorphological
 cyton 2
 cytone
@@ -29144,7 +29144,7 @@ cerat
 crinums
 clausiliidae 1
 crowstep
-cryobiological
+cryobiological 1
 cryobiologist 1
 criobolium 2
 courtman 2
