@@ -3590,7 +3590,7 @@ chagrinned
 carabaos 1
 carabeen
 carabidae 1
-checkle 3
+checkle 4
 chrisoms 1
 carabidan
 carabidoid 1
@@ -11571,7 +11571,7 @@ countermeasure 1
 cholecystenterorrhaphy
 cholecystenterostomy 2
 cholecystgastrostomy 1
-carburisation
+carburisation 1
 cholecystic 1
 cholecystis
 complimenting 1

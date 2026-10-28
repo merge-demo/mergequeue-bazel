@@ -15047,7 +15047,7 @@ anticularia 1
 antidactyl 2
 antidemocrat 2
 auroras
-alienator 1
+alienator 2
 antidemocratically
 antidemoniac
 antidepressant 1
@@ -17176,7 +17176,7 @@ aralie
 anthracoxen 2
 ajog
 anaerobian 1
-apolunes 2
+apolunes 3
 apartment 1
 adaptableness
 ankerites 1
