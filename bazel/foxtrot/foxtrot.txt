@@ -10360,7 +10360,7 @@ frontcourt 2
 fructus 2
 folkmote 2
 foreschooling 1
-fragrances
+fragrances 1
 foreboard 1
 feldspathization 2
 francium 2
