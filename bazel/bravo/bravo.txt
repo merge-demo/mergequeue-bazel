@@ -14100,7 +14100,7 @@ blasters 2
 bugged 2
 butsudan 1
 brekkle 5
-bumbaze 1
+bumbaze 2
 brighteyes 1
 birdlore
 brachiosaur 2
@@ -14674,7 +14674,7 @@ brasils 1
 brasque
 bloc 2
 bullwhack 3
-brassages 1
+brassages 2
 brassard 2
 briefing 4
 brassart
