@@ -7442,7 +7442,7 @@ catdom 2
 ceramics
 cledge 2
 ceramium
-ceramographic
+ceramographic 1
 cinnamic 1
 canvass 1
 citified
@@ -16202,7 +16202,7 @@ counterreligion 1
 cline 1
 clines 1
 caudexes 1
-clinger
+clinger 1
 crankness
 crossbeak 1
 clingfishes
