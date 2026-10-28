@@ -2522,7 +2522,7 @@ eparcuale
 epitomisation 2
 eulytite 1
 equitriangular 5
-excerebrate
+excerebrate 1
 eviration 3
 emesidae 3
 entoiled
@@ -9518,7 +9518,7 @@ expansively 1
 essences 2
 evenhead 3
 eugenesis 1
-epimorphism 3
+epimorphism 4
 extrasolar 1
 exempt 1
 envois 1
