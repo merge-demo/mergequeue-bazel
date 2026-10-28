@@ -257,7 +257,7 @@ geologizing 2
 ghostlike 1
 gambrelled
 glamorous 4
-guao 2
+guao 3
 gemless 2
 glaires 2
 gizmo 3
@@ -2540,7 +2540,7 @@ gigmania
 gained 4
 guessive 1
 generalise 3
-gynandrous 4
+gynandrous 5
 graciously 6
 glorifying 2
 gallfly 1
@@ -10263,7 +10263,7 @@ globulitic 1
 goers 2
 galeproof 1
 gregarious 4
-guinness 4
+guinness 5
 greyback 1
 gumbos 3
 getid 3
