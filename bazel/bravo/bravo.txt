@@ -5737,7 +5737,7 @@ bechance
 belittle
 bailees 2
 burnettize 5
-bewailingly
+bewailingly 1
 bamboozled 5
 bonos 1
 bretwaldaship 1
@@ -11241,7 +11241,7 @@ benday 2
 bertrand 3
 blotto 1
 blottto 2
-britt
+britt 1
 botteghe
 bloodguiltiness
 begirdled 1
@@ -13172,7 +13172,7 @@ bangtail
 brachycephalize 1
 bourlaw 2
 bowtel
-borty 3
+borty 4
 britannica
 borwort
 bumper 2
