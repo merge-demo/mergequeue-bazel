@@ -1869,7 +1869,7 @@ executrix 2
 eimak 1
 exulted 2
 eulima 3
-euphonious
+euphonious 1
 eleutherodactyl 5
 ep 4
 eddy 2
@@ -2879,7 +2879,7 @@ elder 5
 epitympa
 effable 2
 estoppels 4
-eleutherophobia 2
+eleutherophobia 3
 elaphomycetaceae
 easygoingness 1
 encephalalgia
@@ -6795,7 +6795,7 @@ entiris 7
 extinguishing 3
 exasperate 2
 embryoniform 3
-entitatively 3
+entitatively 4
 entitle 3
 elixed
 evangelistarion 4
