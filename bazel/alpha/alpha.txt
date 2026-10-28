@@ -2529,7 +2529,7 @@ afdecho 1
 aconital
 aconite 2
 aconitia 2
-aisteoir 1
+aisteoir 2
 aconitine
 abolitionism 2
 atypical 1
@@ -4275,7 +4275,7 @@ adrenalin 3
 aparejo 2
 adrenalize 2
 alnoite 1
-amianth 2
+amianth 3
 archconspirator
 anneslia 1
 acilius 3
