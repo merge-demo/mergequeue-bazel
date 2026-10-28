@@ -12508,7 +12508,7 @@ chromoplast
 congelation 1
 countergauger 4
 charmer 1
-coachmaking
+coachmaking 1
 cassino 1
 chrysorin 1
 corimelaenidae
@@ -29938,7 +29938,7 @@ crossness
 cladophorales 3
 crossopt 2
 carposporangia
-crossopterygii
+crossopterygii 1
 chromonema
 crossosomataceous
 contrahent
