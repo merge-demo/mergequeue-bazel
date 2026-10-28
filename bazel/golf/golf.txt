@@ -764,7 +764,7 @@ gladsomer 2
 gawkily 5
 geometrically 7
 graywether 1
-galvanotherapy 3
+galvanotherapy 4
 geomorphic 4
 galvanotropism 2
 guntub 2
@@ -5285,7 +5285,7 @@ galoubet 5
 gringolee 3
 gammers 2
 glooming 2
-guarea 3
+guarea 4
 glister 4
 grenier 1
 glibnesses 3
@@ -10450,7 +10450,7 @@ gastronomically 6
 grimacing 3
 gladsomely
 gummaking
-gjetost 6
+gjetost 7
 gallotannic 5
 gentleheartedly 5
 gundalow 2

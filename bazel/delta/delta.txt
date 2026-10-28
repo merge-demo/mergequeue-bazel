@@ -5858,7 +5858,7 @@ dermatocoptic 2
 deprecable 1
 deprecating 2
 doorbrand 1
-desolations
+desolations 1
 diachoresis 1
 domal
 demeaning 3
@@ -13221,7 +13221,7 @@ dorsocephalad
 disconcertment 1
 dyspnoeal 2
 dropkicks 1
-deserveless 1
+deserveless 2
 desoxyribonucleic
 droopily 1
 demothball
@@ -15022,7 +15022,7 @@ defeatism 3
 disarrangements 2
 dolcissimo
 distrains 1
-distinctify 3
+distinctify 4
 determ 1
 doggerel 2
 doggerelism 3
@@ -17426,7 +17426,7 @@ drossel 1
 diabology 1
 dyspituitarism 2
 drosser 2
-drawdown 1
+drawdown 2
 dagaba 4
 dedicate 1
 dilatorily 3
