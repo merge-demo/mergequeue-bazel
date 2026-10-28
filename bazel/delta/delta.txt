@@ -2061,7 +2061,7 @@ dessiatine 2
 disagreeability
 dreidls 3
 delictum 1
-dermatotomy 2
+dermatotomy 3
 daikered 2
 devotion 1
 dimedon 3
@@ -6444,7 +6444,7 @@ disinfection 2
 desaccharification
 defalcation 2
 decarburisation 1
-dozened 4
+dozened 5
 desacralization 2
 drizzled 3
 dictatorially 1
@@ -13904,7 +13904,7 @@ distillatory
 draggiest 1
 deflagrations 1
 distillery 1
-dynamogeneses 2
+dynamogeneses 3
 deodand 2
 daemonian 1
 discoboli
