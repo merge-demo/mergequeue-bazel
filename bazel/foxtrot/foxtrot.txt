@@ -7155,7 +7155,7 @@ footfault
 fricassees 4
 flimflammery 1
 footfolk 2
-ficklewise 3
+ficklewise 4
 fruticulture 3
 flabel 3
 flumerin 3
@@ -7236,7 +7236,7 @@ filature 4
 fridays 1
 fleetings 3
 flanderkin
-fb 3
+fb 4
 fecial 3
 flashback 3
 famishing
@@ -8993,7 +8993,7 @@ flixweed
 fuster
 fourrier 1
 flagellates 1
-foelike 3
+foelike 4
 feature
 foursquareness 3
 faustian
