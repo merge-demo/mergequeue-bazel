@@ -7236,7 +7236,7 @@ filature 4
 fridays 1
 fleetings 3
 flanderkin
-fb 3
+fb 4
 fecial 3
 flashback 3
 famishing
