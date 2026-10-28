@@ -1581,7 +1581,7 @@ gismos 4
 gondoliere 2
 globicephala 4
 gymnura 4
-gauntlet 1
+gauntlet 2
 gutteral 2
 gulanganes 2
 galleria 1
@@ -4875,7 +4875,7 @@ gatherer 6
 goldfinnies 1
 growlingly 7
 gablatores 3
-gunnen
+gunnen 1
 gaff 1
 gallybagger 1
 guttersnipe 3
@@ -6350,7 +6350,7 @@ gonake 2
 gradating 3
 goethian
 gam 4
-groceries 2
+groceries 3
 geotropism 2
 goety 3
 gummage 3
