@@ -6385,7 +6385,7 @@ glossophaga 4
 gulmohar 3
 galloped
 gamesomeness 3
-grieve 1
+grieve 2
 gigget 6
 gummites 2
 gipsiologist 3
@@ -7939,7 +7939,7 @@ grandaunt 2
 gheg
 gadolinic 3
 glairy 1
-gainless 1
+gainless 2
 greenhorn 5
 granddaughter 1
 giglets 4
@@ -9318,7 +9318,7 @@ groins 3
 grolieresque 4
 gruffness 1
 granulative 4
-glycerole
+glycerole 1
 guessing 3
 goldenback 2
 giggles 4
