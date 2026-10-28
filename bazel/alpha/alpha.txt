@@ -5259,7 +5259,7 @@ ampitheater 2
 attackable 2
 anapterygotous 1
 alingual 3
-anticlinal
+anticlinal 1
 anapophysial 2
 ammonifier 1
 affine 1
