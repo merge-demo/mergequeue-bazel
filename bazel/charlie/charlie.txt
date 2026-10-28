@@ -14541,7 +14541,7 @@ choppy
 cistercianism 1
 cisternae 3
 cariocas 1
-cisternal 1
+cisternal 2
 cornier 1
 compotier 1
 cystic 1
@@ -31694,7 +31694,7 @@ cusk 2
 collodium
 cragsman
 cusparidine 1
-cuspate 1
+cuspate 2
 cusped 1
 clomped
 cuspid 2
