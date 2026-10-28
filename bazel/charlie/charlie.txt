@@ -25050,7 +25050,7 @@ cuprotungstite 1
 cordwainer
 choleraic
 cloves 2
-core
+core 1
 corecipient 1
 corectome 1
 cracovienne 2
@@ -29366,7 +29366,7 @@ cryptophthalmos 2
 correspond
 commemorable
 counterdemand 1
-countian
+countian 1
 cryptopyic 1
 cambistry 2
 characterizers
