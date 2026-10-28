@@ -7351,7 +7351,7 @@ dodunk 2
 detersiveness 2
 disunions 3
 detestation 3
-decomponent 1
+decomponent 2
 detestations 3
 dethronement 2
 diminute 1
@@ -12520,7 +12520,7 @@ disinclined
 disinclining 4
 dolichotmema 3
 disindividualize 1
-doorkeep
+doorkeep 1
 dicotyledonary 2
 disinfectants 2
 drafter 1
@@ -16295,7 +16295,7 @@ downloading 1
 downness
 dermographic 3
 disenthralls 2
-dvaita
+dvaita 1
 downpipe 2
 downplay
 downplays
