@@ -1702,7 +1702,7 @@ ersh 1
 ergophile 1
 encapsulations 4
 eyedot 3
-expediential 2
+expediential 3
 exploder 3
 evener 2
 exaggerating 2
@@ -7159,7 +7159,7 @@ envisioning 1
 epistolising 2
 enshadow 2
 exoner 4
-episterna
+episterna 1
 effectuation
 envolume 6
 embarment
