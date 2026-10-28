@@ -666,7 +666,7 @@ folklorish 3
 fellow 2
 feijoa 2
 fishwood 3
-finenesses 1
+finenesses 2
 fornicatrices 2
 familiarization 6
 fresser 1
@@ -6556,7 +6556,7 @@ fleetly 3
 funereal 1
 foretack 1
 flamless 1
-furrings 2
+furrings 3
 flibbertigibbets 4
 flysches 8
 flattened 5
@@ -6730,7 +6730,7 @@ filamentous 4
 foramens 3
 fibroadenoma 2
 filipina
-fremt 2
+fremt 3
 fomalhaut 3
 folliculin 3
 fanny 1
@@ -11044,7 +11044,7 @@ fermented 5
 fumuli 5
 fungated 2
 fere 2
-fascias 3
+fascias 4
 funambulator 1
 feels 2
 faunological 2
