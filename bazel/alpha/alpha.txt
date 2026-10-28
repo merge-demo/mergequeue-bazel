@@ -14787,7 +14787,7 @@ affreighter 1
 anticensorial
 atomically 1
 amusee
-ammonitish
+ammonitish 1
 achor 2
 antidromal
 anticensorious 3
@@ -20324,7 +20324,7 @@ arsenicked 1
 aphelia 1
 afterwards
 arseniferous 3
-azofy
+azofy 1
 autometry
 amendments 1
 autolith 1
