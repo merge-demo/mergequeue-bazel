@@ -2921,7 +2921,7 @@ butlerdom 1
 bankweed
 barefacedness 2
 bearers 1
-bioenvironmentaly
+bioenvironmentaly 1
 baguettes 1
 blind
 benefactor 1
@@ -4898,7 +4898,7 @@ bomarea
 beechwood 1
 bright 1
 bourbons 3
-belaud 1
+belaud 2
 blackeyes 1
 bolderian
 biguttate 1
@@ -9004,7 +9004,7 @@ besmuts 1
 biometries
 bion
 byon 3
-brasqued 4
+brasqued 5
 bionditional 3
 bionics 2
 brachyprosopic
