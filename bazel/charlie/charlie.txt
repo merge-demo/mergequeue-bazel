@@ -24353,7 +24353,7 @@ circumflex 1
 cool 2
 cooled 1
 changepocket
-crosshairs
+crosshairs 1
 cavally 3
 cooley 1
 capitatum
