@@ -2222,7 +2222,7 @@ gooseskin 1
 goaves 3
 gemwork 3
 gastrolith 4
-gymnosperms 3
+gymnosperms 4
 galas 3
 gaster 1
 gastrocatarrhal 2
@@ -8957,7 +8957,7 @@ gothicity 2
 gall 1
 genuclast 1
 genteel 3
-getae
+getae 1
 gallicola 5
 grizzlyman 4
 greenth 3
