@@ -4875,7 +4875,7 @@ gatherer 6
 goldfinnies 1
 growlingly 7
 gablatores 3
-gunnen
+gunnen 1
 gaff 1
 gallybagger 1
 guttersnipe 3
@@ -6350,7 +6350,7 @@ gonake 2
 gradating 3
 goethian
 gam 4
-groceries 2
+groceries 3
 geotropism 2
 goety 3
 gummage 3
