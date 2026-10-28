@@ -4225,7 +4225,7 @@ chinatown 1
 care 1
 citeable
 coerect 1
-coronated 2
+coronated 3
 carecloth 2
 cadetcy 1
 cared
@@ -8307,7 +8307,7 @@ corallet
 choyroot 1
 chalinitis
 chalkboard 2
-chalked
+chalked 1
 chalky
 chalkiest
 commissions
@@ -8492,7 +8492,7 @@ coe
 capparidaceous 2
 coquillage
 contrastively 1
-champian 1
+champian 2
 copyholder 1
 champignon 2
 champignons 1
@@ -8688,7 +8688,7 @@ cheiloplasties
 chantry 1
 chanukah
 chaology
-chaori 2
+chaori 3
 campholide 2
 credibilities
 chaotic
@@ -9053,7 +9053,7 @@ cymblings
 cervantist 1
 charmingest
 chepster 1
-charmingness
+charmingness 1
 charmless 3
 charmlessly 3
 charmonium 1
