@@ -4429,7 +4429,7 @@ bereavement 1
 boojum 2
 beclog 2
 becoiffed
-bulkiness
+bulkiness 1
 bludging 1
 beclogs 1
 bretonian
