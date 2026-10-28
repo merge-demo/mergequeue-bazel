@@ -16891,7 +16891,7 @@ clueing 1
 clueless 1
 cephalothorax 1
 clisiocampa 1
-cluing 1
+cluing 2
 chwas 1
 cheyney 1
 charca 1
@@ -18812,7 +18812,7 @@ cenobian 2
 commend 4
 contemplated 1
 colessor 2
-colessors
+colessors 1
 conventionalization 2
 compliers 1
 colet
