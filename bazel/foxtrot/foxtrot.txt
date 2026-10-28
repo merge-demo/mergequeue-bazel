@@ -1469,7 +1469,7 @@ flavorings
 fruiter 1
 favourable 2
 friedman 2
-fiqh 1
+fiqh 2
 flamer 1
 foreshows 3
 fabulate 5
@@ -2520,7 +2520,7 @@ fastballs 1
 frush 3
 flunky 4
 favaginous 4
-foulmouth 4
+foulmouth 5
 formaldehyde 5
 feverlike 4
 frondescent 4
