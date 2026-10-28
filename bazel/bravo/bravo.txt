@@ -1121,7 +1121,7 @@ belonesite 2
 bairns
 bootful 1
 berne 2
-banquets 1
+banquets 2
 backwall
 borates 3
 botete 1
@@ -8569,7 +8569,7 @@ bringing 1
 bearlike 1
 bibliothecas 1
 bimillenial 1
-billiard 3
+billiard 4
 bellyfull 1
 bioactivity 2
 bronchial 3
