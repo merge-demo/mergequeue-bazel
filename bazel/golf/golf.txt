@@ -355,7 +355,7 @@ gantlets 6
 gley 1
 graphed 2
 gasogenic 4
-gorefish 1
+gorefish 2
 gangrenous 4
 gunsmith 3
 goniometrical 3
@@ -10290,7 +10290,7 @@ gourmet 4
 guitarist 2
 gelandelaufer 4
 gentlewomanish 1
-gibblegabble 6
+gibblegabble 7
 gastrulating
 guitarists 1
 grossularite 3
