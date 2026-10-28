@@ -12043,7 +12043,7 @@ champlev 2
 choruses 3
 chorusing 1
 chanceries 1
-crisp
+crisp 1
 countermachination 1
 crusca 2
 caruage 1
