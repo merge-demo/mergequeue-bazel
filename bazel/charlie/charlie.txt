@@ -4818,7 +4818,7 @@ cavalierish 1
 concaving 2
 connotive 2
 chem 1
-crosspost
+crosspost 1
 cressida
 conjuror
 contrariantly 1
