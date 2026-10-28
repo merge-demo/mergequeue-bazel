@@ -2389,7 +2389,7 @@ dino 1
 decidedly 1
 dewclaw 1
 decidence 2
-destabilized 1
+destabilized 2
 dwyka 4
 deciders 3
 dubitante
@@ -4489,7 +4489,7 @@ disjointedly 1
 duomachy 1
 devalorize 3
 developmentist
-dysphoric
+dysphoric 1
 deemphasizes 1
 dulnesses
 deception 3
@@ -14887,7 +14887,7 @@ differingly 1
 dormancy 3
 drail 2
 dodderers
-dodders 1
+dodders 2
 dago
 doddie 1
 delitous 3
@@ -17521,7 +17521,7 @@ drugs
 druidess 4
 dunghilly 2
 druidical 2
-denumeral 2
+denumeral 3
 disulfuric 2
 druidisms 2
 decertificaton

@@ -11744,7 +11744,7 @@ bigeyes 1
 bacteriopurpurin
 barrens 3
 bucephala
-biology 2
+biology 3
 beringleted 2
 backed
 bobstays
@@ -13352,7 +13352,7 @@ bardesanist 1
 beholds
 baggers 1
 batons 2
-bellicosity 2
+bellicosity 3
 bunder 1
 bothnian
 bothnic
@@ -13763,7 +13763,7 @@ bezil 3
 bestrowed 3
 bovinities 1
 begazes 2
-buffet 2
+buffet 3
 blesseder 2
 bedlam
 bogs
