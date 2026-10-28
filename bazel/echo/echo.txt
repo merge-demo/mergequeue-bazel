@@ -13325,7 +13325,7 @@ eyewear 3
 encomendero 1
 expone 2
 ephoralty 2
-exponency
+exponency 1
 extrared 2
 educated 1
 exponentiates 1
