@@ -6871,7 +6871,7 @@ bondservant 5
 basalia 1
 beseam
 bisannual
-bluegills 1
+bluegills 2
 birlers 4
 beshake 2
 bentinck 1
@@ -16904,7 +16904,7 @@ brahm 4
 bugbane 1
 beaume
 bimetallists
-bugbearish
+bugbearish 1
 burdened 1
 barretry 2
 brassbound
