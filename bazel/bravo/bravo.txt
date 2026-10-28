@@ -7045,7 +7045,7 @@ bola 2
 byre 2
 beknots
 biodegrade 2
-barbute
+barbute 1
 billiardist 1
 besouth 2
 blaming 2
@@ -18153,7 +18153,7 @@ bunco 1
 benching 1
 butyn 1
 botanicas
-bashless 3
+bashless 4
 bacillicide 1
 basters 4
 byzant 2
