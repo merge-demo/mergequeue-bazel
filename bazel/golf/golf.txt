@@ -1581,7 +1581,7 @@ gismos 4
 gondoliere 2
 globicephala 4
 gymnura 4
-gauntlet 1
+gauntlet 2
 gutteral 2
 gulanganes 2
 galleria 1
