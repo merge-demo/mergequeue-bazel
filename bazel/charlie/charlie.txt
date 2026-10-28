@@ -1151,7 +1151,7 @@ calcivorous
 chapmanship
 countermark 2
 calcography 3
-culturology
+culturology 1
 calcsinter 2
 chinnam 2
 cranioclasis 1
@@ -16949,7 +16949,7 @@ caviar
 clupien 2
 cenotaphs
 choledochoplasty 4
-consols
+consols 1
 cluricaune 2
 clusia
 clusiaceae
@@ -31733,7 +31733,7 @@ custodee 2
 custodian
 custodians 3
 coenurus 3
-custodianship 1
+custodianship 2
 circuited 2
 custodier 1
 custodies 3
