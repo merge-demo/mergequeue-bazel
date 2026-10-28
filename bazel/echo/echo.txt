@@ -11467,7 +11467,7 @@ englishness 1
 extrasyllogistic 2
 erythraeidae 3
 evictions 2
-explanatory
+explanatory 1
 emboldens 3
 eleocharis 2
 evictor 1
