@@ -6765,7 +6765,7 @@ banshee 2
 bitte
 bedscrew 2
 boteler 1
-bumpier 1
+bumpier 2
 busulfan 2
 busying 2
 berrichonne 1
@@ -8680,7 +8680,7 @@ bimbisara
 bracketted 2
 basibranchial 1
 besoothes 2
-bromopnea 2
+bromopnea 3
 booklike
 borborygmies
 barbet 1
