@@ -6406,7 +6406,7 @@ cauterism
 carafe 1
 correcter
 conchfish
-cauterizer 2
+cauterizer 3
 cauterizes
 caution
 cautionary
@@ -24315,7 +24315,7 @@ chapeau 1
 creation 1
 crull 1
 creatable 2
-classist 1
+classist 2
 corncutting
 coarrange 1
 cookeite 2
