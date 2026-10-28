@@ -6597,7 +6597,7 @@ bukh 3
 bodyplate 1
 beant 2
 bereaves 3
-boninesses 2
+boninesses 3
 basioccipital 1
 berede 3
 berengaria 4
