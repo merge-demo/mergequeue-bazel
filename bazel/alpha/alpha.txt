@@ -7197,7 +7197,7 @@ abridgements
 antica 1
 amaranthoid 1
 awlworts
-alagarto 3
+alagarto 4
 ankoli 1
 alnagership
 accipter 1
@@ -9593,7 +9593,7 @@ antirennet 5
 antiepiscopist
 aluconinae
 asaph 1
-ambier 1
+ambier 2
 aglycones 1
 araneae
 agendaless 1
@@ -16245,7 +16245,7 @@ agelaius 1
 agronomically
 autodyne 1
 autocorrelation
-ashlared
+ashlared 1
 amit 1
 antitarnishing 1
 actuarian 2
@@ -19365,7 +19365,7 @@ assure
 arithmetics 3
 argals 2
 arrayer
-acolytus 2
+acolytus 3
 ambrosian 2
 allergins
 anoplothere 1
