@@ -10360,7 +10360,7 @@ englacially 2
 excitability 1
 edgestone 4
 embezzlements 4
-exhibitive 3
+exhibitive 4
 equibiradiate 3
 ellagic 1
 eloign 4
@@ -11747,7 +11747,7 @@ echopraxia 2
 ethoxyls 1
 explanations 1
 envision
-esc
+esc 1
 eveque
 episcopise 3
 ensurer 3
