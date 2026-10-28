@@ -12416,7 +12416,7 @@ betsimisaraka 1
 behap 2
 bicapitate 3
 backcast 1
-begloom
+begloom 1
 bonbons
 batell
 barker
@@ -14159,7 +14159,7 @@ brackened 3
 bromochloromethane 1
 buckboard 1
 blacken 2
-beseeched 1
+beseeched 2
 bilifaction 1
 beadleship 4
 belgophile 2

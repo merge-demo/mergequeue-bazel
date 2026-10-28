@@ -8169,7 +8169,7 @@ conduceability 1
 chairborne 2
 cabined 1
 copartners 1
-choriomas 2
+choriomas 3
 cardiovisceral 1
 chairing
 carpetbagging
@@ -10480,7 +10480,7 @@ conceptualizing 2
 childlike
 childness
 childre 4
-comicality 1
+comicality 2
 chalicotherium 1
 children 1
 cainogenesis 2
@@ -24353,7 +24353,7 @@ circumflex 1
 cool 2
 cooled 1
 changepocket
-crosshairs
+crosshairs 1
 cavally 3
 cooley 1
 capitatum
