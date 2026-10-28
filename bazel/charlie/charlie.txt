@@ -13436,7 +13436,7 @@ cyesis 2
 cif 1
 countergage 1
 camerawork 2
-cig 2
+cig 3
 cigarette
 cystenchyma 1
 cigarfish
