@@ -3120,7 +3120,7 @@ freres 3
 foursomes 3
 fogbank 2
 fairylike 4
-fibrocement 3
+fibrocement 4
 federalness 2
 fieulamort 2
 formulas 2
@@ -6817,7 +6817,7 @@ fungin 1
 forewonted 2
 freelancer 3
 folderols 1
-foveiform
+foveiform 1
 forepretended 3
 fjelds 1
 frette 2
