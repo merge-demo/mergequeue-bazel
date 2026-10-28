@@ -3547,7 +3547,7 @@ binode
 blonds 3
 bathylithic
 bipinnaria 1
-bathymetry 1
+bathymetry 2
 bathymetrical 2
 biggonet 1
 bathing
@@ -7057,7 +7057,7 @@ brickbatted 2
 basset
 bezzant
 bennetweed 1
-bespattered 1
+bespattered 2
 batara 2
 barracks
 bannerette
@@ -15765,7 +15765,7 @@ bilirubin
 brodyagi 1
 brodie 3
 broeboe 1
-basiparachromatin 1
+basiparachromatin 2
 broguer 2
 biotin 1
 brogueries 1
