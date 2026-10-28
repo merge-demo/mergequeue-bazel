@@ -161,7 +161,7 @@ erotopath 5
 enunciations 3
 earthly 2
 enriched
-exequy 2
+exequy 3
 earmarked 2
 eelbobber
 expiring 2
@@ -12952,7 +12952,7 @@ epistemophilia 2
 ecologist 2
 entotic 3
 epitonion 2
-empurple 2
+empurple 3
 enchafe
 enhardy 2
 examines 1
@@ -13735,7 +13735,7 @@ enterostomies 3
 editable 3
 encephalomeningitis 6
 extinctions 1
-enantiopathic
+enantiopathic 1
 euphorbia 3
 ententophil
 ectoenzym
