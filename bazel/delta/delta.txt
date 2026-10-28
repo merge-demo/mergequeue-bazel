@@ -3536,7 +3536,7 @@ disembarrassment 3
 dismissable 1
 doom 2
 defrayers 2
-defraying
+defraying 1
 desaturate
 desiccated 1
 dagobas 4
