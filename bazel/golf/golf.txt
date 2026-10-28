@@ -898,7 +898,7 @@ gueparde 4
 glutathione 1
 geognost 4
 grassfire
-gobioid 4
+gobioid 5
 gusseted 1
 goosebird
 gez 1
