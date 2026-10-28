@@ -11283,7 +11283,7 @@ evaporability 1
 emanating 4
 enwrapped
 ectoplasy 1
-extraversive 2
+extraversive 3
 eutaxy 2
 eikonogen 1
 evaporates 3
