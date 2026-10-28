@@ -1329,7 +1329,7 @@ fatherly
 fartherer 2
 feest 2
 features 4
-frogginess 5
+frogginess 6
 fendering 5
 fbi 3
 fellani
@@ -5043,7 +5043,7 @@ faithbreaker 1
 faconne 1
 fulmarus 4
 flapdock 2
-fluvialist 3
+fluvialist 4
 familiarized 4
 flowered 2
 fissures 1
@@ -7417,7 +7417,7 @@ fasciolar 3
 flagellariaceae 4
 floreate 4
 fasciculation 3
-fey 1
+fey 2
 figgum
 fille 2
 falconers 2
