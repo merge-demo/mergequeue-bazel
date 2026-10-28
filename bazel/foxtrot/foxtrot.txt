@@ -2037,7 +2037,7 @@ frogmouth 2
 fourpounder 3
 ferngrower 1
 frontspiece 3
-feinter 1
+feinter 2
 feudary 2
 fundi 2
 facedown 1
@@ -2987,7 +2987,7 @@ freethinker 2
 ferrels 4
 fellies 3
 fezzed 3
-favosite 1
+favosite 2
 fluvanna 2
 fallway 2
 fadings 4
@@ -11457,7 +11457,7 @@ furrowy
 facecloth 5
 flap 2
 furrowing 4
-forletting 3
+forletting 4
 furrowlike
 forewish 5
 furcately 1
