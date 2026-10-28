@@ -2989,7 +2989,7 @@ buat 2
 burrel 4
 barroom 4
 barruly 3
-bedumb
+bedumb 1
 barsac 1
 backhatch
 becowarding
