@@ -1756,7 +1756,7 @@ extendedly 3
 epanorthoses 1
 eer 3
 eyepiece 4
-enrapturer
+enrapturer 1
 everard 4
 extg 3
 embattle 3
