@@ -11747,7 +11747,7 @@ echopraxia 2
 ethoxyls 1
 explanations 1
 envision
-esc
+esc 1
 eveque
 episcopise 3
 ensurer 3
