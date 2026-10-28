@@ -796,7 +796,7 @@ exodus
 epeira 2
 eurytopic
 encephalography 1
-enter 3
+enter 4
 euplotid
 existability 2
 extravisceral
@@ -5430,7 +5430,7 @@ ecclesial 3
 east 5
 engirdles 3
 ebonige 2
-enfester 2
+enfester 3
 ed 2
 equid 1
 emigrants 1
@@ -5927,7 +5927,7 @@ edeitis 1
 enfief 1
 enhancing
 enharbour 1
-electrometallurgy
+electrometallurgy 1
 exocytosis 3
 endsweep 2
 enharden 2
