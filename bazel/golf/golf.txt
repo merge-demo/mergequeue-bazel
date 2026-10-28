@@ -1056,7 +1056,7 @@ gangliomas 6
 ganglionate 2
 ganglionated 2
 gymnoconia 6
-glyceridic 2
+glyceridic 3
 gift 1
 gymnospermism 2
 gruffish 2
@@ -3082,7 +3082,7 @@ gizmos 1
 gaolbird 1
 gaga 4
 geadephagous 3
-glowworms 2
+glowworms 3
 gucki 2
 geocline 3
 grits 1
