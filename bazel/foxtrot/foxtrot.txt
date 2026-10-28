@@ -2509,7 +2509,7 @@ faction 1
 farted 1
 facinorousness
 fluxgraph
-fatihah
+fatihah 1
 fuzzily 2
 faldworth 3
 foremeant 1
@@ -2987,7 +2987,7 @@ freethinker 2
 ferrels 4
 fellies 3
 fezzed 3
-favosite 2
+favosite 3
 fluvanna 2
 fallway 2
 fadings 4
