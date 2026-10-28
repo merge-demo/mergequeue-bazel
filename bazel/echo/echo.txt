@@ -6846,7 +6846,7 @@ entrepreneuse 1
 ectocarpales
 electrostatical 2
 examiningly 1
-entomical 2
+entomical 3
 empoisoning 2
 electroimpulse
 entomol 3
@@ -11177,7 +11177,7 @@ evadingly 1
 egre
 emprime 3
 elinguation 2
-embussed
+embussed 1
 embottle 1
 electragist 3
 enviroment
