@@ -784,7 +784,7 @@ ghrush 5
 gandergoose 3
 girllikeness 3
 grinnellia
-gamashes 1
+gamashes 2
 goombay 1
 gastrospasm 1
 guamuchil 3
@@ -6316,7 +6316,7 @@ gettable 2
 gullible 3
 gigartinaceous 7
 gunmen 2
-gargantua 1
+gargantua 2
 gauster 3
 globetrotters 2
 geochemists 1
