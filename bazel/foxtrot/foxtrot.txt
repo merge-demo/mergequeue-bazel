@@ -7435,7 +7435,7 @@ firefall 2
 floperoo 3
 forevalue 2
 firstship 3
-forcibility 1
+forcibility 2
 forcibleness 3
 filosa 3
 furnacite 2
@@ -9278,7 +9278,7 @@ frames 1
 frapler 1
 forename 1
 footmenfootpad 1
-fungologist 5
+fungologist 6
 fumarine 5
 foldwards 2
 fogrum 3
