@@ -8157,7 +8157,7 @@ brontophobia 2
 bash 1
 banishes 1
 buffalos
-baldpate 2
+baldpate 3
 byeman 1
 ballote 2
 bienly 4
@@ -16191,7 +16191,7 @@ bismuthiferous 1
 brothers 1
 blowdown
 barbudo
-braird 5
+braird 6
 bilbie 2
 brotherwort 1
 brotocrystal
