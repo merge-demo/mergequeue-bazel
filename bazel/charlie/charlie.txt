@@ -27233,7 +27233,7 @@ catbird 2
 coetus 3
 counterweigh
 counterweight
-counterweighted
+counterweighted 1
 counterweights 2
 counterwheel
 counterwilling 1
