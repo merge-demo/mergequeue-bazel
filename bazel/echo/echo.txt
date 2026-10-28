@@ -1771,7 +1771,7 @@ eyeseed 3
 entophytically 1
 eyeservant
 eyeshade 1
-exolve 2
+exolve 3
 enticingness 2
 euglenales 1
 enterocentesis 1
@@ -3080,7 +3080,7 @@ enshrine 2
 equilater 3
 emetia 1
 exhaustible 1
-equated 4
+equated 5
 excreters 2
 eardrop 2
 ellfish 2
@@ -11480,7 +11480,7 @@ ethonomic
 eutechnics
 escargatoire
 eucharis 2
-evidencing 3
+evidencing 4
 ethicophysical 2
 eonian 1
 enolized 2
@@ -13760,7 +13760,7 @@ effusely 1
 exodontist 2
 ethnize 2
 encloak 2
-exosperm 2
+exosperm 3
 evermo 4
 entea 1
 extispicious 2

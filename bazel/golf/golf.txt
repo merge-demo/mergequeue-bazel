@@ -2446,7 +2446,7 @@ gimels 4
 grillage
 gemmulation 2
 graniferous 1
-gotched 2
+gotched 3
 glycohemia 1
 ghoulish 1
 globally 4
@@ -4439,7 +4439,7 @@ glidingly 2
 gonosomal 1
 gymnasiarchy 5
 giddy 1
-gynomonoeciously 4
+gynomonoeciously 5
 galziekte 4
 galuchat
 glamours 5
@@ -9235,7 +9235,7 @@ grandees 1
 genethlialogic 2
 goliard
 grisly 1
-glagolitic 3
+glagolitic 4
 gravigrade 4
 grahamite 1
 grist 3
