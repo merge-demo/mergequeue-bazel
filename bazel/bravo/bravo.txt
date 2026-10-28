@@ -7921,7 +7921,7 @@ bibliothecae
 bibliothecarian 5
 bungalows 2
 batoka 1
-butic 1
+butic 2
 baseline 2
 butanone 1
 bowlders
@@ -14339,7 +14339,7 @@ brahmin 1
 behowl 1
 boxkeeper 2
 burnable 3
-brahminists 2
+brahminists 3
 brahmoism
 brahmsian 2
 barbicanage 1
@@ -17895,7 +17895,7 @@ bivium 3
 boundable
 bushelers 2
 bescurvy
-bushelfuls 1
+bushelfuls 2
 belabour 4
 bonytail 1
 buginese
