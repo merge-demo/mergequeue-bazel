@@ -6871,7 +6871,7 @@ bondservant 5
 basalia 1
 beseam
 bisannual
-bluegills 1
+bluegills 2
 birlers 4
 beshake 2
 bentinck 1
@@ -12773,7 +12773,7 @@ bakutu 1
 bobotee 2
 brutifying 2
 bookstall 1
-baudekin 3
+baudekin 4
 bookstand 1
 blemisher 4
 bookstores 1
@@ -15126,7 +15126,7 @@ byeworker 1
 buccinae 1
 baronduki
 beqwete 4
-boar 1
+boar 2
 bogier 1
 baw 1
 baldicoot 1
@@ -16904,7 +16904,7 @@ brahm 4
 bugbane 1
 beaume
 bimetallists
-bugbearish
+bugbearish 1
 burdened 1
 barretry 2
 brassbound
