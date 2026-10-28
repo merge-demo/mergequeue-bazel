@@ -567,7 +567,7 @@ erythrene 5
 escolars 1
 endoperitonitis 2
 effeminating 3
-emotively 1
+emotively 2
 episiorrhaphy 2
 echinulated 1
 endogastrically 3
@@ -8142,7 +8142,7 @@ episcopalianism
 elvet 1
 engineered 2
 elaeosaccharum
-enclosers 2
+enclosers 3
 elutriation 2
 ebenales 1
 embowelment
@@ -8194,7 +8194,7 @@ entomophthoraceae
 eons 3
 exergual 2
 empowered 2
-excalfaction
+excalfaction 1
 episiotomies 1
 episkeletal 1
 eequinoctium 1
