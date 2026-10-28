@@ -865,7 +865,7 @@ epistolizer 1
 eigenfunction 2
 erythrocytolysin 2
 electrocution 2
-encomiastical 2
+encomiastical 3
 endophyte 3
 entailed 4
 ectomorph 3
@@ -8739,7 +8739,7 @@ equivaluer 4
 exposited 1
 evulgation
 extempore 1
-effs
+effs 1
 ektexines 2
 emmergoose 1
 entombing
