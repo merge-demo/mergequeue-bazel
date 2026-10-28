@@ -3126,7 +3126,7 @@ fieulamort 2
 formulas 2
 frottages 2
 filoplume 2
-fibroelastic 2
+fibroelastic 3
 fountaineer 2
 finnick 2
 fibroenchondroma 4
@@ -3147,7 +3147,7 @@ fairlead 4
 fantastic 3
 foretokened 1
 functionals 1
-felsophyric 2
+felsophyric 3
 filtrating 2
 formerly 3
 fibromyitis 1
