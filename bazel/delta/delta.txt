@@ -957,7 +957,7 @@ domable 1
 dueful
 dadaistically
 drolushness 1
-detonational 3
+detonational 4
 departed 2
 dizzardly 3
 dardan
@@ -1540,7 +1540,7 @@ deacons
 demobilizes 1
 diphygenic
 deactivate 6
-discoglossid 1
+discoglossid 2
 distractedly
 dallies 2
 dicacodyl 1
@@ -4219,7 +4219,7 @@ drabbish
 delphine
 despiritualization 1
 diarrhetic 1
-delphinia 3
+delphinia 4
 downthrust
 disentranced 2
 disillude
@@ -14257,7 +14257,7 @@ dither 1
 deductibles 2
 dyspnoeic 1
 diffiding 1
-deporter
+deporter 1
 depravers 1
 deisms
 downcrying
