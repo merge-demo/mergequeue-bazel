@@ -2047,7 +2047,7 @@ flindosa 2
 forwander 5
 flatlander 1
 faunlike
-fogbows 1
+fogbows 2
 fascicule 2
 flaunting 3
 forfouchten 4
@@ -5907,7 +5907,7 @@ fulsamic 1
 folgerite 3
 fencepost 1
 foetalism 1
-furlers 1
+furlers 2
 frangent 6
 formlessness 2
 flockwise 2
