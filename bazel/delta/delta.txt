@@ -5774,7 +5774,7 @@ depolished 2
 deaconed 1
 depolishes 3
 depoliticized
-donia 3
+donia 4
 depoliticizes 2
 dredged
 dreck
@@ -6815,7 +6815,7 @@ desize 5
 decompositional 1
 devilmonger
 desklike 2
-diphrelatic
+diphrelatic 1
 dunks 1
 deskman 2
 desks 3
@@ -15178,7 +15178,7 @@ distributable 2
 dolabrate 2
 dialectalize
 doli 1
-disulphide 2
+disulphide 3
 dolcemente 1
 dolci 2
 dolciano 1

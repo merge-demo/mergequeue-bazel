@@ -1300,7 +1300,7 @@ former 3
 foxtails 1
 fructivorous 2
 fatbird 1
-fatefully
+fatefully 1
 fanaticise 3
 findability 2
 fernambuck 3
@@ -11611,7 +11611,7 @@ formulizer
 fragilely 2
 fermata 2
 fustics 4
-fussbudget 2
+fussbudget 3
 fixable 2
 forint 3
 facsimile
