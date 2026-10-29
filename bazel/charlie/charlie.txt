@@ -6366,7 +6366,7 @@ causticity
 conversion
 camatina 2
 cumaphytism 3
-causticly 1
+causticly 2
 counterexaggeration
 colicky 1
 chowed 1
@@ -8635,7 +8635,7 @@ changs 4
 chankings
 channel 1
 channelbill 2
-coendou
+coendou 1
 couching 1
 channeling 1
 clubbish 1
@@ -9055,7 +9055,7 @@ charmingest
 chepster 1
 charmingness 1
 charmless 3
-charmlessly 3
+charmlessly 4
 charmonium 1
 charms 2
 charneco 1
@@ -15449,7 +15449,7 @@ clarinet
 clarinetist 1
 conditione 1
 comether 1
-clarinetists 1
+clarinetists 2
 cadillac
 canvases 1
 contemporise 1
@@ -22402,7 +22402,7 @@ cnidoscolus
 chevy 1
 conification
 coniform 1
-cacana
+cacana 1
 corruptible
 costliness 2
 conyger 2

@@ -1411,7 +1411,7 @@ frequentage 3
 fatsos
 fossils 4
 fightwite
-femorofibular 2
+femorofibular 3
 formulators 3
 federacy
 fatbacks 4
@@ -1877,7 +1877,7 @@ frohlich 1
 fecundator 2
 fuligula 2
 feedwater 5
-fallow 1
+fallow 2
 fewer 3
 fecundize 3
 flintier 5
@@ -3178,7 +3178,7 @@ frisii 2
 fenceplay 2
 fisheries 5
 flowerier 1
-fatso 3
+fatso 4
 fossate 3
 freeloaders 6
 forthfare 2
