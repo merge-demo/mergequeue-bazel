@@ -1683,7 +1683,7 @@ guadua 1
 gastroduodenostomy 2
 gastritis 3
 ganodont 1
-gottfried 1
+gottfried 2
 gamed 3
 gommier 5
 grusian 1
@@ -7970,7 +7970,7 @@ getups 1
 grippy 1
 glandiform 3
 grandiosity 4
-gudok 2
+gudok 3
 gothonic 1
 ganglionectomy 3
 globing 3
