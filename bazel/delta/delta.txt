@@ -14982,7 +14982,7 @@ dogmatics 2
 disobstruct 2
 domestics 3
 dogberry
-dogberryism
+dogberryism 1
 dubbeh 4
 dogboat
 dolomites 1
