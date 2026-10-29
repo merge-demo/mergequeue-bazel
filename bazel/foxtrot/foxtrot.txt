@@ -4075,7 +4075,7 @@ formants 2
 foppishness 1
 finitude 4
 flushable 2
-fluking 1
+fluking 2
 frijoles 5
 finitudes 3
 frontage 4
@@ -6138,7 +6138,7 @@ fangled
 farthingless 5
 fishlines 4
 fabrique 1
-footblower 2
+footblower 3
 feely 2
 fecials
 flouted 4
