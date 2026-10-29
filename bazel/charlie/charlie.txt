@@ -15969,7 +15969,7 @@ ceder
 comfrey
 clerihews
 clerisies 1
-certifiably
+certifiably 1
 coinventor
 carryovers
 cobstone 2
@@ -23255,7 +23255,7 @@ coplotted
 corncockle 1
 cavaliere
 cockadoodledoo 1
-consubstantiate 2
+consubstantiate 3
 consubstantiated
 cycadales 1
 consubstantiating
