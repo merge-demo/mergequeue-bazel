@@ -16534,7 +16534,7 @@ birr
 bishops
 budzat 2
 bandeaux 2
-broadpiece
+broadpiece 1
 bisellium 1
 bisonant
 brutely 3
