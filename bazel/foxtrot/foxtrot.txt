@@ -4201,7 +4201,7 @@ fanions 2
 flummadiddle 2
 federals 1
 ferfathmur 2
-felonries 4
+felonries 5
 featherstitch 3
 foothold
 flittermmice 3
@@ -11269,7 +11269,7 @@ frabjous 2
 fernando
 flatters 4
 furanoid 1
-fricandeaus 2
+fricandeaus 3
 fantasticism 2
 familiarizer 2
 furlane 1
