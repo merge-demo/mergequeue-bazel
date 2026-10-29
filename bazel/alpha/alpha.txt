@@ -9713,7 +9713,7 @@ alveoli 3
 alveoliform 1
 aduncated
 aquatints
-alveololabial
+alveololabial 1
 achene 1
 ambries 1
 alveololingual 3
