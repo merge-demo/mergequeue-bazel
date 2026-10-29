@@ -2907,7 +2907,7 @@ fouettes 1
 floorcloth 2
 find 3
 febricide 1
-fibrose 2
+fibrose 3
 fimbricate 5
 featuring 3
 feudalists 2
