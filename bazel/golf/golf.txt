@@ -2630,7 +2630,7 @@ grendel 3
 geomorphist 1
 gypsyweed 1
 gramma 5
-gonocalyx
+gonocalyx 1
 gynecia 2
 galores 1
 grayware 5
