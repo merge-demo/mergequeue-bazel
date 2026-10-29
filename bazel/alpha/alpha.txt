@@ -11994,7 +11994,7 @@ archibuteo 1
 anarchy 3
 aerocolpos 1
 auberges 2
-antique
+antique 1
 almose 4
 anarchical 1
 anenergia 1
@@ -12815,7 +12815,7 @@ angioplasty 2
 androgyn
 asseize 2
 angiopressure 1
-acquaintance
+acquaintance 1
 angiorrhaphy
 angiorrhea 2
 armorwise
@@ -25102,7 +25102,7 @@ atmos 2
 archeress 1
 amphicondyla 2
 axiferous 2
-antimonarchists 4
+antimonarchists 5
 argumentation
 apothegms 1
 abaptistum
