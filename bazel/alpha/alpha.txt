@@ -10891,7 +10891,7 @@ amphib 1
 afrits
 ammonolyzing
 athwarthawse
-ammos
+ammos 1
 ammotherapy
 ammu 1
 amnesia 2
