@@ -6218,7 +6218,7 @@ activable
 amphioxis
 audile 1
 amyluria
-alchemise
+alchemise 1
 adjutantship 2
 aegerian
 aerolitics 1
