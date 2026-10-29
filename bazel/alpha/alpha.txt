@@ -326,7 +326,7 @@ acidifiers
 antiminsia 3
 abed 2
 acclimatizes 1
-anthophyte 1
+anthophyte 2
 anguis 2
 avar 2
 appeals
@@ -392,7 +392,7 @@ asteriscuses 1
 auditions
 acapnial 1
 acquitting 2
-antivice
+antivice 1
 asbestinize 1
 antinaturalness 4
 auxohormone 1
@@ -1816,7 +1816,7 @@ alackaday 1
 akoasma 1
 adduct 1
 antiketogenesis 2
-acephalus 1
+acephalus 2
 azotaemia 2
 atridean
 adolesced 1
@@ -25025,7 +25025,7 @@ aweary
 awmous 2
 awned
 angelhood 1
-awner 1
+awner 2
 acquires 3
 antiphonically
 androgynary
