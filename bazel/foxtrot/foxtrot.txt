@@ -2136,7 +2136,7 @@ fuchsite 1
 fosterling 3
 flagstone
 fluer 4
-fidepromissor 2
+fidepromissor 3
 filtered 4
 fuligulinae
 flaws 5
