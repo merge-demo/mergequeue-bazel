@@ -7120,7 +7120,7 @@ frigid 3
 foundress 2
 feeder
 ferly 3
-flanging
+flanging 1
 familarity 1
 footballs 2
 flinchers 3
