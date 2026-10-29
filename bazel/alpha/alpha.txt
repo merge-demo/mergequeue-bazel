@@ -7053,7 +7053,7 @@ adductive
 avick 2
 aphyllous 1
 autoist 1
-aquench 1
+aquench 2
 axolotl
 attiring 2
 akees 2
@@ -25120,7 +25120,7 @@ anagenesis 2
 acrosarc 1
 anhistic 2
 areography 2
-axinite 2
+axinite 3
 axiolite 1
 alimentiveness 4
 asterial 1
