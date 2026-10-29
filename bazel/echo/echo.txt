@@ -2736,7 +2736,7 @@ endways 1
 estadal 3
 enceint 1
 eleemosinar 2
-ebons 2
+ebons 3
 equipotent
 electees 3
 edentate 3
@@ -4873,7 +4873,7 @@ epidermatoid 4
 encoder 4
 episcopable 4
 embryogenetic 1
-enshrining 2
+enshrining 3
 engraven 2
 eria 6
 eupepticism

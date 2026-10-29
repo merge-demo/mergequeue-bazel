@@ -9525,7 +9525,7 @@ ablution 1
 ajutment 1
 asterikos
 aspidate 1
-anargyroi
+anargyroi 1
 ambassiate 2
 alonzo
 althorn 2
@@ -18515,7 +18515,7 @@ arboresque
 aardwolf 1
 apprizement 1
 anyplace
-arborical
+arborical 1
 arboricole 1
 addresses
 acceptees 1
@@ -19669,7 +19669,7 @@ attercrop 2
 apl
 aristae
 affirmatively 1
-aerobacteriological
+aerobacteriological 1
 alfarga
 aristate
 ascesis

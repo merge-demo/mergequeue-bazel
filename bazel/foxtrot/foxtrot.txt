@@ -6279,7 +6279,7 @@ footlock
 fluidmeter 2
 fearnought 2
 fakirism 1
-forceful 4
+forceful 5
 fluidounce 5
 factory 1
 fluigram 1
@@ -6593,7 +6593,7 @@ frounce 2
 foamflower 4
 flammulation
 firework 5
-forthcomer 3
+forthcomer 4
 frocks
 floriculturally 1
 fullness 1
