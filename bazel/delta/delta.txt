@@ -14542,7 +14542,7 @@ directrixes 1
 downpouring 3
 divisibility 1
 divisibilities
-divisible 1
+divisible 2
 division 1
 dollop 2
 degomme 2
