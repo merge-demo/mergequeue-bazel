@@ -2703,7 +2703,7 @@ guptavidya 1
 grippingly 4
 grabble 1
 gaud 3
-gestae 4
+gestae 5
 genyophrynidae 5
 geodesic 3
 gasolenes 2
@@ -3350,7 +3350,7 @@ groovelike 1
 garrulinae 3
 germifuge 4
 goog 2
-gaudeamuses
+gaudeamuses 1
 giftie 4
 guan 1
 gaults 4
