@@ -2606,7 +2606,7 @@ essaying 1
 embassies 3
 elysian 2
 electropathy 2
-electropathology
+electropathology 1
 electrophysiological 1
 eunectes 2
 electrocutioner 2
