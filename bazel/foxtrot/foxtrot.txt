@@ -819,7 +819,7 @@ fluctuations 3
 fanjet 2
 fastened 7
 flemings 3
-forerequest 3
+forerequest 4
 fiddlehead 3
 foveolarious 3
 frown 3
@@ -3178,7 +3178,7 @@ frisii 2
 fenceplay 2
 fisheries 5
 flowerier 1
-fatso 3
+fatso 4
 fossate 3
 freeloaders 6
 forthfare 2
@@ -3283,7 +3283,7 @@ feelings
 ficoidal
 fiddlecome 1
 fracedinous
-farewells 1
+farewells 2
 fiddlefaced 2
 fiddlerfish 2
 fraticellian 4
@@ -7425,7 +7425,7 @@ fawnlike 2
 fans 1
 firefang
 footmen 5
-ferrocerium 3
+ferrocerium 4
 forwarder 1
 filicides 3
 fileable 1

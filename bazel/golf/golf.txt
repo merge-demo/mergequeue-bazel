@@ -4587,7 +4587,7 @@ gilim 4
 graphometry 2
 glim 4
 galloper 3
-goobers 1
+goobers 2
 gagger 2
 grinter 1
 gladiole
@@ -8201,7 +8201,7 @@ granogabbro 1
 grapevines 3
 gentlemanlike 1
 galwegian 3
-gabbed 3
+gabbed 4
 gracilaria 3
 geopositive 5
 glutethimide 3
