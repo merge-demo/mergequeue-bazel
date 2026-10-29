@@ -25118,7 +25118,7 @@ chirotherium 1
 coinstantaneous
 corequisite 1
 corer
-combinantive 1
+combinantive 2
 corers
 cores
 carbonates 2
