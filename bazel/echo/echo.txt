@@ -6816,7 +6816,7 @@ escribing
 eutrophies 3
 efflation 4
 enwombing 4
-entitative
+entitative 1
 exostema 1
 elaphine 3
 enrooted 3
@@ -14020,7 +14020,7 @@ exordize
 enigmatography 4
 endothecia 1
 epitrophic
-electromotive 2
+electromotive 3
 exr 1
 enthrallingly 1
 enteroclisis
