@@ -1857,7 +1857,7 @@ bandied 1
 bilinear 1
 bandikai 2
 batrachoplasty 4
-biparty 4
+biparty 5
 bimetalism 2
 bandiness 1
 bascunan 2
@@ -6280,7 +6280,7 @@ bagfuls 3
 bevors 2
 benthoscope
 bemoat 3
-bulgar
+bulgar 1
 benthoses 2
 bacteriolysin
 backwashes 1
@@ -9418,7 +9418,7 @@ bedlids 4
 begeck 2
 bacteriostat
 babishly 1
-betassel 1
+betassel 2
 bookholder 1
 bulimulidae 2
 birgand 3
@@ -9917,7 +9917,7 @@ budders 3
 boget 2
 bedticking 1
 bordelaise 1
-bauson 2
+bauson 3
 bastardice 2
 bituminate 1
 bituminising 1
