@@ -15600,7 +15600,7 @@ clatter
 cartographers 1
 clattered
 coxcombries 2
-countering
+countering 1
 clatterer
 crucifier 1
 clattery 2
