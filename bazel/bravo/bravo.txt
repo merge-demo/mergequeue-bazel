@@ -9859,7 +9859,7 @@ barr
 bytownitite 4
 babysat 1
 barnacles 1
-beneficiaries 2
+beneficiaries 3
 bitser 1
 bitsy 1
 birled 1
@@ -13168,7 +13168,7 @@ bilobated 2
 besneer 3
 bullhorns 4
 baronize 1
-bangtail
+bangtail 1
 brachycephalize 1
 bourlaw 2
 bowtel
@@ -14755,7 +14755,7 @@ bifolium 4
 brahminist 1
 bravuras 1
 baetzner 2
-begorrah 2
+begorrah 3
 buncal 2
 bercelet 1
 brawlsome 2
@@ -17217,7 +17217,7 @@ bullsucker 1
 bandman 1
 basined 3
 beachcomber 2
-banditism 1
+banditism 2
 boucles
 bebannered 3
 bullweed 2

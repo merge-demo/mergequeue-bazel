@@ -512,7 +512,7 @@ cadenette
 corregidores 1
 cellobiose 2
 crapple 2
-coascend 1
+coascend 2
 characterologically 2
 cadenzas
 cees 1
@@ -4171,7 +4171,7 @@ cardiomegaly 1
 cyclus
 cardiomelanosis
 contradivide 1
-cholecystotomies 3
+cholecystotomies 4
 cardiometer 3
 cardiometric 2
 cardiomyomalacia 1
@@ -10973,7 +10973,7 @@ comitatus
 chiropodial
 chiropodic 2
 chiropodical 1
-caphite 1
+caphite 2
 cavascope
 canvaslike 2
 chiropodistry
@@ -24724,7 +24724,7 @@ copresence 3
 coprinus 2
 christs 2
 clubionid
-coprisoner 2
+coprisoner 3
 coprodaeum 1
 catpiece 1
 creeshing 1
