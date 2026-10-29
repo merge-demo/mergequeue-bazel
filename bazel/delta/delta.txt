@@ -3783,7 +3783,7 @@ deia
 deadpanner 3
 dyostyle 1
 detest 2
-dor
+dor 1
 dwale
 disgracia
 drillable
