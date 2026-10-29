@@ -2681,7 +2681,7 @@ ferulaceous 4
 ferular 4
 foreimpression 3
 fireshaft 1
-feruled 5
+feruled 6
 ferulic
 fitzclarence 2
 fissipedate 4
@@ -2907,7 +2907,7 @@ fouettes 1
 floorcloth 2
 find 3
 febricide 1
-fibrose 2
+fibrose 3
 fimbricate 5
 featuring 3
 feudalists 2
@@ -4224,7 +4224,7 @@ feelingful 4
 frenal 2
 fornicator
 fireflirt 2
-foolishest 2
+foolishest 3
 fluviatile 4
 fridge 4
 furtherly 3
@@ -7349,7 +7349,7 @@ ferrateen 1
 ferocious 3
 fluoridising
 formaldehydesulphoxylic 2
-fairyfloss 2
+fairyfloss 3
 forts 3
 foredone 2
 forastero 2
@@ -10619,7 +10619,7 @@ fleeting 2
 flatnesses 2
 frugalities 2
 farrandly 2
-frugalness 2
+frugalness 3
 freck 1
 fetiches 1
 frugiferous 5
