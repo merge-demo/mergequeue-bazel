@@ -3062,7 +3062,7 @@ bestials
 brahman 2
 bacterization 5
 breachy 1
-barwal 2
+barwal 3
 bannack
 blague 2
 benzophenoxazine 1
@@ -6433,7 +6433,7 @@ benzothiodiazole 2
 bergamiol 1
 bumpering 2
 backcloth 1
-barangay 1
+barangay 2
 biternate 1
 benzothiofuran 1
 burs 4
@@ -15821,7 +15821,7 @@ brokerly 1
 bradykinesia 1
 barding 1
 broking 3
-bushfighter 1
+bushfighter 2
 brainwash 2
 battiks 3
 broletti 3

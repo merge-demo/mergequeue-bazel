@@ -819,7 +819,7 @@ fluctuations 3
 fanjet 2
 fastened 7
 flemings 3
-forerequest 3
+forerequest 4
 fiddlehead 3
 foveolarious 3
 frown 3
@@ -1300,7 +1300,7 @@ former 3
 foxtails 1
 fructivorous 2
 fatbird 1
-fatefully
+fatefully 1
 fanaticise 3
 findability 2
 fernambuck 3
@@ -3283,7 +3283,7 @@ feelings
 ficoidal
 fiddlecome 1
 fracedinous
-farewells 1
+farewells 2
 fiddlefaced 2
 fiddlerfish 2
 fraticellian 4
@@ -7425,7 +7425,7 @@ fawnlike 2
 fans 1
 firefang
 footmen 5
-ferrocerium 3
+ferrocerium 4
 forwarder 1
 filicides 3
 fileable 1
@@ -11611,7 +11611,7 @@ formulizer
 fragilely 2
 fermata 2
 fustics 4
-fussbudget 2
+fussbudget 3
 fixable 2
 forint 3
 facsimile
