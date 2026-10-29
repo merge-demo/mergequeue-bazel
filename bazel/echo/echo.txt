@@ -2316,7 +2316,7 @@ escalatory 1
 epidemiologist 2
 exterminations 3
 ensepulchre 2
-evangelicalness 3
+evangelicalness 4
 electrizable 4
 electrization 4
 enterohepatitis 1
@@ -5272,7 +5272,7 @@ enantiomeride
 extrascriptural 2
 escartelly 2
 euphuizing 1
-esphresis
+esphresis 1
 expenseless 2
 euphonium 4
 endopods 2
@@ -8513,7 +8513,7 @@ ethnologer 2
 erectility
 equal 2
 eosinlike 2
-equalises
+equalises 1
 erectness 2
 executorial 1
 enwrapping 2
