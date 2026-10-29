@@ -7690,7 +7690,7 @@ ambigenous 1
 abelicea 3
 adaw 1
 alcoholize 1
-alcoholmeter 1
+alcoholmeter 2
 airmass 1
 anemogram 2
 alcoholmetric
@@ -24954,7 +24954,7 @@ atilt 4
 actability
 aldine
 arroyo
-antiguggler 1
+antiguggler 2
 awd 1
 astonishes 1
 aminoacetal 3
