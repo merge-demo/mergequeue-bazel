@@ -5291,7 +5291,7 @@ cassimere 3
 creamiest 1
 caurus
 cassina 2
-corymbed 1
+corymbed 2
 cassinian 1
 cyathophylline
 conimene 2
@@ -13023,7 +13023,7 @@ cyanophyceous
 crunchingness 2
 cryogens
 curcumas
-craniates 2
+craniates 3
 curies 2
 cyanophile 2
 cyanophoric
@@ -27191,7 +27191,7 @@ countertouch
 chait 2
 cacotrophic
 circumgyration
-countertraction
+countertraction 1
 countertransference
 cystonectous 1
 collen 2
