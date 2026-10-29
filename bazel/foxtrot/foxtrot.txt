@@ -10660,7 +10660,7 @@ fieldworker 4
 flagless 1
 fist 4
 footler 2
-famish 4
+famish 5
 frightable 3
 facultied 1
 fibular 1
