@@ -1265,7 +1265,7 @@ griffes 2
 gapper 2
 glutinosity 4
 guib 3
-grimaces 3
+grimaces 4
 galvanologist 1
 garran 2
 gaia 1
@@ -6516,7 +6516,7 @@ grotian 2
 gyrant 2
 golo 2
 grasshopper 2
-gayest 1
+gayest 2
 gorinesses 3
 grazing 1
 gymnasia 2
