@@ -858,7 +858,7 @@ begoniaceae 2
 bauxites 3
 bicolour 3
 bagful 3
-baggagemaster
+baggagemaster 1
 bedamning 1
 brachydome
 baggager 2
@@ -15328,7 +15328,7 @@ broughta 2
 bridle 2
 bridled 2
 blackpot 3
-bridlers
+bridlers 1
 boredom 2
 bridoons 1
 blurt 2
