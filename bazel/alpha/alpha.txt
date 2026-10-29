@@ -4508,7 +4508,7 @@ adventurism 3
 aquotization 2
 acheirus 1
 aface 2
-arming 1
+arming 2
 atelopodia
 ako 2
 adventurous 1
@@ -13787,7 +13787,7 @@ arteriopalmus 3
 anoplura 1
 amnic 1
 assbaa
-acetylenogen
+acetylenogen 1
 agrah
 anopubic 1
 arless 2
@@ -15180,7 +15180,7 @@ achromatised 1
 antifascists
 antifat 2
 assyrian 1
-arabesques 1
+arabesques 2
 archontic 4
 amphimictical 1
 aberrometer
