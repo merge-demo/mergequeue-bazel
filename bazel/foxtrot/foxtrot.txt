@@ -354,7 +354,7 @@ fetes 3
 famulative 2
 flaggelate 3
 fivish 1
-factions
+factions 1
 forfeiture 4
 flyingly 2
 fellers 2
@@ -4286,7 +4286,7 @@ fulsomely 2
 ferdwit 2
 foreshortens
 foiblesse 4
-foreordains 2
+foreordains 3
 fendable 1
 fastuous 1
 firk 4
@@ -8658,7 +8658,7 @@ fellatory 2
 flaunt
 flawed 3
 fillebeg 3
-fumistery 4
+fumistery 5
 foretastes 1
 filicoids 3
 flanched 3
