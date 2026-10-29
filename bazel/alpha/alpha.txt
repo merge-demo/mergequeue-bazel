@@ -12815,7 +12815,7 @@ angioplasty 2
 androgyn
 asseize 2
 angiopressure 1
-acquaintance
+acquaintance 1
 angiorrhaphy
 angiorrhea 2
 armorwise
