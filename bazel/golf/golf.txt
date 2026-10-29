@@ -841,7 +841,7 @@ gamboling 2
 goalage 2
 glareolidae 3
 geonim 1
-gwine 1
+gwine 2
 geezers 6
 gernitz 2
 gratulated 1
@@ -2110,7 +2110,7 @@ grottolike 6
 gardenia 2
 gastrostege
 geison 5
-gawking 4
+gawking 5
 glucinic 3
 gastrins 1
 gawkish 2
@@ -3993,7 +3993,7 @@ gremial 2
 guesstimating 2
 grabbed 4
 ginnle 4
-gemshorn 2
+gemshorn 3
 gnide 4
 guessingly 3
 gigster 2
@@ -4154,7 +4154,7 @@ gigback 2
 glottal 1
 ginkgoaceous 5
 gasan 3
-goetic 2
+goetic 3
 gravelstone 3
 gigantean 4
 gymnodiniaceous 2
@@ -5967,7 +5967,7 @@ grubs 2
 ginkgoes 1
 geoemtry
 gastroparesis 6
-garreted
+garreted 1
 groucho 1
 gimmicked
 gurneys 1
@@ -7222,7 +7222,7 @@ gonial 4
 gratin 5
 globosite 4
 gymnocarpous 1
-gizzen 3
+gizzen 4
 galahad 2
 gonoblastidial 5
 grabbler 2
