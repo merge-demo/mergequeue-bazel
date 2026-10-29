@@ -5715,7 +5715,7 @@ belies
 braziery 2
 believers
 beamful
-bloomery 1
+bloomery 2
 blankite 1
 budge 1
 bencite 3
@@ -6573,7 +6573,7 @@ berberis 4
 berberry 1
 brunizem 1
 bournous
-booted 2
+booted 3
 bagattino 3
 bladderless 1
 berchemia 1

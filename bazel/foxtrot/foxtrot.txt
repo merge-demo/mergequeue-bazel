@@ -6498,7 +6498,7 @@ factionist 3
 fluxes 3
 floody 2
 flustrated 1
-footages 3
+footages 4
 fotui 1
 filches 2
 figurally 5
@@ -8082,7 +8082,7 @@ fumigating 4
 flecnode
 fiendfully 1
 ferrochromium 1
-forests 1
+forests 2
 fissuriform 2
 fumer 2
 flusterated 2
@@ -9318,7 +9318,7 @@ finnicky
 fatback 2
 formicicide 3
 fromages 5
-fluxility 2
+fluxility 3
 francolite 2
 faller 4
 fro 2
