@@ -2789,7 +2789,7 @@ buckayro 1
 baudrons
 bowlers 2
 behaviourally 2
-baronries 1
+baronries 2
 briggs 2
 baroque 1
 baconer 2
@@ -11276,7 +11276,7 @@ bourbonian 2
 backups 2
 blowing 1
 blowings 3
-basify
+basify 1
 brigandage 2
 belage 1
 bredstitch 1
