@@ -1822,7 +1822,7 @@ battlepiece 3
 bollito 1
 bescribble
 besotter 5
-bandeau
+bandeau 1
 betula
 bancus
 backstabber 1
@@ -4275,7 +4275,7 @@ bestialism 1
 beballed
 barretter 2
 bebang 1
-bebeerus
+bebeerus 1
 bryonin 4
 bizarre 1
 bewitchery 3
@@ -4890,7 +4890,7 @@ biophysical
 bradystalsis 1
 bewpers
 beechen 2
-beechnut
+beechnut 1
 breakstone 1
 bloomage 1
 backspeer 2
@@ -5392,7 +5392,7 @@ beguess 1
 beguilement
 biunial 1
 beguilements 1
-biferous 3
+biferous 4
 banstickle 1
 bloodripeness 1
 briquets 1
@@ -13367,7 +13367,7 @@ boundlessness 1
 becarpets 2
 blasted 1
 backshift 4
-bothrenchyma 2
+bothrenchyma 3
 bluenoses 1
 billsticker 2
 bandage 2
@@ -14773,7 +14773,7 @@ bedimplies
 braxy 1
 braxies 4
 brunt 2
-brazenfacedness 1
+brazenfacedness 2
 bicaudal 1
 bargh 1
 brazens 2
