@@ -3517,7 +3517,7 @@ disknow 3
 distomum
 demographical
 delvers 3
-deformable 1
+deformable 2
 darkey 3
 deformation 2
 deflections 1
