@@ -1941,7 +1941,7 @@ guttiness 4
 galopades
 glorifiers 2
 galliards 2
-gauffered
+gauffered 1
 grayfishes
 groundwave 1
 garvie
