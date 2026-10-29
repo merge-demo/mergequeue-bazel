@@ -16560,7 +16560,7 @@ concoagulation 1
 cloit
 chamisos 1
 cloke
-conurus 1
+conurus 2
 cutaway 1
 conniver 1
 clokies 2
@@ -20820,7 +20820,7 @@ components 1
 compony
 comportable 1
 comportance 1
-comported
+comported 1
 circleting 1
 carded
 corbiestep 2
@@ -22586,7 +22586,7 @@ connective
 connectively
 clavichordists
 convallariaceous 2
-catholicate
+catholicate 1
 connector 1
 connectors
 camellus
