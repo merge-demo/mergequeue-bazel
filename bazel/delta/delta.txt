@@ -6815,7 +6815,7 @@ desize 5
 decompositional 1
 devilmonger
 desklike 2
-diphrelatic
+diphrelatic 1
 dunks 1
 deskman 2
 desks 3
