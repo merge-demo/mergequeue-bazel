@@ -1983,7 +1983,7 @@ dragbar 2
 dupondidii
 disvalue 6
 dopant 1
-discostate
+discostate 1
 debuted 3
 debuting 2
 desirable 1
