@@ -19469,7 +19469,7 @@ argillous
 advantage 3
 arkab
 appetible
-argin
+argin 1
 argyranthous 1
 acroceridae 2
 appestat
@@ -23271,7 +23271,7 @@ ambulacra 1
 anticorrosive
 artificially 1
 antsier 1
-albuminousness 2
+albuminousness 3
 attourne 1
 attract
 armageddonist 1
