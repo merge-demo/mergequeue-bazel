@@ -24025,7 +24025,7 @@ autoclaving 2
 aspheric
 autocollimators
 autocombustion 1
-autoconduction 1
+autoconduction 2
 archive 1
 anantherate
 axmaster
