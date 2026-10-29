@@ -10454,7 +10454,7 @@ citification
 commorant 1
 cheapside 2
 charlottesville
-cosurety 1
+cosurety 2
 chilblained 2
 chilcat 3
 coprostanol
@@ -20431,7 +20431,7 @@ crowd
 companionize 1
 cupressineous 1
 companionizing
-callousing 1
+callousing 2
 corycavine
 chirpiness 1
 comparableness
