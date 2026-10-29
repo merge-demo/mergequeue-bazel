@@ -4518,7 +4518,7 @@ barricaded 2
 burnsides 3
 batata 1
 balushai
-becudgels
+becudgels 1
 bosons 2
 bilixanthin 3
 becuiba
@@ -5063,7 +5063,7 @@ beeswax 1
 bodger 1
 biloculine 3
 beferned
-befetished 2
+befetished 3
 bandoline 4
 bilingual 3
 balefire
@@ -6424,7 +6424,7 @@ botanises 1
 bedlamer 5
 behoot 2
 byliner 3
-blowup
+blowup 1
 benzothiazine 1
 benzothiazoline 1
 bitripartite 2
