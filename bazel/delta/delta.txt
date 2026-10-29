@@ -10681,7 +10681,7 @@ downstreet 5
 dogman 2
 digoxin 2
 derationalize 4
-dreadlessness
+dreadlessness 1
 denunciating 1
 demorage 1
 disendower 1
@@ -16406,7 +16406,7 @@ dulc
 drawcansir 2
 draggletailedness 1
 doxa
-doxastic 1
+doxastic 2
 doxasticon
 dghaisa 2
 doxie 1
