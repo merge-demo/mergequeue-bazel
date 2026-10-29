@@ -5373,7 +5373,7 @@ gitter 1
 gelandejump 6
 gunplays 2
 glazework 3
-gutting 2
+gutting 3
 geckoid 4
 gravitating 1
 gruelings 1
@@ -7004,7 +7004,7 @@ greengrocers 1
 grumpiest 1
 gyrovague 1
 griefless 5
-guldengroschen 2
+guldengroschen 3
 geir 2
 glossopode 4
 gallerian 7
