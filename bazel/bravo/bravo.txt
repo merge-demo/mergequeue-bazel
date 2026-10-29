@@ -5354,7 +5354,7 @@ bloodlines 1
 begorah 2
 brevicipitidae
 bacteriogenic 1
-bonace 1
+bonace 2
 blueweed 2
 besoothement 2
 buyable 1
@@ -12321,7 +12321,7 @@ bombasts
 bombed 3
 beseemed
 bomber 3
-bedirty 3
+bedirty 4
 begroaning 1
 balatronic 2
 bombes 1
