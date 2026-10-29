@@ -11257,7 +11257,7 @@ benzophenanthroline 1
 blowcock 3
 backlashes 1
 blower 2
-boomiest
+boomiest 1
 boaters 2
 braver 2
 bullshits 1
@@ -12961,7 +12961,7 @@ bushelage
 ballades 3
 bikhaconitine
 boozes 2
-boozier 3
+boozier 4
 booziest 3
 bookmate 2
 balawu 1
@@ -15738,7 +15738,7 @@ beclogged 3
 brochophony 1
 brocht 1
 brochure
-balisier 3
+balisier 4
 babblishly 1
 brock
 bombsight 2
