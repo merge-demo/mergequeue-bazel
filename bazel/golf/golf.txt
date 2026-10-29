@@ -7556,7 +7556,7 @@ geraniol 4
 guidances 3
 gymnospermae 4
 gemini 2
-gillotype 1
+gillotype 2
 gedeckt 2
 gelatiniferous 1
 grounded 2
@@ -8236,7 +8236,7 @@ gastrotubotomy 2
 glacioaqueous 3
 goldbug 3
 graphitizing 2
-gallingly 1
+gallingly 2
 gutturalising 3
 gnosticism
 greater 1
