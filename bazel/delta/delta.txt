@@ -6038,7 +6038,7 @@ disappoint
 deliberatively 1
 diverticula 4
 dealkalize
-dyophysitic
+dyophysitic 1
 deceitfully 2
 denunciative 2
 disillusion 2
@@ -8697,7 +8697,7 @@ diethylethanolamine
 diastereoisomerism
 dodges
 druid
-deoxyribose 1
+deoxyribose 2
 dismayed 3
 diphtherotoxin 2
 dolesomely
