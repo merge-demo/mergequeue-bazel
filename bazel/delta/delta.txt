@@ -229,7 +229,7 @@ dojos 1
 dorstenia 2
 daftest 1
 donees
-daftness 4
+daftness 5
 dinnertime 2
 dorsula 2
 displanting
@@ -1593,7 +1593,7 @@ depayse
 daikering
 disinfector 1
 deadwork
-deaerated 1
+deaerated 2
 dorsum 1
 deaf 5
 dynamogenous 2
@@ -4591,7 +4591,7 @@ dustlike
 dolichocrany 2
 desperance 1
 depths
-disusing 2
+disusing 3
 detected 1
 digitigrade 2
 decretal
@@ -13346,7 +13346,7 @@ disfeature 1
 deceitful 3
 disputer 3
 definitising 2
-dorsally 2
+dorsally 3
 dysorexy
 detainees 1
 discerns 2
