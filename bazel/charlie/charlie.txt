@@ -21819,7 +21819,7 @@ conelrad 3
 continentalism 1
 conemaugh
 conenoses 1
-cyanogens 3
+cyanogens 4
 cymule 1
 conepatl
 conepatls
@@ -26960,7 +26960,7 @@ circumsciss
 carburizing
 countermoved
 casebound 1
-cerebralist 1
+cerebralist 2
 countermure
 carlylese 2
 countermutiny
