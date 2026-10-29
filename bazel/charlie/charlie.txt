@@ -4293,7 +4293,7 @@ carfloat
 coater
 carfuffle
 capiteaux 1
-camauros
+camauros 1
 centroidal 1
 carfuffling
 carful
