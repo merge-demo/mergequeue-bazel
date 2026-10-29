@@ -7675,7 +7675,7 @@ alcoholically 2
 appetition 1
 anaudia 3
 appendicocaecostomy 2
-antonymic
+antonymic 1
 autoprothesis 3
 autoconverter
 asterin
@@ -19646,7 +19646,7 @@ acreages 2
 ascaridole
 arimathaean
 asswaging
-amboinese
+amboinese 1
 agglutinins
 arioian 1
 assailed
