@@ -4182,7 +4182,7 @@ distinct 3
 deserter 2
 dyspneic 2
 deceptibility 4
-deinsularize 1
+deinsularize 2
 depopulations 2
 decylenic 2
 delocalised 2
@@ -4514,7 +4514,7 @@ demidistance 1
 diaphane 2
 diabetogenic 3
 downtrend 2
-deputies 1
+deputies 2
 discircumspection 2
 demies
 dosimetric 2
@@ -8671,7 +8671,7 @@ diaspirin 1
 dots 2
 dwt 3
 droumy 1
-downweigh 1
+downweigh 2
 discomposingly 1
 defeminised 2
 diaspore
