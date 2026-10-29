@@ -3601,7 +3601,7 @@ fairbanks 1
 fourniture 5
 flank 4
 filers 3
-fructification 3
+fructification 4
 felinity 2
 floorway 4
 files 1
@@ -3851,7 +3851,7 @@ flowingly 5
 freckleproof 1
 femerell 2
 flubdubberies 4
-flauto 3
+flauto 4
 fellside 3
 filthifying 4
 feminie 1
@@ -7844,7 +7844,7 @@ fractionisation 1
 fungify 3
 favorite 2
 fligged 2
-focusing 2
+focusing 3
 fatiguable
 fellen 3
 findings 2
