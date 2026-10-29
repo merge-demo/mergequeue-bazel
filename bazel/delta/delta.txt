@@ -10556,7 +10556,7 @@ demiking 5
 dauw 3
 diplocardiac 1
 diplocarpon 2
-discoidea
+discoidea 1
 diplocaulescent 2
 diplocephalus 1
 drearisomeness 1
@@ -16826,7 +16826,7 @@ duplicando 1
 deliquescent 1
 dissociable 2
 disring 2
-dendrodus 2
+dendrodus 3
 diaphanoscopy 1
 deprecatingly 2
 drumbeat 3

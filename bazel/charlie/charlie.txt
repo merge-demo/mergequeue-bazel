@@ -4497,7 +4497,7 @@ carmalum 1
 carmanians
 combing
 coldheartedness 4
-carmelitess
+carmelitess 1
 carmeloite 3
 carmen
 counts
@@ -10719,7 +10719,7 @@ chinaware
 chinawoman
 chagul
 cincher
-chinch
+chinch 1
 chinchayote 1
 choise 1
 cytoarchitecture 2
@@ -12043,7 +12043,7 @@ champlev 2
 choruses 3
 chorusing 1
 chanceries 1
-crisp
+crisp 1
 countermachination 1
 crusca 2
 caruage 1
