@@ -7601,7 +7601,7 @@ forespeak 2
 fecundative 2
 faradising 2
 foredune 3
-freezable
+freezable 1
 fervors 3
 forril 3
 festino 3
