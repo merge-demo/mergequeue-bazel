@@ -2524,7 +2524,7 @@ artisan 1
 abeyant 2
 aconelline 2
 assentatory 3
-aconine 2
+aconine 3
 afdecho 1
 aconital
 aconite 2
@@ -4590,7 +4590,7 @@ addax
 adviser
 autonomize 1
 apparatchiki
-androcentric
+androcentric 1
 affinitatively 2
 angolar 2
 acetylic
@@ -15632,7 +15632,7 @@ allegorister 2
 arcus 1
 awfulness 3
 anandrous 2
-archangels 1
+archangels 2
 antinome
 arblast
 antinomical

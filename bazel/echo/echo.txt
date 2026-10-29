@@ -12029,7 +12029,7 @@ effectuality 1
 enforceability 2
 enamelled 3
 epidialogue
-exclusivistic 2
+exclusivistic 3
 exclusivity 2
 effluents 1
 excogitated 3
@@ -14177,7 +14177,7 @@ electrifies 1
 eviction 1
 entone 3
 exultingly 2
-endogamy
+endogamy 1
 empyromancy 2
 eebree 1
 extrauterine 2
