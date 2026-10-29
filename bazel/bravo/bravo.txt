@@ -1822,7 +1822,7 @@ battlepiece 3
 bollito 1
 bescribble
 besotter 5
-bandeau
+bandeau 1
 betula
 bancus
 backstabber 1
@@ -5392,7 +5392,7 @@ beguess 1
 beguilement
 biunial 1
 beguilements 1
-biferous 3
+biferous 4
 banstickle 1
 bloodripeness 1
 briquets 1
@@ -13367,7 +13367,7 @@ boundlessness 1
 becarpets 2
 blasted 1
 backshift 4
-bothrenchyma 2
+bothrenchyma 3
 bluenoses 1
 billsticker 2
 bandage 2
