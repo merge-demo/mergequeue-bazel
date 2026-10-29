@@ -4774,7 +4774,7 @@ existent 3
 exodos
 endosmosic 1
 ebulliometry 3
-excircle 3
+excircle 4
 epistler 2
 entomophytous
 establishments 1
@@ -5227,7 +5227,7 @@ endorser 2
 empathizing 2
 endolymphatic
 ectobatic 4
-eskers 1
+eskers 2
 electromagnetic
 eluviums 7
 exitus 2
@@ -10674,7 +10674,7 @@ entwine 2
 excitory 2
 endocytosis 4
 estragon 1
-easternism 1
+easternism 2
 eugenically 1
 eugenie 1
 eugenism 1
