@@ -4332,7 +4332,7 @@ frailty
 fluorins 3
 fellnesses 3
 fasteners 3
-flectional
+flectional 1
 foreleech 2
 ferritin 1
 farewelled 8
@@ -5610,7 +5610,7 @@ formerness 1
 fourgons 2
 flight 3
 frusla 4
-fortitude 3
+fortitude 4
 flighter
 fraik
 fleysome 3
@@ -6983,7 +6983,7 @@ fordless 5
 fond 2
 fondateur 3
 fonded 1
-fondest 4
+fondest 5
 favilla
 fonding 2
 fondle 2

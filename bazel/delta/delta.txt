@@ -4461,7 +4461,7 @@ dampcourse 4
 demethylate 1
 definitize 2
 demetricize
-deceits 1
+deceits 2
 diceplay 3
 duress 1
 demy 1
@@ -6231,7 +6231,7 @@ dermanaplasty 2
 dermapterous
 dermas 3
 dirgler
-dasypodoid 2
+dasypodoid 3
 delimited
 dialytically 4
 dermasurgery 1
@@ -11216,7 +11216,7 @@ dentinocemental 1
 disboard 1
 drawdowns 1
 dustoori
-divagating 3
+divagating 4
 disbosom 2
 disbowel 2
 developpe
