@@ -3780,7 +3780,7 @@ diallers 2
 dehumidified
 disimbitter 1
 deia
-deadpanner 2
+deadpanner 3
 dyostyle 1
 detest 2
 dor
@@ -4671,7 +4671,7 @@ demisuit 1
 dumminess 1
 dithyrambos 4
 diphthongous 1
-dimissory 2
+dimissory 3
 disproved 1
 dapple 2
 dreamsiness 1
@@ -14796,7 +14796,7 @@ doublehandedly
 docklands
 dominica 3
 dialogue 2
-dolors 2
+dolors 3
 desmectasia 4
 dennet 1
 docks 2

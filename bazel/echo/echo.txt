@@ -5261,7 +5261,7 @@ ephebeion 3
 episiocele 1
 expungers 3
 endophyllum 2
-exospherical 3
+exospherical 4
 embarcadero 2
 ensphere 1
 edginesses
@@ -8674,7 +8674,7 @@ exfoliate
 encharging
 encharge 2
 episcleritis 1
-earth 3
+earth 4
 epiglottides 3
 evangelists 1
 equiperiodic 1
@@ -12575,7 +12575,7 @@ epruinose 1
 exobasidiales 5
 etc 2
 exclaim
-ergonovine 4
+ergonovine 5
 exobasidium 3
 eupathy 4
 enlure 1
