@@ -1529,7 +1529,7 @@ guiro 7
 giftwrap
 gripers 2
 growed
-geez 1
+geez 2
 gilpy 3
 gravaminous 3
 galileo 3
@@ -4587,7 +4587,7 @@ gilim 4
 graphometry 2
 glim 4
 galloper 3
-goobers 1
+goobers 2
 gagger 2
 grinter 1
 gladiole
@@ -6783,7 +6783,7 @@ gamgee 4
 gratias 2
 gobbe 1
 gud 2
-glossospasm 2
+glossospasm 3
 gaffsail 3
 galiot 3
 gavyuti 1
@@ -7090,7 +7090,7 @@ gentiledom 3
 gercrow 2
 grottos 3
 glossorrhaphy
-galletas 2
+galletas 3
 grassmen 2
 gregorianist 3
 germanist 3
@@ -8736,7 +8736,7 @@ geraniaceous 3
 gismo 5
 groundenell 1
 grubby 5
-gambit 3
+gambit 4
 glucosuric 2
 garrets
 games
@@ -9507,7 +9507,7 @@ gaes 3
 gins
 gyving 2
 gyroscope 6
-groupwise 3
+groupwise 4
 garvey 5
 glenn 1
 generalizer 2

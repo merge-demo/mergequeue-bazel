@@ -2285,7 +2285,7 @@ downcut 2
 derby 1
 decemviral 2
 deepish
-decemvirship 1
+decemvirship 2
 decayer
 decene 5
 depurator 1
@@ -5335,7 +5335,7 @@ dentatoserrate 2
 decennary 4
 disputable 2
 damnii 2
-dentatosinuate
+dentatosinuate 1
 diethylacetal 1
 dribber
 demurrage 2
@@ -11146,7 +11146,7 @@ defiling 5
 diplomacy 3
 dysautonomia 1
 disguster
-disavail
+disavail 1
 dayroom 1
 discomforted
 dissaves 2
@@ -11708,7 +11708,7 @@ diovular 2
 discoursing 2
 decoagulate
 distritbute 1
-dehumidification 1
+dehumidification 2
 disclaim
 declinator 3
 disprobabilization 5
@@ -12153,7 +12153,7 @@ deprecation
 dreggy 2
 denitrificant
 dramaturgy
-disturbant 3
+disturbant 4
 desulfuration 5
 discubitory
 disexercise 1
@@ -13640,7 +13640,7 @@ dervishhood 1
 dunes 1
 dissyllabizing 1
 dissyllable 2
-dialecticism
+dialecticism 1
 dashboard 1
 dignitarial 3
 distractedness
@@ -15868,7 +15868,7 @@ dismalize 4
 devilship 2
 deiced 2
 disrating 1
-defecated 1
+defecated 2
 daft 3
 demonesses 2
 deoxidizer
