@@ -5444,7 +5444,7 @@ foggy 2
 fleering 3
 faunal 1
 flavorers 3
-figurativeness 1
+figurativeness 2
 formulator 1
 famished 1
 foresummer 2
