@@ -1028,7 +1028,7 @@ driven 2
 displanted 2
 donacidae 3
 darkly 2
-despumated 2
+despumated 3
 dizain
 darkliest 2
 draffsack 2
@@ -13912,7 +13912,7 @@ disdainous 1
 dachs 1
 distillmint 2
 distinction
-devilled
+devilled 1
 dinero 1
 disorganizer 4
 donatiaceae 2
@@ -14496,7 +14496,7 @@ dipleidoscope
 decolonised
 dewfalls 2
 divided 3
-dividends
+dividends 1
 dividendus 1
 divident 3
 dromograph 1
