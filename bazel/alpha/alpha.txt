@@ -12364,7 +12364,7 @@ anopisthograph 2
 abscession
 adultly 1
 andouillet 2
-apometaboly 2
+apometaboly 3
 andrarchy 1
 andre 1
 ambitious
@@ -23506,7 +23506,7 @@ abeigh 1
 anteroposteriorly 4
 anarcotin 3
 astasia
-algaeology
+algaeology 1
 auguring 1
 augurous 1
 auldest 2

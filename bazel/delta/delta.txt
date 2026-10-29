@@ -5107,7 +5107,7 @@ dravya 2
 dipsomania
 dafla 2
 dendrocoelan
-dendrocoele 2
+dendrocoele 3
 dendrocolaptidae 3
 dendrocolaptine 2
 dendroctonus 1
@@ -5816,7 +5816,7 @@ depositation 1
 dartlike 1
 disgorgement 2
 dreiling 2
-deformism 3
+deformism 4
 deposito 1
 depositor
 daytime 6
