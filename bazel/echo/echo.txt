@@ -1821,7 +1821,7 @@ encroached 2
 egotheism 4
 epithalamy 2
 ergatogyny 1
-ectepicondylar
+ectepicondylar 1
 elbow 3
 exopodite 2
 eigenvalues 4
@@ -7658,7 +7658,7 @@ elapse 3
 eoliths 2
 enterohelcosis 1
 epiparodos 2
-epicortical
+epicortical 1
 enterostomy 1
 esere 4
 educed
