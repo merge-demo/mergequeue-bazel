@@ -1908,7 +1908,7 @@ gerbillus 1
 gamelote 3
 germaniums 3
 groundable
-gowd
+gowd 1
 grails 1
 golland 1
 grelot 2
@@ -4256,7 +4256,7 @@ gonadectomized 3
 goliath 3
 gammoned 3
 gynarchic 1
-gazella 2
+gazella 3
 geumatophobia 1
 gradometer 2
 galravitch 2
