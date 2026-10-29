@@ -2657,7 +2657,7 @@ afoam
 aquamarine 1
 ammochaeta 1
 acreage
-anamirta 2
+anamirta 3
 arrythmic 2
 angara 1
 acreman 1
@@ -3475,7 +3475,7 @@ avidins
 antinovelist 2
 amarillos 2
 additionary 1
-associationalism 1
+associationalism 2
 additionist 2
 abogado 1
 accusable 1
@@ -5710,7 +5710,7 @@ agamian 1
 appendicitis 1
 adenocellulitis
 angels 2
-arteries
+arteries 1
 ascertainer 1
 argillocalcareous
 alderney 1
@@ -8811,7 +8811,7 @@ afforests 2
 acescents
 alodial 1
 antisensuously
-allium 2
+allium 3
 alliums 2
 antiministerialist
 allivalite 1

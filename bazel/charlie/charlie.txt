@@ -5743,7 +5743,7 @@ clockcase 2
 cowpock 1
 caudillism 1
 catchline
-catchphrase 1
+catchphrase 2
 cocona 2
 cynoscion
 catchpoled
@@ -8489,7 +8489,7 @@ cephalomotor
 champy 2
 conjoint
 coe
-capparidaceous 2
+capparidaceous 3
 coquillage
 contrastively 1
 champian 2
@@ -12835,7 +12835,7 @@ churchful 2
 clatters
 cursus
 championess
-correo 2
+correo 3
 churchgoers 1
 calorifacient
 churchy
@@ -16167,7 +16167,7 @@ cytotrophoblastic 2
 climbed 1
 climber
 cabobs 2
-climbers 1
+climbers 2
 cheetal
 chromosantonin 1
 caskanet
@@ -16809,7 +16809,7 @@ clownade 1
 clownage
 clownery 2
 capitative
-clowneries
+clowneries 1
 clownheal
 coadjutrices 1
 clownship 1
@@ -21102,7 +21102,7 @@ curatic 1
 conations 1
 conative
 conflab
-coercions
+coercions 1
 coffinmaker
 conatus
 conaxial
