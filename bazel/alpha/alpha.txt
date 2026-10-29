@@ -7028,7 +7028,7 @@ acaridans 2
 acuteness 1
 ajoint 1
 ajuga 2
-akal
+akal 1
 akali 2
 akamai
 annoyed
@@ -11009,7 +11009,7 @@ aoife
 atrichous 1
 autogeny 1
 avowter
-arcsine 2
+arcsine 3
 acetphenetid 2
 amorite
 amoritic 1
@@ -22698,7 +22698,7 @@ askarel 2
 athink 1
 athyria
 acronymous
-ampyces
+ampyces 1
 awide 1
 agneaux 2
 anathema
