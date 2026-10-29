@@ -1817,7 +1817,7 @@ bowlin 2
 bushranging 1
 bandala 2
 buggery
-bandanaed 1
+bandanaed 2
 battlepiece 3
 bollito 1
 bescribble
@@ -11268,7 +11268,7 @@ blatchang 1
 bronchoesophagoscopy 1
 beshackle 1
 bloodedness 2
-blowholes 1
+blowholes 2
 blowie 4
 beryline 1
 blear 2
@@ -15124,7 +15124,7 @@ brevities 2
 bretwalda 4
 byeworker 1
 buccinae 1
-baronduki
+baronduki 1
 beqwete 4
 boar 2
 bogier 1
