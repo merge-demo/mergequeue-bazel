@@ -9932,7 +9932,7 @@ auricled 1
 amativeness 1
 arcing 1
 adagial
-artificious
+artificious 1
 avoue 1
 alternator 1
 abandonee 2
@@ -17531,7 +17531,7 @@ apophthegmatist 1
 amalings 1
 appeasements 1
 arrogantness 1
-aroints 1
+aroints 2
 advantages 2
 adelomorphous
 agraphias
@@ -24052,7 +24052,7 @@ affeeble 2
 autodepolymerization
 autodiagnostic
 artemas 1
-aviador 1
+aviador 2
 alutaceous 1
 aardvark
 autodialed
