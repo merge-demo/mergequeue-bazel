@@ -12556,7 +12556,7 @@ chronicle
 chronicled 2
 clattertrap
 chronicling
-chronicon
+chronicon 1
 chronics
 craddy 2
 chronique
