@@ -229,7 +229,7 @@ dojos 1
 dorstenia 2
 daftest 1
 donees
-daftness 4
+daftness 5
 dinnertime 2
 dorsula 2
 displanting
@@ -13346,7 +13346,7 @@ disfeature 1
 deceitful 3
 disputer 3
 definitising 2
-dorsally 2
+dorsally 3
 dysorexy
 detainees 1
 discerns 2
