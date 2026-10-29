@@ -1343,7 +1343,7 @@ butterbump 1
 betwixen
 balconies 2
 breeziness 2
-bacule 1
+bacule 2
 baldachin 4
 bristliest
 bhaiachari
@@ -5915,7 +5915,7 @@ benzalcyanhydrin 2
 beden
 backswordmen
 batswing
-blitzkrieg 4
+blitzkrieg 5
 butterroot 1
 belast
 berber 1
