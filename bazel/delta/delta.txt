@@ -7258,7 +7258,7 @@ dephlegmator 2
 deter 1
 deterged 2
 desertlike
-dilettantship
+dilettantship 1
 dendrachate 2
 decliner 1
 dissolved 2
