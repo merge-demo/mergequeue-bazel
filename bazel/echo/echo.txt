@@ -1011,7 +1011,7 @@ edder 2
 epiphora
 euphonism 2
 educationary
-electropolar 2
+electropolar 3
 escargot 3
 edemas 2
 exinite 1
@@ -5841,7 +5841,7 @@ electrovalency 4
 exfoliation 2
 erlkings 1
 epicele 2
-expiations 4
+expiations 5
 extrinsic
 engrafter 2
 emagram 1
@@ -8116,7 +8116,7 @@ epipubis 3
 expostulations 2
 erminois 3
 esterifying 1
-electrophotomicrography 1
+electrophotomicrography 2
 epicoelia 1
 encephalothlipsis 3
 electrovection

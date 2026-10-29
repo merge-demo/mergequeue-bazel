@@ -54,7 +54,7 @@ barberish 1
 beebreads 1
 babblings 1
 beauclerk
-bigoted 2
+bigoted 3
 babcock 2
 beknight 2
 babe 1
@@ -9050,7 +9050,7 @@ bipectinated 1
 biopotential 2
 biopsy 5
 biopsic 2
-bailliage
+bailliage 1
 byssaceous 2
 bespice 1
 benightmare 3
