@@ -968,7 +968,7 @@ fizzles 2
 fardage 3
 farded 3
 foyers 1
-forride 3
+forride 4
 fictionization 1
 fardel 4
 flannelmouth 1
@@ -7316,7 +7316,7 @@ fleeched 1
 foaminess 1
 ferromolybdenum 2
 fixation 4
-foraying 3
+foraying 4
 frognose 3
 foralite
 foram 3
