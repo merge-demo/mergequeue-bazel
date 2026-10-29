@@ -21102,7 +21102,7 @@ curatic 1
 conations 1
 conative
 conflab
-coercions
+coercions 1
 coffinmaker
 conatus
 conaxial
