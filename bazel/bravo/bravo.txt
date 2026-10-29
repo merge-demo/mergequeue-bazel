@@ -186,7 +186,7 @@ bipartition 2
 bandido 5
 byes
 bitt 3
-baccated
+baccated 1
 buddleman 1
 bacchanals 3
 blennymenitis
@@ -3377,7 +3377,7 @@ bootable 2
 brythonic
 baculum 2
 benzilic 1
-bassanite 1
+bassanite 2
 biotechnics 3
 bassetta
 blockbuster 1
