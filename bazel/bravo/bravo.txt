@@ -9418,7 +9418,7 @@ bedlids 4
 begeck 2
 bacteriostat
 babishly 1
-betassel 1
+betassel 2
 bookholder 1
 bulimulidae 2
 birgand 3
@@ -9917,7 +9917,7 @@ budders 3
 boget 2
 bedticking 1
 bordelaise 1
-bauson 2
+bauson 3
 bastardice 2
 bituminate 1
 bituminising 1
@@ -13748,7 +13748,7 @@ butle 1
 bigheads
 bouzoukia 2
 bouzoukis 3
-bloat 1
+bloat 2
 bescurf
 burga 2
 bufflehorn 2
