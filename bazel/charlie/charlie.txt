@@ -5743,7 +5743,7 @@ clockcase 2
 cowpock 1
 caudillism 1
 catchline
-catchphrase 1
+catchphrase 2
 cocona 2
 cynoscion
 catchpoled
@@ -8489,7 +8489,7 @@ cephalomotor
 champy 2
 conjoint
 coe
-capparidaceous 2
+capparidaceous 3
 coquillage
 contrastively 1
 champian 2
