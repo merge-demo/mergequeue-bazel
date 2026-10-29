@@ -1983,7 +1983,7 @@ dragbar 2
 dupondidii
 disvalue 6
 dopant 1
-discostate
+discostate 1
 debuted 3
 debuting 2
 desirable 1
@@ -2132,7 +2132,7 @@ decandrous 1
 discrepate
 decane 1
 debauchment 1
-decanery 2
+decanery 3
 decanes
 diabolify 2
 decangular 1
@@ -14557,7 +14557,7 @@ domine 2
 detents 2
 divisions 1
 divisive 1
-divisively 1
+divisively 2
 diners 1
 develope 2
 decomposition 2
@@ -14757,7 +14757,7 @@ disabusal 1
 diaheliotropically 3
 doublegear
 docimasia 5
-desmacyte
+desmacyte 1
 desertrice 3
 dentilated 2
 docimastical 1

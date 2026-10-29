@@ -2639,7 +2639,7 @@ frumentation 2
 familiarisation 2
 forcipulata 3
 farmyardy 2
-fabric
+fabric 1
 falanaka 2
 freshes 3
 fluocerite 3
@@ -4370,7 +4370,7 @@ fuliginously 4
 fise 2
 forb 3
 furosemide 6
-fisetin 2
+fisetin 3
 focuser
 forfeitable 1
 frate 2
@@ -8749,7 +8749,7 @@ frizzled 2
 featheriest 4
 fortunes 1
 faintise 2
-frankfort 3
+frankfort 4
 freddo 5
 forbiddable 2
 flogged 3
