@@ -6618,7 +6618,7 @@ axmanship
 aquaculture
 alveolite
 archsteward 1
-afterbeat
+afterbeat 1
 aymaran
 astatizer 1
 assembles
@@ -10616,7 +10616,7 @@ angiospermic 1
 agraffe 1
 arenulous 1
 apostoile 1
-amylenol 2
+amylenol 3
 antiopiumist 1
 amylic 1
 anacahuite 1
@@ -13987,7 +13987,7 @@ abecedaria 1
 allopolyploid 1
 ampalaya 2
 altogether
-astronomien
+astronomien 1
 actualising 1
 antarchist 3
 azoxazole 1
@@ -14834,7 +14834,7 @@ ascomycetes 1
 antepagmenta 1
 aiwain 3
 antichrists 3
-amphichrome 2
+amphichrome 3
 acalephs 2
 appendence 1
 antichronically 2

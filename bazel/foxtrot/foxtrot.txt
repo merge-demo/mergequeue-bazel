@@ -7218,7 +7218,7 @@ fifer 4
 foolocracy 2
 factionaries 2
 fairer 2
-farers 2
+farers 3
 falderols 3
 fimbrillose
 fiend 4
@@ -9487,7 +9487,7 @@ fishwoman 1
 facinorous 4
 ffa 3
 frauleins 2
-formaliter 5
+formaliter 6
 fissiparousness 3
 flatbottom 3
 forbreak 2
@@ -9877,7 +9877,7 @@ ferrel 1
 frontager 3
 furilic 4
 frozenly 4
-fibropericarditis
+fibropericarditis 1
 feverless 4
 filibusters 6
 forgiven 4
