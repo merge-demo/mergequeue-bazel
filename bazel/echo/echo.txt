@@ -364,7 +364,7 @@ eavedropping
 ephthianure 1
 endevil 3
 embouchement 2
-excentral 4
+excentral 5
 eyestone 4
 erethistic 1
 eeler 1
@@ -13659,7 +13659,7 @@ evirate 1
 elevon 2
 elizabethanism 1
 exteriorisation 2
-exteriorised 1
+exteriorised 2
 ecrus 2
 entapophysis
 epithem
