@@ -662,7 +662,7 @@ forerib 2
 frissons 4
 formism 3
 flan 3
-folklorish 3
+folklorish 4
 fellow 2
 feijoa 2
 fishwood 3
@@ -2386,7 +2386,7 @@ falsedad 1
 flinting 2
 flexors 2
 fricandeau 1
-folksiness 2
+folksiness 3
 foredating 6
 fromfile 3
 foreordinating 4
