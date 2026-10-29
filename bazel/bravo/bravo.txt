@@ -14771,7 +14771,7 @@ blacklegs 3
 brightener 2
 bedimplies
 braxy 1
-braxies 4
+braxies 5
 brunt 2
 brazenfacedness 2
 bicaudal 1
