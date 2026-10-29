@@ -7951,7 +7951,7 @@ adp
 alerters 2
 autotropically 2
 amygdules 1
-alerting
+alerting 1
 ales 1
 anion 2
 alesan 1
@@ -23116,7 +23116,7 @@ avodires 1
 anthecology
 ammonolyze 1
 antheriform 3
-attemperament 1
+attemperament 2
 aizle 1
 acephalan 1
 abhenrys 2
