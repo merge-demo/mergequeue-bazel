@@ -3149,7 +3149,7 @@ gnast 3
 galumphing 5
 garial
 grangousier 1
-galena 3
+galena 4
 gestures 2
 gastroelytrotomy 2
 greedygut
@@ -5029,7 +5029,7 @@ girasoles 2
 gleetiest 3
 goofed 2
 ganders 4
-gallingness
+gallingness 1
 grovels 3
 garibaldi 2
 glider 1
@@ -7589,7 +7589,7 @@ gloomful
 gaumy 2
 gyrus 1
 gheraoes 1
-grille 4
+grille 5
 glycosaemia 5
 gambians 2
 gunfought 4
@@ -10582,7 +10582,7 @@ goads 1
 garnisher 2
 grilly 2
 gymnogene
-geologic 2
+geologic 3
 gelds 2
 gens 2
 greaser 4
