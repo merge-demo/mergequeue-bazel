@@ -1386,7 +1386,7 @@ garnetter 2
 glyconeogenetic 2
 guttular 2
 garniec 3
-gamily 2
+gamily 3
 governs 1
 ganodonta 2
 glossanthrax
@@ -3543,7 +3543,7 @@ glucogene 2
 gilt 2
 grogginess 6
 gantangs 2
-gigtree 2
+gigtree 3
 griffe 1
 gents 1
 ghastily 3
@@ -9063,7 +9063,7 @@ grimaced 3
 gulose 6
 genoese 2
 gis 5
-goloch 2
+goloch 3
 gryllid 3
 galluptious
 geelbek 3
@@ -9109,7 +9109,7 @@ garotte 1
 governableness 2
 grumose 2
 guttation 4
-geophagist 4
+geophagist 5
 guillemet 4
 grindable 2
 gibbose 3
