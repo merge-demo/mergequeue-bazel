@@ -1805,7 +1805,7 @@ gelatinotype 3
 grippelike 3
 ghyll 2
 glutinate 4
-gestalten 1
+gestalten 2
 granodioritic 1
 gangwaymen 2
 gastrostenosis 2
@@ -3303,7 +3303,7 @@ gregaritic 2
 glancer 1
 glycosin 2
 gelotoscopy 1
-glent 2
+glent 3
 grabbable 2
 glosseme 4
 gula 2
