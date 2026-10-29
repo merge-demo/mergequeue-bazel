@@ -10228,7 +10228,7 @@ antiface 1
 amebid 2
 attorneys
 appendaged 2
-abray
+abray 1
 amebiform
 anteflexion 1
 ambitendent 1
@@ -13447,7 +13447,7 @@ anormal 1
 anneal
 artlessly
 arraignments
-annealer 2
+annealer 3
 anneals 2
 annect 1
 adenohypophysis 2
