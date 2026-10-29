@@ -5335,7 +5335,7 @@ dentatoserrate 2
 decennary 4
 disputable 2
 damnii 2
-dentatosinuate
+dentatosinuate 1
 diethylacetal 1
 dribber
 demurrage 2
@@ -12153,7 +12153,7 @@ deprecation
 dreggy 2
 denitrificant
 dramaturgy
-disturbant 3
+disturbant 4
 desulfuration 5
 discubitory
 disexercise 1
@@ -15868,7 +15868,7 @@ dismalize 4
 devilship 2
 deiced 2
 disrating 1
-defecated 1
+defecated 2
 daft 3
 demonesses 2
 deoxidizer
