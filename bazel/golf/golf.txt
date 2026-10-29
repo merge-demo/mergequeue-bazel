@@ -1941,7 +1941,7 @@ guttiness 4
 galopades
 glorifiers 2
 galliards 2
-gauffered
+gauffered 1
 grayfishes
 groundwave 1
 garvie
@@ -4292,7 +4292,7 @@ gesturing 1
 grumpiness 2
 graveclothes 2
 goatlike 2
-gregos 2
+gregos 3
 gigantesque 3
 grousing 2
 gumlike 2
