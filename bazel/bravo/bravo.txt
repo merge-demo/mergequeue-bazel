@@ -9414,7 +9414,7 @@ boga 1
 birectangular
 burh
 bireme 3
-bedlids 3
+bedlids 4
 begeck 2
 bacteriostat
 babishly 1
@@ -14775,7 +14775,7 @@ braxies 5
 brunt 2
 brazenfacedness 2
 bicaudal 1
-bargh 1
+bargh 2
 brazens 2
 brazer 3
 brazers 1
