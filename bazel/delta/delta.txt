@@ -9484,7 +9484,7 @@ delesseriaceae 3
 disconfirmation 3
 decline 1
 dinornithidae
-digesting
+digesting 1
 dodecadrachm
 digestively 1
 dural 1
@@ -11432,7 +11432,7 @@ diplomaed
 duplicitous 3
 discloud 1
 didache 2
-dingus 2
+dingus 3
 disclusion 2
 deadnesses 1
 dispauper 4
