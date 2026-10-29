@@ -22973,7 +22973,7 @@ consitutional 3
 consociational 2
 corniculum 1
 chili
-cive 3
+cive 4
 cryptic 2
 compline 1
 consocies 1
@@ -25269,7 +25269,7 @@ crome 1
 conicein 1
 corklike 2
 chiromant 2
-corkline
+corkline 1
 calendars 3
 corks 3
 corkscrew 1

@@ -6533,7 +6533,7 @@ bewelcome 2
 bavarois 2
 beaming 3
 blameable 1
-backplanes 1
+backplanes 2
 bagel 1
 bhagat 2
 breezy 1
@@ -14754,7 +14754,7 @@ boulevards 2
 bifolium 4
 brahminist 1
 bravuras 1
-baetzner 1
+baetzner 2
 begorrah 2
 buncal 2
 bercelet 1
@@ -15356,7 +15356,7 @@ buggiest 2
 briered 3
 brandless 1
 brainwasher 1
-bagatelles 2
+bagatelles 3
 brierroot 3
 bonnetless 1
 brieve 1
