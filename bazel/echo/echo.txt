@@ -12003,7 +12003,7 @@ exclaims 4
 epitenon 1
 exclamative 4
 endolymphic 1
-epithermally
+epithermally 1
 excreation 3
 exclamatory
 exclaves 1
@@ -12400,7 +12400,7 @@ exhibition 3
 enforce 2
 eradiate
 exhibitionism 1
-essenian 3
+essenian 4
 echinidea 2
 encephalopathy 3
 epistyles 4

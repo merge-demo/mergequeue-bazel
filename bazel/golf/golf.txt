@@ -7418,7 +7418,7 @@ giga
 granduncle 3
 gnatproof 6
 geylies 4
-gotra 4
+gotra 5
 germarium 1
 gravecloth 1
 gastrocolotomy 2
@@ -8322,7 +8322,7 @@ glacon 1
 gladnesses 3
 gazelle 2
 glaucodot 5
-gilenyer 1
+gilenyer 2
 greenslade 2
 gracefulness
 greyer 1
