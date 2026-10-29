@@ -1159,7 +1159,7 @@ dombeya
 dasypod 1
 dispaint 2
 demonstrative
-detick 1
+detick 2
 digitogenin 3
 dasypus 1
 defencelessly
@@ -11846,7 +11846,7 @@ discriminates 1
 disponee 2
 disgorger 1
 dawing 2
-deuteroprism
+deuteroprism 1
 decentralism
 diamines 3
 discurre 1
@@ -17779,7 +17779,7 @@ dossing 1
 duckblind 4
 dismaw 5
 duckboard
-doublehatching
+doublehatching 1
 ducked 1
 discussionis
 disarrange 2
