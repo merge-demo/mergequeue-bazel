@@ -6738,7 +6738,7 @@ decapetalous 5
 disacidify 1
 date 1
 designatum
-designedly 1
+designedly 2
 designedness 2
 detachability 4
 delibate 2
@@ -14982,7 +14982,7 @@ dogmatics 2
 disobstruct 2
 domestics 3
 dogberry
-dogberryism
+dogberryism 1
 dubbeh 4
 dogboat
 dolomites 1
