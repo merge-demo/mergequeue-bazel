@@ -1153,7 +1153,7 @@ genitors 3
 gantlet 2
 grocer 3
 gled 5
-gantleted 2
+gantleted 3
 gripier
 grouses 1
 goninidia 2
@@ -2862,7 +2862,7 @@ geatas 3
 genuflecting 4
 gaberdine 1
 guildship
-gratifier 1
+gratifier 2
 guser 3
 gullish 3
 genuflects 3
