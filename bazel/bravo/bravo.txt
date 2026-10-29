@@ -10297,7 +10297,7 @@ bosporian 1
 bladewise 4
 bladygrass 3
 baluchithere 4
-bisme 2
+bisme 3
 blennostasis 1
 biffs 3
 bucayo 2
@@ -12252,7 +12252,7 @@ brake 1
 briefless
 byssiferous
 bolt 1
-boltage
+boltage 1
 bluestockings 1
 biasses 1
 boltcutter 1
