@@ -3347,7 +3347,7 @@ definitions
 dormant
 dilatant
 deliriate 1
-diastem
+diastem 1
 demitting
 desisted 2
 duddery
