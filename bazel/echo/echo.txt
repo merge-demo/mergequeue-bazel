@@ -4296,7 +4296,7 @@ enamellers 4
 epicenes 2
 escarpments 3
 ectogenous 3
-engs 3
+engs 4
 enhydra 1
 ethnobiological 1
 equiponderate 4
@@ -7158,7 +7158,7 @@ edriophthalmous 4
 envisioning 1
 epistolising 2
 enshadow 2
-exoner 4
+exoner 5
 episterna 1
 effectuation
 envolume 6
@@ -8534,7 +8534,7 @@ estheriidae 1
 esoterically 2
 eupnea
 exsufflicate 2
-esophagotome
+esophagotome 1
 enteromere 3
 equatable 2
 eudaemons 4
