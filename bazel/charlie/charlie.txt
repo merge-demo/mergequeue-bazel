@@ -16441,7 +16441,7 @@ cymbaline 1
 cloakroom 1
 cloakrooms
 conquer 1
-caterwaul
+caterwaul 1
 cloakwise 1
 condominiiums 1
 creamcup 1
@@ -20524,7 +20524,7 @@ compearant 1
 crimes 2
 compeering
 corinthianesque 2
-checkerspot 1
+checkerspot 2
 chromatophorous
 compellable 1
 cheirognomy 1
