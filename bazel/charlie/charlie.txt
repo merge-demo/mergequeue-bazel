@@ -2013,7 +2013,7 @@ chariotlike 1
 cacholong
 calycanthemy 2
 camillus
-camino 2
+camino 3
 camion
 camions 2
 camisa 2
@@ -3649,7 +3649,7 @@ cocineras
 caragana
 caraganas
 crateful 1
-carageens 1
+carageens 2
 chromatography 1
 caraibe 3
 caraipa
@@ -16026,7 +16026,7 @@ cowberries
 cleverer 1
 cleverish
 clevis
-columbous 1
+columbous 2
 codicilic 1
 caridea
 capillariness 2
@@ -20835,7 +20835,7 @@ cloverleaf
 caudodorsal 2
 corpulence 1
 composable 1
-composant 1
+composant 2
 cryptoclastic 1
 composed 2
 cacocholia
@@ -24432,7 +24432,7 @@ cooperia
 cooperies
 coopering 1
 checksummed
-caroli 1
+caroli 2
 coopers 3
 coops 1
 coparty 2
@@ -28966,7 +28966,7 @@ cigaret
 cricketlike
 coercibility
 crickle 1
-chandrakanta
+chandrakanta 1
 charlatanical 2
 cricoarytenoid 1
 corroborated 1
@@ -29793,7 +29793,7 @@ compoing
 cradlelike
 carbanil 1
 crooners 1
-crooningly
+crooningly 1
 callus 1
 croons 1
 croose 2
