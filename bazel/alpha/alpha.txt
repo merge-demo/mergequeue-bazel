@@ -3575,7 +3575,7 @@ adelante 1
 asterella 2
 adelarthra 2
 alectryon
-ascosporous
+ascosporous 1
 apetalae 3
 acceptation
 accorporate 3
@@ -13992,7 +13992,7 @@ actualising 1
 antarchist 3
 azoxazole 1
 antievolutional 2
-austenitized
+austenitized 1
 aerosiderite 4
 aryepiglottic 1
 ablatively
