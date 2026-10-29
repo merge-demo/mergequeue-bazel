@@ -1886,7 +1886,7 @@ brainsickly 1
 bando 5
 besieger
 bodiced 1
-bareheaded 1
+bareheaded 2
 bubonalgia 1
 bandanas 1
 bergama 1
@@ -10502,7 +10502,7 @@ blastomyces
 bainie 2
 blastomycete
 benignities 1
-beadsmen 1
+beadsmen 2
 blastoneuropore 2
 bombinate
 billionaire
