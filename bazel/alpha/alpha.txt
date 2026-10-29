@@ -2245,7 +2245,7 @@ arusa
 albanians
 achtehalber 4
 amounts 1
-anvil 1
+anvil 2
 agraffes 2
 auride 1
 armigeri 1
@@ -19045,7 +19045,7 @@ anana 3
 archphilosopher 1
 announcer 3
 archpilferer
-adornment
+adornment 1
 aneurismatic 1
 accentuating
 adulteration 2
