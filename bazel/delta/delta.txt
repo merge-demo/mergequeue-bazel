@@ -1026,7 +1026,7 @@ darkled 1
 disquietudes
 driven 2
 displanted 2
-donacidae 2
+donacidae 3
 darkly 2
 despumated 2
 dizain
@@ -7099,7 +7099,7 @@ disorient 2
 desto 1
 disvalues 1
 darted 2
-damselfish 1
+damselfish 2
 destour 3
 demonial 1
 destrer 2
@@ -11045,7 +11045,7 @@ deliberations 3
 disanimation
 disannuller 1
 dialogues 1
-dichroic 1
+dichroic 2
 disentanglements 2
 dyophysite 2
 disincarcerate 1
@@ -11054,7 +11054,7 @@ dysenteries 2
 disembay 1
 diagnosticating 2
 disapostle 3
-disapparel 1
+disapparel 2
 descriptive 2
 disappear 2
 divorcees 3
