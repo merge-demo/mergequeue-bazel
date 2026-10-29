@@ -2285,7 +2285,7 @@ downcut 2
 derby 1
 decemviral 2
 deepish
-decemvirship 1
+decemvirship 2
 decayer
 decene 5
 depurator 1
@@ -11146,7 +11146,7 @@ defiling 5
 diplomacy 3
 dysautonomia 1
 disguster
-disavail
+disavail 1
 dayroom 1
 discomforted
 dissaves 2
@@ -13640,7 +13640,7 @@ dervishhood 1
 dunes 1
 dissyllabizing 1
 dissyllable 2
-dialecticism
+dialecticism 1
 dashboard 1
 dignitarial 3
 distractedness
