@@ -8614,7 +8614,7 @@ claires
 changeful
 changefully 2
 copolymerism
-changeless
+changeless 1
 cynosural 2
 curtness 2
 complementaries 1
@@ -20394,7 +20394,7 @@ clobbered 1
 compactors
 compacts 1
 comites 1
-compacture 2
+compacture 3
 crumbliness 2
 compadre
 curstfully 1
@@ -31333,7 +31333,7 @@ cures
 compotation 4
 curets
 callisthenics
-cinematographers
+cinematographers 1
 clamber 1
 curetted
 curetting
