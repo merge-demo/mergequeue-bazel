@@ -813,7 +813,7 @@ eloigner 1
 ecthesis
 emmers 3
 epispadias 2
-edaphically 2
+edaphically 3
 euglenidae 3
 earthquave 1
 ectypal
@@ -4552,7 +4552,7 @@ empales 5
 encephalospinal 3
 ecclesiastic 1
 elevatedness 1
-externize 1
+externize 2
 euphyllopoda
 enureses 1
 epitheliogenetic 1
@@ -5448,7 +5448,7 @@ extrabulbar 1
 ecderonic 3
 endseal 1
 endshake 2
-elfishly
+elfishly 1
 egretta 1
 easterly 1
 enfirm 1
@@ -7334,7 +7334,7 @@ enact 2
 electrooptics 1
 escaping 1
 epanisognathism 1
-expositively 3
+expositively 4
 entameba 2
 epizoal 4
 elongate 2
