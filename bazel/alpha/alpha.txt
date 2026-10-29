@@ -15315,7 +15315,7 @@ amphoriskos
 azulejo 1
 anticonscriptive 3
 antihierarchy 2
-akimbo
+akimbo 1
 aidless
 arroba
 antihierarchism 1
