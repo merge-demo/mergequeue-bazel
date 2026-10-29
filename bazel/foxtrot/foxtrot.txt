@@ -902,7 +902,7 @@ farawayness 2
 firmland 2
 fennelflower 2
 fanums 1
-ferine 2
+ferine 3
 fenberry 2
 fanwise 2
 falangism 1
@@ -2375,7 +2375,7 @@ feudist 2
 fibrocrystalline 1
 francic 1
 freeloving
-fenchol 1
+fenchol 2
 futures 2
 footganger 4
 fetial 2
