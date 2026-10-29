@@ -15279,7 +15279,7 @@ decelerate 2
 droopt 1
 decalcomania 1
 didelphyidae 1
-dolmans
+dolmans 1
 diurnation 3
 diamylose 1
 diluviums 1
@@ -18545,7 +18545,7 @@ dirging
 durndest 5
 deraignment 2
 disharmonizing 2
-deviltries
+deviltries 1
 denuding
 dourahs
 debars
