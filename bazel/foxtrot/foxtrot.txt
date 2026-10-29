@@ -3601,7 +3601,7 @@ fairbanks 1
 fourniture 5
 flank 4
 filers 3
-fructification 3
+fructification 4
 felinity 2
 floorway 4
 files 1
