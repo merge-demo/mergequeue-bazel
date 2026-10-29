@@ -273,7 +273,7 @@ daguerreotype
 downspout 1
 dolichopodous 2
 dhotee
-degermed 2
+degermed 3
 doradilla 4
 daguerreotyped
 daguerreotyping 1
@@ -4040,7 +4040,7 @@ domineeringness 3
 directitude 2
 desuetudes 2
 dislikeful 1
-dysepulotic 2
+dysepulotic 3
 deliberalization
 duiker
 deliberately 2
@@ -6987,7 +6987,7 @@ dinoflagellate 2
 docility 2
 drags 6
 dumbfoundment 1
-despitefully
+despitefully 1
 desalinizes 2
 despitefulness
 disray
@@ -17016,7 +17016,7 @@ drepaniform 2
 disarmingly 3
 destructory
 dishelming 3
-dressier 1
+dressier 2
 dullest 2
 donned 1
 dipsosis 3

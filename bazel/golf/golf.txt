@@ -768,7 +768,7 @@ galvanotherapy 4
 geomorphic 4
 galvanotropism 2
 guntub 2
-globulolysis 3
+globulolysis 4
 gaulter 4
 glossolalist 4
 gutter 2
@@ -2998,7 +2998,7 @@ geologically 6
 gondite 1
 gavialis 5
 gelly 4
-galvanocauteries 3
+galvanocauteries 4
 gentlefolk 2
 gambusia 1
 guatambu 3
@@ -5419,7 +5419,7 @@ gamogenetical 2
 groundflower 4
 gumchewer 3
 grandmotherliness 3
-gender
+gender 1
 groovy 2
 glutenin 2
 granomerite 2
