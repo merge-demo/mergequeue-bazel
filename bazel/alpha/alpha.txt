@@ -3420,7 +3420,7 @@ adcons 1
 autopticity 1
 admires 1
 aesculus 1
-add 2
+add 3
 atap 2
 alane 1
 alkamin
@@ -9462,7 +9462,7 @@ argiopoidea 1
 acupunctuate 1
 agrologic
 apses
-altern 1
+altern 2
 anagogics 1
 angularization 3
 autopathy 1

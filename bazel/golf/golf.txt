@@ -2135,7 +2135,7 @@ glumiferous 3
 galla 4
 globosity 1
 gaudete 3
-graced 4
+graced 5
 glycoluric 3
 gazellelike 1
 gaviae 3
@@ -5449,7 +5449,7 @@ glebae 3
 ghostwrites 1
 galactophlebitis 1
 gracelike
-griphosaurus
+griphosaurus 1
 gephyrean 1
 gingivitis 3
 gaea 4
