@@ -4937,7 +4937,7 @@ disqualified
 demophobia 1
 decolonise 2
 damnableness 2
-disbursed 3
+disbursed 4
 dissentious
 dictators
 demoraliser
@@ -5545,7 +5545,7 @@ diphyllous 1
 departmentalised
 diversities 1
 diaminogene 1
-dx 1
+dx 2
 dimmock 2
 departmentalism 2
 departmentalization 5
