@@ -386,7 +386,7 @@ chlorals 1
 cacolet
 cacology 3
 cosseted 1
-cacomagician
+cacomagician 1
 cacomelia
 cacomistle 3
 cacomixle
@@ -5316,7 +5316,7 @@ cassiterite 4
 coestablishment
 ccws
 cassius
-cassock 1
+cassock 2
 cleanser
 ctenophora 1
 cassocked
