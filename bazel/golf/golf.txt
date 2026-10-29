@@ -6794,7 +6794,7 @@ gymnogyps 1
 gentilitial 4
 gyrostatics 3
 genal 2
-genros 2
+genros 3
 gondola 1
 goniums 1
 glanis 3
@@ -9234,7 +9234,7 @@ grisons 2
 grandees 1
 genethlialogic 2
 goliard
-grisly 1
+grisly 2
 glagolitic 4
 gravigrade 4
 grahamite 1
