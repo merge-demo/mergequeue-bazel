@@ -8164,7 +8164,7 @@ eczemas
 emarcid 2
 emprosthotonus 2
 extrapolated
-endobatholithic 3
+endobatholithic 4
 ephippium
 entrepas 3
 engyscope 1
@@ -11985,7 +11985,7 @@ enveloped 1
 eurylaimidae
 excited 3
 epicure 3
-excitedly 1
+excitedly 2
 eulytin 3
 empeine 4
 ententes 5
