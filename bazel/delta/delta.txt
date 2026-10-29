@@ -2724,7 +2724,7 @@ desmon 2
 decor 2
 diplopic
 dappledness 1
-decurves 3
+decurves 4
 decorable
 deist 1
 delectable 2
@@ -9402,7 +9402,7 @@ diffusate 3
 dipnoous
 deploring 1
 djinni 1
-duplicator 3
+duplicator 4
 diffusers 1
 disenthralment 1
 diffuses 1
@@ -15488,7 +15488,7 @@ donatist 2
 dentiloguy 1
 drag 2
 daymen 3
-diapery
+diapery 1
 disbands 1
 denunciant 2
 donator 3
