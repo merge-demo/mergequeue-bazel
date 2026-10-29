@@ -3134,7 +3134,7 @@ gayer 2
 grangers
 girlhoods
 grudgefully 2
-glucina
+glucina 1
 geopotential 3
 gelosin 1
 grassplot
@@ -6534,7 +6534,7 @@ goldsmithry 3
 grays 3
 groveler 2
 gynecomaniacal 3
-gutsiness 6
+gutsiness 7
 graciles 5
 grand 1
 ganglioneural 4
