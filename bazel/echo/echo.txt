@@ -10564,7 +10564,7 @@ equationist
 endboard
 eclectical 3
 ensurers 2
-equational 3
+equational 4
 elevates 2
 excursionary 2
 encoffinment
@@ -10627,7 +10627,7 @@ emblematically 3
 encryption
 epimysium 3
 exodium 5
-elaterid
+elaterid 1
 eudaimonia 4
 eudaimonist 2
 epirhizous 2
