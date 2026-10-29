@@ -10311,7 +10311,7 @@ blaggard 1
 benzotriazole 2
 balsamea
 byrlakin 1
-batfowling
+batfowling 1
 beauism 1
 blahs 1
 balatas 4
@@ -12842,7 +12842,7 @@ barracan 4
 bodily
 birkies 2
 baresarks
-bedelve 3
+bedelve 4
 bucketeer 2
 boomster 1
 boomtown 1
