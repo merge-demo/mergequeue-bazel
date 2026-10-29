@@ -11068,7 +11068,7 @@ electrothermostat
 enhusk
 expropriations 1
 episcopally 1
-estheria 1
+estheria 2
 epileptically 2
 epicormic 1
 eusebian 2
@@ -12284,7 +12284,7 @@ enfoul 2
 exemplificator
 egypt
 exemplified 2
-extradites 1
+extradites 2
 ellagitannin 1
 epibolic 2
 exsequatur 1
@@ -12421,7 +12421,7 @@ extracanonical 3
 exhibitions 1
 euchlorhydria 4
 eyeletted 2
-envisionment
+envisionment 1
 epistyle
 erythrocytometry 1
 experient 1
