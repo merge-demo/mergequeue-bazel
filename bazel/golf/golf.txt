@@ -8772,7 +8772,7 @@ gorge 4
 greenling 2
 grogram 4
 glaserite 1
-gatherable 2
+gatherable 3
 gentilism 3
 glyceryls 5
 goosish 4
