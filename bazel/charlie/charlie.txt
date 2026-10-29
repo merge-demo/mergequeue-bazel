@@ -5602,7 +5602,7 @@ character
 cariousness 1
 centi
 crochet
-catalogia 1
+catalogia 2
 crossweb 1
 contractible
 catalogical
@@ -19833,7 +19833,7 @@ comets
 ceral
 condylomata
 comeuppances 2
-comfy
+comfy 1
 clamorously
 comfier 2
 calamites
