@@ -1821,7 +1821,7 @@ encroached 2
 egotheism 4
 epithalamy 2
 ergatogyny 1
-ectepicondylar
+ectepicondylar 1
 elbow 3
 exopodite 2
 eigenvalues 4
@@ -2204,7 +2204,7 @@ enchurch 4
 eliminating 1
 epimyocardial 2
 eths 1
-electrovalently 1
+electrovalently 2
 emphasising 3
 elderman 2
 ensorcels 2
@@ -7658,7 +7658,7 @@ elapse 3
 eoliths 2
 enterohelcosis 1
 epiparodos 2
-epicortical
+epicortical 1
 enterostomy 1
 esere 4
 educed
@@ -12102,7 +12102,7 @@ exploit 4
 editress 5
 echinologist 3
 eartag 2
-electromagnet 1
+electromagnet 2
 emasculation 2
 embroche 2
 effervescing 1
