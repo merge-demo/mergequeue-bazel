@@ -9414,7 +9414,7 @@ boga 1
 birectangular
 burh
 bireme 3
-bedlids 3
+bedlids 4
 begeck 2
 bacteriostat
 babishly 1
