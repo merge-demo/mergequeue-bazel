@@ -571,7 +571,7 @@ balisaur 1
 baconian 1
 benzalacetone 1
 bishopric 4
-breaths 1
+breaths 2
 bistro
 baconianism 1
 baconism
@@ -9543,7 +9543,7 @@ biblist 1
 bodewash 1
 budorcas 7
 breeching
-bisantler 2
+bisantler 3
 budgets 1
 bothridium 1
 barque
