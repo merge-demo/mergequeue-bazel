@@ -1301,7 +1301,7 @@ gerendum 2
 government 6
 gulliver 4
 geodiatropism 1
-gingilis 3
+gingilis 4
 garganey 1
 gastropancreatitis 4
 garget 4
@@ -10184,7 +10184,7 @@ genethliac 3
 garages
 grovelings 1
 guido 3
-ganglioneuroma 1
+ganglioneuroma 2
 gearwheels 5
 glade 1
 glaucium 4
@@ -10603,7 +10603,7 @@ gadidae 4
 geohydrologist
 gourmetism 3
 gillion 2
-glandaceous 2
+glandaceous 3
 gowned
 goldenmouth 1
 glossologist 2
