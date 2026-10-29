@@ -6766,7 +6766,7 @@ colliculate
 caruncle
 celestify 1
 cuttages
-celestina
+celestina 1
 celestite
 celestitude 1
 clivias
@@ -8511,7 +8511,7 @@ caesium 1
 champions 1
 cytotaxonomic
 championships
-champleve 2
+champleve 3
 chiselled
 chams 1
 compositionally 2
@@ -27410,7 +27410,7 @@ cibophobiafood
 caderas
 courtlike 1
 cannonism
-compulse
+compulse 1
 courtney
 courtnoll
 cappier 1
