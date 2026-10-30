@@ -1495,7 +1495,7 @@ dbms
 degenerationist 1
 dbridement
 decidual 1
-dracma 2
+dracma 3
 dc
 donmeh 1
 dcb 2
@@ -13531,7 +13531,7 @@ donnism 1
 datelines 1
 doumas
 diving 3
-disassociated
+disassociated 1
 disseisee
 dortiship 2
 donorship 1
@@ -15498,7 +15498,7 @@ deceivableness 2
 dispell 3
 desist 2
 deflagrated 1
-decolorise
+decolorise 1
 dealers 1
 demodulates 3
 dependableness 2
