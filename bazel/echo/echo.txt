@@ -8224,7 +8224,7 @@ enisling 1
 euthenic 1
 earlobe 3
 ethnomaniac 4
-exodontic 2
+exodontic 3
 effaceable 1
 episcia 3
 extracting
@@ -10983,7 +10983,7 @@ eremites
 endocervicitis 1
 excludes 1
 electrizing 2
-eurhythmic
+eurhythmic 1
 epichirema 1
 echeloot 2
 eoside 1
