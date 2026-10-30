@@ -2673,7 +2673,7 @@ decomposer 4
 debrief 2
 decomposers 2
 daddocky 1
-decomposure 1
+decomposure 2
 digne 3
 dogwatches 1
 decompoundable 3
@@ -7314,7 +7314,7 @@ dessa
 deplaned 3
 dipneumona
 demifarthing 2
-decarbonating 3
+decarbonating 4
 deckings 3
 dishevely 3
 durene 1
