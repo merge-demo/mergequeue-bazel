@@ -7205,7 +7205,7 @@ bur 1
 bestiarian 2
 bestiarist
 bestock 1
-bestow 3
+bestow 4
 bestowment 1
 burgee
 briary
