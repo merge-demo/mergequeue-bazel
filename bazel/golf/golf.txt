@@ -3145,7 +3145,7 @@ georgics 2
 glycosyl 1
 gnathal 1
 gnathobasic 1
-gnast 3
+gnast 4
 galumphing 5
 garial
 grangousier 1
@@ -5878,7 +5878,7 @@ graphometrist 2
 ganglionary 3
 gallywasp 2
 gyle 3
-glucosaemia 3
+glucosaemia 4
 glucinium 2
 genteelest 2
 gadder 4
@@ -6609,7 +6609,7 @@ gigolos 1
 graphalloy 2
 good 1
 gurglets 1
-galipidine 1
+galipidine 2
 ghats 2
 glossological 3
 gentleship 2

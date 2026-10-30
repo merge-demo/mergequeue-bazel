@@ -2338,7 +2338,7 @@ alluding 1
 athetoid 1
 absorbed 3
 acieration 2
-apiary 1
+apiary 2
 acies 1
 altometer 1
 acanthopod 3
@@ -2490,7 +2490,7 @@ anadicrotism
 acoelomi
 apogean 1
 accuser 1
-attemperance
+attemperance 1
 alexin 1
 alabastrons 1
 amoebicidal
@@ -3832,7 +3832,7 @@ adieu 1
 attame
 altin
 adin 1
-araneose 1
+araneose 2
 adynamia 1
 adion
 arhat
@@ -7533,7 +7533,7 @@ acrostolium 3
 alepot
 alloplasm 1
 alodiaries 1
-anoopsias 2
+anoopsias 3
 albuminorrhea
 albuminoscope 2
 acari
