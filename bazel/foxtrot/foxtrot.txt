@@ -10451,7 +10451,7 @@ frontwards 3
 fragrant 1
 fermatian 1
 fungitoxic 4
-factionalist 4
+factionalist 5
 fribblers 1
 ferruling 1
 farrant 1
@@ -10618,7 +10618,7 @@ forwaste 3
 fleeting 2
 flatnesses 2
 frugalities 2
-farrandly 2
+farrandly 3
 frugalness 3
 freck 1
 fetiches 1
