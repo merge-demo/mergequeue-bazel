@@ -1965,7 +1965,7 @@ fothergilla 5
 fancy 1
 feebless 1
 filatory 2
-fillock 2
+fillock 3
 fernticle 3
 fibratus 2
 functionalize 3
@@ -6835,7 +6835,7 @@ firetower 3
 fustigator 3
 fussify 3
 flipjack 1
-fourhanded 3
+fourhanded 4
 fabled 3
 furomonazole 2
 foliary
