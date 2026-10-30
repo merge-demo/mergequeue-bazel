@@ -3750,7 +3750,7 @@ goonie 2
 graveldiver 3
 geometdecrne 2
 getatable 1
-ginnery
+ginnery 1
 goldfield 2
 generator 5
 gropingly 1
