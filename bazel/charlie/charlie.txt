@@ -25328,7 +25328,7 @@ condylion
 corncribs 1
 corncrusher
 ce 1
-coldbloodedness 1
+coldbloodedness 2
 corncutter
 corndodger
 cornea 1
