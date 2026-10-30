@@ -4138,7 +4138,7 @@ estado 1
 etamin 2
 epigene 1
 epicanthus 3
-ejacula 1
+ejacula 2
 enrooting 5
 eslabon 2
 entangler 2
