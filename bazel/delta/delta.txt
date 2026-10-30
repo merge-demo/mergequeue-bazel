@@ -4398,7 +4398,7 @@ dragonets 1
 duplexity 4
 dizening 1
 drawk 3
-demeanor
+demeanor 1
 doit 2
 disallowableness
 disembark 1
