@@ -15247,7 +15247,7 @@ clambake 1
 cycasins
 colfox 3
 cassique
-chaining 1
+chaining 2
 clamcracker 1
 crabfish 1
 clame 1
@@ -25092,7 +25092,7 @@ caimakam
 cottoid
 coreligionist 1
 cooperancy
-cueball
+cueball 1
 calipers 1
 colophonian 1
 corema 2
@@ -28309,7 +28309,7 @@ confederation
 cratometer
 cratometry
 carobs 1
-cumberment 1
+cumberment 2
 cratons 2
 craunches 1
 conilurus
