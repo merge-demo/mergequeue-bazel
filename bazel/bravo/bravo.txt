@@ -2489,7 +2489,7 @@ bhut
 bedark 2
 barocco 2
 brachyoura 1
-barge 2
+barge 3
 bergere
 bult 1
 bargelike 2
@@ -4006,7 +4006,7 @@ brawnier 2
 beads 1
 builds 2
 begild
-barcelonas
+barcelonas 1
 besquib 3
 beadswomen 2
 broadcasting 1
@@ -18280,7 +18280,7 @@ buttgenbachite 1
 bolimba 2
 boomeranging 2
 burrowing 1
-butty 1
+butty 2
 biovulate 1
 buggane 2
 buffoonism 1
