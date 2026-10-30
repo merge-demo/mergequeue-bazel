@@ -8173,7 +8173,7 @@ choriomas 3
 cardiovisceral 1
 chairing
 carpetbagging
-clinanthium 1
+clinanthium 2
 cynips
 cordaitalean 1
 claxons
@@ -19444,7 +19444,7 @@ chemises 1
 colossochelys
 colostomies 1
 compositous
-confederationist
+confederationist 1
 colostration 1
 colostrous
 colostrum 2
@@ -22942,7 +22942,7 @@ caphtorim 1
 consimilate
 carnified
 convokers
-cafoy 2
+cafoy 3
 coifs 2
 consisently 1
 cetorhinidae
