@@ -7425,7 +7425,7 @@ betso 1
 betted 1
 befreeze 2
 better
-besmirched 1
+besmirched 2
 batrachia 1
 buboes 1
 bashalick 1
@@ -14337,7 +14337,7 @@ bumf
 baits 1
 brahmin 1
 behowl 1
-boxkeeper 2
+boxkeeper 3
 burnable 3
 brahminists 3
 brahmoism
