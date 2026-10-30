@@ -13006,7 +13006,7 @@ catchland 1
 cantrap 1
 cyanoethylation 1
 crumbable
-crates 1
+crates 2
 cyanoguanidine
 cyanohermidin 3
 cyanometer
@@ -30477,7 +30477,7 @@ ctenostomata
 ctetology 1
 cto 2
 charcuteries
-carbo 1
+carbo 2
 ctr 2
 comortgagee 4
 cannibalean 1
