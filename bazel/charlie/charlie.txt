@@ -8623,7 +8623,7 @@ changelessness
 changelings 1
 changement 1
 cuissard 1
-changeovers
+changeovers 1
 chiefs
 changer
 columbic 1
@@ -14446,7 +14446,7 @@ chetrums 2
 cholelithiasis
 capsulociliary 1
 caseine 1
-cirrosely
+cirrosely 1
 cirrostomi
 cirrostrative
 citharoedus 2
