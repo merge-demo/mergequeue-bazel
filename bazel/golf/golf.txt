@@ -1863,7 +1863,7 @@ gerhardtite 5
 gregory 2
 grandfer 1
 gunfighting 5
-gulinulae 2
+gulinulae 3
 gateposts 5
 gatewaying 4
 gatetender 4
@@ -4539,7 +4539,7 @@ gomutis 1
 gambrel 1
 gumwoods 2
 gills 1
-graminiform 1
+graminiform 2
 gerbille 2
 gigantomachia 3
 gawp 2
@@ -9067,7 +9067,7 @@ goloch 3
 gryllid 3
 galluptious
 geelbek 3
-glottogonic 1
+glottogonic 2
 greffotome 3
 glassworking 3
 glasser 4
