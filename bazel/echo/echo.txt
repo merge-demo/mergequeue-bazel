@@ -8283,7 +8283,7 @@ epitaphian 1
 ejection 5
 expensively 2
 ectoplasmic 2
-ellagate 5
+ellagate 6
 exemplification 5
 epitaxies 1
 epitaxis 1
@@ -13570,7 +13570,7 @@ ectadenia
 egeria 2
 emulation
 epikeia 2
-esoteric 2
+esoteric 3
 exsufflate 1
 exsufflation
 epithymetical
