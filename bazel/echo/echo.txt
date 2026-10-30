@@ -6468,7 +6468,7 @@ ectropionize 4
 eskars
 eyeflap 2
 encroachment 3
-extensionless 2
+extensionless 3
 embroideries 2
 elvira 3
 ensober 2
@@ -9138,7 +9138,7 @@ erliche 3
 etiolating 1
 eldern 5
 episplenitis 3
-exumbrella
+exumbrella 1
 esrog 1
 ermanrich 4
 endotheca 1
