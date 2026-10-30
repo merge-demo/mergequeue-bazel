@@ -6807,7 +6807,7 @@ foreshadowing 1
 ferme 4
 fiendliness 2
 frontal 3
-flaccidity 4
+flaccidity 5
 footbeat 1
 forfalt 2
 faithfuls 3
@@ -8349,7 +8349,7 @@ feastful 4
 fewsome 2
 feigningly 2
 forbidden 2
-flaff
+flaff 1
 fulminates 2
 forkier 3
 fumewort 4
