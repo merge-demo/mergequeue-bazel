@@ -2490,7 +2490,7 @@ anadicrotism
 acoelomi
 apogean 1
 accuser 1
-attemperance
+attemperance 1
 alexin 1
 alabastrons 1
 amoebicidal
@@ -7533,7 +7533,7 @@ acrostolium 3
 alepot
 alloplasm 1
 alodiaries 1
-anoopsias 2
+anoopsias 3
 albuminorrhea
 albuminoscope 2
 acari
@@ -21646,7 +21646,7 @@ anethol 1
 amatorial 1
 alphabetising
 assailer 2
-adopters 3
+adopters 4
 assailers 1
 axiform
 assays 2
