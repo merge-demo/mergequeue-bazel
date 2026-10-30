@@ -6157,7 +6157,7 @@ abatable
 agnation 1
 azotised
 aus
-aroeira
+aroeira 1
 amphi 3
 agnel
 aerographic
@@ -21057,7 +21057,7 @@ asclepiadae
 aircheck 2
 asclepiadean 2
 airwaves
-asclepiadic 2
+asclepiadic 3
 autosender 2
 asclepian 1
 asclepidin 2
@@ -22563,7 +22563,7 @@ antidromy
 abiston 2
 adonean 4
 atelestite 2
-acetylcellulose
+acetylcellulose 1
 admittances 1
 asemasia 1
 atelier 1
@@ -24778,7 +24778,7 @@ arithmetized 1
 autologous 2
 anticonstitutionalism 1
 anitrogenous 3
-avifauna 4
+avifauna 5
 alethea 1
 avifaunae 2
 avifaunas
