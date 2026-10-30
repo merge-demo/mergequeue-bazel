@@ -15953,7 +15953,7 @@ culverfoot 1
 clerical
 clericalists 2
 crumbum 1
-clericality
+clericality 1
 clericals 1
 chordaceous 2
 carpometacarpus 1
