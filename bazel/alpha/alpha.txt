@@ -15835,7 +15835,7 @@ afloat
 authorization 2
 antipyics 1
 antipyonin 1
-antithrombin
+antithrombin 1
 alert
 antipyretics 1
 antipyrin 3
