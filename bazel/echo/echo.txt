@@ -5011,7 +5011,7 @@ endemicity 1
 electrofused 3
 endemism 1
 eco 4
-eightscore 3
+eightscore 4
 endenization 3
 excusator 2
 ecarte 1
