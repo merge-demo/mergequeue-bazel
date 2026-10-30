@@ -6270,7 +6270,7 @@ benthal 2
 birkie
 beaverwood 1
 beys
-burying 3
+burying 4
 benthamism 3
 btise
 blurping 1
@@ -7715,7 +7715,7 @@ bheestie 1
 beblot 1
 bespangles 1
 britten 1
-bathyscaphe 1
+bathyscaphe 2
 bravoite 1
 buxerry
 bhikshu
@@ -14980,7 +14980,7 @@ breathseller 2
 breba 4
 brewmaster
 boatfalls 2
-breccial
+breccial 1
 boatly 2
 breccias 1
 brecciated 3
@@ -15772,7 +15772,7 @@ brogueries 1
 beneficence 3
 becaps 2
 bove
-bedecks 1
+bedecks 2
 beauing 1
 billethead 2
 backstrokes
