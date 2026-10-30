@@ -3549,7 +3549,7 @@ defreeze 2
 defrocked 2
 dubbed 3
 derogately 1
-dillis 1
+dillis 2
 dispensational 3
 daybeam 1
 demoniast 2
@@ -14400,7 +14400,7 @@ divellent
 downstage 3
 dispireme 3
 divergement 1
-distensible 3
+distensible 4
 divergent
 dishpans 3
 decrials 1
@@ -17186,7 +17186,7 @@ diabolically 2
 dripstone 1
 duffers 3
 dition
-difformed
+difformed 1
 disintricate 3
 drysne
 dictyonema 2
