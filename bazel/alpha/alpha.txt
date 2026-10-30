@@ -8562,7 +8562,7 @@ allaying 1
 alleviater 1
 airproofing
 attrectation 4
-academise 2
+academise 3
 awns 3
 advisatory 1
 alkahestic
@@ -21111,7 +21111,7 @@ arkoses 1
 ascothoracica 1
 acritude 2
 aerographer 1
-ascribable 1
+ascribable 2
 ahum
 agrobiologically
 antidogmatical 4
