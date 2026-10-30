@@ -1632,7 +1632,7 @@ gaucheness 5
 glassteel 2
 gravitational
 grimly 3
-grimines 4
+grimines 5
 glibness 1
 gastricism 2
 glycolipid 2
@@ -7402,7 +7402,7 @@ gelsemine 3
 gunnery 2
 gothish 2
 globousness 2
-grangerization 4
+grangerization 5
 gadean 4
 grateless
 gaiety 3
