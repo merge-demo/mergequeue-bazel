@@ -3734,7 +3734,7 @@ fierasferid 2
 fistulas 1
 fittiness 3
 finales 3
-furling 2
+furling 3
 fillips 1
 flics 1
 flexibilty 1
@@ -4688,7 +4688,7 @@ frivolizing 1
 fibroreticulate
 fortitudes
 fixer 3
-fluey
+fluey 1
 forefeeling
 fixidity 7
 fixing 1
