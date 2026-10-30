@@ -1396,7 +1396,7 @@ garniture 2
 gaulsh
 glycosemia 1
 germanize 4
-grecize 2
+grecize 3
 gaits 3
 ganyie 6
 gallotannin 2
@@ -5549,7 +5549,7 @@ grumbles 4
 gamecocks
 guardlike 3
 globigerinae 3
-guarnerius 2
+guarnerius 3
 gourd 7
 glutition 2
 globigerinas 3
@@ -6501,7 +6501,7 @@ glaciologist 4
 germinatively 3
 gonapophysial 3
 glyoxal
-gabert 2
+gabert 3
 goll 2
 gravelled 5
 guddling 3
@@ -9790,7 +9790,7 @@ granter 2
 galley 1
 galvanotropic 1
 gruntling 5
-gazook 1
+gazook 2
 gruppo 4
 galeate 3
 guebre 2
