@@ -10784,7 +10784,7 @@ amlong 2
 ammelide 1
 apodemal
 apothecary 2
-ammer 2
+ammer 3
 adductor 1
 ammeter
 ammeters 2
