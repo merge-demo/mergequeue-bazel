@@ -3093,7 +3093,7 @@ foreboot 1
 fillmass 3
 fibrinose 2
 fibrinosis 1
-feringi 1
+feringi 2
 felineness 1
 fibro
 fantasia 2
