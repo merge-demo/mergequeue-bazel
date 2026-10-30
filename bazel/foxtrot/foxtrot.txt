@@ -1819,7 +1819,7 @@ forgets
 featured 2
 fluidify 1
 featureful
-featurelessness 2
+featurelessness 3
 featureliness 2
 furrows 6
 figureheadship 2
@@ -2514,7 +2514,7 @@ fuzzily 2
 faldworth 3
 foremeant 1
 footsore 3
-feudal 1
+feudal 2
 functionize 1
 fastballs 1
 frush 3
