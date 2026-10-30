@@ -513,7 +513,7 @@ figgle 3
 fassaite 2
 feodum 2
 fishbone 2
-fakirs
+fakirs 1
 falbelo 3
 fioretti 2
 firerooms 4
