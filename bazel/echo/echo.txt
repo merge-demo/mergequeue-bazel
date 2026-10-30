@@ -814,7 +814,7 @@ ecthesis
 emmers 3
 epispadias 2
 edaphically 3
-euglenidae 3
+euglenidae 4
 earthquave 1
 ectypal
 ectype 1
@@ -4747,7 +4747,7 @@ eelware 1
 exalbuminose 2
 encist 2
 electralize 2
-exponentially 4
+exponentially 5
 encysting 1
 eugenol 2
 emptiest 3

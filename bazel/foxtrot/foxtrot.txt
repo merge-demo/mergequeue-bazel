@@ -1736,7 +1736,7 @@ floriferous 1
 freedman
 foveal 5
 feeded 5
-forecastlemen 5
+forecastlemen 6
 foresaddle
 fluphenazine 4
 fossildom 2
@@ -9187,7 +9187,7 @@ foolify 3
 formicaria 1
 fraena 4
 faroff 1
-frostproofing 2
+frostproofing 3
 fulfulde 1
 forward 4
 filices 1
