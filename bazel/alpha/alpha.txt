@@ -3422,7 +3422,7 @@ admires 1
 aesculus 1
 add 3
 atap 2
-alane 1
+alane 2
 alkamin
 animadversal
 attentions 1
@@ -13635,7 +13635,7 @@ anodyne
 anaphroditous
 anodized 1
 abaisance 1
-anodizes 1
+anodizes 2
 acoelomous 1
 artefacts
 ampollosity 1
