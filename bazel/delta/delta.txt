@@ -17458,7 +17458,7 @@ datums 3
 deertongue 3
 delegatee 1
 drove
-drovers
+drovers 1
 dereism 2
 drownd 2
 docents 4
