@@ -17949,7 +17949,7 @@ clubwood 1
 circumvolving 2
 coelentera
 cubicle
-cookshack
+cookshack 1
 colics 2
 cattlehide
 coelenterate 2
