@@ -10983,7 +10983,7 @@ eremites
 endocervicitis 1
 excludes 1
 electrizing 2
-eurhythmic
+eurhythmic 1
 epichirema 1
 echeloot 2
 eoside 1
