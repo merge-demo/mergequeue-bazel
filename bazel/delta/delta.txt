@@ -2675,7 +2675,7 @@ decomposers 2
 daddocky 1
 decomposure 2
 digne 3
-dogwatches 1
+dogwatches 2
 decompoundable 3
 diffractional 2
 decompoundly 2
@@ -10125,7 +10125,7 @@ dagoba
 defervesce 5
 derrickmen
 dechloridized
-disassimilating
+disassimilating 1
 dodecahedra 2
 dindon 1
 doodled 1
@@ -11465,7 +11465,7 @@ dispositive 1
 deskbound 5
 dyotheletic 1
 dividuous 2
-dilatingly
+dilatingly 1
 downturned 1
 dieted
 demythologising 1
