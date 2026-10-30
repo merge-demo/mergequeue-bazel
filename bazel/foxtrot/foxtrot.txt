@@ -6362,7 +6362,7 @@ fren 4
 flang 4
 fullterm 2
 fluoran 1
-fennish 2
+fennish 3
 fluorane 4
 francois 3
 florentium 2
@@ -6480,7 +6480,7 @@ frosted 4
 flourlike 3
 fortes 2
 foremessenger 3
-fluoroscoped 2
+fluoroscoped 3
 furriers 2
 fingerfish 1
 flusterating 4
@@ -10327,7 +10327,7 @@ frondose 2
 focometer 3
 frustrated 3
 fikey 1
-friendless 2
+friendless 3
 foxinesses 1
 fraternise 1
 forrarder 1
