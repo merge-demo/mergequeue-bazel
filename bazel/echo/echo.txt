@@ -4664,7 +4664,7 @@ epimerase 2
 epimerising
 eusuchian 2
 eddies 2
-excretionary 2
+excretionary 3
 enrapting 4
 eustachian 2
 exinanite 1
@@ -6432,7 +6432,7 @@ eye 3
 earthling 1
 enterprisingness 2
 eyedrop 1
-euthanasia 3
+euthanasia 4
 enbaissing 1
 edgeweed 1
 ecotypic 3
@@ -8221,7 +8221,7 @@ equidominant 2
 equidistantly 3
 ergophobia 2
 enisling 1
-euthenic 1
+euthenic 2
 earlobe 3
 ethnomaniac 4
 exodontic 3
@@ -9633,7 +9633,7 @@ encense
 entangleable 1
 equipper 2
 entia 1
-epenthesize 1
+epenthesize 2
 epacris 3
 espagnole
 elaeagnus 2
