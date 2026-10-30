@@ -2169,7 +2169,7 @@ fractioned 4
 friskest 3
 frontiers 3
 folkmoot 1
-falsities 1
+falsities 2
 felonwort 3
 falutin 1
 flatterdock 6
@@ -7960,7 +7960,7 @@ fozier 1
 foreshot 1
 ficelle 1
 fumatoriums 5
-fibrinogenous 3
+fibrinogenous 4
 fitness
 freestones 1
 foreshow 1
@@ -11553,7 +11553,7 @@ fusil 5
 frictionized 3
 fowage 5
 figurations 4
-feedback 1
+feedback 2
 friskful 1
 fusile 2
 flytier 1
