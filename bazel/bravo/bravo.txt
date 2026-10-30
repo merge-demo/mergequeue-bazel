@@ -11268,7 +11268,7 @@ blatchang 1
 bronchoesophagoscopy 1
 beshackle 1
 bloodedness 2
-blowholes 2
+blowholes 3
 blowie 4
 beryline 1
 blear 2
@@ -16420,7 +16420,7 @@ blastocheme 4
 butyrolactone 3
 brainache 3
 bedazzling
-bouffes
+bouffes 1
 bitonal
 bruno 3
 bryanthus 3
