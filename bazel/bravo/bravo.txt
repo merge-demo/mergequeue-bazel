@@ -4116,7 +4116,7 @@ bearding 2
 bonita 2
 balminess
 beslimer
-beards
+beards 1
 barbers 1
 birthroot 1
 bombazette
@@ -16900,7 +16900,7 @@ biconcavity 1
 buzukia 1
 bugaboo 3
 bugan 4
-brahm 4
+brahm 5
 bugbane 1
 beaume
 bimetallists
