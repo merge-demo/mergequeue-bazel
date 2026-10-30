@@ -5709,7 +5709,7 @@ daftlike 1
 depletions 4
 danton 1
 depletive
-denutrition 3
+denutrition 4
 disparities 1
 dishearteningly 2
 delthyrium 2
@@ -18113,7 +18113,7 @@ debarrass 1
 depetticoat 5
 dammed
 demythologizations 1
-duplicate
+duplicate 1
 deterrer 1
 devisors 1
 debatable 1
