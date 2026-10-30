@@ -7597,7 +7597,7 @@ fructuarius
 funiculus
 flintworker 3
 flays 1
-forespeak 2
+forespeak 3
 fecundative 2
 faradising 2
 foredune 3
