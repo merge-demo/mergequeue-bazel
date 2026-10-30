@@ -7715,7 +7715,7 @@ bheestie 1
 beblot 1
 bespangles 1
 britten 1
-bathyscaphe 1
+bathyscaphe 2
 bravoite 1
 buxerry
 bhikshu
@@ -14980,7 +14980,7 @@ breathseller 2
 breba 4
 brewmaster
 boatfalls 2
-breccial
+breccial 1
 boatly 2
 breccias 1
 brecciated 3
