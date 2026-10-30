@@ -1962,7 +1962,7 @@ engrossingly 1
 extraterrestrials 4
 encephalomalacia 1
 eurasians 3
-edgeman 1
+edgeman 2
 ecklein 5
 europeward 2
 electroceramic 1
@@ -7266,7 +7266,7 @@ epidemiology 1
 energetics
 eccaleobion 2
 ensealed
-eopalaeozoic 5
+eopalaeozoic 6
 egocentrically 1
 erysipelothrix 2
 eulogises 1
@@ -9556,7 +9556,7 @@ eupatoriaceous 2
 earls 7
 eskualdun 6
 elevations 1
-eslisor
+eslisor 1
 eatberry 3
 evection 1
 esmeralda

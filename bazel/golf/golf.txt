@@ -2311,7 +2311,7 @@ gelatinating 3
 greyfish 1
 geognosis 3
 guaranis 2
-gelatine 2
+gelatine 3
 gerastian 2
 ge 3
 gagsters 2
@@ -4152,7 +4152,7 @@ gibbi 4
 grahamism 4
 gigback 2
 glottal 1
-ginkgoaceous 5
+ginkgoaceous 6
 gasan 3
 goetic 3
 gravelstone 3
@@ -8274,7 +8274,7 @@ galenite 3
 glissaded 1
 groundless 4
 gladii 3
-graphophone 4
+graphophone 5
 grossulariaceae 3
 graphophonic 2
 gasteria 3
