@@ -3720,7 +3720,7 @@ gabbling 1
 gaugership 1
 grumpier 1
 ghostly 1
-gaura 4
+gaura 5
 gnoses 3
 ghostwriter 2
 gnatoo 2
@@ -5549,7 +5549,7 @@ grumbles 4
 gamecocks
 guardlike 3
 globigerinae 3
-guarnerius 2
+guarnerius 3
 gourd 7
 glutition 2
 globigerinas 3
@@ -6501,7 +6501,7 @@ glaciologist 4
 germinatively 3
 gonapophysial 3
 glyoxal
-gabert 2
+gabert 3
 goll 2
 gravelled 5
 guddling 3
@@ -9293,7 +9293,7 @@ geoffrey
 groenlandicus 1
 glucuronic 3
 goyana 3
-gurge 2
+gurge 3
 gangliate 4
 galactophagous 2
 gunj 4

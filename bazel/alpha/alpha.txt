@@ -784,7 +784,7 @@ antiscia 1
 abitibi 2
 abridgement 1
 abridger 2
-anapeiratic
+anapeiratic 1
 acurative
 afternote 1
 argles 1
@@ -7765,7 +7765,7 @@ aonian 2
 adjustably 1
 areologic 1
 asteroidea 1
-ambrette
+ambrette 1
 attired 3
 alders 1
 alderwomen
@@ -14205,7 +14205,7 @@ alkylbenzenesulfonate 1
 antennal
 achech
 argalas 1
-autolavage 1
+autolavage 2
 appliableness
 admissible 2
 avion 3
