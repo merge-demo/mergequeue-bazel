@@ -6158,7 +6158,7 @@ cattleyak
 cattleman 1
 conhydrin 1
 cattlemen
-cattleship 1
+cattleship 2
 catullian
 clamshells
 coburghership 3
