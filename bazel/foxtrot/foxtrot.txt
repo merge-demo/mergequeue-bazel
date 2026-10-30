@@ -1129,7 +1129,7 @@ footprints
 fitted 6
 foreguts 1
 flog 3
-falseheartedness 2
+falseheartedness 3
 fennels 3
 flexures 1
 flippers 2
@@ -1965,7 +1965,7 @@ fothergilla 5
 fancy 1
 feebless 1
 filatory 2
-fillock 2
+fillock 3
 fernticle 3
 fibratus 2
 functionalize 3
@@ -6835,7 +6835,7 @@ firetower 3
 fustigator 3
 fussify 3
 flipjack 1
-fourhanded 3
+fourhanded 4
 fabled 3
 furomonazole 2
 foliary
@@ -7261,7 +7261,7 @@ formiate 2
 fustet 1
 floorboards 5
 fameuse 4
-fancysick 6
+fancysick 7
 fortlet 3
 federalise 3
 footwalk 3
