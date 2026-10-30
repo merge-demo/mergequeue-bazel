@@ -9596,7 +9596,7 @@ ferrotyper 2
 forhooy 2
 fothering 4
 flanger 5
-flagellant 2
+flagellant 3
 finalism 1
 faqir 3
 foreseeability 1
@@ -11141,7 +11141,7 @@ frumperies
 flocculence 2
 fernlike 3
 foederal 3
-fruitiest 2
+fruitiest 3
 frumple 1
 francas 1
 fingerhold 3
