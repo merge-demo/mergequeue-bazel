@@ -2827,7 +2827,7 @@ duplicative 2
 defi 1
 deferred 1
 dossers 1
-declarator 1
+declarator 2
 decried 2
 desistive 3
 deerflys 1
