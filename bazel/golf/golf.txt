@@ -702,7 +702,7 @@ gowlan 6
 grass 4
 gals
 galtrap 4
-gianthood 3
+gianthood 4
 gastroenterologically
 galumphs 2
 guebucu 5
@@ -7473,7 +7473,7 @@ gourmandizer 4
 grapplement 1
 gomerals 5
 gasconaded 4
-gists 1
+gists 2
 geodesy 3
 gades 1
 gonorrhoea 3
@@ -10125,7 +10125,7 @@ gamy 5
 grassers 5
 galavanting 2
 glia 1
-gipsyhead 3
+gipsyhead 4
 guffer 2
 glaziers 1
 guggle 4
