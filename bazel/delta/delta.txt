@@ -10846,7 +10846,7 @@ desmidiaceous 3
 digit 2
 dynameter 5
 darkest 1
-distant 1
+distant 2
 dipleurobranchiate 1
 dauntingly
 dimerized 2
@@ -11189,7 +11189,7 @@ dodecagon 2
 deprecatoriness 2
 dammaret 1
 disbelievers 3
-diascordium 4
+diascordium 5
 droich 2
 devocalise 2
 dazingly 3
@@ -12851,7 +12851,7 @@ deafish 2
 dualistically
 dysmenorrheal 1
 decadrachm 1
-deferentiality
+deferentiality 1
 dominative 4
 diameter 2
 dhanvantari 2
@@ -13026,7 +13026,7 @@ dithecous 1
 dispeed 2
 dispark 2
 declarer 1
-discommoning 2
+discommoning 3
 diplosphenal 1
 dwang 2
 drownds 1

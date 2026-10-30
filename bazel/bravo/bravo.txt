@@ -5825,7 +5825,7 @@ beyonds
 bellicist 3
 bromometry
 belligerents 2
-buildress
+buildress 1
 boxcar
 bullsnake 2
 berseem 4
@@ -10426,7 +10426,7 @@ biune
 beachboy 2
 bastion
 boghole 1
-boobialla 3
+boobialla 4
 bimuscular 2
 bugseed
 boyards 4
