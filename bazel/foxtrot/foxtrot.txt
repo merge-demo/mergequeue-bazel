@@ -2913,7 +2913,7 @@ featuring 3
 feudalists 2
 fractionising 3
 freetrader 2
-fomentations 3
+fomentations 4
 fulham 2
 foregahger 2
 featherweights 2
@@ -4571,7 +4571,7 @@ fouldre 1
 familiarness 2
 fratricide 4
 fainaigued
-fisting
+fisting 1
 faithfulness
 flattest 2
 frictionize 4
@@ -7690,7 +7690,7 @@ favourers 3
 forehoofs 1
 forehooves 3
 forpit 1
-foreboding 2
+foreboding 3
 fissidentaceae 3
 foreween 2
 fogramite 1
