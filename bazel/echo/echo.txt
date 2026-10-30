@@ -4402,7 +4402,7 @@ embryons 1
 evacuates 2
 enations 2
 euripos 3
-enbrave
+enbrave 1
 eggheadedness 2
 embar 2
 egotize
@@ -6668,7 +6668,7 @@ exhedrae 4
 enterology 2
 epactal 2
 enterologic
-epanastrophe 4
+epanastrophe 5
 exhaled 6
 enteromegalia 2
 enteroneuritis 2
