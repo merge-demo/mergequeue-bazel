@@ -9740,7 +9740,7 @@ bistered 1
 bisters 3
 baidak 1
 bruce 4
-bossies 2
+bossies 3
 burdocks 4
 basifugal 1
 buffered 1
@@ -14193,7 +14193,7 @@ boxerism
 bag 1
 bough 1
 bespot 2
-bottomland 1
+bottomland 2
 bradbury
 bradyauxesis 2
 bilification 1
