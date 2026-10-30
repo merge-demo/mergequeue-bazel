@@ -3093,7 +3093,7 @@ foreboot 1
 fillmass 3
 fibrinose 2
 fibrinosis 1
-feringi 1
+feringi 2
 felineness 1
 fibro
 fantasia 2
@@ -4974,7 +4974,7 @@ flong
 foremarch
 flaminical 3
 fomenters 4
-flowcharting 3
+flowcharting 4
 fintadores 7
 frenulum 2
 flyway 3

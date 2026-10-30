@@ -1569,7 +1569,7 @@ gypsumed 1
 grana 1
 gentlemens 2
 gasser 4
-glutelin 2
+glutelin 3
 gripe 3
 glassless 2
 ghegish 3
@@ -1863,7 +1863,7 @@ gerhardtite 5
 gregory 2
 grandfer 1
 gunfighting 5
-gulinulae 2
+gulinulae 3
 gateposts 5
 gatewaying 4
 gatetender 4
@@ -4141,7 +4141,7 @@ galeidae 3
 genitivally 1
 grapsidae 4
 gentilities 3
-grundy 3
+grundy 4
 geochronology 7
 gnawing 1
 gregarian 2
@@ -4539,7 +4539,7 @@ gomutis 1
 gambrel 1
 gumwoods 2
 gills 1
-graminiform 1
+graminiform 2
 gerbille 2
 gigantomachia 3
 gawp 2
@@ -5297,7 +5297,7 @@ guatemala 2
 gemitores 2
 gossoons
 glyoxilin 3
-glacialism 3
+glacialism 4
 granitical
 graveling 1
 geometries 6
@@ -9067,7 +9067,7 @@ goloch 3
 gryllid 3
 galluptious
 geelbek 3
-glottogonic 1
+glottogonic 2
 greffotome 3
 glassworking 3
 glasser 4
