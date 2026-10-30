@@ -2428,7 +2428,7 @@ gratification 3
 guardship 4
 gemmological 2
 gemmologist 5
-goalkeeping 3
+goalkeeping 4
 grocers 3
 gulper 2
 graphotypic 1
@@ -5735,7 +5735,7 @@ gallant 3
 gaskins 1
 globoseness 3
 guanyl 5
-grieshuckle 2
+grieshuckle 3
 girasols
 gyrolite 4
 gurus
