@@ -2974,7 +2974,7 @@ electrotropism
 europiums 1
 epistoler
 ekronite
-entomology 5
+entomology 6
 elidible 2
 etagere 3
 epistasy
@@ -4138,7 +4138,7 @@ estado 1
 etamin 2
 epigene 1
 epicanthus 3
-ejacula 1
+ejacula 2
 enrooting 5
 eslabon 2
 entangler 2
@@ -7702,7 +7702,7 @@ euphemiser 2
 electrotautomerism
 expoundable 2
 epideistic 3
-enthymematical 2
+enthymematical 3
 eriocaulaceous 2
 effluxion
 estrus 2
@@ -10325,7 +10325,7 @@ exosmic 1
 extemporise 3
 exaggerative 2
 ethonomics 1
-ethnocentric 2
+ethnocentric 3
 epeirogenic 2
 encyclopaedical 1
 epipastic 1
