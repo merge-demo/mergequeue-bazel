@@ -14755,7 +14755,7 @@ divinator 2
 duppy 2
 disabusal 1
 diaheliotropically 3
-doublegear
+doublegear 1
 docimasia 5
 desmacyte 1
 desertrice 3
