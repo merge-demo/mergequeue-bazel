@@ -3240,7 +3240,7 @@ ayond 1
 anagramming 1
 acraze
 aculeae 1
-atolls 1
+atolls 2
 aready
 abram 1
 aphidius
@@ -4911,7 +4911,7 @@ arraigning 1
 aerofoils
 atmidometry
 adjourned 1
-amberfish
+amberfish 1
 antilogous 2
 antinaturalistic 1
 accessit 1
@@ -12453,7 +12453,7 @@ arteriology
 androsterone 2
 androtomy 1
 acoemeti 4
-ayens 1
+ayens 2
 aurantium 3
 anear 1
 abrogable
@@ -15790,7 +15790,7 @@ amidic
 antiphylloxeric 1
 amphibiotica 1
 acarpellous
-arist 1
+arist 2
 avows 4
 arthrempyesis 2
 anisopodal
@@ -18869,7 +18869,7 @@ aghastness 1
 archicerebrum
 archichlamydeae
 archidamus
-amninia 2
+amninia 3
 adherer
 anatropia 2
 archidiaconate 2
