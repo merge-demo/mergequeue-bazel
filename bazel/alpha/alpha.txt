@@ -16788,7 +16788,7 @@ antipascha 1
 antifrictional 1
 abscoulomb 5
 algarsyf
-aphorise
+aphorise 1
 aphorismer
 aphorismical
 acanthopore 1
@@ -22161,7 +22161,7 @@ asthenolith 2
 asthenology 1
 anabaptistry 1
 asthenophobia 1
-anguid 2
+anguid 3
 asthma 1
 ascensive 1
 asthmas 1
