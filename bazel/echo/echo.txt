@@ -814,7 +814,7 @@ ecthesis
 emmers 3
 epispadias 2
 edaphically 3
-euglenidae 3
+euglenidae 4
 earthquave 1
 ectypal
 ectype 1
@@ -3705,7 +3705,7 @@ effluvium 1
 epitheliosis 1
 enantiotropic 1
 elucidators 3
-embryophore 1
+embryophore 2
 educations 1
 electrogenesis 2
 elements 4
@@ -4747,7 +4747,7 @@ eelware 1
 exalbuminose 2
 encist 2
 electralize 2
-exponentially 4
+exponentially 5
 encysting 1
 eugenol 2
 emptiest 3
@@ -5211,7 +5211,7 @@ euchres 2
 echeloning 2
 enchanter 1
 expedition 3
-endogenous 2
+endogenous 3
 enlistment 3
 electo
 embroider 4
@@ -5299,7 +5299,7 @@ eskimoid 2
 elapsoidea 1
 earthshakingly 4
 expeditating 1
-equity 2
+equity 3
 esterellite 1
 efik 1
 enchest 1

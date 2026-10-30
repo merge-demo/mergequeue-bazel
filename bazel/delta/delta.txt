@@ -3091,7 +3091,7 @@ delible 2
 designated 3
 degradand 3
 delightfully 3
-defaces 2
+defaces 3
 disennoble 5
 defacing 2
 defacto 1
@@ -7408,7 +7408,7 @@ dicyclist 1
 diadochian 1
 domesday 1
 discussed 2
-downgone
+downgone 1
 dischargee 1
 detoxication 1
 detoxicator

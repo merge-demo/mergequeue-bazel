@@ -7765,7 +7765,7 @@ aonian 2
 adjustably 1
 areologic 1
 asteroidea 1
-ambrette
+ambrette 1
 attired 3
 alders 1
 alderwomen
@@ -14205,7 +14205,7 @@ alkylbenzenesulfonate 1
 antennal
 achech
 argalas 1
-autolavage 1
+autolavage 2
 appliableness
 admissible 2
 avion 3
@@ -21057,7 +21057,7 @@ asclepiadae
 aircheck 2
 asclepiadean 2
 airwaves
-asclepiadic 2
+asclepiadic 3
 autosender 2
 asclepian 1
 asclepidin 2
@@ -24778,7 +24778,7 @@ arithmetized 1
 autologous 2
 anticonstitutionalism 1
 anitrogenous 3
-avifauna 4
+avifauna 5
 alethea 1
 avifaunae 2
 avifaunas
