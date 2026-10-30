@@ -14783,7 +14783,7 @@ brows
 brazier 3
 bern
 barres 1
-ballooner 3
+ballooner 4
 bombable
 burgheress 2
 baru 2
@@ -18066,7 +18066,7 @@ bustler 1
 bustlers 3
 bustles
 biologize
-bustlingly 1
+bustlingly 2
 blenny 1
 bloom
 banzais 1
