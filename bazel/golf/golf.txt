@@ -1889,7 +1889,7 @@ galacturia 4
 gardenwise 1
 grabber 6
 gatherers 3
-galumph 1
+galumph 2
 gooma 3
 gamenesses 2
 grecale 1
@@ -2225,7 +2225,7 @@ gastrolith 4
 gymnosperms 4
 galas 3
 gaster 1
-gastrocatarrhal 2
+gastrocatarrhal 3
 goodbyes 1
 ganefs
 gnomonology 3
@@ -10232,7 +10232,7 @@ gowpin 2
 gweduck 3
 gobbet 1
 gunless 1
-guillotinist 1
+guillotinist 2
 glutaraldehyde 4
 ginzo 2
 gonophorous 5
@@ -10753,7 +10753,7 @@ globulin 5
 gorsebird
 grovelers 3
 gerodontics 2
-germinator 2
+germinator 3
 gerald 4
 gut 2
 grasswards 1
