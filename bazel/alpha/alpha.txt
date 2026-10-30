@@ -2861,7 +2861,7 @@ autostylic
 autarchical 1
 agonium 2
 apium 1
-abidal
+abidal 1
 azaleas
 acronymizing 1
 anchorage 1
@@ -12029,7 +12029,7 @@ aka 1
 agba
 ascribed
 armagnac 1
-alkylated 1
+alkylated 2
 anarthrosis 2
 algous
 anarthrously
