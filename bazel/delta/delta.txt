@@ -15619,7 +15619,7 @@ doorknob 2
 doorless
 destinate 1
 doormaid 1
-dugong
+dugong 1
 dietist 1
 doormaker 2
 doormats 1
