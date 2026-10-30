@@ -15498,7 +15498,7 @@ deceivableness 2
 dispell 3
 desist 2
 deflagrated 1
-decolorise
+decolorise 1
 dealers 1
 demodulates 3
 dependableness 2
