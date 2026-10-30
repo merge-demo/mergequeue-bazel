@@ -974,7 +974,7 @@ embryulci 4
 eddied 3
 eponymic 3
 edits 3
-enterococcus 2
+enterococcus 3
 eastwards 3
 esoterics 1
 exhumes
@@ -1390,7 +1390,7 @@ eurasiatic 1
 exhalent 1
 ennead 1
 enneastylos 1
-epeidia 2
+epeidia 3
 epilaryngeal 3
 effigurate 1
 eubranchipus
@@ -8603,7 +8603,7 @@ equidistribution 2
 esu 1
 exect
 eutaxic 2
-equidiurnal 2
+equidiurnal 3
 eelpouts 2
 executor 5
 eleutheromania 2
@@ -11860,7 +11860,7 @@ excaudate 2
 engracing 2
 excavator 3
 enlace 3
-excave 4
+excave 5
 eructated 4
 extancy 4
 elutes 1
