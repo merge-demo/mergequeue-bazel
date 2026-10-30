@@ -6221,7 +6221,7 @@ depleted 1
 damascened 1
 digametic 2
 dermabrasion 1
-dithyramb 1
+dithyramb 2
 degrades
 drabness 1
 dipsades 2
@@ -17750,7 +17750,7 @@ discriminous 1
 dispossessed 1
 ducaton
 dependency
-ducats 1
+ducats 2
 dewiness
 demises 1
 ducdame 2
