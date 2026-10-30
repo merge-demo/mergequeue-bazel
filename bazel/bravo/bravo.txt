@@ -4116,7 +4116,7 @@ bearding 2
 bonita 2
 balminess
 beslimer
-beards
+beards 1
 barbers 1
 birthroot 1
 bombazette
