@@ -6432,7 +6432,7 @@ eye 3
 earthling 1
 enterprisingness 2
 eyedrop 1
-euthanasia 3
+euthanasia 4
 enbaissing 1
 edgeweed 1
 ecotypic 3
@@ -9633,7 +9633,7 @@ encense
 entangleable 1
 equipper 2
 entia 1
-epenthesize 1
+epenthesize 2
 epacris 3
 espagnole
 elaeagnus 2
