@@ -428,7 +428,7 @@ fur 2
 frockmaker 5
 fairship 2
 feal 4
-flitting 1
+flitting 2
 fogmen 3
 fairway 1
 fulminate 3
