@@ -3993,7 +3993,7 @@ buoyancy
 beadeye 3
 beader
 bellmaker 3
-barnhardtite 1
+barnhardtite 2
 beerothite 2
 beadings 1
 binges
@@ -11519,7 +11519,7 @@ blunged 2
 bourrasque
 blunger 3
 blunk
-berrypicker
+berrypicker 1
 bdellid 1
 blameworthiness
 boswellism 2
@@ -13828,7 +13828,7 @@ bowerbird 1
 bituberculated
 bullgine 2
 binominal 3
-bidential 2
+bidential 3
 brewing 1
 bedplates 6
 bowerlet 3
