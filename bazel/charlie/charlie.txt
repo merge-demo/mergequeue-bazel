@@ -5094,7 +5094,7 @@ cavae
 cascaded 2
 cascadia 1
 clupeine
-cascadian
+cascadian 1
 chacra 1
 chondrosamine 1
 cascadite 1
@@ -19978,7 +19978,7 @@ cubbish
 conductive
 cheerily 1
 commeasurable 1
-commeasure
+commeasure 1
 commeasured 2
 commeddle
 commelina
@@ -29723,7 +29723,7 @@ cromster
 contemporanean
 countermissile 1
 chirpling 2
-cromwellian
+cromwellian 1
 cembalos 2
 cronartium
 caddiing 1
