@@ -3737,7 +3737,7 @@ daddling 2
 delustrant 2
 dackering 2
 dehisce 2
-dasymeter
+dasymeter 1
 dichromism 1
 deglutinate 1
 depot
@@ -6384,7 +6384,7 @@ dorsiventral 7
 dielec
 derodidymus 1
 derog 1
-demeanour 1
+demeanour 2
 doronicum
 despond 2
 derogate 2
