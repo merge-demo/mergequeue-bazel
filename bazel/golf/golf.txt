@@ -702,7 +702,7 @@ gowlan 6
 grass 4
 gals
 galtrap 4
-gianthood 3
+gianthood 4
 gastroenterologically
 galumphs 2
 guebucu 5
@@ -3236,7 +3236,7 @@ gilgul 6
 goldenwing 4
 galoot 3
 greatish 4
-getatability 3
+getatability 4
 gally 3
 graffage 1
 gazement 1
@@ -8587,7 +8587,7 @@ gypping 3
 gastrolatrous
 gemel 2
 gossipy 2
-gonidioid 3
+gonidioid 4
 gravure 3
 gathic 4
 gossameriness 1
@@ -9514,7 +9514,7 @@ generalizer 2
 gloving 2
 ganoidean 5
 grouser 1
-gunmetals 3
+gunmetals 4
 gorgeted 2
 gyred 2
 grimp 3
