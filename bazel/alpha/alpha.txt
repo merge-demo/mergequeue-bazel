@@ -5071,7 +5071,7 @@ aerotherapy
 ash 2
 arridge
 abthanage
-agronomic
+agronomic 1
 aerotonometry
 antirationally
 adularescent
@@ -6441,7 +6441,7 @@ aguacateca 1
 antidynastically
 aguamiel 1
 aguavina 1
-actinologous 1
+actinologous 2
 archsacrificer 1
 agudist
 arsonite 1
@@ -12366,7 +12366,7 @@ adultly 1
 andouillet 2
 apometaboly 3
 andrarchy 1
-andre 1
+andre 2
 ambitious
 andrea 2
 andreaeales 1
