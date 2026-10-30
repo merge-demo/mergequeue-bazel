@@ -1129,7 +1129,7 @@ footprints
 fitted 6
 foreguts 1
 flog 3
-falseheartedness 2
+falseheartedness 3
 fennels 3
 flexures 1
 flippers 2
@@ -6835,7 +6835,7 @@ firetower 3
 fustigator 3
 fussify 3
 flipjack 1
-fourhanded 3
+fourhanded 4
 fabled 3
 furomonazole 2
 foliary
