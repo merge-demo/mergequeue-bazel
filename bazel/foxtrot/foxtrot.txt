@@ -2312,7 +2312,7 @@ fixatifs 6
 flagitious 1
 felis 3
 franchises 3
-feminizes 2
+feminizes 3
 friday 1
 forbysen 6
 fens 2
@@ -2758,7 +2758,7 @@ fights 1
 festerment 3
 footway 1
 feis 3
-flanges 1
+flanges 2
 fortescure
 fascisms 2
 ferrimagnet 2
@@ -6435,7 +6435,7 @@ frogeye 6
 fluoaluminate 4
 fainted 3
 frictionable
-flatcap
+flatcap 1
 fairs 1
 fibrinolysis
 fungi 2
