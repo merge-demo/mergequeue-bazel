@@ -6673,7 +6673,7 @@ deservers 3
 droplight 1
 decadianome 1
 drawarm 2
-dipneedle
+dipneedle 1
 danders 1
 deregulates
 deserving
