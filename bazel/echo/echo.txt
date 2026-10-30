@@ -6020,7 +6020,7 @@ enjoiners 4
 extravillar 2
 estafa 3
 exigence
-electrodesiccate 3
+electrodesiccate 4
 electricalness 2
 embolomerism 2
 electrodynamism 1
@@ -7958,7 +7958,7 @@ epimeres
 electrostenolysis 1
 epimerism 1
 enterolithiasis 3
-evangels
+evangels 1
 epitomate 1
 encephalonarcosis 5
 equisetic 2
@@ -11285,7 +11285,7 @@ enwrapped
 ectoplasy 1
 extraversive 3
 eutaxy 2
-eikonogen 1
+eikonogen 2
 evaporates 3
 edp 2
 eimer 5
