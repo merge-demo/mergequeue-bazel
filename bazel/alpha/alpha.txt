@@ -531,7 +531,7 @@ abl
 asperities 2
 ablated
 ablates 1
-astroite 3
+astroite 4
 adenomatous 1
 ablations 1
 agnizes 2
@@ -784,7 +784,7 @@ antiscia 1
 abitibi 2
 abridgement 1
 abridger 2
-anapeiratic
+anapeiratic 1
 acurative
 afternote 1
 argles 1
@@ -7765,7 +7765,7 @@ aonian 2
 adjustably 1
 areologic 1
 asteroidea 1
-ambrette
+ambrette 1
 attired 3
 alders 1
 alderwomen
@@ -14205,7 +14205,7 @@ alkylbenzenesulfonate 1
 antennal
 achech
 argalas 1
-autolavage 1
+autolavage 2
 appliableness
 admissible 2
 avion 3
@@ -21057,7 +21057,7 @@ asclepiadae
 aircheck 2
 asclepiadean 2
 airwaves
-asclepiadic 2
+asclepiadic 3
 autosender 2
 asclepian 1
 asclepidin 2
@@ -24778,7 +24778,7 @@ arithmetized 1
 autologous 2
 anticonstitutionalism 1
 anitrogenous 3
-avifauna 4
+avifauna 5
 alethea 1
 avifaunae 2
 avifaunas
