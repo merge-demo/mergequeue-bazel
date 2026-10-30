@@ -13920,7 +13920,7 @@ backpointer 1
 byspell 3
 broadened
 bargelli
-belugas
+belugas 1
 barylite
 brooky 2
 boxcars 2
