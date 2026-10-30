@@ -1318,7 +1318,7 @@ chromatophilia
 causative 1
 cyanohydrin 1
 catalects 1
-caliburn 1
+caliburn 2
 crewless 1
 cravatted
 crab 4
@@ -16165,7 +16165,7 @@ climaxing 1
 consequence
 cytotrophoblastic 2
 climbed 1
-climber
+climber 1
 cabobs 2
 climbers 2
 cheetal
@@ -28013,7 +28013,7 @@ cinnamoyl 1
 crayon 2
 crayoning 1
 crayonist 2
-crayonists 2
+crayonists 3
 chalkosideric
 cinnamomic 1
 concoctor
