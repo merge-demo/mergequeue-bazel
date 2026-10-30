@@ -5841,7 +5841,7 @@ categorizer
 categorizes
 chromeplated 1
 cabas
-crawling 2
+crawling 3
 chateau
 cateye 1
 catel
@@ -6861,7 +6861,7 @@ celluloid 1
 confabbing
 chartaceous
 cellulosic
-contented
+contented 1
 cellulosing 1
 cellulosity 1
 correllated
@@ -9559,7 +9559,7 @@ construct 2
 checksumming
 castro 1
 cistaceae 3
-chromogenous
+chromogenous 1
 catechize
 cubiculum
 capacitively
