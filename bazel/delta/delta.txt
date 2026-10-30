@@ -7003,7 +7003,7 @@ despoil
 despoiled 2
 destroyers
 despoiler 3
-disabilities
+disabilities 1
 despoilers 2
 decongest 3
 decamps
@@ -8625,7 +8625,7 @@ dinge
 debugging
 distilment 3
 dialyses
-diary 2
+diary 3
 diaglyph 3
 disimprove
 diarist
