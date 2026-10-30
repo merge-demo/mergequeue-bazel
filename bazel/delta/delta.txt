@@ -8450,7 +8450,7 @@ degreed 2
 diamagnet 1
 diamagnetic 3
 diamagnetism 3
-dredging 1
+dredging 2
 diamant 2
 ditrochee 1
 deflexed 3
@@ -10033,7 +10033,7 @@ demodulation 1
 detailer 1
 demist
 deck 1
-disordain 1
+disordain 2
 decemfoliolate 1
 dynactinometer 2
 deratize 1
@@ -14608,7 +14608,7 @@ dietarily 1
 desulfovibrio 2
 disillusionary 3
 diarrheas 4
-duodenectomy 2
+duodenectomy 3
 drevel 1
 dibucaine 1
 dialogued 1
