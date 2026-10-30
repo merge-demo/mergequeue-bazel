@@ -6157,7 +6157,7 @@ abatable
 agnation 1
 azotised
 aus
-aroeira
+aroeira 1
 amphi 3
 agnel
 aerographic
@@ -22563,7 +22563,7 @@ antidromy
 abiston 2
 adonean 4
 atelestite 2
-acetylcellulose
+acetylcellulose 1
 admittances 1
 asemasia 1
 atelier 1
