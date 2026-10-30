@@ -6804,7 +6804,7 @@ bradylalia 4
 bertie 4
 bertolonia
 bioacoustics 1
-basigenous
+basigenous 1
 bertrum 1
 bullarium 4
 beachy 1
@@ -11412,7 +11412,7 @@ bekko 4
 bestrut 3
 boxthorn
 bagplant 4
-bluejacket 1
+bluejacket 2
 bluejacks
 blueline 1
 blennophthalmia 1
@@ -13779,7 +13779,7 @@ burker 1
 brunion 2
 baddishly 1
 blessing 5
-bowbent 1
+bowbent 2
 bowdichia 4
 bloodily 1
 beboppers
