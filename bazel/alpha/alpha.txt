@@ -12552,7 +12552,7 @@ apatosaurus
 amandus 2
 alogia 3
 appositionally 1
-anthribid
+anthribid 1
 anencephalic 2
 angka
 alulae
@@ -19121,7 +19121,7 @@ archvillainy
 assuages
 algorithm 1
 anisylidene 2
-aphoristic
+aphoristic 1
 archwag 1
 archways 4
 arceuthobium 1
