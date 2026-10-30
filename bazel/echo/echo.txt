@@ -3826,7 +3826,7 @@ extolled 1
 economic 2
 engrain
 expletory 2
-emended 4
+emended 5
 ecu 2
 emending 2
 escribano 7
@@ -11602,7 +11602,7 @@ expatiate 1
 enmeshing
 evolver 2
 equiponderating
-ectolecithal 3
+ectolecithal 4
 evonymuses 3
 electroencephalographically 2
 end 2
