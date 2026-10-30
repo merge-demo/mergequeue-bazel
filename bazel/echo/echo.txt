@@ -5211,7 +5211,7 @@ euchres 2
 echeloning 2
 enchanter 1
 expedition 3
-endogenous 2
+endogenous 3
 enlistment 3
 electo
 embroider 4
