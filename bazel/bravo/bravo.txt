@@ -2368,7 +2368,7 @@ barcone 2
 backwraps 3
 banshie 1
 brakemen 3
-belabors 2
+belabors 3
 barcoo 2
 beslab 1
 bemoisten 1
@@ -2981,7 +2981,7 @@ barringer 2
 broadcasters 1
 barrios 1
 boulevard 2
-barrister 4
+barrister 5
 bootless 3
 banda
 botts 2

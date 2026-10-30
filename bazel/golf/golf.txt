@@ -2665,7 +2665,7 @@ gynophagite 7
 gardeviance 1
 gibbles 2
 genevan 6
-grabbing 3
+grabbing 4
 giboia 2
 gadgets 2
 gribbles 2
@@ -3056,7 +3056,7 @@ gangshag 3
 geometriform 7
 graminicolous 3
 gemmipares
-glyptotheca 1
+glyptotheca 2
 gametogenous 2
 garnetz 2
 gossipper 3
@@ -5431,7 +5431,7 @@ gulfside 1
 ghilzai 7
 glyoxalic 1
 galliwasp
-guniter 3
+guniter 4
 glyphic 1
 gambist 1
 gascoign 3

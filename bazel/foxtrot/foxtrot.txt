@@ -4088,7 +4088,7 @@ foetiparous
 flateria 2
 fluffy 3
 fraid 2
-foxtail
+foxtail 1
 forex 2
 finless 2
 fallopian 3
@@ -4724,7 +4724,7 @@ fruitfuller 2
 frumentarious 1
 flabbergast 2
 forkfuls 3
-fougue 5
+fougue 6
 feathermonger 1
 fobbing 2
 fijian 4
@@ -6000,7 +6000,7 @@ fidia 4
 fireproof 1
 foliole
 fictioneering 4
-feldsher
+feldsher 1
 fez 1
 floorwise
 featishness 3
@@ -6153,7 +6153,7 @@ fantom
 frequented 5
 foredoor 7
 fraughts 1
-furiosity
+furiosity 1
 ferrums 5
 fuses 2
 fewness 1
@@ -7597,7 +7597,7 @@ fructuarius
 funiculus
 flintworker 3
 flays 1
-forespeak 2
+forespeak 3
 fecundative 2
 faradising 2
 foredune 3

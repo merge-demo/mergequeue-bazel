@@ -3726,7 +3726,7 @@ exhaustivity 1
 egoistry
 embrittle 1
 enfranchised 1
-echinochrome 3
+echinochrome 4
 escobilla
 enravishingly 1
 embrittling 4
@@ -4081,7 +4081,7 @@ encrusting 2
 eremian 2
 engross 2
 earle 2
-elve 2
+elve 3
 eucrasy 1
 eutherian 2
 ethylbenzene 2
@@ -8091,7 +8091,7 @@ exceptive 2
 empowerment
 equicrural 4
 electrooculogram 3
-exosporium 3
+exosporium 4
 extraprovincial 2
 epiphragm 3
 enlargedness 1
