@@ -2023,7 +2023,7 @@ disregardable 1
 dasypodidae 1
 dogleg 2
 dogwoods 2
-decagynous
+decagynous 1
 dinornis 1
 dearling 1
 denationalized 3
@@ -8031,7 +8031,7 @@ defenestration 1
 doylt
 dietician
 duomi 1
-dispersion 1
+dispersion 2
 dumbhead 3
 dhal 2
 dimension
