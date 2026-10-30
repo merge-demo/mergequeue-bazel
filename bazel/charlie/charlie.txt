@@ -3278,7 +3278,7 @@ crayfishing 1
 corregimiento 1
 capitoline 1
 capitolium
-crabbit 4
+crabbit 5
 capitula 1
 crumbiest 1
 capitulant 1
@@ -18122,7 +18122,7 @@ colatorium 2
 coenunuri 1
 coleochaetaceae
 coequal
-coteful
+coteful 1
 campman 1
 carpe
 coequalness 1
@@ -28905,7 +28905,7 @@ crewmanship 1
 crewmen 2
 crewneck
 capsheaf 2
-chaetognathan 2
+chaetognathan 3
 crex 3
 cry
 crikey 2
