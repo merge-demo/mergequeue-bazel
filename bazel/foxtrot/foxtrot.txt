@@ -4384,7 +4384,7 @@ fathomed 1
 fishability 1
 feltwork 1
 flybook 3
-fixion 4
+fixion 5
 fishboats 5
 fonduk
 fishbolts 1
