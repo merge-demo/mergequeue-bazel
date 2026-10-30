@@ -7119,7 +7119,7 @@ feh 4
 frigid 3
 foundress 2
 feeder
-ferly 3
+ferly 4
 flanging 1
 familarity 1
 footballs 2
@@ -10514,7 +10514,7 @@ frousty 2
 frouzy
 flirtiest 1
 fazendas 4
-frouziest 2
+frouziest 3
 flite 3
 foldstool 2
 floristry 1
