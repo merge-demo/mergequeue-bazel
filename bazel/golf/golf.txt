@@ -2754,7 +2754,7 @@ gunfire 2
 greenflies 2
 germanism 1
 gauger 5
-guestchamber 2
+guestchamber 3
 gorraf 3
 gipped 1
 gallused 2
@@ -8350,7 +8350,7 @@ gnarling 4
 genitalia 1
 greeniest 3
 grins 6
-glittery 3
+glittery 4
 genioglossi 5
 gulled 2
 gopherroot 2
