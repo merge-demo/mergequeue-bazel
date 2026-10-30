@@ -1116,7 +1116,7 @@ abetting 2
 allegros 1
 abwab 1
 aureateness
-ac
+ac 1
 anguliferous 4
 acacatechol
 acacia
@@ -6644,7 +6644,7 @@ amatories 1
 anarcestean
 ably 1
 aikinite 1
-aikona 1
+aikona 2
 arbitrarily
 asphyctic
 attune 1
@@ -9238,7 +9238,7 @@ alodialism
 aerophagist 1
 alodialist 2
 archdeaconry 2
-alodialty
+alodialty 1
 adenogenous 1
 atomics 1
 antiparliamentarian 1
