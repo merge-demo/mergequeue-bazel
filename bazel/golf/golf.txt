@@ -146,7 +146,7 @@ gratelike 2
 garrot 2
 geryon
 galipot 2
-graniteware 1
+graniteware 2
 gasthauser 2
 ghettoized 1
 glunimie
@@ -1494,7 +1494,7 @@ galosh 1
 guacamole 2
 gastrulae 1
 guarachas 3
-gunocracy
+gunocracy 1
 gasifies 3
 glengarry 5
 gasterolichenes 4
