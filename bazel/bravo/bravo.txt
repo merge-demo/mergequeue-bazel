@@ -2129,7 +2129,7 @@ banteringly 2
 banty 2
 betangle 2
 bribery 2
-bantu 1
+bantu 2
 bantus 1
 bandon
 bewield 4
@@ -17428,7 +17428,7 @@ bassoon 1
 berserker 3
 bluebird
 bunkerage 1
-bedtimes 1
+bedtimes 2
 bandbox 1
 busy 1
 boettner 2
