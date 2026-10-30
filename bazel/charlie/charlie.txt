@@ -6861,7 +6861,7 @@ celluloid 1
 confabbing
 chartaceous
 cellulosic
-contented
+contented 1
 cellulosing 1
 cellulosity 1
 correllated
@@ -14244,7 +14244,7 @@ circumjacency
 circumjovial
 circumlitio 1
 circumlittoral 1
-circumlocute 2
+circumlocute 3
 circumlocution
 cypripedin
 centralizes
@@ -26419,7 +26419,7 @@ cotyliscus
 cotylophora 2
 collide 1
 cotylopubic 1
-catatonics
+catatonics 1
 criminalist 1
 cotylosacral
 cotylosaur 2
