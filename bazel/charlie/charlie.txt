@@ -2948,7 +2948,7 @@ coation
 clip 1
 cantharidian 1
 cycloacetylene
-cantharidize
+cantharidize 1
 cantharidized
 cantharus 2
 clotter 2
@@ -5094,7 +5094,7 @@ cavae
 cascaded 2
 cascadia 1
 clupeine
-cascadian
+cascadian 1
 chacra 1
 chondrosamine 1
 cascadite 1
@@ -13089,7 +13089,7 @@ cybernetics 2
 cybernion 2
 cibol 1
 conjugacy
-cibola
+cibola 1
 cibolero 3
 cibols
 columnea 2
@@ -19978,7 +19978,7 @@ cubbish
 conductive
 cheerily 1
 commeasurable 1
-commeasure
+commeasure 1
 commeasured 2
 commeddle
 commelina
@@ -29723,7 +29723,7 @@ cromster
 contemporanean
 countermissile 1
 chirpling 2
-cromwellian
+cromwellian 1
 cembalos 2
 cronartium
 caddiing 1
