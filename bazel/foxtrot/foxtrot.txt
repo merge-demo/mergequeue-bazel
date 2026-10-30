@@ -860,7 +860,7 @@ forsloth 5
 fractable 2
 finked 3
 fustigation 5
-flowage
+flowage 1
 flakes
 flavicant 2
 forkman 3
