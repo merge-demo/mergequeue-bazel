@@ -1778,7 +1778,7 @@ glycolipin
 gomerils 2
 germinance 4
 goodless 3
-golliwogs 2
+golliwogs 3
 gallic 6
 gonion 2
 grx 2
@@ -6952,7 +6952,7 @@ geromorphism 5
 grayfly 4
 geometrised 3
 gradients
-geostatics 4
+geostatics 5
 goodwife 2
 grecians
 guasa 2
@@ -8350,7 +8350,7 @@ gnarling 4
 genitalia 1
 greeniest 3
 grins 6
-glittery 3
+glittery 4
 genioglossi 5
 gulled 2
 gopherroot 2
