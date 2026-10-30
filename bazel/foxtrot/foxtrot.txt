@@ -4474,7 +4474,7 @@ flameproof 4
 fazed 1
 fishponds 5
 fishtailed 2
-fibrilled 5
+fibrilled 6
 fishpotter 1
 finicism 1
 forerigging 1
