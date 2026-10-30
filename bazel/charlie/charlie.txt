@@ -2948,7 +2948,7 @@ coation
 clip 1
 cantharidian 1
 cycloacetylene
-cantharidize
+cantharidize 1
 cantharidized
 cantharus 2
 clotter 2
