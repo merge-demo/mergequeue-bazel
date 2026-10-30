@@ -1963,7 +1963,7 @@ extraterrestrials 4
 encephalomalacia 1
 eurasians 3
 edgeman 2
-ecklein 5
+ecklein 6
 europeward 2
 electroceramic 1
 energism 4
@@ -2869,7 +2869,7 @@ eleutherian 1
 epidemicalness 4
 eleutherios 4
 estuarian 4
-elytriferous 1
+elytriferous 2
 enterotoxin 2
 ectosteally 4
 ecbasis 2
@@ -7375,7 +7375,7 @@ embue 1
 exstipulate 2
 epeiric
 exciseman 1
-enunciate
+enunciate 1
 ecclesiastically 2
 embowerment
 ephesian 2
@@ -14161,7 +14161,7 @@ engouee 1
 encinctured 3
 eriobotrya 2
 emersonian 2
-eidoptometry 3
+eidoptometry 4
 extensive 3
 epiloia 3
 escamoteur

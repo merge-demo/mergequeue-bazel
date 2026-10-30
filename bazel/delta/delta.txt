@@ -8824,7 +8824,7 @@ dodecagonal
 divination 1
 dib 4
 dyspraxia
-dibbing 1
+dibbing 2
 deliberates 1
 deterring 2
 drachmas
@@ -15619,7 +15619,7 @@ doorknob 2
 doorless
 destinate 1
 doormaid 1
-dugong
+dugong 1
 dietist 1
 doormaker 2
 doormats 1
