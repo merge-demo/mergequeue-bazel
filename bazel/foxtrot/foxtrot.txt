@@ -2099,7 +2099,7 @@ fissipalmate 1
 forebodies 4
 facture 4
 finetop 2
-favorless 1
+favorless 2
 frument 2
 fayence
 fermentate 4
@@ -4589,7 +4589,7 @@ fooldom 5
 flirtishness 3
 frees 4
 festing 5
-fesswise 2
+fesswise 3
 fringilliformes 4
 foliages 1
 flunkyism 4
@@ -7331,7 +7331,7 @@ federally 3
 fiddleheaded
 forechamber 4
 foraminiferal 6
-fogs 4
+fogs 5
 fidgetingly 3
 foible
 felting 2

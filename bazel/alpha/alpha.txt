@@ -8589,7 +8589,7 @@ ammanite 1
 anecdota 2
 agnoites 2
 aegagropiles
-allassotonic 1
+allassotonic 2
 alleviations 2
 allatrate
 abaction 1
@@ -11048,7 +11048,7 @@ amortizable 1
 algic 2
 assibilation 3
 abnormalcy 1
-amortizes 2
+amortizes 3
 arecaceae 4
 araneid 1
 anoesis 1
@@ -17090,7 +17090,7 @@ abstinence 2
 apodiabolosis
 arithmetize 2
 apodictive
-aluminite 2
+aluminite 3
 apodyteria
 adverb 2
 apodyterium
@@ -19044,7 +19044,7 @@ archpall 1
 anana 3
 archphilosopher 1
 announcer 3
-archpilferer
+archpilferer 1
 adornment 1
 aneurismatic 1
 accentuating
@@ -23395,7 +23395,7 @@ antimephitic
 antefix 2
 almanacs
 arteriopathy 1
-angelique 1
+angelique 2
 aigialosaur 1
 acclimatisable
 audiles

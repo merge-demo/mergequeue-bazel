@@ -2324,7 +2324,7 @@ bromite
 briber 3
 barbita 1
 barbital
-brighteners
+brighteners 1
 barbiton
 bloodworm 1
 bhutani 2
@@ -2850,7 +2850,7 @@ barbery 2
 barrabora
 barrack
 borh 2
-ballers 3
+ballers 4
 barracking
 birders
 blanchi 4
@@ -8355,7 +8355,7 @@ bygo 2
 bimetallist 2
 bygone 2
 bist 1
-blousiest 4
+blousiest 5
 bribed 1
 biddableness 1
 bitore
@@ -10379,7 +10379,7 @@ barodynamics 3
 blander 3
 bewailer 1
 bookdom 1
-bullism 1
+bullism 2
 backwoodser 1
 brawer 1
 browman 3
@@ -10851,7 +10851,7 @@ britskas 3
 bloodlike
 belauds 1
 blastomycetic 3
-blowgun 3
+blowgun 4
 blighters 2
 bestowing
 bluish 1
