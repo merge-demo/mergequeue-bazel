@@ -14980,7 +14980,7 @@ breathseller 2
 breba 4
 brewmaster
 boatfalls 2
-breccial
+breccial 1
 boatly 2
 breccias 1
 brecciated 3
