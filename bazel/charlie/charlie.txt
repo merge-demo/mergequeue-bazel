@@ -554,7 +554,7 @@ compellers 1
 chozar
 cadism 1
 cashmirian 1
-camlets 1
+camlets 2
 cadlock 1
 colourlessly 2
 cadmia
@@ -17954,7 +17954,7 @@ colics 2
 cattlehide
 coelenterate 2
 catharses
-crotin
+crotin 1
 coelenterates 2
 coelenteric
 copyman 1
