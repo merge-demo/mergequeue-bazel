@@ -2657,7 +2657,7 @@ cangia
 constitutively
 cangler
 cangue 2
-chonolith
+chonolith 1
 cangues 2
 canichanan 1
 canicola 1
@@ -6994,7 +6994,7 @@ counterimitation 1
 censitaire 2
 champion
 curiosity 2
-chitchats
+chitchats 1
 cisalpine 1
 censored
 cytomorphosis 1
@@ -9202,7 +9202,7 @@ carbonylic 1
 chastener
 cashaw
 coplanation
-curvinerved 1
+curvinerved 2
 chaster
 crombec
 chastest
