@@ -14783,7 +14783,7 @@ brows
 brazier 3
 bern
 barres 1
-ballooner 3
+ballooner 4
 bombable
 burgheress 2
 baru 2
