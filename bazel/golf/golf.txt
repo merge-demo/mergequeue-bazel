@@ -1153,7 +1153,7 @@ genitors 3
 gantlet 2
 grocer 3
 gled 5
-gantleted 3
+gantleted 4
 gripier
 grouses 1
 goninidia 2
@@ -3205,7 +3205,7 @@ guerdoning 4
 gephyrea 1
 gwendolen 1
 gular 3
-gallomania 3
+gallomania 4
 gaudiness 1
 getup 5
 golilla 3
@@ -10518,7 +10518,7 @@ grayishness 3
 garn 1
 goblinry 1
 gundie 3
-graspingness 3
+graspingness 4
 galipots 1
 goladar 1
 girl 1
