@@ -1517,7 +1517,7 @@ chemurgy
 calligraphers 2
 college
 calligraphy
-calligraphic
+calligraphic 1
 chiba 1
 cooeying
 calligraphically 3
