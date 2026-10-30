@@ -902,7 +902,7 @@ dantology 1
 dashpots 1
 dextrin 2
 dewitt 1
-decolourised 2
+decolourised 3
 dantophilist 2
 dinned 1
 daoine
@@ -2862,7 +2862,7 @@ dihydronicotine 1
 desensitizations 1
 dramatizations 1
 donors 4
-dynatron 1
+dynatron 2
 decumanus 1
 daphnin 3
 dolomitised 2
@@ -7004,7 +7004,7 @@ despoiled 2
 destroyers
 despoiler 3
 disabilities
-despoilers 1
+despoilers 2
 decongest 3
 decamps
 discreditably 1
@@ -17469,7 +17469,7 @@ drowsier 2
 dumous 2
 damnyankee 1
 dhundia 2
-discarder 1
+discarder 2
 decuplet 2
 dimwitted 3
 drowsihead 3
