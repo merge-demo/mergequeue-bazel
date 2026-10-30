@@ -4414,7 +4414,7 @@ ender 2
 emphasised 1
 electrobioscopy 2
 endoparasite 3
-environmentally 2
+environmentally 3
 encanthis 3
 expectorations 4
 enfacing 1
@@ -4609,7 +4609,7 @@ enchequer 2
 ethnopsychic 2
 euphemism
 endosarcode 3
-ethnolinguistics
+ethnolinguistics 1
 embryophagous 3
 eeriest 2
 epicerastic
@@ -12133,7 +12133,7 @@ ennoblment 1
 erotizing 1
 excurrent 2
 edility 2
-eavesdrops 2
+eavesdrops 3
 excrementitiously 2
 elonite 2
 enregister 4
