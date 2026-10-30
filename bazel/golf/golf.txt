@@ -5587,7 +5587,7 @@ greenroom 2
 glucaemia 4
 gumming 3
 gaysome 1
-gripless 1
+gripless 2
 geochemist 2
 geophysical 2
 gefilte 2
@@ -5794,7 +5794,7 @@ goupin 1
 gnatworm 5
 genupectoral 1
 goniometer 2
-globoid 2
+globoid 3
 geobotanically 2
 garblers 2
 gosling 2
@@ -7045,7 +7045,7 @@ genteelism 2
 geomantical 4
 genyantrum 5
 gare 1
-genealogist 3
+genealogist 4
 gooseboy 1
 goschen 4
 gliffing 2
@@ -10065,7 +10065,7 @@ gelofer 2
 gimmal 3
 gyneconitis 2
 grabens 2
-goblinize 2
+goblinize 3
 gumshoed 2
 gonomere 1
 gorgerin 3
@@ -10716,7 +10716,7 @@ germinated 2
 gushily 3
 gaumless
 grate 2
-gearwheel 3
+gearwheel 4
 glyoxim 2
 grumping 2
 gubernatorial 2
