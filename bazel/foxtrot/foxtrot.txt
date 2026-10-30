@@ -1757,7 +1757,7 @@ fireworms 4
 fedn 5
 featherfew 3
 fluoridates 1
-fn 1
+fn 2
 featheriness 3
 frogface 2
 foreslack 3
@@ -9993,7 +9993,7 @@ fecundations 5
 foredeclare 3
 frilled 4
 flacons
-flexitime
+flexitime 1
 finicky
 fopped 2
 flenching 2
