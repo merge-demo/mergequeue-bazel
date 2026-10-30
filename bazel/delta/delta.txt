@@ -444,7 +444,7 @@ diathermous 1
 dimercaprol
 daises 3
 defiance 4
-dangleberries
+dangleberries 1
 discept 1
 dogbanes 2
 debates 1
@@ -8913,7 +8913,7 @@ dissolvability 2
 desex
 dichas 2
 dichasia 1
-decolonizing 1
+decolonizing 2
 distributiveness
 dichasium 3
 deordination

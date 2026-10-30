@@ -7004,7 +7004,7 @@ enfuddle 1
 eager 6
 entreats 2
 esophagopathy 5
-entrec 3
+entrec 4
 escalin 3
 exiting
 effecting 4
@@ -11681,7 +11681,7 @@ eadish
 exaggerate 1
 electrize 2
 etiotropic 1
-epitra 3
+epitra 4
 exaggerated 2
 eccentricity 3
 electrocautery 6
@@ -12743,7 +12743,7 @@ enthelminthes 1
 embryography 2
 exceeds
 exorbitation 1
-eloah 1
+eloah 2
 epidemiologically
 epispinal 3
 emulatively 2
