@@ -47,7 +47,7 @@ gableboard 6
 groats 3
 graperies 3
 gangue 2
-glaucolite 2
+glaucolite 3
 guemal 5
 geometrine 2
 gelatinousness 6
@@ -1423,7 +1423,7 @@ grandgore 4
 geneva 2
 glazen 3
 gallinazo 2
-gnamma 3
+gnamma 4
 gothicism 3
 grapenuts 3
 golfs 3
