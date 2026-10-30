@@ -752,7 +752,7 @@ effascinate 1
 exuvium 1
 ecotype 2
 ecotipically
-ecotypically 5
+ecotypically 6
 ecotonal 3
 enclaved 3
 ecaudate 3
