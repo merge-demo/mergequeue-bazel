@@ -1709,7 +1709,7 @@ foodservices 3
 fuselage 1
 faviform 4
 feasibly 5
-fashionmonger 5
+fashionmonger 6
 flighted 1
 fascio
 floats 2
@@ -9272,7 +9272,7 @@ freckling 2
 fungate 3
 folious 1
 frangipani 2
-framea
+framea 1
 framer 5
 frames 1
 frapler 1
