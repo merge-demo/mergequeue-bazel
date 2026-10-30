@@ -3180,7 +3180,7 @@ allogenic 1
 alcoholized 3
 asterixis
 aid
-aleger
+aleger 1
 athapascan
 alagao 1
 alliterativeness 2
@@ -11561,7 +11561,7 @@ amethysts 2
 anabolize
 albuminise
 anacalypsis 1
-approbate
+approbate 1
 applecart 1
 anacampsis 3
 almighty 1
