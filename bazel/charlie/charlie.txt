@@ -8820,7 +8820,7 @@ chaqueta 1
 commanders 2
 char 1
 conveyability 2
-crouchingly 1
+crouchingly 2
 chara 2
 charabanc 2
 compensativeness 1
