@@ -5399,7 +5399,7 @@ briquets 1
 babelic 2
 begulf 3
 blastomycotic
-bakshish 1
+bakshish 2
 begummed 2
 biolite 1
 barbacoa 2
@@ -12612,7 +12612,7 @@ baguets 3
 beleaguerment
 bodeful 3
 bulged 2
-brasero 2
+brasero 3
 basinlike
 bellware 1
 bonxie

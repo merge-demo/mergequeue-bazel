@@ -8163,7 +8163,7 @@ episcopature 2
 eczemas
 emarcid 2
 emprosthotonus 2
-extrapolated
+extrapolated 1
 endobatholithic 4
 ephippium
 entrepas 3
@@ -12788,7 +12788,7 @@ exosmotic 1
 explicative 1
 erotize 2
 edaphosaurid 3
-ensembles 1
+ensembles 2
 encounterable
 emancipative 2
 exospore
@@ -13316,7 +13316,7 @@ exembryonate 2
 ecphore 2
 englishmen 2
 exorcisms 4
-explosively 3
+explosively 4
 explosiveness 3
 equipt
 electromyograph 2
