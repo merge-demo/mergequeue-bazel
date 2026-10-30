@@ -9559,7 +9559,7 @@ construct 2
 checksumming
 castro 1
 cistaceae 3
-chromogenous
+chromogenous 1
 catechize
 cubiculum
 capacitively
