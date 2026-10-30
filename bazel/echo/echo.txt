@@ -8478,7 +8478,7 @@ entryways 2
 entrants 4
 emda 3
 enregiment 1
-enhemospore 3
+enhemospore 4
 escarmouche 3
 electrophotometry 2
 epileptoid
@@ -13574,7 +13574,7 @@ esoteric 2
 exsufflate 1
 exsufflation
 epithymetical
-extracutaneous 4
+extracutaneous 5
 evasions 1
 echidnas 2
 escheating 2
