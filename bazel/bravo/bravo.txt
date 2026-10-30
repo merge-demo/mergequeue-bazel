@@ -2005,7 +2005,7 @@ betty 1
 bucksaws 3
 beamage 3
 bronzer 2
-baptanodon 3
+baptanodon 4
 benefitted 1
 banjorine 1
 banjuke 1
@@ -5787,7 +5787,7 @@ bromocyanide
 blueprinted 1
 beflatter 1
 brassworker 1
-becrawling 2
+becrawling 3
 bromization
 bedlamic 1
 bombyliidae 4
