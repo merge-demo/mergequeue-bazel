@@ -13006,7 +13006,7 @@ catchland 1
 cantrap 1
 cyanoethylation 1
 crumbable
-crates 1
+crates 2
 cyanoguanidine
 cyanohermidin 3
 cyanometer
@@ -15757,7 +15757,7 @@ caissoned 2
 cleanhanded 1
 capistrate
 conducting 1
-cabbagetown 2
+cabbagetown 3
 cleanings
 ciniphes 1
 consanguinity
@@ -26374,7 +26374,7 @@ cans
 coteen 1
 cotele
 curlers 1
-cotemporanean 2
+cotemporanean 3
 cotemporaneously 1
 cotemporaries 1
 clubbable 2
@@ -26626,7 +26626,7 @@ counterpanes 1
 counselable 2
 coronobasilar
 counseled 2
-champagned 2
+champagned 3
 counselee
 counsellable 1
 curer
@@ -30250,7 +30250,7 @@ cruising 3
 cruive 1
 cruller
 chubbedness 2
-conglobately
+conglobately 1
 crumb
 crumbed 2
 chooky 1
@@ -30477,7 +30477,7 @@ ctenostomata
 ctetology 1
 cto 2
 charcuteries
-carbo 1
+carbo 2
 ctr 2
 comortgagee 4
 cannibalean 1

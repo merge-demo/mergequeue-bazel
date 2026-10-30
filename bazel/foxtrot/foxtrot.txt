@@ -1689,7 +1689,7 @@ fearless 1
 forehammer 5
 frangible 4
 ferrament 5
-fleeching 4
+fleeching 5
 fingertip
 foreordaining 3
 forehandsel 2
@@ -7960,7 +7960,7 @@ fozier 1
 foreshot 1
 ficelle 1
 fumatoriums 5
-fibrinogenous 3
+fibrinogenous 4
 fitness
 freestones 1
 foreshow 1
@@ -8441,7 +8441,7 @@ febronian 3
 fique 2
 flaucht 2
 fantail 1
-fathercraft 2
+fathercraft 3
 fidelia 5
 fescues 1
 formamidine
@@ -11553,7 +11553,7 @@ fusil 5
 frictionized 3
 fowage 5
 figurations 4
-feedback 1
+feedback 2
 friskful 1
 fusile 2
 flytier 1
