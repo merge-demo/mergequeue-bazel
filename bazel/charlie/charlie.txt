@@ -831,7 +831,7 @@ cy
 clasts
 caiman 2
 counterplot 1
-carbocinchomeronic
+carbocinchomeronic 1
 catachthonian 1
 cayman 1
 carboniferous
@@ -1517,7 +1517,7 @@ chemurgy
 calligraphers 2
 college
 calligraphy
-calligraphic
+calligraphic 1
 chiba 1
 cooeying
 calligraphically 3
@@ -6551,7 +6551,7 @@ cawker
 cawky 1
 cawl 2
 coagulants
-cawney
+cawney 1
 clinanthia
 cylindrosporium 1
 cardmaker
