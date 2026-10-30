@@ -2300,7 +2300,7 @@ gripmen
 geological 3
 grallatorial
 gelable 3
-gymnodiniaceae
+gymnodiniaceae 1
 galidictis 4
 ganofs 8
 gelant
@@ -5174,7 +5174,7 @@ glb 5
 gastratrophia 3
 geckotian 4
 gossipred 2
-gesticulator 2
+gesticulator 3
 glossocomon 4
 guavas 4
 genipap 1
