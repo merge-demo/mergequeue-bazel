@@ -245,7 +245,7 @@ adenomyxoma
 actable
 aselline 2
 apostate
-abraded 3
+abraded 4
 acantholysis
 adenomata 2
 abbreviates 2
@@ -6370,7 +6370,7 @@ anamorphote 1
 anecdotists 2
 ametrometer 1
 agriculturist 4
-aftergood 1
+aftergood 2
 anticreep 1
 agrilus
 aureola 1
@@ -19659,7 +19659,7 @@ aunty
 arisaid
 arisard 1
 arise
-athyrium 1
+athyrium 2
 aas
 attitudinal 4
 alines
