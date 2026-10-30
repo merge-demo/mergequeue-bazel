@@ -9068,7 +9068,7 @@ disparage 2
 defang 4
 diss 2
 dermatophobia 1
-defigure 1
+defigure 2
 dictionarian 4
 dorsoabdominal 2
 dollying
@@ -10877,7 +10877,7 @@ desilicate
 drawbored 1
 dwayne 2
 disthene 1
-disguisable 1
+disguisable 2
 dicaryophyte 2
 damns
 drudging 1
@@ -10912,7 +10912,7 @@ deterges 2
 divulgement 2
 dioeciodimorphous
 dentelated
-doohinkus 2
+doohinkus 3
 dignitas 1
 disabuse 3
 disbursement 2
@@ -18044,7 +18044,7 @@ donna 1
 dauted 2
 dullification 2
 dambrod 1
-dulling 1
+dulling 2
 dermestoid 2
 derail 1
 divisionist 1
