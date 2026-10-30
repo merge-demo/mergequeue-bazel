@@ -1226,7 +1226,7 @@ gadded 2
 grocerymen 3
 gleetier 5
 gripiest 2
-gatewards 2
+gatewards 3
 grannybush 2
 goodeniaceae 1
 galavants
@@ -1396,7 +1396,7 @@ garniture 2
 gaulsh
 glycosemia 1
 germanize 4
-grecize 2
+grecize 3
 gaits 3
 ganyie 6
 gallotannin 2
@@ -1628,7 +1628,7 @@ gastralgia 2
 gastreas 2
 glaucosuria 4
 gyrinid
-gaucheness 4
+gaucheness 5
 glassteel 2
 gravitational
 grimly 3
@@ -3720,7 +3720,7 @@ gabbling 1
 gaugership 1
 grumpier 1
 ghostly 1
-gaura 4
+gaura 5
 gnoses 3
 ghostwriter 2
 gnatoo 2
@@ -5024,7 +5024,7 @@ glaucousness 3
 ghouls 3
 giganticidal 2
 gauls 4
-garridge 2
+garridge 3
 girasoles 2
 gleetiest 3
 goofed 2
@@ -5549,7 +5549,7 @@ grumbles 4
 gamecocks
 guardlike 3
 globigerinae 3
-guarnerius 2
+guarnerius 3
 gourd 7
 glutition 2
 globigerinas 3
@@ -6501,7 +6501,7 @@ glaciologist 4
 germinatively 3
 gonapophysial 3
 glyoxal
-gabert 2
+gabert 3
 goll 2
 gravelled 5
 guddling 3
@@ -9293,7 +9293,7 @@ geoffrey
 groenlandicus 1
 glucuronic 3
 goyana 3
-gurge 2
+gurge 3
 gangliate 4
 galactophagous 2
 gunj 4
@@ -9790,7 +9790,7 @@ granter 2
 galley 1
 galvanotropic 1
 gruntling 5
-gazook 1
+gazook 2
 gruppo 4
 galeate 3
 guebre 2
