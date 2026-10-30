@@ -5878,7 +5878,7 @@ graphometrist 2
 ganglionary 3
 gallywasp 2
 gyle 3
-glucosaemia 3
+glucosaemia 4
 glucinium 2
 genteelest 2
 gadder 4
@@ -7878,7 +7878,7 @@ grammaticaster 2
 goff 3
 garlandlike 4
 gabbais 5
-gurdle 3
+gurdle 4
 ghostlikeness 3
 grammatics 3
 gastropodous 3
@@ -10218,7 +10218,7 @@ generaliser 4
 grippers 2
 guzzled 2
 guile 6
-gyrectomies 6
+gyrectomies 7
 galluses
 groundsel 1
 gonk 1
