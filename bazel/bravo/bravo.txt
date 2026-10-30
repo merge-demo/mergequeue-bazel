@@ -2539,7 +2539,7 @@ besnare 1
 brancher 1
 bs 1
 bilamellar 1
-boerdom 2
+boerdom 3
 begster 2
 birk 2
 backlists 2
@@ -4493,7 +4493,7 @@ becross 3
 bureaucratism 3
 becrowd 1
 becrowded 3
-burstwort
+burstwort 1
 billeting 1
 brickset
 bacchanalias 1
@@ -7031,7 +7031,7 @@ blunting 3
 bascinet 1
 bitterly 1
 babeship
-bemuzzling 2
+bemuzzling 3
 besot 2
 baronet 2
 boodh 2
