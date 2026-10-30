@@ -17311,7 +17311,7 @@ boreholes 3
 bumpers
 baths 1
 blazons
-bumpkin
+bumpkin 1
 bumpology
 borschts 3
 bumptious 2
