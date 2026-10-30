@@ -866,7 +866,7 @@ benzidin 2
 benzalcohol 1
 beffroy 1
 baggala 2
-borderlight 2
+borderlight 3
 bagganet
 baggara 1
 bawcock 2
@@ -4159,7 +4159,7 @@ brawled 1
 bartlemy 3
 beastlike 1
 bodywise
-bengalic 2
+bengalic 3
 bumpkinish
 buoyantness
 brinsell 2
@@ -5965,7 +5965,7 @@ bluewood 3
 belvedered 1
 blueblossom
 bridaler 1
-benchwarmer 4
+benchwarmer 5
 barothermohygrogram
 bosslet 4
 begripe 2
@@ -17802,7 +17802,7 @@ bambini
 bundobust 1
 bursae 2
 bursary 1
-bassine 3
+bassine 4
 backstroked 1
 bacterizing
 brave 2
