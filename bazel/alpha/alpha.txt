@@ -2861,7 +2861,7 @@ autostylic
 autarchical 1
 agonium 2
 apium 1
-abidal
+abidal 1
 azaleas
 acronymizing 1
 anchorage 1
@@ -23685,7 +23685,7 @@ actinally 1
 amioidei 1
 auriculocranial
 apios 1
-amphisile 2
+amphisile 3
 auriculoparietal
 auriculotemporal 2
 auriferous
