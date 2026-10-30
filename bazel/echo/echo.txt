@@ -9723,7 +9723,7 @@ embryol 1
 escopette 4
 external 1
 epicoelar 3
-extraterritorial
+extraterritorial 1
 ethylhydrocupreine 1
 essedones 4
 eisoptrophobia 2
