@@ -7104,7 +7104,7 @@ centile
 cendre
 caudatum 1
 catamited 1
-centiliter 2
+centiliter 3
 cadent
 chimed
 centillionth
@@ -10199,7 +10199,7 @@ chiaroscuros 1
 chuvash
 coulis
 chias 1
-cheesecakes 1
+cheesecakes 2
 chiasma 2
 cotesian
 chloasmata 1
@@ -12858,7 +12858,7 @@ churchscot
 churchway
 churchward 2
 chairmanned 1
-chemotaxonomist
+chemotaxonomist 1
 cutling
 cathodic 1
 chummily
