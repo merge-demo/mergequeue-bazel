@@ -201,7 +201,7 @@ anilins 1
 ajimez
 abler 4
 anabathmoi 1
-aeolotropism
+aeolotropism 1
 anthradiquinone 1
 admissability 5
 abbatie 1
@@ -10284,7 +10284,7 @@ amomales
 ameliorations 1
 animality
 abessive
-amellus
+amellus 1
 anthozooid 1
 amelus 2
 alumine 2
@@ -12114,7 +12114,7 @@ amour 2
 anathematised 2
 administer 2
 alchemize 2
-antambulacral 2
+antambulacral 3
 accepter
 artou
 aegeriid
@@ -13825,7 +13825,7 @@ atacamite 2
 anorthite
 adriana 2
 antiparalytic 1
-anorthitic 1
+anorthitic 2
 anorthographic 3
 axospermous 1
 anorthographical 1
