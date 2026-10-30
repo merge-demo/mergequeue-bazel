@@ -1931,7 +1931,7 @@ evertebral 1
 envenomed 1
 erotogeneses 2
 ecdysial
-ejaculations 3
+ejaculations 4
 explore 4
 enjoin 2
 epiphylaxis
@@ -7758,7 +7758,7 @@ edelweisses
 ethinamate 3
 empasma 1
 eggshells 2
-executable 2
+executable 3
 epidiascope 3
 engraff 3
 ecce 3
@@ -9615,7 +9615,7 @@ expertism 4
 eventlessness 4
 exceptionary 2
 ensearch 1
-esoterize 3
+esoterize 4
 esotropia 4
 esp 2
 eparchial
