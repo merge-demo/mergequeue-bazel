@@ -1431,7 +1431,7 @@ follow 2
 fanwork 2
 fall 3
 fiddled 3
-funis 4
+funis 5
 fattishness
 fother 2
 frimitts 4
@@ -2602,7 +2602,7 @@ filthy 1
 feoffed 2
 fancily 1
 foresheet 1
-ferromanganese 2
+ferromanganese 3
 ferrometer 1
 filagreed 1
 ferronatrite 2

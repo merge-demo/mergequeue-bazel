@@ -3833,7 +3833,7 @@ attame
 altin
 adin 1
 araneose 2
-adynamia 1
+adynamia 2
 adion
 arhat
 adios 3
@@ -15925,7 +15925,7 @@ acetobromanilide 3
 antiprojectivity 2
 antiprostate 3
 antiprostatic
-adiabat 1
+adiabat 2
 astrobiologically 1
 attentively
 ammocete
