@@ -1707,7 +1707,7 @@ exploder 3
 evener 2
 exaggerating 2
 enunciatory 2
-enamel 4
+enamel 5
 electrolyses 1
 earpieces 1
 echolocate 1
@@ -5779,7 +5779,7 @@ enticers 2
 englacial
 expose
 embossments 1
-esophagomalacia 4
+esophagomalacia 5
 emaciation 2
 eddying 2
 endozoic 5
@@ -12760,7 +12760,7 @@ eidos
 euhemeristically 1
 eucarpous 2
 eremochaetous 1
-emperess 2
+emperess 3
 entertissue 4
 exorcism 1
 elacolite 3
