@@ -9830,7 +9830,7 @@ elenchtical 3
 exact 2
 estrich 1
 etagre 2
-expurgator 3
+expurgator 4
 eikon
 egocentricity 3
 enthronising 3
