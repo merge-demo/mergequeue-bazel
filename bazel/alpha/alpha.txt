@@ -3240,7 +3240,7 @@ ayond 1
 anagramming 1
 acraze
 aculeae 1
-atolls 1
+atolls 2
 aready
 abram 1
 aphidius
@@ -4911,7 +4911,7 @@ arraigning 1
 aerofoils
 atmidometry
 adjourned 1
-amberfish
+amberfish 1
 antilogous 2
 antinaturalistic 1
 accessit 1

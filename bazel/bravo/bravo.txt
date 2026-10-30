@@ -856,7 +856,7 @@ bloody 2
 bunters 1
 begoniaceae 3
 bauxites 3
-bicolour 3
+bicolour 4
 bagful 3
 baggagemaster 1
 bedamning 1
@@ -8656,7 +8656,7 @@ bryonidin
 birching 1
 branners
 bimalar
-bimana
+bimana 1
 boras 1
 bimanal 2
 binoxalate 1

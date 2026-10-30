@@ -2557,7 +2557,7 @@ fleerer 6
 flimp 5
 ferricyanide 1
 ferrihydrocyanic 3
-fervency 1
+fervency 2
 freshmanship 1
 feedsman 4
 fiduciaries 3
@@ -10835,7 +10835,7 @@ fleetness 1
 flavorous 1
 fulfillments 2
 fennici 1
-fulfullment 2
+fulfullment 3
 functionless
 fontanels 3
 flamefish 2
