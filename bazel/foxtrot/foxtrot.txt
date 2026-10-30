@@ -1767,7 +1767,7 @@ farsalah
 frize 2
 forlorn 1
 foundery 3
-frivolously
+frivolously 1
 fetid 7
 fackings 1
 fosslfying 2
