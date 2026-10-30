@@ -1603,7 +1603,7 @@ dummered 4
 dawe 3
 dicyanid
 destruct 1
-dunkirker 3
+dunkirker 4
 deafly 1
 deafmuteness 1
 disembrace 1
@@ -3789,7 +3789,7 @@ disgracia
 drillable
 dynamites 3
 distrain 1
-deice 2
+deice 3
 donning 2
 disseizoress
 defibrillation 2
@@ -4164,7 +4164,7 @@ dob 3
 delitescent 1
 deliverer 1
 disincorporate 2
-deliveress 2
+deliveress 3
 dentirostrate 1
 dunkers 2
 damner 2
@@ -17301,7 +17301,7 @@ defoul 1
 decrypts 4
 disrelated 2
 dubitation 2
-dronage 1
+dronage 2
 discovenant
 dronepipe 1
 devaunt
