@@ -8333,7 +8333,7 @@ alimentation 3
 alimentativeness 1
 arsenium 1
 alimented 1
-alimentic 1
+alimentic 2
 alabandite 5
 automatical
 amphiphithyra
@@ -17340,7 +17340,7 @@ aerogun 1
 arithmometer
 apostille
 argos
-antagonist 1
+antagonist 2
 aglycosuric 3
 apheliotropically
 anatiferous
