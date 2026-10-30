@@ -3190,7 +3190,7 @@ citruses
 capewise 1
 capework 1
 capful
-caphar 2
+caphar 3
 clistogastra
 cotillon
 clerkage 2
