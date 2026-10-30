@@ -2324,7 +2324,7 @@ bromite
 briber 3
 barbita 1
 barbital
-brighteners
+brighteners 1
 barbiton
 bloodworm 1
 bhutani 2
