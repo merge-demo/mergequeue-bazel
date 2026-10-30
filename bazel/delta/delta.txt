@@ -4347,7 +4347,7 @@ demandingly
 demands 2
 denay 2
 desyl
-dendrodic 2
+dendrodic 3
 dysphagic 5
 delead
 demersal 4
@@ -7978,7 +7978,7 @@ drunkometer 2
 dextroglucose
 distensive 1
 dextrolactic 2
-despotes 1
+despotes 2
 diphenylthiourea 2
 dorosternal 1
 dextrolimonene
@@ -14051,7 +14051,7 @@ dyspepsies 2
 dichlorohydrin
 draughtman 1
 distributary 2
-dressy 2
+dressy 3
 distributaries 2
 designative 1
 doocot
