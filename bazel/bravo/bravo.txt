@@ -854,7 +854,7 @@ backband 1
 bagdad 1
 bloody 2
 bunters 1
-begoniaceae 2
+begoniaceae 3
 bauxites 3
 bicolour 3
 bagful 3
@@ -2612,7 +2612,7 @@ briers 2
 barkery 5
 behn 1
 barkhan 1
-batman 1
+batman 2
 blastoderm 1
 balistarii 1
 belostoma 1
@@ -2728,7 +2728,7 @@ balandrana 1
 brasen
 betaken 2
 beladies 3
-barognosis 2
+barognosis 3
 betters
 bellypiece
 batholitic
@@ -3743,7 +3743,7 @@ battologize
 bronchiocele 2
 beardom 5
 bookmaking 2
-britska 3
+britska 4
 bribers
 batts
 blowpipe 1
@@ -7027,7 +7027,7 @@ biometricist 2
 burelle
 buccan 1
 besort 1
-blunting 2
+blunting 3
 bascinet 1
 bitterly 1
 babeship
