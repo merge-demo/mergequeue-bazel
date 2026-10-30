@@ -1383,7 +1383,7 @@ gorb 3
 gastrostegal 2
 gravitometer 3
 garnetter 2
-glyconeogenetic 2
+glyconeogenetic 3
 guttular 2
 garniec 3
 gamily 3
@@ -3718,7 +3718,7 @@ goes 4
 ghostland 2
 gabbling 1
 gaugership 1
-grumpier 1
+grumpier 2
 ghostly 1
 gaura 5
 gnoses 3
@@ -6145,7 +6145,7 @@ gnow 5
 guttulous 3
 gns 5
 geese 2
-gatefolds 3
+gatefolds 4
 globical 3
 glavered 1
 gardy 3
@@ -6581,7 +6581,7 @@ grabblers 1
 gesture 3
 gambeson 1
 grummets 1
-girons 4
+girons 5
 gimmerpet 1
 gambas 2
 guazzo
