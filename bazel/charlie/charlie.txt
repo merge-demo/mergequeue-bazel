@@ -22861,7 +22861,7 @@ condensable
 conservations
 chondromas
 chandoo
-checkbit
+checkbit 1
 coxcombically
 conservativeness 3
 commoves
