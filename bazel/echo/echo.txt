@@ -3705,7 +3705,7 @@ effluvium 1
 epitheliosis 1
 enantiotropic 1
 elucidators 3
-embryophore 1
+embryophore 2
 educations 1
 electrogenesis 2
 elements 4
@@ -5299,7 +5299,7 @@ eskimoid 2
 elapsoidea 1
 earthshakingly 4
 expeditating 1
-equity 2
+equity 3
 esterellite 1
 efik 1
 enchest 1
