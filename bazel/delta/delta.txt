@@ -1603,7 +1603,7 @@ dummered 4
 dawe 3
 dicyanid
 destruct 1
-dunkirker 3
+dunkirker 4
 deafly 1
 deafmuteness 1
 disembrace 1
@@ -3789,7 +3789,7 @@ disgracia
 drillable
 dynamites 3
 distrain 1
-deice 2
+deice 3
 donning 2
 disseizoress
 defibrillation 2
@@ -4164,7 +4164,7 @@ dob 3
 delitescent 1
 deliverer 1
 disincorporate 2
-deliveress 2
+deliveress 3
 dentirostrate 1
 dunkers 2
 damner 2
@@ -4347,7 +4347,7 @@ demandingly
 demands 2
 denay 2
 desyl
-dendrodic 2
+dendrodic 3
 dysphagic 5
 delead
 demersal 4
@@ -7978,7 +7978,7 @@ drunkometer 2
 dextroglucose
 distensive 1
 dextrolactic 2
-despotes 1
+despotes 2
 diphenylthiourea 2
 dorosternal 1
 dextrolimonene
@@ -14051,7 +14051,7 @@ dyspepsies 2
 dichlorohydrin
 draughtman 1
 distributary 2
-dressy 2
+dressy 3
 distributaries 2
 designative 1
 doocot
@@ -16501,7 +16501,7 @@ draegermen
 dadder 2
 dynamogenic
 dolichocephalism
-dulciana 3
+dulciana 4
 diadrom 2
 deoculate 1
 dervishlike 1
@@ -17301,7 +17301,7 @@ defoul 1
 decrypts 4
 disrelated 2
 dubitation 2
-dronage 1
+dronage 2
 discovenant
 dronepipe 1
 devaunt
@@ -17458,7 +17458,7 @@ datums 3
 deertongue 3
 delegatee 1
 drove
-drovers
+drovers 1
 dereism 2
 drownd 2
 docents 4
