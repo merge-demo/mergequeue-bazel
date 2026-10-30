@@ -2968,7 +2968,7 @@ dolt 1
 deducibility 1
 drawstop 2
 deducted 2
-devolatilized
+devolatilized 1
 disseisoress 2
 doxycycline
 debunking 1
@@ -18344,7 +18344,7 @@ duodedenums 2
 dinah 2
 dryerman 1
 doubleton 1
-duodenate 1
+duodenate 2
 duodenation 1
 depurge 3
 degelation
