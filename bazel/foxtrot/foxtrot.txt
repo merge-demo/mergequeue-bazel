@@ -1874,7 +1874,7 @@ frisson 3
 fallacious 2
 flexional 3
 frohlich 1
-fecundator 2
+fecundator 3
 fuligula 2
 feedwater 5
 fallow 2
@@ -6591,7 +6591,7 @@ flunkeyism
 feltness 6
 frounce 2
 foamflower 4
-flammulation
+flammulation 1
 firework 5
 forthcomer 4
 frocks
@@ -8659,7 +8659,7 @@ flaunt
 flawed 3
 fillebeg 3
 fumistery 5
-foretastes 2
+foretastes 3
 filicoids 3
 flanched 3
 folkboat 3
