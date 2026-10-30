@@ -1767,7 +1767,7 @@ farsalah
 frize 2
 forlorn 1
 foundery 3
-frivolously
+frivolously 1
 fetid 7
 fackings 1
 fosslfying 2
@@ -1914,7 +1914,7 @@ federalised 3
 fanglike 2
 federalism 5
 fykes 2
-fecalith 2
+fecalith 3
 frithborh 2
 fixure 1
 feminities 2
@@ -3294,7 +3294,7 @@ ferrimagnetically 3
 foreknowable 2
 fieldpieces 2
 feudovassalism 2
-forefeet 7
+forefeet 8
 fungilliform 2
 filopodium 8
 fiddlestick 1
@@ -5134,7 +5134,7 @@ flashings 2
 fulgently
 flashlight 1
 frizzly 5
-foreadvise 2
+foreadvise 3
 fellas 1
 flashover 4
 frivolous 1
