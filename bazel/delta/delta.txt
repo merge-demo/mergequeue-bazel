@@ -11044,7 +11044,7 @@ disanchor 3
 deliberations 3
 disanimation
 disannuller 1
-dialogues 1
+dialogues 2
 dichroic 2
 disentanglements 2
 dyophysite 2
@@ -16147,7 +16147,7 @@ douziemes 1
 dysmeromorphic 2
 dovecot 2
 dhows 1
-dynamist 1
+dynamist 2
 dislustred 1
 dovehouse 2
 dovelike
