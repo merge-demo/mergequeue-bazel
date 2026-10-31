@@ -5576,7 +5576,7 @@ craterellus
 copr
 censused 2
 cofactor 1
-catalyses 2
+catalyses 3
 catalyte 1
 cyclopean
 cabalassou
@@ -11749,7 +11749,7 @@ chondrodystrophy 1
 chondrodystrophia 2
 chondroditic
 couthest 1
-connubiate 1
+connubiate 2
 chondrofibroma 3
 campaigned
 chondrogen

@@ -13246,7 +13246,7 @@ antiphysician
 anisandrous 1
 aberrant 1
 anisanilide 2
-annotated
+annotated 1
 african
 archvisitor 1
 anisanthous 1
@@ -14517,7 +14517,7 @@ anthropolite 2
 arsenophenylglycin
 anteropygal 1
 anthropology 1
-apostrophised 1
+apostrophised 2
 adapis
 anthropometry 1
 anuloma
@@ -17380,7 +17380,7 @@ astuciously
 aginners 2
 apotelesm
 ancients
-apothecal
+apothecal 1
 asynaptic 2
 anthraconecrosis
 assemblee 2
@@ -23171,7 +23171,7 @@ aventre 2
 attentive 1
 antifundamentalism
 abiding 2
-altared
+altared 1
 attenuable
 automanipulative 3
 attenuator
