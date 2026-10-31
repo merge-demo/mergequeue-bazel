@@ -1732,7 +1732,7 @@ guaba 1
 gambado
 gangwayman
 glossoscopy 2
-gadoids
+gadoids 1
 glycerinate 5
 gynocracy 1
 gympie 3
@@ -3105,7 +3105,7 @@ gali 4
 gubat 2
 gibbol 3
 glossarist 2
-garo 3
+garo 4
 geophilid 6
 galvanoscopic 2
 granula 4
@@ -6287,7 +6287,7 @@ grundyist
 galop 1
 governessy 1
 gid 3
-gobbles 2
+gobbles 3
 glaucescent 5
 ginzoes 4
 grege 3
@@ -8667,7 +8667,7 @@ gerip 4
 grapy 3
 goopy 2
 geyser 2
-glossless 3
+glossless 4
 gateado 2
 gritty 1
 gres 2
