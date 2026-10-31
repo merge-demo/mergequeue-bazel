@@ -2801,7 +2801,7 @@ filao
 fimbriation 1
 frazzles 2
 filace 2
-fixations 3
+fixations 4
 finnmark 3
 forgoing 5
 florists 1
@@ -2950,7 +2950,7 @@ fac 5
 flaked 1
 furloughs 2
 fungological 3
-froths 3
+froths 4
 fevered 5
 flitchen 3
 furnacing
@@ -3550,7 +3550,7 @@ featherhead 1
 formant 1
 frightful 2
 foulsome 4
-filamentary 4
+filamentary 5
 filament 4
 flannelleaves 1
 fishfall 1
