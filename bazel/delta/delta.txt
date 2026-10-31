@@ -8411,7 +8411,7 @@ disnaturing 2
 detentes 2
 diallagic 1
 dogmaticalness 1
-diallagite
+diallagite 1
 deadwort 1
 dt
 dishonorably 1
@@ -18181,7 +18181,7 @@ diable
 disarticulated 3
 depravedness
 dropsy
-divinifying 1
+divinifying 2
 dunch 1
 devilizing 1
 disconcertion 1
@@ -18588,7 +18588,7 @@ dewool 1
 duskness
 dust 2
 delphian 1
-dustbins 3
+dustbins 4
 dustcart 1
 devocalisation 2
 distance 2
