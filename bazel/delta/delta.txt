@@ -3416,7 +3416,7 @@ donet 1
 deflector
 dichlorvos 4
 devitrifying 2
-deflesh 1
+deflesh 2
 deflexibility 3
 dysgenics 1
 diversely 2
