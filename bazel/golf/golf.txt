@@ -5842,7 +5842,7 @@ gatten 3
 gonophoric 2
 glochidia 2
 gendarmes 2
-gruiformes
+gruiformes 1
 ghettoing 4
 geroderma 1
 graffito 1
@@ -6225,7 +6225,7 @@ gilbertine 2
 grooved 2
 gregor
 garrisoned 5
-gastrimargy 3
+gastrimargy 4
 guillotinade 3
 gamopetalae 2
 gp
@@ -7121,7 +7121,7 @@ getting 2
 gatter 3
 grottoed 4
 glottological 2
-generalia 3
+generalia 4
 gonothecae 1
 garnett 1
 gnathostomatous 1
@@ -10566,7 +10566,7 @@ gunmaking 3
 gaun 1
 gerbo 1
 gesneraceae 4
-gyneocracy 2
+gyneocracy 3
 gallivanter 2
 grasset 2
 gunmetal 2
