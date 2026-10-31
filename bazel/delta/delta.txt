@@ -1923,7 +1923,7 @@ disapprobations 3
 dacryd 4
 dinophilus 1
 deferments 4
-desire 3
+desire 4
 decennal 2
 durocs 4
 dawsonite 1
@@ -13205,7 +13205,7 @@ drawsheet 2
 desaurine 2
 dendrobe
 displosion 2
-dronte
+dronte 1
 deportable 2
 deuterofibrinose 6
 dinnerless 1
@@ -15304,7 +15304,7 @@ dispenditure 1
 dermatophytic 1
 dolorimetrically
 dochter 4
-delusional 3
+delusional 4
 dialler 2
 diffuse 1
 diasporas
