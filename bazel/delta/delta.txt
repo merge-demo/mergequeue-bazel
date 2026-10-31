@@ -898,7 +898,7 @@ dantean
 dimatis 2
 dacryopyorrhea 1
 dolorific 1
-dantology 1
+dantology 2
 dashpots 1
 dextrin 2
 dewitt 1
@@ -2517,7 +2517,7 @@ dermoid 4
 duplicipennate 2
 doddered
 disaccommodation 4
-dove 1
+dove 2
 dubonnet 4
 deactivating 1
 declarations 1
