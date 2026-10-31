@@ -369,7 +369,7 @@ glovelike 3
 galactotrophy 4
 goodhumoredness 2
 grandeeism 1
-gynobasic 3
+gynobasic 4
 gelded 2
 galangin 4
 golundauze 2
@@ -8473,7 +8473,7 @@ grandeurs 1
 garoting 1
 gandhara 2
 gravitations 2
-grudgers 1
+grudgers 2
 geotaxis 2
 gelada 3
 glossingly 2
@@ -9825,7 +9825,7 @@ garpikes 4
 greasewood 1
 generous 1
 gesticulatively 3
-gibbets 4
+gibbets 5
 guayabi 4
 guaiac 1
 goitcho 3

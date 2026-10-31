@@ -11516,7 +11516,7 @@ apogamously 1
 amuzzle 2
 amphigastria 1
 anabantid 1
-aeneus 1
+aeneus 2
 actory 4
 anabaptistic
 audiometers
@@ -11810,7 +11810,7 @@ antimoniate
 analyst 3
 amphophilic
 acrobat 1
-alamanni 3
+alamanni 4
 antinational 2
 antiatonement 1
 animalisation 1
@@ -15471,7 +15471,7 @@ antimerina 1
 antimerism 1
 antimesia
 archetypically
-antimetathetic 3
+antimetathetic 4
 aeschynite 1
 armed 2
 antimethodical 1
@@ -19400,7 +19400,7 @@ avouchment 1
 assortedness
 aseptify
 anagogically 2
-argenteous
+argenteous 1
 argentic 2
 amphorophony
 allicins 1
@@ -24501,7 +24501,7 @@ autoxidation 3
 autoxidator
 autoxidizability
 autoxidizable
-autoxidize
+autoxidize 1
 accloy 5
 antepenultimate 2
 administrated 1
