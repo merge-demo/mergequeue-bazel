@@ -9243,7 +9243,7 @@ adenogenous 1
 atomics 1
 antiparliamentarian 1
 argentamin 2
-autometric 1
+autometric 2
 aphony 2
 angiolymphoma
 asaraceae 1
@@ -17525,7 +17525,7 @@ acerbest 2
 archipelagoes 2
 abeyancy 1
 anthracaemia 2
-afar
+afar 1
 apteroid 1
 apophthegmatist 1
 amalings 1
