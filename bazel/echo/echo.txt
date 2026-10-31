@@ -139,7 +139,7 @@ evaporativity 1
 economizes 1
 extravasating 4
 elon 1
-enchasten 5
+enchasten 6
 epiphysial 1
 elisha 1
 epididymides
@@ -11279,7 +11279,7 @@ eyeleteer 3
 enmass 2
 eschewal 5
 exterrestrial 2
-evaporability 1
+evaporability 2
 emanating 4
 enwrapped
 ectoplasy 2
