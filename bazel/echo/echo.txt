@@ -3978,7 +3978,7 @@ empaistic 4
 exilarch
 embroglio 1
 empale 1
-empalers 2
+empalers 3
 eyepit 1
 empall 1
 excurvation 4
@@ -6220,7 +6220,7 @@ exterritorialize
 evviva 3
 enoint 2
 enterological 6
-ensues 1
+ensues 2
 exclusioner 2
 encelia
 enlivened
