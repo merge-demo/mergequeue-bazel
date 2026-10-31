@@ -8034,7 +8034,7 @@ duomi 1
 dispersion 2
 dumbhead 3
 dhal 2
-dimension
+dimension 1
 dorsointestinal
 dhamnoo 2
 distinctional 1
@@ -10139,7 +10139,7 @@ dismember
 daniele 2
 decertification
 dawson
-disaffiliations 3
+disaffiliations 4
 dynes 1
 desentimentalize 1
 deminatured 1
@@ -16308,7 +16308,7 @@ discredits 2
 dispeace
 downriver 1
 defended
-downshift 1
+downshift 2
 downshifted 1
 downshore
 dephlegmatize 2
