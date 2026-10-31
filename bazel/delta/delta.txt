@@ -15467,7 +15467,7 @@ dope 3
 divinities 1
 dompteuse 1
 doms
-derve
+derve 1
 don 2
 dona
 danker 2
