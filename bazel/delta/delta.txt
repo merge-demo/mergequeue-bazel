@@ -16895,7 +16895,7 @@ dipladenia 2
 discriminations 3
 decilitre 3
 doubletone 1
-distortable
+distortable 1
 desilvered
 dichromate 2
 damewort 1
