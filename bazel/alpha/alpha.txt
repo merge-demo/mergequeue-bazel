@@ -5468,7 +5468,7 @@ agaces 1
 attuned
 antiputrid
 aerobiological
-afrormosia 1
+afrormosia 2
 aft 2
 afteract 3
 appetitive 2
@@ -15952,7 +15952,7 @@ antiquarianism 2
 antelope
 anticonscience 1
 articulationist
-ascensor 2
+ascensor 3
 andantes 1
 antiquarianize 2
 anachronism
