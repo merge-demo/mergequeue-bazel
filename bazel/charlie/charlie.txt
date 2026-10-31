@@ -197,7 +197,7 @@ chicadee
 catproof 2
 chutzpas 1
 choriocapillaris 2
-cabree 2
+cabree 3
 cabrerite
 cunoniaceae
 cytisus
@@ -30380,7 +30380,7 @@ clenching 1
 corralling
 crustacean 1
 coversed 1
-crustaceology 1
+crustaceology 2
 chinovnik
 crustaceological 2
 crustaceologist 1
