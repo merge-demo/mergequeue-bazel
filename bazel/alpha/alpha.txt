@@ -8868,7 +8868,7 @@ alcoves 1
 allochlorophyll 1
 antigropelos 1
 allochroic 1
-anticosmetic 2
+anticosmetic 3
 aeolodicon 1
 allochthon 1
 antlike
