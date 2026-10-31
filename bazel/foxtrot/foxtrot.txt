@@ -6067,7 +6067,7 @@ freebooted 2
 fraternate 4
 flocculating 2
 frayn 1
-floridity 3
+floridity 4
 floriscope 4
 fetterbush 1
 faba 1
@@ -10960,7 +10960,7 @@ fumarases
 fouling 1
 fallfish
 firmless 1
-freesias 1
+freesias 2
 frigidaire 2
 furors 3
 forgettable
