@@ -1296,7 +1296,7 @@ garetta 1
 gnawingly 3
 gargalize 6
 guttles 2
-grump 1
+grump 2
 gerendum 2
 government 6
 gulliver 4
@@ -5842,7 +5842,7 @@ gatten 3
 gonophoric 2
 glochidia 2
 gendarmes 2
-gruiformes
+gruiformes 1
 ghettoing 4
 geroderma 1
 graffito 1
@@ -10566,7 +10566,7 @@ gunmaking 3
 gaun 1
 gerbo 1
 gesneraceae 4
-gyneocracy 2
+gyneocracy 3
 gallivanter 2
 grasset 2
 gunmetal 2
