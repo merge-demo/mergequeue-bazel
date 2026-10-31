@@ -6343,7 +6343,7 @@ emporium 3
 ergotin 3
 eschar
 euchred 5
-expiatory 3
+expiatory 4
 ensphered
 eyespot 3
 enseal 4
@@ -10146,7 +10146,7 @@ expositress
 enumerators 3
 eurhodine 4
 effluent 3
-expressionful
+expressionful 1
 equivalences 3
 elope 1
 extraorbital 2
