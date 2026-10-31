@@ -5469,7 +5469,7 @@ exaggerations 3
 emydosauria 3
 empetraceae 3
 electuary 3
-exculpations 2
+exculpations 3
 eurithermophile 4
 er 2
 etatist 1
@@ -8536,7 +8536,7 @@ eupnea
 exsufflicate 2
 esophagotome 1
 enteromere 3
-equatable 2
+equatable 3
 eudaemons 4
 ecclesiasticize 4
 essentializing 1
@@ -13358,7 +13358,7 @@ emotionalising 1
 erogenous 1
 ethnogeographically 1
 egyptize 1
-emporiria
+emporiria 1
 extraenteric
 epicorolline 1
 elegizing 2
