@@ -3645,7 +3645,7 @@ ecocidal 1
 epitrachelion 3
 embread 1
 entrepeneurs 4
-ejector 3
+ejector 4
 expellant 3
 edna 1
 egads
@@ -10195,7 +10195,7 @@ extrahazardous 2
 emancipation 1
 escrowed
 emmarbled 2
-electrotelegraphic 1
+electrotelegraphic 2
 escargotieres 2
 esperantic 1
 esophagomycosis 2
@@ -14093,7 +14093,7 @@ etyma 1
 entour
 extremuma 2
 ectozoa
-extrasacerdotal 3
+extrasacerdotal 4
 extricable 1
 extricably 1
 egbo 2
