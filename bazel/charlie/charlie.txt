@@ -13262,7 +13262,7 @@ chetverik
 communicants 1
 cataloguer
 chemiatry 1
-cycloid 1
+cycloid 2
 coalternation 2
 cycloidean 2
 coalshed 1
@@ -26275,7 +26275,7 @@ costious 1
 collagenic
 costipulator
 costispinal 2
-cylindromata 2
+cylindromata 3
 cavallas 2
 costiveness
 changeableness 1
