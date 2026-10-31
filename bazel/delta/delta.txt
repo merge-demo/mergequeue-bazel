@@ -15714,7 +15714,7 @@ dorbeetle 1
 deflectors
 dissava
 dorbel
-dorbugs
+dorbugs 1
 defeatist
 dorcastry 4
 diadermic
