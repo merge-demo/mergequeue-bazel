@@ -2925,7 +2925,7 @@ fumigations 3
 fortressing 3
 footmark 2
 frontogenesis 2
-flock 1
+flock 2
 frizzen 1
 factoring 3
 fumier 2
@@ -4191,7 +4191,7 @@ foulmouthed 4
 foretokening 5
 firebug 3
 flagstones
-fado 2
+fado 3
 flickertail 2
 fishet 2
 fibrocaseous 2
