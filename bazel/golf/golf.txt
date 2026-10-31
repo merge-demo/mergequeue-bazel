@@ -803,7 +803,7 @@ gambe
 gourmanderie 1
 gambeered 2
 glauke 1
-greenlandite 2
+greenlandite 3
 genets 4
 glucosane 3
 ghurry 1
@@ -1929,7 +1929,7 @@ geal 2
 garnetwork 5
 garnet
 gynecocratic 1
-gnomesque 1
+gnomesque 2
 gravewards 2
 guideship 5
 galactosuria 3
