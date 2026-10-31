@@ -10536,7 +10536,7 @@ eucharistically 2
 earthfall 2
 ephthalite 3
 empaper
-enswathed
+enswathed 1
 eucharists 1
 epimeral 2
 entrymen 3
@@ -11995,7 +11995,7 @@ embryonally 3
 excellently 3
 excitons 1
 embosses 2
-excitosecretory 1
+excitosecretory 2
 excitovascular 1
 enamouring 2
 exclaiming
