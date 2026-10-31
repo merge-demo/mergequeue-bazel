@@ -30302,7 +30302,7 @@ cepolidae
 corixa 2
 codfishery
 crunched 3
-cruncher
+cruncher 1
 crunchers 1
 chooses 2
 congealability
