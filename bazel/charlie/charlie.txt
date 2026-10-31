@@ -2707,7 +2707,7 @@ cankerfret
 compiles 1
 calcemia
 cankery 1
-cannoneering 1
+cannoneering 2
 cankerroot 1
 cauponize
 cankers
@@ -3804,7 +3804,7 @@ cribbling
 carbohydrase
 cannibalism
 cardioncus
-carbohydrate
+carbohydrate 1
 cardiotrophia 1
 cysticarpic 1
 carbohydraturia 2
@@ -23652,7 +23652,7 @@ contractant 1
 contractation
 contractedly
 contractedness 2
-carbolise 1
+carbolise 2
 contractility
 contractions 2
 contractly 1
@@ -27239,7 +27239,7 @@ counterwheel
 counterwilling 1
 counterwitness 2
 counterwork
-counterworker 2
+counterworker 3
 counterworking
 committee 1
 carminative 1

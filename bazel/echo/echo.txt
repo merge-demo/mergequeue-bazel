@@ -2367,7 +2367,7 @@ equison 3
 ephedrine 1
 electrochronometric 1
 enfroward 3
-estafetted
+estafetted 1
 entendres 3
 electroplating 2
 expostulate 2
@@ -4442,7 +4442,7 @@ enthymeme 3
 e 2
 espacement 1
 ejaculation 2
-encaptive 2
+encaptive 3
 entomion 1
 exhilarative 3
 encarnalised 4
@@ -7274,7 +7274,7 @@ eorhyolite 5
 extinguishable 2
 eos 1
 earshot 1
-embetter 3
+embetter 4
 etonian 1
 ectozoon 1
 eosate 3
@@ -12066,7 +12066,7 @@ excortication 1
 eschewals
 enlightener 1
 eruptions 1
-epanaleptic 1
+epanaleptic 2
 expediate 3
 entrainer 2
 evzone 1
@@ -12270,7 +12270,7 @@ evilwishing 2
 entrochus 2
 efflorescency 1
 enteromegaly 2
-els
+els 1
 elegises
 everduring 1
 exemplarism 4
