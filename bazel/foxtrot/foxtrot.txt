@@ -9319,7 +9319,7 @@ fatback 2
 formicicide 3
 fromages 5
 fluxility 3
-francolite 2
+francolite 3
 faller 4
 fro 2
 fanneling 2
@@ -9646,7 +9646,7 @@ freewheelingness 2
 forfoughen 1
 fluoborate 2
 foresides 4
-fathers
+fathers 1
 flocculous 5
 fourths 1
 floyt 2
