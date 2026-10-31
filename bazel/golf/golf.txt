@@ -2775,7 +2775,7 @@ gadhelic 1
 gung 4
 granulitic 3
 grabbled 1
-garbs 2
+garbs 3
 garnished 6
 gelotometer 2
 glottochronological 3
@@ -6097,7 +6097,7 @@ gneiss
 grotesquely 2
 glengarries 3
 goosebeak 1
-gullibly 3
+gullibly 4
 gryphosaurus 1
 gigahertz 5
 gnessic 6

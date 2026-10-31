@@ -3303,7 +3303,7 @@ acxoyatl 1
 accensor 2
 alvina
 autophotograph 2
-apx
+apx 1
 amblychromatic 3
 anomurous 1
 agawam
@@ -13701,7 +13701,7 @@ amentaceous 2
 anomalogonatous 2
 anomalon 1
 antipasto 1
-auxochromism 1
+auxochromism 2
 auriculariaceae 1
 anomalotrophy
 anomalousness
@@ -24322,7 +24322,7 @@ antiparalytical 1
 autoproteolysis 3
 argillomagnesian
 autopsical
-agtbasic 1
+agtbasic 2
 adsessor 1
 autopsychoanalysis 2
 autopsychosis
