@@ -1219,7 +1219,7 @@ guilelessness 2
 garage 7
 guatemaltecan 3
 galapago 3
-gastrotricha 2
+gastrotricha 3
 garapato 3
 getatableness 4
 gadded 2
@@ -4755,7 +4755,7 @@ glick
 genethliatic 2
 gendarme 2
 giantlike 2
-gabbroic 3
+gabbroic 4
 ganglander 5
 greenwood 3
 gadling
@@ -8628,7 +8628,7 @@ gingerleaf 3
 grapline 4
 guideposts 5
 goldfielder
-gaslight 2
+gaslight 3
 gasteralgia 1
 greened 1
 govern 2
