@@ -5932,7 +5932,7 @@ exocytosis 3
 endsweep 2
 enharden 2
 especially
-eurytopicity
+eurytopicity 1
 exoenzymic 5
 embuskin 2
 ephemeron 3
