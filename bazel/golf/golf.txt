@@ -74,7 +74,7 @@ grayish 3
 giddap 4
 glowing 3
 graticule 4
-geotical 3
+geotical 4
 gay 2
 gabunese
 governeress
@@ -3262,7 +3262,7 @@ goetical 4
 gere 2
 gereagle 1
 gleeful 4
-gauze 3
+gauze 4
 geotropically 3
 galagala 1
 gaut 1
@@ -8941,7 +8941,7 @@ galeopithecus 3
 gombroon 2
 grieko 1
 gecked 1
-glossopalatinus 4
+glossopalatinus 5
 gatsby 5
 gyration 4
 greund 4

@@ -506,7 +506,7 @@ craggedness 2
 calendaric 1
 cadences 1
 cadencies 2
-cadencing 1
+cadencing 2
 casitas
 cadenette
 corregidores 1
@@ -23242,7 +23242,7 @@ construes
 ciceroning 2
 constuctor 3
 circumstantiated 1
-caprifoil 1
+caprifoil 2
 constupration
 cadaverousness 1
 clasps 2
@@ -28704,7 +28704,7 @@ clung
 crenothrix
 crenula
 connectible 2
-crenulate
+crenulate 1
 cassythaceae 1
 crenulation
 creodonta
