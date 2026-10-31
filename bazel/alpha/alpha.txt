@@ -5612,7 +5612,7 @@ armil 1
 anchoritically
 absorptivity 2
 aphototaxis 1
-aftervision
+aftervision 1
 actinomycoma 1
 afterwale 1
 amnesics 1
@@ -7582,7 +7582,7 @@ autoclastic 2
 alcalizate 1
 alcanna
 acardiac
-ascophyllum 1
+ascophyllum 2
 anastomos 1
 astragal
 alcazaba 1
