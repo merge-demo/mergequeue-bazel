@@ -2555,7 +2555,7 @@ blens 3
 bactrian
 backtalk 2
 barile 2
-barilla
+barilla 1
 beleaf
 barters 2
 blackie 3
