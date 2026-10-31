@@ -2402,7 +2402,7 @@ gemma 4
 gardeners 1
 gambol 1
 gemmating 1
-gushier 5
+gushier 6
 gemmer 2
 gumphion 2
 gloppy
@@ -4277,7 +4277,7 @@ gasconism 2
 gynecological 3
 gramineousness 4
 greenwithe 2
-geoform 2
+geoform 3
 goon 2
 gantleting 3
 gramophones
@@ -8410,7 +8410,7 @@ gelid 2
 graith 4
 gheber 5
 graycoat 1
-gravamen
+gravamen 1
 grawls 1
 georgia 3
 gyves 5

@@ -7618,7 +7618,7 @@ cerebroparietal
 cerebropedal
 coppy
 cerebropsychosis
-calade
+calade 1
 coincidentally
 cerebrosclerosis 1
 cerebroscope
@@ -11541,7 +11541,7 @@ cholagogic
 cholalic 1
 comments 2
 coquimbite
-cliseometer 1
+cliseometer 2
 cavers 1
 cholam
 cobbiest 1
@@ -15050,7 +15050,7 @@ chloralizing 3
 civitan 1
 coxalgic
 civitas 2
-civite 3
+civite 4
 caridomorpha 2
 chinchasuyu
 corrida
