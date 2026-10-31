@@ -912,7 +912,7 @@ cajones
 cajun
 cajuput 1
 chemoses 2
-catharan 1
+catharan 2
 cajuputene 2
 coquetting
 confided
@@ -5870,7 +5870,7 @@ compositorial 2
 catenoid 1
 catenulate
 cacozyme 1
-capuli
+capuli 1
 conveyances 1
 contiguous 2
 cubistically
