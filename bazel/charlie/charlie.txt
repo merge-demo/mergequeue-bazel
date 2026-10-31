@@ -2616,7 +2616,7 @@ craftswoman
 carbylamine 2
 caneology
 canephora 1
-canephorae 1
+canephorae 2
 canephore
 canephori 1
 canephoroi 1
@@ -4724,7 +4724,7 @@ champerty 1
 coumarou
 carnie 1
 chlamydospore 1
-creditorship 1
+creditorship 2
 contested 1
 collages 2
 carpeting 2
@@ -25055,7 +25055,7 @@ corecipient 1
 corectome 1
 cracovienne 2
 cardiomotility 1
-corectomy 1
+corectomy 2
 coredeemer 1
 coredeems 1
 coree
