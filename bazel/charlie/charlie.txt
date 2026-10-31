@@ -23652,7 +23652,7 @@ contractant 1
 contractation
 contractedly
 contractedness 2
-carbolise 1
+carbolise 2
 contractility
 contractions 2
 contractly 1
@@ -27239,7 +27239,7 @@ counterwheel
 counterwilling 1
 counterwitness 2
 counterwork
-counterworker 2
+counterworker 3
 counterworking
 committee 1
 carminative 1
