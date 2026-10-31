@@ -10677,7 +10677,7 @@ amphistylar
 amino 2
 aminoacetic 3
 anatomicosurgical
-academie 2
+academie 3
 arrhythmy 1
 acetylized
 analogical
@@ -16115,7 +16115,7 @@ antisensitizing 2
 antiseptic
 acetylcarbazole
 actinomycese
-asseverate
+asseverate 1
 antiseptically 1
 avadavat 1
 acerates 1
@@ -18113,7 +18113,7 @@ azygobranchiata 2
 aquagreen
 anatomise
 absenteeism
-aqualung 1
+aqualung 2
 aqualunger 1
 apogee
 absurdities 1
