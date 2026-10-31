@@ -4607,7 +4607,7 @@ girlishly
 glink 1
 giornata 2
 guarantees 3
-glycerizin 1
+glycerizin 2
 griotte 1
 gufought 2
 gloggs 3
@@ -6031,7 +6031,7 @@ gingerly
 goodwilly 3
 geranium 3
 gamier 2
-gelatinously 3
+gelatinously 4
 griffinesque 1
 gulllike 3
 greking 3
