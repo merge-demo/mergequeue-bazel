@@ -7956,7 +7956,7 @@ getmjlkost 4
 gametogonium 3
 glimmerite 1
 gregaloid 2
-gyniolatry 3
+gyniolatry 4
 gloucester 4
 gulas 4
 grandfathers
@@ -10658,7 +10658,7 @@ gametogony 1
 gladius 5
 gyric 3
 goatsbane 2
-galp 6
+galp 7
 gurgoyle 4
 glaiketness 3
 genuflexion 1
