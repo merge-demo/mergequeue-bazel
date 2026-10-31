@@ -1395,7 +1395,7 @@ balebos 2
 baled 1
 baleen
 bobance
-battable
+battable 1
 balefires
 bewreak 2
 barmbrack 1
@@ -5541,7 +5541,7 @@ bromomenorrhea 3
 blowziest 2
 bergamot 2
 bhava 1
-biopsies
+biopsies 1
 blockline 2
 breastfeeding
 bejewelling
