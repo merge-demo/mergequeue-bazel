@@ -3029,7 +3029,7 @@ gloom 3
 geogenic 2
 gorily
 gyrally 2
-grudgekin
+grudgekin 1
 garboil 5
 gallicolous 5
 gymnodinium 2
@@ -8137,7 +8137,7 @@ garderobe 2
 gaspergous 1
 gynaeolater 3
 gulfed 3
-gloat 1
+gloat 2
 glowflies 2
 granulators
 gripper 1
