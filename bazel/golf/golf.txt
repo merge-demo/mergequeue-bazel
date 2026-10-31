@@ -426,7 +426,7 @@ genophobia 3
 groomishly 2
 gimcrackiness 3
 galcha 3
-growl 2
+growl 3
 garnishees 3
 grapeys 4
 galeage 1
@@ -3211,7 +3211,7 @@ getup 6
 golilla 3
 grievants 7
 greatheartedness
-gloater 2
+gloater 3
 globosely 5
 gepidae 1
 gremlin 5
