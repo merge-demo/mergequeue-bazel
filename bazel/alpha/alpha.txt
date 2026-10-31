@@ -1733,7 +1733,7 @@ aspersion 3
 archiereus 1
 aments 2
 attalid 1
-accuse 1
+accuse 2
 animalivore 1
 accused
 alightment 1
@@ -7701,7 +7701,7 @@ acidic 1
 apterygial 2
 averroistic
 actualise
-arthrolith 1
+arthrolith 2
 administrants
 albumenize 3
 aquilino
