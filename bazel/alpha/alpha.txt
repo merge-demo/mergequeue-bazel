@@ -1428,7 +1428,7 @@ accidentalism 1
 accidential 2
 accidently
 accinge
-anhimidae 2
+anhimidae 3
 anesthesiologists
 aphyllose 2
 accipient 1
@@ -1622,7 +1622,7 @@ arricci 1
 accrescendo
 accretal 2
 accretions 1
-awag 3
+awag 4
 according 3
 assapanic 1
 amphoricity
@@ -20320,7 +20320,7 @@ arroz 2
 acrobatics 1
 arsenic
 arsenicism
-arsenicked 1
+arsenicked 2
 aphelia 1
 afterwards
 arseniferous 3
