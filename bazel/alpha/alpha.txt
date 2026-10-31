@@ -8538,7 +8538,7 @@ antagonize
 acervately 2
 antipodagric 1
 analytical 2
-alkoxyl
+alkoxyl 1
 anopisthographic 3
 assise
 amylophagia
@@ -8868,7 +8868,7 @@ alcoves 1
 allochlorophyll 1
 antigropelos 1
 allochroic 1
-anticosmetic 2
+anticosmetic 3
 aeolodicon 1
 allochthon 1
 antlike
@@ -13224,7 +13224,7 @@ anilidic 1
 allude 2
 animo 1
 archchampion
-antipathic 3
+antipathic 4
 academizing
 anientise
 achtelthaler 1
