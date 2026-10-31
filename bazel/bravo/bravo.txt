@@ -4986,7 +4986,7 @@ beermaking 1
 beermonger
 bumpoff
 beefers 2
-bouchon
+bouchon 1
 bombycilla
 breakfasters 1
 beerpull 1
@@ -11389,7 +11389,7 @@ babi 4
 build 1
 beside
 bibbed 1
-bibio 1
+bibio 2
 bluecoated
 becquerelite 3
 borable 1
