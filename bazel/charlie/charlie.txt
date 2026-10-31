@@ -2575,7 +2575,7 @@ conners
 candlewicks 2
 complementative
 candlewright
-candling
+candling 1
 cynically
 campaniles 1
 candollea 1
