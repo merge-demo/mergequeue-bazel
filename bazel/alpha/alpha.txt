@@ -973,7 +973,7 @@ assis
 atlantomastoid 1
 astron 2
 abstemiousness
-abstentionism
+abstentionism 1
 anaptyctical 5
 abstentionist
 alliaceous 1
@@ -1622,7 +1622,7 @@ arricci 1
 accrescendo
 accretal 2
 accretions 1
-awag 3
+awag 4
 according 3
 assapanic 1
 amphoricity
@@ -5197,7 +5197,7 @@ affectations
 affected 3
 adorners
 affectibility 2
-affecting 1
+affecting 2
 aerophore
 archinformer 1
 antitangent 2
@@ -20320,7 +20320,7 @@ arroz 2
 acrobatics 1
 arsenic
 arsenicism
-arsenicked 1
+arsenicked 2
 aphelia 1
 afterwards
 arseniferous 3
