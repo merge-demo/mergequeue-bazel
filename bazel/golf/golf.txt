@@ -6639,7 +6639,7 @@ glycosuria 6
 gossans 2
 gurglingly 3
 gruss 1
-grittiest 2
+grittiest 3
 gyrodyne 1
 gateman 3
 gropes 2
@@ -8360,7 +8360,7 @@ grasshouse 2
 gulling 2
 globeflower 1
 gravest 1
-graminaceae
+graminaceae 1
 galvanoglyphy 4
 glucofrangulin 6
 gedecktwork 5
@@ -8967,7 +8967,7 @@ germless 1
 gastrodidymus
 gridelin 1
 griding 6
-gasped 4
+gasped 5
 galvo 3
 greyhens 4
 greenbul 2
