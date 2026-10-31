@@ -17854,7 +17854,7 @@ ballistocardiogram
 bus 1
 busaos
 bloodleaf 3
-bine 2
+bine 3
 busbar
 busbars
 barotse 1
