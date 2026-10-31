@@ -1512,7 +1512,7 @@ caramelen 1
 calliandra 1
 cedulas 1
 curraghs 1
-calligrapha
+calligrapha 1
 chemurgy
 calligraphers 2
 college
@@ -13256,7 +13256,7 @@ crossrow
 cyclohexanol
 crass 1
 cyclohexanone 1
-cyclohexyl
+cyclohexyl 1
 cycloheximide 1
 chetverik
 communicants 1
@@ -25187,7 +25187,7 @@ consolate
 corylaceae 1
 corylaceous
 corylus
-contraprop 1
+contraprop 2
 chenopodiales
 conversantly
 cads 2
@@ -25289,7 +25289,7 @@ cormogen
 cormophyta 1
 cardiotherapy
 cormous 1
-challa
+challa 1
 corn
 cornaceae
 chaetophorous 1
