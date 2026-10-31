@@ -2034,7 +2034,7 @@ detenus 2
 dothidella 1
 daimen
 duplicitas
-dichloramin 1
+dichloramin 2
 decagram 1
 dourness 1
 decagrams 2
@@ -18669,7 +18669,7 @@ dwalm 2
 dwarfer
 duckboat 1
 dwarfishness 5
-documentarily
+documentarily 1
 dwarfisms
 dermopteran 1
 darwinically
