@@ -2893,7 +2893,7 @@ ental
 elevable 3
 embraceor 2
 electrionic 3
-echoizing 2
+echoizing 3
 epergne 2
 engilds 1
 escalators 1
@@ -6158,7 +6158,7 @@ eaved 2
 earlywood 1
 ervipiame 2
 enmeshment 3
-enrols 1
+enrols 2
 enmity 5
 eparchean 1
 entracte 5
