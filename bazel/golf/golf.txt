@@ -1163,7 +1163,7 @@ genio 1
 gnawings 4
 galactometry 4
 gnetums 3
-guffin
+guffin 1
 gaol 2
 gulls 2
 grinners 4
@@ -6165,7 +6165,7 @@ gadsbud 2
 gauche
 goadsman 1
 grihastha 4
-genovino 4
+genovino 5
 gazetteers 1
 groveling 5
 goal 5
