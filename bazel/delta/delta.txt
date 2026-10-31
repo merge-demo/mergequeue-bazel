@@ -8151,7 +8151,7 @@ duellize 1
 disembodied 1
 decommissions
 diacetin 1
-damager
+damager 1
 descenders
 diaplexal 3
 dromiacea 3
