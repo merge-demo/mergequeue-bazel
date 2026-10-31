@@ -334,7 +334,7 @@ fireplough 2
 faineancy 2
 fayles 2
 fimbricated 1
-furcal
+furcal 1
 fayumic 1
 fricandelle 2
 francisc 5
@@ -2898,7 +2898,7 @@ firefighters 1
 footstall
 fettucini
 fungiferous 1
-fistulate 2
+fistulate 3
 fruitlet 1
 froglike 1
 farsightedly 1
@@ -6509,7 +6509,7 @@ frenzied 3
 flameless 2
 filmlands 1
 frills 4
-falter 1
+falter 2
 facility 3
 filagreeing 3
 forgie 2
