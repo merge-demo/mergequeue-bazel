@@ -9885,7 +9885,7 @@ chemoresistance
 chemoserotherapy
 chemosynthesis 1
 chemosynthetic 1
-chemosmoses 1
+chemosmoses 2
 chemosmotic 1
 consumptible 1
 calpacks 1
@@ -25998,7 +25998,7 @@ cranioscopical
 contextual 3
 clumbers 1
 coseasonal 1
-chelidonian 4
+chelidonian 5
 cryptomeria 2
 coseat 1
 cosecant 2

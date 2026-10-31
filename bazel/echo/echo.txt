@@ -398,7 +398,7 @@ estrepement 1
 ensear 1
 enchondromatous 1
 emeries
-egoists 2
+egoists 3
 ectoproctan 1
 eriphyle 3
 equivocator 2
@@ -6922,7 +6922,7 @@ eighteenths 3
 exuviable 1
 ebullitive 2
 engendered 3
-educabilian
+educabilian 1
 ethernets 1
 eyewinker 2
 estoppel 2
@@ -11451,7 +11451,7 @@ elided 3
 evetide 1
 extirpating 1
 encipherment 3
-ethanim 2
+ethanim 3
 elucidation 1
 engraving 2
 evocated 1
