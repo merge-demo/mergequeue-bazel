@@ -7052,7 +7052,7 @@ francis 6
 floater 5
 fimbriae
 functioning 2
-foodful 3
+foodful 4
 fulfilled 3
 fribby 1
 fatalities
@@ -8474,7 +8474,7 @@ fortin 2
 frondesce 2
 factorized 3
 formatter 2
-father 1
+father 2
 floridans 1
 flunkeyite 4
 fuzztail 3
