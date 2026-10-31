@@ -3303,7 +3303,7 @@ acxoyatl 1
 accensor 2
 alvina
 autophotograph 2
-apx
+apx 1
 amblychromatic 3
 anomurous 1
 agawam
@@ -24322,7 +24322,7 @@ antiparalytical 1
 autoproteolysis 3
 argillomagnesian
 autopsical
-agtbasic 1
+agtbasic 2
 adsessor 1
 autopsychoanalysis 2
 autopsychosis
