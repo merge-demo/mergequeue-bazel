@@ -4162,7 +4162,7 @@ adonis 2
 adonist 1
 arterialization
 adonite 3
-amberoids 1
+amberoids 2
 alkylamine 1
 adonizing
 androgenous
@@ -6495,7 +6495,7 @@ antecardium 3
 allantiasis
 adjuvate 3
 ahi 1
-azotometer
+azotometer 1
 algaesthesis 2
 amebula
 ahir 2
@@ -17827,7 +17827,7 @@ aphrodision 2
 alpujarra 3
 appositive
 accusatory 1
-annexed 1
+annexed 2
 amobarbital
 apppetible 3
 atmans
