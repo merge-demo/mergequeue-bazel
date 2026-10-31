@@ -2354,7 +2354,7 @@ euphuistic
 explorational 3
 entocele 2
 explosive 2
-electrochemistry
+electrochemistry 1
 electromobilism 1
 excrementitial 2
 excrete
@@ -4442,7 +4442,7 @@ enthymeme 3
 e 2
 espacement 1
 ejaculation 2
-encaptive 2
+encaptive 3
 entomion 1
 exhilarative 3
 encarnalised 4
@@ -13922,7 +13922,7 @@ exorcized 3
 errordump
 euphoniousness 3
 emigrative 1
-extramusical
+extramusical 1
 encapsulates 2
 evincingly 3
 extranational 2
@@ -14024,7 +14024,7 @@ electromotive 3
 exr 1
 enthrallingly 1
 enteroclisis
-extractorship 2
+extractorship 3
 extrasterile
 extrastomachal 1
 ethmolith 3
