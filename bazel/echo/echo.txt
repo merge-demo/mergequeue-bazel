@@ -9580,7 +9580,7 @@ excurse 1
 esculent 2
 egocentristic 3
 encephaloma 1
-enchasers
+enchasers 1
 esoethmoiditis 1
 exornation 3
 energiser 1
@@ -10554,7 +10554,7 @@ enteropathy 3
 estates 2
 ergosterol 3
 euchlorite 2
-eleutherodactylus 2
+eleutherodactylus 3
 elbuck 1
 euchology
 endocrinological 1
