@@ -6377,7 +6377,7 @@ aureola 1
 adultress 1
 abohms 1
 agrimony
-antiputrescent
+antiputrescent 1
 agriochoerus
 achuas 2
 amoeban 2
@@ -7454,7 +7454,7 @@ antitheistical 2
 angulare 1
 arenicola 3
 antimoniferous
-albizzias
+albizzias 1
 ahold 1
 albocarbon
 ashplants
@@ -13308,7 +13308,7 @@ apoturmeric
 anisometric 1
 antimerger
 abcess
-anorexic 1
+anorexic 2
 aquilawood 3
 albatross
 artery
@@ -15157,7 +15157,7 @@ auriscopic 2
 acetanisidide 1
 antegarden 3
 aggregating 1
-antievolution 1
+antievolution 2
 autocatalysis 2
 anteconsonantal 1
 antievolutionist 1
@@ -23248,7 +23248,7 @@ archencephala 1
 attitudinizer 1
 attitudinizes
 attn 2
-ascidium 2
+ascidium 3
 accroach 1
 avunculate
 antibubonic 1
