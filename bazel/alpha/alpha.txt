@@ -8868,7 +8868,7 @@ alcoves 1
 allochlorophyll 1
 antigropelos 1
 allochroic 1
-anticosmetic 2
+anticosmetic 3
 aeolodicon 1
 allochthon 1
 antlike
@@ -13224,7 +13224,7 @@ anilidic 1
 allude 2
 animo 1
 archchampion
-antipathic 3
+antipathic 4
 academizing
 anientise
 achtelthaler 1
@@ -17897,7 +17897,7 @@ appressoria 1
 appressorial 1
 anticold 1
 anabathmos 2
-allodesmism 1
+allodesmism 2
 appressorium 4
 abhorred 2
 appreteur 3
