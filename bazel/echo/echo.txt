@@ -907,7 +907,7 @@ emperies 1
 extrastate 1
 electrostrictive
 episedia 1
-encomiastic 2
+encomiastic 3
 excommunicators
 endosporous 1
 eriodictyon 6
@@ -14013,7 +14013,7 @@ ectophyte
 eshin 1
 enripen
 embittered 1
-emulsin 3
+emulsin 4
 emmet 2
 extraspectral
 exordize
