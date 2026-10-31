@@ -11279,7 +11279,7 @@ eyeleteer 3
 enmass 2
 eschewal 5
 exterrestrial 2
-evaporability 1
+evaporability 2
 emanating 4
 enwrapped
 ectoplasy 2
