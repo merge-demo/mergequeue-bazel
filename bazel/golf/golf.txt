@@ -1444,7 +1444,7 @@ gadget 4
 germinate 1
 guild 1
 garbages
-gulfy
+gulfy 1
 grosgrained 3
 gainward 1
 glossarial 3
@@ -10468,7 +10468,7 @@ gusset 4
 goosy 3
 guimpe 1
 guanophore 2
-gemmaceous 2
+gemmaceous 3
 glossarially 4
 goatbrush 3
 gagor 3
