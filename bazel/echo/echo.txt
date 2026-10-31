@@ -3500,7 +3500,7 @@ epirotic 1
 evergreenery 1
 edwardian 2
 erose
-extraterrene 1
+extraterrene 2
 escamotage 3
 effulges 4
 electromechanically 1
@@ -7797,7 +7797,7 @@ electropneumatic 2
 expectably
 elementality 3
 encyclopaedize 4
-engjateigur
+engjateigur 1
 epigastria 4
 engagement
 embiotocidae 4
@@ -13328,7 +13328,7 @@ ephoralty 2
 exponency 1
 extrared 2
 educated 1
-exponentiates 1
+exponentiates 2
 eskar
 emilia
 encincture
