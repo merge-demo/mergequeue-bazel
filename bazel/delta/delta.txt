@@ -14164,7 +14164,7 @@ daywork 1
 deringer 2
 dunair 3
 disunify
-disorientates
+disorientates 1
 dolesman 1
 diastatically 1
 dermatomic 2
