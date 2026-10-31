@@ -197,7 +197,7 @@ chicadee
 catproof 2
 chutzpas 1
 choriocapillaris 2
-cabree 2
+cabree 3
 cabrerite
 cunoniaceae
 cytisus
@@ -4608,7 +4608,7 @@ caroch 1
 caroche
 closings 1
 cyclarthrsis 1
-carolan
+carolan 1
 caroled 1
 cochlidiidae
 confuses 1
@@ -7126,7 +7126,7 @@ carrozza
 centistere 1
 centistoke 1
 cardipericarditis
-clairvoyancies
+clairvoyancies 1
 centner
 carunculate
 centners 2
@@ -11627,7 +11627,7 @@ cholera
 counterround
 circumjacent
 choleras
-civilising 1
+civilising 2
 cervelases 1
 choleriform
 cholerigenous 1
@@ -30380,7 +30380,7 @@ clenching 1
 corralling
 crustacean 1
 coversed 1
-crustaceology 1
+crustaceology 2
 chinovnik
 crustaceological 2
 crustaceologist 1
@@ -30954,7 +30954,7 @@ churrs 1
 corsesque 2
 culverkey 3
 culvers
-culverwort
+culverwort 1
 cum 1
 cants 1
 cumay 1

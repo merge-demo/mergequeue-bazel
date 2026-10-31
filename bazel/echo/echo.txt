@@ -11123,7 +11123,7 @@ exquisitively 1
 enwreathing
 eiderdown 2
 ebullioscopy 2
-erotetic 4
+erotetic 5
 euthycomi 6
 exploitable 1
 enol 1
@@ -13922,7 +13922,7 @@ exorcized 3
 errordump
 euphoniousness 3
 emigrative 1
-extramusical
+extramusical 1
 encapsulates 2
 evincingly 3
 extranational 2
