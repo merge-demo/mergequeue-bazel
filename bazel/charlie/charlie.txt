@@ -25066,7 +25066,7 @@ coregency
 coregent 1
 courtlet 1
 coregnancy
-cubicity
+cubicity 1
 cleptobiosis
 counterbalancing 1
 coregnant
