@@ -14118,7 +14118,7 @@ capsulize 1
 circulant 2
 circular 1
 colistins
-chuffing
+chuffing 1
 coffers
 cryalgesia
 circularisation 1
