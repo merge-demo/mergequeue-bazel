@@ -8332,7 +8332,7 @@ electrodeposit 1
 enciphers 4
 elev 1
 expressibly
-endured 2
+endured 3
 enchannel 2
 exercised 1
 emulating 3
@@ -13835,7 +13835,7 @@ euplectella 2
 extracloacal 2
 expos 2
 euthenics 1
-excudit 1
+excudit 2
 elaeothesia 3
 extraversively 2
 extracosmical 2
