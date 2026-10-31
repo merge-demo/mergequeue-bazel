@@ -1294,7 +1294,7 @@ flarfishes 2
 feminophobe 4
 falconoid 2
 fatalists 3
-fop 1
+fop 2
 fleeced 2
 former 3
 foxtails 1
@@ -9550,7 +9550,7 @@ foliated 1
 fyrd 2
 fishwives 1
 felicitate 5
-fotched
+fotched 1
 fursemide 2
 floreated 2
 filigraned 4
@@ -10701,7 +10701,7 @@ fortran 1
 flunkeyistic 2
 flashtubes 2
 forelaid 3
-fil 3
+fil 4
 fellmongering 3
 flavedo 3
 frutescence 4
