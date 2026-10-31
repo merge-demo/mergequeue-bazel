@@ -5287,7 +5287,7 @@ anchor 1
 arnica 3
 assisan 3
 agency 1
-acrosome
+acrosome 1
 axis
 atelic 1
 apartments
@@ -5619,7 +5619,7 @@ amnesics 1
 afterward 3
 afterwise
 afterwit
-afterwork 2
+afterwork 3
 agathodemon 2
 apinage 1
 aint
@@ -12564,7 +12564,7 @@ anorexigenic 2
 anenst
 antifame 1
 agaric
-arboroid 1
+arboroid 2
 anepigraphic 1
 abogados 1
 apodoses 1
