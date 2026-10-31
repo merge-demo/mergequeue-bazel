@@ -7677,7 +7677,7 @@ bezoars 1
 bezpopovets 1
 barged
 boatbuilder 2
-bountiousness 1
+bountiousness 2
 bezzle
 blackmailing 1
 brachydactylous 2
@@ -9520,7 +9520,7 @@ brontephobia
 bulliform 1
 birthstool
 birthwort 1
-bitnet 1
+bitnet 2
 brandreth 2
 breviger 1
 bakerdom 2
@@ -12544,7 +12544,7 @@ bacubert
 bud 3
 brashness 1
 boniness 1
-bellwind 2
+bellwind 3
 brant 2
 brooklike 4
 boning
