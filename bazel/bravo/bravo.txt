@@ -1894,7 +1894,7 @@ bandogs 3
 bediademed 1
 barken
 bandoleer 2
-burlesquely 1
+burlesquely 2
 backhoes 1
 bandoleers 1
 bivalent 2
@@ -15140,7 +15140,7 @@ benzofuroquinoxaline 2
 blockaderunning
 babine 2
 bocks
-bristlier 3
+bristlier 4
 brusk
 beback 1
 browse 1
@@ -15627,7 +15627,7 @@ boner
 bailage 1
 bezette 1
 buskle
-butat 1
+butat 2
 brittleness 4
 batrachotoxin
 belder 1
