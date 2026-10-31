@@ -5162,7 +5162,7 @@ deading
 dismastment 4
 densitometric 4
 deniably 1
-denial
+denial 1
 dentinoid 3
 disminister 1
 decentralizes 1
