@@ -1379,7 +1379,7 @@ diatomin 3
 doyennes
 derry 1
 deworm
-dave 1
+dave 2
 davenport 1
 disna 2
 disableness
@@ -5517,7 +5517,7 @@ disilluminate 2
 dichotriaene 5
 drummy
 downheaded
-depardieu 1
+depardieu 2
 dinger 2
 dewdrops 6
 diaxon 2
@@ -14459,7 +14459,7 @@ divertimento 1
 denarcotize 4
 drunkensome 1
 divertingly 1
-dehydrogenated
+dehydrogenated 1
 drainages
 divertingness
 dissolveability
@@ -16054,7 +16054,7 @@ decorability 1
 doubtous 4
 doubts 1
 desiderating 1
-distinguishable 5
+distinguishable 6
 drossier 3
 douceur 4
 dakir 2
