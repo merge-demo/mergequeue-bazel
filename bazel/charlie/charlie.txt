@@ -1118,7 +1118,7 @@ clamworm 1
 columella 3
 calcinosis
 contraprovectant 1
-calciobiotite
+calciobiotite 1
 calcioferrite 3
 ceratobranchial
 calcioscheelite 1
@@ -6116,7 +6116,7 @@ catstitcher
 carven 3
 calcitreation
 currane 1
-cineraria
+cineraria 1
 countershafting 2
 coassisting
 catsups 2

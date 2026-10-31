@@ -3566,7 +3566,7 @@ geo 3
 glunched 2
 ghettoizes 4
 gymkhana 3
-galloon 4
+galloon 5
 grudgery 5
 genevieve 4
 ghaffir 1
@@ -6521,7 +6521,7 @@ gorinesses 3
 grazing 1
 gymnasia 2
 groundage 1
-groundably 3
+groundably 4
 gospelmonger 2
 gallivat 2
 goniatitoid 5
@@ -7475,7 +7475,7 @@ gomerals 5
 gasconaded 4
 gists 2
 geodesy 3
-gades 1
+gades 2
 gonorrhoea 3
 groundwater 2
 gazing 2
