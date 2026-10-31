@@ -1397,7 +1397,7 @@ baleen
 bobance
 battable
 balefires
-bewreak 1
+bewreak 2
 barmbrack 1
 branned 1
 baleys 1
@@ -2786,7 +2786,7 @@ bhp 1
 barrowman
 balletomanes 3
 buckayro 1
-baudrons
+baudrons 1
 bowlers 2
 behaviourally 2
 baronries 2
