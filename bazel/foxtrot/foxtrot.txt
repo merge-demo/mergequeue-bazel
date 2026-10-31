@@ -171,7 +171,7 @@ farcialize 1
 formicaroid 3
 factionistism 6
 flirtatious 1
-fibrointestinal 2
+fibrointestinal 3
 friborg
 fabulous
 fourquine 4
@@ -7788,7 +7788,7 @@ fraenum 3
 forgathering 3
 finning
 fluorescein
-ferrotyped 2
+ferrotyped 3
 frostbite 3
 fluoridated 3
 fatelike 3
@@ -8818,7 +8818,7 @@ frailes 4
 fetchers 2
 flotillas 4
 fossage 1
-fanlight 8
+fanlight 9
 female 5
 fidel 2
 fearable 3
@@ -11674,7 +11674,7 @@ flames 3
 futurama 3
 floodometer 2
 frowsty 2
-flibustier
+flibustier 1
 furcates 1
 frailties 2
 festoons 4
