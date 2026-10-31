@@ -3134,7 +3134,7 @@ antagonizer 1
 allotrophic 2
 antispirochetic 1
 antisupernaturalist 2
-actionably 1
+actionably 2
 assoc
 avertin 2
 adalat 1
@@ -15039,7 +15039,7 @@ anticritic
 anaglyptics 1
 anticritical 2
 astrose
-anasarcas
+anasarcas 1
 attestant 1
 anticrochet 2
 antipewism 5
