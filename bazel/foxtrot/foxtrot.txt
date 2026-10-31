@@ -4854,7 +4854,7 @@ fooless 4
 flagstick 2
 flagworm 4
 fandangle 2
-feramorz 2
+feramorz 3
 fittedness 3
 florida 3
 flivvers 1
