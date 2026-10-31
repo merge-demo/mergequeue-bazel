@@ -14417,7 +14417,7 @@ amoyese 1
 anthracitious 1
 angiospastic
 awunctive
-anode
+anode 1
 achromacyte 1
 anthracomancy
 anthracomarti 1
@@ -24445,7 +24445,7 @@ autotetraploid 1
 assistanted 2
 autotetraploidy
 aah
-antivenefic 3
+antivenefic 4
 autothaumaturgist 3
 appellatively
 adhibiting 1
