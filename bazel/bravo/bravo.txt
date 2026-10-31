@@ -9953,7 +9953,7 @@ byelaw 3
 biland
 betrap
 bergerette 3
-basommatophora
+basommatophora 1
 bultong 2
 bryum 2
 balustraded 2
