@@ -673,7 +673,7 @@ bathyesthesia 1
 baculine 3
 boiseries 2
 baculoid 1
-baculus 2
+baculus 3
 badaga 1
 biorgan 1
 buncombe 2
@@ -7680,7 +7680,7 @@ boatbuilder 2
 bountiousness 2
 bezzle
 blackmailing 1
-brachydactylous 2
+brachydactylous 3
 bumblebee 1
 bereareft 1
 backfilling 2
