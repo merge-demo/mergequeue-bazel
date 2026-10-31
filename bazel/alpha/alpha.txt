@@ -1107,7 +1107,7 @@ abutment
 articulant 3
 accusal 1
 assertible 2
-acylogen 1
+acylogen 2
 angiocavernous 1
 aluminish
 ataghans
@@ -7399,7 +7399,7 @@ alsinaceae
 albigensianism 1
 angularness
 abietene
-abomasusi 2
+abomasusi 3
 annulus
 amusiveness 1
 affinage 3
@@ -13806,7 +13806,7 @@ aventurin
 africanism 1
 antonovics 2
 amidoacetic
-averred 1
+averred 2
 anorectous 1
 athrill 1
 anorexy

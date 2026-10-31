@@ -10185,7 +10185,7 @@ dispassioned
 deripia 5
 declarable
 dehonestate 2
-demirevetment 2
+demirevetment 3
 disallowing 3
 distillation
 dinging 4
@@ -17708,7 +17708,7 @@ dubber 2
 drabnesses 2
 dampener 2
 dubbin 4
-disused 3
+disused 4
 demipauldron 1
 discriminable
 durables 1
@@ -18669,7 +18669,7 @@ dwalm 2
 dwarfer
 duckboat 1
 dwarfishness 5
-documentarily
+documentarily 1
 dwarfisms
 dermopteran 1
 darwinically
