@@ -592,7 +592,7 @@ garthman 4
 gallinaceae 5
 gallinacean 2
 galesaurus 3
-guillotinism 2
+guillotinism 3
 giftware 1
 guilandina 6
 graveolence 5
@@ -6361,7 +6361,7 @@ gollywobbler 1
 gambelli 2
 ganoblast 2
 garnitures 3
-gustables 3
+gustables 4
 gofer 2
 given 2
 getspace
