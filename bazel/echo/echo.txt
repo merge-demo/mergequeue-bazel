@@ -8793,7 +8793,7 @@ expedients 2
 extime 2
 enterozoan 2
 el
-ectoskeleton 3
+ectoskeleton 4
 ekename 1
 erasers 2
 effectuate 2
