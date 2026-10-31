@@ -9942,7 +9942,7 @@ brian
 bx 2
 bituminous 1
 bisecting 1
-beryllate 1
+beryllate 2
 bilinguality 1
 bridleman 1
 burbles
@@ -14918,7 +14918,7 @@ breaster 3
 breastfast 3
 bura 2
 bearing
-balantidium
+balantidium 1
 breastheight
 baldie
 bignonia 1
