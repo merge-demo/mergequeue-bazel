@@ -4755,7 +4755,7 @@ glick
 genethliatic 2
 gendarme 2
 giantlike 2
-gabbroic 3
+gabbroic 4
 ganglander 5
 greenwood 3
 gadling
@@ -10573,7 +10573,7 @@ gunmetal 2
 grecoue 2
 giftedly 2
 gurmukhi 1
-goffering 3
+goffering 4
 gneissitic 3
 gatewoman 3
 grenadiership 2
