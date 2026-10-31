@@ -6421,7 +6421,7 @@ antieducationally 1
 arapaimas
 agrostemma 3
 acrogamy 1
-agrostography 3
+agrostography 4
 algesthesis 1
 antivenom 1
 agrostologic 1
@@ -10279,7 +10279,7 @@ ameliorates
 adenotyphoid 2
 algins
 allice 2
-adhort
+adhort 1
 amomales
 ameliorations 1
 animality

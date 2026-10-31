@@ -2707,7 +2707,7 @@ cankerfret
 compiles 1
 calcemia
 cankery 1
-cannoneering 1
+cannoneering 2
 cankerroot 1
 cauponize
 cankers
@@ -3804,7 +3804,7 @@ cribbling
 carbohydrase
 cannibalism
 cardioncus
-carbohydrate
+carbohydrate 1
 cardiotrophia 1
 cysticarpic 1
 carbohydraturia 2
