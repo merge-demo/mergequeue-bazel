@@ -17342,7 +17342,7 @@ coassistant 1
 culpas
 cupola
 coassume
-crystallic 1
+crystallic 2
 coassuming 1
 chrysolite 1
 coast
@@ -18095,7 +18095,7 @@ coannexing 3
 coenocentrum 1
 celioscopy
 coenocytic 1
-carson
+carson 1
 coenodioecism
 coenoecic 2
 coefficacy
