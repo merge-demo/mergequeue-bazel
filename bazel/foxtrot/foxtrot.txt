@@ -319,7 +319,7 @@ fibrillated 2
 finochio 4
 flusker 1
 futureness 3
-fagaceae 4
+fagaceae 5
 firesafe 4
 flamingo 1
 fessed 1
@@ -4966,7 +4966,7 @@ flamers 1
 fictionist
 foxing 4
 flamy 1
-fan 4
+fan 5
 facepiece 4
 floorages 1
 flamingant 3
@@ -10945,7 +10945,7 @@ furfuran 5
 forewit 2
 foreseing 1
 facsimiles 3
-fooled 3
+fooled 4
 fulzie 5
 favositidae 2
 flagellar
