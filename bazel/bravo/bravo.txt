@@ -358,7 +358,7 @@ backflowing 3
 backframe 2
 backfriend
 bottegas 2
-backgame 3
+backgame 4
 backgammon 2
 board 1
 barbarical 2
