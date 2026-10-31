@@ -9166,7 +9166,7 @@ bromcamphor 1
 bruja 3
 biotome 1
 boiler 3
-brothered
+brothered 1
 biotransformation
 birdnest 1
 biotron 1
@@ -17854,7 +17854,7 @@ ballistocardiogram
 bus 1
 busaos
 bloodleaf 3
-bine 2
+bine 3
 busbar
 busbars
 barotse 1
