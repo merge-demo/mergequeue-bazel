@@ -10802,7 +10802,7 @@ beplumed 2
 broses 3
 blepharoplastic 2
 bassan 1
-blepharoptosis 1
+blepharoptosis 2
 blepharosynechia 4
 blepharosphincterectomy 2
 bunchberry
