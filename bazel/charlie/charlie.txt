@@ -369,7 +369,7 @@ cacoepy
 cacoepistic 1
 cacoethes 1
 cosmeticize
-cacoethic
+cacoethic 1
 cacogalactia 2
 copyright 1
 carper
@@ -1529,7 +1529,7 @@ callings
 chuvashes 3
 celialgia 1
 callynteria 2
-callionymidae
+callionymidae 1
 coachers 2
 crookkneed 1
 clepe 1
@@ -26017,7 +26017,7 @@ cosectional
 cosed
 clipei 2
 citadels 1
-cosegment 1
+cosegment 2
 cosey 1
 chimesmaster 1
 coseiest 1
