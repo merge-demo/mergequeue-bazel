@@ -392,7 +392,7 @@ disembargoing 1
 dimmet
 daimons 1
 ditches 1
-divineness
+divineness 1
 dehydrogenization 4
 dainchas
 daynet 4
