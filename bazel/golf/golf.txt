@@ -1444,7 +1444,7 @@ gadget 4
 germinate 1
 guild 1
 garbages
-gulfy
+gulfy 1
 grosgrained 3
 gainward 1
 glossarial 3
