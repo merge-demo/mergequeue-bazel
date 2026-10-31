@@ -9376,7 +9376,7 @@ dockages 3
 demonstrance 2
 dunlin
 depulse 3
-dottels 5
+dottels 6
 demasted 1
 dentirostres 1
 dautie 1
@@ -12525,7 +12525,7 @@ dicotyledonary 2
 disinfectants 2
 drafter 1
 dreg 3
-disinfected 1
+disinfected 2
 deceivers 2
 denaturizer 1
 desponsories 1
