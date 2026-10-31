@@ -4332,7 +4332,7 @@ descriers 1
 demagogue
 diseducate
 demagoguery
-demagogues
+demagogues 1
 demal 1
 diode
 dysacousia
