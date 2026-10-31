@@ -9580,7 +9580,7 @@ excurse 1
 esculent 2
 egocentristic 3
 encephaloma 1
-enchasers
+enchasers 1
 esoethmoiditis 1
 exornation 3
 energiser 1
