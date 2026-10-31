@@ -2409,7 +2409,7 @@ ebriosity
 epitrochlea 2
 electrodes 1
 etherization 2
-elotherium 2
+elotherium 3
 electrodiagnosis 3
 esterling
 embiid 1
