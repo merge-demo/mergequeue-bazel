@@ -9817,7 +9817,7 @@ aeroplane 2
 aposthia 2
 amanous 1
 antiauxin 1
-amante 3
+amante 4
 allured
 agonized 2
 airbrush
@@ -19411,7 +19411,7 @@ argentin 1
 anglicanism
 antidemocratical 2
 advertisee 1
-astrolog 2
+astrolog 3
 argentine
 argentineans 1
 argentinian
@@ -20834,7 +20834,7 @@ allurers 2
 arupa 4
 armoried 1
 aruspicy
-axilla
+axilla 1
 arteriography 2
 arval 1
 arvejon
