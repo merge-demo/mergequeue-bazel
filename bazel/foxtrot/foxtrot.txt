@@ -1831,7 +1831,7 @@ flabellum 3
 fating 2
 feedbags
 flexographic 6
-frostnipped 3
+frostnipped 4
 farcicality 2
 funambulate 2
 foreign 1
@@ -8874,7 +8874,7 @@ fotmal 1
 folkvang 2
 forum 2
 furbelow 3
-flambage 2
+flambage 3
 froghopper 1
 faulter 3
 foujdarry 5
@@ -11389,7 +11389,7 @@ furnishable 5
 fluoroformol 3
 frontirostria 3
 forgiveably 2
-footballer 1
+footballer 2
 flushness 3
 fourposter 5
 farceuse 3
@@ -11540,7 +11540,7 @@ furlable
 fabling 1
 fictionize 4
 fards 3
-floeberg 6
+floeberg 7
 famulary 2
 fledgy 2
 folio 2
