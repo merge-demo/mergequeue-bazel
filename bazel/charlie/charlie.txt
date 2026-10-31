@@ -28704,7 +28704,7 @@ clung
 crenothrix
 crenula
 connectible 2
-crenulate
+crenulate 1
 cassythaceae 1
 crenulation
 creodonta
