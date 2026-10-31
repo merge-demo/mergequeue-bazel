@@ -2575,7 +2575,7 @@ conners
 candlewicks 2
 complementative
 candlewright
-candling
+candling 1
 cynically
 campaniles 1
 candollea 1
@@ -21434,7 +21434,7 @@ conclusory 1
 calybite
 conclusum 1
 caseful 2
-chapellage
+chapellage 1
 concoagulate 2
 congestions 3
 cannibality
