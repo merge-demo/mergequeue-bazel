@@ -139,7 +139,7 @@ evaporativity 1
 economizes 1
 extravasating 4
 elon 1
-enchasten 5
+enchasten 6
 epiphysial 1
 elisha 1
 epididymides
@@ -3197,7 +3197,7 @@ eidetic 3
 endocone 3
 ejaculum
 extraserous 4
-entomophagous 1
+entomophagous 2
 episcopation 5
 enamoring
 esperantist 3

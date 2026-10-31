@@ -805,7 +805,7 @@ angiomegaly 1
 abronia 1
 afterhelp 1
 abrood 1
-abrook
+abrook 1
 aiel 2
 atrabiliary 1
 abruptio 1
@@ -884,7 +884,7 @@ absinthiin
 avianizes 2
 ambisexualities
 adjt 3
-absinthismic
+absinthismic 1
 absinthole
 amphivasal
 angiohypertonia 2
@@ -14762,7 +14762,7 @@ anticalligraphic 1
 agnathia
 advantaged
 atomistically
-anticamera
+anticamera 1
 anticancer 2
 attaboy
 anaryan 1
@@ -18077,7 +18077,7 @@ alternance
 agentship
 aptest
 anticonvulsive
-aureity 1
+aureity 2
 amazonian 1
 anschauung 1
 agromyza 1
