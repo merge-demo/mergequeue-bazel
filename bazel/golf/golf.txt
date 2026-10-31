@@ -5851,7 +5851,7 @@ gedact
 galvanoplastic 3
 grundel 3
 gadger 1
-gladify 3
+gladify 4
 gate
 gymnosporangium 1
 gynoecium 2
