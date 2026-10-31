@@ -4227,7 +4227,7 @@ adorn 1
 adornation 1
 amphibalus 1
 apartado 2
-apologizers 1
+apologizers 2
 affy
 argentation
 assiduity 1
@@ -12605,7 +12605,7 @@ anesthesiologies 1
 aasvogel
 angelophany 1
 archrascal 1
-asarh
+asarh 1
 angwantibo
 anesthetization
 anesthetized 3
@@ -20614,7 +20614,7 @@ afterplay 1
 adamantoma 1
 arthrometry 3
 atsara
-alvine
+alvine 1
 apospories 1
 ammodytoid
 aswithe 5

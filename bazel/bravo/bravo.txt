@@ -5618,7 +5618,7 @@ belaying 2
 bingo 1
 bogie
 belam 1
-bettas 3
+bettas 4
 brabblement 2
 beclamoring
 brunet
@@ -10174,7 +10174,7 @@ badgering 2
 binghi 1
 broomy 5
 bassing
-bitreadle 1
+bitreadle 2
 blackguard 3
 bos 1
 benzenyl
@@ -12331,7 +12331,7 @@ bombesins
 brightsomeness
 beeregar 3
 brandle 2
-bantered 1
+bantered 2
 bombycine
 bagpiper 1
 blacky 2
@@ -18211,7 +18211,7 @@ barium 1
 borated
 buttered 1
 beshadowing 1
-brisken 1
+brisken 2
 beyond
 butterfat
 bucranium 1
