@@ -3007,7 +3007,7 @@ bidirectionally 2
 boist 2
 bartenders 2
 bartending 1
-bulbiferous
+bulbiferous 1
 bartends 2
 burthened 1
 baggywrinkle
@@ -6953,7 +6953,7 @@ beckett 2
 barrico 1
 besiegers 1
 bedeman 2
-bromism
+bromism 1
 beslap 2
 bushbashing
 bastillion 2
@@ -8201,7 +8201,7 @@ biflagelate 1
 bewaring 2
 boring
 borrow
-biflex 2
+biflex 3
 benchfellow 1
 beginger 2
 bifluoride 1
