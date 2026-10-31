@@ -9579,7 +9579,7 @@ galactoscope 4
 grind 2
 gnus 4
 gingersnap 3
-grovellingly
+grovellingly 1
 geishas 2
 gneissoid 2
 guester 6
