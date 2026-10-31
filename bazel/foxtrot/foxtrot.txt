@@ -3861,7 +3861,7 @@ firewoods
 fisticuffer 2
 furthermore 2
 fineless 1
-fract 5
+fract 6
 fiberglas 5
 formicary 1
 fiberscope 4
@@ -7730,7 +7730,7 @@ farcically 1
 florian 5
 freeish 1
 falconlike 2
-fretty
+fretty 1
 furs 3
 forsaken 1
 flamelike 2
@@ -11428,7 +11428,7 @@ furred 3
 frieze 1
 frowstiest 3
 fettering 2
-forebemoaned 1
+forebemoaned 2
 founte 1
 fortunetell 1
 fallibleness 1
