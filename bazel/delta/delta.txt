@@ -4003,7 +4003,7 @@ distritbutes 3
 delectus 1
 degradingly 1
 delegacy 1
-domiculture
+domiculture 1
 dysrhythmia 1
 delegate 1
 doorsill
@@ -9364,7 +9364,7 @@ dinarchies 1
 differer 2
 differs 2
 dextrorsely 3
-duncify 2
+duncify 3
 deprive 3
 difficileness 1
 difficilitate 2
@@ -12639,7 +12639,7 @@ defaultant 4
 descendentalist 1
 descrial 1
 dodgeries 2
-duplicidentate 1
+duplicidentate 2
 dechemicalization
 disjunctive 1
 disjunctively 2
@@ -16967,7 +16967,7 @@ dithery 2
 dredgers
 discreet 1
 didepsid
-dree 2
+dree 3
 dreepy 3
 docentship 4
 dayan 1
