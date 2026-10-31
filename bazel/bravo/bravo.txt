@@ -1657,7 +1657,7 @@ betokens 1
 balmonies 2
 bloodroot 4
 balmoral 1
-benefits 2
+benefits 3
 besoms 3
 balmorals 2
 bedticks 3
@@ -3245,7 +3245,7 @@ basilica 1
 belverdian 2
 basilical
 brookable 1
-backoff 1
+backoff 2
 blushfulness
 basilicate 1
 basilicock
@@ -9309,7 +9309,7 @@ birational 1
 butterwright 2
 birched
 besugo
-birchers 3
+birchers 4
 bewater 3
 birchwood 1
 baccaras 2
@@ -16873,7 +16873,7 @@ balancelle
 biotechnologies 1
 blended
 burhead 3
-bichromatic 2
+bichromatic 3
 bathysophic 2
 buffoonish 4
 bungle 2
