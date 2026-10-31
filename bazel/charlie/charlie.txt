@@ -6874,7 +6874,7 @@ cytherean
 chilliness
 celomata
 consultee
-celotomies
+celotomies 1
 clonks
 cloze 1
 celsian 1
@@ -9885,7 +9885,7 @@ chemoresistance
 chemoserotherapy
 chemosynthesis 1
 chemosynthetic 1
-chemosmoses 1
+chemosmoses 2
 chemosmotic 1
 consumptible 1
 calpacks 1
