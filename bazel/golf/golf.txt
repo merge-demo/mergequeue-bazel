@@ -445,7 +445,7 @@ gibbetted 1
 galipoidine 4
 gloominess 3
 galei 3
-gynecotelic 1
+gynecotelic 2
 glandlike 1
 garliclike 2
 gloating 1
@@ -952,7 +952,7 @@ gammoners 4
 gentlewomen 1
 gooseries 4
 glycyphyllin 3
-geocentrical 1
+geocentrical 2
 gamogamy 1
 gastriloquism 1
 gitanemuck 5
@@ -4465,7 +4465,7 @@ gip 1
 gpd 6
 gleba 3
 gladiatorship 1
-galloman 3
+galloman 4
 gaultherine 2
 gipon 1
 gaetulan 1
@@ -6639,7 +6639,7 @@ glycosuria 6
 gossans 2
 gurglingly 3
 gruss 1
-grittiest 2
+grittiest 3
 gyrodyne 1
 gateman 3
 gropes 2
@@ -8360,7 +8360,7 @@ grasshouse 2
 gulling 2
 globeflower 1
 gravest 1
-graminaceae
+graminaceae 1
 galvanoglyphy 4
 glucofrangulin 6
 gedecktwork 5
@@ -8967,7 +8967,7 @@ germless 1
 gastrodidymus
 gridelin 1
 griding 6
-gasped 4
+gasped 5
 galvo 3
 greyhens 4
 greenbul 2
