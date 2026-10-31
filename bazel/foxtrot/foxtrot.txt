@@ -4854,7 +4854,7 @@ fooless 4
 flagstick 2
 flagworm 4
 fandangle 2
-feramorz 2
+feramorz 3
 fittedness 3
 florida 3
 flivvers 1
@@ -7788,7 +7788,7 @@ fraenum 3
 forgathering 3
 finning
 fluorescein
-ferrotyped 2
+ferrotyped 3
 frostbite 3
 fluoridated 3
 fatelike 3
@@ -9839,7 +9839,7 @@ fribbler 2
 friskle 3
 foreappointment 2
 fricace 1
-fricandeaux 2
+fricandeaux 3
 foozlers 6
 footcloths 2
 fluellen 6
@@ -11674,7 +11674,7 @@ flames 3
 futurama 3
 floodometer 2
 frowsty 2
-flibustier
+flibustier 1
 furcates 1
 frailties 2
 festoons 4
