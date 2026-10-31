@@ -2177,7 +2177,7 @@ camphoroyl
 clerkliest 1
 camporee 1
 camphorone 1
-camphorweed
+camphorweed 1
 camphorwood 2
 cotan 1
 campi 3
@@ -6044,7 +6044,7 @@ crownling 1
 cathrin
 cathryn
 coversine
-cathud
+cathud 1
 catydid
 continuos
 cyclicity 1
