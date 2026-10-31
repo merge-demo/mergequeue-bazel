@@ -2890,7 +2890,7 @@ discernment
 deluded 2
 dronet 1
 dinoceratid 1
-draper 1
+draper 2
 didunculidae
 detainers 2
 deerlike 2
@@ -17216,7 +17216,7 @@ drivepipe 2
 driver 2
 despising 1
 drivers
-drivership 2
+drivership 3
 dmarche
 drives
 dredgings
@@ -17353,7 +17353,7 @@ daglocks 2
 dishwiper 4
 dropberry 2
 deprogrammers 3
-dropforge 3
+dropforge 4
 dorsicommissure 2
 dropforger 1
 drophead
