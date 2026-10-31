@@ -7198,7 +7198,7 @@ crossing 2
 corruptest
 centrifugalize 2
 catawba
-clamors
+clamors 1
 centrifugaller
 cladoceran 1
 centrifugate 1
