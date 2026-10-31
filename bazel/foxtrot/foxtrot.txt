@@ -6048,7 +6048,7 @@ fractal 1
 fluviology 3
 fibromas 2
 faeroese 2
-filippo 3
+filippo 4
 farandine 2
 forethoughted 2
 flewed 2
@@ -11266,7 +11266,7 @@ furacious
 file 4
 farces
 frabjous 2
-fernando
+fernando 1
 flatters 4
 furanoid 1
 fricandeaus 3
