@@ -3918,7 +3918,7 @@ adjudging 2
 apocarps 2
 autarkik 2
 adjudicated 1
-apostrophied 1
+apostrophied 2
 adjudication 1
 agglutinin 2
 adjudicative
@@ -8748,7 +8748,7 @@ adet
 autoincrements 1
 allgovite
 anthologized
-antiperistatically 1
+antiperistatically 2
 amblosis
 arachidonic 1
 allhallows 1
@@ -11903,7 +11903,7 @@ axoplasms 2
 autoantitoxin
 arylated
 addable 2
-ananym 1
+ananym 2
 ananism 2
 ananite 1
 anelace 1

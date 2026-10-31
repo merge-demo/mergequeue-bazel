@@ -4526,7 +4526,7 @@ gutters 1
 gardevisure 4
 glyptology 2
 grame 2
-gyrose
+gyrose 1
 grindingly 2
 grandmothers
 guastalline 2
@@ -4954,7 +4954,7 @@ glaives 5
 get 6
 gent 3
 galangal 4
-grangerizing 2
+grangerizing 3
 gamdia 5
 gardens
 grenadierly 3
