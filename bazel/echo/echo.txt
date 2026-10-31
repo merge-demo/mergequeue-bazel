@@ -2347,7 +2347,7 @@ effulge 4
 enchants 1
 epistroma 3
 electrocardiogram 1
-enclear 1
+enclear 2
 ever 4
 electrocardiographic 2
 euphuistic
