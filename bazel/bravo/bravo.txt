@@ -8858,7 +8858,7 @@ brontolith 3
 blankmindedness 1
 biocenosis
 burgraviate 2
-basket 2
+basket 3
 burgess 3
 branchiopodan 1
 boffola 1
@@ -17357,7 +17357,7 @@ boardmen 1
 bundler
 boudeuse 3
 bottleneck 1
-badged 2
+badged 3
 bundles 5
 bipaliidae 1
 benzantialdoxime 1
