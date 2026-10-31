@@ -2451,7 +2451,7 @@ essentialize 2
 evoker
 electroendosmosis 1
 encipher 1
-epoist 2
+epoist 3
 enslavements 1
 exquisiteness 4
 exterminist
@@ -4857,7 +4857,7 @@ ethical 3
 ecize 2
 exhalate 1
 equitable
-encouraged 2
+encouraged 3
 estrous 5
 excellences 4
 epigne 1
