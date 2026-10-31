@@ -6276,7 +6276,7 @@ gospelly 2
 gainable 3
 gobble 3
 gowpen 3
-gierfalcon 4
+gierfalcon 5
 gobbled 3
 gothicizer 4
 gobbledygook 2
@@ -6460,7 +6460,7 @@ gradationately 1
 gillaroo 6
 goldener 1
 gidgee 2
-guldens 1
+guldens 2
 guary 4
 goldentop 1
 glochideous 2
