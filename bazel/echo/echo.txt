@@ -2347,7 +2347,7 @@ effulge 4
 enchants 1
 epistroma 3
 electrocardiogram 1
-enclear 1
+enclear 2
 ever 4
 electrocardiographic 2
 euphuistic
@@ -4168,7 +4168,7 @@ exporter 4
 elaeosia 2
 engraphy
 eyeroot
-escaloped 2
+escaloped 3
 echiurida 2
 enacted 2
 etuve 1
