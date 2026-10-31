@@ -3672,7 +3672,7 @@ conveyorize
 caramelize
 caramelized 2
 clangoring
-counterpointe 1
+counterpointe 2
 caramels
 commendam 2
 carancha
@@ -5088,7 +5088,7 @@ cascable 1
 cascadable 1
 cascade 1
 crankous 1
-coupes 4
+coupes 5
 crotaline
 cavae
 cascaded 2
@@ -29487,7 +29487,7 @@ crystallogenical 2
 cymbiform 1
 confliction 2
 chawle
-cageot
+cageot 1
 cloak 1
 chileanize
 crystallography 1
