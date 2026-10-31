@@ -18839,7 +18839,7 @@ colicins
 corvisor 1
 cytogene 1
 colicroot
-colicwort 1
+colicwort 2
 cranial
 chiaroscurist 2
 cervelliere 1
