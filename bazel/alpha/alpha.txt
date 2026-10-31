@@ -1159,7 +1159,7 @@ apheliotropic 1
 acalyptratae 1
 anonymities 3
 acamar 2
-allocrotonic 1
+allocrotonic 2
 allethrin 1
 ammoniacal 1
 azimuths 3
@@ -11810,7 +11810,7 @@ antimoniate
 analyst 3
 amphophilic
 acrobat 1
-alamanni 3
+alamanni 4
 antinational 2
 antiatonement 1
 animalisation 1
@@ -21679,7 +21679,7 @@ antiquer
 assaulter
 attainably 1
 aldolases
-archibald
+archibald 1
 assausive 1
 arrhinia
 audiotape 1
@@ -24541,7 +24541,7 @@ abiosis 1
 amusively
 auxiliator 3
 auxilytic 1
-alebush 2
+alebush 3
 auxin 1
 antinucleon 1
 angekkok 2
