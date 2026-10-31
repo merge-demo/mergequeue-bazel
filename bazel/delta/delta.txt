@@ -5157,7 +5157,7 @@ denervation
 denes 1
 deices 2
 defer 2
-daughterlike
+daughterlike 1
 deading
 dismastment 4
 densitometric 4
@@ -17932,7 +17932,7 @@ dufrenoysite 2
 dufter 2
 dosage 1
 dactyliography
-delimitate 4
+delimitate 5
 defibrinate
 dufterdar 1
 dys 4
