@@ -774,7 +774,7 @@ boltheads 3
 badnesses
 bradylogia 1
 bads 1
-bicetyl
+bicetyl 1
 beeline 2
 biometrical 1
 bethorn 1
