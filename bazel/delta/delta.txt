@@ -590,7 +590,7 @@ dodecaheddra 2
 diwata 3
 decopperization 1
 downweight 1
-desmopathologist
+desmopathologist 1
 dicyclopentadienyliron 2
 dehydroretinol 1
 develin 1
@@ -4874,7 +4874,7 @@ demonishness 2
 disozonize 3
 dismaying 1
 debited 1
-demonists 2
+demonists 3
 disquarter
 demonized 2
 dobe 1
