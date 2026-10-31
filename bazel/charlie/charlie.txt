@@ -11544,7 +11544,7 @@ coquimbite
 cliseometer 2
 cavers 1
 cholam
-cobbiest 1
+cobbiest 2
 cholangiography
 creepmousy 1
 cholanic 1
@@ -14539,7 +14539,7 @@ cosmologic
 cistercian 2
 choppy
 cistercianism 1
-cisternae 3
+cisternae 4
 cariocas 1
 cisternal 3
 cornier 1
@@ -20796,7 +20796,7 @@ complots 2
 complotter
 carwitchet
 complotting 1
-complutensian 2
+complutensian 3
 cartelized 3
 compo
 counterstream 1
@@ -30884,7 +30884,7 @@ considerability 3
 cypselid 1
 culsdesac
 chrysanthous 2
-conjegates 1
+conjegates 2
 concipient 1
 cresoxide 1
 cultches
