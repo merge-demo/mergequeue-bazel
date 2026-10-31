@@ -20614,7 +20614,7 @@ afterplay 1
 adamantoma 1
 arthrometry 3
 atsara
-alvine
+alvine 1
 apospories 1
 ammodytoid
 aswithe 5
