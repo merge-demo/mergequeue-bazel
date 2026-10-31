@@ -4708,7 +4708,7 @@ gettered 1
 gynomonecious 2
 gise 5
 granges 3
-gooder 3
+gooder 4
 gibbsite 2
 gauping 2
 geisothermal 4
@@ -4834,7 +4834,7 @@ gouaches 1
 garookuh 4
 glacierist 3
 graphemes 5
-glaciers 2
+glaciers 3
 gowns 3
 gymnothorax 2
 gladhearted 3
@@ -5596,7 +5596,7 @@ glottogonist 3
 gervais 1
 gurges 4
 garuda 2
-ginks 2
+ginks 3
 gipsyry 1
 gravestone
 governance 2
