@@ -8853,7 +8853,7 @@ astound
 albahaca
 assumable 3
 amethodical
-allanturic
+allanturic 1
 actinal
 antevocalic 1
 arrayment
