@@ -4431,7 +4431,7 @@ enure 3
 effectively 2
 encapsuling 2
 encaptivate 1
-essence 1
+essence 2
 expectorate 2
 eternized 4
 electrophysiologic 2
@@ -6057,7 +6057,7 @@ expire 3
 ere 3
 epiglottises 8
 enkindles 2
-edginess 1
+edginess 2
 epiphytotic
 entrepreneuses 2
 epistolical 3
@@ -7216,7 +7216,7 @@ endodontium 2
 ejidos 2
 enderon 1
 erythropoietic 2
-electrotropic 3
+electrotropic 4
 ephemeromorphic 3
 eupnoeas 3
 exudate 3
@@ -7260,7 +7260,7 @@ enraptures 1
 emulsification 2
 exsector 2
 echoless 4
-electrocatalytic 6
+electrocatalytic 7
 encephalomere
 epidemiology 1
 energetics
@@ -8199,7 +8199,7 @@ episiotomies 1
 episkeletal 1
 eequinoctium 1
 enroots 1
-ethnicity 1
+ethnicity 2
 expirant 4
 episodical 1
 earsh 1
@@ -10067,7 +10067,7 @@ enchainment 3
 exoneretur 2
 ebonies 2
 encephalographically 3
-editorially 3
+editorially 4
 entitlement 2
 ethanolamine
 ephemeralness

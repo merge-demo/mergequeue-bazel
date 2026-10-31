@@ -2925,7 +2925,7 @@ fumigations 3
 fortressing 3
 footmark 2
 frontogenesis 2
-flock 1
+flock 2
 frizzen 1
 factoring 3
 fumier 2
@@ -4191,7 +4191,7 @@ foulmouthed 4
 foretokening 5
 firebug 3
 flagstones
-fado 2
+fado 3
 flickertail 2
 fishet 2
 fibrocaseous 2
@@ -6184,7 +6184,7 @@ flowingness 3
 forestless 2
 flowmeter 2
 facilitates 3
-fimetarious 4
+fimetarious 5
 forcement 2
 firebreak
 funguslike 2
@@ -6567,7 +6567,7 @@ fluxionist 4
 fluxive 4
 fouett 7
 footcloth 4
-fetiales 3
+fetiales 4
 fissions 3
 fo 4
 fireproofed 2
@@ -6582,7 +6582,7 @@ filiated 4
 fluorhydric 1
 finfishes 2
 fortuitist 4
-flyboats 3
+flyboats 4
 falconiform 3
 foaling 1
 franseria 1
@@ -11753,7 +11753,7 @@ fuzees 2
 faultfinders 2
 fuzzier 1
 fuzziest 3
-forstraught 4
+forstraught 5
 fertilitate 1
 fianna 2
 forloin 5
