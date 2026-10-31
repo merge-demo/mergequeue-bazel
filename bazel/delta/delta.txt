@@ -7422,7 +7422,7 @@ dunness 1
 digitately 2
 dianisidin
 detract
-detractingly
+detractingly 1
 docetism 1
 destructibility 2
 detractions 2
@@ -14164,7 +14164,7 @@ daywork 1
 deringer 2
 dunair 3
 disunify
-disorientates
+disorientates 1
 dolesman 1
 diastatically 1
 dermatomic 2
@@ -17695,7 +17695,7 @@ duarchies 2
 dhauri 1
 dubb 2
 declamando
-demidevil 3
+demidevil 4
 dilemmic 1
 dullhearted 3
 dynamometer 1
