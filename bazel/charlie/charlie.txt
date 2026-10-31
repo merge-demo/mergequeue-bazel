@@ -9885,7 +9885,7 @@ chemoresistance
 chemoserotherapy
 chemosynthesis 1
 chemosynthetic 1
-chemosmoses 1
+chemosmoses 2
 chemosmotic 1
 consumptible 1
 calpacks 1
