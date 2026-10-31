@@ -274,7 +274,7 @@ amphistyly 4
 aphenoscope
 abditory 1
 apelet
-abdom 2
+abdom 3
 anhydrides 1
 autoserotherapy 1
 arian 3
@@ -717,7 +717,7 @@ aboveproof 1
 abovestairs 1
 aluminised 2
 agaricaceae 2
-azotising 2
+azotising 3
 abradable 3
 arteriopressor 3
 abradants
@@ -11452,7 +11452,7 @@ ateeter 2
 adnexitis
 adonic 2
 amygdalae 1
-asphodeline 2
+asphodeline 3
 amu
 arteriae
 amuchco 1
@@ -14094,7 +14094,7 @@ amentia 2
 antejudiciary
 antelocation
 aulostomidae
-apriorist 1
+apriorist 2
 archdeaconship 1
 approving 3
 acenaphthene 1
@@ -24613,7 +24613,7 @@ affich 1
 avance
 amicicide
 avantage
-avaram
+avaram 1
 applicably 1
 avaremotemo
 alouatte 1
