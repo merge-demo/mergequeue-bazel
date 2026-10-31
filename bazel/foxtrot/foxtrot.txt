@@ -9592,7 +9592,7 @@ fraternality 1
 fortifications 1
 fishpound 4
 fivestones 2
-ferrotyper 2
+ferrotyper 3
 forhooy 2
 fothering 4
 flanger 5
@@ -10576,7 +10576,7 @@ fattish 2
 froggier 4
 fluorimetry 3
 fustier 1
-fragmental 2
+fragmental 3
 forks 3
 furfurals 2
 filiation
