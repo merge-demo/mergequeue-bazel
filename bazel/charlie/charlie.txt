@@ -20150,7 +20150,7 @@ croaks 1
 commissive
 commissively
 cinchona
-commissoria 1
+commissoria 2
 clypeastroidea
 commissure
 confederacy 2
@@ -23021,7 +23021,7 @@ consonancy 4
 consonant
 consonantal
 consonantalize 2
-consonantic
+consonantic 1
 cavalcade
 consonantised
 cagmag 2

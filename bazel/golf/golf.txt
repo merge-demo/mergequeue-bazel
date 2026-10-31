@@ -443,7 +443,7 @@ gallantness 4
 goldless 3
 gibbetted 1
 galipoidine 4
-gloominess 3
+gloominess 4
 galei 3
 gynecotelic 2
 glandlike 1
@@ -2593,7 +2593,7 @@ generant 3
 generate 1
 guitars 3
 gypsiferous 2
-generated 1
+generated 2
 gazetteerage
 gomerel 1
 guetare 2

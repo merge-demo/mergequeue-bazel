@@ -9801,7 +9801,7 @@ bawd 2
 burgherhood 2
 biteche 3
 barbicans 1
-bowdlerization
+bowdlerization 1
 barrels 1
 balawa 1
 beamy 1
@@ -11940,7 +11940,7 @@ blindfoldly 2
 boggier 1
 bayou 1
 boggle 3
-babakoto 3
+babakoto 4
 blastemas
 boggler 1
 bannerol 1
@@ -15273,7 +15273,7 @@ broodlet 1
 brainlessly 1
 barnlike
 bridewain
-beholding 2
+beholding 3
 brideweed
 bahiaite
 biochemics
