@@ -3147,7 +3147,7 @@ briskly 4
 brachiating 2
 basenjis 4
 biphase 1
-baseplug 2
+baseplug 3
 basepoint 3
 behavers 1
 baser 1
@@ -3289,7 +3289,7 @@ bronzes 1
 beadlery 3
 backpacking 2
 balche 2
-baccalaureat 2
+baccalaureat 3
 basiotripsy
 branchway
 boobyism
@@ -9865,7 +9865,7 @@ bitsy 1
 birled 1
 bioscope 4
 bestialist
-brotherly 1
+brotherly 2
 bitstock 1
 beasties 2
 besmirches 1
