@@ -24501,7 +24501,7 @@ autoxidation 3
 autoxidator
 autoxidizability
 autoxidizable
-autoxidize
+autoxidize 1
 accloy 5
 antepenultimate 2
 administrated 1
