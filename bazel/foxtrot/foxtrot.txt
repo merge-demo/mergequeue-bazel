@@ -6005,7 +6005,7 @@ fez 1
 floorwise
 featishness 3
 fusty 3
-foolscaps 4
+foolscaps 5
 felspars 1
 flacon 3
 fumattoria 3
@@ -9999,7 +9999,7 @@ fopped 2
 flenching 2
 frypans 2
 frillily 2
-falderal
+falderal 1
 felid 3
 frilliness 6
 fen
