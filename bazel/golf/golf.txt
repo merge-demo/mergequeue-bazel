@@ -5498,7 +5498,7 @@ gimmer 1
 goods 3
 gentlemen 1
 goodyera 2
-goldilocks 1
+goldilocks 2
 glisten 4
 guttering 7
 glimmery 3
@@ -6377,7 +6377,7 @@ gog 5
 gamin 2
 graymill 3
 gugal 1
-gospelwards 1
+gospelwards 2
 germanophile 1
 greenwort 2
 guesstimate 3
@@ -9074,7 +9074,7 @@ glasser 4
 grimalkin 2
 genitive 6
 gentianwort 2
-ghast 3
+ghast 4
 grimme 2
 gipsyhood 3
 grillroom 4
