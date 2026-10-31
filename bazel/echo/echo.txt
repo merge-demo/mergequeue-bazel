@@ -4659,7 +4659,7 @@ extratensive 1
 erythroxyline 1
 endarchies 3
 exuberantness 3
-elasticizes 3
+elasticizes 4
 epimerase 2
 epimerising
 eusuchian 2
@@ -6778,7 +6778,7 @@ empyema 1
 eole 3
 engagedly 2
 electrocutions
-estatesman 1
+estatesman 2
 enemied 4
 ergon 1
 educator
@@ -14080,7 +14080,7 @@ etymography 4
 extremeness 4
 extremis 3
 effeminate 4
-extraterritorials
+extraterritorials 1
 ethnologist 2
 esteem 2
 evolutionistically 1
