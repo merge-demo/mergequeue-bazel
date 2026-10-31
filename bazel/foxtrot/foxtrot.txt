@@ -2195,7 +2195,7 @@ forthtell 3
 fishworker 2
 feltwort 2
 fastidiosity 2
-felwort 3
+felwort 4
 fathearted 3
 faciobrachial 2
 fairsome 4
@@ -3107,7 +3107,7 @@ faddiness 3
 fisherboy 2
 flabby 3
 ferrety 1
-fibroblastic
+fibroblastic 1
 ferngale 1
 fipple 4
 festoon 2
