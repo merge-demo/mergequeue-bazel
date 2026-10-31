@@ -1419,7 +1419,7 @@ desipient 5
 diligentia 1
 disintegrable 1
 dulcid 1
-dechoralize 2
+dechoralize 3
 deportation 2
 dawdling
 dibbed 1
@@ -4001,7 +4001,7 @@ delectating 3
 damnously 1
 distritbutes 3
 delectus 1
-degradingly
+degradingly 1
 delegacy 1
 domiculture
 dysrhythmia 1
@@ -9011,7 +9011,7 @@ deraigns 1
 dodecuplet
 dicodeine 3
 dicoelious
-dicolon
+dicolon 1
 disbar
 dudine 5
 dicotyledonous 2
@@ -14761,7 +14761,7 @@ desmacyte 1
 desertrice 3
 dentilated 2
 docimastical 1
-decimation 3
+decimation 4
 docimology 4
 docious
 deflowering 4
@@ -17761,7 +17761,7 @@ diagraph 1
 demythologize 1
 dorsigrade 4
 dwining 1
-dopesheet 2
+dopesheet 3
 disembroil
 democrats 1
 dioramas 2
