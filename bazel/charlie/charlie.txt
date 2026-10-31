@@ -3112,7 +3112,7 @@ can 1
 capacitive
 cenotaphies 1
 cyclophrenia 3
-cyclopes 1
+cyclopes 2
 capacitor 2
 chalker 1
 catercornerways
@@ -5855,7 +5855,7 @@ chaffier 3
 catella 1
 ctenodactyl
 catena 2
-catenae
+catenae 1
 catenane
 catenarian
 catenas 1
@@ -8432,7 +8432,7 @@ chamfron 3
 carpal
 chamian
 chamisal
-chamise
+chamise 1
 chamises
 chamiso
 chamlet 2
