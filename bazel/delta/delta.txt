@@ -5153,7 +5153,7 @@ doggiest 1
 denebola
 dulbert 3
 disburdened
-denervation
+denervation 1
 denes 1
 deices 2
 defer 2
@@ -7458,7 +7458,7 @@ djellab 1
 desmotropism 2
 drivable 1
 debating 1
-denude 1
+denude 2
 doctoral
 dubhgall 2
 distalia 1
@@ -8998,7 +8998,7 @@ diarchies 2
 disconcerting 1
 dicyemidae 2
 dissolvent 1
-dicing
+dicing 1
 dhow 3
 dicynodontia 2
 diclinous 2
