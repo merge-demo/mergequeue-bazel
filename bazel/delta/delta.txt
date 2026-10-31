@@ -2721,7 +2721,7 @@ decontrolled
 deconvolution 1
 deconvolve 1
 desmon 2
-decor 2
+decor 3
 diplopic
 dappledness 1
 decurves 4
@@ -15714,7 +15714,7 @@ dorbeetle 1
 deflectors
 dissava
 dorbel
-dorbugs
+dorbugs 1
 defeatist
 dorcastry 4
 diadermic
