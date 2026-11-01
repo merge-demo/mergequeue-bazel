@@ -7806,7 +7806,7 @@ fondak 2
 flogger
 frondivorous 5
 fleshiest 4
-feedboxes
+feedboxes 1
 feronia 2
 fossilizing 6
 forenoons 1
@@ -10116,7 +10116,7 @@ frithstool 2
 fritniency 4
 fare 1
 foreknee 3
-fe 3
+fe 4
 feckly 2
 fulciform 2
 fortuitus 3
