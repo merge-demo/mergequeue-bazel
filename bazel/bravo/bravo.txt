@@ -14970,7 +14970,7 @@ bravuraish 4
 blennophlogisma
 breathes 1
 boarstaff 3
-breathiness
+breathiness 1
 bookishly
 breathingly 2
 bepaper
