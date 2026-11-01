@@ -5022,7 +5022,7 @@ foremartyr 2
 fiddlewood 1
 filet 2
 fluctuable 3
-faceable 2
+faceable 3
 frowsier 3
 feathers 1
 faineantise 2
@@ -6655,7 +6655,7 @@ faulted 3
 fulgurating 2
 flossing 2
 forenotice 1
-foemanship 2
+foemanship 3
 fripperer 2
 fecifork 4
 foemen 4
