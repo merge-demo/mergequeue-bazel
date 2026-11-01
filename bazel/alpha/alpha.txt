@@ -5831,7 +5831,7 @@ agedness
 agee 3
 aerugos 1
 ageing 1
-ardass
+ardass 1
 assumptive 2
 archiannelida 1
 ageisms 2
@@ -23773,7 +23773,7 @@ asplenioid 2
 aposporic
 ararauna 1
 auspiciousness
-arpenteur
+arpenteur 1
 abannition
 actinocarpic
 asgmt
