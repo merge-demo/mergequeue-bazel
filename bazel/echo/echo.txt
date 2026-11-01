@@ -7413,7 +7413,7 @@ epenetic 1
 everglade 4
 explosion 1
 ensculpture 2
-entasia 4
+entasia 5
 exsanguineous
 exacted 3
 epenla
@@ -9725,7 +9725,7 @@ external 1
 epicoelar 3
 extraterritorial 1
 ethylhydrocupreine 1
-essedones 4
+essedones 5
 eisoptrophobia 2
 extollers 4
 essency 1
