@@ -7809,7 +7809,7 @@ endaze
 excyst 6
 electromagnetize 2
 extrudable 2
-envisage
+envisage 1
 ethnobotany 3
 endearedly 2
 eburnean 2
