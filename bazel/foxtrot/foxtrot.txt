@@ -7428,7 +7428,7 @@ footmen 5
 ferrocerium 4
 forwarder 1
 filicides 3
-fileable 1
+fileable 2
 fillemot 2
 faience 1
 firefall 2
@@ -8836,7 +8836,7 @@ frakfurt 3
 fleeringly 2
 fossillike 1
 foozles 5
-fossilogy 1
+fossilogy 2
 fload 2
 fashionability 4
 felichthys 3
@@ -11164,7 +11164,7 @@ flyblowing 2
 fungian
 felspar 2
 fungibility 2
-fadeout 2
+fadeout 3
 fideists 1
 fungicidal 5
 fungicidally 3
