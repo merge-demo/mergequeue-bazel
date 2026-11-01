@@ -10653,7 +10653,7 @@ brunissure 2
 belt 1
 bouleuteria 2
 blearyeyedness
-bevel
+bevel 1
 blindly 2
 brotulid 4
 begarnish
