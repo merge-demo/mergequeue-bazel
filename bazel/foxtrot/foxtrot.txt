@@ -7418,7 +7418,7 @@ flagellariaceae 4
 floreate 4
 fasciculation 3
 fey 2
-figgum 2
+figgum 3
 fille 2
 falconers 2
 fawnlike 2
@@ -10344,7 +10344,7 @@ filicoid
 fezziwig 2
 fidding 3
 formicaries 1
-fibreware 5
+fibreware 6
 forswore
 flatmate 2
 flamiest 7
