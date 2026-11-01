@@ -2779,7 +2779,7 @@ explorations 2
 ebracteate 1
 eurithermophilic 1
 excecate
-elytrous
+elytrous 1
 eutropic 1
 equipartition 2
 epidiplosis 3
@@ -9136,7 +9136,7 @@ exograph 4
 endothermism 1
 erliche 3
 etiolating 1
-eldern 5
+eldern 6
 episplenitis 3
 exumbrella 1
 esrog 1
