@@ -22667,7 +22667,7 @@ acylates 2
 autocracy 1
 atheriogaean 3
 atheris
-athermancy
+athermancy 1
 athermanous 2
 alley
 aerobic 1
@@ -22918,7 +22918,7 @@ annat 2
 anticentralist
 aniseroot 1
 atragene 1
-amphineura 2
+amphineura 3
 atrament 2
 antimagnetic
 atramentous
