@@ -22979,7 +22979,7 @@ compline 1
 consocies 1
 caustified 2
 consolations 1
-consolato
+consolato 1
 consolator
 consolatory 1
 consolatorily 1
@@ -27521,7 +27521,7 @@ conceptualistic 1
 corpus
 cocas 1
 canephoros
-covenance
+covenance 1
 cammed 1
 covenantal 1
 corrodant

@@ -10814,7 +10814,7 @@ apparentement
 activizing
 assized 3
 aits 2
-apprised
+apprised 1
 anywise
 affricates 2
 anack 1
@@ -12068,7 +12068,7 @@ anastasia
 autodestruction
 aletris 2
 abstractors 1
-armit 1
+armit 2
 anastasian
 alveus 2
 aerogen 1
@@ -24451,7 +24451,7 @@ appellatively
 adhibiting 1
 anthophilous 1
 arbitrable
-autotheist 1
+autotheist 2
 autotimer
 autotypography 1
 autotomise 1
