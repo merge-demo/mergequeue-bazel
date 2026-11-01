@@ -7263,7 +7263,7 @@ floorboards 5
 fameuse 4
 fancysick 7
 fortlet 3
-federalise 3
+federalise 4
 footwalk 3
 footwarmer 2
 focalized 3
@@ -10759,7 +10759,7 @@ fouth 3
 formlessly 3
 fruticose 1
 folles 3
-forweep 1
+forweep 2
 farreation 4
 fruticous 3
 firstness 4

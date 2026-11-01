@@ -1664,7 +1664,7 @@ graftage 2
 gastrocnemii 1
 groten 3
 gaffed 4
-granulometric 2
+granulometric 3
 goldarned
 gardeen 1
 gryphon 1
@@ -1926,7 +1926,7 @@ ganglia
 gulped 4
 gastromycosis 2
 geal 2
-garnetwork 5
+garnetwork 6
 garnet
 gynecocratic 1
 gnomesque 2
@@ -8144,7 +8144,7 @@ gripper 1
 gynaecocracy 1
 guanidins 3
 gabblers 4
-gnatsnap 4
+gnatsnap 5
 goatling 1
 granulet
 gorgonising 3
