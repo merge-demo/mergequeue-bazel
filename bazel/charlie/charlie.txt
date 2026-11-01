@@ -8974,7 +8974,7 @@ carbinyl 1
 cortex 1
 chariot
 continuo
-charioting
+charioting 1
 chariotman 1
 collegiately 3
 chondri
@@ -26456,7 +26456,7 @@ crowbars 2
 calli
 cotqueans 1
 courbache 1
-cotransduction 2
+cotransduction 3
 cotransfuse 1
 cotranslator
 cotranspire 2
