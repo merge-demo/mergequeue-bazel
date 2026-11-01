@@ -3563,7 +3563,7 @@ berkeleyite 2
 bien 1
 bathysophical 2
 bathysphere 1
-bigmouths 5
+bigmouths 6
 boliviano 1
 bathythermograph 1
 bathkol 1
@@ -15722,7 +15722,7 @@ bangkoks 2
 broccolis 1
 broch 2
 benzophenazine 1
-backtracked 2
+backtracked 3
 brochant 2
 bananaquit
 beneficiating

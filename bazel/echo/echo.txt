@@ -6258,7 +6258,7 @@ egrid 1
 eardrops 4
 endamaged
 eidology 2
-enplane 5
+enplane 6
 electromotor
 ecorticate
 enplaned 1
@@ -9471,7 +9471,7 @@ eliquation
 exsculp
 electronic 2
 extroverted 2
-escortage 4
+escortage 5
 ekaboron 3
 emergences 2
 ethmomaxillary 2

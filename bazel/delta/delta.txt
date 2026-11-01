@@ -17549,7 +17549,7 @@ drumline
 depolarised
 disappeared
 drumlinoid 1
-decelerated 2
+decelerated 3
 dactylate
 diatomous
 dactyls 2
@@ -18659,7 +18659,7 @@ dereign 3
 deflagrability 1
 daishikis 1
 dvigu 2
-dwayberry 2
+dwayberry 3
 descendance 3
 diligently 1
 dioptral

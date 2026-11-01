@@ -13151,7 +13151,7 @@ cicatrisive 1
 cicatrizate 1
 caudicle 1
 canalize 2
-craniographer
+craniographer 1
 cicatrization 1
 cott 1
 cicatrizer 1
@@ -31606,7 +31606,7 @@ chaton
 curvation 2
 curvative
 curvature
-cozy 2
+cozy 3
 crosstail 1
 clingstone
 curve 2
