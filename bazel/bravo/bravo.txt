@@ -2471,7 +2471,7 @@ baresthesia 1
 bottom 1
 busies
 bifunctional
-benzoiodohydrin 2
+benzoiodohydrin 3
 bechalked 2
 bultow 5
 bruting
@@ -3614,7 +3614,7 @@ bookmobile 2
 besought 1
 blithelike 2
 batidaceous 2
-becrowds 1
+becrowds 2
 beshouted 1
 batiking 1
 boise 1
@@ -8247,7 +8247,7 @@ bedsteads 2
 bovarysm 2
 bigamies
 bigamist 1
-boyars 3
+boyars 4
 betafite 1
 bigamizing
 burstiness 3
@@ -16619,7 +16619,7 @@ bent 1
 buccanning 2
 blastogeny
 bilaminated 2
-biometry 1
+biometry 2
 bousy
 blazing 2
 botryogen 1
