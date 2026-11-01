@@ -1354,7 +1354,7 @@ draftsperson 2
 dompt 1
 damagement 2
 dart
-dauntingness 1
+dauntingness 2
 discerners 1
 duelli 1
 definer
@@ -15468,7 +15468,7 @@ divinities 1
 dompteuse 1
 doms
 derve 1
-don 2
+don 3
 dona
 danker 2
 donaciform 1
