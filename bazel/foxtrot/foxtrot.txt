@@ -691,7 +691,7 @@ fanweed 4
 fanatico 4
 fleshlike 2
 forzandos 1
-fobs 1
+fobs 2
 familism 3
 firebolted 2
 farmstead 2
@@ -10023,7 +10023,7 @@ foreplot 3
 fimbles
 farmerlike 1
 frogskin 1
-fortune 1
+fortune 2
 fibrocystoma
 favors 1
 fringilline 3

@@ -2804,7 +2804,7 @@ enjeopard 1
 elementish 5
 extricates 4
 endomixis
-ecthyma 2
+ecthyma 3
 ephebeibeia 1
 engarble 2
 ethylene 2
@@ -8916,7 +8916,7 @@ encephalomalaxis 1
 ergotism
 ergotizing 1
 erichthoid 1
-ewder 3
+ewder 4
 ergotoxine 5
 ergots 1
 evap 2
@@ -12199,7 +12199,7 @@ enflame 2
 entrechats 1
 emanated 2
 elementalism 5
-emerized 3
+emerized 4
 excelse 5
 execratively 3
 excreter
