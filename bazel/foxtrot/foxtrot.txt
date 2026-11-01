@@ -11308,7 +11308,7 @@ firesides 3
 fraternize 2
 fleabite
 faultfinding 1
-fossilogist 1
+fossilogist 2
 favorability 3
 furfuralcohol 3
 freebees 7
