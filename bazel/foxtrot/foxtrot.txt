@@ -93,7 +93,7 @@ flagrantness 4
 famousness 1
 facetely 2
 froufrous 1
-falsest 5
+falsest 6
 fuminess 2
 furfuroid 6
 fingerprints 6
@@ -3256,7 +3256,7 @@ foutre 1
 forcene 1
 fireballs
 fictitiousness 4
-fistularioid 3
+fistularioid 4
 fable
 fortieths 1
 ftnerr 2
@@ -9910,7 +9910,7 @@ formalin 2
 formalizes 1
 foretells 1
 fistfuls
-falconry 1
+falconry 2
 filoplumaceous 2
 forkbeard 2
 fleabane 2
