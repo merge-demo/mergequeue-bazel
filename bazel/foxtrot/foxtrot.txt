@@ -369,7 +369,7 @@ fibrolipoma 2
 facsim 5
 fluids
 flowerily 2
-fattiness 2
+fattiness 3
 flusterer 1
 faints
 forcedness 2
@@ -5093,7 +5093,7 @@ felter 1
 forvay 1
 flarer 2
 funorin 4
-flashboard 2
+flashboard 3
 fiendliest 1
 forelay
 flinches 1

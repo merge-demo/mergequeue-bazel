@@ -576,7 +576,7 @@ enthean 3
 euglenas 3
 echitamine 1
 eccentrical 2
-ecstatical 6
+ecstatical 7
 epigynum 4
 excision
 esophagoscopy 1
@@ -3643,7 +3643,7 @@ enddamaging 2
 elaeocarpaceous 1
 ecocidal 1
 epitrachelion 3
-embread 1
+embread 2
 entrepeneurs 4
 ejector 4
 expellant 3
@@ -3844,7 +3844,7 @@ enring 2
 emboweler 2
 estamene 1
 emery
-evitate 2
+evitate 3
 europa
 emerying 2
 estatesmen 1
@@ -5840,7 +5840,7 @@ efficace 3
 electrovalency 4
 exfoliation 2
 erlkings 1
-epicele 2
+epicele 3
 expiations 5
 extrinsic
 engrafter 2
@@ -12537,7 +12537,7 @@ elucidating 1
 esne 3
 enumerably
 excoecaria 3
-existentialist 4
+existentialist 5
 effluvious
 existentialistically 1
 eupione 1
