@@ -3720,7 +3720,7 @@ brucella 3
 barnstorms
 battler 1
 battleships 1
-barrace 1
+barrace 2
 blushiness
 battlesome
 brigantes 1
@@ -8002,7 +8002,7 @@ brewages 1
 bailsman 4
 bakehouses 2
 breathalyse 2
-blastomere 1
+blastomere 2
 breathiest
 bumping 1
 bodle
@@ -13289,7 +13289,7 @@ backlet 2
 buckling 1
 botanica 2
 bandoleered 1
-bacteriologically
+bacteriologically 1
 bradykinesis 1
 bivaulted 5
 botanically

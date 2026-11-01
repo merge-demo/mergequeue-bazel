@@ -2770,7 +2770,7 @@ festoonery 3
 foretellable 3
 familistere 1
 fuddlebrained 2
-forgivingness
+forgivingness 1
 featness 1
 festinated 2
 festinating 1
@@ -7650,7 +7650,7 @@ faeculence 3
 foreimagination 2
 flashlike 2
 foregift 6
-forgiveless
+forgiveless 1
 feyness 2
 foregleam 3
 forst 2
