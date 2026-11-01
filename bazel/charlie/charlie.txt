@@ -28900,7 +28900,7 @@ cutwal 1
 calendarer 1
 cradlefellow
 canular 1
-crewman
+crewman 1
 crewmanship 1
 crewmen 2
 crewneck
