@@ -4303,7 +4303,7 @@ cargadores
 chintziness
 cargason 1
 campulitropal
-casebook 1
+casebook 2
 cargoes 1
 carhop
 carhops
@@ -5695,7 +5695,7 @@ cryptologist 3
 catastrophes
 cystoepiplocele
 catastrophic 1
-catastrophist
+catastrophist 1
 catathymic
 catatony
 catatonic 1
