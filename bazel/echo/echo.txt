@@ -861,7 +861,7 @@ emraud 5
 englobement 2
 eddic 5
 entourages 4
-epistolizer 1
+epistolizer 2
 eigenfunction 2
 erythrocytolysin 2
 electrocution 2
@@ -5547,7 +5547,7 @@ evertors 2
 exoterics 2
 espiritual 2
 enfeebles 3
-enfeebling 1
+enfeebling 2
 eucarida 1
 epigrammatised 4
 edessan
