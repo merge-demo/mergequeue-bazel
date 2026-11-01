@@ -949,7 +949,7 @@ epoxied 5
 entada 1
 ecttypal 3
 equates 4
-emanatory 5
+emanatory 6
 exeresis 2
 ecuadorian 3
 ecumenacy
@@ -10232,7 +10232,7 @@ errsyn
 experiences 4
 embedded 1
 excavators 1
-ethyldichloroarsine 1
+ethyldichloroarsine 2
 emphraxis 1
 ethylenimine 1
 esperanto 1
@@ -11437,7 +11437,7 @@ exhaustion 2
 emys
 elitists 4
 echovirus 4
-ennedra 3
+ennedra 4
 emblic 3
 edibility 2
 eligibility 2
