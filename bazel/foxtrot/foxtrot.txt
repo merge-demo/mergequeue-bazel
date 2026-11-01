@@ -3472,7 +3472,7 @@ forebowline 3
 frag 5
 franklinist 2
 forswearer 3
-flaccidly 4
+flaccidly 5
 firmisternial 4
 figgiest 1
 fraternisation 3
@@ -5077,7 +5077,7 @@ fun 4
 fuligo 2
 fundless 2
 fumettes
-frsikets 6
+frsikets 7
 flagboat 3
 flareback 3
 furnishness 3
