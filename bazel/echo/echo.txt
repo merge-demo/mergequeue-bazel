@@ -978,7 +978,7 @@ enterococcus 3
 eastwards 3
 esoterics 1
 exhumes
-entera 3
+entera 4
 expanse 1
 excavatory 2
 emasculating
@@ -11436,7 +11436,7 @@ eli 1
 exhaustion 2
 emys
 elitists 4
-echovirus 3
+echovirus 4
 ennedra 3
 emblic 3
 edibility 2
