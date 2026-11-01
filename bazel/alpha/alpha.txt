@@ -21993,7 +21993,7 @@ aircrewmen 1
 anni 1
 argentometrically 1
 assumes 3
-apothesis
+apothesis 1
 antiperiodic 2
 act 1
 assuming 2
