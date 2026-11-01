@@ -1015,7 +1015,7 @@ burnweed 2
 bail 1
 buxeous 1
 bringer 3
-barfs 1
+barfs 2
 bailable
 baile
 bezazz 1
@@ -5838,7 +5838,7 @@ bestrews 3
 boor 3
 beadier
 barbermonger 1
-blacklisted 1
+blacklisted 2
 boozily
 bellyland 3
 bellylike 1
