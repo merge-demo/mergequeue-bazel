@@ -432,7 +432,7 @@ deities 3
 dodrantal 1
 dhourra
 discoursers 2
-dairous
+dairous 1
 dairt 2
 dais 1
 disinthrall
