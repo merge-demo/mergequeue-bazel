@@ -3931,7 +3931,7 @@ aphidian 1
 alarmed 1
 argentamide 2
 adjunctively 1
-adjunctly 1
+adjunctly 2
 analogia 3
 admissory
 adjured 1
@@ -8784,7 +8784,7 @@ allineation 2
 alloplasmatic 2
 anukabiet 1
 allionia 3
-allyou
+allyou 1
 aluminography 2
 allis 1
 aristocrat 1
@@ -10258,7 +10258,7 @@ ameiva 2
 ascidiae 2
 amel 2
 adj 1
-akkadist 2
+akkadist 3
 asyllabia 1
 arcticize
 anemious 1
@@ -13235,7 +13235,7 @@ aegithognathous 1
 animus
 administrationist 1
 animuses
-anionic
+anionic 1
 amiles 1
 anisado 2
 alphecca 2
