@@ -7822,7 +7822,7 @@ anomalonomy 2
 anglicism 1
 aldrovanda 2
 achromaturia
-adequative 2
+adequative 3
 alchemically
 aflow
 aortosclerosis
@@ -13334,7 +13334,7 @@ archworkmaster 2
 astricted 2
 actinoscopy 2
 anthesterol
-anisopoda
+anisopoda 1
 antilogies
 allegretto
 aspca 1
