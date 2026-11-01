@@ -3720,7 +3720,7 @@ brucella 3
 barnstorms
 battler 1
 battleships 1
-barrace 1
+barrace 2
 blushiness
 battlesome
 brigantes 1
