@@ -4117,7 +4117,7 @@ featherbrain 2
 fattable 2
 fanterie 4
 formal 2
-fatalness 2
+fatalness 3
 fissipedal
 ferth 1
 fiendful 4
