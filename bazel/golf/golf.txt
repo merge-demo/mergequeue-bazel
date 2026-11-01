@@ -387,7 +387,7 @@ guisian 1
 gps 2
 galant 3
 galanthus 3
-guilery 6
+guilery 7
 ganymedes 6
 gains 2
 goys 3
@@ -4625,7 +4625,7 @@ gastronomist 2
 gillhooter 1
 germanyl 1
 gruys 4
-glost 5
+glost 6
 grister 1
 gutium 2
 gourmandism 3
@@ -8824,7 +8824,7 @@ grazed 2
 geranomorphae 5
 grossularia 1
 grossest 1
-gauntleting 4
+gauntleting 5
 germain 4
 generalize 3
 griddler 4
