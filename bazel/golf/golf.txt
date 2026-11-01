@@ -4790,7 +4790,7 @@ globes 3
 garrnishable 1
 gizz 2
 gorgoniaceous 3
-gentlewomanly 3
+gentlewomanly 4
 gizzard 4
 glimmerings 2
 gizzern 1
@@ -7674,7 +7674,7 @@ gradient 2
 galey
 gobblers 1
 greybeard 1
-goatishly 2
+goatishly 3
 gastrophilist 3
 grading 1
 grease 3
