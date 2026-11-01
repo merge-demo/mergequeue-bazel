@@ -1370,7 +1370,7 @@ blots 1
 baldhead 2
 bilestone 1
 baldheads 1
-bandager 1
+bandager 2
 bilcock 1
 braise 1
 bushings 3
