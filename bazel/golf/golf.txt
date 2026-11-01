@@ -429,7 +429,7 @@ galcha 3
 growl 3
 garnishees 3
 grapeys 4
-galeage 1
+galeage 2
 goober 4
 gair 1
 guests 1
@@ -5388,7 +5388,7 @@ guiltless 3
 guacin 3
 gracelessly 5
 glykopexic 4
-gastroduodenal 1
+gastroduodenal 2
 greenest 4
 gurgled 2
 gona 4
