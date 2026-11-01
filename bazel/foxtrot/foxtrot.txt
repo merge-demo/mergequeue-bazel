@@ -1593,7 +1593,7 @@ ferroaluminum 2
 formidability
 favosites 3
 fixings 4
-finer 2
+finer 3
 florae 1
 fiddlebow 5
 forereaching 2
