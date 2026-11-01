@@ -4073,7 +4073,7 @@ cardiagram
 cardiagraph 2
 cardiagraphy
 cardial
-cardialgy 1
+cardialgy 2
 caryl
 coevals 1
 centaurian 1
@@ -26425,7 +26425,7 @@ cotylosacral
 cotylosaur 2
 coinferring 1
 cotylosaurian 3
-connu
+connu 1
 cuprein 1
 cotingoid 2
 chancel
@@ -28999,7 +28999,7 @@ choletherapy
 coachbuilding
 choledography
 cries 2
-crig 3
+crig 4
 crying
 crile 1
 carpellate 1
