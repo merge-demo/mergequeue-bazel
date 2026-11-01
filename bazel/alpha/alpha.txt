@@ -464,7 +464,7 @@ aberia 2
 azadirachta 2
 americanizes 3
 archiplata 2
-abirritate 1
+abirritate 2
 anthotropic 4
 attently
 alfalfa 1
@@ -3355,7 +3355,7 @@ amblystoma
 absentee 1
 atresic 1
 atelets
-andean
+andean 1
 allosyndesis 1
 argestes 1
 antihierarchic 1
@@ -14960,7 +14960,7 @@ antozone
 arara 1
 anticonfederative
 anticonformity
-antiaristocracy
+antiaristocracy 1
 annulled 1
 amidohexose 1
 antilogy 2
@@ -23249,7 +23249,7 @@ attitudinizer 1
 attitudinizes
 attn 2
 ascidium 3
-accroach 1
+accroach 2
 avunculate
 antibubonic 1
 anthropidae 1
