@@ -11351,7 +11351,7 @@ chloropalladates 1
 chloropalladic
 chlorophenol
 charangos
-chlorophenothane 1
+chlorophenothane 2
 confirm 1
 cestuy 2
 corollate 1
@@ -11473,7 +11473,7 @@ choy 1
 choiceful
 cantatrici 1
 choicelessness 2
-cyclitols 1
+cyclitols 2
 choicely 2
 campodeidae 2
 choiceness
