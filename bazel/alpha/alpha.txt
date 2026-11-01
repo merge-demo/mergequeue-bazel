@@ -19118,7 +19118,7 @@ availers 1
 archturncoat 1
 archvampire
 archvillainy
-assuages
+assuages 1
 algorithm 1
 anisylidene 2
 aphoristic 1
