@@ -2356,7 +2356,7 @@ barbwires
 bullpout 1
 bothsidedness 3
 betatter 2
-barhopped 2
+barhopped 3
 bilertinned 3
 barcella
 biopic
@@ -4041,7 +4041,7 @@ bedrock 1
 beamers 2
 beamfilling 2
 beeware 1
-bivalvous 2
+bivalvous 3
 beamhouse 2
 bibliophobe
 backbreaker 1
@@ -6375,7 +6375,7 @@ benzofulvene
 bollen 1
 benzofuran 2
 benzofuryl 3
-bracted 1
+bracted 2
 biozone 1
 belgium 1
 benzoglycolic 2
