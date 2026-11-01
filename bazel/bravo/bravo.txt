@@ -6985,7 +6985,7 @@ besmooth
 besmooths 3
 betrust 3
 bleeders 1
-barricades 2
+barricades 3
 basilian 1
 besmouch 1
 bloodying 2
