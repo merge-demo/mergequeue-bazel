@@ -11164,7 +11164,7 @@ bloodwite 2
 bailee
 bushgoat 3
 bugfish 1
-biquadratic 1
+biquadratic 2
 bloodworthy 2
 belched 2
 blearily 1
@@ -15324,7 +15324,7 @@ brahmanists 2
 broadhorn 3
 bridgework 2
 bridie
-broughta 2
+broughta 3
 bridle 2
 bridled 2
 blackpot 3
