@@ -2111,7 +2111,7 @@ campanologist
 capillaceous 1
 corrober
 campanologists 1
-cytophysics 1
+cytophysics 2
 counterassertion 1
 ceilingward 3
 chieftaincies
@@ -7173,7 +7173,7 @@ compare 3
 centraxonial 1
 centre 1
 clinoaxis
-centreboard 2
+centreboard 3
 centred
 centref 1
 centreless
@@ -20614,7 +20614,7 @@ compital 1
 compitalia
 coregonine 3
 clastic
-complacence 2
+complacence 3
 chlorella 2
 complacency
 complacent
