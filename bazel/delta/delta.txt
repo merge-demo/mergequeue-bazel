@@ -3420,7 +3420,7 @@ deflesh 2
 deflexibility 3
 dysgenics 1
 diversely 2
-deflocculant
+deflocculant 1
 dragsman 1
 dimethylhydrazine
 downrightness
@@ -8314,7 +8314,7 @@ disabused 3
 disregardance 1
 diaguite 1
 dyak
-diaka 1
+diaka 2
 despeed
 dapper
 duskly 2
@@ -9993,7 +9993,7 @@ dimness
 decisiveness 1
 dermatographism
 dysacousma 3
-debriefs 1
+debriefs 2
 disopinion
 dimoric 2
 demigoddess
