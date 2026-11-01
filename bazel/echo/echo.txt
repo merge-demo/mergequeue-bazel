@@ -2908,7 +2908,7 @@ epitheliomuscular 2
 elevenses 3
 eleventeenth 1
 eleventh 2
-evicts
+evicts 1
 excitation 2
 emplaning 4
 elevons 1
@@ -5997,7 +5997,7 @@ echinoderidae 4
 expeditated 2
 ejectors 2
 epheboi 2
-englute 4
+englute 5
 enjail 2
 escaped 3
 emetomorphine 1
