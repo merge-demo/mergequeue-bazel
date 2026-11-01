@@ -2558,7 +2558,7 @@ barile 2
 barilla 1
 beleaf
 barters 2
-blackie 3
+blackie 4
 bathofloric 2
 baryon 2
 brio 2
@@ -2905,7 +2905,7 @@ barratries 2
 blabbermouth 3
 becrawls 1
 barratrously 1
-barrelage
+barrelage 1
 barreled
 barreleyes
 barrelet 2
@@ -4019,7 +4019,7 @@ brevier 2
 beaked 1
 beakerman 3
 bellite
-beakermen 2
+beakermen 3
 bacitracin
 bountiful 2
 bunraku
@@ -14070,7 +14070,7 @@ bitts 2
 bald 3
 bombycidae 1
 boffin 1
-brachydont 2
+brachydont 3
 brachydontism 2
 brachyfacial 3
 brachyglossal 3
