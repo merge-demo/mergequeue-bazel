@@ -3038,7 +3038,7 @@ firemanship 2
 feoffers 1
 footwears 3
 frostflower 5
-frenchen
+frenchen 1
 fissioned
 forensical 2
 felstones 2
@@ -4817,7 +4817,7 @@ fasciolaria 3
 fancifulness 2
 flinching 3
 floatiest 4
-fullwords 2
+fullwords 3
 faena
 fellowshipping 1
 falsen 3
