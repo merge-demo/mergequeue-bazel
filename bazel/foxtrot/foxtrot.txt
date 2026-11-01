@@ -1075,7 +1075,7 @@ frizer 4
 flichters 1
 foreswear 3
 feriae 4
-farreachingly 2
+farreachingly 3
 fernleaf 1
 federates 4
 farrel 2
@@ -7861,7 +7861,7 @@ forepossessed 2
 fenestrule 4
 filler 1
 foreshots 2
-furfuraldehyde 2
+furfuraldehyde 3
 facings 4
 flenses
 franger 1
