@@ -4394,7 +4394,7 @@ floorshifts 2
 flagged 1
 forbearances 4
 frenums 2
-fishbowls
+fishbowls 1
 flexive 4
 forky 5
 fisheyes 4
