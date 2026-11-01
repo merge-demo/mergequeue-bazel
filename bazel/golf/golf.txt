@@ -3983,7 +3983,7 @@ graphometrical 3
 grillework 1
 groaner 4
 graduated 4
-gastroatrophia 2
+gastroatrophia 3
 geoscientist
 gunlaying 3
 garrotted 1
@@ -4487,7 +4487,7 @@ gypsyfy 2
 generically 2
 granules 1
 gristles 4
-geophytes 2
+geophytes 3
 guacimo 1
 gypsyhead 2
 gloeocapsoid 1
@@ -9925,7 +9925,7 @@ grata 3
 genevese 3
 girderless 2
 glebes 2
-greylags 3
+greylags 4
 geoparallelotropic 2
 gateway 6
 grisailles 2
