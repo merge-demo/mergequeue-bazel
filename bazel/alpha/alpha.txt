@@ -8163,7 +8163,7 @@ adjuster 2
 antimark 1
 abscised 1
 anachronous 1
-afterchrome
+afterchrome 1
 algological
 algoman 1
 algometrical 1
