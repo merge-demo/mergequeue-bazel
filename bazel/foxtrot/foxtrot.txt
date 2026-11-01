@@ -3479,7 +3479,7 @@ fraternisation 3
 fecundity 2
 fleeches
 fanfares 3
-fingerable 1
+fingerable 2
 frostfishes 4
 foreseason 1
 fallback 3
