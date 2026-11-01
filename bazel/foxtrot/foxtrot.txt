@@ -2327,7 +2327,7 @@ flippest 6
 furner 2
 falbalas
 frillings 1
-fecula
+fecula 1
 fenzelia 3
 feod 1
 firestopping 4
@@ -10309,7 +10309,7 @@ forecourt 2
 feaze 1
 foss 2
 footcandles 2
-forewarning 3
+forewarning 4
 fiaunt 1
 fraenula
 floodlighted 1

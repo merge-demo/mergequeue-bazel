@@ -7099,7 +7099,7 @@ egotisms 2
 ectocinereal 2
 epapophysial 3
 evejar 1
-estivage 1
+estivage 2
 emulsible 1
 estuous
 edicule 1
@@ -7809,7 +7809,7 @@ endaze
 excyst 6
 electromagnetize 2
 extrudable 2
-envisage
+envisage 1
 ethnobotany 3
 endearedly 2
 eburnean 2

@@ -7942,7 +7942,7 @@ desertward 1
 disestablismentarianism 2
 dexiotrope
 dyeable 1
-dexiotropic 1
+dexiotropic 2
 dishwashing 1
 dollarbird 2
 diaplex
@@ -9340,7 +9340,7 @@ diffarreation 3
 doited 6
 despouse 2
 dressers 1
-differenced 2
+differenced 3
 differences 2
 dryad 3
 destroyable
