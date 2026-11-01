@@ -5838,7 +5838,7 @@ bestrews 3
 boor 3
 beadier
 barbermonger 1
-blacklisted 1
+blacklisted 2
 boozily
 bellyland 3
 bellylike 1
