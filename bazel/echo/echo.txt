@@ -6074,7 +6074,7 @@ enlargeable 2
 eigenvectors
 echinorhinus 1
 eoanthropus 6
-enlargeableness
+enlargeableness 1
 enlarged 1
 eupepsias 2
 emydinae 2
