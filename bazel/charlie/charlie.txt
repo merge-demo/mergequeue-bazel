@@ -8974,7 +8974,7 @@ carbinyl 1
 cortex 1
 chariot
 continuo
-charioting
+charioting 1
 chariotman 1
 collegiately 3
 chondri
