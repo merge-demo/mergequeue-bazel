@@ -7155,7 +7155,7 @@ desulfurizing 2
 demolitions 3
 dynamometric
 depictor
-deambulate 1
+deambulate 2
 desulfurs 1
 daphnetin
 desulphur 1
@@ -8857,7 +8857,7 @@ debilissima 1
 dibhole 2
 dioptry 2
 dualized 4
-diborate
+diborate 1
 dibothriocephalus 1
 daughterless
 dibranch 2
@@ -17798,7 +17798,7 @@ ducking 2
 dashnakist 1
 ducklet 1
 ducklings 1
-deputator 2
+deputator 3
 duckmeat 2
 duckpin 1
 desalinate 1
