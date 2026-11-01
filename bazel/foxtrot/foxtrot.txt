@@ -1113,7 +1113,7 @@ foes 4
 forbade
 familiarizing 2
 fervidness
-fusileer 2
+fusileer 3
 frizzling 2
 farthing 1
 foresay 2
