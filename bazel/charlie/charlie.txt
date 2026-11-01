@@ -15714,7 +15714,7 @@ clavicularium 3
 claviculate
 chrysohermidin 1
 chirotype 1
-clima
+clima 1
 chrysograph 1
 claviger 1
 carshops 1
