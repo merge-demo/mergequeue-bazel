@@ -17144,7 +17144,7 @@ chummer 1
 cryptogenetic
 coadunite
 coadventure 2
-coadventured 1
+coadventured 2
 coadventuring 2
 coadvice
 coaffirmation
@@ -26893,7 +26893,7 @@ catheti
 copperproof
 cuprodescloizite 1
 counterinvestment 1
-counterirritation
+counterirritation 1
 cystopyelonephritis 1
 cartonniers 1
 counterjudging 1
