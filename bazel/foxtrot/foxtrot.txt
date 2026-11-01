@@ -2770,7 +2770,7 @@ festoonery 3
 foretellable 3
 familistere 1
 fuddlebrained 2
-forgivingness
+forgivingness 1
 featness 1
 festinated 2
 festinating 1
@@ -5022,7 +5022,7 @@ foremartyr 2
 fiddlewood 1
 filet 2
 fluctuable 3
-faceable 2
+faceable 3
 frowsier 3
 feathers 1
 faineantise 2
@@ -6368,7 +6368,7 @@ francois 3
 florentium 2
 fishtailing 1
 fluorboric 1
-frugiferousness 2
+frugiferousness 3
 fearfullest 3
 fluotitanate 1
 formulized 4
@@ -6655,7 +6655,7 @@ faulted 3
 fulgurating 2
 flossing 2
 forenotice 1
-foemanship 2
+foemanship 3
 fripperer 2
 fecifork 4
 foemen 4
@@ -7650,7 +7650,7 @@ faeculence 3
 foreimagination 2
 flashlike 2
 foregift 6
-forgiveless
+forgiveless 1
 feyness 2
 foregleam 3
 forst 2
@@ -8971,7 +8971,7 @@ fanglet 3
 fourierism 2
 fourneau 1
 filly 2
-feltings 2
+feltings 3
 fourpence 2
 farcist 2
 flavine

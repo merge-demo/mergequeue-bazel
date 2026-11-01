@@ -2172,7 +2172,7 @@ bess
 bepuddle 8
 bedward 1
 bields 2
-buttstrapping 1
+buttstrapping 2
 batwoman 1
 blushers 2
 berliner
@@ -3720,7 +3720,7 @@ brucella 3
 barnstorms
 battler 1
 battleships 1
-barrace 1
+barrace 2
 blushiness
 battlesome
 brigantes 1
@@ -5580,7 +5580,7 @@ brassicaceous
 beknottedly 2
 bathythermogram 3
 basophile 1
-biotype
+biotype 1
 beknow 2
 blimpishly 2
 bel 1
@@ -8002,7 +8002,7 @@ brewages 1
 bailsman 4
 bakehouses 2
 breathalyse 2
-blastomere 1
+blastomere 2
 breathiest
 bumping 1
 bodle
@@ -10277,7 +10277,7 @@ blacktree 5
 brewers 1
 befleaed 4
 befoulers 1
-blackwater 2
+blackwater 3
 blightbird
 ballahou 2
 blackweed 2
@@ -13289,7 +13289,7 @@ backlet 2
 buckling 1
 botanica 2
 bandoleered 1
-bacteriologically
+bacteriologically 1
 bradykinesis 1
 bivaulted 5
 botanically
@@ -15696,7 +15696,7 @@ butyric 1
 broadsider 2
 burnished
 borrovian 2
-begroaned 1
+begroaned 2
 botanophile 3
 breakfront
 broadsiding 2
@@ -17974,7 +17974,7 @@ brachystochrone 2
 basilosauridae 1
 busied 1
 bagirmi 3
-betties
+betties 1
 brigued 2
 bulldust 6
 bedpan 1
