@@ -1764,7 +1764,7 @@ emule 1
 exhbn 2
 epigraphic 5
 eutony
-eyes 2
+eyes 3
 ewhow 4
 encasing 1
 eyeseed 3
@@ -3698,7 +3698,7 @@ entify 1
 embryonic 2
 encyrtidae 2
 erythromycin 3
-expectant 2
+expectant 3
 elec 5
 eluates
 effluvium 1
@@ -5488,7 +5488,7 @@ extrinsicality 1
 eleutherophyllous
 earmark 3
 epilobium 2
-entranced 2
+entranced 3
 elding 4
 energeticness 2
 epacrid 1
@@ -7042,7 +7042,7 @@ eundem 1
 emote 1
 entrapping 1
 entrustment 3
-eurygaea 4
+eurygaea 5
 exchequers 1
 exocoetus 1
 eyeglass 1
