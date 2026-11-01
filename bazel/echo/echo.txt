@@ -3095,7 +3095,7 @@ emp
 encyclical
 elliot 3
 educationable 2
-ergatocracy 2
+ergatocracy 3
 expropriates
 ellipsograph 2
 executiveness 2
@@ -3372,7 +3372,7 @@ ethylenediamine
 extranormal 2
 emballonuridae
 eulachons 1
-essentialities 2
+essentialities 3
 equus 1
 energeticalness 1
 eternising 1
