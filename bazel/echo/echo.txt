@@ -3061,7 +3061,7 @@ elkslip
 enharbor 6
 elkuma 1
 elkwood 3
-etherean 2
+etherean 3
 epicenter 1
 entrapper
 ethicizing 2
@@ -3466,7 +3466,7 @@ epistemologist 2
 evinces 2
 eductive 2
 ethnol 3
-exceptionableness
+exceptionableness 1
 ensepulchering 2
 enamels 2
 enthronement 1
@@ -8558,7 +8558,7 @@ equative 3
 electre 1
 eburneous
 etherial 4
-erase 1
+erase 2
 eumorphic 1
 equatorward
 etheriform 2
