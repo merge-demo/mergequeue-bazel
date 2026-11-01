@@ -20743,7 +20743,7 @@ compliableness 1
 classicizing 3
 compliances 1
 compliancy 1
-compliant
+compliant 1
 compiling 1
 cupcake 1
 complicacy
