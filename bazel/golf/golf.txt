@@ -1740,7 +1740,7 @@ goldstone 1
 genotypes 1
 glike
 gunsmiths 1
-geogonical 3
+geogonical 4
 gastronosus 2
 gnarrs 1
 gammon 3
