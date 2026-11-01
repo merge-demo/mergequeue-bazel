@@ -1014,7 +1014,7 @@ calantas 2
 chromocenter 2
 chondroid 1
 calapite
-caprelline 1
+caprelline 2
 calappidae 1
 calas
 colourtype 1
@@ -10447,7 +10447,7 @@ chylaceous
 chilalgia
 consult 1
 chylangioma
-chilaria 1
+chilaria 2
 coppernose 1
 complimentable 1
 citification
@@ -25774,7 +25774,7 @@ cathedratically 1
 corroboratory
 cornulites
 corroboratorily 1
-collectional 1
+collectional 2
 creem 1
 carhouse 1
 corrode
