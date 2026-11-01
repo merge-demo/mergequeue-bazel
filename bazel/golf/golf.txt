@@ -1342,7 +1342,7 @@ garishly 2
 galligaskins 3
 glycosine 2
 growingupness 2
-garlandless 2
+garlandless 3
 ganocephalan 2
 guillotiner 2
 greenalite 1
@@ -2206,7 +2206,7 @@ guarantying 4
 ghosting
 guberniya 2
 ganophyllite 3
-glucolipide 3
+glucolipide 4
 gossipiness 4
 gutturalised 4
 golach 2
@@ -8286,7 +8286,7 @@ graphotype
 grapier 4
 gusseting 4
 glossographer 1
-globule 2
+globule 3
 graping 3
 grappa 2
 grandaunts 2
