@@ -8143,7 +8143,7 @@ fellable 3
 fanegadas 3
 fundmonger 3
 forcepses 1
-forevers 1
+forevers 2
 flectionless 3
 foregate 5
 forthwith 3
@@ -11655,7 +11655,7 @@ feedlot 4
 fanion 4
 filoselle 4
 forcingly 2
-farasula 1
+farasula 2
 fut 1
 futhorc 7
 fleshers 1
