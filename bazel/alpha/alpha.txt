@@ -7602,7 +7602,7 @@ antislavery 1
 achondrite
 araeosystyle 4
 antileft 2
-auxographic
+auxographic 1
 alcestis
 asop
 antisteapsin 2
