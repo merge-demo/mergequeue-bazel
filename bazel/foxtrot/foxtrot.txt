@@ -1148,7 +1148,7 @@ flax 4
 fatally 4
 fearbabe 3
 feebleminded 1
-feller 1
+feller 2
 figeaters 3
 flyblows 3
 footy 2
@@ -7340,7 +7340,7 @@ flourishy 5
 formularised 1
 foraminose 1
 foraminulate 2
-fought 2
+fought 3
 flabbily 2
 france 2
 farset 2
