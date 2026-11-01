@@ -5632,7 +5632,7 @@ disorganiser 1
 disprivilege 1
 detainingly
 depravingly 2
-dorsumbonal 2
+dorsumbonal 3
 deuterotokous
 dogtrick
 dephycercal 2
@@ -7316,7 +7316,7 @@ dipneumona
 demifarthing 3
 decarbonating 4
 deckings 3
-dishevely 3
+dishevely 4
 durene 1
 depilate 3
 dairies 3
@@ -9606,7 +9606,7 @@ drazel 1
 dogmeat 1
 diddering 2
 druse
-diguanide 1
+diguanide 2
 dihalide
 derives 4
 deil 2
@@ -11148,7 +11148,7 @@ dysautonomia 1
 disguster
 disavail 1
 dayroom 1
-discomforted
+discomforted 1
 dissaves 2
 despect 4
 dishabituating 1
@@ -15890,7 +15890,7 @@ dogproof
 dosing
 dubs
 dehairer
-doped 2
+doped 3
 dorsiduct 2
 darjeeling 2
 droop 1
