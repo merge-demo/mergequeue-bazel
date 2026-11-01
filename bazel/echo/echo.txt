@@ -3666,7 +3666,7 @@ earlet 1
 endogonidium 2
 embright 2
 entreprenant 1
-entombment 3
+entombment 4
 epigrammatist 1
 endura
 euploids 1
@@ -4957,7 +4957,7 @@ emporetic
 eurytomid 1
 emulsifiers 2
 earnestful 1
-ephemerally 3
+ephemerally 4
 endearedness 1
 enterocele 4
 endearingness 2
@@ -6182,7 +6182,7 @@ embronze 1
 evagation 1
 entertainers 1
 entrancing 1
-eyepoints 2
+eyepoints 3
 eustatic 1
 enneandrian 1
 etherealizing 4
