@@ -17745,7 +17745,7 @@ alcibiadean 1
 abacterial 1
 acettoluide
 acrocera 1
-autocab 1
+autocab 2
 aversation 1
 ameiurus
 adumbration
@@ -25351,7 +25351,7 @@ agonising
 antinucleons 1
 azosulphonic 2
 acker 2
-azotemia
+azotemia 1
 arbiter 1
 azotemias 3
 ankylosis 2

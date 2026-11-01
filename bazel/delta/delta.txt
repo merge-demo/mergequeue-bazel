@@ -2668,7 +2668,7 @@ doorkeeper 1
 decompiler
 decomposable 1
 diceman 1
-deviceful 1
+deviceful 2
 decomposer 4
 debrief 2
 decomposers 2
@@ -8543,7 +8543,7 @@ diet 1
 diaper 2
 dyschromatopsia 1
 duchy 1
-dethrone 2
+dethrone 3
 dewbeam 2
 didacts
 diaphanometric 1
