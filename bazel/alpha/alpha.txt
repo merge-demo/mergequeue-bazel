@@ -4673,7 +4673,7 @@ armatured
 aljoba
 antrostomus
 armet 1
-aggravates
+aggravates 1
 arthriticine 1
 ataxias
 asphaltus
