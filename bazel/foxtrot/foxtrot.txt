@@ -9904,7 +9904,7 @@ forepeaks 4
 fines
 filamentose 2
 fogeater 2
-fevercup
+fevercup 1
 fenestrone 2
 formalin 2
 formalizes 1
