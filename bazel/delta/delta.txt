@@ -2303,7 +2303,7 @@ daidled 2
 drips 1
 dirtplate 5
 decenters 3
-disaggregation
+disaggregation 1
 digestors 1
 dynamical
 deliberant 2
