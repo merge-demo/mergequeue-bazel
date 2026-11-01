@@ -9126,7 +9126,7 @@ abhorring
 alky
 aristogenetic 1
 anemometric 3
-antacid 2
+antacid 3
 alluvious 1
 assortative 2
 ametropic 3
@@ -11630,7 +11630,7 @@ americawards
 aright
 anacolutha 1
 anacoluthic
-anacoluthon 1
+anacoluthon 2
 amanita
 autodialled
 assafoetida 2
@@ -12989,7 +12989,7 @@ apolitically 1
 apologist
 angulous
 aporose 1
-antepone
+antepone 1
 anticomplementary 1
 angust 2
 adrenine 1
@@ -16064,7 +16064,7 @@ autoradiographic 1
 antiromantic 4
 antirrhinum
 arbitrages 2
-acousma 2
+acousma 3
 antis 2
 aliturgic 3
 antisacerdotalist 4
@@ -25395,7 +25395,7 @@ adopter 1
 alloxanic 2
 azured 2
 acronyx 3
-assesses
+assesses 1
 antiparagraphic
 antifeudalist
 attractively
