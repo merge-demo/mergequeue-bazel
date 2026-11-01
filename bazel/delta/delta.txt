@@ -1354,7 +1354,7 @@ draftsperson 2
 dompt 1
 damagement 2
 dart
-dauntingness 1
+dauntingness 2
 discerners 1
 duelli 1
 definer
