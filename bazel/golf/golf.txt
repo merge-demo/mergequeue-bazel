@@ -5459,7 +5459,7 @@ grotesques 4
 girsle 3
 gonfanon 4
 gallah 2
-gluing 5
+gluing 6
 gladful 2
 goethite
 gentlest 1
@@ -9246,7 +9246,7 @@ gyroceran 1
 gemeled 4
 gristlier 2
 grazingly 1
-grene
+grene 1
 grasper 1
 gueridon 3
 griths 2
