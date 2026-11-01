@@ -7150,7 +7150,7 @@ centralising 1
 coelosperm 2
 centrality
 canthi 1
-conusable 2
+conusable 3
 centralities 2
 croupy
 chaeta 3
@@ -18956,7 +18956,7 @@ collateralness 2
 collaterals 2
 canzone 2
 cohobating
-corved
+corved 1
 cham 1
 collates
 collation
