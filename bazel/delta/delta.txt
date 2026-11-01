@@ -6933,7 +6933,7 @@ deaconize 1
 despairing 1
 desparple
 disturber 2
-downsinking 1
+downsinking 2
 decadation 1
 despatches 2
 deoxidise 4
@@ -14850,7 +14850,7 @@ doctrinate 3
 doctrines 1
 delinition 1
 disgraces
-decumbently 2
+decumbently 3
 docudramas 1
 document 1
 documentable 3
