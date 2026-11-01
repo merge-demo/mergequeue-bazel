@@ -800,7 +800,7 @@ bibliotist
 bangalow
 bafflement 4
 baklawa 3
-bonnetmen 1
+bonnetmen 2
 blubberhead 3
 bunkery
 balefulness
@@ -12875,7 +12875,7 @@ boong 1
 bourignonist 3
 buckplate 4
 blunders 3
-boophilus
+boophilus 1
 bedsheet 3
 blackcock 2
 basichromatin 3
@@ -14373,7 +14373,7 @@ brailles 1
 birdcraft 1
 bylaw 1
 bursiform 1
-bonebinder 2
+bonebinder 3
 braillewriter 1
 boloman 1
 bambino 1
