@@ -10578,7 +10578,7 @@ chillness 1
 crucifixes 1
 concremation 1
 celebrator
-chillroom 2
+chillroom 3
 chills 1
 chillsome 2
 countermove 2
