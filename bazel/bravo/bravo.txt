@@ -3885,7 +3885,7 @@ bezels
 bodyhood 3
 bidding 3
 beforesaid
-basifacial
+basifacial 1
 bawneen 2
 bawra 1
 barklyite 2

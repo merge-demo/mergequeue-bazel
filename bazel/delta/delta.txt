@@ -12788,7 +12788,7 @@ debouch 2
 dissensions
 diathesic 2
 duplicatus 1
-derepression
+derepression 1
 dysluite
 delicto
 dislustered
