@@ -2065,7 +2065,7 @@ fusulas 4
 fieldfare
 frory 1
 forensically 1
-feldspathoid 2
+feldspathoid 3
 foys 3
 forehook 4
 fwelling 3
@@ -5183,7 +5183,7 @@ flameflower 2
 feeding 5
 flued 3
 flatulentness 7
-flangeway 4
+flangeway 5
 futter
 fibs 1
 footpaddery 4
