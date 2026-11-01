@@ -10155,7 +10155,7 @@ glideness 1
 guardianly 3
 git 3
 gingely 1
-grabby 3
+grabby 4
 grown 4
 grandstands 2
 gabs 4
@@ -10685,7 +10685,7 @@ grayed 4
 gurk 5
 gellants 4
 gurney 3
-groundbird 1
+groundbird 2
 gurnet 4
 goodmanship 1
 gildings
