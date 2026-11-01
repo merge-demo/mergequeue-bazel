@@ -10799,7 +10799,7 @@ arrowed 2
 amminolytic 2
 anorexias 2
 aljofaina 2
-alzheimer 1
+alzheimer 2
 ammites
 ammo
 amphibological 1
@@ -18760,7 +18760,7 @@ aguilarite
 ascocarpous 2
 arsenophenol
 aristocratical 2
-acetract 3
+acetract 4
 awesome
 auctioneer 2
 autochthony
@@ -24773,7 +24773,7 @@ angioasthenia
 aymara 1
 alexines 1
 adamine
-avidity
+avidity 1
 arithmetized 1
 autologous 2
 anticonstitutionalism 1
