@@ -11952,7 +11952,7 @@ hugd 4
 hugdprnh 4
 hugdu 2
 huge 2
-hugev
+hugev 1
 hugfhdrqup 1
 huggclbtp
 hugggdhibep 1
