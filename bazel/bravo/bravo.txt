@@ -7919,7 +7919,7 @@ bibliosoph 1
 bibliotaphe 3
 bibliothecae
 bibliothecarian 5
-bungalows 2
+bungalows 3
 batoka 1
 butic 2
 baseline 2
@@ -13608,7 +13608,7 @@ boult
 breakermen 1
 boultel 1
 bedsonias 1
-bemuddle 1
+bemuddle 2
 bounceback 1
 blowsy 2
 bouncier 2
