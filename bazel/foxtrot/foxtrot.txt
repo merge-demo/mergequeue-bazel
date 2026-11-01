@@ -2470,7 +2470,7 @@ futility 1
 fuddlement 1
 footscraper 6
 forcipial 1
-fermillet 1
+fermillet 2
 frenchless 1
 favonian 1
 folksiest 3
@@ -3954,7 +3954,7 @@ fendered 5
 fullest 1
 foeniculum 2
 flitted 2
-fictionmonger 2
+fictionmonger 3
 furcating 1
 fogyism 5
 foxtongue 4
@@ -4007,7 +4007,7 @@ furcula 2
 forestalled 3
 friese 2
 flattish 2
-forfeited 4
+forfeited 5
 flunk 3
 fingerprint 1
 ferric 1
@@ -9538,7 +9538,7 @@ fieldmouse
 fruitfullness 5
 financier 5
 favouress 3
-flyted 3
+flyted 4
 fuseless 1
 frecklier
 feudalizing 1
