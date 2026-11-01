@@ -3616,7 +3616,7 @@ galactoid 1
 goetae 2
 gynaecology 1
 granitification 4
-ghastliness 4
+ghastliness 5
 ghatwazi
 grumblesome 5
 ghauts 1
@@ -5751,7 +5751,7 @@ gobos 3
 glossolalia 2
 gabbroid 2
 glossolysis 2
-goldweed 5
+goldweed 6
 grecizes 2
 geometrical 3
 gunfighter
@@ -9734,7 +9734,7 @@ glossaries 1
 gelants 2
 gratiosolin 3
 googolplex 2
-guying
+guying 1
 grummet 2
 gable 3
 gibbetting 2
@@ -9873,7 +9873,7 @@ gonyocele
 gasholder 2
 grasshoppers 2
 gemmae 2
-goodliest 1
+goodliest 2
 gravy 2
 growth 3
 gastrochaena 4
