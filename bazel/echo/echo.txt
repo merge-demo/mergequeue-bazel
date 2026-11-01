@@ -5251,7 +5251,7 @@ erythrogen 6
 encinder 5
 endoparasitica 2
 etiotropically
-endopathic 5
+endopathic 6
 endopelvic 1
 encyclopaedist 1
 endoperidium
@@ -10642,7 +10642,7 @@ endozoa 3
 eques 1
 enchilada 3
 eudemonistic 2
-eudemonics 2
+eudemonics 3
 equivalencies 1
 epinephrine 3
 empurpling 1
