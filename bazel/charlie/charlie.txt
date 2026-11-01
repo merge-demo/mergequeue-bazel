@@ -14601,7 +14601,7 @@ croceins 1
 cystofibroma
 cosmopolicy 2
 cystogenesis
-cystogram 2
+cystogram 3
 cystoid 1
 cystoidea
 cystoidean
@@ -25358,7 +25358,7 @@ cornetcy 2
 cornetcies
 cornetfishes
 chunkier 1
-cornetist 1
+cornetist 2
 cornetists
 cornets
 centums
@@ -28900,7 +28900,7 @@ cutwal 1
 calendarer 1
 cradlefellow
 canular 1
-crewman
+crewman 1
 crewmanship 1
 crewmen 2
 crewneck
@@ -29763,7 +29763,7 @@ centrodorsally
 crookedest 1
 commons
 crookedly 1
-crookedness
+crookedness 1
 crookery 1
 crookesite 3
 crookheaded 2
