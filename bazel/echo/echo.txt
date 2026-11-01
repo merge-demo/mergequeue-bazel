@@ -7413,7 +7413,7 @@ epenetic 1
 everglade 4
 explosion 1
 ensculpture 2
-entasia 4
+entasia 5
 exsanguineous
 exacted 3
 epenla
