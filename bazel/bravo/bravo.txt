@@ -2673,7 +2673,7 @@ barmaster 1
 bergalith
 benzoic 2
 brutus 1
-barmcloth
+barmcloth 1
 brither 3
 birdcage 4
 bascules 1
