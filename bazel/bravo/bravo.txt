@@ -9941,7 +9941,7 @@ boree 1
 brian
 bx 2
 bituminous 1
-bisecting 1
+bisecting 2
 beryllate 2
 bilinguality 1
 bridleman 1
@@ -14970,7 +14970,7 @@ bravuraish 4
 blennophlogisma
 breathes 1
 boarstaff 3
-breathiness
+breathiness 1
 bookishly
 breathingly 2
 bepaper
@@ -14986,7 +14986,7 @@ breccias 1
 brecciated 3
 brecham 2
 bursar 1
-brechams 1
+brechams 2
 brechans 3
 breakfaster 1
 bullfeast 1
