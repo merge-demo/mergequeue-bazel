@@ -4311,7 +4311,7 @@ acciaccature 1
 aeration 2
 aumbry
 adrift 1
-antipopular
+antipopular 1
 acerbas
 apocrine 2
 archegoniata 1
@@ -20993,7 +20993,7 @@ accomplishable
 ascertainably
 ascertaining
 ametoecious 2
-ascertains
+ascertains 1
 ascendant
 arthropterous 2
 ascescency 3
