@@ -1446,7 +1446,7 @@ guild 1
 garbages
 gulfy 1
 grosgrained 3
-gainward 1
+gainward 2
 glossarial 3
 gidjee 2
 germiparity 3
@@ -7879,7 +7879,7 @@ goff 3
 garlandlike 4
 gabbais 5
 gurdle 4
-ghostlikeness 3
+ghostlikeness 4
 grammatics 3
 gastropodous 3
 galik 2
@@ -10243,7 +10243,7 @@ graminivore 2
 glycogenase 4
 guiltsick 4
 genesee 6
-generating 6
+generating 7
 guimbard 3
 gorsehatch 2
 geographics 2
@@ -10266,7 +10266,7 @@ gregarious 4
 guinness 5
 greyback 1
 gumbos 3
-getid 3
+getid 4
 grotianism 3
 gempylid 4
 gutturalization

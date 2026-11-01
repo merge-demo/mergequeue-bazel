@@ -5420,7 +5420,7 @@ behaving 3
 brainteasers 1
 brakes 4
 bathylimnetic 2
-boshvarks
+boshvarks 1
 behaviored 3
 betravel 3
 behaviorists 2
@@ -6194,7 +6194,7 @@ bijugous 3
 benevolency 2
 bengalese 1
 batavian 2
-bengola 1
+bengola 2
 bipartient 2
 beni 5
 buckjumper
