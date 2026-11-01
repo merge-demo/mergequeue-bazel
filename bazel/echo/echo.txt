@@ -13738,7 +13738,7 @@ extinctions 1
 enantiopathic 1
 euphorbia 3
 ententophil
-ectoenzym
+ectoenzym 1
 enzyme 6
 extinguished 1
 extinguisher 2
