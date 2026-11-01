@@ -17661,7 +17661,7 @@ cephalalgic 2
 cochleous 2
 cochlidiid 1
 catalaunian
-calque 3
+calque 4
 conservationist 1
 cochliodontidae
 cochliodus 2
@@ -30787,7 +30787,7 @@ ceroon
 culerage
 christmastide
 childbeds
-culett
+culett 1
 climatologic
 culeus
 culices 1
