@@ -163,7 +163,7 @@ earthly 2
 enriched
 exequy 3
 earmarked 2
-eelbobber
+eelbobber 1
 expiring 2
 expressive 4
 elses 2
@@ -5560,7 +5560,7 @@ etherlike 3
 enfeoffing
 episcopant 2
 enfeoffment 1
-exestuate
+exestuate 1
 exhaustedly 1
 ethions 3
 enfettering 3
