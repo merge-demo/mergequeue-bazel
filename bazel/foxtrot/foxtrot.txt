@@ -4939,7 +4939,7 @@ fchar 5
 fluidised 3
 foining 2
 fluoresced
-forsooth 5
+forsooth 6
 foppishly 5
 fourteens 3
 flamen
@@ -6714,7 +6714,7 @@ folksily 3
 flame 4
 felted 1
 fogless 3
-frounced
+frounced 1
 fogo 4
 frescoists 3
 fighters 6

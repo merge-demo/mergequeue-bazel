@@ -4445,7 +4445,7 @@ allergia 1
 acetylacetone 2
 australic 2
 antipuritan 1
-adust 1
+adust 2
 adustion 4
 apsides 1
 amang 2
@@ -23599,7 +23599,7 @@ arcsin
 altimetry
 aunthood 1
 arawakan
-antitraditionally 1
+antitraditionally 2
 analogise 2
 auntie 1
 acroceratidae 1
