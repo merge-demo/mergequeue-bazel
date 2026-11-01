@@ -5328,7 +5328,7 @@ cassons
 cochleated 4
 chariotway
 cynodont 2
-cassowary
+cassowary 1
 cassowaries 1
 carotidean 1
 commonty 1
@@ -18143,7 +18143,7 @@ cheliferidea
 chloriodide
 collar 2
 centralistic
-coequates
+coequates 1
 creepage 1
 coerce
 coerced
