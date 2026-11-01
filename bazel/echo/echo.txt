@@ -1828,7 +1828,7 @@ eigenvalues 4
 eudemony 2
 evaginated 2
 effervescive 1
-ensouling 1
+ensouling 2
 encipherer 1
 elench 1
 eurypterida 1
@@ -4938,7 +4938,7 @@ equiv 2
 eveck 3
 eudemons 1
 extradictable 1
-endamoebas 2
+endamoebas 3
 endamoebidae 3
 equations 8
 endangitis 2
@@ -13781,7 +13781,7 @@ extortion 2
 embroiling 3
 endopterygotism
 earthliness
-euchite 6
+euchite 7
 emirship 2
 embargoing 1
 extortioners 2

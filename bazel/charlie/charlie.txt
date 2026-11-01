@@ -15132,7 +15132,7 @@ cladonioid 1
 catalyst 1
 cladophora
 cladophoraceous
-clunk
+clunk 1
 cladoptosis 1
 copilots 1
 cladose 1
@@ -28672,7 +28672,7 @@ consequentially 2
 classific
 canonicalize 1
 crenel 1
-chroococcus 2
+chroococcus 3
 constantine
 coloniser 2
 candlewicking 1
