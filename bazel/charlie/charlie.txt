@@ -10893,7 +10893,7 @@ chiquito
 clavate
 chiral
 clerids
-cardstock 1
+cardstock 2
 contortioned 1
 chiralgia 2
 contiguousness
