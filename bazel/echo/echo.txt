@@ -5560,7 +5560,7 @@ etherlike 3
 enfeoffing
 episcopant 2
 enfeoffment 1
-exestuate
+exestuate 1
 exhaustedly 1
 ethions 3
 enfettering 3
