@@ -3479,7 +3479,7 @@ fraternisation 3
 fecundity 2
 fleeches
 fanfares 3
-fingerable 1
+fingerable 2
 frostfishes 4
 foreseason 1
 fallback 3
@@ -3979,7 +3979,7 @@ forfends 1
 fingerer
 flaunch 4
 fingerers 3
-feed 2
+feed 3
 fono 2
 florissant 5
 freehanded 3
@@ -5328,7 +5328,7 @@ fifteen 2
 fumarole 3
 feasts 1
 filial 2
-fant 2
+fant 3
 forcepslike 2
 foulmouthedly 1
 fiddlebrained 1
@@ -9392,7 +9392,7 @@ fecal 2
 fileted
 facing 4
 fettler 2
-foxholes 3
+foxholes 4
 foreweigh 2
 flubbing
 fidgeter 6
@@ -10132,7 +10132,7 @@ frivolling 3
 feasibility 5
 falchions 2
 finalize 3
-fricatives 2
+fricatives 3
 frivolousness 5
 foray 1
 faunula 2
