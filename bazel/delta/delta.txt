@@ -1954,7 +1954,7 @@ deckload 1
 doze 1
 dungy
 dicrotism 1
-debunkers
+debunkers 1
 dispergated 1
 debunks
 disedify 3
@@ -2060,7 +2060,7 @@ dramas 1
 dessiatine 2
 disagreeability
 dreidls 3
-delictum 1
+delictum 2
 dermatotomy 3
 daikered 2
 devotion 1
@@ -14663,7 +14663,7 @@ djave 2
 doubtfully
 drill 3
 djebels 2
-djehad 5
+djehad 6
 deferens
 djellabah 1
 decanically 1
