@@ -5073,7 +5073,7 @@ dendraspis 2
 doomwatcher
 daler 4
 disilicide
-dendraxon
+dendraxon 1
 decolorizer 4
 delightsome
 dendriform
@@ -13417,7 +13417,7 @@ diffusion 1
 dennstaedtia 3
 disrated 3
 disrecommendation 2
-digitalis 3
+digitalis 4
 disregard 3
 demiglace
 dought 2
