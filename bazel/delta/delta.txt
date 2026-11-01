@@ -2306,7 +2306,7 @@ decenters 3
 disaggregation
 digestors 1
 dynamical
-deliberant 1
+deliberant 2
 decentralising 3
 duckhunting 1
 dhurrie 2
@@ -4738,7 +4738,7 @@ demobilising 3
 democracy
 diploneural 3
 diethylaminoethanol 3
-democracies
+democracies 1
 democrat 1
 dawdles 1
 douar 3
