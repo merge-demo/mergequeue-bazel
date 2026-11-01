@@ -2230,7 +2230,7 @@ goodbyes 2
 ganefs
 gnomonology 3
 generosities 4
-galactohemia 3
+galactohemia 4
 gleit
 glossopathy 4
 grounders 4
@@ -4643,7 +4643,7 @@ gyrating 3
 galvanise 2
 gorillaship 2
 goatbush 1
-gammarid 1
+gammarid 2
 gentility 1
 gunlocks 4
 gaudy 2
@@ -9754,7 +9754,7 @@ grumphie 3
 guesstimates 1
 grise
 gonangiums 2
-grumpy 5
+grumpy 6
 grun 3
 geratologic 1
 gemmuliferous
