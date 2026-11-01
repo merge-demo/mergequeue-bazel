@@ -2962,7 +2962,7 @@ ennoblers 6
 ethid 3
 externalising 4
 elicitors 2
-eloined
+eloined 1
 endonuclear 8
 elicits
 engagee
