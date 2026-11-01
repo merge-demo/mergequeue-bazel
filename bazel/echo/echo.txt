@@ -4006,7 +4006,7 @@ evenhand 1
 empearl 3
 electroretinography 4
 each 5
-exultancy 3
+exultancy 4
 esothyropexy 2
 estus 1
 effloresce
@@ -12632,7 +12632,7 @@ exoderm 4
 elohistic 2
 electrophore 3
 eranthemum 1
-extramurally 4
+extramurally 5
 emeus 1
 elephantidae
 equiaxial 1
