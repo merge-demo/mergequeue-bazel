@@ -4695,7 +4695,7 @@ fixing 1
 flannelleaf 2
 fixt
 furca 4
-flopwing 3
+flopwing 4
 fangs
 fummel 4
 furtherer 1
@@ -5251,7 +5251,7 @@ fitful
 fierceness 2
 fishmen 2
 filippi 1
-faugh 3
+faugh 4
 flavorsome 1
 falda 2
 fossilage
@@ -8066,7 +8066,7 @@ fosterers
 formentation 1
 facetting 3
 folial 5
-forestful 4
+forestful 5
 freezes 3
 frigger 1
 forestial 1
