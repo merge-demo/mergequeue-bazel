@@ -15465,7 +15465,7 @@ dopehead 2
 demonstratory 1
 dope 3
 divinities 1
-dompteuse 1
+dompteuse 2
 doms
 derve 1
 don 3
@@ -16959,7 +16959,7 @@ drecks 2
 dermatherm 2
 demihorse 4
 dullness
-downcurve 3
+downcurve 4
 dredgeful 3
 disintegrate 1
 discerp
