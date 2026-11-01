@@ -3583,7 +3583,7 @@ encraal 1
 embossage 2
 embossed 2
 enbibe 5
-embossing 5
+embossing 6
 emulsifications 3
 embossman 1
 esophagoplegia
@@ -5563,7 +5563,7 @@ enfeoffment 1
 exestuate
 exhaustedly 1
 ethions 3
-enfettering 2
+enfettering 3
 enophthalmos
 expandability 3
 episcopality 1
@@ -13346,7 +13346,7 @@ exceedingly 4
 enrough
 entreated 1
 epicotyleal 1
-encyclopaedias
+encyclopaedias 1
 ethicist 2
 extortionately 2
 enlength 2

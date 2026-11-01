@@ -503,7 +503,7 @@ fakery 1
 flaxweed 3
 foreconsider 1
 funbre 3
-friz 4
+friz 5
 fertilizing 1
 frenne 2
 filicite 2
@@ -2403,7 +2403,7 @@ fleer 5
 fad 3
 fleshlessness
 flakelet 1
-fistularia 2
+fistularia 3
 flavous 1
 filipuncture 4
 felanders 2
