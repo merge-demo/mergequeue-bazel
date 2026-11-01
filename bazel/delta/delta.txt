@@ -9309,7 +9309,7 @@ dietotherapy 1
 dietotoxic 1
 detersive 2
 depletable 7
-diluvions 1
+diluvions 2
 depilation 3
 dietrichite 4
 duvetine 4
