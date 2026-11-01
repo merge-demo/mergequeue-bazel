@@ -2660,7 +2660,7 @@ dozers 1
 deepens 2
 discernably 1
 decompensating 2
-delinquents
+delinquents 1
 decenniad
 decompensations
 dasylirion 1
@@ -3427,7 +3427,7 @@ downrightness
 dudgeon
 dissatisfy 1
 debasement
-deflocculate 1
+deflocculate 2
 deflocculating 2
 dermatoptera 4
 decreasing 3
@@ -17798,7 +17798,7 @@ ducking 2
 dashnakist 1
 ducklet 1
 ducklings 1
-deputator 2
+deputator 3
 duckmeat 2
 duckpin 1
 desalinate 1
