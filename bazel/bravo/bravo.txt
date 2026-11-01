@@ -2172,7 +2172,7 @@ bess
 bepuddle 8
 bedward 1
 bields 2
-buttstrapping 1
+buttstrapping 2
 batwoman 1
 blushers 2
 berliner
@@ -15696,7 +15696,7 @@ butyric 1
 broadsider 2
 burnished
 borrovian 2
-begroaned 1
+begroaned 2
 botanophile 3
 breakfront
 broadsiding 2
@@ -17974,7 +17974,7 @@ brachystochrone 2
 basilosauridae 1
 busied 1
 bagirmi 3
-betties
+betties 1
 brigued 2
 bulldust 6
 bedpan 1
