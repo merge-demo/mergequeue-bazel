@@ -27657,7 +27657,7 @@ codhead 1
 cowed 5
 cowered 2
 cowerers 1
-camerlingo 4
+camerlingo 5
 coweringly
 cowers
 cowgrass 1
@@ -28413,7 +28413,7 @@ catalecticant 1
 caesarize 2
 creaky
 cholestene
-creakiness
+creakiness 1
 creaking 1
 creambush 2
 creameries
