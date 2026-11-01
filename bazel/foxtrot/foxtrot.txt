@@ -7428,7 +7428,7 @@ footmen 5
 ferrocerium 4
 forwarder 1
 filicides 3
-fileable 1
+fileable 2
 fillemot 2
 faience 1
 firefall 2
