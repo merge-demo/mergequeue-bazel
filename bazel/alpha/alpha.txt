@@ -8642,7 +8642,7 @@ anotropia 1
 anastomosis 1
 autotheater 2
 amygdaloidal 1
-annunciatory
+annunciatory 1
 anglophobist
 allegorizer
 antidinic
@@ -14296,7 +14296,7 @@ archflatterer
 anthemion
 anthemis 1
 aecidiomycetes 2
-antheraea 2
+antheraea 3
 antheridia
 antherogenous 2
 aphnology 1
