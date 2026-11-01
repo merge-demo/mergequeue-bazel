@@ -14671,7 +14671,7 @@ antianxiety
 alphos 3
 antiboss 1
 attaching
-antiaquatic 1
+antiaquatic 2
 acroesthesia 1
 antiar 4
 antilogarithm
@@ -15728,7 +15728,7 @@ acromania
 anaesthesiologist 1
 antipathetic 3
 antimodernism
-autostability 3
+autostability 4
 antipathetical 1
 arenas 1
 apnoeic
