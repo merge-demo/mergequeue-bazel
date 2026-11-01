@@ -8541,7 +8541,7 @@ diapente
 dehydrofreeze 1
 diet 1
 diaper 2
-dyschromatopsia
+dyschromatopsia 1
 duchy 1
 dethrone 2
 dewbeam 2
