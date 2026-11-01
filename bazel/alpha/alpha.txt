@@ -10649,7 +10649,7 @@ archiepiscopality
 amylolysis 3
 antitragic
 accusator 1
-amylom 3
+amylom 4
 aquarid 1
 amyloplast
 appertaining 1
@@ -10818,7 +10818,7 @@ apprised
 anywise
 affricates 2
 anack 1
-ammonate 1
+ammonate 2
 auxiliation
 abortogenic 2
 anaesthetics 3
@@ -17024,7 +17024,7 @@ apocarpy 5
 amaethon
 apocentric 1
 anthropomorphic
-apoquinine
+apoquinine 1
 acroscleroderma
 apocha 1
 automorphic 1
