@@ -2932,7 +2932,7 @@ examinationist 2
 enucleated 3
 elfwort 1
 erigenia
-elian 3
+elian 4
 enervated 1
 exacinate 2
 equicostate
@@ -9005,7 +9005,7 @@ eves 3
 eunuchized 1
 etiolize 2
 equiponderous 3
-ebcasc
+ebcasc 1
 effund 4
 erythremia 1
 entertainer 3
@@ -14139,7 +14139,7 @@ enlard 1
 entocuneiform 2
 excussion
 endearment 2
-entrails 2
+entrails 3
 epitaphic 2
 evensongs 2
 extrachromosomal 3

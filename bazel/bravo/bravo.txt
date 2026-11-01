@@ -5734,7 +5734,7 @@ beparody
 bedsheets 4
 barrator 2
 bechance
-belittle
+belittle 1
 bailees 2
 burnettize 5
 bewailingly 1
