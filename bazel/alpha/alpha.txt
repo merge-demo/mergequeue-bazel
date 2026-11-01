@@ -10649,7 +10649,7 @@ archiepiscopality
 amylolysis 3
 antitragic
 accusator 1
-amylom 3
+amylom 4
 aquarid 1
 amyloplast
 appertaining 1
@@ -15928,7 +15928,7 @@ antiprostatic
 adiabat 2
 astrobiologically 1
 attentively
-ammocete
+ammocete 1
 affectual
 argillocalcite 1
 asking 1
