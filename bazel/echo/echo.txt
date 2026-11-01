@@ -552,7 +552,7 @@ eurobin
 electrified 2
 excursuses 3
 echinodorus
-est 1
+est 2
 endotheliotoxin
 echinoid 1
 exequial 3
@@ -6391,7 +6391,7 @@ enshrinements 1
 endovaccination 1
 electrotyper
 ephebe 3
-expenseful 2
+expenseful 3
 earthward 3
 emulsor 1
 euskarian 1

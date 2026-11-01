@@ -5626,7 +5626,7 @@ deathwatches 1
 duddy
 dei 2
 dozy 3
-desaturation
+desaturation 1
 depetalize 1
 disorganiser 1
 disprivilege 1
@@ -9588,7 +9588,7 @@ digoneutism 1
 differentness
 divisi
 digoxins
-digraphically 3
+digraphically 4
 digrediency
 decenaries 1
 defining 4
