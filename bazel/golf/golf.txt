@@ -10243,7 +10243,7 @@ graminivore 2
 glycogenase 4
 guiltsick 4
 genesee 6
-generating 6
+generating 7
 guimbard 3
 gorsehatch 2
 geographics 2
@@ -10266,7 +10266,7 @@ gregarious 4
 guinness 5
 greyback 1
 gumbos 3
-getid 3
+getid 4
 grotianism 3
 gempylid 4
 gutturalization
