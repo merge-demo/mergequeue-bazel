@@ -11293,7 +11293,7 @@ blowoff 1
 blowouts 1
 bedels 1
 blowproof 1
-blows 2
+blows 3
 bleachability 3
 barograms 7
 boneyard
@@ -15436,7 +15436,7 @@ brilliancies 1
 bagged 3
 brilliandeer
 budgerigars 2
-buonamani 3
+buonamani 4
 brilliant 1
 beheading 2
 brilliantined
