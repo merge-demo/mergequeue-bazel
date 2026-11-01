@@ -785,7 +785,7 @@ emydidae
 enolizing 5
 extramedullary 2
 eolotropic 2
-emotionalization 1
+emotionalization 2
 electrobus 2
 equiponderance 5
 encaged 2
@@ -3095,7 +3095,7 @@ emp
 encyclical
 elliot 3
 educationable 2
-ergatocracy 2
+ergatocracy 3
 expropriates
 ellipsograph 2
 executiveness 2
@@ -3372,7 +3372,7 @@ ethylenediamine
 extranormal 2
 emballonuridae
 eulachons 1
-essentialities 2
+essentialities 3
 equus 1
 energeticalness 1
 eternising 1
@@ -5576,7 +5576,7 @@ enzootic
 epicardial 1
 enfilade 1
 experimentations 1
-excriminate 4
+excriminate 5
 extraovular 3
 enfilades 4
 escutcheoned 1
@@ -6826,7 +6826,7 @@ entoils
 entom 1
 extender 1
 episternalia 5
-evocativeness 4
+evocativeness 5
 eumenes 1
 ectosarcs 1
 elix 1
@@ -11508,7 +11508,7 @@ echinopanax 3
 exhibited 3
 expended 1
 electromyogram 2
-emendate 1
+emendate 2
 engouled 3
 eunuchize 2
 evince 8
