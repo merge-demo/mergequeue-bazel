@@ -6223,7 +6223,7 @@ forefence 1
 fairgrounds 2
 forlana 3
 fatlings 3
-fargoing 1
+fargoing 2
 floccules 2
 focusable 2
 fascinative 3
@@ -6458,7 +6458,7 @@ folkcraft 4
 frenchize 3
 fordy 1
 fellatrix 2
-forsar 1
+forsar 2
 flurn 4
 flurried
 futhorks 1
