@@ -3980,7 +3980,7 @@ fingerer
 flaunch 4
 fingerers 3
 feed 2
-fono 1
+fono 2
 florissant 5
 freehanded 3
 falkland 2
