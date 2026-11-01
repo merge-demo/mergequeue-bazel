@@ -2397,7 +2397,7 @@ formicivorous 1
 filtrable 3
 fingernail 5
 flanged 1
-ferigee 3
+ferigee 4
 fondlers 6
 fleer 5
 fad 3
@@ -4239,7 +4239,7 @@ fowls 4
 farinosely 2
 formed 2
 fohat 2
-firepinks 2
+firepinks 3
 fireplace 2
 fiendishness 3
 fraist 2
