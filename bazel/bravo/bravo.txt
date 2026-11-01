@@ -9623,7 +9623,7 @@ biol 1
 bishopstool
 bishopweed 3
 bobbinets 1
-bestir
+bestir 1
 benison 1
 barterers 1
 blatti
@@ -14393,7 +14393,7 @@ beepers
 brainily 2
 bedman 2
 boom
-blaw
+blaw 1
 braininess 1
 basoga 1
 braining 1
@@ -15949,7 +15949,7 @@ bilaciniate 3
 brooding 3
 botswana 2
 babyship 2
-belated 2
+belated 3
 bronchiolar 1
 bankcards 2
 brontoscopy 1
