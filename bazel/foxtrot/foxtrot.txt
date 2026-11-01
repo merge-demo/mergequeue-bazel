@@ -4158,7 +4158,7 @@ fireboy 1
 flying 4
 fiendishly 2
 fraticelli 4
-firebomb 2
+firebomb 3
 fakiness 2
 firebombing
 fairlike 2
@@ -10234,7 +10234,7 @@ fruticant 1
 fleshly
 fadedness
 fibrillations 6
-flakers 3
+flakers 4
 frond 1
 fluxmeter 4
 finickingness 3
