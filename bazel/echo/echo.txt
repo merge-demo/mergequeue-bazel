@@ -3922,7 +3922,7 @@ epiglottis 1
 endexine 1
 emissory 3
 emitting 2
-entamebas 4
+entamebas 5
 electropathic 3
 endocrinologies 3
 echocardiogram 2
