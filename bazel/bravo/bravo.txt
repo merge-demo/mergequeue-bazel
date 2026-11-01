@@ -2842,7 +2842,7 @@ beebread 1
 binaurally 2
 bawrel 1
 bioscopies
-backslashes 1
+backslashes 2
 bitterbump 3
 bullionist 2
 buttonmold 1
@@ -4638,7 +4638,7 @@ bens
 barry 2
 buxus 3
 bedevilling 5
-barbershops 1
+barbershops 2
 borities 2
 bargee
 bedevilment
