@@ -2745,7 +2745,7 @@ benab 2
 bonneting
 bukeyef 2
 barology 1
-barolong
+barolong 1
 boroughship
 barometers 2
 beefy
@@ -6848,7 +6848,7 @@ benignity 1
 blackmailed 4
 bacteriotoxic 3
 benignancy 2
-benkulen 2
+benkulen 3
 bigener 3
 buicks 2
 bioluminescent
@@ -6895,7 +6895,7 @@ besetters 1
 besew
 borghi 2
 boccaccio 1
-betrim 3
+betrim 4
 bradyseismic
 bibliopolistic 1
 beshade 2
@@ -17716,7 +17716,7 @@ beshouts 1
 birling 1
 bookways 1
 bombshell
-burned 1
+burned 2
 burner 2
 benempt
 billian
