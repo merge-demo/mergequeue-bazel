@@ -7173,7 +7173,7 @@ compare 3
 centraxonial 1
 centre 1
 clinoaxis
-centreboard 2
+centreboard 3
 centred
 centref 1
 centreless
@@ -7896,7 +7896,7 @@ cataphoretic
 cest 1
 cesta 2
 catafalque
-cestidae 1
+cestidae 2
 cestodes 1
 copatron 1
 coronize
@@ -21218,7 +21218,7 @@ chonta
 conks 4
 conceptualizes
 cotuit 3
-charadrioid 1
+charadrioid 2
 comenic
 clearness
 confirmability 1
