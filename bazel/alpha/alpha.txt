@@ -5302,7 +5302,7 @@ axon
 affixal 1
 astipulate 1
 astrid 2
-americanoid 3
+americanoid 4
 affixation
 amortization
 affixed 1
@@ -10979,7 +10979,7 @@ amoke
 azure 1
 antidepressive 1
 anabaptizing 1
-amolilla 1
+amolilla 2
 albumoscope
 amomal 1
 aceite 1
@@ -19471,7 +19471,7 @@ arkab
 appetible
 argin 1
 argyranthous 1
-acroceridae 2
+acroceridae 3
 appestat
 argive
 anoperineal
