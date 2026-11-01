@@ -8729,7 +8729,7 @@ dispensatrix
 demisacrilege 2
 diathesis 1
 dirl
-dimps 1
+dimps 2
 diatoma 1
 diapase 4
 deems 2
@@ -16434,7 +16434,7 @@ disgregated
 dolichocercic
 decidement 4
 derivately 1
-defogger
+defogger 1
 dwaible 2
 delirate 1
 diachyma 1
