@@ -3870,7 +3870,7 @@ effigiate 4
 epalpate
 ethnobotanical 1
 emesis 1
-entrapment 1
+entrapment 2
 easiness 2
 exemplarily 2
 exosculation 4
@@ -12735,7 +12735,7 @@ englishman 1
 exorable 1
 exactingness 3
 etiolin 2
-eradication
+eradication 1
 elderberry 7
 elaeodochon
 esprove 7
