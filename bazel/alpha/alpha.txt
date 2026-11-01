@@ -3948,7 +3948,7 @@ animalculum 1
 abdal 3
 astre
 armozeen
-adjusting
+adjusting 1
 akindle 2
 adjustment 4
 adjustmental 1
