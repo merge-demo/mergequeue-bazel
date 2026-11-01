@@ -4393,7 +4393,7 @@ ceriph
 calculary 1
 criticizer
 cosmetologist 1
-confrere
+confrere 1
 calandridae
 centimes 1
 clothlike 2
@@ -14793,7 +14793,7 @@ cytoclasis 1
 caluptra 1
 cytoclastic
 crioboly 2
-cytococci
+cytococci 1
 choroidal 1
 cytoderm
 cytodiagnosis
@@ -31610,7 +31610,7 @@ cozy 3
 crosstail 1
 clingstone
 curve 2
-constructed 3
+constructed 4
 curvedly 1
 capitoul 2
 curver
