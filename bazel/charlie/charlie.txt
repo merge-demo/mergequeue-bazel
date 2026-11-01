@@ -14748,7 +14748,7 @@ curatel
 chiarooscuros 1
 cityness 1
 cotyle
-citynesses
+citynesses 1
 chinantecs
 chaffed
 cladodontid 1
