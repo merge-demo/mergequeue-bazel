@@ -4018,7 +4018,7 @@ gilbertian 4
 girlishness 3
 guttula 4
 gildable 4
-gentrification 4
+gentrification 5
 gesticulated 3
 grotzen
 gymnanthous 3
@@ -4688,7 +4688,7 @@ gerbilles 2
 gena 1
 gossoon 3
 glassin 2
-guisard 3
+guisard 4
 glycuronic 1
 glary 1
 gradely 5
@@ -5405,7 +5405,7 @@ groundswell 1
 generall 1
 glucosid 4
 gutwise 3
-glycaemic 3
+glycaemic 4
 grimmer 2
 gremmy 4
 glimmering 1

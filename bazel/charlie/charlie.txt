@@ -12926,7 +12926,7 @@ chuter
 chromatometer 1
 chuting
 chutists
-cocurrent
+cocurrent 1
 chutnees 1
 chuttie 1
 chutzpa
@@ -13515,7 +13515,7 @@ ceratites
 caudillos
 cylindromatous
 crosswords 1
-cylindrometric 1
+cylindrometric 2
 carceration
 confineable 3
 consignees 1
