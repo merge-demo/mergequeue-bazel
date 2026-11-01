@@ -4931,7 +4931,7 @@ aerohydrodynamic
 angakoks 1
 ambodexter 1
 akaroa 2
-archdapifership 1
+archdapifership 2
 auncel 4
 asexuals 4
 antimonide 1
@@ -19965,7 +19965,7 @@ astrologe 1
 absentia 2
 antidumping 2
 araliophyllum 1
-applauding
+applauding 1
 archdeanery 1
 aryballos 1
 azlons 1
