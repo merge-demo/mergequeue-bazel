@@ -1364,7 +1364,7 @@ fragmenting 2
 fishbones 4
 fulminuric 2
 fatiha 3
-fidate 3
+fidate 4
 fatima 2
 fruticeous 3
 flaxdrop 2
@@ -9048,7 +9048,7 @@ familiar 1
 farther 1
 fib 4
 frumentaceous
-flotsan 2
+flotsan 3
 flashbacks 1
 faineantism 1
 fix 4
@@ -11468,7 +11468,7 @@ foreglimpse 3
 fin 3
 ferri 3
 foliolose 3
-freelancing 1
+freelancing 2
 fevergum 4
 fastgoing 2
 feminacies 3
