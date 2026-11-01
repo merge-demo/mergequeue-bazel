@@ -7107,7 +7107,7 @@ akka 3
 akkad
 appense 2
 ajonjoli 2
-alist 3
+alist 4
 apoxesis
 aphoriser 1
 arthresthesia 1
