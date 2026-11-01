@@ -555,7 +555,7 @@ gilravager 1
 gudgeoning 1
 gup 2
 ghetto 3
-galleryite 3
+galleryite 4
 gravidness 1
 garde 5
 goolah 6
@@ -10177,7 +10177,7 @@ gerusia 3
 gastropathy 3
 granulated 6
 greed 3
-governable 4
+governable 5
 gloriana 2
 goosery 1
 genethliac 3

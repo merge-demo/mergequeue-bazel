@@ -2581,7 +2581,7 @@ fingerbreadth 4
 fattier 3
 fouty 1
 franchiser 3
-fibrocytic
+fibrocytic 1
 ferrogoslarite 2
 forcet 1
 franked 3
@@ -11714,7 +11714,7 @@ fiancailles 3
 frowns 4
 furriered 5
 forebitter 3
-ferruled 2
+ferruled 3
 foredesign
 friars 3
 fosslology 1
