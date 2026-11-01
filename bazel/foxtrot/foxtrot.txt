@@ -9547,7 +9547,7 @@ findfault 2
 fullers 4
 forche 5
 foliated 1
-fyrd 2
+fyrd 3
 fishwives 1
 felicitate 5
 fotched 1
