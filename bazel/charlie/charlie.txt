@@ -15714,7 +15714,7 @@ clavicularium 3
 claviculate
 chrysohermidin 1
 chirotype 1
-clima
+clima 1
 chrysograph 1
 claviger 1
 carshops 1
@@ -29163,7 +29163,7 @@ cotillons
 cryoconite 2
 cryogeny 2
 callidity
-cradleside
+cradleside 1
 cryogenics 1
 cloys 2
 catwalks 1
