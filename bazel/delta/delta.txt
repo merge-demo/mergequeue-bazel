@@ -14501,7 +14501,7 @@ dividendus 1
 divident 3
 dromograph 2
 dividivis
-diaphanometer
+diaphanometer 1
 diwani 3
 drugge 1
 dividually 2
