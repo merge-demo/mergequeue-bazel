@@ -3379,7 +3379,7 @@ girland 3
 goniodoris 1
 germon 4
 ghostcraft 3
-germs 2
+germs 3
 glaucescence 1
 griseous 2
 garment 2
@@ -3983,7 +3983,7 @@ graphometrical 3
 grillework 1
 groaner 4
 graduated 4
-gastroatrophia 2
+gastroatrophia 3
 geoscientist
 gunlaying 3
 garrotted 1
@@ -4487,7 +4487,7 @@ gypsyfy 2
 generically 2
 granules 1
 gristles 4
-geophytes 2
+geophytes 3
 guacimo 1
 gypsyhead 2
 gloeocapsoid 1
@@ -8100,7 +8100,7 @@ grantees
 gauzes 4
 glunching 3
 gapeworm 3
-genuine 1
+genuine 2
 gainsome 2
 gulch 1
 grayhound 3
@@ -9925,7 +9925,7 @@ grata 3
 genevese 3
 girderless 2
 glebes 2
-greylags 3
+greylags 4
 geoparallelotropic 2
 gateway 6
 grisailles 2

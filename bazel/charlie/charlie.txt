@@ -14913,7 +14913,7 @@ creaks 1
 chupak
 cytostomal
 camouflaged
-cordwood
+cordwood 1
 cytostromatic 1
 compromised 1
 cytotactic 1
@@ -16954,7 +16954,7 @@ cluricaune 2
 clusia
 clusiaceae
 clusterings 2
-clusiaceous
+clusiaceous 1
 chlorosilicate 1
 chancer
 chorio
@@ -29639,7 +29639,7 @@ creedmore 1
 crocko
 clavering
 cystadenoma 3
-chrominance
+chrominance 1
 chimariko 2
 copyholding 1
 chat
@@ -31170,7 +31170,7 @@ cupolaing
 cupolaman 1
 cupolar
 celtillyrians 3
-cotman 2
+cotman 3
 carole
 coenflame 1
 celite 1

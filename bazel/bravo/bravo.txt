@@ -7700,7 +7700,7 @@ byproducts
 bulbotuber 1
 bhaktimarga 2
 boomy
-besin
+besin 1
 behavioral 2
 bhangi 2
 bhara 2
@@ -14383,7 +14383,7 @@ brachiferous 1
 braincase
 blastomycosis 3
 braincraft 2
-buckish 1
+buckish 2
 birsle 1
 bragozzo 1
 befan
@@ -15677,7 +15677,7 @@ bepuzzlement 1
 babool 1
 badgemen 1
 broadling
-bulbilis 1
+bulbilis 2
 blowzy 2
 bands 3
 bonbonniere 3
