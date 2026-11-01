@@ -14789,7 +14789,7 @@ atomically 1
 amusee
 ammonitish 1
 achor 2
-antidromal
+antidromal 1
 anticensorious 3
 anticensorship
 anticentralization
