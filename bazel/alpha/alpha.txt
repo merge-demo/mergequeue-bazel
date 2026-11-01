@@ -15817,7 +15817,7 @@ anodize 2
 antiphony
 anomorhomboid 3
 amethystlike
-ambitioning 1
+ambitioning 2
 adolf 3
 aborigine 2
 antiphons 2
@@ -18373,7 +18373,7 @@ afflictedness 1
 aficionado 1
 andromorphous
 araneoidea
-arangoes
+arangoes 1
 aranyaka 1
 aranzada
 acceding
@@ -21549,7 +21549,7 @@ arthemis 1
 archdean 1
 arrowroot
 asphodel 1
-aspy 3
+aspy 4
 aspidiaria 2
 aspidinol
 aladdinize
