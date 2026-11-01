@@ -2969,7 +2969,7 @@ engagee
 equaeval 2
 epihydrinic 1
 emaciate 2
-elides 1
+elides 2
 electrotropism
 europiums 1
 epistoler
@@ -13435,7 +13435,7 @@ electrotechnical 1
 expurge 1
 etas 1
 expressway 1
-existentialists
+existentialists 1
 exencephalous 2
 epoch 2
 endocranial 4
@@ -13959,7 +13959,7 @@ endokaryogamy 2
 enface 3
 electropoion 1
 escheatage
-extraparochial 3
+extraparochial 4
 equicurve 3
 ectophytic 2
 essoiner
