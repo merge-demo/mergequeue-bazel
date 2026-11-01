@@ -1681,7 +1681,7 @@ deappetizing 1
 docksides 2
 dearborn
 dumortierite 4
-dearest
+dearest 1
 derides 3
 dyne
 deposition 2
@@ -10433,7 +10433,7 @@ diphenylene 1
 despend 2
 diphenylenimine 1
 ditcher
-dug
+dug 1
 diphenylhydantoin 2
 dogmatic 1
 diodon

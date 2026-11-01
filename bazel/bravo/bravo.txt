@@ -12372,7 +12372,7 @@ beget
 bluishness
 bedizening
 bulgarian
-bergeres
+bergeres 1
 beele 1
 boonk
 backtack 1
@@ -12672,7 +12672,7 @@ boysenberry
 bororo 1
 benthamite 3
 boogies 2
-biotechnology 1
+biotechnology 2
 bordures 5
 bubbles 2
 bulbine 1
@@ -16749,7 +16749,7 @@ bucolicism 3
 ballett
 bucorvus 3
 bowknots 1
-billheading 2
+billheading 3
 burrower 6
 bahama
 branchiostegidae
