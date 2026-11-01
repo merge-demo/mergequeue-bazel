@@ -11437,7 +11437,7 @@ aneroids 2
 arthogram 1
 apiphobia
 antholysis 1
-antisquama
+antisquama 1
 autolysis
 atrabilious 3
 antianaphylactogen 1
@@ -18229,7 +18229,7 @@ aquocarbonic
 augusti 1
 alectorioid 1
 ashet
-aquopentamminecobaltic 1
+aquopentamminecobaltic 2
 arcady
 aquose
 analogistic
@@ -24319,7 +24319,7 @@ autopoloist 2
 animalculae
 ambles 2
 antiparalytical 1
-autoproteolysis 3
+autoproteolysis 4
 argillomagnesian
 autopsical
 agtbasic 2
