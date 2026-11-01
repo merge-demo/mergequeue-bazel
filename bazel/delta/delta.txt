@@ -273,7 +273,7 @@ daguerreotype
 downspout 1
 dolichopodous 2
 dhotee
-degermed 3
+degermed 4
 doradilla 4
 daguerreotyped
 daguerreotyping 1
@@ -9588,7 +9588,7 @@ digoneutism 1
 differentness
 divisi
 digoxins
-digraphically 3
+digraphically 4
 digrediency
 decenaries 1
 defining 4
