@@ -3726,7 +3726,7 @@ feetless
 firedogs 2
 foalfoot
 flaccidities
-fillings 2
+fillings 3
 furfuryl 3
 fricti 3
 found 1
@@ -4228,7 +4228,7 @@ foolishest 3
 fluviatile 4
 fridge 4
 furtherly 3
-figurative 1
+figurative 2
 fallotomy 2
 firelight
 flab 3
@@ -7799,7 +7799,7 @@ facingly 2
 forjudges 3
 formosan 3
 fluorescigenic 2
-fecundify 4
+fecundify 5
 fleaweed
 forenight 2
 fondak 2
