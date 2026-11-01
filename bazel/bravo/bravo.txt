@@ -5397,7 +5397,7 @@ banstickle 1
 bloodripeness 1
 briquets 1
 babelic 2
-begulf 4
+begulf 5
 blastomycotic
 bakshish 2
 begummed 2
@@ -15693,7 +15693,7 @@ binuclear
 batful 1
 blennogenic 4
 butyric 1
-broadsider 1
+broadsider 2
 burnished
 borrovian 2
 begroaned 1
