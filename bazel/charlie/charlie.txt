@@ -5201,7 +5201,7 @@ conepates
 claudian 1
 cashoo 1
 cashou 1
-castory 2
+castory 3
 casimir
 cartes
 cavities 1
@@ -7801,7 +7801,7 @@ ceratophrys 1
 cerulific 3
 cerulignol
 cerumen
-cerumens 2
+cerumens 3
 ceruminal 2
 costean 2
 chemoautotrophy 1
@@ -9104,7 +9104,7 @@ chylocaulous
 coagulin
 controversional
 charruas 1
-cloamer 1
+cloamer 2
 charshaf
 charsingha
 curvacious
@@ -11383,7 +11383,7 @@ chloroplast
 chloroplastic 2
 chloroplasts
 cosmonautics
-coenamorment 4
+coenamorment 5
 commences
 chiastic 1
 conscienceless
@@ -21337,7 +21337,7 @@ conchubar
 cryptonymic 1
 coplots
 conchuela
-concierge 2
+concierge 3
 concierges
 concile 1
 cotbetty 1
