@@ -8619,7 +8619,7 @@ cynosural 2
 curtness 2
 complementaries 1
 cohesionless 3
-changelessness
+changelessness 1
 changelings 1
 changement 1
 cuissard 1
