@@ -4025,7 +4025,7 @@ bountiful 2
 bunraku
 birdseeds 1
 beakers 1
-beakiron 4
+beakiron 5
 biblicoliterary 1
 brailing 1
 barms
@@ -5030,7 +5030,7 @@ babism 2
 beetrave 2
 bedunces
 bronzings 1
-beetroots 3
+beetroots 4
 becarve
 beeweed 2
 beewise
@@ -11469,7 +11469,7 @@ bluewoods 2
 billposter 2
 bluffable 2
 blicky 1
-bialveolar
+bialveolar 1
 baraca 2
 beseemingness 2
 brunette

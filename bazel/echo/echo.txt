@@ -3577,7 +3577,7 @@ emboscata 6
 exclusionary 1
 ectoglia
 electrometallurgist 3
-embosoming 3
+embosoming 4
 euchlaena 2
 encraal 1
 embossage 2
@@ -12561,7 +12561,7 @@ extinction 3
 envied 1
 enherit 1
 entryman 4
-elkdom 2
+elkdom 3
 eft 1
 eucosia 5
 exmeridian
