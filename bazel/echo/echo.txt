@@ -1079,7 +1079,7 @@ edible 2
 expeditive 1
 embase
 endothelial 1
-embeddable 3
+embeddable 4
 epistolic 1
 echinology
 elective 3
@@ -9174,7 +9174,7 @@ everts 3
 exhorted 2
 eusuchia 3
 esoneural 3
-erotema 5
+erotema 6
 edenize 6
 electrofuse 3
 eroteme
