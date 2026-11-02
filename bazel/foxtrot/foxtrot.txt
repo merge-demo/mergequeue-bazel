@@ -5725,7 +5725,7 @@ freshness 1
 ferrary 1
 fetor 1
 flirty 3
-feculent 3
+feculent 4
 ferulas 2
 frontis
 farced 1
@@ -6834,7 +6834,7 @@ foliaged 2
 firetower 3
 fustigator 3
 fussify 3
-flipjack 1
+flipjack 2
 fourhanded 4
 fabled 3
 furomonazole 2
@@ -8093,7 +8093,7 @@ foyboat 4
 fulminated 3
 foveolae 6
 funkiest 1
-flatcar 2
+flatcar 3
 fingan 3
 furify 1
 foreswore 1
