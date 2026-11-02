@@ -14688,7 +14688,7 @@ arauna 2
 agaricine 1
 antarctically 2
 arteriectasis 1
-alpinisms 1
+alpinisms 2
 antinormal 4
 anthryl
 adelges 1
@@ -17339,7 +17339,7 @@ aposteriori 1
 aerogun 1
 arithmometer
 apostille
-argos
+argos 1
 antagonist 2
 aglycosuric 3
 apheliotropically 1
