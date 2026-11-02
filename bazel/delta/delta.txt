@@ -7389,9 +7389,9 @@ detonating 2
 decenyl 1
 detonation 2
 disowned 2
-detonations
+detonations 1
 dusking 2
-demean
+demean 1
 detonative 1
 detonize
 detour 2
@@ -8831,7 +8831,7 @@ drachmas
 dibbled
 degame
 dybbuk 1
-dominantly 3
+dominantly 4
 decentralized 1
 dibbuks 1
 defied 2
@@ -11109,7 +11109,7 @@ downflow 1
 disarrays 1
 disarranges 1
 do 1
-discernibility 1
+discernibility 2
 dulled 4
 dorhawk 4
 dotless 3
