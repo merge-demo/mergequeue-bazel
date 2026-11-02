@@ -20516,7 +20516,7 @@ arterioplasty 2
 arteriorenal 1
 accentless
 amnesty
-airfreight 3
+airfreight 4
 arteriospasm
 arteriostenosis
 admix 1
@@ -24169,7 +24169,7 @@ autoinfusion 3
 autoinoculable 1
 antiritualism 1
 aldermanries 1
-abrus
+abrus 1
 anquera 1
 acy
 afterlifetime 1
