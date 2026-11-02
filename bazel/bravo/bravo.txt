@@ -2482,7 +2482,7 @@ bargainable 3
 buckraming
 billbugs 3
 bucchero 1
-bargaining
+bargaining 1
 beechwoods
 burian 3
 bhut
@@ -18254,7 +18254,7 @@ bivouacs 1
 bordun 1
 backflip 1
 butterman
-bootblacks 1
+bootblacks 2
 buttermilk 3
 bastardy 1
 buttermonger 2

@@ -918,7 +918,7 @@ gemeinschaften 2
 galt 3
 gametophoric 3
 gorbet 5
-gated 1
+gated 2
 gnashes 3
 glycaemia 3
 grumousness 1
@@ -1484,7 +1484,7 @@ gaseousness
 girllike 2
 grotesque
 garner 5
-gasher 3
+gasher 4
 galaginae 3
 glumly 1
 gunmaker 1

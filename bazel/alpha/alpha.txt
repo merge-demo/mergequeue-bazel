@@ -1328,7 +1328,7 @@ accelerando
 analgize
 argentojarosite 1
 amnesias
-affiliated 2
+affiliated 3
 atom 2
 aiolis 1
 agnized 1
@@ -4722,7 +4722,7 @@ allographic 5
 acrotisms
 alphard 1
 aeluropodous
-aenach
+aenach 1
 aphrodistic 4
 addaxes 1
 affricate
@@ -19064,7 +19064,7 @@ adactylism 1
 alveated 2
 anticous
 archplagiarist
-asinine 1
+asinine 2
 airbrick
 arulo 1
 archpolitician

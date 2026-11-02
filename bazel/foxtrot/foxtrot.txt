@@ -8409,7 +8409,7 @@ frauder 3
 fuseboard 3
 fm 3
 filcher 2
-futhark 3
+futhark 4
 form 3
 fluoroscopes 5
 fullerboard 1
@@ -8563,7 +8563,7 @@ formby 1
 foeture 5
 fumaric 1
 frightment 3
-fanfarons 8
+fanfarons 9
 frownful 1
 fornaxid 2
 foraminule 5
@@ -11622,7 +11622,7 @@ fibrous 2
 fylgja 2
 fosite 2
 funestal 3
-finestiller 1
+finestiller 2
 forehew 2
 fustigatory 1
 fumy 4
