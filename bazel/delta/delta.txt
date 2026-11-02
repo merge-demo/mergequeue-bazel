@@ -716,7 +716,7 @@ deadmelt 2
 danceability
 danceable 1
 demoniacs
-danced 1
+danced 2
 diddled 4
 degasification 1
 dancers 1
@@ -6403,7 +6403,7 @@ drawer 2
 deplorate 4
 disincorporating 1
 deferentially 1
-distenant 1
+distenant 2
 desmology
 dillisk 2
 derotremata 3
@@ -9326,7 +9326,7 @@ diewise 1
 domoid 2
 diezeugmenon 2
 depolymerizing 1
-dread 3
+dread 4
 disorders 2
 dif 1
 dodos 3
@@ -10712,7 +10712,7 @@ dingar
 dumbnesses 1
 diaculum
 depit 1
-dormin
+dormin 1
 digitalize 1
 demurs
 dippier 2
@@ -16603,7 +16603,7 @@ distr 3
 darkhearted 1
 dragonfishes 3
 didelph 2
-dragonflies 1
+dragonflies 2
 deprecated
 didelphian 2
 dragonhood 3
@@ -17080,7 +17080,7 @@ drie 1
 disconcertedness 1
 drawlink 1
 delhi 1
-dries 3
+dries 4
 diphtheriaphor
 disrespectfully
 dingwall 2

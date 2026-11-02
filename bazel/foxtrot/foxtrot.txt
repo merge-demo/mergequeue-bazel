@@ -532,7 +532,7 @@ fleeces 2
 forfeiter 1
 factitial 4
 funambulant 3
-folium 2
+folium 3
 falcons 1
 falculate 2
 fawnery 4
@@ -3212,7 +3212,7 @@ fiches 2
 findjan 1
 feracious 2
 fusilade 1
-foredetermination 2
+foredetermination 3
 flutterers 4
 flavourer 1
 flotages 2
@@ -5498,7 +5498,7 @@ fretwork 4
 forbarred 2
 fratching 3
 foraged 2
-fleshy 4
+fleshy 5
 fillet 2
 ferally 3
 fleshing 5
@@ -6703,7 +6703,7 @@ frequent
 finableness 5
 forecontrive 2
 fenner 3
-flingers 6
+flingers 7
 flaggily 3
 faubourg
 faintheartedly 2
@@ -11048,7 +11048,7 @@ fascias 4
 funambulator 1
 feels 2
 faunological 2
-flinty 1
+flinty 2
 fellatrices 2
 fangless 3
 flycatcher 3
