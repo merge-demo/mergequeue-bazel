@@ -14431,7 +14431,7 @@ anthracosaurus 1
 anthracosis 1
 abox
 anthracothere 3
-anthracotherium
+anthracotherium 1
 anthracotic 1
 anthradiol
 anthraflavic 1
