@@ -15598,7 +15598,7 @@ camelkeeper
 clathrulate 1
 clatter
 cartographers 1
-clattered
+clattered 1
 coxcombries 2
 countering 1
 clatterer
@@ -28841,7 +28841,7 @@ creach 1
 cretacic
 coastwaiter
 cretan
-cymotrichy 3
+cymotrichy 4
 cretefaction
 callisection 1
 creticism 1
@@ -30918,7 +30918,7 @@ cooeed 1
 cultivations 1
 cultivative 1
 cultivator 2
-cultive
+cultive 1
 cultrate 1
 cultrated 2
 cyclitol 1
