@@ -8932,7 +8932,7 @@ foragers 2
 flu 4
 fountain 1
 fragged 3
-fossicker 1
+fossicker 2
 flueman 3
 filosus 3
 faultfinder 4
