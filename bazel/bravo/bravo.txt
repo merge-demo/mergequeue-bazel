@@ -1116,7 +1116,7 @@ boyg 1
 bargestone 1
 breakwind
 burseraceae
-battercake 2
+battercake 3
 belonesite 2
 bairns 1
 bootful 1
@@ -4346,7 +4346,7 @@ beche 1
 becheck 1
 befool 1
 bechic 1
-bechignoned 2
+bechignoned 3
 bacchanalize
 balzacian
 bemercy 1
@@ -12228,7 +12228,7 @@ boloism
 breakthrough
 byplays 1
 boutre 3
-bolshevikian
+bolshevikian 1
 barrandite 6
 bogway
 balms 1
