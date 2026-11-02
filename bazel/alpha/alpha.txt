@@ -4981,7 +4981,7 @@ aeronautical 1
 aeronomer 2
 amyliferous 1
 aumil 1
-aeronomical 1
+aeronomical 2
 anisogametic 1
 aeronomics 3
 anthropopathia 1
@@ -16045,7 +16045,7 @@ antirennin 1
 antirenter
 aldehol 3
 acinacious 1
-astelic 4
+astelic 5
 adviceful
 antirepublicanism 1
 ampulla 1
@@ -20140,7 +20140,7 @@ allenarly 1
 allocutive
 alpines 1
 allolalic 1
-acanthodini 1
+acanthodini 2
 arraignment
 aurophobia
 allolalia 3

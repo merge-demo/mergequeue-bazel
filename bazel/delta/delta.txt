@@ -1172,7 +1172,7 @@ dianoetical 3
 dade 3
 detrited 4
 decrementing 1
-dasyuridae
+dasyuridae 1
 dasyurine 2
 dactylopatagium
 docimastic 2
@@ -7781,7 +7781,7 @@ duvet 3
 dadburned
 decolourising 4
 devoir 1
-destabilizing 2
+destabilizing 3
 devoirs 2
 dholes 2
 devolatilised 1
@@ -11422,7 +11422,7 @@ drossing 2
 dastardy 1
 dockyard 1
 dissuader 5
-demivotary 1
+demivotary 2
 determinoid
 debug 1
 discloser 4
