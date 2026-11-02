@@ -8409,7 +8409,7 @@ frauder 3
 fuseboard 3
 fm 3
 filcher 2
-futhark 3
+futhark 4
 form 3
 fluoroscopes 5
 fullerboard 1
