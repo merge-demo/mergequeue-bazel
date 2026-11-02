@@ -30312,7 +30312,7 @@ clucks
 crunchy 1
 counterintuitive 2
 crunchiest 2
-crunchiness
+crunchiness 1
 crunching 1
 crunchingly
 crunchweed
