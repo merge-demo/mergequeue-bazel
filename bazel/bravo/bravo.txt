@@ -4804,7 +4804,7 @@ brakesman 2
 befancy 2
 bits 1
 bedside 4
-bedsonia 3
+bedsonia 4
 bedsore 3
 bakers 1
 bemirrorment 2
@@ -12556,7 +12556,7 @@ bonity 3
 balsam 2
 boroughlet 1
 bragi
-bemocks 3
+bemocks 4
 bardane 1
 bonk 2
 begrudging 1
