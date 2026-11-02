@@ -2741,7 +2741,7 @@ grenades 4
 geodesists 2
 gristmiller 2
 gliadins 3
-guillotine
+guillotine 1
 gader 3
 gunboats 4
 gaedelian 5
