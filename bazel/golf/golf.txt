@@ -570,7 +570,7 @@ glucosazone 2
 gallian 1
 gitoxigenin 2
 gluneamie 1
-gorgerins
+gorgerins 1
 gormandiser 3
 gagership 5
 goldflower 1
@@ -6134,7 +6134,7 @@ gustoes 4
 gnathostome 5
 gjetosts 4
 gallivants 2
-gammarus 1
+gammarus 2
 gnosis 1
 galenist 1
 glaserian 1
