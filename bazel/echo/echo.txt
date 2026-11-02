@@ -5127,7 +5127,7 @@ exited 1
 endoclinal 3
 eternals 3
 endocoelar
-eupanorthidae 5
+eupanorthidae 6
 ectozoan 2
 epitomical 1
 emuls 1
@@ -6462,7 +6462,7 @@ ensnarer 2
 echinostoma 1
 eobionts 3
 edental 2
-evenmete 1
+evenmete 2
 euctical 3
 ectropionize 4
 eskars
