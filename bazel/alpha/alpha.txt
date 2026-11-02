@@ -12610,7 +12610,7 @@ angwantibo
 anesthetization
 anesthetized 3
 achromotrichia
-anesthetizes 1
+anesthetizes 2
 anestrous
 anterograde 1
 anethene
@@ -21870,7 +21870,7 @@ assyriological
 amowt
 aspergilla
 astrobiology 1
-assyroid
+assyroid 1
 agly 1
 abutted 1
 assish 2
