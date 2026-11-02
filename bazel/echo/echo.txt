@@ -3902,7 +3902,7 @@ eternal 2
 entomotomy
 electrotonus 1
 extraboldface 1
-eminencies 2
+eminencies 3
 evendown
 exterminating 4
 eminent 1
@@ -12846,7 +12846,7 @@ extinctor 3
 eisteddfods 2
 enumerations
 evangelistship 1
-efecks
+efecks 1
 exoticist
 eudipleural 1
 encircled
