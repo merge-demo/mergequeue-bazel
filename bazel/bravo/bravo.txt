@@ -1070,7 +1070,7 @@ braciole 4
 boresomeness 1
 baiocchi 1
 boxy 2
-baiocco 3
+baiocco 4
 bibliomanian 1
 berrylike 3
 burel 1
@@ -14681,7 +14681,7 @@ brassart
 brassarts 1
 brassbounder 1
 brasse
-brassey
+brassey 1
 boxiest 3
 biographically 1
 brassicaceae 5
