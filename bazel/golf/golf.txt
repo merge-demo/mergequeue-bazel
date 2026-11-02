@@ -2495,7 +2495,7 @@ grandity 2
 glossier 5
 girdlelike 5
 gaucher 4
-golds
+golds 1
 gradienter 2
 gotch 6
 glunches 4
