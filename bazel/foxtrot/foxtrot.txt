@@ -5994,7 +5994,7 @@ fumid 1
 fluidizing 2
 folkways 3
 foreplays 1
-fawny 3
+fawny 4
 fluidrachm 4
 fidia 4
 fireproof 1
@@ -8309,7 +8309,7 @@ forenames 3
 forepole 3
 foregame 4
 fraternising 1
-fountaining 4
+fountaining 5
 foursome 1
 fiscalism 2
 forhaile 3
@@ -11032,7 +11032,7 @@ foresights 1
 fora 1
 filiferous 4
 fumarate 2
-flammulated 2
+flammulated 3
 fontainea 1
 frontolysis 5
 fancies

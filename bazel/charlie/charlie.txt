@@ -4734,7 +4734,7 @@ clubability
 captivation 1
 carpets 1
 chant 2
-concolorous 1
+concolorous 2
 carpetweb 1
 change 1
 comeliest 1
@@ -5223,7 +5223,7 @@ casketed
 caskets
 credens
 casky 4
-clearer 1
+clearer 2
 casking
 casks 1
 caspar 2

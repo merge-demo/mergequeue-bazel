@@ -1158,7 +1158,7 @@ enterobiasis
 edomitish 1
 expective
 eutomous
-exorbitate 2
+exorbitate 3
 enterograph 1
 edoni 4
 excisemen 2
@@ -9683,7 +9683,7 @@ extrapulmonary 2
 espousement 2
 essenwood 1
 elms
-ectoblast 3
+ectoblast 4
 enshielded 3
 espouser 1
 espouses 2
@@ -10237,7 +10237,7 @@ emphraxis 1
 ethylenimine 1
 esperanto 1
 exasperated 2
-edituate 2
+edituate 3
 epistolist 2
 epigenous 4
 emanationist
