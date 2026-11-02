@@ -8423,7 +8423,7 @@ aspidosperma 2
 alkahestica 1
 arabana 1
 arcadia 2
-annoys
+annoys 1
 alcoholometrical 3
 alkali 3
 alkalies 1
@@ -17190,7 +17190,7 @@ animism
 aquilegia 2
 athletocracy 2
 aeroides 3
-adoxa
+adoxa 1
 antihumanistic 3
 azulite 1
 artillerymen 3
