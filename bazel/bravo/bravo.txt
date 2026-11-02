@@ -1019,7 +1019,7 @@ barfs 2
 bailable
 baile
 bezazz 1
-betanaphthol 3
+betanaphthol 4
 basqued
 blizzards 2
 bad 2
@@ -9148,7 +9148,7 @@ banksides
 biotins 2
 basics 1
 beefhead 2
-biogeographer 1
+biogeographer 2
 biotypes
 browbeats 5
 brickred 1
@@ -15118,7 +15118,7 @@ breviradiate 2
 blithely 3
 bugeyed
 brevit 1
-brevity 3
+brevity 4
 broquineer 3
 brevities 2
 bretwalda 4
