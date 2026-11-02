@@ -4535,7 +4535,7 @@ gypster 3
 grandniece 2
 gamb 1
 grapey 1
-gomutis 1
+gomutis 2
 gambrel 1
 gumwoods 2
 gills 1
@@ -5033,7 +5033,7 @@ gallingness 1
 grovels 3
 garibaldi 2
 glider 1
-gonocheme 1
+gonocheme 2
 genesiology 2
 garavance 3
 glowed 1
@@ -6873,7 +6873,7 @@ gymsia 3
 gluteoinguinal 1
 gauntlets 3
 glucoprotein 2
-geaster
+geaster 1
 galeas 3
 genitival 1
 geed 2
