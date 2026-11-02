@@ -552,7 +552,7 @@ adore 1
 acetolysis 4
 ataraxies
 amidophosphoric 3
-amyotrophia 2
+amyotrophia 3
 actualize 2
 anba
 aciliated 3
@@ -9812,7 +9812,7 @@ agglomerator 1
 amanitopsis 2
 antireforming
 aspergillums 1
-arteriectomy
+arteriectomy 1
 aeroplane 2
 aposthia 2
 amanous 1
