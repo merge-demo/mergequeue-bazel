@@ -7988,7 +7988,7 @@ bicipital 1
 bewilderedness
 borsht 3
 beslipper 1
-bespatterer
+bespatterer 1
 bicircular 2
 bitemporal 1
 beedged 1
@@ -16919,7 +16919,7 @@ bereaver 4
 buggers 1
 buggy 2
 bakshi 1
-bluestockingish
+bluestockingish 1
 buggier
 bushboy
 bombardon 4
