@@ -6073,7 +6073,7 @@ binauricular 1
 benchership
 bodge 3
 blusters 4
-barragon
+barragon 1
 benchful 1
 benchman 1
 benchmark
@@ -7071,7 +7071,7 @@ bespeaking
 bullalaria 1
 bespeaks 2
 bespecked 2
-backrun
+backrun 1
 bedwards
 bumaree 1
 boehmeria 1
@@ -12945,7 +12945,7 @@ breviloquence 3
 boleros 2
 bucktails
 berthold 2
-boardinghouses 1
+boardinghouses 2
 bootman 3
 boots 2
 bottoms 1
