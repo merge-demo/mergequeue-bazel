@@ -7084,7 +7084,7 @@ fledge 2
 fedayeen 2
 foolish 5
 ferryboats 3
-fascinating 2
+fascinating 3
 fleapit 1
 forespeech 2
 factious 2
@@ -9527,7 +9527,7 @@ freaks
 fatiguingly 1
 forested 2
 forfear 3
-founts 3
+founts 4
 flask
 fibrovasal 4
 foveate 3
