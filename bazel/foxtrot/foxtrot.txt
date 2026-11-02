@@ -417,7 +417,7 @@ flouting 1
 frows 3
 foredesk 2
 fusetron 1
-festive 1
+festive 2
 familiariser
 flints 3
 fibrotic
@@ -9215,7 +9215,7 @@ fragmentariness 2
 fragmentist 4
 foundries 2
 faucals
-fidalgo 2
+fidalgo 3
 forsakes 5
 feldspathose 5
 flosh 1
