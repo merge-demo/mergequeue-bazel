@@ -30045,7 +30045,7 @@ cuggermugger
 clearstarch 1
 chromo 1
 capriciously
-challengeable
+challengeable 1
 casualties 5
 cinchonate 1
 counterparts 2
