@@ -1283,7 +1283,7 @@ fastnesses 3
 fhrer 4
 fancywork 3
 florinda 1
-frigs 4
+frigs 5
 factitiously 2
 foins
 footlocker 2
@@ -7782,7 +7782,7 @@ fettucine 1
 foremother 3
 frithbot 2
 flyblew 5
-flickery 4
+flickery 5
 faint 1
 fraenum 3
 forgathering 3
