@@ -10178,7 +10178,7 @@ artotyrite 1
 ambulator
 ambulatory 3
 additiment
-aluminas 1
+aluminas 2
 affluent
 apanage 1
 ambulatories 3
@@ -19451,7 +19451,7 @@ allative 1
 anallantoidea 3
 archaeoceti 1
 attempting 2
-adighe 1
+adighe 2
 awaked
 autonomically 1
 acaena
@@ -19672,7 +19672,7 @@ affirmatively 1
 aerobacteriological 1
 alfarga
 aristate
-ascesis
+ascesis 1
 aristeas 1
 alertness 2
 armaria
