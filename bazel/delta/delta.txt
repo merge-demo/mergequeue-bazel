@@ -3369,7 +3369,7 @@ dentils
 doles 2
 dagos 1
 deturn 2
-dictative 2
+dictative 3
 defis
 deflagrable 1
 desophistication 3
@@ -16799,7 +16799,7 @@ devaluated 2
 drawcut 1
 drawee
 disboscation 1
-dancetty 1
+dancetty 2
 durn 2
 dissimilarly 4
 disconnectedly 1

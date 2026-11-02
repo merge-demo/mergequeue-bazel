@@ -545,7 +545,7 @@ anatomopathological
 ambitioned 1
 able
 autoplasmotherapy 1
-amphicoelian
+amphicoelian 1
 almners 2
 ablend 1
 adore 1
@@ -22379,7 +22379,7 @@ astrogeology 1
 astrogeologist 1
 ariadne
 anniversaries
-astroglia 1
+astroglia 2
 actify 2
 arcturia 1
 ananas
