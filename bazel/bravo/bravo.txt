@@ -2259,7 +2259,7 @@ brier 1
 bianco 3
 bysen 1
 broadbrim 2
-bactericholia
+bactericholia 1
 bide 2
 bathochromy
 bellman 2
@@ -3862,7 +3862,7 @@ branniest 3
 bawdier 3
 bawdies 1
 bestrow 2
-bricklaying
+bricklaying 1
 backaches 3
 belvidere 1
 bedaggered 1
