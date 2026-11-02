@@ -7252,7 +7252,7 @@ getah 1
 gangion 5
 garlicmonger 5
 governorate
-gourmands 2
+gourmands 3
 glassmaker 3
 generosity 4
 gribble 4
