@@ -1274,7 +1274,7 @@ dimouts 4
 danthonia 1
 discal 1
 dusted 2
-diazoic
+diazoic 1
 denari
 demitasses 3
 datives
