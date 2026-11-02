@@ -8261,7 +8261,7 @@ entozoa 1
 epigenist 2
 exulcerate 1
 enweave 2
-eleostearate 1
+eleostearate 2
 epistlers 3
 epistolarian 1
 elderhood
@@ -10105,7 +10105,7 @@ essoins 2
 exploitee 4
 elenchically 3
 eumolpus 2
-eutopia 3
+eutopia 4
 euphausiacea 3
 entities 3
 ethereality 3
@@ -11972,7 +11972,7 @@ endurance 2
 enlist 1
 epithecate 1
 exactress 4
-enarthroses
+enarthroses 1
 enteromesenteric 2
 epistemophilic 1
 evaporation 3
