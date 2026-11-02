@@ -5928,7 +5928,7 @@ belauding 1
 bimetalic 4
 belter 1
 bufagin
-buyouts 1
+buyouts 2
 ballistic 1
 bestrowing 3
 beltie
@@ -8740,7 +8740,7 @@ bletia 2
 binaries 1
 betuckered 1
 bulginess 6
-berghaan
+berghaan 1
 binaural 3
 blow 1
 binbashi 2
