@@ -2259,7 +2259,7 @@ brier 1
 bianco 3
 bysen 1
 broadbrim 2
-bactericholia
+bactericholia 1
 bide 2
 bathochromy
 bellman 2
