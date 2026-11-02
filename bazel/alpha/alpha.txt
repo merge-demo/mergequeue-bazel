@@ -22825,7 +22825,7 @@ aby 2
 armsful 1
 atmolysis
 atmolyzation 2
-atmolyze 2
+atmolyze 3
 atmologic 1
 anisotropous 1
 alterability
