@@ -5350,7 +5350,7 @@ deadheadism 3
 dentelure
 duftry 2
 dealable 1
-dorsoventrad 1
+dorsoventrad 2
 derider 1
 dorsimesal 1
 disblame
@@ -5374,7 +5374,7 @@ disappropriation 1
 dipmeter 2
 drub 4
 duplications 2
-demonio
+demonio 1
 disemburden 2
 diazenithal 1
 dentinalgia 3
@@ -9052,7 +9052,7 @@ dictating 1
 dabbers
 deglycerine
 disentangler 1
-dictatingly 3
+dictatingly 4
 distichiasis 3
 dictational 2
 dictatory 1
