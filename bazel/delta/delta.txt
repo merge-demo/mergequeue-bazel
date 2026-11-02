@@ -3065,7 +3065,7 @@ deerweed 2
 dollyway 2
 deescalate 1
 deeses 1
-deepfrozen
+deepfrozen 1
 deemphasize 2
 dorsoapical
 diester
@@ -7096,7 +7096,7 @@ domajig 2
 demesmerize 3
 descriptiveness 1
 disorient 2
-desto 1
+desto 2
 disvalues 1
 darted 2
 damselfish 2
@@ -18517,7 +18517,7 @@ demisavage 3
 dissilition 1
 durbars 4
 dissonate 2
-diau 1
+diau 2
 dured 3
 decollated 2
 disparting
