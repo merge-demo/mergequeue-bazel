@@ -5075,7 +5075,7 @@ agronomic 1
 aerotonometry
 antirationally
 adularescent
-aporrhiegma
+aporrhiegma 1
 albruna 1
 allantoidal 2
 aerotonometric 2
@@ -10356,7 +10356,7 @@ amercing
 airfares 2
 america 1
 arrayed
-americanese 2
+americanese 3
 aerobacteriology
 antihemoglobin 3
 academician 1
@@ -15809,7 +15809,7 @@ aminobarbituric 2
 antieugenic 2
 antiphonally 1
 antiphonary 1
-abyes 1
+abyes 2
 amathophobia 2
 alipteria 2
 autonoetic 1
