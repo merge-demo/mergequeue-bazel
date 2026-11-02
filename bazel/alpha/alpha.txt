@@ -7700,7 +7700,7 @@ alcoholometer 2
 acidic 1
 apterygial 2
 averroistic
-actualise
+actualise 1
 arthrolith 2
 administrants
 albumenize 3

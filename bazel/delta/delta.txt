@@ -10333,7 +10333,7 @@ decumary 3
 delf 2
 discounter 2
 dioptometer 1
-deoxidized
+deoxidized 1
 disnature 1
 denudation
 deducement 1
