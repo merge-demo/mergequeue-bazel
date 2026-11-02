@@ -714,7 +714,7 @@ grossify
 gooranut 5
 galvanised 1
 germanistic 1
-gawn 2
+gawn 3
 gladdest 2
 grissen 1
 gersdorffite 2
@@ -8854,7 +8854,7 @@ gainlier 1
 galleyworm 1
 graphostatical
 gaged 3
-greyiaceae
+greyiaceae 1
 gastness 1
 gypsiologist 1
 gneisses 1
