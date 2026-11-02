@@ -1807,7 +1807,7 @@ ghyll 2
 glutinate 4
 gestalten 2
 granodioritic 1
-gangwaymen 2
+gangwaymen 3
 gastrostenosis 2
 gatehouses 2
 grueler 3
@@ -9291,7 +9291,7 @@ gallstone 4
 graduale
 geoffrey
 groenlandicus 1
-glucuronic 3
+glucuronic 4
 goyana 3
 gurge 3
 gangliate 4
