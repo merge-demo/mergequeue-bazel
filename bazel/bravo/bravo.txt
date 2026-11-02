@@ -11702,7 +11702,7 @@ belfast
 bobcats
 binmen
 buddles 1
-beboss 3
+beboss 4
 bardolatry 2
 birthmate
 bestubbled 4
@@ -12654,7 +12654,7 @@ bane
 bellical
 buhrs 3
 bec 4
-bolivares
+bolivares 1
 bunion 1
 bestraddling 2
 booger 2
