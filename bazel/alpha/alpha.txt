@@ -4778,7 +4778,7 @@ antihum 1
 aorists
 aeriality 1
 angiasthenia 2
-acmaea
+acmaea 1
 aerials 1
 asuri 4
 agrologically 1
@@ -23690,7 +23690,7 @@ auriculoparietal
 auriculotemporal 2
 auriferous
 appreciational 1
-axlike 4
+axlike 5
 aurify 1
 aurific 1
 aceology 2

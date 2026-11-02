@@ -6572,7 +6572,7 @@ fissions 3
 fo 4
 fireproofed 2
 fuciphagous 1
-foalfoots
+foalfoots 1
 ficula 4
 futurism 1
 firebrand
@@ -9211,7 +9211,7 @@ firebugs 6
 fertilising 1
 fascinatress 3
 freeborn 2
-fragmentariness 2
+fragmentariness 3
 fragmentist 4
 foundries 2
 faucals
