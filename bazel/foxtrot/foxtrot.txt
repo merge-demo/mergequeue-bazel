@@ -5509,7 +5509,7 @@ fleshliest 3
 fiddlies 5
 faroelite 2
 fleshliness 6
-faceteness 1
+faceteness 2
 fw 1
 flacker 2
 fleshmonger 1
@@ -11519,7 +11519,7 @@ finalis 3
 fissidactyl 4
 fireflaught 2
 filmsetting 2
-forleave 1
+forleave 2
 ferruler 2
 fistic 1
 foreremembered 2
