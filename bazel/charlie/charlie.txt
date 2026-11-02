@@ -10089,7 +10089,7 @@ curing
 chesterfield 1
 chesterfieldian 2
 copulatively
-chestfuls
+chestfuls 1
 chesty 3
 chestier
 collaudation 2
@@ -24373,7 +24373,7 @@ conchyle
 coolie 3
 coprincipal
 cooliman 2
-cooling 3
+cooling 4
 concaver 1
 coolingly 3
 coolingness 1
