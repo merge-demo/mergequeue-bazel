@@ -17249,7 +17249,7 @@ counterbalances 1
 confederated
 cytoplasm
 cleans 1
-crumple 1
+crumple 2
 coalizer
 coalless
 coalmouse
