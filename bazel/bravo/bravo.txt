@@ -1181,7 +1181,7 @@ biasteric
 bajoire 2
 buoys 1
 brawliest 1
-breth 1
+breth 2
 beanfest 1
 baked 2
 blepharydatis 3
@@ -6007,7 +6007,7 @@ becovet
 besaint
 blastoporic 2
 beautifulness 1
-bellow 2
+bellow 3
 bemoan 2
 bookie
 bemoaned 2
