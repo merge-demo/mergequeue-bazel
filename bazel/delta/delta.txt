@@ -6635,7 +6635,7 @@ dreamwhile 1
 desert 3
 darkroom 2
 deescalated 2
-deacidification
+deacidification 1
 denotational
 dissentism 1
 desorb 2
