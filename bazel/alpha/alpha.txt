@@ -9895,7 +9895,7 @@ attractile 1
 abrotin 2
 antheridium 1
 alfiona 2
-alascan 2
+alascan 3
 amatembu 1
 attaint 2
 alloquial 1
@@ -12269,7 +12269,7 @@ asimen 2
 ancylopod
 acneiform 1
 acrider 1
-anatropous 2
+anatropous 3
 antiecclesiastic
 alnico
 apprehensions 1
