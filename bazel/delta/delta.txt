@@ -3785,7 +3785,7 @@ dyostyle 1
 detest 2
 dor 1
 dwale
-disgracia
+disgracia 1
 drillable
 dynamites 3
 distrain 1
