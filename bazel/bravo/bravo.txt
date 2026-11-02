@@ -16728,7 +16728,7 @@ bucksaw
 bids
 bistorta 1
 bedfoot 1
-bariatrics
+bariatrics 1
 bucktooth
 bronchovesicular 1
 bucktoothed 4
@@ -17747,7 +17747,7 @@ bumfs 1
 burnside
 bilharzia 2
 bauk 1
-burnt 2
+burnt 3
 bretelle 1
 backfill 4
 biobibliography
