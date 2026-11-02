@@ -3439,7 +3439,7 @@ errand 1
 exolete
 exemplar 2
 ecliptic
-embatholithic 2
+embatholithic 3
 enfiladed 2
 extradoses 2
 exteriors 1
