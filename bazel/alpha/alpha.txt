@@ -3491,7 +3491,7 @@ acrogynous
 additivity 3
 apesthesia 3
 aloysia 2
-additory 2
+additory 3
 augustin
 appointively 2
 additum 1
@@ -9338,7 +9338,7 @@ affectation 2
 angry
 adiposis
 alphabetised 1
-alphabetiser 1
+alphabetiser 2
 amanda 2
 alphabetized
 alphabetizer 1
@@ -22747,7 +22747,7 @@ ascidiozoa
 arrondissement 1
 arthrodira 1
 aeronef 1
-athwartship
+athwartship 1
 athwartships
 actian
 ablating 4
