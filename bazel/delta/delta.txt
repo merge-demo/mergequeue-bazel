@@ -5845,7 +5845,7 @@ depots
 dasyure 2
 deprave 2
 disanagrammatize 3
-doxologizing 2
+doxologizing 3
 dreidel 2
 dimagnesic 2
 depraver 1
@@ -10024,7 +10024,7 @@ dimplement
 dorosoma 1
 derelictness
 dermatopnagic
-dummkopfs 1
+dummkopfs 2
 dimplier 4
 denudement 2
 dimpsy 2
@@ -14676,7 +14676,7 @@ dignified 1
 darioles 1
 djin 3
 disrespondency 1
-describe 1
+describe 2
 dowers 3
 doxies 1
 dieselize 1

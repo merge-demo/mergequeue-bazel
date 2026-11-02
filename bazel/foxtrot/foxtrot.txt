@@ -1712,7 +1712,7 @@ feasibly 5
 fashionmonger 6
 flighted 1
 fascio
-floats 2
+floats 3
 filicin 3
 fomites 6
 fortravail 2
@@ -5098,7 +5098,7 @@ fiendliest 1
 forelay
 flinches 1
 forewent 3
-flashed 1
+flashed 2
 faldistory 4
 fidejussion 4
 fecundated 1
