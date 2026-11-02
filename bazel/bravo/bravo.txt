@@ -10400,7 +10400,7 @@ bragged 3
 buonamano
 botong 3
 breaker 1
-blanketlike
+blanketlike 1
 brimborion
 blankets 1
 bhoot 3
@@ -10976,7 +10976,7 @@ bunodonta 2
 botaurinae 3
 blisteringly
 branchedness 2
-barlow 2
+barlow 3
 bicuspids
 blithe 1
 burliest
