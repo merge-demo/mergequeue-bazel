@@ -431,7 +431,7 @@ dayrooms 1
 deities 3
 dodrantal 1
 dhourra
-discoursers 2
+discoursers 3
 dairous 1
 dairt 2
 dais 1
@@ -14945,7 +14945,7 @@ dreadless
 demophile 1
 discoursively 1
 dodman 3
-dodoma 3
+dodoma 4
 demonised 1
 drugman 1
 dendrocalamus 2

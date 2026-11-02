@@ -4960,7 +4960,7 @@ cartilaginous 1
 carting 2
 coulometry
 cartist 1
-cartloads 1
+cartloads 2
 clicket 2
 cartmaking
 cartobibliography
@@ -17729,7 +17729,7 @@ coconsciousness
 coconsecrator
 confirmingly
 contramure
-coconuco 2
+coconuco 3
 coconut
 coconuts
 cocoon 1
@@ -18247,7 +18247,7 @@ coffeeman
 classico 1
 coffeepots 2
 colloidize
-coffeeroom
+coffeeroom 1
 coffees 1
 counterview
 continuant
@@ -31728,7 +31728,7 @@ cusswords 4
 calorizer
 capernoitie 1
 carian 1
-custerite 1
+custerite 2
 custodee 2
 custodian
 custodians 3
