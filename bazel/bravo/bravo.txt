@@ -9106,7 +9106,7 @@ budzart
 balanoglossida 1
 bodysuit
 beauts 4
-biosome
+biosome 1
 boodledom 1
 biospeleology 2
 biosphere 1
