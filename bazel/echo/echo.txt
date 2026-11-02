@@ -2331,7 +2331,7 @@ electroacoustical 3
 elfkin 1
 exradius 3
 electroacoustics 5
-enthetic
+enthetic 1
 exundation 1
 electroanesthesia 2
 electroballistics
@@ -10844,7 +10844,7 @@ educes 1
 echini 3
 educationally 2
 embassiate 1
-eligibilities 2
+eligibilities 3
 endostomata 1
 envineyard
 enchase 1
