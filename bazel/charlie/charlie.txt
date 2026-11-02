@@ -20185,7 +20185,7 @@ chappie 1
 cowlick 2
 commodata
 commodate 1
-clerics
+clerics 1
 commodation
 capmint 1
 coft
@@ -22531,7 +22531,7 @@ championlike
 conjures 2
 conjuring
 cricetine 2
-conk 1
+conk 2
 canonises
 cryptopine
 conkanee 1
@@ -29573,7 +29573,7 @@ coadunating
 critters 5
 crittur
 cardiokinetic 3
-consular
+consular 1
 crivetz
 constraint 1
 coenogenetic 1
