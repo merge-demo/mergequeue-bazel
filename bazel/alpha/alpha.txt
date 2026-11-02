@@ -266,7 +266,7 @@ admonition
 aquamaniles 3
 aristolochiales 1
 abdicant 1
-abhorrence 1
+abhorrence 2
 abdications 1
 anthropomorphizing
 adze 2
@@ -1390,7 +1390,7 @@ anglican 2
 anticompetitive 2
 amadavat
 acceptors 1
-antifreezes 1
+antifreezes 2
 acervuline 1
 antibacteriolytic
 acceptress
@@ -2080,7 +2080,7 @@ acheulean 3
 accustoms 1
 acumens 2
 achy 2
-absconds
+absconds 1
 airtime 2
 anthologion 1
 aphagia
