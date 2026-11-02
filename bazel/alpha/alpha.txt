@@ -3102,7 +3102,7 @@ amsterdam 1
 athyroidism
 atmosteon 1
 arhythmic 3
-antimartyr
+antimartyr 1
 alphonso
 agrionia 1
 antifeudal
@@ -9579,7 +9579,7 @@ antepileptic 1
 amuse 1
 aspersors 1
 altruists
-altun
+altun 1
 anisomeles 1
 alimentary 1
 autoharp
@@ -14853,7 +14853,7 @@ azoology
 atmas
 astrognosy 1
 autospray 1
-apenteric 1
+apenteric 2
 antimachinery 2
 anticyclic 1
 arrondi
@@ -19620,7 +19620,7 @@ adversariness 2
 antistrophize
 attritional
 absorbingly 1
-airheads 1
+airheads 2
 apposing 1
 arikara 1
 anthracomartus 2
