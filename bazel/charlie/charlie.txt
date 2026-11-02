@@ -7102,7 +7102,7 @@ confluences 2
 centigrams
 centile
 cendre
-caudatum 1
+caudatum 2
 catamited 1
 centiliter 3
 cadent
