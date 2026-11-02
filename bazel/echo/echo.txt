@@ -2594,7 +2594,7 @@ entrenched 2
 electrobrasser 1
 entertainable
 etua 1
-enantioblastous 3
+enantioblastous 4
 eruginous
 eighteenthly
 ensnarl 1
@@ -6074,7 +6074,7 @@ enlargeable 2
 eigenvectors
 echinorhinus 1
 eoanthropus 6
-enlargeableness
+enlargeableness 1
 enlarged 1
 eupepsias 2
 emydinae 2
@@ -8788,7 +8788,7 @@ electrocardiograms 3
 earlaps 2
 epistolise 4
 etherized
-eurylaimi 3
+eurylaimi 4
 expedients 2
 extime 2
 enterozoan 2
