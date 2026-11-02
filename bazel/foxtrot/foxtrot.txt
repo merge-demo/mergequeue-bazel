@@ -1712,7 +1712,7 @@ feasibly 5
 fashionmonger 6
 flighted 1
 fascio
-floats 2
+floats 3
 filicin 3
 fomites 6
 fortravail 2
@@ -11032,7 +11032,7 @@ foresights 1
 fora 1
 filiferous 4
 fumarate 2
-flammulated 2
+flammulated 3
 fontainea 1
 frontolysis 5
 fancies
