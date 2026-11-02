@@ -7730,7 +7730,7 @@ embreathe 3
 equidensity 2
 ephebic 3
 enforcer 4
-execrably
+execrably 1
 epipleurae 2
 etiological 2
 ephapse 2
