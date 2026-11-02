@@ -17671,7 +17671,7 @@ coffeeleaf
 catatoniac 2
 cocillana 1
 cyrtolite 1
-cocin
+cocin 1
 colluders
 cocinera 1
 cocircular
@@ -18694,7 +18694,7 @@ congreet
 canvasses 1
 coiture 3
 cabot
-cannonade
+cannonade 1
 conglobation 1
 cojusticiar
 confessionalian
