@@ -1952,7 +1952,7 @@ endict 1
 exarchateship 2
 elementalist 3
 ejaculatory 1
-erdvark 2
+erdvark 3
 elishah 1
 ejectively 2
 enfierce 2
@@ -3186,7 +3186,7 @@ emmarble 1
 elaborate
 evinced
 egghead 1
-entertainingness 2
+entertainingness 3
 envisagement 3
 eichbergite
 eureka 3
@@ -3548,7 +3548,7 @@ emuscation 1
 estriols 1
 enfoeffment
 exothermic 1
-exanthematous 2
+exanthematous 3
 ergographic 3
 entozoon 2
 emboweled 3

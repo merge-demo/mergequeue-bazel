@@ -479,7 +479,7 @@ fanciers 1
 foreclosures 3
 fleetful
 fuseau 4
-fakeer 3
+fakeer 4
 fissiparism 3
 fretting 1
 featherleaf 2
@@ -6306,7 +6306,7 @@ fluxibility 2
 flummer 4
 flickerproof 1
 flintlocks 1
-fistnote 1
+fistnote 2
 funori 2
 fettling 1
 fusionism 2
@@ -9880,7 +9880,7 @@ frozenly 5
 fibropericarditis 1
 feverless 4
 filibusters 6
-forgiven 5
+forgiven 6
 fastuously 3
 forcelessness 2
 flintstone 3
@@ -10899,7 +10899,7 @@ fleets
 flivver 2
 fletched 2
 fullmouthed 3
-firesafeness 2
+firesafeness 3
 fullom
 flirtations 2
 finagler 2
