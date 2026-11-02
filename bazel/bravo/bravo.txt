@@ -2565,7 +2565,7 @@ brio 2
 baryphonia 1
 bootie 1
 bronzesmith
-banzai 1
+banzai 2
 baris
 bodefulness
 bearleap
@@ -11194,7 +11194,7 @@ boulevardiers
 bicyclists 1
 brooching 1
 boththridia 2
-bereavers 4
+bereavers 5
 bloopers 2
 bloops 3
 begumming 3
