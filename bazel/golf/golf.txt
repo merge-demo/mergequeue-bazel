@@ -1888,7 +1888,7 @@ geodic 1
 galacturia 4
 gardenwise 1
 grabber 6
-gatherers 3
+gatherers 4
 galumph 2
 gooma 3
 gamenesses 2
@@ -4294,7 +4294,7 @@ graveclothes 2
 goatlike 2
 gregos 3
 gigantesque 3
-grousing 2
+grousing 3
 gumlike 2
 gabfests 4
 granulate 2
@@ -5996,7 +5996,7 @@ gyve 2
 graspers 2
 giallolino
 greige 3
-gainstrive 4
+gainstrive 5
 garmenture 3
 gingles 1
 gaols 2
@@ -8488,7 +8488,7 @@ golfing
 graveclod 2
 genl 1
 gibaro 2
-gibblegabbler 3
+gibblegabbler 4
 graffias 4
 garum 4
 glisteningly 3
