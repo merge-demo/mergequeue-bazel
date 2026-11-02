@@ -4734,7 +4734,7 @@ clubability
 captivation 1
 carpets 1
 chant 2
-concolorous 1
+concolorous 2
 carpetweb 1
 change 1
 comeliest 1
@@ -15205,7 +15205,7 @@ caplan
 cloisteral 1
 cardiemphraxia 1
 compresses
-choosableness 2
+choosableness 3
 clairsentient 1
 confrontationism
 conceder
