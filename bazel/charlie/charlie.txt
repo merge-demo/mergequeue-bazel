@@ -21962,7 +21962,7 @@ canteens 3
 coinsurable 1
 coexclusive 2
 clinohedrite 1
-configurating
+configurating 1
 configuration 1
 configurationally 2
 configurations
