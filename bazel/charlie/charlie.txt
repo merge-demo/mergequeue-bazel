@@ -2321,7 +2321,7 @@ canalete
 canali 2
 canalicular
 convenance 1
-curatial 2
+curatial 3
 canaliculate 1
 ceremoniously 1
 canaliculated 2
@@ -6609,7 +6609,7 @@ cebell
 crystallite
 cecidogenous 2
 cebid
-coutel 2
+coutel 3
 cebidae 1
 chlorophyllan
 contributors 2
@@ -26312,7 +26312,7 @@ consultative 1
 chacoli 1
 costopneumopexy
 collusiveness 2
-cicerone
+cicerone 1
 costosternal 1
 costothoracic 3
 costotome 1
