@@ -28732,7 +28732,7 @@ cocircularity 1
 clericity 1
 crepey 1
 chiru
-constringe
+constringe 1
 coincides
 crepy
 crepiest 1
