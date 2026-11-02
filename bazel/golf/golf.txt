@@ -2495,7 +2495,7 @@ grandity 2
 glossier 5
 girdlelike 5
 gaucher 4
-golds
+golds 1
 gradienter 2
 gotch 6
 glunches 4
@@ -3828,7 +3828,7 @@ greenland 1
 gavialoid 1
 gulancha 5
 gorblimey 1
-grumbly 2
+grumbly 3
 genealogies 5
 geodaesia 2
 gorger 3
