@@ -7291,7 +7291,7 @@ cataractous 2
 chimera
 chilotomies
 chimar 1
-captious
+captious 1
 centurist 1
 coroners 1
 cherishes
@@ -13850,7 +13850,7 @@ cynhyena
 chondromalacia
 cicisbei 1
 cynias
-cryptanalytical 1
+cryptanalytical 2
 cyniatrics 1
 cynical 1
 colorectostomy 1
@@ -27577,7 +27577,7 @@ coveter 1
 covetise 1
 coregonidae 1
 canaba 1
-conoplain 1
+conoplain 2
 covetiveness
 cerargyrite
 covetous 1
