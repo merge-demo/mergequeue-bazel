@@ -1438,7 +1438,7 @@ deflationist 3
 dawkin
 diploidy 2
 digresses 1
-demiurgical 3
+demiurgical 4
 dawning 2
 desocialize
 dawnlike 2
@@ -5492,7 +5492,7 @@ declamation 2
 deoxidisation 1
 dissolubility 1
 deadest 4
-devoiced
+devoiced 1
 dorsiventrality 2
 deoxidize
 doryphoros 1
@@ -13445,7 +13445,7 @@ dardanium 1
 disreputableness 2
 dittologies
 dispersiveness
-dading 1
+dading 2
 defamous 4
 diphyesis 2
 darnix 1
@@ -13591,7 +13591,7 @@ doggereler 1
 drawlers 2
 dosadh 3
 distingue 1
-diseurs 1
+diseurs 2
 depuration 3
 daffodowndilly 1
 dieffenbachia 3
@@ -17986,7 +17986,7 @@ dulce 1
 disquietedly 3
 desulphurising 4
 dulcetly 4
-debtful 1
+debtful 2
 digladiation 3
 dulcets 1
 discordantly 2
@@ -18562,7 +18562,7 @@ dig 1
 durrs 2
 durukuli 2
 disanimated 2
-dyslexic 4
+dyslexic 5
 defortify
 decentration
 dush 2
