@@ -5757,7 +5757,7 @@ depolarize 3
 dextrorsal 1
 decouple 1
 downstroke 1
-diaphany 2
+diaphany 3
 downloads 2
 diazotizability
 droves 1
@@ -15922,7 +15922,7 @@ dissemblies 1
 decamerous 1
 desaminase 2
 downcried 1
-dziggetai 2
+dziggetai 3
 dewaxes 5
 daydream 1
 dotages
