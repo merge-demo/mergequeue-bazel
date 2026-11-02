@@ -2195,7 +2195,7 @@ forthtell 3
 fishworker 2
 feltwort 2
 fastidiosity 2
-felwort 4
+felwort 5
 fathearted 3
 faciobrachial 2
 fairsome 4
@@ -2897,7 +2897,7 @@ fackins 2
 firefighters 1
 footstall
 fettucini
-fungiferous 1
+fungiferous 2
 fistulate 3
 fruitlet 1
 froglike 1
@@ -5509,7 +5509,7 @@ fleshliest 3
 fiddlies 5
 faroelite 2
 fleshliness 6
-faceteness 1
+faceteness 2
 fw 1
 flacker 2
 fleshmonger 1
@@ -11519,7 +11519,7 @@ finalis 3
 fissidactyl 4
 fireflaught 2
 filmsetting 2
-forleave 1
+forleave 2
 ferruler 2
 fistic 1
 foreremembered 2
