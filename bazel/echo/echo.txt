@@ -13450,7 +13450,7 @@ excecation
 elem 3
 evaluable 3
 epitomization 1
-enzymolysis
+enzymolysis 1
 extrusile 4
 exorate 1
 expropriator 4
