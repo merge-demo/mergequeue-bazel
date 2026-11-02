@@ -14199,7 +14199,7 @@ disutilize 3
 doldrum 1
 dramatists 3
 dicer
-damage
+damage 1
 daboia 1
 defenselessly 3
 derotrematous 4
