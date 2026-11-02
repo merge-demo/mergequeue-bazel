@@ -22805,7 +22805,7 @@ atlases
 annulling 1
 apropos
 amplificator 1
-atloid 1
+atloid 2
 atloidean
 arousals
 astonished 1
