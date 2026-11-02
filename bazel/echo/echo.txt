@@ -1158,7 +1158,7 @@ enterobiasis
 edomitish 1
 expective
 eutomous
-exorbitate 2
+exorbitate 3
 enterograph 1
 edoni 4
 excisemen 2
@@ -9718,7 +9718,7 @@ essart
 edulcorative 1
 esse
 evangelizing
-elementarism 4
+elementarism 5
 embryol 1
 escopette 4
 external 1
@@ -11495,7 +11495,7 @@ erin 1
 etouffe 2
 extravertively 2
 erbium 4
-emulgens 3
+emulgens 4
 enlistees
 eidolic 3
 electrophotometer 4

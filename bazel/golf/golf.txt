@@ -1345,7 +1345,7 @@ growingupness 2
 garlandless 3
 ganocephalan 2
 guillotiner 2
-greenalite 1
+greenalite 2
 galvanist 8
 geoside 3
 glomerulus 4
@@ -8143,7 +8143,7 @@ granulators
 gripper 1
 gynaecocracy 1
 guanidins 3
-gabblers 4
+gabblers 5
 gnatsnap 5
 goatling 1
 granulet

@@ -5061,7 +5061,7 @@ demographers 2
 denaturants
 docilely 1
 dueller 1
-denaturing 2
+denaturing 3
 duplicand 2
 denaturise 1
 disfigures 1
@@ -15025,7 +15025,7 @@ distrains 1
 distinctify 4
 determ 1
 doggerel 2
-doggerelism 3
+doggerelism 4
 doggerelist 2
 desperate 3
 doggerelizing 2
