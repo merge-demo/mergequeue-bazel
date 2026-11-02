@@ -6167,7 +6167,7 @@ completedness
 catur
 catvine
 cerebellospinal 1
-coordinated
+coordinated 1
 correlativeness
 crosstied 1
 circumjacencies 1
@@ -30982,7 +30982,7 @@ consumptiveness 2
 congeries 3
 cumberer
 cumbering 1
-cumberland
+cumberland 1
 codefendants 1
 cumberless
 coix
