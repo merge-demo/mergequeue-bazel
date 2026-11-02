@@ -5928,7 +5928,7 @@ belauding 1
 bimetalic 4
 belter 1
 bufagin
-buyouts 1
+buyouts 2
 ballistic 1
 bestrowing 3
 beltie
