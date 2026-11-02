@@ -8123,7 +8123,7 @@ dharmsala
 diacoelia 2
 desmolase 1
 dextroduction 2
-dupping
+dupping 1
 diabolise 2
 diabolising
 diabolist 1
@@ -9242,7 +9242,7 @@ decorament 1
 dollface 1
 divined 3
 disinsectization 1
-dislegitimate 2
+dislegitimate 3
 drawcard 2
 digitaliform 3
 diemakers 3
