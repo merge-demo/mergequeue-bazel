@@ -5845,7 +5845,7 @@ depots
 dasyure 2
 deprave 2
 disanagrammatize 3
-doxologizing 2
+doxologizing 3
 dreidel 2
 dimagnesic 2
 depraver 1
@@ -14676,7 +14676,7 @@ dignified 1
 darioles 1
 djin 3
 disrespondency 1
-describe 1
+describe 2
 dowers 3
 doxies 1
 dieselize 1
@@ -15025,7 +15025,7 @@ distrains 1
 distinctify 4
 determ 1
 doggerel 2
-doggerelism 3
+doggerelism 4
 doggerelist 2
 desperate 3
 doggerelizing 2
