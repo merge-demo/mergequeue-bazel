@@ -12791,7 +12791,7 @@ duplicatus 1
 derepression 1
 dysluite
 delicto
-dislustered
+dislustered 1
 delectate
 drollish
 desertions 1
