@@ -4625,7 +4625,7 @@ exeunt 1
 elucubrate
 excellent 1
 exarchs 3
-egotists 5
+egotists 6
 equinities 2
 enchyma 3
 estheticism 3
@@ -6892,7 +6892,7 @@ electrochemical
 entomophthorales 2
 erythrodextrin
 enfeoffed 1
-estruses 2
+estruses 3
 extremism 3
 epaulets 2
 evitable
@@ -7764,7 +7764,7 @@ engraff 3
 ecce 3
 epichilia
 egoism 2
-embrocating 1
+embrocating 2
 embosom 3
 exchanger 2
 epidymides 1
@@ -10071,7 +10071,7 @@ editorially 4
 entitlement 2
 ethanolamine
 ephemeralness
-equidense 3
+equidense 4
 ethanolysis 1
 excretion 2
 ensepulcher 2
@@ -12483,7 +12483,7 @@ ethicality 2
 exilement 1
 escalading
 escheatable 2
-exility 3
+exility 4
 exanthem
 eyestones 3
 educatory 2
@@ -13659,7 +13659,7 @@ evirate 1
 elevon 2
 elizabethanism 1
 exteriorisation 2
-exteriorised 2
+exteriorised 3
 ecrus 2
 entapophysis
 epithem

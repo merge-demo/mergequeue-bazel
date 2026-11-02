@@ -417,7 +417,7 @@ flouting 1
 frows 3
 foredesk 2
 fusetron 1
-festive 1
+festive 2
 familiariser
 flints 3
 fibrotic
@@ -5020,7 +5020,7 @@ frescoes 2
 functioned 1
 foremartyr 2
 fiddlewood 1
-filet 2
+filet 3
 fluctuable 3
 faceable 3
 frowsier 3
@@ -6919,7 +6919,7 @@ fragmented 3
 fishback 3
 formyls 3
 fulwa 2
-fideicommission 3
+fideicommission 4
 formeret 3
 filibusterous 1
 freeway
@@ -9215,7 +9215,7 @@ fragmentariness 2
 fragmentist 4
 foundries 2
 faucals
-fidalgo 2
+fidalgo 3
 forsakes 5
 feldspathose 5
 flosh 1

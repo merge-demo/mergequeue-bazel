@@ -740,7 +740,7 @@ banksman 1
 bifrost
 badiaga 1
 breathy 1
-boneshaw 3
+boneshaw 4
 bannerman 4
 bushmanship 1
 badigeon 3
@@ -1722,7 +1722,7 @@ balsamiticness 5
 benzoylating
 boldheartedly 3
 balsamorrhiza 4
-burkei 2
+burkei 3
 breakerman 2
 balsams 2
 beseechingness 2
@@ -15426,7 +15426,7 @@ braata 3
 bereave
 bono 3
 beflout 1
-benetted 1
+benetted 2
 bludgeoner
 bota 1
 bifurcations 3
