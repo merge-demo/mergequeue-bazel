@@ -5209,7 +5209,7 @@ diazoamino
 denitrifier 3
 denizenation 1
 diquats 2
-deflectionization 1
+deflectionization 2
 drumbler 4
 denizenship
 dis 2
@@ -17195,7 +17195,7 @@ diaphoresis 2
 decursive 1
 depletory 2
 drive 4
-diastrophism 1
+diastrophism 2
 dehair 4
 deermeat 2
 disgustingness
