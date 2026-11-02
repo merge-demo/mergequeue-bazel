@@ -8767,7 +8767,7 @@ diaulic
 decorably 1
 doge 4
 dulses
-diazepams
+diazepams 1
 diazeutic 1
 dermises 1
 dittogram
@@ -12236,7 +12236,7 @@ detector 2
 dampers 1
 deviators 2
 dysfunctions 1
-disfurnish 2
+disfurnish 3
 deport 1
 disfurnished 1
 dangerless
