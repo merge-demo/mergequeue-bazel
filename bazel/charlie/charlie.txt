@@ -6463,7 +6463,7 @@ conynge
 cancelability
 churning 1
 cossetted
-cavatina 1
+cavatina 2
 concent
 chawl
 cavatine 1
@@ -11562,7 +11562,7 @@ chold
 choleate 1
 cholecyanine
 couchee
-cholecystectasia
+cholecystectasia 1
 cholecystectomy 1
 cingulum
 clammier 2
