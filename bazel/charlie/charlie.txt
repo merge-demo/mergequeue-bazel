@@ -2284,7 +2284,7 @@ celtdom
 coquina 1
 conceivers
 canafistola
-canafistolo 2
+canafistolo 3
 canafistula
 canafistulo
 chlorapatite 2
@@ -29152,7 +29152,7 @@ credit 2
 coelacanthini
 cacodorous 1
 crioceras 1
-crioceratite 1
+crioceratite 2
 cinefaction
 crioceratitic 2
 companionably 1
