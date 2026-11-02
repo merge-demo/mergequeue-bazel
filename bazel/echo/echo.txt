@@ -1414,7 +1414,7 @@ endowing
 erasions 2
 ericoid 2
 entosterna 1
-excoct 3
+excoct 4
 encashable
 enzymes
 efflorescing 2
@@ -9855,7 +9855,7 @@ estherian 1
 eyebolt 3
 ecbatic 1
 esthesiogen 2
-entophyte 2
+entophyte 3
 epoophoron 3
 esthesiogeny 2
 embryographic 2
