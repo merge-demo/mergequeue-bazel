@@ -6428,7 +6428,7 @@ blowup 1
 benzothiazine 1
 benzothiazoline 1
 bitripartite 2
-bregmata
+bregmata 1
 benzothiodiazole 2
 bergamiol 1
 bumpering 2
@@ -11438,7 +11438,7 @@ blancmange 4
 blazingly 1
 bluesy 1
 bluesman 1
-bromisms
+bromisms 1
 beaverkill 2
 bluesmen 1
 bluestems 1
