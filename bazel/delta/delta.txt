@@ -15664,7 +15664,7 @@ doozies 3
 dopa
 demobilisation 1
 determine
-dopchick
+dopchick 1
 dopebook 3
 demonstrator 4
 discased 1
