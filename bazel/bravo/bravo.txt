@@ -2614,7 +2614,7 @@ behn 1
 barkhan 1
 batman 2
 blastoderm 1
-balistarii 1
+balistarii 2
 belostoma 1
 bumpkinly
 broncs 2
@@ -12632,7 +12632,7 @@ betattered 1
 betided 1
 belluine
 bushgoats
-bewrite 1
+bewrite 2
 beaklike 1
 bloodlessly 3
 bewrayed 3
