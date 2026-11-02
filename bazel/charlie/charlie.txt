@@ -21231,7 +21231,7 @@ cumbersome 2
 concerning
 chubsucker 1
 concerningly 2
-checked
+checked 1
 concerningness 2
 cogence 2
 concerns
@@ -23093,7 +23093,7 @@ curiality 1
 constablery 2
 carefulness
 cowgate 1
-chkalik 2
+chkalik 3
 clysmian
 corymbs
 constablewick
@@ -31599,7 +31599,7 @@ creatinine
 cururos 1
 courters 1
 catawbas
-cleave
+cleave 1
 cornett 1
 cheet
 chaton
