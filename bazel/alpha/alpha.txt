@@ -3102,7 +3102,7 @@ amsterdam 1
 athyroidism
 atmosteon 1
 arhythmic 3
-antimartyr
+antimartyr 1
 alphonso
 agrionia 1
 antifeudal
@@ -6012,7 +6012,7 @@ anticommunistic
 archt
 actinomycetal 1
 aggroupment 1
-aghan 1
+aghan 2
 aghas 2
 aghori 2
 affecters
@@ -9579,7 +9579,7 @@ antepileptic 1
 amuse 1
 aspersors 1
 altruists
-altun
+altun 1
 anisomeles 1
 alimentary 1
 autoharp
@@ -10941,7 +10941,7 @@ atwin 1
 acquainted
 arched
 amoebaeum 2
-athogen 1
+athogen 2
 amoebalike 1
 amoebas 1
 asmolder 1
@@ -14853,7 +14853,7 @@ azoology
 atmas
 astrognosy 1
 autospray 1
-apenteric 1
+apenteric 2
 antimachinery 2
 anticyclic 1
 arrondi
@@ -16668,7 +16668,7 @@ adiaphorous
 antihumanism 2
 alioth
 antimosquito 2
-ammochryse 1
+ammochryse 2
 anocithesia
 aberrance 1
 apertures 3
@@ -19620,7 +19620,7 @@ adversariness 2
 antistrophize
 attritional
 absorbingly 1
-airheads 1
+airheads 2
 apposing 1
 arikara 1
 anthracomartus 2
@@ -20643,7 +20643,7 @@ antiliberals
 aquamanalia 2
 anserous 3
 acequias
-amynodon
+amynodon 1
 arthrosis
 anapterygota 1
 aeromagnetic 1
