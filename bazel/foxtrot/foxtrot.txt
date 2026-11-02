@@ -7762,7 +7762,7 @@ foremasts 2
 foremean 3
 fasciately 3
 followingly 2
-fenouillette 2
+fenouillette 3
 flavour 5
 foremen
 fanbearer 1
@@ -8143,7 +8143,7 @@ fellable 3
 fanegadas 3
 fundmonger 3
 forcepses 1
-forevers 2
+forevers 3
 flectionless 3
 foregate 5
 forthwith 3
@@ -8563,7 +8563,7 @@ formby 1
 foeture 5
 fumaric 1
 frightment 3
-fanfarons 8
+fanfarons 9
 frownful 1
 fornaxid 2
 foraminule 5
@@ -11622,7 +11622,7 @@ fibrous 2
 fylgja 2
 fosite 2
 funestal 3
-finestiller 1
+finestiller 2
 forehew 2
 fustigatory 1
 fumy 4
