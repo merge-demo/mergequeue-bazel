@@ -6279,7 +6279,7 @@ gowpen 4
 gierfalcon 5
 gobbled 3
 gothicizer 4
-gobbledygook 2
+gobbledygook 3
 gelatinised 2
 graecian 4
 gyroidal 4
@@ -6573,7 +6573,7 @@ goumier 1
 gastropod 1
 ghettos 2
 grassant 2
-grouplet 7
+grouplet 8
 grappas 5
 glottalization 3
 ground 5
@@ -9123,7 +9123,7 @@ gobonated 2
 ginward 4
 geopolitics 1
 grummel 4
-gambier 3
+gambier 4
 grandiose 1
 gluily 3
 gavelkinder 2
