@@ -7711,7 +7711,7 @@ cern
 cavaliership
 cityward 1
 croquet
-cerniture
+cerniture 1
 cernuous
 cerographer 1
 contestants
@@ -26314,7 +26314,7 @@ costopneumopexy
 collusiveness 2
 cicerone
 costosternal 1
-costothoracic 2
+costothoracic 3
 costotome 1
 carbonnieux
 costotomy 1
@@ -30312,7 +30312,7 @@ clucks
 crunchy 1
 counterintuitive 2
 crunchiest 2
-crunchiness
+crunchiness 1
 crunching 1
 crunchingly
 crunchweed

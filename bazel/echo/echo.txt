@@ -768,7 +768,7 @@ easternizing 3
 ecoute 1
 exscinding 2
 ecphonema 2
-emotes 2
+emotes 3
 echinal 4
 euomphalid
 egger 1
@@ -1804,7 +1804,7 @@ epigonism 1
 enfranch
 eyespots 1
 epexegetically
-eyewaiter 4
+eyewaiter 5
 eogaea 3
 episepalous
 emanium 4
@@ -3402,7 +3402,7 @@ egoist 1
 embargoes 4
 endocrinologist 2
 enc 3
-eavedropper 3
+eavedropper 4
 embark 1
 epichorial 2
 embarkations 3
@@ -12695,7 +12695,7 @@ eunicidae
 errantries
 eligible 1
 emunctory 3
-ecliptically 3
+ecliptically 4
 esotericist 2
 erie 2
 emparadise 2
