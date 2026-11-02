@@ -141,7 +141,7 @@ circumcised 1
 cabiric
 cataclysm 2
 cable 1
-cablecast
+cablecast 1
 cardiolith 1
 catholici 1
 crudes
@@ -30045,7 +30045,7 @@ cuggermugger
 clearstarch 1
 chromo 1
 capriciously
-challengeable
+challengeable 1
 casualties 5
 cinchonate 1
 counterparts 2
@@ -30287,7 +30287,7 @@ crumper 3
 conglobulate
 crumpet 1
 crumping 1
-compressions 2
+compressions 3
 crumpled
 chorten 2
 crumply 3
