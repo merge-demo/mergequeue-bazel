@@ -3809,7 +3809,7 @@ adiated 1
 ammodytidae 1
 adiathermancy
 antioxidase
-alcoranist
+alcoranist 1
 arcticologist
 accipitrary 1
 acaridea 2
@@ -17521,7 +17521,7 @@ alclad 2
 autonomic 1
 anhydrize 5
 anacoluthically 2
-acerbest 2
+acerbest 3
 archipelagoes 2
 abeyancy 1
 anthracaemia 2
