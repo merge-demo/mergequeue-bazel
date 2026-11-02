@@ -19530,7 +19530,7 @@ coltpixy
 coltsfoot 3
 coltsfoots
 captivities
-coluber 1
+coluber 2
 colubrinae 5
 colubrine 2
 clarsach 1
