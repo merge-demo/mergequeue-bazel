@@ -2482,7 +2482,7 @@ bargainable 3
 buckraming
 billbugs 3
 bucchero 1
-bargaining
+bargaining 1
 beechwoods
 burian 3
 bhut
