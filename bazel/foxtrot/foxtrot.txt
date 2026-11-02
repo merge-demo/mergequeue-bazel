@@ -7507,7 +7507,7 @@ fribbles 2
 fideos 3
 fleetest 2
 freeholders 1
-faultily 1
+faultily 2
 fergus 2
 fellatah 2
 fullface 2
@@ -10842,7 +10842,7 @@ flamefish 2
 furoin 2
 fishpool 2
 forficate 2
-flaminian 4
+flaminian 5
 fortified 3
 fumblingly 2
 fallout 4
