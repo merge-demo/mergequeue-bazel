@@ -1117,7 +1117,7 @@ dissidently 2
 dash
 designado 1
 doctorization
-dashed 1
+dashed 2
 dicentra 1
 dipnoid 1
 dermopathy 4
@@ -14399,7 +14399,7 @@ dogmatists 3
 divellent
 downstage 3
 dispireme 3
-divergement 1
+divergement 2
 distensible 4
 divergent
 dishpans 3
