@@ -3028,7 +3028,7 @@ bopping 2
 burgesses
 bartizans 1
 beigel 3
-belee 2
+belee 3
 beckons
 brimmers
 beachhead
@@ -10459,7 +10459,7 @@ blason 1
 blasphemed 2
 blasphemes 2
 blasphemies 1
-blasphemous 3
+blasphemous 4
 blasphemousness
 bismarckian 1
 buttonhole
