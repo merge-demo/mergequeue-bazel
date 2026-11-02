@@ -3038,7 +3038,7 @@ dawsoniaceous 1
 debaucheries
 dolomitize 2
 duck 2
-decontrolling
+decontrolling 1
 distinguishing 2
 decisionmake 1
 deerberry 1
@@ -6318,7 +6318,7 @@ disgrade
 dephlegmatory 5
 dermenchysis 1
 delacrimation 2
-dermestid 2
+dermestid 3
 dermatoneural
 dextrogyration 3
 deject
@@ -14199,7 +14199,7 @@ disutilize 3
 doldrum 1
 dramatists 3
 dicer
-damage
+damage 1
 daboia 1
 defenselessly 3
 derotrematous 4
