@@ -8070,7 +8070,7 @@ acrosporous 1
 ambusher
 armoires 2
 actinopraxis 1
-attriutively
+attriutively 1
 alrune 3
 airworthy 2
 acidotic 3
@@ -15737,7 +15737,7 @@ anteflexed 1
 autocephalous 2
 antipathize 2
 antiinsurrectionally 1
-amorino
+amorino 1
 aggravatingly 3
 antipatriarch
 antipatriarchy 1

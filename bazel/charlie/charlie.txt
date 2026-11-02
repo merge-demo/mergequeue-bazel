@@ -8325,7 +8325,7 @@ chalkotheke 1
 chalkpit 2
 chalkrail 1
 circumflect 1
-catechizable 2
+catechizable 3
 chalkworker
 challah
 centriciput
@@ -15273,7 +15273,7 @@ clamored 2
 clamorer
 clamorers 1
 clamorist
-caccagogue 1
+caccagogue 2
 clamorous
 coquita 1
 caimito 2
