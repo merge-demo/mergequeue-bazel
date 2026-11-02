@@ -1486,7 +1486,7 @@ discriminative 2
 diffusor 1
 dasypaedal 1
 discolorated 3
-dazzler 1
+dazzler 2
 disillusions 1
 dazzlers
 damnification 3
