@@ -4625,7 +4625,7 @@ exeunt 1
 elucubrate
 excellent 1
 exarchs 3
-egotists 5
+egotists 6
 equinities 2
 enchyma 3
 estheticism 3
@@ -12483,7 +12483,7 @@ ethicality 2
 exilement 1
 escalading
 escheatable 2
-exility 3
+exility 4
 exanthem
 eyestones 3
 educatory 2
@@ -13659,7 +13659,7 @@ evirate 1
 elevon 2
 elizabethanism 1
 exteriorisation 2
-exteriorised 2
+exteriorised 3
 ecrus 2
 entapophysis
 epithem
