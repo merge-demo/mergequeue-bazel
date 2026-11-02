@@ -330,7 +330,7 @@ backdates
 beplaster
 boiloffs 2
 bistetrazole
-bradoons 1
+bradoons 2
 bourree 1
 bacteroideae 3
 bellybuttons 1
@@ -11115,7 +11115,7 @@ bougies
 bygane 1
 bums 1
 barotaxy
-bacchanalia
+bacchanalia 1
 bolivian 2
 bloodcurdling 3
 bloodcurdlingly 5
