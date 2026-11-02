@@ -26314,7 +26314,7 @@ costopneumopexy
 collusiveness 2
 cicerone
 costosternal 1
-costothoracic 2
+costothoracic 3
 costotome 1
 carbonnieux
 costotomy 1
