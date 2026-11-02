@@ -5589,7 +5589,7 @@ endostome
 evocators 3
 eugenists 3
 enfants 1
-evulsion 2
+evulsion 3
 enfiled 3
 expediences 4
 evangel 2
@@ -10966,7 +10966,7 @@ equivocalness 2
 echiurid 4
 erythematous 2
 embrittlement 2
-echinus 1
+echinus 2
 embosk 3
 eperva 2
 euproctis 2
