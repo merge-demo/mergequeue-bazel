@@ -716,7 +716,7 @@ fisherwoman 2
 faming 4
 foreladies 2
 freeness 1
-flincher 2
+flincher 3
 fired 3
 flagroot 5
 famous 2
@@ -6659,7 +6659,7 @@ foemanship 3
 fripperer 2
 fecifork 4
 foemen 4
-forethoughtfully 1
+forethoughtfully 2
 fullered 3
 frankfold 3
 filemarks 1

@@ -4472,7 +4472,7 @@ gaetulan 2
 gunlayer
 gypped 3
 giardia 3
-gyp 4
+gyp 5
 gundog 1
 graves 2
 generaliter 1
@@ -7583,7 +7583,7 @@ generousness 2
 gruffer 4
 gownsmen
 gangism 3
-grassweed 2
+grassweed 3
 gledge 2
 gloomful
 gaumy 2
@@ -10239,7 +10239,7 @@ gonophorous 5
 gastroptosis 2
 grape 6
 gossypin 5
-graminivore 2
+graminivore 3
 glycogenase 4
 guiltsick 4
 genesee 6

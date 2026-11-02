@@ -3454,7 +3454,7 @@ dormient 2
 duelists 2
 dehumidifier 2
 damp
-discomfortably 1
+discomfortably 2
 defluent
 debyes 3
 disassociating
