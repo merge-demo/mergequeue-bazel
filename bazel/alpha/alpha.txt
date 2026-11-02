@@ -8520,7 +8520,7 @@ afterburners
 autocoids 1
 astronautics 2
 actinotrocha 2
-atabal 1
+atabal 2
 aborts
 aphthae
 anabolin
