@@ -176,7 +176,7 @@ bunchiest 3
 boroughwide
 bipacks 4
 bulwark
-boh
+boh 1
 baccalaureate
 baccalaureates 3
 baccalaureus 1
