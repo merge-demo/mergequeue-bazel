@@ -1691,7 +1691,7 @@ garlanded 4
 gibson 1
 gros 3
 gastroenteritis
-glycerolysis 1
+glycerolysis 2
 gunrunning 4
 girting 8
 guadagnini 4
@@ -8459,7 +8459,7 @@ galinsoga 3
 glottises 4
 gastaldite 5
 gadzooks 7
-gushet 2
+gushet 3
 gomphosis 4
 garancine 1
 goatishness 2
@@ -10298,7 +10298,7 @@ galvanomagnet 2
 gigantically 3
 gorges 2
 gridded
-galliard 2
+galliard 3
 gulpier 2
 galactosidase 2
 girasol 1
@@ -10747,7 +10747,7 @@ geocentrically 2
 galewort 1
 gymnosophical 2
 gypsyry 4
-gedackt 1
+gedackt 2
 geckotoid 2
 globulin 5
 gorsebird
