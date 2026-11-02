@@ -7438,7 +7438,7 @@ firstship 3
 forcibility 2
 forcibleness 3
 filosa 3
-furnacite 2
+furnacite 3
 francophone 4
 freckliest 2
 ferredoxin
