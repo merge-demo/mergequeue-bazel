@@ -6170,7 +6170,7 @@ abmodality 2
 affranchised 2
 anthropocentrically 1
 antapoplectic 1
-antiinstitutionalists 1
+antiinstitutionalists 2
 ataxiaphasia 1
 autodidact 1
 aurigation
@@ -14431,7 +14431,7 @@ anthracosaurus 1
 anthracosis 1
 abox
 anthracothere 3
-anthracotherium
+anthracotherium 1
 anthracotic 1
 anthradiol
 anthraflavic 1
@@ -24132,7 +24132,7 @@ articulus
 acanthocarpous 1
 anticapitalistic
 autografting 2
-autogram
+autogram 1
 anthesteria 2
 asconia 1
 autographer 2
