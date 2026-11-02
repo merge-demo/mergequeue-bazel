@@ -8693,7 +8693,7 @@ desalinizing 2
 dichastasis 2
 deathrate 1
 depolarizing 2
-diethylethanolamine
+diethylethanolamine 1
 diastereoisomerism
 dodges
 druid
