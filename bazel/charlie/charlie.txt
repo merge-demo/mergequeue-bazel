@@ -4960,7 +4960,7 @@ cartilaginous 1
 carting 2
 coulometry
 cartist 1
-cartloads 1
+cartloads 2
 clicket 2
 cartmaking
 cartobibliography
@@ -12478,7 +12478,7 @@ chromone 2
 carboxide 1
 creamers 1
 cantonments
-crinated
+crinated 1
 chervonetz 1
 chromonemal
 coincidences 1
@@ -17671,7 +17671,7 @@ coffeeleaf
 catatoniac 2
 cocillana 1
 cyrtolite 1
-cocin
+cocin 1
 colluders
 cocinera 1
 cocircular
@@ -31728,7 +31728,7 @@ cusswords 4
 calorizer
 capernoitie 1
 carian 1
-custerite 1
+custerite 2
 custodee 2
 custodian
 custodians 3
