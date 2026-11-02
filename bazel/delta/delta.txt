@@ -11488,7 +11488,7 @@ discoloration 2
 discolorations 3
 discolored
 dar
-doest 2
+doest 3
 defalcations
 deads
 discolorment 1

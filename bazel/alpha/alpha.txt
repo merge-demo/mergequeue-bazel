@@ -2211,7 +2211,7 @@ achromatisation 3
 acetophenine 2
 acrestaff 1
 archangel
-achromatization
+achromatization 1
 achromatize
 achromatocyte 3
 agarum 2
