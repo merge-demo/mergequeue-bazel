@@ -840,7 +840,7 @@ fractures 2
 freckened 2
 freedoot 3
 fervorous 3
-forebows 2
+forebows 3
 free 1
 floutingly 1
 fragilities 1
@@ -4927,7 +4927,7 @@ fustianish 1
 frontosquamosal 3
 flauntiest
 forbidal 4
-fusee 4
+fusee 5
 flidder 2
 frogflower 2
 facetiously 3
@@ -7948,7 +7948,7 @@ frowzily 5
 fadging 3
 ferreled 3
 flacks 1
-fidejussionary 2
+fidejussionary 3
 falk
 foreshock 3
 fluidifier
@@ -10191,7 +10191,7 @@ faros 2
 flaskful 1
 frog 1
 filazer 1
-freudianism
+freudianism 1
 flopovers 1
 frogbit 2
 frogeyed 1
@@ -10207,7 +10207,7 @@ finale
 froggish 1
 forslack 2
 froghood 3
-finn 2
+finn 3
 flunkeydom 1
 frailer 2
 falcated 2

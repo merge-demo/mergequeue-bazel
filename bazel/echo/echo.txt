@@ -2236,7 +2236,7 @@ enchased 3
 eulogy 1
 endocytic 3
 elecives 3
-electant 2
+electant 3
 elect 1
 epitheliulia 1
 electary 2
@@ -11358,7 +11358,7 @@ ennerve 2
 electroscission 1
 eupnoeic 6
 enervative 1
-exhaustibility 3
+exhaustibility 4
 evaluating 1
 emergers 4
 extenders 2
@@ -11600,7 +11600,7 @@ engregge 5
 eternalising 1
 expatiate 1
 enmeshing
-evolver 2
+evolver 3
 equiponderating
 ectolecithal 4
 evonymuses 3
