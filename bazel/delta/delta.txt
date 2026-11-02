@@ -6831,7 +6831,7 @@ dictyoceratina 1
 desmanthus 1
 disleafing 3
 dreadfuls 2
-decayed 1
+decayed 2
 deceptivity 1
 discoidal 4
 desmidiology 3
@@ -12791,7 +12791,7 @@ duplicatus 1
 derepression 1
 dysluite
 delicto
-dislustered
+dislustered 1
 delectate
 drollish
 desertions 1
