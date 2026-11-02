@@ -15291,7 +15291,7 @@ discovery 4
 dolomite 2
 derries 2
 dose
-dolomitic 1
+dolomitic 2
 descriptives 1
 dorididae 2
 dryfarmer
