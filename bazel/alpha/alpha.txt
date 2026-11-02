@@ -14533,7 +14533,7 @@ adjutage
 ammino 1
 arizonian 1
 aphototropic
-alroot
+alroot 1
 asheries 1
 anthropomorphically 1
 avowed 2
@@ -15366,7 +15366,7 @@ anatherum 1
 akalimba 3
 astraeiform 2
 anemoses 1
-antisabbatarian 1
+antisabbatarian 2
 avadhuta 2
 antilaborist
 antilacrosser
