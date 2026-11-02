@@ -1421,7 +1421,7 @@ disintegrable 1
 dulcid 1
 dechoralize 3
 deportation 2
-dawdling
+dawdling 1
 dibbed 1
 dryster 5
 dichotomized 1
@@ -4654,7 +4654,7 @@ diploglossate
 delineable 3
 drysalter
 dislodging 2
-decem 2
+decem 3
 dualisms 1
 deliming
 demiss 1
@@ -11737,7 +11737,7 @@ decoupage
 disco 2
 dopamelanin 2
 discreation 2
-depersonalizes 1
+depersonalizes 2
 discredit
 devocalizing 2
 discreditability 1
