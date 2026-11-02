@@ -11562,7 +11562,7 @@ chold
 choleate 1
 cholecyanine
 couchee
-cholecystectasia
+cholecystectasia 1
 cholecystectomy 1
 cingulum
 clammier 2
