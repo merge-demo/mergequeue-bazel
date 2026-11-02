@@ -3869,7 +3869,7 @@ emeses
 effigiate 4
 epalpate
 ethnobotanical 1
-emesis 1
+emesis 2
 entrapment 2
 easiness 2
 exemplarily 2
@@ -5310,7 +5310,7 @@ endorsable 3
 entopterygoid 2
 excerpt 2
 extravagation
-enrolles
+enrolles 1
 ethylmorphine 2
 excretolic 1
 enslaves 3
@@ -6617,7 +6617,7 @@ enquicken 4
 equiponderant 3
 excluding
 echinorhynchus 1
-esperantidist 1
+esperantidist 2
 embryous
 enseam 1
 egyptianism
