@@ -831,7 +831,7 @@ epitheton
 entrecote
 epop 3
 exulate 2
-ectiris 4
+ectiris 5
 etamines 2
 ectocarpus 2
 eriophorum 1
@@ -4126,7 +4126,7 @@ ethnographically
 eighthes 1
 earlships 5
 ecardinal 1
-endosarc 1
+endosarc 2
 electrorefine
 emplecton 2
 exuberancy 3

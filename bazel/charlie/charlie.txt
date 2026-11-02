@@ -6210,7 +6210,7 @@ chateus 1
 caudated
 chibcha 1
 chew 2
-caudation 2
+caudation 3
 calycophorae
 caudatory
 clergies 1
@@ -18817,7 +18817,7 @@ conventionalization 2
 compliers 1
 colet
 cobego
-coleur
+coleur 1
 chromizes 1
 clammily 1
 corylet
