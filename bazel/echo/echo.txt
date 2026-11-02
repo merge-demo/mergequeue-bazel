@@ -7258,7 +7258,7 @@ eolian
 eolopiles
 enraptures 1
 emulsification 2
-exsector 2
+exsector 3
 echoless 5
 electrocatalytic 7
 encephalomere
@@ -10711,7 +10711,7 @@ eugubine 1
 entoderm 1
 epiphanised
 euhemerising 4
-emeerate 2
+emeerate 3
 epitomizer 2
 endosmometer 3
 emplacement 2
