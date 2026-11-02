@@ -6105,7 +6105,7 @@ begay
 balaneutics
 benedicks 1
 benedicta 2
-bletonism 1
+bletonism 2
 buhlworks 3
 beid 5
 buntline 2
@@ -10902,7 +10902,7 @@ blindfishes 2
 bluelegs 2
 blindfolded 1
 bismuth 2
-bassus
+bassus 1
 butterbush
 blindfoldedness
 bemoon
