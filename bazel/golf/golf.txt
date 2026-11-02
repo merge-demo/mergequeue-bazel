@@ -2644,7 +2644,7 @@ glossosteresis 2
 geniality 2
 genetics 8
 gastrolysis 4
-gudgeoned 7
+gudgeoned 8
 glow 2
 garg 1
 germantown 2
@@ -9165,7 +9165,7 @@ gripgrass 4
 grouchily 7
 gora 1
 gridding 3
-geographically 4
+geographically 5
 granulates 4
 glared 3
 goosed 1

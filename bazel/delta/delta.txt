@@ -1172,7 +1172,7 @@ dianoetical 3
 dade 3
 detrited 4
 decrementing 1
-dasyuridae
+dasyuridae 1
 dasyurine 2
 dactylopatagium
 docimastic 2
@@ -1787,7 +1787,7 @@ dalradian 4
 debamboozle 1
 dinitril
 debarbarization
-dilation
+dilation 1
 desmoscolex
 dilemma
 debark 2
@@ -1804,7 +1804,7 @@ debarment
 debarrance 2
 duryl 1
 debarring 2
-drummock 5
+drummock 6
 delectible 1
 dispiteous 4
 detubation 2
@@ -4456,7 +4456,7 @@ disillusioning
 dendrons
 dibbling 4
 divelling
-directoral
+directoral 1
 dampcourse 4
 demethylate 1
 definitize 2
@@ -7781,7 +7781,7 @@ duvet 3
 dadburned
 decolourising 4
 devoir 1
-destabilizing 2
+destabilizing 3
 devoirs 2
 dholes 2
 devolatilised 1
@@ -10891,7 +10891,7 @@ dyslogia 3
 dissaturate 1
 discontinuous 4
 designlessly 3
-diathermometer 1
+diathermometer 2
 demonologic 3
 doddart 2
 debaters
@@ -11422,7 +11422,7 @@ drossing 2
 dastardy 1
 dockyard 1
 dissuader 5
-demivotary 1
+demivotary 2
 determinoid
 debug 1
 discloser 4
