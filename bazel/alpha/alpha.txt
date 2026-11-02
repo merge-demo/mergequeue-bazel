@@ -18942,7 +18942,7 @@ adown 1
 anaerobies
 autoactive 2
 androginous
-archipin
+archipin 1
 aguada 2
 archiplasm
 absorber
