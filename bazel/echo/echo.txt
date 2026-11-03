@@ -3813,7 +3813,7 @@ expendables 1
 emendandum 3
 extracolumella 4
 endodontically 3
-ensindon
+ensindon 1
 exclam 3
 electrized 1
 ekerite 4
@@ -6578,7 +6578,7 @@ erythorbate 2
 ethnohistorian 1
 epipolism 4
 enteradenological 3
-enteral 2
+enteral 3
 ensuant 2
 enterectomy 1
 enterer 2
@@ -7032,7 +7032,7 @@ effigiating 2
 estated 3
 emetines 2
 extradialectal 2
-economising 2
+economising 3
 erythrochaete 1
 earphone 3
 enactory 4
