@@ -3724,7 +3724,7 @@ ephemerons 3
 echelette 3
 exhaustivity 1
 egoistry
-embrittle 1
+embrittle 2
 enfranchised 1
 echinochrome 5
 escobilla
@@ -8099,7 +8099,7 @@ encover 2
 extrasyphilitic 1
 extraordinaries 3
 expressable 2
-epiplasmic 2
+epiplasmic 3
 epiplectic 2
 exhausting 4
 epiploce 1
