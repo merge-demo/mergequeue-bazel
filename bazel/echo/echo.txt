@@ -3008,7 +3008,7 @@ eleatic 3
 eleoblast 2
 evaluate
 extine 3
-efflorescence
+efflorescence 1
 evocative 2
 extern
 encorpore 2
