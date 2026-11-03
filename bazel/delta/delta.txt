@@ -4527,7 +4527,7 @@ demigauntlet 2
 doting 2
 disclosing 2
 decussis 2
-dendrite 1
+dendrite 2
 decern 3
 dorsilumbar 1
 distraughted 2
@@ -10461,7 +10461,7 @@ demibath
 diphonia 1
 dismiss 1
 drowsy 2
-duumvirs 1
+duumvirs 2
 deglutitive 1
 distortion
 dister 4
@@ -11733,7 +11733,7 @@ dyscrasic 2
 demissness 1
 dactylologies
 dimane 1
-decoupage
+decoupage 1
 disco 2
 dopamelanin 2
 discreation 2
@@ -14529,7 +14529,7 @@ discoverers
 divinized 2
 divinizes 1
 demarche 2
-diatomean 1
+diatomean 2
 dismembrated
 depicters 1
 duodenary 2
