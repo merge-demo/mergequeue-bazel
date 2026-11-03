@@ -4974,7 +4974,7 @@ benweed 1
 beylik 1
 bemoaning
 beerhouse 3
-beerhouses 2
+beerhouses 3
 breech 1
 barbecueing 3
 beladied
@@ -17220,7 +17220,7 @@ beachcomber 2
 banditism 2
 boucles
 bebannered 3
-bullweed 2
+bullweed 3
 brulyie 5
 bromindigo 2
 bullwhipping 1
