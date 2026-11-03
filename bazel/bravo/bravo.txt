@@ -6035,7 +6035,7 @@ blacktail 1
 bemuddlement 2
 bemuddles 1
 bemuddling
-bemurmur 1
+bemurmur 2
 bondwoman 2
 butyral
 bemurmure 2
@@ -8174,7 +8174,7 @@ burfish
 bier 1
 broid 3
 baleens 4
-byronically 3
+byronically 4
 beatable
 boone 1
 battailous 2
