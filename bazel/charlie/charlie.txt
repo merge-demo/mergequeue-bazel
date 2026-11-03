@@ -7745,7 +7745,7 @@ chorogi
 cerotypes
 confirmedly
 cerous 2
-cerrial
+cerrial 1
 cecidology 2
 certain 1
 cuteys
@@ -25842,7 +25842,7 @@ corruptingly 1
 cimicid 2
 cocooning 1
 circumflexes
-corruption 1
+corruption 2
 corruptionist
 cerographies
 corollas
