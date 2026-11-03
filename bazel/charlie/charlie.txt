@@ -23350,7 +23350,7 @@ congests 1
 coverups 1
 contaction
 contactor 1
-contacts
+contacts 1
 contactual
 contactually 1
 contadino 1
