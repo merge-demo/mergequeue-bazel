@@ -503,7 +503,7 @@ broadway
 besiclometer 2
 blackacre 4
 biogenesis 2
-burbling 1
+burbling 2
 backstops
 backstrapped 2
 backstreet 4
@@ -16749,7 +16749,7 @@ bucolicism 3
 ballett
 bucorvus 3
 bowknots 1
-billheading 3
+billheading 4
 burrower 6
 bahama
 branchiostegidae
