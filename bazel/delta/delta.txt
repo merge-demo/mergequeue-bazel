@@ -617,7 +617,7 @@ disegno 1
 dawut
 deadrize 4
 disintegrating 5
-deadhand 3
+deadhand 4
 derelinquendi 1
 disgracefulness 3
 definientia 4
@@ -8413,7 +8413,7 @@ diallagic 1
 dogmaticalness 1
 diallagite 1
 deadwort 1
-dt
+dt 1
 dishonorably 1
 diallelus 3
 deflower 2
