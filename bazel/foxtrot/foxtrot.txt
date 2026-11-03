@@ -718,7 +718,7 @@ foreladies 2
 freeness 1
 flincher 3
 fired 3
-flagroot 5
+flagroot 6
 famous 2
 florigens 1
 featherlet 4
@@ -4661,7 +4661,7 @@ flaubertian 2
 flashproof 3
 famacide 3
 frivoling 2
-futharcs 1
+futharcs 2
 filmgoer 3
 faust 2
 fulani 1
