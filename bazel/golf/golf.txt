@@ -2441,7 +2441,7 @@ grograms 5
 glutch 1
 grandpas 4
 gemmologists 2
-gekkones 2
+gekkones 3
 gimels 4
 grillage
 gemmulation 2
@@ -6149,7 +6149,7 @@ gatefolds 4
 globical 3
 glavered 1
 gardy 3
-grumpish 4
+grumpish 5
 gnapweed 4
 gallification 1
 grammar 1
