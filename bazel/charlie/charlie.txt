@@ -4434,7 +4434,7 @@ commoner 1
 choke
 carisa
 cabilliau 2
-concertina 1
+concertina 2
 calcographer 1
 cleistogamically 4
 chamoising 1
@@ -31633,7 +31633,7 @@ curvilinead
 carpingly 2
 curvimeter
 curviness 1
-curving
+curving 1
 curviserial
 curvital 1
 curvities
