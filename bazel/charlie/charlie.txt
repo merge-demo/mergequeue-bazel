@@ -18937,7 +18937,7 @@ carpuspi
 coupelet
 cochal
 conjugate
-cryptoclimatology
+cryptoclimatology 1
 coadaptation 1
 collarless 1
 collate 1
@@ -25854,7 +25854,7 @@ corruptively 3
 corruptly 2
 colubriformes 3
 corruptor 1
-conglutinative
+conglutinative 1
 chapper 1
 corruptress 1
 corrupts 1
