@@ -1438,7 +1438,7 @@ gats 2
 garsil 1
 gymnasiums 2
 governless 2
-glumpiest 1
+glumpiest 2
 gnosticity 3
 gadget 4
 germinate 1
@@ -4714,7 +4714,7 @@ gauping 2
 geisothermal 4
 glycerate 3
 gigged 1
-galchic 3
+galchic 4
 gifting 2
 gelatia 2
 giraffes 6
@@ -5218,7 +5218,7 @@ geometricism 5
 guiler 3
 gripsacks 2
 guttae 3
-groundsheet 1
+groundsheet 2
 gale 2
 gleamless 3
 gleed 2

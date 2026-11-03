@@ -6221,7 +6221,7 @@ boletus
 berley
 bypass 2
 beakful 1
-benne
+benne 1
 bennes
 beveling 2
 bungalow
@@ -6894,7 +6894,7 @@ brandywine 2
 besetters 1
 besew
 borghi 2
-boccaccio 1
+boccaccio 2
 betrim 4
 bradyseismic
 bibliopolistic 1
