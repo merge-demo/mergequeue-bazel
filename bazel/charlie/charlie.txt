@@ -15437,7 +15437,7 @@ cellifugal 1
 chuddar 1
 cruzadoes 2
 clarifiant 1
-clarificant 1
+clarificant 2
 clarification 1
 clarifier 2
 clarifiers
@@ -30809,7 +30809,7 @@ culinarian 1
 condenser 1
 cull 3
 contemnible
-consarned 1
+consarned 2
 cullage 2
 cullays 1
 cullas

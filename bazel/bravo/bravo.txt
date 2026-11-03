@@ -909,7 +909,7 @@ bunions 2
 bookland
 bdellotomy
 bowstaff
-bagpipers 1
+bagpipers 2
 bandyball 2
 bardiglio 2
 bismarine
@@ -18288,7 +18288,7 @@ bamah 3
 buttyman
 biblioclast 1
 backwashing
-bowless 1
+bowless 2
 buttinski 1
 bourout 2
 buttled
