@@ -5497,7 +5497,7 @@ ganoids 3
 gimmer 1
 goods 3
 gentlemen 1
-goodyera 2
+goodyera 3
 goldilocks 2
 glisten 5
 guttering 7
