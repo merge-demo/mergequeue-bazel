@@ -4072,7 +4072,7 @@ admit 1
 allowanced 2
 anisosthenic 1
 aldrin
-admits 1
+admits 2
 admittance 1
 admitted 1
 agitpunkt
@@ -15288,7 +15288,7 @@ annale 3
 alleviator 2
 agamically 1
 awalim
-amorality 2
+amorality 3
 alhambra
 antigravitational
 angiemphraxis 1
@@ -16429,7 +16429,7 @@ aminopurine
 aerodontia 3
 appendixing 2
 antonomastically 3
-antiracially 1
+antiracially 2
 armrests 1
 archiheretical 1
 antralgia 3
@@ -20798,7 +20798,7 @@ animalcule 2
 aet
 astrantia 1
 ararobas 1
-antiposition
+antiposition 1
 artocarpeous 1
 artocarpous 1
 artolater 1

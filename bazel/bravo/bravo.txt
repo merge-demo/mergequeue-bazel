@@ -1322,7 +1322,7 @@ burelage 2
 bedways 2
 balaustine 1
 bunks 1
-bacteriophagous
+bacteriophagous 1
 bandwagon
 bobbles 2
 balboa
@@ -3248,7 +3248,7 @@ brookable 1
 backoff 2
 blushfulness
 basilicate 1
-basilicock
+basilicock 1
 basilics 1
 bohairic 2
 basilidian 1
@@ -14992,7 +14992,7 @@ breakfaster 1
 bullfeast 1
 blepharorrhaphy 1
 billowier
-burny 1
+burny 2
 brecht 1
 bungholes
 billitonite 1
