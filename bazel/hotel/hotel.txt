@@ -13376,7 +13376,7 @@ hwblx 3
 hwbmgic 3
 hwbogmccowm 2
 hwbpftv 1
-hwbsg 1
+hwbsg 2
 hwbsnltipjzmxyd 3
 hwbtwrpuyredpltf 1
 hwbvr 3
