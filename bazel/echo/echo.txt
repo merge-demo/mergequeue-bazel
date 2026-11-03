@@ -879,7 +879,7 @@ economically 2
 ectopy 1
 engulfed 1
 ectopistes 2
-ectoplasmatic 3
+ectoplasmatic 4
 expansibly 1
 endship
 euphonies 2
@@ -2129,7 +2129,7 @@ eyeteeth 3
 elasticity 3
 enchondroma 1
 effortlessly 4
-evolution 3
+evolution 4
 equably 1
 euxenite
 elastivity 1

@@ -319,7 +319,7 @@ disinteress 2
 dourine
 dalasi 2
 daybooks 2
-deckman 1
+deckman 2
 desand 3
 desquamative
 desmidiaceae 1
@@ -5605,7 +5605,7 @@ diamine 1
 dialyzation 4
 diabolizing
 desmognathae
-deperdite 1
+deperdite 2
 diastrophe 1
 deperditely
 domain 1
@@ -10636,7 +10636,7 @@ delisting
 diplonts 3
 diplophase
 difficultness 1
-dosology 1
+dosology 2
 deviously
 dulias 1
 draying 2
@@ -11410,7 +11410,7 @@ depopulator 1
 diphosphothiamine 3
 discipular
 desktop 3
-discontentedly 3
+discontentedly 4
 deadbeats 1
 doctrinize 3
 disclass 4
