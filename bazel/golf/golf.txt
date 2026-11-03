@@ -2136,7 +2136,7 @@ galla 4
 globosity 1
 gaudete 3
 graced 5
-glycoluric 3
+glycoluric 4
 gazellelike 1
 gaviae 3
 gentianaceae 3
@@ -5492,7 +5492,7 @@ gluttery 4
 glyster 5
 galumphed 1
 gablet 6
-grande 2
+grande 3
 ganoids 3
 gimmer 1
 goods 3
