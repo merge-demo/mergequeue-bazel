@@ -7449,7 +7449,7 @@ freemen
 flagginess 2
 forcipation 1
 flutelike 2
-forcipressure 2
+forcipressure 3
 frigidoreceptor 3
 foy 3
 fossick 2
@@ -10828,7 +10828,7 @@ feeable 2
 fanatical 4
 fulfiller 4
 flambeaux 2
-fumose 2
+fumose 3
 fulfillment
 flus 3
 fleetness 1
