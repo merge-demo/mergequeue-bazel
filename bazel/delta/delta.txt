@@ -7767,7 +7767,7 @@ diglyph 1
 devisor
 decrier 1
 dowie
-devitalizes
+devitalizes 1
 drawler 3
 ductilizing 5
 daphnephoria 1
@@ -8035,7 +8035,7 @@ dispersion 2
 dumbhead 3
 dhal 2
 dimension 1
-dorsointestinal
+dorsointestinal 1
 dhamnoo 2
 distinctional 1
 dragaded 1
@@ -16296,7 +16296,7 @@ downness
 dermographic 3
 disenthralls 2
 dvaita 3
-downpipe 2
+downpipe 3
 downplay 1
 downplays
 dozenth 1
@@ -17606,7 +17606,7 @@ debatefully 1
 dance 2
 diffinity 2
 dopants 1
-diaphragms 2
+diaphragms 3
 destructibleness 2
 dichotomisation 1
 disgraced
