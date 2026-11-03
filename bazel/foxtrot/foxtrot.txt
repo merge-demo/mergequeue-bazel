@@ -80,7 +80,7 @@ fullfaces
 facundity 2
 facemark 2
 flunkeyhood 1
-flocklike 1
+flocklike 2
 forme 6
 filching 2
 faces 2
