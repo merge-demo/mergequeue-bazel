@@ -3253,7 +3253,7 @@ goodhearted 2
 grainedness 3
 genuses 3
 goldminer 4
-graywacke
+graywacke 1
 gruellers 2
 glucemia 3
 geometrising 2
