@@ -1556,7 +1556,7 @@ ascan 3
 angelim 1
 adamical 2
 appended 1
-andalusian 1
+andalusian 2
 autoportrait 1
 aconin 3
 airwoman
@@ -8501,7 +8501,7 @@ alkyd
 anniversalily
 apitong 3
 antiskeptical 3
-agone 1
+agone 2
 alalia 1
 alkies 1
 assessable
@@ -12919,7 +12919,7 @@ aire
 ango 2
 angoise 2
 angolese 3
-arbitral
+arbitral 1
 assertoric
 ascitb
 angouleme 1
@@ -20039,7 +20039,7 @@ aculeate 1
 archaeohippus 2
 arretez 1
 aromas 2
-andi 2
+andi 3
 anthocarpous
 atlanta 1
 aitkenite

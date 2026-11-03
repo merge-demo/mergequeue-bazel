@@ -4537,7 +4537,7 @@ gamb 1
 grapey 1
 gomutis 2
 gambrel 1
-gumwoods 2
+gumwoods 3
 gills 1
 graminiform 2
 gerbille 2
@@ -5273,7 +5273,7 @@ glenohumeral 4
 genomes 1
 grouted 4
 garnets 3
-guitarfish 1
+guitarfish 2
 gliadine 2
 galvanism 2
 geomedicine 2
@@ -5497,7 +5497,7 @@ ganoids 3
 gimmer 1
 goods 3
 gentlemen 1
-goodyera 2
+goodyera 3
 goldilocks 2
 glisten 5
 guttering 7
@@ -9026,7 +9026,7 @@ gobletful 2
 gnathophorous
 gravenstein 3
 galvanothermy 4
-gaminess 3
+gaminess 4
 guiles 1
 geohydrologic 1
 groomer 5
