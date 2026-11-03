@@ -1334,7 +1334,7 @@ gristbite 1
 gignate 1
 gra 4
 ganoine
-goanese 1
+goanese 2
 guslee
 greenhouse 3
 goldsmiths 1
@@ -5852,7 +5852,7 @@ galvanoplastic 3
 grundel 3
 gadger 1
 gladify 4
-gate
+gate 1
 gymnosporangium 1
 gynoecium 2
 glucate 1
@@ -6727,7 +6727,7 @@ geer 4
 gride 5
 graphitic 3
 gigs 4
-gastronephritis
+gastronephritis 1
 gonidic 1
 genes 2
 gauges 2
@@ -7620,7 +7620,7 @@ gallerying 2
 gracilariidae 1
 gravispheric 3
 grainy 2
-gyn
+gyn 1
 graphic 1
 giovanni 2
 gracilis 1
