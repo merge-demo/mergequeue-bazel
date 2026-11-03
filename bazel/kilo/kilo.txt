@@ -5853,7 +5853,7 @@ kinptsmwlmr 2
 kinput 2
 kinpvgz 1
 kinpxmmz 3
-kinqynntfs
+kinqynntfs 1
 kinqz 2
 kinth 1
 kinuksi 2
