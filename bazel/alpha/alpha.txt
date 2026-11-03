@@ -1921,7 +1921,7 @@ arguer 1
 acetylbenzoic
 aquilia 3
 albitical 2
-apparelment
+apparelment 1
 acetylfluoride 1
 abasements 4
 aerobian
@@ -4800,7 +4800,7 @@ abasement 2
 autographically
 aberdevine 2
 azygous 1
-aspide 1
+aspide 2
 aeriness 3
 aero 1
 ausones
@@ -14397,7 +14397,7 @@ acolyte 2
 anthotaxis 1
 andries 1
 analgetic
-assortatively 1
+assortatively 2
 anisocycle 1
 abnegate
 apselaphesis 2
