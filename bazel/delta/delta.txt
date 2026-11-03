@@ -1110,7 +1110,7 @@ declamations 1
 denazified 1
 dentatosetaceous
 diamins 2
-dialectically
+dialectically 1
 das 3
 dase 3
 dissidently 2
@@ -5268,7 +5268,7 @@ dialogistic 1
 demarcations 4
 denseness
 dorsel 2
-depauperized 2
+depauperized 3
 densify 2
 disqualifications 1
 didelphic
