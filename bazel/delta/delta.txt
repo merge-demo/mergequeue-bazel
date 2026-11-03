@@ -15101,7 +15101,7 @@ disfrequent 2
 dogmatise 1
 dogmatised 2
 dressoirs 1
-dogmatizer
+dogmatizer 1
 dispensator
 discotheques
 darkeners 3
