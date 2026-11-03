@@ -545,7 +545,7 @@ anatomopathological
 ambitioned 1
 able
 autoplasmotherapy 1
-amphicoelian 1
+amphicoelian 2
 almners 2
 ablend 1
 adore 1
@@ -2179,7 +2179,7 @@ alure 1
 alqueire
 amyelotrophy
 achordata
-achorion 2
+achorion 3
 anarya
 archpoet
 achillodynia 2
@@ -6030,7 +6030,7 @@ agilawood
 asbestosis 2
 appomattox
 ambiversive
-animalcular
+animalcular 1
 anatomists 1
 arioso
 agility

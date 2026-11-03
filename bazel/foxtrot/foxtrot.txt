@@ -2254,7 +2254,7 @@ fanout 3
 frolics 3
 filigerous 2
 fayalite 2
-funnymen 3
+funnymen 4
 fibrinolyses 4
 fathering 3
 fsiest
@@ -3087,7 +3087,7 @@ fooler 1
 foreclosing 3
 feroce 6
 fishtails 4
-flitter
+flitter 1
 flakeboard 5
 foreboot 1
 fillmass 3
