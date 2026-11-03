@@ -2575,7 +2575,7 @@ gaiterless 6
 giveaways 2
 generalized 4
 graywall 3
-guv 3
+guv 4
 gauchely 2
 gabbards
 gristy 3
@@ -7159,7 +7159,7 @@ gastrotaxis 2
 gabbros 1
 glistering 3
 geometrise
-guans 2
+guans 3
 gaffs 3
 glycid 4
 gauming 3
@@ -9789,7 +9789,7 @@ gruntles 2
 granter 2
 galley 1
 galvanotropic 1
-gruntling 5
+gruntling 6
 gazook 2
 gruppo 4
 galeate 3
