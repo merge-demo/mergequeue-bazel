@@ -545,7 +545,7 @@ forewarn 3
 fluvial 1
 fortress
 fragmentising 2
-filicites 1
+filicites 2
 froggy 2
 falters 3
 fronts 3
@@ -11701,7 +11701,7 @@ filets 4
 fracas 5
 fas 2
 friarhood 3
-far 7
+far 8
 foretellableness 3
 flugelhorn 1
 fasciola 2
