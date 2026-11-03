@@ -2393,7 +2393,7 @@ foreordinating 4
 freakpot 4
 fantods 2
 fervidor 3
-formicivorous 1
+formicivorous 2
 filtrable 3
 fingernail 5
 flanged 1
@@ -4975,7 +4975,7 @@ foremarch
 flaminical 3
 fomenters 4
 flowcharting 4
-fintadores 7
+fintadores 8
 frenulum 2
 flyway 3
 feebleheartedly 3
