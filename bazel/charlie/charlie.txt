@@ -1750,7 +1750,7 @@ calumniating 1
 calumniation 1
 coaldealer
 consolably
-confusable 2
+confusable 3
 convulsionaries 1
 capybaras
 cecilia 1
@@ -7254,7 +7254,7 @@ centrosymmetrical 1
 centrosoyus 1
 centrosphere
 crevassed
-cylinderer 1
+cylinderer 2
 cancrizans 2
 centum 1
 colorcaster
@@ -28475,7 +28475,7 @@ caroler 1
 cardlike
 creatininemia
 couplers
-creatinuria
+creatinuria 1
 cajuputol
 crickets 1
 champagnes 1
