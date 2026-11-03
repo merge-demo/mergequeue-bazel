@@ -4644,7 +4644,7 @@ denarius 3
 diswench
 demiscible 4
 dicebox 1
-denticulate 1
+denticulate 2
 demise 2
 demisecond 1
 demised
