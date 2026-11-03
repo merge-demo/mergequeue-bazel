@@ -6872,7 +6872,7 @@ galaxies 4
 gymsia 3
 gluteoinguinal 1
 gauntlets 3
-glucoprotein 2
+glucoprotein 3
 geaster 1
 galeas 3
 genitival 1
@@ -10606,7 +10606,7 @@ gillion 2
 glandaceous 3
 gowned 1
 goldenmouth 1
-glossologist 2
+glossologist 3
 greenockite 3
 gallow 4
 glumose 2
