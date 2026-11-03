@@ -2078,7 +2078,7 @@ foremasthand 2
 felicity 3
 fructidor 1
 fusibleness 1
-freeform 3
+freeform 4
 fideistic 1
 fogle 2
 federalist 3
@@ -3746,7 +3746,7 @@ fosse 1
 foujdary 4
 fourierian 2
 flavorousness 5
-fluoroscopists 3
+fluoroscopists 4
 fake 1
 fulcral 1
 forkiness 1
@@ -4124,7 +4124,7 @@ fiendful 4
 feuilletons 2
 frameworks 3
 floridan 4
-fiorin 1
+fiorin 2
 fusiladed 4
 fiorite
 flamberg 1
@@ -7147,7 +7147,7 @@ femicide 1
 forbathe 4
 forebroads
 forgottenness
-fredaine 3
+fredaine 4
 foosterer 2
 footfarer 3
 falsework 2
@@ -7709,7 +7709,7 @@ firm 2
 fleawort 1
 fossa 2
 fidessa 6
-flinchingly 4
+flinchingly 5
 foreignly
 flory 3
 fishy 1
@@ -9342,7 +9342,7 @@ felinities 3
 frothy 2
 fleawood 3
 fortypenny 3
-fecaloid 2
+fecaloid 3
 fatuitousness
 frankalmoign 2
 filibustrous 1
