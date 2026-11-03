@@ -6864,7 +6864,7 @@ foliot 1
 floribunda 1
 fasces 2
 forthby
-ferritungstite
+ferritungstite 1
 fattiest 2
 farewell 1
 fiery 1
@@ -11067,7 +11067,7 @@ fogbow 4
 fructed 4
 frowner 2
 frameae 2
-fellsman 2
+fellsman 3
 flaminica 1
 fractionated 3
 forficated 2
