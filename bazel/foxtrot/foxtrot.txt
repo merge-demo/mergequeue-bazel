@@ -2456,7 +2456,7 @@ fornax 5
 ferruginated 2
 flowable 1
 fungal 2
-foliocellosis 3
+foliocellosis 4
 fairnesses 1
 frithborgh 6
 firelocks 2
@@ -4637,7 +4637,7 @@ formazyl
 francophilism 4
 firked 2
 factorizations 4
-fullnesses 3
+fullnesses 4
 fanging 4
 frigidities 2
 formulations 1
