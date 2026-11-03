@@ -10461,7 +10461,7 @@ demibath
 diphonia 1
 dismiss 1
 drowsy 2
-duumvirs 1
+duumvirs 2
 deglutitive 1
 distortion
 dister 4
@@ -13316,7 +13316,7 @@ dispurse 1
 distillate 2
 destuffing 2
 daintier
-dustpoint 2
+dustpoint 3
 dispurvey 1
 disputability 2
 dolichocephali 1
