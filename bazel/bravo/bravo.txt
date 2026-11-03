@@ -1551,7 +1551,7 @@ ballhooter 4
 backslash 3
 balli
 burmanniaceous
-burlesques
+burlesques 1
 befiddle 1
 bacchanal 2
 brahminism
@@ -4393,7 +4393,7 @@ breakwater 2
 behoney 1
 bullshit 1
 beanweed
-bunyas
+bunyas 1
 bebeerin 1
 bennettitales
 bovenland
