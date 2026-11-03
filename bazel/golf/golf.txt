@@ -9347,7 +9347,7 @@ geophila 1
 graduate 3
 galleasses 3
 goliad 7
-gunnysacks 1
+gunnysacks 2
 ghaznevid 2
 ghaist 1
 gasparillo 5
@@ -9813,7 +9813,7 @@ grantor 2
 gue 2
 globulinuria
 glossemes 1
-glares 3
+glares 4
 gnathostoma 4
 guahiban 4
 groundbreaker 1
