@@ -4555,7 +4555,7 @@ bedad 1
 bedaggle 1
 breeding 2
 berrybush 1
-beday 1
+beday 2
 babul 2
 biddable 2
 baldrib 3
@@ -7245,7 +7245,7 @@ belick 1
 broidered 2
 bestuck 1
 bestud 1
-boninite 2
+boninite 3
 bipont 1
 barrancas 3
 bandora 1
@@ -9392,7 +9392,7 @@ birdseye
 baculiticone 2
 birdsnest 1
 bungfu
-bargehouse
+bargehouse 1
 borak
 befitting 1
 basichromatic 1
@@ -13296,7 +13296,7 @@ botanically
 botanics 2
 bridechamber 2
 botanies 1
-botanist 1
+botanist 2
 botanize 2
 brushmen 3
 boswellizing

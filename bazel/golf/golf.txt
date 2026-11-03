@@ -5842,7 +5842,7 @@ gatten 3
 gonophoric 2
 glochidia 2
 gendarmes 2
-gruiformes 1
+gruiformes 2
 ghettoing 4
 geroderma 1
 graffito 1
@@ -8662,7 +8662,7 @@ gonocalycine 3
 gliders
 growthless
 glycohaemia 5
-gladys 4
+gladys 5
 gerip 4
 grapy 3
 goopy 2

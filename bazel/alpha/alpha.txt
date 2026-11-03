@@ -5541,7 +5541,7 @@ anguloa 1
 agues 1
 antielectrons 3
 afterlight 2
-afterlives 1
+afterlives 2
 adrenalectomizing
 anoxybiotic
 allamotti 2
@@ -8165,7 +8165,7 @@ abscised 1
 anachronous 1
 afterchrome 1
 algological
-algoman 1
+algoman 2
 algometrical 1
 approachabl 1
 algometrically 2

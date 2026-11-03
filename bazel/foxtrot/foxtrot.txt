@@ -3283,7 +3283,7 @@ feelings
 ficoidal
 fiddlecome 1
 fracedinous
-farewells 2
+farewells 3
 fiddlefaced 2
 fiddlerfish 2
 fraticellian 4
@@ -8990,7 +8990,7 @@ fourrageres
 fox 3
 fantaddish 4
 flixweed
-fuster
+fuster 1
 fourrier 1
 flagellates 1
 foelike 4
