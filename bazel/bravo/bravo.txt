@@ -1292,7 +1292,7 @@ bacao 1
 brochantite 1
 bury
 bedbug 1
-bedust 4
+bedust 5
 boleite 1
 bacterioprecipitin 1
 beltings 1
@@ -1716,7 +1716,7 @@ baladine 2
 balsamation 1
 balsaminaceae 1
 balsamine 3
-become 3
+become 4
 balsamitic 1
 balsamiticness 5
 benzoylating
@@ -8244,7 +8244,7 @@ bluebills 1
 benzophosphinic 3
 brakehead 2
 bedsteads 2
-bovarysm 2
+bovarysm 3
 bigamies
 bigamist 1
 boyars 4
