@@ -225,7 +225,7 @@ drukpa 1
 daftberry
 dusty 1
 denticate 1
-dojos 1
+dojos 2
 dorstenia 2
 daftest 1
 donees
@@ -617,7 +617,7 @@ disegno 1
 dawut
 deadrize 4
 disintegrating 5
-deadhand 3
+deadhand 4
 derelinquendi 1
 disgracefulness 3
 definientia 4
@@ -3761,7 +3761,7 @@ dehorners
 desiredness 5
 dehorning 1
 disconcertingly 3
-developers
+developers 1
 disour 1
 dehorns 3
 decaudate 5
@@ -8413,7 +8413,7 @@ diallagic 1
 dogmaticalness 1
 diallagite 1
 deadwort 1
-dt
+dt 1
 dishonorably 1
 diallelus 3
 deflower 2
