@@ -6216,7 +6216,7 @@ caudatory
 clergies 1
 corbel 1
 corticifugal
-caudebeck
+caudebeck 1
 caudex
 caudices 1
 cassolette
