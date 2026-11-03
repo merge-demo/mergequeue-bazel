@@ -5234,7 +5234,7 @@ bodingly 3
 basaltic 2
 boneheaded 5
 bicentenary 2
-bimastoid 1
+bimastoid 2
 bullyragged 2
 basophils 2
 beaky 3
@@ -17430,7 +17430,7 @@ bluebird
 bunkerage 1
 bedtimes 2
 bandbox 1
-busy 1
+busy 2
 boettner 2
 borzicactus 1
 brasset 2
