@@ -13720,7 +13720,7 @@ doorplate 1
 divalent 2
 dejecta 2
 demulsion 2
-dissociations 1
+dissociations 2
 directoire 2
 defluous 3
 deadlihead
@@ -16506,7 +16506,7 @@ diadrom 2
 deoculate 1
 dervishlike 1
 despatcher 2
-darii
+darii 1
 dishevel 2
 dilucidate
 disdainable 4
