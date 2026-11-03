@@ -1284,7 +1284,7 @@ grallina 2
 gnatsnapper 5
 ganges 2
 granch 2
-giddying
+giddying 1
 gunnels 3
 granulose 1
 ginkgo 1
@@ -7180,7 +7180,7 @@ graphitoid 1
 gnawable 5
 gloryful 2
 generalship 1
-gospoda 4
+gospoda 5
 gillotage 2
 granuloma
 gonomery 1
@@ -10217,7 +10217,7 @@ groundneedle 1
 generaliser 4
 grippers 2
 guzzled 2
-guile 6
+guile 7
 gyrectomies 7
 galluses
 groundsel 1
