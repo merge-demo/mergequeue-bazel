@@ -2555,7 +2555,7 @@ finlandization 1
 fluvicoline 5
 fleerer 6
 flimp 5
-ferricyanide 1
+ferricyanide 2
 ferrihydrocyanic 3
 fervency 2
 freshmanship 1
@@ -4637,7 +4637,7 @@ formazyl
 francophilism 4
 firked 2
 factorizations 4
-fullnesses 3
+fullnesses 4
 fanging 4
 frigidities 2
 formulations 1
@@ -9845,7 +9845,7 @@ footcloths 2
 fluellen 6
 foredestine 1
 foxily
-funnelform 1
+funnelform 2
 fibrosarcoma 1
 flexanimous 5
 flexibleness 4
