@@ -2456,7 +2456,7 @@ fornax 5
 ferruginated 2
 flowable 1
 fungal 2
-foliocellosis 3
+foliocellosis 4
 fairnesses 1
 frithborgh 6
 firelocks 2
@@ -2635,7 +2635,7 @@ flusters 2
 foreshoulder 4
 figuratively 2
 fastidious 1
-frumentation 2
+frumentation 3
 familiarisation 2
 forcipulata 3
 farmyardy 2
@@ -7244,7 +7244,7 @@ fiorded 2
 flumed 5
 footsy 2
 foiled 4
-footslogger 5
+footslogger 6
 flailed 6
 financiery 2
 fatstocks 2
@@ -8482,7 +8482,7 @@ formularizing 3
 frontierman 3
 fumado 2
 frow 2
-figment 2
+figment 3
 forked 3
 formica
 foolishly 1

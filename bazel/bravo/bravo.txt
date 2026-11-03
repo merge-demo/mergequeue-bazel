@@ -1551,7 +1551,7 @@ ballhooter 4
 backslash 3
 balli
 burmanniaceous
-burlesques
+burlesques 1
 befiddle 1
 bacchanal 2
 brahminism
@@ -3208,7 +3208,7 @@ breadth 1
 ballerinas 2
 beknave 3
 baclava 3
-bravish 2
+bravish 3
 blowzily
 basidiospore 3
 basidiosporous 2
@@ -4393,7 +4393,7 @@ breakwater 2
 behoney 1
 bullshit 1
 beanweed
-bunyas
+bunyas 1
 bebeerin 1
 bennettitales
 bovenland
@@ -6708,7 +6708,7 @@ bologna 2
 bermensch 1
 brith
 bermes 1
-bourgeoisify
+bourgeoisify 1
 bagaudae 2
 biked 3
 blurted 2
@@ -10893,7 +10893,7 @@ buttals 2
 blasphemy 2
 bevue 3
 bronchoadenitis 1
-ba 1
+ba 2
 benn 1
 biffing 1
 blooded 1
@@ -11734,7 +11734,7 @@ bajocian 3
 breton 7
 bajree 1
 bobsledded
-berascal
+berascal 1
 britoness 2
 burier
 bobsleded 2
@@ -16481,7 +16481,7 @@ brusker 1
 brushlet
 bendayed
 burrhel 3
-biscacha 1
+biscacha 2
 brushproof
 buzzes
 birdfarms 1
@@ -17784,7 +17784,7 @@ bedcovers 3
 burrheadedness 2
 baroneted 2
 blinkered 1
-backing 2
+backing 3
 boosters
 bounce
 bejabers 2
