@@ -1687,7 +1687,7 @@ electrothermancy 1
 ellan 2
 esophagi
 eddoes
-elaioleucite
+elaioleucite 1
 eyebright 3
 electrotheraputics 1
 extemporaneous 4
