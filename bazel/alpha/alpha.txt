@@ -9605,7 +9605,7 @@ aeroembolism
 ascence
 alulim 2
 anthogenesis 1
-alumel
+alumel 1
 amarna 2
 agrom 1
 alumic 1
@@ -10570,7 +10570,7 @@ aludels
 affectate 1
 amygdala
 antirobin 2
-amygdalaceous 2
+amygdalaceous 3
 animated 3
 amygdalase
 amygdalate 1
