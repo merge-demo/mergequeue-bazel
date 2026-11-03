@@ -3806,7 +3806,7 @@ dhobey
 deification 2
 disaugment 1
 dressiness 1
-drepanididae 2
+drepanididae 3
 despited 4
 describes 2
 diarrhoea 1
@@ -9421,7 +9421,7 @@ dredge 2
 dismountable 2
 dejunkerize 1
 diffusions
-diffusive 1
+diffusive 2
 diffusors 3
 diabolus 1
 diner 2
