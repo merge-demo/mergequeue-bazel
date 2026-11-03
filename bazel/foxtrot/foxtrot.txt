@@ -6265,7 +6265,7 @@ flota 3
 fadingly 2
 fluxer 5
 forewisdom 3
-fingerwork 2
+fingerwork 3
 frisian 2
 fluidist 2
 festers 1
@@ -6782,7 +6782,7 @@ fantasy 2
 fleechment 3
 fluoroscopic 3
 frosts 4
-frosteds 4
+frosteds 5
 fledgeless 1
 foldage 2
 foredevised 4
