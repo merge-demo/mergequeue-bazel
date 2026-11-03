@@ -2029,7 +2029,7 @@ buffoonesque
 bicollaterality 2
 bankrolled 1
 bankrolling 1
-bankrupt 1
+bankrupt 2
 bosporan
 burl 2
 bankruptism 4
