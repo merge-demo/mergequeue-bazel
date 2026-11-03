@@ -7699,7 +7699,7 @@ endotheliomata 4
 eboulement 2
 endlichite
 euphemiser 2
-electrotautomerism
+electrotautomerism 1
 expoundable 2
 epideistic 3
 enthymematical 3
