@@ -1180,7 +1180,7 @@ educatable 2
 educatedness
 electrolyzable 1
 eudiometric 1
-educates 3
+educates 4
 engrainedly 2
 egrimony 3
 entitule
@@ -12625,7 +12625,7 @@ effray 1
 encirclement
 excoriate 2
 exoculate 3
-expostulates 1
+expostulates 2
 ecclesiasticalness 1
 exoculation 3
 exoderm 4
@@ -12745,7 +12745,7 @@ exceeds
 exorbitation 1
 eloah 2
 epidemiologically
-epispinal 4
+epispinal 5
 emulatively 2
 ethers 2
 emmenagogic 4
