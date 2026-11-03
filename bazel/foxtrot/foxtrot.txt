@@ -769,7 +769,7 @@ fanciless 1
 foliicolous 2
 forestaff 1
 fragrance 2
-fallows 2
+fallows 3
 fandangos 2
 fandoms 4
 frivolized 2
