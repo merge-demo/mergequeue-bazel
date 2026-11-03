@@ -715,7 +715,7 @@ enterozoa 4
 equalable
 expressionable 3
 epiglottic 3
-embraciveg 1
+embraciveg 2
 eosinate 2
 enneaspermous 1
 enabler 2
@@ -1687,7 +1687,7 @@ electrothermancy 1
 ellan 2
 esophagi
 eddoes
-elaioleucite
+elaioleucite 1
 eyebright 3
 electrotheraputics 1
 extemporaneous 4
@@ -12313,7 +12313,7 @@ epanisognathous 3
 endotracheitis 2
 equimolecular 3
 epimerite 1
-erichtoid 2
+erichtoid 3
 eavesing 3
 enjambment 3
 eradicating 1

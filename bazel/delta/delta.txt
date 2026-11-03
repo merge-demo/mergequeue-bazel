@@ -8124,7 +8124,7 @@ diacoelia 2
 desmolase 1
 dextroduction 2
 dupping 1
-diabolise 2
+diabolise 3
 diabolising
 diabolist 1
 denitrificator 2
@@ -9082,7 +9082,7 @@ dictyotales 1
 dors 1
 dictyotic 1
 drinkability 1
-dailiness 3
+dailiness 4
 devow 2
 drubbed 2
 devance 1
