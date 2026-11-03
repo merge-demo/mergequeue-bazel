@@ -3705,7 +3705,7 @@ batty
 barny
 brookflower 4
 beild
-battier 3
+battier 4
 brightest
 batting 4
 battings 2
@@ -3787,7 +3787,7 @@ boatsmanship 1
 bitterbush 3
 brujas 2
 binitarian
-bauble 2
+bauble 3
 bantay 1
 bandwagons 1
 baublery 2
@@ -11591,7 +11591,7 @@ brushite 1
 budgeted
 bisontine 2
 boarded 2
-besmudged 1
+besmudged 2
 blastoffs 1
 boardings
 boardsmanship 2
