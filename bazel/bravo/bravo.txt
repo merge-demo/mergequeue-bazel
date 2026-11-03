@@ -9177,7 +9177,7 @@ booed
 biomasses
 biparasitic
 bogy 1
-boudoirs 1
+boudoirs 2
 babblesome 2
 benzophenanthrazine 2
 balsaminaceous 2
@@ -13913,7 +13913,7 @@ bacteriotropic 2
 binoculate 2
 birdlike 3
 bowstrung
-behavior 1
+behavior 2
 bowtell 1
 barographic 2
 backpointer 1
