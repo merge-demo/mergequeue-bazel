@@ -14490,7 +14490,7 @@ acetaldehydase
 almoign 1
 anthropodeoxycholic
 achenium 1
-anthropogenic 1
+anthropogenic 2
 animadverts
 addictiveness
 affrontedly
@@ -22912,7 +22912,7 @@ atorai
 arzun 1
 atour 2
 amitie
-atoxyl
+atoxyl 1
 adjutants 2
 annat 2
 anticentralist
