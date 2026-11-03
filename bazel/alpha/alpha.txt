@@ -2207,7 +2207,7 @@ anomalipod 2
 abattue
 adventuristic
 achromaticity
-achromatisation 3
+achromatisation 4
 acetophenine 2
 acrestaff 1
 archangel
@@ -7495,7 +7495,7 @@ albumenization 1
 albumenized 2
 autopathography 1
 aerophoto
-albumenizer
+albumenizer 1
 albumenoid 2
 archtreasurer 1
 albumens 1
@@ -16158,7 +16158,7 @@ alcedines 1
 abiotically 1
 antisiphon
 advenae 1
-appall 2
+appall 3
 aidable 3
 aviatorial 2
 adeps 1
