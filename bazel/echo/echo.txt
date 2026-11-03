@@ -1981,7 +1981,7 @@ ecstatically 3
 ekasilicon 1
 elachistaceous 2
 euthamia 1
-earthen 2
+earthen 3
 etherialize 1
 exteriorate 3
 elastics
@@ -8156,7 +8156,7 @@ erudit 1
 echeveria 2
 episcopate 2
 expulsions 3
-entosphere 1
+entosphere 2
 elaidinic 1
 estacade 4
 episcopature 2
