@@ -5879,7 +5879,7 @@ beggardom 3
 bretons 1
 butterbur
 bellwether 2
-bradmaker 1
+bradmaker 2
 bellwort 2
 belock 2
 basimesostasis 1
@@ -16574,7 +16574,7 @@ bsh
 butyrochloral 1
 bt 1
 btry 2
-bots 1
+bots 2
 brocho
 bracingness 1
 beaverish 2
