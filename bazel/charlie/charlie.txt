@@ -341,7 +341,7 @@ cacodaemonial
 cradle 3
 cemented
 cysticercus
-cacodemon 1
+cacodemon 2
 cacodemonia 3
 cowtongue
 cacodemoniac 2
@@ -7406,7 +7406,7 @@ cephalotaceae
 chalaziferous 1
 cephalotaxus
 conventicles
-cephalothoraxes 2
+cephalothoraxes 3
 cephalotomy
 corozo 1
 chippering 3
