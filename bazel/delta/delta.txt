@@ -3740,7 +3740,7 @@ dehisce 2
 dasymeter 1
 dichromism 1
 deglutinate 1
-depot
+depot 1
 domitic 1
 delegated 1
 disprove 1
