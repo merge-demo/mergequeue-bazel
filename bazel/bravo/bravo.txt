@@ -11151,7 +11151,7 @@ bacteroidal 1
 bandarlog 2
 boiloff 2
 balloters 2
-bloodthirster 1
+bloodthirster 2
 beliquors 1
 blindages 1
 beknot
