@@ -12478,7 +12478,7 @@ damageableness
 dancette
 dexterity 2
 defy 6
-deboise
+deboise 1
 demesne 1
 dislimb 2
 disyllabized 2
