@@ -7904,7 +7904,7 @@ fork 5
 floes 1
 fetticus 4
 forewarned 2
-feiseanna 3
+feiseanna 4
 featherworker 3
 foresee 4
 faitor 1
@@ -9906,7 +9906,7 @@ filamentose 3
 fogeater 2
 fevercup 1
 fenestrone 2
-formalin 2
+formalin 3
 formalizes 1
 foretells 1
 fistfuls
