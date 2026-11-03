@@ -11689,7 +11689,7 @@ castane
 cushier 1
 cholos
 choloscopy
-cholterheaded 1
+cholterheaded 2
 choltry
 chirrups
 creekstuff 1
@@ -31337,7 +31337,7 @@ cinematographers 1
 clamber 1
 curetted
 curetting
-canales
+canales 1
 cawk 1
 consolitorily 2
 cruziero
