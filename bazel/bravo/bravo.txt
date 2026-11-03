@@ -4555,7 +4555,7 @@ bedad 1
 bedaggle 1
 breeding 2
 berrybush 1
-beday 1
+beday 2
 babul 2
 biddable 2
 baldrib 3
@@ -5879,7 +5879,7 @@ beggardom 3
 bretons 1
 butterbur
 bellwether 2
-bradmaker 1
+bradmaker 2
 bellwort 2
 belock 2
 basimesostasis 1
@@ -9392,7 +9392,7 @@ birdseye
 baculiticone 2
 birdsnest 1
 bungfu
-bargehouse
+bargehouse 1
 borak
 befitting 1
 basichromatic 1
@@ -13296,7 +13296,7 @@ botanically
 botanics 2
 bridechamber 2
 botanies 1
-botanist 1
+botanist 2
 botanize 2
 brushmen 3
 boswellizing
@@ -16574,7 +16574,7 @@ bsh
 butyrochloral 1
 bt 1
 btry 2
-bots 1
+bots 2
 brocho
 bracingness 1
 beaverish 2
