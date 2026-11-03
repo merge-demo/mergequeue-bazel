@@ -7306,7 +7306,7 @@ engird 1
 excheat 4
 encharnel 2
 emigres 2
-eristics 3
+eristics 4
 etherealize 1
 emulous 1
 eimeria 2
@@ -10468,7 +10468,7 @@ effluviums
 ericius
 etypically 2
 emblemed 1
-enteroviral
+enteroviral 1
 etherin 2
 epochist 2
 exalate 2
@@ -12608,7 +12608,7 @@ exocoelum 2
 epifascial 1
 empresa 2
 epistylis 7
-eustathian 2
+eustathian 3
 eyeserver 4
 exocrines 1
 emanative 3
