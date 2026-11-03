@@ -559,7 +559,7 @@ galleryite 5
 gravidness 1
 garde 5
 goolah 6
-gazometer 1
+gazometer 2
 galempong 3
 getfd 2
 growls 1
@@ -4558,7 +4558,7 @@ genocidal
 grademark 7
 gnarred 4
 girder 5
-gil 4
+gil 5
 generalate 1
 goosebill 3
 geometrid 1
@@ -8703,7 +8703,7 @@ gawkier 4
 guttling 3
 germiniparous 2
 greekize 2
-gleave 2
+gleave 3
 gulravage 2
 gavelling 4
 grammars 2
