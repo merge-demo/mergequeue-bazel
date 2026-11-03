@@ -10022,7 +10022,7 @@ fringetail 3
 foreplot 3
 fimbles
 farmerlike 1
-frogskin 1
+frogskin 2
 fortune 2
 fibrocystoma
 favors 1
