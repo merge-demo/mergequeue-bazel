@@ -15285,7 +15285,7 @@ diamylose 1
 diluviums 1
 dolmas 1
 dolmen 2
-desubstantiate 3
+desubstantiate 4
 dolomedes
 discovery 4
 dolomite 2
@@ -16428,7 +16428,7 @@ draba
 disassembles
 drabant 2
 draughthouse 3
-dextrotartaric 2
+dextrotartaric 3
 dichotomousness
 disgregated
 dolichocercic
@@ -17091,7 +17091,7 @@ deconcentrated 3
 dryfoot 2
 drift 3
 driftage 3
-deficient 1
+deficient 2
 decatyl 3
 diaboleptic 2
 detenebrate 3
