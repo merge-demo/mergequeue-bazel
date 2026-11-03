@@ -1553,7 +1553,7 @@ grounder 3
 gazetting 4
 gainbirth 4
 gunsels 5
-glaik 1
+glaik 2
 grulla 2
 glimes
 graphitized 2
@@ -3259,7 +3259,7 @@ glucemia 3
 geometrising 2
 geosynclines 2
 goetical 4
-gere 2
+gere 3
 gereagle 1
 gleeful 4
 gauze 4
@@ -3977,7 +3977,7 @@ gynecocratical 6
 guano 2
 guardage 3
 grassnut 4
-grex 4
+grex 5
 gluttonousness 6
 graphometrical 3
 grillework 1
