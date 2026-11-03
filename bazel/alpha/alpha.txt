@@ -1176,7 +1176,7 @@ adjustor 3
 acanthia 3
 anthropogenetic
 apocryphally 2
-acanthion 2
+acanthion 3
 atrosanguineous 2
 acanthocephalous 3
 acanthocladous 2
@@ -7475,7 +7475,7 @@ arable 5
 achromic
 agelong 1
 agma
-anchoress
+anchoress 1
 albuginea 2
 archivist
 albugines
@@ -7738,7 +7738,7 @@ aldehyde 5
 antiprudential 1
 awfuller 1
 adhesional
-apostatical 2
+apostatical 3
 armscye 1
 aldehydine 1
 alderamin 3
@@ -9995,7 +9995,7 @@ artiller 2
 amberjacks
 ahankara 1
 atraumatic
-afraidness 1
+afraidness 2
 aye 2
 antisepticise
 adirondack
@@ -17991,7 +17991,7 @@ approximates 3
 approximation
 approximations 1
 achlorophyllous
-approximative 2
+approximative 3
 approximativeness 1
 allods 1
 approximator 2
