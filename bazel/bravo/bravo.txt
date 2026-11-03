@@ -6708,7 +6708,7 @@ bologna 2
 bermensch 1
 brith
 bermes 1
-bourgeoisify
+bourgeoisify 1
 bagaudae 2
 biked 3
 blurted 2
@@ -10893,7 +10893,7 @@ buttals 2
 blasphemy 2
 bevue 3
 bronchoadenitis 1
-ba 1
+ba 2
 benn 1
 biffing 1
 blooded 1
@@ -11659,7 +11659,7 @@ bilsted 2
 blindfast
 boomless 1
 bedding 1
-bragget 1
+bragget 2
 beneficience 4
 bribability
 boattail
@@ -17784,7 +17784,7 @@ bedcovers 3
 burrheadedness 2
 baroneted 2
 blinkered 1
-backing 2
+backing 3
 boosters
 bounce
 bejabers 2
