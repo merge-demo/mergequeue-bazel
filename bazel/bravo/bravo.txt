@@ -15571,7 +15571,7 @@ boardable 1
 brisking 1
 briss
 backwoodsman 2
-bolsterer
+bolsterer 1
 brist 3
 bombproof 2
 bristled 1
