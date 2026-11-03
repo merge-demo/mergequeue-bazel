@@ -4831,7 +4831,7 @@ fracticipita 5
 faunus 2
 fishberries 1
 firepower 3
-flinthead 1
+flinthead 2
 fleay 1
 fainer 2
 foil 4
@@ -10298,7 +10298,7 @@ frenziedness 3
 forleaving 3
 foundationless 5
 finfoot 3
-fervorlessness 1
+fervorlessness 2
 fustilugs 2
 futurely 1
 farriers 3
@@ -11733,7 +11733,7 @@ futurologist 2
 fluorinations 5
 funebrous 2
 futurologists 3
-filibustered 3
+filibustered 4
 flatland 1
 futwa 4
 fete 4
