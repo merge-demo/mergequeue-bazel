@@ -8415,7 +8415,7 @@ emancipatress 2
 epizoic 2
 eudaemonia 1
 ensigncy 2
-equals 1
+equals 2
 epizoon 4
 edemic 2
 emblossom 3
@@ -13958,7 +13958,7 @@ epimer 2
 endokaryogamy 2
 enface 3
 electropoion 1
-escheatage
+escheatage 1
 extraparochial 4
 equicurve 3
 ectophytic 2
