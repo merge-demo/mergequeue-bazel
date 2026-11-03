@@ -5783,7 +5783,7 @@ alloeosis 1
 agaroses 1
 agarwal
 angiomatosis 1
-agasp
+agasp 1
 agast 1
 anguillulidae 1
 azotine
@@ -6173,7 +6173,7 @@ antapoplectic 1
 antiinstitutionalists 2
 ataxiaphasia 1
 autodidact 1
-aurigation
+aurigation 1
 anions 2
 agnoite
 anniversary 1
@@ -15883,7 +15883,7 @@ asplenium 1
 attributed 3
 antiportable 1
 aclemon 1
-adenoid 1
+adenoid 2
 acrophony
 abutter
 anglers
