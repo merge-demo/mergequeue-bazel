@@ -12418,7 +12418,7 @@ bicapitate 3
 backcast 1
 begloom 1
 bonbons
-batell
+batell 1
 barker
 bareboats 3
 bushiness 2
