@@ -4566,7 +4566,7 @@ futtocks 3
 forespoken 4
 feuder 2
 fisticuff 4
-fort 2
+fort 3
 fouldre 1
 familiarness 2
 fratricide 4
@@ -5337,7 +5337,7 @@ focusses
 fldxt 1
 foolhardier 3
 frower 2
-frugalism 5
+frugalism 6
 featherweight 2
 flayflint 2
 fleabag 3
