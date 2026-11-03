@@ -4662,7 +4662,7 @@ dryopithecid 2
 demivolt 1
 disprobative 1
 demissory
-demystify
+demystify 1
 deus 3
 demystification 3
 demurring
