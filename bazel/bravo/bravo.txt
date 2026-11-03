@@ -12287,7 +12287,7 @@ boltwork 1
 bolus 1
 bomb 2
 barratrous 1
-bombacaceae 2
+bombacaceae 3
 bombace 2
 behang 3
 bioscientist 5
