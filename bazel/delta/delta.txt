@@ -4964,7 +4964,7 @@ demote
 demoted 2
 demotes 2
 disomus 1
-demotions
+demotions 1
 deferent 4
 dysmeromorph 2
 daystar 1
