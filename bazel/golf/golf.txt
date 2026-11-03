@@ -5852,7 +5852,7 @@ galvanoplastic 3
 grundel 3
 gadger 1
 gladify 4
-gate
+gate 1
 gymnosporangium 1
 gynoecium 2
 glucate 1
