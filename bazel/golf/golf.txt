@@ -4574,7 +4574,7 @@ girds 1
 guaranies
 grids 2
 girella 1
-gracefully 3
+gracefully 4
 girellidae 4
 grotesqueries 3
 gurts 3
@@ -10114,7 +10114,7 @@ gabe 1
 gauderies 4
 grummels 3
 granado 3
-guetre 4
+guetre 5
 gropers 3
 glairin 1
 greynesses 2
@@ -10378,7 +10378,7 @@ garbanzos 2
 giambeux 1
 gonyalgia 2
 gunda 1
-griddles 3
+griddles 4
 glycyls 6
 gelatiniser 2
 gutta 1
