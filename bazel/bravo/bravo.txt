@@ -7472,7 +7472,7 @@ betumbled 4
 blitheful 2
 balconied 2
 bengals 4
-biomicroscope 6
+biomicroscope 7
 bowne 2
 besant 4
 burtree 2
@@ -12863,7 +12863,7 @@ bondslave 1
 behorror 4
 bifoil 1
 birthplace 2
-bg 3
+bg 4
 bacchiac
 bangster
 bkpt 4
