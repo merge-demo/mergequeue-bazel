@@ -4597,7 +4597,7 @@ carns 2
 chamaecistus 1
 caro
 cuarto 1
-contemplator 1
+contemplator 2
 caroa 4
 colleger 1
 commonsensible
@@ -19904,7 +19904,7 @@ collectives 1
 contriturate 2
 clayish
 comity 1
-comitia 1
+comitia 2
 comitial
 colortype
 comitium 1
