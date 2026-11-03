@@ -1404,7 +1404,7 @@ expungeable 6
 extraterrestrial 1
 engrailment 1
 earl 2
-electrodialyses 1
+electrodialyses 2
 electrometrically 3
 expandedness 2
 emetins 3
@@ -2003,7 +2003,7 @@ exophoric 2
 ekphorias
 empetrum 1
 experienceless 2
-eryngo 3
+eryngo 4
 ekron 1
 encephalocele 4
 educement
@@ -2938,7 +2938,7 @@ exacinate 2
 equicostate
 encystation 1
 elias 3
-epitomiser
+epitomiser 1
 epistomal
 egyptian 4
 etchings 4
@@ -7306,7 +7306,7 @@ engird 1
 excheat 4
 encharnel 2
 emigres 2
-eristics 3
+eristics 4
 etherealize 1
 emulous 1
 eimeria 2
@@ -7989,7 +7989,7 @@ epidermous 2
 expenselessness 3
 epineuneuria 3
 enterocholecystostomy 1
-evolutionary 1
+evolutionary 2
 epineurium 2
 enormousness 2
 enclaving 3
@@ -10468,7 +10468,7 @@ effluviums
 ericius
 etypically 2
 emblemed 1
-enteroviral
+enteroviral 1
 etherin 2
 epochist 2
 exalate 2
@@ -12608,7 +12608,7 @@ exocoelum 2
 epifascial 1
 empresa 2
 epistylis 7
-eustathian 2
+eustathian 3
 eyeserver 4
 exocrines 1
 emanative 3
@@ -12630,7 +12630,7 @@ ecclesiasticalness 1
 exoculation 3
 exoderm 4
 elohistic 2
-electrophore 3
+electrophore 4
 eranthemum 1
 extramurally 5
 emeus 1
