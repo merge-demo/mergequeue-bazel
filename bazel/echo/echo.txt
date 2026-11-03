@@ -5285,7 +5285,7 @@ exudatory 2
 endoradiosonde 1
 extract 2
 exfiguration 1
-embryotrophy 2
+embryotrophy 3
 espinillo 1
 etaerio 2
 exactor
@@ -5629,7 +5629,7 @@ elevators 2
 enfolds 1
 eneuch 1
 emigated 3
-epicist 3
+epicist 4
 episiostenosis
 entyloma 3
 energistic
