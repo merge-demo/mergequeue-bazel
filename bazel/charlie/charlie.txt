@@ -29936,7 +29936,7 @@ cymas 3
 crosslink 1
 crossness
 cladophorales 3
-crossopt 2
+crossopt 3
 carposporangia
 crossopterygii 1
 chromonema
