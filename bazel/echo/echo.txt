@@ -3654,7 +3654,7 @@ eleutherism 2
 electrocuted
 ennoic 2
 epichilium 2
-enwheeled 2
+enwheeled 3
 embrectomy 1
 emergency 1
 epiphloedic 2
@@ -7699,7 +7699,7 @@ endotheliomata 4
 eboulement 2
 endlichite
 euphemiser 2
-electrotautomerism
+electrotautomerism 1
 expoundable 2
 epideistic 3
 enthymematical 3
@@ -10028,7 +10028,7 @@ extill 1
 embarking 3
 exempting 2
 equalist 1
-endocrinism
+endocrinism 1
 endoperidial
 endogamous 1
 eterne 2
@@ -13040,7 +13040,7 @@ escoba 4
 emrode 3
 expatriated 2
 exhibiting 1
-ebauchoir 4
+ebauchoir 5
 euhemerised 1
 ebonites 2
 epiperipheral 1
