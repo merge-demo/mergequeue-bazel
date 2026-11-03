@@ -4737,7 +4737,7 @@ disremember 1
 demobilising 3
 democracy
 diploneural 3
-diethylaminoethanol 3
+diethylaminoethanol 4
 democracies 1
 democrat 1
 dawdles 1
@@ -6961,7 +6961,7 @@ dribble 4
 distomian 1
 dioptases 1
 dicaryon 1
-discouragedly 1
+discouragedly 2
 disentrancement 1
 dysuric 1
 despisable 1
@@ -8879,7 +8879,7 @@ dicacity 1
 deodorising 1
 dicaeidae 1
 dwarfed
-dinergate
+dinergate 1
 direr
 dicalcium 1
 dacoits 3
@@ -11410,7 +11410,7 @@ depopulator 1
 diphosphothiamine 3
 discipular
 desktop 3
-discontentedly 4
+discontentedly 5
 deadbeats 1
 doctrinize 3
 disclass 4
@@ -13094,7 +13094,7 @@ dispensatory 1
 detrain 2
 develed
 dispensatress 5
-dadaisms 5
+dadaisms 6
 dispensed 3
 dabbed 1
 disglory 2
