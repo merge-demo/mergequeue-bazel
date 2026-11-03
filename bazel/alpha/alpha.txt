@@ -3622,7 +3622,7 @@ antipellagric 2
 adenochrome
 abnumerable 1
 allopathies
-antepectoral 1
+antepectoral 2
 adenocystomatous 1
 apollos
 adenodynia 1
@@ -12681,7 +12681,7 @@ airsick 3
 angelet 1
 angelfishes 2
 arreptitious
-autoheterosis 1
+autoheterosis 2
 activity 1
 angelically 1
 auxograph 1
@@ -16615,7 +16615,7 @@ acalculia
 apeek
 adipocyte 1
 apelles 2
-acuminate
+acuminate 1
 athirst 3
 amphigonic 1
 affiliate 2

@@ -7382,7 +7382,7 @@ betises 1
 byproduct 3
 botrycymose 3
 birdbath
-baze 1
+baze 2
 burleys 1
 braker
 busyworks 1
@@ -12287,7 +12287,7 @@ boltwork 1
 bolus 1
 bomb 2
 barratrous 1
-bombacaceae 2
+bombacaceae 3
 bombace 2
 behang 3
 bioscientist 5
