@@ -5268,7 +5268,7 @@ dialogistic 1
 demarcations 4
 denseness
 dorsel 2
-depauperized 2
+depauperized 3
 densify 2
 disqualifications 1
 didelphic
@@ -8879,7 +8879,7 @@ dicacity 1
 deodorising 1
 dicaeidae 1
 dwarfed
-dinergate
+dinergate 1
 direr
 dicalcium 1
 dacoits 3
