@@ -2843,7 +2843,7 @@ binaurally 3
 bawrel 1
 bioscopies
 backslashes 2
-bitterbump 3
+bitterbump 4
 bullionist 2
 buttonmold 1
 barbery 2
@@ -3109,7 +3109,7 @@ benben 1
 bobet
 bisinuation 1
 baseborn 2
-becher
+becher 1
 birdlime 1
 baseburner 1
 basecourt 2
@@ -10897,7 +10897,7 @@ ba 2
 benn 1
 biffing 1
 blooded 1
-blindfish 1
+blindfish 2
 blindfishes 2
 bluelegs 2
 blindfolded 1
