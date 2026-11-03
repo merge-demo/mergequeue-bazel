@@ -9985,7 +9985,7 @@ dirigomotor
 dermohemia 1
 divinable
 dinothere
-dimly
+dimly 1
 dimmer 2
 defensor 3
 dasyatidae 3
