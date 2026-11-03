@@ -3255,7 +3255,7 @@ emancipates 2
 esophagospasm
 eelgrasses 3
 embuia 2
-elute 1
+elute 2
 elution 1
 esthesiometric 2
 enzymatically 1
@@ -4505,7 +4505,7 @@ escocheon 2
 erythrophagous 5
 encephalitic 1
 executively
-emulators 3
+emulators 4
 embryophyta
 encephalographic 4
 ekphorize 1
@@ -6040,7 +6040,7 @@ evites 1
 exhaustlessly
 eurhythmics 2
 ectodermoidal 3
-enumerates
+enumerates 1
 enkidu 1
 ekatantalum 4
 enterospasm 2
@@ -6831,7 +6831,7 @@ eumenes 1
 ectosarcs 1
 elix 1
 enl 1
-equestriennes 1
+equestriennes 2
 ethnogenic 3
 emmenology 3
 epicranial 3
@@ -12165,7 +12165,7 @@ embastioned
 elasmobranchian 1
 exiguity 3
 excusably 4
-enswathing
+enswathing 1
 entertainments 2
 ethaldehyde
 estrado 4

@@ -8708,7 +8708,7 @@ abouchement 1
 allergenicity
 atheology 1
 alang
-ankylotome 1
+ankylotome 2
 actinopod 3
 amygdalopathy 1
 allergin 1
@@ -17737,7 +17737,7 @@ appositely
 applicative 3
 ammunition 1
 applicatively 2
-applicatory
+applicatory 1
 appliedly
 afterdischarge 2
 allegorized 1
