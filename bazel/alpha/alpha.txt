@@ -6305,7 +6305,7 @@ agraria 3
 amyelonic
 aerotactic 2
 attenuant
-abvolt
+abvolt 1
 adjectively
 aute 1
 animative 2
@@ -20107,7 +20107,7 @@ aroxyl
 ateliers
 aggur
 auteciousness
-arpeggios 1
+arpeggios 2
 arpen 1
 apiologies 1
 arpents 1
