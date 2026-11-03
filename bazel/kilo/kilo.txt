@@ -333,7 +333,7 @@ kafmph 2
 kafmpsm 5
 kafo 3
 kafpro 2
-kafpslit
+kafpslit 1
 kafqaafyhw 1
 kafqgpkhjeah 2
 kafrhzmy 1
