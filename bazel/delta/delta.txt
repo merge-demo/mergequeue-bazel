@@ -4527,7 +4527,7 @@ demigauntlet 2
 doting 2
 disclosing 2
 decussis 2
-dendrite 1
+dendrite 2
 decern 3
 dorsilumbar 1
 distraughted 2
@@ -11733,7 +11733,7 @@ dyscrasic 2
 demissness 1
 dactylologies
 dimane 1
-decoupage
+decoupage 1
 disco 2
 dopamelanin 2
 discreation 2
@@ -13929,7 +13929,7 @@ distinguishedly 1
 distinguishes 1
 diaspine 1
 dextrosinistrally 1
-dodding
+dodding 1
 distinguishment
 deutoplasm 3
 disinsulation 1
@@ -14529,7 +14529,7 @@ discoverers
 divinized 2
 divinizes 1
 demarche 2
-diatomean 1
+diatomean 2
 dismembrated
 depicters 1
 duodenary 2
@@ -14665,7 +14665,7 @@ drill 3
 djebels 2
 djehad 6
 deferens 1
-djellabah 1
+djellabah 2
 decanically 1
 dampest 1
 djerib
@@ -15101,7 +15101,7 @@ disfrequent 2
 dogmatise 1
 dogmatised 2
 dressoirs 1
-dogmatizer
+dogmatizer 1
 dispensator
 discotheques
 darkeners 3
@@ -15167,7 +15167,7 @@ debuggers 2
 disensoul 1
 decalcifying
 dedolomitizing
-dewooling 2
+dewooling 3
 dottle 3
 decolourisation 2
 decahydrate 1
