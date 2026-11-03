@@ -2441,7 +2441,7 @@ grograms 5
 glutch 1
 grandpas 4
 gemmologists 2
-gekkones 2
+gekkones 3
 gimels 4
 grillage
 gemmulation 2
@@ -6149,7 +6149,7 @@ gatefolds 4
 globical 3
 glavered 1
 gardy 3
-grumpish 4
+grumpish 5
 gnapweed 4
 gallification 1
 grammar 1
@@ -6404,7 +6404,7 @@ goshenite
 goidelic 1
 goldeyes 2
 gingivalgia 2
-glommed 1
+glommed 2
 gastroduodenoscopy 1
 gemmules 1
 gematria 1
@@ -8084,7 +8084,7 @@ geomorphogeny 3
 giblets 4
 grimily 6
 granophyre 1
-gooseliver
+gooseliver 1
 gnathostegite 1
 guglets 1
 gymnophobia 2
@@ -8718,7 +8718,7 @@ guaranteing 3
 golosh 1
 gnathonic 2
 girosols 3
-guazuma 3
+guazuma 4
 gonys 2
 greenrooms 1
 garlics 5
@@ -10573,7 +10573,7 @@ gunmetal 2
 grecoue 2
 giftedly 2
 gurmukhi 2
-goffering 3
+goffering 4
 gneissitic 3
 gatewoman 3
 grenadiership 2
