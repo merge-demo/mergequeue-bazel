@@ -7475,7 +7475,7 @@ arable 5
 achromic
 agelong 1
 agma
-anchoress
+anchoress 1
 albuginea 2
 archivist
 albugines
@@ -9995,7 +9995,7 @@ artiller 2
 amberjacks
 ahankara 1
 atraumatic
-afraidness 1
+afraidness 2
 aye 2
 antisepticise
 adirondack

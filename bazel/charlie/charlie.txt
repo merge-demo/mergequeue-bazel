@@ -3380,7 +3380,7 @@ ciseleurs 2
 cappiest 5
 capping
 cervelas
-cyclopite 3
+cyclopite 4
 coenact 1
 comfits 1
 cappings
@@ -20264,7 +20264,7 @@ chitin
 cliona 2
 communalise
 communalism 2
-communalistic 2
+communalistic 3
 confederacies 2
 communalization 1
 congressional
