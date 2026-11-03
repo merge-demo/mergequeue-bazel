@@ -4527,7 +4527,7 @@ demigauntlet 2
 doting 2
 disclosing 2
 decussis 2
-dendrite 1
+dendrite 2
 decern 3
 dorsilumbar 1
 distraughted 2
@@ -11733,7 +11733,7 @@ dyscrasic 2
 demissness 1
 dactylologies
 dimane 1
-decoupage
+decoupage 1
 disco 2
 dopamelanin 2
 discreation 2
