@@ -389,7 +389,7 @@ galant 3
 galanthus 3
 guilery 7
 ganymedes 6
-gains 2
+gains 3
 goys 3
 glassiest 1
 goalposts 3
@@ -2584,7 +2584,7 @@ goosefish
 granodiorite 2
 giltheads
 guillotined 5
-grassed 3
+grassed 4
 gyrogonite 3
 guigne 3
 gargling 4
@@ -3160,7 +3160,7 @@ gellant 2
 gavotte 4
 glowered 3
 ginnings 1
-goat 1
+goat 2
 graduating 1
 gelechiidae 2
 geoscopy 1
