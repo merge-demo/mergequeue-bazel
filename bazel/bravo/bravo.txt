@@ -11521,7 +11521,7 @@ blunger 3
 blunk
 berrypicker 1
 bdellid 1
-blameworthiness
+blameworthiness 1
 boswellism 2
 buckaroos 2
 blunket 2
