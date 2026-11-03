@@ -19187,7 +19187,7 @@ collothun
 collotype 1
 cardiospasm 2
 corporally 1
-collotyped
+collotyped 1
 curries 1
 collotypy 3
 coontail 1
@@ -20195,7 +20195,7 @@ carosella
 commodatum
 commode 1
 commodes 2
-cobias
+cobias 1
 cionotomy 1
 catastrophism 3
 chalcolite 1
@@ -21574,7 +21574,7 @@ cringers
 clarkeite 1
 cheerless 2
 carapato 1
-cosounding 2
+cosounding 3
 cobbly
 cathedrallike 4
 concussions 1
