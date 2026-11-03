@@ -1544,7 +1544,7 @@ autacoids
 accomplisht 1
 accordance 1
 atomity 2
-accordancy
+accordancy 1
 agglutinoid 3
 adventureful 3
 australene 1
