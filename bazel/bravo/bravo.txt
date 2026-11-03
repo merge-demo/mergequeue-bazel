@@ -5250,7 +5250,7 @@ backmost 1
 blastocyst 1
 begats 2
 bolters 2
-bastes 2
+bastes 3
 bothsided 4
 begazing
 bimasty 1
@@ -7707,7 +7707,7 @@ bhara 2
 bharal 1
 basaltiform
 bhat
-burglaries 3
+burglaries 4
 bunning 2
 bheesty 1
 bullaries 3
@@ -12855,7 +12855,7 @@ boon 2
 brevifoliate
 bibliog 1
 blipped
-boondoggling
+boondoggling 1
 banishers
 boonfellow
 betrayers 4

@@ -7376,7 +7376,7 @@ coquettishness 1
 cephalomant 1
 cephalomeningitis 1
 compute 1
-cleansing 1
+cleansing 2
 cephalomere
 cyclostylar 3
 cephalometric
@@ -13339,7 +13339,7 @@ centerwise 1
 cyclopteroid
 compactification 1
 czarist 2
-cyclorama
+cyclorama 1
 cycloramic 1
 coaling 1
 consonantly
