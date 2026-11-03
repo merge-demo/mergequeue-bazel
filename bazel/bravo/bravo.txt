@@ -6853,7 +6853,7 @@ bigener 3
 buicks 2
 bioluminescent
 bescourge 2
-baboos
+baboos 1
 buckeroos 2
 bust 2
 bescramble 3
@@ -13305,7 +13305,7 @@ benzanalgen 1
 brachioradialis 3
 botanizes 1
 bulbless 1
-balsamed 1
+balsamed 2
 bacterially
 bemat 2
 bradburya
