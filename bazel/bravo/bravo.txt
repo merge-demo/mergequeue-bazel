@@ -7994,7 +7994,7 @@ bitemporal 1
 beedged 1
 byname 2
 bick 2
-bicycler
+bicycler 1
 bluebooks 1
 bisiliac 3
 bickerer 1
