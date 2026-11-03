@@ -1356,7 +1356,7 @@ empty 3
 efferently
 efferents 1
 effervescency 2
-eights
+eights 1
 epode 1
 endoskeletal 1
 essentialness 4
@@ -3468,7 +3468,7 @@ eductive 2
 ethnol 3
 exceptionableness 1
 ensepulchering 2
-enamels 2
+enamels 3
 enthronement 1
 ebionism 2
 ekhimi
@@ -10471,7 +10471,7 @@ emblemed 1
 enteroviral
 etherin 2
 epochist 2
-exalate 1
+exalate 2
 encroachingly 4
 elance 2
 etiquette 1
