@@ -3705,7 +3705,7 @@ batty
 barny
 brookflower 4
 beild
-battier 3
+battier 4
 brightest
 batting 4
 battings 2
@@ -6035,7 +6035,7 @@ blacktail 1
 bemuddlement 2
 bemuddles 1
 bemuddling
-bemurmur 1
+bemurmur 2
 bondwoman 2
 butyral
 bemurmure 2
@@ -8174,7 +8174,7 @@ burfish
 bier 1
 broid 3
 baleens 4
-byronically 3
+byronically 4
 beatable
 boone 1
 battailous 2
@@ -11591,7 +11591,7 @@ brushite 1
 budgeted
 bisontine 2
 boarded 2
-besmudged 1
+besmudged 2
 blastoffs 1
 boardings
 boardsmanship 2
