@@ -10885,7 +10885,7 @@ esclandre 3
 exsolve 1
 exrupeal 3
 emmetropia 2
-eutectic
+eutectic 1
 extensor 2
 embryoplastic 3
 esthetic 2
