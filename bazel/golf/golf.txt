@@ -4640,7 +4640,7 @@ gustatorially 1
 gallup 2
 greenheart 2
 gyrating 3
-galvanise 2
+galvanise 3
 gorillaship 2
 goatbush 1
 gammarid 2
@@ -9019,7 +9019,7 @@ graving 2
 gwantus 6
 gritstone 1
 grasswidow 1
-ghent 4
+ghent 5
 gneissose 5
 geog 2
 gobletful 2
