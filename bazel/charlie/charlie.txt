@@ -341,7 +341,7 @@ cacodaemonial
 cradle 3
 cemented
 cysticercus
-cacodemon 1
+cacodemon 2
 cacodemonia 3
 cowtongue
 cacodemoniac 2
@@ -3380,7 +3380,7 @@ ciseleurs 2
 cappiest 5
 capping
 cervelas
-cyclopite 3
+cyclopite 4
 coenact 1
 comfits 1
 cappings
@@ -13185,7 +13185,7 @@ campshot 1
 cyclamens 1
 cyclamine 1
 cyclane 1
-cataphonic 1
+cataphonic 2
 clin
 craftsmanlike
 chetahs
@@ -20264,7 +20264,7 @@ chitin
 cliona 2
 communalise
 communalism 2
-communalistic 2
+communalistic 3
 confederacies 2
 communalization 1
 congressional
@@ -20666,7 +20666,7 @@ caudotibial
 complementers
 camleted
 cauter
-complementoid
+complementoid 1
 cooperations
 chionididae 1
 curvous
