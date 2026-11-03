@@ -15532,7 +15532,7 @@ disaffection 1
 disintegrationist 1
 disvalued
 derobe 2
-dispassionateness
+dispassionateness 1
 dement 1
 dewanny 1
 disuniformity
