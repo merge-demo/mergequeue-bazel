@@ -6339,7 +6339,7 @@ gemots 3
 gametal 1
 gearings 6
 giglio 1
-genarchaship 5
+genarchaship 6
 graptoloidea 2
 goatsucker 1
 graplines 3
@@ -10294,7 +10294,7 @@ gibblegabble 7
 gastrulating
 guitarists 1
 grossularite 3
-galvanomagnet 2
+galvanomagnet 3
 gigantically 3
 gorges 2
 gridded

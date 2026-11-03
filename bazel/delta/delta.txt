@@ -1865,7 +1865,7 @@ deblock
 disedification 2
 disappointer 2
 dijudicate 2
-distensibilities 1
+distensibilities 2
 dispunge 1
 dissimulation 1
 dalespeople
@@ -13791,7 +13791,7 @@ defections
 disturbedly
 disenchants 1
 dion 2
-dissuasion 1
+dissuasion 2
 depravedly 3
 dirndls 2
 dissuasively
