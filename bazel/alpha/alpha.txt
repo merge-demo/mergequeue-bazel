@@ -22198,7 +22198,7 @@ astigmatoscope
 astigmatoscopy 2
 astigmic 2
 antiphon 3
-astigmometer
+astigmometer 1
 aglossa 2
 astigmometry
 alluviate 2
