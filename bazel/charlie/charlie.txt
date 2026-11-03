@@ -23934,7 +23934,7 @@ cacological
 conv 1
 convalesced
 convalescence 2
-convalescently 1
+convalescently 2
 convalescents 1
 convalesces 2
 convalescing
@@ -26723,7 +26723,7 @@ crackerjack
 counterbarrage
 checkmark
 cardiotomy 2
-carromatas
+carromatas 1
 cars
 cartelization
 counterbattery 1
@@ -26917,7 +26917,7 @@ counterly 2
 creeshie
 counterlight 3
 counterlilit 2
-counterlove 1
+counterlove 2
 countermaid 1
 conflictingly 2
 contrectation 1
@@ -31686,7 +31686,7 @@ cushionless 2
 ciruses 1
 cushionlike 1
 cushions 2
-cushitic
+cushitic 1
 cusie
 cusinero
 consent 2
