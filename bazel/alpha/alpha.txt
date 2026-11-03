@@ -15393,7 +15393,7 @@ axiomatize 3
 antilysin 2
 anther
 alloploidy
-awaited 3
+awaited 4
 abrasion
 argonaut 2
 antilithic 1
