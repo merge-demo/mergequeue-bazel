@@ -408,7 +408,7 @@ deoppilation 1
 desiccating 1
 diversity 1
 daintiness 1
-daiquiri 3
+daiquiri 4
 dingle 2
 diriment 1
 diathermia 1
@@ -1865,7 +1865,7 @@ deblock
 disedification 2
 disappointer 2
 dijudicate 2
-distensibilities 1
+distensibilities 2
 dispunge 1
 dissimulation 1
 dalespeople
@@ -5957,7 +5957,7 @@ dingly 1
 damascening 3
 dianthus
 destalinize 2
-discussible
+discussible 1
 dayfly
 diplodus 2
 deprogrammed
@@ -13791,7 +13791,7 @@ defections
 disturbedly
 disenchants 1
 dion 2
-dissuasion 1
+dissuasion 2
 depravedly 3
 dirndls 2
 dissuasively
