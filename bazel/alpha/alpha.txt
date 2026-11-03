@@ -3776,7 +3776,7 @@ astrogeny 1
 allayers 1
 adhibition 1
 antidemocracies
-apologies 2
+apologies 3
 anthobiology
 alberta
 awol
@@ -12105,7 +12105,7 @@ anatase
 ardebs
 anatases
 ancestress
-apogamically 1
+apogamically 2
 aspartate
 anathematical 2
 anathematisation 3
@@ -18243,7 +18243,7 @@ aptyalia 1
 antiprofiteering 1
 adherescent 1
 arbiters 2
-affidavit
+affidavit 1
 agoras 1
 alsoon
 arabians 2
@@ -24193,7 +24193,7 @@ autolater 1
 advertising 1
 autolatry 2
 aguara 1
-artemia 1
+artemia 2
 antherless 1
 autolithograph 1
 autoinfection 3
