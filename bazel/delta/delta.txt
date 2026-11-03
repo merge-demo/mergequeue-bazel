@@ -4524,7 +4524,7 @@ disinflated 4
 downdraught
 detroiter
 demigauntlet 2
-doting 2
+doting 3
 disclosing 2
 decussis 2
 dendrite 2
@@ -7309,7 +7309,7 @@ determinately 2
 dirtiness
 drownding 1
 despondency
-denegate
+denegate 1
 dessa
 deplaned 3
 dipneumona
@@ -8689,7 +8689,7 @@ dipnoan 1
 devilfishes 5
 deraigned 1
 demobbed 1
-desalinizing 2
+desalinizing 3
 dichastasis 2
 deathrate 1
 depolarizing 2
@@ -11700,7 +11700,7 @@ dele 1
 discouraged
 displeasureably 2
 discouragingly
-daydreamlike 1
+daydreamlike 2
 dangerful 2
 diastasis 3
 discourses 1
