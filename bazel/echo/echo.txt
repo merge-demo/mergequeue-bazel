@@ -4894,7 +4894,7 @@ equalizing
 exponentiations 1
 elemental 4
 effeminateness 2
-excludible 4
+excludible 5
 explete 5
 enjamb 3
 encroachments 2
@@ -6345,7 +6345,7 @@ eschar
 euchred 5
 expiatory 4
 ensphered
-eyespot 3
+eyespot 4
 enseal 4
 estancias
 esophoric 2
@@ -12570,7 +12570,7 @@ exoascaceous 4
 exoascales 1
 enkindled 1
 exobasidiaceae 2
-ebionize 6
+ebionize 7
 epruinose 1
 exobasidiales 5
 etc 2

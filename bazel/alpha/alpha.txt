@@ -6303,7 +6303,7 @@ aylet
 ashur
 agraria 3
 amyelonic
-aerotactic 2
+aerotactic 3
 attenuant
 abvolt 1
 adjectively
@@ -14019,7 +14019,7 @@ adjustation 3
 affronting 3
 arrhythmia 2
 aloha
-anomalurus 4
+anomalurus 5
 ariser
 aldamin 1
 abstemious 3
@@ -20031,7 +20031,7 @@ autographing
 antiamboceptor 3
 aroynts 1
 arolia 4
-artus
+artus 1
 acervatim 1
 azonal 2
 auspices 2
