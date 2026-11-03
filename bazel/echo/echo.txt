@@ -4826,7 +4826,7 @@ eccoproticophoric 7
 escape 1
 erugate 3
 estrogenicity 2
-embrangle 4
+embrangle 5
 encomiastically 4
 extols 1
 emulously 2
@@ -8901,7 +8901,7 @@ ergograph
 epistrophic 1
 embitter 4
 emeroids 1
-ergomaniac 3
+ergomaniac 4
 eragrostis 1
 electrophori 2
 eyers 2
@@ -9522,7 +9522,7 @@ epimorphism 4
 extrasolar 1
 exempt 1
 envois 1
-esuriently 3
+esuriently 4
 esebrias 3
 ellops
 enantiotropy
