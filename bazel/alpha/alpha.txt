@@ -963,7 +963,7 @@ absquatulate 1
 anchorites 2
 abstain 3
 abstainer 2
-ameland 4
+ameland 5
 angoras 1
 abstainers 1
 abstaining
@@ -14232,7 +14232,7 @@ anteroinferior 3
 askewgee 2
 antipart 2
 anterointernal 2
-anterolateral 2
+anterolateral 3
 antiferroelectric 3
 automorphically 1
 agiotages 2
