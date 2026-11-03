@@ -12391,7 +12391,7 @@ eryon 5
 essencing 3
 electrolyze 2
 eucleidae
-earn 1
+earn 2
 estriol 3
 encephalology 3
 ephemerida
@@ -13599,7 +13599,7 @@ exiledom 5
 eyeblink
 extemporary 3
 extemporisation
-ewing 1
+ewing 2
 extraspinal 1
 extemporized 3
 escallonia 3
@@ -13880,7 +13880,7 @@ extradosed 1
 entireties 1
 environments 4
 ectobronchium 1
-eucalyptus 2
+eucalyptus 3
 enviers 1
 extraessential
 extrafine 2
