@@ -981,7 +981,7 @@ ganched 3
 gonotokont 2
 goner 4
 gerodontology 5
-granddads 3
+granddads 4
 gundi 1
 gramercy 2
 gouge 3
@@ -4202,7 +4202,7 @@ gene 6
 graphomania 3
 grandfather 2
 gnathopod 5
-gosmore 1
+gosmore 2
 glotum 3
 gatchwork 2
 greying 8
@@ -8641,7 +8641,7 @@ grip 2
 gladdy 2
 grantee 3
 greaseproofness 5
-gastronomical 1
+gastronomical 2
 gests 2
 grizzliness 3
 groynes 1
