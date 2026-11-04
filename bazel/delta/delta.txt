@@ -3736,7 +3736,7 @@ dehydrogenisation 1
 daddling 2
 delustrant 2
 dackering 2
-dehisce 2
+dehisce 3
 dasymeter 1
 dichromism 1
 deglutinate 1
@@ -5632,7 +5632,7 @@ disorganiser 1
 disprivilege 1
 detainingly
 depravingly 2
-dorsumbonal 3
+dorsumbonal 4
 deuterotokous
 dogtrick
 dephycercal 2
