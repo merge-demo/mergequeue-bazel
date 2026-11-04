@@ -5525,7 +5525,7 @@ furrower 4
 furnit 4
 fisc 4
 faked 7
-filionymic 7
+filionymic 8
 forbearingness 1
 frowzy 3
 furbelowing
@@ -6397,7 +6397,7 @@ forefoot
 fronture 5
 furry 6
 formalization 4
-frogspawn 2
+frogspawn 3
 fafnir
 fecundatory 2
 formularization 1
