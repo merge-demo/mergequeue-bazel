@@ -8103,7 +8103,7 @@ antimethodicalness 3
 absented
 asboline 2
 algarrobin 1
-abrahamitic
+abrahamitic 1
 algas 3
 algate 1
 anthropologic 3
@@ -9967,7 +9967,7 @@ authenticities 1
 assayer
 ambaris
 ambas
-ambassade
+ambassade 1
 appreciatively 1
 alkynes 2
 adactylia
@@ -14856,7 +14856,7 @@ autospray 1
 apenteric 2
 antimachinery 2
 anticyclic 1
-arrondi
+arrondi 1
 alife 1
 anticyclical 1
 apocodeine 2

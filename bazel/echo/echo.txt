@@ -13904,7 +13904,7 @@ etheria
 esthesio 2
 extrameridional 1
 extrametrical 2
-eccl
+eccl 1
 extramission 4
 erythrism
 expiscated 2
@@ -14022,7 +14022,7 @@ endothecia 1
 epitrophic
 electromotive 3
 exr 1
-enthrallingly 1
+enthrallingly 2
 enteroclisis
 extractorship 2
 extrasterile
