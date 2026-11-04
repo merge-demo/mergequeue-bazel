@@ -8569,7 +8569,7 @@ glomeli 2
 gainliest
 grat 2
 growths 5
-gastrocnemius 1
+gastrocnemius 2
 glabriety 5
 griqua 3
 gravity 4
@@ -10672,7 +10672,7 @@ geocentricism
 glyceryl 1
 grove 3
 glyphographic 3
-generalty 4
+generalty 5
 glycerols 4
 gurnard
 gib 4
