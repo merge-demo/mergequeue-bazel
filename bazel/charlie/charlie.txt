@@ -27662,7 +27662,7 @@ coweringly
 cowers
 cowgrass 1
 cowhage 2
-cowhand
+cowhand 1
 cowherb 1
 cowherds 2
 cerium 1
