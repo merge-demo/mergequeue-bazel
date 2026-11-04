@@ -3361,7 +3361,7 @@ candlestick
 catapetalous
 counterweighing 1
 capotasto
-capotastos
+capotastos 1
 choicest 1
 chronographically
 celsius
@@ -5734,7 +5734,7 @@ catchiest
 cordelling 1
 cakebread 2
 catching 2
-carolean 1
+carolean 2
 cannon 1
 catchlight 1
 cultivatability
@@ -21874,7 +21874,7 @@ coziness 2
 cancellarian 2
 confelicity 2
 confer
-cataclasm
+cataclasm 1
 chaetosema 1
 conventionalist
 cuspated
