@@ -6920,7 +6920,7 @@ airspeeds 1
 az 1
 adrent 2
 airt
-actionability 1
+actionability 2
 aphanozygous 1
 adibasi 3
 ablepharia 1
