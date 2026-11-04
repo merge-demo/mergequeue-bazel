@@ -1796,7 +1796,7 @@ featherwise 1
 fjorded
 femcee 3
 familiarisingly 2
-fishhooks
+fishhooks 1
 flamingos 5
 federalizes 3
 fetisher 6
@@ -5612,7 +5612,7 @@ flight 3
 frusla 4
 fortitude 4
 flighter
-fraik
+fraik 1
 fleysome 3
 forehock 2
 funicular 1
