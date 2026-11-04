@@ -5510,7 +5510,7 @@ fiddlies 5
 faroelite 2
 fleshliness 6
 faceteness 2
-fw 1
+fw 2
 flacker 2
 fleshmonger 1
 fcy 2
@@ -6434,7 +6434,7 @@ frivoled 2
 frogeye 6
 fluoaluminate 4
 fainted 3
-frictionable
+frictionable 1
 flatcap 1
 fairs 1
 fibrinolysis
