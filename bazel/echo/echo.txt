@@ -2112,7 +2112,7 @@ elasmothere 1
 euphoniously 2
 ebullioscope 2
 emulge 1
-excretory 2
+excretory 3
 elastica 1
 extrapolator 3
 elastically 1
@@ -9155,7 +9155,7 @@ ermines 3
 epiloguize 1
 ectoenzyme
 ectocinerea
-encolor 4
+encolor 5
 enates 3
 ernes 3
 erode 1
@@ -13106,7 +13106,7 @@ experientialism 1
 eschevin 4
 encarpuspi 2
 entosarc 1
-extensionality 5
+extensionality 6
 ergology 2
 euphonizing 3
 engarrison 4

@@ -2265,7 +2265,7 @@ glarry 7
 gospeller 4
 gangrel 4
 grandpaternal 4
-glamoury 1
+glamoury 2
 gigantoblast 2
 gunroom 2
 gammoning 3
@@ -6767,7 +6767,7 @@ grandmotherism 2
 ghostmonger 1
 gynander 2
 glycogens 1
-gaolers 3
+gaolers 4
 glaireous 6
 gobleted 5
 graybeards 4
@@ -7598,7 +7598,7 @@ guanamine 2
 gullibility 2
 gorkhali 5
 guarantied 4
-gangliar
+gangliar 1
 gopherman 2
 gravimetrically 2
 greengroceries 5
