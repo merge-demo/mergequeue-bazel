@@ -23035,7 +23035,7 @@ att 2
 attacca
 adjuring
 absences
-amphibolite 2
+amphibolite 3
 antiperistaltic 2
 attempt 1
 antecell
