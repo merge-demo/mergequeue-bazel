@@ -16788,7 +16788,7 @@ antipascha 1
 antifrictional 1
 abscoulomb 5
 algarsyf
-aphorise 1
+aphorise 2
 aphorismer
 aphorismical
 acanthopore 1
@@ -17901,7 +17901,7 @@ allodesmism 2
 appressorium 4
 abhorred 2
 appreteur 3
-atloidoaxoid
+atloidoaxoid 1
 akinetic 2
 atherogenic
 appreve 1
