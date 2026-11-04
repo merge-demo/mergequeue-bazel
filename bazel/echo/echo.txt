@@ -13241,7 +13241,7 @@ ethize 3
 engram
 explement 1
 envine 3
-edacity
+edacity 1
 endocranium
 ephebeum
 envisioned 4
