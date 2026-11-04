@@ -4386,7 +4386,7 @@ feltwork 1
 flybook 3
 fixion 5
 fishboats 5
-fonduk
+fonduk 1
 fishbolts 1
 flechette 1
 funt 2
