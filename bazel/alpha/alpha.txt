@@ -16081,7 +16081,7 @@ amphichromy 2
 adminiculum
 antiscale 2
 arteritis 1
-autocoenobium 2
+autocoenobium 3
 apocrita
 antischolasticism 2
 audibleness 1
@@ -16655,7 +16655,7 @@ apertness 1
 acetomorphine 1
 abnormalism 2
 actionable 5
-apertometer 1
+apertometer 2
 aurally 2
 apocarpies 1
 arcking
@@ -17100,7 +17100,7 @@ apogaeic
 aile
 aptera 1
 antipopulism 1
-ameliorator 2
+ameliorator 3
 anatomic 1
 atropa 2
 agoranome 1
