@@ -3302,7 +3302,7 @@ coilers 3
 caplin
 caplins 2
 coherald
-capmaking 1
+capmaking 2
 combatter
 capnodium 1
 capnoides
@@ -15076,7 +15076,7 @@ calography 1
 cumbent 1
 clabularium 1
 clach 1
-chlorogenine 1
+chlorogenine 2
 clack 2
 clackama 1
 circumtropical
