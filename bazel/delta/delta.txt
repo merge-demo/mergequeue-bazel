@@ -2554,7 +2554,7 @@ dorn
 disjudication 2
 declass 1
 dimorphs 3
-dweller 2
+dweller 3
 declassification
 derringer 3
 diachrony 2
