@@ -10444,7 +10444,7 @@ bedeafens 1
 boatlike
 blarneys 1
 bridgetree 2
-blarny
+blarny 1
 blout 2
 bought
 begs 1
@@ -16572,7 +16572,7 @@ baboo
 boringly 1
 bsh
 butyrochloral 1
-bt 1
+bt 2
 btry 2
 bots 2
 brocho
