@@ -356,7 +356,7 @@ flaggelate 3
 fivish 1
 factions 1
 forfeiture 4
-flyingly 2
+flyingly 3
 fellers 2
 flattering 2
 fiercening 2
@@ -3601,7 +3601,7 @@ fairbanks 1
 fourniture 5
 flank 4
 filers 3
-fructification 4
+fructification 5
 felinity 2
 floorway 4
 files 1
@@ -7270,7 +7270,7 @@ focalized 3
 frater
 footiest 1
 ferbam 4
-fenestrate 1
+fenestrate 2
 failance 1
 furazan
 freesheet 1
