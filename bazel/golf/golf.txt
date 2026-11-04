@@ -905,7 +905,7 @@ gez 1
 gelatinizability 3
 genome 2
 guahivo 1
-genteeler 1
+genteeler 2
 gaverick 4
 geld 2
 guna 4
@@ -985,7 +985,7 @@ granddads 4
 gundi 1
 gramercy 2
 gouge 3
-greasebush 2
+greasebush 3
 glyconin 5
 glycogenesis 2
 goldhammer 1
