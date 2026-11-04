@@ -6079,7 +6079,7 @@ gonzo 1
 gallature 3
 grinding 2
 gnathostomata 2
-gastrocnemial 3
+gastrocnemial 4
 gypsography 3
 gph 3
 gnats 4
@@ -10404,7 +10404,7 @@ gyracanthus
 gourdhead 4
 gambreled 1
 granitelike
-gigot
+gigot 1
 geejee
 glareworm 1
 graduality 3

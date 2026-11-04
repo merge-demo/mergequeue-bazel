@@ -8232,7 +8232,7 @@ divers 1
 damasked 2
 dissectors 3
 dulcor
-diorism
+diorism 1
 diadochic 2
 diadochite 2
 diadochokinesia
@@ -13353,7 +13353,7 @@ discerns 2
 desanding 3
 discord 1
 disputes 2
-disdiaclast 1
+disdiaclast 2
 disputing 1
 dayflower
 demonstrableness 1
