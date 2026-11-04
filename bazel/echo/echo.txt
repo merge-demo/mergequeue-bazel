@@ -12525,7 +12525,7 @@ eunicid 1
 epicalyx
 ezan 2
 etymologized 4
-euphemy 2
+euphemy 3
 emissaria 2
 enhalos 3
 eugeny
@@ -14066,7 +14066,7 @@ enquarter
 extracurriculum 1
 entablature
 encephalomata 2
-enfect
+enfect 1
 errantry 5
 entoplastral 2
 epigastral 1

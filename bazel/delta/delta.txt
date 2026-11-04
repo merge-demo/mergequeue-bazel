@@ -4779,7 +4779,7 @@ darwin
 dangs 2
 dpt 1
 dilated 2
-detours
+detours 1
 dismisser
 demodulating 3
 designless 1
@@ -8588,7 +8588,7 @@ diaphtherin
 dulcifies 1
 durative 1
 demihake 5
-digressionary 3
+digressionary 4
 devourer 2
 daphnioid
 diapirs 2
