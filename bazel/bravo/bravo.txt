@@ -4109,7 +4109,7 @@ bowmaking 4
 beelbow 2
 beardfishes
 beswarms 2
-botulinum
+botulinum 1
 beardy 1
 blanchimeter 2
 bearding 2
