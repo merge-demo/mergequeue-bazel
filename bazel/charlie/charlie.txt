@@ -14484,7 +14484,7 @@ ciscoes 2
 cise
 cyclose 1
 comprisable
-checkrail
+checkrail 1
 cephaloplegic
 ciseaux
 courante 2
