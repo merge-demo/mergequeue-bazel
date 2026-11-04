@@ -6438,7 +6438,7 @@ frictionable
 flatcap 1
 fairs 1
 fibrinolysis
-fungi 2
+fungi 3
 fistulariidae
 finery 4
 flapjack
