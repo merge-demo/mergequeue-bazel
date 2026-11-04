@@ -1541,7 +1541,7 @@ egoisticalness 2
 evoke 1
 embow 1
 encarnadine 5
-engloom 1
+engloom 2
 emarginately 3
 epistolographer 3
 eggfruit 1
@@ -8426,7 +8426,7 @@ exchange 3
 electrizer 1
 evisceration 2
 egyptianize 1
-equip
+equip 1
 enjoyment 1
 eglogue 4
 endothecate 2
