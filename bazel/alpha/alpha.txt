@@ -13466,7 +13466,7 @@ aob 1
 ahnfeltia
 annexa 2
 attitudist 1
-annexation 1
+annexation 2
 annexational
 areaways 1
 alette 2
@@ -16057,7 +16057,7 @@ anaphasic 1
 adenophyma 1
 antirevolution
 antirevolutionist
-antirheumatic
+antirheumatic 1
 anaptyxes 2
 achango 3
 autoradiographic 1

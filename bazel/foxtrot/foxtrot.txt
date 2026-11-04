@@ -289,7 +289,7 @@ firbolg
 flagarie 2
 fideism 4
 fissle 1
-foxfire 5
+foxfire 6
 fledges 1
 fragmentisation 1
 flanks 1
@@ -5076,7 +5076,7 @@ flamelet 2
 fun 4
 fuligo 2
 fundless 2
-fumettes
+fumettes 1
 frsikets 7
 flagboat 3
 flareback 3
@@ -8148,7 +8148,7 @@ flectionless 3
 foregate 5
 forthwith 3
 fretless
-ferberite 5
+ferberite 6
 fructuosity 3
 fossilology 2
 foretrace 3
