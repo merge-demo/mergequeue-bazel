@@ -623,7 +623,7 @@ gemmiparously 4
 glassed 2
 gnaphalioid 2
 gallisin 2
-gunslingers 7
+gunslingers 8
 gillie 6
 geophysicist 3
 gigartina 4
@@ -5714,7 +5714,7 @@ gertrude 3
 glowbard 2
 gurneyite 4
 gerres 5
-gloveress 2
+gloveress 3
 gimmaled 3
 gpad 2
 ganglioneuron 2

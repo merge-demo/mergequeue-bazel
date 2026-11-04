@@ -5706,7 +5706,7 @@ eflagelliferous 1
 evomit 1
 eppie 3
 extraventricular 3
-extras 2
+extras 3
 episcopalism 2
 egotisticalness 4
 emerson 1
@@ -9076,7 +9076,7 @@ epistropheus 1
 equivocations 2
 educe 2
 erythrolein 1
-enteromorpha 3
+enteromorpha 4
 electrothermostatic 1
 ennobled 1
 eschalots 4
