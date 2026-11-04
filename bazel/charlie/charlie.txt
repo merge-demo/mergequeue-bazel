@@ -16499,7 +16499,7 @@ classical 2
 cloggier
 chiliasm
 clogginess
-cuve 1
+cuve 2
 changoan 1
 commercialisation 1
 cheddite
@@ -19063,7 +19063,7 @@ camb
 colliflower 1
 cruset 1
 colligate 1
-colligating
+colligating 1
 cookbook
 cecropia 3
 commutual

@@ -6323,7 +6323,7 @@ exteriorising 1
 endpapers 2
 echinosphaerites 1
 enharmonically
-earnful
+earnful 1
 emodin 1
 embrocation 2
 ejusd 1
@@ -8073,7 +8073,7 @@ ego 4
 ektodynamorphic 2
 endamebic 1
 earthworks 2
-epineural 1
+epineural 2
 euphrasy 2
 exosporal 1
 empeopled
@@ -13241,7 +13241,7 @@ ethize 3
 engram
 explement 1
 envine 3
-edacity
+edacity 1
 endocranium
 ephebeum
 envisioned 4

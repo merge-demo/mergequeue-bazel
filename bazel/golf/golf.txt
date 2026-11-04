@@ -2656,7 +2656,7 @@ greatest 3
 guaraguao 1
 gospodipoda 5
 grangerisation 4
-gloriosity 1
+gloriosity 2
 gangliectomy 2
 gourde 2
 gervas 2
@@ -4236,7 +4236,7 @@ gyromagnetic 1
 galvanomagnetism 3
 gynaecological 1
 gabbiness 3
-gobbing 5
+gobbing 6
 gastornis 1
 gynaeconitis 5
 geysers 1
@@ -10001,7 +10001,7 @@ graveness 5
 gargled 2
 gelatinify 4
 galago 5
-grignet 4
+grignet 5
 gaslike 5
 gateau
 gudame 3
