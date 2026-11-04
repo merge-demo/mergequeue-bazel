@@ -1028,7 +1028,7 @@ antiwit 1
 abstrusity 2
 adlai 1
 abstrusities
-angiogenesis 2
+angiogenesis 3
 aphlaston 5
 absume 2
 absurd 1
@@ -6393,7 +6393,7 @@ agrobacterium
 aparithmesis 1
 analytically 2
 agrodolce 1
-aliphatic
+aliphatic 1
 agrogeology
 aleucaemic
 agrogeological
