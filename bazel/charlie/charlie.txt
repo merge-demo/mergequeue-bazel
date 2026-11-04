@@ -8061,7 +8061,7 @@ chaetopod
 castores 1
 cirrated
 chaetopodan 3
-chaetopterus 2
+chaetopterus 3
 chaetosoma 2
 chrysophlyctis 1
 chaetosomidae
@@ -16220,7 +16220,7 @@ clinkant
 clinkerer 2
 clinkery
 clinkering
-clinking
+clinking 1
 chields 2
 concessionaries
 concrfsce 4

@@ -815,7 +815,7 @@ emmers 3
 epispadias 2
 edaphically 3
 euglenidae 4
-earthquave 1
+earthquave 2
 ectypal
 ectype 1
 enwrite 3
@@ -2401,7 +2401,7 @@ electroscopes 1
 ethnotechnics 4
 epicaridan
 electrodeless
-exponentials 1
+exponentials 2
 ectogenetic 4
 energist 3
 electrodeposition
