@@ -5786,7 +5786,7 @@ boxers
 bromocyanide
 blueprinted 1
 beflatter 1
-brassworker 1
+brassworker 2
 becrawling 3
 bromization
 bedlamic 1
@@ -9842,7 +9842,7 @@ bityite 1
 botcher 2
 burnsian
 banderols 2
-baldpated 1
+baldpated 2
 bitmap 2
 buccaneering
 bimbos 4
