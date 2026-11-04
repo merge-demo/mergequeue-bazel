@@ -16891,7 +16891,7 @@ buffs 1
 brei 3
 blurring 1
 barbu 1
-bivalves 1
+bivalves 2
 bulbil 2
 barvell 1
 bufotalin 3
