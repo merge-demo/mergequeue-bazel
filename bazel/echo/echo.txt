@@ -12531,7 +12531,7 @@ enhalos 3
 eugeny
 enneacontahedron 1
 exoskeleton 1
-exist 1
+exist 2
 existed
 elucidating 1
 esne 3
