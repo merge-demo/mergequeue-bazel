@@ -5370,7 +5370,7 @@ evzones 1
 endocline 1
 epicrystalline 2
 encoring 1
-enarme 3
+enarme 4
 endosteomata 3
 enwingly 4
 excarnate 2
@@ -8593,7 +8593,7 @@ equidimensional 2
 equidist 2
 exrx
 essancias 3
-endophytically 2
+endophytically 3
 eyebolts 1
 eumerogenesis 2
 endocarp 2

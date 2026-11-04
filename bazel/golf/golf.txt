@@ -1678,7 +1678,7 @@ gastrodermal 3
 gastrodermis 5
 gulfweed 3
 guayabo
-gastroduodenitis 3
+gastroduodenitis 4
 guadua 1
 gastroduodenostomy 2
 gastritis 3
@@ -2271,7 +2271,7 @@ gunroom 2
 gammoning 3
 giust 3
 glazily 7
-gonofs 4
+gonofs 5
 greengage 4
 geisa 2
 gadoid 2
