@@ -15162,7 +15162,7 @@ commanderies
 claye
 clayey
 clayer
-contchar 1
+contchar 2
 clayier 2
 centetes
 clayiest 1
@@ -29000,7 +29000,7 @@ coachbuilding
 choledography
 cries 2
 crig 4
-crying
+crying 1
 crile 1
 carpellate 1
 cineast 3
