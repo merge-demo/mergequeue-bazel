@@ -6393,7 +6393,7 @@ agrobacterium
 aparithmesis 1
 analytically 2
 agrodolce 1
-aliphatic
+aliphatic 1
 agrogeology
 aleucaemic
 agrogeological
