@@ -9155,7 +9155,7 @@ ermines 3
 epiloguize 1
 ectoenzyme
 ectocinerea
-encolor 4
+encolor 5
 enates 3
 ernes 3
 erode 1
@@ -13106,7 +13106,7 @@ experientialism 1
 eschevin 4
 encarpuspi 2
 entosarc 1
-extensionality 5
+extensionality 6
 ergology 2
 euphonizing 3
 engarrison 4
