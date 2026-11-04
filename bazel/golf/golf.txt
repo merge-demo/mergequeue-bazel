@@ -3011,7 +3011,7 @@ goldenknop 3
 gorgoniacean 4
 gaps 2
 goatherdess 3
-guildsmen 2
+guildsmen 3
 geomancy 3
 garnered 1
 grumbled 1
@@ -8974,7 +8974,7 @@ greenbul 2
 glenlivet 4
 gachupin 1
 guaiacums 3
-gastrocolpotomy 3
+gastrocolpotomy 4
 gibbier 5
 gull
 gubbo 1
