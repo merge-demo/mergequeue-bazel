@@ -15565,7 +15565,7 @@ donovan 4
 dons 2
 deltahedron 1
 donsie 1
-deflocculent
+deflocculent 1
 donsky 1
 donum 1
 donzel 2
