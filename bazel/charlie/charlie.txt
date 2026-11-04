@@ -14911,7 +14911,7 @@ continuedly
 cordites 1
 creaks 1
 chupak
-cytostomal
+cytostomal 1
 camouflaged
 cordwood 1
 cytostromatic 1
@@ -17904,7 +17904,7 @@ childbirth 2
 codpitchings 1
 cods 3
 cephalanthus 3
-codswallop 2
+codswallop 3
 coueism 2
 channels
 coedit 1
