@@ -998,7 +998,7 @@ abstractest 1
 adequacy 2
 abstraction
 apostoless 1
-abstractional 2
+abstractional 3
 abstractionist
 adviso
 azogreen 1
@@ -23497,7 +23497,7 @@ ansel 2
 arguendo
 atrabiliarious 1
 augurate
-abulias
+abulias 1
 axiation 1
 avert 2
 augure
