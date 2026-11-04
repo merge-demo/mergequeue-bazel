@@ -9798,7 +9798,7 @@ amamau
 ancyloceras 3
 antimale 1
 amande 2
-acounter 2
+acounter 3
 abaised 2
 actinoid 2
 amanist
@@ -17338,7 +17338,7 @@ amidosulphonal 2
 aposteriori 1
 aerogun 1
 arithmometer
-apostille
+apostille 1
 argos 1
 antagonist 2
 aglycosuric 3
