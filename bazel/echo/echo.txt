@@ -6838,7 +6838,7 @@ epicranial 3
 exoticism 2
 entombs 2
 excremental 1
-eviscerator 1
+eviscerator 2
 entomere 2
 entomic
 emptins 1
@@ -7866,7 +7866,7 @@ electrifiable 1
 epigrammatically 2
 epigamic 2
 ecca 1
-ephod 2
+ephod 3
 enterolith 2
 elbowed 3
 elbower 2
