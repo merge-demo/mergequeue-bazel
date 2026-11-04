@@ -278,7 +278,7 @@ bespangled 2
 belar 2
 back 1
 brachiocubital 2
-backache 1
+backache 2
 burrknot 3
 bocardo 2
 backadation
@@ -14093,7 +14093,7 @@ bogusness
 brachiopoda 3
 baldy
 beltene 1
-bistipular 2
+bistipular 3
 blot
 babbage 2
 blasters 2
