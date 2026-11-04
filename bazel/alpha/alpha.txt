@@ -1269,7 +1269,7 @@ antifoggant 1
 acarpelous 2
 augitic 1
 antisceptic 1
-ais
+ais 1
 acatalectic 1
 apomicts 2
 atelocardia 2
@@ -1756,7 +1756,7 @@ adiamorphism 3
 adsorption 1
 afflicted
 actualist
-asker
+asker 1
 abuse 2
 aceacenaphthene 1
 anticosine 1
