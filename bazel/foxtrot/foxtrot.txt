@@ -151,7 +151,7 @@ folden
 fellaheen 3
 facks 4
 forefront 4
-fumitories 3
+fumitories 4
 foremostly 2
 favus 1
 falls 5
@@ -5527,7 +5527,7 @@ fisc 4
 faked 7
 filionymic 7
 forbearingness 1
-frowzy 2
+frowzy 3
 furbelowing
 fankle 4
 feticides 2
@@ -5961,7 +5961,7 @@ favonius 2
 frenchification 3
 frailly 2
 floodlilit 2
-fivepins 1
+fivepins 2
 futileness 2
 frightening 4
 fallibility 3
