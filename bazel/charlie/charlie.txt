@@ -4970,7 +4970,7 @@ comminate 3
 cartography 1
 cypseli 1
 cartographic
-cartographical 2
+cartographical 3
 cartographically
 carton 3
 cartoner 1
@@ -31387,7 +31387,7 @@ croutons 3
 curio
 curiolofic 1
 culinarily 2
-chemotropic 2
+chemotropic 3
 curiologically 1
 curiologics 1
 chewable 3
