@@ -14425,7 +14425,7 @@ doctus 2
 datedness 1
 depreciatory 2
 demeter
-diversory
+diversory 1
 disfiguringly
 dressmaker
 dimethylamine
