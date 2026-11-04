@@ -1892,7 +1892,7 @@ bandanas 1
 bergama 1
 bandogs 3
 bediademed 2
-barken
+barken 1
 bandoleer 2
 burlesquely 2
 backhoes 1
@@ -2519,7 +2519,7 @@ bucca 1
 beflowers 3
 baggy
 bariatrician 2
-banderilla
+banderilla 1
 baric 1
 barycenter 2
 bemused
@@ -14880,7 +14880,7 @@ baja
 breakers 1
 breakfast 1
 buffetings 1
-bastard 2
+bastard 3
 breakfronts 2
 butlerage 2
 breaking
