@@ -654,7 +654,7 @@ deflowers 2
 dioscorea 2
 demiatheist 2
 dubiocrystalline 3
-dynatrons 1
+dynatrons 2
 dressership 1
 damnous 3
 dusenwind
@@ -9211,7 +9211,7 @@ divertimentos 1
 destinist 3
 debatingly 1
 diehard
-demarkation
+demarkation 1
 disdainly 2
 diehards 1
 dieyerie
