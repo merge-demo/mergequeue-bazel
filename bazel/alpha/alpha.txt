@@ -12190,7 +12190,7 @@ aggressive 1
 ablaut 2
 aerocyst 1
 andira 3
-alienicola
+alienicola 1
 antiritualist
 amidogens 2
 anaxone 2
