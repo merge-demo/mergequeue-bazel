@@ -756,7 +756,7 @@ ecotypically 6
 ecotonal 3
 enclaved 4
 ecaudate 3
-echinocaris 5
+echinocaris 6
 emblematise 3
 evangelism 3
 extorsive 1
@@ -1306,7 +1306,7 @@ equalized 1
 effacers
 ellipsis 1
 exhilarated 1
-exumbrellar 2
+exumbrellar 3
 effect
 endocardiac 1
 exopeptidase 4
@@ -5607,7 +5607,7 @@ embryulcus 1
 enflower 1
 essexite 4
 evaporate
-ectognatha 9
+ectognatha 10
 equalization 5
 epidendrum 4
 elutions 1
