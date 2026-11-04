@@ -4109,7 +4109,7 @@ bowmaking 4
 beelbow 2
 beardfishes
 beswarms 2
-botulinum
+botulinum 1
 beardy 1
 blanchimeter 2
 bearding 2
@@ -4410,7 +4410,7 @@ beclaw 4
 besieged 2
 balm 1
 brandering 5
-budapest 2
+budapest 3
 balantidiosis 3
 barrators 1
 bitstone 4
@@ -11483,7 +11483,7 @@ botryllidae 2
 bluffest 4
 balladmonger
 bluffing
-barish 1
+barish 2
 baba
 banyoro 3
 bigamous
