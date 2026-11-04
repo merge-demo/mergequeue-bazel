@@ -2995,7 +2995,7 @@ etiologies
 embind 3
 explait
 emony
-equiprobabilism 1
+equiprobabilism 2
 eliminated 2
 ectopia 3
 elymus
