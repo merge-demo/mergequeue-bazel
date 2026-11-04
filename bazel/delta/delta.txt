@@ -4353,7 +4353,7 @@ delead
 demersal 4
 demanganization 1
 deliberator 2
-dishonourableness 3
+dishonourableness 4
 ductal 1
 daunton 2
 dispersonalize 2
@@ -8233,7 +8233,7 @@ damasked 2
 dissectors 3
 dulcor
 diorism
-diadochic 1
+diadochic 2
 diadochite 2
 diadochokinesia
 diadoumenos 1
