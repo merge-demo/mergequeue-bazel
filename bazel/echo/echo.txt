@@ -1526,7 +1526,7 @@ everywhere
 etch
 extracalendar 4
 ettarre 2
-emmetropism 1
+emmetropism 2
 egesta 3
 eggberries 1
 enfranchising 2
@@ -2624,7 +2624,7 @@ enjelly 1
 epithelize 2
 exothecate 2
 electrophoretogram 1
-expansure 2
+expansure 3
 exturb 1
 estimated 4
 eave 2
