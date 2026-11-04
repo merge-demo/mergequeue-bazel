@@ -6903,7 +6903,7 @@ desolation 2
 dovetailer
 darkness 2
 dryhouse 1
-didymium
+didymium 1
 dependents 1
 dognap 1
 discolors 1
