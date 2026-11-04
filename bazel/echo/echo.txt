@@ -8944,7 +8944,7 @@ emotiomotor 2
 extrovertive 1
 erigerons 3
 echoers 4
-enables
+enables 1
 enzymatic 2
 expatiators 1
 erring 5
