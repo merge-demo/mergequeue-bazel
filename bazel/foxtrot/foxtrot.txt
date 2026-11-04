@@ -5612,7 +5612,7 @@ flight 3
 frusla 4
 fortitude 4
 flighter
-fraik
+fraik 1
 fleysome 3
 forehock 2
 funicular 1
