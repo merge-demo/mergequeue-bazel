@@ -176,7 +176,7 @@ bunchiest 3
 boroughwide
 bipacks 4
 bulwark
-boh 1
+boh 2
 baccalaureate
 baccalaureates 3
 baccalaureus 1
@@ -2295,7 +2295,7 @@ bizet 2
 beanball 3
 backrest 1
 bromidic 3
-botryomyces 4
+botryomyces 5
 betokened
 budgerygah 2
 bebite
