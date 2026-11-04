@@ -7718,7 +7718,7 @@ britten 1
 bathyscaphe 2
 bravoite 1
 buxerry
-bhikshu
+bhikshu 1
 bullan 2
 breakover 1
 brocard 1
