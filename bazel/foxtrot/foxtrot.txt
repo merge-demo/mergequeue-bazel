@@ -4342,7 +4342,7 @@ freespac 1
 fleshings 3
 formicivora 1
 ficiform 2
-fieriest 2
+fieriest 3
 fibromatoid 4
 fosslify 2
 finific 1
@@ -10674,7 +10674,7 @@ fivepenny 1
 fairstead 3
 fruitstalk 1
 fg 1
-foreset 4
+foreset 5
 foresheets 2
 fleuretty 1
 fortuneless 5
