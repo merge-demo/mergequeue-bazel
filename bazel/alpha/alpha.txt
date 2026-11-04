@@ -749,7 +749,7 @@ accersitor 1
 aswail 2
 admetus 2
 abrash
-abrasing
+abrasing 1
 aeromechanics 1
 abashment 1
 autogyro
@@ -4597,7 +4597,7 @@ acetylic
 amphibious
 avidnesses
 advisy 2
-advising
+advising 1
 antechapel 3
 altercate 1
 arbith
@@ -20847,7 +20847,7 @@ avulsed
 argufies
 armipotent
 arx
-arzan 2
+arzan 3
 acapu
 apportions
 amputator
