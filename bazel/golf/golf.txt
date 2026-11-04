@@ -7152,7 +7152,7 @@ gearboxes 1
 gored 2
 gores 1
 goldenness 5
-guango 1
+guango 2
 gingerbready
 giggler 4
 gastrotaxis 2
