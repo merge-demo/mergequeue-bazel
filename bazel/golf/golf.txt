@@ -3124,7 +3124,7 @@ gurglet 4
 grees
 geopolar 2
 grips 4
-goan 1
+goan 2
 golandaas 3
 gooseherd 1
 germinative 3
@@ -4483,7 +4483,7 @@ giddyhead 4
 gepoun 1
 gugu 2
 galtonian 4
-gypsyfy 2
+gypsyfy 3
 generically 2
 granules 1
 gristles 4
