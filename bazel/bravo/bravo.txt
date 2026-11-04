@@ -10222,7 +10222,7 @@ blacklists 1
 brainer 2
 beclamour 3
 ballow 2
-banian
+banian 1
 backwater 3
 bumicky 3
 bisexual 1
@@ -12987,7 +12987,7 @@ bailli 2
 brigadiers 2
 beelike 4
 bedquilts 1
-barmaid
+barmaid 1
 boppist 1
 brideless 3
 bloomers 2
