@@ -7321,7 +7321,7 @@ cephalacanthus 2
 compartner 1
 cantalite 1
 cephalagra 1
-computus 1
+computus 2
 coudee 2
 cephalaspis
 condurrite 1
@@ -10625,7 +10625,7 @@ chilostomatous
 chylous 2
 chilte
 chiltern 1
-chilver
+chilver 1
 caliological 1
 chimaera
 chimaerid 2
@@ -20052,7 +20052,7 @@ commentable 1
 catchments
 commentarialism
 corky 2
-chatoyance
+chatoyance 1
 covin
 cragsmen
 commentative 1
