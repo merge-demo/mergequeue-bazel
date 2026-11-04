@@ -13346,7 +13346,7 @@ brusquely
 bothersomely 3
 bothy
 beatings 1
-basivertebral
+basivertebral 1
 bothie 2
 bardesanist 1
 beholds 1
@@ -15243,7 +15243,7 @@ briarberry
 bellerophon
 bluffed
 bourses 2
-blooddrop
+blooddrop 1
 bulgarophil 1
 blackfire 2
 butterfingers 3
@@ -17040,7 +17040,7 @@ binoxide 1
 bishoping 1
 bulkage 3
 boldfaces
-burt 5
+burt 6
 bulkhead 2
 bulkheading 2
 bulky
