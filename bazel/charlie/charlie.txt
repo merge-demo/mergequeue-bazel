@@ -3326,7 +3326,7 @@ cogware 1
 chelates 1
 caponata 2
 chloroacetic 1
-capone 3
+capone 4
 caponette 1
 caponier 1
 caponiere
@@ -7822,7 +7822,7 @@ cervicectomy 1
 cyanided 1
 caenogenesis
 cichloid 1
-cerviciplex
+cerviciplex 1
 cervicispinal 1
 cervicitis
 cervicoauricular 3
@@ -21098,7 +21098,7 @@ conarium 1
 champacol
 conationalistic 1
 comelily 2
-curatic 1
+curatic 2
 conations 1
 conative
 conflab
