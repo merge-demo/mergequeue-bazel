@@ -2587,7 +2587,7 @@ bedevils
 barytocelestite 2
 barytone 1
 barytons 2
-busing 4
+busing 5
 bowable 3
 bears
 brittlely 2
