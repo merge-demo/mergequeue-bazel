@@ -4163,7 +4163,7 @@ demonstratorship 1
 dob 3
 delitescent 1
 deliverer 1
-disincorporate 2
+disincorporate 3
 deliveress 3
 dentirostrate 1
 dunkers 2
@@ -7949,7 +7949,7 @@ diaplex
 dashers 1
 dextrad 2
 dextral
-directed
+directed 1
 dextran
 dextranase 2
 doublelunged 2
@@ -17839,7 +17839,7 @@ dictatorship 4
 disenthrallment 1
 dunkirk
 dude
-dyophysitical 3
+dyophysitical 4
 diverb 1
 devoutless 2
 dismark
