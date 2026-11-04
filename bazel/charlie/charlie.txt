@@ -153,7 +153,7 @@ clinopyroxene 1
 cablelaid 4
 cableless
 cablelike 2
-cerberic 1
+cerberic 2
 chryseis 1
 casterless 1
 cables 1
@@ -31306,7 +31306,7 @@ concordly
 cenospecies 2
 curcumin
 conscionably
-chads
+chads 1
 curd
 considerately 2
 commemorize 1
