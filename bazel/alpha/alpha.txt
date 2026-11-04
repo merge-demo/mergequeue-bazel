@@ -19984,7 +19984,7 @@ amasta
 armure 1
 armures 2
 arn 2
-antirachitic
+antirachitic 1
 arf 2
 achromatinic 1
 arnatto 1
