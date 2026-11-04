@@ -654,7 +654,7 @@ deflowers 2
 dioscorea 2
 demiatheist 2
 dubiocrystalline 3
-dynatrons 1
+dynatrons 2
 dressership 1
 damnous 3
 dusenwind
@@ -4372,7 +4372,7 @@ deciduate 1
 demarked
 depredating 3
 dentately 1
-divorceable 4
+divorceable 5
 decentralizations
 demasculinisation 1
 demasculinization 1
@@ -9211,7 +9211,7 @@ divertimentos 1
 destinist 3
 debatingly 1
 diehard
-demarkation
+demarkation 1
 disdainly 2
 diehards 1
 dieyerie

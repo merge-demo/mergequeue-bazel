@@ -6967,7 +6967,7 @@ entraining
 earwig 4
 entrainment 3
 entrains
-emissaryship 1
+emissaryship 2
 entrancedly 3
 entrancement 1
 ectotrophi 1
@@ -11500,7 +11500,7 @@ enlistees
 eidolic 3
 electrophotometer 4
 evigilation 2
-emenders 4
+emenders 5
 endocrinous 1
 exsecant 2
 exoergic 3
@@ -12721,7 +12721,7 @@ embloom 2
 exenterating 4
 exophthalmus 1
 euonymus 2
-emboweling 2
+emboweling 3
 engramma 1
 exopod 1
 epigraphist 4
