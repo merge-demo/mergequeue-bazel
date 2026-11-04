@@ -6434,7 +6434,7 @@ frivoled 2
 frogeye 6
 fluoaluminate 4
 fainted 3
-frictionable
+frictionable 1
 flatcap 1
 fairs 1
 fibrinolysis
