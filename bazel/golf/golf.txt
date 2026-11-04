@@ -6868,7 +6868,7 @@ graphics 1
 gorbal 4
 guaranty 7
 globosities 1
-galaxies 4
+galaxies 5
 gymsia 3
 gluteoinguinal 1
 gauntlets 3
@@ -8982,7 +8982,7 @@ germans 2
 giveaway 3
 gumbolike 2
 glaucopis 4
-grievable
+grievable 1
 grievance 3
 gantlines 4
 grievances
