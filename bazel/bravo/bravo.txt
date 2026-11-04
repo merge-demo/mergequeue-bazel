@@ -7258,7 +7258,7 @@ borith 3
 beswarm 2
 beswelter 1
 bisque 2
-bethuel 1
+bethuel 2
 balti
 beguard 2
 beta 1
