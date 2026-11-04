@@ -17573,7 +17573,7 @@ blackpoll 1
 burgall 2
 biddance 2
 burgamot 3
-bootjacks 1
+bootjacks 2
 balante
 blayne 1
 blore 1
@@ -17898,7 +17898,7 @@ bescurvy
 bushelfuls 2
 belabour 4
 bonytail 1
-buginese
+buginese 1
 bushelling 1
 boopis 3
 busher 3
