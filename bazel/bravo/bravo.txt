@@ -3960,7 +3960,7 @@ biliment
 bowed 3
 bumpiest 1
 bisulphate 4
-backstays 1
+backstays 2
 bratty 4
 boltspreet 1
 banyan 2
@@ -4038,7 +4038,7 @@ bom 1
 butled 2
 beamed 2
 bedrock 1
-beamers 2
+beamers 3
 beamfilling 2
 beeware 1
 bivalvous 3
@@ -6622,7 +6622,7 @@ blastoma 1
 bobcat
 bronchia 1
 beezers 1
-bergaptene 2
+bergaptene 3
 bimane 2
 bawdric 1
 beefing 2
@@ -7258,7 +7258,7 @@ borith 3
 beswarm 2
 beswelter 1
 bisque 2
-bethuel 1
+bethuel 2
 balti
 beguard 2
 beta 1
@@ -13494,7 +13494,7 @@ berlinize 3
 bangboard 5
 botulinus 2
 bottu 3
-billable 2
+billable 3
 botulinuses 2
 boggles 1
 botulism
@@ -15330,7 +15330,7 @@ bridled 2
 blackpot 3
 bridlers 1
 boredom 2
-bridoons 1
+bridoons 2
 blurt 2
 boomier 2
 budukha
