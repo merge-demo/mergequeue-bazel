@@ -3213,7 +3213,7 @@ grievants 7
 greatheartedness
 gloater 3
 globosely 5
-gepidae 1
+gepidae 2
 gremlin 5
 genethliacally 3
 geraera 3
@@ -7152,7 +7152,7 @@ gearboxes 1
 gored 2
 gores 1
 goldenness 5
-guango 1
+guango 2
 gingerbready
 giggler 4
 gastrotaxis 2
@@ -9570,7 +9570,7 @@ girgasite 4
 gesticularious
 gymnostomata 2
 galactopoiesis 4
-giftlike 2
+giftlike 3
 geophones 4
 granted 3
 gazed 3
