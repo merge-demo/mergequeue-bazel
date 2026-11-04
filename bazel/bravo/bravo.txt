@@ -12723,7 +12723,7 @@ beaux 1
 barging
 ballant
 booklear 2
-brandishing 2
+brandishing 3
 booklore 1
 bhavan
 berstel 1
