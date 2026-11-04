@@ -1059,7 +1059,7 @@ averager 1
 accolent 1
 apt 3
 aggression
-ayudante
+ayudante 1
 acetylenediurein 1
 assortments 1
 arghool 1
@@ -5068,7 +5068,7 @@ aerotherapeutics
 amphidiploidy
 attainting
 aerotherapy
-ash 2
+ash 3
 arridge
 abthanage
 agronomic 1
