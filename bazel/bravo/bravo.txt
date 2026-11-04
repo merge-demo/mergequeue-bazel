@@ -3243,7 +3243,7 @@ bantingize
 bedouin
 basilica 1
 belverdian 2
-basilical
+basilical 1
 brookable 1
 backoff 2
 blushfulness
