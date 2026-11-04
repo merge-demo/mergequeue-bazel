@@ -136,7 +136,7 @@ drumsticks 1
 drawbench
 deviascope 4
 dekko 2
-dinar 3
+dinar 4
 dyophone 1
 daddles
 dowdyism
@@ -9035,7 +9035,7 @@ dermatoplast 3
 dicoumarol 3
 dicranaceous 1
 dextrinous
-diverter
+diverter 1
 dicrotal 1
 dicrotous 1
 dicruridae
@@ -18004,7 +18004,7 @@ dulcifluous 1
 defaitisme 3
 dulcigenic
 dehydrogenizer
-dulciloquent 1
+dulciloquent 2
 delouses 4
 dungon 1
 diplex
