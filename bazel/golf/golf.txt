@@ -9354,7 +9354,7 @@ gasparillo 5
 gyrostat 3
 gimmick
 gonocoel 4
-gravestones 5
+gravestones 6
 groop 6
 gallerygoer 2
 glamorize 3
