@@ -6789,7 +6789,7 @@ desinent 1
 dallying 2
 desinential
 defectious 1
-desynonymize 2
+desynonymize 3
 decorticating 2
 demodex 1
 desiodothyroxine 1
@@ -10007,7 +10007,7 @@ dissatisfactorily 2
 dally
 disparted 1
 desophisticate 1
-deforests
+deforests 1
 dimorphotheca
 devitalize 1
 dogwood 3
@@ -15241,7 +15241,7 @@ dureful 2
 distinguishability 2
 dryest 2
 dosiology
-disrupts 4
+disrupts 5
 dialogized 1
 dolled
 departmentalizing 1
