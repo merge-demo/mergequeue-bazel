@@ -3147,7 +3147,7 @@ gnathal 1
 gnathobasic 1
 gnast 4
 galumphing 5
-garial
+garial 1
 grangousier 1
 galena 4
 gestures 2
