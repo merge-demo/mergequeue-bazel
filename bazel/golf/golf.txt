@@ -10404,7 +10404,7 @@ gyracanthus
 gourdhead 4
 gambreled 1
 granitelike
-gigot
+gigot 1
 geejee
 glareworm 1
 graduality 3
