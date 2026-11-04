@@ -763,7 +763,7 @@ groupings 2
 gladsomer 2
 gawkily 5
 geometrically 7
-graywether 1
+graywether 2
 galvanotherapy 5
 geomorphic 4
 galvanotropism 2
@@ -6316,7 +6316,7 @@ gettable 2
 gullible 3
 gigartinaceous 7
 gunmen 2
-gargantua 2
+gargantua 3
 gauster 3
 globetrotters 2
 geochemists 1
