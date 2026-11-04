@@ -5210,7 +5210,7 @@ befuddling 1
 beautyship 1
 ballistophobia 2
 bumpkinet 1
-berating 1
+berating 2
 bardish
 bacteriostatic
 beggarhood 1
@@ -7465,7 +7465,7 @@ bullfighter 1
 barbaric 4
 blackmailer 1
 babushkas 1
-basebred 3
+basebred 4
 betulinic 1
 bipyramidal 2
 betumbled 4
@@ -10222,7 +10222,7 @@ blacklists 1
 brainer 2
 beclamour 3
 ballow 2
-banian
+banian 1
 backwater 3
 bumicky 3
 bisexual 1
@@ -12370,7 +12370,7 @@ brickwall 1
 boombox 1
 beget
 bluishness
-bedizening
+bedizening 1
 bulgarian
 bergeres 1
 beele 1
@@ -12632,7 +12632,7 @@ betattered 1
 betided 1
 belluine
 bushgoats
-bewrite 2
+bewrite 3
 beaklike 1
 bloodlessly 3
 bewrayed 3
@@ -12987,7 +12987,7 @@ bailli 2
 brigadiers 2
 beelike 4
 bedquilts 1
-barmaid
+barmaid 1
 boppist 1
 brideless 3
 bloomers 2
