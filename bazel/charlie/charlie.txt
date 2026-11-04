@@ -26770,7 +26770,7 @@ cubitometacarpal 2
 capelocracy
 countercurrentwise 1
 conversant
-counterdance 3
+counterdance 4
 counterdeclaration
 cucumis
 counterdemonstrate 2
@@ -29664,7 +29664,7 @@ conductress 1
 craniomalacia 1
 crocus 1
 crocused 1
-captionless
+captionless 1
 commonwealths
 contrantiscion
 croissants
