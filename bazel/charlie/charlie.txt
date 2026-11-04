@@ -6898,7 +6898,7 @@ contingencies
 compaction 1
 caffein 2
 celtization
-cardiorrhexis
+cardiorrhexis 1
 consol
 camis 2
 ceratomandibular 1
