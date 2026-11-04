@@ -8233,7 +8233,7 @@ damasked 2
 dissectors 3
 dulcor
 diorism
-diadochic 1
+diadochic 2
 diadochite 2
 diadochokinesia
 diadoumenos 1
@@ -15315,7 +15315,7 @@ dolphinfish 2
 dolphinlike 1
 decadescent
 dolphins 1
-discountenance 1
+discountenance 2
 diagnostics
 design 1
 distilleries 2
