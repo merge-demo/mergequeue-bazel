@@ -17626,7 +17626,7 @@ breath
 blay 1
 bunchflower 2
 burgoyne 3
-burgomasters
+burgomasters 1
 bullfighting
 burgomastership 1
 burgundy 3
