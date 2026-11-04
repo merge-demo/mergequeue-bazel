@@ -4892,7 +4892,7 @@ glozes 2
 gyrotheca 4
 gimme 5
 grandstanding 4
-gladiola 2
+gladiola 3
 granatite 2
 goldurns 2
 goatly 2
@@ -10449,7 +10449,7 @@ gittite 2
 gastronomically 6
 grimacing 3
 gladsomely
-gummaking
+gummaking 1
 gjetost 7
 gallotannic 5
 gentleheartedly 5
