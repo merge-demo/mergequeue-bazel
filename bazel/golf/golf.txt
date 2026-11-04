@@ -413,7 +413,7 @@ gynecol 1
 gastroenteralgia 3
 gotham 4
 gelder 4
-gneu 1
+gneu 2
 gymnogynous 2
 gymmal 1
 gabion 3
@@ -776,7 +776,7 @@ gluck 6
 gutturize 2
 galvanothermometer 3
 ggr 2
-galliformes 5
+galliformes 6
 ginneries 3
 goose
 gracefullest 5
@@ -9636,7 +9636,7 @@ grubbery 1
 grintern 2
 garse 4
 glochidian 1
-ghanian 5
+ghanian 6
 gin 3
 griffinish 2
 griddling 1
