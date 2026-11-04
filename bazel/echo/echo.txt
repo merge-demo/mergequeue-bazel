@@ -2280,7 +2280,7 @@ electricize
 emphasizes 4
 electriferous 2
 energumen 3
-epitaphist 4
+epitaphist 5
 epilating 3
 elongated 1
 equally
@@ -11354,7 +11354,7 @@ equidifferent 1
 epitrochlear 3
 equiparate
 evenfall 1
-ennerve 2
+ennerve 3
 electroscission 1
 eupnoeic 6
 enervative 1
@@ -11774,7 +11774,7 @@ echeneididae 4
 exanthems 3
 eyelast 4
 esquireship 2
-ericetum 1
+ericetum 2
 excorticating 2
 exappendiculate 2
 empover 1
