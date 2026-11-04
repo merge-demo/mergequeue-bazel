@@ -10007,7 +10007,7 @@ dissatisfactorily 2
 dally
 disparted 1
 desophisticate 1
-deforests
+deforests 1
 dimorphotheca
 devitalize 1
 dogwood 3
@@ -10584,7 +10584,7 @@ dependable 2
 debouched 1
 decorticate 2
 despotist 2
-diplogenesis 1
+diplogenesis 2
 diagonalize 2
 deseam 3
 dirges 2
@@ -15241,7 +15241,7 @@ dureful 2
 distinguishability 2
 dryest 2
 dosiology
-disrupts 4
+disrupts 5
 dialogized 1
 dolled
 departmentalizing 1
