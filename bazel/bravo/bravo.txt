@@ -1656,7 +1656,7 @@ boko 3
 betokens 1
 balmonies 2
 bloodroot 4
-balmoral 1
+balmoral 2
 benefits 3
 besoms 3
 balmorals 2
@@ -3243,7 +3243,7 @@ bantingize
 bedouin
 basilica 1
 belverdian 2
-basilical
+basilical 1
 brookable 1
 backoff 2
 blushfulness
