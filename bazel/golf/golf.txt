@@ -811,7 +811,7 @@ gastrocolic 4
 guetar 1
 grazeable
 goldenrods 3
-gyppo 5
+gyppo 6
 gletty 6
 galoots
 granose
@@ -4273,7 +4273,7 @@ gleamed 3
 gastroscope
 gangliated 2
 gibeonite 2
-gasconism 2
+gasconism 3
 gynecological 3
 gramineousness 4
 greenwithe 2
