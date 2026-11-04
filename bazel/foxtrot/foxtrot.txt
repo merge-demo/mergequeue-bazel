@@ -8227,7 +8227,7 @@ flaskets 1
 felines
 festering 4
 fluidize 1
-floroscope
+floroscope 1
 fluidally 2
 forficula 4
 fathomableness 3
