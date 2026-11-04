@@ -4532,7 +4532,7 @@ fountainhead 3
 fructify 1
 famille 2
 fortread 1
-finickiest 3
+finickiest 4
 fictive 3
 fissirostrate 2
 fusser 2
@@ -4577,7 +4577,7 @@ flattest 2
 frictionize 4
 frutices 4
 flaunted 5
-fossilized 7
+fossilized 8
 fool 3
 feigned 4
 frenchily 5
@@ -11350,7 +11350,7 @@ fraxinus 2
 firepans
 feuds 4
 fiasco
-fannies 2
+fannies 3
 furloughed 4
 ferlied 2
 flustrine 2
