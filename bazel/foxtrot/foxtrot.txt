@@ -3073,7 +3073,7 @@ fusils 2
 filmizing
 frounceless 2
 freend 1
-flopping 1
+flopping 2
 fibrillating 1
 flirters 2
 forches 3
@@ -5858,7 +5858,7 @@ floatsmen 3
 fluff 4
 flaxbush 2
 farthingale 2
-forestem 2
+forestem 3
 formidableness 1
 furanes 8
 filanders 3
@@ -8729,7 +8729,7 @@ fortissimo
 fabricatress 2
 fraenular 3
 fole 3
-forlie 1
+forlie 2
 fordoing 1
 foredecks
 flocculator 2
@@ -11076,7 +11076,7 @@ freightment 1
 flense 4
 footrace 5
 flew
-falconet 2
+falconet 3
 flangeless 3
 fracturs 1
 forbidder 1
