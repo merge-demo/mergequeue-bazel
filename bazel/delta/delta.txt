@@ -1765,7 +1765,7 @@ deathward
 dikaryon 2
 ductility 2
 docent 2
-downlier 1
+downlier 2
 dispersonify 4
 deminudity 2
 dicta
@@ -7981,7 +7981,7 @@ dextrolactic 2
 despotes 2
 diphenylthiourea 2
 dorosternal 1
-dextrolimonene
+dextrolimonene 1
 dichlorobenzene
 dimethylaniline 1
 dimensive
