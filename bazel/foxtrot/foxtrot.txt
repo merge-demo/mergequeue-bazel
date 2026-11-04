@@ -5076,7 +5076,7 @@ flamelet 2
 fun 4
 fuligo 2
 fundless 2
-fumettes
+fumettes 1
 frsikets 7
 flagboat 3
 flareback 3
