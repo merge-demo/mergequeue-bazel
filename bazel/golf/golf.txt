@@ -6097,7 +6097,7 @@ gneiss
 grotesquely 2
 glengarries 3
 goosebeak 2
-gullibly 4
+gullibly 5
 gryphosaurus 1
 gigahertz 5
 gnessic 6
@@ -9645,7 +9645,7 @@ grewsomest 1
 glycyrize 4
 guestmaster 5
 glumales 5
-gorsiest 2
+gorsiest 3
 gowfer 3
 gerardia 2
 grammatophyllum 4
