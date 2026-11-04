@@ -3050,7 +3050,7 @@ fiberizes 2
 fritillary 3
 formolite 3
 federalists 1
-franchising 1
+franchising 2
 forficiform 1
 fetichize 3
 forceput 3
@@ -10452,7 +10452,7 @@ fragrant 1
 fermatian 1
 fungitoxic 4
 factionalist 5
-fribblers 1
+fribblers 2
 ferruling 1
 farrant 1
 frontiersmen 3
@@ -11710,7 +11710,7 @@ fernsick
 frameless 2
 flaw 1
 fanfish 1
-fiancailles 3
+fiancailles 4
 frowns 4
 furriered 5
 forebitter 3
