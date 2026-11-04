@@ -7414,7 +7414,7 @@ detoxication 1
 detoxicator
 detoxifier
 draperess 1
-directress
+directress 1
 disapproved 2
 devest 4
 decarbonylating 2
@@ -13490,7 +13490,7 @@ disquietedness 2
 demoid 1
 dippable 2
 diatomite 3
-disruptive 1
+disruptive 2
 disruptor
 dada 1
 decagon 1
