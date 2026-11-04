@@ -5444,7 +5444,7 @@ greenness 3
 glauconiidae 4
 garottes 2
 glyptodon 6
-glyptodontoid 4
+glyptodontoid 5
 glebae 3
 ghostwrites 1
 galactophlebitis 1
@@ -6890,7 +6890,7 @@ graticulate 4
 glis 1
 gannet 6
 glibly 2
-goodenia 2
+goodenia 3
 gestated 3
 gatling
 guyed 2
