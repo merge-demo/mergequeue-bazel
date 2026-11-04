@@ -11440,7 +11440,7 @@ echovirus 4
 ennedra 4
 emblic 3
 edibility 2
-eligibility 2
+eligibility 3
 esthacyte 1
 evese 1
 entomostraca 1
@@ -13593,7 +13593,7 @@ eisegesis 2
 edriophthalmian 3
 exarteritis 3
 electropyrometer 4
-expulsory 2
+expulsory 3
 ectad
 exiledom 5
 eyeblink
