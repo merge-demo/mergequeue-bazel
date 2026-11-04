@@ -5730,7 +5730,7 @@ demit 1
 deplorabilia 1
 dextrane 1
 deplorability 1
-duals 2
+duals 3
 deplorableness
 disrepair 2
 deplore 2
@@ -10584,7 +10584,7 @@ dependable 2
 debouched 1
 decorticate 2
 despotist 2
-diplogenesis 1
+diplogenesis 2
 diagonalize 2
 deseam 3
 dirges 2
