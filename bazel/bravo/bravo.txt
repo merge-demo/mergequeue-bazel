@@ -3960,7 +3960,7 @@ biliment
 bowed 3
 bumpiest 1
 bisulphate 4
-backstays 1
+backstays 2
 bratty 4
 boltspreet 1
 banyan 2
@@ -13494,7 +13494,7 @@ berlinize 3
 bangboard 5
 botulinus 2
 bottu 3
-billable 2
+billable 3
 botulinuses 2
 boggles 1
 botulism
