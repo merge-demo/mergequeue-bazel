@@ -9967,7 +9967,7 @@ authenticities 1
 assayer
 ambaris
 ambas
-ambassade
+ambassade 1
 appreciatively 1
 alkynes 2
 adactylia
