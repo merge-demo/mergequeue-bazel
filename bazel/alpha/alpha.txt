@@ -6713,7 +6713,7 @@ aims 1
 aimworthiness 2
 andropogon
 argentiferous 1
-ain
+ain 1
 anthocyanin
 ablow 3
 anathematic
@@ -19397,7 +19397,7 @@ arsacid 2
 affies
 albespine 1
 avouchment 1
-assortedness
+assortedness 1
 aseptify
 anagogically 2
 argenteous 1

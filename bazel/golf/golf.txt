@@ -5436,7 +5436,7 @@ glyphic 1
 gambist 1
 gascoign 3
 guran 3
-girlhood
+girlhood 1
 gus 1
 glossoepiglottidean 3
 germanly 6
@@ -7975,7 +7975,7 @@ gothonic 1
 ganglionectomy 3
 globing 3
 glottologies 3
-gnomonologically 1
+gnomonologically 2
 goldenmouthed 1
 gasifiable 5
 galline 4
