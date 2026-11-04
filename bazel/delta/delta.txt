@@ -2964,7 +2964,7 @@ diegesis 1
 diplasiasmus 4
 deduces 1
 droil 1
-dolt 1
+dolt 2
 deducibility 1
 drawstop 2
 deducted 2
@@ -9736,7 +9736,7 @@ days
 dilatedness 1
 dreamtide
 dumpler 2
-disrespectful 1
+disrespectful 2
 demultiplexes
 dab 1
 dodonaean 3
