@@ -6345,7 +6345,7 @@ arthropathology 5
 attractable 3
 accorded
 astarboard 1
-agrestial 2
+agrestial 3
 archduchess 2
 agrestic
 agrestical 1
@@ -15047,7 +15047,7 @@ anticularia 1
 antidactyl 2
 antidemocrat 2
 auroras
-alienator 2
+alienator 3
 antidemocratically
 antidemoniac
 antidepressant 1
@@ -16241,7 +16241,7 @@ aspergil 2
 anuria 1
 anisil
 adulterers 1
-agelaius 1
+agelaius 2
 agronomically
 autodyne 1
 autocorrelation
@@ -17354,7 +17354,7 @@ ascidiferous
 anoplotherium
 aerophagy
 amidin
-arias 2
+arias 3
 adansonia
 abstracts 1
 agoramania 1
@@ -19491,7 +19491,7 @@ arith 2
 argling
 allspices 1
 absolvers 1
-arterioscleroses 2
+arterioscleroses 3
 antiracemate
 afforestational
 antimodernization 1
