@@ -4117,7 +4117,7 @@ energetistic 2
 epinicial 3
 excitant 1
 exogenous 2
-enfoulder 2
+enfoulder 3
 eellike 1
 eire 1
 emplectic 2
@@ -8835,7 +8835,7 @@ endarteritis 2
 estrones 1
 erectopatent 4
 entophytic
-equiprobabilist 4
+equiprobabilist 5
 eternities 2
 egyptologic 3
 enjeopardy 1
@@ -10847,7 +10847,7 @@ embassiate 2
 eligibilities 3
 endostomata 1
 envineyard
-enchase 1
+enchase 2
 eisteddfodau 2
 euphotic 3
 entailable 2
