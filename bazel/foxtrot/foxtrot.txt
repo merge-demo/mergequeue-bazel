@@ -783,7 +783,7 @@ farmost 2
 forecovert 4
 fanfolds 4
 fluorines 2
-financing 1
+financing 2
 flunker 1
 fanfaronading 1
 folkloric 1
@@ -7231,7 +7231,7 @@ favellidia
 feodary
 flaxboard 1
 forepeak 4
-fordwine
+fordwine 1
 filature 4
 fridays 1
 fleetings 3
