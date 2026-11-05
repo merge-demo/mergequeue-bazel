@@ -10282,7 +10282,7 @@ dioctahedral
 dioctophyme 1
 deave 3
 distritbuted 1
-defaulting 3
+defaulting 4
 diodontidae 2
 dioecy
 dislodged
@@ -12009,7 +12009,7 @@ disenchantments
 disenchantress
 depluming 1
 difforme 2
-disencharm 3
+disencharm 4
 doctrix 1
 disenclose
 daint
