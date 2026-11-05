@@ -12622,7 +12622,7 @@ aneuch
 arhatship
 andesite
 alala
-aneuploidy 2
+aneuploidy 3
 aneuric
 azo 1
 amentiferae 2
@@ -21781,7 +21781,7 @@ assertor 2
 abelmusk
 adiantiform 2
 asseveratingly 1
-alfoncino
+alfoncino 1
 argenticyanide
 alish
 archiphoneme 2
