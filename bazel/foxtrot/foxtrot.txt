@@ -4517,7 +4517,7 @@ fissilinguia 5
 flinder 1
 fabulist 1
 fingernails
-filleul 1
+filleul 2
 fuddles 3
 francophobia 2
 flagging 2
@@ -6360,7 +6360,7 @@ flagpole 2
 fluocerine 2
 fren 4
 flang 4
-fullterm 2
+fullterm 3
 fluoran 1
 fennish 3
 fluorane 4
@@ -9050,7 +9050,7 @@ fib 4
 frumentaceous
 flotsan 3
 flashbacks 1
-faineantism 1
+faineantism 2
 fix 4
 fractionalize 3
 foreparents 2
