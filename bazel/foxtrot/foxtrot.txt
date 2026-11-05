@@ -723,7 +723,7 @@ famous 2
 florigens 1
 featherlet 4
 famp 2
-famuli 1
+famuli 2
 frustrater 3
 fana 1
 feoffment 3
@@ -9123,7 +9123,7 @@ fleeceflower 4
 floridly 4
 floozies
 fr 5
-flintlike 2
+flintlike 3
 furdle 2
 funambulated 2
 faulkner 1
@@ -10336,7 +10336,7 @@ faithfully
 furrowers 2
 freshwoman 1
 flaps 3
-fuzil 2
+fuzil 3
 foreordainments 4
 frontages 8
 floorshow 4
