@@ -3424,7 +3424,7 @@ ephoral 3
 erinize 2
 embassadress 2
 exumbral
-elaine
+elaine 1
 embassy 2
 eustomatous 1
 eriometer 2
@@ -13949,7 +13949,7 @@ enduement
 exterioration 2
 eschews
 elaborateness 3
-eudeve 6
+eudeve 7
 entoire 1
 extraparliamentary 1
 ectotrophic
