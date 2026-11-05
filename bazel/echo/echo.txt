@@ -8254,7 +8254,7 @@ electrodiplomatic 3
 episternal 4
 entoloma 1
 emaceration 1
-ecclesiologic 3
+ecclesiologic 4
 erucic 4
 enjoying 3
 entozoa 1
@@ -9368,7 +9368,7 @@ ergonomics 2
 eupepsia
 escalated 1
 exilition 2
-eucti 3
+eucti 4
 eulogistic 4
 esseda 4
 escalloped 4
@@ -10130,7 +10130,7 @@ euhyostyly 1
 epagomenic 2
 elegante 4
 eboe 4
-epilation
+epilation 1
 epinastic 1
 enunciating 2
 exacerbations 2
@@ -10193,7 +10193,7 @@ executives
 ethernet 4
 extrahazardous 2
 emancipation 1
-escrowed
+escrowed 1
 emmarbled 2
 electrotelegraphic 2
 escargotieres 2
