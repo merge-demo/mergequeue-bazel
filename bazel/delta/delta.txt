@@ -11275,7 +11275,7 @@ discabinet 4
 discommendableness 2
 discamp
 drawstring 2
-discanted 1
+discanted 2
 dermochelys 1
 dragon 2
 dropt
