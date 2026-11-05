@@ -4497,7 +4497,7 @@ agyrate
 aprocta 2
 adventuresomes 2
 adventuress
-adventuresses 1
+adventuresses 2
 avidiously
 acidimetrically 1
 alternation 1
@@ -7724,7 +7724,7 @@ analyticities
 adnascence
 angustia 3
 ald
-aldane
+aldane 1
 aldea
 antichresis 1
 adzooks
@@ -12058,7 +12058,7 @@ arvicoline 1
 anaspides
 abducent
 alpenhorns 1
-autocratical 4
+autocratical 5
 abduced 1
 anastases 2
 anthropophagize
@@ -16619,7 +16619,7 @@ acuminate 1
 athirst 3
 amphigonic 1
 affiliate 2
-abrasax 2
+abrasax 3
 apepsinia
 adumbrate 1
 antonio
