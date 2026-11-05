@@ -15551,7 +15551,7 @@ diascord 4
 demodulator 2
 drummers 3
 donnas 3
-defeasible 1
+defeasible 2
 dereligionize 5
 dittander 1
 donnerd 2
