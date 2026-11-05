@@ -2306,7 +2306,7 @@ acidology 1
 acidometer 1
 arioi
 afflation
-anacardium
+anacardium 1
 acidometry 1
 antinationalization 2
 asmear
