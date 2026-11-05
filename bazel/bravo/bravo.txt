@@ -5984,7 +5984,7 @@ bricktop 2
 bossier
 befooling
 brewis
-bribeability 3
+bribeability 4
 bruises 1
 bitterbark 1
 bemean
@@ -12419,7 +12419,7 @@ backcast 1
 begloom 1
 bonbons
 batell 1
-barker
+barker 1
 bareboats 3
 bushiness 2
 bureaux 2
@@ -14424,7 +14424,7 @@ boxfuls 1
 bacchanalian
 blowsed
 brainstorming 3
-brainstorms
+brainstorms 1
 balkanic 1
 brainteaser
 brainward 1
