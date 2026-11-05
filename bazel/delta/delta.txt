@@ -14784,7 +14784,7 @@ dantophily 1
 diocesian 2
 dockets 2
 dyphone
-dockhand 3
+dockhand 4
 dockhouse 3
 dilambdodont 2
 deringers 1
@@ -15119,7 +15119,7 @@ dentist 2
 damningness 2
 disadvantaged
 decremental 2
-delawn 1
+delawn 2
 degustate
 dubitatively
 dipolarization 4
