@@ -2020,7 +2020,7 @@ episternite 2
 evictees 2
 emulsic 2
 equisonant 1
-endodontist 3
+endodontist 4
 eradiculose 3
 elixate 2
 elabrate 3
@@ -12806,7 +12806,7 @@ ebullition 3
 engraves 4
 elementary
 exostrae 2
-exoteric 2
+exoteric 3
 exoterica 1
 elementalistically 5
 excitomotor 2
@@ -13840,7 +13840,7 @@ elaeothesia 3
 extraversively 2
 extracosmical 2
 ethnozoological 2
-equipotentiality 3
+equipotentiality 4
 eelpot 5
 equivocation 1
 evaporize 1
