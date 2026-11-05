@@ -6631,7 +6631,7 @@ fractocumulus 5
 fireweeds 2
 fairgrass 1
 fruitery 2
-funds 2
+funds 3
 fancymonger
 fatuousness 1
 focussed 2
