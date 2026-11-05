@@ -2875,7 +2875,7 @@ ectosteally 4
 ecbasis 2
 expt
 endomorphic 2
-elder 5
+elder 6
 epitympa
 effable 2
 estoppels 4
@@ -12820,7 +12820,7 @@ exotericism 2
 extenuated 1
 emboldener
 embossmen
-extraretinal
+extraretinal 1
 evangelicity 1
 ensepulchered 1
 ecanda 5
