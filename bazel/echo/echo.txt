@@ -9618,7 +9618,7 @@ ensearch 1
 esoterize 4
 esotropia 4
 esp 3
-eparchial
+eparchial 1
 eventless 2
 eternalise 2
 espada

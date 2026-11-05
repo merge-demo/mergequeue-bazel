@@ -11583,7 +11583,7 @@ diphead 1
 disconnecting
 disconnection 1
 diplococcic 1
-disconnector 3
+disconnector 4
 demicannon 2
 denotable 3
 dollarfish 5
