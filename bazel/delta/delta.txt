@@ -7467,7 +7467,7 @@ disulphid 3
 detruncation 4
 damneder 1
 dodgery 5
-detrusion 2
+detrusion 3
 detumescence 6
 dynasticism 2
 deposal
@@ -8422,7 +8422,7 @@ drowned
 diallings 1
 dovefoot
 deliracy
-disciplines 2
+disciplines 3
 deliveror
 dialog
 ditties
@@ -16422,7 +16422,7 @@ dishpan 1
 dimorphous
 deviousness 1
 dozzle
-dozzled
+dozzled 1
 dr 2
 draba
 disassembles
