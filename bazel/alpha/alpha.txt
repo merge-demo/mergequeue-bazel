@@ -6569,7 +6569,7 @@ awk 1
 abjunctive 2
 aidful 2
 aiding
-adenanthera 2
+adenanthera 3
 atlantoodontoid 1
 aidman 5
 aidmen 2
@@ -19709,7 +19709,7 @@ anamite 1
 anglesmith 1
 acrostichal 2
 aristologist
-aristophanic
+aristophanic 1
 aristorepublicanism
 arteriorrhexis
 actinocutitis

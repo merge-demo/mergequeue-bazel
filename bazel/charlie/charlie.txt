@@ -5923,7 +5923,7 @@ cathayan 2
 cathar 1
 cathari 1
 catharina
-carminite
+carminite 1
 coloplication 2
 catharist
 catharistic 1
@@ -10284,7 +10284,7 @@ chontawood 2
 chichimec 3
 chichipe 1
 carvyl 3
-corometer 1
+corometer 2
 charlies
 calctuffs 1
 chichling
