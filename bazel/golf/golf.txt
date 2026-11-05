@@ -9891,7 +9891,7 @@ graticulation 1
 genders 4
 guaracha 3
 grenadilla 1
-glaked 4
+glaked 5
 genapp 1
 gabi 3
 gobioids 3
@@ -10254,7 +10254,7 @@ geechee 1
 gonophore 3
 glacier
 gustiness 3
-galvanometry 3
+galvanometry 4
 galvanoplastically 1
 grownup 2
 gauzelike 2
