@@ -1890,7 +1890,7 @@ gardenwise 1
 grabber 6
 gatherers 4
 galumph 2
-gooma 3
+gooma 4
 gamenesses 2
 grecale 1
 grubstake 2
@@ -2921,7 +2921,7 @@ gombos 1
 gingerous 5
 gee 4
 gelose 4
-gaylussite 3
+gaylussite 4
 gobiiformes 2
 gwiniad 4
 glitter
@@ -8787,7 +8787,7 @@ gange 3
 golems 3
 greenswarded 2
 greenware 3
-giveth 3
+giveth 4
 greenwoods 5
 gospodar 2
 geophilus 2
