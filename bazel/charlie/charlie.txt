@@ -11842,7 +11842,7 @@ clancular
 chopstick 1
 chopsticks 1
 chopunnish
-cakes 1
+cakes 2
 cultch 1
 chora
 caselty 1
@@ -20026,7 +20026,7 @@ commender
 craftsman 1
 commending 1
 commendment 1
-chloric 1
+chloric 2
 commensal
 chemurgies
 cadmus
