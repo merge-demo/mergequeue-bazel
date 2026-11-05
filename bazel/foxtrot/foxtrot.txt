@@ -7231,7 +7231,7 @@ favellidia
 feodary
 flaxboard 1
 forepeak 4
-fordwine
+fordwine 1
 filature 4
 fridays 1
 fleetings 3
