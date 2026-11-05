@@ -18909,7 +18909,7 @@ calligrapher
 colladas 1
 crematoria 3
 collage 1
-convicted
+convicted 1
 collagenase 2
 collagenous
 cardholder 1
@@ -25612,7 +25612,7 @@ corporeity
 crankier
 conicities
 corporeous 2
-corporify 1
+corporify 2
 contracts
 chapterful
 corporification 3
