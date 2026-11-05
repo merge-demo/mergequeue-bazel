@@ -3300,7 +3300,7 @@ crotchwood
 celebratory 1
 coilers 3
 caplin
-caplins 2
+caplins 3
 coherald
 capmaking 2
 combatter
@@ -16392,7 +16392,7 @@ constable
 cowslips
 coppery
 clitoromania
-conglutinate
+conglutinate 1
 cantiness 1
 clitoromaniacal 1
 cephalotribe 1
