@@ -4624,7 +4624,7 @@ glossae 3
 gastronomist 2
 gillhooter 1
 germanyl 1
-gruys 4
+gruys 5
 glost 6
 grister 2
 gutium 2
@@ -5345,7 +5345,7 @@ grammatology 2
 gloatingly 1
 garaging 3
 guanidine 1
-glegly 4
+glegly 5
 galactosemia 2
 gulfier 3
 galvanoplastical 4
