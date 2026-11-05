@@ -549,7 +549,7 @@ damagers
 damalic 2
 dextrorotation 1
 demobilized
-designations 1
+designations 2
 dialyzing 3
 diplosis 3
 deliverers 3
