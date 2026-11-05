@@ -24704,7 +24704,7 @@ cell 1
 coldish 1
 copping 2
 croppers
-coppra
+coppra 1
 chamidae 1
 closenesses 1
 copra 2
