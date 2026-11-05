@@ -6556,7 +6556,7 @@ earsore 2
 epaenetic 3
 entanglements 2
 extraplanetary
-egophonic
+egophonic 1
 entangles 2
 empanel 4
 eatings 4
