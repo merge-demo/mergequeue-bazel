@@ -5398,7 +5398,7 @@ bloodripeness 2
 briquets 2
 babelic 2
 begulf 5
-blastomycotic
+blastomycotic 1
 bakshish 2
 begummed 2
 biolite 1
@@ -10934,7 +10934,7 @@ basta 3
 beaneries 2
 beckets
 bartonia 2
-brooms 2
+brooms 3
 beadroll 2
 blinker 2
 balancewise
