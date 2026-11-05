@@ -6829,7 +6829,7 @@ celloid
 chairmaker
 cathodofluorescence 1
 celloidin 1
-constative 1
+constative 2
 counterbalance
 cellose
 cognizance 2
@@ -12203,7 +12203,7 @@ cinchonising 2
 chrysocarpous 1
 chrysochloridae 1
 chrysochloris
-chrysochlorous
+chrysochlorous 1
 chrysocracy 2
 crotalaria 1
 conjointly 2
@@ -24384,7 +24384,7 @@ coolness 3
 coolnesses
 cytochemical
 cools 3
-cardiophrenia
+cardiophrenia 1
 coolung 1
 coolweed
 coolwort
@@ -24704,7 +24704,7 @@ cell 1
 coldish 1
 copping 2
 croppers
-coppra
+coppra 1
 chamidae 1
 closenesses 1
 copra 2
