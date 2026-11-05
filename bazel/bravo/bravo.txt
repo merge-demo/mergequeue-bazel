@@ -8147,7 +8147,7 @@ bielding 2
 brunts
 bewinter 1
 benzopinacone 3
-byrlaw 2
+byrlaw 3
 blimpish 1
 beloeilite 1
 busybodied 2
@@ -8600,7 +8600,7 @@ billionth 3
 braggartism 1
 brethel 1
 beldames 2
-bookable 2
+bookable 3
 brightsomeness
 bowling 2
 bryales 2
