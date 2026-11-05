@@ -17546,7 +17546,7 @@ dynamiter
 drumliest 2
 desisting 2
 drumline
-depolarised
+depolarised 1
 disappeared
 drumlinoid 1
 decelerated 3
