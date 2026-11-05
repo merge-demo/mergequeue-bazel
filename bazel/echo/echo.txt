@@ -3038,7 +3038,7 @@ elytrotomy 1
 emeer 2
 eggfish 1
 epistolatory 4
-elixir 5
+elixir 6
 ecblastesis 2
 enraging 1
 exhortatory 2
@@ -11950,7 +11950,7 @@ ensampler 1
 ecoid 2
 extracostal 3
 endotheliolysin
-epicedial 2
+epicedial 3
 esmeraldan 3
 epanagoge 2
 eructating 1

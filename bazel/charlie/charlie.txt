@@ -17553,7 +17553,7 @@ conducible 1
 coccerin
 corr
 coccic 1
-coccidae
+coccidae 1
 cookies 5
 coagency
 coccidial
@@ -18675,7 +18675,7 @@ coyotillos 1
 caucusing 1
 coyoting
 coypous
-conversance
+conversance 1
 coypus 1
 coirs
 colicker
@@ -29628,7 +29628,7 @@ crofter 1
 cauliflory
 cottagey
 chartered 2
-crocketed
+crocketed 1
 conder
 crockets
 clouded
