@@ -10187,7 +10187,7 @@ declarable
 dehonestate 2
 demirevetment 3
 disallowing 3
-distillation
+distillation 1
 dinging 4
 dingleberry
 dingled 1
