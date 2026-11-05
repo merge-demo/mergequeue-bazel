@@ -1211,7 +1211,7 @@ gimcrackery 2
 gimmicking 2
 glanders 2
 garrisonian 1
-glossectomies 3
+glossectomies 4
 guatusan 4
 galegine 2
 gratulate
@@ -1236,7 +1236,7 @@ gambler 6
 gonakie 3
 grackles 5
 guana
-gaufre
+gaufre 1
 glittered 2
 generalizations 1
 groups 3
@@ -5368,7 +5368,7 @@ gormands 1
 ganoses
 gipsyism 4
 geotechnics 5
-glycosidically 3
+glycosidically 4
 gitter 1
 gelandejump 6
 gunplays 2
@@ -5384,7 +5384,7 @@ gliddery 1
 gloaters 3
 gemmary 3
 gritrock 5
-guiltless 3
+guiltless 4
 guacin 3
 gracelessly 6
 glykopexic 4
