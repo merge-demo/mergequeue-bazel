@@ -3755,7 +3755,7 @@ goldfield 2
 generator 5
 gropingly 1
 germania 2
-giantkind 2
+giantkind 3
 guys 1
 gastraneuria 3
 gieaway 2
@@ -10158,7 +10158,7 @@ gingely 1
 grabby 4
 grown 4
 grandstands 2
-gabs 4
+gabs 5
 gallnuts 4
 guide 3
 glueyness 3
