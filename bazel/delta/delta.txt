@@ -3333,7 +3333,7 @@ dolabre 2
 decigram
 dartrous 3
 definish 1
-decolored 2
+decolored 3
 decapitalization
 definite 1
 definitely 2
@@ -16835,7 +16835,7 @@ darbukka
 drawliest
 donnishly
 dilettante 1
-drawloom 1
+drawloom 2
 dungari 2
 dorestane 1
 discontinual

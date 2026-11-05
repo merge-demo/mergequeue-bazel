@@ -3370,7 +3370,7 @@ epanthous 4
 embays 1
 ethylenediamine
 extranormal 2
-emballonuridae
+emballonuridae 1
 eulachons 1
 essentialities 3
 equus 1
@@ -9353,7 +9353,7 @@ emotionally 3
 emane 2
 enrobement 5
 effecter 1
-enveigle 2
+enveigle 3
 epilimnionia 2
 educable 2
 escalades
