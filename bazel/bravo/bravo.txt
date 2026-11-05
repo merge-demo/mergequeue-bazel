@@ -1522,7 +1522,7 @@ bersiamite 1
 bulbiform 1
 bdl 2
 bouton 1
-backsword 2
+backsword 3
 ballastic 2
 ballata 2
 brisked 1
