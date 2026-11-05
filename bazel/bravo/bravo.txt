@@ -11645,7 +11645,7 @@ belace 3
 bankerdom 3
 boatloader 2
 beigy
-boatmanship 3
+boatmanship 4
 boatmen 1
 boats 2
 boatsetter 5
