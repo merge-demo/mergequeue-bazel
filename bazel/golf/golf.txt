@@ -1120,7 +1120,7 @@ gesith 1
 grotesco 5
 grope
 galatic 3
-gastrointestinal 2
+gastrointestinal 3
 gruntled 2
 gashes 1
 globalization 2
@@ -2754,7 +2754,7 @@ gunfire 2
 greenflies 2
 germanism 1
 gauger 5
-guestchamber 3
+guestchamber 4
 gorraf 4
 gipped 1
 gallused 2
