@@ -4651,7 +4651,7 @@ bulrushlike 2
 ballistically
 bedews 1
 broadgage 2
-brunhild 2
+brunhild 3
 breakfastless 1
 beltmaking 2
 bhikhari 2
@@ -6191,7 +6191,7 @@ brazas 2
 beneventan 2
 bibliography 2
 bijugous 3
-benevolency 2
+benevolency 3
 bengalese 1
 batavian 3
 bengola 2
@@ -15040,7 +15040,7 @@ binapthyl 4
 befetter 2
 betiding
 bicuspidal 2
-bandaka
+bandaka 1
 breenge 5
 breenger 1
 babushka 1
