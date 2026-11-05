@@ -2871,7 +2871,7 @@ glossiphonidae 4
 geol 3
 guilefulness 2
 ganglionic 1
-gustavus 1
+gustavus 2
 guardsman 1
 gipser 1
 grasschat
@@ -4058,7 +4058,7 @@ glum 3
 gastritic 3
 grisettes 2
 gelatines 3
-gilliflower 1
+gilliflower 2
 grocery 1
 gastronome 4
 glonoine 3
