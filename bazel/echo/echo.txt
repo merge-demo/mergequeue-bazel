@@ -1850,7 +1850,7 @@ eightling 1
 edematose 1
 euler 1
 epidiorite 3
-encystments 3
+encystments 4
 errabund 3
 elaterin 5
 equitemporal 1
@@ -4032,7 +4032,7 @@ endobronchitis
 emphyteutic 2
 emolumentary 2
 explantation 1
-endhand 6
+endhand 7
 erosionally 1
 emendatory 2
 episporium 4

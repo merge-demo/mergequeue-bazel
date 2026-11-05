@@ -5253,7 +5253,7 @@ cassandra
 conc 1
 crawthumper 1
 cartman 2
-cokeman 1
+cokeman 2
 creatrix
 conditioners
 conspecifics
@@ -7232,7 +7232,7 @@ crispen 1
 contributorily
 centro
 centroacinar
-crawful 2
+crawful 3
 centrobarical 1
 catechist 1
 centrodesmus 1
@@ -27175,7 +27175,7 @@ cavalry 1
 carcasses 2
 cataspilite 1
 counterterrorism 1
-clasping 1
+clasping 2
 counterterrorist 4
 countertheme
 counterthought
