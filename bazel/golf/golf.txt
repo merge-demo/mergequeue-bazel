@@ -301,7 +301,7 @@ giles 2
 grantsmanship 1
 galjoen 1
 gaudful
-glanderous 4
+glanderous 5
 gourami 2
 gadolinium
 gauzily 3
@@ -6742,7 +6742,7 @@ guiltlessness 3
 goniocraniometry 2
 grouters 3
 gaveller 2
-goniodoridae 4
+goniodoridae 5
 gnotobiote 2
 granitized 6
 gametophore 4
@@ -10701,7 +10701,7 @@ gobbler 3
 gonadectomies 2
 gucked 1
 germanophobic 2
-garbanzo 3
+garbanzo 4
 gu 1
 grams
 gumma 2

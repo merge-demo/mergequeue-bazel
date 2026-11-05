@@ -1424,7 +1424,7 @@ firewood
 futchell 3
 forbar 2
 ferreted 3
-fattest 1
+fattest 2
 finickin
 floorer 1
 follow 2
@@ -5344,7 +5344,7 @@ fleabag 3
 fusillade 2
 faintheart 2
 furciform 3
-fleabags 5
+fleabags 6
 federalization 3
 fireclay
 fluorites 4
