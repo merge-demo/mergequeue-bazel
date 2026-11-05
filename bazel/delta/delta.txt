@@ -12009,7 +12009,7 @@ disenchantments
 disenchantress
 depluming 1
 difforme 2
-disencharm 3
+disencharm 4
 doctrix 1
 disenclose
 daint
