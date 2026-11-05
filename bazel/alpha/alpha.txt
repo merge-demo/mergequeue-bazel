@@ -927,7 +927,7 @@ absolving 1
 abstort 1
 astriction
 atomistics 1
-absolvitor 2
+absolvitor 3
 aldolize 1
 alloxy
 animous 1
@@ -4920,7 +4920,7 @@ airplaning
 alomancy
 amoretti 1
 anticommercialness 1
-aerograph 1
+aerograph 2
 americium 4
 amphidetic
 aristogenic 1
@@ -6475,7 +6475,7 @@ ahamkara
 autoclaves
 affeir
 antienthusiasm 1
-angiosperms 2
+angiosperms 3
 ahantchuyuk 3
 ahartalav 1
 abolisher 2
@@ -13902,7 +13902,7 @@ achievability
 anthonin
 anserines 3
 anspessade
-assyriologue 1
+assyriologue 2
 anticorn 1
 askaris
 amninions
@@ -15502,7 +15502,7 @@ antimissionary 2
 androconia 3
 antipyretic 1
 avijja 1
-attntrp 1
+attntrp 2
 annullable
 armguard 2
 antimystic 1
