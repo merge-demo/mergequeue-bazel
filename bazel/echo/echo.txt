@@ -6556,7 +6556,7 @@ earsore 2
 epaenetic 3
 entanglements 2
 extraplanetary
-egophonic
+egophonic 1
 entangles 2
 empanel 4
 eatings 4
@@ -8904,7 +8904,7 @@ emeroids 1
 ergomaniac 4
 eragrostis 1
 electrophori 2
-eyers 2
+eyers 3
 ergostat 3
 eddie
 entelam
