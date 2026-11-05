@@ -1362,7 +1362,7 @@ accension 1
 agapanthus
 accept 1
 approximating 2
-acceptability
+acceptability 1
 antistimulant 1
 amintor 1
 acceptance 2
