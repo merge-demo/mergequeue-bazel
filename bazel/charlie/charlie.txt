@@ -2970,7 +2970,7 @@ capsulae 2
 cuthbert 1
 contradistinction 1
 cantholysis 1
-commonable 3
+commonable 4
 chaffers 2
 capriole
 colliquation
@@ -21517,7 +21517,7 @@ concreter
 concretional 1
 concretionary 1
 concretist 2
-concretive
+concretive 1
 cholangiographic 1
 concretively
 concretized
