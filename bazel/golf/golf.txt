@@ -880,7 +880,7 @@ gadis 2
 galactan 1
 glove
 guily 3
-goffer
+goffer 1
 ghatti 3
 gymnophiona 1
 guerrilla 3
@@ -4784,7 +4784,7 @@ galleta 2
 genarch 4
 glossematics 3
 glar 1
-gypsy 2
+gypsy 3
 givingness 2
 globes 3
 garrnishable 1
