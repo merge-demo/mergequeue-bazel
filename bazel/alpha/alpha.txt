@@ -8707,7 +8707,7 @@ allergenic 2
 abouchement 1
 allergenicity
 atheology 1
-alang
+alang 1
 ankylotome 2
 actinopod 3
 amygdalopathy 1
@@ -11990,7 +11990,7 @@ awe 1
 anarcestes
 alteregoistic 2
 abators 1
-archibuteo 1
+archibuteo 2
 anarchy 3
 aerocolpos 1
 auberges 2
