@@ -3755,7 +3755,7 @@ biologese 2
 biologists 1
 bowstringed 2
 beachwear 2
-battues 2
+battues 3
 bourdis 5
 batture 1
 bielded 1
@@ -7595,7 +7595,7 @@ brisbane
 bewilderment 2
 bewitched 1
 boughed 2
-bewitcher
+bewitcher 1
 bewitches 1
 barbion
 bryological
@@ -16871,7 +16871,7 @@ buffooneries 2
 benzoxycamphor 2
 balancelle
 biotechnologies 1
-blended
+blended 1
 burhead 3
 bichromatic 3
 bathysophic 2
