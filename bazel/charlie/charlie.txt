@@ -4650,7 +4650,7 @@ cliffless 1
 caroome 2
 caroon
 causingness
-compartmentalizing 1
+compartmentalizing 2
 carnic 2
 caroteel 4
 costosuperior 2
@@ -6493,7 +6493,7 @@ confiner 1
 cambodia 2
 cavelike
 cavemen
-cavernal
+cavernal 1
 cavernlike
 cavernoma
 cavernous
@@ -11939,7 +11939,7 @@ chores
 crwths 1
 choreus
 choreutic 1
-crevassing 1
+crevassing 2
 chorial
 cilician
 choriamb
@@ -16063,7 +16063,7 @@ chelp
 cookee 1
 climatologically
 coeffect 1
-clicking 1
+clicking 2
 clubbishness
 commercialising 2
 commodious
@@ -22542,7 +22542,7 @@ concredit 1
 conkers
 coking
 corpulency 2
-commonness 1
+commonness 2
 castuli 1
 colorrhaphy 1
 clammish 3

@@ -820,7 +820,7 @@ bafflingly 1
 bulbus 3
 bartletts 1
 bushelbasket
-bonelike
+bonelike 1
 bedene 2
 bouleversement 4
 baffs 2
@@ -8277,7 +8277,7 @@ bisexuous 1
 blauwbok 2
 bigeminated
 brontometer 1
-beachiest 2
+beachiest 3
 bixa 2
 boundingly
 bremia 3
@@ -10734,7 +10734,7 @@ brushup 1
 backspierer 2
 bharata 1
 bossship 4
-baramika 4
+baramika 5
 bangiaceous 4
 boron 2
 birdbrained 2
@@ -14386,7 +14386,7 @@ braincraft 2
 buckish 2
 birsle 1
 bragozzo 1
-befan
+befan 1
 brainge 2
 beewort 1
 beepers
