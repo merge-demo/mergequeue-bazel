@@ -2825,7 +2825,7 @@ decretorian
 dithymol 2
 duplicative 2
 defi 1
-deferred 2
+deferred 3
 dossers 1
 declarator 3
 decried 2
@@ -12553,7 +12553,7 @@ dortour 1
 droitural 1
 doping
 dropsically 2
-depend 4
+depend 5
 defies 2
 divertible 1
 disingenuousness 3

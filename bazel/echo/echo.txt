@@ -939,7 +939,7 @@ ectropium 1
 eluvia 4
 elects 3
 effatum 5
-ectrosyndactyly 1
+ectrosyndactyly 2
 earring 1
 ectrotic 3
 electrological 3
@@ -4848,7 +4848,7 @@ epicranium 1
 equivocality 1
 encountered
 epigenesist 2
-endothecium 1
+endothecium 2
 entranceway 1
 encashing 5
 encountering 2

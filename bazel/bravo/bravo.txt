@@ -2739,7 +2739,7 @@ beltline 5
 bullbat 2
 bismutoplagionite 1
 barolo 2
-bm 1
+bm 2
 bicolored 3
 benab 2
 bonneting
@@ -3207,7 +3207,7 @@ barotactic 1
 breadth 1
 ballerinas 2
 beknave 3
-baclava 3
+baclava 4
 bravish 3
 blowzily
 basidiospore 3
@@ -7523,7 +7523,7 @@ betaine 2
 businessman
 bevillain 3
 befell 1
-bonspell 2
+bonspell 3
 bashaws 3
 bedote
 breezeless
