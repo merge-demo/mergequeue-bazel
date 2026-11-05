@@ -11320,7 +11320,7 @@ eagles 1
 exalbuminous
 evaporimeter 2
 electrocute 3
-ecdysons
+ecdysons 1
 epupillate 3
 enwrap 4
 evaporitic 3
@@ -11879,7 +11879,7 @@ ergonomically 2
 emptysis 2
 emptying 1
 excellence 2
-enomoty 3
+enomoty 4
 engorges 2
 excels 3
 eosophobia 2
