@@ -6460,7 +6460,7 @@ fordy 1
 fellatrix 2
 forsar 2
 flurn 4
-flurried
+flurried 1
 futhorks 1
 fernbird
 furiosa 2
@@ -10672,7 +10672,7 @@ forescent
 feralin 1
 fivepenny 1
 fairstead 3
-fruitstalk 1
+fruitstalk 2
 fg 1
 foreset 5
 foresheets 2
