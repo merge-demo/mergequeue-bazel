@@ -5081,7 +5081,7 @@ dialer 3
 dendritical 2
 deal 2
 derbyshire 2
-dendrium 2
+dendrium 3
 diminishes 1
 decuria 2
 derailed
@@ -10084,7 +10084,7 @@ dynamograph
 dauerschlaf 2
 dynamometamorphic
 disseverance 2
-dynamometrical 3
+dynamometrical 4
 dodipole 1
 dirls 2
 dogfight 1
