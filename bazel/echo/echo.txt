@@ -575,7 +575,7 @@ echis 2
 enthean 3
 euglenas 3
 echitamine 1
-eccentrical 2
+eccentrical 3
 ecstatical 7
 epigynum 4
 excision
@@ -4861,7 +4861,7 @@ encouraged 3
 estrous 5
 excellences 4
 epigne 1
-ephydriad 1
+ephydriad 2
 expertise 3
 emblematizing 1
 encourages 1
@@ -8370,7 +8370,7 @@ evolutional 3
 estranged 3
 expeding 1
 eastlins
-epicontinental 1
+epicontinental 2
 erosive 1
 exportation 2
 endogenetic
