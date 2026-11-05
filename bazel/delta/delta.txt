@@ -1040,7 +1040,7 @@ daggly 1
 darkskin 3
 disseises 2
 dispensers
-darksum 3
+darksum 4
 domineers
 danalite 1
 decimeter 2
@@ -10927,7 +10927,7 @@ dromons 3
 dobsonflies 1
 droplike
 dropcloth 2
-diclytra
+diclytra 1
 disunionism 1
 disaccustomedness
 draymen
@@ -11694,7 +11694,7 @@ disarranger
 discour
 dimethylanthranilate
 daubiest
-disjunction 3
+disjunction 4
 dyotheletian 1
 dele 1
 discouraged
