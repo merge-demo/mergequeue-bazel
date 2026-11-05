@@ -11596,7 +11596,7 @@ blastoffs 1
 boardings
 boardsmanship 2
 boatloads 1
-blonde
+blonde 1
 bedrapes 2
 buceros 2
 britzka 3
