@@ -7311,7 +7311,7 @@ fourgon 1
 fluttery 2
 flushermen 3
 fumitory 4
-favelloid 3
+favelloid 4
 fleeched 1
 foaminess 1
 ferromolybdenum 2
@@ -7663,7 +7663,7 @@ flammant 1
 foretopsail 4
 fittywise 4
 fiefdom 1
-forsteal 3
+forsteal 4
 forecasting 2
 freeze 1
 foxskin 3

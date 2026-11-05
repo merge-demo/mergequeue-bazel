@@ -3422,7 +3422,7 @@ boatshop
 bleaching
 bagani 2
 belzebuth
-bummers
+bummers 1
 bastardry 1
 briny
 bastards 2
@@ -16426,7 +16426,7 @@ bruno 3
 bryanthus 3
 boroughs 1
 barmiest
-balsamum 1
+balsamum 2
 bridgeless
 bellibone
 bps 2
