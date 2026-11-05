@@ -703,7 +703,7 @@ boral 2
 bade
 badness 3
 baff 1
-blueish
+blueish 1
 baboen 1
 baign 1
 bogyland 2
