@@ -6776,7 +6776,7 @@ emmarvel 2
 ephemeral 2
 empyema 1
 eole 3
-engagedly 2
+engagedly 3
 electrocutions
 estatesman 2
 enemied 4
@@ -8254,7 +8254,7 @@ electrodiplomatic 3
 episternal 4
 entoloma 1
 emaceration 1
-ecclesiologic 3
+ecclesiologic 4
 erucic 4
 enjoying 3
 entozoa 1
@@ -10130,7 +10130,7 @@ euhyostyly 1
 epagomenic 2
 elegante 4
 eboe 4
-epilation
+epilation 1
 epinastic 1
 enunciating 2
 exacerbations 2
