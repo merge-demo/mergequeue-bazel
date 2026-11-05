@@ -876,7 +876,7 @@ diactinism 1
 defiantness
 dieback 1
 deuteronomistic 1
-dummerer 1
+dummerer 2
 diagnostication
 dori 2
 dermotherm 2
@@ -7467,7 +7467,7 @@ disulphid 3
 detruncation 4
 damneder 1
 dodgery 5
-detrusion 2
+detrusion 3
 detumescence 6
 dynasticism 2
 deposal
@@ -8422,7 +8422,7 @@ drowned
 diallings 1
 dovefoot
 deliracy
-disciplines 2
+disciplines 3
 deliveror
 dialog
 ditties
@@ -9483,7 +9483,7 @@ digestibly
 delesseriaceae 3
 disconfirmation 3
 decline 1
-dinornithidae
+dinornithidae 1
 digesting 1
 dodecadrachm
 digestively 1
@@ -12556,7 +12556,7 @@ dropsically 2
 depend 4
 defies 2
 divertible 1
-disingenuousness 2
+disingenuousness 3
 dicaryophase 1
 detonator 1
 disinheritable

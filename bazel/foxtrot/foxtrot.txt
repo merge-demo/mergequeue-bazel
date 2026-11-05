@@ -497,7 +497,7 @@ formicariidae
 flickered 3
 foretokens 3
 frieseite 5
-fiumara 3
+fiumara 4
 forcleave 2
 fakery 2
 flaxweed 3
@@ -563,7 +563,7 @@ fallectomy
 forebays 4
 fussbudgets 6
 fallen 4
-ferny 6
+ferny 7
 falling 2
 flichtering 2
 faradized 2
@@ -1671,7 +1671,7 @@ fearedness 5
 fluidizes
 fathometer 2
 frypan 2
-faucets 2
+faucets 3
 flatworm
 fieldmice 4
 fragmentation 2
@@ -1876,7 +1876,7 @@ flexional 3
 frohlich 1
 fecundator 3
 fuligula 2
-feedwater 5
+feedwater 6
 fallow 2
 fewer 3
 fecundize 4
@@ -4242,7 +4242,7 @@ fohat 2
 firepinks 3
 fireplace 2
 fiendishness 3
-fraist 2
+fraist 3
 fussification 3
 flanky 1
 frogmouths 2
@@ -5058,7 +5058,7 @@ fermions 3
 figlike 1
 fishline 2
 fosses 1
-foveated
+foveated 1
 fezes 6
 freir 2
 foreseers 2
@@ -11278,7 +11278,7 @@ friskets 2
 furbish 2
 functionalizing
 flaxwife 4
-frigorify
+frigorify 1
 foregut
 femmes 2
 fogy 3
