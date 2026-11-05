@@ -6659,7 +6659,7 @@ chromule 1
 cedrat 2
 conglution 2
 cedrate
-cedrela
+cedrela 1
 cocamine
 cedrene
 cedry 1
