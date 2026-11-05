@@ -5253,7 +5253,7 @@ cassandra
 conc 1
 crawthumper 1
 cartman 2
-cokeman 1
+cokeman 2
 creatrix
 conditioners
 conspecifics
