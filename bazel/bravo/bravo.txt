@@ -989,7 +989,7 @@ birlie
 bewitch 2
 bourdon 1
 bipalium 2
-blinger
+blinger 1
 baycuru
 baidarka
 baidarkas 3
@@ -2602,7 +2602,7 @@ betterments 1
 barkcutter
 balsameaceous 2
 breastbones 1
-bifronted 3
+bifronted 4
 bhaiyachara 1
 borana
 benettle 1
@@ -6813,7 +6813,7 @@ ber
 beruffed 3
 brusqueness 4
 boy 1
-bilic
+bilic 1
 berwick 2
 bummaree 1
 burley
@@ -7455,7 +7455,7 @@ bongos 2
 bishydroxycoumarin
 bailies 3
 bourbonize 2
-bescrape
+bescrape 1
 bettonga 2
 basswoods
 bitterest 3
@@ -9157,7 +9157,7 @@ boubou 2
 biotypology 1
 balneotherapeutics 3
 biotites 4
-bolometric 2
+bolometric 3
 basil 2
 blowback 1
 borohydride
@@ -9957,7 +9957,7 @@ basommatophora 1
 bultong 2
 bryum 2
 balustraded 2
-besauce 1
+besauce 2
 baresma 1
 blattidae 2
 brevirostral 1
