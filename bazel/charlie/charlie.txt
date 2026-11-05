@@ -17401,7 +17401,7 @@ christmas 2
 coemptionator 1
 coauthority
 coauthors
-coawareness
+coawareness 1
 coaxal
 coaxation
 coaxes 2
@@ -24363,7 +24363,7 @@ cooler 1
 coolers
 crimpier
 caviling 1
-cholinergic 1
+cholinergic 2
 coolest
 cattleless 2
 coned 1
