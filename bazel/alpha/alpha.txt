@@ -20966,7 +20966,7 @@ amortisseur
 ahtena 3
 antirust 2
 athreptic
-autotroph 1
+autotroph 2
 ascendancy
 ascendantly
 ankyloproctia 1
