@@ -3736,7 +3736,7 @@ afterpressure 2
 antesternum 3
 affectionate 2
 adevism 2
-adfected
+adfected 1
 archmilitarist
 aburabozu 1
 adfluxion 1
