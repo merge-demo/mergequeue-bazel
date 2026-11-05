@@ -24348,7 +24348,7 @@ cards
 cookstove 1
 colligible
 contumacies
-coreveler
+coreveler 1
 circumflex 1
 cool 2
 cooled 1
