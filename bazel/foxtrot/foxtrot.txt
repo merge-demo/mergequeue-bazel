@@ -1891,7 +1891,7 @@ frs 6
 fraidycat 1
 flybrush 3
 fishable 2
-fingerflower 2
+fingerflower 3
 fontanelle 4
 fumbling 3
 fustilarian 4
