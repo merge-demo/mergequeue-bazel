@@ -10193,7 +10193,7 @@ executives
 ethernet 4
 extrahazardous 2
 emancipation 1
-escrowed
+escrowed 1
 emmarbled 2
 electrotelegraphic 2
 escargotieres 2
