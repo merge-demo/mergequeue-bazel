@@ -6235,7 +6235,7 @@ biuret
 bosporus
 blastogenesis 2
 bubas 1
-blatantly 2
+blatantly 3
 brush 2
 braceleted
 bimodulus 2
@@ -12438,7 +12438,7 @@ bankera
 boii 1
 bogum 2
 bowyang 4
-bedriddenness 2
+bedriddenness 3
 bonfire 1
 biphenyl 4
 buller 1
@@ -14100,7 +14100,7 @@ blasters 2
 bugged 2
 butsudan 1
 brekkle 5
-bumbaze 2
+bumbaze 3
 brighteyes 1
 birdlore
 brachiosaur 2

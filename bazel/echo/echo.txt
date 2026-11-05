@@ -2532,7 +2532,7 @@ exuviates
 ephemeromorph 1
 ensete 3
 entozoic 1
-euphausiidae 2
+euphausiidae 3
 extraconstellated 3
 ethnobotanic
 enounce 5
@@ -3677,7 +3677,7 @@ embryogenesis 1
 eunomy 3
 extravert 1
 encolpion 4
-exomion 4
+exomion 5
 excogitates 3
 engarment 2
 emaciated 2
