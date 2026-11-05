@@ -4108,7 +4108,7 @@ gamekeeper 5
 gaufer 2
 gudget 1
 glorification 1
-goneoclinic 1
+goneoclinic 2
 gipsywort 2
 gulgul 3
 gratifiedly 3
@@ -5596,7 +5596,7 @@ glottogonist 3
 gervais 1
 gurges 4
 garuda 2
-ginks 3
+ginks 4
 gipsyry 1
 gravestone
 governance 2

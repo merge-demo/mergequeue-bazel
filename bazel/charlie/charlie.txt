@@ -4378,7 +4378,7 @@ cobwebbed
 carillonneur
 cityish 1
 carillonning 2
-carillons
+carillons 1
 carinae
 carinal
 cavum 2
@@ -12592,7 +12592,7 @@ chronologies 2
 coalternative 1
 chantecler 2
 cercle 1
-cafetiere
+cafetiere 1
 chronologizing
 chronomantic
 chronomastix
