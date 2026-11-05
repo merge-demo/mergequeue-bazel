@@ -1602,7 +1602,7 @@ doorjambs 1
 dummered 4
 dawe 3
 dicyanid
-destruct 1
+destruct 2
 dunkirker 4
 deafly 1
 deafmuteness 1
