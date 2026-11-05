@@ -1082,7 +1082,7 @@ gangrened 1
 gloiosiphoniaceae 2
 genoas 3
 granddaddy 3
-ghostliness
+ghostliness 1
 groundway 4
 gypsums 1
 gegenion 3
@@ -3194,7 +3194,7 @@ glossiness 4
 governmentalist 2
 geotilla 2
 grigs 3
-geotropy
+geotropy 1
 guardant 2
 glossolabiolaryngeal 5
 gametoid 1

@@ -10734,7 +10734,7 @@ brushup 1
 backspierer 2
 bharata 1
 bossship 4
-baramika 4
+baramika 5
 bangiaceous 4
 boron 2
 birdbrained 2
@@ -14386,7 +14386,7 @@ braincraft 2
 buckish 2
 birsle 1
 bragozzo 1
-befan
+befan 1
 brainge 2
 beewort 1
 beepers
