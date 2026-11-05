@@ -4414,7 +4414,7 @@ budapest 3
 balantidiosis 3
 barrators 1
 bitstone 4
-bkcy 4
+bkcy 5
 blubberer 1
 batis 3
 befleas 2
@@ -14828,7 +14828,7 @@ baulks 2
 baku 1
 backwaters 3
 bemitered 1
-beefishness
+beefishness 1
 backscratching 2
 breadearning 1
 basigamy 2

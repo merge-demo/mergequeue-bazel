@@ -4059,7 +4059,7 @@ gastritic 3
 grisettes 2
 gelatines 3
 gilliflower 1
-grocery
+grocery 1
 gastronome 4
 glonoine 3
 genitorial 4
@@ -5751,7 +5751,7 @@ gobos 3
 glossolalia 2
 gabbroid 2
 glossolysis 2
-goldweed 6
+goldweed 7
 grecizes 2
 geometrical 3
 gunfighter
@@ -8369,7 +8369,7 @@ gulfing 3
 geoblast 2
 gaize 3
 guru 3
-grandstander 3
+grandstander 4
 gemelled 3
 glides 3
 glutael 1
