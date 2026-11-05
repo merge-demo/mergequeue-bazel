@@ -10365,7 +10365,7 @@ cedarbird 2
 chilies
 cahoots 3
 chief
-chiefage 2
+chiefage 3
 chiefery 3
 cyatholith
 chiefest 1
@@ -14909,7 +14909,7 @@ compactness 1
 coenogamete 1
 continuedly
 cordites 1
-creaks 1
+creaks 2
 chupak
 cytostomal 1
 camouflaged
@@ -29287,7 +29287,7 @@ cryptococci 1
 caulophylline
 clout 2
 cicoree 1
-calibration
+calibration 1
 cryptococcosis
 chinband 1
 credent 1
