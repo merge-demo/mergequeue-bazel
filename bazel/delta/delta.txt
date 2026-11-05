@@ -4325,7 +4325,7 @@ diversicolored 1
 daubster 2
 diamondiferous 2
 diacritical 1
-dods 1
+dods 2
 demagogical 3
 dura 2
 descriers 1
@@ -11275,7 +11275,7 @@ discabinet 4
 discommendableness 2
 discamp
 drawstring 2
-discanted 1
+discanted 2
 dermochelys 1
 dragon 2
 dropt
