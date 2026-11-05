@@ -20083,7 +20083,7 @@ chesset 1
 commercial
 commercialised
 centgrave
-chequerwise 1
+chequerwise 2
 commercialism 2
 coenenchymatous
 commercialists 1
@@ -20513,7 +20513,7 @@ chilicote
 chays
 compatriots
 compd
-cusparia
+cusparia 1
 carnose 1
 codon
 crapon 2
@@ -21989,7 +21989,7 @@ cionocranial 1
 confirmation
 confirmational 1
 confirmations 2
-curvant 1
+curvant 2
 circumflexion
 carlina 1
 confirmatory 1
