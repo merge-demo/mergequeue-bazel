@@ -890,7 +890,7 @@ fatheads 4
 featural 2
 flatheads 3
 fortake 3
-fishhook 4
+fishhook 5
 forcive 3
 fistulatous 5
 fissipedial 3
@@ -11086,7 +11086,7 @@ fane 2
 factfinder 1
 flagellated 3
 flockless 4
-functionnaire 2
+functionnaire 3
 functors 1
 formational 2
 foulard 1
