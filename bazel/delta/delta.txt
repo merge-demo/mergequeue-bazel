@@ -214,7 +214,7 @@ daffier
 discussing 1
 defection
 daffiness 1
-daffing
+daffing 1
 daffodilly 1
 drifted
 daringly 2
@@ -10362,7 +10362,7 @@ disgregation 1
 dipotassic 1
 disassimilate 1
 dioscurian 1
-disenfranchised 2
+disenfranchised 3
 diurons
 diazoanhydride 2
 discrimination 2
@@ -11380,7 +11380,7 @@ discigerous 1
 discinct 2
 discing 1
 drisk 1
-decretorily
+decretorily 1
 disciple 3
 depicter 1
 dispress
@@ -17546,7 +17546,7 @@ dynamiter
 drumliest 2
 desisting 2
 drumline
-depolarised
+depolarised 1
 disappeared
 drumlinoid 1
 decelerated 3

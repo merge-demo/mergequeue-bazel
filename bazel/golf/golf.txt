@@ -291,7 +291,7 @@ glossophora 3
 gaintwist 1
 giglot 2
 geobotany 4
-ganjas 4
+ganjas 5
 gynaecian 3
 gargoylism 1
 gaminesque 2
@@ -3990,7 +3990,7 @@ garrotted 1
 gynostemiumia 2
 grubbily 2
 gremial 2
-guesstimating 2
+guesstimating 3
 grabbed 4
 ginnle 4
 gemshorn 3
@@ -4049,7 +4049,7 @@ gesan 2
 galantuomo 2
 greasier 1
 gilles 3
-gynostegium 2
+gynostegium 3
 gabendum 5
 genesic 2
 ginorite 2
@@ -7635,7 +7635,7 @@ girlies 5
 ghoster 1
 gears 1
 glancingly 5
-guenons 1
+guenons 2
 guardianless 4
 geomantic 2
 gradated 3
