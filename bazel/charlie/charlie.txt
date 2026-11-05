@@ -6050,7 +6050,7 @@ continuos
 cyclicity 1
 catiline
 cating
-cativo 1
+cativo 2
 cheapo
 catkin 1
 catkinate
@@ -13588,7 +13588,7 @@ cimbric
 cyme
 cymelet
 cimelium
-cymenes
+cymenes 1
 coproite 1
 crankest 2
 chiffer 2
