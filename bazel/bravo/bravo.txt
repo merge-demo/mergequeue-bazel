@@ -11647,7 +11647,7 @@ boatloader 2
 beigy
 boatmanship 3
 boatmen 1
-boats 1
+boats 2
 boatsetter 5
 bisymmetric 1
 badju
