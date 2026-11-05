@@ -7905,7 +7905,7 @@ carouses 1
 cestoidean 1
 cestoids 1
 cestraction 1
-colessees 3
+colessees 4
 cestrian 2
 cestrum
 conned 1
@@ -12475,7 +12475,7 @@ chromolithographic 1
 chromomere
 chondrosarcoma 2
 chromone 2
-carboxide 1
+carboxide 2
 creamers 1
 cantonments
 crinated
@@ -20862,7 +20862,7 @@ compossible
 cataleptically
 cassalty
 composted 1
-composting 1
+composting 2
 composts
 compot 1
 compotationship 4
@@ -26856,7 +26856,7 @@ counterforce
 cosmopolitanizing 4
 carrom 2
 chugs
-chondroxiphoid 2
+chondroxiphoid 3
 counterfort 1
 cwm 1
 countergabion 1
