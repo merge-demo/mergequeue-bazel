@@ -749,7 +749,7 @@ causations 1
 cleaning
 cagers 1
 crimpiness 2
-corners 1
+corners 2
 chasselas
 cages 1
 cocoa 1
