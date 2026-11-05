@@ -8872,7 +8872,7 @@ eelworms 2
 enteron 2
 erewhile 1
 erewhiles 2
-ergane 2
+ergane 3
 ethnohistorically 4
 extenuating 3
 embowel 4
@@ -9618,7 +9618,7 @@ ensearch 1
 esoterize 4
 esotropia 4
 esp 3
-eparchial
+eparchial 1
 eventless 2
 eternalise 2
 espada
