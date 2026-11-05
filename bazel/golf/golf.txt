@@ -947,7 +947,7 @@ garrottes 4
 gnathonically 3
 goldenlocks 1
 gopher 3
-gumwood 2
+gumwood 3
 gammoners 4
 gentlewomen 1
 gooseries 4
@@ -5991,7 +5991,7 @@ gluttonish 2
 grainsman 1
 granulous 4
 geometry 4
-gutterman 2
+gutterman 3
 gyve 3
 graspers 2
 giallolino
@@ -10139,7 +10139,7 @@ guerrila 3
 gurgling 5
 gazolyte
 guller 2
-glareless 1
+glareless 2
 greenier 2
 grudges 2
 granophyric 5
