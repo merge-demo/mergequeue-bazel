@@ -3719,7 +3719,7 @@ dikamalli 1
 demonstrating
 diam 2
 dehydrochlorinase
-dinumeration 1
+dinumeration 2
 dowlas
 dehydrochlorinate 1
 doketism 2
@@ -7205,7 +7205,7 @@ detaches
 dicast
 dynamis 3
 demijohns 4
-demulsifying 1
+demulsifying 2
 detain 1
 decadactylous 4
 detainal
@@ -16780,7 +16780,7 @@ disreputation 1
 diarrhoeic 2
 disorganized 2
 drawback
-drawbar 3
+drawbar 4
 disposability 1
 decolorate 1
 demitube 1
