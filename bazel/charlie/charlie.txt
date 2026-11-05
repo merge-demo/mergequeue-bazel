@@ -6829,7 +6829,7 @@ celloid
 chairmaker
 cathodofluorescence 1
 celloidin 1
-constative 1
+constative 2
 counterbalance
 cellose
 cognizance 2
