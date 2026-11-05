@@ -4613,7 +4613,7 @@ fringilliform 2
 fitchee 2
 fibrocalcareous 4
 filagrees 1
-ferring 1
+ferring 2
 flowmanostat
 folsom 4
 footweary 1
@@ -10899,7 +10899,7 @@ fleets
 flivver 2
 fletched 2
 fullmouthed 3
-firesafeness 3
+firesafeness 4
 fullom
 flirtations 2
 finagler 2
