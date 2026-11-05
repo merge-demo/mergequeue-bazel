@@ -3496,7 +3496,7 @@ foe 2
 flankard 3
 fury 3
 ficins 4
-fordays 2
+fordays 3
 floorhead 2
 formuliser 2
 forpined 5
