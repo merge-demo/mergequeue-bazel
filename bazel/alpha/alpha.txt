@@ -19089,7 +19089,7 @@ ascophorous 1
 aristocraticness
 allocute 1
 absorbant 2
-alkylamino 4
+alkylamino 5
 alphanumeric
 agritos 1
 actu 2
@@ -20966,7 +20966,7 @@ amortisseur
 ahtena 3
 antirust 2
 athreptic
-autotroph 1
+autotroph 2
 ascendancy
 ascendantly
 ankyloproctia 1
