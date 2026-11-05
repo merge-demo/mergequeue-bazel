@@ -5564,7 +5564,7 @@ fibbing 1
 felon
 foliaceous 3
 fungic 1
-familiary 1
+familiary 2
 flacourtiaceae 3
 felsitic 2
 flyby 2
@@ -11706,7 +11706,7 @@ foretellableness 3
 flugelhorn 1
 fasciola 2
 furphy 2
-fernsick
+fernsick 1
 frameless 2
 flaw 1
 fanfish 1

@@ -7149,7 +7149,7 @@ diplopiaphobia 3
 diipolia 2
 deamidase 2
 desulfurising 3
-dinotheriidae 3
+dinotheriidae 4
 desulfurizer 2
 desulfurizing 2
 demolitions 3
@@ -12608,7 +12608,7 @@ dragoness 1
 dechenite 1
 disintoxication 2
 dankness
-daud 3
+daud 4
 dysyntribite 1
 driftfish 1
 deadhearted 2
