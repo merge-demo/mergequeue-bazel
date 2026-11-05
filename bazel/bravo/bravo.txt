@@ -5296,7 +5296,7 @@ brachytic 2
 barretries 2
 boltonia 2
 beforested
-breathlessness 1
+breathlessness 2
 biscuitmaker 2
 bezzants 2
 bipinnate 1
@@ -12555,7 +12555,7 @@ bonitarian 4
 bonity 3
 balsam 2
 boroughlet 1
-bragi
+bragi 1
 bemocks 4
 bardane 1
 bonk 2

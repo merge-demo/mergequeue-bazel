@@ -7484,7 +7484,7 @@ gladiatory 5
 goura 3
 glyphography 1
 gonad 2
-gamesmanship 4
+gamesmanship 5
 gymnotidae 2
 gordon 6
 gerful 1
@@ -8076,7 +8076,7 @@ grannam 2
 gybes 1
 grandfathership 3
 glandularly 1
-gasiform 2
+gasiform 3
 gribane
 gamone 1
 gaiters 3

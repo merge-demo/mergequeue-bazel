@@ -6141,7 +6141,7 @@ cattycornered 1
 cattyman 1
 cirl 1
 cinnamylidene 1
-contributively
+contributively 1
 cattimandoo
 catting
 cattyphoid
@@ -18372,7 +18372,7 @@ cognate 1
 contrarevolutionary 2
 chamsin 1
 cognately 2
-cerotate 1
+cerotate 2
 cognati
 churchless 1
 cardinalic 1
@@ -21506,7 +21506,7 @@ calycle 1
 climacterical 1
 celestialize 3
 concresce 1
-concrescence
+concrescence 1
 cephalohumeral 2
 concrescive 1
 colocentesis 1
