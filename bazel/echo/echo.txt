@@ -7215,7 +7215,7 @@ exposed 2
 endodontium 2
 ejidos 2
 enderon 1
-erythropoietic 2
+erythropoietic 3
 electrotropic 4
 ephemeromorphic 3
 eupnoeas 3
