@@ -9827,7 +9827,7 @@ generous 1
 gesticulatively 3
 gibbets 5
 guayabi 4
-guaiac 1
+guaiac 2
 goitcho 3
 gymnotid 3
 guaiaconic 5
@@ -10057,7 +10057,7 @@ gongman 1
 galette 2
 gossypols 2
 guerison 3
-guerites 3
+guerites 4
 gage
 graveolency
 gravedigger 4
@@ -10585,7 +10585,7 @@ gymnogene
 geologic 3
 gelds 2
 gens 2
-greaser 4
+greaser 5
 grandisonian 6
 gowany 3
 gushed
