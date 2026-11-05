@@ -11842,7 +11842,7 @@ clancular
 chopstick 1
 chopsticks 1
 chopunnish
-cakes 1
+cakes 2
 cultch 1
 chora
 caselty 1
@@ -13447,7 +13447,7 @@ cambibia
 categoricalness 4
 calcomp 1
 casting
-cigaritos
+cigaritos 1
 choloepus 1
 cautions
 consubstantialism
