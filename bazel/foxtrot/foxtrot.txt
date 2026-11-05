@@ -750,7 +750,7 @@ faraday 3
 fibrilliferous 1
 fanatism 2
 fabricating 5
-farcilite 4
+farcilite 5
 flybelt 2
 frozenness 1
 fishgrass 2
@@ -1541,7 +1541,7 @@ farrow 4
 forepayment 1
 frundel 2
 festival 3
-fauvette 2
+fauvette 3
 flowcontrol 3
 fishbowl 5
 fauvism 2
@@ -5276,7 +5276,7 @@ ferricyanate 8
 flavours 1
 fimbriate
 feelinglessly 3
-fibrilation 1
+fibrilation 2
 flawedness 1
 flats 1
 frontingly 3

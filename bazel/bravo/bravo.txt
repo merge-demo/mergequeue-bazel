@@ -6129,7 +6129,7 @@ backhaul 4
 baikalite
 boof 1
 budgereegah 1
-benighted 2
+benighted 3
 butanolide 3
 blanking 3
 blastide 1
@@ -15370,7 +15370,7 @@ barkometer 2
 boxbush 3
 bapistery 1
 blondine 3
-bevomited 1
+bevomited 2
 bother 1
 brachypterous 2
 brigandine 3
