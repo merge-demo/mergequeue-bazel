@@ -14090,7 +14090,7 @@ conservancies
 corticoid
 circlets 2
 circulated
-cochleas 1
+cochleas 2
 circocele 1
 colloquialisms 4
 codecree
@@ -20402,7 +20402,7 @@ conjurison 1
 calycanthemous
 compadres
 compage 3
-compagnies 2
+compagnies 3
 cresols
 condonative
 concamerate
@@ -24348,7 +24348,7 @@ cards
 cookstove 1
 colligible
 contumacies
-coreveler
+coreveler 1
 circumflex 1
 cool 2
 cooled 1
