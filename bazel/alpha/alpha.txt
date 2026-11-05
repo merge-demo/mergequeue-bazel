@@ -4497,7 +4497,7 @@ agyrate
 aprocta 2
 adventuresomes 2
 adventuress
-adventuresses 1
+adventuresses 2
 avidiously
 acidimetrically 1
 alternation 1
@@ -7724,7 +7724,7 @@ analyticities
 adnascence
 angustia 3
 ald
-aldane
+aldane 1
 aldea
 antichresis 1
 adzooks
