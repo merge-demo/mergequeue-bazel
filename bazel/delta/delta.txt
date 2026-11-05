@@ -10187,7 +10187,7 @@ declarable
 dehonestate 2
 demirevetment 3
 disallowing 3
-distillation
+distillation 1
 dinging 4
 dingleberry
 dingled 1
@@ -17928,7 +17928,7 @@ dulcin
 disenchanting
 dissembled 2
 displeasurement 3
-dufrenoysite 2
+dufrenoysite 3
 dufter 2
 dosage 1
 dactyliography
