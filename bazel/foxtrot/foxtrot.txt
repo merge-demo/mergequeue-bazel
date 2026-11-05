@@ -7667,7 +7667,7 @@ forsteal 4
 forecasting 2
 freeze 1
 foxskin 3
-fano 5
+fano 6
 fiesta 1
 fled 6
 forehandedness 3
@@ -10655,7 +10655,7 @@ florican 5
 fundamental 6
 fidicinal 6
 foodstuffs 2
-fruitiness 3
+fruitiness 4
 fieldworker 4
 flagless 1
 fist 4
