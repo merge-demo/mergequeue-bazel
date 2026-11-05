@@ -867,7 +867,7 @@ decalcification 1
 dowered 2
 disorchard 1
 dankishness 3
-discardable 1
+discardable 2
 disprovement 2
 delesseria
 developability 2
@@ -2399,7 +2399,7 @@ diplontic 1
 dismantlement 3
 dayakker 2
 deciduity
-daver
+daver 1
 deciduoma 2
 discommendable 2
 deciduously 2
@@ -4079,7 +4079,7 @@ delictual
 disobeyed 2
 delieret
 degrain 1
-despicably 2
+despicably 3
 divaricate
 dealerships 4
 domestication
@@ -6637,7 +6637,7 @@ darkroom 2
 deescalated 2
 deacidification 1
 denotational
-dissentism 1
+dissentism 2
 desorb 2
 defatigated 2
 duendes
@@ -7310,7 +7310,7 @@ dirtiness
 drownding 1
 despondency
 denegate 1
-dessa
+dessa 1
 deplaned 3
 dipneumona
 demifarthing 3
