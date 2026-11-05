@@ -6000,7 +6000,7 @@ dispraise 2
 droopy 1
 devitation 1
 domajigger
-diagraphics 1
+diagraphics 2
 diamagnetize 1
 diagrammitically 2
 depthlessness 5
@@ -7149,7 +7149,7 @@ diplopiaphobia 3
 diipolia 2
 deamidase 2
 desulfurising 3
-dinotheriidae 4
+dinotheriidae 5
 desulfurizer 2
 desulfurizing 2
 demolitions 3
@@ -17359,7 +17359,7 @@ dropforger 1
 drophead
 ditchbur 1
 darksomeness 2
-dropkicker 1
+dropkicker 2
 deficiencies 1
 drib 2
 dasypygal 2
