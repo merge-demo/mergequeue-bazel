@@ -4500,7 +4500,7 @@ ginning 1
 garvance 3
 giraffe 5
 gynocardic 1
-gypsyism 3
+gypsyism 4
 gowk 1
 glossokinesthetic 2
 gypsywise 3
@@ -5764,7 +5764,7 @@ gish 2
 grimmish 2
 grumes 6
 gloomy 2
-grapsoid 2
+grapsoid 3
 gymnoplast 3
 gossypose 1
 gonotheca 2
@@ -8861,7 +8861,7 @@ gneisses 1
 guardfully 3
 guanos 3
 greylag 5
-groundout
+groundout 1
 gyte 2
 girouettism 3
 gowkit 2
