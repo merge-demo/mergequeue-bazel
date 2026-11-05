@@ -3629,7 +3629,7 @@ distentions
 degerming 1
 degerms 1
 discerptive 1
-douzeper
+douzeper 1
 disked 1
 deontological 1
 degging 4
@@ -16347,7 +16347,7 @@ dovetails 2
 daylight
 downslide 2
 describent 2
-downslip 2
+downslip 3
 decibel 2
 downslope 2
 disappendancy 2
