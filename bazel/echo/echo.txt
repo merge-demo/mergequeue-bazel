@@ -7826,7 +7826,7 @@ equivocators 1
 extrudes 1
 exorcization 2
 examinership
-endlessness
+endlessness 1
 embolismic 1
 ebulliency 3
 eccentrate 2
