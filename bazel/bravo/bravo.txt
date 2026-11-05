@@ -9176,7 +9176,7 @@ brimfulness 1
 booed
 biomasses
 biparasitic
-bogy 1
+bogy 2
 boudoirs 2
 babblesome 2
 benzophenanthrazine 2
@@ -15276,7 +15276,7 @@ bridewain
 beholding 3
 brideweed
 bahiaite
-biochemics
+biochemics 1
 bosk 3
 bullying 2
 belles 2
