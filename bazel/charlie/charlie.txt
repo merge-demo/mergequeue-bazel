@@ -13447,7 +13447,7 @@ cambibia
 categoricalness 4
 calcomp 1
 casting
-cigaritos
+cigaritos 1
 choloepus 1
 cautions
 consubstantialism
