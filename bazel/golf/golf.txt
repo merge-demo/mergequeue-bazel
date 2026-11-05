@@ -1082,7 +1082,7 @@ gangrened 1
 gloiosiphoniaceae 2
 genoas 3
 granddaddy 3
-ghostliness
+ghostliness 1
 groundway 4
 gypsums 1
 gegenion 3
@@ -3812,7 +3812,7 @@ gnattier
 gemmates 8
 grimnesses 3
 guarders 6
-greenbark
+greenbark 1
 grippal 2
 gaudily 1
 gouaree 2
@@ -6431,7 +6431,7 @@ glossopteris 3
 golaseccan 4
 glassman 2
 gobiesocid 1
-geostrophic 1
+geostrophic 2
 gymnocladus 1
 grows 4
 gentlemanliness 5
