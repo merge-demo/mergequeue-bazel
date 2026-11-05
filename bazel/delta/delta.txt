@@ -97,7 +97,7 @@ delater 2
 depark 2
 demibrute 2
 dictyoceratine 3
-dreadfulness 4
+dreadfulness 5
 daffery
 dactylosymphysis 1
 deliriant
@@ -6377,7 +6377,7 @@ dysidrosis 1
 demeritoriously 2
 dosinia
 destoolment 1
-dustmen 1
+dustmen 2
 diplotene 2
 disassociation 2
 dorsiventral 7
@@ -14259,7 +14259,7 @@ dyspnoeic 1
 diffiding 1
 deporter 1
 depravers 1
-deisms
+deisms 1
 downcrying
 defoliator
 deviationist
