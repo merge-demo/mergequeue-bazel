@@ -3396,7 +3396,7 @@ frivols 3
 filipinos 2
 follicles 5
 flokite 2
-frameableness 1
+frameableness 2
 floramour 5
 fuller 4
 flyweights 2
@@ -10338,7 +10338,7 @@ freshwoman 1
 flaps 3
 fuzil 2
 foreordainments 4
-frontages 7
+frontages 8
 floorshow 4
 filicoid
 fezziwig 2
