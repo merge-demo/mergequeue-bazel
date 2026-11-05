@@ -1577,7 +1577,7 @@ ballflower 2
 bifurcate 1
 ballywack
 basalt 2
-brooder 1
+brooder 2
 benzanilide 2
 beclart 1
 bursati
