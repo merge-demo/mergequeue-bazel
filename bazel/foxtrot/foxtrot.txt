@@ -615,7 +615,7 @@ fleshes 1
 forehand 4
 folly 5
 farrantly 2
-forebemoan 2
+forebemoan 3
 forelimb 3
 funnies 1
 frame
