@@ -2038,7 +2038,7 @@ fourpounder 4
 ferngrower 1
 frontspiece 3
 feinter 2
-feudary 2
+feudary 3
 fundi 2
 facedown 1
 faucalize 1
@@ -9788,7 +9788,7 @@ floorwalker 7
 fresison 1
 fraudless 4
 flavia 3
-fresno 3
+fresno 4
 fress
 fret 5
 fusionism 3
