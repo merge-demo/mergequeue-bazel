@@ -703,7 +703,7 @@ boral 2
 bade
 badness 3
 baff 1
-blueish
+blueish 1
 baboen 1
 baign 1
 bogyland 2
@@ -3394,7 +3394,7 @@ bobbishly 4
 bassie
 betsey 1
 bassinet
-bitterling 1
+bitterling 2
 blastodermatic
 bassoonists 2
 bioelectrogenesis 3
