@@ -4528,7 +4528,7 @@ bondland
 betokenment 2
 bushfire 2
 biparted 1
-blennenteritis
+blennenteritis 1
 bodhisattva 1
 bestrided 4
 becursed 4
@@ -4885,7 +4885,7 @@ bedwarfing 4
 bigotty 2
 bubukle 2
 burglarproof 1
-beebee
+beebee 1
 biophysical
 bradystalsis 1
 bewpers
@@ -7596,7 +7596,7 @@ bewilderment 2
 bewitched 1
 boughed 2
 bewitcher
-bewitches 1
+bewitches 2
 barbion
 bryological
 beswink 1
