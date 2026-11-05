@@ -1437,7 +1437,7 @@ enols
 execratory 1
 ebbing 1
 euskaldun 2
-electromassage 2
+electromassage 3
 effluviviums 1
 efflux 3
 expressionlessly
@@ -8358,7 +8358,7 @@ enthrallments 2
 educative 2
 excitomotory 2
 estivated 1
-exclusory
+exclusory 1
 endiadem 3
 epithyme 2
 extacie 4

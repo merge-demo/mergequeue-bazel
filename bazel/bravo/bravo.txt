@@ -1577,7 +1577,7 @@ ballflower 2
 bifurcate 1
 ballywack
 basalt 2
-brooder 1
+brooder 2
 benzanilide 2
 beclart 1
 bursati
@@ -3127,7 +3127,7 @@ bespattering
 brothels 1
 breakouts 1
 beallach 3
-biota 3
+biota 4
 blamingly 2
 boccis 1
 bodyshirt
