@@ -10438,7 +10438,7 @@ acceptances 3
 adstipulation 1
 almah
 amethodically 2
-absurdum 2
+absurdum 3
 aculeolus 4
 ametrope 2
 antshrike 1
@@ -13629,7 +13629,7 @@ aulostomus
 adat 3
 arthroempyesis
 anatomist 2
-addressee 1
+addressee 2
 anodically 3
 anodyne
 anaphroditous
