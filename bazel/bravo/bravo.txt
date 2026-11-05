@@ -12419,7 +12419,7 @@ backcast 1
 begloom 1
 bonbons
 batell 1
-barker
+barker 1
 bareboats 3
 bushiness 2
 bureaux 2
