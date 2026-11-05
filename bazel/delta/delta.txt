@@ -5293,7 +5293,7 @@ defat
 degasifier 4
 dispositioned 3
 diatomaceoid 1
-denouncers
+denouncers 1
 detestable 1
 detinue 5
 dentale 1
@@ -9253,7 +9253,7 @@ dimnesses
 docibleness 2
 dier 4
 dyer 1
-dementis 2
+dementis 3
 dochmii
 dieresis 3
 dihydrazone 1
@@ -10250,7 +10250,7 @@ destry
 dinotherian
 dins 1
 defenestrate 1
-dinted 2
+dinted 3
 dintless 3
 ducal 3
 degradedly 2
@@ -15892,7 +15892,7 @@ dubs
 dehairer
 doped 3
 dorsiduct 2
-darjeeling 2
+darjeeling 3
 droop 1
 dakerhens 2
 dorcatherium 2
