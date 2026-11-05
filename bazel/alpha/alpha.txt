@@ -3491,7 +3491,7 @@ acrogynous
 additivity 3
 apesthesia 3
 aloysia 2
-additory 3
+additory 4
 augustin
 appointively 2
 additum 1
@@ -6508,7 +6508,7 @@ ahmed 1
 atrienses
 asphalted 4
 ahmedi
-aholds
+aholds 1
 ahom 1
 achromia
 ahu 4
@@ -8018,7 +8018,7 @@ automonstration 2
 alexandrina 6
 adenomatome 2
 aggravations 4
-autoceptive 1
+autoceptive 2
 antiexpansionist 1
 addlepatedness 1
 alexandrine 1
