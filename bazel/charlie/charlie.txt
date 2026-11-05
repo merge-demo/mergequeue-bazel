@@ -3544,7 +3544,7 @@ captioned 1
 convenably
 captioning
 captiousness 1
-captivance
+captivance 1
 cucurbitine
 chaired
 colostral 4
@@ -5317,7 +5317,7 @@ coestablishment
 ccws
 cassius
 cassock 3
-cleanser
+cleanser 1
 ctenophora 1
 cassocked
 cultures
@@ -6037,7 +6037,7 @@ coraciiform
 cleg
 cyanide
 catholyte 1
-cathouse 1
+cathouse 2
 carryable 1
 cathouses
 crownling 1
