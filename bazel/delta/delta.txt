@@ -2399,7 +2399,7 @@ diplontic 1
 dismantlement 3
 dayakker 2
 deciduity
-daver
+daver 1
 deciduoma 2
 discommendable 2
 deciduously 2
@@ -6637,7 +6637,7 @@ darkroom 2
 deescalated 2
 deacidification 1
 denotational
-dissentism 1
+dissentism 2
 desorb 2
 defatigated 2
 duendes
@@ -7310,7 +7310,7 @@ dirtiness
 drownding 1
 despondency
 denegate 1
-dessa
+dessa 1
 deplaned 3
 dipneumona
 demifarthing 3
