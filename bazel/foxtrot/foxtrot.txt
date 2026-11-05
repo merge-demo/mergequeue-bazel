@@ -1451,7 +1451,7 @@ fatuoid 2
 fatuus 5
 frankly 2
 fairtime 4
-fantasie 4
+fantasie 5
 filago 3
 fireside
 faubourgs 1
@@ -6866,7 +6866,7 @@ fasces 2
 forthby
 ferritungstite 1
 fattiest 2
-farewell 1
+farewell 2
 fiery 1
 flasks 1
 friability 2
@@ -7311,7 +7311,7 @@ fourgon 1
 fluttery 2
 flushermen 3
 fumitory 4
-favelloid 3
+favelloid 4
 fleeched 1
 foaminess 1
 ferromolybdenum 2
@@ -7663,7 +7663,7 @@ flammant 1
 foretopsail 4
 fittywise 4
 fiefdom 1
-forsteal 3
+forsteal 4
 forecasting 2
 freeze 1
 foxskin 3

@@ -13462,7 +13462,7 @@ cyke 1
 cyl
 comburivorous
 cilectomy
-cornichon 1
+cornichon 2
 chassis 3
 cartesianism 1
 cilery 2
@@ -17553,7 +17553,7 @@ conducible 1
 coccerin
 corr
 coccic 1
-coccidae
+coccidae 1
 cookies 5
 coagency
 coccidial
@@ -25422,7 +25422,7 @@ ceramicist
 chillagite
 contumaciousness
 cornmeals 1
-cornmuse
+cornmuse 1
 corno
 collegians 1
 chewet 1

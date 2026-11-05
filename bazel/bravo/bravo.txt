@@ -3422,7 +3422,7 @@ boatshop
 bleaching
 bagani 2
 belzebuth
-bummers
+bummers 1
 bastardry 1
 briny
 bastards 2
@@ -5506,7 +5506,7 @@ bawty 2
 beingness 1
 brandade 4
 beethovian 2
-beyondness 2
+beyondness 3
 baryton
 bewares 3
 birding 1
@@ -7688,7 +7688,7 @@ bezzo 1
 bhabar 1
 belemnites 3
 bacchanalization 2
-bromonaphthalene
+bromonaphthalene 1
 bridging 3
 bhagavat 3
 bivouacking
@@ -16426,7 +16426,7 @@ bruno 3
 bryanthus 3
 boroughs 1
 barmiest
-balsamum 1
+balsamum 2
 bridgeless
 bellibone
 bps 2
