@@ -6215,7 +6215,7 @@ frumpishness 4
 fudder 2
 fluctuating 3
 frugalist 5
-fluctuational 3
+fluctuational 4
 factioneer 1
 fluegelhorn 2
 foalfoot 1
@@ -8846,7 +8846,7 @@ fieldwork 1
 flecks 4
 finbone 4
 fossorious 2
-fossulae 3
+fossulae 4
 faltche 1
 flatfishes 2
 featureless 4
@@ -10788,7 +10788,7 @@ freinage 1
 factualistic 2
 flue 5
 fubbery 2
-filamentoid 3
+filamentoid 4
 fullering
 footpads 1
 fuchsian 4
