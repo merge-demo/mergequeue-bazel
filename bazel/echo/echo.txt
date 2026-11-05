@@ -4906,7 +4906,7 @@ empoisons 4
 exoperidium
 ecchymoses
 enculturation
-ergatandromorph 5
+ergatandromorph 6
 epispastic 2
 extrapolates 1
 essenis 2
@@ -5945,7 +5945,7 @@ enhearten 2
 echinoderes 3
 exantlation 4
 endobronchially 3
-exhilaration 2
+exhilaration 3
 ergoism 2
 enhelm 4
 elysia 2
