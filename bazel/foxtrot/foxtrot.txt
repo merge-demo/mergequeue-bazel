@@ -1451,7 +1451,7 @@ fatuoid 2
 fatuus 5
 frankly 2
 fairtime 4
-fantasie 4
+fantasie 5
 filago 3
 fireside
 faubourgs 1
@@ -3699,7 +3699,7 @@ flaying 3
 furnacer 3
 financiered 1
 freshener
-finicking 4
+finicking 5
 follying 3
 fiddleys 8
 filioque 3
@@ -6866,7 +6866,7 @@ fasces 2
 forthby
 ferritungstite 1
 fattiest 2
-farewell 1
+farewell 2
 fiery 1
 flasks 1
 friability 2
