@@ -16484,7 +16484,7 @@ anvils 3
 anvilsmith 2
 archeal 1
 aladfar 1
-acronal 1
+acronal 2
 anviltops 2
 altesse
 anxietude 1
@@ -19123,7 +19123,7 @@ algorithm 1
 anisylidene 2
 aphoristic 1
 archwag 1
-archways 4
+archways 5
 arceuthobium 1
 anciens 2
 arcifera 2
