@@ -2705,7 +2705,7 @@ barnyard 2
 beastings
 beblood
 butein
-bottomries 3
+bottomries 4
 batch
 beadflush 2
 bemaul 1
