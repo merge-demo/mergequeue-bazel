@@ -11706,7 +11706,7 @@ foretellableness 3
 flugelhorn 1
 fasciola 2
 furphy 2
-fernsick
+fernsick 1
 frameless 2
 flaw 1
 fanfish 1
