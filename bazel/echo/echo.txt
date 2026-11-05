@@ -11200,7 +11200,7 @@ enspheres 3
 electroacoustically 2
 econometrist 1
 evanesces 2
-extrajudicial 4
+extrajudicial 5
 etuis 2
 elver 3
 extatic 1
@@ -13395,7 +13395,7 @@ epanaphoral 2
 exter 1
 expounder 3
 eulogised 2
-ems 1
+ems 2
 enthrong 2
 evaluative 1
 express 3
