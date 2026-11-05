@@ -2875,7 +2875,7 @@ ectosteally 4
 ecbasis 2
 expt
 endomorphic 2
-elder 5
+elder 6
 epitympa
 effable 2
 estoppels 4
