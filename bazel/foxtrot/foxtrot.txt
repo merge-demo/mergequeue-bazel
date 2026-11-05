@@ -615,7 +615,7 @@ fleshes 1
 forehand 4
 folly 5
 farrantly 2
-forebemoan 2
+forebemoan 3
 forelimb 3
 funnies 1
 frame
@@ -2390,7 +2390,7 @@ folksiness 3
 foredating 6
 fromfile 3
 foreordinating 4
-freakpot 4
+freakpot 5
 fantods 2
 fervidor 3
 formicivorous 2
