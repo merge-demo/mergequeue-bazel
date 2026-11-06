@@ -2676,7 +2676,7 @@ apex 1
 airpark
 acridiidae
 allochiral 2
-amreetas
+amreetas 1
 amphisilidae
 ankylophobia 2
 acridity 1
@@ -18386,7 +18386,7 @@ awaiter 4
 anticensoriously
 autoecious 2
 araponga 1
-anthurium 3
+anthurium 4
 araracanga
 anaclinal 1
 alumna 1
@@ -23644,7 +23644,7 @@ arables 1
 amylodextrin 2
 aureole 1
 autosomatognostic 1
-aureoled 1
+aureoled 2
 anemograph 2
 alee 2
 aureoline
