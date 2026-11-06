@@ -1336,7 +1336,7 @@ fellani
 fervour 2
 fathomlessness 2
 funniment 1
-flichtered 2
+flichtered 3
 forkable 3
 financiering 2
 faticableness 3
@@ -3644,7 +3644,7 @@ flook 2
 farmable 2
 fridstool 4
 frictionlessly 2
-flashing 2
+flashing 3
 faintishness 1
 fielder 3
 floatsman 2
@@ -4681,7 +4681,7 @@ flections 3
 flexibilities 2
 frighten 4
 fumariaceae 1
-fragrantly 1
+fragrantly 2
 foreby 5
 fructescence 1
 frivolizing 1
@@ -5751,7 +5751,7 @@ flyspecking 3
 folate 1
 fill 5
 filliping 1
-forelive 1
+forelive 2
 footlessness 10
 flyswatter 1
 filipiniana 1
