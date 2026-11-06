@@ -13041,7 +13041,7 @@ bolster 4
 blousing
 borders 2
 borderland 2
-bagpipe 1
+bagpipe 2
 beriber 2
 borderline 1
 bowgrace 3
