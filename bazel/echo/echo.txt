@@ -703,7 +703,7 @@ ecraseurs 2
 esocyclic 1
 ened 1
 ecology 3
-eromania 3
+eromania 4
 encephalolith 2
 employing 1
 enspell 1
@@ -1261,7 +1261,7 @@ eelfare 2
 encrinite 3
 emperors 4
 enrobe 4
-ecclesiarch 3
+ecclesiarch 4
 eversive 1
 eking 2
 electrocystoscope 1
