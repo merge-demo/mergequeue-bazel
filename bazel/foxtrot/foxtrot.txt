@@ -157,7 +157,7 @@ favus 1
 falls 5
 fulfillers 1
 fibbery 4
-factionalism 2
+factionalism 3
 factualness 1
 fow 4
 fullbodied 2
@@ -5964,7 +5964,7 @@ floodlilit 2
 fivepins 2
 futileness 2
 frightening 4
-fallibility 3
+fallibility 4
 floodlit 1
 fibromembrane 1
 floods 3
