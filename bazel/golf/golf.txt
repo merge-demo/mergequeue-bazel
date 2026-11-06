@@ -6262,7 +6262,7 @@ greediness 2
 gadslid 1
 gobber 1
 gazettes 2
-goateed 3
+goateed 4
 guitarlike
 gregariousness 7
 guttural
@@ -9918,7 +9918,7 @@ grainsick 2
 gallop 4
 galiots 2
 glamorizing 2
-groundnut 1
+groundnut 2
 gratulatorily 1
 growingly 3
 grata 3
