@@ -28178,7 +28178,7 @@ crankiness 2
 cranking 1
 crankle 2
 cima 1
-crankless 1
+crankless 2
 contiguities
 crink 3
 cromfordite 1
