@@ -6533,7 +6533,7 @@ ai 1
 anomura 3
 acrogynae 1
 arustle
-antidomestic
+antidomestic 1
 ayacahuite 1
 arbutase 1
 athbash 1
