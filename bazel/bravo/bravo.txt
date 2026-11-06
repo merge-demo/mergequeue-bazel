@@ -5730,7 +5730,7 @@ bulldozer 2
 belike 2
 bogeying 1
 bribes
-beparody
+beparody 1
 bedsheets 4
 barrator 2
 bechance
