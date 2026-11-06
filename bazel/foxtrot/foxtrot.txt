@@ -1644,7 +1644,7 @@ four 5
 fdnames
 forthcut 2
 fluible 1
-flamboyantly 4
+flamboyantly 5
 furbelowed 3
 focally 4
 fice 3
@@ -6546,7 +6546,7 @@ fluotantalate 1
 flutteriness 1
 flagrate 4
 fluttering
-forswears 3
+forswears 4
 feedboard 3
 flensing 1
 flutterment 3
