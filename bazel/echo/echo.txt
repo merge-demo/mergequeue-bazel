@@ -786,7 +786,7 @@ enolizing 5
 extramedullary 2
 eolotropic 2
 emotionalization 2
-electrobus 2
+electrobus 3
 equiponderance 5
 encaged 2
 exadverso 2
@@ -9257,7 +9257,7 @@ errants 3
 espinette 2
 elayl 3
 erratas 1
-erratic 2
+erratic 3
 erratically
 enantiomorphic 5
 elite 3
@@ -11541,7 +11541,7 @@ epiphytical 2
 eviting 2
 evangeline 3
 emprize 3
-endosteitis
+endosteitis 1
 edital 2
 evocating 1
 ensign 4

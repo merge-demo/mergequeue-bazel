@@ -6042,7 +6042,7 @@ abecedaire 1
 amidofluoride 1
 acyesis 1
 aging 1
-amidmost
+amidmost 1
 agynic
 aortographies 1
 audacious
@@ -17561,7 +17561,7 @@ acyrology 3
 alunite 3
 alkalifying 1
 alkalin 1
-apotihecal 2
+apotihecal 3
 abidingness
 appendance 1
 appendancy 1
@@ -17832,7 +17832,7 @@ amobarbital
 apppetible 3
 atmans
 aheap
-albizzia 1
+albizzia 2
 afteroar 1
 appaloosas 1
 amelioratively 4
