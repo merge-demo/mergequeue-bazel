@@ -1144,7 +1144,7 @@ fiberization 3
 frumety 2
 feroher 3
 fidelis 6
-flax 4
+flax 5
 fatally 4
 fearbabe 3
 feebleminded 1
@@ -5525,7 +5525,7 @@ furrower 4
 furnit 4
 fisc 4
 faked 7
-filionymic 8
+filionymic 9
 forbearingness 1
 frowzy 3
 furbelowing
