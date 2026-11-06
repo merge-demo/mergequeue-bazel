@@ -5712,7 +5712,7 @@ adenocellulitis
 angels 2
 arteries 1
 ascertainer 1
-argillocalcareous
+argillocalcareous 1
 alderney 1
 ambilian 2
 agamidae 2
@@ -19501,7 +19501,7 @@ assaults 1
 adenotomy 1
 aitchpiece 1
 acad 2
-arsonic 2
+arsonic 3
 anecdotal 2
 argonautid 1
 argonne
