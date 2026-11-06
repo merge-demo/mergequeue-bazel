@@ -1455,7 +1455,7 @@ archaisms
 amortize 2
 acclimatise 1
 acclimatised 1
-acclimatiser 2
+acclimatiser 3
 acclimatising 3
 aegagrus 1
 applewood 1
@@ -19909,7 +19909,7 @@ armonicas
 autoconvection
 armoracia 1
 albertite 1
-akuammin
+akuammin 1
 adonises 1
 ampoules
 alastors 2
@@ -21835,7 +21835,7 @@ assign 3
 absorbedness 3
 assignability 1
 astrodynamics 1
-atoningly 2
+atoningly 3
 assignably
 aviated 3
 assignats
