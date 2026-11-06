@@ -768,7 +768,7 @@ easternizing 3
 ecoute 2
 exscinding 2
 ecphonema 2
-emotes 3
+emotes 4
 echinal 4
 euomphalid
 egger 1
@@ -4946,7 +4946,7 @@ expertised 2
 endarteteria 1
 endaspidean 3
 endbrains 1
-epipodite 6
+epipodite 7
 emusify 3
 euhemerize 1
 entropy 2
@@ -6130,7 +6130,7 @@ exossate 3
 explida
 erythroderma 5
 euchorda
-expiscating 4
+expiscating 5
 enlivener 5
 elvis 2
 encina 5
