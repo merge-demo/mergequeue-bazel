@@ -4547,7 +4547,7 @@ ethynylation 2
 entoptoscope 4
 emigrationist 2
 encephalos 2
-encapsulated
+encapsulated 1
 empales 5
 encephalospinal 3
 ecclesiastic 1
@@ -5641,7 +5641,7 @@ esophoria 5
 enforceable 2
 ectocarpous 1
 encitadel 2
-enlisters
+enlisters 1
 egalitarianism 4
 ensconcing 3
 extispicy 2
@@ -13225,7 +13225,7 @@ explainableness 4
 eductor 3
 epiphytism 1
 eldred 2
-exheredate 1
+exheredate 2
 excluders 2
 exoarteritis 3
 exanthalose 1
