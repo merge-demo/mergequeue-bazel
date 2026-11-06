@@ -6726,7 +6726,7 @@ acardia 2
 auxinic 1
 aine 1
 arrives 1
-antinegro 1
+antinegro 2
 alcelaphine 1
 aubrey 2
 ainee 2
@@ -21938,7 +21938,7 @@ aphakial 2
 associatively 1
 aquiver
 aeriest 1
-anatripsis
+anatripsis 1
 austerus 1
 associativeness 1
 amplify 1
