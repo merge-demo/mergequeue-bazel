@@ -3592,7 +3592,7 @@ asphalt
 abada 2
 antipodagron 1
 agelessly
-adelomorphic
+adelomorphic 1
 adsorbing 3
 adamhood
 amputating 1
