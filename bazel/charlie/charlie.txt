@@ -19281,7 +19281,7 @@ cyclospondyli 3
 coctoprecipitin 2
 colonialize 1
 chortles
-colonializing
+colonializing 1
 crystic 2
 colonially 1
 cowinners 1
@@ -22563,7 +22563,7 @@ cultelli 2
 connectibility 1
 cryptanalysis 1
 connaturalize 2
-chg 1
+chg 2
 cosech 3
 connaturalness
 connature 1
@@ -23327,7 +23327,7 @@ corrasive 1
 consumptional 1
 consumptions 1
 consumptive 1
-consumptively
+consumptively 1
 coordinates 3
 consumptives 1
 consute 1
