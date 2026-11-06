@@ -1011,7 +1011,7 @@ beshrewed
 boraces 1
 barmecidal 2
 balcony
-burnweed 2
+burnweed 3
 bail 1
 buxeous 1
 bringer 3
@@ -4481,7 +4481,7 @@ brise 2
 buckrams 1
 becrinolined 1
 butches 1
-bromios 1
+bromios 2
 becrippled 3
 beira 1
 bedplate
