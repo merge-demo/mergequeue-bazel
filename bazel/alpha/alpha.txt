@@ -16952,7 +16952,7 @@ affectedness
 angliae
 amphorette 1
 aplanatic
-aplanatism
+aplanatism 1
 ately 2
 airways
 abortus 2
@@ -23882,7 +23882,7 @@ artic 2
 adaptiveness 2
 aaa 2
 abrocoma 2
-auth
+auth 1
 amampondo
 aerosphere
 afterrake 1
