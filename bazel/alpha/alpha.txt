@@ -11676,7 +11676,7 @@ anthropomorph 1
 arrage 1
 abastard 4
 assuror 1
-anaemotropy 1
+anaemotropy 2
 adrad
 anaeretic
 ambulacrum
@@ -14366,7 +14366,7 @@ anthologised
 ambari
 alleluias 1
 anthologising
-apothecarcaries
+apothecarcaries 1
 appellational 2
 atomize 1
 anthomaniac
@@ -23012,7 +23012,7 @@ antacrid 1
 atropia 5
 armenian
 atropidae 1
-altigraph 1
+altigraph 2
 atropine
 atropisms 2
 atropos

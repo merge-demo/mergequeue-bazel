@@ -5654,7 +5654,7 @@ fluidising 3
 fireable 2
 flimsiness 3
 fairleads 2
-flinch
+flinch 1
 flagleaf 4
 fatted 3
 feck 2
