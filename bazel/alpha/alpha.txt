@@ -19461,7 +19461,7 @@ amphipodiform 2
 armgaunt 3
 archwife
 argillic 2
-aspalathus
+aspalathus 1
 assessing
 aelurophobe 2
 adrenocorticosteroid
@@ -25100,7 +25100,7 @@ armorplated
 axiate 1
 atmos 2
 archeress 1
-amphicondyla 2
+amphicondyla 3
 axiferous 2
 antimonarchists 5
 argumentation
@@ -25230,7 +25230,7 @@ alibangbang 2
 aucht 1
 azande
 antediluvially 3
-ammonal 4
+ammonal 5
 azelaic 1
 antical 2
 aciduria 1
