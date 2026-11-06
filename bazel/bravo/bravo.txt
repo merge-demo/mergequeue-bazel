@@ -1520,7 +1520,7 @@ beeherd 3
 burger 1
 bersiamite 1
 bulbiform 1
-bdl 2
+bdl 3
 bouton 1
 backsword 3
 ballastic 2
@@ -14427,7 +14427,7 @@ brainstorming 3
 brainstorms 1
 balkanic 1
 brainteaser
-brainward 1
+brainward 2
 ballistae 1
 biontic 1
 brow
@@ -15433,7 +15433,7 @@ bifurcations 3
 boxthorns
 battledoring
 brilliancies 1
-bagged 4
+bagged 5
 brilliandeer
 budgerigars 2
 buonamani 4
