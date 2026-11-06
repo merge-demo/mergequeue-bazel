@@ -17508,7 +17508,7 @@ deliverability
 dezinkify
 detoxified 2
 druggery 2
-druggets
+druggets 1
 dendroidea 2
 doorhawk 3
 drawability 2
@@ -17781,7 +17781,7 @@ dismaw 5
 duckboard
 doublehatching 1
 ducked 1
-discussionis
+discussionis 1
 disarrange 2
 domicilii 2
 duckery 2
