@@ -5302,7 +5302,7 @@ axon
 affixal 1
 astipulate 1
 astrid 2
-americanoid 4
+americanoid 5
 affixation
 amortization
 affixed 1
@@ -6340,7 +6340,7 @@ aktivismus 2
 anthropotomy 1
 antinomic 3
 antipapal 3
-asmoke 1
+asmoke 2
 arthropathology 5
 attractable 3
 accorded

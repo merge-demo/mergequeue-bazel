@@ -9208,7 +9208,7 @@ fucus 4
 fledged 3
 fumously 2
 firebugs 6
-fertilising 1
+fertilising 2
 fascinatress 3
 freeborn 2
 fragmentariness 3
@@ -10259,7 +10259,7 @@ felstone 5
 fluidglycerate 2
 franklinism 2
 forensics 5
-fostership
+fostership 1
 fistulatome 2
 flutier 4
 fasher 3
