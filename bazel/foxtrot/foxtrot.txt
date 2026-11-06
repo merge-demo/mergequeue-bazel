@@ -6280,7 +6280,7 @@ fluidmeter 2
 fearnought 2
 fakirism 1
 forceful 5
-fluidounce 5
+fluidounce 6
 factory 1
 fluigram 1
 filestatus 5
