@@ -1919,7 +1919,7 @@ camel 1
 comforted
 cameleer 2
 culverins 1
-camelia 1
+camelia 2
 cauliflorous 1
 cameline 1
 camelish
@@ -22797,7 +22797,7 @@ chelonid
 caulicles 1
 congiaries 1
 consentable 2
-consentaneity
+consentaneity 1
 consentaneous 1
 consentaneousness 2
 continently
