@@ -3658,7 +3658,7 @@ enwheeled 3
 embrectomy 1
 emergency 1
 epiphloedic 2
-embrica 3
+embrica 4
 embryectomy 2
 essaylet 1
 embryectomies 1
@@ -4384,7 +4384,7 @@ equinovarus 2
 electrolyzer 3
 encephalosclerosis 3
 evisite 1
-endoplastule 5
+endoplastule 6
 euornithes 1
 enapt
 ethnog 3
@@ -7477,7 +7477,7 @@ extrafocal
 electronographic 2
 eyess 2
 extracivically 1
-ephetae 1
+ephetae 2
 effulged 1
 ephetic 1
 epitaphs
@@ -10040,7 +10040,7 @@ extradural 4
 eternish 2
 elod
 editresses 2
-energetical 2
+energetical 3
 epitaphial
 esculetin 3
 evolutions 3
@@ -13572,7 +13572,7 @@ emulation
 epikeia 2
 esoteric 3
 exsufflate 1
-exsufflation
+exsufflation 1
 epithymetical
 extracutaneous 5
 evasions 1
