@@ -3002,7 +3002,7 @@ aphasias 1
 antireligious 1
 actinocrinite
 actinodielectric
-actinodromous
+actinodromous 1
 actinoelectrically
 antigenic
 aerogeography 2
