@@ -15356,7 +15356,7 @@ adulterate
 antikenotoxin 3
 abwatt 3
 antiking
-aposematic
+aposematic 1
 araneology
 alcaic 2
 antikings 3
