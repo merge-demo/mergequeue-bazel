@@ -12210,7 +12210,7 @@ ancestry
 autocue 3
 astronautical 4
 allodge
-asgard
+asgard 1
 andaman
 autobiographic 3
 anchieutectic
@@ -15400,7 +15400,7 @@ antilithic 1
 antilitter 1
 antiliturgy 1
 aspiculous 2
-amla 1
+amla 2
 affixt 1
 adjutancy
 affirmed 2
