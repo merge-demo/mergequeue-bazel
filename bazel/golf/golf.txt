@@ -1350,7 +1350,7 @@ galvanist 8
 geoside 3
 glomerulus 4
 galloner 5
-gangrenes 2
+gangrenes 3
 garnisheement 5
 glorifier 1
 gervao 4
@@ -3417,7 +3417,7 @@ greco 1
 gynaeolatry
 gerontotherapy 8
 gibraltar 3
-galleting 1
+galleting 2
 gyromancy 3
 gentisate 4
 giggit
