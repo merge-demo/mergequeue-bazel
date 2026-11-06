@@ -107,7 +107,7 @@ fibrinous 2
 friendly 5
 futharc 4
 finnickier 4
-forrad 4
+forrad 5
 faciation 2
 fingertips 2
 faciends 2
@@ -1144,7 +1144,7 @@ fiberization 3
 frumety 2
 feroher 3
 fidelis 6
-flax 4
+flax 5
 fatally 4
 fearbabe 3
 feebleminded 1
@@ -5407,7 +5407,7 @@ fennel 1
 friending 2
 frigefact 2
 futurity 2
-fleabiting 4
+fleabiting 5
 fledgeling 2
 fiendhead 2
 foxfinger 1
@@ -5525,7 +5525,7 @@ furrower 4
 furnit 4
 fisc 4
 faked 7
-filionymic 8
+filionymic 9
 forbearingness 1
 frowzy 3
 furbelowing
@@ -5939,7 +5939,7 @@ fabiform 3
 flowerpots 4
 flooder 4
 fowlpoxes
-freakiness
+freakiness 1
 fichtean 5
 foggers 3
 falstaffian 6

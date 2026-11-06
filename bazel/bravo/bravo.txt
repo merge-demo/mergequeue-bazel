@@ -2835,7 +2835,7 @@ barotropic 1
 barouchette 1
 bioecologic
 barouni 1
-begrain 1
+begrain 2
 baroxyton
 benignantly 3
 beebread 1
@@ -2965,7 +2965,7 @@ bemazed 1
 boltsmith
 bicentral
 basiation 1
-bolthole
+bolthole 1
 bisiliquous 3
 barophobia
 barricoes 1
@@ -8708,7 +8708,7 @@ bullishness 2
 babyfied
 brauneria 3
 barchans
-bimethyls 2
+bimethyls 3
 bimillenium 1
 bimillionaire 4
 buoyancies 2
@@ -10538,7 +10538,7 @@ backlash 3
 blatch 3
 bouviers 2
 boychiks
-bambuco 1
+bambuco 2
 blate 1
 blately 2
 blateness 4
@@ -13575,7 +13575,7 @@ bivane
 boughy 2
 bijugate 2
 boughpots 2
-boughs 2
+boughs 3
 bougie
 botry 1
 boodlers 3
@@ -14698,7 +14698,7 @@ bestraught 1
 brasslike 2
 baignoire 1
 bagio 2
-brat 1
+brat 2
 brutter
 blender 1
 bounder

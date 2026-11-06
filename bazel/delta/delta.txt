@@ -4310,7 +4310,7 @@ detraining 4
 divisiveness
 demagnetising
 diacranteric 1
-decomposes
+decomposes 1
 dhoney 1
 deplores 2
 demagnetizing 1
@@ -5476,7 +5476,7 @@ disenablement 1
 deorsum 2
 deossification 2
 deuterostomatous
-dissipates 1
+dissipates 2
 dyakisdodecahedron 3
 deoxycorticosterone 1
 dandically 1
