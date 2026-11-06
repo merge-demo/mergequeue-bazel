@@ -441,7 +441,7 @@ ecballium 2
 expugnable 5
 ecbole 2
 explained 3
-ellipsone 2
+ellipsone 3
 extraembryonal 3
 emmer 2
 eremitical 1
@@ -662,7 +662,7 @@ enshrouding 1
 extracondensed 3
 electrophysiology 2
 emaculate 2
-estheses
+estheses 1
 eclipse 1
 exudative 2
 eclipsed 2
@@ -703,7 +703,7 @@ ecraseurs 2
 esocyclic 1
 ened 1
 ecology 3
-eromania 3
+eromania 4
 encephalolith 2
 employing 1
 enspell 1
@@ -1261,7 +1261,7 @@ eelfare 2
 encrinite 3
 emperors 4
 enrobe 4
-ecclesiarch 3
+ecclesiarch 4
 eversive 1
 eking 2
 electrocystoscope 1
@@ -2027,7 +2027,7 @@ elabrate 3
 endocrinotherapy 1
 epigaea 1
 erythrosine 4
-epitrophy 3
+epitrophy 4
 encurl 1
 exophasia 2
 elytrigerous 1
@@ -2693,7 +2693,7 @@ engenderment 2
 electrotelegraphy 2
 exhort 1
 epispadia 3
-electrotherapeutical 1
+electrotherapeutical 2
 estampie
 escrol
 expectorating 2

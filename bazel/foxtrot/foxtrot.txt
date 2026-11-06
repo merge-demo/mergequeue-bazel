@@ -643,7 +643,7 @@ falx 3
 further 2
 fallbacks 4
 fluocarbonate 4
-fireclays 4
+fireclays 5
 fortitudinous 4
 fictionalization 2
 finickingly 3
@@ -1982,7 +1982,7 @@ futurists 3
 forbiddal 4
 furile 1
 fishgig 3
-fulvid 1
+fulvid 2
 feedstock 3
 fibroserous
 floccosely
@@ -2878,7 +2878,7 @@ forepreparation 5
 ferlies 4
 fetterlock 1
 flatfish 3
-forewing 2
+forewing 3
 foxship 3
 frisettes 2
 fantasize 2
@@ -3010,7 +3010,7 @@ featest 2
 flooey 3
 fiar 2
 fricasseeing 1
-fiaroblast 4
+fiaroblast 5
 foreordained
 flirts 3
 flaggelation 2
@@ -3737,7 +3737,7 @@ finales 3
 furling 3
 fillips 1
 flics 1
-flexibilty 1
+flexibilty 2
 fecundates 2
 fillmore 2
 forwear 4
@@ -5790,7 +5790,7 @@ fevertwig 5
 flambee 1
 frett 1
 facemaker 1
-fv 5
+fv 6
 forestside 2
 forepromised 3
 fussiest 2
@@ -7187,7 +7187,7 @@ frore 2
 furcraea 3
 flocoon 1
 formedon 2
-flection 3
+flection 4
 faecalith 3
 flites
 forthteller 3
@@ -8186,7 +8186,7 @@ feverberries 8
 formicinae 1
 faddle 1
 fraught 5
-flourishable 4
+flourishable 5
 furores 3
 flockbed 6
 foghorn
@@ -9944,7 +9944,7 @@ friedrichsdor 3
 flaggingly 3
 flutterless 4
 fakeers 4
-facileness 3
+facileness 4
 feelingness 2
 flairs 5
 floatingly 3
