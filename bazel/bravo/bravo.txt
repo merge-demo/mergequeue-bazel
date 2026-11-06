@@ -11287,7 +11287,7 @@ bummle 1
 byelorussian 1
 bachelor 2
 blowlamp 2
-blown
+blown 1
 bananas 1
 blowoff 1
 blowouts 1
@@ -16369,7 +16369,7 @@ beknottedness 1
 belligerence 3
 buzzardly 3
 brulzies
-biloculate 1
+biloculate 2
 brumbie 1
 bedew 1
 blepharoncus 2
@@ -17301,7 +17301,7 @@ bummel 6
 bummie 3
 bumming 2
 basilweed 2
-bummler
+bummler 1
 barberite 3
 bumped 2
 burrowed 2
