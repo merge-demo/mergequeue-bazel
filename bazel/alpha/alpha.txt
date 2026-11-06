@@ -13260,7 +13260,7 @@ adynamic 2
 atingle 2
 aniseikonic 1
 anisic 1
-autosuggestible
+autosuggestible 1
 apriorism 3
 addossed 3
 anisobranchiate 1
