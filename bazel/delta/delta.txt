@@ -5199,7 +5199,7 @@ dartoic 2
 debone 4
 dyings 1
 daemon
-doghole 1
+doghole 2
 decephalization 3
 deathly
 diaheliotropic 2
@@ -11196,7 +11196,7 @@ dazingly 3
 dratted 2
 disbelieves 2
 disavowals 2
-doughfeet
+doughfeet 1
 dendropogon 1
 deprives 2
 disconduce 5
