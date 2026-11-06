@@ -5339,7 +5339,7 @@ beerage
 barbola 1
 begnaw 2
 biharmonic 2
-borderlines 1
+borderlines 2
 balmy
 ballroom 2
 begone 3
