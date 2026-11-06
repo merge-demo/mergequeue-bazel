@@ -3592,7 +3592,7 @@ asphalt
 abada 2
 antipodagron 1
 agelessly
-adelomorphic
+adelomorphic 1
 adsorbing 3
 adamhood
 amputating 1
@@ -3797,7 +3797,7 @@ aichmophobia 1
 acephalina
 adamantoblastoma 2
 accomplis 1
-aedility
+aedility 1
 adiaphory 1
 afer
 adiaphorist 1
@@ -13260,7 +13260,7 @@ adynamic 2
 atingle 2
 aniseikonic 1
 anisic 1
-autosuggestible
+autosuggestible 1
 apriorism 3
 addossed 3
 anisobranchiate 1
@@ -15753,7 +15753,7 @@ alya 2
 antipatriotically 1
 aneuria 2
 antipatriotism 2
-agada 2
+agada 3
 autoinhibited 2
 apodeme
 algesimeter
