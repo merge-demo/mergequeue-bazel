@@ -1297,7 +1297,7 @@ cherished 1
 calfless 1
 calflike 1
 calfling 1
-calfskin
+calfskin 1
 creatural 1
 calgary
 caliban 2
@@ -13986,7 +13986,7 @@ cypher
 cipherdom 1
 causeur
 cyphered 1
-cipherer 2
+cipherer 3
 cipherhood 2
 ciphering
 ciphertexts 1

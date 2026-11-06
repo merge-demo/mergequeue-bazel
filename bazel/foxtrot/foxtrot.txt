@@ -2214,7 +2214,7 @@ fixe
 fibrinopurulent
 fogged 1
 feminal 2
-fruiting
+fruiting 1
 feminility 2
 feminin 4
 frecklish 3
@@ -5304,7 +5304,7 @@ fumage 2
 fluoridize 4
 fatwood 1
 fretters 2
-french 1
+french 2
 flain 2
 fernwort 3
 fulyie 4
@@ -6902,7 +6902,7 @@ fifes 5
 fleme 3
 felafel 1
 fanakalo 2
-flintwood 4
+flintwood 5
 flosculous 2
 februaries 2
 feculence 6
