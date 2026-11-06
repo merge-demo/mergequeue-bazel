@@ -2390,7 +2390,7 @@ bardings 1
 busyness 2
 becalms
 bardlike
-barkiest
+barkiest 1
 bazar 5
 brinks
 bilaterality
