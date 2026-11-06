@@ -5339,7 +5339,7 @@ beerage
 barbola 1
 begnaw 2
 biharmonic 2
-borderlines 1
+borderlines 2
 balmy
 ballroom 2
 begone 3
@@ -11335,7 +11335,7 @@ bestialising 3
 bankable 2
 bromegrass 2
 bluchers 1
-bludge 2
+bludge 3
 belouke
 bludgeon 3
 bludgeons 2
