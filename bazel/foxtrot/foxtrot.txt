@@ -3659,7 +3659,7 @@ fibrillar 2
 freshed 1
 foretype 3
 feverberry 2
-filigrane 4
+filigrane 5
 furlana 2
 frangula 2
 franchisee 4
@@ -11642,7 +11642,7 @@ fusulae 3
 feathery 2
 fusure 4
 fibroses
-fibropapilloma 1
+fibropapilloma 2
 fust 4
 federational
 furbishing 4
