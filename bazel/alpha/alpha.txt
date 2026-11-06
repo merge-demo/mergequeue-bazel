@@ -5480,7 +5480,7 @@ afterbirth 2
 antiutilitarian
 atmospheres 2
 afterblow 1
-aerarium 1
+aerarium 2
 augurer
 alpian 1
 anele 1
