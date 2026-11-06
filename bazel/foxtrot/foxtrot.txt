@@ -1042,7 +1042,7 @@ ferash 1
 fletcherize 2
 folates 3
 farmership 1
-flypaper
+flypaper 1
 formicarian
 frieda 4
 focalization
@@ -1457,7 +1457,7 @@ fireside
 faubourgs 1
 focussing 2
 fistulose 1
-featly 1
+featly 2
 faulds
 faultfind 1
 fasciculite 5
@@ -2852,7 +2852,7 @@ firmisternal 4
 fetology 1
 fibroglia 2
 forespeed 2
-furunculosis 1
+furunculosis 2
 flatwares 3
 formol 2
 faddish 2
@@ -11453,7 +11453,7 @@ frayedly 2
 furcule 3
 flaffer 2
 furfurylidene 2
-furrowy
+furrowy 1
 facecloth 5
 flap 2
 furrowing 4
@@ -11679,7 +11679,7 @@ furcates 1
 frailties 2
 festoons 4
 flocculate 2
-frigorific 2
+frigorific 3
 feru 1
 feminines 1
 felids 3

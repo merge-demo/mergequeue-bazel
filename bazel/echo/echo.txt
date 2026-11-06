@@ -5860,7 +5860,7 @@ embergeese 1
 engramme 2
 epicarpal 2
 engrammes 2
-extensors 3
+extensors 4
 edwardine 3
 eudaemonistical 3
 elia 4
@@ -7699,7 +7699,7 @@ endotheliomata 4
 eboulement 2
 endlichite
 euphemiser 2
-electrotautomerism 1
+electrotautomerism 2
 expoundable 2
 epideistic 3
 enthymematical 3
@@ -9194,7 +9194,7 @@ electrographite 1
 empiricism 2
 exotropia 2
 enclasp 2
-egomaniac 1
+egomaniac 2
 eroticizing 2
 evangelion
 exultance 1

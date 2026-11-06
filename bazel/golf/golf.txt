@@ -3844,7 +3844,7 @@ gryphons 1
 gameball 4
 gastroenterotomy 3
 grimsir 1
-giver 1
+giver 2
 goldang 1
 gids 2
 gingeleys 5
@@ -6047,7 +6047,7 @@ graymalkin 2
 grindal 1
 gyppers 2
 gnathitis 3
-gragers 1
+gragers 2
 ganevs 1
 gastradenitis 5
 guerre 5
