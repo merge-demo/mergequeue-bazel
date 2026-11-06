@@ -21069,7 +21069,7 @@ ascocarp 1
 ascocarps 1
 anticeremonialist 3
 airports 1
-autophony
+autophony 1
 apohyal 1
 anteposthumous 2
 architectures
