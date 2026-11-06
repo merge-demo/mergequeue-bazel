@@ -6589,7 +6589,7 @@ charcuterie 2
 calamitoid 1
 cdf
 carid 1
-cheroot 2
+cheroot 3
 cdg 1
 cdr 1
 cesspool 2
