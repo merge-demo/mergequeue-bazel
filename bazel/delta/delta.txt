@@ -2563,7 +2563,7 @@ diplophonic 3
 disequality 3
 dematerialize 4
 discus
-dorsocephalic 2
+dorsocephalic 3
 distiller 1
 declensionally
 declensions 2
@@ -3505,7 +3505,7 @@ detention 3
 dislikers 4
 demasculinizing 2
 deforested 1
-downheartedness 2
+downheartedness 3
 draftswoman 2
 downside
 deform 2
@@ -10466,7 +10466,7 @@ deglutitive 1
 distortion
 dister 4
 droits 3
-denaturate 2
+denaturate 3
 diphtheria 4
 diphtherian 2
 dogberrydom 2
@@ -16558,7 +16558,7 @@ diacritics 2
 destinies 1
 disendows 4
 dyscrased 3
-delomorphous 2
+delomorphous 3
 dodecarchy
 dishallow 2
 doctorly
