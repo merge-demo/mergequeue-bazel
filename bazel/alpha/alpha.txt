@@ -14734,7 +14734,7 @@ actorish 1
 ambulacral 1
 attractableness 1
 antisex
-antiblastic
+antiblastic 1
 adumbral
 abjudication
 acclimation 2
@@ -19272,7 +19272,7 @@ addressed 2
 austroasiatic 2
 amphigonium 2
 afterhand
-adynamy 1
+adynamy 2
 areng 1
 archpresbyter 3
 arenga 1
