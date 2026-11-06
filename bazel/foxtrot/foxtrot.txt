@@ -1457,7 +1457,7 @@ fireside
 faubourgs 1
 focussing 2
 fistulose 1
-featly 1
+featly 2
 faulds
 faultfind 1
 fasciculite 5
@@ -10087,7 +10087,7 @@ functions 1
 fondant 4
 fritz 2
 furnisher 3
-foozling 3
+foozling 4
 farmhands 1
 fordam 1
 faki 2
@@ -11453,7 +11453,7 @@ frayedly 2
 furcule 3
 flaffer 2
 furfurylidene 2
-furrowy
+furrowy 1
 facecloth 5
 flap 2
 furrowing 4
@@ -11679,7 +11679,7 @@ furcates 1
 frailties 2
 festoons 4
 flocculate 2
-frigorific 2
+frigorific 3
 feru 1
 feminines 1
 felids 3
