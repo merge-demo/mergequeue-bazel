@@ -6808,7 +6808,7 @@ basigenous 1
 bertrum 1
 bullarium 4
 beachy 2
-broadsided
+broadsided 1
 ber
 beruffed 3
 brusqueness 4
@@ -8374,7 +8374,7 @@ byhand 2
 bicarpellate
 bija 2
 bijasal 5
-bijections 1
+bijections 2
 bree 3
 bijou 2
 bhandar 2
