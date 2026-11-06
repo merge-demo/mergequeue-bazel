@@ -2113,7 +2113,7 @@ diapasm
 daunts
 doab 2
 disinheritances 1
-duddies 2
+duddies 3
 despoilment 2
 decameron 4
 digraph
@@ -6490,7 +6490,7 @@ daubingly 1
 dorsifixed 1
 disencumberment 1
 diag 1
-dispossesses 2
+dispossesses 3
 desmarestiaceae 1
 descendable
 descendants 1
