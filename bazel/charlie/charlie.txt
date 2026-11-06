@@ -6810,7 +6810,7 @@ cellarmen 3
 cellars 2
 chirologies 1
 cellarwoman 2
-cellblock 1
+cellblock 2
 celled 2
 centennium 1
 cellepore
