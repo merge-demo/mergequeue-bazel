@@ -2191,7 +2191,7 @@ farmhouse 4
 fumulus 2
 fluster 5
 felts
-forthtell 3
+forthtell 4
 fishworker 2
 feltwort 2
 fastidiosity 2
@@ -2355,7 +2355,7 @@ flanneled 2
 fencelike
 floaters 5
 flunked 4
-friarly 2
+friarly 3
 funerary 3
 favel 2
 femineity 2
