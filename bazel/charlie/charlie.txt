@@ -22864,7 +22864,7 @@ chandoo
 checkbit 1
 coxcombically
 conservativeness 4
-commoves
+commoves 1
 chittering 1
 choisya 1
 collapsable 2
