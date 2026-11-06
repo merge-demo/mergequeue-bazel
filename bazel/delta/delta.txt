@@ -5695,7 +5695,7 @@ disvertebrate 1
 denominational 2
 deozonize 2
 delegacies
-demigods
+demigods 1
 desterilized
 dialysed 1
 disposit 1
