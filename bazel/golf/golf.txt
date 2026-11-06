@@ -2892,7 +2892,7 @@ gigmanhood 3
 gravediggers 1
 guddled 2
 gedunk 2
-geobotanic 1
+geobotanic 2
 gustation 4
 gradualism
 gumpheon 6
@@ -5398,7 +5398,7 @@ glossily 2
 giusto 3
 girdle 1
 gynandromorphic 1
-goodtemperedness 3
+goodtemperedness 4
 glimmer 5
 graphometry 3
 groundswell 1
@@ -6278,7 +6278,7 @@ gobble 3
 gowpen 4
 gierfalcon 5
 gobbled 3
-gothicizer 4
+gothicizer 5
 gobbledygook 3
 gelatinised 2
 graecian 4
@@ -9506,7 +9506,7 @@ groutier 5
 gaes 3
 gins
 gyving 2
-gyroscope 7
+gyroscope 8
 groupwise 4
 garvey 5
 glenn 1
