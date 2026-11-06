@@ -2724,7 +2724,7 @@ allamonti 1
 asteriae 2
 arak 2
 anabasin 1
-acritan 1
+acritan 2
 acrite 3
 asthenobiosis 1
 astringent 1
@@ -6042,7 +6042,7 @@ abecedaire 1
 amidofluoride 1
 acyesis 1
 aging 1
-amidmost
+amidmost 1
 agynic
 aortographies 1
 audacious
@@ -17561,7 +17561,7 @@ acyrology 3
 alunite 3
 alkalifying 1
 alkalin 1
-apotihecal 2
+apotihecal 3
 abidingness
 appendance 1
 appendancy 1
