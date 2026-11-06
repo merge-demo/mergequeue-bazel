@@ -6956,7 +6956,7 @@ extrapolations 4
 endarteria 3
 election 2
 entourage 2
-empt 2
+empt 3
 enounces 2
 entozoologically 3
 entrain 2
@@ -12460,7 +12460,7 @@ exfiltrate
 equilibrial
 electrolysing 2
 exhuming 2
-epifaunal
+epifaunal 1
 enthronization 2
 elegiac 2
 enclosure
