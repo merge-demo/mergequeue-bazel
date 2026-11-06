@@ -7718,7 +7718,7 @@ enfevered 1
 epidemiography 1
 elytroplastic 1
 epeirogeny 1
-equilibration 1
+equilibration 2
 expendability
 extrapopular 1
 epidemiologic 4
@@ -9334,7 +9334,7 @@ eruptible 2
 eruption
 eruptional 1
 establishing 1
-ellen 3
+ellen 4
 eruptive 1
 extortioner 3
 essoinee 2
