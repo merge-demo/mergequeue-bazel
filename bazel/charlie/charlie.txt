@@ -23548,7 +23548,7 @@ continentals
 cochranea
 contingence 1
 carpenter 2
-chorization
+chorization 1
 credo
 contingential 3
 contingentialness 1
