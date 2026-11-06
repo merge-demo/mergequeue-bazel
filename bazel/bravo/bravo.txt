@@ -5886,7 +5886,7 @@ basimesostasis 1
 belomancy 2
 belonephobia 1
 belonger 2
-bagonet
+bagonet 1
 biased 2
 bronchophonic 1
 bared 3
@@ -17655,7 +17655,7 @@ blowier 2
 barrelfish 1
 bonsai
 bellipotent
-burked 2
+burked 3
 bonnetman
 belletrists 2
 blithebread 3

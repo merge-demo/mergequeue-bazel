@@ -1199,7 +1199,7 @@ fluoroscopy 1
 fleech 3
 fears 1
 fascistization 2
-foxproof 1
+foxproof 2
 fountainlike 2
 fleckled 4
 fleckiness 3
@@ -5791,7 +5791,7 @@ flambee 1
 frett 1
 facemaker 1
 fv 6
-forestside 2
+forestside 3
 forepromised 3
 fussiest 2
 forebear
