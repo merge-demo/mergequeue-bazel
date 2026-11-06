@@ -6676,7 +6676,7 @@ babbles 1
 berytidae 1
 boblet
 bergh 2
-brachiata 2
+brachiata 3
 boonless 1
 berk 2
 brooking 4
@@ -10482,7 +10482,7 @@ berrichon 1
 brickfielder 2
 beeflower 3
 blastochyle
-blastocoel 2
+blastocoel 3
 bibliopegically 1
 blastocoele 2
 blastodisc

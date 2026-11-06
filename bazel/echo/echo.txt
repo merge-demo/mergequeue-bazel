@@ -3642,7 +3642,7 @@ estimators 1
 enddamaging 2
 elaeocarpaceous 1
 ecocidal 1
-epitrachelion 3
+epitrachelion 4
 embread 3
 entrepeneurs 4
 ejector 4
@@ -13202,7 +13202,7 @@ extruded
 elicited 1
 elapinae 2
 emphatically 4
-embale 3
+embale 4
 expires 1
 earthworms 3
 esteemable
