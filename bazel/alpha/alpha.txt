@@ -2373,7 +2373,7 @@ acrospired
 anticritically
 asseverates 1
 acinaciform 3
-amorism
+amorism 1
 acinar 2
 albardine
 aminovaleric 1
@@ -11134,7 +11134,7 @@ arms 1
 adjutancies 1
 antirationality
 araeometer
-amphetamines
+amphetamines 1
 abasgi
 antecedaneous 1
 actaeaceae
@@ -11676,7 +11676,7 @@ anthropomorph 1
 arrage 1
 abastard 4
 assuror 1
-anaemotropy 1
+anaemotropy 2
 adrad
 anaeretic
 ambulacrum
@@ -12117,7 +12117,7 @@ alchemize 3
 antambulacral 3
 accepter
 artou
-aegeriid
+aegeriid 1
 appels 3
 anathematizer 2
 angularly 2
@@ -14366,7 +14366,7 @@ anthologised
 ambari
 alleluias 1
 anthologising
-apothecarcaries
+apothecarcaries 1
 appellational 2
 atomize 1
 anthomaniac
@@ -23012,7 +23012,7 @@ antacrid 1
 atropia 5
 armenian
 atropidae 1
-altigraph 1
+altigraph 2
 atropine
 atropisms 2
 atropos
