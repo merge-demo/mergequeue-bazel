@@ -2323,7 +2323,7 @@ blatancies 1
 bromite
 briber 3
 barbita 1
-barbital
+barbital 1
 brighteners 1
 barbiton
 bloodworm 1
@@ -3893,7 +3893,7 @@ bawsint 3
 brutalness 3
 bawsunt 2
 blamelessness 4
-beechnuts 1
+beechnuts 2
 bhil 2
 bedlamp
 bifidated
