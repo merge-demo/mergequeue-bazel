@@ -1047,7 +1047,7 @@ elberta 2
 expeditions 2
 exadversum 5
 etchareottine
-excisable 2
+excisable 3
 eyeless 2
 endoskeleton 2
 eqpt
@@ -10173,7 +10173,7 @@ elodeaceae 4
 emerant
 exegetic
 eponymies
-eunuchoid 3
+eunuchoid 4
 empestic 2
 esteemer 4
 engraphically 2
