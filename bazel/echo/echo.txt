@@ -2348,7 +2348,7 @@ enchants 1
 epistroma 3
 electrocardiogram 1
 enclear 2
-ever 4
+ever 5
 electrocardiographic 2
 euphuistic 1
 explorational 3
@@ -4974,7 +4974,7 @@ exilable 5
 emulsifiable
 embole 3
 endowed 3
-expertly
+expertly 1
 entopical 1
 epineurial 2
 enthronise 3
@@ -5292,7 +5292,7 @@ exactor
 entreatable 4
 evened 1
 editors 2
-ecumenicity 1
+ecumenicity 2
 endopodite 2
 exagitation
 eskimoid 2
