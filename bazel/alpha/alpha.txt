@@ -2373,7 +2373,7 @@ acrospired
 anticritically
 asseverates 1
 acinaciform 3
-amorism
+amorism 1
 acinar 2
 albardine
 aminovaleric 1
@@ -11134,7 +11134,7 @@ arms 1
 adjutancies 1
 antirationality
 araeometer
-amphetamines
+amphetamines 1
 abasgi
 antecedaneous 1
 actaeaceae
@@ -12117,7 +12117,7 @@ alchemize 3
 antambulacral 3
 accepter
 artou
-aegeriid
+aegeriid 1
 appels 3
 anathematizer 2
 angularly 2
