@@ -3271,7 +3271,7 @@ basinet 1
 basinets 2
 basinful 1
 benzines 2
-bewhig 2
+bewhig 3
 begartered 3
 bethank 2
 bookkeeps
