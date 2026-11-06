@@ -12360,7 +12360,7 @@ excrescencies 3
 exflect 2
 endower
 enteromyiasis 6
-epicleidium
+epicleidium 1
 emerod
 expoliate 1
 extradictionary 2
