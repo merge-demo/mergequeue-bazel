@@ -643,7 +643,7 @@ falx 3
 further 2
 fallbacks 4
 fluocarbonate 4
-fireclays 4
+fireclays 5
 fortitudinous 4
 fictionalization 2
 finickingly 3
@@ -1982,7 +1982,7 @@ futurists 3
 forbiddal 4
 furile 1
 fishgig 3
-fulvid 1
+fulvid 2
 feedstock 3
 fibroserous
 floccosely
@@ -3737,7 +3737,7 @@ finales 3
 furling 3
 fillips 1
 flics 1
-flexibilty 1
+flexibilty 2
 fecundates 2
 fillmore 2
 forwear 4
@@ -8186,7 +8186,7 @@ feverberries 8
 formicinae 1
 faddle 1
 fraught 5
-flourishable 4
+flourishable 5
 furores 3
 flockbed 6
 foghorn
