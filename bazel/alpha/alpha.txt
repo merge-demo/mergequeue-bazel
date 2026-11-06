@@ -552,7 +552,7 @@ adore 1
 acetolysis 4
 ataraxies
 amidophosphoric 3
-amyotrophia 3
+amyotrophia 4
 actualize 2
 anba
 aciliated 3
@@ -19211,7 +19211,7 @@ anchoritic
 accidency 2
 arder 1
 angiofibroma
-ardhanari
+ardhanari 1
 avilion
 agrarianism 1
 antiparasitic 2
@@ -23097,7 +23097,7 @@ attalea 1
 aquafer
 algicidal 4
 attargul 1
-antisplenetic 1
+antisplenetic 2
 armigers 2
 alluviation
 antephialtic 3
