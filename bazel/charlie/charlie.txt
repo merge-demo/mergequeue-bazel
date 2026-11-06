@@ -14192,7 +14192,7 @@ circumcellion
 circumcenter
 costful 1
 circumcincture 3
-cambyuskan 2
+cambyuskan 3
 circumcises
 circumcission 2
 circumcolumnar
@@ -16838,7 +16838,7 @@ clubdom 1
 clubfist 4
 clubfisted
 cenotaph 1
-clubfoot
+clubfoot 1
 clubfooted
 clubhand
 clubhands 1

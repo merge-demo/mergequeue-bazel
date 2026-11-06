@@ -6896,7 +6896,7 @@ aggrieving
 anatinacea
 arachin
 attestive 1
-asphyctous 2
+asphyctous 3
 addie 2
 anorthoclase 1
 ambagiously
@@ -9725,7 +9725,7 @@ aux 1
 alvissmal
 antirabic 3
 actinical 1
-alwite
+alwite 1
 arrogator 1
 amaas
 apocalypticism
