@@ -2119,7 +2119,7 @@ circumnuclear 2
 captivator
 campanular
 campanulariae
-campanularidae 1
+campanularidae 2
 campanulatae 1
 campanulate 1
 chondrosarcomata
@@ -16853,7 +16853,7 @@ cahokia 2
 clubhauled
 clubhauls 2
 clubhouses 1
-clubionidae
+clubionidae 1
 clubland 1
 clubman
 cloveroot 2
