@@ -4731,7 +4731,7 @@ engerminate 1
 executonis
 epigean 4
 estre 2
-emplaced 2
+emplaced 3
 exponentiating 4
 encircle 1
 embrowned 5
@@ -6661,7 +6661,7 @@ eurocentric 1
 easygoing 2
 epichil
 eradicates 1
-eccrine
+eccrine 1
 endermically 1
 enuring
 exhedrae 4
