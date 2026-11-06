@@ -7924,7 +7924,7 @@ eidola 4
 enlargement
 ethonone 1
 euphemistic 2
-eclampsia
+eclampsia 1
 enclavement 2
 excoriable 3
 enneastylar 2
@@ -10252,7 +10252,7 @@ eo
 exactingly 2
 eudorina 3
 epicurish 2
-estafet 1
+estafet 2
 evectic
 economical 2
 ethyne 1
