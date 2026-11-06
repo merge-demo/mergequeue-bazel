@@ -307,7 +307,7 @@ depolarized 2
 dayanim 2
 daybeacon 2
 dealbate 2
-daybed 2
+daybed 3
 devchar
 disembowelment 2
 disgruntling 1
@@ -14302,7 +14302,7 @@ ditt 2
 device 1
 drogerman 2
 dunter 1
-diffidation 3
+diffidation 4
 dramatizing
 dispiritment 2
 droh 1
