@@ -16003,7 +16003,7 @@ dimanganous 1
 dispetal 3
 douane
 doub 1
-downsize
+downsize 1
 decrepitude 1
 direct 5
 double 2
