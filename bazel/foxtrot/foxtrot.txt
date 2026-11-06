@@ -5021,7 +5021,7 @@ functioned 1
 foremartyr 2
 fiddlewood 1
 filet 3
-fluctuable 3
+fluctuable 4
 faceable 3
 frowsier 3
 feathers 1
@@ -5288,7 +5288,7 @@ fails
 flawful 1
 flawing 2
 flabbergasted 2
-footloose
+footloose 1
 flawlessness 2
 fangy 3
 foamed
@@ -10179,7 +10179,7 @@ fleishig
 formalism 1
 feebly 5
 farce
-foxchop 4
+foxchop 5
 fetologies 4
 furdel 3
 ferryage
