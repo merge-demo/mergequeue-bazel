@@ -1409,7 +1409,7 @@ bickern
 bombastically
 boun 2
 balestra 4
-batoneer 1
+batoneer 2
 bouffants 1
 bops 4
 bedazzled 2
@@ -8610,7 +8610,7 @@ blechnum 3
 basigenic
 baraza 2
 billon 2
-baronizing 1
+baronizing 2
 billow
 bimorph 1
 balladeroyal 3
