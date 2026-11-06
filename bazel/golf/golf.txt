@@ -2088,7 +2088,7 @@ goldenseal 4
 gillian 1
 governments 4
 gubbertush 1
-graminological 4
+graminological 5
 gawk 1
 gratingly 1
 gozzard 4
@@ -5509,7 +5509,7 @@ grubble 3
 gerridae 2
 gloomingly 1
 garnishment 4
-gadaria
+gadaria 1
 gastroparietal 2
 gazingly 4
 garring
@@ -5927,7 +5927,7 @@ gimballed 5
 garrison
 gemitorial 4
 globuliform 2
-gaylussacia 5
+gaylussacia 6
 gluishness 3
 geonyctinastic 3
 germy
@@ -6264,7 +6264,7 @@ gobber 1
 gazettes 2
 goateed 4
 guitarlike
-gregariousness 7
+gregariousness 8
 guttural
 ghostiest
 gconv 3

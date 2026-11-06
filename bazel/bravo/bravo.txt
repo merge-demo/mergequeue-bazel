@@ -3271,7 +3271,7 @@ basinet 1
 basinets 2
 basinful 1
 benzines 2
-bewhig 2
+bewhig 3
 begartered 3
 bethank 2
 bookkeeps
@@ -7771,7 +7771,7 @@ bezante 1
 biacuru 2
 biallyl 1
 breach 3
-bianca 3
+bianca 4
 bellum
 birchman 2
 biangulate 2
@@ -11476,7 +11476,7 @@ brunette
 bizzarro 1
 backwinding
 beachie 3
-bluffer 2
+bluffer 3
 billycan 1
 befretted 2
 botryllidae 2
@@ -11515,7 +11515,7 @@ betaxed 1
 bichrome 3
 bullae 2
 bemurmurs 1
-blunged 2
+blunged 3
 bourrasque
 blunger 3
 blunk
@@ -15782,7 +15782,7 @@ begowned 1
 bimester 2
 broigne 1
 blueprinting
-bunds 4
+bunds 5
 broiled 1
 bastide 1
 bullaria 1

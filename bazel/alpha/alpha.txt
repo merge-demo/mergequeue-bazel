@@ -6768,7 +6768,7 @@ airan 1
 airbills 1
 airboat 1
 airboats
-anomal 3
+anomal 4
 airbrained 2
 affluents
 almagra
@@ -7745,7 +7745,7 @@ alderamin 3
 ape
 alectoromorphous 1
 aldermanate 2
-aldermancy
+aldermancy 1
 aldermaness 3
 archisphere 1
 aldermanical 3
@@ -9776,7 +9776,7 @@ amalgam
 ammochaetae 1
 apophonies 3
 amalgamate
-ambolic
+ambolic 1
 adjutory 1
 antimonarchical 2
 anamesite 1
@@ -14683,7 +14683,7 @@ actuate 2
 aggressively
 aerothermodynamics 3
 antiaristocracies 2
-attendees
+attendees 1
 arauna 2
 agaricine 1
 antarctically 2
