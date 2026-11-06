@@ -6166,7 +6166,7 @@ blackhead 5
 blushful 1
 benefiting
 blotchy 2
-bedclothing
+bedclothing 1
 bouchaleen 3
 bacteriologies 1
 beneighbored 2
@@ -12302,7 +12302,7 @@ bootee 1
 bungfull 3
 bacteriophagic 3
 bathycurrent 3
-bullwhacker
+bullwhacker 1
 betrayer 4
 bombardments 3
 bombline
