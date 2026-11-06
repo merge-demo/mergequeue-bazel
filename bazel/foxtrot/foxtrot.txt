@@ -1730,7 +1730,7 @@ foreordainment 1
 filiality 1
 featherbird 3
 feoffors 4
-forfare 2
+forfare 3
 foreshore 5
 floriferous 1
 freedman
@@ -2708,7 +2708,7 @@ flaggella 2
 factorization 3
 fouette 3
 fervor 3
-flamenco
+flamenco 1
 frondous 2
 fashions 2
 fruitive 3
@@ -4583,7 +4583,7 @@ feigned 4
 frenchily 5
 fingery 1
 flippance 2
-forestwards 2
+forestwards 3
 fibrinokinase 4
 fooldom 5
 flirtishness 5
@@ -6536,7 +6536,7 @@ foetid 5
 floccose 4
 frailish 4
 flutist 3
-frenchman 2
+frenchman 3
 firebed
 forecover 2
 flytime 2

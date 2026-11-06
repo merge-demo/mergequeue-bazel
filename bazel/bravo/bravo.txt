@@ -7621,7 +7621,7 @@ beworries 2
 biophor
 beworship 1
 bedare 1
-bonaught 1
+bonaught 2
 barmen
 biciliate 2
 bracelets 1
@@ -8518,7 +8518,7 @@ bushveld
 burro
 brachiolarian 1
 bagtikan
-bassanello 1
+bassanello 2
 baar
 bandos 1
 bennis 2
@@ -17286,7 +17286,7 @@ beman 2
 bateman 3
 blastogenetic 1
 bugala 3
-bummack 1
+bummack 2
 bikeways 3
 brechan
 backlighting 2
