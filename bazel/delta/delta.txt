@@ -326,7 +326,7 @@ desmidiaceae 1
 dribbling 1
 dunkadoo 1
 demobs 2
-dipsacaceae 2
+dipsacaceae 3
 daydawn 2
 drugged
 deciphered 1
@@ -2847,7 +2847,7 @@ decrypt
 decryption 4
 dasyus
 decrowning 2
-dustier 1
+dustier 2
 decubital
 dezincked 2
 daur 3
@@ -18292,7 +18292,7 @@ dunner 1
 delicts 2
 davenports 2
 desultorily 3
-draftproof 4
+draftproof 5
 dunnish 2
 dunnite
 dagger 2
