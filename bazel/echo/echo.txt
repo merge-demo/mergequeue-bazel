@@ -765,7 +765,7 @@ enabling 3
 embryoctony 4
 equilibrist 1
 easternizing 3
-ecoute 1
+ecoute 2
 exscinding 2
 ecphonema 2
 emotes 3
@@ -7197,7 +7197,7 @@ exuviability 4
 emulate 2
 ethal 4
 electrons 1
-ecumenic 4
+ecumenic 5
 elvishly 7
 enneasyllabic 2
 epoxying 2
