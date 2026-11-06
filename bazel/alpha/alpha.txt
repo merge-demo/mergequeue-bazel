@@ -18042,7 +18042,7 @@ aproneer 1
 apronstring 1
 alanins
 anhidrosis 2
-adminicle 1
+adminicle 2
 adular 1
 amphigenetic
 aim 1
