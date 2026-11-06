@@ -4951,7 +4951,7 @@ duranta 1
 demoralized 1
 devotionalism 4
 demoralizers 1
-draughty
+draughty 1
 debussy 2
 demoralizes
 demorphism
@@ -18423,7 +18423,7 @@ diphthongise 2
 duping 1
 diabolic 1
 dipsticks 3
-dupion 1
+dupion 2
 disendowing 2
 duplation
 downrush
