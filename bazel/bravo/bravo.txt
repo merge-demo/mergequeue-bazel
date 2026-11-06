@@ -5040,7 +5040,7 @@ blackey 3
 bisphenoid 1
 bostal
 brawest 6
-brachiofaciolingual
+brachiofaciolingual 1
 beltcourse 3
 bigotedly 1
 befalling 1
@@ -7842,7 +7842,7 @@ bibitory 1
 bothridiums 1
 bohmite 1
 biblical 1
-bobsledders 1
+bobsledders 2
 bels
 benamed 2
 biblicality 1

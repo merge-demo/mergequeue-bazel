@@ -6578,7 +6578,7 @@ calamanco 1
 coeditorship
 cachemia
 coryphaeus
-cchaddoorck 2
+cchaddoorck 3
 ccid 2
 ccitt
 custodial
@@ -19884,7 +19884,7 @@ comicry 1
 credibility
 costumier
 comics 2
-comid
+comid 1
 comida 1
 caudillo 1
 comiferous 2
