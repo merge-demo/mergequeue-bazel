@@ -662,7 +662,7 @@ enshrouding 1
 extracondensed 3
 electrophysiology 2
 emaculate 2
-estheses
+estheses 1
 eclipse 1
 exudative 2
 eclipsed 2
@@ -2693,7 +2693,7 @@ engenderment 2
 electrotelegraphy 2
 exhort 1
 epispadia 3
-electrotherapeutical 1
+electrotherapeutical 2
 estampie
 escrol
 expectorating 2
