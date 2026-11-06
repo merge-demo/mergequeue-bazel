@@ -3664,7 +3664,7 @@ essaylet 1
 embryectomies 1
 earlet 1
 endogonidium 2
-embright 2
+embright 3
 entreprenant 1
 entombment 4
 epigrammatist 1
@@ -4783,7 +4783,7 @@ extracardial 5
 encloister 3
 extend 4
 endosporously 4
-emeried
+emeried 1
 epencephalon 2
 extrarhythmical 2
 emboite 1
