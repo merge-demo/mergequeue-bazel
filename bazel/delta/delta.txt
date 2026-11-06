@@ -12239,7 +12239,7 @@ dysfunctions 1
 disfurnish 3
 deport 1
 disfurnished 1
-dangerless
+dangerless 1
 desulfurating 3
 deathshot 5
 dervishes 1
