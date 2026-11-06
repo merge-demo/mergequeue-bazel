@@ -18462,7 +18462,7 @@ collational 2
 coharmonious 1
 coharmonize
 cohead
-celiorrhea 1
+celiorrhea 2
 coheading 1
 claviature
 cassate 2
@@ -24914,7 +24914,7 @@ corals 1
 corymbiferous 2
 coram
 creditors
-crassitude
+crassitude 1
 crabit 2
 coranto
 crazier

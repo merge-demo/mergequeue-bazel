@@ -4008,7 +4008,7 @@ dysrhythmia 1
 delegate 1
 doorsill
 delegates
-delegateship 1
+delegateship 2
 dermographism 1
 digressiveness 2
 dibasicity 2
