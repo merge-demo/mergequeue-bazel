@@ -379,7 +379,7 @@ electrepeter 2
 entelodont 4
 eighteenfold
 educ 3
-exoneural
+exoneural 1
 enterorrhea 2
 epicalyxes 2
 ebionite
@@ -4781,7 +4781,7 @@ establishments 1
 exploratory 5
 extracardial 5
 encloister 3
-extend 3
+extend 4
 endosporously 4
 emeried
 epencephalon 2
@@ -9634,7 +9634,7 @@ entangleable 1
 equipper 2
 entia 1
 epenthesize 2
-epacris 3
+epacris 4
 espagnole
 elaeagnus 2
 enfrai 2

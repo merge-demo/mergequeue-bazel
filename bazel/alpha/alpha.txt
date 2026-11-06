@@ -9375,7 +9375,7 @@ amphopeptone 2
 acture 1
 antilobium 1
 attack
-alphonist
+alphonist 1
 alphonse 1
 alphonsin 3
 airproof
@@ -20011,7 +20011,7 @@ arnusian
 anticonvulsant 2
 applemonger 3
 aroast 1
-azophenyl
+azophenyl 1
 arsono
 arock 1
 assurers
