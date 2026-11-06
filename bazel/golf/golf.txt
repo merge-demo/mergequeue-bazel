@@ -9779,7 +9779,7 @@ gelidities 5
 globetrotter
 ganza 2
 grunt 4
-grunter
+grunter 1
 gravemaking
 griffin
 galactopyra 4
