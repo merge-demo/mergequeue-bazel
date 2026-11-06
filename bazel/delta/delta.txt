@@ -5818,7 +5818,7 @@ disgorgement 2
 dreiling 2
 deformism 4
 deposito 2
-depositor
+depositor 1
 daytime 6
 deleatur 3
 dichronous
@@ -12665,7 +12665,7 @@ dvandva 2
 dextrorse 4
 doleful
 divining 2
-dehorts 2
+dehorts 3
 diatrymiformes 3
 dridder 2
 disdiplomatize
