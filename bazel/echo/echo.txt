@@ -441,7 +441,7 @@ ecballium 2
 expugnable 5
 ecbole 2
 explained 3
-ellipsone 2
+ellipsone 3
 extraembryonal 3
 emmer 2
 eremitical 1
@@ -703,7 +703,7 @@ ecraseurs 2
 esocyclic 1
 ened 1
 ecology 3
-eromania 3
+eromania 4
 encephalolith 2
 employing 1
 enspell 1
@@ -2027,7 +2027,7 @@ elabrate 3
 endocrinotherapy 1
 epigaea 1
 erythrosine 4
-epitrophy 3
+epitrophy 4
 encurl 1
 exophasia 2
 elytrigerous 1
@@ -4803,7 +4803,7 @@ endocarpic 2
 encode 5
 exitance 2
 ensnarements 2
-encoding 2
+encoding 3
 effectivity 2
 embrocate 2
 ergasterion 1
@@ -13807,7 +13807,7 @@ elative 2
 epithelialize 3
 ethnography 2
 elating 3
-extracarpal 2
+extracarpal 3
 extratropical
 extendible 1
 excepted 2
