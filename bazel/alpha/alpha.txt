@@ -8122,7 +8122,7 @@ algedo
 alfilerillo 1
 antitropal 2
 arrowheads 2
-algerian 1
+algerian 2
 algerienne
 alizarins
 algerines
@@ -15817,7 +15817,7 @@ anodize 2
 antiphony
 anomorhomboid 3
 amethystlike
-ambitioning 2
+ambitioning 3
 adolf 3
 aborigine 2
 antiphons 2
