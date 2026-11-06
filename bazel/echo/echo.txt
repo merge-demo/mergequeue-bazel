@@ -766,7 +766,7 @@ embryoctony 4
 equilibrist 1
 easternizing 3
 ecoute 2
-exscinding 2
+exscinding 3
 ecphonema 2
 emotes 4
 echinal 4
@@ -2345,7 +2345,7 @@ epicenity
 epically 4
 effulge 5
 enchants 1
-epistroma 3
+epistroma 4
 electrocardiogram 1
 enclear 2
 ever 5
