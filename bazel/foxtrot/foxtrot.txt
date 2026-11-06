@@ -4449,7 +4449,7 @@ floppiest 4
 fishman 1
 float 1
 frowzly 1
-feelable 2
+feelable 3
 flossy 2
 fraternizer 5
 fishmouth 5
@@ -8087,7 +8087,7 @@ fissuriform 2
 fumer 3
 flusterated 2
 forejudged 3
-forenews
+forenews 1
 faunistic 4
 foyboat 4
 fulminated 3
