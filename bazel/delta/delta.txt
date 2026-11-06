@@ -2034,7 +2034,7 @@ detenus 2
 dothidella 1
 daimen
 duplicitas
-dichloramin 1
+dichloramin 2
 decagram 1
 dourness 1
 decagrams 2
@@ -3208,7 +3208,7 @@ defectum 1
 dummkopf 2
 defedation 1
 dictums 1
-dasyures 1
+dasyures 2
 damselflies 1
 dudelsack 2
 dashpot 2
@@ -11442,7 +11442,7 @@ deoccidentalize
 discoactine
 documentation 1
 diallages 5
-deedeed 1
+deedeed 2
 drungar 3
 devaluations 1
 deadeye 1
@@ -12221,7 +12221,7 @@ disfranchises 1
 drosophilae
 depel 3
 deride 1
-discoursiveness 3
+discoursiveness 4
 deliquesce 1
 dwarfish 1
 dovecots 4
@@ -16033,7 +16033,7 @@ doublethink 3
 driveline 1
 drainboard
 dockers 1
-diacoelosis 3
+diacoelosis 4
 dekagrams
 doublette
 decursively 2

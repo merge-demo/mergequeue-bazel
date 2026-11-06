@@ -4186,7 +4186,7 @@ chloanthite
 calthrop
 cardiopulmonary 3
 cardiorenal
-cardiorespiratory 3
+cardiorespiratory 4
 cardiorrhaphy 1
 cardiorrheuma
 cardiospermum 2
@@ -7753,7 +7753,7 @@ conservatism 2
 certainness 1
 cormorant 1
 cetin
-certainty 2
+certainty 3
 certhia
 caryatidic 2
 cfi 1
@@ -10435,7 +10435,7 @@ chihuahuas 1
 comephorous 2
 chikara
 couchmaking
-chikee 2
+chikee 3
 chiliomb 1
 chil
 complementation 2

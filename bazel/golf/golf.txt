@@ -619,7 +619,7 @@ goulashes 4
 gurnets 1
 gramaries
 gazophylacium 3
-gemmiparously 4
+gemmiparously 5
 glassed 2
 gnaphalioid 2
 gallisin 2
@@ -7122,7 +7122,7 @@ gatter 3
 grottoed 4
 glottological 2
 generalia 4
-gonothecae 1
+gonothecae 2
 garnett 1
 gnathostomatous 1
 grundyism 1
@@ -8457,7 +8457,7 @@ gnathopodous 3
 guinea 3
 galinsoga 3
 glottises 4
-gastaldite 5
+gastaldite 6
 gadzooks 7
 gushet 3
 gomphosis 4

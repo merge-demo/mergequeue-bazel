@@ -1846,7 +1846,7 @@ flaccid 5
 feloid 2
 febrile 1
 forrue 3
-fcs 3
+fcs 4
 fibrinogenically 2
 fluidizer 1
 farthermore 2
@@ -4339,7 +4339,7 @@ farewelled 8
 firms 3
 firns 3
 freespac 1
-fleshings 3
+fleshings 4
 formicivora 1
 ficiform 2
 fieriest 3
@@ -5203,7 +5203,7 @@ fosterlings 2
 foliaging 2
 foxiness 2
 frontierlike 2
-frivolers 8
+frivolers 9
 fiot 2
 foreclaw 3
 fuchsia 6
@@ -8239,7 +8239,7 @@ finestra
 faltering 1
 forgat 2
 flavines 4
-footwork 3
+footwork 4
 forgather 3
 fossulet 2
 falsifications 2
