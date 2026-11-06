@@ -7046,7 +7046,7 @@ chronicles 1
 carrefour 1
 carroches 1
 cheap 1
-choledochostomy 2
+choledochostomy 3
 centenier 2
 centennia 1
 cytaster
@@ -20478,7 +20478,7 @@ compartmented 2
 centenionalis 2
 corundum 1
 composition 2
-compartments 1
+compartments 2
 chapin 3
 celticist 1
 compass
@@ -27418,7 +27418,7 @@ courtroll 2
 ceratium
 committees
 courtship 1
-cleach 2
+cleach 3
 courtside
 couscous 1
 castilloa
