@@ -22797,7 +22797,7 @@ chelonid
 caulicles 1
 congiaries 1
 consentable 2
-consentaneity
+consentaneity 1
 consentaneous 1
 consentaneousness 2
 continently
