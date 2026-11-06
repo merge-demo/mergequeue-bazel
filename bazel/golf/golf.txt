@@ -2957,7 +2957,7 @@ grotty 4
 gunks
 guardingly 1
 ganymede 4
-gusts 3
+gusts 4
 gaddang 3
 guilt 3
 gurkha 2
@@ -7276,7 +7276,7 @@ gundeck 1
 gangsa 2
 gleaming 2
 gwerziou 2
-gavelman 1
+gavelman 2
 glassblowing 1
 galactolipin 3
 glossotomies 1
@@ -8832,7 +8832,7 @@ galleys 7
 gentianaceous 1
 gallus 2
 globate 3
-griege 3
+griege 4
 gm 3
 gunne 2
 gadabout 1
