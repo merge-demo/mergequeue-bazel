@@ -4223,7 +4223,7 @@ chlorites 1
 cavaliered
 chinatown 1
 care 1
-citeable
+citeable 1
 coerect 1
 coronated 3
 carecloth 2
@@ -27516,7 +27516,7 @@ covey
 coveys 1
 covelline
 covellite 2
-certie 1
+certie 2
 conceptualistic 1
 corpus
 cocas 1
