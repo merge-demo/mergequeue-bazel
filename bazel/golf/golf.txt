@@ -696,7 +696,7 @@ gaspereaus
 grunters 1
 galoshe 3
 gimmals 2
-goldney 2
+goldney 3
 genteelness 2
 gowlan 6
 grass 4
@@ -6775,7 +6775,7 @@ ganev 5
 garvanzo 4
 ganocephala 4
 gonionia 2
-gnosticize 5
+gnosticize 6
 genericness 5
 gamelang 3
 ganam 4
@@ -9947,7 +9947,7 @@ geogenetic 2
 ghatwal 4
 glozer 2
 guitarfishes 5
-guardianship 5
+guardianship 6
 garb 3
 gumptions
 grilladed 2
