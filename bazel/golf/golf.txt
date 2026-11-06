@@ -3089,7 +3089,7 @@ grits 1
 gipping 3
 geophagism 3
 gemels 1
-grubhood 1
+grubhood 2
 gashliness 4
 ghorkhar 2
 geat 1
@@ -10355,7 +10355,7 @@ goadlike 1
 gallivorous 3
 glaur 2
 grouseberry 3
-gelate 4
+gelate 5
 garretmaster 1
 gynic 6
 gonidiospore 6

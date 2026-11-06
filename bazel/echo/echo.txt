@@ -8193,7 +8193,7 @@ enmarbling 3
 entomophthoraceae
 eons 4
 exergual 3
-empowered 2
+empowered 3
 excalfaction 1
 episiotomies 1
 episkeletal 1
@@ -13513,7 +13513,7 @@ erotology 1
 exteriorization 1
 electrocauterization
 elbert 1
-earcap 1
+earcap 2
 epitimesis 1
 error 2
 embowels 1
