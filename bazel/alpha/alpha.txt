@@ -1455,7 +1455,7 @@ archaisms
 amortize 2
 acclimatise 1
 acclimatised 1
-acclimatiser 2
+acclimatiser 3
 acclimatising 3
 aegagrus 1
 applewood 1
