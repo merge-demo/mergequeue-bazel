@@ -8211,7 +8211,7 @@ callower
 chakobu 1
 chakram 1
 carpentry
-chaksi
+chaksi 1
 chal 1
 complection 2
 chalaco
@@ -17263,7 +17263,7 @@ cachucha 2
 cinematical 2
 cantil 2
 coalternate 1
-coaltitude 1
+coaltitude 2
 coambulant 2
 constrainers
 compounding 1
@@ -20764,7 +20764,7 @@ complicative 1
 cheapskate
 complicator 2
 complicators
-complice 1
+complice 2
 complicity 1
 complied
 campodea 1
