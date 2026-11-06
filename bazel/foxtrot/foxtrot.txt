@@ -6280,7 +6280,7 @@ fluidmeter 2
 fearnought 2
 fakirism 1
 forceful 5
-fluidounce 5
+fluidounce 6
 factory 1
 fluigram 1
 filestatus 5
@@ -9947,7 +9947,7 @@ fakeers 4
 facileness 4
 feelingness 2
 flairs 5
-floatingly 3
+floatingly 4
 fishworks 1
 frumentum
 flatlanders 1
