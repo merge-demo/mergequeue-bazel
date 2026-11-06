@@ -7451,7 +7451,7 @@ forcipation 1
 flutelike 2
 forcipressure 3
 frigidoreceptor 3
-foy 3
+foy 4
 fossick 2
 feinschmecker 4
 fiftypenny 3
