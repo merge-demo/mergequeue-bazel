@@ -5697,7 +5697,7 @@ deozonize 2
 delegacies
 demigods 1
 desterilized
-dialysed 1
+dialysed 2
 disposit 1
 deplenish
 dialup 2
@@ -11239,7 +11239,7 @@ depurating 1
 dissweeten 3
 disparish
 dysbulia
-diazo 1
+diazo 2
 detoxifies 1
 deltidium 1
 disannulment 2
@@ -16639,7 +16639,7 @@ dragsters 5
 demisovereign 1
 doctoress 3
 drayage 2
-drayhorse 2
+drayhorse 3
 dipteraceous 1
 dialectologic 1
 drails 3

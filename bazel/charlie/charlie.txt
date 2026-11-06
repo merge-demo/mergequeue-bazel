@@ -11752,7 +11752,7 @@ couthest 1
 connubiate 2
 chondrofibroma 3
 campaigned
-chondrogen
+chondrogen 1
 cognation
 chondrogenesis
 chondroglossal 2
@@ -17859,7 +17859,7 @@ codiales
 codical 1
 chlamys
 camas
-codicils 2
+codicils 3
 codicology 2
 codifications
 cycasin 1
