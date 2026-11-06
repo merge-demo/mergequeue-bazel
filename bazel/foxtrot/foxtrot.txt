@@ -2708,7 +2708,7 @@ flaggella 2
 factorization 3
 fouette 3
 fervor 3
-flamenco
+flamenco 1
 frondous 2
 fashions 2
 fruitive 3
