@@ -846,7 +846,7 @@ anam
 abscission 2
 absconce 1
 abscond
-absconded
+absconded 1
 apperceptive 2
 absconder 1
 agonizes
