@@ -18112,7 +18112,7 @@ coenomonoecism 1
 coenospecies 1
 coenospecifically 1
 chicory 2
-coenosteum 1
+coenosteum 2
 cacopharyngia 1
 coenotype 1
 coenotypic 1
@@ -31912,7 +31912,7 @@ coldblooded 1
 cuvee 1
 cuvettes 2
 cuvy
-cuzceno
+cuzceno 1
 cwierc 1
 comparators 1
 carbolineate
