@@ -4789,7 +4789,7 @@ givingness 2
 globes 3
 garrnishable 1
 gizz 2
-gorgoniaceous 3
+gorgoniaceous 4
 gentlewomanly 4
 gizzard 4
 glimmerings 2
@@ -5173,7 +5173,7 @@ glyceride 2
 glb 5
 gastratrophia 3
 geckotian 4
-gossipred 2
+gossipred 3
 gesticulator 3
 glossocomon 4
 guavas 4
@@ -8810,7 +8810,7 @@ grandchildren 4
 gelatinochloride 2
 gunslinger 2
 garbles 4
-guileful 2
+guileful 3
 generable 1
 goodenoviaceae 2
 gablock 1
