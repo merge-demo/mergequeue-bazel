@@ -2371,7 +2371,7 @@ compliments 1
 canapina
 canards 1
 canari
-canary 2
+canary 3
 crowberry 1
 cogs
 companator 2
@@ -4916,7 +4916,7 @@ cart
 counterpoising
 cartable
 cartaceous
-commutuality 3
+commutuality 4
 candlestickward 1
 cowherbs
 carte 1

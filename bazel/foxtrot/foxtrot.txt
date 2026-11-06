@@ -1013,7 +1013,7 @@ feeblest
 farinas 1
 foglietto 3
 fascicles 1
-filmgoing 1
+filmgoing 2
 flexuose 3
 flatlong
 fumosity 2
@@ -1677,7 +1677,7 @@ fieldmice 4
 fragmentation 2
 folioing 4
 fleshless 2
-festa 3
+festa 4
 fieldward 2
 finishing 1
 formularies 1
@@ -4710,7 +4710,7 @@ forsake 1
 fjord 1
 fancify 2
 fizziest 5
-friand 2
+friand 3
 fluidram 1
 forefeels 1
 forlese 3

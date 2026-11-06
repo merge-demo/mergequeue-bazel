@@ -1830,7 +1830,7 @@ bandelette 1
 banderma 2
 banderol 2
 banderole 1
-bindings 2
+bindings 3
 brigading
 banders
 broadlings 1
@@ -2318,7 +2318,7 @@ bemitred 2
 barbicels 1
 bathonian 2
 barbierite 1
-busyish
+busyish 1
 blatancies 1
 bromite
 briber 3
@@ -11304,7 +11304,7 @@ bargeman 5
 barse 1
 baith 2
 boards 2
-bespoused 2
+bespoused 3
 blowtorches 2
 bromos 1
 bossiness
