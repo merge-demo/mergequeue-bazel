@@ -1516,7 +1516,7 @@ efts 4
 egad 1
 elderlies 3
 encyclopediac 1
-entomophilous 1
+entomophilous 2
 egalitarians 2
 evected 3
 egality 1
@@ -7582,7 +7582,7 @@ equivalently 3
 equalling
 electrocoating 4
 extemporal 2
-epichondrosis 4
+epichondrosis 5
 epichordal 1
 etiologically
 erosely
@@ -12458,7 +12458,7 @@ emancipations 1
 explorate 6
 exfiltrate
 equilibrial
-electrolysing 1
+electrolysing 2
 exhuming 2
 epifaunal
 enthronization 2
