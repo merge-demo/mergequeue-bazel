@@ -6191,7 +6191,7 @@ funguslike 2
 falange 1
 fog 4
 flrie 3
-frothier 3
+frothier 4
 fluavile
 flubbed 5
 feudum 4
@@ -7075,7 +7075,7 @@ formfeeds 3
 fellfare
 footful 1
 foolhardiness 6
-fabulousness 3
+fabulousness 4
 foolhardiship 1
 foredeck 4
 flapperdom 1
