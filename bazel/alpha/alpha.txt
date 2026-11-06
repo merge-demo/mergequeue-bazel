@@ -9776,7 +9776,7 @@ amalgam
 ammochaetae 1
 apophonies 3
 amalgamate
-ambolic
+ambolic 1
 adjutory 1
 antimonarchical 2
 anamesite 1
@@ -14683,7 +14683,7 @@ actuate 2
 aggressively
 aerothermodynamics 3
 antiaristocracies 2
-attendees
+attendees 1
 arauna 2
 agaricine 1
 antarctically 2
