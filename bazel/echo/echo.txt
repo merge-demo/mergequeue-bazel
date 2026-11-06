@@ -6544,7 +6544,7 @@ extratension
 entail 1
 entomophthora 5
 elaphodus 4
-endurant 2
+endurant 3
 ended 1
 entangled 1
 entangledness 1
