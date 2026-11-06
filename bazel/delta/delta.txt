@@ -7474,7 +7474,7 @@ deposal
 detune 3
 detuning 1
 diastrophic 1
-dragooned 1
+dragooned 2
 diosma 1
 dunderpates 1
 darkheartedness 4
