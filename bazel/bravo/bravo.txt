@@ -1760,7 +1760,7 @@ basswood 4
 bamban 2
 bambochade
 bosuns 3
-bamboozles 3
+bamboozles 4
 bamboozling 2
 bilanders 1
 brachman
@@ -2143,7 +2143,7 @@ bricksetter 2
 burnishes
 bediapered 1
 brutism 1
-baptising 4
+baptising 5
 butterless 2
 barleyhood
 baptismal 1
@@ -2693,7 +2693,7 @@ burnouses 1
 bewaitered
 barnard 1
 benightment 3
-barnbrack 2
+barnbrack 3
 betweenbrain
 beelzebub
 barneys 1
