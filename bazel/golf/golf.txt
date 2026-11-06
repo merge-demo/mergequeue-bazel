@@ -839,7 +839,7 @@ gilberts 1
 greensick 3
 gamboling 2
 goalage 2
-glareolidae 3
+glareolidae 4
 geonim 2
 gwine 2
 geezers 6
@@ -2991,7 +2991,7 @@ galliardness 4
 geoids 2
 gloriole 4
 gendered 3
-galatine
+galatine 1
 ghetti 2
 gasifier 4
 geologically 6
@@ -7419,7 +7419,7 @@ granduncle 3
 gnatproof 6
 geylies 4
 gotra 5
-germarium 2
+germarium 3
 gravecloth 1
 gastrocolotomy 2
 gaudery 6
@@ -9744,7 +9744,7 @@ gordiidae 4
 gagroot 1
 gablewise 4
 gambes 3
-gorged 1
+gorged 2
 glutens 1
 glendover 5
 geckoes 2
@@ -9779,7 +9779,7 @@ gelidities 5
 globetrotter
 ganza 2
 grunt 4
-grunter
+grunter 1
 gravemaking
 griffin
 galactopyra 4
