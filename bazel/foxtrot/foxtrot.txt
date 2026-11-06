@@ -75,7 +75,7 @@ facellite 2
 felonious 2
 furthers 3
 flysch 2
-fordeal 4
+fordeal 5
 fullfaces
 facundity 2
 facemark 2
@@ -7319,7 +7319,7 @@ fixation 4
 foraying 4
 frognose 3
 foralite
-foram 3
+foram 4
 franchisers 3
 fronds 5
 fearnaught 2
@@ -8314,7 +8314,7 @@ foursome 1
 fiscalism 2
 forhaile 3
 foreroyal 4
-floralia 1
+floralia 2
 fod 2
 fraughan 1
 fossilizable 3
