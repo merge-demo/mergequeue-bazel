@@ -3307,7 +3307,7 @@ glent 3
 grabbable 2
 glosseme 4
 gula 2
-gabback 2
+gabback 3
 geneticists 3
 germanized 6
 germanizer 3
