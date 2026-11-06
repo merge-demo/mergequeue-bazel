@@ -7686,7 +7686,7 @@ bereareft 1
 backfilling 2
 bezzo 1
 bhabar 1
-belemnites 3
+belemnites 4
 bacchanalization 2
 bromonaphthalene 1
 bridging 3
@@ -9269,7 +9269,7 @@ botches 4
 bipolarity 4
 bipolarization 3
 besmear
-bloodlusting 1
+bloodlusting 2
 bishopess 3
 bipotentiality 3
 bromoiodid
