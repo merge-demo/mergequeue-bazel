@@ -2043,7 +2043,7 @@ fundi 2
 facedown 1
 faucalize 1
 fireboat 3
-flindosa 2
+flindosa 3
 forwander 5
 flatlander 1
 faunlike
