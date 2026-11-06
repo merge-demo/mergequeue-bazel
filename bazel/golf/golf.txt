@@ -479,7 +479,7 @@ glutoid 3
 galeorhinidae 7
 grouches 2
 galere 1
-gridirons
+gridirons 1
 gipsies
 glozingly 3
 garroting 4
