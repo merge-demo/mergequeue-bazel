@@ -18274,7 +18274,7 @@ badan 2
 burweed 3
 bencher 2
 butterworker 1
-broadaxe
+broadaxe 1
 boulimy 3
 buttgenbachite 1
 bolimba 2
