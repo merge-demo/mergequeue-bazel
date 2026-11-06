@@ -4114,7 +4114,7 @@ eutheria 4
 ethological 1
 ecdysis 3
 energetistic 2
-epinicial 3
+epinicial 4
 excitant 1
 exogenous 2
 enfoulder 3
@@ -4149,7 +4149,7 @@ epirote
 eiffel 4
 ensheathed 3
 every 1
-etymologically
+etymologically 1
 endurability
 entombments 2
 eniac 3
@@ -6544,7 +6544,7 @@ extratension
 entail 1
 entomophthora 5
 elaphodus 4
-endurant 2
+endurant 3
 ended 1
 entangled 1
 entangledness 1

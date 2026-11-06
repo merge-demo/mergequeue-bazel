@@ -4951,7 +4951,7 @@ duranta 1
 demoralized 1
 devotionalism 4
 demoralizers 1
-draughty
+draughty 1
 debussy 2
 demoralizes
 demorphism
@@ -13513,7 +13513,7 @@ dysgraphia 1
 deticks 1
 demonomy 2
 dissavs 1
-drumbeater 5
+drumbeater 6
 dissceptered 2
 dislike 1
 dissceptre 3
@@ -15234,7 +15234,7 @@ depreciated 1
 downing
 defamers
 dolisie 3
-dolite 1
+dolite 2
 dolium 2
 darogha
 dureful 2
@@ -16066,7 +16066,7 @@ dough 1
 dematerialising 2
 doughbellies
 displayed 1
-dolichosaurus 1
+dolichosaurus 2
 dimpliest 3
 doughbird 3
 desperately 1
@@ -16663,7 +16663,7 @@ dahabeah 3
 dattock 2
 drainpipes 1
 dottedness 1
-depressor 1
+depressor 2
 destigmatize 2
 dabblers
 deeny 3

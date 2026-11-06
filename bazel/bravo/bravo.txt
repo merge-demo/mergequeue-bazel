@@ -2099,7 +2099,7 @@ besetment 1
 betrough 2
 branchihyal 1
 bourkha 1
-borasco
+borasco 1
 birthrights 3
 braccae 1
 bosomer 2
@@ -5202,7 +5202,7 @@ battu 3
 bettong 3
 backfatter 1
 befuddle 1
-befuddled 1
+befuddled 2
 befuddler
 boxberries
 beleaguers 1
@@ -8423,7 +8423,7 @@ bilbi 1
 bundu 2
 bilby 2
 banqueteering
-baignet
+baignet 1
 bilbo 2
 bandsawed 1
 bleachyard 2
@@ -9118,7 +9118,7 @@ buffleheaded
 bletting 2
 banc 2
 beefburger 3
-bhaktas 3
+bhaktas 4
 branchial
 bubbybush 3
 buckone 2
@@ -9513,7 +9513,7 @@ blackened 7
 birthright
 bugaboos 1
 baffeta
-births 1
+births 2
 birthstones 3
 bracteolate 2
 brontephobia
@@ -11287,7 +11287,7 @@ bummle 1
 byelorussian 1
 bachelor 2
 blowlamp 2
-blown
+blown 1
 bananas 1
 blowoff 1
 blowouts 1
@@ -16369,7 +16369,7 @@ beknottedness 1
 belligerence 3
 buzzardly 3
 brulzies
-biloculate 1
+biloculate 2
 brumbie 1
 bedew 1
 blepharoncus 2
@@ -17301,7 +17301,7 @@ bummel 6
 bummie 3
 bumming 2
 basilweed 2
-bummler
+bummler 1
 barberite 3
 bumped 2
 burrowed 2
