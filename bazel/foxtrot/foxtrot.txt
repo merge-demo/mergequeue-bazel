@@ -5304,7 +5304,7 @@ fumage 2
 fluoridize 4
 fatwood 1
 fretters 2
-french 1
+french 2
 flain 2
 fernwort 3
 fulyie 4
