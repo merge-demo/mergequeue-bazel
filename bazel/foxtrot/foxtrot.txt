@@ -11004,7 +11004,7 @@ frigging 2
 freeport 6
 freshly 2
 fortilage 3
-fordable
+fordable 1
 feuillemorte 3
 famelessness 2
 funkia 1
