@@ -5339,7 +5339,7 @@ aluminosity 2
 authorizations 2
 allmouth
 aspheterism 2
-avadavats
+avadavats 1
 agrionidae 1
 affloof 5
 albedograph
