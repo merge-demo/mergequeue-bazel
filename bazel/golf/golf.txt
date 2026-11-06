@@ -346,7 +346,7 @@ gastrohepatitis 2
 girouettes 3
 gofers 2
 greekless 3
-galactophoritis 8
+galactophoritis 9
 gutwort 2
 gingerin 4
 grade 1
@@ -7690,7 +7690,7 @@ guardhouses 3
 gradiometric 5
 gaup 2
 gnawed 3
-granzita 2
+granzita 3
 gypsyesque 2
 gynostemium 2
 guildic 1
@@ -10862,7 +10862,7 @@ geomagnetician 1
 gyri 3
 grozet 1
 guideress 3
-graduation 1
+graduation 2
 guaranteer 1
 graphidiaceae 1
 gastrulation 3
