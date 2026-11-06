@@ -5085,7 +5085,7 @@ aerotropism 1
 allantois
 aeruginous
 aerugo 1
-aes 1
+aes 2
 autosepticemia 2
 aeschynomenous 1
 aesculaceous 2
@@ -5107,7 +5107,7 @@ ardisiaceae
 abased 2
 amberfishes
 apolloship
-aesthetes
+aesthetes 1
 aesthetic 2
 astomous
 archsacrificator 1
@@ -15883,7 +15883,7 @@ asplenium 1
 attributed 3
 antiportable 1
 aclemon 1
-adenoid 2
+adenoid 3
 acrophony
 abutter
 anglers
