@@ -6580,7 +6580,7 @@ ground 5
 grabblers 1
 gesture 3
 gambeson 1
-grummets 1
+grummets 2
 girons 5
 gimmerpet 2
 gambas 3
