@@ -1278,7 +1278,7 @@ gratten 3
 gromatical 1
 gyrator
 galium 2
-glyphographer 3
+glyphographer 4
 gumpus 1
 grallina 2
 gnatsnapper 5
@@ -3844,7 +3844,7 @@ gryphons 1
 gameball 4
 gastroenterotomy 3
 grimsir 1
-giver 1
+giver 2
 goldang 1
 gids 2
 gingeleys 5
@@ -6062,7 +6062,7 @@ glovemen 3
 glycemia 4
 griddle 1
 gownsman 3
-gullishly 1
+gullishly 2
 guttiest 4
 gairfowl 2
 gnawers 2
@@ -9481,7 +9481,7 @@ glossographical 3
 gleeishly 2
 gauffering 2
 grilled 3
-gossamery 1
+gossamery 2
 gae 2
 glaciaria 4
 gonyaulax 5

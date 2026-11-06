@@ -917,7 +917,7 @@ exegesist 1
 epilogistic
 enteritidis 3
 echinoids 2
-extropical 3
+extropical 4
 encapsulating 2
 escalation 4
 electrotonic 1
@@ -3514,7 +3514,7 @@ earmuffs
 expellee 2
 endemically 1
 erraticism 3
-emblemist 3
+emblemist 4
 exon 1
 emblemizing 6
 electrootiatrics 5
@@ -4423,7 +4423,7 @@ endosmometric 1
 eubacteria 2
 ecumenist 3
 elaeis
-ebriously 2
+ebriously 3
 encapsulation 1
 emitted 1
 encapsuled 2
@@ -5642,7 +5642,7 @@ enforceable 2
 ectocarpous 1
 encitadel 2
 enlisters
-egalitarianism 3
+egalitarianism 4
 ensconcing 3
 extispicy 2
 elevational 3
@@ -5860,7 +5860,7 @@ embergeese 1
 engramme 2
 epicarpal 2
 engrammes 2
-extensors 3
+extensors 4
 edwardine 3
 eudaemonistical 3
 elia 4
@@ -7699,7 +7699,7 @@ endotheliomata 4
 eboulement 2
 endlichite
 euphemiser 2
-electrotautomerism 1
+electrotautomerism 2
 expoundable 2
 epideistic 3
 enthymematical 3
@@ -9194,7 +9194,7 @@ electrographite 1
 empiricism 2
 exotropia 2
 enclasp 2
-egomaniac 1
+egomaniac 2
 eroticizing 2
 evangelion
 exultance 1
@@ -9595,7 +9595,7 @@ esophagogastroscopy 2
 entrike 2
 esophagometer 3
 emotionalized 2
-enticeable 2
+enticeable 3
 eupomatiaceae 2
 evoked 1
 esophagoplasty 3
