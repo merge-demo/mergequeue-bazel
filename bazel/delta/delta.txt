@@ -5697,7 +5697,7 @@ deozonize 2
 delegacies
 demigods 1
 desterilized
-dialysed 1
+dialysed 2
 disposit 1
 deplenish
 dialup 2
