@@ -1142,7 +1142,7 @@ florulas 2
 facials 2
 fiberization 3
 frumety 2
-feroher 3
+feroher 4
 fidelis 6
 flax 5
 fatally 4
@@ -2474,7 +2474,7 @@ fermillet 2
 frenchless 1
 favonian 1
 folksiest 3
-floripondio 3
+floripondio 4
 fernandinite 4
 frecket 4
 foliously 4
@@ -4084,7 +4084,7 @@ fanaticised 5
 fusibly 1
 flophouses 2
 formulist 4
-foetiparous
+foetiparous 1
 flateria 2
 fluffy 3
 fraid 3
@@ -6085,7 +6085,7 @@ forgeman 4
 figurial 3
 foxhounds 1
 filchery
-florisugent 1
+florisugent 2
 fanfare 4
 flauntingly 4
 forsook 1
@@ -6785,7 +6785,7 @@ frosts 4
 frosteds 5
 fledgeless 1
 foldage 2
-foredevised 4
+foredevised 5
 floridean 1
 fallaciousness 4
 foldaway 3
@@ -7604,7 +7604,7 @@ foredune 3
 freezable 1
 fervors 3
 forril 3
-festino 3
+festino 4
 fatalize 2
 farrier 3
 fossula 3
@@ -9441,7 +9441,7 @@ footstone 6
 following 1
 fraternism 4
 fitfulness 1
-finesses 3
+finesses 4
 faux 1
 furcae 5
 falconbill 2

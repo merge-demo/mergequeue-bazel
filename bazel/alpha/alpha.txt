@@ -3824,7 +3824,7 @@ adiel 3
 adrenalectomized
 aprowl 3
 argufier 2
-ariel 1
+ariel 2
 anchorwise
 acetonyl 1
 ametabole
@@ -7146,7 +7146,7 @@ akrochordite
 allophore 1
 akroter
 akroteria 1
-arithmetization 2
+arithmetization 3
 aktistetae
 aku
 akule
@@ -7815,7 +7815,7 @@ antonia 1
 aldosteronism 1
 anacanth 1
 aldrins 2
-arba 2
+arba 3
 ausubos 4
 atrickle 2
 anomalonomy 2
@@ -12479,7 +12479,7 @@ aegagropile 2
 appealed
 anechoic 1
 amazed 1
-adar 3
+adar 4
 anelasticity 3
 augurship 2
 antirationalism
@@ -16958,7 +16958,7 @@ airways
 abortus 2
 aplanogamete 1
 areally 1
-antifermentative
+antifermentative 1
 aplenty 1
 alveolars 1
 affreight 2
@@ -17345,7 +17345,7 @@ aglycosuric 3
 apheliotropically 1
 anatiferous
 apostleship 2
-abaisse
+abaisse 1
 apostleships 1
 appeacher 1
 agmas 1

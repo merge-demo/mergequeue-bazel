@@ -4415,7 +4415,7 @@ grevillea 1
 goozle 2
 grammatist 1
 gloriam 1
-gleeted 1
+gleeted 2
 gazer 5
 gorget 4
 grandezza 4
@@ -7605,7 +7605,7 @@ greengroceries 5
 gloeosporium 7
 goodyness 1
 gemmula
-grus 4
+grus 5
 grabhook 2
 grabouche 3
 gripsack
@@ -9872,7 +9872,7 @@ gettableness 3
 gonyocele
 gasholder 2
 grasshoppers 2
-gemmae 2
+gemmae 3
 goodliest 2
 gravy 2
 growth 3

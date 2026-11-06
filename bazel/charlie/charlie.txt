@@ -18551,7 +18551,7 @@ clavers 1
 coiffeur
 coiffeurs 1
 coiffeuses 1
-coiffured
+coiffured 1
 ceroxylon
 coiffures 1
 coiffuring
