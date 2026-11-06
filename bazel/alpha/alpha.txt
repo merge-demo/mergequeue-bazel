@@ -10466,7 +10466,7 @@ amianthus 3
 arcform
 amyatonic 2
 amic 1
-amicability
+amicability 1
 antiadiaphorist 2
 appredicate
 amicably
