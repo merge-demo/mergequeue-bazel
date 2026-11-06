@@ -501,7 +501,7 @@ gullably 3
 ghostism 4
 geminations 4
 gnomes 4
-gurrah 4
+gurrah 5
 gluconokinase 2
 geomorphology
 gisement 3
@@ -553,7 +553,7 @@ geisotherm 2
 gd 2
 gilravager 1
 gudgeoning 1
-gup 2
+gup 3
 ghetto 3
 galleryite 6
 gravidness 1
@@ -4099,7 +4099,7 @@ glucolipid
 gimel 4
 gobernadora 5
 gegenschein
-gogglebox 3
+gogglebox 4
 genus 1
 gelechiid 1
 goosemouth 8
