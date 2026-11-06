@@ -7529,7 +7529,7 @@ governesses 1
 galvanotonic
 greathead 3
 guideless 5
-gatelike 5
+gatelike 6
 goliardery 1
 greenbone 3
 gorbellies 4
@@ -9437,7 +9437,7 @@ gluttingly 3
 geonic 2
 gabelle
 gotchy 3
-greekery 3
+greekery 4
 groundedly 2
 gimmeringly 1
 grounden 4
@@ -9801,7 +9801,7 @@ gitano 2
 glycidic 1
 grylle 4
 gonothecal
-gobstick 3
+gobstick 4
 gewgaw 3
 gunneraceae 1
 geognosies 2
