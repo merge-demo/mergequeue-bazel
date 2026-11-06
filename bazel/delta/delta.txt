@@ -438,7 +438,7 @@ dais 1
 disinthrall
 donjons 3
 dibs 1
-drenchers
+drenchers 1
 dimyaric
 diathermous 1
 dimercaprol
@@ -6975,7 +6975,7 @@ decemvii 1
 dipleuric 1
 desertness
 disqualifying 1
-distills 3
+distills 4
 demonisms 1
 disshroud
 despisingly 1
@@ -18129,7 +18129,7 @@ domatophobia 3
 dumose 1
 dermoskeletal 1
 decamp 2
-diorthoses 2
+diorthoses 3
 dock 1
 diplocardia 3
 domiciliation 2

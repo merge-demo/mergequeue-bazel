@@ -839,7 +839,7 @@ gilberts 1
 greensick 3
 gamboling 2
 goalage 2
-glareolidae 3
+glareolidae 4
 geonim 2
 gwine 2
 geezers 6
@@ -2991,7 +2991,7 @@ galliardness 4
 geoids 2
 gloriole 4
 gendered 3
-galatine
+galatine 1
 ghetti 2
 gasifier 4
 geologically 6
@@ -3450,7 +3450,7 @@ goutily 2
 glaucosis 2
 glorioles 3
 gamont 4
-gesithcundman 1
+gesithcundman 2
 gesling 2
 gudrun 2
 gymkhanas 1
@@ -3907,7 +3907,7 @@ gonozooid 1
 graupel 1
 genioplasty 1
 genetrix 3
-gateworks 2
+gateworks 3
 glaciological 1
 graders 5
 gorgonize 5
@@ -4789,7 +4789,7 @@ givingness 2
 globes 3
 garrnishable 1
 gizz 2
-gorgoniaceous 3
+gorgoniaceous 4
 gentlewomanly 4
 gizzard 4
 glimmerings 2
