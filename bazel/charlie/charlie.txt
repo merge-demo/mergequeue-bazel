@@ -24860,7 +24860,7 @@ coracoprocoracoid 2
 cognoscibility
 crepitation 1
 coracoradialis
-cheilion
+cheilion 1
 conveyers
 cardecu 3
 corial 1
@@ -25340,7 +25340,7 @@ cornel
 cornelia 3
 coner 1
 concessioner
-cornell
+cornell 1
 corneosclerotic
 cirsectomy
 cheer
