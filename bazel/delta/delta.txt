@@ -6804,7 +6804,7 @@ drachma 1
 daira 1
 desires 2
 dihedrons 1
-desirous
+desirous 1
 desirousness
 drily 1
 dented
