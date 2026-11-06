@@ -6589,7 +6589,7 @@ charcuterie 2
 calamitoid 1
 cdf
 carid 1
-cheroot 2
+cheroot 3
 cdg 1
 cdr 1
 cesspool 2
@@ -29462,7 +29462,7 @@ crystallisability 1
 caramel 1
 correctedness
 cueist
-cerographic 1
+cerographic 2
 circuiter 1
 crystallising
 crystallites 1
