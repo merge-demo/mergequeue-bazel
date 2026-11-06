@@ -13058,7 +13058,7 @@ ancillas 1
 auspicious 1
 anakinetic 4
 aradid 1
-anhysteretic 2
+anhysteretic 3
 agrologist
 anils 1
 aerogels 1
@@ -14247,7 +14247,7 @@ asepticize 2
 argilliferous
 acephal 3
 aptitudinal 1
-anterosuperior 2
+anterosuperior 3
 antesternal 1
 antesuperior
 arboretums
