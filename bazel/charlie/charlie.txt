@@ -10389,7 +10389,7 @@ chiel 1
 coapts 2
 column
 chield
-conemaker 5
+conemaker 6
 chierete 1
 chievance 2
 chieve 2
@@ -17731,7 +17731,7 @@ confirmingly
 contramure
 coconuco 3
 coconut
-coconuts
+coconuts 1
 cocoon 1
 cocooneries 2
 crockard
