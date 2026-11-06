@@ -1830,7 +1830,7 @@ bandelette 1
 banderma 2
 banderol 2
 banderole 1
-bindings 2
+bindings 3
 brigading
 banders
 broadlings 1
@@ -3271,7 +3271,7 @@ basinet 1
 basinets 2
 basinful 1
 benzines 2
-bewhig 2
+bewhig 3
 begartered 3
 bethank 2
 bookkeeps
