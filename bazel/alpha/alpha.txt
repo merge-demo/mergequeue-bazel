@@ -6160,7 +6160,7 @@ aus
 aroeira 1
 amphi 3
 agnel
-aerographic
+aerographic 1
 anthosiderite 1
 acetobenzoic 1
 agnification
