@@ -1507,7 +1507,7 @@ efl 2
 efoliose
 efph 2
 enantiomorphism
-erringly 1
+erringly 2
 entocondylar 3
 experimentarian 1
 estantion 3
@@ -13430,7 +13430,7 @@ etchimin 5
 expresso 3
 erogate 3
 ethnodicy 3
-eponymous 5
+eponymous 6
 electrotechnical 1
 expurge 1
 etas 1
@@ -13665,7 +13665,7 @@ entapophysis
 epithem
 elfic 3
 encomiendas
-eject 3
+eject 4
 enphytotic
 endorsors 1
 erratum 2
