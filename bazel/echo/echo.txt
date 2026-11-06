@@ -2332,7 +2332,7 @@ elfkin 1
 exradius 3
 electroacoustics 5
 enthetic 1
-exundation 1
+exundation 2
 electroanesthesia 2
 electroballistics
 emetatrophia 3
