@@ -2299,7 +2299,7 @@ adjournments
 azerbaijanese
 avives 1
 acidly 2
-appling
+appling 1
 autophoby
 acidnesses 1
 acidology 1
@@ -5135,7 +5135,7 @@ authigene 1
 aestus 2
 alamos
 adenitises
-anend 1
+anend 2
 aetat
 aethalium 3
 astragalectomy 3
