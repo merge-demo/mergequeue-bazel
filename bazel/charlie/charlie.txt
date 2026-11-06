@@ -6810,7 +6810,7 @@ cellarmen 3
 cellars 2
 chirologies 1
 cellarwoman 2
-cellblock 1
+cellblock 2
 celled 2
 centennium 1
 cellepore
@@ -10319,7 +10319,7 @@ caulerpaceous 2
 camorras
 chickenheartedness
 chickening 1
-chickenpox
+chickenpox 1
 chickenwort
 chicker
 chickhood 1
@@ -12312,7 +12312,7 @@ christlike 1
 carafon 2
 christmasy 1
 christmasing
-christocentric 1
+christocentric 2
 christogram 2
 christolatry
 controverts
@@ -19570,7 +19570,7 @@ crocky 1
 copesetic 1
 columbotantalate
 crepiness 2
-confession 3
+confession 4
 childhoods 3
 columel 3
 coachmanship 1
@@ -26484,7 +26484,7 @@ calctuff 1
 curn
 cottae 1
 cubature 1
-chatelains 3
+chatelains 4
 ceiba 1
 copernicanism
 conductory 1
@@ -27029,7 +27029,7 @@ counterposition
 counterposting 1
 counterpotence
 cantilated 2
-counterpotency 1
+counterpotency 2
 counterpotent 1
 constance 2
 centenarian

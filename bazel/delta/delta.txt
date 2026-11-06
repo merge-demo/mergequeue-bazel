@@ -307,7 +307,7 @@ depolarized 2
 dayanim 2
 daybeacon 2
 dealbate 2
-daybed 2
+daybed 3
 devchar
 disembowelment 2
 disgruntling 1
@@ -5346,7 +5346,7 @@ demibombard 2
 disguising 2
 dysteleology 3
 displant 2
-deadheadism 3
+deadheadism 4
 dentelure
 duftry 2
 dealable 1
@@ -12512,7 +12512,7 @@ dysmerogenetic 4
 discorporate 1
 disincarceration 2
 delphinoid 2
-disincarnate
+disincarnate 1
 dudes 1
 defiled
 disinclination 1
@@ -12569,7 +12569,7 @@ ditrematous 2
 dhole
 deluxe 1
 disinheriting 1
-demyship
+demyship 1
 disinhume 1
 djagatay 1
 dorsoventral 1
@@ -13454,7 +13454,7 @@ differentia 2
 disrespectable 2
 disrespecter 1
 disrespective 2
-decantherous 3
+decantherous 4
 dishabited 1
 disrest 2
 disillusionment 2
@@ -14302,7 +14302,7 @@ ditt 2
 device 1
 drogerman 2
 dunter 1
-diffidation 3
+diffidation 4
 dramatizing
 dispiritment 2
 droh 1
