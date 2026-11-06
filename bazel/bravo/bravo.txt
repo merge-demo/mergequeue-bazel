@@ -2390,7 +2390,7 @@ bardings 1
 busyness 2
 becalms
 bardlike
-barkiest
+barkiest 1
 bazar 5
 brinks
 bilaterality
@@ -6851,7 +6851,7 @@ benignancy 2
 benkulen 4
 bigener 3
 buicks 2
-bioluminescent
+bioluminescent 1
 bescourge 2
 baboos 1
 buckeroos 2
