@@ -3644,7 +3644,7 @@ flook 2
 farmable 2
 fridstool 4
 frictionlessly 2
-flashing 2
+flashing 3
 faintishness 1
 fielder 3
 floatsman 2
