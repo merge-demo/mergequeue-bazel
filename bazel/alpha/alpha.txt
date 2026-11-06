@@ -6533,7 +6533,7 @@ ai 1
 anomura 3
 acrogynae 1
 arustle
-antidomestic
+antidomestic 1
 ayacahuite 1
 arbutase 1
 athbash 1
@@ -6896,7 +6896,7 @@ aggrieving
 anatinacea
 arachin
 attestive 1
-asphyctous 2
+asphyctous 3
 addie 2
 anorthoclase 1
 ambagiously
@@ -8498,7 +8498,7 @@ alkenyl 1
 alkes 1
 awreck 2
 alkyd
-anniversalily
+anniversalily 1
 apitong 3
 antiskeptical 3
 agone 2
@@ -9725,7 +9725,7 @@ aux 1
 alvissmal
 antirabic 3
 actinical 1
-alwite
+alwite 1
 arrogator 1
 amaas
 apocalypticism
@@ -18042,7 +18042,7 @@ aproneer 1
 apronstring 1
 alanins
 anhidrosis 2
-adminicle 1
+adminicle 2
 adular 1
 amphigenetic
 aim 1
