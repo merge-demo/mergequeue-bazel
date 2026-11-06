@@ -4803,7 +4803,7 @@ endocarpic 2
 encode 5
 exitance 2
 ensnarements 2
-encoding 2
+encoding 3
 effectivity 2
 embrocate 2
 ergasterion 1
