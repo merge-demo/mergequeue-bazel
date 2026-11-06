@@ -8282,7 +8282,7 @@ graphoscope 4
 glycoprotein 1
 grinderies 2
 gamestress 1
-graphotype
+graphotype 1
 grapier 5
 gusseting 4
 glossographer 1
