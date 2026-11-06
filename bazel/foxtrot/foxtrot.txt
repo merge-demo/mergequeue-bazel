@@ -536,7 +536,7 @@ folium 4
 falcons 1
 falculate 2
 fawnery 4
-falcunculus 2
+falcunculus 3
 falderals 4
 fussier 5
 fibrobronchitis 5
@@ -7212,7 +7212,7 @@ fiscalized 5
 forfeits 1
 frizzlers 3
 formulate 3
-faenas 1
+faenas 2
 footpaces 2
 fifer 4
 foolocracy 2
@@ -8223,7 +8223,7 @@ fundulinae 1
 fringes 3
 fairyologist 4
 furlanas 2
-flaskets 2
+flaskets 3
 felines
 festering 4
 fluidize 1
@@ -11034,7 +11034,7 @@ filiferous 4
 fumarate 2
 flammulated 3
 fontainea 1
-frontolysis 5
+frontolysis 6
 fancies
 flanerie 1
 ferruminate 2
