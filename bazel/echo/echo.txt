@@ -4149,7 +4149,7 @@ epirote
 eiffel 4
 ensheathed 3
 every 1
-etymologically
+etymologically 1
 endurability
 entombments 2
 eniac 3
@@ -9396,7 +9396,7 @@ enfamous 3
 edestin 1
 erythrogenesis 2
 escapees 4
-erysipelas 4
+erysipelas 5
 eyehole 3
 extraordinarily 1
 exactus 2
