@@ -20962,7 +20962,7 @@ ascellus 3
 ascend
 ascendable 1
 ayenbite 3
-amortisseur
+amortisseur 1
 ahtena 3
 antirust 2
 athreptic
