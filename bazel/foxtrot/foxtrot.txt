@@ -11582,7 +11582,7 @@ fruitlike 3
 foretalking 1
 fthm
 fusionist 2
-fusions
+fusions 1
 freity 2
 floscular 4
 fissional 3
