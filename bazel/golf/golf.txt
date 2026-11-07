@@ -6866,7 +6866,7 @@ gonosphere 3
 grisettish 4
 graphics 1
 gorbal 4
-guaranty 7
+guaranty 8
 globosities 1
 galaxies 5
 gymsia 3
@@ -8580,7 +8580,7 @@ gawsy 4
 gravitic 1
 gretchen
 gurgeons 1
-griped 3
+griped 4
 guarri 3
 guianan 2
 gypping 3
