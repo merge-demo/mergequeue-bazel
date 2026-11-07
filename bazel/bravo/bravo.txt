@@ -3718,7 +3718,7 @@ battlefronts 1
 bringall 1
 brucella 3
 barnstorms
-battler 1
+battler 2
 battleships 1
 barrace 2
 blushiness
