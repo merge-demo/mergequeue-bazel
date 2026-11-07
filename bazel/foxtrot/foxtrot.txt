@@ -1854,7 +1854,7 @@ fruiterers 1
 febriphobia 1
 februarius 1
 flemishing 1
-fringefoot 3
+fringefoot 4
 fencibles 2
 fielden 3
 fiveling 1
@@ -3940,7 +3940,7 @@ farmy 1
 formature 5
 fischerite
 forebrain 4
-firmamental 5
+firmamental 6
 fraple 1
 ferrocyanogen 3
 falsehearted 1
