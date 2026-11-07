@@ -15645,7 +15645,7 @@ buffone 1
 barrenest 1
 bulkheads
 burred 2
-belemnid 1
+belemnid 2
 benzoazurine
 broadcast 5
 broadcaster 2
