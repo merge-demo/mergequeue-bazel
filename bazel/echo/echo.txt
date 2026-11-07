@@ -6966,7 +6966,7 @@ embrocado 3
 entraining
 earwig 4
 entrainment 3
-entrains
+entrains 1
 emissaryship 2
 entrancedly 3
 entrancement 1
@@ -12460,7 +12460,7 @@ exfiltrate
 equilibrial
 electrolysing 2
 exhuming 2
-epifaunal 1
+epifaunal 2
 enthronization 2
 elegiac 2
 enclosure
