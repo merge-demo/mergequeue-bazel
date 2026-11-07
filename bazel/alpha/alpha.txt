@@ -7067,7 +7067,7 @@ asporogenous
 arthropathy 1
 ameiotic
 allocation 2
-anthramin 2
+anthramin 3
 akenobeite
 atavus
 akepiro
@@ -24451,7 +24451,7 @@ appellatively
 adhibiting 1
 anthophilous 1
 arbitrable
-autotheist 2
+autotheist 3
 autotimer
 autotypography 1
 autotomise 1

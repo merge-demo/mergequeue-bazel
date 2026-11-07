@@ -3374,7 +3374,7 @@ crypted
 capparid
 capparis
 capped 1
-cappelletti
+cappelletti 1
 capper 1
 ciseleurs 2
 cappiest 5
@@ -13832,7 +13832,7 @@ cinerous 1
 cingalese
 cortinae 2
 corrupted 2
-cynghanedd 1
+cynghanedd 2
 catalysis
 cingle 3
 cauchemar
@@ -20922,7 +20922,7 @@ compressibility 2
 compressibleness 2
 criminals
 compressibly 1
-cruzeiros 1
+cruzeiros 2
 cathetometric
 compressive 1
 chasubles
