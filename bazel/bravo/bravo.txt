@@ -9292,7 +9292,7 @@ bagattini
 barringtonia 2
 ballcarrier 1
 biquintile 1
-boles
+boles 1
 bastaard 1
 biracial 2
 bavenite 1
@@ -15836,7 +15836,7 @@ bitonality 1
 beamishly 2
 bromacetone 1
 bromamide
-brininess 2
+brininess 3
 barrows
 besomer 3
 blite 1
