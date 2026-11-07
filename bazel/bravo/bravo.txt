@@ -5155,7 +5155,7 @@ bootmaker 1
 befouling 2
 bazookas
 befoulment 3
-biacuminate
+biacuminate 1
 befraught
 befreight
 befountained 1
@@ -7471,7 +7471,7 @@ bipyramidal 2
 betumbled 4
 blitheful 2
 balconied 2
-bengals 4
+bengals 5
 biomicroscope 7
 bowne 2
 besant 4
