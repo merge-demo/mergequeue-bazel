@@ -10915,7 +10915,7 @@ isfju 2
 isfkcou
 isfkzlzxndp 4
 isfmgerans
-isfnnpl 3
+isfnnpl 4
 isfomrt 2
 isfphitvl 3
 isfsbs 3
