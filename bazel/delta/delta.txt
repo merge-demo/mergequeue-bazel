@@ -11864,7 +11864,7 @@ dominations 1
 drumfires 5
 dispels 5
 disulphone 1
-dromomania 1
+dromomania 2
 dunked
 denying 3
 diadems 1
