@@ -3247,7 +3247,7 @@ elul 1
 epidemic 3
 erects 1
 enclitical 1
-encephalotomy 1
+encephalotomy 2
 eyesore 4
 entrench 1
 episcleral 3
@@ -10509,7 +10509,7 @@ etwee 2
 electricans 2
 esoanhydride 5
 extirpations 1
-effigy 4
+effigy 5
 exemplifications 6
 electrometry 4
 effusing 4
@@ -13090,7 +13090,7 @@ equanimousness 1
 embellishment 2
 epidermose 1
 elijah 2
-endromididae 2
+endromididae 3
 epidermomycosis 3
 erasement 4
 expensiveness 5
