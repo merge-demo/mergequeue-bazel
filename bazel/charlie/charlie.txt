@@ -7036,7 +7036,7 @@ centauric
 checkline 2
 centauridium 1
 chaetognath 2
-centauries 2
+centauries 3
 constructure 2
 centauromachy
 centauromachia 1
@@ -25029,7 +25029,7 @@ cordobas
 cordon
 cordonazos
 consarn 1
-chlorargyrite 3
+chlorargyrite 4
 circumstantiates
 cordoned
 cordoning
