@@ -4746,7 +4746,7 @@ bienseance 4
 bedlar 1
 bazoo
 bibliotic
-blackseed 1
+blackseed 2
 bord 1
 burbled 1
 bedmate
@@ -10132,7 +10132,7 @@ bonhomous 3
 biopsychologies 2
 battue 2
 beatitudes 1
-browsers
+browsers 1
 blackcaps
 bejeweled 2
 blanketflower 2

@@ -3242,7 +3242,7 @@ fuchsone
 forefend 2
 flunkies 3
 falern 2
-forewarnings 1
+forewarnings 2
 flinthearted 2
 flameholder 5
 fictioner 2
@@ -6140,7 +6140,7 @@ fishlines 4
 fabrique 1
 footblower 3
 feely 2
-fecials
+fecials 1
 flouted 6
 fulminations 1
 fretish 1
