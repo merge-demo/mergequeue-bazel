@@ -12081,7 +12081,7 @@ architeuthis 1
 anastate
 anastatus 2
 anastigmat 1
-anastigmatic 1
+anastigmatic 2
 alvah 1
 alichel
 amazeful
