@@ -3244,7 +3244,7 @@ danae 1
 dayside
 derricking 1
 defenseless 2
-defenselessness
+defenselessness 1
 devitalising 4
 dolichostylous
 dogrib 1
