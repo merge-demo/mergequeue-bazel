@@ -5911,7 +5911,7 @@ dispender
 danicism 1
 depressibilities 1
 deozonization 1
-depressingly 4
+depressingly 5
 denuders 2
 desecrator
 decompression 1
@@ -6151,7 +6151,7 @@ deregulated 4
 dodonean 1
 discrowning 3
 deregulation 1
-deregulationize
+deregulationize 1
 dicolic 1
 deregulations 2
 dichromatism 2

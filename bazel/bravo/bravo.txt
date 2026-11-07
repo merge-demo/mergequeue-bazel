@@ -397,7 +397,7 @@ balletic
 bummed 1
 bixbyite
 blarneying 4
-burgles 1
+burgles 2
 belook 1
 bacteriorhodopsin 2
 bwana 2
@@ -4152,7 +4152,7 @@ backbend 1
 beastily 3
 brenda 2
 beastish 3
-bowbells 3
+bowbells 4
 beastlier 1
 barkening
 brawled 1
@@ -5045,7 +5045,7 @@ beltcourse 3
 bigotedly 1
 befalling 1
 benzomorpholine 1
-befalls 1
+befalls 2
 botanised 1
 battlers 1
 blazoned
@@ -13539,7 +13539,7 @@ bouffancy 3
 beggarlice 2
 brunel 3
 biennale 2
-biquarterly 1
+biquarterly 2
 barhop
 bouffant
 brontesque 3
@@ -14110,7 +14110,7 @@ bargainers 4
 boycottage 2
 biosystematics 3
 byzantinesque 2
-begob 2
+begob 3
 bacach
 beaujolais 4
 barquantine

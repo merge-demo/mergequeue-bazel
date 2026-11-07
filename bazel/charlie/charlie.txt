@@ -6288,7 +6288,7 @@ catalases
 cofermentation 1
 colourize
 crescence 1
-cravingly
+cravingly 1
 cecchine 1
 cabbaged 1
 caulocarpic
@@ -19007,7 +19007,7 @@ collectivum
 cocrucify 1
 collectorate 1
 collectors 2
-circumscissile
+circumscissile 1
 crisped
 creedless 2
 collegia 1
@@ -20766,7 +20766,7 @@ complicator 2
 complicators
 complice 2
 complicity 1
-complied
+complied 1
 campodea 1
 compliment 1
 cricketings 2
@@ -29301,7 +29301,7 @@ cryptodeist
 cryptodynamic
 cryptodira
 cryptodiran 3
-cryohydrate
+cryohydrate 1
 calcify 4
 cathetometer
 calvinize 2
