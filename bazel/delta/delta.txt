@@ -843,7 +843,7 @@ demonetizes 2
 demicylindrical 3
 delignate
 danism
-disheartenment 1
+disheartenment 2
 dreamtime
 dartmoor 2
 disinterested 1
@@ -6612,7 +6612,7 @@ dipentene 1
 decipherable 1
 digested 1
 deprecations
-deselected 2
+deselected 3
 depiction 3
 dysmerogenesis
 deadborn
@@ -13355,7 +13355,7 @@ discord 1
 disputes 2
 disdiaclast 2
 disputing 1
-dayflower
+dayflower 1
 demonstrableness 1
 deadmen
 decurving 2
@@ -17687,7 +17687,7 @@ duodenojejunal 1
 duarch 1
 decarburizing 1
 discommons 1
-detacwable 2
+detacwable 3
 delsarte 1
 deputization
 duarchy 3
@@ -18139,7 +18139,7 @@ divaricately 2
 destructionism 1
 driveaway 1
 disherison 3
-desmidiales 1
+desmidiales 2
 dropper 1
 disappointed 2
 dumper
