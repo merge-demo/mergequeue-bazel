@@ -13461,7 +13461,7 @@ cigua
 cyke 1
 cyl
 comburivorous
-cilectomy
+cilectomy 1
 cornichon 2
 chassis 3
 cartesianism 1
