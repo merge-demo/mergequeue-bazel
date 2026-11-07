@@ -12004,7 +12004,7 @@ corelation
 catalanist 1
 chorizont 1
 chorizontal 1
-comprehensible
+comprehensible 1
 chorizos
 cribrately 1
 cariyo
@@ -26744,7 +26744,7 @@ confutable 3
 countercathexis 1
 counterchanged 3
 countercharm
-counterclaim 1
+counterclaim 2
 cirriform 5
 counterclaims 1
 counterclassifications 2
