@@ -4036,7 +4036,7 @@ foredawn 2
 fissural 4
 frettiest 3
 feudalise 4
-fingram
+fingram 1
 fossilisable 3
 finical
 fluxibly 1
@@ -11582,7 +11582,7 @@ fruitlike 3
 foretalking 1
 fthm
 fusionist 2
-fusions
+fusions 1
 freity 2
 floscular 4
 fissional 3
