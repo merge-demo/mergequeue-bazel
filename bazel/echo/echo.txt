@@ -2349,7 +2349,7 @@ epistroma 4
 electrocardiogram 1
 enclear 2
 ever 5
-electrocardiographic 2
+electrocardiographic 3
 euphuistic 1
 explorational 3
 entocele 2
@@ -7506,7 +7506,7 @@ euda 1
 ephraimite 1
 exocoetidae 2
 extensively 4
-ephrathite 2
+ephrathite 3
 estrins 4
 estall 1
 eophytic
@@ -12928,7 +12928,7 @@ esmayle 5
 embryologic 3
 erasmus 2
 expatiates
-expatiating 1
+expatiating 2
 electable 3
 esses 4
 embracery 3
@@ -13679,7 +13679,7 @@ exterminatrix 5
 extraconscious 4
 edaphosauria 3
 externalise 2
-escarp 4
+escarp 5
 earthing 3
 ewelease 1
 equalizes 1
