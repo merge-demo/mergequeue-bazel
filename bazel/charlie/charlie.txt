@@ -30103,7 +30103,7 @@ crower
 crowers
 conductors 1
 centuried 1
-crowfeet
+crowfeet 1
 creditability
 crowhop 1
 cushewbird 1
