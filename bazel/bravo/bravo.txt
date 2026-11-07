@@ -7500,7 +7500,7 @@ bevelled
 bardism 1
 belayer 1
 beveller
-bookbinder 1
+bookbinder 2
 bardelle 2
 biathlon 2
 bedgery 3
