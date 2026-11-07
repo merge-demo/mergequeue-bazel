@@ -5499,7 +5499,7 @@ acrostichic 2
 aftercooler 2
 autocollimate
 ack
-apological 1
+apological 2
 almoning 1
 acentric 1
 aftercrop 2
@@ -9546,7 +9546,7 @@ ammocetes 2
 anoegenetic 2
 altimetrically
 abadite 1
-arrives
+arrives 1
 aortotomy
 acousmas 1
 audiotapes 2
