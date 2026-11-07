@@ -9351,7 +9351,7 @@ gunnysacks 2
 ghaznevid 2
 ghaist 1
 gasparillo 5
-gyrostat 3
+gyrostat 4
 gimmick
 gonocoel 4
 gravestones 6
@@ -9634,7 +9634,7 @@ granulomata 2
 grozer 2
 grubbery 1
 grintern 2
-garse 4
+garse 5
 glochidian 1
 ghanian 6
 gin 3
