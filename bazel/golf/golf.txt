@@ -6117,7 +6117,7 @@ girja 2
 gigliato 3
 gardinol 6
 gallimaufry 5
-gyrous 3
+gyrous 4
 gurniad 3
 genuflections 4
 gliosis 5
@@ -6131,7 +6131,7 @@ greit 1
 greatly 1
 gnathostomous 2
 gustoes 4
-gnathostome 5
+gnathostome 6
 gjetosts 4
 gallivants 2
 gammarus 2
@@ -7655,7 +7655,7 @@ girdler 2
 gopherwood 3
 gunsmithery 7
 graded 2
-gorgonlike
+gorgonlike 1
 gool 2
 gnathometer 6
 guachamaca 3
