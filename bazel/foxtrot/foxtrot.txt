@@ -5925,7 +5925,7 @@ foeticidal 1
 fluviovolcanic 3
 flybane 3
 foveola 3
-freyr
+freyr 1
 factitude 5
 familic 3
 frats 1
@@ -9268,7 +9268,7 @@ fleuret 1
 fourchet 1
 friesic 2
 fayalites 3
-freckling 2
+freckling 3
 fungate 3
 folious 1
 frangipani 3
