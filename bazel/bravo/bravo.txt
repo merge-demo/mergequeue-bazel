@@ -2814,7 +2814,7 @@ backwashed 1
 blithefully 1
 buffaloback
 bedarken 1
-bruta 1
+bruta 2
 beisa 1
 biquadrate 1
 baroswitch
@@ -16254,7 +16254,7 @@ burlesqued 2
 bundh 1
 balun 2
 boosted 2
-bedighted
+bedighted 1
 bilithon 1
 brownness 2
 bandboxy 2
@@ -16488,7 +16488,7 @@ birdfarms 2
 bulk 2
 buckra 1
 bricker 4
-bishoplet 3
+bishoplet 4
 borasque 2
 bruskly 1
 bimillennium 1
