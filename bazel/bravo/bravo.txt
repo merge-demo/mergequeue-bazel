@@ -3718,7 +3718,7 @@ battlefronts 1
 bringall 1
 brucella 3
 barnstorms
-battler 1
+battler 2
 battleships 1
 barrace 2
 blushiness
@@ -8838,7 +8838,7 @@ brachystaphylic
 boilerman 3
 blackfishes 2
 behen 1
-bastant 1
+bastant 2
 binukau
 brimmimg
 bathypelagic 2
@@ -9633,7 +9633,7 @@ batiste
 bisyllabic
 benefactions
 burao 4
-braize 2
+braize 3
 bulleting 1
 bisimine 2
 breaches
@@ -11113,7 +11113,7 @@ bache 2
 bipedism 3
 bougies
 bygane 1
-bums 1
+bums 2
 barotaxy
 bacchanalia 1
 bolivian 2
@@ -14128,7 +14128,7 @@ boloed 2
 brass 3
 brachistochrone 2
 brachistochronous 2
-brachystomatous
+brachystomatous 1
 brachystomous 1
 bumblings 3
 bbl
@@ -15623,7 +15623,7 @@ brittany 1
 brittle 3
 bunkos 1
 beclasping 1
-boner
+boner 1
 bailage 1
 bezette 1
 buskle

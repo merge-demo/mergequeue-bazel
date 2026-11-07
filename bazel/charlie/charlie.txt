@@ -3097,7 +3097,7 @@ contrabandist
 capacious 2
 capaciousness 2
 capacitate 1
-carbonyl
+carbonyl 1
 cofounder 1
 cheesecurd 3
 cooperators 1
@@ -13461,7 +13461,7 @@ cigua
 cyke 1
 cyl
 comburivorous
-cilectomy
+cilectomy 1
 cornichon 2
 chassis 3
 cartesianism 1
@@ -29810,7 +29810,7 @@ conjugately 1
 cincinnatian
 cropman 1
 contraindication
-comorado 1
+comorado 2
 colleagued 1
 cochleate 1
 croppy 1
