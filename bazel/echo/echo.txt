@@ -1963,7 +1963,7 @@ extraterrestrials 4
 encephalomalacia 1
 eurasians 3
 edgeman 2
-ecklein 7
+ecklein 8
 europeward 3
 electroceramic 1
 energism 5
@@ -2341,7 +2341,7 @@ electrobath 3
 emplacements 4
 ethnologically 2
 escoted 1
-epicenity
+epicenity 1
 epically 4
 effulge 5
 enchants 1
