@@ -4848,7 +4848,7 @@ foliums 3
 froebelism 3
 footfall 1
 fustigate 1
-floor 4
+floor 5
 fickleness 5
 fooless 4
 flagstick 2
@@ -7842,7 +7842,7 @@ foveolets 3
 furcellate 6
 fractionisation 1
 fungify 3
-favorite 2
+favorite 3
 fligged 2
 focusing 3
 fatiguable
