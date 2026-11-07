@@ -332,7 +332,7 @@ galactogenetic 3
 gappiest 2
 guarantee 2
 gravigrada 2
-galactolipide 3
+galactolipide 4
 graveship 2
 galactometer 5
 gorling 4
@@ -5306,7 +5306,7 @@ gamelan 1
 gromil 5
 glycerite 3
 gigmanism 2
-glycerolate 4
+glycerolate 5
 gymnadeniopsis 3
 glyceroxide 1
 glycide 1
