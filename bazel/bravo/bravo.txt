@@ -881,7 +881,7 @@ battlegrounds 2
 blackheads 1
 baghdad 4
 backway 2
-builders 4
+builders 5
 bagios 1
 berascals 4
 bedrenching 2
@@ -15130,7 +15130,7 @@ boar 2
 bogier 3
 baw 1
 baldicoot 1
-bronchotyphoid 1
+bronchotyphoid 2
 brickliner
 brewership 4
 brewhouse 1

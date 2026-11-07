@@ -8528,7 +8528,7 @@ chanceful
 cadrans 2
 chancefulness 2
 chancey
-chanceled 1
+chanceled 2
 cardiacea 2
 chanceless
 cestoda 4
@@ -11638,7 +11638,7 @@ cholerophobia 1
 camphylene
 cyanamids 3
 cholesteatoma
-concorrezanes 2
+concorrezanes 3
 cholesteatomatous
 cholesteremia 1
 cleidohyoid 3
@@ -17449,7 +17449,7 @@ cobbing
 cumulite
 causeries 1
 cobble 1
-capax
+capax 1
 cobbled
 commixes 2
 cobblerfish
