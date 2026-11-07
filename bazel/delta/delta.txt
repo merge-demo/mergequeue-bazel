@@ -843,7 +843,7 @@ demonetizes 2
 demicylindrical 3
 delignate
 danism
-disheartenment 1
+disheartenment 2
 dreamtime
 dartmoor 2
 disinterested 1
@@ -13355,7 +13355,7 @@ discord 1
 disputes 2
 disdiaclast 2
 disputing 1
-dayflower
+dayflower 1
 demonstrableness 1
 deadmen
 decurving 2
