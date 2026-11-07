@@ -1475,7 +1475,7 @@ careening
 calkers
 chowse 1
 calkin
-calkins 2
+calkins 3
 calks 3
 callainite 1
 croze
@@ -5853,7 +5853,7 @@ colorlessness 2
 coigning
 chaffier 3
 catella 1
-ctenodactyl
+ctenodactyl 1
 catena 2
 catenae 1
 catenane
@@ -28277,7 +28277,7 @@ crataeva
 champlain 2
 cratches 1
 curtnesses 2
-cratchins
+cratchins 1
 crate
 crateman 1
 clitic
