@@ -1900,7 +1900,7 @@ eyrant 4
 erasability 2
 equiseta 1
 extrovert 3
-errata 1
+errata 2
 eximiousness 1
 encashes
 enwisen 1
@@ -14197,7 +14197,7 @@ epulation 1
 endlong 2
 equidistance 1
 exurge
-exuscitate 5
+exuscitate 6
 enlists 3
 effecters 4
 enow 2

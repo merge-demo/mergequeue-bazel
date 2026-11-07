@@ -3654,7 +3654,7 @@ chromatography 1
 caraibe 3
 caraipa
 chronometrical 1
-caraipi 1
+caraipi 2
 carlish
 cucumiform
 caraja 1
@@ -22901,7 +22901,7 @@ coalizing
 considerate 2
 codiaeum 2
 cephalometer 1
-consideration
+consideration 1
 considerations 1
 considerator 3
 copatain
@@ -26029,7 +26029,7 @@ cradletime
 citied 1
 contagionist
 coypu 2
-cosenator 1
+cosenator 2
 cosentiency 1
 consignor
 cosentient
