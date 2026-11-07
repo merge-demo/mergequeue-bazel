@@ -20377,7 +20377,7 @@ arcsines
 anticorrosives 3
 autoradiography
 authenticators 2
-apothgm
+apothgm 1
 alefzero 1
 awearied 1
 alabaman
