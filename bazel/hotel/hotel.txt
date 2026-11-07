@@ -918,7 +918,7 @@ haskfrgmhmbg 1
 haskhsu 3
 hasklruca
 haskp 3
-hasl 1
+hasl 2
 hasme 3
 hasmtn 2
 hasnadwybuewhjoi 1
@@ -6337,7 +6337,7 @@ hixfajyexft 2
 hixfbzvf
 hixh 1
 hixheth 1
-hixi 3
+hixi 4
 hixjb 3
 hixkcomx 2
 hixklf 2
