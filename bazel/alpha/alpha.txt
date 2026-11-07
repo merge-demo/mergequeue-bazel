@@ -1637,7 +1637,7 @@ abnet
 adenophoreus 1
 aerenterectasia 1
 accroaching 1
-anaclitic
+anaclitic 1
 accroides 2
 accruable 1
 atty 3
@@ -25160,7 +25160,7 @@ almug 2
 atomicity 1
 aphanipterous 1
 abduce 1
-aret 1
+aret 2
 axman 1
 atheological 3
 axodendrite 1
