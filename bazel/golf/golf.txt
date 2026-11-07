@@ -5538,7 +5538,7 @@ gump 2
 grassfinch 4
 griefs 4
 gauffers 1
-guttiferous 3
+guttiferous 4
 germinally 7
 gangplanks 3
 glycidol 3
@@ -9033,7 +9033,7 @@ groomer 5
 grillee 2
 gatehouse 2
 golem 6
-gramashes 4
+gramashes 5
 granatum 2
 geomorphogenist 2
 gastrocnemian 3
