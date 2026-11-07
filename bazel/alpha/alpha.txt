@@ -15709,7 +15709,7 @@ antiparallelogram 1
 anisomeric
 arylamine
 ablet 2
-annection 1
+annection 2
 admen 1
 antimetathesis 2
 antheridiophore 1
