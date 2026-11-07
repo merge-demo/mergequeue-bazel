@@ -1034,7 +1034,7 @@ edentata 2
 egesting 2
 epinicion 1
 ethyls
-edentulate 2
+edentulate 3
 edeodynia 1
 edeomania 2
 enhamper
@@ -12992,7 +12992,7 @@ expectorated
 echinococcus 2
 enneahedria
 exculpate 3
-endosecretory 3
+endosecretory 4
 etatisms 2
 endocondensation 1
 evanescenrly 3
@@ -14136,7 +14136,7 @@ enseraph 2
 enplanement 4
 emulates 2
 enlard 1
-entocuneiform 2
+entocuneiform 3
 excussion
 endearment 2
 entrails 3
