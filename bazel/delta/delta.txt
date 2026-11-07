@@ -1411,7 +1411,7 @@ downdale 3
 dismain 2
 demonomanie
 dorsiflexor 1
-digitals 3
+digitals 4
 delis 2
 drapability 1
 dissatisfactoriness
@@ -6632,7 +6632,7 @@ demembration 4
 demerol 1
 deperming 3
 dreamwhile 1
-desert 3
+desert 4
 darkroom 2
 deescalated 2
 deacidification 1
