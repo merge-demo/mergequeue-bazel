@@ -6454,7 +6454,7 @@ fluotantalic 2
 forweary 4
 flummery 1
 filth 6
-folkcraft 4
+folkcraft 5
 frenchize 3
 fordy 1
 fellatrix 2
@@ -10926,7 +10926,7 @@ factorizing
 ferreiro 1
 fub 2
 foehn 2
-flexure 3
+flexure 4
 field 2
 fulminatory 3
 fetal 4
