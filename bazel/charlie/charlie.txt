@@ -13147,7 +13147,7 @@ cacan
 crackability 1
 cicatrising
 cystoflagellata 2
-cicatrisive 1
+cicatrisive 2
 cicatrizate 1
 caudicle 1
 canalize 2
@@ -18924,7 +18924,7 @@ carillonned 2
 criticise 1
 conductorship
 creepered 2
-cauterant 1
+cauterant 2
 coquinas 1
 confiscable
 conceding
@@ -30655,7 +30655,7 @@ cucurb 1
 compole
 cucurbita
 cucurbitaceous
-cucurbite 2
+cucurbite 3
 clinicist
 compromis
 champagne
