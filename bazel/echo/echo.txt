@@ -8624,7 +8624,7 @@ elinguating 1
 ectal 4
 equilibrates 5
 exonerators
-ethylamide
+ethylamide 1
 egol 3
 equilibria 2
 equilibriate 2
@@ -9288,7 +9288,7 @@ electroethereal 1
 erse 1
 effusiveness 2
 escribiente
-erection 1
+erection 2
 enhancer 2
 engulf 3
 erst 3
