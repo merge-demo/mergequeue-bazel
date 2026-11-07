@@ -2662,7 +2662,7 @@ discernably 1
 decompensating 2
 delinquents 1
 decenniad
-decompensations
+decompensations 1
 dasylirion 1
 doorkeeper 2
 decompiler
@@ -4881,7 +4881,7 @@ dobe 1
 demonizes 3
 demandative 2
 demonizing 1
-drame 1
+drame 2
 dailies 3
 detecting 1
 demonography
