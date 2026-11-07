@@ -1843,7 +1843,7 @@ declinograph 1
 dewberry 1
 doorstead
 doughnut
-debellator 2
+debellator 3
 darapti 2
 drugmaker 3
 decriminalize 2
@@ -3096,7 +3096,7 @@ disennoble 5
 defacing 2
 defacto 1
 defade 2
-dichlamydeous 1
+dichlamydeous 2
 defaillance 1
 defaitiste
 defalcated 1

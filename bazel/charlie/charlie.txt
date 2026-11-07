@@ -5062,7 +5062,7 @@ citywards 1
 colat
 casanova
 casaques 1
-casas 2
+casas 3
 cojudge 1
 coevolve
 colisepsis
@@ -31598,7 +31598,7 @@ cervicide
 creatinine
 cururos 1
 courters 1
-catawbas
+catawbas 1
 cleave 1
 cornett 1
 cheet

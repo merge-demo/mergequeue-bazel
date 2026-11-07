@@ -1028,7 +1028,7 @@ farinometer 2
 farinose 1
 founce 3
 flannelly
-firesafety
+firesafety 1
 flourishing 3
 farinosel 2
 foussa 2
@@ -7253,7 +7253,7 @@ foregoing 1
 fissuration 2
 fledglings 2
 fetisheer 5
-fratricidal 3
+fratricidal 4
 foeffment 1
 flares 5
 forecasts 5
@@ -9735,7 +9735,7 @@ frenetically 1
 forlorner 2
 frenula 1
 frenular 2
-footlicker 1
+footlicker 2
 fornicate 2
 friends 6
 fraicheur 4
@@ -11590,7 +11590,7 @@ foregallery 6
 fussbudgety 1
 fevers 3
 filtrates 5
-fussers 3
+fussers 4
 faradic 2
 fargite 2
 fussing
