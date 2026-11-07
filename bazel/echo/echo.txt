@@ -1036,7 +1036,7 @@ epinicion 1
 ethyls
 edentulate 3
 edeodynia 1
-edeomania 2
+edeomania 3
 enhamper
 enhydris 5
 emberizinae 1
@@ -3715,7 +3715,7 @@ esthesioblast 3
 embryotega 2
 etherialise 2
 embryotegae 5
-eweries 2
+eweries 3
 embryotome 3
 exhalatory 5
 eeten
