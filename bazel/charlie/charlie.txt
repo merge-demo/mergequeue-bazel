@@ -1568,7 +1568,7 @@ collegiant
 corruptibilities
 callithumpian
 callitrichaceous
-conducibly
+conducibly 1
 cystitome
 callitris
 crenitic 1
@@ -8377,7 +8377,7 @@ chamacoco
 chamaebatia
 chamaecranial
 cogons 1
-centry 1
+centry 2
 compinge
 corkir 2
 chamaelirium 2
@@ -9481,7 +9481,7 @@ crojik 1
 check 2
 communizing 1
 checkage 1
-capsulized 1
+capsulized 2
 checkback
 checkbite
 checkbits
@@ -17998,7 +17998,7 @@ colonelcy 1
 confutative
 cephalothecal 1
 coeloplanula
-chartreuse 1
+chartreuse 2
 coelospermous
 cryptocephala
 corteise
@@ -26119,7 +26119,7 @@ cosmochemical
 consanguineal
 cheese 1
 cosmocracy 1
-centrum 1
+centrum 2
 cervical
 chroncmeter 2
 cyclohexatriene 1
