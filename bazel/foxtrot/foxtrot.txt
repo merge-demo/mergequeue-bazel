@@ -1150,7 +1150,7 @@ fearbabe 3
 feebleminded 1
 feller 2
 figeaters 3
-flyblows 3
+flyblows 4
 footy 3
 fets 2
 foredestiny 2
@@ -2667,7 +2667,7 @@ fertile 2
 farcers 2
 falsely 1
 fittonia
-fluoridating 2
+fluoridating 3
 fertilise 2
 fistular 1
 fylfots 1
@@ -11195,7 +11195,7 @@ flotorial 2
 fidgetily 3
 freechurchism 2
 fungoids 3
-fixating
+fixating 1
 foremanship 2
 fippence 5
 futuric 2
