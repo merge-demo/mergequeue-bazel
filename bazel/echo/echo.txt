@@ -4522,7 +4522,7 @@ escudo 2
 encephalomeningocele 2
 evenglome
 endoerythrocytic
-entothorax 2
+entothorax 3
 embiidae 1
 encephalomyelitic 1
 epochally 1
@@ -8396,7 +8396,7 @@ estrum 1
 exceedable
 englory 1
 earplug 1
-espontoon 4
+espontoon 5
 enwreathe
 entertain 1
 ethylenation 1
@@ -11661,7 +11661,7 @@ enfire 2
 exactitude 2
 electrohydraulic
 eleusinian 1
-endopolyploid 3
+endopolyploid 4
 exactness 3
 edeology 2
 exactors 1
