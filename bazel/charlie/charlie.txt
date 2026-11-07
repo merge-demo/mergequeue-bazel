@@ -4429,7 +4429,7 @@ caryopsis
 courthouses 3
 caripuna 1
 cariri
-caririan
+caririan 1
 commoner 1
 choke
 carisa
@@ -12285,7 +12285,7 @@ christianism
 condominial 1
 cumuliform 2
 christianite 1
-clothier
+clothier 1
 christianizer 1
 christianizes 1
 christianizing
@@ -27999,7 +27999,7 @@ cloisterliness
 commendator 1
 crayfishes
 conditory
-cliquey
+cliquey 1
 craig 2
 careen 2
 caprid 2
