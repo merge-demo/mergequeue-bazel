@@ -11897,7 +11897,7 @@ except 3
 escheatment
 eppes 3
 encolure 3
-entomologise 1
+entomologise 2
 etheneldeli 2
 ennui 1
 enunciatively 4
@@ -14168,7 +14168,7 @@ escamoteur
 enaena 1
 exuding 1
 ethane
-equalled 3
+equalled 4
 envenomization 2
 exulcerating 3
 euciliate 1
