@@ -143,7 +143,7 @@ gs 5
 gallicole 4
 guy 2
 gratelike 2
-garrot 2
+garrot 3
 geryon
 galipot 2
 graniteware 2
@@ -2988,7 +2988,7 @@ gaolering 6
 geographies 1
 grievers 2
 galliardness 4
-geoids 2
+geoids 3
 gloriole 4
 gendered 3
 galatine 1
