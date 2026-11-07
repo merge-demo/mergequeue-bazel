@@ -13147,7 +13147,7 @@ cacan
 crackability 1
 cicatrising
 cystoflagellata 2
-cicatrisive 1
+cicatrisive 2
 cicatrizate 1
 caudicle 1
 canalize 2
@@ -15025,7 +15025,7 @@ choanoid 1
 countercondemnation 3
 cipollino 1
 circuitable 1
-compunctive 1
+compunctive 2
 civilizable
 civilizationally
 citola 2
@@ -16522,7 +16522,7 @@ calvinian
 cloy 2
 cloyedness 2
 chloralization
-cloyingly 1
+cloyingly 2
 complexions 2
 centralized
 cloyless 2
@@ -18924,7 +18924,7 @@ carillonned 2
 criticise 1
 conductorship
 creepered 2
-cauterant 1
+cauterant 2
 coquinas 1
 confiscable
 conceding
@@ -29354,7 +29354,7 @@ cryptoneurous
 correctitude 1
 casina 1
 cryptonymous 1
-cryptoperthite 2
+cryptoperthite 3
 capillariomotor
 ctenii 2
 cryptophagidae 2
@@ -30655,7 +30655,7 @@ cucurb 1
 compole
 cucurbita
 cucurbitaceous
-cucurbite 2
+cucurbite 3
 clinicist
 compromis
 champagne
