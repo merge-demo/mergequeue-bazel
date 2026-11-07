@@ -3496,7 +3496,7 @@ dehydrochlorination 1
 dorosacral 2
 decompressed 1
 deflator 1
-deforced
+deforced 1
 depressors 1
 deforces 2
 dimittis
@@ -16051,7 +16051,7 @@ dopinesses 2
 doubters
 demi 1
 decorability 1
-doubtous 4
+doubtous 5
 doubts 1
 desiderating 1
 distinguishable 6
