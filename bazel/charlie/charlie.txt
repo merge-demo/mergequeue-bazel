@@ -7106,7 +7106,7 @@ caudatum 2
 catamited 1
 centiliter 3
 cadent
-chimed
+chimed 1
 centillionth
 crood 2
 centiloquy
@@ -12314,7 +12314,7 @@ christmasy 1
 christmasing
 christocentric 2
 christogram 2
-christolatry
+christolatry 1
 controverts
 christological
 corseted 1
