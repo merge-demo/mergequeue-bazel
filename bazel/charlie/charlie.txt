@@ -15708,7 +15708,7 @@ clavicles 1
 cannas
 clavicorn 2
 clavicornes
-clavicotomy 1
+clavicotomy 2
 clavicular 1
 clavicularium 3
 claviculate
@@ -21618,7 +21618,7 @@ condescending
 capot 2
 condescendingly 1
 carminophilous 1
-clinoprism 2
+clinoprism 3
 carideer
 condescensions
 crownation
@@ -23440,7 +23440,7 @@ calombo 2
 contemporarily
 contemporising 1
 contemporize
-contemporized
+contemporized 1
 contemptibility 1
 contemptible 1
 counterruin
