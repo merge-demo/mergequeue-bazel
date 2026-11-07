@@ -2978,7 +2978,7 @@ blennioidea
 brattishing 1
 barriness
 barringer 3
-broadcasters 1
+broadcasters 2
 barrios 1
 boulevard 3
 barrister 5
@@ -10774,7 +10774,7 @@ brutalise 3
 blepharism 1
 bizarres
 brosse
-brewster
+brewster 1
 bradford 2
 bitstalk 2
 blepharocarcinoma 1
