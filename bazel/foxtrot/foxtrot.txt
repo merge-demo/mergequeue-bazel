@@ -618,7 +618,7 @@ farrantly 2
 forebemoan 3
 forelimb 3
 funnies 1
-frame
+frame 1
 facesaving 4
 falconelle 2
 falsifier 6
@@ -3726,7 +3726,7 @@ feetless
 firedogs 3
 foalfoot
 flaccidities
-fillings 3
+fillings 4
 furfuryl 3
 fricti 3
 found 1
