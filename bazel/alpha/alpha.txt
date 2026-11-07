@@ -2671,7 +2671,7 @@ angiograph 3
 abrasiometer 2
 africa 2
 anticyclonic
-anax 2
+anax 3
 apex 1
 airpark
 acridiidae
@@ -9279,7 +9279,7 @@ alderwoman
 aloid 1
 ashfall
 anamorphous 5
-acapulco 1
+acapulco 2
 ateba 1
 analyser 1
 afflate
