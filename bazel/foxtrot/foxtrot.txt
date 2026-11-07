@@ -2642,7 +2642,7 @@ farmyardy 2
 fabric 1
 falanaka 2
 freshes 4
-fluocerite 3
+fluocerite 4
 frumpling 1
 ferrumination 2
 fluviatic 2
@@ -3940,7 +3940,7 @@ farmy 1
 formature 5
 fischerite
 forebrain 4
-firmamental 5
+firmamental 6
 fraple 1
 ferrocyanogen 3
 falsehearted 1
