@@ -350,7 +350,7 @@ galactophoritis 9
 gutwort 2
 gingerin 4
 grade 1
-gilet 2
+gilet 3
 gantlets 6
 gley 1
 graphed 2
@@ -749,7 +749,7 @@ goumi 1
 genae 1
 galvanoplasty 3
 grovers 2
-gansa 2
+gansa 3
 gastrohysterorrhaphy 3
 gravitater 2
 gestapos 3
@@ -5878,7 +5878,7 @@ graphometrist 2
 ganglionary 3
 gallywasp 2
 gyle 3
-glucosaemia 4
+glucosaemia 5
 glucinium 2
 genteelest 2
 gadder 4
@@ -10476,7 +10476,7 @@ gonium 3
 glutei 4
 graylings 3
 gastrin 5
-goli 2
+goli 3
 gusher 3
 glumaceous 2
 gulfwards 1
