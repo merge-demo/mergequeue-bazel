@@ -11789,7 +11789,7 @@ chondrosis
 chondrostean 3
 chondrostei 1
 cytosine
-coexecutrices
+coexecutrices 1
 contemperate
 chondrosternal 1
 chondrotomy 1
@@ -12012,7 +12012,7 @@ cutes
 chorograph
 chorographer 1
 continuately 1
-chorographical 3
+chorographical 4
 criticizable
 cyanacetic 2
 chinless 2
@@ -14159,7 +14159,7 @@ cavaedium
 circumambiency 1
 circumambient 2
 circumambulate
-circumambulated
+circumambulated 1
 compose 1
 cuisinier 1
 claddings
