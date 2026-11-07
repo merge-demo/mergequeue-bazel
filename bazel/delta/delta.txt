@@ -7153,7 +7153,7 @@ dinotheriidae 5
 desulfurizer 2
 desulfurizing 2
 demolitions 3
-dynamometric
+dynamometric 1
 depictor
 deambulate 1
 desulfurs 1
