@@ -6480,7 +6480,7 @@ ahantchuyuk 3
 ahartalav 1
 abolisher 2
 alarming 2
-ahaunch 2
+ahaunch 3
 ahead
 arthrodiran 2
 accidentally 4
@@ -12081,7 +12081,7 @@ architeuthis 1
 anastate
 anastatus 2
 anastigmat 1
-anastigmatic 1
+anastigmatic 2
 alvah 1
 alichel
 amazeful
@@ -23060,7 +23060,7 @@ attacking
 arpeggiated 1
 antiparabema 1
 anoints
-attacus 1
+attacus 2
 attagal 4
 attagen
 amygdalaceae 4
