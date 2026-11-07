@@ -1942,7 +1942,7 @@ dallyman
 debtee 3
 denudated 1
 debtless
-desilverized
+desilverized 1
 dwines 4
 downby 2
 dominoes 1
@@ -6820,7 +6820,7 @@ dunks 1
 deskman 2
 desks 3
 dragade 1
-destined 1
+destined 2
 deslime 1
 dissoconch 1
 desmachyme 1
@@ -12657,7 +12657,7 @@ dumplings 1
 dextroses 4
 didy 1
 dyskeratosis 2
-diskette 3
+diskette 4
 discernibleness 4
 diskindness 3
 diskography 4

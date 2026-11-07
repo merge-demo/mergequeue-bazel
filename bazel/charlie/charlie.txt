@@ -6820,7 +6820,7 @@ concaveness
 celliform
 cellist 1
 cellite
-currs
+currs 1
 continua 1
 cellmates 1
 cello 3
@@ -21478,7 +21478,7 @@ circumundulation
 concordance
 concordancer
 commands 2
-curliewurly 1
+curliewurly 2
 cardiophobia
 concordances
 cantalas
