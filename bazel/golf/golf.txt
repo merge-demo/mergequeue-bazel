@@ -2345,7 +2345,7 @@ gelees 2
 geologist 4
 gurging 1
 gymnocerata 2
-gadinic 3
+gadinic 4
 glassy 3
 greengrocer 5
 gutturalisation 5
@@ -6971,7 +6971,7 @@ granjeno 3
 grinds 2
 glyconeogenesis 1
 grasseye 3
-grapevine 1
+grapevine 2
 goodwives 4
 germander 4
 garrigue 2

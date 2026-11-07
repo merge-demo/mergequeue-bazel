@@ -3863,7 +3863,7 @@ bawdier 3
 bawdies 1
 bestrow 2
 bricklaying 1
-backaches 3
+backaches 4
 belvidere 1
 bedaggered 1
 breastless 1
@@ -6217,7 +6217,7 @@ baguio
 benjamin 4
 benjaminite 1
 bound 3
-boletus
+boletus 1
 berley
 bypass 2
 beakful 1
@@ -9249,7 +9249,7 @@ bracteiform 3
 byplay 3
 bullfrogs 1
 brownie 2
-broncholithiasis
+broncholithiasis 1
 baffle 2
 bewearied
 beshrewing 2

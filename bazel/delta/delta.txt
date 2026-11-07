@@ -4129,7 +4129,7 @@ delinquency 1
 decimalise 1
 despeche 4
 diagenetically 1
-doggerelled
+doggerelled 1
 delinter 2
 deliquiate 1
 deliquium 3
@@ -10796,7 +10796,7 @@ directdiscourse 1
 dynodes 2
 doyleys
 diastereoisomeric 1
-dulanganes 1
+dulanganes 2
 directer 1
 deboist
 drawnly 3
@@ -11864,7 +11864,7 @@ dominations 1
 drumfires 5
 dispels 5
 disulphone 1
-dromomania 1
+dromomania 2
 dunked
 denying 3
 diadems 1
@@ -12643,7 +12643,7 @@ duplicidentate 2
 dechemicalization
 disjunctive 2
 disjunctively 2
-deseed 3
+deseed 4
 dibble 3
 disembodying 3
 diskelion 1
