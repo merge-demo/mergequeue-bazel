@@ -4152,7 +4152,7 @@ backbend 1
 beastily 3
 brenda 2
 beastish 3
-bowbells 3
+bowbells 4
 beastlier 1
 barkening
 brawled 1
@@ -5045,7 +5045,7 @@ beltcourse 3
 bigotedly 1
 befalling 1
 benzomorpholine 1
-befalls 1
+befalls 2
 botanised 1
 battlers 1
 blazoned
@@ -13376,7 +13376,7 @@ bothriocephalus 2
 brosimum 1
 becut 2
 bothrium
-bothrodendron 1
+bothrodendron 2
 bromothymol 1
 blackcap 1
 bisulc 2
@@ -14110,7 +14110,7 @@ bargainers 4
 boycottage 2
 biosystematics 3
 byzantinesque 2
-begob 2
+begob 3
 bacach
 beaujolais 4
 barquantine
