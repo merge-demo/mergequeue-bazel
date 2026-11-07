@@ -389,7 +389,7 @@ facets 1
 faceoff 4
 fancifully 6
 fairground 3
-fairy 1
+fairy 2
 foresettle 3
 fructuous 3
 failings 3
@@ -4266,7 +4266,7 @@ fungose 2
 flatterers 2
 frenzying
 fission 1
-fleckier 1
+fleckier 2
 forenoted 4
 flowerpecker 4
 fetichist
@@ -7492,7 +7492,7 @@ fourbagger 3
 fluellin 2
 frolicful 3
 fogou 2
-forgivably
+forgivably 1
 freenesses 3
 foreassurance 2
 forecabin 2
