@@ -6113,7 +6113,7 @@ catstick 1
 ciderkin 2
 cafeterias
 catstitcher
-carven 3
+carven 4
 calcitreation
 currane 1
 cineraria 1
@@ -6525,7 +6525,7 @@ conrectorship
 catharticalness 4
 caviller 1
 chemins 1
-cavillous
+cavillous 1
 cavils
 cyaathia
 cavina
@@ -24903,7 +24903,7 @@ caoutchouc 1
 corallium 1
 carminatives
 caterans
-craniacromial
+craniacromial 1
 cordately 1
 cephadia
 codices
@@ -28765,7 +28765,7 @@ cresc 1
 comparativeness 2
 cordelier 1
 crescendo 2
-crescendoing
+crescendoing 1
 crescendos
 crescentade 1
 cussing 2
@@ -31021,7 +31021,7 @@ congos
 clead
 ceriops 1
 clairaudiently
-cuminal
+cuminal 1
 capitalize 1
 carbaryl 2
 cuminic 3
