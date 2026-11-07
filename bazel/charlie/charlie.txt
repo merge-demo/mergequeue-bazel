@@ -26315,7 +26315,7 @@ collusiveness 2
 cicerone 1
 costosternal 1
 costothoracic 3
-costotome 1
+costotome 2
 carbonnieux
 costotomy 1
 costotrachelian 1
@@ -28468,7 +28468,7 @@ creatic
 codlin 1
 creatin
 critiques 1
-catelectrotonic
+catelectrotonic 1
 creatinephosphoric 1
 condensedly 2
 caroler 1
