@@ -6473,7 +6473,7 @@ disbark 1
 desamidase 1
 desands 3
 desc 3
-descale 1
+descale 2
 downrightly 4
 descant
 dentinoblast 1
