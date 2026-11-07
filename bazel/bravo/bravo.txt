@@ -13641,7 +13641,7 @@ bacbakiri 1
 bellbine 2
 bolsons
 brachycephal 2
-buckras 3
+buckras 4
 bhumidar 3
 bouquetiere
 backsplice
@@ -15231,7 +15231,7 @@ beclose 2
 blennoid 4
 backstrip 1
 bucketing 1
-balneal 1
+balneal 2
 bestrewn 5
 benchers 1
 bridale 3
@@ -17081,7 +17081,7 @@ batoidei 4
 barcarole 1
 buttery 2
 brokerages 3
-beclamor 3
+beclamor 4
 barrel 1
 bulldoggedness
 bearder
