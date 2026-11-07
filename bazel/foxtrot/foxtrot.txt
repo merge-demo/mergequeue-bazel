@@ -3572,7 +3572,7 @@ flagellative 2
 foody 4
 funding 3
 forboding 1
-fairylands 1
+fairylands 2
 fulgence 1
 foggily 1
 filched 4
@@ -8152,7 +8152,7 @@ ferberite 6
 fructuosity 3
 fossilology 2
 foretrace 3
-forecastleman 1
+forecastleman 2
 fountful 1
 foreuse 4
 foreutter 4
@@ -10367,7 +10367,7 @@ francium 2
 flashcube 2
 fletcherite 1
 formatting 4
-frontierless 1
+frontierless 2
 fireproofness 1
 farmyards 1
 fungite 2
@@ -10904,7 +10904,7 @@ fullom
 flirtations 2
 finagler 2
 foremastmen
-fulgoroidea 1
+fulgoroidea 2
 furzier 1
 fruitist 2
 forgeful 1
