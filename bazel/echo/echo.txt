@@ -1355,7 +1355,7 @@ effendis 1
 empty 3
 efferently
 efferents 1
-effervescency 2
+effervescency 3
 eights 1
 epode 1
 endoskeletal 1
@@ -3886,7 +3886,7 @@ environmental 2
 extracted 3
 endometry
 electroculture 1
-exotheca
+exotheca 1
 emigrating 2
 enflagellate
 enfeebled 1
