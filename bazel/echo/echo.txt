@@ -7947,7 +7947,7 @@ exptl 1
 exordia 1
 epimandibular 1
 enthrone 2
-epimanikia 2
+epimanikia 3
 eolopile 1
 equivocatory 1
 estragol 1
@@ -9867,7 +9867,7 @@ expedite 2
 expletiveness 5
 eupepsy 1
 erostrate 3
-experimentalize
+experimentalize 1
 epeeists 2
 ependymoma 2
 enweaving 3
@@ -11867,7 +11867,7 @@ elutes 2
 exceeded 2
 endosperm 3
 excelente 2
-evanescent
+evanescent 1
 eucre 4
 econometric
 everwhich 3
