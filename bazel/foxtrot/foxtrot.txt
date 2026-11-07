@@ -5208,7 +5208,7 @@ fiot 2
 foreclaw 4
 fuchsia 6
 frumpery 4
-funest 3
+funest 4
 fraternizes 3
 formylating 2
 fictionising 3
@@ -10965,7 +10965,7 @@ frigidaire 2
 furors 3
 forgettable
 fink 3
-fumaroidal 4
+fumaroidal 5
 flappier 2
 forerunning 6
 faipule 1
@@ -11129,7 +11129,7 @@ fishtail 2
 farle 4
 footmarks 3
 furuncular 1
-flaggery 4
+flaggery 5
 formylated 1
 forumize 1
 foreallot 1
