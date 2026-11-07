@@ -2236,7 +2236,7 @@ enchased 3
 eulogy 1
 endocytic 3
 elecives 3
-electant 3
+electant 4
 elect 1
 epitheliulia 1
 electary 2
@@ -4719,7 +4719,7 @@ epilog 1
 ecstrophy
 esthematology 1
 epanaphora 5
-electroencephalographs
+electroencephalographs 1
 enmuffle 4
 entrammel 2
 ensuance 2
@@ -4853,7 +4853,7 @@ entranceway 1
 encashing 5
 encountering 2
 eros 2
-ethical 3
+ethical 4
 ecize 2
 exhalate 2
 equitable
@@ -5500,7 +5500,7 @@ entitledness 3
 edematous 2
 energical 3
 energid 2
-epitendineum
+epitendineum 1
 ensuing 3
 endoplasmic 2
 extramundane 3
@@ -5956,7 +5956,7 @@ educatee
 enjoyably
 enhypostasia 1
 estmark 1
-electrotheraputically 5
+electrotheraputically 6
 endolemma 2
 exudence 1
 erethismic 4
@@ -13708,7 +13708,7 @@ enfasten
 epiplasm 2
 equiaxe
 ergocalciferol 2
-externs 2
+externs 3
 endothelioblastoma 3
 ewers
 exhaustedness

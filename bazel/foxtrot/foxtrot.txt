@@ -180,7 +180,7 @@ forthought 4
 feather 3
 flirtable 5
 fanmaker
-fragmentizing 3
+fragmentizing 4
 frescoing 4
 factitively 4
 forums 4
@@ -1013,7 +1013,7 @@ feeblest
 farinas 1
 foglietto 3
 fascicles 1
-filmgoing 2
+filmgoing 3
 flexuose 3
 flatlong
 fumosity 2
@@ -5208,7 +5208,7 @@ fiot 2
 foreclaw 4
 fuchsia 6
 frumpery 4
-funest 3
+funest 4
 fraternizes 3
 formylating 2
 fictionising 3
@@ -5381,7 +5381,7 @@ forthset 3
 flutists 3
 fleche 3
 forelady 3
-folliculate 6
+folliculate 7
 flechettes 3
 flecked 1
 forkhead
@@ -8188,7 +8188,7 @@ faddle 1
 fraught 5
 flourishable 5
 furores 3
-flockbed 6
+flockbed 7
 foghorn
 forewings 2
 flossed 3
@@ -10965,7 +10965,7 @@ frigidaire 2
 furors 3
 forgettable
 fink 3
-fumaroidal 4
+fumaroidal 5
 flappier 2
 forerunning 6
 faipule 1
@@ -11129,7 +11129,7 @@ fishtail 2
 farle 4
 footmarks 3
 furuncular 1
-flaggery 4
+flaggery 5
 formylated 1
 forumize 1
 foreallot 1

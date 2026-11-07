@@ -1709,7 +1709,7 @@ gastrophilite 3
 grandly 3
 gastrograph 3
 gamebag 1
-gazetteerish 6
+gazetteerish 7
 gordioidea 6
 glories 2
 gane 5
@@ -4052,7 +4052,7 @@ gilles 3
 gynostegium 4
 gabendum 5
 genesic 2
-ginorite 2
+ginorite 3
 giantish 3
 glum 3
 gastritic 3
@@ -5144,7 +5144,7 @@ gentlehearted 5
 goldylocks 2
 gyps 3
 glaucophanite 2
-goldcrest 4
+goldcrest 5
 gimpiest 1
 gallinaginous 1
 guerdon 1
@@ -5647,7 +5647,7 @@ germanics 6
 gubernacular 3
 geyserine 2
 gingalls
-gastralgic 3
+gastralgic 4
 gobbling 3
 growsome 1
 grubbiest 1
@@ -5713,7 +5713,7 @@ glossinas 2
 gertrude 3
 glowbard 2
 gurneyite 4
-gerres 5
+gerres 6
 gloveress 3
 gimmaled 3
 gpad 2
@@ -6774,7 +6774,7 @@ graybeards 4
 ganev 5
 garvanzo 4
 ganocephala 4
-gonionia 2
+gonionia 3
 gnosticize 6
 genericness 5
 gamelang 3
@@ -6989,7 +6989,7 @@ guirlande 2
 gauntries 2
 gushiest 2
 genevoise 2
-gynosporangium 3
+gynosporangium 4
 greenuk 1
 goofiness 3
 grafter 4
@@ -7573,7 +7573,7 @@ geophyte 3
 gamash 1
 gowdnie 1
 goalie 1
-gaspiness 3
+gaspiness 4
 grangeriser 3
 geothlypis 2
 guardless 3
@@ -8466,7 +8466,7 @@ goatishness 2
 gerontophilia 6
 glossator 2
 grinnie 3
-galactonic 2
+galactonic 3
 gratulation 1
 globefish 6
 grandeurs 1
@@ -9379,7 +9379,7 @@ glaymore 5
 gelatinized 2
 geneserin
 graciosity 5
-galtonia 3
+galtonia 4
 geordie 1
 gadrooned 2
 grosgrains 3
