@@ -2672,7 +2672,7 @@ cardiatrophia 1
 cephalocereus 1
 canille 4
 canine 1
-consuetudinary 1
+consuetudinary 2
 canines
 caning
 caniniform 1
@@ -20343,7 +20343,7 @@ commutable 1
 canada 1
 conjee 1
 commutant 2
-commutated
+commutated 1
 commutation
 commutatively 1
 carpogone
