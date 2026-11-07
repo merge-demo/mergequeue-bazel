@@ -2863,7 +2863,7 @@ canonry 1
 canons 4
 canonship
 canoodles 1
-counsinhood
+counsinhood 1
 canopy 2
 canopid
 canalised 1
@@ -3541,7 +3541,7 @@ colation
 captation 1
 caption
 captioned 1
-convenably
+convenably 1
 captioning
 captiousness 1
 captivance 1
