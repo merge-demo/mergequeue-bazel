@@ -5330,7 +5330,7 @@ feasts 1
 filial 2
 fant 3
 forcepslike 2
-foulmouthedly 1
+foulmouthedly 2
 fiddlebrained 1
 flimflam 1
 focusses 1
@@ -8234,7 +8234,7 @@ fathomableness 3
 fetors 2
 ferrated 5
 forficulidae 1
-forfoughten 3
+forfoughten 4
 finestra 1
 faltering 1
 forgat 2
@@ -10721,7 +10721,7 @@ faenus 2
 flam 1
 flotsams 2
 fideisms
-frumps 1
+frumps 2
 foldboat 2
 forcedly 2
 fimbria 2
