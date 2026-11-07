@@ -844,7 +844,7 @@ bezique
 bagasses 2
 berceaunette 2
 badhan 3
-bruxisms
+bruxisms 1
 beflags 2
 boohoos 1
 bravura
@@ -9040,7 +9040,7 @@ berrettino 2
 backfire
 biophotophone 1
 bemire 2
-brickmaking
+brickmaking 1
 bethumps
 bunching 2
 bearbaiting 1
@@ -17001,7 +17001,7 @@ bimotor 3
 beleaguered 3
 bulbously 1
 beworn 3
-brownistic 5
+brownistic 6
 barkan 3
 bulbule 2
 bespoken 2
