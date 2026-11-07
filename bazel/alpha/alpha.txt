@@ -2086,7 +2086,7 @@ anthologion 1
 aphagia
 antenniferous
 advertent 3
-apout
+apout 1
 auditor 1
 ammonionitrate
 achiest
