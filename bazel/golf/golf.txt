@@ -1032,7 +1032,7 @@ germination 2
 geologer 3
 gloriette 3
 galvanoscopy 1
-geodist 1
+geodist 2
 gleemen 2
 golp 1
 glanced 6
