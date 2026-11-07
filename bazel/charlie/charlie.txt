@@ -7248,7 +7248,7 @@ centropomidae 1
 cardioaccelerator 2
 calyceal 1
 clarified 1
-concurrent 2
+concurrent 3
 countians 2
 centrosymmetrical 1
 centrosoyus 1
@@ -12834,7 +12834,7 @@ chondrocranium
 churchful 2
 clatters
 cursus
-championess
+championess 1
 correo 3
 churchgoers 1
 calorifacient
@@ -19754,7 +19754,7 @@ capturer
 corotation 3
 caesiums
 chromatism 1
-copolymers
+copolymers 1
 combustible
 cornloft 1
 chambellan 1
@@ -31097,7 +31097,7 @@ cundums
 cundurango
 cuneal
 cuneately 1
-cuneatic 1
+cuneatic 2
 cuneiform
 cuneiformist
 columnarity 1
