@@ -590,7 +590,7 @@ compunctions
 caducibranchiata
 canikins 2
 caducibranchiate
-claggy 2
+claggy 3
 caducities
 caducous
 caryocaraceae 1
@@ -3456,7 +3456,7 @@ capris
 convoking 2
 caprizant
 caldron
-caproin 2
+caproin 3
 camptodrome 1
 causeuse
 comprehends 2
@@ -26557,7 +26557,7 @@ cantillate 4
 counterbewitch 2
 comparsa
 cube
-casaun 1
+casaun 2
 couchings 1
 couchmaker
 cerebromeningeal 1
@@ -29902,7 +29902,7 @@ craniodidymus 3
 crossfish 1
 crossflow 1
 crossflower 4
-crossfoot
+crossfoot 1
 crosshackle 2
 crosshair 2
 crosshand 4
