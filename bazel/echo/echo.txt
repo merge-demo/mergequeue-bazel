@@ -1034,7 +1034,7 @@ edentata 2
 egesting 2
 epinicion 1
 ethyls
-edentulate 2
+edentulate 3
 edeodynia 1
 edeomania 2
 enhamper
@@ -2230,7 +2230,7 @@ eldest
 effigiated 2
 eventuate 2
 engulfment 2
-eldrich 4
+eldrich 5
 eldritch 4
 enchased 3
 eulogy 1
@@ -7346,7 +7346,7 @@ enravishment 2
 epapophysis 2
 easeled 2
 evangeliser
-exosphere 1
+exosphere 2
 expulsing 4
 exile 3
 erinaceus
@@ -12237,7 +12237,7 @@ eskuara
 ephemerides
 emmental 2
 ecclesiolater 3
-eternalization
+eternalization 1
 equipment 1
 epanalepsis
 exocyclica
@@ -14136,7 +14136,7 @@ enseraph 2
 enplanement 4
 emulates 2
 enlard 1
-entocuneiform 2
+entocuneiform 3
 excussion
 endearment 2
 entrails 3
