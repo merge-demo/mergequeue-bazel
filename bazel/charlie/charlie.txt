@@ -11789,7 +11789,7 @@ chondrosis
 chondrostean 3
 chondrostei 1
 cytosine
-coexecutrices
+coexecutrices 1
 contemperate
 chondrosternal 1
 chondrotomy 1
@@ -12550,7 +12550,7 @@ concurrences
 concubitus 1
 chronaxie 2
 chronic 1
-chronica
+chronica 1
 chronically 1
 chronicle
 chronicled 2

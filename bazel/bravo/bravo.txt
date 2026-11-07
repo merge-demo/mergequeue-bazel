@@ -10361,7 +10361,7 @@ bumbler 1
 ballist 2
 brays 2
 blanched 4
-blanches 2
+blanches 3
 buntlines 2
 brawlingly 3
 besnows 2
@@ -17203,7 +17203,7 @@ battailant 1
 bullrush 3
 bulls
 baccillum
-brodee 2
+brodee 3
 bullated
 bronchopneumonia 2
 boffo 2
