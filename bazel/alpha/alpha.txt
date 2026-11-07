@@ -3804,7 +3804,7 @@ adiaphorist 1
 alamo
 airframes 1
 adiaphoron 2
-anisopterous 1
+anisopterous 2
 adiated 1
 ammodytidae 1
 adiathermancy
@@ -7816,7 +7816,7 @@ aldosteronism 1
 anacanth 1
 aldrins 2
 arba 3
-ausubos 4
+ausubos 5
 atrickle 2
 anomalonomy 2
 anglicism 1
