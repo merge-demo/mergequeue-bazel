@@ -892,7 +892,7 @@ bagmaker 2
 bagnes 2
 bastnaesite 2
 breakaway
-burdies
+burdies 1
 broommaking 3
 balmily
 belanda 2
@@ -1183,7 +1183,7 @@ buoys 1
 brawliest 1
 breth 2
 beanfest 1
-baked 2
+baked 3
 blepharydatis 3
 bibliothetic 2
 bakelite 2
