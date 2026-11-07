@@ -9040,7 +9040,7 @@ berrettino 2
 backfire
 biophotophone 1
 bemire 2
-brickmaking
+brickmaking 1
 bethumps
 bunching 2
 bearbaiting 1
@@ -9249,7 +9249,7 @@ bracteiform 3
 byplay 3
 bullfrogs 1
 brownie 2
-broncholithiasis
+broncholithiasis 1
 baffle 2
 bewearied
 beshrewing 2
@@ -9742,7 +9742,7 @@ baidak 1
 bruce 4
 bossies 3
 burdocks 4
-basifugal 1
+basifugal 2
 buffered 1
 bistipulate 2
 bistort 1
@@ -10964,7 +10964,7 @@ besmudges
 branchiostegous 4
 bucketshop 1
 birdcatcher 1
-blissful 3
+blissful 4
 bughead 3
 bookcase 3
 blissom 1
@@ -15299,7 +15299,7 @@ bridgemaster 3
 benediction 1
 bridger
 befrumple
-blanquette 1
+blanquette 2
 bedrel 3
 bicarinate
 browsed 1
@@ -17001,7 +17001,7 @@ bimotor 3
 beleaguered 3
 bulbously 1
 beworn 3
-brownistic 5
+brownistic 6
 barkan 3
 bulbule 2
 bespoken 2
@@ -17700,7 +17700,7 @@ basker
 bumblekite
 banbury 1
 behove 3
-bismosol
+bismosol 1
 butteriness 1
 biont 3
 beanos 4

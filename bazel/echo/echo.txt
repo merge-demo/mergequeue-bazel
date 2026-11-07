@@ -3875,7 +3875,7 @@ easiness 2
 exemplarily 2
 exosculation 4
 effeminacy 3
-exallotriote 3
+exallotriote 4
 emic 1
 euryclea 1
 emyde 3
@@ -5791,7 +5791,7 @@ enshrines 1
 exchangeability 1
 extranidal 4
 exhilarating 6
-exterritoriality 1
+exterritoriality 2
 eolipiles 1
 eucharistical 1
 excl 3
@@ -10971,7 +10971,7 @@ embosk 3
 eperva 3
 euproctis 2
 endophasia 2
-excluder 1
+excluder 2
 eoan 5
 emydea 2
 estufa 2
@@ -11403,7 +11403,7 @@ erpetoichthys
 escaladed 4
 extrinsical 4
 embanking 1
-evangelising 3
+evangelising 4
 eventualize 2
 eventually 1
 expansional
