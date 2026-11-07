@@ -5644,7 +5644,7 @@ cataphora
 cataphoresis 1
 cataphoria 2
 cataphract 3
-counterargue
+counterargue 1
 cosmetology 1
 cataphracted 1
 cataphractic
@@ -24723,7 +24723,7 @@ copresbyter
 copresence 3
 coprinus 2
 christs 2
-clubionid
+clubionid 1
 coprisoner 3
 coprodaeum 1
 catpiece 1
