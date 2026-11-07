@@ -1788,7 +1788,7 @@ feathertop 2
 frogmen 3
 flabra 2
 flutina 1
-flaunts 1
+flaunts 2
 foredoes 4
 flannelet 3
 featherwing 1
@@ -6394,7 +6394,7 @@ fumarolic 1
 fricasseing
 faence 3
 forefoot
-fronture 5
+fronture 6
 furry 6
 formalization 4
 frogspawn 3
@@ -10210,7 +10210,7 @@ froghood 3
 finn 3
 flunkeydom 1
 frailer 3
-falcated 2
+falcated 3
 flaming 4
 frogman 1
 fluoroscopically 4
