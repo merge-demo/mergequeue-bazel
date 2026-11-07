@@ -653,7 +653,7 @@ farrand 2
 featherbedding
 formulates 4
 farnesol 1
-fluotitanic 6
+fluotitanic 7
 fames 2
 fuddled 5
 fichu
@@ -2442,7 +2442,7 @@ fibrously 2
 foh 2
 fingu 1
 frontwise 2
-foreproduct 3
+foreproduct 4
 fermentable 4
 fermentativeness 4
 faradize 3
@@ -4452,7 +4452,7 @@ frowzly 1
 feelable 3
 flossy 2
 fraternizer 5
-fishmouth 5
+fishmouth 6
 fishnet 5
 frank 2
 fleshpot 2
@@ -4867,7 +4867,7 @@ flues 5
 fasting 4
 frabbit 2
 forearm
-froglet 4
+froglet 5
 flagellatory
 ferocities 2
 formalness 3
@@ -9480,7 +9480,7 @@ fraudulent 4
 fraudulentness 3
 ferreting 6
 frauen 1
-fideicommissumissa 1
+fideicommissumissa 2
 friseur 2
 financed 3
 fishwoman 1
