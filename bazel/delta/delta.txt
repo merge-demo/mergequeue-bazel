@@ -6363,7 +6363,7 @@ dermosclerite 1
 deco 3
 dermotropic
 dastardliness 2
-derms 1
+derms 2
 diacatholicon 2
 defined 2
 dioc 3
@@ -11304,7 +11304,7 @@ discusser 1
 directories 3
 dodginess 1
 downsome 2
-desponsage
+desponsage 1
 diesel 3
 disadvantagedness 2
 diptyca
