@@ -12791,7 +12791,7 @@ edaphosaurid 3
 ensembles 2
 encounterable
 emancipative 2
-exospore
+exospore 1
 endrumpf
 epeiridae 3
 enthusiastical 1
