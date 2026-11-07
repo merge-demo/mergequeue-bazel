@@ -2461,7 +2461,7 @@ fairnesses 1
 frithborgh 6
 firelocks 2
 fascinatedly 3
-firn 3
+firn 4
 fumbulator 4
 firstcomer 3
 fireproofing 1
@@ -6354,7 +6354,7 @@ flummoxes 1
 fubsier 2
 farmhouses
 foppy 2
-flatlings 1
+flatlings 2
 flowchart 1
 flagpole 2
 fluocerine 2
