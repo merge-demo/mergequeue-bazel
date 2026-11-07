@@ -14579,7 +14579,7 @@ delight 3
 dryfarm 1
 departmentization 2
 deeming
-diatomine
+diatomine 1
 disinfeudation 2
 discordantness 1
 dentalman 1
