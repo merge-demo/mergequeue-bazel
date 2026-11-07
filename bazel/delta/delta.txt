@@ -7332,7 +7332,7 @@ detorsion 3
 deashed 1
 disagreed 3
 disvulnerability
-determiner
+determiner 1
 diameters 1
 didine
 determinism 3
