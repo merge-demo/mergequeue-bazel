@@ -2749,7 +2749,7 @@ dictates 2
 dissembling
 decore
 dewcup 1
-decorist
+decorist 1
 dragged
 durum 6
 demilancer 2
@@ -9239,7 +9239,7 @@ debarkation 2
 disilluded 2
 discolour 4
 decorament 1
-dollface 1
+dollface 2
 divined 3
 disinsectization 1
 dislegitimate 3
