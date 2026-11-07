@@ -5588,7 +5588,7 @@ careerism 3
 celtologue
 contortively
 catercousin
-catalyze
+catalyze 1
 catalyzer 5
 catchalls 2
 compunctionary
@@ -26842,7 +26842,7 @@ counterfeisance
 counterfeit
 counterfeitly 2
 captaculum 2
-cudava 1
+cudava 2
 chilopod 1
 counterfeits
 counterfessed 1
