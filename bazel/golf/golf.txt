@@ -9351,7 +9351,7 @@ gunnysacks 2
 ghaznevid 2
 ghaist 1
 gasparillo 5
-gyrostat 3
+gyrostat 4
 gimmick
 gonocoel 4
 gravestones 6
