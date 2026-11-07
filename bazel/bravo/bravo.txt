@@ -734,7 +734,7 @@ befoul 1
 babiches 2
 bandsawing
 badges 1
-badging
+badging 1
 buddhism 1
 banksman 1
 bifrost
