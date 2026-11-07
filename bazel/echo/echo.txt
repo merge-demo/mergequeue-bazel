@@ -75,7 +75,7 @@ ellebore 5
 eulalia 3
 earmarkings
 equitation 2
-earmuff 2
+earmuff 3
 earnable 1
 essayer 4
 ecclesiology
@@ -9332,7 +9332,7 @@ erugos 3
 escapage 3
 eruptible 2
 eruption
-eruptional 1
+eruptional 2
 establishing 1
 ellen 4
 eruptive 1
@@ -9799,7 +9799,7 @@ ervils 5
 establishable 3
 eddyroot 2
 establishes 2
-elegiacal 2
+elegiacal 3
 exponentiate 1
 eustace 1
 ebracteolate 1
@@ -12104,7 +12104,7 @@ echinologist 3
 eartag 2
 electromagnet 2
 emasculation 2
-embroche 2
+embroche 3
 effervescing 1
 excruciable 3
 excruciated 3
@@ -13863,7 +13863,7 @@ equitably 2
 extraparental 1
 extroverts 3
 encyst 1
-endgame 6
+endgame 7
 extraneity 2
 ethiop 4
 executancy 1
