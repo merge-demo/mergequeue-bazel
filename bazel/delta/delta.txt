@@ -15644,7 +15644,7 @@ doorstop
 devotionality 1
 diverge
 diodes 4
-desensitizer 1
+desensitizer 2
 downheartedly 6
 dennis 1
 departmentalise
@@ -15747,7 +15747,7 @@ dicyanine 2
 dogshore 4
 dorm 1
 donec
-downlie
+downlie 1
 doggoneder 3
 dormancies 3
 dizygotic 2
