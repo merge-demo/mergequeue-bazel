@@ -8188,7 +8188,7 @@ faddle 1
 fraught 5
 flourishable 5
 furores 3
-flockbed 6
+flockbed 7
 foghorn
 forewings 2
 flossed 3
