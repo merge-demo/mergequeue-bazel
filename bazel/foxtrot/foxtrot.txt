@@ -4136,7 +4136,7 @@ fontanel 2
 flywheel 6
 fersmite 2
 fratriage 1
-fipples 3
+fipples 4
 floscule 2
 firca 2
 foisted 2
@@ -5214,7 +5214,7 @@ formylating 2
 fictionising 3
 flinders 3
 flautino 1
-fisherman 6
+fisherman 7
 foulmouthedness 1
 focoids 1
 flautist 1
