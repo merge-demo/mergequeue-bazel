@@ -342,7 +342,7 @@ gleen 2
 gerontologic 5
 gangetic 1
 governingly 2
-gastrohepatitis 2
+gastrohepatitis 3
 girouettes 3
 gofers 2
 greekless 3
@@ -943,7 +943,7 @@ grouched 1
 gillnetted 5
 galactically 4
 gainsaid 3
-garrottes 4
+garrottes 5
 gnathonically 3
 goldenlocks 1
 gopher 3
@@ -8821,7 +8821,7 @@ gonogenesis 3
 gregariously
 glaciologic 1
 grazed 2
-geranomorphae 5
+geranomorphae 6
 grossularia 1
 grossest 1
 gauntleting 5
