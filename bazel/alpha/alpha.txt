@@ -2781,7 +2781,7 @@ anarithmia 2
 argonauta
 accise 2
 abalienation 2
-acrodontism 1
+acrodontism 2
 acrodrome 2
 acrodromous 1
 amyxorrhoea 1
@@ -9175,7 +9175,7 @@ ammonites 1
 apotheosising 1
 absentation
 ageist
-acquitted 1
+acquitted 2
 almner
 almohad 2
 aorta 1
