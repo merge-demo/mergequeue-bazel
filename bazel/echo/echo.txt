@@ -298,7 +298,7 @@ eponymy 5
 exorcizes 5
 exteriority 2
 elderly 1
-eightsome
+eightsome 1
 exploitation 1
 echos 3
 exhumation 2
@@ -2941,7 +2941,7 @@ elias 3
 epitomiser 1
 epistomal
 egyptian 4
-etchings 4
+etchings 5
 embank 4
 evaporatively 4
 erythrasma

@@ -6266,7 +6266,7 @@ dividable 1
 defenser 3
 dermatomere 3
 dermatomyces 4
-deploredness 1
+deploredness 2
 diplokaryon 4
 dweeble
 debat 3
@@ -17630,7 +17630,7 @@ dispossessory 3
 daisybush 1
 dromornis 2
 dtd 2
-dielectrical 3
+dielectrical 4
 dicranterian
 discourteously 1
 dtente 1
