@@ -2438,7 +2438,7 @@ bactericidal 1
 blencher 2
 bareheadedness 2
 bareknuckled 1
-bdellatomy
+bdellatomy 1
 bellabella 1
 blustery 1
 barenecked
@@ -2677,7 +2677,7 @@ barmcloth 1
 brither 3
 birdcage 4
 bascules 1
-balmlike 2
+balmlike 3
 barnabas 1
 bales
 barnaby 1
@@ -7037,7 +7037,7 @@ baronet 2
 boodh 2
 boothian 2
 bridehouse 4
-briskest 2
+briskest 3
 besottedly 4
 boweled 3
 bombidae
