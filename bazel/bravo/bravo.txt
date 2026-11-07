@@ -4281,7 +4281,7 @@ bizarre 1
 bewitchery 3
 beblooding 2
 bluestockingism
-bebloods
+bebloods 1
 burke 2
 basurale 2
 boggish
@@ -15221,7 +15221,7 @@ brickkiln 1
 brewises 2
 branchiostegal
 beglerbeg 4
-bricklayer 1
+bricklayer 2
 bricklayers 1
 bummery
 brickle 1
