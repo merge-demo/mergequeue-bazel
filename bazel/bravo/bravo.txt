@@ -10000,7 +10000,7 @@ buffos
 bivoluminous 2
 bivouaced 1
 bivouacked 3
-balaphon
+balaphon 1
 bodes 3
 bouilli 3
 byway
