@@ -1044,7 +1044,7 @@ bridler 2
 benzothiopyran
 blockhead 2
 brachycephalization 3
-brasswork 6
+brasswork 7
 bailiwicks 3
 bolete 1
 babyhouse 3
@@ -1731,7 +1731,7 @@ bismutite 1
 bibliokelpt 2
 balthasar 2
 baltheus 2
-burse 2
+burse 3
 blends 1
 baltimore 2
 bumblebeefishes
@@ -7667,7 +7667,7 @@ bescribbled
 bezils 2
 boyardom
 babished 3
-billywix 3
+billywix 4
 baldricwise
 beziques 1
 breadmaking 3
@@ -13904,7 +13904,7 @@ brainish 2
 bowshots 2
 bombarder
 backstopped 3
-backhauled 5
+backhauled 6
 billback 3
 brushoffs 1
 bowstring 3
