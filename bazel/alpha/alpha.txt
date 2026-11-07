@@ -13226,7 +13226,7 @@ animo 1
 archchampion
 antipathic 4
 academizing
-anientise
+anientise 1
 achtelthaler 1
 animosity 3
 aftosas 2
@@ -19745,7 +19745,7 @@ arithmograph 1
 arithmography
 azulejos 2
 aggressiveness
-arithmomancy
+arithmomancy 1
 arivaipa
 amphoral 2
 anhistous 1
