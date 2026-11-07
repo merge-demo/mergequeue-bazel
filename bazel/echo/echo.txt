@@ -3886,7 +3886,7 @@ environmental 2
 extracted 3
 endometry
 electroculture 1
-exotheca
+exotheca 1
 emigrating 2
 enflagellate
 enfeebled 1
