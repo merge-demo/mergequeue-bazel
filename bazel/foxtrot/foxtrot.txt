@@ -6160,7 +6160,7 @@ fewness 1
 fcp 1
 fewneses 3
 farrieries 2
-fabella 2
+fabella 3
 flowcharted 1
 fungibles 4
 festivals 3
