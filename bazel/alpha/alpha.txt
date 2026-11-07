@@ -3755,7 +3755,7 @@ adherency 2
 addiment 4
 aquashow
 adherent 2
-adherents
+adherents 1
 archetypally 1
 adherers 1
 antiphonon 2
