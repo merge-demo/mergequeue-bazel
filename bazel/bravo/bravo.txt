@@ -10146,7 +10146,7 @@ blues 1
 blackdamp 2
 bellhanger 2
 blackener 2
-billette 2
+billette 3
 blackens 3
 bakalei
 blackfeet 2
@@ -10865,7 +10865,7 @@ bay
 britishers
 beelzebubian 1
 bribegiver 2
-boatwise
+boatwise 1
 blimey 3
 brokership
 basis 1

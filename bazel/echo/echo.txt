@@ -2453,7 +2453,7 @@ electroendosmosis 1
 encipher 1
 epoist 3
 enslavements 1
-exquisiteness 4
+exquisiteness 5
 exterminist
 electroextraction 2
 euchological 1
@@ -6452,7 +6452,7 @@ equatorial 3
 epeirogenetic 2
 ecophene 1
 embarrassing 3
-endangerments 2
+endangerments 3
 electromyography 2
 espave 3
 espousal 1
@@ -7251,7 +7251,7 @@ eohippuses
 electronegativity
 eoith 1
 eoiths 2
-entamebae 1
+entamebae 2
 eradicably 3
 enterally 1
 eolian
