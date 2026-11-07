@@ -2618,7 +2618,7 @@ balistarii 2
 belostoma 1
 bumpkinly
 broncs 2
-barkier 4
+barkier 5
 buttonhook 2
 bravery 1
 beduchess 2
@@ -7472,7 +7472,7 @@ betumbled 4
 blitheful 2
 balconied 2
 bengals 5
-biomicroscope 7
+biomicroscope 8
 bowne 2
 besant 4
 burtree 2
