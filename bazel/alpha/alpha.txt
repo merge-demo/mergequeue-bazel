@@ -5282,7 +5282,7 @@ affirmable 2
 asiaticism 1
 affirmably
 aplysia
-achaetous 1
+achaetous 2
 anchor 1
 arnica 3
 assisan 3
@@ -8990,7 +8990,7 @@ ataghan 1
 arsnicker 2
 allose
 allosyndetic
-autoregulatory 2
+autoregulatory 3
 aureolas 2
 allosome
 allosteric 1
