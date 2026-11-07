@@ -6927,7 +6927,7 @@ ethernets 1
 eyewinker 2
 estoppel 2
 erythrocytic
-entopic
+entopic 1
 endiablee 3
 elling 4
 evocations 4
