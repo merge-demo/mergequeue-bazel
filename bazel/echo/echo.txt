@@ -2236,7 +2236,7 @@ enchased 3
 eulogy 1
 endocytic 3
 elecives 3
-electant 3
+electant 4
 elect 1
 epitheliulia 1
 electary 2
@@ -4719,7 +4719,7 @@ epilog 1
 ecstrophy
 esthematology 1
 epanaphora 5
-electroencephalographs
+electroencephalographs 1
 enmuffle 4
 entrammel 2
 ensuance 2
@@ -5500,7 +5500,7 @@ entitledness 3
 edematous 2
 energical 3
 energid 2
-epitendineum
+epitendineum 1
 ensuing 3
 endoplasmic 2
 extramundane 3
