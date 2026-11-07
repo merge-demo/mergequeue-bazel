@@ -17108,7 +17108,7 @@ bulletless
 branchiobdella 2
 basecoat 4
 bulletlike 1
-burghmote 1
+burghmote 2
 braconniere 2
 breadseller 2
 bacteric
