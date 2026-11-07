@@ -892,7 +892,7 @@ bagmaker 2
 bagnes 2
 bastnaesite 2
 breakaway
-burdies
+burdies 1
 broommaking 3
 balmily
 belanda 2
