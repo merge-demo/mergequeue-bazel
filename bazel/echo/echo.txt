@@ -597,7 +597,7 @@ echoism 2
 epigeal
 enhydros 1
 echometer 2
-echopractic
+echopractic 1
 examinate 1
 elitisms 5
 ebonise 1
@@ -11147,7 +11147,7 @@ eavesdrip
 encomy 1
 evacuant 2
 eighteenmos 2
-episome 2
+episome 3
 executing
 evacuants
 earthdrake 4
