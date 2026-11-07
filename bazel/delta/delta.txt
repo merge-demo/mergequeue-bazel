@@ -9758,7 +9758,7 @@ dcbname 2
 dilatoriness 1
 daypeep 1
 denaturiser 2
-dreamingly
+dreamingly 1
 decence 1
 duct 3
 discapacitate 1
