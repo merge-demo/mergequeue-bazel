@@ -16731,7 +16731,7 @@ ambience 1
 anabaptized
 averse 1
 amylometer
-anterointerior 1
+anterointerior 2
 accur 2
 ametaboly 3
 anthophagy 1
