@@ -1061,7 +1061,7 @@ floriken 1
 floter 4
 foredestining 4
 furriery 2
-farolito 2
+farolito 3
 flustration 3
 fiberboard 3
 ferriages 1
@@ -2452,7 +2452,7 @@ fermentescible 3
 filiform 6
 fielding 2
 falla
-fornax 5
+fornax 6
 ferruginated 2
 flowable 1
 fungal 2
@@ -9564,7 +9564,7 @@ forwalk 2
 foolmonger 3
 fluorid 3
 fogginess 1
-fetoplacental 3
+fetoplacental 4
 flatette 1
 figureless 2
 final 2
