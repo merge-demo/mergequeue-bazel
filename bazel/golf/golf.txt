@@ -4052,7 +4052,7 @@ gilles 3
 gynostegium 4
 gabendum 5
 genesic 2
-ginorite 2
+ginorite 3
 giantish 3
 glum 3
 gastritic 3
@@ -5713,7 +5713,7 @@ glossinas 2
 gertrude 3
 glowbard 2
 gurneyite 4
-gerres 5
+gerres 6
 gloveress 3
 gimmaled 3
 gpad 2
@@ -7573,7 +7573,7 @@ geophyte 3
 gamash 1
 gowdnie 1
 goalie 1
-gaspiness 3
+gaspiness 4
 grangeriser 3
 geothlypis 2
 guardless 3
@@ -8466,7 +8466,7 @@ goatishness 2
 gerontophilia 6
 glossator 2
 grinnie 3
-galactonic 2
+galactonic 3
 gratulation 1
 globefish 6
 grandeurs 1
@@ -9379,7 +9379,7 @@ glaymore 5
 gelatinized 2
 geneserin
 graciosity 5
-galtonia 3
+galtonia 4
 geordie 1
 gadrooned 2
 grosgrains 3
