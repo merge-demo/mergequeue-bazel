@@ -2066,7 +2066,7 @@ gleeked 1
 guideboard 2
 gibbously 5
 gunbuilder 2
-gutlessness
+gutlessness 1
 glutted 2
 gherkins 2
 gavots 1
@@ -5085,7 +5085,7 @@ gillied 3
 grasni 3
 guddler 1
 glassines 1
-galloping 1
+galloping 2
 glassiness 3
 glasslikeness 2
 goosefoots 4

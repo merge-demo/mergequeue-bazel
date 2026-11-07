@@ -3027,7 +3027,7 @@ dhai
 dolomitizing
 dochmius 1
 dermapteran 1
-deeper
+deeper 1
 dealings 3
 dies 1
 dismantling 2
@@ -3208,7 +3208,7 @@ defectum 1
 dummkopf 2
 defedation 1
 dictums 1
-dasyures 2
+dasyures 3
 damselflies 1
 dudelsack 2
 dashpot 2
@@ -7153,7 +7153,7 @@ dinotheriidae 5
 desulfurizer 2
 desulfurizing 2
 demolitions 3
-dynamometric
+dynamometric 1
 depictor
 deambulate 1
 desulfurs 1
