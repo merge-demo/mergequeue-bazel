@@ -809,7 +809,7 @@ forgedly 2
 flusher 2
 florilege 2
 faucial 5
-fumingly 1
+fumingly 2
 faun 3
 fenny 2
 frogeyes 2
@@ -863,7 +863,7 @@ fustigation 5
 flowage 1
 flakes 1
 flavicant 2
-forkman 3
+forkman 4
 fluorogenic 1
 fulicine 3
 formatively 4
@@ -8830,7 +8830,7 @@ frigorimeter 2
 fluidible 1
 flushgate 1
 forespoke 7
-fricandoes
+fricandoes 1
 flagellulae 4
 frakfurt 3
 fleeringly 2
