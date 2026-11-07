@@ -2995,7 +2995,7 @@ galatine 1
 ghetti 2
 gasifier 4
 geologically 6
-gondite 1
+gondite 2
 gavialis 5
 gelly 4
 galvanocauteries 4
@@ -3410,7 +3410,7 @@ geosid 4
 gerontocrat 3
 gigglish 1
 grains 2
-gregarinian 3
+gregarinian 4
 greenwing 2
 gulpiest 1
 greco 1
@@ -4390,7 +4390,7 @@ ginhouse 3
 gooselike 1
 gelidiaceae 5
 gangrene 6
-gyron 3
+gyron 4
 gallanilide 4
 gyniatries 2
 gambias 4
@@ -5990,7 +5990,7 @@ gainspeaking 2
 gluttonish 2
 grainsman 1
 granulous 4
-geometry 4
+geometry 5
 gutterman 3
 gyve 3
 graspers 2

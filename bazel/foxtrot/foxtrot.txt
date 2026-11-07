@@ -3132,7 +3132,7 @@ finnick 2
 fibroenchondroma 4
 faring 4
 fulminancy 2
-fibroferrite 1
+fibroferrite 2
 fundic 4
 firewarden
 furioso 1
@@ -6160,7 +6160,7 @@ fewness 1
 fcp 1
 fewneses 3
 farrieries 2
-fabella 2
+fabella 3
 flowcharted 1
 fungibles 4
 festivals 3
