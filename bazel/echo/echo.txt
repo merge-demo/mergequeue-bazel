@@ -1126,7 +1126,7 @@ endopterygotic 1
 epacts 2
 elhi 3
 eikons 4
-environage 1
+environage 2
 edition 2
 endere 1
 editorialization 4
@@ -4522,7 +4522,7 @@ escudo 2
 encephalomeningocele 2
 evenglome
 endoerythrocytic
-entothorax 2
+entothorax 3
 embiidae 1
 encephalomyelitic 1
 epochally 1
@@ -4733,7 +4733,7 @@ epigean 4
 estre 2
 emplaced 3
 exponentiating 4
-encircle 1
+encircle 2
 embrowned 5
 emittent 1
 elocutive 1
@@ -8396,7 +8396,7 @@ estrum 1
 exceedable
 englory 1
 earplug 1
-espontoon 4
+espontoon 5
 enwreathe
 entertain 1
 ethylenation 1
