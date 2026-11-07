@@ -1013,7 +1013,7 @@ feeblest
 farinas 1
 foglietto 3
 fascicles 1
-filmgoing 2
+filmgoing 3
 flexuose 3
 flatlong
 fumosity 2
@@ -5381,7 +5381,7 @@ forthset 3
 flutists 3
 fleche 3
 forelady 3
-folliculate 6
+folliculate 7
 flechettes 3
 flecked 1
 forkhead
@@ -8188,7 +8188,7 @@ faddle 1
 fraught 5
 flourishable 5
 furores 3
-flockbed 6
+flockbed 7
 foghorn
 forewings 2
 flossed 3
