@@ -7173,7 +7173,7 @@ brogues
 bacteriocyte 1
 bijous 2
 besteads
-besteal
+besteal 1
 bioresearch 4
 bedcover 1
 bested
@@ -11071,7 +11071,7 @@ blockheadish 2
 blockheads 4
 bedrip 2
 bilirubinic
-billy
+billy 1
 bacaba 1
 bioral 2
 blockiest 2
@@ -17772,7 +17772,7 @@ bedrolls
 balaenoid 2
 burrers
 blepharoconjunctivitis 3
-buccinal 2
+buccinal 3
 buzzle
 burrgrailer 4
 basementless 1
