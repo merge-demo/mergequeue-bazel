@@ -1496,7 +1496,7 @@ fient 3
 forebodingness 1
 forestology
 freebooters 1
-formamido 3
+formamido 4
 fastens 4
 fermentatory 3
 fetchingly 2
@@ -5208,7 +5208,7 @@ fiot 2
 foreclaw 4
 fuchsia 6
 frumpery 4
-funest 3
+funest 4
 fraternizes 3
 formylating 2
 fictionising 3
@@ -6702,7 +6702,7 @@ flaughtbred 4
 frequent
 finableness 5
 forecontrive 2
-fenner 3
+fenner 4
 flingers 7
 flaggily 3
 faubourg
