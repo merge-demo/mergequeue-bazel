@@ -4853,7 +4853,7 @@ entranceway 1
 encashing 5
 encountering 2
 eros 2
-ethical 3
+ethical 4
 ecize 2
 exhalate 2
 equitable
@@ -7136,7 +7136,7 @@ extrabranchial 4
 employees
 electrophysiologically 1
 epithesis 3
-energic 2
+energic 3
 envious 1
 expelling
 embryomata 1
