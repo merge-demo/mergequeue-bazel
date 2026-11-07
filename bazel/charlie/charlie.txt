@@ -15584,7 +15584,7 @@ curdlers
 classwork 1
 clastics 1
 clathraceae 1
-clathraceous
+clathraceous 1
 clathraria 2
 cathidine 3
 clathrarian 3
@@ -28193,7 +28193,7 @@ corpulent 1
 crannage
 caesar
 crannel 1
-crannequin 2
+crannequin 3
 crannia 2
 colliquefaction 1
 crannied 2
