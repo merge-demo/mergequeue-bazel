@@ -67,7 +67,7 @@ einkorns 1
 empaneling 2
 earliest 4
 enfilading
-eastness 2
+eastness 3
 etiam 2
 entapophysial 1
 educationalism 3
@@ -1082,7 +1082,7 @@ endothelial 1
 embeddable 4
 epistolic 1
 echinology
-elective 3
+elective 4
 edification 1
 evaluators 2
 exfigure
@@ -12230,7 +12230,7 @@ epiphanizing 2
 extralateral 3
 elevener 1
 entally 1
-erodable 4
+erodable 5
 edriasteroidea 2
 ergotine 4
 eskuara
@@ -12895,7 +12895,7 @@ expansionism
 englyn 3
 esotropic 3
 expansionist 2
-expansionistic 1
+expansionistic 2
 enserf 3
 eructs 2
 erupturient 1
