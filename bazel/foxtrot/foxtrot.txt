@@ -651,7 +651,7 @@ forwarding 1
 fimetic 4
 farrand 2
 featherbedding
-formulates 4
+formulates 5
 farnesol 1
 fluotitanic 7
 fames 2
@@ -1854,7 +1854,7 @@ fruiterers 1
 febriphobia 1
 februarius 1
 flemishing 1
-fringefoot 3
+fringefoot 4
 fencibles 2
 fielden 3
 fiveling 1
@@ -2642,7 +2642,7 @@ farmyardy 2
 fabric 1
 falanaka 2
 freshes 4
-fluocerite 3
+fluocerite 4
 frumpling 1
 ferrumination 2
 fluviatic 2
@@ -3940,7 +3940,7 @@ farmy 1
 formature 5
 fischerite
 forebrain 4
-firmamental 5
+firmamental 6
 fraple 1
 ferrocyanogen 3
 falsehearted 1
@@ -11413,7 +11413,7 @@ flocculose 2
 furniture 4
 flummoxing 2
 frustrable 2
-footlicking 3
+footlicking 4
 furl 3
 furodiazole 1
 feminise 3
