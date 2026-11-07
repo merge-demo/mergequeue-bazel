@@ -15231,7 +15231,7 @@ beclose 2
 blennoid 4
 backstrip 1
 bucketing 1
-balneal 1
+balneal 2
 bestrewn 5
 benchers 1
 bridale 3
