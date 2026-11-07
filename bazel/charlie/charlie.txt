@@ -25982,7 +25982,7 @@ corvo
 chamade 1
 corvoid 1
 corvorant 2
-cantiga
+cantiga 1
 corvus
 commissars 1
 cosaque
