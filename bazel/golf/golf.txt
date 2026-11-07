@@ -514,7 +514,7 @@ galivants 5
 geneticism
 gleamiest 5
 glissandos
-gustily 1
+gustily 2
 guruship 2
 gallbladders 3
 guaranteers 7
@@ -1313,7 +1313,7 @@ gateward 4
 gibbered 2
 groomers 1
 gas
-globalism 1
+globalism 2
 galilee 1
 gorging 1
 geullah 4
@@ -7484,7 +7484,7 @@ gladiatory 5
 goura 3
 glyphography 1
 gonad 2
-gamesmanship 6
+gamesmanship 7
 gymnotidae 2
 gordon 6
 gerful 1
@@ -9277,7 +9277,7 @@ gravies 1
 gigabyte 2
 gigglesome 1
 groceryman 6
-goitre 1
+goitre 2
 gardnap 2
 giltcup 1
 grockle 4
