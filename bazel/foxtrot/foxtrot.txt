@@ -8793,7 +8793,7 @@ falcopern 3
 fliped 1
 foolheadedness 3
 forwelk 5
-foenngreek
+foenngreek 1
 flossification 2
 fondlike 1
 forthbring 3
@@ -10005,7 +10005,7 @@ frilliness 6
 fen
 florid 2
 frilling 6
-flee 2
+flee 3
 flatwork 4
 fantod 4
 flavoury 2
@@ -11071,7 +11071,7 @@ fellsman 3
 flaminica 1
 fractionated 3
 forficated 2
-fumariaceous 4
+fumariaceous 5
 freightment 1
 flense 4
 footrace 5
