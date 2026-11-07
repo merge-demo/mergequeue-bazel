@@ -5333,7 +5333,7 @@ glomerulate 2
 galactosemic 3
 galactoma 1
 gabionade 1
-glassmen 3
+glassmen 4
 greener 2
 galiongee 6
 glycollate 4
@@ -6561,7 +6561,7 @@ gentianales
 glandarious 2
 grandaddy 5
 genesiac 1
-gpcd 2
+gpcd 3
 glaziest 5
 gemminess 2
 ganowanian 1
@@ -10657,7 +10657,7 @@ gasolines 2
 gametogony 1
 gladius 5
 gyric 3
-goatsbane 2
+goatsbane 3
 galp 7
 gurgoyle 4
 glaiketness 3

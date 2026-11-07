@@ -15270,7 +15270,7 @@ attainments 1
 armload
 antigigmanic 2
 annexment
-autonitridation 2
+autonitridation 3
 antileveling 1
 antigonon 3
 antigonorrheic
@@ -19523,7 +19523,7 @@ applicancy
 amiantus 2
 accelerated 1
 adward 1
-antimaterialism 2
+antimaterialism 3
 acetonic 3
 adventist
 adscendent 1
