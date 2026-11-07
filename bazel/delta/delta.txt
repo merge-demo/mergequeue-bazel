@@ -390,7 +390,7 @@ defension 1
 deployable 2
 disembargoing 1
 dimmet
-daimons 1
+daimons 2
 ditches 1
 divineness 1
 dehydrogenization 4
@@ -1526,7 +1526,7 @@ diffracted 1
 defeminizing 3
 distracting
 diagnosable 2
-dowsabel
+dowsabel 1
 diglucoside 5
 decontaminations 2
 doatish 3
