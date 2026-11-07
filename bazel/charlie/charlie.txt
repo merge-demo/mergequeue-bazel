@@ -29250,7 +29250,7 @@ cryptoagnostic 2
 coextended
 cynogenealogist
 cryptoanalysis
-cryptoanalytically 1
+cryptoanalytically 2
 cryptobranch 2
 cryptobranchia
 cryptobranchiata 1
@@ -31163,7 +31163,7 @@ cupidon 1
 corta
 cupiuba
 cupless
-cupman 1
+cupman 2
 cupolaed
 crushable
 cupolaing
