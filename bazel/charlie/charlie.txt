@@ -7619,7 +7619,7 @@ cerebropedal
 coppy
 cerebropsychosis
 calade 1
-coincidentally
+coincidentally 1
 cerebrosclerosis 1
 cerebroscope
 codewords
@@ -14531,7 +14531,7 @@ campout 3
 chaptalizing
 cnidophore
 cysted
-cysteinic
+cysteinic 1
 cysteins 1
 cyclolith 2
 cystelcosis 1
