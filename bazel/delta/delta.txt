@@ -459,7 +459,7 @@ disthrall 2
 daswen
 daytimes 1
 disburthen
-disaccharide 1
+disaccharide 2
 daywrit 2
 dakerhen 1
 designing 1
@@ -10319,7 +10319,7 @@ diophysite 2
 dealates 3
 darwinite 1
 diphthongic 1
-dunkling 2
+dunkling 3
 diosmin 1
 diabological
 decisive 5
