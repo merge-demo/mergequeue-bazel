@@ -9929,7 +9929,7 @@ epipterygoid 4
 exprimable 2
 euphuists 3
 embolisms
-estovers
+estovers 1
 estradiol 1
 electrothermics 3
 emphasis 2
@@ -12754,7 +12754,7 @@ enterococcal
 epistomian 2
 enfetters 1
 emarginula 6
-electroindustrial 3
+electroindustrial 4
 endoplasm 1
 eidos 1
 euhemeristically 1
