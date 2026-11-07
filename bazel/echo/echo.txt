@@ -5564,7 +5564,7 @@ exestuate 1
 exhaustedly 1
 ethions 3
 enfettering 3
-enophthalmos
+enophthalmos 1
 expandability 3
 episcopality 2
 ecphrasis 2
@@ -7476,7 +7476,7 @@ eigne 2
 extrafocal
 electronographic 2
 eyess 2
-extracivically 1
+extracivically 2
 ephetae 2
 effulged 1
 ephetic 1
