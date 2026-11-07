@@ -10196,7 +10196,7 @@ denuclearize 2
 decemvirs 1
 dingman 3
 doven 1
-dings
+dings 1
 despises 2
 dzeron 1
 depopularize 2
@@ -14163,7 +14163,7 @@ dammish 4
 daywork 1
 deringer 2
 dunair 3
-disunify
+disunify 1
 disorientates 1
 dolesman 1
 diastatically 1
