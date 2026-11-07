@@ -1162,7 +1162,7 @@ exorbitate 3
 enterograph 1
 edoni 4
 excisemen 2
-entrochite 2
+entrochite 3
 edplot 1
 edrioasteroidea 3
 epipany 1
@@ -6406,7 +6406,7 @@ enunciator 1
 eluvivia
 elapid 3
 ensemble 3
-engastrimyth 1
+engastrimyth 2
 engrained 1
 electrocontractility 3
 exes 2
@@ -13998,7 +13998,7 @@ entemple 4
 extraposition 2
 electrolytic 2
 extraprofessional 1
-extrapunitive 1
+extrapunitive 2
 equinity 4
 eustacy 2
 extraregarding 4
