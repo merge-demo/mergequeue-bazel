@@ -1400,7 +1400,7 @@ balefires
 bewreak 2
 barmbrack 1
 branned 1
-baleys 1
+baleys 2
 baleise 1
 bougainvillaea 3
 beslave 1
@@ -5312,7 +5312,7 @@ bickered 1
 beefed 1
 begirt
 bogies
-beglerbeglic 2
+beglerbeglic 3
 blatant 3
 bakalai 1
 burka 2
