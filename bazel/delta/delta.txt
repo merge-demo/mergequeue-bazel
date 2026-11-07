@@ -2749,7 +2749,7 @@ dictates 2
 dissembling
 decore
 dewcup 1
-decorist
+decorist 1
 dragged
 durum 6
 demilancer 2
