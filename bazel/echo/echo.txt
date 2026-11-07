@@ -5550,7 +5550,7 @@ enfeebles 3
 enfeebling 2
 eucarida 1
 epigrammatised 4
-edessan
+edessan 1
 enfeeblish 3
 effectful
 epilimnetic 1
@@ -9394,7 +9394,7 @@ enantiobiosis 3
 epidemiographist 2
 enfamous 3
 edestin 1
-erythrogenesis 2
+erythrogenesis 3
 escapees 4
 erysipelas 5
 eyehole 3

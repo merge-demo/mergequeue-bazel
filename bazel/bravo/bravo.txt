@@ -4781,7 +4781,7 @@ bibracteate 1
 billfold 2
 barbarize
 burking 3
-barrener
+barrener 1
 biotelemetry
 bracker 2
 brachylogy 1
@@ -12884,7 +12884,7 @@ bacciform 1
 boorishness 1
 bulldog
 bertrandite 2
-blondes 3
+blondes 4
 beauticians 2
 boost 3
 bromizes 2
