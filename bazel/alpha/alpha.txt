@@ -14356,7 +14356,7 @@ anodes
 apiaceous 2
 antireaction 1
 aniseikonia 2
-antholite 2
+antholite 3
 anthological
 anthologically 1
 anthologies
@@ -14551,7 +14551,7 @@ anthropomorphized 1
 anthropomorphology
 atta
 anthropomorphously 1
-arthrozoan 1
+arthrozoan 2
 abner
 anthroponomics
 anthroponomist
@@ -17930,7 +17930,7 @@ amblypod 1
 aliesterase 2
 alcoholist 1
 accubitus 2
-approaching 2
+approaching 3
 anemometer
 approbated 1
 anachronist 1
