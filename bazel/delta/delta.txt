@@ -3540,7 +3540,7 @@ defraying 2
 desaturate
 desiccated 1
 dagobas 4
-desmomyaria
+desmomyaria 1
 dufoil 2
 drapery 1
 drowsiest 1
