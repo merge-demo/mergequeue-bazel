@@ -7035,7 +7035,7 @@ despose 2
 deformed
 despotat 5
 demographer 2
-decede 2
+decede 3
 dissentiate 1
 destress 2
 dorje 6
@@ -9668,7 +9668,7 @@ diencephalons 2
 defiliation 1
 dillies 3
 dicerion 1
-definitive 2
+definitive 3
 devisee 3
 dika 1
 dotage
