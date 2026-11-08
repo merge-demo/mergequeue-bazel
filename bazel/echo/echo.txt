@@ -6877,7 +6877,7 @@ entomologist
 entomologize 2
 entrap 3
 entomologized 2
-enstatolite
+enstatolite 1
 exaugurate 1
 euryalidan 2
 expectative 2
@@ -12027,7 +12027,7 @@ escutellate 2
 exclusiveness 3
 effectuality 1
 enforceability 2
-enamelled 3
+enamelled 4
 epidialogue
 exclusivistic 3
 exclusivity 2
