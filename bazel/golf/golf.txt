@@ -2287,7 +2287,7 @@ genecologic 2
 glimpses 3
 granulocytopoiesis 1
 geitonogamy 1
-gonostyle
+gonostyle 1
 geomoroi 2
 grange 2
 granulosa 1
