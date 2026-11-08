@@ -1239,7 +1239,7 @@ blindedly 2
 barrowful 1
 bendy 4
 barleys 2
-bottomer 3
+bottomer 4
 brimmed 2
 bromochlorophenol 1
 bucketsful
@@ -1487,7 +1487,7 @@ boser
 bacteremia 5
 borstal 2
 bistable
-booked 2
+booked 3
 bedsick 3
 balladic 2
 balladised
@@ -9882,7 +9882,7 @@ baffed 2
 bismer 1
 blockers 2
 bewhisper 3
-bassinets 1
+bassinets 2
 biffin 2
 bitterer 3
 broth 1
