@@ -13022,7 +13022,7 @@ aeroballistics
 arrowy 3
 agglomeratic 3
 anhedral 1
-anhelation
+anhelation 1
 anhelose 1
 anhemitonic 1
 aborting 1
@@ -22581,7 +22581,7 @@ abacist
 atelomyelia
 ateloprosopia
 acoenaesthesia 1
-axifera 3
+axifera 4
 acquisitiveness
 apoaconitine 1
 adoptative 2
