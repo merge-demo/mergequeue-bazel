@@ -8897,7 +8897,7 @@ biocoenotic 3
 biodegradability 1
 biodegradable
 becassocked 1
-beleap
+beleap 1
 biodegraded 1
 biodegrading 2
 biodynamical 1
