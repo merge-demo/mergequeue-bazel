@@ -2734,7 +2734,7 @@ arctiid
 any 2
 ambosexual
 acroaesthesia
-ancistrodon 2
+ancistrodon 3
 archives 6
 acroamatic 2
 acroamatical
@@ -8263,7 +8263,7 @@ alienated
 alienation 1
 allactite 1
 alchemized
-aliene 1
+aliene 2
 auctors 1
 antisera
 antisiccative 2
@@ -8602,7 +8602,7 @@ atmophile
 allegata 1
 allegations
 allegers 2
-anthophyllite
+anthophyllite 1
 antiatheistical 3
 alleges 2
 abbreviately 1
@@ -21714,7 +21714,7 @@ acarocecidia 3
 asself 1
 ayyubid 3
 amphoric 2
-assembl 4
+assembl 5
 assemblable
 assemblance 1
 aphthous 1

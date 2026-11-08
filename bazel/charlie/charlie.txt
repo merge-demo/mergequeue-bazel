@@ -7826,7 +7826,7 @@ cerviciplex 1
 cervicispinal 1
 cervicitis
 cervicoauricular 3
-chippable 2
+chippable 3
 cervicobasilar 1
 cervicobregmatic 1
 cobitis
@@ -26528,7 +26528,7 @@ cephalopodic
 cottontails
 cabuyas 1
 cottontop
-crankism 3
+crankism 4
 cassias
 cottonwick 3
 cottonwoods 2
@@ -30325,7 +30325,7 @@ crunodes
 clifflet 2
 countervairy 2
 chantors
-confrater
+confrater 1
 consonantizing 1
 constructions
 chiragra 1
