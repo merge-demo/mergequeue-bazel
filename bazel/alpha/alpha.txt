@@ -8667,7 +8667,7 @@ alleyway 1
 alchitran
 abled 2
 attractancy 2
-anarchs
+anarchs 1
 andrite 1
 adjoins 1
 argyrythrose 1
@@ -10872,7 +10872,7 @@ ammocoetiform 1
 antischolastic
 ammoniuret
 archcozener 2
-antiproteolysis
+antiproteolysis 1
 argolian
 ammono 3
 ammonoidea 1
