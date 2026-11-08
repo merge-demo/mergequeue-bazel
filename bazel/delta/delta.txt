@@ -1154,7 +1154,7 @@ dire
 distractingly 1
 dasiphora 1
 darren 2
-doubted 6
+doubted 7
 dombeya
 dasypod 1
 dispaint 2
@@ -4557,7 +4557,7 @@ disselboom 3
 drossiest 1
 demilitarizes 1
 demiliterate 4
-deflectional 2
+deflectional 3
 despotical 1
 demilustre
 diaskeuasis 1
@@ -4828,7 +4828,7 @@ donnot 2
 dermatome 2
 dialkylic 3
 demon 1
-dyspepsia 2
+dyspepsia 3
 delightsomely
 demonetise 1
 defenestrates 3
@@ -11681,7 +11681,7 @@ dendrolite 3
 denize 1
 disulfoton 2
 daffodowndillies 2
-discounters 3
+discounters 4
 dirks 3
 docketed 1
 djinny 1
@@ -13615,7 +13615,7 @@ disservices 2
 disserving 1
 displacer
 dissettle
-dissociality
+dissociality 1
 diagrydium 1
 dissever 2
 disseverment 2
@@ -15601,7 +15601,7 @@ decerning 1
 disconnections
 dissentaneousness
 digor 3
-doomsayer
+doomsayer 1
 doomsday 2
 diols
 decussating
@@ -18363,7 +18363,7 @@ diaphanoscope
 decency 2
 desecrating 2
 duodenoenterostomy 2
-dreamish 1
+dreamish 2
 dorse 1
 demulcent 2
 denudative 2
