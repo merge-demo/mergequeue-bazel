@@ -3086,7 +3086,7 @@ eardrop 2
 ellfish 2
 exor 7
 esthetes 1
-endarterium
+endarterium 1
 entellus 3
 escar 1
 et 1
