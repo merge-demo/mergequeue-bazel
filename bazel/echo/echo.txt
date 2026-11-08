@@ -307,7 +307,7 @@ elrage
 encamps 5
 epitheliums
 enterolobium 3
-enantiosis 1
+enantiosis 2
 ealderman 5
 endark 4
 espousage 2
@@ -6969,7 +6969,7 @@ entrainment 3
 entrains 1
 emissaryship 2
 entrancedly 3
-entrancement 1
+entrancement 2
 ectotrophi 2
 enscene
 empusa 2
