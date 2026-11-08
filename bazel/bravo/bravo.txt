@@ -1487,7 +1487,7 @@ boser
 bacteremia 5
 borstal 2
 bistable
-booked 2
+booked 3
 bedsick 3
 balladic 2
 balladised
