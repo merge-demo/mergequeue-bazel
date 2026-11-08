@@ -8751,7 +8751,7 @@ colonises 2
 chapelry 1
 combflower 2
 chapelries
-cinerins
+cinerins 1
 chapels
 chapelward 1
 chaperno 1
