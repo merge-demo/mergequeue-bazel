@@ -8346,7 +8346,7 @@ apocrypha 2
 alcippe 2
 aneurysm 3
 amini 2
-archdapifer 2
+archdapifer 3
 ayield 1
 agricultor 1
 amacrine 2
@@ -13383,7 +13383,7 @@ annalistic
 antiinflammatory 2
 ankylodontia 1
 assumption 1
-ankyloglossia
+ankyloglossia 1
 auditress 1
 ankylopodia
 alamiqui 2
