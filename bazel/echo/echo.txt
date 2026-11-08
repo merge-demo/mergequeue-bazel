@@ -6667,7 +6667,7 @@ enuring
 exhedrae 4
 enterology 2
 epactal 2
-enterologic
+enterologic 1
 epanastrophe 5
 exhaled 7
 enteromegalia 2
@@ -8403,7 +8403,7 @@ ethylenation 1
 elroquite
 exindusiate 1
 epitrope 2
-exclusionism 2
+exclusionism 3
 epivalve 3
 elatcha 1
 equerries 1
@@ -9544,7 +9544,7 @@ eyesalve 3
 exannulate 1
 endosmotic 3
 ergastoplasmic 3
-enchytraeidae 3
+enchytraeidae 4
 emigree 2
 euchromatic 2
 emasculated 3
