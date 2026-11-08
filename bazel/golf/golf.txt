@@ -2704,7 +2704,7 @@ grippingly 4
 grabble 1
 gaud 3
 gestae 5
-genyophrynidae 5
+genyophrynidae 6
 geodesic 3
 gasolenes 2
 granularity 4
@@ -3012,7 +3012,7 @@ gorgoniacean 4
 gaps 2
 goatherdess 3
 guildsmen 3
-geomancy 3
+geomancy 4
 garnered 1
 grumbled 1
 glosser 1
@@ -4272,7 +4272,7 @@ gunshots 4
 gleamed 3
 gastroscope
 gangliated 2
-gibeonite 2
+gibeonite 3
 gasconism 3
 gynecological 3
 gramineousness 4
@@ -6334,7 +6334,7 @@ gobony 3
 gaily 3
 grail 3
 gobstopper 5
-goosenecked 4
+goosenecked 5
 gemots 3
 gametal 1
 gearings 6
