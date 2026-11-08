@@ -814,7 +814,7 @@ cayenne 2
 cucurbits 2
 cooption
 completes 1
-cytophagy
+cytophagy 1
 cayenned
 contouring 1
 cerberus
