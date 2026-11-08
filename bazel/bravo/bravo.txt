@@ -1757,7 +1757,7 @@ brittled
 boothes 2
 bamalip 1
 basswood 4
-bamban 2
+bamban 3
 bambochade
 bosuns 3
 bamboozles 4
@@ -16337,7 +16337,7 @@ bocces
 brownwort
 biovular 3
 beflower 3
-bowels
+bowels 1
 broadswords 1
 bicarb 2
 bleatingly
