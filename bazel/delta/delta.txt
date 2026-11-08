@@ -2885,7 +2885,7 @@ doloroso 2
 daedalist
 devotions 1
 drepanis 1
-deuteroscopic 4
+deuteroscopic 5
 discernment
 deluded 2
 dronet 1
@@ -4198,7 +4198,7 @@ deloo
 deloul
 decocted 1
 dibbers 2
-deloused 5
+deloused 6
 dribs 1
 decimal 8
 deodorisation 2
@@ -4217,7 +4217,7 @@ delphin 2
 doeskin 3
 drabbish
 delphine
-despiritualization 1
+despiritualization 2
 diarrhetic 1
 delphinia 4
 downthrust
@@ -8699,7 +8699,7 @@ dodges
 druid
 deoxyribose 2
 dismayed 3
-diphtherotoxin 2
+diphtherotoxin 3
 dolesomely
 dehumanized 1
 diastoles 4
@@ -10342,7 +10342,7 @@ downtrends 1
 delightsomeness 1
 discophore
 dioptra 4
-depurative
+depurative 1
 demove 3
 dioptric 2
 dioptrical
