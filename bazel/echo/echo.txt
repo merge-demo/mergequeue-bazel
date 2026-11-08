@@ -2267,7 +2267,7 @@ exla 3
 electret
 electrets 2
 esophagogastrostomy 2
-exploitive 2
+exploitive 3
 electrically 4
 extensometer 2
 enciente 3
@@ -6686,7 +6686,7 @@ enthalpies 1
 excusers
 enarthrodial 1
 enterorrhagia
-enterorrhaphy 3
+enterorrhaphy 4
 enhalo 4
 eutychianism 2
 enkindler 2
