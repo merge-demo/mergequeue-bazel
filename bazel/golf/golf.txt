@@ -2549,7 +2549,7 @@ geothermal 3
 gilliver 2
 glusid 4
 gapeseeds 2
-gweduc
+gweduc 1
 generalistic 3
 gaudier 4
 glen 7
@@ -4426,7 +4426,7 @@ gorgoneum
 guestling 3
 gutted
 ghaut 1
-gluer 2
+gluer 3
 graces 5
 griffinage 2
 gynodioecious 3

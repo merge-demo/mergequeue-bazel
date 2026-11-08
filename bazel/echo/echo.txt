@@ -2485,7 +2485,7 @@ endows 1
 eupolyzoa 4
 eleve 2
 exegete 2
-ellipsoids 2
+ellipsoids 3
 eurythmical 3
 enstatite 4
 electrogasdynamics
@@ -11773,7 +11773,7 @@ exampling
 echeneididae 4
 exanthems 3
 eyelast 4
-esquireship 2
+esquireship 3
 ericetum 2
 excorticating 2
 exappendiculate 2
