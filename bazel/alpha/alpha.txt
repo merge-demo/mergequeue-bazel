@@ -4692,7 +4692,7 @@ alismaceae
 apneal 2
 agmatology 2
 areola
-aegicrania 1
+aegicrania 2
 aegilops 2
 abolishing 1
 aegina 1
@@ -9683,7 +9683,7 @@ absenting 2
 antespring 1
 autecologic 1
 antedated
-alopecist
+alopecist 1
 alur
 astrophotography 1
 abature 1
