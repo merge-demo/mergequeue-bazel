@@ -506,7 +506,7 @@ gluconokinase 2
 geomorphology
 gisement 3
 gratuity 4
-geographic 3
+geographic 4
 gruffing 3
 geologers 4
 graff 5
@@ -2659,7 +2659,7 @@ grangerisation 4
 gloriosity 2
 gangliectomy 2
 gourde 2
-gervas 2
+gervas 3
 gardening 2
 gynophagite 7
 gardeviance 1

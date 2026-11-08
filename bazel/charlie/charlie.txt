@@ -11445,7 +11445,7 @@ ceryl
 cannelloni
 chocho
 chockablock 1
-casuary
+casuary 1
 county 3
 chronicler 1
 chocking 1
@@ -19961,7 +19961,7 @@ cofferlike
 commandry 2
 cachinnated
 caudata
-commark 3
+commark 4
 croupal 1
 coinheres 2
 conjectural 2
