@@ -11501,7 +11501,7 @@ bispore 1
 bethwack 2
 bombload 5
 blumes 3
-benighting 2
+benighting 3
 blunderbuss 2
 borasqueborate 3
 blunderbusses 2
