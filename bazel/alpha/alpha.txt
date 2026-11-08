@@ -8611,7 +8611,7 @@ aspiringness 1
 anta 4
 allegiance 1
 allegiancy
-admonitor
+admonitor 1
 apodeipna
 apoharmine 1
 aqueduct 1
