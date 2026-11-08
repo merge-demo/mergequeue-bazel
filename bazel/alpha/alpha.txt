@@ -4735,7 +4735,7 @@ annotater 3
 alveolarly
 ambrotype 2
 aeolist
-aeolus
+aeolus 1
 anacrustically 2
 aeonicaeonist
 aeonist 3
