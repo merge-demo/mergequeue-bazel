@@ -10872,7 +10872,7 @@ ammocoetiform 1
 antischolastic
 ammoniuret
 archcozener 2
-antiproteolysis
+antiproteolysis 1
 argolian
 ammono 3
 ammonoidea 1
@@ -12054,7 +12054,7 @@ antimachination 1
 amphitheatrically 2
 acromiohyoid 3
 attributable
-arvicoline 1
+arvicoline 2
 anaspides
 abducent
 alpenhorns 1
@@ -18442,7 +18442,7 @@ adventry 2
 abrenunciation 2
 arbela 1
 adeline 2
-aliyas 3
+aliyas 4
 antipendium
 antitussive
 arber 2
