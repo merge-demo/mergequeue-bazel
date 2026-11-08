@@ -8611,7 +8611,7 @@ aspiringness 1
 anta 4
 allegiance 1
 allegiancy
-admonitor
+admonitor 1
 apodeipna
 apoharmine 1
 aqueduct 1
@@ -10151,7 +10151,7 @@ arboraceous 1
 ambrosiaceae 1
 adoptabilities 3
 ambrosias 1
-argine
+argine 1
 ambrosiate
 affords
 altarwise
