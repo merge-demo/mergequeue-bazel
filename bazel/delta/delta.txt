@@ -2453,7 +2453,7 @@ dissipable 2
 dietetist 2
 dolently 4
 designs
-decyne
+decyne 1
 drydenian
 diaeresis 1
 decipherability 2
@@ -13233,7 +13233,7 @@ demythologise
 dahms 1
 disponent
 doges 4
-downloadable 2
+downloadable 3
 disserved 1
 disponge
 diacetate 2
