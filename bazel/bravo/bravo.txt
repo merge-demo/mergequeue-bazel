@@ -1525,7 +1525,7 @@ bouton 1
 backsword 3
 ballastic 2
 ballata 2
-brisked 1
+brisked 2
 batikulin 1
 ballatoon 1
 broiden 3
@@ -13683,7 +13683,7 @@ bourgeons 2
 bourignian 1
 bragas 2
 blanketmaker 7
-branched 7
+branched 8
 behaviourism 1
 balanceman 5
 blenchers 1
@@ -13935,7 +13935,7 @@ boxful 1
 blackboys 1
 bleed 1
 brussels 2
-bullring 2
+bullring 3
 boxhauled 3
 brierberry 2
 bundle 3
