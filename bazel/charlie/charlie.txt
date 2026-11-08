@@ -8882,7 +8882,7 @@ cerned
 contraposaune
 characters 2
 chasmogamy 1
-companiable
+companiable 1
 cycads 4
 charadrii
 compendiousness
@@ -27220,7 +27220,7 @@ countervallation 2
 countervalue
 coxarthrocace 1
 countervenom 2
-countervibration
+countervibration 1
 countervindication 2
 countervolley 3
 chymiferous 2
