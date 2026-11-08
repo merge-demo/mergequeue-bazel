@@ -3686,7 +3686,7 @@ gametes 2
 gutturotetany 2
 gory 4
 ghost 2
-gnathonism
+gnathonism 1
 gasoliner 1
 glyceral 2
 guardstone 2
@@ -5383,7 +5383,7 @@ gammadion 5
 gliddery 1
 gloaters 3
 gemmary 3
-gritrock 5
+gritrock 6
 guiltless 4
 guacin 4
 gracelessly 7
@@ -8418,7 +8418,7 @@ gonoblastic 1
 goldonian 1
 glassweed 2
 gavottes 3
-gawked 3
+gawked 4
 grumphy 2
 greenbacker 5
 gauntree 1

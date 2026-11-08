@@ -524,7 +524,7 @@ electrosurgeries 1
 extraphenomenal 1
 estate
 entosphenal 2
-echeneidae 2
+echeneidae 3
 echevaria
 endobiotic 2
 endonucleolus 1
@@ -9796,7 +9796,7 @@ electroplate
 estable 3
 enchalice 1
 ervils 5
-establishable 3
+establishable 4
 eddyroot 2
 establishes 2
 elegiacal 3
@@ -11665,7 +11665,7 @@ endopolyploid 4
 exactness 3
 edeology 2
 exactors 1
-enterophthisis 3
+enterophthisis 4
 erotics 3
 electrophone 2
 equimomental 4
