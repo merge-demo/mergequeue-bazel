@@ -6962,7 +6962,7 @@ confects 2
 crystallizer
 cenesthetic
 cotyligerous
-cosinusoid
+cosinusoid 1
 cenizo
 codable 2
 cosmozoism
@@ -19980,7 +19980,7 @@ cheerily 1
 commeasurable 1
 commeasure 1
 commeasured 2
-commeddle
+commeddle 1
 commelina
 capers 3
 commem
@@ -20655,7 +20655,7 @@ collapsible 1
 converser
 complementary
 carty
-complementariness
+complementariness 1
 complementarity 3
 complemented 1
 calc 1
@@ -22561,7 +22561,7 @@ connatural
 connaturality 2
 cultelli 2
 connectibility 1
-cryptanalysis 1
+cryptanalysis 2
 connaturalize 2
 chg 2
 cosech 3

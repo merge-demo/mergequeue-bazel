@@ -3867,7 +3867,7 @@ backaches 4
 belvidere 1
 bedaggered 1
 breastless 1
-benzoate 1
+benzoate 2
 bristlemouth 1
 birthbed 3
 butterers
@@ -7886,7 +7886,7 @@ bituminisation 4
 bibbons
 browser 1
 blanketry 1
-btu
+btu 1
 bibliophagous
 budgetary 2
 boscages 1
@@ -9817,7 +9817,7 @@ brennschluss 1
 bullyable 4
 barbing
 brands 2
-begums 2
+begums 3
 bites 2
 birefringent 2
 bebat
@@ -10501,7 +10501,7 @@ burin 1
 blastomyces
 bainie 2
 blastomycete
-benignities 1
+benignities 2
 beadsmen 2
 blastoneuropore 2
 bombinate
