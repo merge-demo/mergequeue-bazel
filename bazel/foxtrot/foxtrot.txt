@@ -3711,7 +3711,7 @@ fathead 5
 firesider 1
 franchisal 4
 flannelboard 1
-folder
+folder 1
 fillable 2
 frownless 3
 fiercen 3
@@ -8364,7 +8364,7 @@ forking 1
 flaveria 2
 forkless 3
 freedoms 4
-formicative 1
+formicative 2
 forklift 2
 flebile 2
 forklike 1
