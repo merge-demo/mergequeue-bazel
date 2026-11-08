@@ -2189,7 +2189,7 @@ goldfinches 2
 glistening 2
 gebbie 3
 guardians 2
-gecarcinian 2
+gecarcinian 3
 greasepaint 4
 gecarcinidae 2
 gynaecologist 3
@@ -3931,7 +3931,7 @@ glamorously 6
 galleried 4
 gisla 3
 guidance 3
-ghat 5
+ghat 6
 geomorphy 2
 gnoff 1
 gladatorial 1
@@ -6770,7 +6770,7 @@ glycogens 1
 gaolers 4
 glaireous 6
 gobleted 5
-graybeards 4
+graybeards 5
 ganev 5
 garvanzo 4
 ganocephala 4
@@ -7160,7 +7160,7 @@ gabbros 1
 glistering 3
 geometrise
 guans 3
-gaffs 3
+gaffs 4
 glycid 4
 gauming 3
 gross 2
@@ -9325,7 +9325,7 @@ giggles 4
 gamesome
 gauffre
 gallipot 2
-gromia 1
+gromia 2
 gerundially 5
 gigantostracan 2
 grinder 1
@@ -9344,7 +9344,7 @@ governability 4
 griffs
 gruf 1
 geophila 1
-graduate 3
+graduate 4
 galleasses 3
 goliad 7
 gunnysacks 2
@@ -10506,7 +10506,7 @@ gnome 2
 graveman 1
 gonocytes 2
 genuineness 2
-grecized 3
+grecized 4
 goggles 3
 giftling 1
 greenbacks 1
