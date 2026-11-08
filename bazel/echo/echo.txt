@@ -2831,7 +2831,7 @@ externalness 1
 eater
 epiclesis 1
 eleoptene 1
-embden 3
+embden 4
 endomastoiditis 1
 erratuta 1
 exostracize
@@ -3421,7 +3421,7 @@ ethnarchy 2
 enosises
 emetophobia 3
 ephoral 3
-erinize 2
+erinize 3
 embassadress 2
 exumbral
 elaine 1
@@ -8790,7 +8790,7 @@ epistolise 4
 etherized
 eurylaimi 4
 expedients 2
-extime 2
+extime 3
 enterozoan 2
 el
 ectoskeleton 4
@@ -13440,7 +13440,7 @@ exencephalous 2
 epoch 3
 endocranial 4
 euprepia
-embolomerous 2
+embolomerous 3
 echinosphaeritidae 1
 expropriable 3
 endome 5

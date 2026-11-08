@@ -1632,7 +1632,7 @@ gaucheness 5
 glassteel 2
 gravitational
 grimly 4
-grimines 5
+grimines 6
 glibness 1
 gastricism 2
 glycolipid 2
@@ -7713,7 +7713,7 @@ grizzliest
 goldworker 3
 gamins 1
 grouf
-glueing 3
+glueing 4
 grewsome 2
 gelations 1
 gos 2
