@@ -13576,7 +13576,7 @@ cymbidium 2
 catchpollery 1
 copartner 2
 chignons
-cymbocephalous 1
+cymbocephalous 2
 convectional 2
 cymbopogon
 carbuncles
@@ -14623,7 +14623,7 @@ cystonectae
 cystoneuralgia
 csi 1
 customarily
-cholochrome
+cholochrome 1
 campodeiform
 cystophora 1
 calumet
@@ -20687,7 +20687,7 @@ controversially
 completive 1
 completively
 cheiragra
-clunist
+clunist 1
 cneoraceous 1
 criance 1
 communes
@@ -27310,7 +27310,7 @@ chelifer 2
 cremates 2
 cattiness
 coupon
-cornbrash
+cornbrash 1
 cowal 1
 concatenating
 couponless 1

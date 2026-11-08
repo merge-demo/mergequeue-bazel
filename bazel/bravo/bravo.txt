@@ -10964,7 +10964,7 @@ besmudges
 branchiostegous 4
 bucketshop 1
 birdcatcher 1
-blissful 4
+blissful 5
 bughead 3
 bookcase 3
 blissom 1
@@ -13469,7 +13469,7 @@ bottlestone
 bottling 1
 blemishes 1
 borstall 4
-baronethood 1
+baronethood 2
 bottomers 1
 bottoming 3
 betweenness 1
@@ -16288,7 +16288,7 @@ brinjaul 1
 bottlehead
 browzer 1
 bombycid 1
-biennial
+biennial 1
 brr 3
 bullhead 1
 bridgemen 3
