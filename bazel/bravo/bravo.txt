@@ -7064,7 +7064,7 @@ bannerette 1
 briquetting
 bespeak 1
 bodyless 2
-biggings
+biggings 1
 bimorphs 1
 bushing 1
 bespeaking
