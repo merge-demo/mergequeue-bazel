@@ -9306,7 +9306,7 @@ chauffer 2
 chauffeured
 calothrix
 crankplate 1
-chauffeurship
+chauffeurship 1
 chauffeuse 1
 civy
 carcoon 3
