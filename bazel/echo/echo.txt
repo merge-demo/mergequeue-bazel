@@ -3858,7 +3858,7 @@ eodiscid 1
 entreasured 4
 emerizing 1
 engrieve 1
-emerods
+emerods 1
 epitomator 1
 emersed
 estivator 2
@@ -11627,7 +11627,7 @@ ethnocentricity 1
 empoison 2
 exclosure
 emollition 5
-eyedroppers 3
+eyedroppers 4
 exacerbates 3
 empaneled 4
 enhances 2

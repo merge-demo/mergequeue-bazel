@@ -14452,7 +14452,7 @@ disruptment 1
 diverticulitis
 diverticulosis
 dacyorrhea 2
-decarbonizer 2
+decarbonizer 3
 discomforting
 divertimenti 1
 divertimento 1
@@ -14818,7 +14818,7 @@ defensive 1
 deservingly 1
 doctorfishes 2
 decomponible 3
-demagogic
+demagogic 1
 doctorhood 1
 diethylenediamine 5
 doctorial 3
