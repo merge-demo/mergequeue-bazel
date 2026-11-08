@@ -11501,7 +11501,7 @@ bispore 1
 bethwack 2
 bombload 5
 blumes 3
-benighting 2
+benighting 3
 blunderbuss 2
 borasqueborate 3
 blunderbusses 2
@@ -14492,7 +14492,7 @@ bolson 2
 biblicist 3
 bridgings 3
 brachycranic
-bradyspermatism
+bradyspermatism 1
 bramia
 brissotin 3
 bonetail
