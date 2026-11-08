@@ -4085,7 +4085,7 @@ elve 3
 eucrasy 1
 eutherian 2
 ethylbenzene 2
-ecthymata
+ecthymata 1
 euthymy
 esthetophore 5
 emboil 3
@@ -4921,7 +4921,7 @@ ef 1
 encumbrance 5
 extrabureau 1
 english 3
-erythroneocytosis 1
+erythroneocytosis 2
 evolves 2
 ephyrula
 eyednesses 5
@@ -9865,7 +9865,7 @@ exhibitionistic 3
 eucalyptian 1
 expedite 2
 expletiveness 5
-eupepsy 1
+eupepsy 2
 erostrate 3
 experimentalize 1
 epeeists 2
