@@ -9095,7 +9095,7 @@ charre
 charred 1
 charrette 2
 consenescence 1
-charrier
+charrier 1
 charriest
 charro
 concional 2
@@ -29354,7 +29354,7 @@ cryptoneurous
 correctitude 1
 casina 1
 cryptonymous 1
-cryptoperthite 3
+cryptoperthite 4
 capillariomotor
 ctenii 2
 cryptophagidae 2
