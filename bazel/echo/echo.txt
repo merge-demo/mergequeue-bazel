@@ -2267,7 +2267,7 @@ exla 3
 electret
 electrets 2
 esophagogastrostomy 2
-exploitive 2
+exploitive 3
 electrically 4
 extensometer 2
 enciente 3
