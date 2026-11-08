@@ -9423,7 +9423,7 @@ fliers
 foodstuff 3
 foreteeth 2
 frary 2
-flouriness 1
+flouriness 2
 frolicly 2
 forlore 1
 frescoer 3
