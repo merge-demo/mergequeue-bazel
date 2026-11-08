@@ -435,7 +435,7 @@ backscraper
 backset 2
 basename 2
 bernie
-brushless 2
+brushless 3
 brinjaree 2
 betowered
 butanal 3
@@ -14348,7 +14348,7 @@ bray 3
 bluey
 braided 1
 bovoid 1
-binomen 2
+binomen 3
 burstones 1
 bizone
 braidist 1
