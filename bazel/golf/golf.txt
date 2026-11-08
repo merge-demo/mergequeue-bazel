@@ -4554,7 +4554,7 @@ germinable 3
 gummed 1
 gainpain 1
 glabrousness 2
-genocidal
+genocidal 1
 grademark 7
 gnarred 4
 girder 5
