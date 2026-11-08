@@ -8870,7 +8870,7 @@ dovens 4
 dibstone
 degustation
 doziness 2
-depthwise
+depthwise 1
 diffeomorphism 2
 debituminize 3
 deflexure 3
