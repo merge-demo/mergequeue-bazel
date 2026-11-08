@@ -770,7 +770,7 @@ foliicolous 2
 forestaff 1
 fragrance 3
 fallows 3
-fandangos 2
+fandangos 3
 fandoms 4
 frivolized 2
 fellowlike
@@ -975,7 +975,7 @@ flannelmouth 1
 foxhound 3
 fusion 1
 fardelet 5
-futtah 1
+futtah 2
 fleshhood 2
 famelic 2
 friarbird 3
@@ -4938,7 +4938,7 @@ formly 3
 fchar 5
 fluidised 3
 foining 2
-fluoresced
+fluoresced 1
 forsooth 6
 foppishly 5
 fourteens 3
