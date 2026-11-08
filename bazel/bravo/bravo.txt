@@ -1184,7 +1184,7 @@ brawliest 1
 breth 2
 beanfest 1
 baked 3
-blepharydatis 3
+blepharydatis 4
 bibliothetic 2
 bakelite 2
 bakemeats 1
@@ -11628,7 +11628,7 @@ bacterioscopical 2
 barspoon 2
 boatbuilding 1
 boathook 1
-boathouse 1
+boathouse 2
 backbends 1
 boffos 3
 blacketeer
