@@ -2205,7 +2205,7 @@ barba 2
 bayards 1
 boneheadedness 1
 baptize 3
-bromize
+bromize 1
 barbados 1
 broggle 1
 blobs 1
@@ -10052,7 +10052,7 @@ brings 2
 bellpulls 1
 backfired 1
 bugbanes 3
-backwatered 1
+backwatered 2
 bizygomatic 2
 boarhound 1
 bokos 2
@@ -17263,7 +17263,7 @@ bootlaces 4
 bacterioblast 1
 bumbling
 bumbo
-begum 2
+begum 3
 blueball 1
 bumboat 2
 bumclock 3
