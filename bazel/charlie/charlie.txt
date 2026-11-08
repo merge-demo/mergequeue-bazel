@@ -4280,7 +4280,7 @@ caretaking
 chastisers 1
 chondrosteous 1
 caretook
-comfiest 3
+comfiest 4
 carets
 caretta
 careworn
@@ -30346,7 +30346,7 @@ crurogenital
 cruroinguinal
 coadventuress
 cabaretier
-crurotarsal
+crurotarsal 1
 crus
 champed 1
 chocolatier
