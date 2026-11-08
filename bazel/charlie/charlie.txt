@@ -2997,7 +2997,7 @@ cantilevered 1
 cantilevers 1
 cantily
 codenization 1
-cantina 2
+cantina 3
 canting
 cantingly
 cousins 2
@@ -25118,7 +25118,7 @@ chirotherium 1
 coinstantaneous
 corequisite 1
 corer
-combinantive 2
+combinantive 3
 corers
 cores
 carbonates 2
@@ -27653,7 +27653,7 @@ crenellate
 cowcatchers
 cancelling 1
 congener 1
-codhead 1
+codhead 2
 cowed 5
 cowered 2
 cowerers 2
@@ -27913,7 +27913,7 @@ coelostat 1
 cracker
 coenobium 2
 correal 3
-cionoptosis 1
+cionoptosis 2
 crackerjacks 1
 crackers 3
 cradlemaking 1
