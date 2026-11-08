@@ -9306,7 +9306,7 @@ chauffer 2
 chauffeured
 calothrix
 crankplate 1
-chauffeurship
+chauffeurship 1
 chauffeuse 1
 civy
 carcoon 3
@@ -30908,7 +30908,7 @@ cultisms 1
 cultistic
 checkerbreast 3
 cultivability
-cosuggestion
+cosuggestion 1
 csc 1
 cenozoic 1
 cultivate
