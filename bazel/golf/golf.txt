@@ -8736,7 +8736,7 @@ geraniaceous 3
 gismo 5
 groundenell 2
 grubby 5
-gambit 4
+gambit 5
 glucosuric 2
 garrets
 games
@@ -10842,7 +10842,7 @@ gyrograph 2
 guttar 1
 guaiacum 3
 guzul 3
-genotypical
+genotypical 1
 gasworker 1
 grailer 3
 geason 2
