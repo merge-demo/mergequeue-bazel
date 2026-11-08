@@ -3698,7 +3698,7 @@ batterie 3
 breck
 batterman 3
 bullockman 3
-bindlet 1
+bindlet 2
 bepinch
 baylike 4
 batty
