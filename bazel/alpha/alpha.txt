@@ -7692,7 +7692,7 @@ adaw 1
 alcoholize 1
 alcoholmeter 2
 airmass 1
-anemogram 2
+anemogram 3
 alcoholmetric
 acroter
 abaissed 2
