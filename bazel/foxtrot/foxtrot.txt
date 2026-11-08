@@ -6869,7 +6869,7 @@ fattiest 2
 farewell 2
 fiery 1
 flasks 1
-friability 2
+friability 3
 flourished
 flioma 3
 folky 3
