@@ -10258,7 +10258,7 @@ dinus 1
 dermoskeleton 7
 distaste 1
 doura 2
-dutch 3
+dutch 4
 distruss 2
 decrepid
 denitrator
@@ -11662,7 +11662,7 @@ dipetalous 2
 distributution
 discorded 1
 discordous 2
-dotishness 1
+dotishness 2
 dialogged
 didest 2
 demiditone 5
