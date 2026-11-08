@@ -5792,7 +5792,7 @@ ashmen 1
 aggregational 2
 agastric 2
 awacs
-apickaback 1
+apickaback 2
 ancestor
 agate 2
 agates
@@ -10077,7 +10077,7 @@ atmology 3
 amblydactyla 2
 asymptomatically
 ammoniemia 3
-agarita 2
+agarita 3
 amblygonal 2
 allergology
 amblygonite 3
@@ -15242,7 +15242,7 @@ asparagine
 apicilar 1
 adarticulation
 antifowl 2
-arthrolite 1
+arthrolite 2
 adapa 1
 amalgamates 1
 antifreeze 2
