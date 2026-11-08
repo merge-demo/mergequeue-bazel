@@ -6325,7 +6325,7 @@ fiddlery 4
 fumatories 5
 fissipeda 1
 frags 3
-fluidity 1
+fluidity 2
 fuzzy 1
 flack 2
 futural 2
@@ -6924,7 +6924,7 @@ formeret 3
 filibusterous 1
 freeway
 finely 3
-foll 5
+foll 6
 facia 2
 fedarie 3
 fulgurite 3
@@ -10497,7 +10497,7 @@ formulatory 2
 fanman 1
 fittingly 4
 forays 2
-fids 2
+fids 3
 flyback 1
 frottola 1
 federalizations 2
