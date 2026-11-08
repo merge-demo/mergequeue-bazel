@@ -9637,7 +9637,7 @@ didacticity
 depass 5
 despot 2
 dihydroergotamine 2
-destructs 1
+destructs 2
 derogatorily 1
 diplexer 3
 dissight 2
