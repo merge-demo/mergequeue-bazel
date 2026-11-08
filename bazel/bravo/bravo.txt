@@ -13509,7 +13509,7 @@ brief 1
 brodequin 1
 bijouterie 3
 briquette 2
-bouch
+bouch 1
 blacksmith 1
 boucharde 2
 belime 1
