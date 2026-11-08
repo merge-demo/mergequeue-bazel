@@ -4260,7 +4260,7 @@ floridians 5
 fusarium 3
 flaxbird 2
 fax 2
-foreignize 1
+foreignize 2
 feverish 1
 fungose 2
 flatterers 2
@@ -4594,7 +4594,7 @@ fringilliformes 4
 foliages 1
 flunkyism 4
 fissidens 2
-fossilify 1
+fossilify 2
 fisheye 1
 fieldstone 5
 fistuca 3
