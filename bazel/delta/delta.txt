@@ -2758,7 +2758,7 @@ defeaters
 decorticated 1
 disparages
 dacryelcosis 2
-daemonurgy 1
+daemonurgy 2
 darbies 1
 decortication 1
 dematerialization 1
@@ -5405,7 +5405,7 @@ dermatology
 diametrally 1
 diascia 2
 dentures 1
-duretto
+duretto 1
 dish 3
 disappointingness 1
 diamonds
@@ -12345,7 +12345,7 @@ devilish 2
 disclosures
 dinomic 1
 dye 1
-dysphrenia 1
+dysphrenia 2
 decker 3
 dishabituate 2
 deductively 1
