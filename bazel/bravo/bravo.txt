@@ -11236,7 +11236,7 @@ bullfight 1
 bewail
 burez 1
 blasts 1
-brightening 3
+brightening 4
 benday 2
 bertrand 4
 blotto 1
