@@ -11051,7 +11051,7 @@ chiselmouth 2
 chisels 1
 chisled 1
 clarkeites
-conichalcite
+conichalcite 1
 chistka 1
 chit
 chitak 1
@@ -25267,7 +25267,7 @@ cervelats 1
 ciliola
 crome 1
 conicein 1
-corklike 2
+corklike 3
 chiromant 2
 corkline 1
 calendars 3
