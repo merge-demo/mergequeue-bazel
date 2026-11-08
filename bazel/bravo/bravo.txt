@@ -981,7 +981,7 @@ brogueful 2
 boohooed 1
 burnous 3
 boat 5
-bayamos
+bayamos 1
 brownier 3
 brigand
 bayano 4
@@ -6325,7 +6325,7 @@ benzanthracene
 boxboard 1
 bestowed 2
 bai 1
-balandra 3
+balandra 4
 bibs 1
 benzanthrone 1
 bifarious 1
@@ -15968,7 +15968,7 @@ bogsucker
 bufotenin 2
 brutish
 bronchocephalitis 2
-bronchoconstriction 1
+bronchoconstriction 2
 baptistries 4
 blennorrhagic 1
 benjy 1

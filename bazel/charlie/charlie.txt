@@ -15275,7 +15275,7 @@ clamorers 1
 clamorist
 caccagogue 2
 clamorous
-coquita 1
+coquita 2
 caimito 2
 chathamite 1
 cupmaking
@@ -30672,7 +30672,7 @@ cudden
 collis 7
 cuddy
 cuddie 1
-chuppoth
+chuppoth 1
 coprocessing 1
 cuddies 2
 cuddyhole

@@ -243,7 +243,7 @@ gabbles 2
 gestatorium 2
 germanomaniac 3
 golpe 4
-gulaman 2
+gulaman 3
 gaspereau 2
 gaiter 2
 goajiro 2
@@ -9378,7 +9378,7 @@ gobelin 1
 glaymore 5
 gelatinized 2
 geneserin
-graciosity 5
+graciosity 6
 galtonia 4
 geordie 1
 gadrooned 2
@@ -9800,7 +9800,7 @@ gumfield 4
 gitano 2
 glycidic 1
 grylle 4
-gonothecal
+gonothecal 1
 gobstick 4
 gewgaw 3
 gunneraceae 1
