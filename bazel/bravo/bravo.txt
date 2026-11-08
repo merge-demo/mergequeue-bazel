@@ -6723,7 +6723,7 @@ beshrouding 2
 brakesmen
 bushtit 2
 burrowers 3
-breadboxes 1
+breadboxes 2
 boredoms
 buhlwork 3
 bernacle 5
@@ -6909,7 +6909,7 @@ biplosive 4
 breediness 3
 betail 2
 baselessness 1
-betta 1
+betta 2
 becoward 2
 bargoose 1
 badder 1
