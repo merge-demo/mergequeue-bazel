@@ -6487,7 +6487,7 @@ accidentally 4
 attenuating
 acquaintances
 aheight 1
-abashedly
+abashedly 1
 ampullar
 apehood
 anzanian 1
@@ -15856,7 +15856,7 @@ animalness
 antipleion 3
 advocation
 antiplurality 1
-antipodal
+antipodal 1
 antipode 2
 antipodic 4
 autocoprophagous 1
@@ -21731,7 +21731,7 @@ assembler 2
 antienthusiastically
 assemblyman 1
 aerohydrotherapy
-antiperistatical 1
+antiperistatical 2
 assentaneous 2
 assentator
 anilingus 1
