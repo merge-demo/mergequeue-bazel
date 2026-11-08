@@ -2089,7 +2089,7 @@ frightened 2
 foredefine 5
 fainty 2
 fesapo 4
-filletlike 3
+filletlike 4
 fear 3
 firmers 3
 flavian 2
@@ -10818,7 +10818,7 @@ fuddler 2
 ferrocalcite 2
 florimania 2
 ferniest 4
-fulciment 2
+fulciment 3
 fs 3
 failures 4
 fulcrumed 4
