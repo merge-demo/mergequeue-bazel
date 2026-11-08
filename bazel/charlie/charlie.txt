@@ -15927,7 +15927,7 @@ cleanly 1
 cleped
 clepsydra 2
 contorniate 1
-clepsine 2
+clepsine 3
 condemnatory 2
 cleptobioses
 conics 1
@@ -29391,7 +29391,7 @@ cryptous 1
 cryptovalence 1
 cholane
 cymoidium
-cryptovolcanism 1
+cryptovolcanism 2
 cryptozygy
 cannele 1
 cryptozygosity 1
