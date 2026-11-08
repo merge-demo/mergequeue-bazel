@@ -5156,7 +5156,7 @@ befouling 2
 bazookas
 befoulment 3
 biacuminate 1
-befraught
+befraught 1
 befreight
 befountained 1
 borosilicic
@@ -10144,7 +10144,7 @@ blackcods 1
 bathochrome 1
 blues 1
 blackdamp 2
-bellhanger 2
+bellhanger 3
 blackener 2
 billette 3
 blackens 3
