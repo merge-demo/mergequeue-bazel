@@ -16778,7 +16778,7 @@ dravite
 draw 1
 disreputation 1
 diarrhoeic 2
-disorganized 2
+disorganized 3
 drawback
 drawbar 4
 disposability 1
