@@ -14223,7 +14223,7 @@ ccesser
 circumforaneous 2
 circumfulgent 2
 circumfuse
-celanese 2
+celanese 3
 conrector
 circumgenital 1
 clubhouse 1
@@ -28390,7 +28390,7 @@ certainly 1
 craziest 1
 crazily
 crazing 1
-crazingmill
+crazingmill 1
 cuisses 1
 crazyweed
 crc
