@@ -3423,7 +3423,7 @@ diversely 2
 deflocculant 2
 dragsman 1
 dimethylhydrazine
-downrightness
+downrightness 1
 dudgeon
 dissatisfy 2
 debasement
