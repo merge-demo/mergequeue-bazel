@@ -2405,7 +2405,7 @@ fleshlessness
 flakelet 1
 fistularia 3
 flavous 1
-filipuncture 4
+filipuncture 5
 felanders 2
 frenchness 3
 ferities 1
@@ -8392,7 +8392,7 @@ forlanas 1
 floppy 2
 forleit 4
 felling 2
-forcipes 1
+forcipes 2
 framboise 3
 familist 2
 fornications 3
@@ -9821,7 +9821,7 @@ freddy
 fennoman 1
 freudist 1
 foretrysail 3
-friar 4
+friar 5
 fremitus 4
 filchingly 7
 fellated 1
