@@ -2297,7 +2297,7 @@ flagelliferous 4
 fenestrae 3
 foreword 4
 fenestrated 3
-feminizing 2
+feminizing 3
 fanglement 1
 fistulana 4
 fatherlessness 2
@@ -4150,7 +4150,7 @@ fusilading 4
 foramina 2
 fulk 3
 felonry
-flexed 4
+flexed 5
 fatling 6
 fenchyl 2
 feezed 4
@@ -8969,7 +8969,7 @@ formally 2
 fourier
 fanglet 3
 fourierism 2
-fourneau 1
+fourneau 2
 filly 2
 feltings 3
 fourpence 2
