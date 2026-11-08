@@ -2605,7 +2605,7 @@ acquiescement 3
 aureation 1
 acquiescence
 acquiescency 1
-abacli 1
+abacli 2
 amygdalotomy 1
 accrescent 2
 atheist
@@ -21441,7 +21441,7 @@ artefact 1
 azarole 2
 antitegula 1
 authorish
-anosmias
+anosmias 1
 asperges 1
 aspergill 1
 aldern
