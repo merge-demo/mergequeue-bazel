@@ -6406,7 +6406,7 @@ breakup 3
 benzil 3
 banewort 1
 bibliothecaire 2
-benzopyrazolone
+benzopyrazolone 1
 barquentine 1
 benzopyrene 1
 benzopyrylium 1
