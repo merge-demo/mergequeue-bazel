@@ -13297,7 +13297,7 @@ cyclonite 1
 cyclonology 2
 cycloolefin
 consertal 1
-chirred 3
+chirred 4
 colob
 chrysophyll
 cycloolefine
@@ -15943,7 +15943,7 @@ clergy
 clergyable
 cotoneaster
 clergylike 1
-cyclos
+cyclos 1
 clergymen 1
 chandleries 1
 clergion
@@ -29111,7 +29111,7 @@ craniota
 commercialise 1
 carryover
 capered 1
-curine
+curine 1
 crinkled 2
 crinkly
 chloroacetate
