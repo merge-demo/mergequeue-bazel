@@ -1976,7 +1976,7 @@ glairs 3
 garnishments 2
 glamor 2
 gallamine
-gnomonical 1
+gnomonical 2
 gimbal 5
 geology 2
 geranic 3
@@ -8445,7 +8445,7 @@ gigas 2
 gravelroot 3
 gallstones 2
 gentisic 3
-goldbricks 2
+goldbricks 3
 glaciarium 1
 goonch 2
 gratuitant 3
