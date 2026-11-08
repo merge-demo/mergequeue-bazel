@@ -4250,7 +4250,7 @@ adposition 1
 acmispon
 azonium
 armorer 2
-alchornea 2
+alchornea 3
 aesculapius 2
 annoyful
 akhlame
@@ -19039,7 +19039,7 @@ archostegnosis
 availingly 1
 athetizing 1
 ammocoete 1
-archoverseer
+archoverseer 1
 archpall 1
 anana 3
 archphilosopher 1

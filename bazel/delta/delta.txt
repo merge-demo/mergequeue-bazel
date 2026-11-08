@@ -2111,7 +2111,7 @@ daintify
 doline
 diapasm
 daunts
-doab 2
+doab 3
 disinheritances 1
 duddies 3
 despoilment 2
@@ -2695,7 +2695,7 @@ digynous 3
 dudeens
 deconcentration 2
 decondition 1
-dicers 2
+dicers 3
 delightedness 4
 dialectics 1
 disuniter 3
