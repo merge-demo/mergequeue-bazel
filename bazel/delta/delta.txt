@@ -1573,7 +1573,7 @@ deady
 dominancy 2
 defilades 2
 deadish 1
-dysgenesic 3
+dysgenesic 4
 dhanush 1
 demand 2
 disposition
@@ -2145,7 +2145,7 @@ digitized 1
 demonianism
 detectors 1
 diabolology 1
-downtime
+downtime 1
 disturbs 1
 diosmosis 2
 decantist 3
@@ -10446,7 +10446,7 @@ doglegging
 disfigurative 3
 deticking
 diphenoxylate 1
-diphysite 2
+diphysite 3
 dosimeters
 damask
 discolith
@@ -11119,7 +11119,7 @@ disarticulation 3
 detruded 2
 disarticulator 1
 disasinize 2
-deliciously
+deliciously 1
 descriptors
 deaminated 1
 discographic
