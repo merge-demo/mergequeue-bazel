@@ -232,7 +232,7 @@ donees
 daftness 5
 dinnertime 2
 dorsula 2
-displanting
+displanting 1
 diff 2
 discrepencies 2
 duotoned
