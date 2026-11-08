@@ -5508,7 +5508,7 @@ endotheliomyxoma 2
 energize 1
 egging 1
 energizers 1
-eosinophilia
+eosinophilia 1
 elasmosaurus
 esterifiable 2
 epiploic
