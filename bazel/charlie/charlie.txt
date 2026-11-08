@@ -17907,7 +17907,7 @@ cephalanthus 3
 codswallop 3
 coueism 3
 channels
-coedit 1
+coedit 2
 chemotactically 1
 cowweed 1
 coediting
@@ -23543,7 +23543,7 @@ californite
 contignation
 contiguity 1
 circumferent 2
-continentalize 1
+continentalize 2
 continentals
 cochranea
 contingence 1
