@@ -9571,7 +9571,7 @@ aglets 1
 attackman
 amygdaloncus 4
 aworth 2
-accentuate
+accentuate 1
 atheism
 algorithmic 2
 autoionization
