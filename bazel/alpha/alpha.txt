@@ -13542,7 +13542,7 @@ anacardiaceae
 atwain
 allo
 announce
-anthropophagical
+anthropophagical 1
 announced
 agronomial
 astrophyllite 1
@@ -18766,7 +18766,7 @@ auctioneer 2
 autochthony
 amazons
 abolitionising 1
-anticancerous
+anticancerous 1
 adamas
 archegony 2
 albania 3
