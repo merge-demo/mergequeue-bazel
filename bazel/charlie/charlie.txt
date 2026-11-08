@@ -3813,7 +3813,7 @@ chorioid
 carbohydride
 carbohydrogen
 carboy 1
-celestes
+celestes 1
 carboys
 cyathoid
 carbolate
@@ -30574,7 +30574,7 @@ cyrtoceratite 2
 chipyard 1
 cubocalcaneal 1
 cuboctahedron
-cubocube
+cubocube 1
 cashboy 1
 crepidula 1
 cubocuneiform 3
