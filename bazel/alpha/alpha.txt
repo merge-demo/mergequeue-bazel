@@ -5971,7 +5971,7 @@ antiroll
 anatman 1
 aggrege 3
 allopathy 5
-amphigoric 1
+amphigoric 2
 appraisable
 anergia 2
 angulosplenial 1
@@ -7330,7 +7330,7 @@ albarco 2
 appliably
 albarelli
 autotriploidy
-ah
+ah 1
 anagogies 1
 alveolus 2
 antistadholderian 1
