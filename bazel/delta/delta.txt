@@ -1573,7 +1573,7 @@ deady
 dominancy 2
 defilades 2
 deadish 1
-dysgenesic 3
+dysgenesic 4
 dhanush 1
 demand 2
 disposition
@@ -11119,7 +11119,7 @@ disarticulation 3
 detruded 2
 disarticulator 1
 disasinize 2
-deliciously
+deliciously 1
 descriptors
 deaminated 1
 discographic
