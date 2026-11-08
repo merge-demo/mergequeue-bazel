@@ -18145,7 +18145,7 @@ collar 2
 centralistic
 coequates 1
 creepage 1
-coerce
+coerce 1
 coerced
 controversion 1
 combust 2
