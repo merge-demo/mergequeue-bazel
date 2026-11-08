@@ -7188,7 +7188,7 @@ eyedness 1
 elytroptosis 3
 eucharistize 2
 ecthymatous 2
-enwomb 5
+enwomb 6
 epharmonic 1
 emforth 1
 eryopsid 5
@@ -10030,7 +10030,7 @@ exempting 2
 equalist 1
 endocrinism 1
 endoperidial
-endogamous 1
+endogamous 2
 eterne 2
 endangerment 2
 escargots 2
@@ -11738,7 +11738,7 @@ examinant 3
 eschewer 5
 enscrolled 4
 examinatory 1
-estrepe
+estrepe 1
 endochrome 4
 encumbering 4
 equivocacies 2
