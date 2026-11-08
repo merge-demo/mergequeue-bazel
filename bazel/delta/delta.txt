@@ -2111,7 +2111,7 @@ daintify
 doline
 diapasm
 daunts
-doab 2
+doab 3
 disinheritances 1
 duddies 3
 despoilment 2
