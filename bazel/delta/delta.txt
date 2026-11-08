@@ -2111,7 +2111,7 @@ daintify
 doline
 diapasm
 daunts
-doab 2
+doab 3
 disinheritances 1
 duddies 3
 despoilment 2
@@ -13502,7 +13502,7 @@ dissatisfactions
 dissatisfiedly 2
 dustrag 1
 doubleleaf 4
-dinitrile 1
+dinitrile 2
 dysphoria 2
 destain 1
 deadwood 4
