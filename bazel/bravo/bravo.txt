@@ -2618,7 +2618,7 @@ balistarii 2
 belostoma 1
 bumpkinly
 broncs 2
-barkier 5
+barkier 6
 buttonhook 2
 bravery 1
 beduchess 2
@@ -9814,7 +9814,7 @@ brassica 1
 biters
 billed
 brennschluss 1
-bullyable 3
+bullyable 4
 barbing
 brands 2
 begums 2
@@ -11732,7 +11732,7 @@ bedamns 3
 brynza 1
 bajocian 3
 breton 7
-bajree 1
+bajree 2
 bobsledded
 berascal 1
 britoness 2
