@@ -1259,7 +1259,7 @@ devotement 2
 dating 4
 disaffirmative 1
 dothienenteritis 1
-devitalizing 2
+devitalizing 3
 diarrheal
 discovert
 datiscosid 1
@@ -6593,7 +6593,7 @@ dearie 2
 ditched 3
 desecrations 3
 devotary 1
-dhooti 2
+dhooti 3
 dubious
 delimits
 desegmentation 1
@@ -8870,7 +8870,7 @@ dovens 4
 dibstone
 degustation
 doziness 2
-depthwise
+depthwise 1
 diffeomorphism 2
 debituminize 3
 deflexure 3
