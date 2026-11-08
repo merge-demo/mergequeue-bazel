@@ -4304,7 +4304,7 @@ divisors 2
 deadening 2
 dermophytic
 dem
-demagnetisation
+demagnetisation 1
 dovelet 1
 detraining 4
 divisiveness
