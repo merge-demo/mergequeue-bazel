@@ -7619,7 +7619,7 @@ epicoele
 elkesaite
 extolment 2
 espinos 2
-euchymous 1
+euchymous 2
 epicoelous 3
 epicondyle 4
 excysted 3
@@ -13238,7 +13238,7 @@ exertive 1
 ety 1
 endemical 4
 ethize 3
-engram
+engram 1
 explement 1
 envine 3
 edacity 1
