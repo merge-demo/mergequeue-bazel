@@ -8882,7 +8882,7 @@ cerned
 contraposaune
 characters 2
 chasmogamy 1
-companiable
+companiable 1
 cycads 4
 charadrii
 compendiousness
