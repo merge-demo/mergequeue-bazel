@@ -3131,7 +3131,7 @@ biota 4
 blamingly 2
 boccis 1
 bodyshirt
-bifurcates 3
+bifurcates 4
 basihyal 3
 biuniquely 2
 basenesses 3
@@ -3698,7 +3698,7 @@ batterie 3
 breck
 batterman 3
 bullockman 3
-bindlet 1
+bindlet 2
 bepinch
 baylike 4
 batty
@@ -5115,7 +5115,7 @@ beflea 2
 brainier 1
 belching 1
 borderers 2
-boussingaultite 3
+boussingaultite 4
 bunrakus 1
 beflecked
 bebed 3
@@ -8170,7 +8170,7 @@ bathroom 2
 bienvenue 1
 benzotetrazine
 bayaderes 1
-burfish
+burfish 1
 bier 1
 broid 3
 baleens 4
