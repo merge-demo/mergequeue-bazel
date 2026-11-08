@@ -671,7 +671,7 @@ gallows 3
 gonitis 3
 giddify 3
 geoaesthesia 1
-gript 2
+gript 3
 giterne 1
 grapelet 6
 gelosine 3
@@ -1994,7 +1994,7 @@ gryphaea 1
 gams 2
 glyptical 3
 gaurian 2
-gasting
+gasting 1
 gaurie 3
 gaurs 5
 glamourous 2
