@@ -1805,7 +1805,7 @@ banatite 1
 becharm 2
 blackjacking 5
 billycans 2
-bancha 3
+bancha 4
 bivial
 beslime 4
 bullose 1
@@ -6406,7 +6406,7 @@ breakup 3
 benzil 3
 banewort 1
 bibliothecaire 2
-benzopyrazolone
+benzopyrazolone 1
 barquentine 1
 benzopyrene 1
 benzopyrylium 1
