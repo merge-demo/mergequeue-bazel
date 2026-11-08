@@ -6277,7 +6277,7 @@ fissiparation 6
 fortissimos 2
 footlock
 fluidmeter 2
-fearnought 2
+fearnought 3
 fakirism 1
 forceful 5
 fluidounce 6
@@ -8969,7 +8969,7 @@ formally 2
 fourier
 fanglet 3
 fourierism 2
-fourneau 1
+fourneau 2
 filly 2
 feltings 3
 fourpence 2
