@@ -2091,7 +2091,7 @@ campania
 cecils
 comdg
 crunchier 1
-campanile 1
+campanile 2
 colloquiquiums 2
 cyclist 1
 campaniliform 1
@@ -12246,7 +12246,7 @@ chrysosplenium
 chrysothrix
 chrysotile 1
 cheirospasm 2
-chrysotis
+chrysotis 1
 cinel
 chrissie
 cecotomy
@@ -23061,7 +23061,7 @@ consoude 2
 ceratosa 3
 consound 1
 conspecies 1
-crenotherapy
+crenotherapy 1
 cotula 3
 conspecific 1
 conspection 1
@@ -29101,7 +29101,7 @@ chlorometric 2
 captivating 1
 cervicobrachial 1
 criniculture
-castrensian 1
+castrensian 2
 clinally 1
 colipyelitis
 crinites 1
