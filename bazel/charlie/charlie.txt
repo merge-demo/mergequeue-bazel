@@ -11309,7 +11309,7 @@ consderations 2
 clairvoyantly 2
 candace 1
 chlorodizing 1
-cradlers 1
+cradlers 2
 chloroethene
 chlorofluorocarbon
 chlorofluoromethane
@@ -29371,7 +29371,7 @@ cryptopyic 1
 cambistry 2
 characterizers
 cantator 1
-concrement
+concrement 1
 cryptopyrrole
 catalogs
 cryptoproselyte
