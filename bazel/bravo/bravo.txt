@@ -3483,7 +3483,7 @@ bullaces 2
 batatas 2
 batavi 6
 ballan 1
-buzzsaw
+buzzsaw 1
 bidar 2
 biscuiting 3
 bugeye 3
@@ -13345,7 +13345,7 @@ benightedly
 brusquely
 bothersomely 3
 bothy
-beatings 1
+beatings 2
 basivertebral 1
 bothie 3
 bardesanist 1
@@ -18253,7 +18253,7 @@ bete 3
 bivouacs 1
 bordun 1
 backflip 1
-butterman
+butterman 1
 bootblacks 2
 buttermilk 3
 bastardy 1
