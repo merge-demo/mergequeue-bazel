@@ -1757,7 +1757,7 @@ brittled
 boothes 2
 bamalip 1
 basswood 4
-bamban 2
+bamban 3
 bambochade
 bosuns 3
 bamboozles 4
@@ -3483,7 +3483,7 @@ bullaces 2
 batatas 2
 batavi 6
 ballan 1
-buzzsaw
+buzzsaw 1
 bidar 2
 biscuiting 3
 bugeye 3
@@ -3867,7 +3867,7 @@ backaches 4
 belvidere 1
 bedaggered 1
 breastless 1
-benzoate 1
+benzoate 2
 bristlemouth 1
 birthbed 3
 butterers
@@ -7886,7 +7886,7 @@ bituminisation 4
 bibbons
 browser 1
 blanketry 1
-btu
+btu 1
 bibliophagous
 budgetary 2
 boscages 1
@@ -9817,7 +9817,7 @@ brennschluss 1
 bullyable 4
 barbing
 brands 2
-begums 2
+begums 3
 bites 2
 birefringent 2
 bebat
@@ -10501,7 +10501,7 @@ burin 1
 blastomyces
 bainie 2
 blastomycete
-benignities 1
+benignities 2
 beadsmen 2
 blastoneuropore 2
 bombinate
@@ -11425,7 +11425,7 @@ bedrail 1
 brattices 1
 baselessly
 butyraldehyde 1
-beclowns 2
+beclowns 3
 barad 2
 babuma
 boatheader 3
@@ -13345,7 +13345,7 @@ benightedly
 brusquely
 bothersomely 3
 bothy
-beatings 1
+beatings 2
 basivertebral 1
 bothie 3
 bardesanist 1
@@ -16337,7 +16337,7 @@ bocces
 brownwort
 biovular 3
 beflower 3
-bowels
+bowels 1
 broadswords 1
 bicarb 2
 bleatingly
@@ -18253,7 +18253,7 @@ bete 3
 bivouacs 1
 bordun 1
 backflip 1
-butterman
+butterman 1
 bootblacks 2
 buttermilk 3
 bastardy 1
