@@ -3483,7 +3483,7 @@ bullaces 2
 batatas 2
 batavi 6
 ballan 1
-buzzsaw
+buzzsaw 1
 bidar 2
 biscuiting 3
 bugeye 3
@@ -7788,7 +7788,7 @@ bluings
 bezzling 1
 biasedly 2
 bargemaster 4
-biography 3
+biography 4
 blessedest
 ballasts
 burrow
@@ -12349,7 +12349,7 @@ beefsteaks 1
 bobfly 2
 brimful
 broideries 2
-bathyplankton
+bathyplankton 1
 bombing 2
 beautifies 1
 buttoned 1
