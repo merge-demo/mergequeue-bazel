@@ -13731,7 +13731,7 @@ aythya 1
 anomodontia 1
 anomoeomery 2
 anticommercially 2
-anomophyllous 1
+anomophyllous 2
 anaerobic
 anomouran 1
 anomphalous 1
@@ -23298,7 +23298,7 @@ archicerebra
 aurorium 1
 attributions 2
 attributively
-attributor
+attributor 1
 ammonias 1
 attrite
 attrited 1
