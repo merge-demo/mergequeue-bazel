@@ -12777,7 +12777,7 @@ enmask 2
 exorcizer 4
 epiceratodus 2
 exordium 2
-engold 1
+engold 2
 exotism 1
 earlike 1
 elsewise 2
