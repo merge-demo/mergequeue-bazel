@@ -482,7 +482,7 @@ fuseau 4
 fakeer 4
 fissiparism 3
 fretting 1
-featherleaf 2
+featherleaf 3
 fetiferous 2
 fullbacks 2
 foremastman 1
@@ -9679,7 +9679,7 @@ formulating 3
 facty 3
 femoral 4
 fingerroot 1
-functorial 3
+functorial 4
 filch 4
 filosofe 1
 fanit 3
