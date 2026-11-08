@@ -3701,7 +3701,7 @@ garrisonism 1
 gallinae 6
 gnathite 3
 goalmouth 3
-gyrencephalic 3
+gyrencephalic 4
 ghostier 3
 galah 5
 geodetically 3
@@ -6709,7 +6709,7 @@ grattage 1
 gewgawed 2
 growse 1
 grittle 4
-gardenize 2
+gardenize 3
 goosey 4
 goup 4
 gypsine 2
@@ -9049,7 +9049,7 @@ gomasta 1
 gothlander 2
 gramophonical 1
 grateful 2
-granulomatous
+granulomatous 1
 gyrates 2
 gnatcatcher 4
 girasole 3
