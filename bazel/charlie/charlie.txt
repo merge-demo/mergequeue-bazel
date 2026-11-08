@@ -3813,7 +3813,7 @@ chorioid
 carbohydride
 carbohydrogen
 carboy 1
-celestes
+celestes 1
 carboys
 cyathoid
 carbolate
