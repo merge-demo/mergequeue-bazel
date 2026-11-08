@@ -5271,7 +5271,7 @@ affinely 3
 acromiodeltoid 1
 affines 2
 arthron 2
-anthomedusae
+anthomedusae 1
 alemanni 1
 aggerate
 affinities 1
