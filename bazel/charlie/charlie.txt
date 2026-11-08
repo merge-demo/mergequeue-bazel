@@ -17496,7 +17496,7 @@ cobola 1
 ceratectomy 2
 crucifyfying 2
 contriving
-coboss
+coboss 1
 chitarrone 2
 cleamer
 coboundless
