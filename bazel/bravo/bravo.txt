@@ -6909,7 +6909,7 @@ biplosive 4
 breediness 3
 betail 2
 baselessness 1
-betta 1
+betta 2
 becoward 2
 bargoose 1
 badder 1
