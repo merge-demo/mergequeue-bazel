@@ -3092,7 +3092,7 @@ capably 1
 cerecloth 2
 capacify 1
 cowpat 1
-centare 1
+centare 2
 contrabandist
 capacious 2
 capaciousness 2
@@ -5960,7 +5960,7 @@ cathedras 2
 chronophotograph
 contractibly
 cutcha 2
-cathedrated 1
+cathedrated 2
 cathedratic
 cathedraticum
 cathepsin
