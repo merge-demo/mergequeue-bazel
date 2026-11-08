@@ -8897,7 +8897,7 @@ biocoenotic 3
 biodegradability 1
 biodegradable
 becassocked 1
-beleap
+beleap 1
 biodegraded 1
 biodegrading 2
 biodynamical 1
@@ -9096,7 +9096,7 @@ bridgewater 1
 bicalcarate 2
 blackthorns 1
 bombax 2
-biosystematy 2
+biosystematy 3
 basiotribe 1
 byssine 1
 bighted 3
@@ -9795,7 +9795,7 @@ beneplacito 1
 bandonion
 biteable 3
 begin 2
-bonapartean 3
+bonapartean 4
 bongo 1
 bawd 2
 burgherhood 2
