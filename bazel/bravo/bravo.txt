@@ -16337,7 +16337,7 @@ bocces
 brownwort
 biovular 3
 beflower 3
-bowels
+bowels 1
 broadswords 1
 bicarb 2
 bleatingly
