@@ -8404,7 +8404,7 @@ amoebaean
 alix
 anchovy 2
 afterloss 1
-anthrathiophene
+anthrathiophene 1
 antilipoid 3
 adjusted 2
 aljamia 3
@@ -19261,7 +19261,7 @@ areic 2
 armchair
 arena 2
 arenaria 1
-annam 3
+annam 4
 auditives
 anthocyan 1
 accoyed
@@ -19460,7 +19460,7 @@ affectively 3
 amphipodiform 2
 armgaunt 3
 archwife
-argillic 2
+argillic 3
 aspalathus 1
 assessing
 aelurophobe 2
