@@ -4893,7 +4893,7 @@ beechen 2
 beechnut 1
 breakstone 1
 bloomage 1
-backspeer 3
+backspeer 4
 bomarea
 beechwood 1
 bright 1
@@ -6027,7 +6027,7 @@ brahmanical 1
 bort 1
 bablah
 bloated 3
-boathead
+boathead 1
 bollard 4
 bemartyr 4
 buttstrap 1
