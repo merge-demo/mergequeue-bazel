@@ -6380,7 +6380,7 @@ causticness
 crumpets
 cheng 1
 collencytal 1
-caustification 1
+caustification 2
 caustifying
 campfires
 casefies
@@ -8181,7 +8181,7 @@ chairmaking
 crystallogenetic
 chairmaning
 chattack
-chairmanning
+chairmanning 1
 chairmans 2
 chondroclasis
 chairmanship
@@ -19098,7 +19098,7 @@ cristate 1
 chaptrel
 collinsite 3
 collinsonia 1
-colliquable
+colliquable 1
 colliquate 2
 collyria
 collyridian
@@ -25584,7 +25584,7 @@ corporals
 cytostatically
 citronellic
 corporalship
-corporas
+corporas 1
 corporate 1
 christenmas
 corporately 1
@@ -30595,7 +30595,7 @@ cubomedusan 1
 cubometatarsal 1
 cubonavicular
 cubti 1
-cuca
+cuca 1
 cluff
 clambers 1
 corraded 1
