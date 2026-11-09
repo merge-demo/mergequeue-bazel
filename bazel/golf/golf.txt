@@ -796,7 +796,7 @@ garrotting 5
 gastroenteritic 3
 gambang 3
 gastrular
-grazer 2
+grazer 3
 gonia 3
 goldbeater 1
 gambe
@@ -3614,7 +3614,7 @@ galleriidae 1
 glovers 2
 galactoid 1
 goetae 2
-gynaecology 2
+gynaecology 3
 granitification 5
 ghastliness 5
 ghatwazi 1
