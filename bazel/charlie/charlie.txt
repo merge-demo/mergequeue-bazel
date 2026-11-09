@@ -3999,7 +3999,7 @@ carcharioid 2
 congredient 1
 carcharodont 2
 correctify 3
-carcinemia
+carcinemia 1
 croquettes
 carcinogenesis 1
 carcinogenic 1
@@ -9907,7 +9907,7 @@ chemotaxy 1
 collocatory 2
 chemotaxonomy 2
 chemotaxonomic 1
-controls
+controls 1
 comma 2
 carices 1
 chemotherapeutical
@@ -15538,7 +15538,7 @@ classed 1
 cyclicism
 classers 2
 classfellow
-classy
+classy 1
 classicalism
 crossbolted 1
 classicalist 1
@@ -26213,7 +26213,7 @@ chapatis 2
 cosplendour 1
 conidiophore 3
 caramelised 1
-cosponsoring 1
+cosponsoring 2
 cosponsors
 cossack 3
 cessant 1

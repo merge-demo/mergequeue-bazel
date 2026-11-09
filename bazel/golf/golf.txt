@@ -2889,7 +2889,7 @@ gynaeceum 2
 groggier 4
 gallerylike 1
 gigmanhood 3
-gravediggers 1
+gravediggers 2
 guddled 2
 gedunk 2
 geobotanic 2
@@ -4468,7 +4468,7 @@ gladiatorship 1
 galloman 4
 gaultherine 2
 gipon 2
-gaetulan 2
+gaetulan 3
 gunlayer
 gypped 3
 giardia 3
@@ -4530,7 +4530,7 @@ gyrose 1
 grindingly 2
 grandmothers
 guastalline 2
-grumous 3
+grumous 4
 gypster 3
 grandniece 2
 gamb 1
@@ -10436,7 +10436,7 @@ gesneraceous 3
 gomphodont 2
 geobiologic 2
 gumdigging 2
-gumdrop 2
+gumdrop 3
 gelseminine 2
 gumly 5
 gruffs 3
