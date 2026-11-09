@@ -1260,7 +1260,7 @@ gradings 1
 greasers 1
 galliardly 2
 grognard 4
-geneki 1
+geneki 2
 griffes 3
 gapper 2
 glutinosity 4
@@ -10230,7 +10230,7 @@ gainsays 5
 glaucous
 gowpin 2
 gweduck 3
-gobbet 1
+gobbet 2
 gunless 1
 guillotinist 2
 glutaraldehyde 4
