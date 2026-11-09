@@ -9507,7 +9507,7 @@ decide 2
 digesture 2
 dinarzade
 disapproval 1
-diggable 2
+diggable 3
 digged 3
 deuterostome 2
 demonstrational 5
