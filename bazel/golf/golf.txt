@@ -2302,7 +2302,7 @@ grallatorial 1
 gelable 4
 gymnodiniaceae 1
 galidictis 4
-ganofs 8
+ganofs 9
 gelant
 glyceric 5
 ganta 2
@@ -6328,7 +6328,7 @@ goblins 5
 goldenpert 3
 gallivanters 2
 gebang
-gobo 2
+gobo 3
 gaybine 4
 gobony 3
 gaily 3
@@ -9287,7 +9287,7 @@ gemauve 2
 granitoid 3
 groenendael 4
 gecko 3
-gallstone 4
+gallstone 5
 graduale
 geoffrey
 groenlandicus 1
