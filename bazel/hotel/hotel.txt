@@ -967,7 +967,7 @@ hatfs 1
 hatfvsny 4
 hatgc 4
 hatgl 2
-hatgre
+hatgre 1
 hath 3
 hathkzxols
 hathph 2
@@ -11357,7 +11357,7 @@ hthgn 2
 hthhfcje 4
 hthremrvsflgps
 hthtln 6
-hthvd 2
+hthvd 3
 hthvjuorhc 4
 hthvuvkwdurvmqm 2
 hthwcdzju 2
