@@ -193,7 +193,7 @@ decontamination 2
 daemony 2
 deforesting 3
 debitumenize
-dealfish 1
+dealfish 2
 daemons
 daemonurgist
 defecant
@@ -4854,7 +4854,7 @@ deathcups
 dimmedness
 diestrum 1
 dognapers
-durableness
+durableness 1
 demonise 3
 dactyliotheca 1
 dodlet
@@ -11580,7 +11580,7 @@ drinkless 2
 disconnectedness 1
 diphtheroidal 1
 diphead 1
-disconnecting
+disconnecting 1
 disconnection 1
 diplococcic 1
 disconnector 4
@@ -12791,7 +12791,7 @@ duplicatus 1
 derepression 1
 dysluite
 delicto
-dislustered 1
+dislustered 2
 delectate
 drollish
 desertions 1
@@ -13322,7 +13322,7 @@ disputability 2
 dolichocephali 1
 dotters
 decident 2
-diactinal 2
+diactinal 3
 dariole 1
 drumble 1
 disputacity 2
@@ -15894,7 +15894,7 @@ doped 3
 dorsiduct 2
 darjeeling 3
 droop 1
-dakerhens 2
+dakerhens 3
 dorcatherium 2
 dosis 2
 deepeningly 1
@@ -16472,7 +16472,7 @@ datiscin 2
 deodorizing 1
 dracone 3
 decelerator 2
-draconian 2
+draconian 3
 disagreeance 1
 douzieme 1
 drumread 4
