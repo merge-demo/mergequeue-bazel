@@ -3606,7 +3606,7 @@ gaelicize 3
 galany 3
 guttiform 2
 gnathic 3
-gananciales 2
+gananciales 3
 gantries 1
 glack
 gawkiness 3
@@ -9840,7 +9840,7 @@ ghebeta 4
 guaymie 4
 geoponical 2
 grilles 2
-gabbarts
+gabbarts 1
 gallivant 3
 gospellike 1
 gnathopoda 1
