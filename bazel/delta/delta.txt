@@ -1692,7 +1692,7 @@ decrementless 1
 dehumanisation 3
 delineator 4
 debonnaire 1
-dismissive 3
+dismissive 4
 dears 1
 dottard 1
 dupability 2
@@ -13701,7 +13701,7 @@ disulphuric 3
 dialkyl 1
 danegeld 2
 diatomiferous 1
-diplasion
+diplasion 1
 demetrian 1
 dashnaktzutiun 1
 deadfall 2
