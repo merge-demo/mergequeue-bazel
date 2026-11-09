@@ -8154,7 +8154,7 @@ busybodied 2
 ballonet
 beardie 1
 brontophobia 2
-bash 1
+bash 2
 banishes 2
 buffalos
 baldpate 4
@@ -10746,7 +10746,7 @@ bosseyed 3
 brickwise
 bairnie 3
 blandishes 2
-bebatter 1
+bebatter 2
 blennorrhagia 1
 bollworms 2
 brags
