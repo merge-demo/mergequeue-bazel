@@ -4928,7 +4928,7 @@ dynastic 4
 depositum 3
 demonstrations 3
 doctrinary 1
-derotreme
+derotreme 1
 decrescence 1
 daktylon 2
 duskily 2
@@ -7307,7 +7307,7 @@ determinated 2
 driftwood 1
 determinately 2
 dirtiness
-drownding 1
+drownding 2
 despondency
 denegate 1
 dessa 1
