@@ -913,7 +913,7 @@ cajun
 cajuput 1
 chemoses 2
 catharan 2
-cajuputene 2
+cajuputene 3
 coquetting
 confided
 cholesterosis 1
@@ -12096,7 +12096,7 @@ culturist 1
 chowanoc
 chowchows 3
 clockwork 1
-chowhound 1
+chowhound 2
 coapprehend 2
 consume
 cered
@@ -12985,7 +12985,7 @@ clamation
 conspirer 3
 cyanmethemoglobin
 calenturish 1
-cyano
+cyano 1
 crystallogenesis
 cyanoacetate 1
 cobenignity 1
