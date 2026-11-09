@@ -711,7 +711,7 @@ equidistant 3
 eidently
 enode 2
 eyefuls 2
-enterozoa 4
+enterozoa 5
 equalable
 expressionable 3
 epiglottic 3
@@ -12208,7 +12208,7 @@ economised 1
 emoluments 4
 execrator 4
 emeraude 4
-enthroning 3
+enthroning 4
 empiriocritical 3
 ephemera 3
 execute 2
@@ -12811,7 +12811,7 @@ exoterica 1
 elementalistically 5
 excitomotor 2
 embryology
-epicystotomy
+epicystotomy 1
 equine 1
 emajagua 3
 exoterical 2
