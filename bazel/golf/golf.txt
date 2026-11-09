@@ -1572,7 +1572,7 @@ gasser 4
 glutelin 3
 gripe 3
 glassless 2
-ghegish 4
+ghegish 5
 gregarinoidea 6
 gluelikeness 3
 gout 3
@@ -6808,7 +6808,7 @@ gonoblast
 gremials 2
 girders 2
 girded 3
-gentlemanism 3
+gentlemanism 4
 glossodynamometer
 goodwill 2
 gibel 2
