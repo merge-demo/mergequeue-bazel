@@ -233,7 +233,7 @@ daftness 5
 dinnertime 2
 dorsula 2
 displanting 1
-diff 2
+diff 3
 discrepencies 2
 duotoned
 discorrespondency 2
@@ -11577,7 +11577,7 @@ deglamorize 2
 disconformities 3
 disconjure 1
 drinkless 2
-disconnectedness
+disconnectedness 1
 diphtheroidal 1
 diphead 1
 disconnecting
@@ -14222,7 +14222,7 @@ dacryon 1
 dartingness 2
 dinocerata 3
 delubrubra 1
-die 4
+die 5
 dormer 1
 ditalini 3
 dahoman
