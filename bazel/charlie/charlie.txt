@@ -8181,7 +8181,7 @@ chairmaking
 crystallogenetic
 chairmaning
 chattack
-chairmanning
+chairmanning 1
 chairmans 2
 chondroclasis
 chairmanship
@@ -8593,7 +8593,7 @@ catanadromous
 chandui 2
 countercross
 chandul 1
-chane 1
+chane 2
 caitiff 2
 chanfrons
 capitelliform
@@ -19098,7 +19098,7 @@ cristate 1
 chaptrel
 collinsite 3
 collinsonia 1
-colliquable
+colliquable 1
 colliquate 2
 collyria
 collyridian
@@ -25584,7 +25584,7 @@ corporals
 cytostatically
 citronellic
 corporalship
-corporas
+corporas 1
 corporate 1
 christenmas
 corporately 1
