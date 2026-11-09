@@ -581,7 +581,7 @@ blessers
 birdie 2
 bibliolatry 1
 baconize 2
-baconweed 1
+baconweed 2
 bierkeller 2
 bonjour 3
 barniest
@@ -2118,7 +2118,7 @@ bismar
 burette
 banteng 1
 beglerbegship 2
-barriers 3
+barriers 4
 banter 1
 banterers 5
 bloodlessness 1
