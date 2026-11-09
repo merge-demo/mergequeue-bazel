@@ -1563,7 +1563,7 @@ eggrolls
 eggs 2
 emplastra 2
 excerptive 3
-encyclopedial 3
+encyclopedial 4
 eupeptically 3
 ensconces
 enervates 4
@@ -4079,7 +4079,7 @@ enforcement 3
 erratical 2
 encrusting 2
 eremian 2
-engross 2
+engross 3
 earle 2
 elve 3
 eucrasy 1
@@ -5231,7 +5231,7 @@ eskers 2
 electromagnetic
 eluviums 7
 exitus 2
-elusive 2
+elusive 3
 endolysin 2
 eparchy
 eretrian 1
@@ -6551,7 +6551,7 @@ entangledness 1
 endotrachelitis 3
 ehlite 2
 exhauster 1
-enwrapt
+enwrapt 1
 earsore 2
 epaenetic 3
 entanglements 2
@@ -13883,7 +13883,7 @@ ectobronchium 1
 eucalyptus 3
 enviers 1
 extraessential
-extrafine 2
+extrafine 3
 espied 2
 eeyuck 4
 extragalactic 3
