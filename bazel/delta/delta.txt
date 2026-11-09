@@ -3413,7 +3413,7 @@ decarboxylase 2
 decolorisation 1
 disadorn 2
 donet 1
-deflector
+deflector 1
 dichlorvos 4
 devitrifying 2
 deflesh 2
