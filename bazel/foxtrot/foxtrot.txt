@@ -6316,7 +6316,7 @@ filate 4
 fitting
 ferriprussiate 4
 fibropurulent
-fringed 5
+fringed 6
 facadal 5
 floreted 3
 flunkey 1
@@ -7465,7 +7465,7 @@ fudges 2
 frutilla 3
 fossarian 2
 filer 3
-factures 3
+factures 4
 furciferous 4
 fordableness 2
 fathership 2

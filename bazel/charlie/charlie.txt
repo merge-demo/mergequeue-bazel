@@ -3651,7 +3651,7 @@ caraganas
 crateful 1
 carageens 2
 chromatography 2
-caraibe 3
+caraibe 4
 caraipa
 chronometrical 1
 caraipi 2
@@ -6042,7 +6042,7 @@ carryable 1
 cathouses
 crownling 1
 cathrin
-cathryn
+cathryn 1
 coversine
 cathud 1
 catydid
@@ -11373,7 +11373,7 @@ chlorophyllin 2
 counselful 3
 chlorophyllite
 chlorophylloid
-chlorophyllous 1
+chlorophyllous 2
 compulsive 1
 changelessly 1
 chlorophora
@@ -27558,7 +27558,7 @@ coverings 3
 comped 3
 cower
 coverlets 1
-circumambiently
+circumambiently 1
 consumation 1
 coverlids
 clairce 3
