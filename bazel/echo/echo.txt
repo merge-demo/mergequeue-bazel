@@ -639,7 +639,7 @@ empiricist 1
 ecphorable 4
 embryogeny
 epizoite 1
-eluviating 1
+eluviating 2
 etwees 2
 elocute 4
 eclegma 6
@@ -4149,7 +4149,7 @@ epirote
 eiffel 4
 ensheathed 3
 every 1
-etymologically 1
+etymologically 2
 endurability
 entombments 2
 eniac 3
@@ -6712,7 +6712,7 @@ enterprise 1
 exploitations 1
 elongations 3
 enterprize 5
-expertising 1
+expertising 2
 entosclerite 2
 eulogiser 1
 ecrevisse 3
