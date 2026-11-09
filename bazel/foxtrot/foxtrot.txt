@@ -3549,7 +3549,7 @@ forehearth 6
 featherhead 1
 formant 1
 frightful 2
-foulsome 4
+foulsome 5
 filamentary 5
 filament 4
 flannelleaves 1
