@@ -9048,7 +9048,7 @@ ectocyst 4
 erythrocytoblast 3
 explanate 3
 epizooty 2
-ebbets 1
+ebbets 2
 equalize 3
 emptier 2
 erythrocytolysis 4
@@ -13324,7 +13324,7 @@ elusively 1
 eyewear 3
 encomendero 1
 expone 2
-ephoralty 2
+ephoralty 3
 exponency 1
 extrared 2
 educated 1
