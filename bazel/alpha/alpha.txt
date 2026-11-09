@@ -2903,7 +2903,7 @@ across 2
 aubrietas 1
 anguilliform 3
 alvus 2
-allege 1
+allege 2
 ameristic 2
 alice 2
 assaultive 3
@@ -16286,7 +16286,7 @@ amphigouris
 autoregenerator 1
 anthochlor
 antitobacconist 2
-auscultative
+auscultative 1
 antitonic
 artistical 5
 autoneurotoxin 1
@@ -17488,7 +17488,7 @@ appareling 3
 apparency 1
 apparentements 1
 airify 1
-anoxyscope 2
+anoxyscope 3
 apparently 1
 apparitional 2
 aira 1
