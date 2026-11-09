@@ -15435,7 +15435,7 @@ asslike 2
 antimason
 antimasque
 antimasquer 2
-attitude 1
+attitude 2
 abba 2
 anhedonic 1
 afterstrain
