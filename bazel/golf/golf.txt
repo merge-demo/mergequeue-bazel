@@ -7339,7 +7339,7 @@ galloglass 2
 geochronometric 3
 gibby 2
 glareole 3
-ghee 2
+ghee 3
 groggery
 gossep
 graphs 3
