@@ -530,7 +530,7 @@ gliomas 1
 germproof 3
 geeldikkop 2
 galipoidin 7
-guzzles 3
+guzzles 4
 galleins 2
 gomphocarpus 3
 getters 6
@@ -1249,7 +1249,7 @@ grogged 3
 galactostasis 4
 gooding 1
 gonglike 3
-gooroo 2
+gooroo 3
 grassman 3
 garbill 5
 guyline
@@ -4966,7 +4966,7 @@ gladioluses 2
 girondist 1
 groundwards 2
 glamors 1
-geldable 2
+geldable 3
 granddada 4
 granita 3
 gainst 5
@@ -8003,7 +8003,7 @@ gunnies 3
 gorsechat 4
 grabbots
 gratitude 4
-geste 2
+geste 3
 gemse 1
 ghosthood 3
 gangsman 2
