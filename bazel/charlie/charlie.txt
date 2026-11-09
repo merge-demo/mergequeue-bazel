@@ -6007,7 +6007,7 @@ critics 1
 centraliser 5
 collatress 1
 contratempo 2
-catholic
+catholic 1
 courtesans 2
 cardinalated 1
 cryptostomata 2
@@ -12095,7 +12095,7 @@ chout 1
 culturist 1
 chowanoc
 chowchows 3
-clockwork 1
+clockwork 2
 chowhound 2
 coapprehend 2
 consume
