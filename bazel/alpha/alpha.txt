@@ -9952,7 +9952,7 @@ altoun
 amazer 1
 accented 2
 antihelixes 2
-amazilia
+amazilia 1
 amazing 2
 antizymotic 2
 allovers
@@ -14457,7 +14457,7 @@ alden 3
 antiphysical 1
 avoiding
 anaglyptical
-antimetabolite 1
+antimetabolite 2
 abiotrophy
 arsenical 1
 anthratriol
