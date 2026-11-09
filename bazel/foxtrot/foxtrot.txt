@@ -341,7 +341,7 @@ francisc 5
 fearsomely 2
 forkful 2
 failingness 2
-facultative 2
+facultative 3
 foresound 1
 floss 3
 favourer
@@ -1106,7 +1106,7 @@ flatiron 1
 foretime 4
 farsightedness 1
 flooring 1
-forkedly 1
+forkedly 2
 faciocervical 2
 flatwoods 4
 foes 4
@@ -11200,7 +11200,7 @@ foremanship 2
 fippence 5
 futuric 2
 fasciolae 2
-fictil 5
+fictil 6
 frittata 1
 farads 3
 firer 2
