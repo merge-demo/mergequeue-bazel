@@ -16643,7 +16643,7 @@ antiradiation
 acaroid 1
 apert
 arsonation
-asperates
+asperates 1
 archelaus 2
 apraxic 3
 aigremore
@@ -19809,7 +19809,7 @@ averrer 1
 ast 2
 atrail 3
 arrah
-atrophias 1
+atrophias 2
 alphabetology 1
 avanters
 arsenous 1
@@ -21155,7 +21155,7 @@ alkannin
 apocryphate
 arboriculturist 1
 affirmingly 1
-aseity 2
+aseity 3
 aselar 1
 associator 3
 asellate 1
