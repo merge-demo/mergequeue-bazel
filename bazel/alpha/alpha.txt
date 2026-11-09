@@ -2106,7 +2106,7 @@ achill 1
 anything
 alabastrums
 accedence 1
-agglutinations
+agglutinations 1
 allopatry
 antadiform 1
 achilleine 1
@@ -2594,7 +2594,7 @@ adffrozen
 adjacent 1
 acquest 1
 armenite 1
-actutate 2
+actutate 3
 applies 1
 arriswise
 acquiesce
