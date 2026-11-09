@@ -430,7 +430,7 @@ descanting 1
 dayrooms 1
 deities 3
 dodrantal 1
-dhourra
+dhourra 1
 discoursers 4
 dairous 1
 dairt 2
