@@ -1699,7 +1699,7 @@ calorimetry
 calorimetrical
 calorimetrically 1
 calorimotor
-calorist
+calorist 1
 calorizing
 cawing
 calosoma
