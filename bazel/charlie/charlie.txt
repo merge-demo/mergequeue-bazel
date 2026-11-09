@@ -2560,7 +2560,7 @@ capitalizations
 cecidiology
 committeewoman 2
 chinol 1
-castellanship
+castellanship 1
 candlesticks
 cogniser 1
 candlewaster 2
@@ -18131,7 +18131,7 @@ coequals
 coequate
 chiotilla
 centerward
-chincha 3
+chincha 4
 counterpunch
 chronologist 1
 chinbone 3
