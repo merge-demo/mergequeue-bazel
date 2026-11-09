@@ -5379,7 +5379,7 @@ circumposition 4
 copulates 1
 chamberfellow 1
 castellum
-caster
+caster 1
 crinicultural 1
 cinemograph 1
 corncob 2
@@ -10921,7 +10921,7 @@ chirogymnast 1
 cautel 2
 cornu
 chirognomy
-cerement 1
+cerement 2
 chirognomic 2
 chirognomically 1
 chuppahs 1
@@ -14396,7 +14396,7 @@ circuts 2
 culminative
 cyrillian 1
 cantharidating 1
-cardiotherapies 1
+cardiotherapies 2
 cyrillianism
 centrechinoida
 crosswalk 2
