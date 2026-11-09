@@ -5458,7 +5458,7 @@ deodorized 1
 duoviri 1
 disquiparation 1
 deodorizes
-drawees
+drawees 1
 detesters 3
 dibutyrate 2
 deoppilant 2
@@ -15814,7 +15814,7 @@ dorsibranchiata 5
 distinctor 3
 didymitis 1
 disciplined 2
-diaphragming 2
+diaphragming 3
 dentosurgical 1
 disprobabilize 1
 dorsicornu
