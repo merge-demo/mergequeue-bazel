@@ -802,7 +802,7 @@ danegelds 3
 dungeon 1
 deckhead 1
 daneweed 1
-daneweeds 2
+daneweeds 3
 detections 3
 disingenious 1
 dangerously 4
@@ -2224,7 +2224,7 @@ decasualise 2
 disgavel
 decasualized 2
 dialectological 2
-didymous 1
+didymous 2
 decathlons
 disunionist 4
 digitoxose
@@ -3848,7 +3848,7 @@ demagnetizable
 deficiency 2
 dermalgia 2
 dubitative
-dolose 2
+dolose 3
 discreate 2
 dimwit 3
 defoams
@@ -5458,7 +5458,7 @@ deodorized 1
 duoviri 1
 disquiparation 1
 deodorizes
-drawees
+drawees 1
 detesters 3
 dibutyrate 2
 deoppilant 2
@@ -8821,7 +8821,7 @@ diazotized 2
 devolatilising 1
 dysphotic 1
 dodecagonal
-divination 1
+divination 2
 dib 4
 dyspraxia
 dibbing 2
@@ -12235,7 +12235,7 @@ durous 1
 detector 2
 dampers 1
 deviators 2
-dysfunctions 1
+dysfunctions 2
 disfurnish 3
 deport 1
 disfurnished 1
@@ -13216,7 +13216,7 @@ ducat
 determinator 3
 draftman 2
 desexualization 1
-diapensiaceae
+diapensiaceae 1
 dorsocephalad
 disconcertment 1
 dyspnoeal 2
@@ -15814,7 +15814,7 @@ dorsibranchiata 5
 distinctor 3
 didymitis 1
 disciplined 2
-diaphragming 2
+diaphragming 3
 dentosurgical 1
 disprobabilize 1
 dorsicornu
@@ -15900,7 +15900,7 @@ dosis 2
 deepeningly 1
 dossel 2
 dossels 1
-disclaiming 1
+disclaiming 2
 drench 1
 dossennus
 dressings 1
