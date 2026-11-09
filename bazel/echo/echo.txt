@@ -9646,7 +9646,7 @@ enhydritic 1
 especialness 1
 esperantido 5
 extrapatriarchal 2
-enclosing 2
+enclosing 3
 emissaries 4
 epicycles 4
 espy 5
@@ -13799,7 +13799,7 @@ engraftment 4
 extorts 1
 ecteron 1
 esparto 2
-eukaryote 1
+eukaryote 2
 endebt 4
 expurgated 4
 expressionism 1

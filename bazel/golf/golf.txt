@@ -10507,7 +10507,7 @@ graveman 1
 gonocytes 2
 genuineness 2
 grecized 4
-goggles 3
+goggles 4
 giftling 1
 greenbacks 1
 gyrational 1
@@ -10674,7 +10674,7 @@ grove 3
 glyphographic 3
 generalty 5
 glycerols 4
-gurnard
+gurnard 1
 gib 4
 gastroenteroptosis 2
 glaucomatous 6

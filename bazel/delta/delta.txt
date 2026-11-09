@@ -2010,7 +2010,7 @@ dictation 1
 dacryocele 2
 decadrachma
 decadrachmae 2
-dumbed 2
+dumbed 3
 dourer 1
 dimorphic 4
 desugars 2
@@ -13126,7 +13126,7 @@ diadem 3
 deflourish
 decurved 1
 didactive 1
-dispersedness 1
+dispersedness 2
 detonates 1
 desynonymization 1
 dispersers
