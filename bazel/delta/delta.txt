@@ -9400,7 +9400,7 @@ discontentive 2
 dissoluble 2
 diffusate 3
 dipnoous
-deploring 1
+deploring 2
 djinni 1
 duplicator 4
 diffusers 1
@@ -17434,7 +17434,7 @@ disserts 1
 diazoimido 2
 drostdy 1
 diabaterial 3
-dishmop
+dishmop 1
 droughts 1
 dominium 2
 drouket 1
