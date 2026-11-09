@@ -6382,7 +6382,7 @@ endangiitis
 enshield 3
 endostitis 3
 ebbed 1
-episcopize 1
+episcopize 2
 eprouvette 3
 enshrined 1
 enshrinement 1
@@ -6455,7 +6455,7 @@ embarrassing 3
 endangerments 3
 electromyography 2
 espave 3
-espousal 1
+espousal 2
 expandibility 1
 ensnared 3
 ensnarer 2
@@ -12200,7 +12200,7 @@ entrechats 1
 emanated 2
 elementalism 5
 emerized 4
-excelse 5
+excelse 6
 execratively 3
 excreter
 enragedness 3
@@ -13801,7 +13801,7 @@ ecteron 1
 esparto 2
 eukaryote 2
 endebt 4
-expurgated 4
+expurgated 5
 expressionism 1
 elative 2
 epithelialize 3
