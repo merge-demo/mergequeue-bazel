@@ -5772,7 +5772,7 @@ ferrochrome 5
 flitfold 3
 flytiers 4
 fulhams 3
-fpsps
+fpsps 1
 fictile 1
 flutteration 3
 farmage 2
