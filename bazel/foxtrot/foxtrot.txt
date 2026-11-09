@@ -5234,7 +5234,7 @@ fulfil 3
 fourling
 fleas 2
 fluxroot 2
-fratcheous 2
+fratcheous 3
 flavid
 fluctuosity 3
 foetiferous
@@ -6973,7 +6973,7 @@ flay 1
 festucous 3
 fetishization 2
 fissicostate 4
-formylation
+formylation 1
 franks 3
 foetus 2
 foments 5
