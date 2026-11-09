@@ -431,7 +431,7 @@ dayrooms 1
 deities 3
 dodrantal 1
 dhourra
-discoursers 3
+discoursers 4
 dairous 1
 dairt 2
 dais 1
@@ -900,7 +900,7 @@ dacryopyorrhea 1
 dolorific 1
 dantology 2
 dashpots 1
-dextrin 2
+dextrin 3
 dewitt 1
 decolourised 3
 dantophilist 2
@@ -12163,7 +12163,7 @@ disfashion 1
 diplosome
 deaerating
 duennadom 3
-dewata 2
+dewata 3
 dyophysitism 1
 dredger 4
 dichloromethane 1

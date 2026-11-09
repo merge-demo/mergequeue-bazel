@@ -1357,7 +1357,7 @@ efferently 1
 efferents 1
 effervescency 2
 eights 1
-epode 1
+epode 2
 endoskeletal 1
 essentialness 4
 exomis 2
@@ -14155,7 +14155,7 @@ extrusory
 eof 2
 examinations 2
 ecdysiast 3
-ethmopalatine
+ethmopalatine 1
 extubation 2
 engouee 1
 encinctured 3
