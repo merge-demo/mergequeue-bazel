@@ -2740,7 +2740,7 @@ ebons 3
 equipotent
 electees 3
 edentate 3
-envoi 2
+envoi 3
 eleemosynary
 etymology
 emetic 1
@@ -4403,7 +4403,7 @@ evacuates 2
 enations 2
 euripos 3
 enbrave 1
-eggheadedness 2
+eggheadedness 3
 embar 2
 egotize
 eruptively 2
@@ -11541,7 +11541,7 @@ epiphytical 2
 eviting 2
 evangeline 3
 emprize 3
-endosteitis 1
+endosteitis 2
 edital 2
 evocating 1
 ensign 4
