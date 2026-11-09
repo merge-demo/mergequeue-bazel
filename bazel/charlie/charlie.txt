@@ -1699,7 +1699,7 @@ calorimetry
 calorimetrical
 calorimetrically 1
 calorimotor
-calorist
+calorist 1
 calorizing
 cawing
 calosoma
@@ -4722,7 +4722,7 @@ catchall
 chigetais 1
 champerty 1
 coumarou
-carnie 1
+carnie 2
 chlamydospore 1
 creditorship 2
 contested 1
