@@ -2417,7 +2417,7 @@ dispelled
 donny 2
 dripstick
 disaffects 1
-decima
+decima 1
 decimalism 1
 dueling 2
 decimalization 2
@@ -9164,7 +9164,7 @@ diaglyptic 2
 didodecahedron 3
 didoes 2
 didonia 2
-duodenas 1
+duodenas 2
 dihexahedron 2
 daubry
 dipsaceae 1
