@@ -5379,7 +5379,7 @@ adenose 1
 affronts 1
 affuse
 alkarsine
-amrita 2
+amrita 3
 atropism
 affusion
 afghan 4
@@ -21653,7 +21653,7 @@ assays 2
 assam 2
 assamites 1
 acetamide
-atrophiated
+atrophiated 1
 amblyopsidae 2
 assart 4
 antistriker 1
