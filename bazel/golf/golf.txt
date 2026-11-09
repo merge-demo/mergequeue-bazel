@@ -1508,7 +1508,7 @@ gaolage 2
 gardenhood 4
 groose 2
 guaxima 4
-glandless 5
+glandless 6
 gorlin 2
 gregarinidal 1
 grote
@@ -6233,7 +6233,7 @@ galactophagist 2
 glucosamine
 goaty 1
 glissade 3
-gonfalons 5
+gonfalons 6
 gastroenteroanastomosis 3
 gowkedly 2
 galactosan 2
@@ -10626,7 +10626,7 @@ gunshop 2
 gulches
 gunsmithing 3
 grossification
-grank 3
+grank 4
 gunstocker 2
 geronto 2
 girns 3

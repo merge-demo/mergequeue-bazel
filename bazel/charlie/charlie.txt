@@ -14112,7 +14112,7 @@ caldarium 1
 charruan
 crystallophobia 1
 circuits
-clochan
+clochan 1
 cardioneural
 capsulize 1
 circulant 2
@@ -23499,7 +23499,7 @@ chint 1
 contesseration
 concisely 1
 cacocnemia
-clethraceae 1
+clethraceae 2
 contestableness
 cauterization 1
 cartographies
