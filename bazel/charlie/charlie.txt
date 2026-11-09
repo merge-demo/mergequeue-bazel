@@ -1018,7 +1018,7 @@ caprelline 2
 calappidae 1
 calas
 colourtype 1
-cohoba 1
+cohoba 2
 calascione 1
 cydonia 1
 calastic 1
@@ -19656,7 +19656,7 @@ cutis
 catocala
 cinematics
 chaptering 1
-comandra
+comandra 1
 capetown 2
 cheir 1
 consolidant
@@ -19869,7 +19869,7 @@ comicalness
 cubited 1
 comices
 cognominal 2
-comicocynical 1
+comicocynical 2
 curlicues 1
 colnaria
 conjugally 3
