@@ -14249,7 +14249,7 @@ acephal 3
 aptitudinal 1
 anterosuperior 3
 antesternal 1
-antesuperior
+antesuperior 1
 arboretums
 aviators 1
 antisyndication
@@ -19014,7 +19014,7 @@ azelate
 archmocker 2
 agricolist 1
 anastomosed
-auctionary
+auctionary 1
 autochthonic
 authorial 1
 algol
