@@ -3876,7 +3876,7 @@ gwely 6
 gatekeep 2
 grant 2
 girrock 1
-graining 3
+graining 4
 guls 4
 groszy 4
 gels 3
@@ -5541,7 +5541,7 @@ gauffers 1
 guttiferous 4
 germinally 7
 gangplanks 3
-glycidol 3
+glycidol 4
 gorsier 1
 gowning
 gad 6
@@ -10527,7 +10527,7 @@ geodesical 1
 gratiola 4
 gibs 4
 gulix 3
-grallic 2
+grallic 3
 galeorchis 5
 gilly 1
 gadsbodikins 4
