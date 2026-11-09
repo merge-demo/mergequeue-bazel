@@ -4854,7 +4854,7 @@ deathcups
 dimmedness
 diestrum 1
 dognapers
-durableness
+durableness 1
 demonise 3
 dactyliotheca 1
 dodlet
@@ -13322,7 +13322,7 @@ disputability 2
 dolichocephali 1
 dotters
 decident 2
-diactinal 2
+diactinal 3
 dariole 1
 drumble 1
 disputacity 2
@@ -15894,7 +15894,7 @@ doped 3
 dorsiduct 2
 darjeeling 3
 droop 1
-dakerhens 2
+dakerhens 3
 dorcatherium 2
 dosis 2
 deepeningly 1
