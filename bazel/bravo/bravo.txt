@@ -3462,7 +3462,7 @@ buphaga 1
 bander 3
 barkpeeler 5
 boobook
-bugling 1
+bugling 2
 bolloxed 4
 batable 2
 bespatter
