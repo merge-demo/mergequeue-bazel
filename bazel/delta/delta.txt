@@ -8185,7 +8185,7 @@ disconvenient 1
 dedentition 1
 dicotylous 3
 damocles 2
-disposer
+disposer 1
 decalcified 2
 disbind 1
 deywoman 1
@@ -9143,7 +9143,7 @@ devirgination 2
 didymate 1
 depressives
 dandering
-didynamian 2
+didynamian 3
 disculpation 3
 disinfectant
 discoglossidae
