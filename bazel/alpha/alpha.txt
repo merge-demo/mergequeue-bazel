@@ -9736,7 +9736,7 @@ apiology 1
 arcked
 argentina
 amabel 2
-atbash 3
+atbash 4
 amabile
 amable 3
 anchorer
@@ -19553,7 +19553,7 @@ adjacency
 ariana 2
 alifs 1
 antinationalistically 2
-actinobacillus
+actinobacillus 1
 arguments 3
 amorosa 1
 auriculated 1
