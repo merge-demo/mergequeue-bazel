@@ -7371,7 +7371,7 @@ fortunous 7
 feedlots 1
 flyness 2
 findy
-forbidals 3
+forbidals 4
 fasted 3
 featous 2
 foobar 6
@@ -9413,7 +9413,7 @@ floristics 1
 freewheeling 2
 flagpoles 5
 furacana 3
-flammed 3
+flammed 4
 faciendum 2
 franz
 felidae 2
@@ -9508,7 +9508,7 @@ freaky
 fliffus 2
 frappes 2
 figurers 1
-floppiness 4
+floppiness 5
 fattrels 2
 faithworthy 3
 frontways 2
@@ -11076,7 +11076,7 @@ freightment 1
 flense 4
 footrace 5
 flew
-falconet 3
+falconet 4
 flangeless 3
 fracturs 1
 forbidder 1
