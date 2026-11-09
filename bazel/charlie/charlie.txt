@@ -6582,7 +6582,7 @@ cchaddoorck 3
 ccid 2
 ccitt
 custodial
-caic 3
+caic 4
 commentation
 contributions 1
 charcuterie 2
@@ -14974,7 +14974,7 @@ calceolately 1
 citrometer 3
 contaminous
 citron 2
-cenobium
+cenobium 1
 carbonium 1
 citronalis
 comparison 1
@@ -31135,7 +31135,7 @@ cunningness 1
 counterreplying 2
 cordierite
 cunnings
-cunoniaceous
+cunoniaceous 1
 cunt
 chantor 1
 cunzie
