@@ -7988,7 +7988,7 @@ altarpiece 1
 apprizer 1
 argasid
 assapan 1
-auscultations
+auscultations 1
 alternates
 aleurodes 2
 aleurometer 6
@@ -24630,7 +24630,7 @@ aeraria 1
 ascebc 2
 actinophore 1
 amyraldism 1
-avellane 3
+avellane 4
 alloxuric
 alcyonacea 1
 aveloz 3

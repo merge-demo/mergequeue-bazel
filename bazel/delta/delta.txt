@@ -811,7 +811,7 @@ diabrotic 3
 deduced 2
 dangerousness
 distention
-danglers
+danglers 1
 deniable
 dearths 3
 dulcorate 1
@@ -11066,7 +11066,7 @@ deadpan 3
 disappointedly
 diakinesis 2
 decarbonylate
-disappearer 3
+disappearer 4
 diamagnetically 2
 droning 2
 deedy 2
