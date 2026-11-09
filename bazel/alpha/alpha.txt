@@ -2594,7 +2594,7 @@ adffrozen
 adjacent 1
 acquest 1
 armenite 1
-actutate 2
+actutate 3
 applies 1
 arriswise
 acquiesce
