@@ -1774,7 +1774,7 @@ balloonet 1
 bedsprings 1
 bambute 1
 blackheart 2
-becombed 2
+becombed 3
 baserunning 4
 belonid
 bikie 1
@@ -6447,7 +6447,7 @@ bisulcate 3
 bulldogged 2
 biostratigraphy 1
 borderings 1
-bergmannite 4
+bergmannite 5
 bilati
 beothukan 4
 bellicose 2
@@ -11950,7 +11950,7 @@ bessarabian 5
 brinded 1
 bogyism
 bogyman 3
-broncobusters 2
+broncobusters 3
 bandagers
 birmingham 1
 bbls
@@ -13523,7 +13523,7 @@ beleft 6
 boisterousness
 becursing 1
 backhanded 3
-butterbough 2
+butterbough 3
 barnacled 1
 bibliophile 4
 bra 3
