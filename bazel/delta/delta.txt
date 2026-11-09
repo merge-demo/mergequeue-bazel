@@ -7058,7 +7058,7 @@ driveable 3
 dessous 2
 devall 1
 doodad 3
-durst 4
+durst 5
 dessus 4
 destabilization 1
 doolie 1
@@ -10275,7 +10275,7 @@ dowed 4
 doggonedest 4
 dusts
 deconcentrating 1
-disaccustom 2
+disaccustom 3
 doornail
 deifiers 2
 dioctahedral
