@@ -2305,7 +2305,7 @@ etnas 4
 espressos
 exurbias 3
 endocrania
-edana 2
+edana 3
 expert 2
 essene 2
 entheal 2
@@ -7421,7 +7421,7 @@ edgings 1
 epentheses 2
 errant 2
 exotic 1
-eleotrid 1
+eleotrid 2
 experiencing 1
 encolumn 1
 etruria 4
