@@ -1763,7 +1763,7 @@ embattle 3
 emule 1
 exhbn 2
 epigraphic 5
-eutony
+eutony 1
 eyes 3
 ewhow 4
 encasing 2
