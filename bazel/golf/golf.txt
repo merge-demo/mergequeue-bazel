@@ -961,7 +961,7 @@ gamophagy 2
 grave 2
 ghostless 2
 glomeruli
-graptolite 1
+graptolite 2
 gunshot 4
 glist 3
 genomic 2
@@ -1127,7 +1127,7 @@ globalization 3
 glossing
 ganoidian 4
 graptolitoidea 3
-gaillardia 2
+gaillardia 3
 geonyctitropic 3
 gutsiest 6
 geotactically 4
@@ -4611,7 +4611,7 @@ glycerizin 2
 griotte 1
 gufought 2
 gloggs 4
-galbulae 4
+galbulae 5
 galipoipin 2
 gamboge 4
 gnaphalium 3
