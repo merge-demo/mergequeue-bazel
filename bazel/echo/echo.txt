@@ -9878,7 +9878,7 @@ endothermous 4
 excludingly 7
 eden 2
 enstatite 3
-equivalency
+equivalency 1
 encodes 3
 epidemical 2
 enodally 1
