@@ -651,7 +651,7 @@ bechances
 beletter 1
 bronchocavernous 2
 bynames
-bungles 2
+bungles 3
 bkpr 1
 boigid 1
 bacterized 2
@@ -944,7 +944,7 @@ bahay 4
 bahaist 1
 blocs 1
 bahamians
-babbitter
+babbitter 1
 boated
 blitheness
 bisulfite 2

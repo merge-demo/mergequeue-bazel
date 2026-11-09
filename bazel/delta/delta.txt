@@ -2007,7 +2007,7 @@ dimble 3
 defaecate 2
 dysphasia 1
 dictation 1
-dacryocele 2
+dacryocele 3
 decadrachma
 decadrachmae 2
 dumbed 3
@@ -5830,7 +5830,7 @@ drengh 3
 deploration
 dismarshall 4
 disauthentic 1
-dextrocerebral 1
+dextrocerebral 2
 depositors 2
 dowel 2
 divestible 2
@@ -13773,7 +13773,7 @@ dacryolin 1
 drank
 dissoul
 droopiness
-desultor 1
+desultor 2
 ditrochous
 disspirit 1
 disspread

@@ -1820,7 +1820,7 @@ eroding 2
 encroached 2
 egotheism 4
 epithalamy 2
-ergatogyny 1
+ergatogyny 2
 ectepicondylar 1
 elbow 3
 exopodite 2
@@ -5752,7 +5752,7 @@ eau 1
 educabilia 2
 etherolate 2
 engirdle 1
-ebullient 2
+ebullient 3
 engrege 3
 engirdled 2
 exodromy 5
@@ -6954,7 +6954,7 @@ erick 2
 eleganter 1
 extrapolations 4
 endarteria 3
-election 2
+election 3
 entourage 2
 empt 3
 enounces 2
@@ -13354,7 +13354,7 @@ embog 1
 enfonce 1
 excretive 2
 estating 4
-emotionalising 1
+emotionalising 2
 erogenous 1
 ethnogeographically 1
 egyptize 1
