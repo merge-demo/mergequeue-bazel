@@ -13315,7 +13315,7 @@ disprovide
 dispurse 1
 distillate 2
 destuffing 2
-daintier
+daintier 1
 dustpoint 3
 dispurvey 1
 disputability 2
