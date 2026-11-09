@@ -2394,7 +2394,7 @@ exanguin 3
 exasperating
 epidotization 5
 exognathion
-etherealisation
+etherealisation 1
 exauthorize 4
 excentricity 3
 electroscopes 1
@@ -12859,7 +12859,7 @@ ensile
 exotics 3
 exotoxic 4
 exacerbate 2
-enlarger 2
+enlarger 3
 ecomomist 3
 ensynopticity 2
 expansum
