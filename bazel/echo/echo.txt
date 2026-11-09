@@ -5569,7 +5569,7 @@ expandability 3
 episcopality 2
 ecphrasis 2
 endoergic
-enfevering
+enfevering 1
 emitters 1
 edwardeanism
 enzootic
@@ -8580,7 +8580,7 @@ earnings
 equibalanced 2
 electrodialitic 1
 equicohesive 1
-equicontinuous 4
+equicontinuous 5
 engagements
 eyebar 3
 endemial
