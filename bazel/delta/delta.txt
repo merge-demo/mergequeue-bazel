@@ -15544,7 +15544,7 @@ decahedra 2
 draegerman
 dessert 2
 directness 1
-duggler
+duggler 1
 donkeywork 2
 dilator 5
 diascord 4
