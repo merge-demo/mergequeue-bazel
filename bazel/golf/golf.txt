@@ -1304,7 +1304,7 @@ geodiatropism 1
 gingilis 4
 garganey 1
 gastropancreatitis 4
-garget 4
+garget 5
 gibbousness 1
 goodie 4
 gamekeeping 2
@@ -3083,7 +3083,7 @@ gaolbird 1
 gaga 4
 geadephagous 3
 glowworms 3
-gucki 2
+gucki 3
 geocline 3
 grits 1
 gipping 3
@@ -10436,7 +10436,7 @@ gesneraceous 3
 gomphodont 2
 geobiologic 2
 gumdigging 2
-gumdrop 2
+gumdrop 3
 gelseminine 2
 gumly 5
 gruffs 3
