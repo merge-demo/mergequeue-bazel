@@ -6741,7 +6741,7 @@ eurytherm 6
 epistrophy 1
 etherate 2
 enthelminthic 1
-exungulate
+exungulate 1
 effume 2
 ectosomal 3
 extratarsal 1
