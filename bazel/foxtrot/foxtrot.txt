@@ -2900,7 +2900,7 @@ fettucini
 fungiferous 2
 fistulate 3
 fruitlet 1
-froglike 2
+froglike 3
 farsightedly 1
 flows 2
 fouettes 2
@@ -8967,7 +8967,7 @@ feverwort 4
 favositoid 3
 formally 2
 fourier
-fanglet 3
+fanglet 4
 fourierism 2
 fourneau 2
 filly 2
