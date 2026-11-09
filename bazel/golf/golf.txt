@@ -1748,7 +1748,7 @@ glibber 3
 gave 2
 gloeal 2
 glessite 1
-goric 1
+goric 2
 glass
 guesses 2
 gamesman 1
@@ -5902,7 +5902,7 @@ glucosidically 1
 goback 2
 gynecide 1
 glebe 4
-ging 1
+ging 2
 glamorizations 1
 ginkgoales 3
 gentilish 1
