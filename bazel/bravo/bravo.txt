@@ -17919,7 +17919,7 @@ broadaxes 2
 bahmanid 3
 belton 3
 befortune
-brahmanda
+brahmanda 1
 bungy
 besour
 beminstrel 2
