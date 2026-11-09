@@ -3071,7 +3071,7 @@ gamelin 2
 genepi 1
 glom 3
 grypanian 1
-gluttonized 2
+gluttonized 3
 gerate 2
 grangerised 3
 geomorphologically 7
@@ -3605,7 +3605,7 @@ gargil 4
 gaelicize 3
 galany 3
 guttiform 2
-gnathic 2
+gnathic 3
 gananciales 2
 gantries 1
 glack
@@ -5833,7 +5833,7 @@ greggle 2
 gather
 gedrite 5
 golliwog 4
-geocarpic 2
+geocarpic 3
 gastriloquy 6
 ginglymoarthrodia 4
 galumptious 3
