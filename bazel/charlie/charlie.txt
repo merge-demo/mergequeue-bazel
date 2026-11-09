@@ -9907,7 +9907,7 @@ chemotaxy 1
 collocatory 2
 chemotaxonomy 2
 chemotaxonomic 1
-controls
+controls 1
 comma 2
 carices 1
 chemotherapeutical
