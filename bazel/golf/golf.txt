@@ -750,7 +750,7 @@ genae 1
 galvanoplasty 3
 grovers 2
 gansa 3
-gastrohysterorrhaphy 3
+gastrohysterorrhaphy 4
 gravitater 2
 gestapos 3
 gerim 3
