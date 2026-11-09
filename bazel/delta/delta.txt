@@ -430,7 +430,7 @@ descanting 1
 dayrooms 1
 deities 3
 dodrantal 1
-dhourra
+dhourra 1
 discoursers 4
 dairous 1
 dairt 2
@@ -9779,7 +9779,7 @@ dilettanti 1
 decriminalizing 2
 dilettantism 1
 diligence 2
-diligences 1
+diligences 2
 diligent 2
 dilis 3
 dillenia

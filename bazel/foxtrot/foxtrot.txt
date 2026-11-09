@@ -5430,7 +5430,7 @@ firstfruits 1
 finnip 1
 fleecy 2
 flyblown 1
-forager 3
+forager 4
 fashion 3
 frolickly 6
 forseek 1
@@ -6187,7 +6187,7 @@ facilitates 3
 fimetarious 5
 forcement 2
 firebreak 1
-funguslike 2
+funguslike 3
 falange 1
 fog 4
 flrie 3
