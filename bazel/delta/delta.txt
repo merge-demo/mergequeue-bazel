@@ -11577,7 +11577,7 @@ deglamorize 2
 disconformities 3
 disconjure 1
 drinkless 2
-disconnectedness
+disconnectedness 1
 diphtheroidal 1
 diphead 1
 disconnecting
