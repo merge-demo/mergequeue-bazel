@@ -2361,7 +2361,7 @@ ccw 1
 canamo 2
 cranesbill 1
 chaetognathous 5
-cicer 1
+cicer 2
 canap 1
 consummator 1
 cabriole 2
@@ -3455,7 +3455,7 @@ chiastolite 3
 capris
 convoking 2
 caprizant
-caldron
+caldron 1
 caproin 3
 camptodrome 1
 causeuse
@@ -9554,7 +9554,7 @@ computational 1
 chapatty
 checkstring 1
 cuissen 1
-checksum
+checksum 1
 construct 2
 checksumming
 castro 1
@@ -15947,7 +15947,7 @@ cyclos 1
 clergymen 1
 chandleries 1
 clergion
-clergywoman 1
+clergywoman 2
 clementine
 culverfoot 1
 clerical
@@ -20202,7 +20202,7 @@ chalcolite 2
 crewelwork 1
 chicagoans 3
 charivan
-commodiously 2
+commodiously 3
 commodiousness
 commodity
 commodities
@@ -23105,7 +23105,7 @@ constantan 2
 constantinian 2
 cephidae 1
 constantinopolitan
-catechumenate 2
+catechumenate 3
 canvassed 2
 constantly
 constantness 1
@@ -23844,7 +23844,7 @@ cystospasm 1
 contrivable 1
 combers 1
 contrivances 1
-contrive
+contrive 1
 curds
 contrived
 contrivedly
@@ -24388,7 +24388,7 @@ cardiophrenia 1
 coolung 1
 coolweed
 coolwort
-coom
+coom 1
 coomb
 canella
 cognomina
@@ -27697,7 +27697,7 @@ cowish 1
 copsole
 circumdate 1
 cowitch 1
-coercionist
+coercionist 1
 corrigendum 1
 cadaveric 4
 chamite 1
