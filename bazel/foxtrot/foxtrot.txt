@@ -2706,7 +2706,7 @@ firebird 2
 feigher 4
 flaggella 2
 factorization 3
-fouette 3
+fouette 4
 fervor 3
 flamenco 1
 frondous 2
@@ -4287,7 +4287,7 @@ ferdwit 2
 foreshortens
 foiblesse 4
 foreordains 3
-fendable 1
+fendable 2
 fastuous 1
 firk 4
 febrifuges 1
@@ -5360,7 +5360,7 @@ fuzzines 7
 fleams 2
 fittier 1
 futuristic 4
-fraughting 1
+fraughting 2
 feedbin 3
 fettles 4
 flanken 1
@@ -6792,7 +6792,7 @@ foldaway 3
 feretory 7
 ferryman 2
 farfal 4
-forethink 6
+forethink 7
 foldcourse 1
 fiberless 4
 folkmoots 1
