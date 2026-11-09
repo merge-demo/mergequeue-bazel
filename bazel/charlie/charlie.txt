@@ -2418,7 +2418,7 @@ cancelment 1
 cessment 1
 containerize
 chimneys 1
-culicine
+culicine 1
 cancer 1
 cancerated 1
 coyed 1
@@ -10480,7 +10480,7 @@ conceptualizing 2
 childlike
 childness
 childre 4
-comicality 2
+comicality 3
 chalicotherium 2
 children 1
 cainogenesis 2
