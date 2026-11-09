@@ -239,7 +239,7 @@ duotoned
 discorrespondency 2
 distrest 2
 dottore 3
-devourable 1
+devourable 2
 demonstratively 4
 daggar 3
 dualities 1
@@ -13473,7 +13473,7 @@ destroys 2
 disrobing
 disroost 1
 demiurgism 1
-disponed
+disponed 1
 disrooted 1
 dissertated 1
 dialectologer
