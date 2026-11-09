@@ -3443,7 +3443,7 @@ embatholithic 3
 enfiladed 2
 extradoses 2
 exteriors 1
-enteropneustan
+enteropneustan 1
 embed 4
 expenditures 2
 electrosynthetic 1
@@ -5042,7 +5042,7 @@ eumitotic
 echinocereus 1
 epichindrotic
 epidendron 3
-endia 2
+endia 3
 equerry 1
 endings 4
 elapsing 2
@@ -13037,7 +13037,7 @@ entrusted 2
 epinaoi
 eraser 3
 escoba 4
-emrode 3
+emrode 4
 expatriated 3
 exhibiting 1
 ebauchoir 5

@@ -9443,7 +9443,7 @@ fraternism 4
 fitfulness 1
 finesses 4
 faux 1
-furcae 5
+furcae 6
 falconbill 2
 familial 4
 fauld 1
@@ -10829,7 +10829,7 @@ fanatical 4
 fulfiller 4
 flambeaux 2
 fumose 3
-fulfillment
+fulfillment 1
 flus 3
 fleetness 1
 flavorous 1
