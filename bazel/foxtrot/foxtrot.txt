@@ -7452,7 +7452,7 @@ flutelike 2
 forcipressure 3
 frigidoreceptor 3
 foy 4
-fossick 2
+fossick 3
 feinschmecker 4
 fiftypenny 3
 feminine
@@ -9593,7 +9593,7 @@ fortifications 1
 fishpound 4
 fivestones 2
 ferrotyper 3
-forhooy 2
+forhooy 3
 fothering 5
 flanger 5
 flagellant 3
