@@ -9507,7 +9507,7 @@ decide 2
 digesture 2
 dinarzade
 disapproval 1
-diggable 2
+diggable 3
 digged 3
 deuterostome 2
 demonstrational 5
@@ -13523,7 +13523,7 @@ dolesome 2
 diocletian 4
 duchesses 4
 dissuadable 2
-disseason 1
+disseason 2
 disseat 1
 disgood 3
 diphyodont 4
