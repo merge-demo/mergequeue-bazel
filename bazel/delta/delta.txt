@@ -574,7 +574,7 @@ deludes
 damasking 3
 damassin 2
 deiformity
-diiodotyrosine
+diiodotyrosine 1
 didepside
 districted 2
 dropworm 2
@@ -11773,7 +11773,7 @@ discrepated 1
 diskless 4
 discrepation
 dullardism 2
-dehydrogenize 1
+dehydrogenize 2
 drawplate
 dexamethasone 1
 distally
@@ -12764,7 +12764,7 @@ distasted 3
 drogher
 diaschisma 1
 dislodgment 2
-docimasy 4
+docimasy 5
 doily 1
 disloyal
 disencourage 3
