@@ -1763,7 +1763,7 @@ embattle 3
 emule 1
 exhbn 2
 epigraphic 5
-eutony
+eutony 1
 eyes 3
 ewhow 4
 encasing 2
@@ -2766,7 +2766,7 @@ egards 3
 esterizing 1
 excuderunt 4
 elegized 3
-elegizes 3
+elegizes 4
 eleidin 3
 encrusts 2
 eutocia 1
