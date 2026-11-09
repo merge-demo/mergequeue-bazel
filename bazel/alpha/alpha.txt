@@ -5123,7 +5123,7 @@ avocate 2
 aestivates
 azotite 1
 admonisher
-accosting 1
+accosting 2
 acquainting
 amenia 1
 arrantly 1
@@ -16846,7 +16846,7 @@ abscissin 5
 aphthartodocetic
 acromonogrammatic 2
 aphthong 2
-arkite
+arkite 1
 admittedly
 apyrene 2
 anaerobe 1
