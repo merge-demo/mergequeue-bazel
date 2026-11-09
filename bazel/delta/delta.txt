@@ -5742,7 +5742,7 @@ dolls
 deplumes 2
 dentation 1
 dewanee 1
-doliolum 3
+doliolum 4
 deoxidiser
 demonland 2
 depoetize 1
@@ -13315,7 +13315,7 @@ disprovide
 dispurse 1
 distillate 2
 destuffing 2
-daintier
+daintier 1
 dustpoint 3
 dispurvey 1
 disputability 2
@@ -16120,7 +16120,7 @@ doulocracy 3
 doum 2
 douma 4
 didynamy 1
-discrowned 4
+discrowned 5
 disharmonise 2
 doup 2
 dingee 1

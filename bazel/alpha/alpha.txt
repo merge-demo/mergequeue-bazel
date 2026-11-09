@@ -2052,7 +2052,7 @@ achatinidae 2
 ache 1
 alkalinising 1
 artemisin 1
-affiliation 1
+affiliation 2
 amylohydrolytic
 antiputrefactive 2
 anammonid 1
@@ -15906,7 +15906,7 @@ aliquot
 antiprelatist 1
 archils 1
 antipriest 3
-annelidian 2
+annelidian 3
 anno 1
 antipriesthood 1
 aminotriazole 2
