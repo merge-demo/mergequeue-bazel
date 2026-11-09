@@ -1349,7 +1349,7 @@ aqueducts
 accelerators 1
 amlet 2
 aumbries
-accelerometer 1
+accelerometer 2
 accelerometers
 anticatholic 1
 anapaestical 1
@@ -3389,7 +3389,7 @@ antipope
 arbored 2
 anaqua 2
 adapting 3
-acknowledging
+acknowledging 1
 abelmoschus 3
 alter
 arnement
@@ -14480,7 +14480,7 @@ ackey
 antiuating
 anthrophore
 anthropical 2
-acquisition 2
+acquisition 3
 anthropobiology 1
 apneumatosis 1
 automaton
