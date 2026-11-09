@@ -5302,7 +5302,7 @@ axon
 affixal 1
 astipulate 1
 astrid 2
-americanoid 5
+americanoid 6
 affixation
 amortization
 affixed 1
@@ -21875,7 +21875,7 @@ agly 1
 abutted 1
 assish 2
 averrhoa 2
-assishly
+assishly 1
 aculeated 1
 adapted
 aplacophoran 1

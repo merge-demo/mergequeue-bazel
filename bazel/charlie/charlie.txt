@@ -6056,7 +6056,7 @@ catkin 1
 catkinate
 catkins
 curatory
-candify 1
+candify 2
 catlike
 crowns 1
 catling 2
@@ -15608,7 +15608,7 @@ captainly 1
 clattering 2
 chicaner
 capryl 1
-conure
+conure 1
 colorfully
 corvinae 1
 ceratodus 3
@@ -25046,7 +25046,7 @@ corduroying 1
 corduroys
 chiliadic
 choppered 1
-cuprotungstite 1
+cuprotungstite 2
 cordwainer
 choleraic
 cloves 2
@@ -29128,7 +29128,7 @@ crinoidea 2
 cachexy 2
 casper 1
 chicagoan
-crinoidean 2
+crinoidean 3
 crinoids 1
 cuadrillero 1
 corundums 3
