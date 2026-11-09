@@ -11386,7 +11386,7 @@ facies
 furnish 5
 fluorindine 5
 furnishable 5
-fluoroformol 3
+fluoroformol 4
 frontirostria 3
 forgiveably 2
 footballer 2

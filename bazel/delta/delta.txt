@@ -18559,7 +18559,7 @@ deny 1
 dappled 1
 durrin 2
 dig 1
-durrs 2
+durrs 3
 durukuli 2
 disanimated 2
 dyslexic 5
