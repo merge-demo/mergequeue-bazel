@@ -17606,7 +17606,7 @@ cumins
 cayennes
 culrage 1
 coccochromatic 1
-coccogone
+coccogone 1
 coccogoneae
 concyclically 1
 coccoidal
