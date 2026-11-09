@@ -2423,7 +2423,7 @@ aftertime
 ackmen 1
 acanthocephali
 algonquin 1
-aluminized
+aluminized 1
 antitartaric
 anoil 2
 autoriser 1
@@ -3260,7 +3260,7 @@ armagnacs 1
 acupuncturing 2
 antivenomous
 acupuncturist 3
-acus 1
+acus 2
 atrabile
 anisotropism
 atresy 3
@@ -3666,7 +3666,7 @@ adenophlegmon 1
 appulsively 4
 antestature 1
 adenophora 1
-abscissas 3
+abscissas 4
 avianizing
 archaize 2
 advisorily
@@ -9148,7 +9148,7 @@ alman 2
 adenovirus
 almander 1
 aeginetic 3
-almandines 2
+almandines 3
 agalactous
 antiputrefaction
 averter 1
@@ -9490,7 +9490,7 @@ alternater
 alternatingly
 aphrodite 1
 animals
-acinarious
+acinarious 1
 attemperate 3
 antivenins
 alternatively 2
@@ -14731,7 +14731,7 @@ appointee 1
 antidiffuser 1
 acushla
 actorish 1
-ambulacral 1
+ambulacral 2
 attractableness 1
 antisex
 antiblastic 1
@@ -15859,7 +15859,7 @@ antiplurality 1
 antipodal 1
 antipode 2
 antipodic 4
-autocoprophagous 1
+autocoprophagous 2
 argufied
 antipodism 1
 antipoetical
@@ -20471,7 +20471,7 @@ absey
 astate
 alaunian 1
 axers 1
-adjectivally 3
+adjectivally 4
 agrarian
 auctary 2
 arterying
@@ -21723,7 +21723,7 @@ assemble 1
 added 1
 acetabularia 1
 assembled 1
-altitude 2
+altitude 3
 anthropophaginian
 anniv 2
 antrocele 2
@@ -22755,7 +22755,7 @@ antichlor
 ahurewa 1
 anglewing 2
 arhar 1
-antipedobaptism 1
+antipedobaptism 2
 auditorially 2
 australianize 3
 arras
