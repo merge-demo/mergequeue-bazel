@@ -4314,7 +4314,7 @@ decomposes 1
 dhoney 1
 deplores 2
 demagnetizing 1
-devilbird
+devilbird 1
 devoutness
 durning
 delimit
@@ -6992,7 +6992,7 @@ desalinizes 2
 despitefulness
 disray
 despiteously 3
-despites
+despites 1
 decease 1
 diogenite 3
 dithionite 3
@@ -11655,7 +11655,7 @@ discordance 5
 dedenda 1
 discordancy
 deregulating 5
-discordancies 2
+discordancies 3
 discordant 1
 dialling 2
 dipetalous 2
@@ -16828,7 +16828,7 @@ dissociable 2
 disring 2
 dendrodus 3
 diaphanoscopy 1
-deprecatingly 2
+deprecatingly 3
 drumbeat 4
 drillbit 2
 darbukka
@@ -17367,7 +17367,7 @@ doigt 1
 derivability 1
 delime 1
 dillydallies
-deallocation 2
+deallocation 3
 delactation
 deviants 1
 diduced 1
