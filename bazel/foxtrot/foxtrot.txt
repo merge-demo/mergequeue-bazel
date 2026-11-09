@@ -852,7 +852,7 @@ failsafe 3
 farforthly 5
 flexing 1
 fellness 4
-farenheit 3
+farenheit 4
 fantasmal 4
 fundus 1
 fantasms 1
@@ -1076,7 +1076,7 @@ flichters 1
 foreswear 4
 feriae 4
 farreachingly 3
-fernleaf 1
+fernleaf 2
 federates 4
 farrel 2
 figuresome 3
@@ -3382,7 +3382,7 @@ fieldleft 2
 ferrean 1
 freewomen 6
 fanioned 3
-folily 7
+folily 8
 feeless 5
 familistic
 foreyards 2
