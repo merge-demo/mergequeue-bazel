@@ -151,7 +151,7 @@ daemonistic 1
 disconducive 2
 decarboxylated 1
 depopulates 2
-displacency
+displacency 1
 dewtry 1
 defog 1
 dadenhudd 2
@@ -3811,7 +3811,7 @@ despited 4
 describes 2
 diarrhoea 1
 drivelers 2
-disunities 3
+disunities 4
 deigned
 diwan
 durani
