@@ -14008,7 +14008,7 @@ expirers 1
 exiling 4
 exsertile 2
 elderbrotherly
-extrasocial 1
+extrasocial 2
 ectophyte
 eshin 2
 enripen
