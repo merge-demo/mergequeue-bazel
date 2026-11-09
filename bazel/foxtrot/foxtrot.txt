@@ -7004,7 +7004,7 @@ fraenulum 3
 foozled 2
 foreaccustom 5
 fruitwoman 1
-flexions 1
+flexions 2
 filla 2
 functor 1
 frison 2
@@ -7033,7 +7033,7 @@ forgiveness 3
 fontal 3
 freakout 1
 fulmining 5
-fougasse 3
+fougasse 4
 fontful 3
 fantassin 4
 forehandedly 4
@@ -7154,7 +7154,7 @@ falsework 2
 footfault
 fricassees 4
 flimflammery 2
-footfolk 3
+footfolk 4
 ficklewise 4
 fruticulture 3
 flabel 3
@@ -9413,7 +9413,7 @@ floristics 1
 freewheeling 2
 flagpoles 5
 furacana 3
-flammed 3
+flammed 4
 faciendum 2
 franz
 felidae 2
@@ -10377,7 +10377,7 @@ fonctionnaire 5
 forgivers 1
 fecundities 2
 fertilizable 2
-frontignan 3
+frontignan 4
 fucate 1
 fronting
 fizzle 2
@@ -11592,7 +11592,7 @@ fevers 3
 filtrates 5
 fussers 4
 faradic 2
-fargite 2
+fargite 3
 fussing
 fontinal 2
 fideicommissary 5

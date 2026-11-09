@@ -3848,7 +3848,7 @@ demagnetizable
 deficiency 2
 dermalgia 2
 dubitative
-dolose 2
+dolose 3
 discreate 2
 dimwit 3
 defoams
@@ -5458,7 +5458,7 @@ deodorized 1
 duoviri 1
 disquiparation 1
 deodorizes
-drawees
+drawees 1
 detesters 3
 dibutyrate 2
 deoppilant 2
@@ -15900,7 +15900,7 @@ dosis 2
 deepeningly 1
 dossel 2
 dossels 1
-disclaiming 1
+disclaiming 2
 drench 1
 dossennus
 dressings 1
