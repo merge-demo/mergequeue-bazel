@@ -5641,7 +5641,7 @@ barristerial
 bathrobe
 busheller 2
 bovovaccination
-bolognan 1
+bolognan 2
 blowpipes 1
 bytime 4
 brunettes 1
@@ -9394,7 +9394,7 @@ birdsnest 1
 bungfu
 bargehouse 1
 borak
-befitting 1
+befitting 2
 basichromatic 1
 bluegums 2
 belabours 1
@@ -10454,7 +10454,7 @@ bayoneteer
 brachysclereid 3
 blashy 2
 bhutan 2
-bathmic
+bathmic 1
 blason 1
 blasphemed 2
 blasphemes 2
@@ -10827,7 +10827,7 @@ bhikku
 banished 2
 blethe
 bromomethane 1
-balate
+balate 1
 blethered 1
 barathra 1
 bletilla 5
@@ -14764,7 +14764,7 @@ bilamellated 2
 biaxillary 1
 beniseed 1
 behalves 2
-brawnily 3
+brawnily 4
 bloodsuckers 1
 budbreak
 blacklegs 3
