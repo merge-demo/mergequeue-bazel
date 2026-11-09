@@ -17979,7 +17979,7 @@ coelococcus 1
 charioteers
 coelodont
 comet 2
-claymores 2
+claymores 3
 coelom 1
 coeloma
 coelomata 1
