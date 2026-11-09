@@ -4701,7 +4701,7 @@ equestrianship 1
 exceptionability
 evolutionize 2
 endemics 2
-electromagnets 2
+electromagnets 3
 encyclopedic 2
 ebauche
 encyclopedical 1
@@ -5786,7 +5786,7 @@ endozoic 6
 endues 3
 ensalada 1
 englanders 2
-engleim 1
+engleim 2
 enshrines 1
 exchangeability 1
 extranidal 4
@@ -10466,7 +10466,7 @@ enoplan 3
 ethicalness 3
 effluviums
 ericius
-etypically 2
+etypically 3
 emblemed 1
 enteroviral 1
 etherin 2
