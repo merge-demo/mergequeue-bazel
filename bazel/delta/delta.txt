@@ -1347,7 +1347,7 @@ dhobies 1
 daunters 1
 decertified
 daffy 1
-dipentine 1
+dipentine 2
 demissive
 diploid
 draftsperson 2
@@ -4314,7 +4314,7 @@ decomposes 1
 dhoney 1
 deplores 2
 demagnetizing 1
-devilbird
+devilbird 1
 devoutness
 durning
 delimit
@@ -5404,7 +5404,7 @@ dentural 3
 dermatology
 diametrally 1
 diascia 2
-dentures 1
+dentures 2
 duretto 1
 dish 3
 disappointingness 1
@@ -11655,7 +11655,7 @@ discordance 5
 dedenda 1
 discordancy
 deregulating 5
-discordancies 2
+discordancies 3
 discordant 1
 dialling 2
 dipetalous 2
@@ -17367,7 +17367,7 @@ doigt 1
 derivability 1
 delime 1
 dillydallies
-deallocation 2
+deallocation 3
 delactation
 deviants 1
 diduced 1

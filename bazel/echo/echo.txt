@@ -5782,7 +5782,7 @@ embossments 1
 esophagomalacia 5
 emaciation 2
 eddying 2
-endozoic 5
+endozoic 6
 endues 3
 ensalada 1
 englanders 2
@@ -10559,7 +10559,7 @@ elbuck 1
 euchology
 endocrinological 1
 evangelistarium 1
-effuse 2
+effuse 3
 equationist
 endboard
 eclectical 3
@@ -13362,7 +13362,7 @@ emporiria 1
 extraenteric
 epicorolline 1
 elegizing 2
-exposes 4
+exposes 5
 encrustant 2
 envassalage 2
 encrownment
@@ -13715,7 +13715,7 @@ exhaustedness
 elocular 3
 ecologies 1
 eliciting 1
-elementarity 4
+elementarity 5
 epicarid 4
 elatine 1
 endnote 2

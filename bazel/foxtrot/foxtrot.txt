@@ -3082,7 +3082,7 @@ fatstock 2
 finances 3
 forfeitableness 2
 festology 1
-familiarizes 2
+familiarizes 3
 fooler 1
 foreclosing 3
 feroce 6
@@ -6278,7 +6278,7 @@ fortissimos 2
 footlock
 fluidmeter 2
 fearnought 3
-fakirism 1
+fakirism 2
 forceful 5
 fluidounce 6
 factory 1
@@ -9176,7 +9176,7 @@ fooyung 1
 fadednyess 2
 figulines 5
 fossilization
-filmize 1
+filmize 2
 fashionmonging 1
 fenagles
 fusses 4
