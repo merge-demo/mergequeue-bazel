@@ -15751,7 +15751,7 @@ confectioneries
 clean 2
 cleaned
 chloramine 1
-cleanest
+cleanest 1
 chinching
 caissoned 3
 cleanhanded 1
