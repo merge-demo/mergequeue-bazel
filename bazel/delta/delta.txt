@@ -4854,7 +4854,7 @@ deathcups
 dimmedness
 diestrum 1
 dognapers
-durableness
+durableness 1
 demonise 3
 dactyliotheca 1
 dodlet
