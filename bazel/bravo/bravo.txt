@@ -3122,7 +3122,7 @@ bismarck 1
 bustards 3
 boswellize
 basella 4
-basellaceae
+basellaceae 1
 bespattering
 brothels 1
 breakouts 1
@@ -9647,7 +9647,7 @@ borate 3
 bisync
 boolies 1
 bisischiatic
-bauera 4
+bauera 5
 bisk
 bisks 2
 bysmalith 1
