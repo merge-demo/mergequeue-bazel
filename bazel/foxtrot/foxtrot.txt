@@ -569,7 +569,7 @@ flichtering 2
 faradized 2
 famine 2
 fussed 1
-folklorism
+folklorism 1
 forjudger 3
 falloff 4
 flamier
@@ -874,7 +874,7 @@ forzando 5
 fourchette 2
 fireworks 1
 folliculose 6
-footworks
+footworks 1
 florivorous 3
 feverfews 1
 fantastication
@@ -3196,7 +3196,7 @@ furanoses 2
 footballist 2
 firma 1
 feministic 3
-fauns 1
+fauns 2
 ficaries 1
 flouse 2
 fices
@@ -3766,7 +3766,7 @@ fertilizability 3
 funnily 5
 flippantness 1
 faultlessly 2
-fortressed 5
+fortressed 6
 frizettes 1
 furoate 2
 failure 1
@@ -9585,7 +9585,7 @@ floreta 2
 frontopontine 1
 fizzed 1
 fichus 1
-friableness 3
+friableness 4
 fusteric 3
 frizzing 4
 fraternality 2
@@ -11024,7 +11024,7 @@ fumigated 5
 fierce 2
 flutidae 1
 femororotulian 2
-floriferously 1
+floriferously 2
 festal 4
 furzery 2
 fuming 3

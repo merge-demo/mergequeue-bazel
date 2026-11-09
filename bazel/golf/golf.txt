@@ -100,7 +100,7 @@ gynobaseous 1
 goldthread 4
 goodnaturedness 2
 glassily 3
-greengill 3
+greengill 4
 gadgetry 2
 geezer 2
 gluers 2
@@ -3552,7 +3552,7 @@ guytrash 4
 gynecolatry 1
 grenadin 1
 goth 1
-geums 5
+geums 6
 gangues 3
 garmentworker 1
 ganglions 1
@@ -3792,7 +3792,7 @@ gibber 1
 gaslightness 2
 gibberellin 2
 grandmotherhood 5
-gaffing 4
+gaffing 5
 greenhew 1
 goffers 2
 geodetics 2
@@ -5668,7 +5668,7 @@ glissando 3
 ginglymodian 1
 grandsons 3
 gies 2
-glorying 2
+glorying 3
 gobbledegook 2
 gatemen 5
 gant 1
@@ -7132,7 +7132,7 @@ genealogize 4
 gastrocystic 2
 goran 2
 gynecoid 3
-grinderman 2
+grinderman 3
 gorbelly 2
 gyttja 4
 gremio 3
@@ -7545,7 +7545,7 @@ garbled 1
 goldarns 2
 gravimeter 2
 gallycrow 2
-ganocephalous 3
+ganocephalous 4
 gilaki 1
 galinaceous 5
 guserid 1
