@@ -706,7 +706,7 @@ amyloplastic
 apiales
 abounding 2
 acrolithic
-abounds
+abounds 1
 about 1
 anticytotoxin 3
 astrofel 1
@@ -7481,7 +7481,7 @@ archivist
 albugines
 apometabolous
 amban 2
-albuginitis 1
+albuginitis 2
 album 1
 algedonic
 admittee 3
