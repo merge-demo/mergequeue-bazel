@@ -670,7 +670,7 @@ gangboard 3
 gallows 3
 gonitis 3
 giddify 3
-geoaesthesia 1
+geoaesthesia 2
 gript 3
 giterne 1
 grapelet 6
@@ -4229,7 +4229,7 @@ ghibelline 3
 gynaecium 4
 gunned 4
 grovel 1
-goloka 1
+goloka 2
 gois 3
 gaetuli 5
 gyromagnetic 1
