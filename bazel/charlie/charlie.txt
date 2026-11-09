@@ -9554,7 +9554,7 @@ computational 1
 chapatty
 checkstring 1
 cuissen 1
-checksum
+checksum 1
 construct 2
 checksumming
 castro 1
