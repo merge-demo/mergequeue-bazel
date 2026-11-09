@@ -5632,7 +5632,7 @@ autocystoplasty 3
 anticorrosion
 afwillite
 afzelia 2
-apsychia 1
+apsychia 2
 adjustable 2
 amidstream 2
 aga 1
@@ -24648,7 +24648,7 @@ avenage 1
 acreable
 avenant 1
 avenary
-avenge
+avenge 1
 abnegated 1
 actinomycin 3
 absurdness 3
