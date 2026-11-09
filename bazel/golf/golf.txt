@@ -2580,7 +2580,7 @@ gauchely 2
 gabbards
 gristy 3
 gangliasthenia 1
-goosefish
+goosefish 1
 granodiorite 2
 giltheads
 guillotined 6
@@ -6148,7 +6148,7 @@ geese 2
 gatefolds 4
 globical 3
 glavered 1
-gardy 3
+gardy 4
 grumpish 5
 gnapweed 4
 gallification 1
@@ -7590,7 +7590,7 @@ gaumy 2
 gyrus 1
 gheraoes 1
 grille 5
-glycosaemia 5
+glycosaemia 6
 gambians 2
 gunfought 4
 grab 2
@@ -7868,7 +7868,7 @@ gastrohysteropexy 2
 gumby 3
 gumptious 1
 glochis 3
-gour 5
+gour 6
 gardevin 3
 greece 3
 galvanometrical 3
@@ -9925,7 +9925,7 @@ grata 3
 genevese 3
 girderless 2
 glebes 2
-greylags 4
+greylags 5
 geoparallelotropic 2
 gateway 6
 grisailles 2
@@ -10342,7 +10342,7 @@ gown 2
 gonoph 2
 grot 3
 glebal 5
-guarana 1
+guarana 2
 gaums 4
 gulfweeds 4
 gadgety 3
