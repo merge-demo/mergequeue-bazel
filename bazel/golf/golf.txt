@@ -1604,7 +1604,7 @@ gl 3
 graphology 3
 guiltily 2
 gunz 1
-goodeniaceous
+goodeniaceous 1
 geulah 5
 galavant
 glottic 2
@@ -10299,7 +10299,7 @@ gigantically 3
 gorges 2
 gridded
 galliard 4
-gulpier 3
+gulpier 4
 galactosidase 2
 girasol 1
 gault 5
