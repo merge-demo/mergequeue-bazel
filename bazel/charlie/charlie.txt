@@ -9907,7 +9907,7 @@ chemotaxy 1
 collocatory 2
 chemotaxonomy 2
 chemotaxonomic 1
-controls
+controls 1
 comma 2
 carices 1
 chemotherapeutical
@@ -11297,7 +11297,7 @@ chlorocarbonate
 casualty 1
 chlorochromic
 chlorococcaceae 1
-cologned 2
+cologned 3
 chlorococcales
 coincider
 chlorococcus 1

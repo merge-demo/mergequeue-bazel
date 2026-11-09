@@ -3412,7 +3412,7 @@ firmation 3
 flowcharts 2
 fiascoes 5
 foretalk 2
-fiendly 1
+fiendly 2
 featurely 4
 fc 1
 fetishlike 2
@@ -4287,7 +4287,7 @@ ferdwit 2
 foreshortens
 foiblesse 4
 foreordains 3
-fendable 1
+fendable 2
 fastuous 1
 firk 4
 febrifuges 1
@@ -6316,7 +6316,7 @@ filate 4
 fitting
 ferriprussiate 4
 fibropurulent
-fringed 5
+fringed 6
 facadal 5
 floreted 3
 flunkey 1
@@ -6792,7 +6792,7 @@ foldaway 3
 feretory 7
 ferryman 2
 farfal 4
-forethink 6
+forethink 7
 foldcourse 1
 fiberless 4
 folkmoots 1
