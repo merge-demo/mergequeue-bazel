@@ -711,7 +711,7 @@ equidistant 3
 eidently
 enode 2
 eyefuls 2
-enterozoa 4
+enterozoa 5
 equalable
 expressionable 3
 epiglottic 3
@@ -951,7 +951,7 @@ ecttypal 3
 equates 4
 emanatory 6
 exeresis 2
-ecuadorian 3
+ecuadorian 4
 ecumenacy
 engraffing 3
 equilibristic 4
@@ -4149,7 +4149,7 @@ epirote
 eiffel 4
 ensheathed 3
 every 1
-etymologically 1
+etymologically 2
 endurability
 entombments 2
 eniac 3
@@ -12208,7 +12208,7 @@ economised 1
 emoluments 4
 execrator 4
 emeraude 4
-enthroning 3
+enthroning 4
 empiriocritical 3
 ephemera 3
 execute 2
@@ -12811,7 +12811,7 @@ exoterica 1
 elementalistically 5
 excitomotor 2
 embryology
-epicystotomy
+epicystotomy 1
 equine 1
 emajagua 3
 exoterical 2
@@ -12977,7 +12977,7 @@ equanimously 4
 expecter 4
 expecting
 expectingly 1
-enzym 2
+enzym 3
 encephalopyosis 3
 erminette 3
 etheling 3
