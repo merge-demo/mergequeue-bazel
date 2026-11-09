@@ -12208,7 +12208,7 @@ ancestral
 antlerite 1
 ancestry
 autocue 3
-astronautical 4
+astronautical 5
 allodge
 asgard 1
 andaman
