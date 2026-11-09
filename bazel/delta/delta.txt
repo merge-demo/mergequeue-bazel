@@ -574,7 +574,7 @@ deludes
 damasking 3
 damassin 2
 deiformity
-diiodotyrosine
+diiodotyrosine 1
 didepside
 districted 2
 dropworm 2
@@ -802,7 +802,7 @@ danegelds 3
 dungeon 1
 deckhead 1
 daneweed 1
-daneweeds 2
+daneweeds 3
 detections 3
 disingenious 1
 dangerously 4
@@ -2224,7 +2224,7 @@ decasualise 2
 disgavel
 decasualized 2
 dialectological 2
-didymous 1
+didymous 2
 decathlons
 disunionist 4
 digitoxose
@@ -3848,7 +3848,7 @@ demagnetizable
 deficiency 2
 dermalgia 2
 dubitative
-dolose 2
+dolose 3
 discreate 2
 dimwit 3
 defoams
@@ -5458,7 +5458,7 @@ deodorized 1
 duoviri 1
 disquiparation 1
 deodorizes
-drawees
+drawees 1
 detesters 3
 dibutyrate 2
 deoppilant 2
@@ -8821,7 +8821,7 @@ diazotized 2
 devolatilising 1
 dysphotic 1
 dodecagonal
-divination 1
+divination 2
 dib 4
 dyspraxia
 dibbing 2
@@ -10698,7 +10698,7 @@ dipnoans
 danelaw 4
 doublewords
 dipodic 2
-dipodid 5
+dipodid 6
 deleble 2
 destained 1
 depastured
@@ -11773,7 +11773,7 @@ discrepated 1
 diskless 4
 discrepation
 dullardism 2
-dehydrogenize 1
+dehydrogenize 2
 drawplate
 dexamethasone 1
 distally
@@ -12235,7 +12235,7 @@ durous 1
 detector 2
 dampers 1
 deviators 2
-dysfunctions 1
+dysfunctions 2
 disfurnish 3
 deport 1
 disfurnished 1
@@ -12764,7 +12764,7 @@ distasted 3
 drogher
 diaschisma 1
 dislodgment 2
-docimasy 4
+docimasy 5
 doily 1
 disloyal
 disencourage 3
@@ -13216,7 +13216,7 @@ ducat
 determinator 3
 draftman 2
 desexualization 1
-diapensiaceae
+diapensiaceae 1
 dorsocephalad
 disconcertment 1
 dyspnoeal 2
@@ -15900,7 +15900,7 @@ dosis 2
 deepeningly 1
 dossel 2
 dossels 1
-disclaiming 1
+disclaiming 2
 drench 1
 dossennus
 dressings 1

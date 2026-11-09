@@ -4276,7 +4276,7 @@ exclusivism 1
 eptatretus 1
 emulsion
 exemplifiable 4
-etherene 3
+etherene 4
 esotrope 1
 excruciatingly 3
 earjewel 3
@@ -5693,7 +5693,7 @@ elephanta 2
 eng 1
 esurience
 evangelicals 1
-exomorphism
+exomorphism 1
 euploid 2
 extrarenal 2
 endophasic 3
@@ -8014,7 +8014,7 @@ ernestine 2
 ecological 3
 elitism
 epicleidian 2
-exorganic 2
+exorganic 3
 endocannibalism 2
 embrasured 3
 epiotic 4
@@ -9247,7 +9247,7 @@ existences
 ejido 1
 engraftation 3
 errancies 1
-endospermous 1
+endospermous 2
 entrapments 2
 egressing 1
 electra 1
