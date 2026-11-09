@@ -1774,7 +1774,7 @@ balloonet 1
 bedsprings 1
 bambute 1
 blackheart 2
-becombed 2
+becombed 3
 baserunning 4
 belonid
 bikie 1
@@ -2753,7 +2753,7 @@ blam 1
 brainache 3
 beachside 2
 burthenman 2
-borromean 4
+borromean 5
 bibliolater 2
 backspringing 1
 bethorned 2
@@ -2948,7 +2948,7 @@ berberins 3
 bloodybones 2
 billowed 3
 bonus 1
-beath 2
+beath 3
 battalias 2
 bigeyes
 bennettitaceous 3
@@ -3340,7 +3340,7 @@ bromargyrite 3
 basketwork 3
 beggiatoaceous 1
 blueballs 1
-baskish 2
+baskish 3
 basnat
 boller
 binarium 1
@@ -5985,7 +5985,7 @@ bossier
 befooling
 brewis
 bribeability 4
-bruises 1
+bruises 2
 bitterbark 1
 bemean
 biphenyls 1
@@ -6447,7 +6447,7 @@ bisulcate 3
 bulldogged 2
 biostratigraphy 1
 borderings 1
-bergmannite 4
+bergmannite 5
 bilati
 beothukan 4
 bellicose 2
@@ -6660,7 +6660,7 @@ berycoidea 2
 barpost 4
 berycomorphi 2
 bunsenite
-berigora 3
+berigora 4
 beryl 1
 beryllonate 3
 berimed 2
@@ -11950,7 +11950,7 @@ bessarabian 5
 brinded 1
 bogyism
 bogyman 3
-broncobusters 2
+broncobusters 3
 bandagers
 birmingham 1
 bbls
@@ -13523,7 +13523,7 @@ beleft 6
 boisterousness
 becursing 1
 backhanded 3
-butterbough 2
+butterbough 3
 barnacled 1
 bibliophile 4
 bra 3
@@ -13897,7 +13897,7 @@ benzopyran 2
 bankroll
 bodkinwise
 bacteriotherapy 1
-baccalaurean 2
+baccalaurean 3
 bowshot 1
 bulbaceous 1
 brainish 2
@@ -17297,7 +17297,7 @@ benedick 3
 bunts
 boniest
 bantams
-bummel 6
+bummel 7
 bummie 3
 bumming 2
 basilweed 2
@@ -17383,7 +17383,7 @@ bunger 1
 bimorphemic
 bijection 1
 bunghole
-biathlons 3
+biathlons 4
 brachistochronic
 beignets 1
 bottles 2
