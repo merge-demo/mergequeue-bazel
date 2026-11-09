@@ -3030,7 +3030,7 @@ ebenezer 1
 elitist 2
 elytrocele 3
 epidotes 3
-elytroposis 3
+elytroposis 4
 elytrorhagia 3
 euglandina
 elytrostenosis 3
@@ -3450,7 +3450,7 @@ electrosynthetic 1
 equaled 1
 evacuate 1
 eventide 6
-embellisher 1
+embellisher 2
 embellishers 1
 eutelegenic 1
 enchained 2
@@ -4862,7 +4862,7 @@ estrous 5
 excellences 4
 epigne 1
 ephydriad 2
-expertise 3
+expertise 4
 emblematizing 1
 encourages 1
 embusy
