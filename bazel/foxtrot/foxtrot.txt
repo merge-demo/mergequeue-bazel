@@ -1602,7 +1602,7 @@ faffle 6
 funambulo 1
 functionating 2
 fallalery 1
-faniente
+faniente 1
 favouring 2
 footroom 4
 floriage 5
@@ -2599,7 +2599,7 @@ fangle 5
 fiscality 1
 featherlight 2
 filthy 1
-feoffed 2
+feoffed 3
 fancily 1
 foresheet 1
 ferromanganese 3
@@ -3877,7 +3877,7 @@ fulgurous
 feces 3
 frustulum 2
 flet 2
-fleshpots 1
+fleshpots 2
 forewoman
 fieldball 2
 floria 1
@@ -4644,7 +4644,7 @@ formulations 1
 fireboard 3
 fluctuate 2
 fossane 2
-fitzroya 2
+fitzroya 3
 federatively 5
 faussebraye
 fatherless 2
@@ -4818,7 +4818,7 @@ fancifulness 2
 flinching 3
 floatiest 4
 fullwords 3
-faena
+faena 1
 fellowshipping 1
 falsen 3
 forties
@@ -7755,7 +7755,7 @@ fritters 4
 fidicula 2
 franciscanism 2
 fisticuffery 2
-favillous 3
+favillous 4
 flabelliform 2
 forsaker 4
 foremasts 2
@@ -8271,7 +8271,7 @@ fixers 2
 faverole 5
 fractionalizing 3
 friction 1
-forging 1
+forging 2
 furacity 4
 formous 3
 forgings 2
@@ -9508,7 +9508,7 @@ freaky
 fliffus 2
 frappes 2
 figurers 1
-floppiness 4
+floppiness 5
 fattrels 2
 faithworthy 3
 frontways 2
@@ -10271,7 +10271,7 @@ ferricyanhydric 5
 frolicsome 1
 fishful 1
 fratched 2
-frammit 4
+frammit 5
 fibrinolysin 4
 fatheadedness 1
 falernian 3
@@ -11076,7 +11076,7 @@ freightment 1
 flense 4
 footrace 5
 flew
-falconet 3
+falconet 4
 flangeless 3
 fracturs 1
 forbidder 1
@@ -11351,7 +11351,7 @@ firepans
 feuds 4
 fiasco
 fannies 3
-furloughed 4
+furloughed 5
 ferlied 2
 flustrine 2
 fuchsin 1
