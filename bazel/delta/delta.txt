@@ -5986,7 +5986,7 @@ debord
 decuples
 dragons 1
 diopside
-delictus 2
+delictus 3
 deed 1
 durezza 3
 depsides
@@ -8137,7 +8137,7 @@ disambiguate
 disventure 2
 delineate
 domesticized 1
-deepener 3
+deepener 4
 diacaustic
 diamminonitrate 4
 diapasons 1
