@@ -4276,7 +4276,7 @@ exclusivism 1
 eptatretus 1
 emulsion
 exemplifiable 4
-etherene 3
+etherene 4
 esotrope 1
 excruciatingly 3
 earjewel 3
@@ -4527,7 +4527,7 @@ embiidae 1
 encephalomyelitic 1
 epochally 1
 extramorainal 1
-easement 3
+easement 4
 epirrheme 1
 encephalomyelitis 3
 entalent
@@ -5693,7 +5693,7 @@ elephanta 2
 eng 1
 esurience
 evangelicals 1
-exomorphism
+exomorphism 1
 euploid 2
 extrarenal 2
 endophasic 3
@@ -6382,7 +6382,7 @@ endangiitis
 enshield 3
 endostitis 3
 ebbed 1
-episcopize 1
+episcopize 2
 eprouvette 3
 enshrined 1
 enshrinement 1
@@ -6455,7 +6455,7 @@ embarrassing 3
 endangerments 3
 electromyography 2
 espave 3
-espousal 1
+espousal 2
 expandibility 1
 ensnared 3
 ensnarer 2
@@ -8014,7 +8014,7 @@ ernestine 2
 ecological 3
 elitism
 epicleidian 2
-exorganic 2
+exorganic 3
 endocannibalism 2
 embrasured 3
 epiotic 4
@@ -8714,7 +8714,7 @@ electroencephalograph 2
 equisided 3
 equisignal 2
 erethitic 1
-epigaeous 2
+epigaeous 3
 extradicting 2
 eriophyllous 2
 esculapian 2
@@ -9247,7 +9247,7 @@ existences
 ejido 1
 engraftation 3
 errancies 1
-endospermous 1
+endospermous 2
 entrapments 2
 egressing 1
 electra 1
@@ -12200,7 +12200,7 @@ entrechats 1
 emanated 2
 elementalism 5
 emerized 4
-excelse 5
+excelse 6
 execratively 3
 excreter
 enragedness 3
@@ -13801,7 +13801,7 @@ ecteron 1
 esparto 2
 eukaryote 2
 endebt 4
-expurgated 4
+expurgated 5
 expressionism 1
 elative 2
 epithelialize 3
