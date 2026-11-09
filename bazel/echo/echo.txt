@@ -4948,7 +4948,7 @@ endaspidean 3
 endbrains 1
 epipodite 7
 emusify 3
-euhemerize 1
+euhemerize 2
 entropy 2
 exencephalic
 ectocoelic 1
@@ -12533,7 +12533,7 @@ enneacontahedron 1
 exoskeleton 1
 exist 1
 existed
-elucidating 1
+elucidating 2
 esne 3
 enumerably
 excoecaria 3
