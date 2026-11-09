@@ -6752,7 +6752,7 @@ furthersome 1
 fibrochondroma 3
 fleury 2
 fatheaded 1
-fingerspin
+fingerspin 1
 frized 2
 fleece 4
 feering 3
@@ -11324,7 +11324,7 @@ fps 5
 furfurine 4
 funebrious 2
 faujasite
-formals 2
+formals 3
 fuseplug 3
 frailejon 4
 foalhood 4
