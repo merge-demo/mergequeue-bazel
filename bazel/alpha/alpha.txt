@@ -5111,7 +5111,7 @@ aesthetes 1
 aesthetic 2
 astomous
 archsacrificator 1
-agami
+agami 1
 aestheticism 3
 aestheticist 1
 almoin
@@ -11863,7 +11863,7 @@ adendric 2
 albescent
 alconde
 analogousness 2
-analogue
+analogue 1
 analphabet 3
 analphabete 2
 amphibium 2

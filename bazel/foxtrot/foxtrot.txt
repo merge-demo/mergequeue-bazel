@@ -4685,7 +4685,7 @@ fragrantly 2
 foreby 5
 fructescence 1
 frivolizing 1
-fibroreticulate
+fibroreticulate 1
 fortitudes
 fixer 3
 fluey 1
@@ -5066,7 +5066,7 @@ fullmouth 1
 frsiket 1
 fowler 2
 fitches 3
-fluorescence 2
+fluorescence 3
 faky 2
 flapping 1
 folders 1
