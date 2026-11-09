@@ -3455,7 +3455,7 @@ chiastolite 3
 capris
 convoking 2
 caprizant
-caldron
+caldron 1
 caproin 3
 camptodrome 1
 causeuse
@@ -3999,7 +3999,7 @@ carcharioid 2
 congredient 1
 carcharodont 2
 correctify 3
-carcinemia
+carcinemia 1
 croquettes
 carcinogenesis 1
 carcinogenic 1
@@ -9907,7 +9907,7 @@ chemotaxy 1
 collocatory 2
 chemotaxonomy 2
 chemotaxonomic 1
-controls
+controls 1
 comma 2
 carices 1
 chemotherapeutical

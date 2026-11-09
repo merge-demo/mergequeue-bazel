@@ -2135,7 +2135,7 @@ apiculate 2
 achymia 1
 aganice 1
 arracks 1
-azobenzol
+azobenzol 1
 achinese
 amphophilous 1
 adspiration 2
@@ -3308,7 +3308,7 @@ amblychromatic 3
 anomurous 1
 agawam
 adactylous 1
-ametabola
+ametabola 1
 adad
 algesic
 agalawood 2
@@ -8877,7 +8877,7 @@ ambilevous
 azurous 1
 adscititiously
 amakebe 2
-anetic 1
+anetic 2
 allocyanine
 antireform 3
 arbusterin 1
@@ -19538,7 +19538,7 @@ aubusson 1
 afars 1
 asterinidae 1
 arguing 3
-admiration 1
+admiration 2
 apnea 2
 argulus 1
 argument 1
@@ -23876,7 +23876,7 @@ apilary 1
 appulse 1
 ashed 1
 autecism 2
-autecology 4
+autecology 5
 arrach
 artic 2
 adaptiveness 2
