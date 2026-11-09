@@ -59,7 +59,7 @@ evenblush 2
 earldoms 1
 earless 2
 eyn 2
-early 3
+early 4
 excuss 2
 estuarine 4
 earlier 3
@@ -9428,7 +9428,7 @@ escharotic 1
 enfeoff 2
 eschatological 1
 enaliosauria
-epistemonical
+epistemonical 1
 effeminised 2
 eyeshades 2
 eggshell 1
@@ -13901,7 +13901,7 @@ eledoisin
 ephymnium 2
 engineer 2
 etheria
-esthesio 2
+esthesio 3
 extrameridional 1
 extrametrical 2
 eccl 1
