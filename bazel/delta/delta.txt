@@ -13980,7 +13980,7 @@ dimolecular 1
 disannul 1
 disciplinant 2
 deoxidation 2
-distorter 1
+distorter 2
 druggister 2
 distorters 1
 distress
