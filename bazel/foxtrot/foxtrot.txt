@@ -8271,7 +8271,7 @@ fixers 2
 faverole 5
 fractionalizing 3
 friction 1
-forging 1
+forging 2
 furacity 4
 formous 3
 forgings 2
