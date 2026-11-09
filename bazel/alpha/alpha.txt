@@ -4009,7 +4009,7 @@ apopemptic 5
 anticontagious
 apokatastasis
 adminicula 1
-akolouthia 2
+akolouthia 3
 anergy
 adminicular
 accounted 1
@@ -9588,7 +9588,7 @@ alture
 altus 2
 algivorous
 alpaca 1
-amazia
+amazia 1
 antirennet 5
 antiepiscopist
 aluconinae
@@ -19491,7 +19491,7 @@ arith 2
 argling
 allspices 1
 absolvers 1
-arterioscleroses 3
+arterioscleroses 4
 antiracemate
 afforestational
 antimodernization 1
