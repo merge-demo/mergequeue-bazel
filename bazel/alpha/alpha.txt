@@ -3260,7 +3260,7 @@ armagnacs 1
 acupuncturing 2
 antivenomous
 acupuncturist 3
-acus 1
+acus 2
 atrabile
 anisotropism
 atresy 3
@@ -3666,7 +3666,7 @@ adenophlegmon 1
 appulsively 4
 antestature 1
 adenophora 1
-abscissas 3
+abscissas 4
 avianizing
 archaize 2
 advisorily
@@ -9490,7 +9490,7 @@ alternater
 alternatingly
 aphrodite 1
 animals
-acinarious
+acinarious 1
 attemperate 3
 antivenins
 alternatively 2
