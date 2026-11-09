@@ -5660,7 +5660,7 @@ depictors 2
 depicture 2
 distract 1
 debe 1
-diopsidic 1
+diopsidic 2
 depigmentate 1
 depigmentation
 depigmentize 2
@@ -11630,7 +11630,7 @@ drop 2
 discontinuousness 1
 disconula 2
 disconvenience 2
-dauphin 5
+dauphin 6
 discommodiousness 3
 disconventicle 1
 dermatorrhea 2
