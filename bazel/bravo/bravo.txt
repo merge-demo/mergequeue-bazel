@@ -1231,7 +1231,7 @@ bala 1
 bedabbled 3
 balabos 2
 bashfully 2
-barrabkie 4
+barrabkie 5
 balachong
 bambacciata
 balaena 1
@@ -10290,7 +10290,7 @@ bladderseed 1
 bladderwort 2
 blading 1
 blade 2
-beleaguerer 1
+beleaguerer 2
 besmircher
 basiglandular 1
 bosporian 1
@@ -10905,7 +10905,7 @@ bismuth 2
 bassus 1
 butterbush
 blindfoldedness
-bemoon
+bemoon 1
 blinding 3
 bescoured
 braciolas 1

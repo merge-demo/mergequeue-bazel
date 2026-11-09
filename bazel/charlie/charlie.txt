@@ -8610,7 +8610,7 @@ changedale 1
 calpac
 commissaryship 1
 concocting
-claires
+claires 1
 changeful
 changefully 2
 copolymerism
@@ -12578,7 +12578,7 @@ cenospecifically 2
 chronogrammic 2
 chronograph 1
 chronographer
-chronography 4
+chronography 5
 choreas 2
 crosslap 1
 cauterizing
@@ -20519,7 +20519,7 @@ codon
 crapon 2
 commistion
 cambalo 2
-canonlike
+canonlike 1
 compearant 1
 crimes 2
 compeering
@@ -27220,7 +27220,7 @@ countervallation 2
 countervalue
 coxarthrocace 1
 countervenom 2
-countervibration 1
+countervibration 2
 countervindication 2
 countervolley 3
 chymiferous 2
