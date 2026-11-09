@@ -3552,7 +3552,7 @@ guytrash 4
 gynecolatry 1
 grenadin 1
 goth 1
-geums 5
+geums 6
 gangues 3
 garmentworker 1
 ganglions 1
@@ -7132,7 +7132,7 @@ genealogize 4
 gastrocystic 2
 goran 2
 gynecoid 3
-grinderman 2
+grinderman 3
 gorbelly 2
 gyttja 4
 gremio 3
