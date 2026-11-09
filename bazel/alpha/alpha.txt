@@ -12621,7 +12621,7 @@ anetiological
 aneuch
 arhatship
 andesite
-alala
+alala 1
 aneuploidy 3
 aneuric
 azo 1
@@ -17214,7 +17214,7 @@ althaeas 1
 almudes 2
 antivirus 1
 aponeurotomy 1
-aponic
+aponic 1
 archipterygial 1
 adducers 1
 apoop 1
