@@ -2361,7 +2361,7 @@ ccw 1
 canamo 2
 cranesbill 1
 chaetognathous 5
-cicer 1
+cicer 2
 canap 1
 consummator 1
 cabriole 2
@@ -9554,7 +9554,7 @@ computational 1
 chapatty
 checkstring 1
 cuissen 1
-checksum
+checksum 1
 construct 2
 checksumming
 castro 1
@@ -15947,7 +15947,7 @@ cyclos 1
 clergymen 1
 chandleries 1
 clergion
-clergywoman 1
+clergywoman 2
 clementine
 culverfoot 1
 clerical
@@ -23105,7 +23105,7 @@ constantan 2
 constantinian 2
 cephidae 1
 constantinopolitan
-catechumenate 2
+catechumenate 3
 canvassed 2
 constantly
 constantness 1
@@ -23844,7 +23844,7 @@ cystospasm 1
 contrivable 1
 combers 1
 contrivances 1
-contrive
+contrive 1
 curds
 contrived
 contrivedly
