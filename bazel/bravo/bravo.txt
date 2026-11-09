@@ -2753,7 +2753,7 @@ blam 1
 brainache 3
 beachside 2
 burthenman 2
-borromean 4
+borromean 5
 bibliolater 2
 backspringing 1
 bethorned 2
@@ -6660,7 +6660,7 @@ berycoidea 2
 barpost 4
 berycomorphi 2
 bunsenite
-berigora 3
+berigora 4
 beryl 1
 beryllonate 3
 berimed 2
