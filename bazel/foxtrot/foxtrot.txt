@@ -1036,7 +1036,7 @@ fulfill 1
 farmeress 2
 fireling 2
 flerrying 1
-farmerly 2
+farmerly 3
 forrel 5
 ferash 1
 fletcherize 2
@@ -7725,7 +7725,7 @@ fruggin
 flyeater 2
 flaglike 5
 foreknew 1
-fiord 4
+fiord 5
 farcically 1
 florian 5
 freeish 1
