@@ -5658,7 +5658,7 @@ epilogation 4
 enforest 3
 epacme 1
 enform
-ergometric
+ergometric 1
 enfort 2
 embarrasses 3
 epicritic 2
