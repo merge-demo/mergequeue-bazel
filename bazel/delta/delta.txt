@@ -626,7 +626,7 @@ determinantal 2
 dextrorotatory 2
 dimorphisms
 duvetyn 2
-decantate 4
+decantate 5
 damnably
 dryadic 1
 dollier 2
@@ -3603,7 +3603,7 @@ destituting
 diatonous 3
 degener 3
 declaredness 4
-depredations 2
+depredations 3
 dripping 2
 dextrogyre 1
 dinosauric 2
@@ -17152,7 +17152,7 @@ disomaty 1
 decade 1
 decius 1
 dimwittedness 1
-disgaveled
+disgaveled 1
 damselfly 1
 diaphaneity 2
 diswont 1
