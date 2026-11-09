@@ -16643,7 +16643,7 @@ antiradiation
 acaroid 1
 apert
 arsonation
-asperates
+asperates 1
 archelaus 2
 apraxic 3
 aigremore
