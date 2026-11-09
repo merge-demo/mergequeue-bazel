@@ -10735,7 +10735,7 @@ animosities 1
 anabolitic
 antaphrodisiac 2
 agrammaphasia 2
-alevins
+alevins 1
 anthophorous
 amire 1
 anthracometric 3
