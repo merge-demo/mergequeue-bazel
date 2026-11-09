@@ -2084,7 +2084,7 @@ absconds 1
 airtime 2
 anthologion 1
 aphagia
-antenniferous
+antenniferous 1
 advertent 3
 apout 1
 auditor 1
