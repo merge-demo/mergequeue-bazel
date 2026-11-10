@@ -17803,7 +17803,7 @@ duckmeat 3
 duckpin 1
 desalinate 1
 diabolarch
-dower
+dower 1
 dermatological
 demographies 3
 deskmen 2
