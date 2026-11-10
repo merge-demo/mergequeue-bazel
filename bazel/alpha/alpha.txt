@@ -86,7 +86,7 @@ aband
 abandon 1
 androecial
 amphipods
-abandoned 1
+abandoned 2
 abandoner
 abrades 1
 alispheno
@@ -6201,7 +6201,7 @@ agoho
 asystolism 1
 agoing 1
 anhingas
-aposepalous
+aposepalous 1
 aplanobacter 2
 avengers 1
 antecedency 2
@@ -22116,7 +22116,7 @@ asternata 2
 archmessenger
 asteroid 5
 asteroids 2
-andamanese 1
+andamanese 2
 arithromania
 assorting
 asterope 1
