@@ -770,7 +770,7 @@ foliicolous 2
 forestaff 1
 fragrance 3
 fallows 3
-fandangos 3
+fandangos 4
 fandoms 4
 frivolized 2
 fellowlike
@@ -2174,7 +2174,7 @@ felonwort 3
 falutin 1
 flatterdock 6
 fraudproof 2
-fligger 3
+fligger 4
 femorocele 3
 fallibilism 2
 foretypified 1
@@ -2630,7 +2630,7 @@ framesmith 2
 fibrinogenic 4
 forecastles 1
 funnel 2
-fireless 3
+fireless 4
 flusters 2
 foreshoulder 4
 figuratively 2
