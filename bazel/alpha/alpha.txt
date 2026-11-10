@@ -16325,7 +16325,7 @@ arculite 1
 afros
 adfroze 4
 antitruster
-antituberculosis
+antituberculosis 1
 artophoria 4
 antituberculotic
 anticholagogue 4
