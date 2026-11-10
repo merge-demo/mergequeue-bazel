@@ -9619,7 +9619,7 @@ columbier 1
 combatted
 carceral 1
 charqued
-cheerfully
+cheerfully 1
 camelliaceae 1
 cheerier 2
 cautiousness 2
@@ -13153,7 +13153,7 @@ caudicle 1
 canalize 2
 craniographer 1
 cicatrization 1
-cott 1
+cott 2
 cicatrizer 1
 cicatrizing 1
 cicelies 1
@@ -29824,7 +29824,7 @@ calorimeters 1
 casekeeper 1
 criminalese 2
 cytons
-croquets
+croquets 1
 concussively 1
 conutrition
 celiogastrotomy 1
