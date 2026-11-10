@@ -2281,7 +2281,7 @@ globelike 1
 germanophilist 3
 garance 1
 geissoloma 1
-geissolomataceae 4
+geissolomataceae 5
 geissospermine 6
 genecologic 2
 glimpses 3
@@ -3445,7 +3445,7 @@ greyware 1
 gesturist 2
 geothermic 2
 girdingly 4
-guimpes 2
+guimpes 3
 goutily 2
 glaucosis 2
 glorioles 3
