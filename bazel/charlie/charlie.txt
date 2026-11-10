@@ -9799,7 +9799,7 @@ cunit 1
 chemehuevi 1
 consence
 chemiatric
-chemical
+chemical 1
 chapeless
 chalybean 1
 corrugates 2
@@ -19807,7 +19807,7 @@ catacumbal 1
 cassareep 1
 comely 1
 coursings 1
-comelier
+comelier 1
 comeling 2
 comendite
 comers 2
