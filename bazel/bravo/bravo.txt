@@ -5826,7 +5826,7 @@ bellicist 3
 bromometry
 belligerents 2
 buildress 1
-boxcar
+boxcar 1
 bullsnake 2
 berseem 4
 bittock 2
@@ -6286,7 +6286,7 @@ bacteriolysin
 backwashes 1
 blockhouses 1
 blastie 1
-backgrounds 1
+backgrounds 2
 bentonite 2
 bents 1
 benu 3
@@ -9291,7 +9291,7 @@ bipupillate 2
 bagattini
 barringtonia 2
 ballcarrier 1
-biquintile 1
+biquintile 2
 boles 1
 bastaard 1
 biracial 2
