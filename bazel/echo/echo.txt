@@ -3849,7 +3849,7 @@ europa
 emerying 3
 estatesmen 1
 emeril 2
-exarticulate 4
+exarticulate 5
 einkanter 3
 encyclopediast 3
 emerituti 2
@@ -8274,7 +8274,7 @@ epistolised
 eure
 epigeic 1
 escapado 4
-epitoke
+epitoke 1
 erratums 1
 endolaryngeal 4
 endplay 3
@@ -13453,7 +13453,7 @@ epitomization 1
 enzymolysis 1
 extrusile 4
 exorate 1
-expropriator 4
+expropriator 5
 eringo 1
 epenthetic
 electrolyse
