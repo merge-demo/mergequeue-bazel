@@ -12786,7 +12786,7 @@ deblocking
 dunk 2
 debouch 2
 dissensions
-diathesic 2
+diathesic 3
 duplicatus 1
 derepression 1
 dysluite
