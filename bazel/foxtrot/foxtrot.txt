@@ -10489,7 +10489,7 @@ felsosphaerite 4
 frostroot 2
 floe 5
 freshment 1
-frillery
+frillery 1
 favouringly 2
 frot 3
 froth 4
