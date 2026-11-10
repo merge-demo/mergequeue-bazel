@@ -413,7 +413,7 @@ fribbled 4
 fasciae 3
 fibrocartilaginous 1
 forthon 1
-flouting 1
+flouting 2
 frows 3
 foredesk 2
 fusetron 1
@@ -10347,7 +10347,7 @@ formicaries 1
 fibreware 6
 forswore
 flatmate 2
-flamiest 7
+flamiest 8
 footgeld 2
 firs
 fleing 2
@@ -11676,7 +11676,7 @@ floodometer 2
 frowsty 2
 flibustier 2
 furcates 1
-frailties 2
+frailties 3
 festoons 4
 flocculate 2
 frigorific 3
