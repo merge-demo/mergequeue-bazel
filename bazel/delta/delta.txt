@@ -16751,7 +16751,7 @@ discomfortable
 dryinid 2
 dratting 2
 draught 1
-distal 2
+distal 3
 draughtboard
 daub 3
 draughtier 4
