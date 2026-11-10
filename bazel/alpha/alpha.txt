@@ -2726,7 +2726,7 @@ arak 2
 anabasin 1
 acritan 2
 acrite 3
-asthenobiosis 1
+asthenobiosis 2
 astringent 1
 arriba
 antidysenteric 1
@@ -21164,7 +21164,7 @@ apostates
 anthracitiferous 1
 agnathic 1
 autospore 3
-arkansan 1
+arkansan 2
 ambroids 1
 accommodates 3
 assimilativeness 1
