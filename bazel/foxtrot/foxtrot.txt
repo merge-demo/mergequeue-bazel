@@ -4319,7 +4319,7 @@ freshest 5
 fease 2
 florescence 1
 forequarters 3
-fluyt
+fluyt 1
 factive 2
 fet 3
 flamethrower 1
