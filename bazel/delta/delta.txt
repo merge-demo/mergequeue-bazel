@@ -2475,7 +2475,7 @@ dipyre 4
 decision 2
 defeatists 1
 distinctly
-decisional
+decisional 1
 decisions
 decisis
 dribbled 1
