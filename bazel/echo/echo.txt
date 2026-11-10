@@ -6041,7 +6041,7 @@ exhaustlessly
 eurhythmics 2
 ectodermoidal 3
 enumerates 1
-enkidu 1
+enkidu 2
 ekatantalum 4
 enterospasm 2
 excursus
@@ -9323,7 +9323,7 @@ estrangedness 1
 ensilaged 4
 estop 2
 erudition 2
-erinys
+erinys 1
 eurythmic 2
 endosiphon
 erugo 1
@@ -11584,7 +11584,7 @@ extracorporeal 1
 endocrine 4
 educt 1
 evolutionists 2
-earthliest 1
+earthliest 2
 elaeocarpus 2
 extorted 1
 earringed 2
