@@ -7974,7 +7974,7 @@ drowse 2
 diagnosticated
 dorsibranch
 drawpoint 2
-drunkometer 2
+drunkometer 3
 dextroglucose
 distensive 1
 dextrolactic 2
@@ -13086,7 +13086,7 @@ dankest 1
 dispensationalism
 dentistries 2
 delimitations 2
-dustlessness 1
+dustlessness 2
 deutocarbonate 3
 displicency 1
 diastyle 1
