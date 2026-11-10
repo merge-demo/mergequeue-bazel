@@ -1882,7 +1882,7 @@ dextrorotary 1
 debonairness 1
 deboned 1
 debones 1
-deafening 2
+deafening 3
 dobies 2
 disablement 2
 deborah 2
@@ -2372,7 +2372,7 @@ dendrites 1
 dechlorinate 3
 dillweed 1
 dysgenesis
-dechlorinated 2
+dechlorinated 3
 dee 4
 discocarp 2
 diplographic 1
@@ -13519,7 +13519,7 @@ dislike 1
 dissceptre 3
 deceivance 1
 denaturized 4
-dolesome 2
+dolesome 3
 diocletian 4
 duchesses 4
 dissuadable 2
