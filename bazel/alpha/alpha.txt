@@ -24201,7 +24201,7 @@ alnein
 autolyzate
 autolyzes
 autoloader 1
-autology
+autology 1
 autological
 antiatheist 2
 alalite 1
@@ -24517,7 +24517,7 @@ aloins
 ayubite 2
 auxeses 1
 altercative
-antispreader
+antispreader 1
 aoristic 2
 ascaron
 auxetic 3
