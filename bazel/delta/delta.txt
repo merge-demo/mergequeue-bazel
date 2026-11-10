@@ -16546,7 +16546,7 @@ drivebolt 2
 deteriorationist
 duos 4
 daza 3
-disingenuity
+disingenuity 1
 draft 3
 dragee 3
 disputed 1
