@@ -4628,7 +4628,7 @@ cradler 1
 caroling
 catholical 2
 carolinians 3
-carolitic 2
+carolitic 3
 carditic 2
 caoba 1
 caroller 4
@@ -30681,7 +30681,7 @@ cuddleable
 cuddled 1
 cuddlesome 4
 cuddliest
-celiagra
+celiagra 1
 calcinatory 2
 cuddling 7
 crusados
