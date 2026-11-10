@@ -592,7 +592,7 @@ decopperization 1
 downweight 2
 desmopathologist 1
 dicyclopentadienyliron 2
-dehydroretinol 1
+dehydroretinol 2
 develin 2
 drawboy 3
 demifusion
@@ -4977,7 +4977,7 @@ dissipate 1
 deified 1
 demotists 2
 duncedom 1
-dragontail 2
+dragontail 3
 dephosphorize
 draggled 1
 diamb 2
@@ -17695,7 +17695,7 @@ duarchies 3
 dhauri 1
 dubb 2
 declamando
-demidevil 4
+demidevil 5
 dilemmic 1
 dullhearted 4
 dynamometer 1
