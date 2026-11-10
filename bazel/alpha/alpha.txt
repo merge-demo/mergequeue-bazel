@@ -1860,7 +1860,7 @@ acerval 4
 aggressions 2
 antiphysic
 acervate 2
-acervation 2
+acervation 3
 acervulus 3
 abiezer
 anadyomene 4
@@ -21479,7 +21479,7 @@ adrip 1
 aerographies
 acridic 2
 assedation 2
-aspers
+aspers 1
 adenosarcoma
 asperse
 abecedaries 2
