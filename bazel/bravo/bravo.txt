@@ -9753,7 +9753,7 @@ bistred 1
 beknights 2
 bradylexia 4
 baronetage 2
-beglitter
+beglitter 1
 basiating 1
 blemish 1
 bemixing 3
@@ -9920,7 +9920,7 @@ bordelaise 1
 bauson 3
 bastardice 2
 bituminate 1
-bituminising 1
+bituminising 2
 bituminized
 burnbeat 1
 bucktail 3
@@ -11411,7 +11411,7 @@ brownian 2
 bekko 4
 bestrut 3
 boxthorn
-bagplant 4
+bagplant 5
 bluejacket 2
 bluejacks
 blueline 1
