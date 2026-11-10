@@ -3726,7 +3726,7 @@ exhaustivity 1
 egoistry
 embrittle 2
 enfranchised 1
-echinochrome 5
+echinochrome 6
 escobilla
 enravishingly 1
 embrittling 4
@@ -7282,7 +7282,7 @@ endurableness 2
 echeneidid 2
 effigial 2
 eosinic 3
-ergatogynous 1
+ergatogynous 2
 eclats 1
 endothorax 1
 eosinoblast
