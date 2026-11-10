@@ -11159,7 +11159,7 @@ analgesis 1
 aromatizer 1
 adsorb 3
 amphiboles 2
-affliction 2
+affliction 3
 axometric 1
 airiest
 agynous
@@ -17961,7 +17961,7 @@ arsenics
 acidolysis 1
 aegagropila 1
 am 1
-approvance 2
+approvance 3
 absolutes
 arsyl
 approvedly 1
@@ -21233,7 +21233,7 @@ antiromanticist
 analemmata 3
 archoplasma 1
 assentor
-ashkey 1
+ashkey 2
 archantagonist 2
 ashling
 appraised

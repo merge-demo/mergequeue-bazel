@@ -2416,7 +2416,7 @@ doodads
 dispelled
 donny 2
 dripstick
-disaffects 1
+disaffects 2
 decima 1
 decimalism 1
 dueling 2
@@ -7874,7 +7874,7 @@ diffluence 4
 distemonous
 dewaters 2
 dermobranchiata 1
-drofland 5
+drofland 6
 disard 1
 desmocyte
 dispenser 7
