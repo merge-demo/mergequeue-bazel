@@ -1049,7 +1049,7 @@ gossamer 4
 garvock 1
 gerardias 4
 gorgonin 2
-gompholobium 2
+gompholobium 3
 ganglioid 2
 ganglioma 1
 gangliomas 6
@@ -7790,7 +7790,7 @@ graying 2
 guapena 3
 grayling 5
 galivanted 2
-guessers 4
+guessers 5
 girnal 2
 glacial 3
 gunung 1
