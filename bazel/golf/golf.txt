@@ -598,7 +598,7 @@ guilandina 6
 graveolence 5
 graters 2
 gutierrez 3
-gyrinidae
+gyrinidae 1
 geocronite 3
 germanity 2
 gigue 3
@@ -8674,7 +8674,7 @@ gres 2
 gymnosoph 6
 galerum 3
 gawkishly 3
-geotactic 3
+geotactic 4
 goosing 5
 gree 3
 glean 4
