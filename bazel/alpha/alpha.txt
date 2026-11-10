@@ -8279,7 +8279,7 @@ alienism
 abulic 2
 alienists 1
 archleader 1
-avowals 1
+avowals 2
 acouasm 1
 aliens 1
 axiologist
@@ -10564,7 +10564,7 @@ amyelic 3
 amyelous 2
 agt 1
 aposematically
-alphamerical
+alphamerical 1
 amygdal 1
 aludels
 affectate 1
@@ -11235,7 +11235,7 @@ amphigenous 2
 antimetabole
 aminating
 amphigenously 1
-ascorbate
+ascorbate 1
 aliunde 2
 alismaceous
 algebar 2
@@ -17024,7 +17024,7 @@ apocarpy 5
 amaethon
 apocentric 1
 anthropomorphic
-apoquinine 1
+apoquinine 2
 acroscleroderma
 apocha 1
 automorphic 2

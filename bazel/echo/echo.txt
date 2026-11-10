@@ -2013,7 +2013,7 @@ expeditious 4
 endmatcher
 excitableness 1
 epilate 4
-ektexine 3
+ektexine 4
 elabor 1
 epibenthic
 episternite 3
@@ -3251,7 +3251,7 @@ encephalotomy 2
 eyesore 4
 entrench 1
 episcleral 3
-emancipates 2
+emancipates 3
 esophagospasm
 eelgrasses 3
 embuia 2
@@ -4612,7 +4612,7 @@ endosarcode 3
 ethnolinguistics 1
 embryophagous 3
 eeriest 2
-epicerastic
+epicerastic 1
 estradas 2
 ensigned 2
 ethologically 1
@@ -11948,7 +11948,7 @@ endemic 4
 electrooptical 1
 ensampler 1
 ecoid 2
-extracostal 3
+extracostal 4
 endotheliolysin
 epicedial 3
 esmeraldan 3
