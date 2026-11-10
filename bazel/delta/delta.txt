@@ -5385,7 +5385,7 @@ denting 5
 defrayal 2
 demagogically 1
 duotype 3
-dentirostral 5
+dentirostral 6
 drumbeating 3
 deceptory 1
 dribbler
@@ -9422,7 +9422,7 @@ dismountable 2
 dejunkerize 1
 diffusions
 diffusive 2
-diffusors 3
+diffusors 4
 diabolus 1
 diner 2
 destructors 2
@@ -15974,7 +15974,7 @@ dotkin 1
 dudish 3
 dottiest
 dotlet 2
-derrickman
+derrickman 1
 doto 3
 devocalize 1
 divinail 1
