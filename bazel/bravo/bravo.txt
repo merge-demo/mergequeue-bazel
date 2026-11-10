@@ -1970,7 +1970,7 @@ bespatters 2
 blet
 bangled 2
 bangles 1
-beleave 2
+beleave 3
 bias 1
 bloodsucking 4
 begoniaceous 2
@@ -6399,7 +6399,7 @@ behedge 6
 benzophenothiazine 3
 benzophloroglucinol 2
 betting 1
-benedight 2
+benedight 3
 bewake 4
 benzophthalazine 2
 breakup 3
