@@ -8279,7 +8279,7 @@ alienism
 abulic 2
 alienists 1
 archleader 1
-avowals 1
+avowals 2
 acouasm 1
 aliens 1
 axiologist
@@ -10564,7 +10564,7 @@ amyelic 3
 amyelous 2
 agt 1
 aposematically
-alphamerical
+alphamerical 1
 amygdal 1
 aludels
 affectate 1
@@ -22253,7 +22253,7 @@ astonishment 1
 altrices 1
 astoop 1
 abjoint
-amorphy
+amorphy 1
 aerated
 anticlassicist 1
 anecdotalism 1

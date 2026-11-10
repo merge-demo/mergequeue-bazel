@@ -2013,7 +2013,7 @@ expeditious 4
 endmatcher
 excitableness 1
 epilate 4
-ektexine 3
+ektexine 4
 elabor 1
 epibenthic
 episternite 3
@@ -3456,7 +3456,7 @@ eutelegenic 1
 enchained 2
 encolden 1
 embers 3
-estival 6
+estival 7
 enate 2
 epees
 elaeothesium 2
@@ -8248,7 +8248,7 @@ episodial 1
 epistaxis 2
 epistemically 3
 enjoyingly 1
-engirded 1
+engirded 2
 epistena 2
 electrodiplomatic 4
 episternal 4
@@ -11948,7 +11948,7 @@ endemic 4
 electrooptical 1
 ensampler 1
 ecoid 2
-extracostal 3
+extracostal 4
 endotheliolysin
 epicedial 3
 esmeraldan 3
