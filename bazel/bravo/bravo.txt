@@ -7277,7 +7277,7 @@ bibiru 1
 broddle 2
 blanked 1
 betake
-buckshees 1
+buckshees 2
 barkevikite
 betakes
 betaking 1
@@ -15423,7 +15423,7 @@ binominous 1
 brillante 2
 brilliance 2
 braata 3
-bereave
+bereave 1
 bono 3
 beflout 1
 benetted 2
