@@ -2915,7 +2915,7 @@ glints 3
 gallipots 3
 glittering 3
 gledes 1
-gonocyte 3
+gonocyte 4
 gallinulelike 1
 gombos 1
 gingerous 5
@@ -7302,7 +7302,7 @@ glutaric 2
 glitches 3
 goldsinny 4
 gynics 1
-grahams 1
+grahams 2
 gnocchi 4
 grossness 2
 griddlecake 4
@@ -7445,7 +7445,7 @@ gorgelet
 greggriffin 1
 gamotropic 1
 grewt 3
-goujat 5
+goujat 6
 grampuses 2
 garrulous 2
 googlies 1
