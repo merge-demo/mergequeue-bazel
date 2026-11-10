@@ -8451,7 +8451,7 @@ diamagnet 1
 diamagnetic 3
 diamagnetism 3
 dredging 2
-diamant 2
+diamant 3
 ditrochee 1
 deflexed 3
 dooxidize 3
@@ -18485,7 +18485,7 @@ denat 1
 dirca 4
 draggingly 3
 dendroica
-durably 2
+durably 3
 dissentiently 2
 discussants 1
 dementi 1

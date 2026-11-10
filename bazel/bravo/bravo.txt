@@ -1451,7 +1451,7 @@ besoot
 bints
 belliferous 3
 biddulphia 1
-balkans 2
+balkans 3
 blanchingly 3
 banig
 breathtaking 2
@@ -6520,7 +6520,7 @@ bactericidin 4
 buckeyes 1
 bequests 2
 beray
-buster 3
+buster 4
 bushelful 2
 blenniiformes 2
 blackheartedness 1
@@ -17448,7 +17448,7 @@ bewearying 2
 brocage 2
 bunkie 1
 bandwork
-buffi 2
+buffi 3
 boccies 3
 baltis 3
 bunking 2
