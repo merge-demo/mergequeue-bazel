@@ -16911,7 +16911,7 @@ brassbound
 beneficiate 2
 banditti
 bugeyes 1
-baddy 2
+baddy 3
 bonducs 1
 buggered
 bowse
