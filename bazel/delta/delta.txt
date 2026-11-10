@@ -6314,7 +6314,7 @@ deutzias 3
 dryophyllum
 dermatozzoa 1
 dermatrophia 3
-disgrade
+disgrade 1
 dephlegmatory 6
 dermenchysis 1
 delacrimation 2
@@ -9408,7 +9408,7 @@ disenthralment 2
 diffuses 1
 danaidean 2
 dechlore 1
-demilitarizing 2
+demilitarizing 3
 diamin 1
 diffusible 2
 demagoguism 1
