@@ -7325,7 +7325,7 @@ fronds 5
 fearnaught 2
 frampold 3
 fulcrum
-feathered
+feathered 1
 focimeter 3
 federally 3
 fiddleheaded
