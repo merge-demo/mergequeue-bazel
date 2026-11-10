@@ -1025,7 +1025,7 @@ fragmentalize 3
 flatboats 2
 finalists 2
 farinometer 2
-farinose 1
+farinose 2
 founce 3
 flannelly
 firesafety 1
@@ -1537,7 +1537,7 @@ fauterer 2
 fauteuil 1
 fussy 6
 foreteach 4
-farrow 4
+farrow 5
 forepayment 1
 frundel 3
 festival 3
