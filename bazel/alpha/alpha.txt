@@ -21819,7 +21819,7 @@ asshead 1
 assi 1
 archiblastula 1
 allotropous 2
-altimetrical
+altimetrical 1
 assidual
 agathodaemon 2
 aecial 4
