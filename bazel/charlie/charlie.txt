@@ -3195,7 +3195,7 @@ clistogastra
 cotillon
 clerkage 2
 capias 1
-capilaceous 1
+capilaceous 2
 cushaw
 capillarectasia 1
 cyrtograph
@@ -5664,7 +5664,7 @@ cataplastic 1
 casten 2
 catapleiite
 catapulted
-catapultic
+catapultic 1
 catapultier 1
 colthood 1
 cataracts 1
@@ -17170,7 +17170,7 @@ coagment
 cleptobiotic
 coagmentation
 coagonize 2
-coagriculturist 1
+coagriculturist 2
 carryke
 chrononomy 1
 coagulability
