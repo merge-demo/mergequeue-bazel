@@ -1755,7 +1755,7 @@ fusels 3
 fusobacterium 1
 fireworms 4
 fedn 6
-featherfew 3
+featherfew 4
 fluoridates 1
 fn 2
 featheriness 3
@@ -3280,7 +3280,7 @@ fireburn 2
 fomenting 7
 flatware 3
 feelings
-ficoidal
+ficoidal 1
 fiddlecome 1
 fracedinous
 farewells 3
@@ -3664,7 +3664,7 @@ furlana 2
 frangula 2
 franchisee 4
 fannier 5
-foregoneness 3
+foregoneness 4
 fanes 2
 frayn 3
 fulfilment 1
