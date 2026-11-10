@@ -14162,7 +14162,7 @@ disencrease 4
 dammish 4
 daywork 1
 deringer 2
-dunair 3
+dunair 4
 disunify 1
 disorientates 1
 dolesman 1
@@ -15674,7 +15674,7 @@ decrements 1
 doper
 disbarring 3
 doorposts 2
-dopier
+dopier 1
 dogstone
 desi
 docile
@@ -16554,7 +16554,7 @@ dimensible 2
 dragger 1
 draggers 2
 draggier 2
-diacritics 2
+diacritics 3
 destinies 1
 disendows 4
 dyscrased 3
