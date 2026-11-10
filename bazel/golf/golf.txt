@@ -8997,7 +8997,7 @@ gushers 2
 getable 1
 gigant 4
 glenlike 2
-greenbelt 1
+greenbelt 2
 guiltier 2
 griffaun 2
 glamorization 2
