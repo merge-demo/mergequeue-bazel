@@ -3726,7 +3726,7 @@ exhaustivity 1
 egoistry
 embrittle 2
 enfranchised 1
-echinochrome 5
+echinochrome 6
 escobilla
 enravishingly 1
 embrittling 4
@@ -4498,7 +4498,7 @@ encephalomyelopathy 3
 encenter 1
 ensilage 2
 endolithic 2
-encephalartos 2
+encephalartos 3
 encephalasthenia
 effloresced 4
 escocheon 2
@@ -7282,7 +7282,7 @@ endurableness 2
 echeneidid 2
 effigial 2
 eosinic 3
-ergatogynous 1
+ergatogynous 2
 eclats 1
 endothorax 1
 eosinoblast
@@ -13061,7 +13061,7 @@ egueiite 2
 evaluations 1
 euphonized 1
 expermentized 1
-emus 1
+emus 2
 eucaine 3
 embankment 2
 ergates 3
