@@ -694,7 +694,7 @@ caffeins 1
 coctoantigen
 carries 1
 caffeism
-cud
+cud 1
 colometry
 caffeol 2
 chrysography 1
@@ -4949,7 +4949,7 @@ cartilaginei 1
 clogger
 cartilagineous
 collatable 3
-chirotes
+chirotes 1
 cleeked
 conduct 3
 cartilagines
