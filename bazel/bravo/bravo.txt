@@ -11311,7 +11311,7 @@ bossiness
 blowups 1
 beadrow
 byroad 2
-bedrug 1
+bedrug 2
 backbearing 2
 blaugas 2
 berouged
