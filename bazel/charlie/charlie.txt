@@ -532,7 +532,7 @@ coprecipitating 2
 competence 2
 clogmaker
 carbuilder
-cungevoi 2
+cungevoi 3
 cadged 1
 cacao 3
 cadgers
@@ -3229,7 +3229,7 @@ cohosted 2
 cumly 1
 capital 2
 chevronny
-capitaldom 2
+capitaldom 3
 capitaled 3
 capitalisable
 capitalised 2
@@ -18474,7 +18474,7 @@ clericalize 1
 crosslet
 circlet
 champac 2
-coheirs 2
+coheirs 3
 coheirship
 cestraciont 3
 cohelper 2
@@ -22206,7 +22206,7 @@ congeing
 convict
 condign
 coppered 1
-charlatan 2
+charlatan 3
 capricorn 2
 consimilated 1
 counderstand
