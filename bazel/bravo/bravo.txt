@@ -7055,7 +7055,7 @@ bespangling
 bespate
 brickbatted 2
 basset
-bezzant
+bezzant 1
 bennetweed 1
 bespattered 2
 batara 2
@@ -16911,7 +16911,7 @@ brassbound
 beneficiate 2
 banditti
 bugeyes 1
-baddy 2
+baddy 3
 bonducs 1
 buggered
 bowse
