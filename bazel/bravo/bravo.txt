@@ -8046,7 +8046,7 @@ booklift
 bartend
 bagroom
 bicornuate 3
-bicornute 1
+bicornute 2
 beshadow 6
 bicorporate 2
 banyai 5
@@ -15510,7 +15510,7 @@ brinies 4
 burrfish 3
 briniest 3
 bemuck 3
-benzoquinoline 1
+benzoquinoline 2
 brunonian 1
 beaterman 2
 balut
