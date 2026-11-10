@@ -79,7 +79,7 @@ deltal 1
 dobbin 2
 disfavorer 2
 damning 1
-direcly
+direcly 1
 deescalating 3
 dumb 1
 deploying 2
@@ -8085,7 +8085,7 @@ dhootis 2
 denaturant
 domesticated 1
 dysgenetic 3
-disendowment
+disendowment 1
 desugar
 durzi
 dhourras
