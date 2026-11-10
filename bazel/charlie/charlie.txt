@@ -18474,7 +18474,7 @@ clericalize 1
 crosslet
 circlet
 champac 2
-coheirs 2
+coheirs 3
 coheirship
 cestraciont 3
 cohelper 2
