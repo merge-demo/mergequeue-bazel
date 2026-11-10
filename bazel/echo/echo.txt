@@ -1681,7 +1681,7 @@ estraying
 electromotograph 1
 entarthrotic 4
 eyeberry 2
-envassal 1
+envassal 2
 essentialist 1
 electrothermancy 1
 ellan 2
@@ -13821,7 +13821,7 @@ earworm 2
 extracystic 2
 equiarticulate
 entomolite 2
-extracivic 3
+extracivic 4
 energeticist 3
 engenderer 1
 enscale 2

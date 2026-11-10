@@ -2249,7 +2249,7 @@ blastment 4
 barbarized 1
 beleaping 2
 bona
-buteo 2
+buteo 3
 bedizens 2
 butted 5
 bummil
@@ -5620,7 +5620,7 @@ bogie
 belam 1
 bettas 4
 brabblement 2
-beclamoring
+beclamoring 1
 brunet
 baggages 1
 backlashing 1
@@ -6364,7 +6364,7 @@ busynesses
 backsliding
 buts 1
 brandi 2
-bardo
+bardo 1
 bacteriostasis 1
 bobeches 1
 businesswomen
