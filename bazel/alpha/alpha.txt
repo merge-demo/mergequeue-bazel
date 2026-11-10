@@ -17820,7 +17820,7 @@ astraeidae
 apposer
 antiaris
 apposers 5
-alida
+alida 1
 attababy
 apposition 1
 aphrodision 2
@@ -18505,7 +18505,7 @@ adventitious
 adulteress
 arbores 2
 arborescently 1
-arango 1
+arango 2
 alienicolae 2
 azofier
 allwhither
