@@ -889,7 +889,7 @@ absinthole
 amphivasal
 angiohypertonia 2
 amphineurous
-aeronomy 2
+aeronomy 3
 alachah
 akroterion 2
 anabong 3
@@ -14184,7 +14184,7 @@ affront 2
 antereformational
 assyrians 1
 aeromechanical
-abasedness
+abasedness 1
 anterethic
 ancor 4
 alismoid 1
@@ -19418,7 +19418,7 @@ argentinian
 argentino
 argention 1
 axonophorous 2
-antillean
+antillean 1
 argentometry 1
 aday
 anchoritical 1
