@@ -5051,7 +5051,7 @@ forecourse 3
 fatteners 3
 flaperon 2
 flippantly 3
-flappable 2
+flappable 3
 frankalmoin 1
 flappet 3
 fermions 3
@@ -10375,7 +10375,7 @@ flusterment
 fibroplasia 2
 fonctionnaire 5
 forgivers 1
-fecundities 2
+fecundities 3
 fertilizable 2
 frontignan 4
 fucate 1
