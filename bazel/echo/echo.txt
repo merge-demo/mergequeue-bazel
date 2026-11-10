@@ -1616,7 +1616,7 @@ elutriator
 egotized 2
 egracias 1
 eradicated 3
-egress 1
+egress 2
 erizo
 epiblastic
 egressed 3
@@ -6026,7 +6026,7 @@ embolomerism 2
 electrodynamism 1
 exhortative 2
 estampedero 2
-erosion 1
+erosion 2
 ejects 4
 earns
 eluding 1
@@ -13608,7 +13608,7 @@ epencephal 4
 experientially 3
 esopgi 5
 englishwomen 1
-expurgates
+expurgates 1
 empedoclean
 effossion 3
 elinvar 5

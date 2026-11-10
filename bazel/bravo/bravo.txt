@@ -5225,7 +5225,7 @@ boskopoid 1
 blanky
 beworming 5
 boarcite 3
-barbules
+barbules 1
 basification 3
 breadboards 4
 barkeeps 1
@@ -18210,7 +18210,7 @@ butterbird 4
 barium 1
 borated
 buttered 1
-beshadowing 1
+beshadowing 2
 brisken 2
 beyond
 butterfat
