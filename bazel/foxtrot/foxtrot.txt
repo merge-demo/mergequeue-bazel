@@ -6458,7 +6458,7 @@ folkcraft 5
 frenchize 3
 fordy 1
 fellatrix 2
-forsar 2
+forsar 3
 flurn 4
 flurried 1
 futhorks 1
