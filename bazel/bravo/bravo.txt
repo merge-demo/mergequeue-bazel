@@ -16178,7 +16178,7 @@ breweries 1
 bourgs 2
 bibliomanianism 3
 boeotic 2
-borrowing
+borrowing 1
 begnawed 4
 bramblier 4
 brachylogies 1
