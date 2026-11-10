@@ -1024,7 +1024,7 @@ basqued
 blizzards 2
 bad 2
 bailers 1
-brees 3
+brees 4
 bunglings 4
 bailiaries
 bargainwise 3
@@ -8858,7 +8858,7 @@ brontolith 3
 blankmindedness 1
 biocenosis
 burgraviate 2
-basket 3
+basket 4
 burgess 3
 branchiopodan 1
 boffola 1
@@ -11692,7 +11692,7 @@ bartlett 2
 bobby 2
 burlily 2
 bobbin
-beslaved 2
+beslaved 3
 bewimple 1
 bolivias 1
 bobbinite 3
