@@ -516,7 +516,7 @@ gleamiest 5
 glissandos
 gustily 2
 guruship 2
-gallbladders 3
+gallbladders 4
 guaranteers 8
 gaieties 3
 guinde 3
@@ -3585,7 +3585,7 @@ gourmandize 1
 galvanisation 3
 gausses 3
 gharnao
-glossa
+glossa 1
 gambolled 1
 goniaster 1
 gnomelike 3
@@ -7461,7 +7461,7 @@ gonococcal
 glub 2
 goldfish 3
 geologising 3
-gourded 3
+gourded 4
 gospelist 1
 granuliferous 3
 gabbler 2
