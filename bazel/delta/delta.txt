@@ -7974,7 +7974,7 @@ drowse 2
 diagnosticated
 dorsibranch
 drawpoint 2
-drunkometer 2
+drunkometer 3
 dextroglucose
 distensive 1
 dextrolactic 2
