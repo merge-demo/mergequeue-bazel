@@ -1184,7 +1184,7 @@ gaped 1
 gorgonized 3
 genitory 2
 gig 1
-gothic 3
+gothic 4
 gonorrheic
 glabrescent 4
 grinned 2
@@ -1447,7 +1447,7 @@ garbages
 gulfy 1
 grosgrained 3
 gainward 2
-glossarial 4
+glossarial 5
 gidjee 2
 germiparity 3
 garnishee 4
@@ -1505,7 +1505,7 @@ garners 3
 garotted 4
 goutish 2
 gaolage 2
-gardenhood 4
+gardenhood 5
 groose 2
 guaxima 4
 glandless 6
@@ -8918,7 +8918,7 @@ gemming 2
 grooty 3
 ghess 1
 gaufferer
-groove 4
+groove 5
 grubbed 3
 gingras 2
 gabbing 1

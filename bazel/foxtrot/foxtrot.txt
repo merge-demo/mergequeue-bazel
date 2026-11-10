@@ -4251,7 +4251,7 @@ freakishness 4
 fatting 4
 fireplug 5
 firepot 7
-foreflank 1
+foreflank 2
 fructoside 5
 forebooms 4
 flots 2
@@ -6874,7 +6874,7 @@ flourished
 flioma 3
 folky 4
 fibromyxosarcoma 2
-fidejussory 3
+fidejussory 4
 footings 2
 fretways 2
 finance 1
