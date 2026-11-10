@@ -10967,7 +10967,7 @@ cosmologies 2
 chiroplasty
 churchgo 2
 commenceable
-chiropody 3
+chiropody 4
 cheekish
 comitatus
 chiropodial
@@ -27068,7 +27068,7 @@ counterpull
 counterpuncture
 counterpush
 counterquartered
-caneva
+caneva 1
 celibatarian
 counterraid 1
 counterreckoning 1
