@@ -4750,7 +4750,7 @@ electralize 2
 exponentially 5
 encysting 1
 eugenol 2
-emptiest 3
+emptiest 4
 encysts 4
 evenest 1
 eyepieces 3
@@ -10124,7 +10124,7 @@ enculturated 4
 excused 4
 extranean 2
 etabelli 5
-expressiveness 1
+expressiveness 2
 earphones 1
 euhyostyly 1
 epagomenic 2

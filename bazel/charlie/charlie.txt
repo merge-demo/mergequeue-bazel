@@ -11031,7 +11031,7 @@ chirt 2
 chirurgeon
 crimean 1
 chirurgeonly 3
-chirurgery 1
+chirurgery 2
 chis 1
 chiseled 2
 curuba 1
@@ -16438,7 +16438,7 @@ cloakmaker 2
 constrainer 1
 cloakmaking
 cymbaline 1
-cloakroom 1
+cloakroom 2
 cloakrooms
 conquer 1
 caterwaul 2
@@ -31860,7 +31860,7 @@ consortion 2
 cutout
 collenchyma
 cutpurse 1
-cyclothyme 2
+cyclothyme 3
 casuality 2
 cochliodont
 cransier 1
