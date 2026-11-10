@@ -4348,7 +4348,7 @@ caricature 1
 chud 1
 caricaturing
 caricaturist 1
-contaminator
+contaminator 1
 cooptation
 chimeras
 casuists
@@ -7360,7 +7360,7 @@ cephalodia 1
 cephalodymus
 cephalodiscid 1
 cephalodiscida 2
-cephalodiscus
+cephalodiscus 1
 curtains 1
 cephalodium 2
 cephalofacial 1
@@ -30012,7 +30012,7 @@ commutations 3
 croton 1
 consulated 3
 crotonaldehyde 2
-crotonate 1
+crotonate 2
 crotonyl 2
 crotonylene 1
 crotonization 1
