@@ -6083,7 +6083,7 @@ anisochromatic
 anapaestic 1
 aviatrix 2
 appay
-askile
+askile 1
 aminopeptidase 2
 aminocaproic 3
 airproofed 3
@@ -6930,7 +6930,7 @@ alkalified
 anticomplement
 afflatus 1
 airtimes 2
-alanyls
+alanyls 1
 assailment
 amende 2
 apostrophic
@@ -20512,7 +20512,7 @@ aerophilatelic 1
 arteriometer
 arteriomotor
 antiasthmatic 1
-arterioplasty 2
+arterioplasty 3
 arteriorenal 1
 accentless
 amnesty
