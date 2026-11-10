@@ -3717,7 +3717,7 @@ frownless 3
 fiercen 3
 flavorlessness 1
 featherers 1
-frail 3
+frail 4
 feodal 2
 frousiest 1
 facebread
@@ -10926,7 +10926,7 @@ factorizing
 ferreiro 1
 fub 2
 foehn 2
-flexure 4
+flexure 5
 field 2
 fulminatory 3
 fetal 5
