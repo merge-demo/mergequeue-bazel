@@ -2994,7 +2994,7 @@ fadings 4
 felucca 2
 frothing
 fy 3
-fiacres 1
+fiacres 2
 fetichry 3
 firelit 1
 fiance
@@ -4875,7 +4875,7 @@ followable 2
 fulgora 1
 flails 2
 feuilletonism
-furoic 2
+furoic 3
 fourteen 1
 fraughtage 2
 fady 3
@@ -9432,7 +9432,7 @@ fenman 3
 fausant 3
 filmslide 2
 fireboats 2
-flambant 5
+flambant 6
 fraternally 2
 felonsetting 1
 formic
