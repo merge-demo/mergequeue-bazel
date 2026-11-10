@@ -2214,7 +2214,7 @@ glucosic 3
 gravific 4
 granth 2
 genarchship 4
-giraffoid 2
+giraffoid 3
 geoidal 2
 garmented 4
 gestational 3
@@ -5788,7 +5788,7 @@ goofiest 3
 garlicky 3
 gumhar 1
 garrulously 3
-goony 6
+goony 7
 grunts 4
 goupin 1
 gnatworm 5
@@ -9056,7 +9056,7 @@ girasole 3
 girlism 1
 gryllos
 gaffle 2
-gimcracky 3
+gimcracky 4
 grilse 2
 glossitis 3
 grimaced 3
