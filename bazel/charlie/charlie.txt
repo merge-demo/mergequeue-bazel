@@ -14,7 +14,7 @@ cabaho
 cabal
 condylarthrous
 cryptostoma 2
-chevance 1
+chevance 2
 chaenomeles 1
 cows
 corkmaking 2
