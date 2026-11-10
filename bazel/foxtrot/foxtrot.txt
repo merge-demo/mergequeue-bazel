@@ -3659,7 +3659,7 @@ fibrillar 2
 freshed 1
 foretype 3
 feverberry 2
-filigrane 5
+filigrane 6
 furlana 2
 frangula 2
 franchisee 4
@@ -4006,7 +4006,7 @@ forechoose 1
 furcula 2
 forestalled 3
 friese 2
-flattish 3
+flattish 4
 forfeited 5
 flunk 3
 fingerprint 1

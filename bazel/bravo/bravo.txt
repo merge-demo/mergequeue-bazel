@@ -9753,7 +9753,7 @@ bistred 1
 beknights 2
 bradylexia 4
 baronetage 2
-beglitter
+beglitter 1
 basiating 1
 blemish 1
 bemixing 3
@@ -13550,7 +13550,7 @@ botulin 1
 bumpiness 1
 bouffon
 bremeness 2
-bopster 2
+bopster 3
 baizing
 bougainvilliidae 2
 bite 2
@@ -14393,7 +14393,7 @@ beepers
 brainily 2
 bedman 2
 boom
-blaw 1
+blaw 2
 braininess 1
 basoga 1
 braining 1
@@ -15024,7 +15024,7 @@ breedable
 borderies 1
 bendlet 2
 breeder 1
-breakneck 2
+breakneck 3
 barhops 2
 breeders 2
 breedy
@@ -17398,7 +17398,7 @@ baetylic 1
 bungtown 1
 bosun 4
 blithered
-bungwall 1
+bungwall 2
 bagre 2
 bacillemia 2
 bejewels 6
@@ -17489,7 +17489,7 @@ bena 2
 buprestis 2
 briskening 2
 bragwort 1
-biteless
+biteless 1
 biscotin 1
 betes 1
 bioecologist 1
