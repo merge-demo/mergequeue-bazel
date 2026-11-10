@@ -3151,7 +3151,7 @@ alcaid
 actiones 2
 abrazitic 1
 alkalifiable 1
-arrectary 1
+arrectary 2
 acclimatation 1
 auchenia
 anatomised
@@ -3932,7 +3932,7 @@ alarmed 1
 argentamide 2
 adjunctively 1
 adjunctly 2
-analogia 3
+analogia 4
 admissory
 adjured 1
 amygdalotome 1
@@ -4710,7 +4710,7 @@ acichlorid
 alabastron 1
 archiving 4
 aerostation 2
-azazel
+azazel 1
 aegrotat 2
 amatorio 1
 arianize
@@ -5679,7 +5679,7 @@ ardeid 1
 agal
 agalactic 1
 appoggiaturas
-agalaxia 1
+agalaxia 2
 anisomelus 3
 agalena 1
 agalenidae
@@ -17230,7 +17230,7 @@ aseismicity 1
 animalculine
 anticipators 1
 apophyllite
-appreciant 3
+appreciant 4
 archicarp
 acoma 1
 amorous 1
@@ -17466,7 +17466,7 @@ arthrostraca 2
 appanaged 2
 abusage
 agreements
-angustiseptate
+angustiseptate 1
 adsbud
 acinacifoliate
 audiogenic
@@ -22669,7 +22669,7 @@ atheriogaean 3
 atheris
 athermancy 1
 athermanous 2
-alley
+alley 1
 aerobic 1
 atheromatosis 3
 atheroscleroses 3
@@ -23014,7 +23014,7 @@ armenian
 atropidae 1
 altigraph 2
 atropine
-atropisms 2
+atropisms 3
 atropos
 atropous
 atrorubent
