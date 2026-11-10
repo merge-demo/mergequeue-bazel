@@ -14518,7 +14518,7 @@ blizz
 branchiferous 1
 birthrates 1
 broma 1
-binman 1
+binman 2
 branchiness 3
 beglobed 2
 butterburr 4
