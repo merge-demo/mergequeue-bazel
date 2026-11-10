@@ -5798,7 +5798,7 @@ excl 3
 englobe 2
 empressements 3
 epigraphy 1
-expressions 2
+expressions 3
 englobed 4
 enneahedral
 envelopment 2
@@ -8700,7 +8700,7 @@ escopet 3
 eked 1
 equisetaceous 4
 epicondylar 3
-endothelia 4
+endothelia 5
 edgemaking 1
 enchain 4
 erupting 4
