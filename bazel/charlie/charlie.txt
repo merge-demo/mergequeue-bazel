@@ -14,7 +14,7 @@ cabaho
 cabal
 condylarthrous
 cryptostoma 2
-chevance 1
+chevance 2
 chaenomeles 1
 cows
 corkmaking 2
@@ -1542,7 +1542,7 @@ callipash 1
 coorieing
 callipees 1
 callipering
-callipers 2
+callipers 3
 copopoda 2
 conduciveness
 cocanucos
@@ -25800,7 +25800,7 @@ corrodies
 cetene 2
 corroding
 cyclophorus 1
-cepa
+cepa 1
 cofound
 corrosibleness 1
 coeltera
@@ -31353,7 +31353,7 @@ causeys 1
 chauldron
 countertrespass 1
 curia 2
-clodpoles 3
+clodpoles 4
 curiae 1
 cobwebbing
 curiage
