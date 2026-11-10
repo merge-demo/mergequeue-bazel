@@ -4006,7 +4006,7 @@ forechoose 1
 furcula 2
 forestalled 3
 friese 2
-flattish 2
+flattish 3
 forfeited 5
 flunk 3
 fingerprint 1
@@ -6669,7 +6669,7 @@ filt 3
 frontad 7
 figurism 2
 foeti 1
-fumigatory 1
+fumigatory 2
 fica 2
 ferbams 3
 finewed 1
