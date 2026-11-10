@@ -11948,7 +11948,7 @@ endemic 4
 electrooptical 1
 ensampler 1
 ecoid 2
-extracostal 3
+extracostal 4
 endotheliolysin
 epicedial 3
 esmeraldan 3
