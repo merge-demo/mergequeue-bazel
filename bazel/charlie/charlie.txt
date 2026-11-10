@@ -21035,7 +21035,7 @@ civical 1
 copyholds 2
 conceptaculum
 connexional 3
-computably
+computably 1
 cosmopolitanly 2
 counterdash
 clitelliferous
