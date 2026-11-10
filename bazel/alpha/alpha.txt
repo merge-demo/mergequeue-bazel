@@ -5201,7 +5201,7 @@ affecting 2
 aerophore
 archinformer 1
 antitangent 2
-autopoint
+autopoint 1
 aloeswood 2
 aratinga 1
 affection 2
