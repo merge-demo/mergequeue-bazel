@@ -13213,7 +13213,7 @@ animist
 antigraft 1
 aecium
 antisilverite 1
-alloplasmic 2
+alloplasmic 3
 animistic 1
 anabatic
 accretionary
@@ -16996,7 +16996,7 @@ ayahausca
 apoatropine 2
 apobiotic 1
 apoblast 1
-aview 2
+aview 3
 adhamant 1
 apocalypse 2
 anococcygeal 1
