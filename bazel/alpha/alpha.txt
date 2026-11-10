@@ -20442,7 +20442,7 @@ artemisium 1
 autoptical 1
 antiskidding 1
 assistances
-amatito
+amatito 1
 aerialness
 antimodernness 2
 antigod 1
