@@ -2221,7 +2221,7 @@ capotes 1
 campshed 2
 campsheeting 1
 campsite 3
-compasser 3
+compasser 4
 campsites 5
 coronofacial
 cretinizing 2
@@ -18117,7 +18117,7 @@ cacopharyngia 1
 coenotype 1
 coenotypic 1
 coenotrope 2
-coenthrone 1
+coenthrone 2
 colatorium 2
 coenunuri 1
 coleochaetaceae
