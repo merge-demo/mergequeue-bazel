@@ -3073,7 +3073,7 @@ downward
 diuretic
 deewan
 deary
-dehydrogenising 1
+dehydrogenising 2
 durzada 2
 disinvolvement 1
 dairi 1
@@ -6802,7 +6802,7 @@ distruster 5
 desirer 2
 drachma 1
 daira 1
-desires 2
+desires 3
 dihedrons 1
 desirous 1
 desirousness

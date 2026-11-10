@@ -1331,7 +1331,7 @@ feest 2
 features 4
 frogginess 7
 fendering 5
-fbi 3
+fbi 4
 fellani
 fervour 2
 fathomlessness 2
@@ -3717,7 +3717,7 @@ frownless 3
 fiercen 3
 flavorlessness 1
 featherers 1
-frail 2
+frail 3
 feodal 2
 frousiest 1
 facebread
@@ -4319,7 +4319,7 @@ freshest 5
 fease 2
 florescence 1
 forequarters 3
-fluyt
+fluyt 1
 factive 2
 fet 3
 flamethrower 1
