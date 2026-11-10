@@ -7183,7 +7183,7 @@ centrer
 closely 2
 chol 1
 chatterbox
-centrev
+centrev 1
 chivalrous
 containedly
 centric
@@ -15549,7 +15549,7 @@ chromophoric
 classicism
 classicist
 classicists
-cheshire
+cheshire 1
 cordially 1
 cynoglossum 1
 confoundedly
@@ -28797,7 +28797,7 @@ cargo 2
 cresyl
 cresylate 1
 cresylic 2
-cresyls 1
+cresyls 2
 cresive 1
 cornucopian
 cresoline 1
