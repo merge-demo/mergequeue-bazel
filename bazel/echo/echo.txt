@@ -6723,7 +6723,7 @@ entertainingly 2
 electrophysics 4
 entertainment
 endosepsis 3
-echimys 3
+echimys 4
 epicenters 1
 equines
 espaliers 1
@@ -11795,7 +11795,7 @@ epirot 2
 elusion 3
 ensignship 1
 eurymus 3
-endorsingly 1
+endorsingly 2
 exasperatedly 3
 eversion 3
 entrees 1
