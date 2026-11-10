@@ -5826,7 +5826,7 @@ bellicist 3
 bromometry
 belligerents 2
 buildress 1
-boxcar
+boxcar 1
 bullsnake 2
 berseem 4
 bittock 2
