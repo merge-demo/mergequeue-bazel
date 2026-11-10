@@ -9374,7 +9374,7 @@ doucely
 drooling 1
 dockages 3
 demonstrance 2
-dunlin
+dunlin 1
 depulse 3
 dottels 6
 demasted 1
@@ -17539,7 +17539,7 @@ drumbles 1
 depudorate 1
 drumfishes
 drumhead 2
-disvaluing 1
+disvaluing 2
 decolour 3
 disassimilation 4
 dynamiter
@@ -17913,7 +17913,7 @@ dumpier 2
 duffed 3
 doublers 2
 dispermous
-degasser 1
+degasser 2
 disillusionise
 dekares 1
 dufferdom 3
