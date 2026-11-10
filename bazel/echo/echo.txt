@@ -4498,7 +4498,7 @@ encephalomyelopathy 3
 encenter 1
 ensilage 2
 endolithic 2
-encephalartos 2
+encephalartos 3
 encephalasthenia
 effloresced 4
 escocheon 2
@@ -13061,7 +13061,7 @@ egueiite 2
 evaluations 1
 euphonized 1
 expermentized 1
-emus 1
+emus 2
 eucaine 3
 embankment 2
 ergates 3
