@@ -12705,7 +12705,7 @@ boatkeeper 3
 billion 1
 bailsmen 2
 bookfold 2
-biometric 1
+biometric 2
 bookhood 1
 bloodhounds
 bookings 2
@@ -15095,7 +15095,7 @@ brett
 brachymetropic 2
 brettice 2
 betty 2
-brickwork 4
+brickwork 5
 blisterweed 2
 bradawl 1
 breva 1
@@ -15236,7 +15236,7 @@ bestrewn 5
 benchers 1
 bridale 3
 basehearted 2
-bridally 2
+bridally 3
 bridals
 boneheads 3
 briarberry 1

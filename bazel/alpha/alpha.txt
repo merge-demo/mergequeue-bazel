@@ -8108,7 +8108,7 @@ algas 3
 algate 1
 anthropologic 3
 adminiculary 2
-abaxile
+abaxile 1
 aquaduct 1
 algates 1
 aquatical 1
@@ -15541,7 +15541,7 @@ albin 1
 almondlike 1
 ancoral
 angiocarp 1
-alcotate 1
+alcotate 2
 anoxemic 2
 annulli 2
 alectoromorphae 1
@@ -23456,7 +23456,7 @@ accentuation
 anguishous 1
 auftakt 2
 antidictionary 4
-apomict 3
+apomict 4
 augend 1
 adversity
 antiantidote 1
