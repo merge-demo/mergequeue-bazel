@@ -5072,7 +5072,7 @@ gret 1
 glassful 2
 gonotocont 1
 grapplers 5
-gloxinia 6
+gloxinia 7
 glasshouses 5
 gateaux 2
 gasts 2
@@ -8257,7 +8257,7 @@ ginmill 4
 graphologists 4
 grainery 1
 glimpser 1
-gyropigeon 3
+gyropigeon 4
 grammarians 4
 gimp 2
 gospel 4
