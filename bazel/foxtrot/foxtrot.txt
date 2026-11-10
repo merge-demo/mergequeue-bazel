@@ -2061,7 +2061,7 @@ felahin 2
 fissipes 1
 fendillation
 favissae 2
-fusulas 4
+fusulas 5
 fieldfare
 frory 1
 forensically 1
@@ -4863,7 +4863,7 @@ funambulating 2
 falsism 2
 falsifiers 3
 foothook 1
-flues 5
+flues 6
 fasting 4
 frabbit 2
 forearm
@@ -6386,7 +6386,7 @@ fragrantness 8
 floreal 2
 funiliform 5
 finick 1
-fetichic 2
+fetichic 3
 ferinely 4
 fluoroform 3
 fluorescigenous 3
@@ -8550,7 +8550,7 @@ fortification 4
 flatweed 3
 formulated 3
 forgainst 3
-formulisation 2
+formulisation 3
 friaries 3
 famulus 6
 fred 2
@@ -10269,7 +10269,7 @@ frillies
 flagitiousness 3
 ferricyanhydric 5
 frolicsome 1
-fishful 1
+fishful 2
 fratched 2
 frammit 5
 fibrinolysin 4
@@ -10881,7 +10881,7 @@ frigorifico 5
 fulgurated 1
 forgathers 2
 freedwomen 1
-finished 2
+finished 3
 fucused 5
 foreteller 1
 fractural 2
