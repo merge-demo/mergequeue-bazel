@@ -8439,7 +8439,7 @@ bilection 3
 bileve 1
 bilewhit 1
 bavardage
-bootjack
+bootjack 1
 bouteloua 2
 belinurus
 bals 1
