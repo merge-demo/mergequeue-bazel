@@ -9941,7 +9941,7 @@ boree 1
 brian
 bx 2
 bituminous 1
-bisecting 2
+bisecting 3
 beryllate 2
 bilinguality 1
 bridleman 1
@@ -14935,7 +14935,7 @@ buccina 2
 birthy 1
 boccale 1
 bushier
-breastpin 4
+breastpin 5
 barleybreak
 basketing 1
 benzamido
