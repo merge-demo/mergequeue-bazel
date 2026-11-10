@@ -14539,7 +14539,7 @@ baktun
 bonding 2
 belugite 3
 bowelling 2
-bedumbed 1
+bedumbed 2
 branchiostoma
 biosociology 1
 branchiostomid
@@ -16663,7 +16663,7 @@ buck 1
 bayamo
 buckaroo
 bombazet
-buckberry
+buckberry 1
 boily 2
 bebaron 2
 broilers
