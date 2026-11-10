@@ -15461,7 +15461,7 @@ chlorates 3
 clarino
 cenosite
 clarion
-clarionet 3
+clarionet 4
 clarioning 1
 cloam 1
 circuted
@@ -16815,7 +16815,7 @@ coadjutrices 1
 clownship 1
 crinkle
 cymtia 2
-cataclysms
+cataclysms 1
 clubable 1
 charleston
 citrul
@@ -24027,7 +24027,7 @@ conventionize 1
 copperworks 6
 conventions
 coralwort 1
-convents 1
+convents 2
 conventual 1
 cerebri 2
 converge

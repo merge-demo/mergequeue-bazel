@@ -2559,7 +2559,7 @@ grue 2
 generations 8
 gastrula
 gobangs 1
-ganch 5
+ganch 6
 generalities 2
 grig 3
 grubbies 1
@@ -2717,7 +2717,7 @@ glashan 3
 globularness 3
 glandule 3
 grainering 3
-germanomania 1
+germanomania 2
 goofier
 gravitons 4
 gusle 1
@@ -6036,7 +6036,7 @@ griffinesque 1
 gulllike 3
 greking 3
 gonoblastidium 3
-groomlet
+groomlet 1
 graine 3
 guaiol 4
 gnashingly 3
@@ -6828,7 +6828,7 @@ gonocoele 1
 gerontologist 7
 gt 2
 gonof 3
-gudesire 3
+gudesire 4
 gonophs 3
 galloflavine 1
 gallowsness 3
@@ -8744,7 +8744,7 @@ governess 3
 goustrous 7
 galeus 5
 gobbin 4
-germling 2
+germling 3
 gaypoo 3
 gladless 2
 gagged 2

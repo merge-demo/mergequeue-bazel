@@ -2746,7 +2746,7 @@ deliberated 2
 disaffiliate 1
 devonshire 1
 dictates 2
-dissembling
+dissembling 1
 decore
 dewcup 1
 decorist 1
@@ -8362,7 +8362,7 @@ decaffeinates 6
 dialycarpous 1
 dialin
 dialiness
-dilution
+dilution 1
 descensional 2
 divinify 4
 dialypetalous 3
@@ -10359,7 +10359,7 @@ dioramic
 diordinal
 duplet
 disgregation 1
-dipotassic 1
+dipotassic 2
 disassimilate 1
 dioscurian 1
 disenfranchised 3
@@ -13344,7 +13344,7 @@ disputeful 1
 dacrydium 2
 disfeature 1
 deceitful 3
-disputer 3
+disputer 4
 definitising 2
 dorsally 3
 dysorexy

@@ -3368,7 +3368,7 @@ fiel 1
 falconer 2
 forgetive 2
 firmisternia 4
-flashers 2
+flashers 3
 fieldish 1
 funereality 3
 fattener 3
@@ -3659,7 +3659,7 @@ fibrillar 2
 freshed 1
 foretype 3
 feverberry 2
-filigrane 5
+filigrane 6
 furlana 2
 frangula 2
 franchisee 4
@@ -4006,7 +4006,7 @@ forechoose 1
 furcula 2
 forestalled 3
 friese 2
-flattish 3
+flattish 4
 forfeited 5
 flunk 3
 fingerprint 1
@@ -8193,7 +8193,7 @@ foghorn
 forewings 2
 flossed 3
 frenate 3
-furtherances 1
+furtherances 2
 faldetta 5
 fribblery 2
 foothils 2
@@ -8630,7 +8630,7 @@ feelers
 felt 1
 fearfully 2
 fibromucous 3
-fulup 1
+fulup 2
 fringilloid 2
 forsakenness 4
 fermentarian 3
@@ -9731,7 +9731,7 @@ fideicommissioner 1
 frigorifical 2
 factful 4
 forgathered 4
-frenetically 2
+frenetically 3
 forlorner 2
 frenula 1
 frenular 2
