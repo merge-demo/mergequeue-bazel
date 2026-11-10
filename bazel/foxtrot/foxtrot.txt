@@ -1318,7 +1318,7 @@ fallowness 5
 frictionally 1
 fineleaf 3
 foramination 1
-falser 3
+falser 4
 fyttes 2
 famose 6
 flyable 2
@@ -10508,7 +10508,7 @@ frotton 2
 fum 1
 fascicularly 2
 fumelike 6
-firetail 1
+firetail 2
 farandman 4
 frousty 2
 frouzy
