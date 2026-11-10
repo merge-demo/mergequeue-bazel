@@ -14665,7 +14665,7 @@ chamberlet
 catilinarian
 cystotome 2
 cystotomy
-cystotomies
+cystotomies 1
 castellan
 cystotrachelotomy 1
 cadenza 1
