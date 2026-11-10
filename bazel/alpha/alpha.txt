@@ -3151,7 +3151,7 @@ alcaid
 actiones 2
 abrazitic 1
 alkalifiable 1
-arrectary 1
+arrectary 2
 acclimatation 1
 auchenia
 anatomised
@@ -4710,7 +4710,7 @@ acichlorid
 alabastron 1
 archiving 4
 aerostation 2
-azazel
+azazel 1
 aegrotat 2
 amatorio 1
 arianize
@@ -23014,7 +23014,7 @@ armenian
 atropidae 1
 altigraph 2
 atropine
-atropisms 2
+atropisms 3
 atropos
 atropous
 atrorubent
