@@ -8599,7 +8599,7 @@ dinosaurian 3
 destroying 1
 doormaking 2
 deorsumversion 1
-driftland 4
+driftland 5
 dewan 1
 dissatisfied
 driller 2
@@ -15459,7 +15459,7 @@ domn 1
 dermatoglyphic
 ductule 2
 domnei 2
-deoxyribonucleic
+deoxyribonucleic 1
 duffing 2
 dopehead 2
 demonstratory 1
