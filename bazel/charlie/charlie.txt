@@ -8106,7 +8106,7 @@ camelion
 chaffman
 culicines
 codiniac 1
-coracosteon
+coracosteon 1
 continent 1
 carcer
 chaffron 3
