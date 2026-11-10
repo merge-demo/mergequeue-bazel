@@ -15735,7 +15735,7 @@ apnoeic
 atophan 1
 anteflexed 1
 autocephalous 2
-antipathize 2
+antipathize 3
 antiinsurrectionally 1
 amorino 1
 aggravatingly 3
@@ -22991,7 +22991,7 @@ aphonics
 atrociously
 abysmally 2
 atrocities 2
-atrolactic
+atrolactic 1
 astrion 1
 archfiends 2
 atropal
