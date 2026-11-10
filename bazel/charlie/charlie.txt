@@ -3348,7 +3348,7 @@ commissariat 1
 coderives 2
 caponize
 crispate 2
-caponized 1
+caponized 2
 contrasty 2
 caponizer 1
 caponizing
@@ -6667,7 +6667,7 @@ codeia 2
 chalcidiform 1
 cedrin 2
 crenellation
-countervailed
+countervailed 1
 cedriret 3
 cetologies 1
 cedrol 2
@@ -21517,7 +21517,7 @@ concreter
 concretional 1
 concretionary 1
 concretist 2
-concretive 1
+concretive 2
 cholangiographic 1
 concretively
 concretized
