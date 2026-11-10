@@ -5218,7 +5218,7 @@ bergamots 4
 befurbelowed 1
 befurred 1
 begabled 2
-bowla
+bowla 1
 begad 4
 bedders 2
 boskopoid 1
@@ -7913,7 +7913,7 @@ brambleberries 2
 billetty 1
 becudgeled
 bibliopolically
-bibliopolist 1
+bibliopolist 2
 befall 1
 bibliosoph 1
 bibliotaphe 4
