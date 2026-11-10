@@ -2949,7 +2949,7 @@ foxberries 8
 fac 5
 flaked 1
 furloughs 2
-fungological 3
+fungological 4
 froths 4
 fevered 5
 flitchen 3
@@ -6925,7 +6925,7 @@ filibusterous 1
 freeway
 finely 3
 foll 6
-facia 2
+facia 3
 fedarie 3
 fulgurite 3
 formalisation 3
