@@ -607,7 +607,7 @@ competitorship
 cadwell 2
 cinerarium 3
 caracal
-cacotrophy
+cacotrophy 1
 councilwomen
 caecally 1
 combwright
@@ -823,7 +823,7 @@ cailcedra 2
 counterrestoration
 caille 2
 corticole 1
-cailliach 1
+cailliach 2
 caimacam 3
 capitalizes
 choreograph
