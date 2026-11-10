@@ -1309,7 +1309,7 @@ daubreite 1
 degaussing 3
 dobsons
 dinitro 3
-densified 1
+densified 2
 dryermen 1
 declinate
 disfranchisements
@@ -15124,7 +15124,7 @@ degustate
 dubitatively
 dipolarization 4
 dogstones 2
-dogtie 4
+dogtie 5
 degenerated
 dogtooth 3
 diabetogenous
