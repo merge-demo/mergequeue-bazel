@@ -627,7 +627,7 @@ floaty 1
 falsifying 2
 falunian 2
 fertilisation 4
-fanum 1
+fanum 2
 fauster 2
 frowstier 2
 flyways
@@ -8202,7 +8202,7 @@ forewritten 2
 fundamentals 5
 forgeries 3
 fatigated 1
-fictioneer
+fictioneer 1
 feudalities 3
 flaggelated 3
 friezing 3
@@ -9428,7 +9428,7 @@ frolicly 2
 forlore 1
 frescoer 3
 fulsomeness 1
-fenman 2
+fenman 3
 fausant 3
 filmslide 2
 fireboats 2
