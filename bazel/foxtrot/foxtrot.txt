@@ -2404,7 +2404,7 @@ fad 3
 fleshlessness
 flakelet 1
 fistularia 4
-flavous 1
+flavous 2
 filipuncture 5
 felanders 2
 frenchness 3
@@ -10121,7 +10121,7 @@ feckly 2
 fulciform 2
 fortuitus 3
 fissiparously 4
-frittering 4
+frittering 5
 fuchi
 frivolity 3
 freakier 3
