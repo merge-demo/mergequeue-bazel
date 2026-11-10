@@ -13496,7 +13496,7 @@ cylindric 1
 cylindrically 1
 cylindricity 1
 cylindricule 2
-cylindriform 2
+cylindriform 3
 calpack 2
 cylindrocylindric
 curiatii 1
@@ -24926,7 +24926,7 @@ caulophyllum
 componentwise 3
 combfishes 1
 corantoes
-centesimi 1
+centesimi 2
 chan
 crowbill 2
 capitaling 1
