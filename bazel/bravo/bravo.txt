@@ -6245,7 +6245,7 @@ benomyl 1
 backspread 2
 benightedness 4
 benorth 3
-benefact
+benefact 1
 beme 2
 bensall 2
 behaviorist 1
@@ -12611,7 +12611,7 @@ bagels 2
 baguets 3
 beleaguerment
 bodeful 3
-bulged 2
+bulged 3
 brasero 3
 basinlike
 bellware 1
