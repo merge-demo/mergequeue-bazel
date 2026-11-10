@@ -2095,7 +2095,7 @@ eugene 1
 epopoean 3
 earwitness 1
 epispermic 2
-emu 1
+emu 2
 endamoebae 3
 eldfather 2
 eggberry 2
@@ -7435,7 +7435,7 @@ enworthed
 epistrophe 1
 elevate 3
 ensilability 3
-ecphorize 1
+ecphorize 2
 exhibitor 3
 elbowbush 3
 ephas
@@ -12055,7 +12055,7 @@ enlivenment 4
 excoriation
 enwwove 4
 excoriations 3
-epiclike 4
+epiclike 5
 electrostenolytic 4
 enforcible
 elflike 2
@@ -12519,7 +12519,7 @@ exinguinal 3
 effare 3
 electrologic 3
 erythrean 3
-existimation 2
+existimation 3
 embarcation 4
 eunicid 1
 epicalyx 1
