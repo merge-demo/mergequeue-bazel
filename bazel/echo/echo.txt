@@ -8444,7 +8444,7 @@ extensure 1
 exsuction 4
 eurytropic 2
 electroanalytic 2
-electroencephalography
+electroencephalography 1
 eponym 1
 etiolate 2
 eponymus 5
@@ -10488,7 +10488,7 @@ event 3
 etrog 1
 equatoreal 3
 etruscology 4
-etta 4
+etta 5
 endosteally 1
 equation 2
 embouchure 3
