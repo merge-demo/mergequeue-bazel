@@ -10630,7 +10630,7 @@ caliological 1
 chimaera
 chimaerid 2
 chimaeroid 1
-chimakum 1
+chimakum 2
 curled 1
 cogon
 cephalomancy 1
@@ -11748,7 +11748,7 @@ circuitous
 chondrodystrophy 1
 chondrodystrophia 2
 chondroditic
-couthest 1
+couthest 2
 connubiate 2
 chondrofibroma 3
 campaigned
