@@ -1113,7 +1113,7 @@ graptolitic
 gallants 2
 guillotining 2
 gwyniad 5
-grivet 4
+grivet 5
 granet 2
 giddier 1
 gesith 1
@@ -3957,7 +3957,7 @@ gigge 3
 gallopers 1
 graphomaniac 3
 grice 1
-ganner 3
+ganner 4
 graphis 2
 gimping 2
 grubworms 2
@@ -8116,7 +8116,7 @@ grindelia 1
 gastrostomize 2
 gristmill 3
 grantors 3
-grantsman 2
+grantsman 3
 granular 4
 girandole 4
 gooky
