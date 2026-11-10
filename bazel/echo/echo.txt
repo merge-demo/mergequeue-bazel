@@ -12176,7 +12176,7 @@ embergoose 2
 excuser 1
 elytron 2
 endpoint 4
-exposure 3
+exposure 4
 ellipse
 econometrical 1
 ethmoturbinate 2
