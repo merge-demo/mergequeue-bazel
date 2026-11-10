@@ -6221,7 +6221,7 @@ grimacier 4
 goatfishes 5
 gigmanic 4
 gytrash 1
-gilbertine 2
+gilbertine 3
 grooved 3
 gregor
 garrisoned 5
@@ -10371,7 +10371,7 @@ grike 4
 gapingstock
 gullets 4
 generators 3
-giddied 2
+giddied 3
 gargoyled 2
 gallflower 3
 garbanzos 2
