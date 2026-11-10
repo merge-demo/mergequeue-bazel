@@ -3151,7 +3151,7 @@ alcaid
 actiones 2
 abrazitic 1
 alkalifiable 1
-arrectary 1
+arrectary 2
 acclimatation 1
 auchenia
 anatomised
@@ -4710,7 +4710,7 @@ acichlorid
 alabastron 1
 archiving 4
 aerostation 2
-azazel
+azazel 1
 aegrotat 2
 amatorio 1
 arianize
@@ -14652,7 +14652,7 @@ aurichalcite 2
 atle 1
 antianaphylaxis 2
 autoparasitism
-anakinetomer
+anakinetomer 1
 artinesses
 antianarchic 4
 antiangular 5
