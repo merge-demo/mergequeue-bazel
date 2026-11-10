@@ -2158,7 +2158,7 @@ disassemble 1
 downfall 1
 dicecup 3
 decalcomanias
-decapodal 2
+decapodal 3
 dawn 3
 draggletailedly 3
 del 2
