@@ -2128,7 +2128,7 @@ cowbells
 campbell 2
 campbellisms 2
 campbellites
-cixiid
+cixiid 1
 capriciousness 1
 campcraft
 campe 1
@@ -20541,7 +20541,7 @@ compelling 2
 cornerways 1
 compellingly 2
 curblike
-cosines 2
+cosines 3
 checks 2
 compendency 1
 compendia
@@ -20704,7 +20704,7 @@ cercis
 convolvuli 1
 consonantise 1
 complexest 1
-chylify
+chylify 1
 commulative
 cyanopsia
 commutating 1
@@ -30927,7 +30927,7 @@ cultual 2
 cobwebbery
 cultural
 culturally
-culture
+culture 1
 clientship 1
 culturine
 carbro
