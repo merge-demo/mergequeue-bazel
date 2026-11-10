@@ -3157,7 +3157,7 @@ gets 1
 geoscientists 2
 geochronologically 3
 gellant 2
-gavotte 4
+gavotte 5
 glowered 3
 ginnings 1
 goat 2
@@ -9820,7 +9820,7 @@ groundbreaker 1
 gutsily 7
 glomerulonephritis 2
 gastrohysterotomy
-gnotobiotics 2
+gnotobiotics 3
 garpikes 4
 greasewood 1
 generous 1
