@@ -9000,7 +9000,7 @@ biomes
 beanlike 2
 beavery 2
 babelike 1
-besmuts 1
+besmuts 2
 biometries
 bion
 byon 3
@@ -10727,7 +10727,7 @@ byssus 4
 beaverboard 1
 balls 4
 batties
-baalisms
+baalisms 1
 blennogenous 2
 begging 1
 brushup 1
