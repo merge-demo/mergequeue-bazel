@@ -3585,7 +3585,7 @@ gourmandize 1
 galvanisation 3
 gausses 3
 gharnao
-glossa
+glossa 1
 gambolled 1
 goniaster 1
 gnomelike 3
