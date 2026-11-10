@@ -938,7 +938,7 @@ bustier 1
 bagwork 2
 baker 1
 brumby 1
-bahadur 1
+bahadur 2
 beverage
 bahay 4
 bahaist 1
@@ -1862,7 +1862,7 @@ bimetalism 2
 bandiness 1
 bascunan 2
 bailiary 1
-bryology 1
+bryology 2
 bewend 1
 bonaght 1
 battutos
