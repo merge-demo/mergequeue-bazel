@@ -8401,7 +8401,7 @@ biosynthetically 3
 balkier 1
 biogenous 5
 blackwood 1
-bilayer 1
+bilayer 2
 burp
 bookmen 2
 bilalo 2
@@ -9936,7 +9936,7 @@ bikes 3
 bituminosis 3
 biologically 4
 bennettitaceae 3
-bravas 3
+bravas 4
 boree 1
 brian
 bx 2
