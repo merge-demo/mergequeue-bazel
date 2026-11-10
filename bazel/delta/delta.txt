@@ -2746,7 +2746,7 @@ deliberated 2
 disaffiliate 1
 devonshire 1
 dictates 2
-dissembling
+dissembling 1
 decore
 dewcup 1
 decorist 1
@@ -13344,7 +13344,7 @@ disputeful 1
 dacrydium 2
 disfeature 1
 deceitful 3
-disputer 3
+disputer 4
 definitising 2
 dorsally 3
 dysorexy
