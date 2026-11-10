@@ -24657,7 +24657,7 @@ adventureship 1
 adenoiditis 2
 achaemenidae 2
 avenida 4
-aveniform 2
+aveniform 3
 astatic
 australians
 anacamptic
@@ -24873,7 +24873,7 @@ anthropometrical 1
 avow 2
 avowably 1
 adenographer
-alighting 1
+alighting 2
 archrebel
 aseptic 1
 avowedly 1

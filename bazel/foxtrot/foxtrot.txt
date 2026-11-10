@@ -913,7 +913,7 @@ fallouts 2
 ferrate 4
 faquir 2
 farad 4
-faradaic 4
+faradaic 5
 filleted 1
 fluorometer 4
 flamed 3
@@ -2862,7 +2862,7 @@ finable 2
 foresails 4
 figworm 2
 flurry 1
-fungid 5
+fungid 6
 familistery 2
 fortuned 5
 fameflower 3
@@ -5051,7 +5051,7 @@ forecourse 3
 fatteners 3
 flaperon 2
 flippantly 3
-flappable 2
+flappable 3
 frankalmoin 1
 flappet 3
 fermions 3
@@ -9912,7 +9912,7 @@ foretells 1
 fistfuls
 falconry 3
 filoplumaceous 2
-forkbeard 2
+forkbeard 3
 fleabane 2
 formated 2
 feceris
@@ -10375,7 +10375,7 @@ flusterment
 fibroplasia 2
 fonctionnaire 5
 forgivers 1
-fecundities 2
+fecundities 3
 fertilizable 2
 frontignan 4
 fucate 1

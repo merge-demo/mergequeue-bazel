@@ -3240,7 +3240,7 @@ getatability 4
 gally 3
 graffage 1
 gazement 1
-gormandizer 3
+gormandizer 4
 gynecologists 5
 gerasene 6
 gesturer 4
@@ -5786,7 +5786,7 @@ galacaceae 2
 gangways 3
 goofiest 3
 garlicky 3
-gumhar 1
+gumhar 2
 garrulously 3
 goony 7
 grunts 4
@@ -7296,7 +7296,7 @@ gamostelic 3
 garcon 4
 gassendist 3
 gortonite 3
-gauffer 2
+gauffer 3
 graphiologist 4
 glutaric 2
 glitches 3
@@ -8275,7 +8275,7 @@ glissaded 1
 groundless 4
 gladii 3
 graphophone 5
-grossulariaceae 3
+grossulariaceae 4
 graphophonic 2
 gasteria 3
 graphoscope 4
@@ -10212,7 +10212,7 @@ gluttei 5
 gitanemuk 2
 globalism 4
 gladdon 3
-gimbaljawed 1
+gimbaljawed 2
 groundneedle 1
 generaliser 4
 grippers 2
