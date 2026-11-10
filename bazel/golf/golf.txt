@@ -4238,7 +4238,7 @@ gynaecological 1
 gabbiness 3
 gobbing 6
 gastornis 1
-gynaeconitis 5
+gynaeconitis 6
 geysers 1
 gaillard 1
 gynandria 1
@@ -5008,7 +5008,7 @@ ginger 6
 grisliest 1
 glamoured 2
 germanic 3
-greatmouthed 1
+greatmouthed 2
 grolier 3
 glebeless 2
 grippe 1
@@ -8997,7 +8997,7 @@ gushers 2
 getable 1
 gigant 4
 glenlike 2
-greenbelt 1
+greenbelt 2
 guiltier 2
 griffaun 2
 glamorization 2

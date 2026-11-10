@@ -1517,7 +1517,7 @@ ballas 2
 baronetised 4
 blacktopping 1
 beeherd 3
-burger 1
+burger 2
 bersiamite 1
 bulbiform 1
 bdl 3
@@ -1970,7 +1970,7 @@ bespatters 2
 blet
 bangled 2
 bangles 1
-beleave 2
+beleave 3
 bias 1
 bloodsucking 4
 begoniaceous 2
@@ -11438,7 +11438,7 @@ blancmange 4
 blazingly 1
 bluesy 1
 bluesman 1
-bromisms 1
+bromisms 2
 beaverkill 2
 bluesmen 1
 bluestems 1
@@ -12689,7 +12689,7 @@ blipping 2
 boohooing 2
 biaswise 3
 bear
-bungarus 2
+bungarus 3
 boroughmongering 1
 benchless 2
 baldachini
