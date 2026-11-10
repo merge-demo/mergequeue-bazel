@@ -4335,7 +4335,7 @@ enactor 5
 epigrammatize 1
 entoproct 1
 echoed 2
-eloquence 1
+eloquence 2
 exclaustration 4
 enamelist 2
 enamelless
