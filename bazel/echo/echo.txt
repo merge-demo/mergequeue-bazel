@@ -6497,7 +6497,7 @@ espanoles 1
 elocation 1
 entr 1
 embrocated 1
-electrolyzing
+electrolyzing 1
 epizoisms 2
 ensurance 4
 ensuring 3
@@ -11449,7 +11449,7 @@ embryotic 1
 expdt 4
 elided 4
 evetide 1
-extirpating 2
+extirpating 3
 encipherment 3
 ethanim 3
 elucidation 1
