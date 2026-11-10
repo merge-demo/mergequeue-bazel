@@ -4115,7 +4115,7 @@ frostation
 fergusonite 1
 featherbrain 2
 fattable 2
-fanterie 4
+fanterie 5
 formal 3
 fatalness 3
 fissipedal
@@ -6613,7 +6613,7 @@ forestaffs 2
 flirtier
 forecondemn 4
 fogey 1
-foulbrood 2
+foulbrood 3
 focalizes 4
 forwrap 4
 federacies
@@ -6629,7 +6629,7 @@ fizzers 2
 friggle 2
 fractocumulus 5
 fireweeds 2
-fairgrass 1
+fairgrass 2
 fruitery 2
 funds 3
 fancymonger
@@ -9196,7 +9196,7 @@ fifteenths 3
 frija 1
 fixive 1
 fanaloka 3
-fruiterer 1
+fruiterer 2
 fascinations 1
 foveoles 1
 footled 2
