@@ -2862,7 +2862,7 @@ finable 2
 foresails 4
 figworm 2
 flurry 1
-fungid 5
+fungid 6
 familistery 2
 fortuned 5
 fameflower 3
