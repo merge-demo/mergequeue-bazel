@@ -12289,7 +12289,7 @@ bomb 2
 barratrous 1
 bombacaceae 3
 bombace 2
-behang 3
+behang 4
 bioscientist 5
 bombardiers 1
 bisulphite 3
@@ -18167,7 +18167,7 @@ biogenase 1
 butyrometer 3
 barometrically 1
 barrio 2
-butyrometric 2
+butyrometric 3
 botchwork 1
 begorry
 bingle 1
