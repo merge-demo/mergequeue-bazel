@@ -2626,7 +2626,7 @@ bantamweight 2
 birdhouses 1
 bilges 1
 botanise 3
-begirdle 3
+begirdle 4
 barkless 1
 battening 2
 bandusia 1
@@ -9204,7 +9204,7 @@ bogo 1
 backhauling 2
 bourbonesque 1
 bipedality 2
-bipeds
+bipeds 1
 bipeltate 4
 bipennate 4
 bedlamize
@@ -13005,7 +13005,7 @@ baptismally 1
 boraginaceous 2
 borago 3
 bedamn 1
-boran 2
+boran 3
 boranes 1
 bradyteleocinesia 1
 baccillla 1
@@ -16395,7 +16395,7 @@ brumstane
 brunch 1
 brunched 2
 brunching 1
-bemeaning 2
+bemeaning 3
 bedazed 1
 breathier 4
 buzzgloak 5

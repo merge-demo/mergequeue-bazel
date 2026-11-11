@@ -1621,7 +1621,7 @@ dinginess 1
 doweled 4
 diadrome 1
 derision 1
-disenrol 4
+disenrol 5
 damagingly 2
 decl
 dealcoholize 2
@@ -2507,7 +2507,7 @@ declaimer 1
 dilaters
 declamatory 2
 dateable 1
-decibar
+decibar 1
 dendrochronology 1
 drysaltery 1
 displeasingly 1
@@ -16626,7 +16626,7 @@ dragoonable
 dation 1
 denunciable 1
 dragoonage 3
-dragrope 2
+dragrope 3
 decades
 dexterousness 2
 debiteuse 2
@@ -16934,7 +16934,7 @@ desterilizing 1
 doohinkey
 defenses 1
 dermatograph
-denaturize 1
+denaturize 2
 doorways
 drearihead
 depositories 3
@@ -18522,7 +18522,7 @@ dured 3
 decollated 2
 disparting
 dapperly 5
-disorganizers
+disorganizers 1
 decriers 4
 dualism 3
 detrudes 1
