@@ -5639,7 +5639,7 @@ favouritism 4
 flimsier 3
 fishbolt 4
 felicitations 1
-florist 7
+florist 8
 fellowshiped 2
 fascism 1
 frumpiest 2
@@ -7411,7 +7411,7 @@ flake 3
 finks 3
 flinging 5
 furan 2
-forereport 4
+forereport 5
 forceless 3
 fasciolar 3
 flagellariaceae 4
@@ -8702,7 +8702,7 @@ forgive 2
 flotage 4
 fizzing 4
 filii 1
-fourness 7
+fourness 8
 frightsome 2
 fogydom 5
 fortieth 1
