@@ -12509,7 +12509,7 @@ congelation 1
 countergauger 4
 charmer 1
 coachmaking 1
-cassino 1
+cassino 2
 chrysorin 1
 corimelaenidae
 chromopsia
@@ -26027,7 +26027,7 @@ coseism 2
 coseismal
 cradletime
 citied 1
-contagionist
+contagionist 1
 coypu 2
 cosenator 2
 cosentiency 1
