@@ -7331,7 +7331,7 @@ exemplariness 3
 eelshop 2
 ephah 4
 enact 2
-electrooptics 1
+electrooptics 2
 escaping 1
 epanisognathism 1
 expositively 4
@@ -11024,7 +11024,7 @@ emption 4
 eclectism 4
 eurite
 ethered 2
-echinostomatidae 2
+echinostomatidae 3
 elemol 1
 elapoid 5
 euhages
