@@ -3018,7 +3018,7 @@ grumbled 1
 glosser 1
 gushingness 2
 gauchest 3
-gaggle 3
+gaggle 4
 glorias 1
 groped 3
 guaiacol 3
@@ -9702,7 +9702,7 @@ galloflavin 2
 gasses 7
 geon 1
 gazet 4
-granola 3
+granola 4
 ghostlier 4
 gruffier 5
 greased 4
@@ -10555,7 +10555,7 @@ guillemot 3
 graverobber 2
 gumtree 10
 gimpy 2
-gambetta 2
+gambetta 3
 grandmaster 2
 goustie 4
 gemmiest 1
