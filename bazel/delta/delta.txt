@@ -8630,7 +8630,7 @@ diaglyph 3
 disimprove
 diarist
 dibbuk 1
-denatured 2
+denatured 3
 diarrhea 2
 dows 2
 decarchy 5
@@ -9081,7 +9081,7 @@ dictyota 1
 dictyotales 1
 dors 1
 dictyotic 1
-drinkability 1
+drinkability 2
 dailiness 4
 devow 2
 drubbed 2
@@ -10829,7 +10829,7 @@ deposable 2
 devex
 deificatory
 direful 3
-direfully 2
+direfully 3
 dirempt
 direness 1
 dolly
