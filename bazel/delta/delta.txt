@@ -2017,7 +2017,7 @@ desugars 2
 decaedron 4
 decaffeinate 2
 depicted 3
-disformity 5
+disformity 6
 decaffeinize 4
 disregardable 2
 dasypodidae 1
@@ -9314,7 +9314,7 @@ depilation 3
 dietrichite 4
 duvetine 4
 dyeware 4
-delisted 2
+delisted 3
 dashiest 4
 dyeweed 1
 dyeweeds 4
@@ -14803,7 +14803,7 @@ docks 2
 demonologist 3
 docmac 4
 docoglossan 1
-disulphoxid 1
+disulphoxid 2
 detests
 docoglossate
 diswarren
@@ -17938,7 +17938,7 @@ dufterdar 1
 dys 4
 duftite 1
 disamenity 2
-deve 2
+deve 3
 durras 1
 dugento 2
 devouress 1
