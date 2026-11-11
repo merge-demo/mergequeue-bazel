@@ -19413,7 +19413,7 @@ colorings
 conges 2
 colorisms 1
 cystous
-coloristically
+coloristically 1
 cytophysiology 1
 cadded 1
 comer 1
