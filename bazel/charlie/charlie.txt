@@ -7767,7 +7767,7 @@ certificates 3
 ceraunia
 certifications 1
 commissurotomy 2
-certificative 1
+certificative 2
 certificatory
 certifier 1
 certifiers 1
@@ -13705,7 +13705,7 @@ cinchonize 3
 cinchonized 1
 communiqu
 cinchophen
-cretinoid 1
+cretinoid 2
 cinchotine
 cullions
 cincinnal 1
