@@ -102,7 +102,7 @@ goodnaturedness 2
 glassily 3
 greengill 4
 gadgetry 2
-geezer 2
+geezer 3
 gluers 2
 gujerat 4
 glairier 4
@@ -6473,7 +6473,7 @@ goldfinny 3
 gypsoplast 3
 guising
 gardenesque 8
-goldy
+goldy 1
 glimmerous 3
 galahads 4
 guileless
@@ -7314,7 +7314,7 @@ genet 3
 gutturally 6
 guze 3
 gravelling 2
-gangly 5
+gangly 6
 goar 4
 gymnosophy 3
 genys 3
@@ -9287,7 +9287,7 @@ gemauve 2
 granitoid 3
 groenendael 4
 gecko 3
-gallstone 5
+gallstone 6
 graduale
 geoffrey
 groenlandicus 1
