@@ -18506,7 +18506,7 @@ adulteress
 arbores 2
 arborescently 1
 arango 2
-alienicolae 2
+alienicolae 3
 azofier
 allwhither
 achromate 1
@@ -19019,7 +19019,7 @@ autochthonic
 authorial 1
 algol
 amaryllis
-archmonarch
+archmonarch 1
 amadavats
 arnebia 1
 astaticism
@@ -19548,7 +19548,7 @@ autecious 3
 anesthesiant 1
 asynchronous
 aramayoite
-accede 1
+accede 2
 adjacency
 ariana 2
 alifs 1
