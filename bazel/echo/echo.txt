@@ -4150,7 +4150,7 @@ eiffel 4
 ensheathed 3
 every 1
 etymologically 2
-endurability
+endurability 1
 entombments 2
 eniac 3
 emplunge 2
