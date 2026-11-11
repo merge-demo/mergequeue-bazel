@@ -8034,7 +8034,7 @@ duomi 1
 dispersion 2
 dumbhead 3
 dhal 2
-dimension 1
+dimension 2
 dorsointestinal 1
 dhamnoo 2
 distinctional 1
@@ -17450,7 +17450,7 @@ deforcer 1
 drouth 2
 dopas 1
 delphacid 3
-desectionalize 1
+desectionalize 2
 drouthier 1
 defame 2
 definitude 1
@@ -18087,7 +18087,7 @@ dimenhydrinate 2
 denominating 1
 discontinuer 2
 dandriffs 3
-dumbest
+dumbest 1
 draftage 2
 dumbfounderment 2
 dumbfounding
