@@ -8642,7 +8642,7 @@ freightless 4
 filterability 2
 fourposters 1
 futharks
-feet 1
+feet 2
 fuzes 3
 finites 2
 forborn 1
@@ -10568,7 +10568,7 @@ florins 5
 founds 3
 fertilizations 1
 fatidical 2
-falcade 3
+falcade 4
 fructificative 3
 fussock 3
 formagen 1

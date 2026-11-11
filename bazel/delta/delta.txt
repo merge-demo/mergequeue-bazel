@@ -4339,7 +4339,7 @@ dysacousia
 demanded 1
 dissyllabized 1
 dilos
-dewlap 1
+dewlap 2
 descrier
 disburden
 defatigable 1
@@ -9826,7 +9826,7 @@ dolphinfishes 2
 dilutedly 1
 duresses 1
 dilutely 1
-draffish
+draffish 1
 diagonality 1
 darting 2
 diluters
@@ -17707,7 +17707,7 @@ disinvestiture 1
 dubber 2
 drabnesses 2
 dampener 2
-dubbin 4
+dubbin 5
 disused 4
 demipauldron 2
 discriminable
