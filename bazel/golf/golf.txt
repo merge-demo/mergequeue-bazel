@@ -2315,7 +2315,7 @@ gelatine 3
 gerastian 2
 ge 3
 gagsters 2
-gravitation 1
+gravitation 2
 gingival 3
 guige 3
 gerocomy 1
@@ -10765,7 +10765,7 @@ gonfalonierate 2
 ganoin 3
 gloam
 graminin 2
-gorhen 3
+gorhen 4
 gimbals 5
 gallium 3
 glamourie 3
