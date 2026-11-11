@@ -1027,7 +1027,7 @@ finalists 2
 farinometer 2
 farinose 2
 founce 3
-flannelly
+flannelly 1
 firesafety 1
 flourishing 3
 farinosel 2
@@ -3497,7 +3497,7 @@ flankard 3
 fury 3
 ficins 4
 fordays 3
-floorhead 2
+floorhead 3
 formuliser 2
 forpined 5
 finnic 2
@@ -5691,7 +5691,7 @@ footpound 1
 folioliferous
 fresnels 3
 factional 1
-facilitator 4
+facilitator 5
 flyovers 2
 flype 3
 feodaries 6
@@ -6066,7 +6066,7 @@ firmarius 4
 freebooted 2
 fraternate 4
 flocculating 2
-frayn 1
+frayn 2
 floridity 4
 floriscope 4
 fetterbush 1
@@ -10339,7 +10339,7 @@ flaps 3
 fuzil 3
 foreordainments 4
 frontages 8
-floorshow 4
+floorshow 5
 filicoid
 fezziwig 2
 fidding 3

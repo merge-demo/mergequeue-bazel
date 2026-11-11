@@ -1503,7 +1503,7 @@ balladize 1
 bedaubed 2
 balladizing
 biophore
-brutalization 1
+brutalization 2
 bichromated 2
 bezel 1
 basted 2
@@ -8634,7 +8634,7 @@ bilobed 2
 bilocular 2
 biloculina 1
 braches
-bilophodont
+bilophodont 1
 boshvark 1
 baxterian
 brattish 1
@@ -10632,7 +10632,7 @@ bleacherite 2
 bleachfield 1
 braye 3
 boardy
-bleachworks 4
+bleachworks 5
 bearableness 3
 bumblebees 2
 bleaker
@@ -13611,7 +13611,7 @@ bedsonias 1
 bemuddle 2
 bounceback 1
 blowsy 2
-bouncier 2
+bouncier 3
 batteried
 barra
 begladding 2
@@ -16556,7 +16556,7 @@ bibliopolical
 blackplate 3
 brachypinacoid 2
 bleary
-brutishness 1
+brutishness 2
 brewed 2
 blockheadism 1
 bandster 1

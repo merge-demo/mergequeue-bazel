@@ -3018,7 +3018,7 @@ grumbled 1
 glosser 1
 gushingness 2
 gauchest 3
-gaggle 3
+gaggle 4
 glorias 1
 groped 3
 guaiacol 3
@@ -3380,7 +3380,7 @@ goniodoris 1
 germon 4
 ghostcraft 3
 germs 4
-glaucescence 2
+glaucescence 3
 griseous 2
 garment 2
 gigartinaceae 5
@@ -4479,7 +4479,7 @@ generaliter 1
 greffier 4
 graveyard 3
 gipsydom 2
-giddyhead 4
+giddyhead 5
 gepoun 1
 gugu 2
 galtonian 4
@@ -4968,7 +4968,7 @@ groundwards 2
 glamors 1
 geldable 3
 granddada 4
-granita 3
+granita 4
 gainst 5
 growze 3
 gauziest 6
@@ -7659,7 +7659,7 @@ gorgonlike 1
 gool 2
 gnathometer 6
 guachamaca 3
-germane 2
+germane 3
 geira 2
 grounding 3
 geodynamics 3
@@ -9702,7 +9702,7 @@ galloflavin 2
 gasses 7
 geon 1
 gazet 4
-granola 3
+granola 4
 ghostlier 4
 gruffier 5
 greased 4
@@ -10555,7 +10555,7 @@ guillemot 3
 graverobber 2
 gumtree 10
 gimpy 2
-gambetta 2
+gambetta 3
 grandmaster 2
 goustie 4
 gemmiest 1
