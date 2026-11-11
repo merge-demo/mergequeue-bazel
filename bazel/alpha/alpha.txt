@@ -2114,7 +2114,7 @@ antimonarchic
 abnormalness 1
 anthropological
 aragonite
-alfin 1
+alfin 2
 auspicial 1
 achillize 3
 aerobically 5
@@ -9176,7 +9176,7 @@ apotheosising 1
 absentation
 ageist
 acquitted 2
-almner
+almner 1
 almohad 2
 aorta 1
 anticlimactical 2
