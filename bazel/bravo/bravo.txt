@@ -8785,7 +8785,7 @@ bingos 1
 binh 2
 bounden
 besets 2
-bini
+bini 1
 beraking 2
 bettering
 berakoth 3
@@ -15115,7 +15115,7 @@ breviloquent 1
 blimp 1
 bushhammer 3
 breviradiate 2
-blithely 3
+blithely 4
 bugeyed
 brevit 1
 brevity 4
