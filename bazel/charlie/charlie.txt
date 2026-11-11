@@ -1472,7 +1472,7 @@ calyx 1
 coecal 1
 continents 1
 careening
-calkers
+calkers 1
 chowse 1
 calkin
 calkins 3
@@ -13372,7 +13372,7 @@ cyclostomi 1
 cedent 1
 cyclothymiac 2
 cocci
-contractile 2
+contractile 3
 czarists
 cyclothymic 1
 cocooned
