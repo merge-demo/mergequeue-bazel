@@ -5894,7 +5894,7 @@ belonging 3
 basisphenoid 1
 bailiffship 3
 believing 1
-belongs
+belongs 1
 bicameral 1
 bugdom
 banderillero 1
@@ -16233,7 +16233,7 @@ botonnee
 bundy 2
 berrypicking
 bestink 1
-bluejackets
+bluejackets 1
 browned 1
 buscarl
 brandishers 2
@@ -17586,7 +17586,7 @@ barons 3
 brightwork
 bervie 2
 brushball 1
-bemol 2
+bemol 3
 barbel 1
 bonnive 3
 briefed 4
@@ -17751,7 +17751,7 @@ burnt 3
 bretelle 1
 backfill 4
 biobibliography
-burnwood 2
+burnwood 3
 brainchildren 2
 basileus 1
 browsage 2
