@@ -8638,7 +8638,7 @@ etherialization 1
 equimodal 2
 eunomia 2
 espantoon 2
-encirclements 4
+encirclements 5
 erythrogonium 1
 erineum
 enzymotic 3
@@ -13980,7 +13980,7 @@ eucryphia 3
 eodevonian 5
 espagnolette 6
 echinodermic 1
-eyepoint 1
+eyepoint 2
 equalising 2
 erythromania 2
 eisegetic 4
