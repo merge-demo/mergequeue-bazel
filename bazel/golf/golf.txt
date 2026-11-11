@@ -5483,7 +5483,7 @@ galet 1
 gemellus 1
 guipure 3
 groundskeep 1
-glisk
+glisk 1
 gapperi 6
 gastruran 3
 grangerising 6
