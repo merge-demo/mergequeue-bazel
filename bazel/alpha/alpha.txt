@@ -5074,7 +5074,7 @@ abthanage
 agronomic 1
 aerotonometry
 antirationally
-adularescent 1
+adularescent 2
 aporrhiegma 1
 albruna 1
 allantoidal 2
@@ -7293,7 +7293,7 @@ alaska 4
 alaskaite 1
 asexualising 1
 alaskas 2
-alaskite 4
+alaskite 5
 alastor 2
 alate
 alated 1
@@ -17024,7 +17024,7 @@ apocarpy 5
 amaethon
 apocentric 1
 anthropomorphic
-apoquinine 2
+apoquinine 3
 acroscleroderma
 apocha 1
 automorphic 2

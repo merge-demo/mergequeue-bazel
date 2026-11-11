@@ -2163,7 +2163,7 @@ explicandum 6
 electropult 3
 elation 2
 euphonise 3
-enrib
+enrib 1
 effloresces 2
 extrapolar 2
 explanative 1
@@ -10180,7 +10180,7 @@ engraphically 2
 elisabeth
 erastianism
 etherifies 2
-etherifying 2
+etherifying 3
 embryoscope 4
 etherism
 effortfully 3
@@ -12485,7 +12485,7 @@ escalading
 escheatable 2
 exility 4
 exanthem
-eyestones 3
+eyestones 4
 educatory 2
 enneadic 1
 electrifying 4
