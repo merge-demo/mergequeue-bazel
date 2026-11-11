@@ -2725,7 +2725,7 @@ blitum 1
 betrothals 1
 bloodstanch 2
 balandrana 1
-brasen
+brasen 1
 betaken 2
 beladies 3
 barognosis 3
@@ -3619,7 +3619,7 @@ beshouted 1
 batiking 1
 boise 1
 boloneys 5
-birlinn 1
+birlinn 2
 batiks 1
 became 3
 bolting 3
@@ -4484,7 +4484,7 @@ butches 1
 bromios 2
 becrippled 3
 beira 2
-bedplate
+bedplate 1
 bronchiectatic 2
 bluenose
 becroak 1
@@ -5768,7 +5768,7 @@ bellboys
 belay
 belled 1
 biotechnologicaly 2
-boomlet
+boomlet 1
 backlogging 2
 brawlers 1
 bearably 4
@@ -6431,7 +6431,7 @@ bitripartite 2
 bregmata 1
 benzothiodiazole 2
 bergamiol 1
-bumpering 2
+bumpering 3
 backcloth 1
 barangay 3
 biternate 1
@@ -11920,7 +11920,7 @@ bogart 1
 backboneless 1
 bisaxillary 1
 bogatyr
-boosies 1
+boosies 2
 bogbeans
 bordels
 bogberry 1
@@ -14670,7 +14670,7 @@ beginners 3
 bitted
 blungers 2
 baned
-brasils 1
+brasils 2
 brasque
 bloc 2
 bullwhack 3

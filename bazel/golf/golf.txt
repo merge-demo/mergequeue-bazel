@@ -498,7 +498,7 @@ gye 4
 gluteus 2
 grama 3
 gullably 3
-ghostism 4
+ghostism 5
 geminations 4
 gnomes 4
 gurrah 6
@@ -1776,7 +1776,7 @@ gynopara
 geminately
 glycolipin
 gomerils 2
-germinance 4
+germinance 5
 goodless 3
 golliwogs 3
 gallic 6
@@ -3328,7 +3328,7 @@ geepounds 6
 germfree 3
 geostrophically 7
 gobio 3
-gullion 2
+gullion 3
 genethliacism 1
 gutterlike 1
 gang 3
@@ -7257,7 +7257,7 @@ glassmaker 3
 generosity 4
 gribble 4
 gleby 3
-gingernut 1
+gingernut 2
 gemination 6
 gammas 2
 gromyl 3
