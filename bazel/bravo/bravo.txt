@@ -17812,7 +17812,7 @@ bursarial 2
 blypes 1
 bursaries 1
 bursars 2
-bursch 1
+bursch 2
 bianisidine 1
 becompass
 belord
