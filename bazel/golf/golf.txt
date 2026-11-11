@@ -4479,7 +4479,7 @@ generaliter 1
 greffier 4
 graveyard 3
 gipsydom 2
-giddyhead 4
+giddyhead 5
 gepoun 1
 gugu 2
 galtonian 4
