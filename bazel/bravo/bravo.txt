@@ -5984,7 +5984,7 @@ bricktop 2
 bossier
 befooling
 brewis
-bribeability 4
+bribeability 5
 bruises 2
 bitterbark 1
 bemean
@@ -6441,7 +6441,7 @@ benzothiophene 2
 benzotrichloride 3
 bolection 3
 benzoxyacetic 4
-blanchers 2
+blanchers 3
 ballast 1
 bisulcate 3
 bulldogged 2
