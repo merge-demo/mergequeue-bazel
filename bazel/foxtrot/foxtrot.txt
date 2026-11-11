@@ -2039,7 +2039,7 @@ ferngrower 1
 frontspiece 3
 feinter 2
 feudary 3
-fundi 2
+fundi 3
 facedown 1
 faucalize 1
 fireboat 3
@@ -2521,7 +2521,7 @@ frush 3
 flunky 4
 favaginous 4
 foulmouth 5
-formaldehyde 5
+formaldehyde 6
 feverlike 4
 frondescent 4
 ferrelling
