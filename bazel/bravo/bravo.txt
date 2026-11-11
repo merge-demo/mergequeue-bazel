@@ -5894,7 +5894,7 @@ belonging 3
 basisphenoid 1
 bailiffship 3
 believing 1
-belongs
+belongs 1
 bicameral 1
 bugdom
 banderillero 1
