@@ -1420,7 +1420,7 @@ fishway 2
 fountainlet 4
 focometry 3
 fallibly 1
-firewood
+firewood 1
 futchell 3
 forbar 2
 ferreted 3
@@ -3865,7 +3865,7 @@ fract 6
 fiberglas 6
 formicary 1
 fiberscope 4
-forgiveable 3
+forgiveable 4
 fungistat 2
 flavanthrene 1
 favous 6

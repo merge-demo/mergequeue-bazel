@@ -2766,7 +2766,7 @@ acrocephalic
 accompanable 2
 aw
 anguished 3
-acrochordinae 1
+acrochordinae 2
 almeh 2
 archaeologist
 argand 2
@@ -2900,7 +2900,7 @@ ammoniureted 2
 awkwardest 2
 alienist
 across 2
-aubrietas 1
+aubrietas 2
 anguilliform 3
 alvus 2
 allege 2
@@ -25333,7 +25333,7 @@ antireactionaries 1
 azophenine
 azoprotein 2
 adjustage
-anoplotheriidae
+anoplotheriidae 1
 abeyances
 amygdaline
 avahi 1
