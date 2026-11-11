@@ -9897,7 +9897,7 @@ catalogic 1
 chronobiology
 chemosorption 2
 chemosphere 1
-collateral
+collateral 1
 cancers 2
 chemosurgery
 chemotactic
