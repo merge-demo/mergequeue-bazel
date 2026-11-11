@@ -9335,7 +9335,7 @@ ferromagnesian 2
 frangulic 1
 forjudge 1
 flichter 1
-fishless 1
+fishless 2
 facelessness 2
 fetichistic 2
 felinities 3
@@ -9409,7 +9409,7 @@ franticly 1
 fossor 1
 freeloading 1
 fluoridate 5
-floristics 1
+floristics 2
 freewheeling 2
 flagpoles 5
 furacana 3
@@ -11301,7 +11301,7 @@ fusspot 1
 firearm 1
 fulmicotton 3
 fatwa
-firedog 1
+firedog 2
 formatted 4
 feverfew 3
 firesides 3
