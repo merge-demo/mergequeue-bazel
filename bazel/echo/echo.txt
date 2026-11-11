@@ -434,7 +434,7 @@ exarchies 2
 eburin 3
 exobiologists 4
 ec 3
-ecardines 1
+ecardines 2
 extravagate 4
 ernest 2
 ecballium 2
@@ -619,7 +619,7 @@ epeus 1
 ey 2
 echeneidoid 2
 enchant 2
-enneaeteric
+enneaeteric 1
 empyreumatic 3
 epipaleolithic 2
 evincement 3
@@ -983,7 +983,7 @@ expanse 1
 excavatory 2
 emasculating
 enthymematic 2
-ensaffron 4
+ensaffron 5
 ensealing 1
 endomitotic 10
 excrementary
@@ -4176,7 +4176,7 @@ editorializes 1
 epitheliolysin
 emanant 2
 encallow 2
-euterpe 2
+euterpe 3
 extraessentially 2
 exchangeable 4
 ephedra 1
@@ -8328,7 +8328,7 @@ episthotonos 3
 epidictic 2
 endogamies 1
 eriocaulaceae 5
-electrodeposit 1
+electrodeposit 2
 enciphers 4
 elev 1
 expressibly
@@ -8749,7 +8749,7 @@ encrotchet 1
 exuberated 5
 exteriorized
 expatiator
-equivocal 2
+equivocal 3
 exuperable 2
 extermination 3
 encystment 5
@@ -11575,7 +11575,7 @@ embrute 4
 enlighten 2
 extensiveness 4
 evolutionism 1
-epizeuxis
+epizeuxis 1
 evolutionistic 3
 epigenesis 2
 endotheloid
@@ -12827,7 +12827,7 @@ ecanda 5
 edgeways 3
 excavation 3
 empacket 3
-elinguated 4
+elinguated 5
 eroticization 1
 emicant 1
 expansive 2

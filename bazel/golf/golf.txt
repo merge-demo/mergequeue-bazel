@@ -358,7 +358,7 @@ gasogenic 4
 gorefish 2
 gangrenous 4
 gunsmith 3
-goniometrical 4
+goniometrical 5
 guyer 1
 galoped 3
 galactosis 4
@@ -3890,7 +3890,7 @@ gigaherz 4
 gymnarchidae 2
 genips 3
 gighe 1
-gramaryes 4
+gramaryes 5
 grossen 2
 guelph 2
 gyroplane 3
@@ -4731,7 +4731,7 @@ grudgingly 3
 garnisheeing 3
 genista 1
 galeae 1
-gowland 4
+gowland 5
 gitanos 2
 gite 2
 gonarthritis 5
@@ -8526,7 +8526,7 @@ gressorious 2
 glycin 4
 geisha 2
 graveolent 1
-gymnoderinae 2
+gymnoderinae 3
 gozzan 5
 gramineae 2
 graverobbing 2
@@ -8656,7 +8656,7 @@ greaved 2
 garlopa 1
 galvaniser 5
 grossulaceous 3
-gigartinales 3
+gigartinales 4
 gummic 6
 gonocalycine 3
 gliders
