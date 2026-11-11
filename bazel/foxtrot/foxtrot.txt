@@ -1195,7 +1195,7 @@ fannon 2
 fascista 2
 fright 3
 fund 1
-fluoroscopy 1
+fluoroscopy 2
 fleech 3
 fears 1
 fascistization 2
@@ -3659,7 +3659,7 @@ fibrillar 2
 freshed 1
 foretype 3
 feverberry 2
-filigrane 6
+filigrane 7
 furlana 2
 frangula 2
 franchisee 5
@@ -6118,7 +6118,7 @@ fenster 3
 flounce 6
 felsobanyite 3
 floccilation 3
-flounced 2
+flounced 3
 flounder 4
 frowardness 1
 faraway
@@ -8055,7 +8055,7 @@ frontward 2
 fellahs 1
 flash 3
 fluidises 2
-falconnoid 5
+falconnoid 6
 foredevote 2
 felicitates
 fluidisation 6
