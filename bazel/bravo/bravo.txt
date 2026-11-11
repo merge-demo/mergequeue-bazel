@@ -10126,7 +10126,7 @@ biomicroscopies 2
 backfiller
 biotrons 1
 blackbush 3
-birkenia 3
+birkenia 4
 bromising
 bonhomous 3
 biopsychologies 2
@@ -11307,7 +11307,7 @@ boards 2
 bespoused 3
 blowtorches 2
 bromos 1
-bossiness
+bossiness 1
 blowups 1
 beadrow
 byroad 2
