@@ -9085,7 +9085,7 @@ euros 1
 erythrolytic 2
 eyrer 3
 equitangential
-expulse 3
+expulse 4
 endoscopic 1
 exponential 5
 equipollent 3
@@ -12485,7 +12485,7 @@ escalading
 escheatable 2
 exility 4
 exanthem
-eyestones 3
+eyestones 4
 educatory 2
 enneadic 1
 electrifying 4
