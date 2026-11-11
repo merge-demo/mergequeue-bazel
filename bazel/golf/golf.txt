@@ -51,7 +51,7 @@ glaucolite 2
 guemal 5
 geometrine 2
 gelatinousness 6
-glucosidic 5
+glucosidic 6
 goofball 1
 gatherum 5
 gibbon 1
@@ -361,7 +361,7 @@ gunsmith 3
 goniometrical 5
 guyer 1
 galoped 3
-galactosis 4
+galactosis 5
 grimsire 7
 gastrodynia 2
 gauric
@@ -1789,7 +1789,7 @@ granitic 2
 globously 4
 gambados 2
 guiba 3
-guaycuruan 2
+guaycuruan 3
 galliambic
 gastrorrhea 2
 graecizes 4
