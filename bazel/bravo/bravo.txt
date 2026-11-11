@@ -16665,7 +16665,7 @@ buckaroo
 bombazet
 buckberry 1
 boily 2
-bebaron 2
+bebaron 3
 broilers
 bovey
 buckboards 1
@@ -18064,7 +18064,7 @@ bislings 1
 bog
 bustler 1
 bustlers 3
-bustles
+bustles 1
 biologize
 bustlingly 2
 blenny 1
