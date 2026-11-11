@@ -1460,7 +1460,7 @@ acclimatising 3
 aegagrus 1
 applewood 1
 aborsive 1
-algid 3
+algid 4
 ann 1
 alpinery 2
 acclimatizer 1
@@ -9743,7 +9743,7 @@ anchorer
 allegatum
 amacrinal 1
 amadelphous
-aggrading 1
+aggrading 2
 amadous
 androkinin
 ahluwalia
@@ -14178,7 +14178,7 @@ anteprohibition 1
 acetarsone
 antequalm 1
 abmho 2
-arduous
+arduous 1
 artie
 affront 2
 antereformational
@@ -18742,7 +18742,7 @@ ave 1
 ancientry 1
 adinidan 1
 attachers 1
-archdukes
+archdukes 1
 andesic 1
 axioms 2
 alkanes 2
