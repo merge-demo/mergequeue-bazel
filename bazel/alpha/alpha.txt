@@ -621,7 +621,7 @@ accountment 1
 abolish 1
 autovaccine
 abolished
-aves 1
+aves 2
 acacetin 1
 amatols 1
 atelomitic 3
@@ -22798,7 +22798,7 @@ arrowheaded 1
 antigenically
 ammodytes
 antipopulationist 1
-autokrator
+autokrator 1
 annulets 1
 atlantosaurus 1
 atlases
