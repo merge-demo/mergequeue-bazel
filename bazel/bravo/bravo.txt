@@ -9204,7 +9204,7 @@ bogo 1
 backhauling 2
 bourbonesque 1
 bipedality 2
-bipeds
+bipeds 1
 bipeltate 4
 bipennate 4
 bedlamize
