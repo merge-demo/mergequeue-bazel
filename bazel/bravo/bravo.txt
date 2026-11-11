@@ -301,7 +301,7 @@ benzacridine 2
 backslided 1
 backberend 1
 backbite
-beeman
+beeman 1
 burgeon 1
 baize 2
 backbitingly 1
@@ -6186,7 +6186,7 @@ blackleggery 2
 bedraggles 3
 beetle 1
 baffy 3
-benet 3
+benet 4
 brazas 2
 beneventan 3
 bibliography 2
@@ -7630,7 +7630,7 @@ birler 2
 britishness
 biacetylene 3
 backened 1
-biogenies 3
+biogenies 4
 beeper
 burgling
 bewraps 1
