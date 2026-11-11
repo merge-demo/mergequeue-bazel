@@ -2761,7 +2761,7 @@ dacryelcosis 2
 daemonurgy 2
 darbies 1
 decortication 1
-dematerialization 1
+dematerialization 2
 decorticator 3
 determinants 3
 decorticosis 1
@@ -9045,7 +9045,7 @@ disillusioniser 2
 dictaen 1
 diplomatist 1
 dictamina 1
-dernier 1
+dernier 2
 drinkproof
 dictaphones 3
 dictating 1
