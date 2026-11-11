@@ -6526,7 +6526,7 @@ catharticalness 4
 caviller 1
 chemins 1
 cavillous 1
-cavils
+cavils 1
 cyaathia
 cavina
 cynicisms
@@ -7337,7 +7337,7 @@ cephalism
 caprine
 cephalitis 1
 cephalization 2
-cephaloauricular 2
+cephaloauricular 3
 cephalobranchiata
 chelicera 2
 cerusites
@@ -11450,7 +11450,7 @@ county 3
 chronicler 1
 chocking 2
 cockpaddle 4
-cyrenaicism 1
+cyrenaicism 2
 chytridium
 cre
 chylified
@@ -14108,7 +14108,7 @@ circuition 1
 circuitman 2
 chimerically 1
 constitutionality 1
-caldarium 1
+caldarium 2
 charruan
 crystallophobia 1
 circuits
@@ -23595,7 +23595,7 @@ continuum 2
 contise 1
 compendiate 2
 cognoscenti 2
-contoise 1
+contoise 2
 contorniates 1
 castrater
 caboose
@@ -24822,7 +24822,7 @@ coquitlam 1
 cor
 corabecan 3
 closkey
-complications 2
+complications 3
 corach 1
 creutzer 2
 coracial 1
@@ -27415,7 +27415,7 @@ courtney
 courtnoll
 cappier 1
 courtroll 2
-ceratium
+ceratium 1
 committees
 courtship 1
 cleach 3

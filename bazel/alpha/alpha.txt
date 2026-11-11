@@ -621,7 +621,7 @@ accountment 1
 abolish 1
 autovaccine
 abolished
-aves 1
+aves 2
 acacetin 1
 amatols 1
 atelomitic 3
@@ -6573,7 +6573,7 @@ adenanthera 3
 atlantoodontoid 1
 aidman 5
 aidmen 2
-akeake 2
+akeake 3
 aline 1
 adjunctive 1
 afterripening
@@ -14668,7 +14668,7 @@ apothecial
 antiantibody
 antiantitoxin 1
 antianxiety
-alphos 3
+alphos 4
 antiboss 2
 attaching
 antiaquatic 2
@@ -16395,7 +16395,7 @@ audibly 1
 antlid 1
 antre 1
 antling 2
-airdates 1
+airdates 2
 antlophobia 1
 antocular 1
 aeneous 2
@@ -20114,7 +20114,7 @@ arpents 1
 apocholic 3
 ascidia 1
 antihectic 1
-arr 1
+arr 2
 arracach
 airwayman 1
 anticoagulate
@@ -21433,7 +21433,7 @@ aspectable 2
 aspectant 3
 aspects
 acyclically 1
-aspens 1
+aspens 2
 asper
 amnesties
 asperate 2
@@ -22798,7 +22798,7 @@ arrowheaded 1
 antigenically
 ammodytes
 antipopulationist 1
-autokrator
+autokrator 1
 annulets 1
 atlantosaurus 1
 atlases
@@ -23401,7 +23401,7 @@ acclimatisable
 audiles
 anility 2
 artophorion 1
-auding
+auding 1
 autohypnosis
 audiology 1
 acca 4
