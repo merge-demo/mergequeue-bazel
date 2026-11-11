@@ -25188,7 +25188,7 @@ corylaceae 1
 corylaceous
 corylus
 contraprop 2
-chenopodiales
+chenopodiales 1
 conversantly 1
 cads 2
 cyanicide
@@ -27722,7 +27722,7 @@ chivage
 couhage
 cowpats 1
 compliable
-cowpen 1
+cowpen 2
 cowper
 complexively 1
 cosmotheism
