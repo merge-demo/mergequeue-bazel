@@ -2706,7 +2706,7 @@ beastings
 beblood
 butein
 bottomries 4
-batch
+batch 1
 beadflush 2
 bemaul 1
 barnman
@@ -15672,7 +15672,7 @@ bewildered 2
 burr 1
 bedog
 beholder 1
-braggiest 1
+braggiest 2
 bepuzzlement 1
 babool 1
 badgemen 1
