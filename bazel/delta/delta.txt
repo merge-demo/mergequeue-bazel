@@ -1875,7 +1875,7 @@ deboite
 defet 2
 docimasies 3
 douc 3
-decoy
+decoy 1
 daleswoman 4
 debonair 3
 dextrorotary 1
@@ -16321,7 +16321,7 @@ decanate 2
 diarchy 3
 drubs 5
 duratives 5
-dorothy 2
+dorothy 3
 daffled
 depictured
 dials
