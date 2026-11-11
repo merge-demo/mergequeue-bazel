@@ -849,7 +849,7 @@ dartmoor 2
 disinterested 1
 detracter
 despoticly
-drizzling 1
+drizzling 2
 deteriorator 1
 duralumin
 duotone 3
@@ -1126,7 +1126,7 @@ dryfist 2
 dashee 1
 dasheen 2
 destructional 4
-dasheens 5
+dasheens 6
 darkles 1
 dispiriting 1
 dexter 1
@@ -3976,7 +3976,7 @@ delightedly 2
 diarize 1
 dkm
 delassation 3
-dindling 2
+dindling 3
 decontaminates 1
 dunstone 1
 drugless 2
@@ -14053,7 +14053,7 @@ draughtman 1
 distributary 2
 dressy 3
 distributaries 3
-designative 1
+designative 2
 doocot
 dolichocephalic
 doggrel 1
