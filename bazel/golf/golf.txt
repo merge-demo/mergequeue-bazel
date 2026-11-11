@@ -1445,7 +1445,7 @@ germinate 1
 guild 1
 garbages
 gulfy 1
-grosgrained 4
+grosgrained 5
 gainward 2
 glossarial 5
 gidjee 2
@@ -4704,7 +4704,7 @@ glutin 1
 germicidal 1
 girts 4
 gazelline 3
-gettered 1
+gettered 2
 gynomonecious 2
 gise 5
 granges 3
@@ -8006,7 +8006,7 @@ gratitude 4
 geste 3
 gemse 1
 ghosthood 3
-gangsman 2
+gangsman 3
 gouvernante
 grapnels
 glaucine 3
@@ -9740,7 +9740,7 @@ gable 3
 gibbetting 2
 genuflector
 gambir 3
-gordiidae 4
+gordiidae 5
 gagroot 1
 gablewise 4
 gambes 3
