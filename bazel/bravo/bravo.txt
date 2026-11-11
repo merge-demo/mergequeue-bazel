@@ -2706,7 +2706,7 @@ beastings
 beblood
 butein
 bottomries 4
-batch
+batch 1
 beadflush 2
 bemaul 1
 barnman
