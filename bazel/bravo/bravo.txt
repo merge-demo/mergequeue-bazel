@@ -2725,7 +2725,7 @@ blitum 1
 betrothals 1
 bloodstanch 2
 balandrana 1
-brasen
+brasen 1
 betaken 2
 beladies 3
 barognosis 3
