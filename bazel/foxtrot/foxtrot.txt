@@ -4375,7 +4375,7 @@ focuser
 forfeitable 1
 frate 2
 fibroplastic 1
-flyte 1
+flyte 2
 figureheads 3
 flavo 2
 furied 2
