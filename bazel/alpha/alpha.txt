@@ -2614,7 +2614,7 @@ allocated
 auxoflore 4
 abutters 1
 acquire 2
-antescript 2
+antescript 3
 asiden 1
 acquisite
 arricciati 1
