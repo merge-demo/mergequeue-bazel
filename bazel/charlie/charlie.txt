@@ -5082,7 +5082,7 @@ cascabel 2
 carlos 2
 cesspipe 1
 coestate
-cytocide 2
+cytocide 3
 chemoprophylaxis 3
 cascable 1
 cascadable 1
@@ -12472,7 +12472,7 @@ chromolithic 1
 concanavalin
 chromolithography
 chromolithographic 1
-chromomere
+chromomere 1
 chondrosarcoma 2
 chromone 2
 carboxide 2
@@ -12905,7 +12905,7 @@ churrigueresco
 churring
 churrip 3
 churro 1
-churruck 1
+churruck 2
 churrus 2
 cooeeing 1
 copiers
