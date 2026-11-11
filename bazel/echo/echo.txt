@@ -2416,7 +2416,7 @@ embiid 1
 epepophysis 2
 evangelization 2
 edda 4
-excusively
+excusively 1
 epipetalous 3
 episcopalianize 2
 ensorcell 4
@@ -9085,7 +9085,7 @@ euros 1
 erythrolytic 2
 eyrer 3
 equitangential
-expulse 3
+expulse 4
 endoscopic 1
 exponential 5
 equipollent 3
@@ -9694,7 +9694,7 @@ esq 1
 esquires 2
 existence 1
 exurbs
-evacue 4
+evacue 5
 euselachii 2
 esquisse 1
 exship 2
@@ -12485,7 +12485,7 @@ escalading
 escheatable 2
 exility 4
 exanthem
-eyestones 3
+eyestones 4
 educatory 2
 enneadic 1
 electrifying 4
@@ -13673,7 +13673,7 @@ epistolizable
 exteriorness 1
 espec 2
 emotionlessness 6
-ergotoxin
+ergotoxin 1
 eurygnathic 1
 exterminatrix 5
 extraconscious 4
@@ -14081,7 +14081,7 @@ extremeness 4
 extremis 3
 effeminate 4
 extraterritorials 1
-ethnologist 2
+ethnologist 3
 esteem 2
 evolutionistically 1
 episternum 3
