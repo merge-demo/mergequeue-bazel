@@ -4334,7 +4334,7 @@ expansibleness 2
 enactor 5
 epigrammatize 1
 entoproct 1
-echoed 2
+echoed 3
 eloquence 2
 exclaustration 4
 enamelist 2
@@ -5955,7 +5955,7 @@ effluviography 3
 educatee
 enjoyably
 enhypostasia 1
-estmark 1
+estmark 2
 electrotheraputically 6
 endolemma 2
 exudence 1
