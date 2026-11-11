@@ -3242,7 +3242,7 @@ graffage 1
 gazement 1
 gormandizer 4
 gynecologists 5
-gerasene 6
+gerasene 7
 gesturer 4
 gutti 2
 gigantism 3
@@ -10694,7 +10694,7 @@ goldbrickers 1
 grabs 1
 goaling
 glinted 1
-guaiacolize 2
+guaiacolize 3
 gurshes 5
 guardhouse 2
 gobbler 3
