@@ -12009,7 +12009,7 @@ antitradition 1
 astromancy 1
 anarchist 2
 anarchists 2
-anarcho
+anarcho 1
 antisophistry
 atrium 1
 aboriginals 3
@@ -17024,7 +17024,7 @@ apocarpy 5
 amaethon
 apocentric 1
 anthropomorphic
-apoquinine 2
+apoquinine 3
 acroscleroderma
 apocha 1
 automorphic 2
