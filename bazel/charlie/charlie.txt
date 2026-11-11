@@ -22862,7 +22862,7 @@ conservations
 chondromas
 chandoo
 checkbit 1
-coxcombically
+coxcombically 1
 conservativeness 4
 commoves 1
 chittering 1
