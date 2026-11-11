@@ -9574,7 +9574,7 @@ frescos 3
 farsi 2
 fleeciest 4
 freebooter
-freebootery 2
+freebootery 3
 forestiera 1
 freebooting 2
 freed 3
@@ -11021,7 +11021,7 @@ frivolist 2
 fossilizes 5
 fillets 1
 fumigated 5
-fierce 2
+fierce 3
 flutidae 1
 femororotulian 2
 floriferously 2
