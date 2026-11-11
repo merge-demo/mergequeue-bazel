@@ -2742,7 +2742,7 @@ barolo 2
 bm 2
 bicolored 3
 benab 2
-bonneting 1
+bonneting 2
 bukeyef 2
 barology 1
 barolong 1
@@ -10328,7 +10328,7 @@ bargepole 3
 buxomness 1
 billot 1
 bounderish 2
-buffability
+buffability 1
 bamboozlers 1
 breviature 2
 bordman 2
@@ -13262,7 +13262,7 @@ bosthoon 1
 bostonian 1
 banderillas
 burglar 2
-branchstand 1
+branchstand 2
 barman 3
 bumbarge
 bromide 1
