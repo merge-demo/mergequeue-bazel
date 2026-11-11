@@ -3489,7 +3489,7 @@ gimper 4
 girny 4
 gilts 6
 grudger 5
-gynandromorphism 2
+gynandromorphism 3
 gemul 4
 gewgawry 2
 gyrfalcon 3
@@ -4229,7 +4229,7 @@ ghibelline 3
 gynaecium 4
 gunned 4
 grovel 1
-goloka 2
+goloka 3
 gois 3
 gaetuli 5
 gyromagnetic 1
@@ -4704,7 +4704,7 @@ glutin 1
 germicidal 1
 girts 4
 gazelline 3
-gettered 1
+gettered 2
 gynomonecious 2
 gise 5
 granges 3
@@ -8017,7 +8017,7 @@ gata 5
 gunstock 2
 gossiper 3
 grandpapa 3
-grunting 2
+grunting 3
 geophysicists 3
 grotesquerie 1
 guglia
