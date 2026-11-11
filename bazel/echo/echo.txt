@@ -4258,7 +4258,7 @@ echograph 2
 exporters 1
 expiree 4
 escarping 1
-escambio 1
+escambio 2
 emulousness 4
 eaux 4
 eumeristic 3
