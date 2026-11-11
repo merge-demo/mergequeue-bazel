@@ -7444,7 +7444,7 @@ enchaining 2
 excepts
 employes
 elenctic 1
-escapers 2
+escapers 3
 entanglement 1
 endogenously
 extraperiodic 3
@@ -9544,7 +9544,7 @@ eyesalve 3
 exannulate 1
 endosmotic 3
 ergastoplasmic 3
-enchytraeidae 4
+enchytraeidae 5
 emigree 2
 euchromatic 2
 emasculated 3
@@ -10950,7 +10950,7 @@ eggbeater 5
 epipelagic 2
 ends 1
 ecbolic 3
-eupnoea 1
+eupnoea 2
 extenuatory 1
 excreting 4
 ectrodactyly 4
@@ -11265,7 +11265,7 @@ electrochemist 4
 extracts 3
 entomologically 4
 endanger
-epichlorohydrin 1
+epichlorohydrin 2
 economies 3
 emblematical 2
 ergometrine 2
