@@ -5374,7 +5374,7 @@ gelandejump 6
 gunplays 2
 glazework 4
 gutting 3
-geckoid 4
+geckoid 5
 gravitating 1
 gruelings 1
 gingal 4
@@ -6980,7 +6980,7 @@ groundsman 1
 gastroepiploic 3
 geswarp 1
 generalism 3
-goof 5
+goof 6
 goofah 3
 guaniferous 1
 greystone 3

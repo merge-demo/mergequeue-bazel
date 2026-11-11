@@ -2221,7 +2221,7 @@ frecklish 3
 fondlesome 2
 fluorinates
 foals 1
-feminineness 4
+feminineness 5
 feudee
 freshmanhood 3
 fikie 1
@@ -6328,7 +6328,7 @@ frags 3
 fluidity 2
 fuzzy 1
 flack 3
-futural 2
+futural 3
 fullback 3
 floyd
 finessed 2
@@ -8223,7 +8223,7 @@ fundulinae 1
 fringes 3
 fairyologist 4
 furlanas 2
-flaskets 3
+flaskets 4
 felines
 festering 4
 fluidize 1
@@ -10177,7 +10177,7 @@ foresightedly 3
 fastings 2
 fleishig
 formalism 1
-feebly 5
+feebly 6
 farce
 foxchop 5
 fetologies 4
@@ -10426,7 +10426,7 @@ fumous 2
 fetterer 4
 forfex 1
 feetage 5
-finnesko 2
+finnesko 3
 fillagree
 feta 4
 fescue 2
