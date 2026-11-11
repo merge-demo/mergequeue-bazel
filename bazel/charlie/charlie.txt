@@ -790,7 +790,7 @@ corniche
 chunking 1
 cristae 1
 completories 3
-cahincic
+cahincic 1
 cahita 3
 coprophagan 1
 continency 1
@@ -12534,7 +12534,7 @@ chromotypy 2
 cynegetics 3
 chromotypography 1
 chromotypographic 2
-chromotropy 3
+chromotropy 4
 chromotropic
 commonplaceness 1
 cradleboard 1
@@ -12572,7 +12572,7 @@ combinedness 1
 chronogram
 celestially 2
 chronogrammatic 2
-chronogrammatically
+chronogrammatically 1
 cheetah
 cenospecifically 2
 chronogrammic 2
