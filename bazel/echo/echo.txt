@@ -591,7 +591,7 @@ electrodynamics 4
 endophyllaceae 1
 estancia 2
 emblematize 2
-echoing 1
+echoing 2
 exfiltration 1
 echoism 2
 epigeal
@@ -8161,7 +8161,7 @@ elaidinic 1
 estacade 5
 episcopature 2
 eczemas
-emarcid 2
+emarcid 3
 emprosthotonus 2
 extrapolated 1
 endobatholithic 4
@@ -12866,7 +12866,7 @@ expansum
 eburneoid 6
 evacuators 3
 embarked 4
-expandable 2
+expandable 3
 escropulo 3
 erotopathic 3
 erethisms 1
