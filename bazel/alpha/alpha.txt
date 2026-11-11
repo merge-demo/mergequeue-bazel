@@ -8266,7 +8266,7 @@ alchemized
 aliene 2
 auctors 1
 antisera
-antisiccative 2
+antisiccative 3
 athermous 2
 avenges
 alienigenate
@@ -12351,7 +12351,7 @@ assisi 1
 andian 4
 automatable
 andine 1
-angakut 4
+angakut 5
 anding 4
 angiosarcoma 2
 alternateness
