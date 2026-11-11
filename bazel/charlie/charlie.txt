@@ -21605,7 +21605,7 @@ condense
 condensed 1
 condensedness 1
 condensers
-condenses
+condenses 1
 cooba 1
 committeeman
 camphorating
