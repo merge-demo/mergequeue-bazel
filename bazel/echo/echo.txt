@@ -12950,7 +12950,7 @@ expectancy 3
 endotherm 2
 epistemophilia 2
 ecologist 2
-entotic 3
+entotic 4
 epitonion 2
 empurple 3
 enchafe
