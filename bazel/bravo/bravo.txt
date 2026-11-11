@@ -2486,7 +2486,7 @@ bargaining 1
 beechwoods
 burian 4
 bhut
-bedark 3
+bedark 4
 barocco 2
 brachyoura 2
 barge 3
@@ -3056,7 +3056,7 @@ beduin
 brainwashing 1
 braza 2
 bimetal 3
-bedspreads 1
+bedspreads 2
 bakerite
 bestials
 brahman 2
