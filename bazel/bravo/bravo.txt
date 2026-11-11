@@ -5727,7 +5727,7 @@ bandlimit 1
 belight 1
 baaed
 bulldozer 2
-belike 2
+belike 3
 bogeying 1
 bribes
 beparody 1
