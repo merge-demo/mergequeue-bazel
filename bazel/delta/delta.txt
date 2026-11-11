@@ -8484,7 +8484,7 @@ dapperest 2
 diaminogen 1
 downset 2
 directionize
-dodecyl
+dodecyl 1
 draconitic 1
 downgrades 4
 diamondbacked 1
