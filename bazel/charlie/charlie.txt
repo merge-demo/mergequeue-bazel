@@ -30509,7 +30509,7 @@ cubangle 1
 cubanite
 cubatory
 contraclockwise 1
-counterweighed
+counterweighed 1
 cubby 1
 cavin 2
 cubbyhouse
