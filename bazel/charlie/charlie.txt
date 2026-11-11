@@ -3204,7 +3204,7 @@ carmetta 1
 chinoiserie 1
 caboclos
 capilli 2
-capilliculture
+capilliculture 1
 cogracious 1
 clunks 1
 cosmoid
@@ -6903,7 +6903,7 @@ consol
 camis 2
 ceratomandibular 1
 clocklike 2
-celtuce 2
+celtuce 3
 calor 1
 closefisted 1
 cembalo
