@@ -3497,7 +3497,7 @@ flankard 3
 fury 3
 ficins 4
 fordays 3
-floorhead 2
+floorhead 3
 formuliser 2
 forpined 5
 finnic 2
