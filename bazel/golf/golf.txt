@@ -8182,7 +8182,7 @@ grapefruit
 goos 4
 gazers 4
 grapelike 4
-gazingstock 2
+gazingstock 3
 galeodes 1
 grapery 5
 goaded 2
