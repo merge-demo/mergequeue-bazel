@@ -1967,7 +1967,7 @@ feebless 1
 filatory 2
 fillock 3
 fernticle 3
-fibratus 2
+fibratus 3
 functionalize 3
 frigiferous
 flchette 5
@@ -3771,7 +3771,7 @@ frizettes 1
 furoate 2
 failure 1
 fibula 1
-fellmonger 6
+fellmonger 7
 fulls 2
 filliped
 fascinatingly 2
@@ -9347,7 +9347,7 @@ fatuitousness
 frankalmoign 2
 filibustrous 1
 fellowly 2
-futurize 2
+futurize 3
 frankenstein 4
 franker
 fastidiousness 1
