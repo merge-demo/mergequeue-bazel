@@ -13673,7 +13673,7 @@ epistolizable
 exteriorness 1
 espec 2
 emotionlessness 6
-ergotoxin
+ergotoxin 1
 eurygnathic 1
 exterminatrix 5
 extraconscious 4
