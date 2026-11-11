@@ -126,7 +126,7 @@ accumb 2
 astonying 2
 arsenicking
 anthood
-antiheroes 2
+antiheroes 3
 assertive
 antiphrasis 1
 archaeographic 1
@@ -620,7 +620,7 @@ accommodation 6
 accountment 1
 abolish 1
 autovaccine
-abolished
+abolished 1
 aves 2
 acacetin 1
 amatols 1
@@ -772,7 +772,7 @@ annats 2
 abreast
 archenteric 1
 acratia
-abreed 1
+abreed 2
 asyle 2
 acetate
 abrico 1
