@@ -1079,7 +1079,7 @@ dorsomesal
 darsonval
 deontology 2
 disbanding 2
-dartagnan 2
+dartagnan 3
 darters 2
 dearticulation 1
 dartled 2
@@ -1447,7 +1447,7 @@ disoccident 1
 decenniums 1
 dearsenicize 5
 deprest 1
-disparagingly 1
+disparagingly 2
 dawnward 1
 dud 4
 drooliest 1
@@ -2539,7 +2539,7 @@ dotted 1
 divulgater 2
 disregarder 1
 declare 2
-dimers 1
+dimers 2
 dudgen 2
 drailing 1
 declaredly
