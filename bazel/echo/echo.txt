@@ -3695,7 +3695,7 @@ endocoeliac 1
 embosking 3
 embryologist 2
 entify 1
-embryonic 2
+embryonic 3
 encyrtidae 2
 erythromycin 3
 expectant 3
@@ -5756,7 +5756,7 @@ ebullient 3
 engrege 3
 engirdled 2
 exodromy 5
-engirdling 2
+engirdling 3
 emplectite 2
 engirds 2
 electroblasting 3
@@ -8387,7 +8387,7 @@ epitomized 2
 epitomizes 5
 electrohydraulically
 echiurus 4
-exterminates 3
+exterminates 4
 errands 2
 epistolography 4
 emissile
