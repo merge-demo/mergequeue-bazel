@@ -7300,7 +7300,7 @@ alated 1
 alatern
 annoyers 2
 aeolharmonica
-alauda
+alauda 1
 aphakic 2
 antihidrotic 1
 adai 4
@@ -19196,7 +19196,7 @@ arcuate
 attache 1
 aristotelic
 allotypies
-aetiotropically 2
+aetiotropically 3
 antigay 4
 ardassine
 acquaintant 2
