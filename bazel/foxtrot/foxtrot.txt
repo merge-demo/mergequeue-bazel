@@ -6976,7 +6976,7 @@ fissicostate 4
 formylation 1
 franks 3
 foetus 2
-foments 5
+foments 6
 fussiness 1
 fortuity 1
 fordless 5
@@ -10833,7 +10833,7 @@ fulfillment 1
 flus 4
 fleetness 1
 flavorous 1
-fulfillments 2
+fulfillments 3
 fennici 2
 fulfullment 3
 functionless
