@@ -11246,7 +11246,7 @@ canaut 3
 chloridellidae 4
 chlorides 1
 covers 1
-chloridic 1
+chloridic 2
 chloridized
 collochemistry
 chemotropism 1
@@ -14967,7 +14967,7 @@ congressmen 1
 currachs 2
 cytopharynxes 1
 citrinin 3
-citrinins
+citrinins 1
 citrins 2
 coumarouna 1
 calceolately 1
@@ -21547,7 +21547,7 @@ concupy 1
 concupiscence 1
 colin 3
 concupiscible
-concupiscibleness 2
+concupiscibleness 3
 cuff 1
 claimsmen
 ceruse 2
