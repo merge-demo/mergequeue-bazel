@@ -3912,7 +3912,7 @@ dejeuner 2
 dekadrachm 1
 dekagramme 1
 doggerelize 2
-discommunity
+discommunity 1
 decumbiture 2
 designating 6
 discomedusan 1
@@ -11950,7 +11950,7 @@ duskish 1
 dietetical 4
 disacidified
 draftee 1
-disembarking 3
+disembarking 4
 denominationally 2
 disbloom 2
 disembarks 2
@@ -13093,7 +13093,7 @@ diastyle 1
 dispensatory 1
 detrain 2
 develed
-dispensatress 5
+dispensatress 6
 dadaisms 6
 dispensed 3
 dabbed 1
