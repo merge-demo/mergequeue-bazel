@@ -790,7 +790,7 @@ corniche
 chunking 1
 cristae 1
 completories 3
-cahincic
+cahincic 1
 cahita 3
 coprophagan 1
 continency 1
@@ -1751,7 +1751,7 @@ calumniation 1
 coaldealer
 consolably
 confusable 3
-convulsionaries 1
+convulsionaries 2
 capybaras 1
 cecilia 1
 collectables 1
@@ -12534,7 +12534,7 @@ chromotypy 2
 cynegetics 3
 chromotypography 1
 chromotypographic 2
-chromotropy 3
+chromotropy 4
 chromotropic
 commonplaceness 1
 cradleboard 1
@@ -30008,7 +30008,7 @@ crotesco 1
 cooptive
 cannoned 2
 chirothesia 2
-commutations 3
+commutations 4
 croton 1
 consulated 3
 crotonaldehyde 2
@@ -31020,7 +31020,7 @@ cumyl
 congos
 clead
 ceriops 1
-clairaudiently
+clairaudiently 1
 cuminal 1
 capitalize 1
 carbaryl 2
