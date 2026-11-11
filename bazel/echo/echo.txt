@@ -434,7 +434,7 @@ exarchies 2
 eburin 3
 exobiologists 4
 ec 3
-ecardines 1
+ecardines 2
 extravagate 4
 ernest 2
 ecballium 2
@@ -11575,7 +11575,7 @@ embrute 4
 enlighten 2
 extensiveness 4
 evolutionism 1
-epizeuxis
+epizeuxis 1
 evolutionistic 3
 epigenesis 2
 endotheloid
@@ -12827,7 +12827,7 @@ ecanda 5
 edgeways 3
 excavation 3
 empacket 3
-elinguated 4
+elinguated 5
 eroticization 1
 emicant 1
 expansive 2
