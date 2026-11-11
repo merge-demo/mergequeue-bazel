@@ -302,7 +302,7 @@ backslided 1
 backberend 1
 backbite
 beeman 1
-burgeon 1
+burgeon 2
 baize 2
 backbitingly 1
 backblow 1
@@ -1714,7 +1714,7 @@ bulbels
 belittled 1
 baladine 2
 balsamation 1
-balsaminaceae 1
+balsaminaceae 2
 balsamine 3
 become 4
 balsamitic 1
@@ -17739,7 +17739,7 @@ bookbindery 1
 bellies 1
 bede 1
 baneberries
-bejumbled
+bejumbled 1
 burnoosed 2
 burnoused 4
 bawbees 2
