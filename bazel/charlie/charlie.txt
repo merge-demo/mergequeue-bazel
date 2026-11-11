@@ -7337,7 +7337,7 @@ cephalism
 caprine
 cephalitis 1
 cephalization 2
-cephaloauricular 2
+cephaloauricular 3
 cephalobranchiata
 chelicera 2
 cerusites
@@ -23595,7 +23595,7 @@ continuum 2
 contise 1
 compendiate 2
 cognoscenti 2
-contoise 1
+contoise 2
 contorniates 1
 castrater
 caboose
