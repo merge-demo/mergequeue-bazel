@@ -299,7 +299,7 @@ diaclasite 1
 demythologizing 3
 dahs 1
 day 1
-distributed
+distributed 1
 dayabhaga 1
 dreed 1
 demisheath
