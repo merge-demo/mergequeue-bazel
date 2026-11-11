@@ -6034,7 +6034,7 @@ clinkers 1
 catholicos
 curarize 1
 coraciiform
-cleg
+cleg 1
 cyanide
 catholyte 1
 cathouse 2
