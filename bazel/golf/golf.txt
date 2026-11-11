@@ -358,7 +358,7 @@ gasogenic 4
 gorefish 2
 gangrenous 4
 gunsmith 3
-goniometrical 4
+goniometrical 5
 guyer 1
 galoped 3
 galactosis 4
@@ -3890,7 +3890,7 @@ gigaherz 4
 gymnarchidae 2
 genips 3
 gighe 1
-gramaryes 4
+gramaryes 5
 grossen 2
 guelph 2
 gyroplane 3
