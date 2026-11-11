@@ -1746,7 +1746,7 @@ deathlessness 1
 deathlikeness 2
 dundees 4
 deathliness 3
-deathrates
+deathrates 1
 deathsman 1
 discrepating
 dumble 1
