@@ -4223,7 +4223,7 @@ chlorites 1
 cavaliered
 chinatown 1
 care 1
-citeable 1
+citeable 2
 coerect 1
 coronated 3
 carecloth 2
