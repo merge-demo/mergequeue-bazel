@@ -10476,7 +10476,7 @@ blasting
 borolanite 4
 blastings 6
 blastocele 3
-boomers
+boomers 1
 batodendron 1
 berrichon 1
 brickfielder 2
