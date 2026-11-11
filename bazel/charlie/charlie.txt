@@ -3442,7 +3442,7 @@ counterplan 1
 caprimulgiformes 2
 chinwood 1
 caprin
-candlebeam 3
+candlebeam 4
 cimelia 2
 caprioles
 capriote 1
@@ -13996,7 +13996,7 @@ cyphonism
 constrain
 celiorrhaphy 1
 caziques 1
-cargador 1
+cargador 2
 cyphosis 1
 compitum 1
 cipo
