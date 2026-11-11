@@ -17450,7 +17450,7 @@ deforcer 1
 drouth 2
 dopas 1
 delphacid 3
-desectionalize 1
+desectionalize 2
 drouthier 1
 defame 2
 definitude 1
