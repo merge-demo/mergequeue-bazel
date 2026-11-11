@@ -15248,7 +15248,7 @@ amalgamates 1
 antifreeze 2
 antifriction 1
 antifrost
-antifungal
+antifungal 1
 apoenzyme
 ataentsic 1
 albertinian
