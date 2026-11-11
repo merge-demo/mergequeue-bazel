@@ -7148,7 +7148,7 @@ gile 2
 gore 2
 gorebill 4
 gordioid 2
-gearboxes 1
+gearboxes 2
 gored 2
 gores 1
 goldenness 5
@@ -9756,7 +9756,7 @@ grise
 gonangiums 2
 grumpy 6
 grun 3
-geratologic 1
+geratologic 2
 gemmuliferous
 gien 2
 girls
