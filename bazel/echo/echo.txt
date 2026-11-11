@@ -4150,7 +4150,7 @@ eiffel 4
 ensheathed 3
 every 1
 etymologically 2
-endurability
+endurability 1
 entombments 2
 eniac 3
 emplunge 2
@@ -9378,7 +9378,7 @@ excresce 1
 escalope 1
 erlking 3
 enchiladas 1
-engraced 3
+engraced 4
 expatriates 3
 embryogenic
 epoptic 2
@@ -9544,7 +9544,7 @@ eyesalve 3
 exannulate 1
 endosmotic 3
 ergastoplasmic 3
-enchytraeidae 4
+enchytraeidae 5
 emigree 2
 euchromatic 2
 emasculated 3
