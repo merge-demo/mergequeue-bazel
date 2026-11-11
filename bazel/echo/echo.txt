@@ -9825,7 +9825,7 @@ enanthema 4
 estats 4
 eternise 5
 ethnolinguistic 1
-enamelware 1
+enamelware 2
 elenchtical 4
 exact 2
 estrich 1
@@ -12824,7 +12824,7 @@ extraretinal 1
 evangelicity 1
 ensepulchered 1
 ecanda 5
-edgeways 3
+edgeways 4
 excavation 3
 empacket 3
 elinguated 5
