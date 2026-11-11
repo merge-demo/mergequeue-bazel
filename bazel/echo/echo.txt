@@ -4399,7 +4399,7 @@ enarthrodia 2
 engagers 2
 excretes 3
 embryons 1
-evacuates 2
+evacuates 3
 enations 2
 euripos 3
 enbrave 1
@@ -13559,7 +13559,7 @@ elucidate
 exsiccating 2
 embowment 3
 ergusia 3
-exsolving 5
+exsolving 6
 epochs 1
 exposedness 1
 energies 2
