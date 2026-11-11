@@ -462,7 +462,7 @@ backspaced 2
 backspacefile 4
 backspacer 4
 bundist 1
-blockades 2
+blockades 3
 bacillogenic 2
 burree 2
 battik 1
@@ -12296,7 +12296,7 @@ bisulphite 3
 bombarding 1
 benzyl 2
 bumblebomb 3
-bombardman 3
+bombardman 4
 burrfishes 1
 bootee 1
 bungfull 3
