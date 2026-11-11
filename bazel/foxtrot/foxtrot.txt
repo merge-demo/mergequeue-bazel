@@ -1505,7 +1505,7 @@ fanaticism 1
 foresend 3
 faulx 4
 flaunter 2
-focusers 1
+focusers 2
 factionary 1
 ferruminating 2
 florigen 4
@@ -3341,7 +3341,7 @@ forchase 3
 fameworthy 1
 fruggan 2
 fullmouthedly 1
-fandom 3
+fandom 4
 fulcra 3
 flon 2
 forsung 1
