@@ -5444,7 +5444,7 @@ detd 2
 dauk 4
 denver 1
 disprover
-divagational
+divagational 1
 divineress 1
 detachable 1
 deodorised 2
@@ -16073,7 +16073,7 @@ desperately 1
 disorderedly
 doughface 2
 doughfaceism 1
-deracialize 1
+deracialize 2
 dissaving 1
 disintegrous 2
 decontaminate 4
