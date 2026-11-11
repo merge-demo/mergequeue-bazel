@@ -7977,7 +7977,7 @@ amulae 1
 anthogenous 3
 aletocyte 2
 anticombination 1
-augural
+augural 1
 appliers 6
 aldehydrol
 aspirators
@@ -9376,7 +9376,7 @@ acture 1
 antilobium 1
 attack
 alphonist 1
-alphonse 1
+alphonse 2
 alphonsin 3
 airproof
 advertisement 1
@@ -10031,7 +10031,7 @@ abounded 1
 arboreal 1
 appel 3
 arousing
-ambigu 2
+ambigu 3
 anorthitite 2
 acinacity
 ambilateralaterally 4

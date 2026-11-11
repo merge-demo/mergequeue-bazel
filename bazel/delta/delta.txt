@@ -4593,7 +4593,7 @@ desperance 1
 depths
 disusing 3
 detected 1
-digitigrade 2
+digitigrade 3
 decretal
 demiox
 dharmasmriti 4
@@ -8498,7 +8498,7 @@ draffier 2
 diamorphine
 digladiated 1
 depreciates 2
-dhak 1
+dhak 2
 diandria 2
 discographer 1
 diane 1
@@ -9158,7 +9158,7 @@ dunnage 1
 druggiest
 dilettanteship 1
 divorceuse
-dy 2
+dy 3
 dido 2
 diaglyptic 2
 didodecahedron 3
@@ -9696,7 +9696,7 @@ diageotropy 4
 deinoceras
 dilactic 2
 dilactone 1
-dilamination
+dilamination 1
 dilaniate 2
 doubled 2
 derelinquish 2

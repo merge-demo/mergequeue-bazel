@@ -2088,7 +2088,7 @@ goldenseal 4
 gillian 1
 governments 4
 gubbertush 2
-graminological 5
+graminological 6
 gawk 1
 gratingly 1
 gozzard 4
@@ -5374,7 +5374,7 @@ gelandejump 6
 gunplays 2
 glazework 4
 gutting 3
-geckoid 4
+geckoid 5
 gravitating 1
 gruelings 1
 gingal 4
@@ -6980,7 +6980,7 @@ groundsman 1
 gastroepiploic 3
 geswarp 1
 generalism 3
-goof 5
+goof 6
 goofah 3
 guaniferous 1
 greystone 3
@@ -8784,7 +8784,7 @@ greensickness
 greenstone
 gimballing 4
 gange 3
-golems 3
+golems 4
 greenswarded 2
 greenware 3
 giveth 5
@@ -8895,7 +8895,7 @@ grizard 2
 groundberry 2
 gunfight 1
 gressoria 1
-gheraoing 1
+gheraoing 2
 gourdful 1
 ghostliest
 ghostfish 2
@@ -9427,7 +9427,7 @@ gitksan 2
 goldtit 1
 garbline 3
 glorify 2
-gobia 1
+gobia 2
 galliot 1
 gouramis 3
 gemmate 5
