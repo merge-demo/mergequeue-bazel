@@ -8100,7 +8100,7 @@ foreswore 1
 flavouring 2
 feeble
 flasklet
-factorist 2
+factorist 3
 fumacious 1
 farceur 5
 floodplain 3
@@ -9452,7 +9452,7 @@ fico 2
 flamens 5
 fratry 5
 fountainheads 3
-flippery 2
+flippery 3
 furnaceman 1
 fulcrate
 flounderingly 4
