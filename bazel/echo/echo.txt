@@ -505,7 +505,7 @@ elastases 2
 extermining 4
 enrolle 3
 endocrinologists 1
-explorer 2
+explorer 3
 exceptionally 5
 epigrammatarian 2
 ethnographies 2
@@ -4399,7 +4399,7 @@ enarthrodia 2
 engagers 2
 excretes 3
 embryons 1
-evacuates 2
+evacuates 3
 enations 2
 euripos 3
 enbrave 1
@@ -5591,7 +5591,7 @@ eugenists 3
 enfants 1
 evulsion 3
 enfiled 3
-expediences 4
+expediences 5
 evangel 2
 extratympanic 5
 empathetically 3
@@ -10186,7 +10186,7 @@ etherism
 effortfully 3
 ectoentad
 etherizes 1
-extraditing 1
+extraditing 2
 easeful 2
 encoders
 executives
@@ -13559,7 +13559,7 @@ elucidate
 exsiccating 2
 embowment 3
 ergusia 3
-exsolving 5
+exsolving 6
 epochs 1
 exposedness 1
 energies 2
