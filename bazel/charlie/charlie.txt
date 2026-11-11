@@ -1229,7 +1229,7 @@ craunched 2
 caudad 3
 calefactive
 coterell 2
-crzette 1
+crzette 2
 coattails 1
 clifts 1
 calefactor 2
@@ -2482,7 +2482,7 @@ cacodemonic
 cassidony
 colloidally 1
 circumnatant
-candescence 1
+candescence 2
 cabalists 1
 candid 1
 canadianization
@@ -9897,7 +9897,7 @@ catalogic 1
 chronobiology
 chemosorption 2
 chemosphere 1
-collateral
+collateral 1
 cancers 2
 chemosurgery
 chemotactic
@@ -10941,7 +10941,7 @@ chirology
 curators 4
 chirological 2
 chirologically 3
-classicalness 1
+classicalness 2
 cartelism 1
 cokers 1
 crost 2
