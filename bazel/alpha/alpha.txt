@@ -10216,7 +10216,7 @@ accendible 1
 attestors
 ame
 appendalgia
-amebean
+amebean 1
 architecure 1
 antibalm
 aiguilletted
