@@ -700,7 +700,7 @@ farcemeat 2
 ferromagnetic 2
 futilitarianism 1
 fascioloid 1
-forehard 2
+forehard 3
 fragrancy 2
 feminity
 farcial 1
@@ -1867,7 +1867,7 @@ fight 2
 fantoddish
 feelingly 2
 fecundate 1
-fianchetti 1
+fianchetti 2
 flapcake 1
 fanback 1
 frisson 3
@@ -3322,7 +3322,7 @@ foreconscious 4
 facewise 1
 ferrohydrocyanic 2
 fossilologist 2
-folklorist 2
+folklorist 3
 featherlessness 5
 frustrates 2
 fioritura 2
@@ -5005,7 +5005,7 @@ flanked 5
 formulaically 2
 fledging
 factordom 4
-fribourg 5
+fribourg 6
 freelage 6
 flankers 3
 foists 3
@@ -8701,7 +8701,7 @@ fame 5
 forgive 2
 flotage 4
 fizzing 4
-filii 1
+filii 2
 fourness 8
 frightsome 2
 fogydom 5
@@ -9298,7 +9298,7 @@ fordull 2
 foregoers 4
 foremost 4
 fabrikoid 2
-fruticeta 2
+fruticeta 3
 flukey 2
 forsado
 fluidise 3
