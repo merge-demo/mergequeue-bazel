@@ -14471,7 +14471,7 @@ chergui 2
 courantos
 cyrtometer
 calcavella 2
-cyrtomium 2
+cyrtomium 3
 cyrtopia 2
 ciruela 1
 cosets
@@ -24742,7 +24742,7 @@ coprolith
 coprolitic
 coprophagy 1
 couril 2
-coprophagist
+coprophagist 1
 corroboree 1
 complying
 coprophagous 2
