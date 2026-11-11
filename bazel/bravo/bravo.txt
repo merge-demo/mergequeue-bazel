@@ -4710,7 +4710,7 @@ bunce 2
 busywork 2
 bedims 1
 basiophitic 3
-birdbrain
+birdbrain 1
 bedizen 4
 boubas 4
 beekmantown 1
@@ -6413,7 +6413,7 @@ benzopyrylium 1
 backcourt 1
 breastweed
 bluestem 1
-benzoquinoxaline 1
+benzoquinoxaline 2
 balau
 benzosulfimide
 biophysiologist 4
@@ -9663,7 +9663,7 @@ bipartisanism 1
 bourette 1
 bismite 3
 bankrupcy 1
-bismuthal
+bismuthal 1
 bumblefoot 2
 bismuthate 1
 burhinus
