@@ -4713,7 +4713,7 @@ gibbsite 2
 gauping 2
 geisothermal 4
 glycerate 3
-gigged 1
+gigged 2
 galchic 4
 gifting 2
 gelatia 2
@@ -5119,7 +5119,7 @@ glathsheimr 6
 ginnel 3
 gourmander 5
 glycocholic 2
-gasless 2
+gasless 3
 gascon 2
 glinting 3
 glaucidium 1
