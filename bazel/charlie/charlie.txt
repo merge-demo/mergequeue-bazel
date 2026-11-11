@@ -790,7 +790,7 @@ corniche
 chunking 1
 cristae 1
 completories 3
-cahincic
+cahincic 1
 cahita 3
 coprophagan 1
 continency 1
@@ -12534,7 +12534,7 @@ chromotypy 2
 cynegetics 3
 chromotypography 1
 chromotypographic 2
-chromotropy 3
+chromotropy 4
 chromotropic
 commonplaceness 1
 cradleboard 1
@@ -12572,7 +12572,7 @@ combinedness 1
 chronogram
 celestially 2
 chronogrammatic 2
-chronogrammatically
+chronogrammatically 1
 cheetah
 cenospecifically 2
 chronogrammic 2
@@ -18075,7 +18075,7 @@ coalesce
 coenla
 coenobe 1
 cystoscopic
-chaffered 1
+chaffered 2
 coenoby 1
 concludency
 choirs 1
@@ -19413,7 +19413,7 @@ colorings
 conges 2
 colorisms 1
 cystous
-coloristically
+coloristically 1
 cytophysiology 1
 cadded 1
 comer 1
@@ -22957,7 +22957,7 @@ companioning 1
 clinodome 1
 consistencies
 choriambi
-consistent 2
+consistent 3
 consistently 2
 chebacco 2
 consistible
@@ -23287,7 +23287,7 @@ cutlash
 cacqueteuses 1
 cresotinate
 complainers 1
-consultants
+consultants 1
 crossbred 1
 consultantship 1
 chondrology 1
