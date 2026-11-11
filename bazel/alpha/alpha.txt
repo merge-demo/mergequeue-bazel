@@ -2766,7 +2766,7 @@ acrocephalic
 accompanable 2
 aw
 anguished 3
-acrochordinae 1
+acrochordinae 2
 almeh 2
 archaeologist
 argand 2
@@ -21505,7 +21505,7 @@ asperula
 ambulatoria 2
 asperulous
 anticovenanting 1
-autonomy
+autonomy 1
 appalachia
 archeion 2
 adiaphanous

@@ -1923,7 +1923,7 @@ bandstand 2
 beacon 3
 beseechment 2
 broadly 2
-bisection 2
+bisection 3
 bagnio
 balances 2
 bandstring 3
@@ -4899,7 +4899,7 @@ beechwood 2
 bright 1
 bourbons 3
 belaud 2
-blackeyes 1
+blackeyes 2
 bolderian
 biguttate 2
 bandurrias 1
@@ -12230,7 +12230,7 @@ byplays 1
 boutre 3
 bolshevikian 2
 barrandite 6
-bogway
+bogway 1
 balms 1
 billet 1
 bakuba
