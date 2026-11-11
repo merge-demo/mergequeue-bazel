@@ -2736,7 +2736,7 @@ endways 1
 estadal 3
 enceint 1
 eleemosinar 2
-ebons 3
+ebons 4
 equipotent
 electees 3
 edentate 3
@@ -3247,7 +3247,7 @@ elul 1
 epidemic 3
 erects 1
 enclitical 1
-encephalotomy 2
+encephalotomy 3
 eyesore 4
 entrench 1
 episcleral 3
@@ -12228,7 +12228,7 @@ excur 2
 ensigns 1
 epiphanizing 2
 extralateral 3
-elevener 1
+elevener 2
 entally 1
 erodable 5
 edriasteroidea 2
