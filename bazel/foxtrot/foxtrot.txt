@@ -1420,7 +1420,7 @@ fishway 2
 fountainlet 4
 focometry 3
 fallibly 1
-firewood
+firewood 1
 futchell 3
 forbar 2
 ferreted 3
@@ -3865,7 +3865,7 @@ fract 6
 fiberglas 6
 formicary 1
 fiberscope 4
-forgiveable 3
+forgiveable 4
 fungistat 2
 flavanthrene 1
 favous 6
@@ -4695,7 +4695,7 @@ fixing 1
 flannelleaf 2
 fixt
 furca 4
-flopwing 4
+flopwing 5
 fangs
 fummel 4
 furtherer 1
@@ -8100,7 +8100,7 @@ foreswore 1
 flavouring 2
 feeble
 flasklet
-factorist 2
+factorist 3
 fumacious 1
 farceur 5
 floodplain 3
@@ -9452,7 +9452,7 @@ fico 2
 flamens 5
 fratry 5
 fountainheads 3
-flippery 2
+flippery 3
 furnaceman 1
 fulcrate
 flounderingly 4
@@ -10901,7 +10901,7 @@ fletched 2
 fullmouthed 3
 firesafeness 4
 fullom
-flirtations 2
+flirtations 3
 finagler 2
 foremastmen
 fulgoroidea 2

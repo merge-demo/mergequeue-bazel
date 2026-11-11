@@ -2900,7 +2900,7 @@ ammoniureted 2
 awkwardest 2
 alienist
 across 2
-aubrietas 1
+aubrietas 2
 anguilliform 3
 alvus 2
 allege 2
@@ -17526,7 +17526,7 @@ archipelagoes 2
 abeyancy 1
 anthracaemia 2
 afar 1
-apteroid 1
+apteroid 2
 apophthegmatist 1
 amalings 1
 appeasements 1
@@ -22939,7 +22939,7 @@ amido
 atren 1
 ablewhackets 2
 anodally
-atrenne 1
+atrenne 2
 adless 1
 anteriorly 1
 azobenzoic
@@ -25333,7 +25333,7 @@ antireactionaries 1
 azophenine
 azoprotein 2
 adjustage
-anoplotheriidae
+anoplotheriidae 1
 abeyances
 amygdaline
 avahi 1
