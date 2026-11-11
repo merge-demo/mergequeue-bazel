@@ -3975,7 +3975,7 @@ geds 3
 genospecies 4
 gynecocratical 6
 guano 2
-guardage 4
+guardage 5
 grassnut 4
 grex 6
 gluttonousness 6
