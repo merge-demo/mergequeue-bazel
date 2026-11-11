@@ -1867,7 +1867,7 @@ fight 2
 fantoddish
 feelingly 2
 fecundate 1
-fianchetti 1
+fianchetti 2
 flapcake 1
 fanback 1
 frisson 3
@@ -3081,7 +3081,7 @@ flowerfly 3
 fatstock 2
 finances 4
 forfeitableness 2
-festology 1
+festology 2
 familiarizes 3
 fooler 1
 foreclosing 4
@@ -5005,7 +5005,7 @@ flanked 5
 formulaically 2
 fledging
 factordom 4
-fribourg 5
+fribourg 6
 freelage 6
 flankers 3
 foists 3
@@ -9298,7 +9298,7 @@ fordull 2
 foregoers 4
 foremost 4
 fabrikoid 2
-fruticeta 2
+fruticeta 3
 flukey 2
 forsado
 fluidise 3
