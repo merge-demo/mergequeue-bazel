@@ -6292,7 +6292,7 @@ fescennine 1
 flawless 4
 fluked 3
 fertilisability 3
-fuliginosity 3
+fuliginosity 4
 fluent 1
 flukeworm 2
 follicle 2
@@ -10655,7 +10655,7 @@ florican 5
 fundamental 7
 fidicinal 6
 foodstuffs 2
-fruitiness 4
+fruitiness 5
 fieldworker 4
 flagless 1
 fist 4
