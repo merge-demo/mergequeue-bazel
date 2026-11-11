@@ -3529,7 +3529,7 @@ heta 1
 hetbiosnjc 4
 hetcft 3
 hetcknnqp 2
-hetclsncr 2
+hetclsncr 3
 hetcopxyp 1
 hetd 3
 hetdax 3
