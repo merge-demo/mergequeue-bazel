@@ -8030,7 +8030,7 @@ ballerine 1
 browband 1
 bicorn
 bourrelet 1
-blanque
+blanque 1
 boatman 4
 buckbeans 2
 busked 1
@@ -8441,7 +8441,7 @@ bilewhit 1
 bavardage
 bootjack 1
 bouteloua 2
-belinurus
+belinurus 1
 bals 1
 bilgeway
 bilgier
@@ -12860,7 +12860,7 @@ banishers
 boonfellow 1
 betrayers 4
 bondslave 1
-behorror 4
+behorror 5
 bifoil 1
 birthplace 2
 bg 4
