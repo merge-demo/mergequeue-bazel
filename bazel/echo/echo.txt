@@ -983,7 +983,7 @@ expanse 1
 excavatory 2
 emasculating
 enthymematic 2
-ensaffron 4
+ensaffron 5
 ensealing 1
 endomitotic 10
 excrementary
@@ -8749,7 +8749,7 @@ encrotchet 1
 exuberated 5
 exteriorized
 expatiator
-equivocal 2
+equivocal 3
 exuperable 2
 extermination 3
 encystment 5
