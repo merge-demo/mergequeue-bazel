@@ -1586,7 +1586,7 @@ filespec 2
 favorites 1
 furstone 2
 fadges 3
-flavobacterium 4
+flavobacterium 5
 forsee 4
 favosely 1
 ferroaluminum 2
@@ -6037,7 +6037,7 @@ fermorite 7
 flightiness 3
 finger 2
 fontange 6
-forgab 1
+forgab 2
 frontooccipital 3
 flanker 2
 fictionise 5

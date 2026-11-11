@@ -6556,7 +6556,7 @@ aidance
 apostasy 4
 aidant 2
 aided 2
-amphigamae 3
+amphigamae 4
 amchoor 1
 aydendron 1
 achenocarp 2
@@ -20881,7 +20881,7 @@ autodial 3
 asarabacca 2
 archshepherd
 asarin 1
-alecs 3
+alecs 4
 asarite 1
 anatomizable
 ablastemic 2
