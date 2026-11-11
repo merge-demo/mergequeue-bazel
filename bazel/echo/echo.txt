@@ -6425,7 +6425,7 @@ ensiling
 ensilist 2
 exceptions 3
 ensilver 2
-ensisternum
+ensisternum 1
 equilibrating 4
 esquiring 1
 eye 3
