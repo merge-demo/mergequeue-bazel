@@ -685,7 +685,7 @@ gaddishness 2
 gideon 4
 granulomatosis 5
 goneril 2
-gastronomer 2
+gastronomer 3
 gallying 3
 gonfalon 2
 goniotropous 2
@@ -7591,7 +7591,7 @@ gyrus 1
 gheraoes 1
 grille 5
 glycosaemia 6
-gambians 2
+gambians 3
 gunfought 4
 grab 2
 guanamine 2
