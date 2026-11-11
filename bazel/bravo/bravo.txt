@@ -10938,7 +10938,7 @@ brooms 3
 beadroll 2
 blinker 2
 balancewise
-bitterful 1
+bitterful 2
 barretors 1
 blowhards 2
 blustered
@@ -12041,7 +12041,7 @@ befrounce 1
 blindage 1
 boilerful
 boilerplate 1
-boilersmith 2
+boilersmith 3
 bladdernose 1
 brackishness 2
 boilover 1
