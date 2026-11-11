@@ -830,7 +830,7 @@ baft 2
 bigate
 baftah
 battologizing 2
-brecciation 2
+brecciation 3
 baga 2
 benzenoid 1
 biniodide 1
@@ -7866,7 +7866,7 @@ beauclerc 1
 bibliologies
 brains 1
 bedboard 2
-brachiation 1
+brachiation 2
 baldachinos 3
 bibliologist 3
 bedlike
@@ -17552,7 +17552,7 @@ blepharoclonus 1
 bureaucratizes 1
 bicentenaries 4
 boletic 1
-bureaucratizing
+bureaucratizing 1
 brisket
 buret 2
 burets 4
