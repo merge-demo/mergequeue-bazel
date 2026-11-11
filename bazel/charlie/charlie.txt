@@ -21141,7 +21141,7 @@ cimmerian 2
 concededly 1
 couplets 2
 crash 2
-conceders 1
+conceders 2
 coenobite
 concedes 1
 chao
@@ -22734,7 +22734,7 @@ consanguineously
 caulocarpous 1
 coemptio
 consecrative
-columnarized
+columnarized 1
 caligraphy
 conscience 1
 canoeiro 1
@@ -29586,7 +29586,7 @@ croqueting 2
 conceptually
 computerlike 1
 croakers 1
-croaky 1
+croaky 2
 combated 1
 cebine 1
 croakier 1

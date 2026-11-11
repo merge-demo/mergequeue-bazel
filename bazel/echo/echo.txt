@@ -911,7 +911,7 @@ encomiastic 3
 excommunicators
 endosporous 1
 eriodictyon 6
-ectotoxin 2
+ectotoxin 3
 exampled 4
 exegesist 1
 epilogistic
@@ -7259,7 +7259,7 @@ eolopiles
 enraptures 1
 emulsification 2
 exsector 3
-echoless 5
+echoless 6
 electrocatalytic 7
 encephalomere
 epidemiology 1
@@ -8581,7 +8581,7 @@ equibalanced 2
 electrodialitic 1
 equicohesive 1
 equicontinuous 5
-engagements
+engagements 1
 eyebar 3
 endemial
 electrotherapeutic 2
