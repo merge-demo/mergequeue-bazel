@@ -3928,7 +3928,7 @@ endocrinologies 3
 echocardiogram 2
 engreen 3
 exogamic
-electrogalvanize 4
+electrogalvanize 5
 emmetropy 2
 equationally 3
 endplates 3
@@ -11176,7 +11176,7 @@ evades
 evadingly 1
 egre 1
 emprime 3
-elinguation 2
+elinguation 3
 embussed 1
 embottle 1
 electragist 3
