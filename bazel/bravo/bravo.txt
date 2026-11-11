@@ -6396,7 +6396,7 @@ barfy 4
 benzonaphthol 4
 benzonitrile 2
 behedge 6
-benzophenothiazine 3
+benzophenothiazine 4
 benzophloroglucinol 2
 betting 1
 benedight 3
@@ -6419,7 +6419,7 @@ benzosulfimide
 biophysiologist 4
 barbaresque 5
 benzosulphimide 2
-barricaders 3
+barricaders 4
 botanises 2
 bedlamer 5
 behoot 2
