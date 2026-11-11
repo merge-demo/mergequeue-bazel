@@ -5207,7 +5207,7 @@ detruncating 1
 devoid 3
 diazoamino
 denitrifier 3
-denizenation 1
+denizenation 2
 diquats 2
 deflectionization 2
 drumbler 4
@@ -10462,7 +10462,7 @@ diphonia 1
 dismiss 1
 drowsy 2
 duumvirs 2
-deglutitive 1
+deglutitive 2
 distortion
 dister 4
 droits 3
@@ -11274,7 +11274,7 @@ depolymerized 4
 discabinet 4
 discommendableness 2
 discamp
-drawstring 2
+drawstring 3
 discanted 2
 dermochelys 1
 dragon 2
