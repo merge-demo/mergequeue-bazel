@@ -9694,7 +9694,7 @@ esq 1
 esquires 2
 existence 1
 exurbs
-evacue 4
+evacue 5
 euselachii 2
 esquisse 1
 exship 2
@@ -13673,7 +13673,7 @@ epistolizable
 exteriorness 1
 espec 2
 emotionlessness 6
-ergotoxin
+ergotoxin 1
 eurygnathic 1
 exterminatrix 5
 extraconscious 4
@@ -14081,7 +14081,7 @@ extremeness 4
 extremis 3
 effeminate 4
 extraterritorials 1
-ethnologist 2
+ethnologist 3
 esteem 2
 evolutionistically 1
 episternum 3
