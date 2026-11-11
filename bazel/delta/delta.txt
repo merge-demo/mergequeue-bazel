@@ -14896,7 +14896,7 @@ dodecade 4
 dodecafid 3
 dodecahedral 2
 doctorate 1
-dieselization
+dieselization 1
 dodecahydrate 2
 duodenojejunostomy 2
 divata
