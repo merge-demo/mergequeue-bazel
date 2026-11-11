@@ -6917,7 +6917,7 @@ ancience
 anterin 2
 alec 1
 airspeeds 1
-az 1
+az 2
 adrent 2
 airt
 actionability 2
@@ -18176,7 +18176,7 @@ atip 1
 aquatone
 acidemias 2
 aquavits 3
-amantillo 3
+amantillo 4
 asseverating 1
 aberuncator 1
 aporphin
