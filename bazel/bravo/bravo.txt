@@ -6396,7 +6396,7 @@ barfy 4
 benzonaphthol 4
 benzonitrile 2
 behedge 6
-benzophenothiazine 3
+benzophenothiazine 4
 benzophloroglucinol 2
 betting 1
 benedight 3
@@ -6419,7 +6419,7 @@ benzosulfimide
 biophysiologist 4
 barbaresque 5
 benzosulphimide 2
-barricaders 3
+barricaders 4
 botanises 2
 bedlamer 5
 behoot 2
@@ -14562,7 +14562,7 @@ brandy
 brosy 2
 bitty
 bambos 2
-bondager 4
+bondager 5
 brandied 2
 banate 3
 bacis 1
@@ -16213,7 +16213,7 @@ brought 1
 barmote 1
 bagmaking 1
 blandish 3
-bryologies 2
+bryologies 3
 breadstuffs 1
 brouhaha 3
 broussonetia

@@ -4937,7 +4937,7 @@ endamebae 4
 equiv 2
 eveck 4
 eudemons 1
-extradictable 1
+extradictable 2
 endamoebas 3
 endamoebidae 3
 equations 9
@@ -6752,7 +6752,7 @@ enthral 2
 eschewers 2
 enthralldom 2
 exurb 3
-enormously 1
+enormously 2
 enveloping 1
 esterifies 2
 euhemerise 1
