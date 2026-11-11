@@ -9654,7 +9654,7 @@ bysmalith 1
 bismark
 boulder 1
 baltimorean
-bladed
+bladed 1
 besmiles 4
 bismerpund 4
 buoyages
@@ -11506,7 +11506,7 @@ blunderbuss 2
 borasqueborate 3
 blunderbusses 2
 boundure 1
-bestare 3
+bestare 4
 blunderhead 1
 buttonbur
 barotaxis 1
@@ -17812,7 +17812,7 @@ bursarial 2
 blypes 1
 bursaries 1
 bursars 2
-bursch 1
+bursch 2
 bianisidine 1
 becompass
 belord
