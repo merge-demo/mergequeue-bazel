@@ -4895,7 +4895,7 @@ breakstone 2
 bloomage 1
 backspeer 4
 bomarea
-beechwood 1
+beechwood 2
 bright 1
 bourbons 3
 belaud 2
@@ -5252,7 +5252,7 @@ begats 2
 bolters 2
 bastes 3
 bothsided 4
-begazing
+begazing 1
 bimasty 1
 borderer 2
 bedabbling
