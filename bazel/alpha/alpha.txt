@@ -25328,7 +25328,7 @@ antisplitting 3
 ampoule 3
 antidotes 2
 archplayer
-aboideaus
+aboideaus 1
 antireactionaries 1
 azophenine
 azoprotein 2
