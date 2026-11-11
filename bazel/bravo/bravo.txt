@@ -10328,7 +10328,7 @@ bargepole 3
 buxomness 1
 billot 1
 bounderish 2
-buffability
+buffability 1
 bamboozlers 1
 breviature 2
 bordman 2
