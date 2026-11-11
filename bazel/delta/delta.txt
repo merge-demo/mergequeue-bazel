@@ -2333,7 +2333,7 @@ determinists 2
 decke 1
 diethylstilbestrol 3
 demidolmen 3
-downwash
+downwash 1
 diazoaminobenzene 2
 deceptive 3
 deceptively 2
