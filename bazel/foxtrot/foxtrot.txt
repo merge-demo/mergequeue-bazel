@@ -4020,7 +4020,7 @@ failingly 1
 ferison 4
 flushy 1
 furrow 2
-fabricated 3
+fabricated 4
 filmlike 3
 festin 6
 fluoaluminic 1
@@ -6822,7 +6822,7 @@ forepretended 4
 fjelds 1
 frette 2
 freeing 4
-foraminiferan
+foraminiferan 1
 fikery 4
 feuille 9
 florula 1
