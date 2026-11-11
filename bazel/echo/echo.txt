@@ -2560,7 +2560,7 @@ electrobiological 2
 exorcist 3
 endocritic 1
 eminency 3
-eatable 3
+eatable 4
 ezra 1
 emptiable 1
 electrometer 4
@@ -10240,7 +10240,7 @@ exasperated 3
 edituate 3
 epistolist 2
 epigenous 4
-emanationist
+emanationist 1
 esponton 2
 eucalypteol 1
 exculpates 2
