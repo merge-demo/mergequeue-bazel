@@ -3554,7 +3554,7 @@ filamentary 5
 filament 4
 flannelleaves 1
 fishfall 1
-flagrancy 1
+flagrancy 2
 frowziness 2
 fath 2
 flaggelating 3
