@@ -1592,7 +1592,7 @@ accounter 1
 accounters 2
 agata
 audioemission 1
-accounts
+accounts 1
 anybody
 accouter
 apotype 1
@@ -10307,7 +10307,7 @@ amene 1
 antierosive
 ampicillin 1
 amenorrheic 1
-amenorrho
+amenorrho 1
 aprosexia 1
 arabicism
 amenorrhoea 1
