@@ -6246,7 +6246,7 @@ fouettee 3
 felloes 1
 freewheelers 1
 farmtown 2
-fluidic 4
+fluidic 5
 flapdragon 1
 friendlike
 frankeniaceous 4
@@ -8978,7 +8978,7 @@ flavine
 fourpenny 1
 fernless 1
 fableist 2
-fabricate 3
+fabricate 4
 flabellarium 5
 fourragere 3
 flutter 1
