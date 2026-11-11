@@ -17549,7 +17549,7 @@ drumline
 depolarised 1
 disappeared
 drumlinoid 1
-decelerated 3
+decelerated 4
 dactylate
 diatomous
 dactyls 3
