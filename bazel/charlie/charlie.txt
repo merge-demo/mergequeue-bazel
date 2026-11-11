@@ -11450,7 +11450,7 @@ county 3
 chronicler 1
 chocking 2
 cockpaddle 4
-cyrenaicism 1
+cyrenaicism 2
 chytridium
 cre
 chylified
@@ -27415,7 +27415,7 @@ courtney
 courtnoll
 cappier 1
 courtroll 2
-ceratium
+ceratium 1
 committees
 courtship 1
 cleach 3
