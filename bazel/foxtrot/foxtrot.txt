@@ -10477,7 +10477,7 @@ fluorate 4
 forwearying 3
 fordid 2
 flegm 2
-fluitant 4
+fluitant 5
 fatness 5
 frutescent 6
 frostings 1
@@ -11586,7 +11586,7 @@ fusions 1
 freity 2
 floscular 4
 fissional 3
-foregallery 6
+foregallery 7
 fussbudgety 1
 fevers 3
 filtrates 5
