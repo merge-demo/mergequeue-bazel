@@ -1218,7 +1218,7 @@ backslid 1
 beds 2
 bittersweetness 1
 buxbaumia
-becreep 2
+becreep 3
 baldachined
 beeswaxes
 blackshirt 1
@@ -8894,7 +8894,7 @@ bowser 2
 blissfulness 1
 barbarousness
 biocoenotic 3
-biodegradability 1
+biodegradability 2
 biodegradable
 becassocked 1
 beleap 1
