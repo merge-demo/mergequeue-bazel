@@ -2234,7 +2234,7 @@ barbarise 3
 barbarised 2
 benzazimide 2
 barbarising 1
-bragless
+bragless 1
 barbarities 2
 barbarization 2
 boucle 1
@@ -4182,7 +4182,7 @@ beatee
 bleery 1
 botling 1
 beaters 2
-beatifical
+beatifical 1
 benchlet 2
 beatifically
 beatification 1
@@ -17710,7 +17710,7 @@ broach 1
 bicornes 4
 buyer 3
 burma 3
-begazed 4
+begazed 5
 bestead 3
 beshouts 1
 birling 1
