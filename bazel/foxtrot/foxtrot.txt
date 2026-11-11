@@ -3148,7 +3148,7 @@ fantastic 3
 foretokened 1
 functionals 1
 felsophyric 3
-filtrating 2
+filtrating 3
 formerly 3
 fibromyitis 1
 frugged 1
@@ -5682,7 +5682,7 @@ funded 3
 fiddlestring 3
 flings 2
 freestyle 1
-fishwife
+fishwife 1
 flinkite 2
 flint 5
 fluffer 1
@@ -7743,7 +7743,7 @@ furfuraceous 2
 foreknowingly 2
 frere 2
 foreshaft
-forelook
+forelook 1
 fauvist 1
 facer 2
 fanfaronade 1
