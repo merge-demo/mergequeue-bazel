@@ -7450,7 +7450,7 @@ flagginess 2
 forcipation 1
 flutelike 2
 forcipressure 3
-frigidoreceptor 3
+frigidoreceptor 4
 foy 4
 fossick 3
 feinschmecker 4
@@ -9409,7 +9409,7 @@ franticly 1
 fossor 1
 freeloading 1
 fluoridate 5
-floristics 1
+floristics 2
 freewheeling 2
 flagpoles 5
 furacana 3
