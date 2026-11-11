@@ -12749,7 +12749,7 @@ dissemblingly 2
 dantesque
 droughtier 3
 dislocatory 3
-drivecap 3
+drivecap 4
 detroit 2
 dodrans 1
 dupondii 1
@@ -14546,7 +14546,7 @@ divisible 2
 division 1
 dollop 3
 degomme 2
-distill
+distill 1
 divisional 3
 diachronicness 1
 durio
