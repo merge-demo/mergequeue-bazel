@@ -1843,7 +1843,7 @@ camara
 camarade 2
 conciliar 3
 camaraderie 1
-camarasaurus 2
+camarasaurus 3
 camarera 3
 camarin
 carboras 2
@@ -14580,7 +14580,7 @@ cystignathine 3
 criminology
 cystis 1
 circulates 2
-cystitides 1
+cystitides 2
 cystitis 1
 chumped
 coz
@@ -25831,7 +25831,7 @@ cardiographs 2
 convolutive 2
 curted 1
 chenopodiaceae 1
-correctorship
+correctorship 1
 corruptful 1
 catecholamine
 clawback
@@ -29616,7 +29616,7 @@ columbanian 1
 croci 1
 crociate 1
 crocidura 2
-cosinesses 2
+cosinesses 3
 crock
 clashy
 cantative
