@@ -9824,7 +9824,7 @@ entrance 1
 enanthema 4
 estats 4
 eternise 5
-ethnolinguistic
+ethnolinguistic 1
 enamelware 1
 elenchtical 4
 exact 2
