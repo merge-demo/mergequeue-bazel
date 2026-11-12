@@ -10185,7 +10185,7 @@ furdel 3
 ferryage
 famines 2
 fending 1
-foggages
+foggages 1
 frazing 3
 faros 2
 flaskful 1
