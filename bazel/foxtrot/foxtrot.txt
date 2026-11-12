@@ -10403,7 +10403,7 @@ forcaria 4
 fertilizer 3
 filesmith 3
 feudalistic 1
-fringeflower 2
+fringeflower 3
 fossified 2
 fountainously 4
 firsts 5
