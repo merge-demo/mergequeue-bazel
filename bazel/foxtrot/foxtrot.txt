@@ -10242,7 +10242,7 @@ frust 2
 fgrid
 fjarding 3
 firiness
-fishweed
+fishweed 1
 fennecs 5
 flamingoes 2
 foundationed 3
