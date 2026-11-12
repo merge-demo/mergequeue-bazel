@@ -9241,7 +9241,7 @@ discolour 4
 decorament 1
 dollface 2
 divined 3
-disinsectization 1
+disinsectization 2
 dislegitimate 3
 drawcard 2
 digitaliform 3
