@@ -2415,7 +2415,7 @@ destituent 1
 doodads
 dispelled
 donny 2
-dripstick
+dripstick 1
 disaffects 2
 decima 1
 decimalism 1
