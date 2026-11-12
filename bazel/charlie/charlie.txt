@@ -31162,7 +31162,7 @@ congealment
 cupidon 1
 corta
 cupiuba
-cupless
+cupless 1
 cupman 2
 cupolaed
 crushable
