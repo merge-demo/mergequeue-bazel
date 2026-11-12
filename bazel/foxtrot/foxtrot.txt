@@ -379,7 +379,7 @@ from 2
 fieldfight
 froes 2
 fluorides 1
-faintly
+faintly 1
 ferrymen 1
 fearer 3
 filicauline 4
