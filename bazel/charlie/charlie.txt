@@ -5857,7 +5857,7 @@ ctenodactyl
 catena 2
 catenae 1
 catenane
-catenarian
+catenarian 1
 catenas 1
 caudaite
 catenate 1
