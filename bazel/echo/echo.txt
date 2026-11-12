@@ -9039,7 +9039,7 @@ ephesine 4
 emlen
 endothermic 1
 exocyclic 2
-equiglacial 2
+equiglacial 3
 episcenium
 empyreans 3
 eperotesis 1
