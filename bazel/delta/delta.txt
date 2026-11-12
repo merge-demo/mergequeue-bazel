@@ -10629,7 +10629,7 @@ drawfile 2
 diphtheritic 1
 diplonema 3
 deuteric
-detritus
+detritus 1
 dunnaged 1
 diplont
 delisting
