@@ -23113,7 +23113,7 @@ ani 1
 atte 4
 archocele 2
 avodires 1
-anthecology
+anthecology 1
 ammonolyze 1
 antheriform 3
 attemperament 2
