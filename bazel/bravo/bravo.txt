@@ -2628,7 +2628,7 @@ bilges 1
 botanise 3
 begirdle 4
 barkless 1
-battening 2
+battening 3
 bandusia 1
 bescorch 1
 batrachite
