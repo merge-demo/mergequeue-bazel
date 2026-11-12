@@ -16364,7 +16364,7 @@ defrost 2
 downstrokes
 downtake
 duodecane
-dewret
+dewret 1
 downthrown 2
 denaturation 3
 douppioni 2
