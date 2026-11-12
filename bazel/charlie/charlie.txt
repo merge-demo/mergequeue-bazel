@@ -6944,7 +6944,7 @@ cemetaries
 cemetery 3
 copesettic 1
 cemeterial 2
-catchpenny
+catchpenny 1
 concours
 ceratinous 1
 culm
