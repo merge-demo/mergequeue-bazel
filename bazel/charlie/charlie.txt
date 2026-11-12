@@ -16706,7 +16706,7 @@ clothings 1
 catharpin 1
 crimpling
 clots 1
-clottage
+clottage 1
 chaconne
 clotted
 cyanus
