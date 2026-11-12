@@ -9260,7 +9260,7 @@ bobolink 2
 biplanes
 beclogging 2
 bonavist 2
-butler 2
+butler 3
 bantamweights 1
 becafico 2
 bipod 1
