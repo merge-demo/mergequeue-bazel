@@ -6786,7 +6786,7 @@ axometer 1
 arid 1
 altars 1
 aircraftmen 1
-aircraftsman
+aircraftsman 1
 adsorptiveness 1
 aircraftsmen 2
 aircraftswoman 3
