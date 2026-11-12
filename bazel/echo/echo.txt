@@ -6592,7 +6592,7 @@ electricity 1
 emigrates 1
 erysimum 2
 enhuile 3
-enwind 3
+enwind 4
 exolemma 3
 emove 3
 eligenda 5
