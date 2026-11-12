@@ -9863,7 +9863,7 @@ denty 2
 diluvium 3
 digests 2
 draconically 1
-dextrality
+dextrality 1
 dimastigate 1
 deli 2
 divergences 1
