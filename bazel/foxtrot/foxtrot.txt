@@ -11205,7 +11205,7 @@ frittata 1
 farads 4
 firer 2
 failles 5
-flamethrowers 1
+flamethrowers 2
 fieldsman
 fungosities 4
 funic
