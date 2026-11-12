@@ -10693,7 +10693,7 @@ autodiffusion 1
 aminobenzaldehyde 1
 anthrachrysone 1
 antichrome
-aminobenzoic
+aminobenzoic 1
 appetency
 aminoglutaric
 aminoid 1
