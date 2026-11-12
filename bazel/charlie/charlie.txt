@@ -3304,7 +3304,7 @@ caplins 3
 coherald
 capmaking 2
 combatter
-capnodium 1
+capnodium 2
 capnoides
 clipping 1
 creaker
