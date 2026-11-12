@@ -3982,7 +3982,7 @@ dunstone 1
 drugless 2
 dustman 2
 decontaminator 3
-disquixote
+disquixote 1
 delatinize 2
 delation 1
 dichocarpous 1
