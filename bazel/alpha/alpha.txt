@@ -13541,7 +13541,7 @@ assonant 1
 anacardiaceae
 atwain
 allo
-announce
+announce 1
 anthropophagical 1
 announced
 agronomial
