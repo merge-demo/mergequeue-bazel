@@ -1969,7 +1969,7 @@ fillock 3
 fernticle 3
 fibratus 3
 functionalize 3
-frigiferous
+frigiferous 1
 flchette 5
 flannelette 1
 fireball 3
