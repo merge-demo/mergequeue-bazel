@@ -31356,7 +31356,7 @@ curia 2
 clodpoles 4
 curiae 1
 cobwebbing
-curiage
+curiage 1
 calcisponge 1
 curialist
 cabalas 2
