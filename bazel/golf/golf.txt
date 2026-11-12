@@ -1072,7 +1072,7 @@ gradus 1
 gasserian 2
 glossic 2
 gangplows 2
-geomalic
+geomalic 1
 gist 4
 glaucoma 3
 glor
