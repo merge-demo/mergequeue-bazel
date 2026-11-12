@@ -15616,7 +15616,7 @@ doorhead 1
 detergible 1
 dooring
 doorknob 2
-doorless
+doorless 1
 destinate 1
 doormaid 1
 dugong 1
