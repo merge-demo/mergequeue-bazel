@@ -24612,7 +24612,7 @@ chanteyman
 copious 2
 copiousness
 cloners 1
-copyread
+copyread 1
 copyreader
 copyreaders
 caudalward 1
