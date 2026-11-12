@@ -7167,7 +7167,7 @@ cacodaemonic 2
 caracas 2
 centranth 1
 centrarchid 1
-centrarchoid 1
+centrarchoid 2
 clar 1
 compare 3
 centraxonial 1
