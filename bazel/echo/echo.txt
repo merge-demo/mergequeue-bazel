@@ -3452,7 +3452,7 @@ evacuate 1
 eventide 6
 embellisher 2
 embellishers 1
-eutelegenic 1
+eutelegenic 2
 enchained 2
 encolden 1
 embers 3
