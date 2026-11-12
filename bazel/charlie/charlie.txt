@@ -28188,7 +28188,7 @@ cytolysin
 crankpins 1
 colipyuria
 churchman
-cranks
+cranks 1
 corpulent 1
 crannage
 caesar
