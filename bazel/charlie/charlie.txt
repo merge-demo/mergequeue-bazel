@@ -31028,7 +31028,7 @@ cuminic 3
 cuminol
 classes 1
 cryoplankton
-chry
+chry 1
 cummerbund 2
 cummerbunds
 cummers 1
