@@ -547,7 +547,7 @@ deliber 3
 dao
 damagers
 damalic 2
-dextrorotation 1
+dextrorotation 2
 demobilized
 designations 2
 dialyzing 3
