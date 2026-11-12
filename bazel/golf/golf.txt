@@ -5073,7 +5073,7 @@ glassful 2
 gonotocont 1
 grapplers 5
 gloxinia 7
-glasshouses 5
+glasshouses 6
 gateaux 2
 gasts 2
 glued 1
