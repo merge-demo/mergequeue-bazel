@@ -3724,7 +3724,7 @@ facebread
 fillies 3
 feetless
 firedogs 3
-foalfoot
+foalfoot 1
 flaccidities
 fillings 6
 furfuryl 3
