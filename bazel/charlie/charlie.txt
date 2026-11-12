@@ -31833,7 +31833,7 @@ campestrian
 cutinising 1
 cutinize
 cutireaction
-corymb
+corymb 1
 cutisector
 centillion
 cutises
