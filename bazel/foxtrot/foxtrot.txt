@@ -8691,7 +8691,7 @@ footcandle 1
 foxings 3
 furlong 2
 febrifuge 2
-fissility 2
+fissility 3
 frankhearted 4
 favoress 3
 flob 3
