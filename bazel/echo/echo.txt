@@ -5336,7 +5336,7 @@ extrahepatic 2
 eurybathic 2
 endoscope 5
 endoscopes 2
-equivocalities 1
+equivocalities 2
 eradicators 2
 egeran 3
 emmeniopathy 3
