@@ -2475,7 +2475,7 @@ ethanol 2
 electrogalvanization
 equivalence 2
 electrogenic
-electrogild
+electrogild 1
 eudemonia 2
 exhilarates 5
 electrogilt 4
