@@ -6256,7 +6256,7 @@ goave 4
 greats 3
 gormandizing 2
 gregorianizer 1
-gob
+gob 1
 goban 3
 greediness 2
 gadslid 1
