@@ -4894,7 +4894,7 @@ amnesiac
 aerodontalgia
 arcanum 1
 algorithms 3
-antipedal
+antipedal 1
 adoors 2
 archhost 1
 anticonservative 2
