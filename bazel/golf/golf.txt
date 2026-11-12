@@ -1802,7 +1802,7 @@ gasterosteid 2
 glossolaly 3
 gutterblood 5
 gelatinotype 3
-grippelike 3
+grippelike 4
 ghyll 2
 glutinate 4
 gestalten 2
