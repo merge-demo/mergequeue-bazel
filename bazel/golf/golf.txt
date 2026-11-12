@@ -4913,7 +4913,7 @@ globularity 1
 guest 1
 greensand 1
 grudge
-ginghams 2
+ginghams 3
 greeter 4
 glaizie 4
 glaga 5
