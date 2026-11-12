@@ -5989,7 +5989,7 @@ diopside
 delictus 3
 deed 1
 durezza 3
-depsides
+depsides 1
 disciplinability 1
 dilettantist
 discommoded 3
