@@ -2019,7 +2019,7 @@ bloodstones 2
 bankcard 2
 bethought 1
 banky
-banknote 3
+banknote 4
 bristly 3
 biophysicist 1
 banknotes 3
