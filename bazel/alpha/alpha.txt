@@ -14124,7 +14124,7 @@ amazers 3
 auletrides 1
 antennariid 1
 antennariidae
-antennate
+antennate 1
 antennifer 1
 antefixes
 acraturesis
