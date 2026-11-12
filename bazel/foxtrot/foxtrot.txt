@@ -3092,7 +3092,7 @@ flakeboard 5
 foreboot 1
 fillmass 4
 fibrinose 2
-fibrinosis 1
+fibrinosis 2
 feringi 2
 felineness 1
 fibro 2
