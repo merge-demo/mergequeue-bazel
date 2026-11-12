@@ -2756,7 +2756,7 @@ friedelite 2
 foreparts 5
 fights 1
 festerment 4
-footway 1
+footway 2
 feis 3
 flanges 2
 fortescure
