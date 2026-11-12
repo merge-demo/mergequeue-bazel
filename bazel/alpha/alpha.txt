@@ -4826,7 +4826,7 @@ aerobiosis
 addleheaded
 absorbability
 aerobious
-allotypy
+allotypy 1
 allophylic 2
 awedly 4
 authenticatable
