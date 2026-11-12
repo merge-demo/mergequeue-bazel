@@ -4952,7 +4952,7 @@ beekeepers 1
 beekeeping 1
 bedight
 bosher 2
-bassos
+bassos 1
 beelzebul 1
 beennut 1
 bimedial 2
