@@ -19714,7 +19714,7 @@ corrigent
 cloots
 combinations 1
 cells
-combinative 1
+combinative 2
 counterrotating 1
 combinator
 combinatory
