@@ -7992,7 +7992,7 @@ fluate 3
 fempty 4
 floran 1
 fleying 3
-forecooler
+forecooler 1
 frontispiecing 3
 fantasmagorically 1
 foreslow 4
