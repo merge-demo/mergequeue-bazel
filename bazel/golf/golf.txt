@@ -2752,7 +2752,7 @@ girths 1
 gorgers 3
 gunfire 2
 greenflies 2
-germanism 1
+germanism 2
 gauger 5
 guestchamber 5
 gorraf 4
