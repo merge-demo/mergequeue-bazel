@@ -6587,7 +6587,7 @@ commentation
 contributions 1
 charcuterie 2
 calamitoid 1
-cdf
+cdf 1
 carid 1
 cheroot 3
 cdg 1
