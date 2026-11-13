@@ -6312,7 +6312,7 @@ deadens 2
 dermatozoonosis 1
 deutzias 3
 dryophyllum
-dermatozzoa 1
+dermatozzoa 2
 dermatrophia 3
 disgrade 1
 dephlegmatory 6
