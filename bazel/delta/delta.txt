@@ -5764,7 +5764,7 @@ droves 1
 deliberating
 debater 1
 duree 1
-disjoint
+disjoint 1
 descriptor 4
 decasualizing
 depolymerize
