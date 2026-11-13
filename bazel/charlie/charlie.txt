@@ -24562,7 +24562,7 @@ cantate
 cophosis
 copia
 clapped 1
-copiapite
+copiapite 1
 copyboy 4
 copyboys
 cupelers
