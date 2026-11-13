@@ -1538,7 +1538,7 @@ fauteuil 1
 fussy 6
 foreteach 4
 farrow 5
-forepayment 1
+forepayment 2
 frundel 3
 festival 3
 fauvette 3

@@ -28147,7 +28147,7 @@ calibrations
 communitorium 2
 craniomaxillary 1
 cataloging 1
-craniometry
+craniometry 1
 championship 2
 capronyl 2
 craniometrist
