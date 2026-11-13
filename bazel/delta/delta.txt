@@ -12561,7 +12561,7 @@ dicaryophase 1
 detonator 1
 disinheritable
 diuturnity 2
-disinheritance
+disinheritance 1
 dinaphthyl 1
 deirdre 1
 darac 3
