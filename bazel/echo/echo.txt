@@ -5798,7 +5798,7 @@ excl 3
 englobe 2
 empressements 3
 epigraphy 1
-expressions 3
+expressions 4
 englobed 4
 enneahedral
 envelopment 2
