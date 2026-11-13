@@ -18118,7 +18118,7 @@ bealtared
 bloodlettings 1
 buskin 1
 butcherer 2
-blobbier
+blobbier 1
 bureaucrats 1
 boll 4
 ballyrag 2
