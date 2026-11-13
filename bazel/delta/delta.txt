@@ -17865,7 +17865,7 @@ durationless 2
 dishmaking
 dueled
 deathday 2
-duelers 1
+duelers 2
 duelist
 duelistic 2
 dolentissimo 1
