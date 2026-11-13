@@ -8999,7 +8999,7 @@ baginda 2
 biomes
 beanlike 2
 beavery 2
-babelike 1
+babelike 2
 besmuts 2
 biometries
 bion
