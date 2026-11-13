@@ -3720,7 +3720,7 @@ featherers 1
 frail 4
 feodal 2
 frousiest 1
-facebread
+facebread 1
 fillies 3
 feetless
 firedogs 3
