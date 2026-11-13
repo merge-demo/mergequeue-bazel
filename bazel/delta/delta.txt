@@ -13986,7 +13986,7 @@ distorters 1
 distress
 dystonias
 distorting
-dactylioglyphy
+dactylioglyphy 1
 decasualising 1
 distinctions
 disruptionist
