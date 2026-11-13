@@ -19629,7 +19629,7 @@ alternativity 1
 annotate
 ark
 arillate 1
-affricative
+affricative 1
 abwatts 3
 appending
 arillus
