@@ -1330,7 +1330,7 @@ bethlehem 2
 bookdealer 1
 bioplastic 2
 balboas 1
-barrowcoat 2
+barrowcoat 3
 brod 2
 botrylle 4
 backdrops
