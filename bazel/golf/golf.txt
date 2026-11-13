@@ -7457,7 +7457,7 @@ germen 2
 goulash 2
 ghbor 5
 groundswells 2
-gonococcal
+gonococcal 1
 glub 2
 goldfish 3
 geologising 3
