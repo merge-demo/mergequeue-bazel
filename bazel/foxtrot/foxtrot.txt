@@ -1892,7 +1892,7 @@ fraidycat 1
 flybrush 3
 fishable 2
 fingerflower 3
-fontanelle 4
+fontanelle 5
 fumbling 4
 fustilarian 4
 foism 3
