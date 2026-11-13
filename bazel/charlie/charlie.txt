@@ -2922,7 +2922,7 @@ cantation
 cantatrice 1
 coverts 1
 chestily 1
-chorioids 2
+chorioids 3
 condylos 1
 crappy 1
 cantdog
