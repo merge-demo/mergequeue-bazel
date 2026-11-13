@@ -18190,7 +18190,7 @@ coeval 2
 camorrist 2
 coevalness 1
 carboline
-crisscross
+crisscross 1
 coevolution 2
 coimplicate
 calumniousness
