@@ -15741,7 +15741,7 @@ dorsomedial 1
 diaxonic 1
 disyntheme
 dater 2
-dicht
+dicht 1
 drubbly 3
 dicyanine 3
 dogshore 4
