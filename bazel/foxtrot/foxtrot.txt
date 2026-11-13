@@ -7370,7 +7370,7 @@ flakiness 3
 fortunous 7
 feedlots 1
 flyness 2
-findy
+findy 1
 forbidals 5
 fasted 3
 featous 2
