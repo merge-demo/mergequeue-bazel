@@ -8133,7 +8133,7 @@ fusel 1
 fondon 4
 farmland
 foison 2
-fire 1
+fire 2
 flexo 2
 flatcaps 1
 faithful 1
