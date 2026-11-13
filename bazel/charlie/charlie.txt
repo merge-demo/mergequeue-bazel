@@ -20480,7 +20480,7 @@ corundum 1
 composition 2
 compartments 2
 chapin 3
-celticist 1
+celticist 2
 compass
 compassability 1
 compassable
