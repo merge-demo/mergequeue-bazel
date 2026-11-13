@@ -4124,7 +4124,7 @@ gesnerad 5
 geotaxes 7
 gettysburg 2
 gargoyle
-glosts 1
+glosts 2
 genetor 1
 grimoire 2
 geoglossum 1
