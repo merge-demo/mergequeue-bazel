@@ -22285,7 +22285,7 @@ coincline 2
 circumpolygon
 congoleum 1
 congou 1
-coessentialness 1
+coessentialness 2
 corrasion 1
 congrats
 congratulable 2
