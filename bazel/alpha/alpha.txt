@@ -23586,7 +23586,7 @@ aglucone
 antherid
 alinit 2
 abuser 4
-analyt
+analyt 1
 akoasm
 antegrade 2
 aumrie 1
