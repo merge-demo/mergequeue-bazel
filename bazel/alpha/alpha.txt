@@ -995,7 +995,7 @@ alsikes 1
 acceptavit 2
 additives 2
 abstractest 1
-adequacy 2
+adequacy 3
 abstraction
 apostoless 1
 abstractional 3
