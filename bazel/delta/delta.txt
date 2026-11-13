@@ -16604,7 +16604,7 @@ darkhearted 1
 dragonfishes 3
 didelph 2
 dragonflies 2
-deprecated
+deprecated 1
 didelphian 2
 dragonhood 3
 downily
