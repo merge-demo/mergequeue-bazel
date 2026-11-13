@@ -3949,7 +3949,7 @@ fireboxes 1
 fluoresces 2
 flemish 2
 fluoranthene 4
-foresummon 1
+foresummon 2
 fendered 5
 fullest 1
 foeniculum 2
