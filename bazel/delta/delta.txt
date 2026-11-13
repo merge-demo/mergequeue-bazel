@@ -3676,7 +3676,7 @@ degorge 3
 degradative 2
 degraded 2
 degradement 1
-dozing 1
+dozing 2
 depsid 2
 disrupt
 decimalisation
