@@ -7700,7 +7700,7 @@ cerithiidae
 cerithium
 ceriums
 corambis
-chloroplatinite
+chloroplatinite 1
 cermet
 cyamid 1
 ciceros 1
