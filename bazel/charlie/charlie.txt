@@ -11103,7 +11103,7 @@ chytridiose
 chytridiosis 1
 chytroi 2
 chits 1
-chittack
+chittack 1
 chitted
 chitter
 chitterling
