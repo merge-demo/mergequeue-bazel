@@ -4119,7 +4119,7 @@ beslimer
 beards 1
 barbers 1
 birthroot 1
-bombazette
+bombazette 1
 bedrenched 1
 bras 2
 brachycera 3
