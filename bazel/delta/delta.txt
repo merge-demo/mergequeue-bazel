@@ -6180,7 +6180,7 @@ doppler
 deriders 1
 distribute 1
 detractress 2
-dittograph
+dittograph 1
 deriding
 divertor 3
 deringa 1
