@@ -5475,7 +5475,7 @@ deregister 1
 disenablement 1
 deorsum 2
 deossification 3
-deuterostomatous 1
+deuterostomatous 2
 dissipates 2
 dyakisdodecahedron 3
 deoxycorticosterone 1
