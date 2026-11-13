@@ -16357,7 +16357,7 @@ douras
 dispersal 2
 derelictions
 drainable 1
-downstate
+downstate 1
 dolmens 1
 defilade 3
 defrost 2
