@@ -22355,7 +22355,7 @@ congruency 1
 congruent 2
 congruism 1
 congruist
-congruity
+congruity 1
 congruously 2
 congruousness 1
 congustable 1
