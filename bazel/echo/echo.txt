@@ -10618,7 +10618,7 @@ endorse 3
 eucritic 2
 eudaemon
 eurous 3
-enmeshes
+enmeshes 1
 extravasated 1
 ecdyson 2
 exchangee 2
