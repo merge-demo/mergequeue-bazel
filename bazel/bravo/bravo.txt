@@ -13458,7 +13458,7 @@ burgs 4
 broilery 1
 beer 3
 bleeding 3
-bottleman 1
+bottleman 2
 bulse 1
 benzin 1
 bepun 1
