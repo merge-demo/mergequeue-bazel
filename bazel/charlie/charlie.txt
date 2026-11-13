@@ -2301,7 +2301,7 @@ canakin
 canakins
 canal
 clerks
-cookeys
+cookeys 1
 canalatura 1
 completer
 cromorne
