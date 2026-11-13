@@ -2040,7 +2040,7 @@ frontspiece 3
 feinter 3
 feudary 3
 fundi 3
-facedown 1
+facedown 2
 faucalize 1
 fireboat 3
 flindosa 3
