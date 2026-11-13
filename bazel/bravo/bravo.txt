@@ -16115,7 +16115,7 @@ bicolor
 buoy 4
 burgoo 1
 brassier 2
-breathful 1
+breathful 2
 bundweed 2
 budget 3
 bolsterers 1
