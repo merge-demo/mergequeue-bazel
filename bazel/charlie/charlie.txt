@@ -28804,7 +28804,7 @@ cresoline 1
 carline 1
 cresorcinol 1
 cryogenies 1
-ctg
+ctg 1
 cresoxy 2
 cresoxid 1
 carcinosarcomas
