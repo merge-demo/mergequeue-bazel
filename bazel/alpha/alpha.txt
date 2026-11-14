@@ -3213,7 +3213,7 @@ allochromatic 2
 axopetal 1
 adderbolt 2
 acoumetry 2
-alstonine
+alstonine 1
 assident 1
 antennary 2
 abstersion 1
