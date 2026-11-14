@@ -15334,7 +15334,7 @@ clangs
 conquests 1
 critter
 calluses
-chronographical
+chronographical 1
 clanjamfrey 1
 chalcotript 1
 crosstoes
