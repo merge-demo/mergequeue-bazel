@@ -2818,7 +2818,7 @@ armorproof 3
 atonics
 acquiesced
 archostenosis
-autocamping
+autocamping 1
 acromicria 1
 antimeres
 aspersers
