@@ -4565,7 +4565,7 @@ colorcast 1
 carnifex 1
 carnifexes 2
 cationic
-carnification
+carnification 1
 carnificial 2
 carnifies
 colonel
