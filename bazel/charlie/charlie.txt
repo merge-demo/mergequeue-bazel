@@ -7323,7 +7323,7 @@ cantalite 1
 cephalagra 1
 computus 2
 coudee 2
-cephalaspis
+cephalaspis 1
 condurrite 1
 cephalate 2
 cephalhematoma
