@@ -2357,7 +2357,7 @@ explosive 2
 electrochemistry 1
 electromobilism 1
 excrementitial 2
-excrete
+excrete 1
 espaliering 3
 encore 2
 encomia 1
