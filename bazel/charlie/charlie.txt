@@ -7407,7 +7407,7 @@ chalaziferous 1
 cephalotaxus
 conventicles
 cephalothoraxes 3
-cephalotomy
+cephalotomy 1
 corozo 1
 chippering 3
 contrate
