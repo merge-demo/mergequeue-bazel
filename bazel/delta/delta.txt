@@ -714,7 +714,7 @@ dopester
 diatom 1
 deadmelt 2
 danceability
-danceable 1
+danceable 2
 demoniacs
 danced 2
 diddled 4
