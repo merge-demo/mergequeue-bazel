@@ -3938,7 +3938,7 @@ douser 1
 duopoly 5
 disleal 2
 diaphemetric 4
-deyship 1
+deyship 2
 demagnification 1
 deliberation 2
 defendress 1
