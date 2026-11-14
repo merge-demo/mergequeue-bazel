@@ -434,7 +434,7 @@ borecole 2
 backscraper
 backset 2
 basename 2
-bernie
+bernie 1
 brushless 3
 brinjaree 2
 betowered
