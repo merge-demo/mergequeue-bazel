@@ -14319,7 +14319,7 @@ circumscribable
 condescend 1
 circumscribed
 collapsed
-circumsession
+circumsession 1
 circumsinous
 circumsolar 1
 collow 1
