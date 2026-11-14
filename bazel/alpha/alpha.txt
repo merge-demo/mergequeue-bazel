@@ -8616,7 +8616,7 @@ apodeipna
 apoharmine 1
 aqueduct 1
 abandoners 4
-arboricultural
+arboricultural 1
 allegorisation
 allegorise
 afear
