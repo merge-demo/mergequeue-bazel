@@ -9880,7 +9880,7 @@ dimensionally
 dimensioning 1
 dimensum 1
 disangularize 2
-diphenyl 2
+diphenyl 3
 dimer 1
 decadency 1
 deludable 2
