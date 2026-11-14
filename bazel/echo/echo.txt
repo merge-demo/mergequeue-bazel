@@ -12234,7 +12234,7 @@ erodable 5
 edriasteroidea 2
 ergotine 4
 eskuara
-ephemerides
+ephemerides 1
 emmental 2
 ecclesiolater 3
 eternalization 1
