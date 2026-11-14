@@ -3725,7 +3725,7 @@ fillies 3
 feetless
 firedogs 3
 foalfoot
-flaccidities
+flaccidities 1
 fillings 6
 furfuryl 3
 fricti 3
