@@ -10016,7 +10016,7 @@ extradict 3
 emotiomuscular 1
 electrode 2
 eurhythmical 1
-electrodiagnostically 1
+electrodiagnostically 2
 extrorsal 1
 electrodiagnostic 4
 expellable 1
