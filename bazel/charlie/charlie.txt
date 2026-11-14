@@ -24991,7 +24991,7 @@ clavicytherium
 cordax 2
 carnivora 2
 castoff 1
-cordeau 1
+cordeau 2
 cordel
 comae
 chumble
