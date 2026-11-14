@@ -20699,7 +20699,7 @@ complexation 1
 complexedness 4
 complexer 1
 cuinfo
-complexes
+complexes 1
 cercis
 convolvuli 1
 consonantise 1
