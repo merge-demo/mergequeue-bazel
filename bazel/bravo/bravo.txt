@@ -10711,7 +10711,7 @@ blenk 4
 blennadenitis 1
 backsetting 1
 blennemesis 2
-bullets
+bullets 1
 backswimmer 2
 blennenteria 4
 box
