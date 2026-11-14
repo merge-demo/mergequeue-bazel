@@ -27544,7 +27544,7 @@ cuselite 1
 coverall
 coveralled
 coveralls 1
-coils 1
+coils 2
 coverchief 1
 cannulated 1
 cerberean 2
