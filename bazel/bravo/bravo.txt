@@ -48,7 +48,7 @@ babbly
 befrogged
 brushable 3
 babbit
-baton
+baton 1
 botrytises
 barberish 1
 beebreads 1
