@@ -15683,7 +15683,7 @@ bands 3
 bonbonniere 3
 bogglebo
 barycentric 1
-barbering
+barbering 1
 battarism 3
 brunonia 4
 broadlooms 3
