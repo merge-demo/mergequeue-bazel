@@ -8092,7 +8092,7 @@ dhourras
 dispersedye 2
 dhritarashtra 3
 disables 1
-disembowelled
+disembowelled 1
 drawable 2
 dhurra 2
 detrimentalness 3
