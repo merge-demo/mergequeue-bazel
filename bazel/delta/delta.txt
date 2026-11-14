@@ -5341,7 +5341,7 @@ dribber
 demurrage 2
 despotize 1
 diatomacean 1
-decimalized
+decimalized 1
 demibombard 2
 disguising 2
 dysteleology 3
