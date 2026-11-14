@@ -4635,7 +4635,7 @@ donn 2
 depose 2
 dinic 1
 demisang 1
-dulcite
+dulcite 1
 demisangue 1
 douzaines 1
 dereliction
