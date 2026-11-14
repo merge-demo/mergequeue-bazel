@@ -7238,7 +7238,7 @@ detectible 4
 detection 4
 diamantiferous 2
 deadlight 1
-disparatum
+disparatum 1
 daguilla 3
 darklings 1
 delubrum 2
