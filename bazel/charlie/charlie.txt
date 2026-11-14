@@ -3611,7 +3611,7 @@ carabinieri
 cotrespasser 1
 choosable
 caraboa 1
-caaba
+caaba 1
 cinques
 circle 2
 caraboid 1
