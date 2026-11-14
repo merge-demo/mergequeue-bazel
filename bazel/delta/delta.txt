@@ -11160,7 +11160,7 @@ dismask 2
 dogmatist
 defectibility 1
 devvel 3
-dyeline 1
+dyeline 2
 djins 2
 disavower
 derringers 3
