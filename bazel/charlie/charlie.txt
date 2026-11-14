@@ -18833,7 +18833,7 @@ contemporaries 1
 codeins 2
 colichemarde
 colicines 1
-cultigen 1
+cultigen 2
 celiac 2
 colicins
 corvisor 1
