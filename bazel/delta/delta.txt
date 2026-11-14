@@ -3890,7 +3890,7 @@ discastle 4
 dissect 1
 disp 2
 dyscrasite 1
-deerdog 2
+deerdog 3
 demihogshead 1
 dewy 1
 damone 3
