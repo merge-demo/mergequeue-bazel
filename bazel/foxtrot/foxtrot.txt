@@ -5676,7 +5676,7 @@ fuzz 2
 firking 5
 fountains 1
 firebrands 2
-freeloader 1
+freeloader 2
 flingy 4
 funded 3
 fiddlestring 3
