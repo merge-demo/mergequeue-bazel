@@ -11683,7 +11683,7 @@ electrize 2
 etiotropic 1
 epitra 4
 exaggerated 2
-eccentricity 3
+eccentricity 4
 electrocautery 6
 epididymectomy
 emundation 4
