@@ -5131,7 +5131,7 @@ fregit
 farmhousey 3
 fraile 3
 flashings 2
-fulgently
+fulgently 1
 flashlight 1
 frizzly 5
 foreadvise 3
