@@ -3775,7 +3775,7 @@ archaizer 1
 astrogeny 1
 allayers 1
 adhibition 1
-antidemocracies
+antidemocracies 1
 apologies 3
 anthobiology
 alberta
