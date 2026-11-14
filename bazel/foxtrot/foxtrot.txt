@@ -5576,7 +5576,7 @@ filamentar 2
 fiendlike 1
 flaxlike
 folkvangr 3
-flockowner 2
+flockowner 3
 fossicking 5
 firefight 2
 forgette 3
