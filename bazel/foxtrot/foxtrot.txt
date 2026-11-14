@@ -2820,7 +2820,7 @@ fumigatories 3
 fcomp 1
 fretted 6
 faunae 6
-faveolate 2
+faveolate 3
 facie 3
 ficus 2
 fluidly 1
