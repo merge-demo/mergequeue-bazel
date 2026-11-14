@@ -553,7 +553,7 @@ electrified 3
 excursuses 4
 echinodorus
 est 2
-endotheliotoxin
+endotheliotoxin 1
 echinoid 1
 exequial 3
 ethiopians 2
