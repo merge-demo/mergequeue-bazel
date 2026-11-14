@@ -9614,7 +9614,7 @@ deadline 1
 drayed 2
 differentiating
 deepmost
-dihedron
+dihedron 1
 dhootie 1
 dodecatemory
 discipleship 1
