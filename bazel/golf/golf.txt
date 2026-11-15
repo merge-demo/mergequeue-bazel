@@ -4227,7 +4227,7 @@ gigantosaurus 1
 gonidiose 2
 ghibelline 3
 gynaecium 4
-gunned 4
+gunned 5
 grovel 1
 goloka 3
 gois 3
