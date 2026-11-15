@@ -4835,7 +4835,7 @@ flinthead 2
 fleay 3
 fainer 2
 foil 4
-finlet
+finlet 1
 fatagaga 3
 factorylike
 festinately 1
