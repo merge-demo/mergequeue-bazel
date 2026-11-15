@@ -4899,7 +4899,7 @@ explete 5
 enjamb 3
 encroachments 2
 epitaxic 3
-encrustation
+encrustation 1
 elepaio 5
 excitoglandular
 empoisons 4
