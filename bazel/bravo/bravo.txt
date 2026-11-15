@@ -17719,7 +17719,7 @@ bombshell
 burned 2
 burner 2
 benempt
-billian
+billian 1
 blastophaga
 bemuzzled 3
 bott 2
