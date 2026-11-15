@@ -4630,7 +4630,7 @@ fullams 3
 fitout 5
 fitchered 5
 foolfish 1
-fitters 4
+fitters 5
 foxery 4
 fifo 3
 formazyl
