@@ -5559,7 +5559,7 @@ encourage 3
 etherlike 3
 enfeoffing
 episcopant 2
-enfeoffment 1
+enfeoffment 2
 exestuate 1
 exhaustedly 1
 ethions 3
