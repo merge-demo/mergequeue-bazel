@@ -6387,7 +6387,7 @@ antiochene 1
 animate 1
 allotypical 1
 agrypnia 2
-agrypnotic
+agrypnotic 1
 agroan 1
 agrobacterium
 aparithmesis 1
