@@ -4180,7 +4180,7 @@ beat 3
 benches
 beatee
 bleery 1
-botling 1
+botling 2
 beaters 2
 beatifical 1
 benchlet 2
