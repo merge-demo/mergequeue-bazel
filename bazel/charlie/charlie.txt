@@ -4729,7 +4729,7 @@ contested 1
 collages 2
 carpeting 2
 carpetlayer 1
-carpetmaking 1
+carpetmaking 2
 clubability
 captivation 1
 carpets 1
