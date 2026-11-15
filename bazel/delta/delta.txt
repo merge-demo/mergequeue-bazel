@@ -5582,7 +5582,7 @@ draftable 1
 depended 2
 dolichopellic 2
 dependence 1
-desensitizes 1
+desensitizes 2
 dependingly
 drouthiness 1
 depends 2
