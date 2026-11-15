@@ -11451,7 +11451,7 @@ bolthead
 bluetit 1
 bluffly
 bullhoof 1
-bejade
+bejade 1
 bulbul 1
 bluetongue 1
 bedmates
