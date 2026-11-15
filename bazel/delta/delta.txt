@@ -14484,7 +14484,7 @@ deckhouse 1
 degauss 1
 diphyzooid 2
 decapitating 2
-devitaminize 2
+devitaminize 3
 drouk
 decemviri 4
 duumvirate 2
