@@ -10703,7 +10703,7 @@ blend 2
 bestill 2
 blendwater 3
 broadish 2
-bowhead 1
+bowhead 2
 blenheim
 bibl 3
 belap
