@@ -11043,7 +11043,7 @@ archegone 1
 acroblast 2
 assais
 amorphus
-amort
+amort 1
 amortizable 1
 algic 2
 assibilation 3
