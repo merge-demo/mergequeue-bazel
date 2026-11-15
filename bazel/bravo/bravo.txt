@@ -17309,7 +17309,7 @@ blobber
 beechier 2
 boreholes 3
 bumpers
-baths 1
+baths 2
 blazons
 bumpkin 1
 bumpology
