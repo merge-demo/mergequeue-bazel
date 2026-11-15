@@ -6885,7 +6885,7 @@ dewlight
 drailed 1
 destriers 3
 dsp
-desolate 1
+desolate 2
 dobroes 1
 desolated 3
 dahoons
