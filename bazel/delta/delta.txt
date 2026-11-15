@@ -8086,7 +8086,7 @@ denaturant 1
 domesticated 1
 dysgenetic 3
 disendowment 1
-desugar
+desugar 1
 durzi
 dhourras
 dispersedye 2
