@@ -16689,7 +16689,7 @@ clamberer
 cirrus 3
 clotheslines
 clothesman
-crypts
+crypts 1
 cheerful
 carbamoyl 2
 catchingness 3
