@@ -559,7 +559,7 @@ cadlock 1
 colourlessly 2
 cadmia
 cadmic
-cateran
+cateran 1
 convito 2
 cadmium
 crabsidle 2
