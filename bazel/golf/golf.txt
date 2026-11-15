@@ -9349,7 +9349,7 @@ galleasses 4
 goliad 7
 gunnysacks 2
 ghaznevid 2
-ghaist 1
+ghaist 2
 gasparillo 5
 gyrostat 4
 gimmick
