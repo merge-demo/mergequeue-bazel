@@ -12753,7 +12753,7 @@ drivecap 4
 detroit 2
 dodrans 1
 dupondii 1
-dakoits 1
+dakoits 2
 domesticize 2
 deer 6
 dysneuria 1
