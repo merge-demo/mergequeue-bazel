@@ -6054,7 +6054,7 @@ estoque 2
 expromissor 4
 endosarcs 2
 expire 3
-ere 3
+ere 4
 epiglottises 8
 enkindles 3
 edginess 2
