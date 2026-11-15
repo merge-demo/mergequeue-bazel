@@ -6259,7 +6259,7 @@ gregorianizer 1
 gob
 goban 3
 greediness 2
-gadslid 1
+gadslid 2
 gobber 1
 gazettes 2
 goateed 4
