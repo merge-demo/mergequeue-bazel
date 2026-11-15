@@ -2185,7 +2185,7 @@ foute 4
 flashet 1
 feltmaker 1
 fiducia 4
-fats 4
+fats 5
 fratercula 1
 farmhouse 4
 fumulus 2
