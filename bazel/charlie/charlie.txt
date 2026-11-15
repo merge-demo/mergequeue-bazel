@@ -16139,7 +16139,7 @@ collotyping 1
 chymosinogen 1
 crownbeard 2
 climacus 1
-climant
+climant 1
 centiles 2
 climata
 celebesian 1
