@@ -2684,7 +2684,7 @@ emmanuel 2
 earhead 4
 emborder 5
 electrotechnician 3
-exports
+exports 1
 eogaean 1
 enfant 3
 extendibility
