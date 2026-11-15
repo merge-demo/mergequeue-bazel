@@ -3146,7 +3146,7 @@ eleometer 4
 euphonetic 1
 emissive 2
 empanelled 1
-endoscopy
+endoscopy 1
 earthsmoke
 eloigning 1
 enactment
