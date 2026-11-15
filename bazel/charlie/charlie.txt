@@ -14159,7 +14159,7 @@ cavaedium
 circumambiency 1
 circumambient 2
 circumambulate
-circumambulated
+circumambulated 1
 compose 1
 cuisinier 1
 claddings
