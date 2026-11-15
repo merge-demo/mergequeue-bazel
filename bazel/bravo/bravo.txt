@@ -9773,7 +9773,7 @@ breeze
 brachypleural 3
 bradypepsia 2
 bartender 3
-brokenhearted
+brokenhearted 1
 banderoles 1
 boos 1
 brigandish
