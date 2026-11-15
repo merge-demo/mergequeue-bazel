@@ -16854,7 +16854,7 @@ apiaca 1
 ambushlike
 apiaceae 2
 apiarian
-apiarians
+apiarians 1
 apiarists
 adolescently 1
 antidemocratic 1
