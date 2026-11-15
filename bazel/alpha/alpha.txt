@@ -6931,7 +6931,7 @@ anticomplement
 afflatus 1
 airtimes 2
 alanyls 1
-assailment
+assailment 1
 amende 2
 apostrophic
 aglyphous 1
