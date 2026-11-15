@@ -12555,7 +12555,7 @@ embezzle 2
 exit 2
 encrypted 2
 exsects 3
-exite 2
+exite 3
 eranist 1
 extinction 3
 envied 1
