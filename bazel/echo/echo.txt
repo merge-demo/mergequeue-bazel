@@ -1113,7 +1113,7 @@ edwina 1
 extempory 3
 epeisodion 4
 esterification 3
-elatrometer
+elatrometer 1
 electrotypes 2
 epicaridea 2
 edith
