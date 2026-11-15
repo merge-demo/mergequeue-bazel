@@ -1342,7 +1342,7 @@ effeminise 1
 especial 3
 elemin 1
 explosives
-eelspear 4
+eelspear 5
 effeminising 1
 effeminize 2
 effeminizing 3
