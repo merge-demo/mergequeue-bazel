@@ -5500,7 +5500,7 @@ deoxygenated
 depaints 2
 divestitures 2
 dilatation
-deoxyribonucleotide
+deoxyribonucleotide 1
 disportive 3
 diaphragm
 dogtrot 2
