@@ -9272,7 +9272,7 @@ deflectable
 dearworth 1
 dromaeognathae
 diestock
-diestrous
+diestrous 1
 drawbridge
 diestrums
 drupaceae 1
