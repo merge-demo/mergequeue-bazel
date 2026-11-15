@@ -10059,7 +10059,7 @@ gossypols 2
 guerison 3
 guerites 4
 gage
-graveolency
+graveolency 1
 gravedigger 5
 gelofer 2
 gimmal 4
