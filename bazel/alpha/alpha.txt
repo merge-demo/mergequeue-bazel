@@ -15638,7 +15638,7 @@ arblast
 antinomical
 archmagician 1
 ailment 4
-acoustics
+acoustics 1
 antinormality 1
 antinormalness
 ambage 2
