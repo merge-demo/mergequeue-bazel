@@ -3003,7 +3003,7 @@ antireligious 1
 actinocrinite
 actinodielectric
 actinodromous 1
-actinoelectrically
+actinoelectrically 1
 antigenic
 aerogeography 2
 axemaster 3
