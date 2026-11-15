@@ -3681,7 +3681,7 @@ gurgly
 governorships 4
 gadgeteers 2
 glyptician
-gnomoniaceae
+gnomoniaceae 1
 gametes 2
 gutturotetany 2
 gory 4
