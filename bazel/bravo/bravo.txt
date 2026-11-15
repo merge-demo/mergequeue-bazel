@@ -13251,7 +13251,7 @@ bosset
 barebacked 4
 bonducnut 2
 bedstaff 2
-bokard
+bokard 1
 brune 1
 bossily 4
 bowler 1
