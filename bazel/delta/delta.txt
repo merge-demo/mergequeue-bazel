@@ -2606,7 +2606,7 @@ dashes
 decocting 4
 decoctive
 deaminizing 2
-demishirt
+demishirt 1
 decoctum
 drudgery
 decode 1
