@@ -8715,7 +8715,7 @@ fortifiers 4
 flaxwench 1
 frumpish
 fosset 1
-fid
+fid 1
 falsifies 2
 frisette 2
 fortifys 1
