@@ -9863,7 +9863,7 @@ chemolysis 1
 cicero 1
 chemolyze 1
 correspondentially
-clamp
+clamp 1
 chemophysiology 2
 chemoprophyalctic
 cycle 1
