@@ -2468,7 +2468,7 @@ clientele
 contuse 3
 crystallitic
 cancrum 2
-cancrums
+cancrums 1
 cand 1
 candelabras
 candelabrum 1
