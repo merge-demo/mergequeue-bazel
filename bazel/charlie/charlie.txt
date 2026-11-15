@@ -14825,7 +14825,7 @@ cytokinetic 2
 captan 1
 cytokinin
 cytol
-coziest
+coziest 1
 conjoined 1
 colins 1
 corries 3
