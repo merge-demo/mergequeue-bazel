@@ -25571,7 +25571,7 @@ corpn 1
 corpora 1
 corporacy 2
 corporacies
-calcic
+calcic 1
 corporalcy 1
 corporale
 corporalism 1
