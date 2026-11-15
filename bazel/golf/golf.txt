@@ -5810,7 +5810,7 @@ gym 3
 grain 3
 goldsmith 3
 gadarene 1
-gloveman 2
+gloveman 3
 gumtrees 2
 growthy 6
 glover 3
