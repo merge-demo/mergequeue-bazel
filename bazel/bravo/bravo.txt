@@ -2346,7 +2346,7 @@ bones 4
 bastinade 1
 biolysis
 belligerency 1
-bachelorlike 1
+bachelorlike 2
 barbula
 bardiness 1
 barbulate 1
