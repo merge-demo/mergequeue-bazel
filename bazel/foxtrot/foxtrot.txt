@@ -6093,7 +6093,7 @@ feak 2
 foretriangle 2
 fleyland 1
 forecome 4
-floush
+floush 1
 focalisation 1
 fouls 2
 foudroyant 3
