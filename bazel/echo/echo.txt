@@ -9966,7 +9966,7 @@ englishize 3
 estuarial 2
 epagogic 4
 eloquently 2
-estuosity
+estuosity 1
 edibleness 2
 endophagy 1
 erythromelalgia 1
