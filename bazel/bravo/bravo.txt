@@ -11447,7 +11447,7 @@ bigeneric 1
 bananalander 2
 bivious 2
 barytones 3
-bolthead
+bolthead 1
 bluetit 1
 bluffly
 bullhoof 1
