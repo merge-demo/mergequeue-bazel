@@ -10259,7 +10259,7 @@ dermoskeleton 7
 distaste 1
 doura 2
 dutch 4
-distruss 2
+distruss 3
 decrepid
 denitrator
 dryops 1
