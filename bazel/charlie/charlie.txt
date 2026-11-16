@@ -8022,7 +8022,7 @@ calfs 1
 chacona
 csects 1
 chaconnes
-caudatolenticular 1
+caudatolenticular 2
 countermovement 1
 cytozoa 2
 codirectional
