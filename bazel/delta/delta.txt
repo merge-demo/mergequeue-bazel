@@ -16615,7 +16615,7 @@ decorates
 dragonish
 drunkeness 2
 dragonroot 2
-dilutant 1
+dilutant 2
 detesting 3
 dragonwort
 dabber 1
