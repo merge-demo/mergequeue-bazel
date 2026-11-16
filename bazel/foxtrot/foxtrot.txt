@@ -2247,7 +2247,7 @@ femora 3
 fatil 2
 fain 3
 fenced
-fencelessness 1
+fencelessness 2
 forkiest 1
 fengite 3
 fanout 3
