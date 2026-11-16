@@ -2604,7 +2604,7 @@ decoct 1
 demiquaver
 dashes
 decocting 4
-decoctive
+decoctive 1
 deaminizing 2
 demishirt
 decoctum
