@@ -18276,7 +18276,7 @@ bencher 2
 butterworker 1
 broadaxe 1
 boulimy 3
-buttgenbachite 1
+buttgenbachite 2
 bolimba 2
 boomeranging 2
 burrowing 1
