@@ -8316,7 +8316,7 @@ bise 4
 biventral 1
 buttonholing 1
 biggish
-bayadeer
+bayadeer 1
 bepelt 3
 bigheaded 1
 blastostylar 5
