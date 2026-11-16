@@ -6780,7 +6780,7 @@ genericness 5
 gamelang 4
 ganam 4
 gamgee 4
-gratias 2
+gratias 3
 gobbe 1
 gud 2
 glossospasm 3
