@@ -3454,7 +3454,7 @@ addicent 1
 antiknocks 2
 addictedness
 addicting
-adaptedness
+adaptedness 1
 aix 1
 antirealistically 3
 addictions
