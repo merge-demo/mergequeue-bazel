@@ -4570,7 +4570,7 @@ fort 3
 fouldre 1
 familiarness 2
 fratricide 4
-fainaigued
+fainaigued 1
 fisting 1
 faithfulness
 flattest 2
