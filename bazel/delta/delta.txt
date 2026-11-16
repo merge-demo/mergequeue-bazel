@@ -2549,7 +2549,7 @@ daneworts 2
 diplococcus 1
 declaring 1
 dwined
-declasses
+declasses 1
 dorn
 disjudication 2
 declass 1
