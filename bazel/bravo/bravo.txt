@@ -14887,7 +14887,7 @@ breaking
 busera 4
 barkeep 1
 breakings 1
-bovicide
+bovicide 1
 breaklist
 buttercup
 belis
