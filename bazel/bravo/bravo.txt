@@ -10656,7 +10656,7 @@ blearyeyedness
 bevel 1
 blindly 2
 brotulid 4
-begarnish
+begarnish 1
 blearing 1
 blearness
 balarao
