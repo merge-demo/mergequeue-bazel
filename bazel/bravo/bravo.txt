@@ -7848,7 +7848,7 @@ benamed 2
 biblicality 1
 biblicism 3
 biblicopsychological 3
-biblike
+biblike 1
 berinse 1
 bombs 3
 bibliofilm 2
