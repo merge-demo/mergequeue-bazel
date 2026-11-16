@@ -6686,7 +6686,7 @@ fairways 2
 fogdom
 fogfruit 4
 fibrins 2
-fruiteress 1
+fruiteress 2
 flatterable 6
 flintlock 4
 flexura 7
