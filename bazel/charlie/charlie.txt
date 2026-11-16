@@ -1941,7 +1941,7 @@ cotterite
 constant
 camelopardus 1
 cloghad
-counterflashing 1
+counterflashing 2
 camelry 2
 camelus 2
 castalia
