@@ -7965,7 +7965,7 @@ gaboons
 galvanotaxis 1
 glossina 1
 goniatitid 3
-gynecologic 4
+gynecologic 5
 getups 1
 grippy 1
 glandiform 3
