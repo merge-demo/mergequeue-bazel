@@ -5094,7 +5094,7 @@ describing 4
 disenabling 3
 deadrise 1
 dendrocygna 1
-discomfit 3
+discomfit 4
 dedimus 1
 dispone 3
 dissipated 1
