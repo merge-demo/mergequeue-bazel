@@ -9612,7 +9612,7 @@ derives 4
 deil 2
 deadline 1
 drayed 2
-differentiating
+differentiating 1
 deepmost
 dihedron
 dhootie 1
