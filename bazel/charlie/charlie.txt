@@ -1576,7 +1576,7 @@ chaplanry 3
 cartographer 1
 callo 2
 crawlway
-cyders
+cyders 1
 commonwealthism 1
 cuddle 1
 circumundulate
