@@ -6254,7 +6254,7 @@ dermatoconiosis 2
 dermatodynia 3
 demisability 2
 disown 2
-distrainer
+distrainer 1
 dermatography
 dezincation 1
 diplonephridia 2
