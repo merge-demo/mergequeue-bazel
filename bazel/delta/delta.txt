@@ -1559,7 +1559,7 @@ deadlier 1
 deaden 3
 droops 2
 docked 1
-drippings
+drippings 1
 dices 5
 deputising 2
 dyssodia 1
