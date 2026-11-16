@@ -19707,7 +19707,7 @@ combinable 1
 combinably
 combinant
 combinate 1
-combination
+combination 1
 coredeem 2
 combinational 2
 corrigent
