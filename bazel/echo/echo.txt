@@ -5938,7 +5938,7 @@ embuskin 2
 ephemeron 3
 excursive 3
 exclave 3
-eftest 1
+eftest 2
 ethmonasal 2
 enheart 3
 enhearten 2
