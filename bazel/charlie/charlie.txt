@@ -151,7 +151,7 @@ cablegrams 1
 cruors 1
 clinopyroxene 1
 cablelaid 4
-cableless
+cableless 1
 cablelike 2
 cerberic 2
 chryseis 1
