@@ -4102,7 +4102,7 @@ biassing 2
 ballistics
 baroclinicity 1
 blamableness 2
-bicompact
+bicompact 1
 brachiopode 2
 bodysurfs 1
 bowmaking 4
