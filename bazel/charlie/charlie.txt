@@ -1308,7 +1308,7 @@ compulsatory
 calibers
 colunar 2
 calibrated
-calibrater 1
+calibrater 2
 calibrates 2
 cloison 1
 catchwater
