@@ -5116,7 +5116,7 @@ endochorion 1
 endochorionic
 engrains 3
 elatha 2
-endocyst
+endocyst 1
 epodic 3
 enucleate 2
 experted 2
