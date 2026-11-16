@@ -24471,7 +24471,7 @@ copps 3
 coelogyne 1
 candles 2
 chlorosis
-copa
+copa 1
 copable
 carrs 1
 carphophis
