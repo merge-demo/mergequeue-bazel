@@ -21525,7 +21525,7 @@ cardsharping
 comblike
 concretor 3
 climes
-cupuliform
+cupuliform 1
 cubital 1
 cupromanganese
 concubinary 3
