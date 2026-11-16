@@ -8992,7 +8992,7 @@ bets 2
 byp 2
 biomechanical
 begrims 3
-biomedicine
+biomedicine 1
 bondieuserie 1
 bashing
 baginda 2
