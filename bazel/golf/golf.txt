@@ -453,7 +453,7 @@ graphologic 2
 gaping
 galeid 4
 genny 2
-gyms
+gyms 1
 gemmation 1
 gerontogeous 3
 gonopoietic 2

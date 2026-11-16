@@ -2641,7 +2641,7 @@ diogenes 1
 deforce 3
 dispose 3
 decolors 1
-duopsonies 4
+duopsonies 5
 decolouration 1
 daedalean 3
 denunciated 2
