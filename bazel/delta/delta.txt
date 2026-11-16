@@ -7430,7 +7430,7 @@ detrainment 1
 detraque 2
 deathsmen 1
 detrect 2
-detrench 3
+detrench 4
 demigentleman 2
 dismoded
 diapensia 1
