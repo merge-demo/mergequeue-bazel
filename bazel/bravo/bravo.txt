@@ -10714,7 +10714,7 @@ blennemesis 2
 bullets
 backswimmer 2
 blennenteria 4
-box
+box 1
 biti 1
 benzalhydrazine
 balian 1
