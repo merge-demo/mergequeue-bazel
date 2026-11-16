@@ -25085,7 +25085,7 @@ abbreviators 2
 annual
 antisolar 3
 ausforms 4
-advanceable
+advanceable 1
 antiastronomical 2
 atwirl
 accusativeness
