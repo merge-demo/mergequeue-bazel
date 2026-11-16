@@ -24617,7 +24617,7 @@ copyreader
 copyreaders
 caudalward 1
 copyreading
-curiosos 2
+curiosos 3
 copyrightable 2
 copyrighter
 copis
