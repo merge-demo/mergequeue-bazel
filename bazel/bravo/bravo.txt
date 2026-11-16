@@ -13917,7 +13917,7 @@ behavior 2
 bowtell 1
 barographic 2
 backpointer 1
-byspell 3
+byspell 4
 broadened
 bargelli
 belugas 1
