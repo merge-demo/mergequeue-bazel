@@ -5543,7 +5543,7 @@ germinally 7
 gangplanks 3
 glycidol 4
 gorsier 1
-gowning
+gowning 1
 gad 6
 grumbles 4
 gamecocks
