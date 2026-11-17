@@ -220,7 +220,7 @@ exoticalness 1
 edaphodont 2
 empetrous 3
 eluvium 4
-echogram
+echogram 1
 europeanization 5
 euripupi 2
 ebriate 2
