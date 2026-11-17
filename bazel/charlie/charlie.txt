@@ -19958,7 +19958,7 @@ commandos 1
 colove 2
 cheery
 cofferlike
-commandry 2
+commandry 3
 cachinnated
 caudata
 commark 4
