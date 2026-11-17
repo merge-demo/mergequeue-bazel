@@ -2886,7 +2886,7 @@ daedalist
 devotions 1
 drepanis 1
 deuteroscopic 5
-discernment
+discernment 1
 deluded 2
 dronet 1
 dinoceratid 2
