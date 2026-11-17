@@ -4750,7 +4750,7 @@ blackseed 3
 bord 1
 burbled 1
 bedmate
-bogey
+bogey 1
 biz 3
 bedouins 1
 bauckiebird 1
