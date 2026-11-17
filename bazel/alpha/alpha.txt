@@ -20500,7 +20500,7 @@ arterioloscleroses 1
 anoxybiosis
 arteriolosclerosis 1
 afaint 3
-acrid 1
+acrid 2
 arteriomalacia 1
 autoagglutinin 1
 ascertainment

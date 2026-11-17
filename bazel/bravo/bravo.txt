@@ -10206,7 +10206,7 @@ breads 2
 britany
 blackjacks 4
 bootstraps 2
-bondhold
+bondhold 1
 bloodletter
 belshazzar 3
 blackleg 3
