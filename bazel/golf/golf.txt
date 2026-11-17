@@ -8324,7 +8324,7 @@ gazelle 2
 glaucodot 5
 gilenyer 2
 greenslade 2
-gracefulness
+gracefulness 1
 greyer 1
 gau 3
 glucuronidase 3
