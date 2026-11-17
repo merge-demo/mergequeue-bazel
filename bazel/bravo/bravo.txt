@@ -10092,7 +10092,7 @@ behave 1
 blackamoors
 blair 3
 blackbine 1
-befrets 2
+befrets 3
 blackback 3
 beadles 3
 blackballed 2
