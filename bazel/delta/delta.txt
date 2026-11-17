@@ -2521,7 +2521,7 @@ dove 2
 dubonnet 4
 deactivating 1
 declarations 1
-declarative
+declarative 1
 deligation 3
 demieagle 3
 discomorula 1
