@@ -15635,7 +15635,7 @@ anandrous 2
 archangels 2
 antinome
 arblast
-antinomical
+antinomical 1
 archmagician 1
 ailment 4
 acoustics
