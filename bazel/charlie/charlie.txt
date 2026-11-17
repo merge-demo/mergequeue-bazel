@@ -16114,7 +16114,7 @@ cliffs
 creators
 calamints 1
 cliffside 2
-cliffsman
+cliffsman 1
 cliffweed
 clift
 clifty
