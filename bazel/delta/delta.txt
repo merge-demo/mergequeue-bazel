@@ -18090,7 +18090,7 @@ dandriffs 3
 dumbest 1
 draftage 2
 dumbfounderment 2
-dumbfounding
+dumbfounding 1
 denatures
 discourageable 2
 despisers 3
