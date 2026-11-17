@@ -10841,7 +10841,7 @@ fontanels 3
 flamefish 2
 furoin 2
 fishpool 2
-forficate 2
+forficate 3
 flaminian 5
 fortified 4
 fumblingly 2
