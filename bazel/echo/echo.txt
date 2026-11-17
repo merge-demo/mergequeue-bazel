@@ -3172,7 +3172,7 @@ ectotropic 3
 embalms 4
 eloise 2
 epidermidalization 1
-exocoelom
+exocoelom 1
 epigonousepigons 4
 entheasm 1
 euphenics 1
