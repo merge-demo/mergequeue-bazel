@@ -30427,7 +30427,7 @@ crutter
 cowhands 2
 crabhole
 crux
-cruxes
+cruxes 1
 chorizontes 3
 cruzado
 chelicere 3
