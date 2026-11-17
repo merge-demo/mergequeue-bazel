@@ -2817,7 +2817,7 @@ airworthier 1
 armorproof 3
 atonics
 acquiesced
-archostenosis
+archostenosis 1
 autocamping
 acromicria 1
 antimeres
