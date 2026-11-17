@@ -3265,7 +3265,7 @@ deferrize 1
 disturbative 1
 densen 1
 deferrized 2
-disauthenticate
+disauthenticate 1
 dentilingual 2
 dullsome 5
 disjects
