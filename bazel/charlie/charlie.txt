@@ -22876,7 +22876,7 @@ climatologist 1
 conservatorium 1
 crystograph 2
 conservators
-conservatorship
+conservatorship 1
 carpings 3
 coordinator 1
 conserve 1
