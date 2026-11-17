@@ -2068,7 +2068,7 @@ dimedon 3
 downgate
 debilities
 decaying
-diopsimeter 2
+diopsimeter 3
 diety 2
 dummy 1
 defaced 1
