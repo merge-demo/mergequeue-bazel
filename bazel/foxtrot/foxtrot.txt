@@ -10481,7 +10481,7 @@ fluitant 5
 fatness 5
 frutescent 6
 frostings 1
-fanzine
+fanzine 1
 finises 4
 fervencies 3
 floggable 4
