@@ -7234,7 +7234,7 @@ bestrides 2
 boondock 1
 bestrown 1
 bathochromatic
-barbarity
+barbarity 1
 ballplayers 2
 bimanual 1
 bipartible 1
