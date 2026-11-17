@@ -10504,7 +10504,7 @@ adscript 2
 amidins
 arret 1
 amidism
-acridid
+acridid 1
 armenians 1
 astronautically
 adfrozen 1
