@@ -5036,7 +5036,7 @@ flatbeds 3
 flanneling
 fungoidal 3
 forepaw 2
-ferries 2
+ferries 3
 fizz 2
 forekeel
 faithbreaker 1
