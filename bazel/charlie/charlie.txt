@@ -20483,7 +20483,7 @@ chapin 3
 celticist 1
 compass
 compassability 1
-compassable
+compassable 1
 compassed
 cotham 1
 cobwebbiest 2
