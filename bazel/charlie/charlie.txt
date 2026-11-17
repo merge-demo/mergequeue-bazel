@@ -21969,7 +21969,7 @@ configurations
 configurative 1
 configure 1
 configures 2
-coxcombry 1
+coxcombry 2
 confinable
 confine 1
 comports 2
