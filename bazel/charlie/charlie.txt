@@ -25331,7 +25331,7 @@ ce 1
 coldbloodedness 2
 corncutter 1
 corndodger
-cornea 1
+cornea 2
 corneal 2
 corneas
 cheddaring 1
