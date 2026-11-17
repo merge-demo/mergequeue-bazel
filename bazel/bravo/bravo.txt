@@ -2506,7 +2506,7 @@ boccia 3
 blueblack
 beslash 1
 bassetite 1
-bottonhook 2
+bottonhook 3
 barguest
 barguests 2
 buzylene
