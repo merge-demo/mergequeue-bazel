@@ -1669,7 +1669,7 @@ ethylenes 3
 epiphloedal 3
 electromerism 4
 electrotaxis 4
-emigr 4
+emigr 5
 ejusdem 2
 eyeish 3
 eisteddfodic 1
