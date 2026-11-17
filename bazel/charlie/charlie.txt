@@ -3600,7 +3600,7 @@ colorist 1
 chauri
 carabine 1
 carabiner
-carabineros
+carabineros 1
 claik 1
 carabines 1
 coprahs 1
