@@ -16486,7 +16486,7 @@ dracontic 1
 dwellings 1
 dairywoman 2
 detached
-disagreeables
+disagreeables 1
 dracontium 2
 disfavouring
 diastole 2
