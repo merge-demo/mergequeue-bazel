@@ -3613,7 +3613,7 @@ desulphurizer 1
 diagrammatize 1
 diodont 3
 docosane 1
-deprecatorily
+deprecatorily 1
 dragonhead 2
 degenerately
 degenerateness 2
