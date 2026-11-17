@@ -15668,7 +15668,7 @@ dopchick 1
 dopebook 3
 demonstrator 4
 discased 1
-distemperance
+distemperance 1
 dopey 2
 decrements 1
 doper
