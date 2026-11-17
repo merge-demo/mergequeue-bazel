@@ -13846,7 +13846,7 @@ equivocation 1
 evaporize 1
 ethionic 1
 ellasar 1
-extractability
+extractability 1
 eluated 3
 enmities 3
 eyestrings
