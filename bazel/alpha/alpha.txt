@@ -17121,7 +17121,7 @@ achiever 1
 avocets 3
 anisochromia
 apogeotropism 1
-apogon
+apogon 1
 afterfuture
 apogonid
 afterdrain
