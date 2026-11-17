@@ -8538,7 +8538,7 @@ copybook
 chancellors 1
 califates
 chancellorship
-chancellorships
+chancellorships 1
 capillaire 2
 calathidium
 chancels 3
