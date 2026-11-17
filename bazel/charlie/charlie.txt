@@ -31294,7 +31294,7 @@ curbline
 curbs
 curbside
 curbstone
-curbstoner 1
+curbstoner 2
 curcas 1
 curch 1
 curculio
