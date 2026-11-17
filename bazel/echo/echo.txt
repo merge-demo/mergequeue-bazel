@@ -5233,7 +5233,7 @@ eluviums 7
 exitus 2
 elusive 3
 endolysin 2
-eparchy
+eparchy 1
 eretrian 1
 equipluve 3
 equilibrate 3
