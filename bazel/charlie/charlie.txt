@@ -99,7 +99,7 @@ cabbled 1
 cabbler 2
 chars 1
 cabdriving 1
-corydora
+corydora 1
 cabecudo
 capellet 1
 cabeliau 4
