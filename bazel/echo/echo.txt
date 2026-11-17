@@ -10832,7 +10832,7 @@ exemplars 2
 enoptromancy 2
 explodes 2
 engine 1
-electrocuting 2
+electrocuting 3
 execrates 1
 etherealising 1
 eupepticity 1
