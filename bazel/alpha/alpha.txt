@@ -16275,7 +16275,7 @@ antithetic 2
 achropsia 1
 antithyroid 1
 anilid 2
-antitintinnabularian
+antitintinnabularian 1
 antitypal
 antityphoid
 amaroid 1
