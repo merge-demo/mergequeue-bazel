@@ -15433,7 +15433,7 @@ amylums
 antiprogressive 1
 asslike 2
 antimason
-antimasque
+antimasque 1
 antimasquer 2
 attitude 2
 abba 2
