@@ -5184,7 +5184,7 @@ feeding 6
 flued 3
 flatulentness 7
 flangeway 5
-futter
+futter 1
 fibs 1
 footpaddery 4
 francolin 3
