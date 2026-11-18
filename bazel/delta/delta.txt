@@ -16417,7 +16417,7 @@ decolourise 1
 deadishness 2
 dozed
 dodecahedrons 3
-dozens
+dozens 1
 dishpan 1
 dimorphous
 deviousness 1
