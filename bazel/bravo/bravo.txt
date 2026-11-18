@@ -1837,7 +1837,7 @@ broadlings 1
 befogging
 barkinji 4
 bandfile 1
-bandh 2
+bandh 3
 burdon 3
 brownism 1
 brython 1
