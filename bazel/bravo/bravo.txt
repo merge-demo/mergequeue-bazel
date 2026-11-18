@@ -8702,7 +8702,7 @@ bottomry 3
 backlashed 4
 brule 2
 barhopping 2
-bimetals
+bimetals 1
 bolsters 2
 bullishness 2
 babyfied
