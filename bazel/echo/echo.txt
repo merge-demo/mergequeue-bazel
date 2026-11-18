@@ -11430,7 +11430,7 @@ expenditor 2
 encephalosis 1
 edgebone 2
 ependymary 4
-everted
+everted 1
 euouae 2
 eli 1
 exhaustion 2
