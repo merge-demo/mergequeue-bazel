@@ -26721,7 +26721,7 @@ counteravouchment 1
 counterbalanced
 crackerjack
 counterbarrage
-checkmark
+checkmark 1
 cardiotomy 2
 carromatas 1
 cars
