@@ -13228,7 +13228,7 @@ coulometric 1
 crossrail
 cycloaliphatic 2
 cycloalkane 1
-cyclobothra 1
+cyclobothra 2
 carmakers
 cyclobutane 4
 constableship 1
