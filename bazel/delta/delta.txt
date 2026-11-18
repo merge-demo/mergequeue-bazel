@@ -8023,7 +8023,7 @@ drouthiest 2
 dezincs
 damageable 4
 dft 3
-dysthymic
+dysthymic 1
 dialects 1
 defences
 derbylite 3
