@@ -19668,7 +19668,7 @@ coquilla 2
 camarilla
 copintank 2
 catogene
-claptrap 2
+claptrap 3
 chemisorption
 clefts 4
 comatiks 1
