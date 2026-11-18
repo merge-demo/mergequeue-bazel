@@ -11573,7 +11573,7 @@ cholecystenterostomy 2
 cholecystgastrostomy 1
 carburisation 1
 cholecystic 1
-cholecystis
+cholecystis 1
 complimenting 1
 cholecystitis
 cozies
