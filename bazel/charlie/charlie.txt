@@ -6396,7 +6396,7 @@ cribbers 2
 cilantro 1
 cautery
 cauteries 1
-cauterisation 1
+cauterisation 2
 couche 2
 cauterise 1
 collision
