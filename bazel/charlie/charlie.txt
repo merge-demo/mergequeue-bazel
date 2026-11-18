@@ -15844,7 +15844,7 @@ crusilee
 coremaker 1
 clamb
 cleche 1
-capacitance
+capacitance 1
 clechee 1
 constants 1
 cleck
