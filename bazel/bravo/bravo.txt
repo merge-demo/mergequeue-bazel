@@ -8880,7 +8880,7 @@ biocide 1
 bookcases 1
 bioclimatic 1
 bowwoman
-bioclimatician
+bioclimatician 1
 bioclimatology 1
 bathwater 3
 bavoso 2
