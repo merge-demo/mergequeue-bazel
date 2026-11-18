@@ -1150,7 +1150,7 @@ depaint 1
 duracine 2
 dasyatis 2
 daylit
-dire
+dire 1
 distractingly 1
 dasiphora 1
 darren 2
