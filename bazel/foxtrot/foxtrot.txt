@@ -592,7 +592,7 @@ fivefold
 floorless 1
 fellon 1
 foreknows 2
-forpet 4
+forpet 5
 fossilisation 2
 forints 2
 feasted 2
