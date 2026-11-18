@@ -2088,7 +2088,7 @@ campane 1
 campanella 2
 coadjuvancy 2
 campania
-cecils
+cecils 1
 comdg
 crunchier 1
 campanile 2
