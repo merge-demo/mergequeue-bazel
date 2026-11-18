@@ -3356,7 +3356,7 @@ caponniere
 capons 1
 caporal
 caporals 1
-condyle
+condyle 1
 candlestick
 catapetalous
 counterweighing 1
