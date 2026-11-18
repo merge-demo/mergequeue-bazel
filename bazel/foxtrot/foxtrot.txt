@@ -295,7 +295,7 @@ fragmentisation 1
 flanks 1
 fraenums 2
 forebar 2
-fistnotes
+fistnotes 1
 flambeed 4
 floosies 3
 frappeing 1
