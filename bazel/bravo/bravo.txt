@@ -7438,7 +7438,7 @@ bushelled 4
 baldnesses 2
 bettermost 1
 bedeviling 1
-bulbar
+bulbar 1
 bebeerine 3
 bifidities 1
 brew 1
