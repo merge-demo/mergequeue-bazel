@@ -16526,7 +16526,7 @@ aortic 1
 augelite 2
 amurcous 3
 analyzers 3
-aortomalaxis
+aortomalaxis 1
 arabianize
 alkaptonuria 1
 antichoromanic
