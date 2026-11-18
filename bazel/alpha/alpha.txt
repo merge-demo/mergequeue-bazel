@@ -19940,7 +19940,7 @@ ammine 2
 armour 1
 armourbearer 3
 anaematosis 2
-aristogenics
+aristogenics 1
 avalanched 1
 arbitrageur 1
 aesture
