@@ -2687,7 +2687,7 @@ electrotechnician 3
 exports
 eogaean 1
 enfant 3
-extendibility
+extendibility 1
 eudaemonics 3
 engenderment 2
 electrotelegraphy 2
