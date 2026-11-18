@@ -13842,7 +13842,7 @@ denom 1
 displuviate 1
 dross 3
 displaces 1
-donee
+donee 1
 distaves 2
 dern 1
 dioxide
