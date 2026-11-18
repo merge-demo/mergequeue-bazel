@@ -8617,7 +8617,7 @@ forescript 1
 floury 2
 foredid 4
 fir 2
-fittings 1
+fittings 2
 ferretto 6
 flamefishes 2
 fuzzed 4
