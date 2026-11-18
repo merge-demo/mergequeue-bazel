@@ -15313,7 +15313,7 @@ dirling 1
 diospyros 2
 dolphinfish 2
 dolphinlike 1
-decadescent
+decadescent 1
 dolphins 1
 discountenance 2
 diagnostics
