@@ -27235,7 +27235,7 @@ counterweigh
 counterweight
 counterweighted 1
 counterweights 2
-counterwheel
+counterwheel 1
 counterwilling 1
 counterwitness 2
 counterwork
