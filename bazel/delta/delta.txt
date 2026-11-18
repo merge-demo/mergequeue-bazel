@@ -8656,7 +8656,7 @@ doomlike 1
 delfs 1
 diascope
 domed 1
-distracted 1
+distracted 2
 didactyl 2
 dissection 1
 dyassic
