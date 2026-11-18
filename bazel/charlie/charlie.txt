@@ -11623,7 +11623,7 @@ configurationism
 cholepoietic 1
 cooks
 choler
-cholera
+cholera 1
 counterround
 circumjacent
 choleras
