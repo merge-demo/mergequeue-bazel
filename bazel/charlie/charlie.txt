@@ -2207,7 +2207,7 @@ cornamute
 campo 5
 creedbound 1
 campodeoid 2
-campong 1
+campong 2
 campongs
 convincing 1
 counterclaiming
