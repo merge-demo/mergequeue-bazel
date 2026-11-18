@@ -5999,7 +5999,7 @@ fluidrachm 4
 fidia 4
 fireproof 1
 foliole
-fictioneering 4
+fictioneering 5
 feldsher 1
 fez 2
 floorwise
