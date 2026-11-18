@@ -10150,7 +10150,7 @@ gasohol 2
 grazers 1
 giddyish 2
 gal 3
-gloried
+gloried 1
 glideness 2
 guardianly 4
 git 3
