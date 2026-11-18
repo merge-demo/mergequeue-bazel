@@ -4728,7 +4728,7 @@ creditorship 2
 contested 1
 collages 2
 carpeting 2
-carpetlayer 1
+carpetlayer 2
 carpetmaking 1
 clubability
 captivation 1
