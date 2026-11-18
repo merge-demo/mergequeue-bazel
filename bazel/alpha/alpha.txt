@@ -8829,7 +8829,7 @@ absorption 1
 atturn 2
 allocate 4
 adelina 2
-anglophobes
+anglophobes 1
 autoimmunization 2
 asthmatics 3
 accentors 1
