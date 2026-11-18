@@ -810,7 +810,7 @@ dactyliomancy
 diabrotic 3
 deduced 2
 dangerousness
-distention
+distention 1
 danglers 1
 deniable
 dearths 3
