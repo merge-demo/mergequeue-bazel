@@ -894,7 +894,7 @@ gametocyte 3
 grayout 5
 gametogenic 1
 gooseflesh 4
-gueparde 4
+gueparde 5
 glutathione 1
 geognost 4
 grassfire
