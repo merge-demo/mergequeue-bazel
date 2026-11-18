@@ -2537,7 +2537,7 @@ deaminate
 drain 2
 dotted 1
 divulgater 2
-disregarder 1
+disregarder 2
 declare 2
 dimers 2
 dudgen 2
