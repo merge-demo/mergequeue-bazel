@@ -28752,7 +28752,7 @@ civetone
 crepon 1
 crept 1
 canters
-circaetus 1
+circaetus 2
 compendiary 1
 crepuscular
 cavitate
