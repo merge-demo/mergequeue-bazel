@@ -12903,7 +12903,7 @@ disnew 2
 drachmae 2
 drawspan 1
 delving 1
-deorientalize 2
+deorientalize 3
 disobeying 2
 delineative
 dustiness
