@@ -11913,7 +11913,7 @@ aqueomercurial 3
 allergen
 ananta
 astraea 2
-antimasquerade
+antimasquerade 1
 anticriticalness 1
 altarist 2
 anammonide 3
