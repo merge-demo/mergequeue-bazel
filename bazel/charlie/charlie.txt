@@ -10064,7 +10064,7 @@ campine 1
 cheslep
 coleochaete 1
 crestings 1
-clothesbrush
+clothesbrush 1
 chimney
 chemise
 chesoun
