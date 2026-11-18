@@ -23707,7 +23707,7 @@ aurilave 3
 axial 2
 assyria
 articles 2
-auriphone
+auriphone 1
 auriphrygia 1
 auripigment 2
 aurir 1
