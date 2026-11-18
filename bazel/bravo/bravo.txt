@@ -1812,7 +1812,7 @@ bullose 1
 bialystoker 2
 bandaged 1
 bandaging
-berylloid 4
+berylloid 5
 bowlin 2
 bushranging 1
 bandala 2
