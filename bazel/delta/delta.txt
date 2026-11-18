@@ -3285,7 +3285,7 @@ defibrillated 1
 dominants 1
 dalles
 doty 2
-deteriority
+deteriority 1
 deterging
 dragoons
 drostden 1
