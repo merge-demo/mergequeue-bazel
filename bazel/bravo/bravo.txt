@@ -13727,7 +13727,7 @@ balneatory 2
 boutefeu 1
 bouteria 1
 buns
-boutylka
+boutylka 1
 boutique 2
 beachfront
 bouto 1
