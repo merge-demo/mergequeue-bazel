@@ -2117,7 +2117,7 @@ duddies 3
 despoilment 2
 decameron 4
 digraph
-decamethonium
+decamethonium 1
 decametric 2
 decanal 2
 decancellate 1
