@@ -5788,7 +5788,7 @@ fribble 4
 family 5
 fevertwig 5
 flambee 1
-frett 1
+frett 2
 facemaker 1
 fv 6
 forestside 3
