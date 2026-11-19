@@ -18964,7 +18964,7 @@ collations 1
 cesti 3
 collatitious
 cloine 1
-ceste 1
+ceste 2
 chickahominy 2
 catouse
 collator
