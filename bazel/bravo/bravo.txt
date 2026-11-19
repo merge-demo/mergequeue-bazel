@@ -1827,7 +1827,7 @@ betula 2
 bancus
 backstabber 1
 bandelette 1
-banderma 2
+banderma 3
 banderol 2
 banderole 1
 bindings 3
