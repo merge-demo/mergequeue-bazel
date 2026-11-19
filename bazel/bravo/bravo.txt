@@ -7326,7 +7326,7 @@ bigly 1
 bugi 1
 bethesda 3
 beneplacit 2
-biangular
+biangular 1
 boatels
 babirussa 1
 bootstrap
