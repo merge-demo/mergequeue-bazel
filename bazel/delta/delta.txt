@@ -7881,7 +7881,7 @@ dispenser 7
 dihydrogen 2
 dewberries 1
 dewcap 2
-disbudder 3
+disbudder 4
 devocalised 7
 driveways 4
 dewclaws
