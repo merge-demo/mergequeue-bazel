@@ -1067,7 +1067,7 @@ fiberboard 3
 ferriages 1
 frontons 2
 farrage 3
-ferroelectricity 2
+ferroelectricity 3
 furziest 3
 farrago 2
 franchisement 3
