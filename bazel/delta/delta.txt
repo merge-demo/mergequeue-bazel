@@ -5198,7 +5198,7 @@ doctrinalist 1
 dartoic 2
 debone 4
 dyings 1
-daemon
+daemon 1
 doghole 2
 decephalization 3
 deathly
