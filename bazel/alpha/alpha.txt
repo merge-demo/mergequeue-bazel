@@ -8203,7 +8203,7 @@ aln 1
 alterne 1
 ahush
 antarctalia 1
-alias
+alias 1
 aleutians 1
 assassins 2
 amora 1
