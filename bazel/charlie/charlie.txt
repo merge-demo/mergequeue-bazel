@@ -31293,7 +31293,7 @@ cotonam
 curbline
 curbs
 curbside
-curbstone
+curbstone 1
 curbstoner 1
 curcas 1
 curch 1
