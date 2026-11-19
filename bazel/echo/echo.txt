@@ -6334,7 +6334,7 @@ embowed 2
 enrut 2
 euclidean 2
 ens 1
-emmenagogue 2
+emmenagogue 3
 elenchtic 4
 ensanguine 3
 eloquent
