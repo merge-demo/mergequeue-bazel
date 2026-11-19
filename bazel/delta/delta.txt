@@ -5811,7 +5811,7 @@ discouragement 3
 dissuade 3
 deposit 1
 divine 2
-diamondwork 1
+diamondwork 2
 depositation 1
 dartlike 1
 disgorgement 2
