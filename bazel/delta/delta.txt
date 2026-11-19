@@ -6633,7 +6633,7 @@ demerol 1
 deperming 3
 dreamwhile 1
 desert 4
-darkroom 2
+darkroom 3
 deescalated 2
 deacidification 1
 denotational
