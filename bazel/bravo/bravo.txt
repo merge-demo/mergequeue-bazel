@@ -15184,7 +15184,7 @@ blancs 4
 barbiturate 2
 batwa 1
 brightsmith 3
-brotherliness
+brotherliness 1
 bribing
 buzziest 1
 bellowsmaker 1
