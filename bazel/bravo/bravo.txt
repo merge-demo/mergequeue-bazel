@@ -12776,7 +12776,7 @@ bookstall 1
 baudekin 5
 bookstand 1
 blemisher 4
-bookstores 1
+bookstores 2
 biforked
 bigaroon 2
 bucolic 2
