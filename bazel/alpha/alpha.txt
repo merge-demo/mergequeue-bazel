@@ -3541,7 +3541,7 @@ albertype
 anareta 1
 avaradrano 1
 addrest 1
-astricts
+astricts 1
 adduced 2
 aragonese
 adducer 1
