@@ -5116,7 +5116,7 @@ drakes
 degrade 3
 duplicating 3
 dendrohyrax 1
-deneutralization
+deneutralization 1
 dacryoadenalgia 3
 dendrolater 2
 desexes 2
