@@ -3142,7 +3142,7 @@ crocked 2
 capelins 2
 capella 3
 coatimondie 1
-closemouth
+closemouth 1
 caper
 caperbush 2
 capercaillie
