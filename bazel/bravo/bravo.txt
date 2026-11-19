@@ -14073,7 +14073,7 @@ boffin 1
 brachydont 3
 brachydontism 2
 brachyfacial 3
-brachyglossal 3
+brachyglossal 4
 blase 2
 burgul 2
 baring
