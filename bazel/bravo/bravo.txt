@@ -4794,7 +4794,7 @@ backpedaled 2
 burriest 4
 bougee 3
 bedroll 4
-bedrooms 2
+bedrooms 3
 bruckle 2
 bandicoots 3
 bedrugged 6
