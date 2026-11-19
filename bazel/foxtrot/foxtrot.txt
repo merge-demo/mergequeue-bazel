@@ -634,7 +634,7 @@ flyways
 flagmen 1
 falsity 3
 faltboat 2
-flugelmen 1
+flugelmen 2
 faltere 1
 flavored 3
 frequenter 1
