@@ -18371,7 +18371,7 @@ blawort 2
 bortsch 2
 bepaint 3
 buzz 3
-buzzard
+buzzard 1
 beylical 1
 beasts 1
 bluebook 2
