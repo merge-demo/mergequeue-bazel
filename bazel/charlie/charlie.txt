@@ -2555,7 +2555,7 @@ casework 1
 collaborated
 candleshine
 chaucerism 2
-candleshrift
+candleshrift 1
 capitalizations
 cecidiology
 committeewoman 2
