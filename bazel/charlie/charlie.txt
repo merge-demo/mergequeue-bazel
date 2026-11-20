@@ -19343,7 +19343,7 @@ craniotabes
 carousing 1
 cerotic
 checkstone
-color
+color 1
 creational
 cycadaceous 2
 chinchier
