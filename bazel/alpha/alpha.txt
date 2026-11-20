@@ -5198,7 +5198,7 @@ affected 3
 adorners
 affectibility 2
 affecting 2
-aerophore
+aerophore 1
 archinformer 1
 antitangent 2
 autopoint 1
