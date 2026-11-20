@@ -822,7 +822,7 @@ enwrite 3
 epizoa 1
 erythrinidae 2
 eral 3
-excrescent
+excrescent 1
 extremest
 extradecretal 3
 encrust 1
