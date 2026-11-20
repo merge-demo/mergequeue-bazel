@@ -587,7 +587,7 @@ faufel
 forlornity 2
 fallowist 2
 fardh 3
-forerunners
+forerunners 1
 fivefold
 floorless 1
 fellon 1
