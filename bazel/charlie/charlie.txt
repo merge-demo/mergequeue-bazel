@@ -16574,7 +16574,7 @@ cloner
 clanning
 caps 1
 collateralize
-contraparallelogram
+contraparallelogram 1
 complicities 1
 clonic 1
 clonicity
