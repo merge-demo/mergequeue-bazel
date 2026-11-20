@@ -2081,7 +2081,7 @@ conli 2
 campaign 1
 clotheshorses 1
 campaigners 3
-campaigns 1
+campaigns 2
 colostric 1
 campana 1
 campane 1
