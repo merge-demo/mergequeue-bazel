@@ -4767,7 +4767,7 @@ bedrabbling 1
 bauds
 bedrails 1
 binnacle 2
-bedral 3
+bedral 4
 bedraping
 bedread 1
 bedrench 2
