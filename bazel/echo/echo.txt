@@ -1050,7 +1050,7 @@ etchareottine
 excisable 3
 eyeless 2
 endoskeleton 2
-eqpt
+eqpt 1
 edgar 2
 expatiatory 3
 edgeboned 4
