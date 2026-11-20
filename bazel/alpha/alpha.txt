@@ -12206,7 +12206,7 @@ ancestorially
 alcoholisation
 ancestral
 antlerite 1
-ancestry
+ancestry 1
 autocue 3
 astronautical 4
 allodge
