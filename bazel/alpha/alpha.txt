@@ -15134,7 +15134,7 @@ antiejaculation 1
 alterants 1
 allotrope 2
 apsidal
-acrothoracica
+acrothoracica 1
 antiemetic 1
 antiempiric 3
 apothecia 3
