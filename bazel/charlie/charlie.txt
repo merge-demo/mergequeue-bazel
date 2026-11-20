@@ -7305,7 +7305,7 @@ crossroads
 cepes 2
 civ 1
 conchitis 1
-clincher
+clincher 1
 commercer 1
 constitution
 conicity 1
