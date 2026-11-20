@@ -15027,7 +15027,7 @@ breeder 1
 breakneck 3
 barhops 2
 breeders 2
-breedy
+breedy 1
 byzantian 1
 brunneous 2
 bepillared 1
