@@ -28678,7 +28678,7 @@ coloniser 2
 candlewicking 1
 contaminates 2
 constitutes
-corone
+corone 1
 crenelations 1
 coplanar 5
 convergently
