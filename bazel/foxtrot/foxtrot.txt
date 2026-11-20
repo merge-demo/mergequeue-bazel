@@ -10924,7 +10924,7 @@ forge 1
 flavone 2
 factorizing
 ferreiro 1
-fub 2
+fub 3
 foehn 2
 flexure 5
 field 2
