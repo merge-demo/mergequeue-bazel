@@ -5574,7 +5574,7 @@ forfault 2
 fallaciously
 filamentar 2
 fiendlike 1
-flaxlike
+flaxlike 1
 folkvangr 3
 flockowner 2
 fossicking 5
