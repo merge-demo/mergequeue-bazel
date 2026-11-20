@@ -9646,7 +9646,7 @@ bigg 1
 borate 3
 bisync
 boolies 1
-bisischiatic
+bisischiatic 1
 bauera 5
 bisk
 bisks 2
