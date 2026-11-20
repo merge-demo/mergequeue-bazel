@@ -1814,7 +1814,7 @@ cannonry 2
 consigneeship 3
 costocentral 1
 cam 1
-ciceronize 1
+ciceronize 2
 coala 1
 crassula
 camaca
