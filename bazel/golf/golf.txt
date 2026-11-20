@@ -335,7 +335,7 @@ gravigrada 3
 galactolipide 4
 graveship 2
 galactometer 5
-gorling 4
+gorling 5
 gaussian 5
 grilses 1
 gleen 2

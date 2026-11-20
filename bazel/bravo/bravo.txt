@@ -8216,7 +8216,7 @@ brothership 3
 bespurt 2
 bulgaric
 biforate
-biforking
+biforking 1
 brombenzyl 1
 browache
 boldin
