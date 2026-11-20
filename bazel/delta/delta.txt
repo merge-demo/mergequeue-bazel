@@ -5076,7 +5076,7 @@ disilicide
 dendraxon 1
 decolorizer 4
 delightsome
-dendriform
+dendriform 1
 dialer 3
 dendritical 2
 deal 2
