@@ -7331,7 +7331,7 @@ diphenylenimide
 detorsion 3
 deashed 1
 disagreed 3
-disvulnerability
+disvulnerability 1
 determiner 1
 diameters 1
 didine
