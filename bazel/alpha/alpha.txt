@@ -10609,7 +10609,7 @@ agnations
 amildar 2
 achordal
 angelicas
-arccosine
+arccosine 1
 avoider
 amylemia 1
 angiospermic 2
