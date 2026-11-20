@@ -7604,7 +7604,7 @@ foredune 3
 freezable 1
 fervors 3
 forril 3
-festino 4
+festino 5
 fatalize 2
 farrier 3
 fossula 3
