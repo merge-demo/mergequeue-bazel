@@ -3922,7 +3922,7 @@ bchs 3
 ballotage 1
 bd
 boracium 2
-buttonholes 1
+buttonholes 2
 butternose 2
 bdellium 3
 bdelliums 2
