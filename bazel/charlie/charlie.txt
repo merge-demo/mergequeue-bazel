@@ -2889,7 +2889,7 @@ congenialize 2
 cant 1
 connectionless 1
 crayfish 1
-cantabank 1
+cantabank 2
 canonic 1
 curatively 1
 cacaos
