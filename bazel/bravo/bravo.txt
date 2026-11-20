@@ -3556,7 +3556,7 @@ beckoning 3
 bridgekeeper 1
 balon
 barricade
-byronish 3
+byronish 4
 brushy 2
 battleground 1
 berkeleyite 2
