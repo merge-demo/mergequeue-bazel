@@ -8168,7 +8168,7 @@ biens 1
 benefice 3
 bathroom 2
 bienvenue 1
-benzotetrazine
+benzotetrazine 1
 bayaderes 1
 burfish 1
 bier 1
