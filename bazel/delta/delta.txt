@@ -8291,7 +8291,7 @@ dependancy
 dynamiting 2
 dagesh
 desonation 2
-digitation
+digitation 1
 doombook 4
 dialyzer 1
 diagrams 3
