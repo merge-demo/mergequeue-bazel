@@ -11323,7 +11323,7 @@ foldless 5
 fps 5
 furfurine 4
 funebrious 2
-faujasite
+faujasite 1
 formals 3
 fuseplug 3
 frailejon 4
