@@ -5833,7 +5833,7 @@ disauthentic 1
 dextrocerebral 2
 depositors 2
 dowel 2
-divestible 2
+divestible 3
 dislimns 3
 dulcitol 1
 dichotomously 1
