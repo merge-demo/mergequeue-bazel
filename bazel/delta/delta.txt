@@ -15782,7 +15782,7 @@ dorr
 doomage 2
 deflorations 1
 dorsa 2
-dentiparous 2
+dentiparous 3
 demountability 3
 dramatizer 1
 diallela 2
