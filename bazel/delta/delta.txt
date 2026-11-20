@@ -16544,7 +16544,7 @@ detergent
 denar 2
 drivebolt 2
 deteriorationist
-duos 4
+duos 5
 daza 3
 disingenuity 1
 draft 3
