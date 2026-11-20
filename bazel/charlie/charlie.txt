@@ -6746,7 +6746,7 @@ cornbin
 ciscos 1
 cribbages 2
 clavecin 1
-celebs
+celebs 1
 celemin 1
 celemines 1
 celery 1
