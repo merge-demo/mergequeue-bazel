@@ -16389,7 +16389,7 @@ dispellable 2
 dogtrotted 4
 downgrowth 1
 deducive
-dultie 1
+dultie 2
 drawtube 1
 doeuvre
 downwind
