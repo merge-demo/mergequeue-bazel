@@ -1123,7 +1123,7 @@ calcioferrite 3
 ceratobranchial
 calcioscheelite 1
 calciovolborthite 1
-calciphylactic
+calciphylactic 1
 calciphylaxis
 cabecera 1
 calciphilia 2
