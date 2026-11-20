@@ -24325,7 +24325,7 @@ autopsical
 agtbasic 2
 adsessor 1
 autopsychoanalysis 2
-autopsychosis
+autopsychosis 1
 autopsied 1
 autopsies 3
 ambrose
