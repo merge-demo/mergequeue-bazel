@@ -180,7 +180,7 @@ guesting 4
 gradgrind 2
 golfer 2
 goaled 1
-gabarit 2
+gabarit 3
 gammacism
 groschen 1
 gavage 3
