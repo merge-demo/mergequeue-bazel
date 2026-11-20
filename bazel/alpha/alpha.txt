@@ -17122,7 +17122,7 @@ avocets 3
 anisochromia
 apogeotropism 1
 apogon
-afterfuture
+afterfuture 1
 apogonid
 afterdrain
 acquirement 1
