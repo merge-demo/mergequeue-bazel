@@ -4009,7 +4009,7 @@ crystalloluminescence 1
 carcinolysin 1
 cycadiform
 carcinological 3
-carcinoma
+carcinoma 1
 carbocyclic 3
 curtesy 1
 carcinomata
