@@ -2707,7 +2707,7 @@ cankerfret
 compiles 1
 calcemia
 cankery 1
-cannoneering 2
+cannoneering 3
 cankerroot 1
 cauponize
 cankers
