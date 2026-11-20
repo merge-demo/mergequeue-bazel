@@ -9579,7 +9579,7 @@ binary 2
 bicapsular 2
 bandlimits 3
 bisectors 5
-bisectrices
+bisectrices 1
 busybodyness
 bullheadedness 2
 bisects
