@@ -3119,7 +3119,7 @@ catercornerways
 clone
 capanna 3
 cystolithectomy 2
-caparison
+caparison 1
 caparisoned
 caparisoning
 caparisons
