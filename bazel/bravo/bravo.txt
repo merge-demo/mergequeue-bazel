@@ -5828,7 +5828,7 @@ belligerents 2
 buildress 1
 boxcar 1
 bullsnake 2
-berseem 4
+berseem 5
 bittock 2
 bribeworthy 2
 baigneuse 3
