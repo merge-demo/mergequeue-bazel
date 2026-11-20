@@ -2721,7 +2721,7 @@ exogastritis 2
 electrotype 2
 entosphenoid 2
 electrotypy
-enolase
+enolase 1
 earwigged 3
 eightyfold 1
 esquamulose 3
