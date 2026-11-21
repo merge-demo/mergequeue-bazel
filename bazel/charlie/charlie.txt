@@ -5320,7 +5320,7 @@ cassock 3
 cleanser 1
 ctenophora 1
 cassocked
-cultures
+cultures 1
 cassocks 1
 chamberlain
 cuspidated
