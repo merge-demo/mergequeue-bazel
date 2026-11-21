@@ -8141,7 +8141,7 @@ gloat 2
 glowflies 2
 granulators
 gripper 1
-gynaecocracy 1
+gynaecocracy 2
 guanidins 3
 gabblers 6
 gnatsnap 5
