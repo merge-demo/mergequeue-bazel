@@ -1287,7 +1287,7 @@ boteroll 2
 beknown 1
 betorcinol 5
 bradycinesia
-biogasses 2
+biogasses 3
 bacao 1
 brochantite 1
 bury
