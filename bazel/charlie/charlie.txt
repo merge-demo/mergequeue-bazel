@@ -14780,7 +14780,7 @@ cytoblast 2
 confidences 2
 cytoblastema 1
 cytoblastemal 1
-caseless
+caseless 1
 conjecturableness
 cytoblastemic 1
 cytoblastemous
