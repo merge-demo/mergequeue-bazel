@@ -4339,7 +4339,7 @@ candier 1
 carica 2
 caricaceae 2
 chenica 1
-caricaceous
+caricaceous 1
 cotemporaneous 1
 cattleya 2
 caricatura 1
