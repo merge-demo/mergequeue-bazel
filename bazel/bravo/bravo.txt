@@ -9943,7 +9943,7 @@ bx 2
 bituminous 1
 bisecting 3
 beryllate 2
-bilinguality 1
+bilinguality 2
 bridleman 1
 burbles
 biases
