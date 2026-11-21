@@ -2283,7 +2283,7 @@ energumen 3
 epitaphist 5
 epilating 3
 elongated 1
-equally
+equally 1
 extemporization 4
 eudiometry 2
 enchantments 3
