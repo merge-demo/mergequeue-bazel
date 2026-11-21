@@ -5586,7 +5586,7 @@ almagests 1
 aftershocks 2
 alexandria 1
 aftersound
-anterevolutional 2
+anterevolutional 3
 afterspring 1
 anatron 1
 anhele 2
