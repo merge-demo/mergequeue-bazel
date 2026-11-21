@@ -2375,7 +2375,7 @@ bemoisten 1
 besplash 1
 bardcraft
 beleve 2
-buckhorn 1
+buckhorn 2
 brabant
 brigandishly 1
 branchling 1
