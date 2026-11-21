@@ -2646,7 +2646,7 @@ genetics 8
 gastrolysis 4
 gudgeoned 8
 glow 2
-garg 1
+garg 2
 germantown 2
 globulicidal 3
 genetika 2
