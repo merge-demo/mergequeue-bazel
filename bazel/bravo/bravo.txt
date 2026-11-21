@@ -2069,7 +2069,7 @@ bronchus
 bcf 2
 baldest 2
 blesses 1
-bannerols
+bannerols 1
 bannisters
 birthmarks 2
 bioflavinoid 2
