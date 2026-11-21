@@ -3699,7 +3699,7 @@ breck
 batterman 3
 bullockman 3
 bindlet 2
-bepinch
+bepinch 1
 baylike 4
 batty
 barny 1
