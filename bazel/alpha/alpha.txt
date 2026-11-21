@@ -24162,7 +24162,7 @@ aborticide 1
 autoimmunity
 alcantara
 appledrone 1
-autoimmunize
+autoimmunize 1
 autoindexing 3
 artificers 2
 autoinfusion 3
