@@ -17735,7 +17735,7 @@ coconuts 1
 cocoon 1
 cocooneries 2
 crockard
-charterable
+charterable 1
 crimeless 2
 creagh 1
 caved 1
