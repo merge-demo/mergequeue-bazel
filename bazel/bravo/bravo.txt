@@ -1191,7 +1191,7 @@ bakemeats 1
 bronchially 4
 bloop 3
 bakeoven 1
-blennostatic 1
+blennostatic 2
 bakeress 1
 besigh 2
 bootloader 1
