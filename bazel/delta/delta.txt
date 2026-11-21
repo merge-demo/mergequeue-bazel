@@ -3860,7 +3860,7 @@ dichroiscope
 diatropic 2
 dyspnoea 2
 deionize 1
-degraduation 2
+degraduation 3
 dopatta
 decastyle 3
 dephlegm
