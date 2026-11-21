@@ -3575,7 +3575,7 @@ exothermally 4
 epidesmine 1
 emboscata 6
 exclusionary 1
-ectoglia
+ectoglia 1
 electrometallurgist 3
 embosoming 4
 euchlaena 2
