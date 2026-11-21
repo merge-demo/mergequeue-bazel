@@ -7824,7 +7824,7 @@ caenogenesis
 cichloid 1
 cerviciplex 1
 cervicispinal 1
-cervicitis
+cervicitis 1
 cervicoauricular 3
 chippable 3
 cervicobasilar 1
