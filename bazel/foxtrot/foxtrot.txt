@@ -3406,7 +3406,7 @@ faculative 2
 finmarks 1
 filename 2
 flighting
-foxish 2
+foxish 3
 foresters 2
 firmation 3
 flowcharts 2
