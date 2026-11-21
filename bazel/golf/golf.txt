@@ -7573,7 +7573,7 @@ geophyte 3
 gamash 2
 gowdnie 1
 goalie 1
-gaspiness 4
+gaspiness 5
 grangeriser 3
 geothlypis 2
 guardless 3
