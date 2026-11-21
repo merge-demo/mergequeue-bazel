@@ -10316,7 +10316,7 @@ ebullitions 4
 exsiccated 3
 ethnocracy 3
 energising
-expendable
+expendable 1
 excogitating 3
 equipostile
 epifocal
