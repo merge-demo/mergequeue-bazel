@@ -3458,7 +3458,7 @@ encolden 1
 embers 3
 estival 7
 enate 2
-epees
+epees 1
 elaeothesium 2
 enginemen 1
 excusative 4
