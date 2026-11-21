@@ -8898,7 +8898,7 @@ biodegradability 2
 biodegradable
 becassocked 1
 beleap 1
-biodegraded 1
+biodegraded 2
 biodegrading 2
 biodynamical 1
 bridoon
