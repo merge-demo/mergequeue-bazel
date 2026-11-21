@@ -6905,7 +6905,7 @@ axillant
 abound
 airscrews 2
 airsheds 2
-afterwisdom
+afterwisdom 1
 asarta 3
 antiptosis 3
 antinationalists
