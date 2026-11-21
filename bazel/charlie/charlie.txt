@@ -16701,7 +16701,7 @@ clothespins 2
 centroplasm 2
 clothespresses 4
 cire 2
-clothiers 2
+clothiers 3
 clothings 1
 catharpin 1
 crimpling
