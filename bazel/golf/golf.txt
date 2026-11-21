@@ -10623,7 +10623,7 @@ gentled 4
 gourmandise 5
 gimmickry 3
 gunshop 2
-gulches
+gulches 1
 gunsmithing 3
 grossification
 grank 4
