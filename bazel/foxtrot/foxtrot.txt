@@ -6720,7 +6720,7 @@ frescoists 3
 fighters 7
 feast 2
 forelegs 2
-fogon 3
+fogon 4
 fogproof 3
 frugally 2
 flaughter 1
