@@ -12837,7 +12837,7 @@ dicotyledon
 devotionally
 dominial 1
 destructor 2
-dam
+dam 1
 dribblets
 democratization 3
 dismasted
