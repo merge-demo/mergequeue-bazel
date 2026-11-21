@@ -19721,7 +19721,7 @@ combinatory
 combinatorial 1
 combinatorially 2
 combinators
-copaiva
+copaiva 1
 combined 1
 ctene
 concertinas 1
