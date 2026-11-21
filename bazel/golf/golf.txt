@@ -8262,7 +8262,7 @@ grammarians 4
 gimp 2
 gospel 4
 ginglyform 1
-grippingness
+grippingness 1
 giardiasis 3
 gre 5
 garamond
