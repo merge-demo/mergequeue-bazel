@@ -5051,7 +5051,7 @@ battlers 1
 blazoned
 bastonet 2
 bowfin 2
-bloodthirst 1
+bloodthirst 2
 befamilied 1
 biogeography 1
 bibracteolate 1
