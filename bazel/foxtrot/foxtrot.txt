@@ -7722,7 +7722,7 @@ fatherland 1
 flyman 1
 feudality 1
 fruggin
-flyeater 2
+flyeater 3
 flaglike 5
 foreknew 1
 fiord 5
