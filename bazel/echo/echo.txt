@@ -594,7 +594,7 @@ emblematize 2
 echoing 2
 exfiltration 1
 echoism 2
-epigeal
+epigeal 1
 enhydros 1
 echometer 2
 echopractic 1
