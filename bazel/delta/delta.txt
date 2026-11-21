@@ -13819,7 +13819,7 @@ denumeration 2
 diatomic 3
 dryers 1
 doable 1
-delphinin
+delphinin 1
 distanceless 1
 distancy 1
 dissimilar 2
