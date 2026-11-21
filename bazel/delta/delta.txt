@@ -11731,7 +11731,7 @@ dockhands 1
 detectable 3
 dyscrasic 2
 demissness 1
-dactylologies
+dactylologies 1
 dimane 1
 decoupage 1
 disco 2
