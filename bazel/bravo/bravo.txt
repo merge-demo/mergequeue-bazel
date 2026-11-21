@@ -8070,7 +8070,7 @@ bicursal 3
 bailments
 bicuspid 3
 bruxism 2
-brast
+brast 1
 burrobrush 2
 bid 2
 bidactylous 3
