@@ -17957,7 +17957,7 @@ bushlike
 beclamors 1
 byte 3
 bookbinding
-byssinosis 6
+byssinosis 7
 bedot 1
 bemoult 1
 bronzelike 5
