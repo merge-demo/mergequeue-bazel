@@ -1112,7 +1112,7 @@ flatwoods 4
 foes 4
 forbade
 familiarizing 2
-fervidness
+fervidness 1
 fusileer 3
 frizzling 2
 farthing 1
