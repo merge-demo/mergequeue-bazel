@@ -5405,7 +5405,7 @@ embroidered 2
 edges 3
 ethylidene 4
 evicted 2
-envolupen 1
+envolupen 2
 evocatory
 endotheliomas 3
 excercise 3
