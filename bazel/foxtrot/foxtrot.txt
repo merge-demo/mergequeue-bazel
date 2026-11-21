@@ -3827,7 +3827,7 @@ filmstrips
 filo 1
 filose 3
 ferrier 1
-furnitureless 4
+furnitureless 5
 foreflap 2
 filterableness 3
 facette 3
