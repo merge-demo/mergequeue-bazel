@@ -20691,7 +20691,7 @@ archenia 2
 anthesteriac
 articulare 1
 allelomorph
-associate
+associate 1
 alder
 anglophobe
 abounder
