@@ -15620,7 +15620,7 @@ doorless
 destinate 1
 doormaid 1
 dugong 1
-dietist 1
+dietist 2
 doormaker 2
 doormats 1
 digitorium 3
