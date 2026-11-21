@@ -3730,7 +3730,7 @@ coventrize 3
 caravaneer 2
 cyclists 1
 cosmogonize
-caravaner
+caravaner 1
 coroparelcysis 2
 chetty 1
 caravans
