@@ -10207,7 +10207,7 @@ britany
 blackjacks 4
 bootstraps 2
 bondhold
-bloodletter
+bloodletter 1
 belshazzar 3
 blackleg 3
 blacklegged 4
