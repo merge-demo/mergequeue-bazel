@@ -10972,7 +10972,7 @@ disaffinity 3
 disaffirmance 1
 dheri 5
 dictyosiphon 2
-disaffirmation
+disaffirmation 1
 decidedness 1
 disaffirming 4
 debussed
