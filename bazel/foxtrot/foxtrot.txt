@@ -2908,7 +2908,7 @@ floorcloth 2
 find 3
 febricide 1
 fibrose 3
-fimbricate 5
+fimbricate 6
 featuring 3
 feudalists 2
 fractionising 3
