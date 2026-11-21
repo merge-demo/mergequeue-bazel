@@ -1165,7 +1165,7 @@ excisemen 3
 entrochite 3
 edplot 1
 edrioasteroidea 3
-epipany 1
+epipany 2
 electrotyped 2
 epaulette
 expectancies
