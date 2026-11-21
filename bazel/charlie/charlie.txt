@@ -5064,7 +5064,7 @@ casanova
 casaques 1
 casas 3
 cojudge 1
-coevolve
+coevolve 1
 colisepsis
 cerianthus
 casate 1
