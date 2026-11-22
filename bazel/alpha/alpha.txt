@@ -4076,7 +4076,7 @@ admits 2
 admittance 1
 admitted 1
 agitpunkt
-ardoise
+ardoise 1
 ampliation 3
 aedoeagi 3
 allocates
