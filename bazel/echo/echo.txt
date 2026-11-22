@@ -8854,7 +8854,7 @@ enkernel 1
 ecospecifically 1
 esthesiometer 3
 earshots 2
-eremuri 2
+eremuri 3
 ethnoflora 4
 enerve 3
 escharoid 1
