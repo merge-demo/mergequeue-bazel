@@ -9208,7 +9208,7 @@ bipeds 1
 bipeltate 4
 bipennate 4
 bedlamize
-brunches 1
+brunches 2
 bevor 4
 baldrics 2
 built
