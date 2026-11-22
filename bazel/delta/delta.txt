@@ -3569,7 +3569,7 @@ diethylamine 2
 disenchanter 3
 defunctionalize 1
 defusion 2
-deformalize 1
+deformalize 2
 dingles 2
 dermatotome
 drawbeam 2
