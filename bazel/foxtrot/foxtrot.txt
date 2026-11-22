@@ -543,7 +543,7 @@ fibrobronchitis 5
 familiarity 1
 forewarn 3
 fluvial 1
-fortress
+fortress 1
 fragmentising 2
 filicites 2
 froggy 2
