@@ -1350,7 +1350,7 @@ flavorfully 1
 florentine 3
 fearfuller 1
 fatigable 3
-favorable
+favorable 1
 fatigableness
 forfars 3
 frock 2
