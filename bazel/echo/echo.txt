@@ -1166,7 +1166,7 @@ entrochite 3
 edplot 1
 edrioasteroidea 3
 epipany 1
-electrotyped 2
+electrotyped 3
 epaulette
 expectancies
 edriophthalmatous
