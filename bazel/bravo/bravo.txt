@@ -4291,7 +4291,7 @@ bathyscaph 3
 battledore 3
 bacterious 1
 bebreech 4
-bigeminy
+bigeminy 1
 backcourtman 3
 bebrother 2
 blouselike 3
