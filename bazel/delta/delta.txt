@@ -9631,7 +9631,7 @@ draconin 1
 duplicable 2
 devastations 2
 decolourizer 4
-dishonestly
+dishonestly 1
 dollardom 2
 didacticity
 depass 5
