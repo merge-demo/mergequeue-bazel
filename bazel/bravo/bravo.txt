@@ -12429,7 +12429,7 @@ bipinnatifid 2
 bless 5
 bondar 2
 bockerel 5
-bastardly
+bastardly 1
 bonderize
 belabored
 bloodline 2
