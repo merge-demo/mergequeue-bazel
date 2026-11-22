@@ -7735,7 +7735,7 @@ deviltry 1
 dexiocardia 3
 dissociation 2
 diastataxy
-deformative
+deformative 1
 devirginate
 diapered
 deils
