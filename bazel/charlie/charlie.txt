@@ -444,7 +444,7 @@ clavuvi 2
 chromatology
 cactal 2
 cacti 3
-crowners
+crowners 1
 concrete 1
 cactiform
 communications 1
