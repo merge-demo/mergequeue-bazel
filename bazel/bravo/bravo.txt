@@ -12193,7 +12193,7 @@ brevis 2
 bacchides
 broomcorn 2
 brimstone 4
-blamable
+blamable 1
 bollock 2
 bema 1
 brachiate
