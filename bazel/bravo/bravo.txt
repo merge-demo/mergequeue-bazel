@@ -5594,7 +5594,7 @@ burgonets 3
 bruscus
 belash
 blobbed
-bumbard 1
+bumbard 2
 bombloads 1
 belaboring 1
 blisters 3
