@@ -27397,7 +27397,7 @@ chuck 1
 cabinetmaker 2
 courtin 1
 catastatic
-courting
+courting 1
 courtly 1
 courtlier
 chow 1
