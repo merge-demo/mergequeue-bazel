@@ -9493,7 +9493,7 @@ entach 2
 enarch 1
 escout
 enstore 1
-equipondious 1
+equipondious 2
 escry 2
 escribientes 2
 escrime 2
