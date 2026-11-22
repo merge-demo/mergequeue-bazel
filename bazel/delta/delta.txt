@@ -11146,7 +11146,7 @@ defiling 5
 diplomacy 3
 dysautonomia 1
 disguster
-disavail 1
+disavail 2
 dayroom 1
 discomforted 1
 dissaves 2
