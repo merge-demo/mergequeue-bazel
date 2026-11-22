@@ -17466,7 +17466,7 @@ biatomic 3
 brulots 4
 boomage 3
 bareboned
-bruskest 1
+bruskest 2
 bunter 1
 bridles 1
 blacklight 1
