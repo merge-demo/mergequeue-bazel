@@ -4953,7 +4953,7 @@ avulsions 1
 admonitioner 2
 antepalatal 1
 aerolithology 3
-aerolitic
+aerolitic 1
 aerological
 antepartum
 aeromancer 2
