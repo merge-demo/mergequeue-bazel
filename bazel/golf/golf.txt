@@ -7145,7 +7145,7 @@ grasscut 3
 guayaba
 greenfly 4
 gile 2
-gore 2
+gore 3
 gorebill 4
 gordioid 2
 gearboxes 2
