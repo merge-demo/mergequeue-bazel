@@ -29818,7 +29818,7 @@ cropping 2
 cropplecrown 1
 crops 1
 cropshin 2
-cropsick 1
+cropsick 2
 cropweed 2
 calorimeters 1
 casekeeper 1
