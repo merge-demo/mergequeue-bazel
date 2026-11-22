@@ -7005,7 +7005,7 @@ adobo
 aspirata
 aywhere 1
 aizoon 2
-antitryptic
+antitryptic 1
 atrioventricular 3
 arborist
 animal
