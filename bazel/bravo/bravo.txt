@@ -1018,7 +1018,7 @@ bringer 3
 barfs 2
 bailable
 baile
-bezazz 1
+bezazz 2
 betanaphthol 4
 basqued
 blizzards 2
