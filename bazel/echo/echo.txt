@@ -3447,7 +3447,7 @@ enteropneustan 1
 embed 4
 expenditures 2
 electrosynthetic 1
-equaled 1
+equaled 2
 evacuate 1
 eventide 6
 embellisher 2
