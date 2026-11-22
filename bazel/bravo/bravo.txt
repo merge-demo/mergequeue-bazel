@@ -47,7 +47,7 @@ bundocks 1
 babbly
 befrogged
 brushable 3
-babbit
+babbit 1
 baton
 botrytises
 barberish 1
