@@ -9543,7 +9543,7 @@ checkrein 1
 checkroll 2
 compathy 2
 checkrope
-cumulant
+cumulant 1
 conoy
 checkrowed 1
 checkrower
