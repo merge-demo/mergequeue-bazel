@@ -4831,7 +4831,7 @@ fracticipita 5
 faunus 2
 fishberries 1
 firepower 5
-flinthead 2
+flinthead 3
 fleay 3
 fainer 2
 foil 4
