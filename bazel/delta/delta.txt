@@ -13694,7 +13694,7 @@ dissipation 5
 disaltern
 distils 2
 dissident 1
-decentered 1
+decentered 2
 dosimeter
 duecento 2
 disulphuric 3
