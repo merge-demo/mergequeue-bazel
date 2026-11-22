@@ -9882,7 +9882,7 @@ dimensum 1
 disangularize 2
 diphenyl 2
 dimer 1
-decadency 1
+decadency 2
 deludable 2
 deboner 1
 decolonising
