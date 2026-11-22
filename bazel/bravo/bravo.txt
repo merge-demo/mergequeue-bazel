@@ -8113,7 +8113,7 @@ bidiagonal
 balsamodendron 4
 bidimensional 3
 binucleate 1
-barble
+barble 1
 befouls
 biding 3
 bidirectional 2
