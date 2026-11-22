@@ -745,7 +745,7 @@ bannerman 4
 bushmanship 1
 badigeon 3
 beadsman
-bechatter
+bechatter 1
 boric
 badinages 1
 beblotch 2
