@@ -18933,7 +18933,7 @@ counterbracing
 collarette
 carnifices 1
 clypeaster 3
-carpuspi
+carpuspi 1
 coupelet
 cochal
 conjugate
