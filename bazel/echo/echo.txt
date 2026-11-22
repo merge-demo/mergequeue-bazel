@@ -9781,7 +9781,7 @@ equalisation
 ejectamenta 1
 extenuator
 envermeil 6
-emplanement
+emplanement 1
 extracellular 1
 essoinment 2
 essorant 1
