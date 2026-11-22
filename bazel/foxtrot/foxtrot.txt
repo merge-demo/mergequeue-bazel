@@ -8592,7 +8592,7 @@ flexor 4
 firedragon 2
 fornix 3
 fanegada 5
-forspent
+forspent 1
 flocculus 1
 feower 3
 freehold 2
