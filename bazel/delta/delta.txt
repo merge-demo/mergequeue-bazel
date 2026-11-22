@@ -277,7 +277,7 @@ degermed 3
 doradilla 4
 daguerreotyped
 daguerreotyping 1
-digitonin
+digitonin 1
 dreadnaught 1
 docken 1
 debugged 1
