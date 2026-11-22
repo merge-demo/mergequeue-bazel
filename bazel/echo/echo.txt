@@ -1343,7 +1343,7 @@ especial 3
 elemin 1
 explosives
 eelspear 4
-effeminising 1
+effeminising 2
 effeminize 2
 effeminizing 3
 exhibitionize 1
