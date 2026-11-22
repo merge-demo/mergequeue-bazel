@@ -3514,7 +3514,7 @@ doughmaker 1
 deformability 4
 droughermen 1
 disknow 3
-distomum
+distomum 1
 demographical
 delvers 3
 deformable 2
