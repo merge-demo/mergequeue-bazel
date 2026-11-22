@@ -27951,7 +27951,7 @@ cradled 2
 corvee 1
 cradleland
 captivatrix 2
-counterselection
+counterselection 1
 cognosce 3
 cradlemaker 1
 cradlemate
