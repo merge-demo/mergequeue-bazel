@@ -12095,7 +12095,7 @@ disclaimers 1
 deplaceable 3
 disentrail 1
 disentrainment 2
-disentrance
+disentrance 1
 devilism 3
 defuzed 2
 disrank 1
