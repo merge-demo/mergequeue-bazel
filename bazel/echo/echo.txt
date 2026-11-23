@@ -3006,7 +3006,7 @@ elinguate 3
 enfield 3
 eleatic 3
 eleoblast 2
-evaluate
+evaluate 1
 extine 3
 efflorescence 1
 evocative 2
