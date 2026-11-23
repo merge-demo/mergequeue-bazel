@@ -1952,7 +1952,7 @@ depressant 4
 dobla 1
 deckload 1
 doze 1
-dungy
+dungy 1
 dicrotism 1
 debunkers 1
 dispergated 1
