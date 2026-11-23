@@ -6517,7 +6517,7 @@ farweltered 2
 fip 2
 failsoft 3
 frotted
-forspread
+forspread 1
 furcular 2
 fluther 7
 foldskirt 2
