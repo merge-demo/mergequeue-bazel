@@ -11884,7 +11884,7 @@ chordee
 choriso 1
 cst 1
 contradictive 2
-chording
+chording 1
 chorditis 1
 circumferentor
 cecidomyian 1
