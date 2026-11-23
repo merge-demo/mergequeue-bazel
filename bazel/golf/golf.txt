@@ -8285,7 +8285,7 @@ gamestress 1
 graphotype 1
 grapier 5
 gusseting 4
-glossographer 1
+glossographer 2
 globule 3
 graping 3
 grappa 2
