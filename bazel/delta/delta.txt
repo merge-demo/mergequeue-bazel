@@ -5002,7 +5002,7 @@ diversionary 2
 distinguish 1
 derk 2
 demultiplexer 3
-deurbanize
+deurbanize 1
 dacoited 1
 demultiplexers
 disroot
