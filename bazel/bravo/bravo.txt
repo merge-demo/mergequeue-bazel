@@ -2906,7 +2906,7 @@ blabbermouth 3
 becrawls 1
 barratrously 1
 barrelage 2
-barreled
+barreled 1
 barreleyes
 barrelet 2
 bookend 3
