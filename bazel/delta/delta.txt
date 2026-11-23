@@ -1794,7 +1794,7 @@ debark 2
 dropseed 3
 drawknife 1
 debarking 3
-digamist 1
+digamist 2
 dishpanful 1
 discede 3
 dwelled 1
