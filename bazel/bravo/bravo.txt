@@ -6562,7 +6562,7 @@ breastrope 3
 bout 5
 biohazard 2
 berberid 1
-bricked
+bricked 1
 bundoc 3
 bedevilled 1
 bahima 3
