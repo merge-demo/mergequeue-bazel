@@ -22828,7 +22828,7 @@ atmolyzation 2
 atmolyze 3
 atmologic 2
 anisotropous 1
-alterability
+alterability 1
 albopannin
 arya 4
 atmometric
