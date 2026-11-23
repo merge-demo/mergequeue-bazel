@@ -2760,7 +2760,7 @@ arloup 1
 acrobryous
 alarms
 airglow 2
-apotropaion
+apotropaion 1
 autopista
 acrocephalic
 accompanable 2
