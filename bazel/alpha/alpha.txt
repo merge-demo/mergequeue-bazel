@@ -2320,7 +2320,7 @@ aul
 acids
 acidulant 1
 acidulate 1
-acidulated
+acidulated 1
 azuline 3
 acephalism 1
 acidulously 1
