@@ -3147,7 +3147,7 @@ euphonetic 1
 emissive 2
 empanelled 1
 endoscopy
-earthsmoke
+earthsmoke 1
 eloigning 1
 enactment
 euryte 2
