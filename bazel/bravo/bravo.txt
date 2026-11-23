@@ -12741,7 +12741,7 @@ bookmarks
 bastardisation 1
 bookmobiles 1
 baroni 3
-burlesk
+burlesk 1
 bookpress 3
 bookracks
 blacklegging 1
