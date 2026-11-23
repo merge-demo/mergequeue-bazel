@@ -20617,7 +20617,7 @@ clastic
 complacence 3
 chlorella 2
 complacency
-complacent
+complacent 1
 cantor 1
 citrate 1
 cosmosophy
