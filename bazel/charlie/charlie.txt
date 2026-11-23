@@ -16793,7 +16793,7 @@ cloverleafs 1
 cloverleaves 1
 cloverley
 cycadophyte
-cloverroot 1
+cloverroot 2
 crepitus 2
 clovewort
 castling 1
