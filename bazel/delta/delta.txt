@@ -4794,7 +4794,7 @@ deanimalize 1
 diemaker
 dentalizing 1
 disenslave 1
-demography
+demography 1
 denigrations 3
 dichotomically 1
 disemploys 2
