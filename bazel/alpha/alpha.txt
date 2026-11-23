@@ -3262,7 +3262,7 @@ antivenomous
 acupuncturist 3
 acus 2
 atrabile
-anisotropism
+anisotropism 1
 atresy 3
 acetanion
 army 1
