@@ -15528,7 +15528,7 @@ clasmatosis 1
 cuitle 2
 clasped 2
 cinevariety 2
-clasper
+clasper 1
 claspers 1
 claspt 3
 classable 1
