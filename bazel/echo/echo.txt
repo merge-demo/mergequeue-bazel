@@ -8430,7 +8430,7 @@ equip 1
 enjoyment 1
 eglogue 4
 endothecate 2
-ethicosocial 1
+ethicosocial 2
 epizootology 2
 enwrought 1
 epocha 4
