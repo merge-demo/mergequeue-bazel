@@ -24691,7 +24691,7 @@ ciderist 1
 coppersmith 2
 coppersmithing 1
 copperware 4
-copperwing
+copperwing 1
 cladodes
 cruelest
 coppices
