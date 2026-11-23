@@ -3426,7 +3426,7 @@ dimethylhydrazine
 downrightness 1
 dudgeon
 dissatisfy 2
-debasement
+debasement 1
 deflocculate 2
 deflocculating 2
 dermatoptera 4
