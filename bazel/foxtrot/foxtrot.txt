@@ -3921,7 +3921,7 @@ function 2
 findhorn 2
 filarees 3
 fine 1
-fineableness
+fineableness 1
 fumigators
 fusinist 3
 fullage 4
