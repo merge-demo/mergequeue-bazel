@@ -5901,7 +5901,7 @@ anychia 4
 amblyoscope
 agglomerates 5
 agglomeration 1
-agglomerative
+agglomerative 1
 abscissions
 arachnologist 1
 apical 2
