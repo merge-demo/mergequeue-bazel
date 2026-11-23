@@ -1880,7 +1880,7 @@ brooded 1
 bandle
 blastoff 1
 bushcraft 4
-breadwinners 1
+breadwinners 2
 bandmaster 2
 brainsickly 1
 bando 5
