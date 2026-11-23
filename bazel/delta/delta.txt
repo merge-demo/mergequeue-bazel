@@ -17641,7 +17641,7 @@ duadic 1
 demilitarise 2
 difluence 2
 duads
-dentalmen
+dentalmen 1
 dygogram 1
 diversifies 2
 diffusimeter 3
