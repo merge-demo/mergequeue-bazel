@@ -10547,7 +10547,7 @@ demipagan
 disserviceableness 4
 ddname 1
 derate 1
-doorsills
+doorsills 1
 diceratidae 1
 diazotate 2
 deipotent 1
