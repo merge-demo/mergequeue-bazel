@@ -18903,7 +18903,7 @@ clomping 1
 clothworker
 collaborator 3
 collaborators
-closehauled 3
+closehauled 4
 cosigner 1
 calligrapher
 colladas 1
