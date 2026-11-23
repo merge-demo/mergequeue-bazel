@@ -1927,7 +1927,7 @@ forksful 1
 freight 3
 furling 2
 friable
-fangot
+fangot 1
 froze 5
 forebearing 2
 floccule 2
