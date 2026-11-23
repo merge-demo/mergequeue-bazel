@@ -3616,7 +3616,7 @@ cinques
 circle 2
 caraboid 1
 carabus
-caracara 1
+caracara 2
 carack
 caracks 2
 cumanagoto
