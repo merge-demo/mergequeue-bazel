@@ -6125,7 +6125,7 @@ dimission 3
 durgen
 deckedout 1
 derated 3
-diphtheroid 2
+diphtheroid 3
 derater
 dijudicant 1
 disilane 2
