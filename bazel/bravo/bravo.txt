@@ -12755,7 +12755,7 @@ becloaked 3
 bioelectric
 bullneck 1
 bitstocks 2
-biparous
+biparous 1
 boce 2
 bimbil 2
 bontequagga 1
