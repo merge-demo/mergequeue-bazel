@@ -13691,7 +13691,7 @@ denationalising 1
 dimmish 1
 distrail 2
 dissipation 5
-disaltern
+disaltern 1
 distils 2
 dissident 1
 decentered 1
