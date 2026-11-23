@@ -7451,7 +7451,7 @@ extraperiodic 3
 extracurricular 2
 exercise 4
 elohimic 1
-enfile
+enfile 1
 ecchondrotome 1
 effusions 1
 emboliform 4
