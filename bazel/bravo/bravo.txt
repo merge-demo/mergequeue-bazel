@@ -13651,7 +13651,7 @@ bloodsucker 1
 baud 1
 bande 3
 broidery 1
-binocs 2
+binocs 3
 blendcorn 1
 balkingly 3
 bielenite 3
