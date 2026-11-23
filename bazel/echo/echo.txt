@@ -5335,7 +5335,7 @@ endosclerite 3
 extrahepatic 2
 eurybathic 2
 endoscope 5
-endoscopes 2
+endoscopes 3
 equivocalities 1
 eradicators 2
 egeran 3
