@@ -14990,7 +14990,7 @@ aeroducts
 aljama 2
 anticonventional 1
 anticor
-anticorona
+anticorona 1
 anticorrosiveness 1
 animose 1
 alsatia 2
