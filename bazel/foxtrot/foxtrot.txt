@@ -3485,7 +3485,7 @@ foreseason 1
 fallback 3
 fighteress 2
 fatigation 2
-fighting 2
+fighting 3
 formboard 4
 figo 3
 favillae 1
