@@ -3992,7 +3992,7 @@ fulmine 2
 figurehead 1
 flanque 3
 feminisation 3
-fictionally
+fictionally 1
 fibres 2
 fraulein 2
 friarling 5
