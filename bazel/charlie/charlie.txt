@@ -2118,7 +2118,7 @@ chieftaincies
 circumnuclear 2
 captivator
 campanular
-campanulariae
+campanulariae 1
 campanularidae 2
 campanulatae 1
 campanulate 1
