@@ -6894,7 +6894,7 @@ celtism
 celtium 1
 cotyla
 clockroom 2
-contingencies
+contingencies 1
 compaction 1
 caffein 2
 celtization
