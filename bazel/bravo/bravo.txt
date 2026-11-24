@@ -456,7 +456,7 @@ blackish
 bronzers 1
 blaspheming 2
 bibliographic 3
-benzhydroxamic 2
+benzhydroxamic 3
 brontosauri
 backspaced 2
 backspacefile 4
