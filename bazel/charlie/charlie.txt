@@ -15827,7 +15827,7 @@ crispest 2
 cascara 3
 commis
 cleat 1
-cleated
+cleated 1
 cleats 1
 cyclonologist
 cheilitis 1
