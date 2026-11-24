@@ -1545,7 +1545,7 @@ fauvette 3
 flowcontrol 3
 fishbowl 5
 fauvism 2
-funk
+funk 1
 fause 3
 fauvisms 4
 foreprepare 1
