@@ -2257,7 +2257,7 @@ bindoree
 broadsheet 4
 brier 1
 bianco 3
-bysen 1
+bysen 2
 broadbrim 2
 bactericholia 1
 bide 2
