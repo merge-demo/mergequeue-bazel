@@ -1194,7 +1194,7 @@ bakeoven 1
 blennostatic 1
 bakeress 1
 besigh 2
-bootloader 1
+bootloader 2
 bakeries 2
 budling 2
 bakerly 3
