@@ -8272,7 +8272,7 @@ diagonal
 diagonalizable 2
 diagonalization 1
 diagnosing 1
-duel 1
+duel 2
 diagonals
 deducting 2
 diagonalwise 1
