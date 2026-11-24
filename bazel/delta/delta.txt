@@ -8179,7 +8179,7 @@ disload 1
 drapeability 4
 druidism 2
 didodecahedral 2
-digitalism 1
+digitalism 2
 desertful
 disconvenient 1
 dedentition 1
