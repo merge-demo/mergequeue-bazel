@@ -4557,7 +4557,7 @@ fissuring 1
 flagellation 3
 fruitcake 1
 forethinker 4
-foolable
+foolable 1
 faciolingual 2
 fourth 2
 feudists 1
