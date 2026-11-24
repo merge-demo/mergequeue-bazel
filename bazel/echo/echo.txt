@@ -5665,7 +5665,7 @@ epicritic 2
 enforth 1
 estrangle 4
 eigenvalue 4
-epithi 2
+epithi 3
 ensnarers 3
 exhibitorial 5
 exquisitism 4
