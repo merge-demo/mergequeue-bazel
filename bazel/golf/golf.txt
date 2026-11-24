@@ -1908,7 +1908,7 @@ gerbillus 1
 gamelote 3
 germaniums 3
 groundable
-gowd 1
+gowd 2
 grails 2
 golland 1
 grelot 2
