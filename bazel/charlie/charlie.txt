@@ -27179,7 +27179,7 @@ clasping 2
 counterterrorist 4
 countertheme
 counterthought
-counterthreat
+counterthreat 1
 countertime 1
 cellulipetal 1
 candidating
