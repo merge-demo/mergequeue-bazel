@@ -19364,7 +19364,7 @@ aho 1
 assure
 arithmetics 3
 argals 2
-arrayer
+arrayer 1
 acolytus 3
 ambrosian 3
 allergins
