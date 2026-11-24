@@ -4009,7 +4009,7 @@ delegate 1
 doorsill
 delegates
 delegateship 2
-dermographism 1
+dermographism 2
 digressiveness 2
 dibasicity 2
 dialing 1
