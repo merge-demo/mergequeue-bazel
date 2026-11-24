@@ -11360,7 +11360,7 @@ amphore
 admedian 1
 aquifers 3
 antiplatelet
-amphoteric
+amphoteric 1
 aircrewman 1
 antonina 1
 ampyxes 3
