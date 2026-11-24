@@ -10812,7 +10812,7 @@ gonenesses
 glasshouse 4
 glibbery 4
 gossipping 4
-geniolatry
+geniolatry 1
 goldtail 1
 glaring
 gingellies
