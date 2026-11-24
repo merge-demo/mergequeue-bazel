@@ -7262,7 +7262,7 @@ aramu
 alaria
 aqueoglacial 2
 aggravable 1
-albuminose
+albuminose 1
 alarm 3
 assumably 2
 alarmclock 1
