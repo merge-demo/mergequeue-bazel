@@ -6063,7 +6063,7 @@ catling 2
 catlings
 cairds 3
 catlins
-craftsperson
+craftsperson 1
 cryptoporticus
 canephroi 3
 cantharidizing 3
