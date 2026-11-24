@@ -1093,7 +1093,7 @@ graphicness
 gowdy 1
 goularo 3
 gormandizers 2
-genitives 3
+genitives 4
 ganister 2
 goriest 1
 giroflore 3
