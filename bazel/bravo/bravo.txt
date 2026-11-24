@@ -11609,7 +11609,7 @@ biunivocal
 barche 3
 boarspear 5
 balloter 2
-burns 2
+burns 3
 bevels 2
 bacauan 1
 blacks
