@@ -2294,7 +2294,7 @@ canaigre
 canaille 1
 canailles 1
 cymoid
-chargeship
+chargeship 1
 commonwealth
 cytopahgous 1
 canakin
