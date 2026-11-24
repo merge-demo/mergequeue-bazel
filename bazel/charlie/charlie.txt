@@ -19304,7 +19304,7 @@ colonist
 colonizable 1
 colonize
 comminating 2
-courted 1
+courted 2
 colonnade 1
 coughwort 1
 colonnaded
