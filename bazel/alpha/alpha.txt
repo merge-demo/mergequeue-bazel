@@ -19905,7 +19905,7 @@ asymbiotic
 aeolis 1
 armlike 1
 armlock 2
-armonicas
+armonicas 1
 autoconvection 1
 armoracia 1
 albertite 1
