@@ -1352,7 +1352,7 @@ demissive
 diploid
 draftsperson 2
 dompt 1
-damagement 2
+damagement 3
 dart
 dauntingness 2
 discerners 1
