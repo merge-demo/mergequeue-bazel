@@ -15886,7 +15886,7 @@ delighting
 discounts 2
 doser 3
 datura 3
-dogproof
+dogproof 1
 dosing
 dubs
 dehairer 1
