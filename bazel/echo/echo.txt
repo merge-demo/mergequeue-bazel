@@ -3245,7 +3245,7 @@ enfollow 3
 eluents 1
 elul 1
 epidemic 3
-erects 1
+erects 2
 enclitical 1
 encephalotomy 3
 eyesore 4
