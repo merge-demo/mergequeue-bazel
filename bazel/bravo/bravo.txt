@@ -17718,7 +17718,7 @@ bookways 1
 bombshell
 burned 2
 burner 2
-benempt
+benempt 1
 billian
 blastophaga
 bemuzzled 3
