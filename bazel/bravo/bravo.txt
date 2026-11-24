@@ -8845,7 +8845,7 @@ bathypelagic 2
 bioaccumulation 2
 bioactivities
 bioassaying 3
-bioastronautics
+bioastronautics 1
 belcher
 biobibliographer 1
 barleysick 4
