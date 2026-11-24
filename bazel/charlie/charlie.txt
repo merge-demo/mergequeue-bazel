@@ -14096,7 +14096,7 @@ colloquialisms 4
 codecree
 circue 1
 circuit
-circuital
+circuital 1
 chimonanthus 2
 circuiteer
 clyer
