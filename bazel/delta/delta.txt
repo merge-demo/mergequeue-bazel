@@ -1936,7 +1936,7 @@ discriminated 3
 doodles 1
 debs 3
 dissilience
-defenceless
+defenceless 1
 demireps
 dallyman
 debtee 3
