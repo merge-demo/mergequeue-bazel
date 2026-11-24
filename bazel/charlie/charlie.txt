@@ -14778,7 +14778,7 @@ copremia 1
 cytoarchitectural 2
 cytoblast 2
 confidences 2
-cytoblastema 1
+cytoblastema 2
 cytoblastemal 1
 caseless
 conjecturableness
