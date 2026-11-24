@@ -2765,7 +2765,7 @@ dematerialization 2
 decorticator 3
 determinants 3
 decorticosis 1
-disoperation 3
+disoperation 4
 decortization
 decorum 1
 dactylorhiza 2
