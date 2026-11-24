@@ -4246,7 +4246,7 @@ antioxidizer 1
 assemblement 4
 autosuggest 1
 aclastic 1
-adposition 1
+adposition 2
 acmispon
 azonium
 armorer 2
