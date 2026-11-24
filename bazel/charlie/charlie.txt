@@ -6920,7 +6920,7 @@ coaugment 1
 calorimetric
 cementatory 1
 chlorobromomethane 1
-curvirostres 1
+curvirostres 2
 charros
 cementer 1
 cementification
