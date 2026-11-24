@@ -4923,7 +4923,7 @@ extrabureau 1
 english 3
 erythroneocytosis 3
 evolves 2
-ephyrula
+ephyrula 1
 eyednesses 5
 enterocoelic 3
 electrodialysis 2
