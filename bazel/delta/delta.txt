@@ -2733,7 +2733,7 @@ decorate 4
 decorating 1
 daukin 1
 dont 2
-discounsel
+discounsel 1
 diplopterous 4
 deedful
 darker 1
