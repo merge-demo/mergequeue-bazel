@@ -8872,7 +8872,7 @@ anticosmetic 3
 aeolodicon 1
 allochthon 1
 antlike
-askant
+askant 1
 ambilevous
 azurous 1
 adscititiously
