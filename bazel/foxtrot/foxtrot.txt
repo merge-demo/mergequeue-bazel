@@ -8642,7 +8642,7 @@ freightless 4
 filterability 2
 fourposters 1
 futharks
-feet 2
+feet 3
 fuzes 3
 finites 2
 forborn 1
