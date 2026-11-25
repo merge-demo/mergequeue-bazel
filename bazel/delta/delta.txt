@@ -2651,7 +2651,7 @@ dryasdust 1
 dumpcarts 2
 dinglebird 2
 decreers 1
-decolours
+decolours 1
 decommission 2
 decommissioned 2
 discriminably 2
