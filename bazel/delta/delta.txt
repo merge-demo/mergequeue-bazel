@@ -12738,7 +12738,7 @@ dubbings 3
 difference
 dislocability 4
 dosimetry
-dustcloth
+dustcloth 1
 dehydratase 2
 doggrels 1
 dispensability 2
