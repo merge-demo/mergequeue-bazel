@@ -28760,7 +28760,7 @@ cornutine
 chafer 1
 crepusculine
 catenary
-cres
+cres 1
 cresc 1
 comparativeness 2
 cordelier 1
