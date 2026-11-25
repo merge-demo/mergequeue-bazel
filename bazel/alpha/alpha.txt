@@ -17119,7 +17119,7 @@ allotropism 2
 anaphrodisiac 3
 achiever 1
 avocets 3
-anisochromia
+anisochromia 1
 apogeotropism 1
 apogon
 afterfuture
