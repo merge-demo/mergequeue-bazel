@@ -27719,7 +27719,7 @@ cowman 2
 connumeration 1
 convected 2
 chivage
-couhage
+couhage 1
 cowpats 1
 compliable
 cowpen 2
