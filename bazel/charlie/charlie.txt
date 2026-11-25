@@ -28925,7 +28925,7 @@ coarse
 centrolecithal 3
 conductility 1
 crybabies
-cacodaemon 1
+cacodaemon 2
 cellager 1
 colloquialism
 cribbed 4
