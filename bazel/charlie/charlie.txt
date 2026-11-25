@@ -4915,7 +4915,7 @@ carstone 1
 cart
 counterpoising
 cartable
-cartaceous
+cartaceous 1
 commutuality 4
 candlestickward 1
 cowherbs
