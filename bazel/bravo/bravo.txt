@@ -5677,7 +5677,7 @@ barony 2
 biogeochemical 1
 bibliotaph 1
 beleper
-bobs 5
+bobs 6
 bicycle
 bridegroomship 1
 barkpeeling
