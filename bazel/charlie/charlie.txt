@@ -10581,7 +10581,7 @@ celebrator
 chillroom 3
 chills 1
 chillsome 2
-countermove 2
+countermove 3
 chouka
 chemolytic
 chillumchee
