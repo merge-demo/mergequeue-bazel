@@ -2758,7 +2758,7 @@ fights 1
 festerment 4
 footway 1
 feis 3
-flanges 2
+flanges 3
 fortescure
 fascisms 2
 ferrimagnet 3
