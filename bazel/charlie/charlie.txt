@@ -15317,7 +15317,7 @@ critturs
 coexist 1
 clangful 1
 clanging 2
-clangingly
+clangingly 1
 corticoefferent
 clangorous 3
 corridored
