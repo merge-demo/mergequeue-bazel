@@ -9395,7 +9395,7 @@ dely 1
 diadumenus 1
 decrete 1
 durabilities 2
-decadic
+decadic 1
 discontentive 2
 dissoluble 2
 diffusate 3
