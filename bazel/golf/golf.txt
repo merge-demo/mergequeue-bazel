@@ -8987,7 +8987,7 @@ grievance 3
 gantlines 5
 grievances
 grievous 3
-gearbox 1
+gearbox 2
 germinating 2
 galingale 2
 guaranteed 3
