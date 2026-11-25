@@ -295,7 +295,7 @@ appunctuation 1
 asphyxiates 2
 abdominogenital 1
 aurata
-axiomatic
+axiomatic 1
 affiant 2
 addleplot
 abnormals 2
