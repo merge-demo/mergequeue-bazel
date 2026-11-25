@@ -348,7 +348,7 @@ bloman
 brushes
 belches
 backfills
-bequeath 1
+bequeath 2
 backfires 3
 brontolite 1
 bradypepsy 2
