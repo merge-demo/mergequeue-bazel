@@ -11354,7 +11354,7 @@ amphorae 2
 acappella
 algors 1
 alohas 2
-apiator
+apiator 1
 abuzz 1
 amphore
 admedian 1
