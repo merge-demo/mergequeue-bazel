@@ -916,7 +916,7 @@ grittiness 2
 gosport 2
 gemeinschaften 3
 galt 3
-gametophoric 3
+gametophoric 4
 gorbet 5
 gated 2
 gnashes 3
