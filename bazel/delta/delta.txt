@@ -5100,7 +5100,7 @@ dispone 3
 dissipated 1
 dissimulates 2
 disterr
-destitute
+destitute 1
 deperition 2
 ductings
 dravya 2
