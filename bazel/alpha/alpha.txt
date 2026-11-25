@@ -1333,7 +1333,7 @@ atom 2
 aiolis 1
 agnized 1
 accelerate 2
-anilide
+anilide 1
 acceleratedly
 assidean
 annealers
