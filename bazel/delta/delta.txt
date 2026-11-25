@@ -9476,7 +9476,7 @@ dopy 3
 digestibility 1
 disserting 3
 demark 1
-digestible
+digestible 1
 dite 1
 digestibleness 3
 digestibly
