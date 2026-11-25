@@ -18985,7 +18985,7 @@ constables 1
 collectibility 1
 collectible 2
 collection 1
-cinnamon
+cinnamon 1
 collectivise
 collectivism
 collectivist
