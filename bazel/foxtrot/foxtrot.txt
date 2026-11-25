@@ -10862,7 +10862,7 @@ footholds 3
 fallings 2
 fossors 2
 flavor 1
-frowardly 4
+frowardly 5
 fon 1
 frontalis 5
 fluvioterrestrial 4
