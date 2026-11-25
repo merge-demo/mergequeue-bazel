@@ -12605,7 +12605,7 @@ explant 3
 epicardium 1
 electrostatics 2
 exocoelum 2
-epifascial 1
+epifascial 2
 empresa 2
 epistylis 8
 eustathian 3
