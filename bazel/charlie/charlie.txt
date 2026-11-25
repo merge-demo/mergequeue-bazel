@@ -16117,7 +16117,7 @@ cliffside 2
 cliffsman
 cliffweed
 clift
-clifty
+clifty 1
 crystallitis 1
 clarify 1
 climaciaceae
