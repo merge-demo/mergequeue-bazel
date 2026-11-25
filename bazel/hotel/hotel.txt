@@ -3774,7 +3774,7 @@ hexmsx 1
 hexnavlfppmx 4
 hexojmp
 hexpkzcsatz 1
-hexpmkmxdgsx 2
+hexpmkmxdgsx 3
 hexq
 hexqp 3
 hexqsoo 4
