@@ -18681,4 +18681,4 @@ dwindlement
 deports 2
 dwindles 3
 dehisced 3
-dwindling
+dwindling 1
