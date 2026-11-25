@@ -18266,7 +18266,7 @@ cancerite 1
 cadding 1
 cofferwork
 christology
-coffin
+coffin 1
 copper
 coffing 1
 colpoplastic
