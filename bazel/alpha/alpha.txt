@@ -5967,7 +5967,7 @@ aggregator 4
 alepole 1
 ackman 1
 amatol
-antiroll
+antiroll 1
 anatman 1
 aggrege 3
 allopathy 5
