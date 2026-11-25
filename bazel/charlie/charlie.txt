@@ -10676,7 +10676,7 @@ confide
 cholinesterase 4
 chiminage 1
 chimla 2
-chimleys
+chimleys 1
 chain
 cynicalness 1
 cutlass 1
