@@ -11260,7 +11260,7 @@ dogstail 1
 disburse 2
 disillusionist 3
 deictic 3
-duckpins
+duckpins 1
 divinistre 2
 definability
 deposure 1
