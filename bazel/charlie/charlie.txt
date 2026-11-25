@@ -19684,7 +19684,7 @@ criminal
 combatable 2
 chroma 1
 chrismale
-combatant
+combatant 1
 cimbalom
 combater
 combaters
