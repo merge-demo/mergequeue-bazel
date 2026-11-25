@@ -682,7 +682,7 @@ cafenet 1
 cafetal
 counterreformation
 cephalospinal
-cafetorium
+cafetorium 1
 contributory 2
 caffeic 1
 caffeina 1
