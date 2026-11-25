@@ -6441,7 +6441,7 @@ desensitized
 drudgeries
 downwards 2
 disinfection 2
-desaccharification
+desaccharification 1
 defalcation 2
 decarburisation 1
 dozened 5
