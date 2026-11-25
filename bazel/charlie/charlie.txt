@@ -15873,7 +15873,7 @@ chesterfields 1
 chronomancy 2
 cleft 1
 cleidagra
-calms
+calms 1
 chamal 1
 cadaverize 1
 cleidocostal
