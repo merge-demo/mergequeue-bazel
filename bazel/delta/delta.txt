@@ -2118,7 +2118,7 @@ despoilment 2
 decameron 4
 digraph
 decamethonium
-decametric 2
+decametric 3
 decanal 2
 decancellate 1
 dominator 4
