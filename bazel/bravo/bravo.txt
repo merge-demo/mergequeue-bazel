@@ -3221,7 +3221,7 @@ bathtub 1
 blatters 2
 barkpeel 2
 biltong 2
-basigynium
+basigynium 1
 basilarchia
 beware 1
 blotchily 3
