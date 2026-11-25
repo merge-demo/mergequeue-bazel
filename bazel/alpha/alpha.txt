@@ -19032,7 +19032,7 @@ archonships
 archontia 1
 archoplasmic 2
 archorrhagia 3
-aerohydropathy
+aerohydropathy 1
 aerobes
 antipersonnel 1
 archostegnosis
