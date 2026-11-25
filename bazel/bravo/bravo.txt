@@ -9412,7 +9412,7 @@ bobwood
 bovidae 6
 boga 1
 birectangular
-burh
+burh 1
 bireme 3
 bedlids 4
 begeck 2
