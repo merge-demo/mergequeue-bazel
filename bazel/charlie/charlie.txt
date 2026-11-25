@@ -16625,7 +16625,7 @@ clodknocker 2
 curiologic
 closable 1
 closeable 1
-closecross 2
+closecross 3
 closed 1
 closefistedly 2
 closefistedness 1
