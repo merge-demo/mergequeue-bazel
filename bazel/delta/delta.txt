@@ -17974,7 +17974,7 @@ dukedoms 1
 decongestive 2
 dukes 3
 deifical 1
-deseasonalize
+deseasonalize 1
 dukkeripen
 dehydrase 1
 dukuma 2
