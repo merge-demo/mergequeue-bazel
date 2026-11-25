@@ -5746,7 +5746,7 @@ doliolum 4
 deoxidiser
 demonland 2
 depoetize 1
-deconsider 2
+deconsider 3
 depoh 3
 decd 3
 depolarise 3
