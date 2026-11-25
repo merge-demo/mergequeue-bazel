@@ -1525,7 +1525,7 @@ frankability
 flagellaria 6
 freely 3
 faurd 2
-foreseat 1
+foreseat 2
 feedbox 2
 flippant 1
 foodless 3
