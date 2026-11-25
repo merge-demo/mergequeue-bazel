@@ -13009,7 +13009,7 @@ crumbable
 crates 2
 cyanoguanidine
 cyanohermidin 3
-cyanometer
+cyanometer 1
 cuneate 1
 camaile
 chiasmatypy
