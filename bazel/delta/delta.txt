@@ -9802,7 +9802,7 @@ diapaused 1
 discanonize 1
 debcle
 disrupture
-dillymen
+dillymen 1
 durangite 4
 doorstops 2
 demasculinising
