@@ -16853,7 +16853,7 @@ anaerobe 1
 apiaca 1
 ambushlike
 apiaceae 2
-apiarian
+apiarian 1
 apiarians
 apiarists
 adolescently 1
