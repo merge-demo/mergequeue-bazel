@@ -2591,7 +2591,7 @@ crepier
 camphires 1
 censuses 1
 cyclotrons
-cliffing
+cliffing 1
 canebrake 1
 cardioschisis 1
 cementmaking 2
