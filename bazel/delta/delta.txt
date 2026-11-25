@@ -15871,7 +15871,7 @@ disrating 1
 defecated 2
 daft 3
 demonesses 2
-deoxidizer
+deoxidizer 1
 dossiers 2
 diamondize 1
 dorty 3
