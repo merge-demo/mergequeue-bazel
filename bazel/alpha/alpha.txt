@@ -13424,7 +13424,7 @@ antiminsion
 antimnemonic 2
 annaly 2
 annaline 2
-antigrammaticalness
+antigrammaticalness 1
 apathetic 2
 adiposeness 3
 annalists 1
