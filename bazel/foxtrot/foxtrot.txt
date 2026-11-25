@@ -8641,7 +8641,7 @@ flamberge 3
 freightless 4
 filterability 2
 fourposters 1
-futharks
+futharks 1
 feet 2
 fuzes 3
 finites 2
