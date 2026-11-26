@@ -8131,7 +8131,7 @@ enew 1
 exhumator 2
 episclera 3
 ell
-episcopacy 4
+episcopacy 5
 expensilation 1
 ensanguined 1
 enaction 1
