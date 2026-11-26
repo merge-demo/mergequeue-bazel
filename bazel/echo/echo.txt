@@ -6618,7 +6618,7 @@ equiponderant 3
 excluding
 echinorhynchus 1
 esperantidist 2
-embryous
+embryous 1
 enseam 1
 egyptianism
 expulsatory 2
