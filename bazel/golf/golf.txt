@@ -6648,7 +6648,7 @@ gunnysack 4
 gondolas 3
 guidons 6
 glasseye 4
-gondoletta 4
+gondoletta 5
 guffs 4
 gangliform 3
 gamboller 2
