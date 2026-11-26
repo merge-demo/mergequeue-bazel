@@ -21434,7 +21434,7 @@ aspectant 3
 aspects
 acyclically 1
 aspens 2
-asper
+asper 1
 amnesties
 asperate 2
 artefact 1
