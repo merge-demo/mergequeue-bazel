@@ -7734,7 +7734,7 @@ coinhering
 charkhas
 capromys 3
 ceroplasty
-ceroplastic
+ceroplastic 1
 ceroplastics
 cyanocrystallin 1
 cerosin 1
