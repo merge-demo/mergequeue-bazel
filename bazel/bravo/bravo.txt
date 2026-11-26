@@ -4112,7 +4112,7 @@ beswarms 2
 botulinum 1
 beardy 1
 blanchimeter 2
-bearding 2
+bearding 3
 bonita 2
 balminess
 beslimer
