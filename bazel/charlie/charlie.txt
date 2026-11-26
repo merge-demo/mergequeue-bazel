@@ -238,7 +238,7 @@ cacas
 cacatuidae 1
 cacatuinae
 coactions
-currency
+currency 1
 cacciatora 1
 capeador 1
 cacei 2
