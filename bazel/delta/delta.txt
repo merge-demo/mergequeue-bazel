@@ -12131,7 +12131,7 @@ drapers 2
 doorknobs 3
 dialogism 5
 dp 1
-deutoscolex
+deutoscolex 1
 deescalates
 dorbie
 disparager 1
