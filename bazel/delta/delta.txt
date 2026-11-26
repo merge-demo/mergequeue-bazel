@@ -713,7 +713,7 @@ duro 3
 dopester
 diatom 1
 deadmelt 2
-danceability
+danceability 1
 danceable 1
 demoniacs
 danced 2
