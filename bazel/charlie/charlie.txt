@@ -17176,7 +17176,7 @@ chrononomy 1
 coagulability
 cymrite
 coagulated 2
-coagulates 1
+coagulates 2
 clients
 cowhearted
 coagulation 2
