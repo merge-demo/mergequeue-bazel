@@ -12430,7 +12430,7 @@ bless 5
 bondar 2
 bockerel 5
 bastardly
-bonderize
+bonderize 1
 belabored
 bloodline 2
 bonderman 2
