@@ -8137,7 +8137,7 @@ fire 1
 flexo 2
 flatcaps 1
 faithful 1
-featurette
+featurette 1
 fuchsias 7
 fellable 3
 fanegadas 3
