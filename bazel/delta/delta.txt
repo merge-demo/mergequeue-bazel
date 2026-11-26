@@ -1359,7 +1359,7 @@ discerners 1
 duelli 1
 definer
 dauphine 2
-dauphines
+dauphines 1
 drooping 5
 drawboard
 drapable 1
