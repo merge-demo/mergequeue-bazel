@@ -18674,7 +18674,7 @@ dwarfisms
 dermopteran 1
 darwinically
 detersively
-dwarfs
+dwarfs 1
 diaulos
 dwindled 4
 dwindlement
