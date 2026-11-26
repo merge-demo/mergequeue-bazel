@@ -13689,7 +13689,7 @@ explorativeness 2
 externalities 3
 externalization 4
 eupractic 1
-externalized
+externalized 1
 externalizes 1
 earbash 3
 exocardial 2
