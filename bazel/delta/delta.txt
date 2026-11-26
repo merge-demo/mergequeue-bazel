@@ -3863,7 +3863,7 @@ deionize 1
 degraduation 2
 dopatta
 decastyle 3
-dephlegm
+dephlegm 1
 diomedeidae 2
 deselects
 disinteresting
