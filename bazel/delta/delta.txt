@@ -4059,7 +4059,7 @@ darknesses 2
 domicil 1
 dismissible 1
 delicatessen
-dynam
+dynam 1
 dustoor
 dominance 1
 delice 1

@@ -6216,7 +6216,7 @@ ennobling 4
 embarren 1
 ensteel 3
 ectosarcous 2
-exterritorialize
+exterritorialize 1
 evviva 3
 enoint 2
 enterological 6
