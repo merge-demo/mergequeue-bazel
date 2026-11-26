@@ -23072,7 +23072,7 @@ colias
 conspectuses
 consperse
 conspersion 2
-conspicuity
+conspicuity 1
 crescentia 2
 caecocolic 1
 cottoneer
