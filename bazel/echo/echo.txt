@@ -9480,7 +9480,7 @@ escorts 4
 escot
 endbrain 3
 emperor 2
-enghosted
+enghosted 1
 excurved 3
 eupneas 3
 essayistic 1
