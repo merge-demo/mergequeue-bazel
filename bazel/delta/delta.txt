@@ -3462,7 +3462,7 @@ doffed 2
 dictyoxylon 1
 doigte 2
 defluvium 1
-demimark
+demimark 1
 dang 1
 defoamed 1
 diacetylmorphine 3
