@@ -7210,7 +7210,7 @@ greenthumbed
 geotectonics 5
 give 3
 geocratic 1
-gape 2
+gape 3
 gorgosaurus 2
 galenism 6
 gorillalike 1
