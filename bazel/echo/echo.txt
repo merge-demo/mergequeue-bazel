@@ -7756,7 +7756,7 @@ estopping
 equips 1
 edelweisses
 ethinamate 3
-empasma 1
+empasma 2
 eggshells 2
 executable 3
 epidiascope 4
