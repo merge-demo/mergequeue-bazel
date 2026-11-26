@@ -19759,7 +19759,7 @@ combustible
 cornloft 1
 chambellan 1
 cressed 1
-combustibleness
+combustibleness 1
 combusting 2
 combustion 2
 combustious
