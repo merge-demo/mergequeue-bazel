@@ -20640,7 +20640,7 @@ cryptographist
 complaint 2
 capibara
 counteranswer 1
-complaintiveness
+complaintiveness 1
 complaints
 cabinetmake
 complaisant 1
