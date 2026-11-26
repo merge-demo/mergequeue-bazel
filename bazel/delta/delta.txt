@@ -17057,7 +17057,7 @@ despume 3
 dryades 2
 dryadetum 2
 damners 1
-dentistic
+dentistic 1
 dactyliographer
 dribbles 3
 dosers 4
