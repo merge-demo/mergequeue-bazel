@@ -9754,7 +9754,7 @@ feldspar 2
 functionalities 6
 frapp 3
 fallacies 1
-falchion
+falchion 1
 fessways 5
 foolhardiest 2
 fascet 1
