@@ -4645,7 +4645,7 @@ diswench
 demiscible 4
 dicebox 1
 denticulate 2
-demise 2
+demise 3
 demisecond 1
 demised
 depas 2
