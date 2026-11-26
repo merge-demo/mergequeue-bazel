@@ -13034,7 +13034,7 @@ elites 1
 engrapple 2
 enhazard 2
 entrusted 2
-epinaoi
+epinaoi 1
 eraser 3
 escoba 4
 emrode 4
