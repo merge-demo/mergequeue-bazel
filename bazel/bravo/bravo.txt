@@ -7496,7 +7496,7 @@ beurre 2
 benamidar 2
 bestowage 2
 beveil 2
-bevelled
+bevelled 1
 bardism 1
 belayer 1
 beveller
