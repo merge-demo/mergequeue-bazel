@@ -9712,7 +9712,7 @@ fissionability
 festinate 4
 floatable 3
 footmanry 5
-faunch 2
+faunch 3
 facework 2
 fluviograph 3
 flabs 1
