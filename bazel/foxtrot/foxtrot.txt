@@ -6650,7 +6650,7 @@ footpath 4
 fillip 4
 forevouched 1
 foehnlike 3
-foeless 3
+foeless 4
 faulted 3
 fulgurating 2
 flossing 2
