@@ -4309,7 +4309,7 @@ gyneolater 1
 guinfo 2
 gelsemia 3
 germicide
-gynetype 2
+gynetype 3
 gymnadenia 3
 glazieries 3
 glazings 2
