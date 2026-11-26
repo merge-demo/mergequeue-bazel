@@ -18204,7 +18204,7 @@ coexerts 1
 coexistence 1
 coexisting 1
 coexpand
-coexpanded
+coexpanded 1
 coexperiencer 1
 coextend 1
 catchment 1
