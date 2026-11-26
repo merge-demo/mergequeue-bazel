@@ -1635,7 +1635,7 @@ elchee 1
 exotoxin 2
 ehretiaceae 2
 env 5
-entrez 2
+entrez 3
 enterobacterium 3
 eyah 2
 embliss 1
