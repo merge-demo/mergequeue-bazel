@@ -6590,7 +6590,7 @@ calamitoid 1
 cdf
 carid 1
 cheroot 3
-cdg 1
+cdg 2
 cdr 1
 cesspool 2
 cosmonaut 1
