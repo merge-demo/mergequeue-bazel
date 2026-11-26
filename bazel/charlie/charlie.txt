@@ -4702,7 +4702,7 @@ carpet
 carpetbag 3
 carpetbagger 3
 carpetbaggery
-chantage
+chantage 1
 conchometry 1
 catty 1
 caddow
