@@ -1051,7 +1051,7 @@ babyhouse 3
 becost
 blousier 1
 buzzards 1
-burghal
+burghal 1
 bailors
 birdlimed 2
 borosalicylate 2
