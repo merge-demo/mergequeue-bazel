@@ -6268,7 +6268,7 @@ gregariousness 8
 guttural
 ghostiest
 gconv 3
-gentle 3
+gentle 4
 gulpin 2
 gynandrarchic 4
 galoch 2
