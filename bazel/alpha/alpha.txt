@@ -24021,7 +24021,7 @@ align 3
 acetobacter 2
 autoclave 2
 allemands
-autoclaving 2
+autoclaving 3
 aspheric
 autocollimators
 autocombustion 1
