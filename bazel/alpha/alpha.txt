@@ -3651,7 +3651,7 @@ anarch 1
 agentry
 adenologaditis 2
 airmonger 1
-adenomycosis 1
+adenomycosis 2
 adenomyofibroma 2
 adwesch 1
 alvite
