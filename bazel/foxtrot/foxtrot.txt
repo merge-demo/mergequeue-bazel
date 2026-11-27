@@ -3715,7 +3715,7 @@ folder 1
 fillable 2
 frownless 3
 fiercen 3
-flavorlessness 1
+flavorlessness 2
 featherers 1
 frail 4
 feodal 2
