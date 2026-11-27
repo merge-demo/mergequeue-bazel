@@ -9307,7 +9307,7 @@ chauffeured
 calothrix
 crankplate 1
 chauffeurship 1
-chauffeuse 1
+chauffeuse 2
 civy
 carcoon 3
 cerris 1
