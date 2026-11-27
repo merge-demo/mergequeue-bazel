@@ -20335,7 +20335,7 @@ choruser 1
 coeloblastula 1
 couseranite
 chakra 3
-communize
+communize 1
 catholicoses
 communized 1
 commutability
