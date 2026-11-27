@@ -9393,7 +9393,7 @@ fileted
 facing 4
 fettler 2
 foxholes 4
-foreweigh 2
+foreweigh 3
 flubbing
 fidgeter 6
 forbye 4
