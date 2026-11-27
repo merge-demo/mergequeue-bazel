@@ -16009,7 +16009,7 @@ direct 5
 double 2
 demos 2
 dotter 3
-detrimentality
+detrimentality 1
 doubleheartedness 1
 doddypoll
 doubleyou 2
