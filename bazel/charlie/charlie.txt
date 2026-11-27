@@ -15998,7 +15998,7 @@ canniness 1
 clerstory 1
 clansmen 1
 cyamelid 1
-coolheadedness
+coolheadedness 1
 cleruchy
 connach 1
 crossbirth
