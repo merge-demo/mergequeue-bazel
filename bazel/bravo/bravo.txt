@@ -13764,7 +13764,7 @@ bestrowed 3
 bovinities 1
 begazes 2
 buffet 3
-blesseder 2
+blesseder 3
 bedlam
 bogs
 boatful 4
