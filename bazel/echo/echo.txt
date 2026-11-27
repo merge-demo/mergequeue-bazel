@@ -816,7 +816,7 @@ epispadias 2
 edaphically 3
 euglenidae 4
 earthquave 2
-ectypal
+ectypal 1
 ectype 1
 enwrite 3
 epizoa 1
