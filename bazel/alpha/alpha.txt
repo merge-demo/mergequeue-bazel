@@ -9945,7 +9945,7 @@ amaze 1
 airlocks
 akroterial 2
 autotrophy 2
-addict
+addict 1
 amplitudes 1
 anatomicopathological 1
 altoun
