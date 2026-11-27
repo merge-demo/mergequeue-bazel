@@ -9865,7 +9865,7 @@ chemolyze 1
 correspondentially
 clamp
 chemophysiology 2
-chemoprophyalctic
+chemoprophyalctic 1
 cycle 1
 chemoprophylactic
 cruiser 2
