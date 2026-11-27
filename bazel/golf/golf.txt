@@ -2409,7 +2409,7 @@ gloppy
 grow 3
 guianese 3
 groomed 2
-gauk
+gauk 1
 gruesomer
 gleemaiden 2
 gyrencephalous 2
