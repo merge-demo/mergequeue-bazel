@@ -30763,7 +30763,7 @@ cuitlateco
 correctional 3
 chloroauric
 crs 2
-colonaded
+colonaded 1
 creoleize
 cuitling 1
 cuittikin 1
