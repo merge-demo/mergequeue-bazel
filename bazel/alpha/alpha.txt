@@ -12698,7 +12698,7 @@ acetylize 1
 azox 2
 attle 2
 angelize
-alliterated
+alliterated 1
 angelized 1
 angellike 2
 auf 1
