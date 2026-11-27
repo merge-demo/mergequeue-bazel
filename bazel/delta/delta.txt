@@ -18568,7 +18568,7 @@ decentration
 dush 2
 dusked 1
 ditchdigger 1
-dissimilitude
+dissimilitude 1
 dusky
 dessil 2
 dozer 2
