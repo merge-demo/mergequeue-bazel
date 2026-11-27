@@ -7066,7 +7066,7 @@ endotropic 1
 environment 2
 embolic 3
 entwines 1
-epinikian
+epinikian 1
 enzymolytic 2
 excitomuscular 1
 encompassed 1
