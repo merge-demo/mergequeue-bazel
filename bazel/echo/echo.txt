@@ -1790,7 +1790,7 @@ entericoid 2
 epigraphical 3
 engravers 4
 embankments
-electrification 2
+electrification 3
 encompasser 2
 enable 1
 estimates 4
