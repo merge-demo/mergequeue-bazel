@@ -19090,7 +19090,7 @@ aristocraticness
 allocute 1
 absorbant 2
 alkylamino 5
-alphanumeric
+alphanumeric 1
 agritos 1
 actu 2
 amendable 1
