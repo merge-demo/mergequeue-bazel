@@ -13820,7 +13820,7 @@ diatomic 3
 dryers 1
 doable 1
 delphinin
-distanceless 1
+distanceless 2
 distancy 1
 dissimilar 2
 diabolarchy
