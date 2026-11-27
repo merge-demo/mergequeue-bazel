@@ -11556,7 +11556,7 @@ extraburghal 3
 elenchus 1
 encodement 3
 embrittled 1
-errantness
+errantness 1
 ennoy 2
 evocator 2
 evoe 4
