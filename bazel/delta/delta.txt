@@ -10090,7 +10090,7 @@ dirls 2
 dogfight 1
 dilatable 1
 dynamomorphic 3
-dislustring 1
+dislustring 2
 dynamophone
 decentralised 2
 dynamos 1
