@@ -16449,7 +16449,7 @@ cloamen 1
 christliness 3
 clobber
 clobbers
-clochette
+clochette 1
 clockbird
 comodato
 caponizes 1
