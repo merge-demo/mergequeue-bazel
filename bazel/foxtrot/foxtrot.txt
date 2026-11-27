@@ -11061,7 +11061,7 @@ flamenship 3
 frontality 1
 funambuloes 3
 filled 1
-fixups
+fixups 1
 functionated 2
 fogbow 4
 fructed 4
