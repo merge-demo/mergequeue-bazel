@@ -12521,7 +12521,7 @@ coadjacency 1
 chromoscopy 1
 capacitances 1
 coobah 1
-chromosomally 1
+chromosomally 2
 celoscope
 cornercap 1
 collophore 1
