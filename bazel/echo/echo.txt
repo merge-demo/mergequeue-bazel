@@ -8425,7 +8425,7 @@ epulones 3
 exchange 3
 electrizer 1
 evisceration 2
-egyptianize 1
+egyptianize 2
 equip 1
 enjoyment 1
 eglogue 4
