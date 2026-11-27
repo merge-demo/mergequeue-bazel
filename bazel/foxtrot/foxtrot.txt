@@ -10383,7 +10383,7 @@ fronting
 fizzle 2
 focus 1
 furoid 2
-feedable
+feedable 1
 feared 3
 frangipanis 4
 fatalist 2
