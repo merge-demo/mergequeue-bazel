@@ -17124,7 +17124,7 @@ apogeotropism 1
 apogon
 afterfuture
 apogonid
-afterdrain
+afterdrain 1
 acquirement 1
 apographic 1
 apographical 1
