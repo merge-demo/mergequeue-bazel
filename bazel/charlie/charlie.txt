@@ -30794,7 +30794,7 @@ culices 1
 cramble
 cytoparaplastin 1
 culicifugal 1
-culicifuge
+culicifuge 1
 culicinae 1
 canisiana 2
 cistic 2
