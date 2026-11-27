@@ -4478,7 +4478,7 @@ graves 2
 generaliter 1
 greffier 4
 graveyard 3
-gipsydom 2
+gipsydom 3
 giddyhead 5
 gepoun 1
 gugu 2
