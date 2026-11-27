@@ -7075,7 +7075,7 @@ entry 3
 epris 3
 expansionary 1
 exemptile 2
-earthfast 1
+earthfast 2
 experiencer 1
 enumeration 3
 elsholtzia 1
