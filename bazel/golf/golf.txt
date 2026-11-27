@@ -9335,7 +9335,7 @@ gront 1
 gamodeme 3
 genuflect 4
 gangtide 5
-gradines
+gradines 1
 geronomite 2
 glossas 1
 goldurn 2
