@@ -6731,7 +6731,7 @@ gastronephritis 1
 gonidic 1
 genes 2
 gauges 2
-gyrostats 6
+gyrostats 7
 glomerate 4
 globulimeter 4
 geyseral 3
