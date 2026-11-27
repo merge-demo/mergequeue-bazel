@@ -6034,7 +6034,7 @@ animalcular 1
 anatomists 1
 arioso
 agility
-auxotrophic
+auxotrophic 1
 antemortal 1
 agilities 1
 attorneyship 2
