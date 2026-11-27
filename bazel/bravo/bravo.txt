@@ -4069,7 +4069,7 @@ boldness 4
 begottenness 1
 bedeafen 2
 beancod 4
-beaner
+beaner 1
 beanery
 bolewort
 beanfield 1
