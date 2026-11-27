@@ -16944,7 +16944,7 @@ bugout 5
 bugs 2
 bugweed 2
 blacktopped 2
-bugwort
+bugwort 1
 banca 3
 biographic 5
 baganda
