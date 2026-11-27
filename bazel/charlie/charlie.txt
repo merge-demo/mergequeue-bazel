@@ -28907,7 +28907,7 @@ crewneck
 capsheaf 2
 chaetognathan 3
 crex 3
-cry
+cry 1
 crikey 2
 cryable
 cholestane
