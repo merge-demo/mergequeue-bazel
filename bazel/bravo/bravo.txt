@@ -7166,7 +7166,7 @@ bernicles 2
 bierstube
 bestay 5
 bestamp 3
-bestand
+bestand 1
 bestatued 1
 burrito 1
 brogues
