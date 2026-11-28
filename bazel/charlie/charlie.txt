@@ -11260,7 +11260,7 @@ curly
 chlorination 1
 chlorinator 1
 chlorines
-chicote
+chicote 1
 counterion
 chlorite 1
 coenures
