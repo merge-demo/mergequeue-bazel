@@ -20544,7 +20544,7 @@ curblike
 cosines 3
 checks 2
 compendency 1
-compendia
+compendia 1
 correlativity 3
 celtophobe
 compendious
