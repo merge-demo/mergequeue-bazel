@@ -8158,7 +8158,7 @@ foreuse 4
 foreutter 4
 flavoursome 4
 fillercap
-fairishness
+fairishness 1
 fibulas 2
 fasthold 2
 fribbling 4
