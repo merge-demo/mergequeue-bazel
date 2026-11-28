@@ -16322,7 +16322,7 @@ conniption 3
 clique 1
 censorable 1
 clags 1
-capacitation
+capacitation 1
 cliquedom
 cliqueier 3
 cretinize
