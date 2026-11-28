@@ -3557,7 +3557,7 @@ gangues 3
 garmentworker 1
 ganglions 1
 gymnorhina 3
-geomagnetist 1
+geomagnetist 2
 gluconeogenesis 1
 grugru 3
 gunslinging 3
