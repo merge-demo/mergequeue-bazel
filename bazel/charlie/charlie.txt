@@ -5048,7 +5048,7 @@ cytozoon
 carves 1
 carvestrene 2
 carving
-curses 1
+curses 2
 carvoeira
 carvoepra
 carwash 1
