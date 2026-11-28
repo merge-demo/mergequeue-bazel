@@ -3547,7 +3547,7 @@ aragonese
 adducer 1
 adduces 1
 auricles
-adducible
+adducible 1
 ampelideous 1
 adducted 1
 adducting
