@@ -11944,7 +11944,7 @@ chorial
 cilician
 choriamb
 choriambic 1
-chorometry 2
+chorometry 3
 coaggregated
 confabulating 1
 confarreate 1
