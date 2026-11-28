@@ -1555,7 +1555,7 @@ deactivation
 deactivators
 distressedness 2
 doublure 5
-deadlier 1
+deadlier 2
 deaden 3
 droops 2
 docked 1
