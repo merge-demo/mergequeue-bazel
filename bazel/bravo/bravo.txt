@@ -786,7 +786,7 @@ baphometic 1
 baeria 1
 backcomb 3
 begod
-browniness 1
+browniness 2
 bldr 1
 blautok 1
 baetulus
