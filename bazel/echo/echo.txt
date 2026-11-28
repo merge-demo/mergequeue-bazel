@@ -13871,7 +13871,7 @@ euglobulin
 expo
 etamine 3
 exosmosis 1
-emollient
+emollient 1
 endolymphangial 1
 extradited 3
 extradomestic 2
