@@ -2300,7 +2300,7 @@ cytopahgous 1
 canakin
 canakins
 canal
-clerks
+clerks 1
 cookeys
 canalatura 1
 completer
