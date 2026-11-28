@@ -1432,7 +1432,7 @@ cornerwise
 calypso 1
 copals 2
 calypsoes 3
-calypsonian
+calypsonian 1
 calypsos 2
 charbon 1
 cholic 1
