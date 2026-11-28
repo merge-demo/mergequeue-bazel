@@ -3384,7 +3384,7 @@ adjugate
 almocrebe
 asterite 1
 araneidan
-allegorize
+allegorize 1
 antipope
 arbored 2
 anaqua 2
