@@ -4896,7 +4896,7 @@ congregants
 carrotins 1
 carrotweed 2
 corporation 1
-canonization
+canonization 1
 clomben
 carrotwood
 carrousel 1
