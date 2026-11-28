@@ -13172,7 +13172,7 @@ ciceronianize
 ciceronically 1
 clearskins
 cichlid 1
-cichlidae
+cichlidae 1
 colocynthin 2
 cicisbeism 1
 cicisbeo
