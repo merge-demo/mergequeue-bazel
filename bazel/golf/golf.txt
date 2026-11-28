@@ -1443,7 +1443,7 @@ gnosticity 3
 gadget 4
 germinate 1
 guild 1
-garbages
+garbages 1
 gulfy 1
 grosgrained 5
 gainward 2
