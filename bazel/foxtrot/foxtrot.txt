@@ -1177,7 +1177,7 @@ forcer 2
 filicineae 4
 fraying 1
 friponerie 2
-focalize
+focalize 1
 funder 2
 funaria 5
 fifths 2
