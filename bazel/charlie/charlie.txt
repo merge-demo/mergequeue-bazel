@@ -5483,7 +5483,7 @@ conductances
 cellar 1
 casuistries 1
 casus
-cat
+cat 1
 catabaptist 3
 contos 3
 catabases
