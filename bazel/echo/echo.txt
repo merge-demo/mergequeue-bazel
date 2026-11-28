@@ -11314,7 +11314,7 @@ evaporators 2
 ecurie 2
 englander
 enrank
-entirety
+entirety 1
 eightfold 2
 eagles 1
 exalbuminous
