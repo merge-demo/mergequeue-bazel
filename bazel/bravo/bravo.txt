@@ -17779,7 +17779,7 @@ basementless 1
 base 1
 braiders 3
 burrhead 4
-burrheaded 1
+burrheaded 2
 bedcovers 3
 burrheadedness 2
 baroneted 2
