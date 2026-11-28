@@ -6234,7 +6234,7 @@ execs 2
 ellipsoid
 erasure
 exodist 1
-enophthalmus 2
+enophthalmus 3
 enorm 1
 explorement 1
 exhalations 5
