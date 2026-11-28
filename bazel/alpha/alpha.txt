@@ -10010,7 +10010,7 @@ abseiled
 albacore
 ambidexterity 3
 anthocephalous
-ambidexterities
+ambidexterities 1
 andorite 2
 anthracemia 1
 ambidextral 1
