@@ -6262,7 +6262,7 @@ greediness 2
 gadslid 1
 gobber 1
 gazettes 2
-goateed 4
+goateed 5
 guitarlike
 gregariousness 8
 guttural
