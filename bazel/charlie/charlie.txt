@@ -25922,7 +25922,7 @@ corticine
 corticipetal 1
 collegiate 1
 corticium 2
-corticoafferent
+corticoafferent 1
 corticoline 3
 calories
 corticolous 2
