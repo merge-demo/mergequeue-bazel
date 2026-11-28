@@ -26038,7 +26038,7 @@ cosettler 1
 chapters
 cosh 1
 coshed
-cosher
+cosher 1
 countermanded 1
 chestiness 2
 cupreine
