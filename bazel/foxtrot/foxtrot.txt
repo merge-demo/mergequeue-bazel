@@ -2069,7 +2069,7 @@ feldspathoid 3
 foys 3
 forehook 5
 fwelling 3
-flocky
+flocky 1
 foggara
 filibuster 2
 feudalisation
